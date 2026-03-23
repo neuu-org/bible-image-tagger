@@ -138,14 +138,8 @@ def enrich_single_tag(tag: dict, matcher: GazetteerMatcher) -> dict:
     else:
         enriched["event"] = {"name": "", "canonical_id": None, "type": None, "match_confidence": "unmatched"}
 
-    # --- OSIS refs (pass through) ---
-    enriched["osis_refs"] = tag.get("osis_refs", [])
-
-    # --- Testament (pass through) ---
-    enriched["testament"] = tag.get("testament", "UNKNOWN")
-
-    # --- Themes (pass through) ---
-    enriched["themes"] = tag.get("themes", [])
+    # --- Tags (pass through, supports both "tags" and legacy "themes" key) ---
+    enriched["tags"] = tag.get("tags", tag.get("themes", []))
 
     # --- Symbols ---
     enriched_symbols = []
@@ -176,9 +170,6 @@ def enrich_single_tag(tag: dict, matcher: GazetteerMatcher) -> dict:
     # --- Description (truncate if needed) ---
     description = tag.get("description", "")
     enriched["description"] = truncate_description(description)
-
-    # --- Confidence (pass through) ---
-    enriched["confidence"] = tag.get("confidence", 0.0)
 
     # --- Discovered entities ---
     enriched["entities_discovered"] = entities_discovered

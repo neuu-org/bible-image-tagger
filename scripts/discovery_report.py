@@ -50,9 +50,6 @@ def generate_report(enriched_dir: Path, output_dir: Path):
     total_event_mentions = 0
     total_images = 0
 
-    # Confidence distribution
-    confidence_buckets = {"high": 0, "medium": 0, "low": 0}
-    testament_dist: Counter = Counter()
     top_characters: Counter = Counter()
     top_events: Counter = Counter()
     top_symbols: Counter = Counter()
@@ -63,18 +60,6 @@ def generate_report(enriched_dir: Path, output_dir: Path):
 
         total_images += 1
         image_key = tag.get("_meta", {}).get("key", ef.stem)
-
-        # Confidence
-        conf = tag.get("confidence", 0)
-        if conf >= 0.7:
-            confidence_buckets["high"] += 1
-        elif conf >= 0.3:
-            confidence_buckets["medium"] += 1
-        else:
-            confidence_buckets["low"] += 1
-
-        # Testament
-        testament_dist[tag.get("testament", "UNKNOWN")] += 1
 
         # Characters
         for char in tag.get("characters", []):
@@ -141,8 +126,6 @@ def generate_report(enriched_dir: Path, output_dir: Path):
             "unmatched": match_stats.get("unmatched", 0),
             "match_rate": matched / total_mentions if total_mentions else 0,
         },
-        "confidence_distribution": confidence_buckets,
-        "testament_distribution": dict(testament_dist.most_common()),
         "top_characters": dict(top_characters.most_common(30)),
         "top_events": dict(top_events.most_common(30)),
         "top_symbols": dict(top_symbols.most_common(30)),
@@ -165,8 +148,6 @@ def generate_report(enriched_dir: Path, output_dir: Path):
     print(f"    Fuzzy:       {match_stats.get('fuzzy', 0)}")
     print(f"    Unmatched:   {match_stats.get('unmatched', 0)}")
 
-    print(f"\n  Confidence: high={confidence_buckets['high']} medium={confidence_buckets['medium']} low={confidence_buckets['low']}")
-    print(f"  Testament: {dict(testament_dist.most_common())}")
 
     print(f"\n  New entity candidates: {len(candidates)}")
     add_count = sum(1 for c in candidates if c["recommendation"] == "ADD_TO_GAZETTEERS")
