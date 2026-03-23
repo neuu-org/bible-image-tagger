@@ -78,11 +78,18 @@ async def tag_single_image(
                         system_instruction=TAGGING_SYSTEM_INSTRUCTION,
                         temperature=0.1,
                         max_output_tokens=1024,
+                        thinking_config=types.ThinkingConfig(thinking_budget=0),
                         response_mime_type="application/json",
                         response_schema=TAG_SCHEMA,
                     ),
                 )
-                result = json.loads(response.text)
+                text = response.text.strip()
+                # Handle markdown fences if model wraps output
+                if text.startswith("```"):
+                    text = "\n".join(text.split("\n")[1:])
+                    if text.endswith("```"):
+                        text = text[:-3].strip()
+                result = json.loads(text)
                 result["_meta"] = {
                     "key": metadata.get("key", "unknown"),
                     "title": metadata.get("title"),
