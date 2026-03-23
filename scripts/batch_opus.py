@@ -43,8 +43,15 @@ write it using the Write tool.
   ],
   "event": "Biblical event or scene name",
   "tags": ["tag1", "tag2", ...],
-  "symbols": ["symbol1", "symbol2", ...],
-  "description": "Visual description max 600 chars. ONLY what you see. No art style/artist.",
+  "symbols": ["symbol — its theological meaning"],
+  "description": "Visual-only description, max 600 chars. What you SEE. No art style/artist/technique.",
+  "theological_description": "What a theologian, mystic, or deeply scripturally-literate person would read into this image. Include typological connections, patristic readings, scriptural allusions. Can be empty string if not applicable.",
+  "scripture_refs": [
+    {{"ref": "BOOK.CH.VS", "relevance": "primary|typological|allusion", "reason": "Why this connects"}}
+  ],
+  "scene_type": "narrative|portrait|allegory|symbolic|liturgical|landscape",
+  "mood": ["emotion1", "emotion2"],
+  "period": "Creation|Antediluvian|Patriarchal|Exodus|Conquest|Monarchy|Exile|Prophetic|Intertestamental|Gospel|Apostolic|Eschatological|Liturgical|Non-biblical",
   "_meta": {{
     "key": "IMAGE_KEY",
     "title": "...",
@@ -54,22 +61,34 @@ write it using the Write tool.
 }}
 ```
 
-## Tag rules:
-- Include BOTH visual AND deep theological/symbolic tags
-- Capture: typology, prefigurations, scriptural allusions, symbolic meanings, \
-patristic interpretations, theological tensions
-- A dove = Holy Spirit, peace, Noah's covenant. A cross = redemption, atonement. \
-An apple with Christ = new Adam redeeming the fall. Water = baptism, judgment, purification. \
+## Field rules:
+
+**tags**: Include BOTH visual AND deep theological/symbolic tags. \
+Capture typology, prefigurations, scriptural allusions, symbolic meanings, \
+patristic interpretations. A dove = Holy Spirit. A cross = redemption. \
+An apple with Christ = new Adam redeeming the fall. Water = baptism/judgment. \
 Fish = ICHTHYS. Lamb = Agnus Dei. Bread/wine = Eucharist.
-- Include specific scripture references as tags when relevant (e.g. "1 Peter 3:20-21")
 
-## Symbol rules:
-- List objects with biblical symbolic meaning
-- Include subtle ones: colors, gestures, natural elements, architectural elements
+**symbols**: Format "name — meaning". List objects with biblical symbolic meaning. \
+Include subtle ones: colors, gestures, natural elements, architectural elements.
 
-## Description rules:
-- ONLY what you see. Max 600 chars. No art history.
-- Describe as if for someone who cannot see the image.
+**description**: ONLY what you see. Max 600 chars. No art history. \
+Describe as if for someone who cannot see the image.
+
+**theological_description**: The DEEP theological reading. What would a Church Father, \
+a mystic, or a biblical scholar see in this image that a casual viewer would miss? \
+Typological connections (OT→NT), patristic interpretations, symbolic layers.
+
+**scripture_refs**: Use OSIS abbreviations (GEN, EXO, 1KI, MAT, JHN, REV, etc). \
+Relevance: "primary" = direct narrative source, "typological" = OT/NT type connection, \
+"allusion" = thematic echo. Include reason for each.
+
+**scene_type**: narrative (story scene), portrait (single figure), allegory (abstract concept), \
+symbolic (symbolic composition), liturgical (worship/sacrament), landscape (setting-focused).
+
+**mood**: 2-4 emotional tones of the scene.
+
+**period**: Biblical time period of the depicted scene.
 
 Process ALL images and write ALL output files."""
 
