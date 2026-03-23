@@ -143,18 +143,36 @@ def enrich_single_tag(tag: dict, matcher: GazetteerMatcher) -> dict:
 
     # --- Symbols ---
     enriched_symbols = []
-    for sym_name in tag.get("symbols", []):
-        if not sym_name:
+    for sym_raw in tag.get("symbols", []):
+        if not sym_raw:
             continue
+
+        # Handle Opus-style enriched symbol formats:
+        #   "name — meaning"
+        #   "name (meaning, meaning)"
+        #   "name - meaning"
+        sym_name = sym_raw
+        if " — " in sym_raw:
+            sym_name = sym_raw.split(" — ", 1)[0].strip()
+        elif re.match(r"^[^(]+ \(", sym_raw):
+            sym_name = re.split(r"\s*\(", sym_raw, maxsplit=1)[0].strip()
+        elif " - " in sym_raw:
+            parts = sym_raw.split(" - ", 1)
+            if len(parts[0].split()) <= 4:  # Only split if name part is short
+                sym_name = parts[0].strip()
 
         match = matcher.match_symbol(sym_name)
         entry = {
             "name": sym_name,
+            "original": sym_raw if sym_raw != sym_name else None,
             "canonical_id": match.get("canonical_id"),
             "type": match.get("type"),
             "symbolic_meaning": match.get("symbolic_meaning"),
             "match_confidence": match.get("match_confidence", "unmatched"),
         }
+        # Remove None original to keep clean
+        if entry["original"] is None:
+            del entry["original"]
         enriched_symbols.append(entry)
 
         if not match.get("canonical_id"):
