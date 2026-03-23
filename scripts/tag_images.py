@@ -23,9 +23,11 @@ from config.settings import (
     GEMINI_MODEL,
     HF_DATASET_ID,
     MAX_CONCURRENT_REQUESTS,
+    MAX_OUTPUT_TOKENS,
     OUTPUT_DIR,
     RETRY_ATTEMPTS,
     RETRY_DELAY,
+    SCHEMA_VERSION,
     TAG_SCHEMA,
     TAGGING_PROMPT,
     TAGGING_SYSTEM_INSTRUCTION,
@@ -77,7 +79,7 @@ async def tag_single_image(
                     config=types.GenerateContentConfig(
                         system_instruction=TAGGING_SYSTEM_INSTRUCTION,
                         temperature=0.1,
-                        max_output_tokens=1024,
+                        max_output_tokens=MAX_OUTPUT_TOKENS,
                         thinking_config=types.ThinkingConfig(thinking_budget=0),
                         response_mime_type="application/json",
                         response_schema=TAG_SCHEMA,
@@ -95,6 +97,7 @@ async def tag_single_image(
                     "title": metadata.get("title"),
                     "artist": metadata.get("artist"),
                     "model": GEMINI_MODEL,
+                    "schema_version": SCHEMA_VERSION,
                 }
                 return result
             except json.JSONDecodeError:
