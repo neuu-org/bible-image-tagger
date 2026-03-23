@@ -160,7 +160,97 @@ def generate_report(enriched_dir: Path, output_dir: Path):
             print(f"    {c['occurrences']:>4}x  {c['name']:<30} → {c['suggested_canonical_id']}")
 
     print(f"\n  Report saved to: {report_path}")
+
+    # Export candidates in gazetteer format
+    export_gazetteer_candidates(candidates, output_dir)
     print(f"{'='*60}\n")
+
+
+def export_gazetteer_candidates(candidates: list[dict], output_dir: Path):
+    """Export discovered entities in bible-gazetteers-dataset format.
+
+    Generates ready-to-merge entries for entities/ and symbols/ files.
+    """
+    entities: dict[str, list[dict]] = {
+        "persons": [],
+        "groups": [],
+        "events": [],
+        "angels": [],
+        "deities": [],
+    }
+    symbols: list[dict] = []
+
+    type_to_file = {
+        "PERSON": "persons",
+        "GROUP": "groups",
+        "EVENT": "events",
+        "ANGEL": "angels",
+        "DEITY": "deities",
+    }
+
+    for cand in candidates:
+        suggested_type = cand.get("suggested_type", "UNKNOWN")
+        name = cand.get("name", "")
+        cid = cand.get("suggested_canonical_id", "")
+
+        if suggested_type == "SYMBOL":
+            symbols.append({
+                "canonical_id": cid,
+                "name": name,
+                "type": "OBJECT",
+                "literal_meaning": "",
+                "symbolic_meaning": [],
+                "aliases": [name.lower()],
+                "bible_examples": [],
+                "visual_correlations": [],
+                "sources": ["image_tagger"],
+                "_discovery": {
+                    "occurrences": cand.get("occurrences", 0),
+                    "found_in_images": cand.get("found_in_images", [])[:5],
+                    "context": cand.get("context", ""),
+                },
+            })
+        elif suggested_type in type_to_file:
+            target = type_to_file[suggested_type]
+            entities[target].append({
+                "canonical_id": cid,
+                "name": name,
+                "type": suggested_type,
+                "aliases": [name],
+                "description": "",
+                "categories": [],
+                "key_refs": [],
+                "sources": ["image_tagger"],
+                "_discovery": {
+                    "occurrences": cand.get("occurrences", 0),
+                    "found_in_images": cand.get("found_in_images", [])[:5],
+                    "context": cand.get("context", ""),
+                },
+            })
+
+    # Save
+    gazetteer_dir = output_dir / "gazetteer_candidates"
+    gazetteer_dir.mkdir(parents=True, exist_ok=True)
+
+    total_exported = 0
+
+    for filename, entries in entities.items():
+        if entries:
+            path = gazetteer_dir / f"entities_{filename}.json"
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(entries, f, ensure_ascii=False, indent=2)
+            total_exported += len(entries)
+
+    if symbols:
+        path = gazetteer_dir / "symbols_discovered.json"
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(symbols, f, ensure_ascii=False, indent=2)
+        total_exported += len(symbols)
+
+    if total_exported:
+        print(f"\n  Gazetteer candidates exported: {total_exported} entries")
+        print(f"  Format: ready to merge into bible-gazetteers-dataset")
+        print(f"  Location: {gazetteer_dir}/")
 
 
 def main():
