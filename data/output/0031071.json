@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of the face of Christ",
+  "tags": [
+    "head-of-christ",
+    "portrait",
+    "face-of-god",
+    "incarnation",
+    "vera-icon",
+    "frontal-gaze",
+    "divine-countenance",
+    "devotional-image",
+    "long-hair",
+    "beard",
+    "dark-background",
+    "hypostatic-union",
+    "holy-face"
+  ],
+  "symbols": [
+    "frontal gaze — Christ looking directly at the viewer, establishing personal encounter between the divine and human, the icon as meeting-place",
+    "dark background — the uncreated darkness from which the Light of the World emerges (John 1:5), also the via negativa of apophatic theology",
+    "long hair and beard — the traditional iconographic markers of Christ drawn from the earliest descriptions and the Mandylion tradition",
+    "bare neck without halo — Memling's naturalistic approach emphasizing Christ's true humanity, the kenosis of Philippians 2:7",
+    "cracked paint surface — the passage of time bearing witness to centuries of devotion before this image"
+  ],
+  "description": "An intimate close-up portrait of Christ's face against a nearly black background. The figure has long, wavy brown hair parted at the center, a short beard, and large, soulful eyes that gaze directly at the viewer with quiet intensity. The face is rendered with extraordinary naturalistic detail — soft flesh tones, subtle modeling of the cheekbones and nose, and finely painted lips. The expression is calm, compassionate, and penetrating. The surface of the oil painting shows a fine network of age cracks (craquelure).",
+  "theological_description": "Memling's Head of Christ belongs to the tradition of the Holy Face (Vera Icon), rooted in the legend that Christ's true likeness was miraculously imprinted on Veronica's veil or the Mandylion sent to King Abgar. Theologically, this portrait confronts the viewer with the central mystery of Christianity: the Incarnation. In this face, the invisible God becomes visible (Colossians 1:15, 'the image of the invisible God'). The Gospel of John declares, 'The Word became flesh and dwelt among us, and we beheld His glory' (John 1:14) — this painting is an act of that beholding. The direct frontal gaze creates what the Orthodox tradition calls a 'window into eternity': Christ sees the viewer as the viewer sees Christ, enacting the mutual knowledge described in 1 Corinthians 13:12, 'then I shall know fully, even as I am fully known.' The absence of a halo in Memling's rendering emphasizes the kenotic dimension — Christ in the 'form of a servant' (Philippians 2:7), fully human, approachable, even vulnerable. Yet the quiet authority of the gaze reveals what Thomas confessed: 'My Lord and my God' (John 20:28). The painting mediates between Chalcedonian Christology — true God and true man, without confusion or separation — and devotional practice: the faithful gazing upon the face they will one day see unveiled in glory (1 John 3:2).",
+  "scripture_refs": [
+    {
+      "ref": "Col.1.15",
+      "relevance": "primary",
+      "reason": "Christ as 'the image of the invisible God' — the theological foundation for any portrait of Christ"
+    },
+    {
+      "ref": "Jhn.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation that makes Christ's face visible and paintable"
+    },
+    {
+      "ref": "2Cor.4.6",
+      "relevance": "primary",
+      "reason": "God has shone in our hearts 'to give the light of the knowledge of the glory of God in the face of Jesus Christ'"
+    },
+    {
+      "ref": "Jhn.14.9",
+      "relevance": "primary",
+      "reason": "Jesus tells Philip, 'Whoever has seen me has seen the Father' — the face of Christ as theophany"
+    },
+    {
+      "ref": "Phil.2.6-7",
+      "relevance": "typological",
+      "reason": "The kenosis: Christ taking the form of a servant, His full humanity visible in Memling's naturalistic rendering"
+    },
+    {
+      "ref": "1Jn.3.2",
+      "relevance": "typological",
+      "reason": "The eschatological promise: 'We shall see Him as He is' — this devotional portrait anticipates the beatific vision"
+    },
+    {
+      "ref": "Jhn.20.28",
+      "relevance": "allusion",
+      "reason": "Thomas's confession upon seeing the risen Christ — the gaze of faith recognizing divinity in human form"
+    },
+    {
+      "ref": "1Cor.13.12",
+      "relevance": "allusion",
+      "reason": "Seeing face to face, knowing fully as one is fully known — the mutual gaze between Christ and the beholder"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "intimate",
+    "serene",
+    "penetrating"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0031071",
+    "title": "Head of Christ",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

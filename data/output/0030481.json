@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Saint Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Spectators and officials",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Martyrdom of Saint Sebastian",
+  "tags": [
+    "martyrdom",
+    "saint-sebastian",
+    "Roman-persecution",
+    "arrows",
+    "bound-figure",
+    "military-execution",
+    "classical-architecture",
+    "crowd-scene",
+    "suffering-for-faith",
+    "witness-of-blood",
+    "imitatio-Christi",
+    "monumental-composition",
+    "red-banner"
+  ],
+  "symbols": [
+    "bound and stripped Sebastian — vulnerability of the faithful before worldly power, recalling Christ stripped before crucifixion",
+    "arrows — instruments of martyrdom and the piercing of the righteous by persecutors",
+    "classical columns and architecture — the Roman imperial authority under which Sebastian was condemned",
+    "red banner — Roman military power and the blood of martyrdom",
+    "crowd of onlookers — the world that witnesses and participates in the persecution of the saints",
+    "elevated positioning of authority figure — earthly judgment that contrasts with heavenly vindication",
+    "dramatic light falling on Sebastian — divine favor and glory resting upon the martyr even in suffering"
+  ],
+  "description": "A vast, dramatic composition set within a classical architectural space with large columns and arches. At center, a mostly nude male figure is bound to a column, his body pierced or about to be pierced. Around him swarms a dense crowd of soldiers, officials, and onlookers in richly colored garments — reds, greens, yellows, and whites. At the upper left, a robed figure stands elevated on steps, presiding over the scene. A red military banner rises above the crowd. The architecture recedes into a rocky landscape at upper right.",
+  "theological_description": "The martyrdom of Saint Sebastian, a Roman soldier secretly Christian who was condemned by Emperor Diocletian to be shot with arrows, became one of the most depicted scenes in Christian art. Though Sebastian is a post-biblical figure, his martyrdom is theologically understood through the lens of Christ's own Passion. Like Christ, Sebastian is stripped, bound, and subjected to bodily torment by the agents of imperial power. The arrows that pierce his flesh recall the psalmist's lament in Psalm 38:2, 'your arrows have sunk into me,' while his steadfast endurance mirrors the faithfulness commended in Revelation 2:10: 'Be faithful unto death, and I will give you the crown of life.' Patristic and medieval theology understood every Christian martyr as participating in and completing the sufferings of Christ (Colossians 1:24), making Sebastian's ordeal a visible icon of the Pauline theology that 'we share abundantly in Christ's sufferings' (2 Corinthians 1:5). That Sebastian survived this first execution — tradition holds he was healed by Saint Irene and later clubbed to death — was interpreted as a sign of resurrection power, a foretaste of the general resurrection promised to all who suffer with Christ.",
+  "scripture_refs": [
+    {
+      "ref": "REV.2.10",
+      "relevance": "typological",
+      "reason": "The call to be faithful unto death in exchange for the crown of life, embodied in Sebastian's perseverance under Roman execution"
+    },
+    {
+      "ref": "COL.1.24",
+      "relevance": "typological",
+      "reason": "Paul's theology of completing what is lacking in Christ's afflictions for the sake of the Church, realized in every martyr's suffering"
+    },
+    {
+      "ref": "PSA.38.2",
+      "relevance": "allusion",
+      "reason": "The arrows that have sunk into the psalmist's flesh find literal visual expression in Sebastian's arrow-pierced body"
+    },
+    {
+      "ref": "2CO.1.5",
+      "relevance": "allusion",
+      "reason": "Sharing abundantly in Christ's sufferings — Sebastian's torment images the participatory theology of the Pauline epistles"
+    },
+    {
+      "ref": "ROM.8.36",
+      "relevance": "typological",
+      "reason": "For your sake we are being killed all the day long — Paul quotes Psalm 44:22 to describe the condition of faithful believers under persecution"
+    },
+    {
+      "ref": "REV.6.9-11",
+      "relevance": "allusion",
+      "reason": "The souls of martyrs under the altar who gave their lives for the testimony they held, awaiting heavenly vindication"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violence",
+    "turmoil",
+    "defiance",
+    "solemnity"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0030481",
+    "title": "Martyrdom of Saint Sebastian",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Passion cycle: Nativity, Flagellation, Crucifixion, and Resurrection",
+  "tags": [
+    "Christianity",
+    "Jesus-Christ",
+    "altarpiece",
+    "polyptych",
+    "nativity",
+    "flagellation",
+    "crucifixion",
+    "resurrection",
+    "passion-cycle",
+    "adoration-of-the-magi",
+    "redemption",
+    "liturgical-art",
+    "salvation-history"
+  ],
+  "symbols": [
+    "four-panel altarpiece — the liturgical unfolding of salvation history from Incarnation to Resurrection",
+    "cross — the central axis of redemption, given prominence in the crucifixion panel",
+    "manger scene — the Incarnation, God entering human flesh in humility",
+    "flagellation column — the suffering and scourging of the innocent Lamb",
+    "risen Christ in radiant light — the victory over death and the inauguration of the new creation",
+    "gold gilding on frame — the heavenly glory that frames and sanctifies the earthly narrative of redemption",
+    "sequential panels — the theological narrative arc from birth through death to glorious resurrection"
+  ],
+  "description": "A large four-panel altarpiece (polyptych) displayed in a museum setting, with an ornate carved and gilded wooden frame surmounted by two dark panels with gold decorations. From left to right, the panels depict: the Adoration of the Magi with the Virgin and Child surrounded by richly dressed visitors beneath an architectural canopy; the Flagellation of Christ, showing Jesus being scourged at a column amid a crowd of tormentors in a palatial interior; the Crucifixion with Christ and two thieves on crosses against a dark sky, mourners gathered below; and the Resurrection, with the radiant rise...",
+  "theological_description": "The Herrenberger Altar by Jerg Ratgeb presents the complete arc of salvation history in four interconnected panels, functioning as a visual catechism of Christological doctrine. The leftmost panel, the Adoration of the Magi, announces the Incarnation — the Word made flesh (John 1:14) — and the recognition of Christ's kingship by the Gentile nations, fulfilling Isaiah's prophecy that nations would come to his light (Isaiah 60:3). The Flagellation panel depicts the Suffering Servant of Isaiah 53, 'by his stripes we are healed,' showing Christ enduring the scourging that Pilate ordered (John 19:1). The Crucifixion at the center-right position occupies the theological climax: Christ lifted up between two criminals fulfills his own prophecy in John 12:32, 'And I, when I am lifted up from the earth, will draw all people to myself.' The presence of mourners below, including Mary, corresponds to John 19:25-27. The final panel, the Resurrection, completes the kerygmatic proclamation: Christ is risen, death is defeated, and the guards who witness it fall as though dead (Matthew 28:2-4). Read together as a liturgical whole, the four panels narrate the Paschal Mystery — the passage from Incarnation through suffering and death to triumphant resurrection — that constitutes the heart of Christian faith and worship. The altarpiece functioned as a visual proclamation of the Gospel in the Stiftskirche at Herrenberg, inviting the faithful to contemplate each stage of the divine economy of salvation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Adoration of the Magi panel directly depicts the visit of the wise men to the infant Christ"
+    },
+    {
+      "ref": "JHN.19.1",
+      "relevance": "primary",
+      "reason": "The Flagellation panel shows Pilate's order to scourge Jesus before his crucifixion"
+    },
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "The Crucifixion panel depicts Christ on the cross at Golgotha with mourners below"
+    },
+    {
+      "ref": "MAT.28.1-6",
+      "relevance": "primary",
+      "reason": "The Resurrection panel shows the risen Christ emerging from the tomb while guards fall back in terror"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant prophecy underlies both the Flagellation and Crucifixion panels — wounded for our transgressions"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Nativity/Adoration panel embodies the Word becoming flesh and dwelling among us"
+    },
+    {
+      "ref": "1CO.15.3-4",
+      "relevance": "allusion",
+      "reason": "The four panels together narrate the core kerygma: Christ died, was buried, and rose on the third day according to the Scriptures"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotion",
+    "solemnity",
+    "grandeur",
+    "triumph"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030748",
+    "title": "Herrenberger Altar",
+    "artist": "Jerg Ratgeb",
+    "model": "claude-opus-4-6"
+  }
+}

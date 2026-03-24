@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "Christianity",
+    "Jesus-Christ",
+    "nativity",
+    "adoration-of-the-magi",
+    "epiphany",
+    "Incarnation",
+    "perspective-study",
+    "architectural-drawing",
+    "preparatory-sketch"
+  ],
+  "symbols": [
+    "architectural ruins — the crumbling of the old order with the advent of Christ",
+    "staircase — the connection between earthly and heavenly realms, ascent toward divine revelation",
+    "perspective lines converging — all of history and creation drawn toward the central event of the Incarnation",
+    "gathering crowd — the nations coming to worship the newborn King",
+    "horses and movement — the urgency and dynamism of the Magi's journey to Bethlehem",
+    "arched colonnade — the grandeur of the old world yielding to the humble birth of the Messiah"
+  ],
+  "description": "A detailed preparatory perspective study in pen and ink on paper, showing an elaborate architectural setting for the Adoration of the Magi. The composition features a ruined classical building with arched colonnades on the left, a grand staircase ascending to the right, and numerous figures gathered in the central foreground around what would be the Virgin and Child. Horses, attendants, and kneeling figures populate the scene with dynamic movement.",
+  "theological_description": "Leonardo da Vinci's perspectival study for the Adoration of the Magi reveals the theological architecture beneath the visible narrative. The convergence of all perspective lines toward a single vanishing point mirrors the theological conviction that all of history converges upon the Incarnation — the moment when 'the Word became flesh and dwelt among us' (John 1:14). The classical ruins that dominate the composition carry rich typological meaning: the crumbling pagan world gives way before the advent of Christ, as the old order passes and 'all things become new' (2 Corinthians 5:17). The staircase ascending through the ruins suggests the connection between earth and heaven reopened by the Incarnation, recalling Jacob's ladder (Genesis 28:12) upon which angels ascended and descended — a type that Jesus applies to himself (John 1:51). The Magi, journeying from distant lands to worship the infant King, fulfill Isaiah's prophecy: 'Nations shall come to your light, and kings to the brightness of your rising' (Isaiah 60:3). Their arrival represents the ingathering of the Gentiles into the covenant of grace, a theme central to Matthew's Gospel from its very first chapter. The dynamic movement of horses and figures conveys the urgency of pilgrimage — all creation in motion toward the still center where God lies as an infant in his mother's arms.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Adoration of the Magi — wise men from the East come to worship the newborn King of the Jews"
+    },
+    {
+      "ref": "ISA.60.1-3",
+      "relevance": "typological",
+      "reason": "Nations coming to the light and kings to the brightness of the rising — the Magi fulfill this Isaianic prophecy"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh — the Incarnation that is the theological center toward which the entire composition converges"
+    },
+    {
+      "ref": "GEN.28.12",
+      "relevance": "typological",
+      "reason": "Jacob's ladder connecting heaven and earth, typologically fulfilled in the Incarnation, suggested by the prominent staircase"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish and distant shores bringing tribute, kings of Sheba and Seba presenting gifts — a messianic psalm fulfilled in the Magi's worship"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "allusion",
+      "reason": "The prophecy that from Bethlehem would come a ruler over Israel, whose origins are from of old — the destination of the Magi's journey"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dynamism",
+    "reverence",
+    "grandeur"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030777",
+    "title": "Perspectival study of the Adoration of the Magi",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

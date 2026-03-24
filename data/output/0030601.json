@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Judith",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holofernes",
+      "type": "PERSON"
+    },
+    {
+      "name": "Abra",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Judith with the Severed Head of Holofernes",
+  "tags": [
+    "judith",
+    "holofernes",
+    "beheading",
+    "triumph-over-evil",
+    "female-heroism",
+    "deliverance",
+    "severed-head",
+    "old-testament-heroine",
+    "divine-intervention",
+    "courage",
+    "maidservant"
+  ],
+  "symbols": [
+    "severed head of Holofernes — the defeat of pagan tyranny by the hand of God working through an unlikely instrument",
+    "Judith's elegant attire and jewels — the beauty she employed as a weapon of divine strategy, paralleling how God uses the weak to confound the strong",
+    "the sword — the instrument of divine justice wielded by a woman, reversing worldly expectations of power",
+    "the elderly maidservant Abra — faithful companionship and the communal nature of Israel's deliverance",
+    "dark background and dramatic curtain — the tent of Holofernes where the act of deliverance was accomplished under cover of night",
+    "Judith's calm composure — serene confidence rooted in trust in God, not in personal violence"
+  ],
+  "description": "A young woman of striking beauty stands at center, elegantly dressed in a white and cream gown with a blue sash and red fabric draped around her lower body. Her auburn hair is gathered up with a headband, and she wears a jeweled brooch at her neckline. She gazes outward with a calm, composed expression while holding a large severed male head by its dark hair with her right hand. The head has a full dark beard, closed eyes, and an expression of death. Behind her, an elderly woman in a head covering assists, reaching toward the head. The scene is set against a dark background with heavy drapery.",
+  "theological_description": "The Book of Judith presents one of the most dramatic narratives of divine deliverance in the deuterocanonical literature. Judith, a beautiful and pious widow of Bethulia, ventures alone into the camp of the Assyrian general Holofernes, who besieges her city. Through her beauty, cunning, and unwavering faith in God, she gains access to his tent and beheads him in his drunken stupor. The theological significance is multilayered: Judith embodies the recurring biblical theme of God using the weak and marginalized — a woman, a widow — to overthrow the mighty (cf. 1 Samuel 17, David and Goliath). Her prayer before the act (Judith 13:4-5) makes explicit that the victory belongs to the Lord, not to human strength. The narrative also functions as a type of Israel's perpetual deliverance: whenever God's people face annihilation, the Lord raises up an unexpected savior. In Christian typology, Judith prefigures the Virgin Mary, whose humble obedience crushes the head of the serpent (Genesis 3:15). The maidservant Abra represents the faithful remnant who participates in God's saving acts. Elisabetta Sirani's portrayal emphasizes Judith's serene confidence rather than violence, highlighting the theological conviction that true power flows from trust in God.",
+  "scripture_refs": [
+    {
+      "ref": "JDT.13.6-10",
+      "relevance": "primary",
+      "reason": "Judith strikes Holofernes twice with his own sword and severs his head — the precise moment depicted"
+    },
+    {
+      "ref": "JDT.13.4-5",
+      "relevance": "primary",
+      "reason": "Judith's prayer for strength before the act, affirming that deliverance comes from God alone"
+    },
+    {
+      "ref": "JDT.16.5-6",
+      "relevance": "primary",
+      "reason": "Judith's canticle celebrating that God delivered Israel not through warriors but through the hand of a woman"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The Protoevangelium — the woman crushing the head of the enemy — prefigured typologically in Judith's beheading of Holofernes"
+    },
+    {
+      "ref": "1SA.17.50-51",
+      "relevance": "typological",
+      "reason": "David beheading Goliath with the giant's own sword parallels Judith using Holofernes' own weapon against him"
+    },
+    {
+      "ref": "JDG.4.21",
+      "relevance": "typological",
+      "reason": "Jael killing the enemy commander Sisera — another woman delivering Israel through a bold act of courage"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumph",
+    "composure",
+    "gravity"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0030601",
+    "title": "Judith with the Head of Holofernes",
+    "artist": "Elisabetta Sirani",
+    "model": "claude-opus-4-6"
+  }
+}

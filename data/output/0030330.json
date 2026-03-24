@@ -1,0 +1,111 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Cleopas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Companion Disciple",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Supper at Emmaus",
+  "tags": [
+    "resurrection-appearance",
+    "eucharist",
+    "breaking-of-bread",
+    "recognition",
+    "emmaus",
+    "post-resurrection",
+    "communion-table",
+    "halo",
+    "eye-of-providence",
+    "trinitarian-symbol",
+    "incarnation",
+    "real-presence",
+    "sacramental-theology",
+    "hospitality",
+    "revelation",
+    "christophany"
+  ],
+  "symbols": [
+    "broken bread — the Eucharist and Christ's body broken for the world, the moment of recognition",
+    "Eye of Providence in triangle — the all-seeing God and the Trinity, hovering above Christ as confirmation of His divine identity",
+    "halo — the divine glory of the risen Christ",
+    "table — the altar of Eucharistic sacrifice and communion fellowship",
+    "Christ's raised hand — the priestly gesture of blessing and consecration",
+    "two disciples — the Church receiving the sacrament, the faithful whose eyes are opened through Eucharistic encounter",
+    "attendant figures — the wider community of believers who witness the Eucharistic mystery"
+  ],
+  "description": "The risen Christ sits at the center of a table, his youthful face framed by a golden halo, wearing a blue and purple robe. He raises his right hand in blessing while his left hand rests near the table. Above him floats a luminous triangle containing an eye, radiating golden light. Two disciples sit at the table in the foreground, seen from behind -- one in orange-red drapery, the other in muted green-gray. On the table lie a round plate, a piece of bread, a knife, and a vessel. Behind Christ stand three or four additional attendant figures in subdued garments, partially obscured in shadow.",
+  "theological_description": "The Supper at Emmaus (Luke 24:13-35) is one of the most theologically dense episodes in the Resurrection narratives. Two disciples, walking to Emmaus in grief and confusion after the crucifixion, encounter the risen Jesus but do not recognize Him. Only when He takes bread, blesses it, breaks it, and gives it to them are 'their eyes opened' (Luke 24:31). This moment is the foundation of Eucharistic theology: Christ is made known in the breaking of the bread. The Church Fathers unanimously read this passage as the institution of the ongoing sacramental encounter with the risen Lord. Augustine writes that the disciples' eyes were 'held' not by deception but by divine pedagogy -- they had to learn that Christ is now encountered not in the flesh but in the sacrament. Pontormo's inclusion of the Eye of Providence within a triangle above Christ's head makes the Trinitarian theology explicit: the full Godhead is present in this Eucharistic moment. The Father sees and ratifies; the Son breaks bread; the Spirit opens eyes. The two disciples represent every believer who comes to the Eucharistic table burdened and blind, only to have their eyes opened in the fraction of the bread. The scene also fulfills Jesus's promise in Matthew 18:20 -- 'where two or three are gathered in my name, there am I among them' -- and anticipates the eschatological banquet of Revelation 19:9.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.24.13-35",
+      "relevance": "primary",
+      "reason": "The direct narrative source: the two disciples encounter the risen Christ on the road to Emmaus and recognize Him in the breaking of the bread."
+    },
+    {
+      "ref": "LUK.24.30-31",
+      "relevance": "primary",
+      "reason": "The climactic moment depicted: Jesus takes bread, blesses and breaks it, and their eyes are opened."
+    },
+    {
+      "ref": "LUK.24.35",
+      "relevance": "primary",
+      "reason": "The disciples report 'how he was known to them in the breaking of the bread' -- the Eucharistic recognition that is the theological core of the painting."
+    },
+    {
+      "ref": "MAT.26.26",
+      "relevance": "typological",
+      "reason": "The Last Supper institution narrative -- 'Take, eat; this is my body' -- which the Emmaus breaking of bread recapitulates in the post-Resurrection context."
+    },
+    {
+      "ref": "JHN.6.35",
+      "relevance": "typological",
+      "reason": "Jesus's declaration 'I am the bread of life' finds sacramental fulfillment in the Emmaus meal."
+    },
+    {
+      "ref": "ACT.2.42",
+      "relevance": "typological",
+      "reason": "The early Church devoted to 'the breaking of bread,' the practice inaugurated at Emmaus becoming the liturgical heart of Christian worship."
+    },
+    {
+      "ref": "MAT.18.20",
+      "relevance": "allusion",
+      "reason": "Where two or three are gathered, Christ is present -- fulfilled literally in this intimate gathering."
+    },
+    {
+      "ref": "REV.19.9",
+      "relevance": "allusion",
+      "reason": "The eschatological marriage supper of the Lamb, of which every Eucharistic meal is a foretaste."
+    },
+    {
+      "ref": "GEN.18.1-8",
+      "relevance": "typological",
+      "reason": "Abraham's hospitality to the three divine visitors at Mamre prefigures the disciples' unknowing hospitality to the risen Lord."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "revelatory",
+    "sacred",
+    "intimate",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030330",
+    "title": "Last Supper at Emmaus",
+    "artist": "Jacopo Pontormo",
+    "model": "claude-opus-4-6"
+  }
+}

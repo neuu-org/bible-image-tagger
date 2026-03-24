@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Saint Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Paul",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Meeting of Saints Peter and Paul",
+  "tags": [
+    "apostles",
+    "saint-peter",
+    "saint-paul",
+    "pillars-of-the-church",
+    "fraternal-bond",
+    "contemporary-interpretation",
+    "dark-background",
+    "solemn-figures",
+    "white-garment",
+    "blue-garment",
+    "embrace"
+  ],
+  "symbols": [
+    "white garment on Peter — purity, baptismal innocence, and the fisherman called to holiness",
+    "blue-grey garment on Paul — the contemplative theologian, wisdom, and apostolic authority",
+    "close physical proximity — the unity of the Church founded on the twin pillars of Peter and Paul",
+    "dark background — the hostile world against which the apostles stand as witnesses",
+    "bald head of the older figure — traditional iconographic attribute of Saint Paul",
+    "younger figure's fuller hair — traditional iconographic attribute of Saint Peter"
+  ],
+  "description": "A contemporary painting in muted, washed-out tones showing two male figures standing close together against a dark background. The figure on the left, younger with brown hair and a solemn expression, wears a white robe. The figure on the right, older and balding with a pale complexion, wears a blue-grey garment with a brownish vest or stole. Their bodies are turned slightly toward each other in an attitude of quiet companionship or embrace. The brushwork is loose and painterly, with indistinct edges giving the figures a ghostly, meditative quality.",
+  "theological_description": "Luc Tuymans's contemporary rendering of Saints Peter and Paul strips the apostolic pair to their essential human relationship, removing the traditional attributes of keys and sword in favor of raw, vulnerable presence. Yet the theological weight remains immense. Peter and Paul are the twin pillars of the Church — Peter the rock upon whom Christ built His community (Matthew 16:18), and Paul the apostle to the Gentiles who carried the Gospel to the ends of the known world (Romans 1:1-5). Their pairing has been central to Christian iconography since the earliest centuries, symbolizing the unity of Jewish and Gentile Christianity. Paul's own account of meeting Peter in Jerusalem (Galatians 1:18) and their later confrontation at Antioch (Galatians 2:11-14) reveal a relationship marked by both solidarity and tension — a creative friction that shaped Christian doctrine. Tradition holds that both were martyred in Rome under Nero, their shared feast day (June 29) celebrating the inseparability of their witness. Tuymans captures this bond in the ghostly intimacy of two figures leaning together against the darkness, embodying the Pauline vision that the Church is built upon the foundation of the apostles and prophets (Ephesians 2:20).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ's declaration that Peter is the rock upon which He will build His Church defines Peter's identity in the painting"
+    },
+    {
+      "ref": "GAL.2.7-9",
+      "relevance": "primary",
+      "reason": "Paul recounts the agreement in Jerusalem where Peter was entrusted with the gospel to the circumcised and Paul to the Gentiles, establishing their complementary missions"
+    },
+    {
+      "ref": "EPH.2.20",
+      "relevance": "typological",
+      "reason": "The Church built on the foundation of the apostles and prophets — Peter and Paul as the chief foundation stones"
+    },
+    {
+      "ref": "GAL.1.18",
+      "relevance": "allusion",
+      "reason": "Paul's first visit to Peter in Jerusalem, spending fifteen days with him, suggests the intimate acquaintance depicted here"
+    },
+    {
+      "ref": "2TI.4.6-8",
+      "relevance": "allusion",
+      "reason": "Paul's farewell words about having fought the good fight resonate with the solemn, elegiac mood of the painting"
+    },
+    {
+      "ref": "JHN.21.18-19",
+      "relevance": "allusion",
+      "reason": "Christ's prophecy of Peter's martyrdom adds gravity to the somber tone of this depiction of the apostle"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemnity",
+    "intimacy",
+    "melancholy",
+    "contemplation"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030864",
+    "title": "Petrus & Paulus",
+    "artist": "Luc Tuymans",
+    "model": "claude-opus-4-6"
+  }
+}

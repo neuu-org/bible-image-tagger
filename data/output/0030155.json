@@ -1,0 +1,100 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Attendants and Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "epiphany",
+    "adoration",
+    "divine-light",
+    "gentile-worship",
+    "royal-homage",
+    "incarnation",
+    "revelation-to-the-nations",
+    "messianic-kingship",
+    "gift-giving",
+    "star-of-bethlehem",
+    "kneeling-before-the-christ-child",
+    "universal-salvation",
+    "pilgrimage",
+    "prophecy-fulfilled",
+    "crowd-scene",
+    "ruins"
+  ],
+  "symbols": [
+    "supernatural light radiating from above — the divine glory of God breaking into the world at the Incarnation, the Shekinah presence dwelling among humanity",
+    "kneeling Magus — Gentile recognition of Jewish Messiah, the fulfillment of Isaiah's prophecy that nations will come to His light",
+    "ruins in the background — the passing of the old order and the inauguration of the messianic age",
+    "vast crowd — the multitude of nations streaming to worship, prefiguring the universal Church",
+    "Virgin Mary enthroned with Child — the Theotokos as Sedes Sapientiae, the throne of divine Wisdom made flesh",
+    "darkness surrounding the central light — the world sitting in darkness that has seen a great light (Isaiah 9:2)"
+  ],
+  "description": "A vast, dramatically lit composition centered on a seated woman in a blue mantle holding an infant, positioned to the right of center. An intense supernatural radiance pours down from above, illuminating the central group while the periphery remains in deep shadow. A richly robed figure kneels before the mother and child, arms extended in veneration. Dozens of onlookers fill both sides of the scene — some kneeling, some standing, some pressing forward to see. The left background features architectural ruins and a cart or wagon.",
+  "theological_description": "The Adoration of the Magi (Matthew 2:1-12) is the Epiphany — the manifestation of Christ to the Gentile world. The Magi, traditionally understood as Persian astrologer-priests, represent the first fruits of the nations coming to worship Israel's Messiah, fulfilling the prophecy of Isaiah 60:3: 'Nations shall come to your light, and kings to the brightness of your rising.' Their journey follows the star, which the Church Fathers (notably Ignatius of Antioch and John Chrysostom) interpreted as a sign of cosmic disruption — a new star for a new creation. The gifts of gold, frankincense, and myrrh (though not individually visible in this rendering) encode a Christological confession: gold for kingship, frankincense for divinity, myrrh for the suffering and burial to come. Sequeira's composition emphasizes the supernatural light that dominates the scene, recalling John 1:9 ('the true light that enlightens everyone was coming into the world') and the Johannine theology of the Logos as light in darkness. The crowd pressing in from every side anticipates the eschatological gathering of all peoples described in Revelation 7:9. The ruins behind the crowd symbolize the passing of the old dispensation as the new covenant dawns in the flesh of the infant Christ.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The direct narrative source: Magi from the East follow a star to Bethlehem, worship the newborn King, and present gifts of gold, frankincense, and myrrh."
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "primary",
+      "reason": "The Epiphany prophecy: nations come to Israel's light and kings to the brightness of her rising, bearing gold and frankincense — the Old Testament foundation of the Magi narrative."
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "The kings of Tarshish and the isles bring tribute; kings of Sheba and Seba offer gifts; all kings fall down before him — the messianic psalm fulfilled in the Magi's homage."
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "Balaam's oracle that 'a star shall come out of Jacob' — interpreted by the Fathers as the prophecy of the Star of Bethlehem that guided the Magi."
+    },
+    {
+      "ref": "JHN.1.9",
+      "relevance": "allusion",
+      "reason": "The true light that enlightens everyone was coming into the world — the supernatural radiance flooding the scene embodies this Johannine theology of incarnate light."
+    },
+    {
+      "ref": "ISA.9.2",
+      "relevance": "allusion",
+      "reason": "The people who walked in darkness have seen a great light — the dramatic chiaroscuro of the composition visualizes this prophecy."
+    },
+    {
+      "ref": "REV.7.9",
+      "relevance": "typological",
+      "reason": "The great multitude from every nation gathered in worship prefigures the eschatological assembly, anticipated here by the diverse crowd surrounding the Christ child."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe",
+    "reverence",
+    "radiant",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030155",
+    "title": "Adoration of the Magi",
+    "artist": "Domingos Sequeira",
+    "model": "claude-opus-4-6"
+  }
+}

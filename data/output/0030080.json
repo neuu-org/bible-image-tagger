@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Christ Child", "type": "DEITY"}
+  ],
+  "event": "Virgin and Child (Hodegetria)",
+  "tags": [
+    "theotokos",
+    "hodegetria",
+    "mother-and-child",
+    "incarnation",
+    "divine-maternity",
+    "intercession",
+    "gold-halo",
+    "icon",
+    "wooden-panel",
+    "devotional-image",
+    "eastern-christianity",
+    "majesty-of-the-virgin",
+    "liturgical-devotion"
+  ],
+  "symbols": [
+    "gold halo around Mary — divine favor, sanctity, and her unique role as Theotokos",
+    "gold halo around Christ Child — divinity of the incarnate Son",
+    "Mary's dark maphorion — humility, mourning, and the veil of the Mother of God",
+    "Christ Child held on Mary's left arm — the Hodegetria gesture, 'She who shows the Way'",
+    "Mary's right hand gesturing toward Christ — directing the faithful to her Son as the Way of salvation",
+    "star-like marks on maphorion — Mary's perpetual virginity (before, during, and after birth)",
+    "wooden panel with worn surface — the endurance of faith through centuries of veneration",
+    "red lettering (Greek abbreviations) — sacred identification of the holy figures"
+  ],
+  "description": "A half-length icon on a worn wooden panel depicting a solemn woman with a large gold halo, wearing a dark brown maphorion over a green undergarment. She holds a small child on her left side. The child has a reddish-brown garment and a smaller gold halo. The woman's right hand is raised, gesturing toward the child. Faint red Greek lettering appears in the upper corners. The panel shows significant age, with paint loss, cracks, and a bead-bordered edge along the top. The background is gold-toned, and the palette is dominated by earth tones of brown, ochre, and muted green.",
+  "theological_description": "This icon follows the Hodegetria ('She who shows the Way') type, one of the most ancient and venerated iconographic traditions of the Virgin Mary attributed in legend to Saint Luke. The theological core of the Hodegetria is the Incarnation: Mary presents the Christ Child not merely as her son but as the eternal Logos made flesh (John 1:14). Her gesture toward him is a visual catechesis directing every viewer to Christ as the sole path to salvation (John 14:6). The Council of Ephesus (431 AD) affirmed Mary's title Theotokos (God-Bearer), and this icon is a direct expression of that dogma -- the woman holds not merely a human infant but God incarnate. The Christ Child's solemn, mature facial expression signals his divine nature even in infancy, reflecting the Johannine prologue's teaching that the Word who was with God and was God became flesh and dwelt among us. Mary's dark maphorion with its star-like markings proclaims her perpetual virginity, while her intercessory gesture fulfills the typology of the Woman of Revelation 12 and the Queen Mother of the Davidic covenant (1 Kings 2:19-20). The icon functions liturgically as a window into the heavenly reality, inviting the faithful into communion with the Incarnate Lord through the mediation of his Mother. Isaiah's prophecy, 'Behold, the virgin shall conceive and bear a son' (Isaiah 7:14), finds its ultimate visual fulfillment in this enduring image.",
+  "scripture_refs": [
+    {"ref": "LUK.1.31-35", "relevance": "primary", "reason": "The Annunciation narrative: Mary will conceive and bear a son who is the Son of the Most High, the theological foundation of the Theotokos icon"},
+    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us -- the Incarnation doctrine visually expressed by the divine Child held in human arms"},
+    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son, Immanuel -- the Old Testament prophecy fulfilled in the Virgin and Child composition"},
+    {"ref": "LUK.2.6-7", "relevance": "primary", "reason": "The birth of Jesus, the historical event underlying all Nativity and Virgin-and-Child iconography"},
+    {"ref": "GAL.4.4", "relevance": "primary", "reason": "God sent his Son, born of a woman -- Paul's summary of the Incarnation theology central to this icon"},
+    {"ref": "REV.12.1-5", "relevance": "typological", "reason": "The Woman clothed with the sun who bears the male child destined to rule -- patristic typology of Mary as the apocalyptic Woman"},
+    {"ref": "JHN.14.6", "relevance": "allusion", "reason": "Mary's Hodegetria gesture directs the viewer to Christ who is the Way, the Truth, and the Life"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "devotional", "tender", "majestic"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030080",
+    "title": "Virgin and Child",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

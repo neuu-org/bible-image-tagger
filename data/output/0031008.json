@@ -1,0 +1,98 @@
+{
+  "characters": [
+    {
+      "name": "Angel of the Lord",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Cattle",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The angel announces the birth of Christ to the shepherds",
+  "tags": [
+    "annunciation-to-shepherds",
+    "nativity",
+    "angel",
+    "glory-of-the-lord",
+    "divine-light",
+    "shepherds",
+    "nocturnal-scene",
+    "fear-and-wonder",
+    "good-tidings",
+    "heavenly-radiance",
+    "pastoral-setting",
+    "incarnation",
+    "messianic-announcement",
+    "livestock"
+  ],
+  "symbols": [
+    "angel in blazing light — the glory of the Lord (doxa tou kyriou) that breaks into the darkness of the fallen world, announcing redemption",
+    "shepherds cowering and shielding their eyes — the human response of terror before divine holiness, echoing Isaiah's 'Woe is me' (Isa 6:5)",
+    "darkness of the night — the spiritual darkness of the world before the coming of the Light (John 1:5)",
+    "cattle and sheep — the humble, pastoral setting chosen by God for the supreme revelation, inverting worldly expectations of royal birth",
+    "hillside — Bethlehem's fields, the same land where David once tended sheep, linking the shepherd-king to the Good Shepherd"
+  ],
+  "description": "A dramatic nocturnal scene shows an angel descending from a turbulent sky ablaze with golden light. The winged figure sweeps diagonally across the upper portion of the canvas, arms extended, robes billowing. Below, a group of shepherds react with startled fear — some shielding their faces, others falling backward, one reaching up in astonishment. Around them, cattle and sheep press together in alarm. The landscape is a dark, grassy hillside. The contrast between the heavenly radiance above and the deep shadows below creates a powerful chiaroscuro effect.",
+  "theological_description": "The Annunciation to the Shepherds (Luke 2:8-14) is the first public proclamation of the Incarnation, and its theological significance is immense. God chooses not kings, priests, or scribes but lowly shepherds — social outcasts in first-century Palestine — as the first recipients of the gospel. This divine preference for the humble directly fulfills the Magnificat's declaration that God 'has scattered the proud' and 'exalted the lowly' (Luke 1:51-52). The angel's message, 'Fear not, for behold, I bring you good tidings of great joy,' inaugurates the New Testament era of evangelion — the good news. The 'glory of the Lord' that shines around the shepherds recalls the Shekinah glory that filled the Tabernacle (Exodus 40:34) and Solomon's Temple (1 Kings 8:11); now that glory is no longer confined to sacred architecture but bursts into an open field, because God Himself has taken on flesh and dwells among humanity. The shepherds are also typologically significant: David was a shepherd of Bethlehem before becoming king and messianic ancestor. Jesus, born in David's city, will identify Himself as the Good Shepherd (John 10:11) who lays down His life for the sheep. The nocturnal setting fulfills Isaiah 9:2: 'The people who walked in darkness have seen a great light.' Bassano's dramatic rendering captures the eschatological rupture — heaven tearing open to invade earth with saving news.",
+  "scripture_refs": [
+    {
+      "ref": "Luk.2.8-14",
+      "relevance": "primary",
+      "reason": "The direct narrative: an angel appears to shepherds in the fields near Bethlehem, announcing the birth of the Savior"
+    },
+    {
+      "ref": "Luk.2.10-11",
+      "relevance": "primary",
+      "reason": "The angel's declaration: 'Fear not, for I bring you good tidings of great joy... a Savior, who is Christ the Lord'"
+    },
+    {
+      "ref": "Isa.9.2",
+      "relevance": "typological",
+      "reason": "The people who walked in darkness have seen a great light — fulfilled in the radiance breaking upon the shepherds' dark hillside"
+    },
+    {
+      "ref": "Jhn.10.11",
+      "relevance": "typological",
+      "reason": "Jesus as the Good Shepherd, typologically connected to the Bethlehem shepherds who first receive news of His birth"
+    },
+    {
+      "ref": "Luk.1.51-52",
+      "relevance": "typological",
+      "reason": "The Magnificat's theme of God exalting the lowly, realized in the choice of shepherds as first evangelized"
+    },
+    {
+      "ref": "Exo.40.34-35",
+      "relevance": "allusion",
+      "reason": "The glory of the LORD filling the Tabernacle, now released from sacred precincts to illuminate an open field"
+    },
+    {
+      "ref": "Mic.5.2",
+      "relevance": "allusion",
+      "reason": "Bethlehem Ephrathah, 'small among the clans of Judah,' from which the ruler of Israel shall come — the prophetic setting"
+    },
+    {
+      "ref": "1Sam.16.11-13",
+      "relevance": "allusion",
+      "reason": "David the shepherd boy of Bethlehem, anointed by Samuel — the typological ancestor whose city now hosts the Messiah's birth"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "fearful",
+    "luminous",
+    "awe-struck"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0031008",
+    "title": "The Annunciation to the Shepherds",
+    "artist": "Jacopo Bassano",
+    "model": "claude-opus-4-6"
+  }
+}

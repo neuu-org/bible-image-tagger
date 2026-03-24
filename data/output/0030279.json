@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {"name": "Matthew the Apostle", "type": "PERSON"},
+    {"name": "Catherine of Alexandria", "type": "PERSON"},
+    {"name": "John the Evangelist", "type": "PERSON"},
+    {"name": "Angel (Matthew's Symbol)", "type": "ANGEL"}
+  ],
+  "event": "Three Saints: Matthew, Catherine of Alexandria, and John the Evangelist",
+  "tags": [
+    "saints-portrait",
+    "gold-ground",
+    "halos",
+    "gospel-book",
+    "chalice",
+    "sword-of-martyrdom",
+    "crown",
+    "eagle-symbol",
+    "angel-symbol",
+    "broken-wheel",
+    "evangelist-symbols",
+    "altarpiece-panel",
+    "devotional-image",
+    "sacred-attributes",
+    "medieval-panel-painting",
+    "standing-saints"
+  ],
+  "symbols": [
+    "book held by Matthew — the Gospel of Matthew, the written Word of God, the apostle's authorship of the first Gospel account",
+    "small angel at Matthew's feet — the traditional evangelist symbol of Matthew, representing Christ's human nature and the genealogy that opens his Gospel",
+    "crown on Catherine — royal lineage and her identity as a princess of Alexandria, and the crown of martyrdom",
+    "sword held by Catherine — the instrument of her martyrdom by beheading, and the sword of divine truth she wielded in philosophical debate",
+    "broken wheel fragments at Catherine's feet — the spiked wheel intended for her torture that was shattered by divine intervention",
+    "chalice held by John — the eucharistic cup, and the tradition that John drank poison without harm as proof of Christ's protection",
+    "eagle at John's feet — the traditional evangelist symbol of John, representing the soaring theological vision of the Fourth Gospel",
+    "gold background — the heavenly realm, divine glory, and the eternal light of Paradise in which the saints dwell",
+    "halos — sanctity, the beatific vision, and the saints' participation in divine glory",
+    "green mantle of Matthew — hope, spiritual vitality, and the renewal that the Gospel brings"
+  ],
+  "description": "Three full-length saints stand against a brilliant gold ground, each with an ornate tooled halo. At left, a bearded man in grey-violet tunic and green mantle holds an open red book; a small winged angel crouches at his feet. Center, a crowned young woman in red robe over blue dress holds a downward-pointed sword; broken fragments lie at her feet. At right, a youthful beardless figure with reddish hair in pale blue mantle holds a golden chalice and raises his right hand; a dark eagle perches at his feet. Rich reds, greens, golds, and blues fill the panel.",
+  "theological_description": "This altarpiece panel presents three saints in the hieratic tradition of medieval Cologne painting. Matthew the Apostle, identified by his angel symbol and open Gospel book, authored the first canonical Gospel beginning with Christ's genealogy from Abraham and David (Matt 1:1-17). The angel represents Christ's human nature emphasized in Matthew's Incarnation narrative. Catherine of Alexandria, though not biblical, bears her traditional attributes: crown of royal birth, sword of martyrdom, and shattered wheel fragments. She embodies Christian intellectual witness, echoing the charge to 'give a reason for the hope that is in you' (1 Pet 3:15). John the Evangelist holds the chalice referencing the tradition that he drank poison without harm, fulfilling Christ's promise in Mark 16:18. The eagle symbolizes the soaring theology of the Fourth Gospel: 'In the beginning was the Word' (John 1:1). The gold ground places all three in heavenly glory, participating in the communion of saints (Heb 12:1). Together they represent three dimensions of witness: Matthew the evangelist, Catherine the apologist-martyr, and John the theologian.",
+  "scripture_refs": [
+    {"ref": "MAT.1.1-17", "relevance": "primary", "reason": "The genealogy of Christ opening Matthew's Gospel -- Matthew holds the book of this Gospel, and his angel symbol represents Christ's human lineage."},
+    {"ref": "MAT.9.9", "relevance": "primary", "reason": "The calling of Matthew from the tax collector's booth -- the foundational moment of the apostle depicted here."},
+    {"ref": "JHN.1.1-14", "relevance": "primary", "reason": "The Prologue of John's Gospel -- the soaring theological vision symbolized by the eagle at John's feet."},
+    {"ref": "JHN.21.20-24", "relevance": "primary", "reason": "John identified as the beloved disciple who testifies and wrote these things -- the evangelist's unique intimacy with Christ."},
+    {"ref": "REV.4.7", "relevance": "typological", "reason": "The four living creatures around the throne -- the angel and eagle correspond to the traditional evangelist symbols derived from Ezekiel and Revelation."},
+    {"ref": "EZK.1.10", "relevance": "typological", "reason": "The four faces of the living creatures -- the patristic source for assigning animal symbols to the four evangelists."},
+    {"ref": "HEB.12.1", "relevance": "allusion", "reason": "The 'great cloud of witnesses' surrounding the faithful -- the communion of saints in glory that this panel represents."},
+    {"ref": "MRK.16.18", "relevance": "allusion", "reason": "Christ's promise that believers 'will pick up serpents, and if they drink any deadly thing, it will not hurt them' -- the tradition behind John's chalice attribute."},
+    {"ref": "1PE.3.15", "relevance": "allusion", "reason": "'Always be prepared to give a reason for the hope that is in you' -- the apologetic witness embodied by Catherine of Alexandria."}
+  ],
+  "scene_type": "portrait",
+  "mood": ["reverent", "serene", "majestic", "devotional"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0030279",
+    "title": "Three Saints (Matthew, Catherine of Alexandria and John the Evangelist)",
+    "artist": "Stefan Lochner",
+    "model": "claude-opus-4-6"
+  }
+}

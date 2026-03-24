@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Ptolemy II Philadelphus",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Ptolemy II Philadelphus enthroned in audience",
+  "tags": [
+    "Ptolemaic-Egypt",
+    "Hellenistic-king",
+    "icon-painting",
+    "Russian-icon",
+    "royal-court",
+    "Septuagint-patron",
+    "intertestamental-period",
+    "throne-room",
+    "oriental-architecture"
+  ],
+  "symbols": [
+    "throne — royal authority and sovereign power",
+    "ornate architectural setting — the splendor and magnificence of the Ptolemaic court in Alexandria",
+    "turban and robes — Eastern kingship as imagined through the lens of Russian icon tradition",
+    "book or scroll — learning, wisdom, and the patronage of scholarship",
+    "courtier in attendance — the royal court and administration of the Ptolemaic kingdom",
+    "elaborate columns — the grandeur of Alexandrian civilization"
+  ],
+  "description": "A richly detailed Russian icon-style painting depicting a seated ruler identified as Ptolemy Philadelphus, King of Egypt. He is enthroned on an elevated platform within an elaborate architectural interior featuring ornate arches, decorative columns with blue and red details, and intricate geometric patterns. The king wears a large white turban and green-and-gold brocade robes, and appears to be reading or consulting a document. Before him on a table lie various objects including what appears to be a globe and writing implements.",
+  "theological_description": "Ptolemy II Philadelphus (309-246 BC) occupies a significant place in biblical history as the traditional patron of the Septuagint translation. According to the Letter of Aristeas and subsequent Jewish and Christian tradition, Ptolemy commissioned seventy-two Jewish scholars to translate the Hebrew Torah into Greek for the great Library of Alexandria. This translation, the Septuagint (LXX), became the Bible of the early Church, the text quoted by the New Testament authors, and the foundation of Christian Old Testament scholarship. Simon Ushakov's decision to depict this Hellenistic king in the visual language of Russian Orthodox iconography reflects the tradition's recognition of Ptolemy's providential role: though a pagan ruler, he served as an unwitting instrument of divine providence, ensuring that the Word of God would be accessible in the lingua franca of the ancient world. This prepared the way for the Gospel's rapid spread throughout the Greek-speaking Mediterranean, fulfilling the pattern seen throughout Scripture of God using foreign kings — from Cyrus (Isaiah 45:1) to Caesar Augustus (Luke 2:1) — to advance his redemptive purposes. The scholarly attributes in the painting — the globe, writing implements, and documents — honor Ptolemy's role as patron of learning and, indirectly, as a servant of the divine Word's dissemination.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.45.1",
+      "relevance": "typological",
+      "reason": "As God called Cyrus his anointed to accomplish divine purposes, so Ptolemy unwittingly served God's plan by commissioning the Septuagint"
+    },
+    {
+      "ref": "LUK.2.1",
+      "relevance": "typological",
+      "reason": "Caesar Augustus's decree served God's purposes by bringing Mary to Bethlehem — the same pattern of pagan rulers serving divine providence that Ptolemy exemplifies"
+    },
+    {
+      "ref": "ACT.2.5-11",
+      "relevance": "allusion",
+      "reason": "The multilingual proclamation at Pentecost was made possible in part by the prior translation of Scripture into Greek under Ptolemy's patronage"
+    },
+    {
+      "ref": "DAN.2.21",
+      "relevance": "allusion",
+      "reason": "God raises up and deposes kings, directing the course of history — Ptolemy's reign served the larger purposes of salvation history"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "regal",
+    "scholarly",
+    "solemnity"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0030827",
+    "title": "Ptolemy Philadelph, King of Egypt",
+    "artist": "Simon Ushakov",
+    "model": "claude-opus-4-6"
+  }
+}

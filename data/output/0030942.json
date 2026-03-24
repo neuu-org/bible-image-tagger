@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Paradise / Coronation of the Virgin in Heaven",
+  "tags": [
+    "paradise",
+    "heavenly-glory",
+    "coronation-of-the-virgin",
+    "angels",
+    "saints",
+    "celestial-hierarchy",
+    "divine-light",
+    "heavenly-host",
+    "monumental-painting",
+    "triumphant-church",
+    "eschatological-vision"
+  ],
+  "symbols": [
+    "radiant light at center — the glory of God as the source of all heavenly illumination",
+    "ascending tiers of figures — the celestial hierarchy of angels, saints, and the blessed",
+    "Christ and Mary at the apex — the theological centrality of the Incarnation and Redemption",
+    "clouds bearing saints — the communion of saints dwelling in God's presence",
+    "vast multitude — the innumerable company of the redeemed from every nation and tongue",
+    "golden radiance — the uncreated light of divine glory, the beatific vision"
+  ],
+  "description": "A vast panoramic painting showing Tintoretto's monumental Paradise, originally painted for the Sala del Maggior Consiglio in the Doge's Palace, Venice. The enormous composition depicts hundreds of figures arranged in concentric arcs of clouds ascending toward a central burst of golden light. At the luminous center, Christ and the Virgin Mary are enthroned amid the heavenly host. Tiers of angels, patriarchs, prophets, apostles, martyrs, and saints radiate outward in sweeping spirals.",
+  "theological_description": "Tintoretto's Paradise is one of the largest oil paintings ever created and arguably the most ambitious attempt to visualize the eschatological hope of Christianity. The composition draws from Dante's Paradiso and the book of Revelation to present the entire celestial hierarchy in a single overwhelming vision. At the luminous center, Christ crowns His mother, an event that synthesizes the doctrines of the Incarnation, Redemption, and the glorification of redeemed humanity. The concentric rings of saints recall Revelation 7:9-10, the vision of a great multitude from every nation standing before the throne crying 'Salvation belongs to our God.' The ascending tiers represent the theology of 1 Corinthians 15:41-42, where each star differs in glory, and the resurrected saints shine with varying degrees of beatific splendor. The central burst of light embodies 1 John 1:5, 'God is light, and in Him is no darkness at all,' and anticipates the New Jerusalem of Revelation 21:23 that needs no sun, for the glory of God gives it light. This is the Church Triumphant — the final state of all the redeemed united in the eternal worship of God, the consummation toward which all of salvation history tends.",
+  "scripture_refs": [
+    {
+      "ref": "REV.7.9-10",
+      "relevance": "primary",
+      "reason": "The vast multitude of saints from every nation before God's throne directly corresponds to the innumerable figures filling the heavenly space"
+    },
+    {
+      "ref": "REV.21.23",
+      "relevance": "primary",
+      "reason": "The central radiance replacing any need for sun or moon depicts the glory of God as the light of the heavenly city"
+    },
+    {
+      "ref": "1CO.15.41-42",
+      "relevance": "typological",
+      "reason": "The varying degrees of glory among the tiers of saints reflects Paul's teaching on differing splendors in the resurrection"
+    },
+    {
+      "ref": "REV.4.2-4",
+      "relevance": "primary",
+      "reason": "The throne at the center surrounded by elders and living creatures provides the structural template for Tintoretto's celestial court"
+    },
+    {
+      "ref": "1JN.1.5",
+      "relevance": "allusion",
+      "reason": "The overwhelming golden light declares the Johannine truth that God is light and in Him is no darkness"
+    },
+    {
+      "ref": "HEB.12.22-24",
+      "relevance": "typological",
+      "reason": "The assembly of angels, the spirits of the righteous made perfect, and the mediator Jesus — the heavenly Jerusalem made visible"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "glory",
+    "awe",
+    "transcendence",
+    "triumph"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0030942",
+    "title": "Paradise",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

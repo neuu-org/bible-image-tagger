@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Emperor Trajan",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Widow",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldiers and Courtiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Justice of Emperor Trajan and the Widow",
+  "tags": [
+    "trajan",
+    "justice",
+    "widow",
+    "imperial-court",
+    "mercy",
+    "medieval-moral-exemplum",
+    "cassone-panel",
+    "equestrian",
+    "intercession",
+    "civic-virtue",
+    "petition"
+  ],
+  "symbols": [
+    "the kneeling widow before the emperor — the powerless petitioning the powerful, evoking biblical widows who seek justice from rulers",
+    "Trajan on horseback or enthroned — sovereign authority that must answer to a higher moral law",
+    "architectural setting with arches — the civic and public sphere where justice must be administered",
+    "multiple narrative scenes in one panel — the medieval practice of continuous narration reflecting moral instruction",
+    "richly dressed courtiers — the pomp of earthly power set against the simplicity of the widow's plea"
+  ],
+  "description": "A horizontal cassone panel painting depicting multiple narrative scenes set within and around a grand architectural space with rounded arches. At left, an armored horseman is shown in a street setting. In the central section, a figure is enthroned under elaborate arches surrounded by courtiers and soldiers in richly colored garments of red, blue, green, and gold. Figures kneel and petition before the throne. At right, additional scenes show figures carrying objects and interacting in a city street with buildings and balconies.",
+  "theological_description": "The story of Trajan and the Widow, though not biblical, was one of the most celebrated moral exempla in medieval Christianity. According to the legend, a widow stopped Emperor Trajan as he rode to war, begging justice for her murdered son. Trajan promised to attend to it upon his return, but the widow pressed him: what if he never returned? Moved by her argument, Trajan dismounted and rendered justice immediately. This story was so revered that, according to medieval tradition, Pope Gregory the Great prayed for Trajan's soul and God granted the pagan emperor salvation — a theologically provocative claim that God's mercy can extend beyond expected boundaries. The widow's insistence on immediate justice echoes Christ's parable of the Persistent Widow and the Unjust Judge (Luke 18:1-8), where Jesus teaches that God will vindicate His elect who cry to Him day and night. The broader theological theme is that earthly rulers are accountable to divine justice: power must serve the vulnerable, especially widows and orphans, whom Scripture repeatedly names as under God's special protection.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.18.1-8",
+      "relevance": "typological",
+      "reason": "The parable of the Persistent Widow and the Unjust Judge — the widow's insistence on justice directly parallels the legend depicted"
+    },
+    {
+      "ref": "DEU.10.17-18",
+      "relevance": "allusion",
+      "reason": "God executes justice for the widow and the fatherless — the theological principle underlying the widow's right to demand justice"
+    },
+    {
+      "ref": "ISA.1.17",
+      "relevance": "allusion",
+      "reason": "Learn to do good, seek justice, defend the oppressed, plead the cause of the widow — the prophetic imperative behind the moral exemplum"
+    },
+    {
+      "ref": "PSA.146.9",
+      "relevance": "allusion",
+      "reason": "The Lord upholds the widow — God's special concern for widows that makes the widow's petition a sacred claim"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemnity",
+    "authority",
+    "moral-urgency"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0030617",
+    "title": "Storie di traiano e la vedova",
+    "artist": "Lo Scheggia",
+    "model": "claude-opus-4-6"
+  }
+}

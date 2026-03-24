@@ -1,0 +1,100 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna the Prophetess",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Presentation of Jesus at the Temple",
+  "tags": [
+    "presentation-in-the-temple",
+    "purification-of-the-virgin",
+    "nunc-dimittis",
+    "holy-family",
+    "infant-Christ",
+    "Mosaic-law-fulfillment",
+    "prophecy-fulfilled",
+    "light-to-the-nations",
+    "temple-ritual",
+    "obedience-to-the-law",
+    "divine-revelation",
+    "fresco",
+    "halo",
+    "arched-composition",
+    "kneeling-donors"
+  ],
+  "symbols": [
+    "infant held by Simeon — the long-awaited Messiah received by faithful Israel",
+    "halos on the holy figures — sanctity and divine nature",
+    "temple setting — fulfillment of the Mosaic law of purification",
+    "radiating light in the lunette — divine glory and the light Simeon proclaims to the nations",
+    "Simeon's aged appearance — lifelong faithfulness rewarded by seeing the consolation of Israel",
+    "Mary's outstretched hands — willing surrender of her child to God's purposes",
+    "two kneeling figures at bottom — devotional witnesses representing the faithful",
+    "arched architectural frame — sacred liturgical space"
+  ],
+  "description": "A fresco set within an arched niche depicting five standing figures. At center, an elderly bearded man in yellow-green robes holds a haloed infant. To his left, a woman in a dark blue mantle extends her hands toward the child. Behind her stands a man in a yellow garment carrying a gesture of offering. To the far right, an elderly woman in dark robes with a halo observes the scene. Two smaller kneeling figures occupy the lower corners of the composition. The background features radiating golden lines descending from above. All principal figures bear halos.",
+  "theological_description": "The Presentation of Jesus in the Temple fulfills the Mosaic prescription of Exodus 13:2 and Leviticus 12:1-8, requiring the consecration of every firstborn male and the purification of the mother forty days after birth. Luke 2:22-40 records that Mary and Joseph brought the infant Jesus to the Jerusalem Temple, where the aged Simeon, moved by the Holy Spirit, took the child in his arms and proclaimed the Nunc Dimittis: 'Lord, now you are letting your servant depart in peace, according to your word; for my eyes have seen your salvation that you have prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to your people Israel' (Luke 2:29-32). Simeon also prophesied to Mary that a sword would pierce her own soul, foreshadowing the Passion. The prophetess Anna, who had served God with fasting and prayer in the Temple for decades, likewise recognized the child and spoke of him to all who were awaiting the redemption of Jerusalem. This event marks the first entry of Christ into the Temple, theologically signifying the meeting of the Old and New Covenants — faithful Israel represented by Simeon and Anna receives the fulfillment of all its messianic hope in the person of the infant Christ.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.22-38",
+      "relevance": "primary",
+      "reason": "The direct biblical narrative of the Presentation: Mary and Joseph bring Jesus to the Temple where Simeon and Anna recognize him as the Messiah"
+    },
+    {
+      "ref": "EXO.13.2",
+      "relevance": "primary",
+      "reason": "The Mosaic commandment to consecrate every firstborn male to the Lord, which the Holy Family obeys in this scene"
+    },
+    {
+      "ref": "LEV.12.1-8",
+      "relevance": "primary",
+      "reason": "The law of purification after childbirth that occasions Mary and Joseph's visit to the Temple"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord whom you seek will suddenly come to his temple — fulfilled in the infant Christ's arrival"
+    },
+    {
+      "ref": "ISA.49.6",
+      "relevance": "typological",
+      "reason": "Simeon's proclamation of Christ as a light to the nations echoes Isaiah's Servant Song about salvation reaching the ends of the earth"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "Simeon's prophecy that a sword will pierce Mary's soul, foreshadowing the crucifixion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverence",
+    "serenity",
+    "solemnity",
+    "tenderness"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030465",
+    "title": "Presentation of Jesus in the Temple",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

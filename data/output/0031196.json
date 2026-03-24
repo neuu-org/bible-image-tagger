@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donkey",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "holy-family",
+    "infant-jesus",
+    "virgin-mary",
+    "joseph",
+    "donkey",
+    "exile",
+    "divine-protection",
+    "persecution",
+    "refuge",
+    "journey",
+    "halo",
+    "expressionism",
+    "nocturnal-scene"
+  ],
+  "symbols": [
+    "halo around Mary — sanctity and divine favor upon the Mother of God",
+    "infant Christ — the vulnerable incarnate God entrusted to human care",
+    "donkey — humble beast of burden bearing the holy family, humility of the Incarnation",
+    "journey through darkness — the peril of Herod's persecution and the night of exile",
+    "radiant light around Mary — divine protection illuminating the path of the faithful"
+  ],
+  "description": "A luminous, abstracted depiction of the Flight into Egypt rendered in a Russian avant-garde expressionist style. A haloed female figure, the Virgin Mary, sits upright at center holding the Christ Child. To her left, a donkey is visible, and a second figure, likely Joseph, can be discerned. The composition is built from energetic, swirling brushstrokes in blues, greens, oranges, and yellows, with radiating lines of light emanating from the holy figures. The background is dark and turbulent, suggesting a night journey through a hostile landscape.",
+  "theological_description": "The Flight into Egypt is recorded in Matthew 2:13-15, when an angel of the Lord appeared to Joseph in a dream warning him to take the child and his mother and flee to Egypt, for Herod was about to search for the child to destroy him. This event fulfills the prophecy of Hosea 11:1, 'Out of Egypt I called my son,' establishing a typological parallel between Israel's exodus from Egypt and Christ's own sojourn there. The holy family's flight into exile reveals the paradox of the Incarnation: the omnipotent Creator of the universe is a vulnerable infant who must be carried to safety by human hands. Kulbin's expressionist treatment, with its radiating energy and luminous atmosphere around Mary and the Child, visually conveys the theological truth that even in the darkest night of persecution, divine light cannot be extinguished (John 1:5). The journey also prefigures the pattern of Christ's entire earthly ministry -- rejected by the powerful, sheltered among the humble, and ultimately vindicated by God.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The direct biblical account of the angel's warning to Joseph and the holy family's flight to Egypt"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son -- the prophetic text that Matthew cites as fulfilled by Christ's return from Egypt"
+    },
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "primary",
+      "reason": "Herod's massacre of the innocents, the immediate threat that occasioned the flight"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "The light shines in the darkness and the darkness has not overcome it -- reflected in the radiant luminosity of the holy figures against the dark background"
+    },
+    {
+      "ref": "ISA.49.15",
+      "relevance": "allusion",
+      "reason": "God's maternal tenderness toward his people, mirrored in Mary's protective embrace of the Christ Child during flight"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ethereal",
+    "urgent",
+    "protective",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0031196",
+    "title": "Flight to the Egypt",
+    "artist": "Nikolai Kulbin",
+    "model": "claude-opus-4-6"
+  }
+}

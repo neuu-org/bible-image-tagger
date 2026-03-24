@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joachim",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Birth of the Virgin Mary",
+  "tags": [
+    "birth-of-the-virgin",
+    "saint-anne",
+    "infant-mary",
+    "midwives",
+    "angels",
+    "monogram-of-mary",
+    "domestic-scene",
+    "nativity",
+    "attended-birth",
+    "basin",
+    "swaddling",
+    "heavenly-witnesses",
+    "liturgical-feast"
+  ],
+  "symbols": [
+    "MRA monogram held by angels — the Marian monogram affirming the identity and destiny of the newborn Virgin",
+    "angel with lily — purity and the Annunciation yet to come, prefiguring Mary's immaculate role",
+    "bathing basin and attendants — the care and celebration attending the birth of the future Mother of God",
+    "Anne reclining in bed — the mother of the Virgin, the matriarchal link in the genealogy of salvation",
+    "red canopy over the bed — royal dignity foreshadowing Mary's queenship",
+    "angels above — heavenly recognition that this birth is ordained by divine providence"
+  ],
+  "description": "A richly detailed Baroque composition depicting the birth of the Virgin Mary. In the upper portion, two angels in flowing robes hold aloft a golden disc bearing the Marian monogram 'MRA,' while another angel at the right holds a lily branch. Below, in a sumptuous interior, the newborn infant Mary is attended by several women: one holds the baby while others prepare linens, carry water vessels, and tend to the mother. At the right, Saint Anne reclines in a canopied bed, attended by a woman. The scene is filled with activity and warm colors -- rich reds, golds, blues, and earth tones.",
+  "theological_description": "The Birth of the Virgin Mary is not recorded in canonical Scripture but derives from the Protoevangelium of James (2nd century), which names her parents as Joachim and Anne. Despite its apocryphal origin, the Nativity of the Blessed Virgin Mary became one of the great Marian feasts celebrated on September 8. Theologically, this event marks the beginning of the immediate preparation for the Incarnation: the vessel chosen to bear the Son of God enters the world. Erasmus Quellinus depicts the scene with the Marian monogram held by angels above, a visual proclamation that heaven recognizes this birth as the fulfillment of God's salvific plan. The lily held by the angel on the right prefigures the Annunciation and Mary's perpetual virginity. The birth of Mary typologically recalls the births of other divinely chosen women in salvation history -- Sarah, Rebecca, Hannah -- and fulfills the trajectory of God's election of the humble and barren to accomplish his purposes (1 Samuel 2:5, Luke 1:52). The Church Fathers saw in this birth the dawn of redemption; as John of Damascus wrote, 'This is the day on which the Creator of the world constructed His temple; today is the day on which a creature becomes the preferred dwelling place of the Creator.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28",
+      "relevance": "typological",
+      "reason": "Hail, full of grace -- the angel's greeting to Mary whose birth is here depicted, affirming her unique divine favor from conception"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "typological",
+      "reason": "The Magnificat, in which Mary declares God has regarded the humble estate of his servant -- her birth among ordinary people fulfills this theme"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son -- Mary's birth is the necessary precondition for this prophecy's fulfillment"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "God sent forth his Son, born of woman -- the woman of whom he would be born enters the world in this scene"
+    },
+    {
+      "ref": "1SA.2.5",
+      "relevance": "typological",
+      "reason": "The barren has borne seven -- Hannah's canticle prefigures the pattern of miraculous birth through which God prepares his instruments of salvation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "celebratory",
+    "reverent",
+    "tender"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0031272",
+    "title": "Birth of the Virgin",
+    "artist": "Erasmus Quellinus the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

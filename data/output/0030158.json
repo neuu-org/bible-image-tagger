@@ -1,0 +1,112 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "John the Beloved",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Descent from the Cross",
+  "tags": [
+    "deposition",
+    "crucifixion-aftermath",
+    "passion-of-christ",
+    "lamentation",
+    "sacrificial-death",
+    "atonement",
+    "grief",
+    "redemptive-suffering",
+    "holy-women-at-the-cross",
+    "ladder",
+    "body-of-christ",
+    "cross",
+    "burial-preparation",
+    "loincloth",
+    "mourning"
+  ],
+  "symbols": [
+    "cross — the instrument of redemption, the tree of life that reverses the fall of Adam",
+    "ladder — the means of descent, recalling Jacob's ladder connecting heaven and earth, now made concrete in Christ's body bridging the divine and human",
+    "limp body of Christ — the completed sacrifice, the Lamb slain for the sins of the world",
+    "white loincloth — purity of the sinless victim and the burial cloth foreshadowing the empty shroud of resurrection",
+    "outstretched arms of the mourners — the grief of the Church receiving the broken body of her Lord",
+    "woman prostrate at the foot of the cross — total desolation and surrender before the mystery of redemptive death",
+    "landscape in the distance — the world beyond Golgotha that will be transformed by this sacrificial act"
+  ],
+  "description": "The dead body of Christ is being lowered from a tall wooden cross, supported by two men positioned above and behind. The figure is muscular with a bowed head, wearing only a white loincloth. A wooden ladder leans against the right side of the cross. Below, several mourning figures surround the base: a woman in red at the left clasps her hands in prayer; a young man in red looks upward with grief; a veiled woman raises her hands toward the descending body; an elderly woman in a white headdress weeps; and a woman in blue-grey lies prostrate on the ground at the very bottom.",
+  "theological_description": "The Descent from the Cross (Depositio) is the moment between death and burial, one of the most theologically dense instants in salvation history. Christ's sacrifice on the cross is complete — 'It is finished' (John 19:30) — and His body, the very temple of God (John 2:19-21), is now tenderly lowered by faithful disciples. Joseph of Arimathea and Nicodemus, both secret followers who emerge publicly only after the crucifixion, fulfill the Suffering Servant prophecy of Isaiah 53:9 that he would be 'with the rich in his death.' The Virgin Mary's presence at the foot of the cross fulfills Simeon's prophecy that a sword would pierce her soul (Luke 2:35), and she becomes the Mater Dolorosa, the sorrowful mother whose grief participates mystically in her Son's redemptive suffering. Mary Magdalene, traditionally identified with the prostrate figure, embodies the Church's response of utter desolation before the death of her Lord. The cross itself, once an instrument of Roman torture, has become through this sacrifice the axis mundi — the cosmic center where heaven meets earth, where the curse of Adam's tree is reversed by the tree of redemption (Galatians 3:13). The descent of the body also prefigures the Harrowing of Hell and the eventual descent into the tomb from which Christ will rise on the third day.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea asks Pilate for the body; Nicodemus brings spices; together they take Jesus down and prepare him for burial."
+    },
+    {
+      "ref": "MRK.15.42-46",
+      "relevance": "primary",
+      "reason": "Mark's account of Joseph of Arimathea taking down the body, wrapping it in linen, and placing it in a tomb."
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy to Mary that a sword will pierce her soul — fulfilled in her anguish at the cross during the deposition."
+    },
+    {
+      "ref": "ISA.53.5-9",
+      "relevance": "typological",
+      "reason": "The Suffering Servant pierced for our transgressions, made his grave with the rich — the theological framework for Christ's death and honorable burial."
+    },
+    {
+      "ref": "GAL.3.13",
+      "relevance": "typological",
+      "reason": "Christ redeemed us from the curse of the law by becoming a curse for us, hanging on the tree — the cross as the instrument of liberation."
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "The women standing at the cross: Mary the mother of Jesus, her sister, Mary Magdalene, and the beloved disciple — the witnesses depicted here."
+    },
+    {
+      "ref": "JHN.19.30",
+      "relevance": "allusion",
+      "reason": "'It is finished' — the completed sacrifice whose aftermath is shown in the lowering of the lifeless body."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "solemn",
+    "tender",
+    "sorrowful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030158",
+    "title": "The Descent from the Cross",
+    "artist": "Jan van Hemessen",
+    "model": "claude-opus-4-6"
+  }
+}

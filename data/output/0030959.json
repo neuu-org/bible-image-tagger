@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Enthroned Madonna and Child with Saints and Donor",
+  "tags": [
+    "triptych",
+    "madonna-and-child",
+    "enthroned-virgin",
+    "donor-portrait",
+    "angel-musician",
+    "saint-john-the-baptist",
+    "saint-john-the-evangelist",
+    "canopy",
+    "landscape-background",
+    "devotional"
+  ],
+  "symbols": [
+    "central enthroned Virgin — Mary as Sedes Sapientiae, the Seat of Wisdom bearing the incarnate Christ",
+    "rich canopy above the throne — heavenly protection and the honor due to the Queen of Heaven",
+    "angel playing a stringed instrument — celestial music praising the divine mystery of the Incarnation",
+    "lamb skin of John the Baptist — the Precursor who identified Christ as the Lamb of God",
+    "book or scroll of John the Evangelist — the written testimony of the Word made flesh",
+    "kneeling donor — the faithful believer presented before the divine court through the intercession of the saints",
+    "landscape vistas in wing panels — the created world redeemed by the Christ Child at the center",
+    "triptych format — the Trinitarian structure of Christian devotion unfolding from the central mystery"
+  ],
+  "description": "A triptych altarpiece by Hans Memling. The central panel depicts the Virgin Mary enthroned under an ornate canopy of red and gold brocade, holding the Christ Child on her lap. An angel kneels at left playing a stringed instrument, while a donor figure in dark robes kneels in prayer at right. The left wing panel shows Saint John the Baptist standing in a landscape, wearing his characteristic animal skin. The right wing panel depicts Saint John the Evangelist standing in a landscape, holding a book or chalice.",
+  "theological_description": "Memling's triptych follows the classic Flemish devotional format in which the central mystery of the Incarnation is flanked by saintly intercessors. The enthroned Madonna functions as the Sedes Sapientiae — the Throne of Wisdom — where divine Wisdom itself, the Logos made flesh, sits upon the lap of His human mother. This image encapsulates the Christological definition of the Council of Chalcedon: fully God and fully man, the infinite contained within the finite. The two Johns again form the theological pair seen so often in late medieval art. The Baptist in the left wing represents the Old Covenant reaching its fulfillment — his entire prophetic mission distilled in the gesture of pointing toward the Lamb of God (John 1:29). The Evangelist in the right wing represents the New Covenant's written witness, his Gospel opening with the cosmic proclamation 'In the beginning was the Word' (John 1:1). Between them, the kneeling donor embodies the proper human response to the Incarnation: humble adoration. The angel musician adds the dimension of heavenly worship, recalling the celestial praise that accompanied Christ's birth (Luke 2:13-14). The open landscapes visible through each panel suggest that the redemption accomplished by the Christ Child extends to the furthest reaches of creation.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.1",
+      "relevance": "primary",
+      "reason": "The Evangelist's Gospel opens with the proclamation of the Word made flesh — the theological foundation of the enthroned Christ Child"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John the Baptist's identification of Jesus as the Lamb of God defines his role in the left wing panel"
+    },
+    {
+      "ref": "LUK.1.42-43",
+      "relevance": "primary",
+      "reason": "Elizabeth's blessing of Mary as the mother of the Lord undergirds the theological dignity of the enthroned Madonna"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "The angel musician recalls the heavenly host praising God at Christ's birth"
+    },
+    {
+      "ref": "COL.1.15-17",
+      "relevance": "typological",
+      "reason": "Christ as the image of the invisible God, in whom all things hold together, is the cosmic reality behind the infant on His mother's lap"
+    },
+    {
+      "ref": "REV.5.12",
+      "relevance": "typological",
+      "reason": "The Lamb who is worthy to receive power and honor — the heavenly fulfillment of the infant Christ adored by saints and angels"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serenity",
+    "devotion",
+    "tenderness",
+    "reverence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030959",
+    "title": "Triptych",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Enthroned Madonna and Child with Saints",
+  "tags": [
+    "madonna-and-child",
+    "enthroned-virgin",
+    "sacra-conversazione",
+    "angels",
+    "cherubim",
+    "crown",
+    "golden-throne",
+    "ave-regina-caelorum",
+    "queen-of-heaven",
+    "devotional"
+  ],
+  "symbols": [
+    "golden throne — the sovereignty of the Virgin as Queen of Heaven and Theotokos",
+    "crown held by angels — Mary's coronation and heavenly queenship",
+    "Christ Child on Mary's lap — the Incarnation, God made flesh through the Virgin",
+    "lamb skin of John the Baptist — the Precursor who announced Christ as the Lamb of God",
+    "book held by John the Evangelist — the Gospel and the written Word of God",
+    "cherubim surrounding the throne — the heavenly court attending the Mother and Child",
+    "inscription AVE REGINA CELORUM — the Marian antiphon hailing Mary as Queen of Heaven",
+    "Gothic arches in background — the Church as the architectural setting of sacred mystery"
+  ],
+  "description": "An arched altarpiece in a gilded frame depicting the Virgin Mary enthroned on an elaborate golden seat, holding the nude Christ Child on her lap. She wears a dark blue mantle over a green robe. Above her, two red-winged angels hold a crown over her head, while additional cherubim and putti surround the throne. To her left stands Saint John the Baptist, recognizable by his animal skin garment and cross-topped staff, with a golden halo. To her right stands an elderly bearded figure, Saint John the Evangelist, holding a book and draped in green and rose-colored robes.",
+  "theological_description": "This sacra conversazione presents the central mystery of the Incarnation through the lens of Marian theology. The enthroned Virgin with the Christ Child expresses the doctrine that Mary is Theotokos — the God-bearer — affirmed at the Council of Ephesus in 431 AD. The angels crowning her reflect the tradition of Mary's Coronation as Queen of Heaven, rooted in the typological reading of the queen mother (gebirah) in Israelite monarchy (1 Kings 2:19) and the woman clothed with the sun in Revelation 12. The two Johns flanking the throne create a profound theological pairing: John the Baptist, the last and greatest of the Old Testament prophets who announced the Lamb of God (John 1:29), and John the Evangelist, the beloved disciple to whom Christ entrusted His mother at the cross (John 19:26-27). Together they represent the bridge between the Old and New Covenants, both pointing toward the incarnate Christ at the center. The inscription AVE REGINA CAELORUM, one of the four great Marian antiphons, invokes the ancient devotion of the Church to the Mother of God, linking liturgical prayer to visual theology.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "The Annunciation promise that Mary would bear a son who would reign forever is fulfilled in the enthroned Christ Child"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John the Baptist's identification of Jesus as the Lamb of God is referenced by his presence beside the throne"
+    },
+    {
+      "ref": "JHN.19.26-27",
+      "relevance": "primary",
+      "reason": "Christ's entrustment of Mary to the beloved disciple John the Evangelist establishes the relationship depicted here"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The crowned Virgin enthroned recalls the woman clothed with the sun and crowned with stars"
+    },
+    {
+      "ref": "1KI.2.19",
+      "relevance": "typological",
+      "reason": "Bathsheba seated at the right hand of Solomon prefigures Mary as Queen Mother in the Davidic kingdom of Christ"
+    },
+    {
+      "ref": "ISA.6.1-3",
+      "relevance": "allusion",
+      "reason": "The cherubim surrounding the throne echo Isaiah's vision of the seraphim attending God's heavenly throne"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "majesty",
+    "devotion",
+    "serenity",
+    "splendor"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030839",
+    "title": "Enthroned Madonna and Child with Saints John the Baptist and John the Evangelist",
+    "artist": "Defendente Ferrari",
+    "model": "claude-opus-4-6"
+  }
+}

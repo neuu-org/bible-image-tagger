@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Penitent Thief (Dismas)", "type": "PERSON"},
+    {"name": "Impenitent Thief (Gestas)", "type": "PERSON"},
+    {"name": "Roman Soldiers", "type": "GROUP"},
+    {"name": "Mourning Women", "type": "GROUP"},
+    {"name": "Crowd", "type": "GROUP"},
+    {"name": "Horseman", "type": "PERSON"}
+  ],
+  "event": "The Crucifixion at Golgotha",
+  "tags": [
+    "crucifixion",
+    "golgotha",
+    "calvary",
+    "three-crosses",
+    "passion-of-christ",
+    "darkened-sky",
+    "roman-soldiers",
+    "mourning-women",
+    "crowd-at-calvary",
+    "divine-judgment",
+    "cosmic-darkness",
+    "redemptive-suffering",
+    "horse-and-rider",
+    "spear",
+    "gathered-multitude",
+    "good-friday",
+    "atonement",
+    "sacrificial-death"
+  ],
+  "symbols": [
+    "central cross of Christ — the instrument of redemption, the altar upon which the Lamb of God is sacrificed for the sins of the world",
+    "two thieves' crosses — the two responses to Christ: repentance and salvation (Dismas) versus rejection and perdition (Gestas)",
+    "darkened sky — the cosmic darkness that fell over the land from the sixth to the ninth hour, creation mourning its Creator",
+    "crowd below — all humanity as witnesses and participants in the Crucifixion, both mockers and mourners",
+    "mourning women — the faithful who remained at the Cross: Mary the Mother, Mary Magdalene, and the beloved disciple",
+    "Roman soldiers — the instruments of imperial power unwittingly executing God's salvific plan",
+    "horseman — the authority of Rome and the military power that crucified the King of Kings",
+    "spear/lance — the weapon that will pierce Christ's side, from which blood and water flow as sacramental signs"
+  ],
+  "description": "Three crosses stand at right, with Christ elevated highest, arms outstretched, head bowed. Two figures are crucified on either side. A vast crowd fills the hillside below -- dozens of figures in varied postures of grief and agitation. A mounted figure on a pale horse occupies the left foreground. Women in dark garments cluster at the foot of the central cross, weeping. Roman soldiers stand among the throng bearing spears. The sky is dramatically dark, almost black, pressing down with oppressive weight. The ground is a barren hilltop. Dark browns, blacks, and muted blues dominate the palette.",
+  "theological_description": "Munkacsy's 'Golgotha' presents the climactic moment of salvation history. All four Gospels narrate the Crucifixion, and this painting synthesizes their accounts into one panoramic composition. The three crosses fulfill Christ's prophecy that He would be 'lifted up from the earth' to draw all people to Himself (John 12:32). The two thieves embody humanity's universal choice: Dismas confesses Christ and receives Paradise (Luke 23:40-43), while Gestas perishes in blasphemy. The supernatural darkness corresponds to the synoptic account of darkness over the land from the sixth to the ninth hour (Matt 27:45) -- creation recoiling from its Maker's death. The crowd represents all humanity implicated in the Crucifixion: soldiers casting lots (Ps 22:18), mockers challenging Him to descend (Matt 27:39-44), and the faithful remnant watching from afar (Luke 23:49). The mourning women fulfill Simeon's prophecy of a sword piercing Mary's soul (Luke 2:35). This is the moment of atonement -- the Suffering Servant pierced for our transgressions (Isa 53:5), the Paschal Lamb slain at the appointed hour (1 Cor 5:7), the high priest entering the heavenly sanctuary with His own blood (Heb 9:11-12). The darkness is the weight of sin laid upon the sinless one, prompting the cry: 'My God, why have you forsaken me?' (Ps 22:1).",
+  "scripture_refs": [
+    {"ref": "MAT.27.33-56", "relevance": "primary", "reason": "Matthew's account of the Crucifixion at Golgotha, including the darkness, the mockery, and Christ's death -- the direct narrative source."},
+    {"ref": "JHN.19.17-37", "relevance": "primary", "reason": "John's account including the title on the Cross, the soldiers dividing garments, and the piercing of Christ's side."},
+    {"ref": "LUK.23.33-49", "relevance": "primary", "reason": "Luke's account including the two thieves, Christ's words of forgiveness, and the penitent thief's confession."},
+    {"ref": "LUK.23.40-43", "relevance": "primary", "reason": "The penitent thief's confession and Christ's promise: 'Today you will be with me in Paradise' -- embodied in the contrasting thieves."},
+    {"ref": "ISA.53.3-7", "relevance": "typological", "reason": "The Suffering Servant 'led like a lamb to the slaughter,' pierced for our transgressions -- the prophetic blueprint fulfilled at Golgotha."},
+    {"ref": "PSA.22.1-18", "relevance": "typological", "reason": "The messianic psalm describing pierced hands, divided garments, and the cry 'My God, why have you forsaken me?' -- fulfilled in every detail at the Cross."},
+    {"ref": "HEB.9.11-14", "relevance": "typological", "reason": "Christ as high priest entering the heavenly sanctuary with His own blood, securing eternal redemption -- the theological meaning of the sacrifice depicted."},
+    {"ref": "1CO.5.7", "relevance": "typological", "reason": "'Christ our Passover lamb has been sacrificed' -- the Crucifixion as the true Paschal sacrifice."},
+    {"ref": "LUK.2.35", "relevance": "allusion", "reason": "Simeon's prophecy that a sword would pierce Mary's soul -- fulfilled in the mourning women at the foot of the Cross."},
+    {"ref": "JHN.12.32", "relevance": "allusion", "reason": "'When I am lifted up from the earth, I will draw all people to myself' -- Christ's prophecy of the Crucifixion's universal salvific power."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "somber", "anguished", "awe-inspiring"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030277",
+    "title": "Golgota",
+    "artist": "Mihaly Munkacsy",
+    "model": "claude-opus-4-6"
+  }
+}

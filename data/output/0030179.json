@@ -1,0 +1,113 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioner",
+      "type": "PERSON"
+    },
+    {
+      "name": "Salome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Herodias",
+      "type": "PERSON"
+    },
+    {
+      "name": "Herod Antipas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldiers and Courtiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Martyrdom of John the Baptist",
+  "tags": [
+    "beheading",
+    "martyrdom",
+    "prophetic-witness",
+    "severed-head",
+    "platter",
+    "banquet-aftermath",
+    "royal-court",
+    "injustice",
+    "courage-before-tyranny",
+    "forerunner-of-christ",
+    "dance-of-salome",
+    "herodian-dynasty",
+    "moral-courage",
+    "lust-and-vengeance",
+    "sword"
+  ],
+  "symbols": [
+    "severed head on platter — the cost of prophetic truth-telling, the silencing of God's messenger by worldly power",
+    "sword of the executioner — the instrument of unjust death wielded by political authority corrupted by lust",
+    "Salome receiving the head — the perversion of feminine beauty into an instrument of death, desire weaponized by Herodias",
+    "Herod observing from the background — complicit royal power, bound by a rash oath, unable to resist evil counsel",
+    "courtyard with archway and distant crowd — the public nature of the injustice and its ramifications beyond the palace",
+    "John's prostrate body — the fallen prophet whose death prefigures Christ's own unjust execution at the hands of political authority",
+    "richly dressed courtiers — worldly opulence that contrasts with the Baptist's austere desert piety"
+  ],
+  "description": "A multi-figured scene set in a palatial courtyard with stone flooring and a grand archway opening to a distant cityscape. In the foreground, the headless body of a man in a red robe lies face down on the ground. A soldier in elaborate striped and patterned armor stands with a sword, having just completed the execution. To the center-left, a woman in a blue dress holds a dark platter upon which the severed head rests, presenting it to a second elegantly dressed woman beside her. A man in a green tunic and crown stands at the left, watching the scene with a composed expression.",
+  "theological_description": "The martyrdom of John the Baptist (Mark 6:14-29; Matthew 14:1-12) is one of the most dramatic episodes in the Gospels, narrating the death of the last and greatest of the Old Testament prophets (Matthew 11:11) at the hands of a corrupt ruler. John had publicly condemned the unlawful marriage of Herod Antipas to Herodias, his brother Philip's wife (Leviticus 18:16; 20:21), and for this prophetic courage he was imprisoned and ultimately beheaded. The scene depicted here shows the aftermath: Salome, Herodias's daughter, receives the severed head on a platter — the gruesome reward demanded after her dance pleased Herod. The theological significance is profound on multiple levels. John is the Forerunner (Prodromos), the voice crying in the wilderness (Isaiah 40:3), the Elijah who was to come (Malachi 4:5; Matthew 11:14). His death at the hands of a puppet king prefigures Christ's own execution by Pontius Pilate under pressure from corrupt authorities. Both are innocent men condemned by weak rulers manipulated by others. The Church Fathers, particularly Jerome and Chrysostom, saw in John's beheading a supreme example of parrhesia — prophetic boldness that speaks truth to power regardless of personal cost. John's willingness to die rather than compromise the moral law establishes the pattern for Christian martyrdom. His death also carries eschatological weight: the prophet who announced the Lamb of God (John 1:29) himself becomes a lamb led to slaughter, sealing his testimony with blood.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.17-29",
+      "relevance": "primary",
+      "reason": "The most detailed Gospel account of John's imprisonment and beheading at Herod's birthday banquet, including Salome's dance and the presentation of the head on a platter."
+    },
+    {
+      "ref": "MAT.14.1-12",
+      "relevance": "primary",
+      "reason": "Matthew's parallel account of the martyrdom, noting that John's disciples took the body, buried it, and went to tell Jesus."
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "primary",
+      "reason": "Jesus declares that among those born of women none is greater than John the Baptist — establishing the supreme dignity of the one whose death is depicted."
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness to prepare the way of the Lord — John's prophetic identity and mission, now silenced by martyrdom."
+    },
+    {
+      "ref": "MAL.4.5-6",
+      "relevance": "typological",
+      "reason": "The promise of Elijah's return before the great day of the Lord — fulfilled in John, whose death mirrors Elijah's persecution by Jezebel."
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "allusion",
+      "reason": "John's declaration 'Behold the Lamb of God' — the prophet who identified the sacrificial Lamb himself becomes a sacrificial victim."
+    },
+    {
+      "ref": "LEV.18.16",
+      "relevance": "primary",
+      "reason": "The Levitical prohibition against marrying a brother's wife — the specific law John cited in condemning Herod's marriage, which led to his execution."
+    },
+    {
+      "ref": "REV.6.9-11",
+      "relevance": "typological",
+      "reason": "The souls of martyrs beneath the altar cry out for justice — John the Baptist joins this company of those slain for the word of God and their testimony."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grim",
+    "dramatic",
+    "solemn",
+    "ominous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030179",
+    "title": "The Martyrdom of John the Baptist",
+    "artist": "Bernard Van Orley",
+    "model": "claude-opus-4-6"
+  }
+}

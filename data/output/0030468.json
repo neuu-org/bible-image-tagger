@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "holy-family",
+    "infant-Christ",
+    "divine-protection",
+    "exile",
+    "refugee",
+    "donkey",
+    "angelic-escort",
+    "obedience-to-divine-warning",
+    "maternal-tenderness",
+    "journey",
+    "providence",
+    "cherubim",
+    "escape-from-persecution"
+  ],
+  "symbols": [
+    "donkey — humble mode of travel and the lowliness of the Holy Family's earthly condition",
+    "angels overhead — divine protection and heavenly guidance during the perilous journey",
+    "infant cradled by Mary — maternal care sheltering the vulnerable Christ child",
+    "Joseph walking with staff — his role as faithful guardian and protector of the family",
+    "cloudy sky — uncertainty and danger of the journey, yet penetrated by heavenly light",
+    "water vessel on the donkey — practical provisions for the desert journey, emphasizing the human reality of the exile",
+    "Mary's blue mantle — her purity and her identity as Theotokos"
+  ],
+  "description": "A vertical composition showing a woman seated on a donkey, wearing a red dress and deep blue mantle, cradling a sleeping infant in her arms. She gazes down tenderly at the child. To the left, a bearded man in brown and grey garments walks alongside, carrying a staff and looking ahead. Above them in the cloudy sky, two plump cherubic angels hover, one gesturing downward. A water vessel hangs from the donkey's side. The palette is dominated by warm browns, rich blue, and soft golden light filtering through the clouds.",
+  "theological_description": "The Flight into Egypt, recorded in Matthew 2:13-15, occurs after an angel of the Lord appears to Joseph in a dream warning him that Herod seeks to destroy the child. Joseph rises immediately and takes his family by night into Egypt, where they remain until Herod's death. Matthew explicitly frames this as fulfillment of Hosea 11:1: 'Out of Egypt I have called my son.' This typological connection is profound: just as Israel, God's firstborn son, was called out of Egypt in the Exodus, so now God's only-begotten Son recapitulates that journey, entering and exiting Egypt to inaugurate a new and greater Exodus — the liberation of humanity from sin and death. The presence of angels overhead affirms the divine orchestration of events: though the Holy Family appears as vulnerable refugees fleeing political violence, they travel under the sovereign protection of heaven. Joseph's obedient response to the angelic warning models the righteousness of faithful action in the face of danger, while Mary's sheltering embrace of the infant embodies the Church's vocation to protect and nurture the presence of Christ in a hostile world.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The direct biblical account of the angel warning Joseph in a dream and the family's flight to Egypt to escape Herod"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Matthew cites this prophecy as fulfilled in the return from Egypt: 'Out of Egypt I have called my son'"
+    },
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "primary",
+      "reason": "The Massacre of the Innocents that the flight averts, showing the danger from which divine intervention rescues the child"
+    },
+    {
+      "ref": "EXO.4.22-23",
+      "relevance": "typological",
+      "reason": "Israel as God's firstborn son called out of Egypt prefigures Christ's own sojourn and departure from Egypt"
+    },
+    {
+      "ref": "PSA.91.11-12",
+      "relevance": "allusion",
+      "reason": "The angelic escort overhead visually embodies the promise that God commands his angels to guard the faithful in all their ways"
+    },
+    {
+      "ref": "ISA.19.1",
+      "relevance": "typological",
+      "reason": "The Lord rides on a swift cloud and comes to Egypt — patristic tradition saw this fulfilled when the infant Christ entered Egypt"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tenderness",
+    "urgency",
+    "protectiveness",
+    "tranquility"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030468",
+    "title": "Flight into Egypt",
+    "artist": "Bartolomé Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

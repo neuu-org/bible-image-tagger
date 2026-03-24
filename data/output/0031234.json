@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Louis IX of France",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Louis Bringing the Crown of Thorns to Paris",
+  "tags": [
+    "saint-louis",
+    "crown-of-thorns",
+    "relic",
+    "procession",
+    "medieval-piety",
+    "crusades",
+    "holy-relic",
+    "kingship",
+    "humility-of-a-king",
+    "sainte-chapelle",
+    "canopy",
+    "clergy",
+    "devotion",
+    "paris"
+  ],
+  "symbols": [
+    "crown of thorns — the instrument of Christ's Passion, the supreme relic of the Crucifixion",
+    "red canopy — royal and liturgical dignity of the relic procession",
+    "bare feet or humble posture of Louis — royal humility in imitation of Christ",
+    "halo around Louis — canonized sanctity of the king",
+    "clergy and courtiers — the union of Church and crown in honoring the Passion",
+    "medieval city walls — Paris, the destination of the relic"
+  ],
+  "description": "A watercolor composition in a medieval illuminated manuscript style depicting a solemn procession. At the center, a haloed figure identified as King Louis IX of France walks under a red canopy held aloft by attendants. He carries or accompanies the Crown of Thorns. He is surrounded by clergy in white vestments, courtiers in colorful robes, and onlookers. The procession moves before the walls and towers of a medieval city, presumably Paris. The scene is framed by a red border, giving it the appearance of a manuscript illumination.",
+  "theological_description": "This painting commemorates the historical event of 1239 when King Louis IX of France received the Crown of Thorns -- the relic believed to have been placed on Christ's head during the Passion (Matthew 27:29, John 19:2) -- and processed barefoot through Paris to receive it with due reverence. Louis subsequently built the Sainte-Chapelle to house this and other Passion relics. The theological significance is layered: the Crown of Thorns is the supreme symbol of Christ's suffering kingship, the paradox that the King of Kings was crowned with thorns in mockery, yet through that very suffering accomplished the redemption of the world. Louis's act of humble veneration reflects the medieval theology of relics as tangible connections to the mysteries of salvation, and his barefoot procession deliberately imitates Christ's own journey to Calvary. The scene embodies the ideal of the rex christianissimus, the most Christian king, whose authority is exercised in service and whose crown of gold is subordinated to Christ's crown of thorns. This stands as a profound meditation on Philippians 2:5-11, the kenosis hymn: the one who was in the form of God emptied himself, and the earthly king who follows him must do likewise.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.29",
+      "relevance": "primary",
+      "reason": "The soldiers twisted together a crown of thorns and set it on Christ's head -- the very relic being processed"
+    },
+    {
+      "ref": "JHN.19.2-5",
+      "relevance": "primary",
+      "reason": "The soldiers wove a crown of thorns and put it on his head; Pilate's 'Behold the man' -- the origin of the relic"
+    },
+    {
+      "ref": "PHP.2.5-11",
+      "relevance": "typological",
+      "reason": "Christ's self-emptying kenosis, imitated by Louis's humility in processing barefoot as a king honoring the suffering Christ"
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant despised and rejected, wounded for our transgressions -- the theological meaning of the crown of thorns"
+    },
+    {
+      "ref": "MRK.15.17-18",
+      "relevance": "primary",
+      "reason": "Mark's account of the crowning with thorns during the mockery of Christ before crucifixion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "reverent",
+    "processional",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0031234",
+    "title": "Saint Louis Bringing the Holy Crown to Paris",
+    "artist": "William-Adolphe Bouguereau",
+    "model": "claude-opus-4-6"
+  }
+}

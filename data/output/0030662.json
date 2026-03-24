@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Nativity of Christ at Night",
+  "tags": [
+    "nativity",
+    "night-scene",
+    "incarnation",
+    "light-of-the-world",
+    "manger",
+    "adoration",
+    "divine-light",
+    "christmas",
+    "nocturnal",
+    "kneeling-madonna",
+    "shepherds",
+    "angelic-announcement"
+  ],
+  "symbols": [
+    "the radiant Christ Child as sole light source — the Light of the World (John 1:9) illuminating the darkness of sin and death",
+    "the deep surrounding darkness — the fallen world into which the Redeemer is born, 'the people who walked in darkness have seen a great light' (Isaiah 9:2)",
+    "Mary kneeling in adoration — the first worshipper, embodying the proper human response to the divine mystery of the Incarnation",
+    "the manger or cradle — humility of the Creator entering creation in the lowliest form, foreshadowing the tomb",
+    "the small angels gathered near — the heavenly host witnessing and adoring the newborn King",
+    "the dim figures emerging from darkness — humanity drawn out of darkness toward the light of Christ"
+  ],
+  "description": "A nocturnal Nativity scene set inside a dark stable or barn. The infant Christ lies in a small manger or cradle at center, His body emitting a soft golden-white glow that serves as the primary light source for the entire composition. The Virgin Mary kneels before the child at right, her face illuminated from below, wearing a dark blue mantle over a white veil. Her hands are pressed together in prayer. To the left, several small angels kneel in adoration, their delicate faces lit by the child's radiance.",
+  "theological_description": "Geertgen tot Sint Jans's Nativity at Night is among the most theologically profound treatments of the Incarnation in Northern European painting. By making the Christ Child the sole source of light in an otherwise pitch-dark scene, the artist gives visual form to the Johannine prologue: 'The light shines in the darkness, and the darkness has not overcome it' (John 1:5). This is not merely a painting of Jesus's birth but a visual theology of the Incarnation itself — the moment when the eternal Word, through whom all things were made, enters His own creation as a helpless infant. The darkness represents both the literal night of the birth and the spiritual darkness of a world without its Redeemer. Isaiah's prophecy finds its fulfillment: 'The people who walked in darkness have seen a great light; those who dwelt in a land of deep darkness, on them has light shone' (Isaiah 9:2). Mary's kneeling posture reflects the vision of St. Bridget of Sweden, who described the Virgin kneeling to worship her newborn Son, whose body radiated divine light that overwhelmed all earthly illumination. The angels, tiny and reverent, echo the heavenly host of Luke 2:13-14. The profound theological claim of this painting is that God's glory is revealed not in power but in vulnerability — the infinite Light of the cosmos is a naked infant in a feed trough.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus in a manger because there was no room in the inn — the foundational narrative event"
+    },
+    {
+      "ref": "JHN.1.4-5",
+      "relevance": "primary",
+      "reason": "In Him was life and the life was the light of men; the light shines in the darkness — the central visual theology of the painting"
+    },
+    {
+      "ref": "ISA.9.2",
+      "relevance": "typological",
+      "reason": "The people who walked in darkness have seen a great light — the prophetic fulfillment visualized in the nocturnal radiance"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "primary",
+      "reason": "The multitude of the heavenly host praising God — the angels kneeling in adoration beside the manger"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us, and we have seen His glory — the Incarnation as the theological subject of the entire composition"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "allusion",
+      "reason": "Christ emptying Himself and taking the form of a servant — the kenotic theology expressed in the vulnerable infant as source of all light"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "wonder",
+    "intimacy",
+    "reverence",
+    "stillness"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030662",
+    "title": "Nativity at Night",
+    "artist": "Geertgen tot Sint Jans",
+    "model": "claude-opus-4-6"
+  }
+}

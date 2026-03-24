@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Zechariah",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Birth and Naming of St. John the Baptist",
+  "tags": [
+    "birth-of-john-the-baptist",
+    "naming",
+    "elizabeth",
+    "zechariah",
+    "newborn",
+    "midwives",
+    "domestic-scene",
+    "interior",
+    "fresco",
+    "lunette",
+    "attendants",
+    "swaddling",
+    "mother-and-child",
+    "answered-prayer"
+  ],
+  "symbols": [
+    "newborn infant — John the Baptist, the forerunner of Christ, born miraculously to aged parents",
+    "bed with Elizabeth reclining — the traditional nativity scene composition echoing the birth of Christ",
+    "attendant women — the community of women who rejoice at the miraculous birth",
+    "architectural setting with columns — the household of Zechariah, of the priestly division of Abijah",
+    "lunette shape — ecclesiastical fresco format indicating the sacred nature of the scene"
+  ],
+  "description": "A lunette-shaped fresco depicting the birth and early care of St. John the Baptist in an interior domestic setting. On the left, Elizabeth reclines in bed, attended by a woman who offers her nourishment. In the foreground, a seated attendant holds the newborn infant while another woman kneels beside a basin, preparing to bathe or swaddle the child. To the right, additional figures, including a woman holding the infant, are arranged in an arcade with classical columns. The composition splits into two moments: the birth scene on the left and the naming or presentation on the right.",
+  "theological_description": "The birth and naming of John the Baptist, recorded in Luke 1:57-66, is one of the great nativity scenes of the New Testament, second only to the birth of Christ himself. Elizabeth, who was barren and advanced in years, conceived by divine intervention after the angel Gabriel announced the birth to her husband Zechariah in the temple (Luke 1:5-25). Zechariah was struck mute for his disbelief and only recovered his speech at the naming of the child, when he confirmed that the boy should be called John -- a name meaning 'the Lord is gracious.' Lippi's fresco captures the domestic joy of this miraculous birth while maintaining its theological gravitas. The scene typologically recalls the birth of Isaac to the barren Sarah (Genesis 21:1-7) and the birth of Samuel to the barren Hannah (1 Samuel 1:19-20), establishing John within the biblical pattern of children of promise born to those whom God has specially chosen. John's birth inaugurates the final prophetic preparation for the Messiah; as the angel declared, he would go before the Lord in the spirit and power of Elijah to make ready a people prepared for the Lord (Luke 1:17).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.57-66",
+      "relevance": "primary",
+      "reason": "The direct biblical account of the birth and naming of John the Baptist"
+    },
+    {
+      "ref": "LUK.1.13-17",
+      "relevance": "primary",
+      "reason": "Gabriel's announcement to Zechariah in the temple of the coming birth and mission of John"
+    },
+    {
+      "ref": "LUK.1.67-79",
+      "relevance": "primary",
+      "reason": "The Benedictus, Zechariah's prophetic canticle at the naming, declaring John's role as prophet of the Most High"
+    },
+    {
+      "ref": "GEN.21.1-7",
+      "relevance": "typological",
+      "reason": "The birth of Isaac to the barren Sarah, typological parallel to John's miraculous birth to the elderly Elizabeth"
+    },
+    {
+      "ref": "1SA.1.19-20",
+      "relevance": "typological",
+      "reason": "The birth of Samuel to Hannah, another barren woman whose prayer was answered, prefiguring Elizabeth's joy"
+    },
+    {
+      "ref": "MAL.4.5-6",
+      "relevance": "typological",
+      "reason": "The prophecy that Elijah would come before the great day of the Lord, fulfilled in John the Baptist"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "tender",
+    "domestic",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0031255",
+    "title": "Birth and Naming St. John",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

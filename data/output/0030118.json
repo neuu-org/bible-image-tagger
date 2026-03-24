@@ -1,0 +1,104 @@
+{
+  "characters": [
+    {
+      "name": "Saul/Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ (heavenly light)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saul's Companions",
+      "type": "GROUP"
+    },
+    {
+      "name": "Horses",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Conversion of Saint Paul on the Road to Damascus",
+  "tags": [
+    "conversion",
+    "road-to-damascus",
+    "divine-intervention",
+    "fallen-horseman",
+    "heavenly-light",
+    "dramatic-revelation",
+    "calling-of-apostle",
+    "grace",
+    "blinding-light",
+    "rearing-horses",
+    "chaos-and-awe",
+    "new-testament-narrative",
+    "pauline-mission",
+    "landscape"
+  ],
+  "symbols": [
+    "blinding light from heaven — the glory of the risen Christ and divine irruption into human affairs",
+    "Saul fallen to the ground — the overthrow of human pride and self-righteousness by grace",
+    "rearing and panicked horses — the disruption of worldly power and the uncontrollable force of divine encounter",
+    "scattered companions — the personal and isolating nature of divine calling",
+    "road — the journey motif, interrupted by God who redirects Saul's entire life course",
+    "landscape stretching into distance — the vast missionary horizon that awaits the newly called apostle",
+    "dramatic sky — cosmic significance of the event that changed the course of Christianity"
+  ],
+  "description": "A large, turbulent composition depicting a chaotic scene on a hilly road. At the center-left, a muscular man in armor has fallen from a rearing white horse, his body twisted and arms flung outward as he crashes to the ground. A brilliant burst of light descends from the upper sky, illuminating the scene. Around him, multiple companions and soldiers tumble, scramble, and shield their eyes in confusion. Several horses rear and bolt in panic. The right side of the painting shows figures falling down an embankment.",
+  "theological_description": "Tintoretto's depiction of the Conversion of Saint Paul captures the most pivotal moment in apostolic history outside the Resurrection itself. Acts 9:1-9 records that Saul, breathing threats and murder against the disciples, was struck down by a light from heaven and heard the voice of Jesus saying, 'Saul, Saul, why are you persecuting me?' This event is narrated three times in Acts (chapters 9, 22, and 26), underscoring its supreme importance to Luke's theology of divine initiative in salvation. The theological heart of the scene is the doctrine of irresistible grace: Saul did not seek Christ but was apprehended by him (Philippians 3:12). The violent disruption -- horses rearing, companions falling, Saul blinded -- dramatizes the total overthrow of human autonomy before the sovereign call of God. Paul himself would later interpret this event as the definitive proof that his apostleship came 'not from men nor through man, but through Jesus Christ and God the Father' (Galatians 1:1). The blinding light that strips Saul of physical sight paradoxically grants him spiritual illumination, echoing 2 Corinthians 4:6: 'God who said, Let light shine out of darkness, has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.' The road to Damascus thus becomes a type of every conversion: the persecutor becomes the apostle, the enemy of grace becomes its greatest champion, fulfilling the pattern Jesus established: 'the last will be first' (Matthew 20:16).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.9.1-9",
+      "relevance": "primary",
+      "reason": "The direct narrative source: Saul's encounter with the risen Christ on the road to Damascus, his fall, the heavenly light, and his temporary blindness"
+    },
+    {
+      "ref": "ACT.22.6-11",
+      "relevance": "primary",
+      "reason": "Paul's own retelling of his conversion before the Jerusalem crowd, emphasizing the great light and the divine voice"
+    },
+    {
+      "ref": "ACT.26.12-18",
+      "relevance": "primary",
+      "reason": "Paul's account before Agrippa, adding the commission to open eyes and turn people from darkness to light"
+    },
+    {
+      "ref": "GAL.1.1",
+      "relevance": "primary",
+      "reason": "Paul's insistence that his apostleship was not from men but through Jesus Christ -- the theological significance of the Damascus road call"
+    },
+    {
+      "ref": "GAL.1.15-16",
+      "relevance": "primary",
+      "reason": "God set Paul apart from his mother's womb and called him by grace to reveal his Son -- the predestinating theology behind the conversion"
+    },
+    {
+      "ref": "PHP.3.12",
+      "relevance": "allusion",
+      "reason": "Paul's confession that Christ Jesus apprehended him -- the passive nature of his conversion depicted in the violent fall"
+    },
+    {
+      "ref": "2CO.4.6",
+      "relevance": "typological",
+      "reason": "God shining light in darkness to give knowledge of his glory in Christ's face -- the blinding light as spiritual illumination"
+    },
+    {
+      "ref": "MAT.20.16",
+      "relevance": "allusion",
+      "reason": "The last shall be first -- Saul the chief persecutor becomes Paul the chief apostle"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "chaotic",
+    "dramatic",
+    "awe-struck",
+    "overwhelming"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0030118",
+    "title": "The Conversion of Saint Paul",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "St. John and the Poisoned Cup",
+  "tags": [
+    "apostle",
+    "poisoned-cup",
+    "chalice",
+    "serpent",
+    "miraculous-deliverance",
+    "divine-protection",
+    "halo",
+    "blessing-gesture",
+    "faithfulness",
+    "new-testament-figure",
+    "hagiography",
+    "triumph-over-evil"
+  ],
+  "symbols": [
+    "golden chalice — the poisoned cup offered to John as a test of faith",
+    "serpent rising from the cup — the venom and evil rendered powerless by divine protection",
+    "blessing gesture of the right hand — apostolic authority and invocation of God's power over poison",
+    "halo — sanctity and divine favor upon the beloved disciple",
+    "white robe — purity and priestly dignity of the apostle",
+    "pink/red mantle — love and the willingness to suffer for Christ"
+  ],
+  "description": "A seated male figure wearing a white robe and a rose-pink mantle holds a golden chalice in his left hand. A small serpent or dragon emerges from the cup, coiling upward. His right hand is raised in a gesture of blessing or command over the creature. A faint halo encircles his head. The background is dark, with warm light falling on his face and garments, creating a dramatic chiaroscuro effect characteristic of Spanish Baroque painting.",
+  "theological_description": "This painting depicts the apocryphal legend of St. John the Evangelist and the poisoned cup, drawn from the Acts of John and later hagiographic tradition compiled in Jacobus de Voragine's Golden Legend. According to the account, the priest of the temple of Diana at Ephesus challenged John to drink from a poisoned chalice. John made the sign of the cross over the cup, and the poison departed in the form of a serpent, rendering the drink harmless. This episode became one of the defining iconographic attributes of St. John. Theologically, the scene embodies Christ's promise in Mark 16:18 that believers 'will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them.' The serpent rising from the cup also evokes the ancient enmity between the seed of the woman and the serpent (Genesis 3:15), with John as a faithful witness participating in Christ's victory over the powers of death. The apostle's calm authority over the venomous creature reflects the dominion granted to those who abide in Christ, echoing Luke 10:19 where Jesus declares, 'I have given you authority to tread on serpents and scorpions, and over all the power of the enemy.'",
+  "scripture_refs": [
+    {
+      "ref": "MRK.16.18",
+      "relevance": "primary",
+      "reason": "Christ's promise that believers who drink deadly poison will not be harmed directly underlies the depicted legend"
+    },
+    {
+      "ref": "LUK.10.19",
+      "relevance": "primary",
+      "reason": "Jesus grants authority over serpents and all power of the enemy, which John exercises over the poisoned cup"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The serpent emerging from the chalice evokes the protoevangelium and the ongoing enmity between the woman's seed and the serpent"
+    },
+    {
+      "ref": "JHN.21.20-23",
+      "relevance": "allusion",
+      "reason": "John as the beloved disciple whom Jesus loved, whose special destiny among the apostles is underscored by miraculous preservation"
+    },
+    {
+      "ref": "REV.1.9",
+      "relevance": "allusion",
+      "reason": "John's identity as the faithful witness who endured persecution for the word of God and the testimony of Jesus"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "authoritative",
+    "contemplative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0031135",
+    "title": "St. John the Evangelist and the Poisoned Cup",
+    "artist": "Alonso Cano",
+    "model": "claude-opus-4-6"
+  }
+}

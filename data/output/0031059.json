@@ -1,0 +1,105 @@
+{
+  "characters": [
+    {
+      "name": "Mary (Virgin)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joachim",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "High Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Temple attendants",
+      "type": "GROUP"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The young Virgin Mary is presented at the Temple in Jerusalem by her parents Joachim and Anne",
+  "tags": [
+    "presentation-of-mary",
+    "temple",
+    "consecration",
+    "marian-devotion",
+    "childhood-of-mary",
+    "temple-steps",
+    "dedication",
+    "virginal-consecration",
+    "joachim-and-anne",
+    "high-priest",
+    "protevangelium-of-james",
+    "liturgical-feast",
+    "classical-architecture",
+    "mannerist-composition"
+  ],
+  "symbols": [
+    "temple steps — Mary's ascent toward God, her willing self-offering and consecration as a vessel of divine purpose",
+    "high priest receiving the child — the priestly recognition of Mary's special vocation, the Temple welcoming its future fulfillment",
+    "classical columns and architecture — the Jerusalem Temple as the dwelling place of God, soon to be superseded by Mary's own body as the Ark of the New Covenant",
+    "draped curtain — the veil of the Temple, which Mary's Son will one day rend at His death (Matthew 27:51)",
+    "kneeling and bowing figures — reverence before the sacred event, the human recognition of divine election"
+  ],
+  "description": "A Mannerist composition set within a grand classical temple interior with massive columns and draped curtains. At the center, a young girl ascends the temple steps toward a priestly figure who stands at the top. Below, several figures in richly colored garments observe the scene — some kneeling, others turning toward the child with gestures of reverence and wonder. The viewpoint is from below, looking upward, emphasizing the monumental architecture and the dramatic ascent. The figures display elongated proportions and dynamic, twisting poses characteristic of Mannerist style.",
+  "theological_description": "The Presentation of Mary in the Temple, drawn from the Protevangelium of James (a second-century apocryphal text), celebrates the moment when the three-year-old Mary was brought by her parents Joachim and Anne to the Temple in Jerusalem to be consecrated to God's service. Though not found in canonical Scripture, this event has been a feast of the universal Church since at least the sixth century (November 21) and carries deep typological resonance. Mary ascending the temple steps is understood as a living fulfillment of Psalm 45:13-15: 'The princess is led to the king... she is led to you with her companions.' The Church Fathers, particularly Germanus of Constantinople and Andrew of Crete, saw in this presentation a prefiguration of the Incarnation itself: Mary enters the Temple, the dwelling-place of God's Shekinah glory, because she will soon become the true Temple, the living Ark of the Covenant (Luke 1:35) in whom the Word takes flesh. The typology is rich: as Samuel was presented at the Tabernacle by Hannah (1 Samuel 1:24-28), so Mary is presented by Anne, both mothers who received their children as divine gifts after barrenness. Mary's entry into the Holy of Holies (according to tradition) anticipates how Christ, through her flesh, will pass through the veil and open access to the Father (Hebrews 10:19-20).",
+  "scripture_refs": [
+    {
+      "ref": "Psa.45.13-15",
+      "relevance": "typological",
+      "reason": "The royal princess adorned in glory being led to the king — applied liturgically to Mary's presentation and consecration"
+    },
+    {
+      "ref": "1Sam.1.24-28",
+      "relevance": "typological",
+      "reason": "Hannah presenting the young Samuel at the Tabernacle in Shiloh — the direct Old Testament type for Mary's presentation by Anne"
+    },
+    {
+      "ref": "Luk.1.35",
+      "relevance": "typological",
+      "reason": "The Holy Spirit overshadowing Mary, making her the true Temple of God — the fulfillment of what the Temple presentation foreshadows"
+    },
+    {
+      "ref": "Heb.10.19-20",
+      "relevance": "typological",
+      "reason": "Christ opening a new way through the veil by His flesh — Mary's entry into the Temple anticipates this access"
+    },
+    {
+      "ref": "Exo.25.8",
+      "relevance": "allusion",
+      "reason": "God's command to build a sanctuary that He may dwell among His people — Mary herself becomes this sanctuary"
+    },
+    {
+      "ref": "Luk.2.22-24",
+      "relevance": "allusion",
+      "reason": "The later presentation of Jesus at the Temple, paralleling Mary's own earlier presentation and consecration"
+    },
+    {
+      "ref": "Psa.84.1-2",
+      "relevance": "allusion",
+      "reason": "The psalmist's longing for the courts of the LORD — expressed in Mary's joyful ascent of the Temple steps"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "solemn",
+    "ceremonial",
+    "luminous"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0031059",
+    "title": "Presentation of Mary in the Temple",
+    "artist": "Francesco Salviati",
+    "model": "claude-opus-4-6"
+  }
+}

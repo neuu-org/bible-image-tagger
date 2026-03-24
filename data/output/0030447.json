@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "God",
+      "type": "DEITY"
+    }
+  ],
+  "event": "David praying Psalm 24",
+  "tags": [
+    "Old-Testament",
+    "Psalms",
+    "Psalm-24",
+    "prayer",
+    "kneeling-supplicant",
+    "illuminated-manuscript",
+    "liturgical-text",
+    "medieval-devotion",
+    "Book-of-Hours",
+    "Latin-text",
+    "gold-leaf",
+    "historiated-initial",
+    "divine-worship",
+    "temple-prayer",
+    "sovereignty-of-God"
+  ],
+  "symbols": [
+    "kneeling figure in red robe — the posture of humble supplication and submission before God",
+    "church or chapel interior — the sacred space of divine encounter and liturgical worship",
+    "golden altar or shrine at upper left — the presence of God to whom prayer ascends",
+    "illuminated Latin text — the living Word of God preserved and transmitted through monastic devotion",
+    "decorated initial letter — the beauty of holiness and the sanctification of the written Word",
+    "marginal floral ornamentation — the fruitfulness and beauty of a life rooted in prayer and Scripture",
+    "open book or psalter — the tradition of prayed Scripture, the Psalms as the prayer book of the Church"
+  ],
+  "description": "An illuminated manuscript page from a Book of Hours, divided into a miniature painting at upper left and two columns of Latin text in Gothic script. The miniature shows a robed figure in red kneeling in prayer within an arched church interior, facing a golden altar or shrine where small figures or icons are visible. The text page features a large decorated initial letter in blue and gold, with the Latin text of a psalm rendered in black ink with red rubrics. Marginal decorations of colored flowers and gold leaf adorn the borders.",
+  "theological_description": "Psalm 24 (Vulgate 23) is a royal entrance liturgy celebrating God's sovereignty over all creation: 'The earth is the LORD's and the fullness thereof' (Psalm 24:1). The psalm moves from cosmic declaration to ethical demand — 'Who shall ascend the hill of the LORD?' (v. 3) — and culminates in the triumphant processional cry: 'Lift up your heads, O gates, that the King of glory may come in' (v. 7). The kneeling figure, traditionally identified as David, embodies the posture of the one who seeks God with clean hands and a pure heart (v. 4). In Christian typology, Psalm 24 was read as prophesying Christ's Ascension into heaven: the gates of heaven opening for the risen King of Glory. The Church Fathers — Origen, Chrysostom, Augustine — interpreted the 'gates' as the heavenly portals commanded to receive the ascending Christ. The Limbourg brothers' placement of this psalm within a Book of Hours situates it within the daily liturgical cycle, where the faithful join David in seeking the face of God. The Latin text transforms private reading into participatory worship, making the reader a pilgrim ascending the holy hill.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.24.1-2",
+      "relevance": "primary",
+      "reason": "The earth is the LORD's — the psalm text being illuminated declares God's universal sovereignty over creation"
+    },
+    {
+      "ref": "PSA.24.3-4",
+      "relevance": "primary",
+      "reason": "Who shall ascend the hill of the LORD — the kneeling supplicant embodies the one who seeks to approach God with clean hands"
+    },
+    {
+      "ref": "PSA.24.7-10",
+      "relevance": "primary",
+      "reason": "Lift up your heads, O gates — the climactic processional cry that the Church Fathers applied to Christ's Ascension"
+    },
+    {
+      "ref": "ACT.1.9-11",
+      "relevance": "typological",
+      "reason": "Christ's Ascension into heaven — the patristic reading of Psalm 24's gates opening for the King of Glory"
+    },
+    {
+      "ref": "HEB.4.16",
+      "relevance": "allusion",
+      "reason": "Let us approach the throne of grace with confidence — the kneeling figure enacts bold yet reverent approach to God"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotion",
+    "reverence",
+    "contemplation"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0030447",
+    "title": "Psalm XXIV",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

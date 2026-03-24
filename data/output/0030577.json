@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples and listeners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Sermon of Saint John the Baptist",
+  "tags": [
+    "john-the-baptist",
+    "preaching",
+    "repentance",
+    "baptism",
+    "forerunner-of-Christ",
+    "prophet",
+    "wilderness-preaching",
+    "gathering",
+    "icon-panel",
+    "gold-background",
+    "twelve-listeners",
+    "seated-teacher",
+    "rock",
+    "tree"
+  ],
+  "symbols": [
+    "John seated on a rock — the prophet as foundation stone and voice crying in the wilderness",
+    "gesturing hand of John — the act of preaching, pointing hearers toward the coming Messiah",
+    "gold background — divine glory and the transcendent realm from which the prophetic word originates",
+    "tree between the groups — the tree of judgment that John invokes: 'every tree that does not bear good fruit is cut down'",
+    "two groups of listeners flanking John — the division between those who accept and those who question the prophetic call",
+    "red and varied garments of the listeners — diverse social classes and stations responding to John's universal summons to repentance"
+  ],
+  "description": "A horizontal icon panel on a wooden surface with a gold-leaf background depicting a central haloed figure seated on a rock outcropping, dressed in robes and gesturing with his right hand. He is flanked by two groups of standing figures, approximately six on each side, wearing richly colored garments in reds, greens, blues, and browns. A tree rises behind the central figure. The figures on the left appear to listen attentively, while those on the right stand in various postures of reception. The gold background is tooled with decorative patterns.",
+  "theological_description": "The preaching of John the Baptist stands as the hinge between the Old and New Testaments. All four Gospels identify John as the fulfillment of Isaiah 40:3 — 'the voice of one crying in the wilderness: Prepare the way of the Lord.' His sermon, as recorded in Matthew 3:1-12, Luke 3:7-18, and Mark 1:1-8, centered on an urgent call to repentance in preparation for the imminent arrival of the Messiah. John proclaimed a baptism of repentance for the forgiveness of sins, warning his hearers that 'the axe is already laid at the root of the trees' and that one mightier than he was coming, who would baptize with the Holy Spirit and fire. The icon's composition — John seated centrally with attentive listeners on either side — evokes the prophetic authority tradition: like Moses teaching Israel, John delivers the final prophetic word before the messianic age begins. His role as forerunner (prodromos in Greek theology) makes him the last and greatest of the Old Testament prophets (Matthew 11:11), the bridge figure who literally points the way from Law to Gospel. The diverse crowd gathered around him reflects Luke's account of tax collectors, soldiers, and ordinary people all asking 'What shall we do?' — the universal scope of the call to repentance.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.1-12",
+      "relevance": "primary",
+      "reason": "John's preaching of repentance in the wilderness, warning of coming judgment and announcing the one who baptizes with the Holy Spirit"
+    },
+    {
+      "ref": "LUK.3.7-18",
+      "relevance": "primary",
+      "reason": "Luke's expanded account of John's sermon with specific ethical instructions to crowds, tax collectors, and soldiers"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "primary",
+      "reason": "The prophetic text fulfilled by John's ministry: the voice crying in the wilderness to prepare the way of the Lord"
+    },
+    {
+      "ref": "JHN.1.23",
+      "relevance": "primary",
+      "reason": "John identifies himself explicitly as the voice of Isaiah 40:3, defining his prophetic vocation as forerunner"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Jesus's declaration that among those born of women none is greater than John, affirming his supreme prophetic status"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The messenger sent to prepare the way before the Lord, applied to John the Baptist in the Gospel tradition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "prophetic",
+    "authoritative",
+    "solemn",
+    "expectant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030577",
+    "title": "Sermon of Saint John the Baptist",
+    "artist": "Ivan Rutkovych",
+    "model": "claude-opus-4-6"
+  }
+}

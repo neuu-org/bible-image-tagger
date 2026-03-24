@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Baptism of Christ in the Jordan River",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "holy-spirit",
+    "theophany",
+    "trinity",
+    "epiphany",
+    "john-the-baptist",
+    "icon",
+    "immersion",
+    "descent-of-the-spirit",
+    "divine-revelation"
+  ],
+  "symbols": [
+    "Christ standing in the water — His voluntary descent into the Jordan prefigures His descent into death and the sanctification of all waters for baptism",
+    "the dove or vessel of the Holy Spirit descending from above — the Third Person of the Trinity manifesting visibly, confirming Christ's identity",
+    "John the Baptist bowing to touch Christ's head — the last prophet of the Old Covenant recognizing and serving the One who inaugurates the New",
+    "angels at the right holding garments — the heavenly court attending the theophany, ready to clothe the baptized Lord",
+    "the waters of the Jordan — death and chaos subdued, recalling the Red Sea crossing and the Jordan crossing under Joshua",
+    "golden halos — the divine radiance of Christ and the sanctity of those who attend Him"
+  ],
+  "description": "A Byzantine-style icon on a weathered, aged panel depicting the Baptism of Christ. At center, Christ stands nearly nude in the dark waters of the Jordan River, depicted frontally with a golden halo. At the left, John the Baptist leans forward in dark garments, extending his right hand to Christ's head in the act of baptism. At the right, a group of angels in varied colored robes stand reverently, some holding cloth garments. Above, a small vessel or ray descends from the top of the composition toward Christ's head, representing the descent of the Holy Spirit.",
+  "theological_description": "The Baptism of Christ is the supreme Trinitarian theophany of the New Testament: the Son stands in the water, the Spirit descends as a dove, and the Father's voice declares from heaven, 'This is my beloved Son, in whom I am well pleased' (Matthew 3:17). In Eastern Orthodox theology, this event is celebrated as Theophany — not merely Christ's baptism but the revelation of the Triune God to the world. Christ's immersion in the Jordan carries profound soteriological meaning: the sinless One enters the waters of repentance not because He needs cleansing, but to sanctify the waters themselves, to take upon Himself the sins of humanity, and to prefigure His own death and resurrection (Romans 6:3-4). The Jordan recalls the Old Testament crossings — Israel through the Red Sea (Exodus 14) and through the Jordan under Joshua (Joshua 3) — both types of baptismal passage from slavery to freedom, from death to life. John the Baptist, as the last of the Old Testament prophets, serves as the bridge between the covenants: he recognizes his own unworthiness ('I need to be baptized by you,' Matthew 3:14) yet fulfills his role as the forerunner. Andrei Rublev's iconic treatment, with its formal frontality and hieratic stillness, emphasizes the liturgical and cosmic significance of the event over its historical particularity.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "Matthew's account of Christ's baptism by John, the Spirit's descent, and the Father's voice — the event depicted"
+    },
+    {
+      "ref": "MRK.1.9-11",
+      "relevance": "primary",
+      "reason": "Mark's account of the baptism with the heavens torn open and the Spirit descending like a dove"
+    },
+    {
+      "ref": "JHN.1.29-34",
+      "relevance": "primary",
+      "reason": "John the Baptist's testimony: Behold the Lamb of God — his recognition of Christ at the baptism"
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "typological",
+      "reason": "Baptism into Christ's death and resurrection — the sacramental theology that flows from Christ's own baptism"
+    },
+    {
+      "ref": "JOS.3.14-17",
+      "relevance": "typological",
+      "reason": "Israel crossing the Jordan into the Promised Land — a baptismal type fulfilled in Christ's entry into the Jordan"
+    },
+    {
+      "ref": "ISA.42.1",
+      "relevance": "typological",
+      "reason": "Behold my servant, in whom my soul delights; I have put my Spirit upon him — the Servant Song fulfilled at the baptism"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "awe",
+    "solemnity",
+    "sacredness",
+    "revelation"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030661",
+    "title": "Baptism of Christ",
+    "artist": "Andrei Rublev",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Pope Sixtus II",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Pope Sixtus II",
+  "tags": [
+    "papacy",
+    "early-Church",
+    "martyrdom",
+    "bishop-of-Rome",
+    "papal-authority",
+    "apostolic-succession",
+    "liturgical-vestments",
+    "shepherd-of-the-flock",
+    "ecclesial-office",
+    "niche-fresco",
+    "tiara",
+    "standing-figure",
+    "solemn-authority"
+  ],
+  "symbols": [
+    "papal tiara — supreme spiritual authority and the threefold office of teaching, sanctifying, and governing",
+    "ornate cope with clasp — liturgical office and the priestly dignity conferred by ordination",
+    "shell-shaped apse niche — the heavenly canopy of divine protection over the Church's shepherd",
+    "raised right hand — gesture of blessing or doctrinal authority",
+    "book or scroll held in left hand — guardianship of sacred Scripture and apostolic teaching",
+    "marble architectural frame — the enduring stability of the Church built upon the apostles",
+    "inscription at base — historical commemoration linking the figure to the line of Peter"
+  ],
+  "description": "A full-length fresco of a bearded man standing within a shell-vaulted marble niche framed by ornamental pilasters. He wears a tall papal tiara and an elaborate golden-orange cope fastened at the chest by a jeweled clasp. His right hand is raised in a gesture of authority or blessing, while his left hand holds a closed book or scroll. Below his feet a Latin inscription identifies him. The architectural surround is richly decorated with carved white marble, including floral panels and classical moldings.",
+  "theological_description": "Pope Sixtus II served as Bishop of Rome from 257 to 258 AD and was martyred under the Valerian persecution along with six of his deacons while celebrating the Eucharist in the catacombs. His death exemplifies the theology of the shepherd who lays down his life for his sheep (John 10:11). As one of the earliest martyred popes, Sixtus II stands in the apostolic succession that Catholic and Orthodox theology traces back to Peter's confession at Caesarea Philippi (Matthew 16:18-19). The Sistine Chapel placement of this figure among the line of popes affirms the ecclesiology of unbroken pastoral authority transmitted through episcopal ordination. Cyprian of Carthage recorded the circumstances of Sixtus's death, making him a powerful witness to the cost of faithfulness in shepherding God's people. The book in his hand recalls the deposit of faith entrusted to the apostles (2 Timothy 1:13-14), while the architectural niche evokes the firmness of the household of God, the Church of the living God, the pillar and ground of truth (1 Timothy 3:15).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.10.11",
+      "relevance": "typological",
+      "reason": "The Good Shepherd lays down his life for the sheep — Sixtus II was martyred while ministering to his flock"
+    },
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "typological",
+      "reason": "Peter's commission as rock of the Church grounds the apostolic succession that Sixtus II represents"
+    },
+    {
+      "ref": "2TI.1.13-14",
+      "relevance": "allusion",
+      "reason": "Guard the good deposit entrusted to you — the book held by Sixtus symbolizes the faithful transmission of apostolic doctrine"
+    },
+    {
+      "ref": "1TI.3.15",
+      "relevance": "allusion",
+      "reason": "The Church as pillar and ground of truth — evoked by the monumental architectural framing of this papal portrait"
+    },
+    {
+      "ref": "ACT.20.28",
+      "relevance": "allusion",
+      "reason": "Paul's charge to the Ephesian elders to shepherd the flock of God, a charge Sixtus fulfilled unto death"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemnity",
+    "authority",
+    "reverence"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0030439",
+    "title": "Sixtus II",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

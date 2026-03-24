@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "mother-and-child",
+    "incarnation",
+    "theotokos",
+    "tenderness",
+    "halo",
+    "stained-glass-motif",
+    "geometric-pattern",
+    "embrace",
+    "divine-maternity",
+    "marian-devotion",
+    "intimacy",
+    "warmth"
+  ],
+  "symbols": [
+    "halo (golden arc) — divine glory and sanctity of the Virgin",
+    "embrace — the Incarnation as God entering human intimacy and vulnerability",
+    "geometric stained-glass pattern — the heavenly order and the Church as the house of God",
+    "vivid primary colors — the fullness of grace and the joy of the Incarnation",
+    "cheek-to-cheek pose — the Eleusa ('tenderness') iconographic type expressing divine and human love united"
+  ],
+  "description": "A boldly colored painting depicting a woman and child in close embrace, cheek pressed against cheek. The woman's face is rendered in warm yellows and reds with large blue eyes, and a golden curved line arcs over her head like a halo. The child, painted in deep orange and red tones, nestles against her with closed or downcast eyes. Behind and to the left, angular geometric shapes in greens, blues, reds, and yellows evoke a stained-glass window. The background is a deep blue-violet. The composition is intimate and frontal, with thick impasto brushwork and a mosaic-like quality.",
+  "theological_description": "The Madonna and Child is among the most central subjects in Christian art, representing the mystery of the Incarnation -- God taking flesh from the Virgin Mary (John 1:14, Luke 1:31-35). The Eleusa or 'tenderness' pose, with mother and child cheek to cheek, emphasizes not merely maternal affection but the theological reality that the infinite God chose radical intimacy with humanity. The Council of Ephesus (431 AD) affirmed Mary as Theotokos ('God-bearer'), and every Madonna and Child image is a visual confession of that doctrine. The golden halo indicates sanctity and the overshadowing of the Holy Spirit (Luke 1:35). The stained-glass-like geometric background evokes the ecclesial context in which this mystery is celebrated. In patristic typology, Mary is the new Eve (Irenaeus, Against Heresies III.22.4), the Ark of the New Covenant carrying the divine presence (cf. 2 Samuel 6 and Luke 1:39-45, where Elizabeth's greeting echoes David's response to the Ark). Isaiah's prophecy of the virgin bearing a son named Immanuel, 'God with us' (Isaiah 7:14), finds its fulfillment in this scene of divine-human closeness.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.31-35",
+      "relevance": "primary",
+      "reason": "The Annunciation narrative: Mary will conceive and bear a son, the Son of the Most High, by the Holy Spirit."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us -- the theological heart of every Madonna and Child image."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son called Immanuel, the Old Testament prophecy fulfilled in the Incarnation."
+    },
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "allusion",
+      "reason": "The Visitation, where Mary as Ark of the New Covenant carries the divine presence, paralleling 2 Samuel 6."
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent His Son, born of a woman -- the Pauline summary of the Incarnation depicted here."
+    },
+    {
+      "ref": "REV.12.1-5",
+      "relevance": "typological",
+      "reason": "The Woman clothed with the sun who bears the male child destined to rule all nations, a cosmic image of divine maternity."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "luminous",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030197",
+    "title": "Madonna and Child",
+    "artist": "Vudon Baklytsky",
+    "model": "claude-opus-4-6"
+  }
+}

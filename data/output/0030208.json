@@ -1,0 +1,113 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Righteous Dead",
+      "type": "GROUP"
+    },
+    {
+      "name": "Demons",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Harrowing of Hell (Anastasis)",
+  "tags": [
+    "descent-into-hell",
+    "anastasis",
+    "harrowing-of-hell",
+    "resurrection",
+    "liberation",
+    "mandorla",
+    "halo",
+    "white-robe",
+    "victory-over-death",
+    "broken-chains",
+    "golden-glory",
+    "dark-cavern",
+    "salvation-of-the-righteous",
+    "paschal-mystery"
+  ],
+  "symbols": [
+    "mandorla (golden almond-shaped aureole) — the uncreated divine light of Christ's glory piercing the darkness of Sheol",
+    "white robes of Christ — purity, resurrection victory, and the transfigured body",
+    "outstretched hand grasping Adam — the salvific reach of Christ that rescues humanity from death itself",
+    "dark cavern — Sheol/Hades, the abode of the dead, the realm of darkness and shadow",
+    "haloed figures kneeling — the righteous dead of the Old Covenant, awaiting the Messiah's liberation",
+    "shadowy figures in darkness — the demonic powers or unrepentant dead overcome by Christ's descent",
+    "white banner or cloth — the victory banner of the Resurrection"
+  ],
+  "description": "Christ stands at the center of a dark, cavernous space, clothed in flowing white robes, surrounded by a brilliant golden mandorla edged with pale blue light. A cruciform halo marks His head. His right hand reaches down forcefully to grasp the hand of a kneeling haloed figure being pulled upward from below. His left hand is raised, holding what appears to be a white cloth or banner. At His feet, two haloed figures kneel in supplication. To the left and right, darker figures cluster in the shadows of the cavern -- some appear hunched, grieving, or monstrous.",
+  "theological_description": "The Descent into Hell, or Anastasis, depicts the event proclaimed in the Apostles' Creed: 'He descended into hell.' Between His death on the Cross and His Resurrection, Christ descended to the abode of the dead (Sheol/Hades) to liberate the righteous who had died before His coming. First Peter 3:18-20 speaks of Christ preaching 'to the spirits in prison,' and 1 Peter 4:6 declares the Gospel was 'preached even to the dead.' The golden mandorla represents the uncreated divine light -- Christ as 'the Light of the world' (John 8:12) penetrating the ultimate darkness. The figure grasped by Christ's hand is traditionally Adam, the first man, whose sin brought death into the world (Romans 5:12-21); Christ as the Second Adam reverses the curse by pulling Adam (and through him all humanity) out of death. Eve is typically shown beside Adam. The Harrowing fulfills Hosea 13:14: 'O Death, where are your plagues? O Sheol, where is your sting?' and Psalm 107:14-16, where God 'brought them out of darkness and the shadow of death and burst their bonds apart.' The broken gates of Hades fulfill Isaiah 45:2: 'I will break in pieces the doors of bronze and cut through the bars of iron.' This scene is the supreme icon of Pascha in Eastern Christianity, depicting not merely Christ rising from the tomb but Christ conquering Death itself and emptying Hades of its captives.",
+  "scripture_refs": [
+    {
+      "ref": "1PE.3.18-20",
+      "relevance": "primary",
+      "reason": "Christ put to death in flesh but made alive in spirit, in which He went and preached to the spirits in prison."
+    },
+    {
+      "ref": "1PE.4.6",
+      "relevance": "primary",
+      "reason": "The Gospel was preached even to the dead, so that they might live in the spirit according to God."
+    },
+    {
+      "ref": "ROM.5.12-21",
+      "relevance": "primary",
+      "reason": "Through one man (Adam) sin and death entered; through one man (Christ) grace and life abound -- the Adam-Christ typology central to this scene."
+    },
+    {
+      "ref": "PSA.107.14-16",
+      "relevance": "typological",
+      "reason": "God brings them out of darkness and the shadow of death and bursts their bonds apart."
+    },
+    {
+      "ref": "ISA.45.2",
+      "relevance": "typological",
+      "reason": "God breaks doors of bronze and cuts bars of iron -- the shattering of Hades' gates."
+    },
+    {
+      "ref": "HOS.13.14",
+      "relevance": "typological",
+      "reason": "O Death, where are your plagues? O Sheol, where is your sting? -- the triumph over death fulfilled in the Harrowing."
+    },
+    {
+      "ref": "JHN.8.12",
+      "relevance": "allusion",
+      "reason": "Christ as the Light of the world, visually embodied in the radiant mandorla against the surrounding darkness."
+    },
+    {
+      "ref": "EPH.4.8-10",
+      "relevance": "primary",
+      "reason": "He descended into the lower parts of the earth and led captivity captive, giving gifts to men."
+    },
+    {
+      "ref": "COL.2.15",
+      "relevance": "allusion",
+      "reason": "Christ disarmed the rulers and authorities, triumphing over them -- the demonic powers overcome in Hades."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "solemn",
+    "luminous",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030208",
+    "title": "Descent into Hell",
+    "artist": "Mikhaïl Nesterov",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Ecce Homo / Man of Sorrows",
+  "tags": [
+    "ecce-homo",
+    "man-of-sorrows",
+    "crown-of-thorns",
+    "suffering-christ",
+    "passion",
+    "half-naked",
+    "wounds",
+    "lamentation",
+    "angels-mourning",
+    "putti",
+    "woodcut",
+    "devotional-image"
+  ],
+  "symbols": [
+    "crown of thorns — mockery of Christ's kingship and the curse of sin borne by the Redeemer",
+    "bared torso with wounds — the suffering flesh of the Incarnate God, the price of human redemption",
+    "mourning angels/putti — heaven itself grieving at the Passion of its Lord",
+    "inscription ECCE HOMO — Pilate's declaration 'Behold the Man' (John 19:5), presenting Christ to the crowd",
+    "closed or anguished eyes — the depth of physical and spiritual suffering, the weight of the world's sin",
+    "date 1511 — the historical inscription marking the work's creation"
+  ],
+  "description": "A woodcut print depicting a half-naked man with a crown of thorns, shown from the waist up in a frontal pose. His head tilts slightly, eyes closed or downcast in anguish, mouth partially open. His torso bears visible marks of suffering. Surrounding him are numerous small winged figures -- putti or angels -- some pressing close, some appearing to weep or gesture in sorrow. Above, the inscription 'ECCE HOMO' is carved into a horizontal band, with the date '1511' below it. At the bottom, the artist's monogram is visible.",
+  "theological_description": "The Man of Sorrows (Vir Dolorum) is a devotional image type rooted in Isaiah 53:3: 'He was despised and rejected by men, a man of sorrows and acquainted with grief.' The inscription 'Ecce Homo' quotes Pontius Pilate's presentation of the scourged Christ to the Jewish crowd (John 19:5), a moment of supreme irony in which the Roman governor unwittingly proclaims a theological truth -- this broken figure is indeed 'the Man,' the Son of Man, the second Adam in whom the fullness of humanity and divinity converge. The crown of thorns reverses the curse of Genesis 3:18 ('thorns and thistles shall the ground bring forth'), as Christ bears upon His head the consequences of the Fall. The surrounding angels in grief reflect the cosmic dimensions of the Passion: all creation mourns as its Creator suffers (cf. the darkness at noon, Luke 23:44-45). This image type does not depict a specific narrative moment but rather invites the viewer into sustained contemplative meditation on the mystery of redemptive suffering. The wounds displayed evoke Isaiah 53:5: 'By his wounds we are healed.' The Man of Sorrows tradition bridges the Passion narrative and the Eucharistic theology of the broken body given for the life of the world (1 Corinthians 11:24).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.5",
+      "relevance": "primary",
+      "reason": "Pilate's declaration 'Ecce Homo' ('Behold the Man'), the direct textual source inscribed on the print."
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "primary",
+      "reason": "The Suffering Servant who is despised, rejected, a man of sorrows, wounded for our transgressions -- the foundational prophecy for the Man of Sorrows image type."
+    },
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "primary",
+      "reason": "The soldiers strip Jesus, place a crown of thorns on His head, and mock Him -- the narrative source for the visual elements."
+    },
+    {
+      "ref": "GEN.3.18",
+      "relevance": "typological",
+      "reason": "The curse of thorns and thistles upon the ground, reversed as Christ bears the thorns upon His own head."
+    },
+    {
+      "ref": "LUK.23.44-45",
+      "relevance": "allusion",
+      "reason": "Darkness covers the land during the crucifixion, reflecting the cosmic grief shown by the mourning angels."
+    },
+    {
+      "ref": "1CO.11.24",
+      "relevance": "allusion",
+      "reason": "This is my body broken for you -- the Eucharistic dimension of the displayed wounded body."
+    },
+    {
+      "ref": "PSA.22.6-8",
+      "relevance": "typological",
+      "reason": "The messianic psalm of one scorned, mocked, and despised, a prophetic prefiguration of the Ecce Homo moment."
+    },
+    {
+      "ref": "HEB.4.15",
+      "relevance": "allusion",
+      "reason": "A high priest who sympathizes with our weaknesses, tempted in every way yet without sin -- the theology of Christ's full humanity in suffering."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "anguished",
+    "mournful",
+    "devotional",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030217",
+    "title": "Man of Sorrows",
+    "artist": "Hans Baldung",
+    "model": "claude-opus-4-6"
+  }
+}

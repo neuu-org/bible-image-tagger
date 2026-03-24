@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Saint Bonaventure",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel Ministering the Eucharist",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Franciscan Friars",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Miraculous Communion of Saint Bonaventure",
+  "tags": [
+    "eucharist",
+    "miraculous-communion",
+    "angelic-ministry",
+    "franciscan-order",
+    "altar",
+    "priestly-vestments",
+    "chasuble",
+    "devotion-to-eucharist",
+    "real-presence",
+    "mystical-experience",
+    "candle",
+    "crucifix",
+    "open-missal",
+    "kneeling-friars",
+    "sacramental-theology"
+  ],
+  "symbols": [
+    "angel in priestly vestments — heavenly priesthood administering divine sacrament",
+    "host being offered — the Body of Christ, the Eucharistic real presence",
+    "richly embroidered chasuble — the sacred dignity of the priestly office",
+    "crucifix on the altar — Christ's sacrifice which the Eucharist re-presents",
+    "lit candle — the light of Christ present in the sacrament",
+    "open missal on the altar — the liturgy of the Word accompanying the liturgy of the Eucharist",
+    "kneeling Franciscan friars — humility, poverty of spirit, and eucharistic adoration",
+    "dark interior — the hiddenness of mystical encounter with the divine"
+  ],
+  "description": "An interior church scene with an altar at the left, upon which rest a crucifix, a lit candle, and an open book. A figure in an ornate red and gold chasuble stands at the altar with wings visible, revealing it to be an angel rather than a human priest. The angel turns toward the right, extending a host toward a kneeling man in a brown Franciscan habit, who receives with hands joined in prayer and head bowed in profound reverence. Behind this friar, several more Franciscan brothers kneel and watch in attitudes of awe and devotion.",
+  "theological_description": "The miraculous communion of Saint Bonaventure depicts a tradition in which the Seraphic Doctor, having abstained from receiving the Eucharist out of a deep sense of unworthiness, was visited by an angel who administered the host directly to him. This legend encapsulates several layers of Catholic sacramental theology. First, it affirms the real presence of Christ in the Eucharist — so sacred that heaven itself intervenes to ensure the saint receives. The angel clothed in priestly vestments affirms that the priesthood is ultimately a heavenly office, with earthly priests acting in persona Christi. Bonaventure's humility before the sacrament echoes the centurion's words, 'Lord, I am not worthy' (Matthew 8:8), which the Church incorporated into the liturgy. The Franciscan brothers witnessing the event recall the ecclesial dimension of the Eucharist — it is never a purely private act but the food of the whole body of Christ. The crucifix on the altar ties the Eucharist to Calvary, affirming the Council of Trent's teaching that the Mass is the unbloody re-presentation of Christ's sacrifice. Bonaventure himself wrote extensively on the Eucharist as the sacrament of love, the supreme expression of Christ's self-giving that nourishes the soul's journey toward God.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.8.8",
+      "relevance": "primary",
+      "reason": "Bonaventure's profound humility before the Eucharist directly mirrors the centurion's declaration of unworthiness"
+    },
+    {
+      "ref": "JHN.6.53-56",
+      "relevance": "primary",
+      "reason": "Jesus's discourse on eating his flesh and drinking his blood is the theological foundation of the Eucharistic scene depicted"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "primary",
+      "reason": "Paul's account of the institution of the Lord's Supper grounds the sacramental action the angel performs"
+    },
+    {
+      "ref": "HEB.1.14",
+      "relevance": "typological",
+      "reason": "The angel serving as minister fulfills the description of angels as ministering spirits sent to serve the heirs of salvation"
+    },
+    {
+      "ref": "PSA.78.25",
+      "relevance": "typological",
+      "reason": "The bread of angels given to mortals typologically prefigures the Eucharist brought by an angel to the saint"
+    },
+    {
+      "ref": "1KI.19.5-8",
+      "relevance": "typological",
+      "reason": "As an angel brought bread to Elijah for his journey, so an angel brings the Bread of Life to Bonaventure"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "reverence",
+    "mystery",
+    "devotion",
+    "awe"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0030017",
+    "title": "St Bonaventura Receiving the Host from the Hands of An Angel",
+    "artist": "Francisco Herrera",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    }
+  ],
+  "event": "David praying Psalm 26",
+  "tags": [
+    "psalm",
+    "king-david",
+    "prayer",
+    "illuminated-manuscript",
+    "book-of-hours",
+    "tres-riches-heures",
+    "latin-text",
+    "decorated-initials",
+    "marginalia",
+    "kneeling-figure",
+    "landscape",
+    "medieval-devotion"
+  ],
+  "symbols": [
+    "kneeling posture — humble supplication and dependence on God",
+    "rocky hillside — the psalmist's refuge in God as his rock and stronghold",
+    "blue robe of David — royalty and divine election",
+    "open landscape with water — the living waters of God's presence and the journey of faith",
+    "decorated initials and marginalia — the beauty of the Word of God adorned by human artistry",
+    "golden Latin text — the preciousness of Scripture, more desired than gold (Psalm 19:10)"
+  ],
+  "description": "An illuminated manuscript page from the Tres Riches Heures du Duc de Berry showing a miniature illustration within a text of Psalm 26 (Vulgate numbering; Psalm 27 in modern numbering). The miniature depicts King David kneeling on a green hillside beside a body of water, wearing a blue robe, his hands raised in prayer and his face turned upward toward heaven. The surrounding text is written in Gothic script with elaborate decorated initials in gold, blue, and red. The margins feature delicate foliate ornament with colored medallions and grotesque figures.",
+  "theological_description": "This illuminated page from the celebrated Tres Riches Heures of the Limbourg brothers presents Psalm 26 (Vulgate; Psalm 27 in Hebrew numbering), one of the most beloved psalms of trust and longing for God's presence. The psalm opens with the declaration 'Dominus illuminatio mea et salus mea, quem timebo?' — 'The Lord is my light and my salvation; whom shall I fear?' David is shown in the classic posture of supplication, kneeling with hands raised, embodying the psalm's central movement from fear to confidence. The rocky landscape visually echoes verse 5, where God hides the psalmist in His shelter and sets him high upon a rock. The proximity of water recalls the life-giving presence of God. This psalm holds a unique place in Christian liturgy and devotion: it was traditionally recited during the season of Lent as an expression of the believer's longing to 'dwell in the house of the Lord all the days of my life, to gaze upon the beauty of the Lord' (v. 4). The Limbourg brothers' exquisite illumination itself becomes a form of prayer, adorning the sacred text with beauty that mirrors the divine beauty the psalmist seeks.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.27.1",
+      "relevance": "primary",
+      "reason": "The psalm directly illustrated: 'The Lord is my light and my salvation; whom shall I fear?'"
+    },
+    {
+      "ref": "PSA.27.4",
+      "relevance": "primary",
+      "reason": "David's posture embodies the longing to dwell in God's house and gaze upon His beauty"
+    },
+    {
+      "ref": "PSA.27.5-6",
+      "relevance": "primary",
+      "reason": "The rocky hillside setting visually represents God hiding the psalmist in His shelter and setting him high upon a rock"
+    },
+    {
+      "ref": "PSA.27.7-8",
+      "relevance": "primary",
+      "reason": "David's upraised hands and lifted face illustrate the cry 'Hear, O Lord, when I cry aloud' and 'Your face, Lord, do I seek'"
+    },
+    {
+      "ref": "PSA.19.10",
+      "relevance": "allusion",
+      "reason": "The golden ornamentation of the text reflects the psalmist's declaration that God's words are more precious than gold"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotion",
+    "longing",
+    "trust",
+    "beauty"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0030866",
+    "title": "Psalm XXVI",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

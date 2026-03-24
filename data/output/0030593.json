@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Man of Sorrows (Imago Pietatis)",
+  "tags": [
+    "man-of-sorrows",
+    "imago-pietatis",
+    "passion-of-Christ",
+    "suffering-servant",
+    "wounds-of-Christ",
+    "half-length-Christ",
+    "crown-of-thorns",
+    "cruciform-halo",
+    "closed-eyes",
+    "crossed-arms",
+    "devotional-image",
+    "gold-ground",
+    "sarcophagus",
+    "redemptive-suffering"
+  ],
+  "symbols": [
+    "cruciform halo — Christ's divinity intersecting with the instrument of his Passion",
+    "closed eyes — death and the descent into the grave, or contemplative suffering",
+    "crossed arms over the body — the pose of death and burial, inviting meditation on Christ's sacrifice",
+    "bare torso showing wounds — the physical cost of atonement, the body broken for humanity",
+    "gold ground — divine glory persisting even in death, the paradox of the crucified God",
+    "architectural niche framing — the tomb or sarcophagus from which Christ emerges, linking death to resurrection",
+    "crown of thorns suggested by the halo's thorny edge — the mockery of earthly kingship transformed into heavenly sovereignty"
+  ],
+  "description": "A half-length devotional image of a male figure with eyes closed, shown from the waist up against a gold ground within a pointed architectural niche. The figure has long reddish-brown hair and a large circular halo with a cross pattern inscribed within it. His torso is bare, emaciated, and marked, with arms crossed over the lower body. The skin is pale with greenish undertones suggesting death. The face is gaunt with a sorrowful, resigned expression, head slightly tilted.",
+  "theological_description": "The Man of Sorrows (Vir Dolorum) is rooted in Isaiah 53:3: 'He was despised and rejected by men, a man of sorrows and acquainted with grief.' This devotional image type, which emerged in Byzantine art and became central to Western medieval piety, depicts Christ after the crucifixion — dead or dying, displaying his wounds, yet presented frontally as if both dead and alive simultaneously. This paradox is theologically deliberate: the Man of Sorrows compresses the entire Paschal Mystery into a single image. Christ is shown as the sacrificial victim whose body was broken (1 Corinthians 11:24), the Lamb slain from the foundation of the world (Revelation 13:8), and yet the one who lives forevermore (Revelation 1:18). The crossed arms evoke the burial posture, yet the upright position hints at resurrection. The gold ground proclaims that even in the depths of his humiliation, Christ remains the radiance of God's glory (Hebrews 1:3). This image served medieval devotional practice as an aid to compassio — the believer's empathetic participation in Christ's suffering, answering Paul's desire to 'know him and the power of his resurrection, and the fellowship of his sufferings, being conformed to his death' (Philippians 3:10). The gaunt, emaciated body recalls the Suffering Servant of Isaiah who 'had no form or majesty that we should look at him, and no beauty that we should desire him' (Isaiah 53:2), making visible the scandal of a God who redeems through weakness rather than power.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "primary",
+      "reason": "The Man of Sorrows acquainted with grief, wounded for our transgressions — the primary prophetic source for this image type"
+    },
+    {
+      "ref": "PHP.2.7-8",
+      "relevance": "primary",
+      "reason": "Christ's self-emptying and humiliation to the point of death on a cross, the theological core of the kenotic suffering depicted"
+    },
+    {
+      "ref": "1PE.2.24",
+      "relevance": "primary",
+      "reason": "He himself bore our sins in his body on the tree — the wounded body of Christ as the instrument of atonement"
+    },
+    {
+      "ref": "REV.1.17-18",
+      "relevance": "typological",
+      "reason": "The one who was dead and is alive forevermore — the paradox of the Man of Sorrows shown as both dead and present"
+    },
+    {
+      "ref": "HEB.1.3",
+      "relevance": "allusion",
+      "reason": "The radiance of God's glory, expressed in the gold ground that proclaims divinity even amid the humiliation of death"
+    },
+    {
+      "ref": "ISA.53.2",
+      "relevance": "primary",
+      "reason": "No form or majesty that we should look at him — the deliberately unglorified, gaunt body reflects the Servant's lack of outward beauty"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "allusion",
+      "reason": "The devotional purpose of the image: to know Christ in the fellowship of his sufferings, being conformed to his death"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "sorrowful",
+    "contemplative",
+    "solemn",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030593",
+    "title": "Man of Sorrow",
+    "artist": "Pietro Lorenzetti",
+    "model": "claude-opus-4-6"
+  }
+}

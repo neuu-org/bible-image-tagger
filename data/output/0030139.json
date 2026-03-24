@@ -1,0 +1,104 @@
+{
+  "characters": [
+    {
+      "name": "Saint Roch",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Sick and Afflicted",
+      "type": "GROUP"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Attendants and Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Apparition of Saint Roch",
+  "tags": [
+    "saints-and-apostles",
+    "apparition",
+    "heavenly-glory",
+    "healing",
+    "plague-saint",
+    "intercession",
+    "celestial-vision",
+    "sick-and-suffering",
+    "divine-compassion",
+    "altarpiece",
+    "clouds-of-glory",
+    "charity",
+    "devotional-painting",
+    "candelabra"
+  ],
+  "symbols": [
+    "Saint Roch appearing in glory above clouds — heavenly intercession and saintly patronage against plague",
+    "God the Father enthroned above — divine authority sanctioning the saint's mission of mercy",
+    "angels surrounding the saint — celestial endorsement of his holiness and charitable works",
+    "sick figures below — the suffering faithful who seek heavenly aid through saintly intercession",
+    "clouds dividing upper and lower registers — the boundary between heaven and earth, breached by grace",
+    "dramatic light from above — divine illumination descending upon the afflicted world",
+    "candelabra and altar setting — the liturgical context of veneration and sacramental presence",
+    "woman in white garment below — vulnerability, suffering, and the human need for divine mercy"
+  ],
+  "description": "A monumental altarpiece set within an arched architectural frame, photographed in situ with altar candelabra visible below. The composition is divided into two registers. In the upper zone, a muscular male figure in light drapery appears amid golden clouds surrounded by angels and heavenly figures, with a bearded patriarch figure enthroned at the very top in radiant light. The lower zone is darker and more earthbound, depicting a group of suffering figures. A woman in a pale garment reclines prominently in the center foreground, looking upward in supplication.",
+  "theological_description": "While Saint Roch is a post-biblical figure (c. 1295-1327), his veneration is deeply rooted in biblical theology. The apparition depicted here draws on the scriptural pattern of heavenly intercession: just as Moses interceded for Israel (Exodus 32:11-14) and the elders in Revelation cast their crowns before the throne (Revelation 4:10), so the saints in glory are understood to intercede before God for the suffering Church on earth. Saint Roch, who devoted his life to caring for plague victims and was himself miraculously healed, embodies the dominical command to heal the sick (Matthew 10:8) and the parable of the Good Samaritan (Luke 10:30-37). The two-register composition -- heaven above, suffering earth below -- reflects the biblical cosmology of Hebrews 12:1, where the 'great cloud of witnesses' surrounds believers in their earthly trials. The sick and afflicted below look upward in faith, enacting the Psalmist's cry: 'I lift up my eyes to the hills -- from where does my help come?' (Psalm 121:1). God the Father enthroned above recalls the vision of Revelation 4, seated in majesty and sovereign over all suffering. The theological message is that the compassion Christ showed to the sick during his earthly ministry continues through the communion of saints, who participate in his ongoing work of mercy and healing. James 5:14-16 provides the sacramental foundation: the prayer of a righteous person has great power, and the saints in glory are the supremely righteous whose prayers avail much.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.8",
+      "relevance": "typological",
+      "reason": "Christ's command to heal the sick, freely give what was freely received -- the mandate Saint Roch fulfilled in his ministry to plague victims"
+    },
+    {
+      "ref": "LUK.10.30-37",
+      "relevance": "typological",
+      "reason": "The parable of the Good Samaritan, the model of selfless care for the suffering that defines Saint Roch's vocation"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "typological",
+      "reason": "The great cloud of witnesses surrounding believers -- the theological basis for depicting saints appearing in glory above the faithful"
+    },
+    {
+      "ref": "PSA.121.1-2",
+      "relevance": "allusion",
+      "reason": "The sick figures looking upward enact the Psalmist's cry: I lift up my eyes to the hills, my help comes from the Lord"
+    },
+    {
+      "ref": "REV.4.2-11",
+      "relevance": "typological",
+      "reason": "God enthroned in heavenly majesty, the vision underlying the upper register of the composition"
+    },
+    {
+      "ref": "JAS.5.14-16",
+      "relevance": "allusion",
+      "reason": "The prayer of a righteous person has great power -- the theological foundation for saintly intercession on behalf of the sick"
+    },
+    {
+      "ref": "REV.8.3-4",
+      "relevance": "typological",
+      "reason": "The prayers of the saints rising before God like incense -- the heavenly intercession depicted in the apparition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "compassionate",
+    "luminous",
+    "supplicant"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0030139",
+    "title": "The Apparition of St Roch",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

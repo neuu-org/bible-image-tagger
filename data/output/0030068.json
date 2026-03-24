@@ -1,0 +1,101 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simon of Cyrene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd following Jesus",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Ascent to Calvary (Carrying of the Cross)",
+  "tags": [
+    "way-of-the-cross",
+    "via-dolorosa",
+    "carrying-the-cross",
+    "calvary",
+    "passion-of-christ",
+    "simon-of-cyrene",
+    "roman-soldiers",
+    "suffering",
+    "crucifixion-procession",
+    "fallen-under-the-cross",
+    "spears-and-banners",
+    "crowd",
+    "hill-of-golgotha",
+    "dramatic-sky",
+    "self-denial"
+  ],
+  "symbols": [
+    "the cross — instrument of salvation and the weight of the world's sin",
+    "Jesus fallen beneath the cross — the crushing burden of human iniquity upon the sinless one",
+    "Simon of Cyrene helping bear the cross — the call to share in Christ's sufferings",
+    "Roman soldiers with spears — worldly power complicit in the death of the innocent",
+    "steep upward path — the arduous ascent to sacrificial death",
+    "banners and standards — the military authority of Rome executing divine providence",
+    "dark threatening sky — cosmic grief and the eclipse of the Light of the World",
+    "crowd pressing forward — humanity both complicit in and witness to the Passion"
+  ],
+  "description": "A dramatically composed scene of a steep, rocky ascent crowded with figures moving upward toward the right. At center, a figure collapses under the massive weight of a wooden cross, bent nearly to the ground. Another figure grasps the cross from behind, helping to bear its weight. Roman soldiers on horseback and on foot surround the procession, carrying spears, lances, and military banners that cut diagonally across the stormy sky. The crowd presses in from all sides — some pushing, some pulling, some watching.",
+  "theological_description": "Tintoretto's Ascent to Calvary captures the Via Dolorosa — Christ's agonizing journey from Pilate's judgment hall to Golgotha. The Synoptic Gospels record that as Jesus was led away, the soldiers compelled Simon of Cyrene to carry the cross (Mark 15:21, Matthew 27:32, Luke 23:26), a detail richly visible here. Theologically, this moment reveals the kenosis — the self-emptying of God incarnate (Philippians 2:6-8) — taken to its most visceral extreme. The one through whom all things were made (John 1:3) is crushed beneath a beam of wood. Isaiah's prophecy finds its fulfillment: 'He was oppressed and afflicted, yet he did not open his mouth; he was led like a lamb to the slaughter' (Isaiah 53:7). Simon's forced participation in bearing the cross becomes a living icon of Jesus's later invitation: 'Whoever wishes to come after me must deny himself, take up his cross, and follow me' (Mark 8:34). The steep upward path to Calvary is the ascent of the Suffering Servant toward the altar of sacrifice where the Lamb of God will take away the sin of the world. The dark, roiling sky suggests that creation itself groans under the weight of what is transpiring — the murder of its Creator — while paradoxically, this apparent defeat is the mechanism of cosmic redemption. Every detail — the soldiers' brutality, the crowd's indifference, the crushing weight — converges on the scandal of the cross that Paul would later proclaim as the power and wisdom of God (1 Corinthians 1:23-24).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.20-22",
+      "relevance": "primary",
+      "reason": "Mark's account of Jesus being led out to be crucified and Simon of Cyrene being compelled to carry the cross is the direct narrative depicted"
+    },
+    {
+      "ref": "LUK.23.26-28",
+      "relevance": "primary",
+      "reason": "Luke's account of Simon carrying the cross and the crowd following Jesus on the way to Calvary"
+    },
+    {
+      "ref": "ISA.53.4-7",
+      "relevance": "primary",
+      "reason": "The Suffering Servant crushed and led to slaughter is typologically fulfilled in Christ's collapse under the cross"
+    },
+    {
+      "ref": "MRK.8.34",
+      "relevance": "typological",
+      "reason": "Simon physically enacts Jesus's teaching to take up the cross and follow him"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "allusion",
+      "reason": "Christ's humiliation unto death on a cross — the kenosis — is visually manifest in his collapse under its weight"
+    },
+    {
+      "ref": "1CO.1.23-24",
+      "relevance": "allusion",
+      "reason": "The scandal and foolishness of the cross to worldly power is embodied in the soldiers who force the crucifixion march"
+    },
+    {
+      "ref": "JHN.19.17",
+      "relevance": "primary",
+      "reason": "John's account that Jesus went out bearing his own cross to Golgotha"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguish",
+    "oppressive",
+    "turbulent",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030068",
+    "title": "The Ascent to Calvary",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

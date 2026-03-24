@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Trinity of the Broken Body (Throne of Grace)",
+  "tags": [
+    "Holy-Trinity",
+    "Passion-of-Christ",
+    "crucifixion-aftermath",
+    "Pieta-of-the-Father",
+    "Throne-of-Grace",
+    "atonement",
+    "sacrifice",
+    "divine-suffering",
+    "redemption",
+    "death-of-Christ",
+    "crown-of-thorns",
+    "grisaille",
+    "sculptural-niche",
+    "trinitarian-theology",
+    "God-the-Father"
+  ],
+  "symbols": [
+    "papal tiara on God the Father — supreme divine sovereignty and kingly authority over all creation",
+    "crown of thorns on Christ — the paradox of messianic kingship through suffering and humiliation",
+    "limp dead body of Christ — the full reality of the Incarnation carried to its ultimate consequence in death",
+    "Father's embrace of the Son — the eternal love within the Godhead that sustains the sacrifice of the cross",
+    "Father's raised right hand — the gesture of blessing, or the hand that will raise the Son in resurrection",
+    "stone niche with pointed arch — the tomb-like setting evoking both death and the threshold of resurrection",
+    "loincloth — the last remnant of human dignity, vulnerability of the incarnate God",
+    "grisaille monochrome — stone-like austerity stripping away all earthly color to focus on the theological mystery"
+  ],
+  "description": "A grisaille panel simulating a stone sculpture within a pointed-arch niche. An elderly bearded figure in a tall tiara stands holding the lifeless body of a younger man who wears only a loincloth and crown of thorns, head fallen to one side, arms hanging limp. The older figure raises his right hand with two fingers extended in blessing while his left arm cradles the body. A Latin inscription is partially visible at the base. The entire composition is rendered in shades of grey.",
+  "theological_description": "Robert Campin's Trinity of the Broken Body presents the Gnadenstuhl (Throne of Grace) — a Trinitarian iconographic type in which God the Father holds the crucified Son, typically with the Holy Spirit as a dove between them. Even without the visible dove, this image articulates the core of Trinitarian soteriology: the Father offering the Son for the redemption of the world. This corresponds to the Johannine declaration that God so loved the world that He gave His only-begotten Son (John 3:16). The Father does not merely observe the Passion from heaven; He receives and presents the sacrifice. Hebrews 9:14 teaches that Christ offered Himself through the eternal Spirit to God, making the cross an intra-Trinitarian event. The Father's blessing hand signals that this death is not defeat but the definitive priestly act — Christ as both priest and victim (Hebrews 7:27). The stone-niche setting evokes the tomb, yet the standing Father already anticipates the resurrection. Augustine and the Athanasian Creed affirm that the suffering belongs to the Son's human nature while the divine nature remains impassible, yet the entire Trinity wills the saving act. This image is a visual confession of Nicene faith: the Father and Son are distinct persons united in one divine will for human salvation.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.3.16",
+      "relevance": "primary",
+      "reason": "God so loved the world that He gave His only-begotten Son — the Father offering the Son is the central action of this image"
+    },
+    {
+      "ref": "HEB.9.14",
+      "relevance": "primary",
+      "reason": "Christ through the eternal Spirit offered Himself without blemish to God — the Trinitarian dimension of the atoning sacrifice"
+    },
+    {
+      "ref": "HEB.7.27",
+      "relevance": "typological",
+      "reason": "Christ as high priest who offered up Himself once for all — the Father presents the priestly victim"
+    },
+    {
+      "ref": "ISA.53.4-5",
+      "relevance": "typological",
+      "reason": "He was wounded for our transgressions — the broken body displayed by the Father fulfills the Suffering Servant prophecy"
+    },
+    {
+      "ref": "ROM.8.32",
+      "relevance": "primary",
+      "reason": "He who did not spare His own Son but delivered Him up for us all — the Father's active role in the sacrifice"
+    },
+    {
+      "ref": "2CO.5.19",
+      "relevance": "allusion",
+      "reason": "God was in Christ reconciling the world to Himself — the unity of Father and Son in the work of redemption"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "grief",
+    "solemnity",
+    "awe",
+    "tenderness"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030445",
+    "title": "Trinity of the Broken Body",
+    "artist": "Robert Campin",
+    "model": "claude-opus-4-6"
+  }
+}

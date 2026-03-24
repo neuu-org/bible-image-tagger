@@ -1,0 +1,101 @@
+{
+  "characters": [
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Attendants and Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "nativity",
+    "wise-men",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "star-of-bethlehem",
+    "incarnation",
+    "gentile-worship",
+    "universal-salvation",
+    "pilgrimage",
+    "kneeling",
+    "crowded-composition"
+  ],
+  "symbols": [
+    "the three Magi kneeling before the Child — the Gentile nations recognizing and worshipping the true King of Israel, fulfilling Isaiah's prophecy",
+    "gifts of gold, frankincense, and myrrh — kingship, divinity, and sacrificial death respectively, the full identity of Christ confessed in material offerings",
+    "the star visible in the sky — divine guidance leading the nations to Christ, the light shining in darkness",
+    "the ruined structure overhead — the old covenant giving way to the new, the broken world into which the Redeemer is born",
+    "Mary holding the Child at center — the throne of the incarnate God, the new Ark of the Covenant",
+    "diverse attendants and rich garments — the wealth and variety of all nations streaming to worship",
+    "angels above — the heavenly court witnessing and celebrating the Epiphany"
+  ],
+  "description": "A densely populated scene of the Adoration of the Magi set before a ruined wooden and stone structure open to the sky. At the center, the Virgin Mary in a deep blue robe holds the Christ Child on her lap. Before them, an elderly Magus in rich gold and red garments kneels and presents a gift. A second Magus in a red cloak stands nearby, while a third in ornate clothing is positioned at right. Joseph stands behind Mary. The composition is filled with attendants, onlookers, and retainers in vibrantly colored garments — reds, oranges, greens, blues, golds. Angels hover above.",
+  "theological_description": "The Adoration of the Magi is the Epiphany — the manifestation of Christ to the Gentile world. Matthew 2:1-12 recounts how wise men from the East, guided by a star, came to worship the newborn King of the Jews and offered gifts of gold, frankincense, and myrrh. Theologically, the event fulfills Isaiah 60:3 ('Nations shall come to your light, and kings to the brightness of your rising') and Psalm 72:10-11 ('The kings of Tarshish and of the isles shall bring presents... all kings shall fall down before him'). The three gifts have been interpreted since the Fathers as confessions of Christ's threefold office: gold for His kingship, frankincense for His divinity, and myrrh for His mortality and coming Passion. The Magi, as Gentile scholars following natural revelation (the star), represent the capacity of all peoples to recognize the truth when God reveals it. Their journey prefigures the universal mission of the Church. Filippino Lippi's crowded, richly appointed composition emphasizes the cosmic scale of the event: all of creation — heaven (angels), earth (the multitudes), and the natural world (the star, the landscape) — converges upon the humble Child who is the center of all history.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The visit of the Magi from the East, guided by the star, bringing gold, frankincense, and myrrh — the primary narrative depicted"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light and kings to the brightness of your rising, bearing gold and frankincense — the prophetic fulfillment in the Epiphany"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish and the isles bring gifts; all kings fall down before Him — the Messianic Psalm fulfilled in the Magi's adoration"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "primary",
+      "reason": "Bethlehem as the birthplace of the ruler of Israel — the destination to which the Magi were directed"
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "A star shall come out of Jacob — Balaam's oracle traditionally linked to the Star of Bethlehem"
+    },
+    {
+      "ref": "EPH.3.5-6",
+      "relevance": "allusion",
+      "reason": "The mystery that Gentiles are fellow heirs with Israel — the theological meaning of Gentile Magi worshipping the Jewish Messiah"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "adoration",
+    "splendor",
+    "reverence",
+    "celebration"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030653",
+    "title": "Adorazione Dei Magi",
+    "artist": "Filippino Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

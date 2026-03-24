@@ -1,0 +1,50 @@
+{
+  "characters": [
+    {"name": "Jerome", "type": "PERSON"}
+  ],
+  "event": "Saint Jerome reading sacred texts",
+  "tags": [
+    "church-father",
+    "bible-translation",
+    "scholarly-devotion",
+    "candlelight",
+    "reading",
+    "cardinal-robes",
+    "open-book",
+    "letter",
+    "skull",
+    "vanitas",
+    "spectacles",
+    "vulgate",
+    "scripture-study",
+    "monastic-solitude",
+    "contemplation"
+  ],
+  "symbols": [
+    "cardinal's red robes — Jerome's traditional (anachronistic) association with the cardinalate, signifying his authority as a Doctor of the Church",
+    "open book — the Word of God and Jerome's lifelong labor of translating Scripture into the Vulgate",
+    "letter held close — the intimate, personal encounter with sacred text",
+    "skull — memento mori and the vanity of worldly knowledge apart from God",
+    "spectacles — careful, scholarly scrutiny of divine revelation",
+    "candlelight illumination — divine truth illuminating darkness, and the lamp of the Word (Psalm 119:105)"
+  ],
+  "description": "An elderly bearded man dressed in voluminous cardinal-red robes and a white undergarment sits in near-total darkness, holding a folded letter or small document close to his face. He wears round spectacles and peers intently at the text. Before him on a table lies a large open book. To the lower left, a human skull rests beside what appears to be a small case or box containing spectacles. The figure is dramatically lit from a single source, casting warm light on his face, hands, and the crimson fabric while the background remains in deep shadow.",
+  "theological_description": "Saint Jerome (c. 347-420) is one of the four great Latin Doctors of the Church, best known for his monumental translation of the Bible into Latin -- the Vulgate -- which served as the authoritative Scripture of Western Christianity for over a millennium. This depiction captures the essence of Jerome's vocation: the painstaking, prayerful study of the Word of God. The intimate scale of the scene -- one man, one text, one light -- embodies the Augustinian and Hieronymian conviction that Scripture is a personal letter from God to the soul (Jerome, Epistle 22). The skull is Jerome's traditional attribute, reflecting his years of ascetic life in the desert of Chalcis and his meditations on mortality. Paul's declaration that he counted all things as rubbish compared to the surpassing worth of knowing Christ (Philippians 3:8) finds visual form in Jerome's total absorption in the text. The open Vulgate on the table represents Jerome's conviction, echoed in Dei Verbum, that 'ignorance of the Scriptures is ignorance of Christ.' The candlelight reading evokes Psalm 119:105: 'Your word is a lamp to my feet and a light to my path.'",
+  "scripture_refs": [
+    {"ref": "PSA.119.105", "relevance": "typological", "reason": "The single light source illuminating Jerome's reading embodies the Psalmist's declaration that God's Word is a lamp and light."},
+    {"ref": "2TI.3.16-17", "relevance": "typological", "reason": "All Scripture is God-breathed -- the theological foundation for Jerome's lifelong devotion to translating and studying the sacred text."},
+    {"ref": "PHP.3.8", "relevance": "allusion", "reason": "Jerome's renunciation of worldly honors for the surpassing worth of knowing Christ through Scripture mirrors Paul's declaration."},
+    {"ref": "JOS.1.8", "relevance": "allusion", "reason": "The command to meditate on the Book of the Law day and night, which Jerome's tireless study exemplifies."},
+    {"ref": "ECC.12.12", "relevance": "allusion", "reason": "The weariness of much study and the vanitas theme present in the skull beside the scholar."},
+    {"ref": "NEH.8.8", "relevance": "allusion", "reason": "Reading the Scripture clearly and giving the sense -- Jerome's vocation as translator parallels the Levites' role in making the Word comprehensible."}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "intimate", "solemn"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0030308",
+    "title": "St.Jerome reading",
+    "artist": "Georges de la Tour",
+    "model": "claude-opus-4-6"
+  }
+}

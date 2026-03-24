@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Luke the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint Luke Painting the Virgin",
+  "tags": [
+    "saint-luke",
+    "evangelist",
+    "painter",
+    "virgin-mary",
+    "christ-child",
+    "easel",
+    "angel",
+    "artist-patron-saint",
+    "icon-painting",
+    "sacred-art",
+    "ox-symbol",
+    "hagiography",
+    "enthroned-virgin"
+  ],
+  "symbols": [
+    "easel and canvas — Luke as the first iconographer, patron saint of painters",
+    "enthroned Virgin and Child — the sacred subject of Luke's painting, the prototype of all Marian icons",
+    "angel with torch — divine illumination guiding the artist's hand and the light of revelation",
+    "ox or bull (partially visible) — the traditional evangelist symbol of Luke, signifying sacrifice",
+    "painting within the painting — the tradition that sacred images derive their authority from apostolic origin",
+    "red garment of Luke — the passion and sacrifice associated with the evangelist"
+  ],
+  "description": "A richly composed scene in which St. Luke, dressed in a red garment with rolled-up sleeves, sits at an easel painting a portrait of the Virgin Mary. He holds a palette and brushes, looking toward his subject. The Virgin Mary is enthroned at the left, seated on an elaborate throne, holding the Christ Child on her lap. Between Luke and the Virgin, an angel bearing a flaming torch illuminates the scene. Various sculptural and decorative elements fill the background, including what appears to be a bust of a bull or ox.",
+  "theological_description": "The legend of St. Luke painting the Virgin is one of the most important traditions in Christian art history, originating in the early centuries of the Church. According to this tradition, Luke the Evangelist -- the author of the third Gospel and the Acts of the Apostles -- painted the Virgin Mary from life, thereby creating the prototype of all Marian icons and establishing the theological legitimacy of sacred images. This tradition was crucial during the iconoclast controversies of the eighth and ninth centuries, as it provided apostolic sanction for religious imagery. Theologically, the scene embodies the principle that the Incarnation itself sanctifies visible representation: because the invisible God became visible in Christ (Colossians 1:15), he may be depicted. The angel bearing a torch between Luke and the Virgin represents divine inspiration, affirming that sacred art is not merely human craft but a Spirit-guided act of witness. Luke's Gospel uniquely preserves the Infancy Narratives from Mary's perspective (Luke 2:19, 51), and tradition held that this intimacy extended to visual portraiture. The ox or bull symbol visible in the composition identifies Luke among the four evangelists, derived from the living creatures of Ezekiel 1:10 and Revelation 4:7, signifying the sacrificial and priestly themes of Luke's Gospel.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.1-4",
+      "relevance": "primary",
+      "reason": "Luke's prologue declaring his careful investigation and ordered account, the apostolic authority behind his witness"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasured up all these things, pondering them in her heart -- the intimate source tradition behind Luke's unique Marian material"
+    },
+    {
+      "ref": "COL.1.15",
+      "relevance": "typological",
+      "reason": "Christ is the image of the invisible God -- the theological foundation for depicting the Incarnate Word and his Mother"
+    },
+    {
+      "ref": "COL.4.14",
+      "relevance": "allusion",
+      "reason": "Paul identifies Luke as the beloved physician, connecting his identity as evangelist and companion of the apostles"
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "typological",
+      "reason": "The four living creatures including the ox, from which Luke's evangelist symbol is derived"
+    },
+    {
+      "ref": "EZK.1.10",
+      "relevance": "typological",
+      "reason": "Ezekiel's vision of the four-faced living creatures, the Old Testament source of the evangelist symbols"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "creative",
+    "illuminated",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0031258",
+    "title": "Saint Luke Painting the Virgin",
+    "artist": "Maarten de Vos",
+    "model": "claude-opus-4-6"
+  }
+}

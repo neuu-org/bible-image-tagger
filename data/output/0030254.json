@@ -1,0 +1,55 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "The Lamentation of Mary Magdalene over the Body of Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "mary-magdalene",
+    "entombment",
+    "mourning",
+    "grief",
+    "passion-of-christ",
+    "burial-slab",
+    "black-veil",
+    "bare-torso",
+    "closed-eyes",
+    "anguished-gesture",
+    "hand-to-forehead",
+    "intimate-sorrow",
+    "post-crucifixion",
+    "stone-sepulchre",
+    "devotional-intensity"
+  ],
+  "symbols": [
+    "dead body of Christ — the sacrificial Lamb slain for the sins of the world, the price of redemption paid in full",
+    "Mary Magdalene's anguished gesture — the visceral grief of the faithful disciple, hand pressed to her brow in inconsolable mourning",
+    "black veil/sheer garment — mourning, penitential sorrow, and the darkness that covered the land at Christ's death",
+    "stone slab — the burial stone of the sepulchre, altar of sacrifice, and threshold between death and resurrection",
+    "Christ's closed eyes — the sleep of death that precedes the awakening of resurrection, the moment between Good Friday and Easter",
+    "intimate proximity of Magdalene to Christ — the devotion of the penitent sinner transformed by grace, the love that would not abandon Him even in death"
+  ],
+  "description": "The lifeless body of a bearded man lies on a pale stone slab, bare torso exposed, eyes closed, face serene in death, dark hair spread against the stone. Beside him a woman with reddish-gold hair collapses backward in anguish, left hand pressed to her forehead, mouth open in grief. She wears a translucent black veil over a white undergarment. The background is a muted grey stone wall suggesting a tomb interior. The palette is restrained -- ivory skin tones, cool greys, and dark gauze of mourning.",
+  "theological_description": "This painting depicts the lamentation of Mary Magdalene over the dead body of Christ, a moment situated between the Deposition from the Cross and the Entombment. All four Gospels record that Mary Magdalene was present at the Crucifixion (Matt 27:56, Mark 15:40, John 19:25) and at the burial (Matt 27:61, Mark 15:47). Her presence at the tomb is the bridge between the Passion and the Resurrection -- she who mourns most deeply will be the first to encounter the Risen Lord (John 20:1-18). The intimate, almost private character of this lamentation reflects the tradition, amplified in medieval devotional literature, of Magdalene as the archetype of repentant love -- the woman who anointed Christ's feet with costly ointment and her tears (Luke 7:37-38) now weeps over His entire body. Her gesture of hand-to-brow agony recalls the prophetic lament: 'Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow' (Lam 1:12), words the liturgy applies to the suffering Christ but which here find their echo in the disciple who shares most intimately in His Passion. The stone slab functions as both burial surface and altar, recalling the theological identity between Calvary and the Eucharistic sacrifice. Christ's serene countenance in death expresses the paradox of the Passion: the one who appears defeated has in fact accomplished the definitive victory over sin and death (Col 2:14-15).",
+  "scripture_refs": [
+    {"ref": "JHN.19.25", "relevance": "primary", "reason": "Mary Magdalene standing at the foot of the Cross -- her presence at the Crucifixion that precedes this lamentation scene."},
+    {"ref": "MAT.27.59-61", "relevance": "primary", "reason": "Joseph wraps the body in linen and lays it in the tomb; Mary Magdalene sits opposite the sepulchre -- the narrative context of this scene."},
+    {"ref": "JHN.20.1-18", "relevance": "primary", "reason": "Mary Magdalene at the empty tomb, first witness to the Resurrection -- the grief depicted here is the prelude to Easter morning."},
+    {"ref": "LUK.7.37-38", "relevance": "typological", "reason": "The sinful woman who washed Christ's feet with tears and anointed them -- patristic tradition identifies her with Magdalene, whose tears here reprise that anointing."},
+    {"ref": "LAM.1.12", "relevance": "typological", "reason": "'Is there any sorrow like my sorrow?' -- the liturgical lament applied to Christ's Passion, here embodied in Magdalene's anguish."},
+    {"ref": "COL.2.14-15", "relevance": "typological", "reason": "Through the Cross, Christ triumphed over the powers -- the serene face of the dead Christ hints at the hidden victory within apparent defeat."},
+    {"ref": "ISA.53.3-5", "relevance": "allusion", "reason": "The Suffering Servant, 'a man of sorrows and acquainted with grief,' wounded for our transgressions -- the prophetic background to the dead Christ."},
+    {"ref": "MRK.16.1", "relevance": "allusion", "reason": "Mary Magdalene and others bring spices to anoint the body -- the devotional care for Christ's body that this scene anticipates."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguished", "solemn", "intimate", "mournful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0030254",
+    "title": "The Lamentations of Mary Magdalene on the body of Christ",
+    "artist": "Arnold Böcklin",
+    "model": "claude-opus-4-6"
+  }
+}

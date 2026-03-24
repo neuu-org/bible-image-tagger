@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Saint John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Bartholomew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saints John the Evangelist and Bartholomew with Donor Portraits",
+  "tags": [
+    "apostles",
+    "sacra-conversazione",
+    "donor-portrait",
+    "patron-saints",
+    "gospel-book",
+    "halo",
+    "intercessory-prayer",
+    "apostolic-witness",
+    "landscape-setting",
+    "devotional-commission",
+    "open-book",
+    "flaying-knife"
+  ],
+  "symbols": [
+    "open book held by John — the Gospel of John and the divine Word made manifest",
+    "halo around John — sanctity and apostolic authority",
+    "halo around Bartholomew — sanctity and martyrdom",
+    "knife or instrument near Bartholomew — attribute of his martyrdom by flaying",
+    "donors positioned behind the saints — humble supplication and desire for saintly intercession",
+    "landscape with distant buildings — the earthly realm contrasted with heavenly communion",
+    "dark clouds parting to reveal light — divine presence breaking through worldly darkness",
+    "red and gold vestments on John — royalty, sacrifice, and the blood of witness"
+  ],
+  "description": "Four figures are arranged in a landscape setting beneath a dramatic sky of dark clouds giving way to light. At center-left, a young man with flowing hair and a blue halo holds an open book displaying inscribed text, wearing sumptuous red and gold robes. To the right, a bearded man with a golden halo sits on a stone, dressed in a blue tunic and ochre mantle, resting his arm on what appears to be a large blade or instrument. Behind the central haloed figure stand two plainly dressed men in dark garments and black caps, gazing toward the saints with reverent attention.",
+  "theological_description": "This sacra conversazione unites two apostolic pillars with their earthly patrons. Saint John the Evangelist, the beloved disciple, displays his Gospel — the book that opens with the cosmic declaration 'In the beginning was the Word' (John 1:1), establishing Christ's divine nature. His youthful appearance follows iconographic tradition identifying him as the youngest apostle, the one who leaned on Jesus' breast at the Last Supper (John 13:23). Saint Bartholomew, traditionally identified with Nathanael whom Jesus called 'an Israelite in whom there is no deceit' (John 1:47), bears the instrument of his martyrdom — the flaying knife — recalling his reported death by being skinned alive in Armenia. The donors stand behind the saints in a posture of humble devotion, embodying the medieval and Renaissance theology of saintly intercession: that the faithful on earth may invoke the prayers of the saints who stand before God's throne. The compositional arrangement — donors behind, saints foregrounded — visualizes the communion of saints spanning heaven and earth, the living Church united with the Church triumphant.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.1-5",
+      "relevance": "primary",
+      "reason": "The open Gospel book held by John directly evokes the prologue to his Gospel declaring the divine Word"
+    },
+    {
+      "ref": "JHN.13.23-25",
+      "relevance": "primary",
+      "reason": "John's traditional youthful depiction derives from his identity as the beloved disciple who reclined next to Jesus"
+    },
+    {
+      "ref": "JHN.1.47",
+      "relevance": "primary",
+      "reason": "Bartholomew is traditionally identified with Nathanael, whom Jesus praised as a true Israelite without guile"
+    },
+    {
+      "ref": "REV.6.9-11",
+      "relevance": "typological",
+      "reason": "Bartholomew's martyrdom places him among the souls under the altar who gave their lives for the word of God"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The donors surrounded by saints evoke the great cloud of witnesses encompassing the faithful"
+    },
+    {
+      "ref": "1TI.2.5",
+      "relevance": "allusion",
+      "reason": "The intercessory arrangement reflects the theology of mediation and saintly prayer before God"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "serene",
+    "solemn"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0030014",
+    "title": "Sts John and Bartholomew with Donors",
+    "artist": "Dosso Dossi",
+    "model": "claude-opus-4-6"
+  }
+}
