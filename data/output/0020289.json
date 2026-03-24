@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourning women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Deposition of Christ from the Cross",
+  "tags": [
+    "deposition",
+    "passion-of-christ",
+    "burial-preparation",
+    "grief",
+    "descent-from-cross",
+    "dead-christ",
+    "lamentation",
+    "maternal-sorrow",
+    "sacrificial-death",
+    "redemption"
+  ],
+  "symbols": [
+    "limp body of Christ — the completed sacrifice, the Lamb slain for the sins of the world",
+    "outstretched hand visible at top — lingering reference to the cross from which the body has been taken",
+    "white head covering of Mary — purity and mourning of the Mother of Sorrows",
+    "darkened palette — the cosmic darkness that fell over the land at Christ's death (Matthew 27:45)",
+    "bare feet of Christ — humility and the full humanity of the incarnate God"
+  ],
+  "description": "Several figures labor to carry the lifeless body of Christ downward in a dark, compressed composition. A muscular man in a red-brown garment supports the torso while another grasps the legs. The pale, limp body of Christ dominates the center, his head fallen back and limbs slack. To the right, a woman in a white head covering and blue mantle weeps, pressing a cloth to her face. Behind her another figure looks on in anguish. A hand is visible at the upper left edge. The scene is rendered in deep chiaroscuro with warm earth tones against near-black shadow.",
+  "theological_description": "The Deposition marks the moment between Christ's death on the cross and his entombment, a liminal event rich with salvific meaning. The lifeless body of Jesus, taken down from the instrument of his execution, is the body of the incarnate Word (John 1:14) who 'emptied himself, taking the form of a servant' (Philippians 2:7). Joseph of Arimathea, a secret disciple, and Nicodemus, who once came to Jesus by night, now publicly claim the body -- fulfilling Isaiah 53:9 that the Suffering Servant would be 'with the rich in his death.' The Virgin Mary's presence as Mater Dolorosa fulfills Simeon's prophecy that a sword would pierce her soul (Luke 2:35). Patristic writers, particularly Ephrem the Syrian, meditated on the paradox that the hands which formed the universe now hang lifeless, that the Creator is carried by his creatures. The darkness of the composition evokes the three hours of darkness over the whole land (Mark 15:33), a cosmic sign that the Light of the World has been extinguished -- temporarily. The deposition is the necessary prelude to the burial and thus to the Resurrection; Christ must fully enter death before conquering it. As Gregory of Nyssa taught, the body laid in the tomb becomes the seed of universal resurrection (1 Corinthians 15:36-37).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-40",
+      "relevance": "primary",
+      "reason": "The direct narrative source: Joseph of Arimathea asks Pilate for the body, and Nicodemus brings spices; together they take Jesus down from the cross."
+    },
+    {
+      "ref": "MAT.27.57-59",
+      "relevance": "primary",
+      "reason": "Matthew's account of the deposition: Joseph wraps the body in clean linen and places it in his own new tomb."
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy to Mary that a sword will pierce her soul, visually realized in her grief at the deposition."
+    },
+    {
+      "ref": "ISA.53.9",
+      "relevance": "typological",
+      "reason": "The Suffering Servant assigned a grave with the rich, fulfilled in Joseph of Arimathea's costly burial."
+    },
+    {
+      "ref": "PHP.2.7-8",
+      "relevance": "typological",
+      "reason": "Christ's kenosis -- emptying himself unto death -- is visually embodied in the utterly passive, lifeless body being carried."
+    },
+    {
+      "ref": "MRK.15.33",
+      "relevance": "allusion",
+      "reason": "The darkness over the whole land from the sixth to the ninth hour, echoed in the painting's deep chiaroscuro."
+    },
+    {
+      "ref": "1CO.15.36-37",
+      "relevance": "typological",
+      "reason": "The body sown in death as seed of resurrection, linking deposition to eschatological hope."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "somber",
+    "grief-stricken",
+    "reverent",
+    "sorrowful"
+  ],
+  "_meta": {
+    "key": "0020289",
+    "title": "The deposition of Christ",
+    "artist": "Dirck van Baburen",
+    "model": "claude-opus-4-6"
+  },
+  "period": "Non-biblical"
+}

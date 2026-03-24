@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Peter Chrysologus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Cassian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Assumption of the Virgin Mary",
+  "tags": [
+    "assumption",
+    "virgin-mary",
+    "peter-chrysologus",
+    "saint-cassian",
+    "glorification",
+    "heavenly-ascent",
+    "bishop-saints",
+    "marian-devotion",
+    "mandorla",
+    "celestial-glory"
+  ],
+  "symbols": [
+    "mandorla of golden light — the divine radiance surrounding Mary as she is assumed into heavenly glory",
+    "clouds and putti — the heavenly realm opening to receive the Mother of God",
+    "bishops' vestments and mitres — the authority of the Church Fathers who defended Marian doctrine",
+    "upward gaze of the saints — earthly witnesses beholding the heavenly mystery of the Assumption",
+    "hands raised in wonder — the posture of adoration and theological contemplation before divine action"
+  ],
+  "description": "A vertical composition divided into heavenly and earthly zones. In the upper half, the Virgin Mary stands in a full-length white and blue robe within a brilliant golden mandorla of light, surrounded by clouds and numerous putti and angels. Her hands are clasped in prayer and her gaze is directed upward. Below, two elderly bishops in richly embroidered liturgical vestments with ornate copes kneel on either side, looking upward in devotion. The left bishop holds or rests near a book, while the right bishop mirrors his posture.",
+  "theological_description": "The Assumption of the Virgin is one of the great Marian doctrines, holding that Mary, at the end of her earthly life, was taken body and soul into heavenly glory. While not explicitly narrated in Scripture, the doctrine is rooted in the Church's ancient tradition and finds typological grounding in texts such as Psalm 132:8 ('Arise, O Lord, to your resting place, you and the ark of your might') and Revelation 12:1, where the woman clothed with the sun is understood as a figure of the glorified Mary. The presence of Saints Peter Chrysologus and Cassian — both associated with the See of Ravenna — reflects local devotional patronage. Peter Chrysologus, the fifth-century Doctor of the Church, preached extensively on the Incarnation and Mary's unique role in salvation history, while Cassian of Imola is a celebrated early martyr. Their inclusion as witnesses to the Assumption underscores the continuity between apostolic faith, patristic theology, and Marian devotion. Fontana's composition enacts a visual theology of mediation: Mary ascends as the first of the redeemed, and the saints below represent the Church on earth gazing toward its eschatological hope.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun, traditionally interpreted as a figure of the glorified Virgin Mary assumed into heaven"
+    },
+    {
+      "ref": "PSA.132.8",
+      "relevance": "typological",
+      "reason": "'Arise, O Lord, to your resting place, you and the ark of your might' — patristic typology sees Mary as the Ark assumed into the heavenly sanctuary"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "The Annunciation greeting 'full of grace' — the theological foundation for Mary's unique privileges including bodily assumption"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat — Mary's prophetic canticle that 'all generations will call me blessed,' fulfilled in the honor of the Assumption"
+    },
+    {
+      "ref": "1CO.15.20-23",
+      "relevance": "typological",
+      "reason": "Christ as firstfruits of the resurrection, with Mary understood as the first among the redeemed to share in His glorification"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "glorious",
+    "devotional",
+    "celestial",
+    "solemn"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0020046",
+    "title": "Assumption of the Virgin with Saints Peter Chrysologus, and Cassian",
+    "artist": "Lavinia Fontana",
+    "model": "claude-opus-4-6"
+  }
+}

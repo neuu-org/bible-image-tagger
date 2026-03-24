@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Putti",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Assumption of the Virgin Mary",
+  "tags": [
+    "assumption",
+    "bodily glorification",
+    "heavenly ascent",
+    "empty tomb",
+    "apostolic witness",
+    "crown of glory",
+    "celestial clouds",
+    "marian devotion",
+    "queen of heaven",
+    "glorified body",
+    "angelic escort",
+    "open arms gesture",
+    "golden light",
+    "arched altarpiece"
+  ],
+  "symbols": [
+    "empty sarcophagus — death conquered; Mary's body is not left to corruption, prefiguring the general resurrection",
+    "crown — Mary's coronation as Queen of Heaven, echoing the 'woman clothed with the sun' of Revelation 12",
+    "clouds — the boundary between earth and heaven, the liminal space of divine glory",
+    "angels bearing Mary upward — divine agency in her glorification, paralleling Elijah's fiery chariot",
+    "apostles gathered around the tomb — the Church witnessing the first fruits of redemption after Christ's own Resurrection",
+    "outstretched hands of Mary — receptivity to divine grace and intercessory posture toward those below",
+    "golden radiance — uncreated light of divine glory surrounding the Mother of God"
+  ],
+  "description": "In an arched panel, the Virgin Mary ascends heavenward at center, dressed in a blue mantle over a white gown, arms spread wide, a crown upon her head. She is borne aloft on clouds surrounded by angels and winged putti. Golden light radiates behind her against a pale sky. Below, a group of roughly twelve apostles gathers around an open stone sarcophagus, gesturing upward in astonishment and reverence. Some kneel, others stand with arms raised. The palette is warm with deep reds, greens, and ochres in the lower register contrasting with the luminous golds and blues above.",
+  "theological_description": "The Assumption of the Virgin is the dogmatic belief that Mary, at the end of her earthly life, was taken up body and soul into heavenly glory. While not narrated in canonical Scripture, the tradition draws on deep biblical typology. Mary is identified with the Ark of the Covenant (Ps 132:8, 'Arise, O Lord, into thy resting place; thou and the ark of thy sanctification'), since as the Ark bore the tablets of the Law, Mary bore the incarnate Word. The 'woman clothed with the sun' in Revelation 12:1 is read by patristic and medieval exegesis as an image of Mary glorified. The Assumption is understood as the logical corollary of the Incarnation: the flesh that gave flesh to the Word of God could not suffer corruption (Ps 16:10). The empty tomb below echoes Christ's own empty tomb, establishing Mary as the first of the redeemed to share fully in the bodily resurrection promised to all believers (1 Cor 15:20-23). The apostles witnessing the event parallel the disciples at the Ascension (Acts 1:9-11), linking Mary's assumption to Christ's own glorification and return.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman clothed with the sun, crowned with stars -- the principal scriptural image applied to Mary's heavenly glorification in Assumption theology."
+    },
+    {
+      "ref": "PSA.132.8",
+      "relevance": "primary",
+      "reason": "'Arise, O Lord, to your resting place, you and the ark of your might' -- the Ark typology applied to Mary's bodily assumption into heaven."
+    },
+    {
+      "ref": "PSA.16.10",
+      "relevance": "typological",
+      "reason": "'You will not let your holy one see corruption' -- applied first to Christ's Resurrection and by extension to Mary's preserved body."
+    },
+    {
+      "ref": "1CO.15.20-23",
+      "relevance": "typological",
+      "reason": "Christ the firstfruits, then those who belong to him -- Mary as the first of the redeemed to share in bodily glorification."
+    },
+    {
+      "ref": "ACT.1.9-11",
+      "relevance": "typological",
+      "reason": "Christ's Ascension witnessed by the apostles parallels the apostles witnessing Mary's bodily assumption."
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "The angelic salutation 'full of grace' implies a fullness of redemption that extends to bodily glorification."
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "'All generations will call me blessed' -- the Magnificat prophecy fulfilled in Mary's heavenly exaltation."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "glorious",
+    "reverent",
+    "awe-struck",
+    "transcendent"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0020386",
+    "title": "Assumption of the Virgin",
+    "artist": "Hans Rottenhammer I",
+    "model": "claude-opus-4-6"
+  }
+}

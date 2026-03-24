@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ (on crucifix)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Penitence of Mary Magdalene",
+  "tags": [
+    "penitence",
+    "magdalene",
+    "crucifix",
+    "repentance",
+    "devotion",
+    "contemplation",
+    "long hair",
+    "bare chest",
+    "dark background",
+    "conversion",
+    "sinner-saint",
+    "tears",
+    "cross",
+    "contrition",
+    "asceticism"
+  ],
+  "symbols": [
+    "crucifix — the redemptive sacrifice of Christ, the object of Magdalene's penitential devotion",
+    "long unbound hair — the hair with which she wiped Christ's feet (Luke 7:38), a mark of penitence and humility",
+    "bare skin — vulnerability, mortification of the flesh, and the stripping away of worldly vanity",
+    "upward gaze — spiritual longing and contemplative union with the crucified Christ",
+    "dark background — the darkness of sin from which repentance emerges into grace",
+    "hand on chest — contrition and the penitent's beating of the breast (cf. Luke 18:13)"
+  ],
+  "description": "A woman is shown from the waist up against a dark, shadowy background. Her long reddish-brown hair falls loosely over her shoulders and partially covers her bare chest. A dark brown cloak drapes around her lower body and arms. Her right hand rests on her chest while her left hand is raised, palm outward, toward a wooden crucifix positioned at the upper right of the composition. The crucifix bears a small figure of the crucified Christ. Her head tilts slightly back, eyes lifted upward in an expression of devotion and sorrow.",
+  "theological_description": "Mary Magdalene in penitence is one of the most enduring subjects in Christian art, embodying the transformative power of divine grace over human sinfulness. The Western tradition (drawing from Gregory the Great's conflation) identifies her with the sinful woman of Luke 7:36-50 who washed Christ's feet with her tears and dried them with her hair. Her unbound hair thus becomes her defining attribute -- the very instrument of her humiliation turned into a sign of her love. The crucifix before which she prays reveals the theological core: it is the cross of Christ that makes repentance efficacious. Her bare flesh signifies not sensuality but the radical mortification of the ascetic life she embraced after the Resurrection, traditionally in the desert of Sainte-Baume. The hand on her breast recalls the publican's gesture of contrition (Luke 18:13), while her raised hand toward the cross expresses faith reaching toward the source of salvation. Patristic writers (Ephrem the Syrian, Romanos the Melodist) celebrated her as the supreme example of metanoia: the sinner who loved much because she was forgiven much (Luke 7:47). She is the first witness of the Resurrection (John 20:11-18), the 'apostle to the apostles,' her penitence rewarded with the supreme privilege of encountering the Risen Lord.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.36-50",
+      "relevance": "primary",
+      "reason": "The sinful woman who washes Jesus' feet with tears and dries them with her hair, traditionally identified with Mary Magdalene in Western art."
+    },
+    {
+      "ref": "LUK.7.47",
+      "relevance": "primary",
+      "reason": "'Her sins, which are many, are forgiven, for she loved much' -- the theological key to the penitent Magdalene tradition."
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "primary",
+      "reason": "Mary Magdalene at the empty tomb, first witness of the Resurrection, the culmination of her journey from penitent to apostle."
+    },
+    {
+      "ref": "LUK.18.13",
+      "relevance": "allusion",
+      "reason": "The publican beating his breast in contrition, paralleled by Magdalene's hand on her chest."
+    },
+    {
+      "ref": "MRK.16.9",
+      "relevance": "primary",
+      "reason": "Jesus appeared first to Mary Magdalene, from whom he had cast out seven demons -- linking her past sinfulness with her privileged encounter."
+    },
+    {
+      "ref": "PSA.51.17",
+      "relevance": "allusion",
+      "reason": "'A broken and contrite heart, O God, thou wilt not despise' -- the psalm of penitence that undergirds the entire Magdalene tradition."
+    },
+    {
+      "ref": "2CO.5.17",
+      "relevance": "typological",
+      "reason": "The new creation in Christ, exemplified in Magdalene's radical transformation from sinner to saint."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitent",
+    "contemplative",
+    "sorrowful",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020726",
+    "title": "Mary Magdalene in Penitence",
+    "artist": "Guercino",
+    "model": "claude-opus-4-6"
+  }
+}

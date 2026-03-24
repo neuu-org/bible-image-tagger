@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Crucified Thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers and Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Crucifixion at Golgotha",
+  "tags": [
+    "golgotha",
+    "crucifixion",
+    "calvary",
+    "passion-of-christ",
+    "three-crosses",
+    "suffering",
+    "darkness",
+    "atonement",
+    "death-of-christ",
+    "good-friday"
+  ],
+  "symbols": [
+    "central robed figure with covered face — Christ in His final agony, the face hidden evoking Isaiah's suffering servant whom men hid their faces from",
+    "murky greenish atmosphere — the supernatural darkness that fell upon the land during the crucifixion",
+    "three figures standing together — the condemned at Golgotha, Christ between the two thieves",
+    "spear or lance — the soldier's weapon, instrument of the Passion and the piercing of Christ's side",
+    "indistinct urban silhouette in background — Jerusalem, the holy city that rejected and crucified its Messiah"
+  ],
+  "description": "A haunting, roughly painted scene in dark tones of green, brown, purple, and grey. Three figures stand in the foreground on barren ground. The central figure wears a long purple-reddish robe and has hands raised to cover or shield the face, the body slightly hunched in anguish. To the left, a darker figure extends one arm outward in a pointing or accusatory gesture. To the right, another pale figure stands still. A tall vertical element, possibly a spear or staff, rises behind the group.",
+  "theological_description": "Nikolai Ge's 'Golgotha' is one of the most psychologically intense depictions of the Passion in the history of art. Rather than depicting the crucifixion itself, Ge captures the moments of supreme dread immediately before or during the event — Christ's human terror before the cup of suffering He must drink. The covered face of the central figure powerfully evokes Isaiah 53:3: 'He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces He was despised.' The greenish darkness pervading the scene corresponds to the synoptic accounts of darkness falling over the land from the sixth to the ninth hour (Matthew 27:45). Ge, deeply influenced by Tolstoy's moral Christianity, strips the crucifixion of all devotional beauty to confront the viewer with its raw horror — this is not triumph but agony, not glory but dereliction. Yet it is precisely in this dereliction that Christian theology locates the supreme act of love: God entering into the uttermost depth of human suffering so that no abyss of pain would be without His presence. The deliberately unfinished, almost disintegrating quality of the paint itself becomes a theological statement about the dissolution of all earthly certainties at the foot of the cross.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.33-50",
+      "relevance": "primary",
+      "reason": "Matthew's account of the crucifixion at Golgotha, including the darkness over the land and Christ's cry of dereliction"
+    },
+    {
+      "ref": "MRK.15.22-37",
+      "relevance": "primary",
+      "reason": "Mark's account of the crucifixion, the darkness, and Jesus' death"
+    },
+    {
+      "ref": "LUK.23.33-46",
+      "relevance": "primary",
+      "reason": "Luke's account including the two criminals crucified alongside Christ"
+    },
+    {
+      "ref": "ISA.53.3-7",
+      "relevance": "typological",
+      "reason": "The Suffering Servant prophecy — despised, rejected, a man of sorrows, from whom men hide their faces, directly evoked by the covered face"
+    },
+    {
+      "ref": "MAT.27.45",
+      "relevance": "primary",
+      "reason": "The supernatural darkness from the sixth to the ninth hour, reflected in the painting's oppressive murky atmosphere"
+    },
+    {
+      "ref": "MRK.14.36",
+      "relevance": "allusion",
+      "reason": "Christ's prayer in Gethsemane to let the cup pass — the anguish visible in the central figure's posture"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "desolate",
+    "oppressive",
+    "tragic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020108",
+    "title": "Golgotha",
+    "artist": "Nikolai Ge",
+    "model": "claude-opus-4-6"
+  }
+}

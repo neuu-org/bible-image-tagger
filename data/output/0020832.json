@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Saint George",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Princess",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Dragon",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Saint George Slaying the Dragon",
+  "tags": [
+    "Christianity",
+    "saints-and-apostles",
+    "beasts-and-dragons",
+    "St.-George",
+    "dragon-slayer",
+    "spiritual-warfare",
+    "good-versus-evil",
+    "knightly-combat",
+    "maiden-rescued",
+    "victory-over-evil",
+    "military-saint",
+    "lance",
+    "armor",
+    "halo",
+    "rocky-landscape"
+  ],
+  "symbols": [
+    "the dragon — Satan, the ancient serpent of Revelation 12:9, and all forces of chaos and evil that oppose God's kingdom",
+    "Saint George's lance piercing the dragon — the victory of faith over demonic powers, the triumph of the cross over death",
+    "the princess chained to the rock — the human soul (or the Church) held captive by sin and liberated by the champion of faith",
+    "George's armor and halo — the armor of God (Ephesians 6:11-17) sanctified by martyrdom and heavenly glory",
+    "the rocky, desolate landscape — the spiritual wilderness where the battle between good and evil takes place"
+  ],
+  "description": "A knight in dark, ornate armor rides or strides forward with dramatic force, thrusting a long lance downward into a green-scaled dragon writhing on the ground beneath him. The knight wears a halo and a flowing red cloak billowing behind. His body is rendered with powerful dynamism. In the middle background, a pale female figure with long flowing hair stands with arms raised against a rocky cliff face, partially bound. The landscape is wild and craggy with brown rock formations dominating the composition. The sky shows patches of blue through dark clouds.",
+  "theological_description": "The legend of Saint George and the Dragon, though hagiographic rather than scriptural, is deeply rooted in biblical typology. George, a Roman soldier martyred under Diocletian (c. 303 AD), became Christianity's paramount image of the miles Christi -- the soldier of Christ armed with faith to overcome the powers of darkness. The dragon he slays is identified in patristic and medieval exegesis with the 'great dragon' of Revelation 12:9, 'that ancient serpent, who is called the devil and Satan, the deceiver of the whole world.' George's combat thus participates in the cosmic war inaugurated by the Protoevangelium of Genesis 3:15, where the seed of the woman shall crush the serpent's head. The princess rescued from the dragon represents the Church, the Bride of Christ, or the human soul delivered from bondage to sin -- echoing Israel's deliverance from Pharaoh (the 'great dragon' of Ezekiel 29:3) and the eschatological liberation of Revelation 12 where the woman is saved from the dragon's pursuit. Moreau's Symbolist interpretation heightens the spiritual dimension: the ethereal, almost visionary quality of the maiden and the dark intensity of the combat suggest a battle that transcends the physical, pointing toward the Pauline injunction that 'we do not wrestle against flesh and blood, but against principalities, against powers' (Ephesians 6:12). George's victory prefigures Christ's ultimate triumph over the beast in Revelation 19-20.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.7-9",
+      "relevance": "primary",
+      "reason": "Michael and his angels fighting the great dragon, the ancient serpent called Satan -- the cosmic archetype of George's dragon combat"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The Protoevangelium: the seed of the woman shall crush the serpent's head -- George as a figure of this promised victory"
+    },
+    {
+      "ref": "EPH.6.11-17",
+      "relevance": "typological",
+      "reason": "The whole armor of God enabling the believer to stand against the schemes of the devil -- George as the iconic miles Christi"
+    },
+    {
+      "ref": "EZK.29.3",
+      "relevance": "allusion",
+      "reason": "Pharaoh as 'the great dragon' -- the prophetic linkage of earthly tyrants with the draconic enemy of God's people"
+    },
+    {
+      "ref": "REV.19.11-16",
+      "relevance": "allusion",
+      "reason": "Christ the warrior-king riding forth to defeat the beast -- the eschatological combat George's legend anticipates"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "heroic",
+    "dramatic",
+    "mystical",
+    "violent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0020832",
+    "title": "Saint George",
+    "artist": "Gustave Moreau",
+    "model": "claude-opus-4-6"
+  }
+}

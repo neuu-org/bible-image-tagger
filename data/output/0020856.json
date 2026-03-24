@@ -1,0 +1,113 @@
+{
+  "characters": [
+    {
+      "name": "The Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Joachim",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Cleophas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Salome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Children",
+      "type": "GROUP"
+    },
+    {
+      "name": "Male kinsmen",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Holy Kinship (Heilige Sippe)",
+  "tags": [
+    "holy-kinship",
+    "holy-family",
+    "virgin-mary",
+    "christ-child",
+    "saint-anne",
+    "extended-family-of-christ",
+    "church-interior",
+    "mothers-and-children",
+    "domestic-devotion",
+    "incarnation",
+    "altar",
+    "liturgical-setting",
+    "three-Marys",
+    "infancy-of-christ"
+  ],
+  "symbols": [
+    "the Christ Child seated on Mary's lap — the Incarnation, God becoming flesh and dwelling among a human family",
+    "Saint Anne seated beside Mary with an open book — the transmission of sacred wisdom through generations, the matriarch of the holy lineage",
+    "the Gothic church interior — the Church as the household of God, the sacred space where the Holy Family is venerated",
+    "multiple mothers with children in the foreground — the fruitful lineage from which the Messiah emerged, the blessedness of the family sanctified by Christ's birth",
+    "the altar with liturgical activity in the background — the Eucharistic sacrifice that continues the mystery of the Incarnation begun in Mary's womb",
+    "the lily or flower held by a child — purity and innocence, the new life that Christ brings into the world"
+  ],
+  "description": "A richly detailed interior of a Gothic church with soaring arches, ribbed vaults, and slender columns receding into the background. In the foreground, a group of women and children are gathered in a domestic arrangement. At center, a young woman in a blue robe holds an infant on her lap. To her left, an older woman in a green mantle and white head covering sits with an open book. To the right, another woman in a pink gown holds a second infant. Additional figures -- men and women in fine late-medieval dress -- populate the middle ground.",
+  "theological_description": "The Holy Kinship (Heilige Sippe) depicts the extended family of Christ according to the medieval tradition of the Trinubium Annae -- the belief that Saint Anne, mother of the Virgin Mary, married three times and through her three daughters (all named Mary) produced a lineage that included Christ, several apostles, and other key figures of the early Church. This devotional subject, popular in Northern Europe from the late fifteenth century, celebrates the Incarnation not as an isolated miracle but as the culmination of a divinely orchestrated genealogy. The theological core is Matthew 1:1-17 and Luke 3:23-38 -- the genealogies of Christ that demonstrate his descent from Abraham and David through a specific human lineage. Saint Anne, though not named in Scripture, is central to the apocryphal Protoevangelium of James, which supplied the tradition of Mary's parents and her miraculous birth. The scene set within a church interior collapses the temporal distance between the historical Holy Family and the liturgical present: the altar in the background, where the Eucharist is celebrated, connects the Incarnation depicted in the foreground to its sacramental continuation. The gathering of mothers with children evokes the Psalmist's blessing: 'Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table' (Psalm 128:3). The image affirms the sanctification of the domestic and familial, showing that the mystery of salvation entered the world not through angelic or purely spiritual means but through the flesh-and-blood bonds of a human family -- 'the Word became flesh and dwelt among us' (John 1:14).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.1-17",
+      "relevance": "primary",
+      "reason": "The genealogy of Jesus Christ tracing his lineage through Abraham and David -- the theological basis for the Holy Kinship as a depiction of Christ's human ancestry"
+    },
+    {
+      "ref": "LUK.2.4-7",
+      "relevance": "primary",
+      "reason": "The birth of Christ within a specific human family in Bethlehem -- the Incarnation that the Holy Kinship celebrates"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us -- the central mystery that the Holy Kinship makes visible through its depiction of Christ within his human family"
+    },
+    {
+      "ref": "PSA.128.3",
+      "relevance": "typological",
+      "reason": "The blessed household with wife as fruitful vine and children as olive shoots -- the Old Testament vision of the sanctified family fulfilled in the Holy Kinship"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "When the fullness of time had come, God sent forth his Son, born of woman -- the Incarnation's entry into a particular family and lineage"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat celebrating God's faithfulness across generations -- the hymn that undergirds the intergenerational piety of the Holy Kinship scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "serene",
+    "devotional",
+    "familial"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020856",
+    "title": "The Holy Kinship",
+    "artist": "Geertgen tot Sint Jans",
+    "model": "claude-opus-4-6"
+  }
+}

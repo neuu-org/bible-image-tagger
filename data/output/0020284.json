@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "tags": [
+    "pieta",
+    "lamentation",
+    "dead-christ",
+    "mourning",
+    "deposition",
+    "grief",
+    "rocky-landscape",
+    "cave-tomb",
+    "white-shroud",
+    "passion",
+    "sorrow",
+    "compassion",
+    "burial"
+  ],
+  "description": "The dead body of Christ lies in the foreground, partially draped in white cloth, supported on the lap or at the feet of mourning figures. The Virgin Mary sits centrally, veiled in white and brown, her face drawn with grief, hands extended toward her son's body. To her left, a man in a golden-yellow robe (likely Saint John or another saint) gazes sorrowfully downward. To her right, a figure in a pink robe stands with hands clasped in prayer. A young man kneels at far left holding Christ's hand, while a woman kneels at far right, her head bowed in grief.",
+  "theological_description": "Andrea del Sarto's Pieta with Saints depicts the lamentation over the dead Christ after his removal from the cross, a moment situated between the crucifixion and the burial. While no single Gospel narrates a formal lamentation scene, the event is inferred from the accounts of Joseph of Arimathea taking down the body (Matthew 27:57-60, John 19:38-42) and the presence of the women who watched from a distance and later attended the tomb. The Virgin Mary's central position and grief fulfill Simeon's prophecy that a sword would pierce her soul (Luke 2:35). The gathered saints represent the community of faith bearing witness to the cost of redemption. The rocky tomb entrance alludes to the burial and, implicitly, to the coming resurrection. The pieta tradition emphasizes the full humanity of Christ in death -- the Word made flesh truly died -- and invites the viewer into contemplative participation in the mystery of redemptive suffering. The multiple figures surrounding Christ reflect the Church's collective mourning and devotion gathered around the paschal mystery.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.57-60",
+      "relevance": "primary"
+    },
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological"
+    },
+    {
+      "ref": "ISA.53.3-4",
+      "relevance": "typological"
+    },
+    {
+      "ref": "LUK.23.55-56",
+      "relevance": "allusion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "contemplative",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020284",
+    "title": "Pietà with Saints",
+    "artist": "Andrea del Sarto",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Guardian Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Putti",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Flight into Egypt",
+  "tags": [
+    "flight-into-Egypt",
+    "Holy-Family",
+    "infancy-narrative",
+    "angelic-guidance",
+    "divine-protection",
+    "refuge-in-Egypt",
+    "Massacre-of-the-Innocents",
+    "exile",
+    "donkey",
+    "journey",
+    "maternal-tenderness",
+    "providential-escape",
+    "Herod",
+    "putti",
+    "wilderness-travel",
+    "typological-exodus"
+  ],
+  "symbols": [
+    "angel leading the way — divine guidance and protection during the Holy Family's flight from Herod's murderous decree",
+    "donkey bearing Mary and the Child — the humble mode of travel recalling the lowliness of the Incarnation and echoing prophetic imagery of Zechariah 9:9",
+    "Joseph with walking staff — the faithful guardian and protector, obedient to the angel's command in the dream",
+    "Mary in blue mantle holding the infant — the Mother of God sheltering the Word made flesh, the new Ark of the Covenant",
+    "playful putti — angelic attendants celebrating and guarding the divine Child even amid danger",
+    "wooded landscape and dramatic sky — the wilderness of exile through which God leads his people to safety",
+    "ox alongside the donkey — traditional nativity animals, recalling Isaiah 1:3 that the ox knows its owner"
+  ],
+  "description": "A richly colored landscape scene depicting a procession moving from left to right. At far right, the Virgin Mary sits sidesaddle on a gray donkey, wearing a deep blue cloak and white veil, cradling the infant Jesus in her arms. Beside the donkey walks Joseph, bearded and wearing a dark blue-gray robe, holding a walking staff and the donkey's lead. A large, magnificent angel in a golden-orange robe with prominent brown wings strides ahead of them, one hand gesturing forward. At the left edge, three plump, nude putti frolic with garlands. An ox walks alongside the donkey.",
+  "theological_description": "The Flight into Egypt, narrated in Matthew 2:13-15, is one of the most theologically layered episodes in the infancy narratives. An angel of the Lord appears to Joseph in a dream, warning him to take the child and his mother and flee to Egypt to escape Herod's murderous decree. Matthew explicitly frames this as the fulfillment of Hosea 11:1: 'Out of Egypt I have called my son.' This prophetic fulfillment establishes Jesus as the new Israel — as the nation of Israel went down into Egypt and was called out in the Exodus, so the Son of God recapitulates Israel's journey, sanctifying the path of exile and return. The angel guiding the family visually embodies the divine providence that orchestrates history around the protection of the Messiah. The presence of the putti suggests a heavenly retinue attending the incarnate God even in his vulnerability as an infant refugee. Joseph's faithful obedience to the angelic vision parallels his Old Testament namesake, the dreamer Joseph, who also went to Egypt under divine guidance. The flight itself is a paradox of divine power expressed through apparent weakness: the Creator of the universe flees as a helpless infant, the King of Kings becomes a refugee. This theme of divine hiddenness and vulnerability runs through the entire Incarnation, reaching its climax in the cross. The Fathers saw in the Flight the sanctification of Egypt itself — the land of Israel's former bondage now becomes a place of refuge for God's own Son, anticipating Isaiah's prophecy of an altar to the Lord in Egypt (Isaiah 19:19).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The direct Gospel account of the angel warning Joseph in a dream to flee to Egypt with the child and his mother to escape Herod"
+    },
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "primary",
+      "reason": "The Massacre of the Innocents that the Flight was designed to escape, Herod's slaughter of the children of Bethlehem"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "primary",
+      "reason": "Out of Egypt I called my son — the prophecy Matthew cites as fulfilled by Jesus's sojourn in and return from Egypt"
+    },
+    {
+      "ref": "GEN.46.3-4",
+      "relevance": "typological",
+      "reason": "God telling Jacob not to fear going down to Egypt, promising to bring him back — the patriarchal type of the Holy Family's Egyptian sojourn"
+    },
+    {
+      "ref": "EXO.4.19-20",
+      "relevance": "typological",
+      "reason": "Moses told to return to Egypt because those who sought his life are dead, directly paralleled in Matthew 2:20 regarding Joseph's return"
+    },
+    {
+      "ref": "ISA.19.1",
+      "relevance": "typological",
+      "reason": "The Lord rides on a swift cloud and comes to Egypt — the Fathers saw this fulfilled when the infant Christ entered Egypt, causing the idols to tremble"
+    },
+    {
+      "ref": "PSA.91.11-12",
+      "relevance": "allusion",
+      "reason": "He will command his angels concerning you to guard you in all your ways — visually embodied by the angel leading the Holy Family to safety"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "allusion",
+      "reason": "The ox knows its owner — the traditional association of the ox recognizing the divine Child, present alongside the donkey in the scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tenderness",
+    "urgency",
+    "serenity",
+    "protectiveness"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020532",
+    "title": "The Flight into Egypt",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

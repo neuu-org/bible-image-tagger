@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Saint Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome Reading with a Magnifying Lens",
+  "tags": [
+    "saint-jerome",
+    "church-father",
+    "doctor-of-the-church",
+    "reading",
+    "scripture-study",
+    "magnifying-lens",
+    "old-age",
+    "candlelight-effect",
+    "cardinal-robes",
+    "scholarly-devotion",
+    "contemplation",
+    "vulgate",
+    "solitary-study"
+  ],
+  "symbols": [
+    "magnifying lens — the careful, close examination of Scripture and the pursuit of textual clarity",
+    "letter or manuscript — the Word of God in written form, the object of Jerome's lifelong labor",
+    "red cardinal's robe — Jerome's traditional association with the rank of cardinal, symbolizing his authority as a Doctor of the Church",
+    "bald head and aged features — wisdom, long years of study, and the ascetic life",
+    "dark background with focused light — the illumination of truth emerging from the darkness of ignorance",
+    "white undergarment visible at the wrist — inner purity beneath the outward marks of ecclesiastical office"
+  ],
+  "description": "A tightly framed half-length portrait of an elderly bald man with a short white beard, depicted reading a letter or manuscript through a small circular magnifying lens held close to his eyes. He wears a voluminous red cardinal's robe draped over a white undergarment. The light falls dramatically from the upper left, illuminating his forehead, nose, and the hand holding the lens, while the rest of the composition recedes into deep shadow. The manuscript he examines shows lines of text. His expression is one of intense concentration and scholarly absorption.",
+  "theological_description": "Saint Jerome (c. 347-420) is depicted in his quintessential role as the great scholar of Scripture, the translator of the Bible into Latin (the Vulgate), and one of the four original Doctors of the Western Church. Georges de La Tour's intimate portrayal captures the essence of Jerome's vocation: the painstaking, word-by-word examination of sacred text. The magnifying lens becomes a profound symbol of the exegetical task — the determination to see Scripture clearly, to penetrate beyond surface meaning into the depths of divine revelation. This aligns with Jerome's own injunction: 'Ignorance of Scripture is ignorance of Christ.' The tenebristic lighting embodies the Johannine theology of light shining in darkness (John 1:5); the Word illuminates the one who devotes himself to its study. Jerome's labor prefigures the Reformation principle that careful attention to the original biblical languages and accurate translation are essential to the life of the Church. His red robes signify his willingness to shed blood for the truth — though Jerome died naturally, his asceticism in the Bethlehem desert was itself a form of daily martyrdom. The scene invites the viewer into the contemplative practice of lectio divina, the prayerful reading of Scripture that Jerome exemplified throughout his life.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.119.105",
+      "relevance": "primary",
+      "reason": "The Word as a lamp and light corresponds directly to Jerome's devoted study illuminated in the darkness"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "The light shining in the darkness, with the darkness not overcoming it, is visually embodied in the tenebristic illumination of the scholar at work"
+    },
+    {
+      "ref": "2TI.2.15",
+      "relevance": "primary",
+      "reason": "Paul's exhortation to rightly handle the word of truth encapsulates Jerome's vocation as a careful translator and exegete of Scripture"
+    },
+    {
+      "ref": "JOS.1.8",
+      "relevance": "allusion",
+      "reason": "The command to meditate on the Book of the Law day and night parallels Jerome's ceaseless devotion to the study of Scripture"
+    },
+    {
+      "ref": "PSA.1.2",
+      "relevance": "allusion",
+      "reason": "The blessed one whose delight is in the law of the Lord and who meditates on it day and night describes the posture of Jerome in this painting"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "intimate",
+    "reverent",
+    "austere"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0020033",
+    "title": "St. Jerome Reading",
+    "artist": "Georges de la Tour",
+    "model": "claude-opus-4-6"
+  }
+}

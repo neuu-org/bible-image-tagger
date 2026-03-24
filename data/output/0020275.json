@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Attendant",
+      "type": "PERSON"
+    }
+  ],
+  "tags": [
+    "visitation",
+    "embrace",
+    "greeting",
+    "pregnancy",
+    "halo",
+    "angels",
+    "courtyard",
+    "architecture",
+    "magnificat",
+    "blessing",
+    "joy",
+    "elderly-woman",
+    "young-woman"
+  ],
+  "description": "Two women embrace in the foreground of an architectural courtyard. The elder woman on the left wears a white head covering and a red and gold gown, with a golden halo; she reaches out to clasp the younger woman. The younger woman on the right wears a blue-green mantle over a dark dress, also haloed, and gently receives the embrace. Behind them stand two angels with golden wings, one appearing youthful and attentive. In the background, a male figure in red stands near an arched colonnade, with buildings and trees visible under a bright sky. The scene is framed by an ornamental arch.",
+  "theological_description": "This painting depicts the Visitation, the meeting between the Virgin Mary and her kinswoman Elizabeth as narrated in Luke 1:39-56. Mary, having just received the angelic annunciation that she would bear the Son of God, travels in haste to the hill country of Judea to visit Elizabeth, who is herself miraculously pregnant with John the Baptist. Upon hearing Mary's greeting, Elizabeth's child leaps in her womb, and Elizabeth is filled with the Holy Spirit, exclaiming: 'Blessed are you among women, and blessed is the fruit of your womb!' The presence of angels attending the scene underscores the divine significance of this encounter -- two miraculous pregnancies intersecting, the forerunner meeting his Lord while both are still in the womb. Mary's response, the Magnificat (Luke 1:46-55), is one of Scripture's great hymns of praise, celebrating God's faithfulness to his promises, his reversal of worldly power structures, and his mercy to Israel. The embrace of the two women represents the meeting of the old and new covenants.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary"
+    },
+    {
+      "ref": "LUK.1.36",
+      "relevance": "allusion"
+    },
+    {
+      "ref": "LUK.1.15",
+      "relevance": "allusion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "reverent",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020275",
+    "title": "Visitação",
+    "artist": "Gregorio Lopes",
+    "model": "claude-opus-4-6"
+  }
+}

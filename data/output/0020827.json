@@ -1,0 +1,105 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Dominic",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints and Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Coronation of the Virgin and Assembly of Saints",
+  "tags": [
+    "coronation-of-the-virgin",
+    "saints-and-apostles",
+    "polyptych",
+    "gold-ground",
+    "heavenly-court",
+    "queenship-of-mary",
+    "church-triumphant",
+    "intercession",
+    "enthroned-saints",
+    "haloes",
+    "Dominican-order",
+    "liturgical-art",
+    "devotional-panel"
+  ],
+  "symbols": [
+    "gold background — the uncreated light of divine glory and the timelessness of the heavenly realm",
+    "crown placed on Mary's head — her exaltation as Queen of Heaven, fulfilling the Davidic promise of the queen mother (gebirah)",
+    "Gothic arched niches — the many mansions of the Father's house, each saint dwelling in the presence of God",
+    "keys held by Peter — the authority to bind and loose granted by Christ (Matthew 16:19)",
+    "sword held by Paul — the sword of the Spirit, the Word of God (Ephesians 6:17), and his martyrdom",
+    "Dominican habit — the Order of Preachers devoted to truth and contemplation, patrons of the church housing the altarpiece",
+    "angels flanking the saints — the heavenly host ministering before the throne of God"
+  ],
+  "description": "A large Gothic polyptych altarpiece with pointed arched niches arranged in two registers against a luminous gold ground. The upper register contains smaller half-length figures of saints framed by shell-shaped canopies. The central lower panels show the Coronation of the Virgin: Christ places a crown upon Mary's head while both are enthroned. Flanking them are full-length standing figures of apostles and saints, each bearing distinctive attributes -- keys, a sword, books, and palms. One figure wears the black-and-white habit of the Dominican order.",
+  "theological_description": "The Coronation of the Virgin is the culminating Marian mystery, celebrated in Catholic and Orthodox tradition as Mary's exaltation to reign beside her Son in glory. This scene draws upon Psalm 45:9 ('At your right hand stands the queen in gold of Ophir') and Revelation 12:1, where a woman is 'clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.' The Fathers (Ephrem, John Damascene) understood Mary's coronation as the fulfillment of the Davidic queen-mother (gebirah) tradition: as Bathsheba sat at Solomon's right hand (1 Kings 2:19), so the Mother of the true Solomon reigns at Christ's right hand. The assembled apostles and saints represent the Church Triumphant -- the communion of saints gathered in the heavenly Jerusalem (Hebrews 12:22-23). Saint Peter with his keys and Saint Paul with his sword anchor the apostolic foundation upon which the Church is built (Ephesians 2:20). The presence of a Dominican friar connects the altarpiece to the Church of Saint Dominic, embedding the devotional context within the Order of Preachers whose mission of truth (Veritas) reflects the Church's call to proclaim the Gospel to all nations. The gold ground pervading the composition signifies the divine light in which the saints dwell -- the eschatological vision of Revelation 21, where God Himself is the light of the heavenly city.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman crowned with twelve stars -- the primary scriptural image underlying the Coronation of the Virgin in Catholic tradition"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "primary",
+      "reason": "The queen standing at the king's right hand in gold of Ophir -- the messianic psalm applied to Mary's heavenly queenship"
+    },
+    {
+      "ref": "1KI.2.19",
+      "relevance": "typological",
+      "reason": "Bathsheba enthroned at Solomon's right hand as queen mother -- Old Testament type of Mary's coronation beside Christ"
+    },
+    {
+      "ref": "HEB.12.22-23",
+      "relevance": "typological",
+      "reason": "The assembly of the firstborn enrolled in heaven, angels, and the spirits of the righteous made perfect -- the Church Triumphant depicted in the altarpiece"
+    },
+    {
+      "ref": "MAT.16.19",
+      "relevance": "allusion",
+      "reason": "The keys of the kingdom given to Peter -- visually represented by the keys held by the apostle in the polyptych"
+    },
+    {
+      "ref": "EPH.2.20",
+      "relevance": "allusion",
+      "reason": "The Church built upon the foundation of the apostles and prophets -- the assembled saints embodying this apostolic foundation"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "majestic",
+    "solemn",
+    "devotional",
+    "radiant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020827",
+    "title": "Coronation of the Virgin, Church of Saint Dominic",
+    "artist": "Paolo Veneziano",
+    "model": "claude-opus-4-6"
+  }
+}

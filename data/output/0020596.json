@@ -1,0 +1,116 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Penitent thief (Dismas)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Impenitent thief (Gestas)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Crucifixion of Jesus Christ",
+  "tags": [
+    "crucifixion",
+    "calvary",
+    "three-crosses",
+    "passion",
+    "golgotha",
+    "roman-soldiers",
+    "mourning",
+    "lances",
+    "horses",
+    "darkness",
+    "redemption",
+    "atonement"
+  ],
+  "symbols": [
+    "central cross elevated above the two thieves — Christ's unique role as the sinless mediator between God and humanity",
+    "two thieves flanking Christ — the universal human choice between repentance and rejection in the face of divine mercy",
+    "darkened sky — the cosmic horror of creation as its Creator suffers death, fulfilling the prophetic sign of Amos 8:9",
+    "angels at the cross — heavenly beings witnessing the mystery of the God-man's atoning death",
+    "lances and spears — the instruments of the Passion and the fulfillment of prophecy that not a bone would be broken but He would be pierced",
+    "swooning women at the foot of the cross — the Church and faithful Israel grieving at the death of their Lord",
+    "white horse among the soldiers — Roman imperial power unwittingly serving God's redemptive plan"
+  ],
+  "description": "A large arched-top altarpiece depicting the Crucifixion at Calvary. Three crosses dominate the upper half, with Christ on the tallest central cross wearing a white loincloth, flanked by the two thieves on lower crosses in contorted poses. Small angels hover near Christ's cross. The sky behind is deeply darkened, almost black, with faint reddish clouds. Below, a dense crowd fills the entire lower half of the painting. Roman soldiers on horseback carry long lances, pressing in from both sides.",
+  "theological_description": "Lorenzo Lotto's Crucifixion presents the central event of Christian faith in its full dramatic and theological weight. The three crosses at Calvary encapsulate the entire human condition: Christ, the sinless Lamb of God, hangs between two sinners, one of whom repents and receives the promise of paradise (Luke 23:43), while the other dies in his sins. This arrangement, with Christ literally in the middle, embodies His role as mediator between God and humanity (1 Timothy 2:5). The supernatural darkness that covers the land from the sixth to the ninth hour (Mark 15:33) signals that this is no ordinary execution but a cosmic event — the moment when God made Him who knew no sin to be sin for us (2 Corinthians 5:21). The mourning women at the foot of the cross, led by the Virgin Mary and the beloved disciple John, fulfill Simeon's prophecy that a sword would pierce Mary's soul (Luke 2:35). The Roman soldiers with their lances represent the Gentile world unwittingly fulfilling the prophetic scriptures: 'They shall look on Him whom they have pierced' (Zechariah 12:10; John 19:37). In the theology of the cross, this darkest hour is simultaneously the moment of greatest victory, for it is here that death is swallowed up and the powers of sin are disarmed (Colossians 2:14-15).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "John's account of the Crucifixion including the presence of Mary and the beloved disciple at the foot of the cross"
+    },
+    {
+      "ref": "MRK.15.22-39",
+      "relevance": "primary",
+      "reason": "Mark's account of the Crucifixion including the darkness over the land and the two criminals"
+    },
+    {
+      "ref": "LUK.23.33-46",
+      "relevance": "primary",
+      "reason": "Luke's account including the penitent thief and Christ's words of forgiveness"
+    },
+    {
+      "ref": "ISA.53.4-7",
+      "relevance": "typological",
+      "reason": "The Suffering Servant who was pierced for our transgressions and bore the sin of many — the prophetic foundation of the Crucifixion"
+    },
+    {
+      "ref": "PSA.22.1-18",
+      "relevance": "typological",
+      "reason": "The messianic psalm of the forsaken righteous one whose hands and feet are pierced, surrounded by enemies"
+    },
+    {
+      "ref": "COL.2.14-15",
+      "relevance": "allusion",
+      "reason": "Christ disarming the powers and principalities through the cross, triumphing over them in it"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tragic",
+    "solemn",
+    "dark",
+    "redemptive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020596",
+    "title": "Crucifixion",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

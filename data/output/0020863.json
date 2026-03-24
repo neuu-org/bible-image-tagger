@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "St. Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Albrecht of Brandenburg",
+      "type": "PERSON"
+    }
+  ],
+  "event": "St. Jerome in His Study",
+  "tags": [
+    "saint-jerome",
+    "church-father",
+    "scholar-in-study",
+    "cardinal",
+    "lion-of-jerome",
+    "crucifix",
+    "hourglass",
+    "vanitas",
+    "vulgate-translation",
+    "donor-portrait",
+    "devotional-identification",
+    "animals",
+    "antler-chandelier",
+    "madonna-painting",
+    "pheasants",
+    "scholarly-life"
+  ],
+  "symbols": [
+    "lion resting at his feet — Jerome's legendary companion, tamed after he extracted a thorn from its paw, symbolizing the power of Christian charity over wild nature",
+    "crucifix on the desk — the centrality of Christ's Passion to Jerome's scholarly and devotional life",
+    "hourglass — the passage of time and mortality, a vanitas reminder even amid intellectual pursuits",
+    "cardinal's red robes and biretta — Jerome's traditional (though anachronistic) rank as a cardinal, representing his authority as a Doctor of the Church",
+    "open books and writing implements — Jerome's monumental labor of translating Scripture into the Latin Vulgate",
+    "small Madonna and Child painting on the wall — Marian devotion as companion to scriptural study",
+    "numerous animals (pheasants, deer, partridges, parrot, rabbits) — the peaceable kingdom, creation at harmony under the scholar-saint's sanctified presence",
+    "antlers mounted as chandelier — the stag as symbol of the soul thirsting for God (Psalm 42)"
+  ],
+  "description": "A richly furnished Renaissance study with green-beamed ceiling and a large mullioned window at right. A man in cardinal's red robes and biretta sits at a broad wooden desk, writing or reading. Before him on the desk stand a small crucifix, an hourglass, books, and various objects. A small painting of the Madonna and Child hangs on the wall behind him. A parrot perches on the desk edge at left. On the floor below, a large tawny lion reclines at rest. Scattered around the room are numerous birds including pheasants and partridges, as well as rabbits and a deer.",
+  "theological_description": "This painting belongs to the rich tradition of depicting St. Jerome in his study, but with the distinctive conceit of portraying Cardinal Albrecht of Brandenburg in the saint's role -- a form of devotional identification common in Northern Renaissance patronage. Jerome (c. 347-420) was the supreme biblical scholar of the Latin West, whose translation of Scripture into the Vulgate became the Church's authoritative Bible for over a millennium. The study setting emphasizes the vita contemplativa: Jerome withdrew from Roman ecclesiastical politics to a monastic cell in Bethlehem, where he devoted decades to the painstaking work of rendering Hebrew and Greek into Latin. The crucifix and hourglass form a devotional pair -- Christ's sacrifice gives meaning to the passing hours of mortal scholarly labor. The lion, Jerome's most famous attribute, derives from a medieval legend in which the saint healed a lion's wounded paw, after which the beast became his faithful companion; theologically it signifies that even ferocious nature is subdued by sanctity and charity. The profusion of animals populating the study evokes a kind of Edenic harmony, suggesting that the scholar immersed in God's Word participates in the restoration of creation's original peace. The stag antlers overhead allude to Psalm 42:1, 'As the deer pants for flowing streams, so pants my soul for you, O God' -- the driving thirst behind all authentic biblical scholarship.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.42.1",
+      "relevance": "allusion",
+      "reason": "The stag antlers mounted as chandelier evoke the deer thirsting for God, symbolizing Jerome's insatiable desire for divine wisdom through Scripture"
+    },
+    {
+      "ref": "2TI.2.15",
+      "relevance": "primary",
+      "reason": "The charge to be a worker who rightly handles the word of truth -- the defining mission of Jerome's life as translator and exegete"
+    },
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "God's Word as a lamp and light -- Jerome's study illuminated by Scripture embodies this psalm of devotion to the Torah"
+    },
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "typological",
+      "reason": "The peaceable kingdom where the lion lies down with other creatures -- the animals in Jerome's study prefigure the messianic restoration of creation"
+    },
+    {
+      "ref": "ECC.12.12",
+      "relevance": "allusion",
+      "reason": "The vanitas elements (hourglass, passing time) amid scholarly labor echo Ecclesiastes' reflection on the endless making of books"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "scholarly",
+    "serene"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0020863",
+    "title": "Albrecht of Brandenburg as St. Jerome in his study",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

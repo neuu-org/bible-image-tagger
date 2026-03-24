@@ -1,0 +1,108 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourning Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion at Golgotha",
+  "tags": [
+    "crucifixion",
+    "golgotha",
+    "calvary",
+    "passion-of-christ",
+    "cross",
+    "redemptive-suffering",
+    "darkness-over-the-land",
+    "mater-dolorosa",
+    "cosmic-upheaval",
+    "atoning-sacrifice",
+    "suffering-servant",
+    "tree-of-life",
+    "paschal-mystery",
+    "copy-after-veronese"
+  ],
+  "symbols": [
+    "crucified Christ on the cross — the central mystery of Christian faith, the Lamb of God slain for the sins of the world",
+    "supernatural darkness and lurid sky — the cosmic reaction to the death of the Creator, darkness covering the land from the sixth to the ninth hour",
+    "kneeling figure in red — either Mary Magdalene or a mourner, devotion and penitence at the foot of the cross",
+    "figure in golden-yellow garments — possibly the Virgin Mary or John, the faithful witnesses who did not flee",
+    "dramatic light radiating from the cross — the paradox of the cross as source of divine light even in the hour of deepest darkness",
+    "rocky hillside — Golgotha, the Place of the Skull, where the New Adam's blood redeems the old"
+  ],
+  "description": "A darkly atmospheric painting showing the Crucifixion scene rendered in dramatic, almost abstract terms. The figure of Christ on the cross is barely discernible in the upper portion, bathed in pale, spectral light against a turbulent, dark sky shot through with yellows and greens. At the base of the cross, two or three figures are grouped: one draped in vivid red kneels or crouches, another in golden-yellow garments bends forward in grief. The entire scene is suffused with an eerie, luminous darkness, the forms dissolving into thick, painterly atmosphere.",
+  "theological_description": "Golgotha — the Place of the Skull — is the axis mundi of Christian theology, the point where heaven and earth, justice and mercy, death and life converge in the person of the crucified God-man. Fantin-Latour's copy after Veronese captures the cosmic dimension of the Crucifixion: the supernatural darkness that covered the land from the sixth to the ninth hour (Matthew 27:45) becomes the dominant visual reality, with the crucified figure nearly absorbed into a lurid, apocalyptic atmosphere. This darkness is not merely meteorological but theological — it signifies the weight of human sin borne by the sinless one (2 Corinthians 5:21) and recalls the plague of darkness in Egypt (Exodus 10:22), the ninth plague now revisited upon the world at the moment its firstborn is slain. The mourning figures at the base represent the remnant of faithful disciples: Mary and the beloved disciple who stood at the cross (John 19:25-27), and Mary Magdalene whose presence at Calvary and the tomb brackets the Paschal mystery. The spectral light emanating from the cross itself embodies the Johannine paradox: the hour of Christ's 'lifting up' (John 12:32) is simultaneously His glorification and His darkest suffering. The cross is the new Tree of Life (Revelation 22:2), the wood that reverses the curse of Eden's forbidden tree. As Athanasius taught, the death of the Logos in the flesh is not defeat but the destruction of death itself — by dying, Christ enters death's domain and shatters it from within.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.33-50",
+      "relevance": "primary",
+      "reason": "The Crucifixion at Golgotha: Christ nailed to the cross, darkness from the sixth to ninth hour, the death cry and yielding of the spirit."
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "The faithful witnesses at the cross — Mary, Mary Magdalene, and the beloved disciple — the figures gathered at the base."
+    },
+    {
+      "ref": "MRK.15.33-39",
+      "relevance": "primary",
+      "reason": "Mark's account of the three hours of darkness and the centurion's confession — the cosmic dimension visible in the painting's atmosphere."
+    },
+    {
+      "ref": "ISA.53.4-6",
+      "relevance": "typological",
+      "reason": "He bore our griefs and carried our sorrows; upon Him was the chastisement that brought us peace — the Suffering Servant theology embodied in the crucified figure."
+    },
+    {
+      "ref": "JHN.12.32-33",
+      "relevance": "typological",
+      "reason": "When I am lifted up from the earth, I will draw all people to myself — the cross as simultaneously suffering and glorification."
+    },
+    {
+      "ref": "2CO.5.21",
+      "relevance": "typological",
+      "reason": "God made Him who knew no sin to be sin for us — the theological reality behind the darkness engulfing the sinless one."
+    },
+    {
+      "ref": "REV.22.2",
+      "relevance": "allusion",
+      "reason": "The tree of life whose leaves are for the healing of the nations — the cross as the new Tree of Life reversing the curse of Eden."
+    },
+    {
+      "ref": "GAL.3.13",
+      "relevance": "allusion",
+      "reason": "Christ redeemed us from the curse of the law by becoming a curse for us, for cursed is everyone who hangs on a tree."
+    },
+    {
+      "ref": "PSA.22.1",
+      "relevance": "allusion",
+      "reason": "My God, my God, why have you forsaken me? — the cry of dereliction spoken from the cross into the encompassing darkness."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "apocalyptic",
+    "somber",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020225",
+    "title": "Golgotha (copy after Veronese)",
+    "artist": "Henri Fantin-Latour",
+    "model": "claude-opus-4-6"
+  }
+}

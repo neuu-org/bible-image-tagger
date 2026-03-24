@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {"name": "Moses", "type": "PERSON"}
+  ],
+  "event": "Moses presents the Ten Commandments",
+  "tags": [
+    "ten-commandments",
+    "stone-tablets",
+    "divine-law",
+    "covenant",
+    "sinai",
+    "radiant-face",
+    "prophet",
+    "divine-revelation",
+    "moral-law",
+    "mediator-of-the-covenant",
+    "torah",
+    "desert",
+    "sandals",
+    "horns-of-light"
+  ],
+  "symbols": [
+    "stone tablets — the eternal, immutable law of God inscribed by His own finger (Exodus 31:18)",
+    "radiant glow around the head — the reflected glory of God upon Moses' face after encountering the divine presence (Exodus 34:29-35)",
+    "desert landscape — the wilderness of Sinai, place of testing, formation, and covenant",
+    "sandals — the pilgrim prophet who ascended the holy mountain",
+    "outstretched arm holding the tablets — Moses as mediator presenting God's word to the people",
+    "simple garments — prophetic humility and the austere life of one wholly given to God's service"
+  ],
+  "description": "A full-length figure of Moses stands in a barren desert landscape, facing the viewer. He is an elderly man with a long white beard and hair, wearing layered garments of ochre, brown, and white, with sandals on his feet. A luminous radiance emanates from his head in rays of light. In his right hand, extended forward, he holds two stone tablets inscribed with text. His left arm is wrapped in his cloak, held close to his body. The background is a muted, hazy desert of soft browns and pale blues, with gently rolling sand dunes. The figure's posture is solemn and authoritative.",
+  "theological_description": "This image depicts Moses after his encounter with God on Mount Sinai, bearing the tablets of the Law — the foundational moment of Israel's covenantal identity. The Ten Commandments (Exodus 20:1-17; Deuteronomy 5:6-21) represent the direct, unmediated speech of God to His people, later inscribed on stone by the divine finger (Exodus 31:18). Moses' radiant face reflects the tradition of Exodus 34:29-35, where after forty days in God's presence, Moses' skin shone so brightly that the Israelites were afraid to approach him. The rays of light recall both the Hebrew 'qaran' (to shine/to have horns) and the longstanding artistic tradition stemming from the Vulgate's 'cornuta' rendering. Theologically, Moses stands as the supreme mediator of the Old Covenant, the type par excellence of Christ the New Lawgiver. Jesus explicitly draws this parallel in the Sermon on the Mount (Matthew 5:17-48), where He fulfills and surpasses the Mosaic law. Paul develops the typology in 2 Corinthians 3:7-18, contrasting the fading glory of the old covenant with the surpassing glory of the new. The tablets themselves prefigure the law written on hearts promised in Jeremiah 31:31-34, fulfilled in the New Covenant. Moses' solitary stance in the wilderness evokes his unique role as the one who spoke with God 'face to face' (Numbers 12:8; Deuteronomy 34:10).",
+  "scripture_refs": [
+    {"ref": "EXO.20.1-17", "relevance": "primary", "reason": "The Ten Commandments given at Sinai — the direct content of the tablets Moses holds."},
+    {"ref": "EXO.34.29-35", "relevance": "primary", "reason": "Moses' face shining with divine radiance after receiving the tablets on Sinai, depicted by the rays of light around his head."},
+    {"ref": "EXO.31.18", "relevance": "primary", "reason": "God inscribes the tablets with His own finger, emphasizing their divine origin."},
+    {"ref": "DEU.5.6-21", "relevance": "primary", "reason": "The Deuteronomic restatement of the Ten Commandments, Moses' own recounting of the Sinai covenant."},
+    {"ref": "2CO.3.7-18", "relevance": "typological", "reason": "Paul contrasts the fading glory on Moses' face with the surpassing glory of the new covenant in Christ."},
+    {"ref": "MAT.5.17-18", "relevance": "typological", "reason": "Jesus declares He came not to abolish the Law but to fulfill it, establishing Himself as the new Moses."},
+    {"ref": "JER.31.31-34", "relevance": "typological", "reason": "The stone tablets prefigure the new covenant where God's law is written on hearts, not stone."},
+    {"ref": "NUM.12.8", "relevance": "allusion", "reason": "God speaks with Moses face to face, unlike any other prophet — the unique intimacy reflected in Moses' radiance."},
+    {"ref": "HEB.3.1-6", "relevance": "typological", "reason": "Moses was faithful as a servant in God's house, but Christ is faithful as a Son over God's house."}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "radiant", "authoritative", "reverent"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0020934",
+    "title": "Moses and the Ten Commandments",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

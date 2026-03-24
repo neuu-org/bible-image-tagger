@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Angel Gabriel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation — the archangel Gabriel appears to announce the Incarnation",
+  "tags": [
+    "annunciation",
+    "archangel",
+    "gabriel",
+    "divine messenger",
+    "scepter",
+    "incarnation",
+    "tile floor",
+    "blue robe",
+    "large wings",
+    "liturgical scroll",
+    "heavenly embassy",
+    "mariology",
+    "advent"
+  ],
+  "symbols": [
+    "wings — angelic nature and celestial origin, marking Gabriel as God's messenger",
+    "scepter — royal authority delegated from God, signaling the announcement of a King",
+    "blue robe — heavenly origin, purity, and the celestial realm from which Gabriel descends",
+    "raised right hand — the gesture of divine proclamation and blessing",
+    "inscribed scroll/sash — the words of the angelic greeting, 'Ave Maria, gratia plena'",
+    "tiled floor — the ordered earthly realm that the heavenly messenger enters",
+    "gothic interior — the sacred space of encounter between heaven and earth, prefiguring the Church"
+  ],
+  "description": "A tall, youthful angel stands in a three-quarter pose within a dim gothic interior. Large, multicolored wings with blue-grey and green-red plumage spread behind the figure. The angel wears a flowing pale blue robe gathered at the waist. The right hand is raised with the index finger pointing upward in a gesture of proclamation. The left hand grasps a golden scepter topped with an ornate finial. A red and gold inscribed cloth or sash drapes at the angel's feet. The floor is paved with polished geometric tiles in green, gold, and brown.",
+  "theological_description": "This panel depicts the archangel Gabriel at the moment of the Annunciation (Luke 1:26-38), one of the most theologically pivotal events in salvation history. Gabriel's raised finger signifies the divine word about to be spoken: 'Hail, full of grace, the Lord is with thee.' The scepter marks Gabriel as an ambassador of the Most High, announcing the coming of the messianic King whose kingdom shall have no end (Luke 1:33). In patristic exegesis (Irenaeus, Tertullian), the Annunciation reverses the Fall: where Eve's assent to the serpent brought death, Mary's fiat to the angel brings life. Gabriel's entry into the enclosed room evokes the hortus conclusus of Song of Songs 4:12, a Marian symbol of virginal purity. The inscription at the angel's feet recalls the liturgical tradition of the Angelus and the salvific greeting that initiates the Incarnation. Bernard of Clairvaux described this moment as the hinge of all history -- heaven, earth, and the underworld awaiting Mary's response. The angel's upward-pointing gesture directs attention to the divine origin of the message: this is not human invention but the eternal counsel of the Trinity entering time.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The direct biblical narrative: the angel Gabriel is sent by God to Nazareth to announce to the Virgin Mary that she will conceive and bear the Son of the Most High."
+    },
+    {
+      "ref": "LUK.1.33",
+      "relevance": "primary",
+      "reason": "Gabriel's proclamation that the child will reign over the house of Jacob forever, explaining the royal scepter in the angel's hand."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The prophecy of the virgin conceiving and bearing a son called Immanuel, fulfilled in the Annunciation."
+    },
+    {
+      "ref": "DAN.9.21-23",
+      "relevance": "typological",
+      "reason": "Gabriel's earlier appearance to Daniel as divine messenger, establishing his role as the angel of pivotal revelations."
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The protoevangelium: the seed of the woman who will crush the serpent's head, initiated through Mary's consent at the Annunciation."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word became flesh -- the Annunciation is the moment when the Incarnation begins, the eternal Logos entering human nature."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "reverent",
+    "majestic",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020705",
+    "title": "Ангел благовіщення (Angel of the Annunciation)",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

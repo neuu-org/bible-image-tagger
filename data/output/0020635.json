@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint John the Baptist (as child)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Holy Family with Saints",
+  "tags": [
+    "holy-family",
+    "virgin-and-child",
+    "sacra-conversazione",
+    "putti",
+    "altarpiece",
+    "madonna-enthroned",
+    "infant-baptist",
+    "devotional"
+  ],
+  "symbols": [
+    "Christ Child on Mary's lap — the Incarnation of God made flesh, the center of salvation history",
+    "young Saint John the Baptist — the forerunner who recognized Christ even in infancy (Luke 1:41)",
+    "putti above — heavenly host attending the divine mystery of the Incarnation",
+    "Saint Joseph kneeling — the faithful guardian and earthly protector of the Holy Family",
+    "architectural setting — the Church as the household of God, stable order sheltering divine presence",
+    "Mary enthroned — the Theotokos exalted as Queen of Heaven, the new Eve"
+  ],
+  "description": "A richly colored altarpiece showing the Virgin Mary seated centrally on an elevated throne, holding the Christ Child on her lap. The infant reaches toward a young Saint John the Baptist at her left side. To the far left, a female figure (possibly Saint Elizabeth) stands observing. At the lower right, a bearded man in a red cloak (Saint Joseph) kneels in adoration. Above, several putti hover among curtains and drapery. The background reveals a classical architectural interior with columns and arches receding into shadow.",
+  "theological_description": "This Sacra Conversazione altarpiece presents the Holy Family as the locus of the Incarnation. Mary enthroned with the Christ Child evokes the Lucan narrative of the Annunciation and Nativity (Luke 1:26-38; 2:6-7), while the young Baptist's presence recalls the Visitation, when the unborn John leaped in Elizabeth's womb at the approach of the Lord (Luke 1:39-44). The Baptist even in infancy fulfills his role as the one who would 'prepare the way of the Lord' (Isaiah 40:3; Mark 1:2-3). Joseph's kneeling posture embodies his righteous obedience as the protector entrusted with the earthly care of the Messiah (Matthew 1:20-24). The putti above signify the heavenly court's attendance at the mystery of God taking human flesh, echoing the angelic host that praised God at Christ's birth (Luke 2:13-14). The altarpiece format itself signals liturgical function — placing the mystery of the Incarnation at the center of eucharistic worship, where the Word made flesh continues to be present sacramentally.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation to Mary is the foundational event for the Incarnation depicted in this enthroned Madonna"
+    },
+    {
+      "ref": "LUK.1.39-44",
+      "relevance": "primary",
+      "reason": "The young Baptist's presence beside the Christ Child recalls the Visitation, when John leaped in the womb recognizing the Lord"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "The putti above recall the angelic multitude praising God at the Nativity"
+    },
+    {
+      "ref": "MAT.1.20-24",
+      "relevance": "primary",
+      "reason": "Joseph's kneeling adoration reflects his role as righteous guardian, obedient to the angel's command to take Mary and the child"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The Baptist as forerunner fulfills Isaiah's prophecy of the voice crying in the wilderness to prepare the Lord's way"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The enthroned Christ Child embodies the Word made flesh who dwelt among us, full of grace and truth"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "solemn",
+    "intimate",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020635",
+    "title": "Alterpiece Fugger",
+    "artist": "Giulio Romano",
+    "model": "claude-opus-4-6"
+  }
+}

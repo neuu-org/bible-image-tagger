@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jonah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Great Fish",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Jonah delivered from the great fish",
+  "tags": [
+    "prophet",
+    "great-fish",
+    "deliverance",
+    "repentance",
+    "divine-rescue",
+    "sea-creature",
+    "resurrection-typology",
+    "classical-sculpture",
+    "statue",
+    "nudity-as-vulnerability"
+  ],
+  "symbols": [
+    "great fish — divine judgment and mercy, the instrument of both chastisement and deliverance",
+    "rocky outcrop — the shore of salvation, firm ground after the chaos of the sea",
+    "upward gaze of Jonah — prayer and gratitude directed toward God after deliverance",
+    "nakedness of Jonah — vulnerability, total dependence on God, and the stripping of self-will",
+    "seaweed at the base — the depths of Sheol from which Jonah cried out (Jonah 2:5-6)"
+  ],
+  "description": "A realistic polychrome sculpture depicts a nude male figure seated on a rocky outcrop, gazing upward with an expression of awe and relief. His muscular body is rendered in a classical style with naturalistic skin tones. To the right and below, a large stylized fish with an open mouth and prominent fins emerges from the rock base. Small green vegetation clings to the stone. The background is a clean light blue. Text at the bottom identifies the artist as Saul Zanolari and the work as a detail of Jonah from the SZ Chapel, dated 2015.",
+  "theological_description": "The Prophet Jonah is one of the most theologically rich figures in the Old Testament, and his deliverance from the belly of the great fish is the single Old Testament type that Jesus himself explicitly invoked as prefiguring his own death and resurrection: 'For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth' (Matthew 12:40). The sculpture captures the moment of Jonah's emergence -- the prophet vomited onto dry land (Jonah 2:10) after three days in the depths. Jonah's prayer from inside the fish (Jonah 2:1-9) is a psalm of descent into Sheol and miraculous rescue, echoing the pattern of death and resurrection that runs through all of Scripture. The Church Fathers universally read this episode as a type of Christ's burial and resurrection: Jonah descends into the watery abyss as Christ descends into Hades; Jonah is delivered on the third day as Christ rises. Jonah's nakedness on the rock speaks to the radical vulnerability of the prophet who tried to flee God's call and was stripped of every pretension before being recommissioned. The upward gaze captures the thanksgiving of Jonah 2:9: 'Salvation belongs to the Lord.'",
+  "scripture_refs": [
+    {
+      "ref": "JON.2.1-10",
+      "relevance": "primary",
+      "reason": "Jonah's prayer from the belly of the fish and his deliverance onto dry land -- the direct narrative moment depicted."
+    },
+    {
+      "ref": "JON.1.17",
+      "relevance": "primary",
+      "reason": "The Lord appoints a great fish to swallow Jonah, the event that precedes the scene shown."
+    },
+    {
+      "ref": "MAT.12.40",
+      "relevance": "typological",
+      "reason": "Jesus explicitly identifies Jonah's three days in the fish as a type of his own three days in the tomb."
+    },
+    {
+      "ref": "MAT.16.4",
+      "relevance": "typological",
+      "reason": "Jesus again refers to the 'sign of Jonah' as the only sign to be given to a faithless generation."
+    },
+    {
+      "ref": "PSA.130.1",
+      "relevance": "allusion",
+      "reason": "Out of the depths I cry to you, O Lord -- the posture of Jonah's prayer from the abyss."
+    },
+    {
+      "ref": "PSA.69.1-2",
+      "relevance": "allusion",
+      "reason": "The waters have come up to my neck; I sink in deep mire -- imagery echoed in Jonah's submarine ordeal."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe",
+    "relief",
+    "contemplative",
+    "reverent"
+  ],
+  "_meta": {
+    "key": "0020304",
+    "title": "Prophet Jonas (Detail)",
+    "artist": "Saul Zanolari",
+    "model": "claude-opus-4-6"
+  },
+  "period": "Non-biblical"
+}

@@ -1,0 +1,115 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Cherubim",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Assumption of the Virgin Mary",
+  "tags": [
+    "assumption-of-mary",
+    "glorification-of-the-virgin",
+    "queen-of-heaven",
+    "bodily-assumption",
+    "celestial-glory",
+    "angelic-host",
+    "apostles-at-the-tomb",
+    "empty-sarcophagus",
+    "coronation-motif",
+    "marian-devotion",
+    "triumph-over-death",
+    "new-eve",
+    "ark-of-the-new-covenant",
+    "cloud-of-glory",
+    "musical-angels"
+  ],
+  "symbols": [
+    "Mary ascending on clouds — bodily glorification and the triumph of grace over corruption, the first fruits of the Resurrection applied to a human creature",
+    "empty sarcophagus below — parallel to the empty tomb of Christ, signifying that death could not hold the God-bearer",
+    "angels bearing Mary aloft — the heavenly court receiving the Queen Mother into glory",
+    "cherubim with instruments — the celestial hierarchy praising God with the heavenly liturgy",
+    "blue and white garments — purity, heavenly origin, and the immaculate nature of the Theotokos",
+    "apostles gazing upward with outstretched arms — the Church witnessing the eschatological destiny of the redeemed",
+    "golden radiance — the uncreated light of divine glory into which Mary is received"
+  ],
+  "description": "A large vertical composition divided into two registers. In the upper zone, the Virgin Mary ascends heavenward, seated upon billowing clouds, wearing a flowing blue mantle over a white gown. Her arms are gently extended and her gaze is directed upward. She is surrounded by a host of angels and cherubim — some playing musical instruments including a harp and an organ, others supporting her ascent with outstretched arms. Putti and winged heads fill the golden-lit sky above.",
+  "theological_description": "The Assumption of the Virgin represents the culminating Marian mystery: the bodily taking up of the Mother of God into heavenly glory at the end of her earthly life. Though not narrated in canonical Scripture, the doctrine draws upon deep typological roots. Mary as the Ark of the New Covenant (paralleling 2 Samuel 6 and Revelation 11:19-12:1) cannot be subject to corruption, for the vessel that bore the incarnate God is sanctified beyond the reach of death's decay. The Fathers (John of Damascus, Germanus of Constantinople) argued that since Christ's body did not see corruption (Psalm 16:10, Acts 2:31), neither could the body from which His flesh was taken. The empty sarcophagus below mirrors Christ's empty tomb, establishing Mary as the first beneficiary of her Son's Resurrection — the 'first fruits' (1 Corinthians 15:20-23) applied to a creature. The apostles' astonishment echoes the disciples at the Ascension (Acts 1:10-11), creating a deliberate parallel between Son and Mother. Typologically, Mary fulfills the Bride of the Song of Songs: 'Who is this coming up from the wilderness, leaning on her beloved?' (Song of Songs 8:5). The angelic musicians enact the Psalmic exhortation to praise God with instruments (Psalm 150), welcoming the Queen Mother into the heavenly court where she is crowned beside the throne of the Davidic King (1 Kings 2:19, Psalm 45:9).",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman clothed with the sun, the moon under her feet, a crown of twelve stars — the Marian-ecclesial figure assumed into heavenly glory."
+    },
+    {
+      "ref": "REV.11.19",
+      "relevance": "primary",
+      "reason": "The Ark of the Covenant seen in the heavenly temple — patristic tradition identifies Mary as the Ark, and her Assumption as the Ark's entrance into the heavenly sanctuary."
+    },
+    {
+      "ref": "PSA.132.8",
+      "relevance": "typological",
+      "reason": "Arise, O Lord, to your resting place, you and the ark of your might — the Ark (Mary) ascending to God's eternal dwelling."
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen stands at your right hand in gold of Ophir — Mary enthroned as Queen Mother beside the messianic King."
+    },
+    {
+      "ref": "1KI.2.19",
+      "relevance": "typological",
+      "reason": "Bathsheba seated at the right hand of Solomon — the Queen Mother typology fulfilled in Mary's heavenly enthronement."
+    },
+    {
+      "ref": "SNG.8.5",
+      "relevance": "typological",
+      "reason": "Who is this coming up from the wilderness? — the Bride ascending, read by the Fathers as Mary's Assumption into glory."
+    },
+    {
+      "ref": "1CO.15.20-23",
+      "relevance": "typological",
+      "reason": "Christ the first fruits, then those who belong to Him — Mary as the first to share fully in the bodily resurrection of her Son."
+    },
+    {
+      "ref": "PSA.16.10",
+      "relevance": "allusion",
+      "reason": "You will not let your Holy One see corruption — extended to Mary whose body bore the Holy One and is thus preserved from decay."
+    },
+    {
+      "ref": "PSA.150.3-5",
+      "relevance": "allusion",
+      "reason": "Praise Him with trumpet, harp, and lyre — the angelic musicians enacting the heavenly liturgy of welcome."
+    },
+    {
+      "ref": "ACT.1.10-11",
+      "relevance": "allusion",
+      "reason": "The disciples gazing upward at Christ's Ascension — paralleled by the apostles gazing at Mary's Assumption."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "glorious",
+    "reverent",
+    "ecstatic"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0020143",
+    "title": "Assumption of the Virgin",
+    "artist": "Juan del Castillo",
+    "model": "claude-opus-4-6"
+  }
+}

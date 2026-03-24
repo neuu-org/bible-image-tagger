@@ -1,0 +1,101 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "James",
+      "type": "PERSON"
+    },
+    {
+      "name": "John",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Agony in the Garden of Gethsemane",
+  "tags": [
+    "gethsemane",
+    "agony-in-the-garden",
+    "prayer",
+    "passion-of-christ",
+    "cup-of-suffering",
+    "angel-comforting",
+    "sleeping-disciples",
+    "night-scene",
+    "submission-to-the-father",
+    "obedience",
+    "anguish",
+    "olive-garden"
+  ],
+  "symbols": [
+    "chalice held by the angel — the cup of suffering and divine wrath that Jesus must drink",
+    "angel in golden garment — divine comfort and heavenly strengthening amid mortal anguish",
+    "kneeling posture of Christ — submission and prayer to the Father's will",
+    "red robe of Christ — His blood soon to be shed in the Passion",
+    "sleeping disciples — human frailty and inability to watch even one hour",
+    "dark rocky landscape — isolation, spiritual desolation, and the weight of Gethsemane",
+    "moon in the background — the night of betrayal and the hour of darkness"
+  ],
+  "description": "Christ kneels in prayer on rocky ground, His body turned leftward and upward, hands clasped before Him. He wears a vivid red robe over a blue garment. His face is anguished, eyes directed toward an angel who descends from the upper left, clad in golden-yellow robes with outstretched wings, bearing a golden chalice. Below and behind Christ, three disciples lie huddled together in deep sleep, their forms barely distinguishable in the shadows. The background is a dramatic landscape of jagged dark rocks and a pale moon visible through a gap in the crags.",
+  "theological_description": "The Agony in the Garden represents the supreme moment of Christ's human struggle before His Passion. In Gethsemane, the divine and human natures of Christ converge in agonizing prayer: 'Father, if you are willing, take this cup from me; yet not my will, but yours be done' (Luke 22:42). The cup held by the angel is laden with the fullness of theological meaning — it is the cup of God's wrath against sin (Isaiah 51:17), the cup of the new covenant in His blood (Luke 22:20), and the cup the Father has given Him to drink (John 18:11). Luke alone records the angel strengthening Jesus (Luke 22:43), an extraordinary detail — the Son of God requiring angelic comfort reveals the true depth of His kenosis and incarnational suffering. The sleeping disciples embody the warning Jesus gave them: 'The spirit is willing, but the flesh is weak' (Matthew 26:41). Peter, James, and John — the same three who witnessed the Transfiguration's glory — now fail to witness this hour of deepest sorrow, creating a poignant theological contrast between Tabor and Gethsemane. Christ's submission — 'not my will but yours' — is the reversal of Adam's disobedience in Eden, making Gethsemane the antitype of the Garden of the Fall. The Letter to the Hebrews captures this mystery: 'During the days of Jesus' life on earth, he offered up prayers and petitions with fervent cries and tears to the one who could save him from death, and he was heard because of his reverent submission' (Hebrews 5:7).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.39-46",
+      "relevance": "primary",
+      "reason": "Luke's account of the agony, uniquely including the angel who strengthened Jesus and His sweat like drops of blood"
+    },
+    {
+      "ref": "MAT.26.36-46",
+      "relevance": "primary",
+      "reason": "Matthew's account of Jesus praying three times in Gethsemane while the disciples sleep, asking that the cup pass from Him"
+    },
+    {
+      "ref": "MRK.14.32-42",
+      "relevance": "primary",
+      "reason": "Mark's account emphasizing Jesus's deep distress and trouble, taking Peter, James, and John apart"
+    },
+    {
+      "ref": "JHN.18.11",
+      "relevance": "primary",
+      "reason": "Jesus's acceptance: 'Shall I not drink the cup the Father has given me?'"
+    },
+    {
+      "ref": "HEB.5.7",
+      "relevance": "typological",
+      "reason": "Christ's prayers offered with loud cries and tears to the one who could save Him from death"
+    },
+    {
+      "ref": "ISA.51.17",
+      "relevance": "typological",
+      "reason": "The prophetic 'cup of wrath' that the angel presents to Christ — the accumulated judgment He bears for humanity"
+    },
+    {
+      "ref": "ROM.5.19",
+      "relevance": "typological",
+      "reason": "Christ's obedience in Gethsemane reverses Adam's disobedience: 'through the obedience of the one man the many will be made righteous'"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "dramatic",
+    "solemn",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020477",
+    "title": "The Agony in the Garden",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

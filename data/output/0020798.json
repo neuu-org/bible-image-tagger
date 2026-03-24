@@ -1,0 +1,108 @@
+{
+  "characters": [
+    {
+      "name": "Stephen",
+      "type": "PERSON"
+    },
+    {
+      "name": "The stoners (persecutors)",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saul (Paul)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Stoning of Saint Stephen",
+  "tags": [
+    "New-Testament",
+    "Acts-of-the-Apostles",
+    "martyrdom",
+    "stoning",
+    "Saint-Stephen",
+    "first-martyr",
+    "protomartyr",
+    "deacon",
+    "persecution",
+    "mob-violence",
+    "heavenly-vision",
+    "forgiveness-of-enemies",
+    "imitatio-Christi",
+    "kneeling-in-prayer",
+    "stones-as-weapons",
+    "dalmatic-vestment",
+    "city-walls",
+    "mountain-landscape"
+  ],
+  "symbols": [
+    "stones held aloft — instruments of execution under Mosaic law, the rage of religious persecution against the Gospel",
+    "Stephen kneeling with arms raised — the posture of prayer and surrender, imitating Christ who prayed for his killers on the cross",
+    "upward gaze of Stephen — his vision of the heavens opened and the Son of Man standing at the right hand of God (Acts 7:56)",
+    "dalmatic vestment — Stephen's office as deacon, the liturgical memory of his ministry to the early Church",
+    "muscular bodies of the persecutors — the brute force of worldly power arrayed against the witness of faith",
+    "city walls in the background — Jerusalem, outside whose gates Stephen is executed, paralleling Christ's crucifixion outside the city",
+    "figure standing in green garment in background — traditionally identified as Saul (Paul), who approved of Stephen's death and later became an apostle"
+  ],
+  "description": "A vertical composition depicting the martyrdom of Stephen. In the lower left, Stephen kneels on rocky ground wearing an ornate dalmatic vestment over a white alb, his arms raised in prayer and his face turned upward toward the sky with an expression of ecstatic devotion. Surrounding him, several muscular men prepare to hurl large stones; one man at center raises a heavy rock above his head with both arms. Others grasp stones or bend to pick them up. In the left background, a figure in a green garment stands watching from a distance near prostrate figures.",
+  "theological_description": "Vicente Juan Masip's depiction of the stoning of Stephen captures the pivotal moment described in Acts 7:54-60, when the first Christian martyr seals his testimony with his blood. Stephen, one of the seven deacons chosen to serve the early Church (Acts 6:5), had proclaimed before the Sanhedrin a sweeping theological indictment of Israel's history of rejecting God's messengers. His speech climaxes with the accusation that his hearers, like their fathers, always resist the Holy Spirit (Acts 7:51). Enraged, they drag him outside the city and stone him. The theological significance of Stephen's martyrdom is multi-layered. First, Stephen's death is explicitly modeled on Christ's Passion: like Jesus, he is condemned by the religious establishment; like Jesus, he is executed outside the city walls; like Jesus, he prays for the forgiveness of his killers ('Lord, do not hold this sin against them,' Acts 7:60, echoing Luke 23:34). This imitatio Christi establishes the paradigm for all subsequent Christian martyrdom. Second, Stephen's heavenly vision — 'I see the heavens opened, and the Son of Man standing at the right hand of God' (Acts 7:56) — is the only instance outside the Gospels where the title 'Son of Man' is applied to Jesus, and the only time Christ is described as standing rather than seated, as if rising to receive his first martyr. Third, the presence of Saul in the background, guarding the cloaks of the executioners (Acts 7:58), introduces the great irony of salvation history: the one who consented to Stephen's death would become the greatest apostle to the Gentiles, suggesting that Stephen's blood was indeed the seed of the Church.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.7.54-60",
+      "relevance": "primary",
+      "reason": "The direct narrative source: Stephen's heavenly vision, his stoning, and his dying prayer for his persecutors"
+    },
+    {
+      "ref": "ACT.7.56",
+      "relevance": "primary",
+      "reason": "Stephen's vision of the Son of Man standing at the right hand of God — the theological climax depicted in his upward gaze"
+    },
+    {
+      "ref": "ACT.7.58",
+      "relevance": "primary",
+      "reason": "The witnesses laid their garments at the feet of a young man named Saul — the figure visible in the background"
+    },
+    {
+      "ref": "ACT.7.60",
+      "relevance": "primary",
+      "reason": "Stephen's final prayer: Lord, do not hold this sin against them — the imitatio Christi at the heart of the scene"
+    },
+    {
+      "ref": "LUK.23.34",
+      "relevance": "typological",
+      "reason": "Father, forgive them, for they know not what they do — Stephen's prayer directly mirrors Christ's prayer from the cross"
+    },
+    {
+      "ref": "ACT.6.5",
+      "relevance": "allusion",
+      "reason": "Stephen chosen as one of the seven deacons, full of faith and the Holy Spirit — the origin of the ministry that leads to martyrdom"
+    },
+    {
+      "ref": "HEB.13.12-13",
+      "relevance": "typological",
+      "reason": "Jesus suffered outside the gate — Stephen's execution outside the city walls parallels Christ's crucifixion outside Jerusalem"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death, and I will give you the crown of life — Stephen as the paradigmatic recipient of the martyr's crown"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violence",
+    "devotion",
+    "anguish",
+    "transcendence"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0020798",
+    "title": "Martirio De San Esteban",
+    "artist": "Vicente Juan Masip",
+    "model": "claude-opus-4-6"
+  }
+}

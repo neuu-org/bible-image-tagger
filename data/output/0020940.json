@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "passover",
+    "institution-of-the-eucharist",
+    "communion-table",
+    "twelve-apostles",
+    "bread-and-wine",
+    "new-covenant",
+    "betrayal-foretold",
+    "upper-room",
+    "fellowship",
+    "contemporary-setting",
+    "modern-reinterpretation",
+    "urban-backdrop",
+    "clothesline",
+    "makeshift-table"
+  ],
+  "symbols": [
+    "long table with gathered figures — the eucharistic table and the communion of the faithful",
+    "central standing figure with raised arm — Christ presiding over the meal and instituting the sacrament",
+    "bottles at the table's base — the wine of the new covenant in Christ's blood",
+    "urban setting with laundry and barred windows — incarnation of the sacred in the mundane, Christ present among the poor",
+    "makeshift gathering — the Church as community formed not by wealth but by shared bread and presence",
+    "diverse postures of the seated figures — varied responses of the disciples, from attentiveness to distraction"
+  ],
+  "description": "A contemporary reinterpretation of the Last Supper set in a modest urban outdoor space. Thirteen figures sit or stand around a long makeshift table constructed of planks on trestles. A central figure in a pink or salmon-colored shirt stands with one arm raised, commanding attention. The other figures are dressed in modern casual clothing — tank tops, shorts, t-shirts — and assume various relaxed postures. Behind them, a concrete wall with barred windows and clotheslines bearing hanging laundry forms the backdrop. The color palette is muted greens, blues, grays, and soft flesh tones.",
+  "theological_description": "This modern reinterpretation of the Last Supper transposes the foundational event of Christian worship into a contemporary urban setting among ordinary people. The Last Supper (Matthew 26:17-30; Mark 14:12-26; Luke 22:7-38; John 13:1-30) is the moment when Jesus, on the night before His crucifixion, gathered His disciples for the Passover meal and instituted the Eucharist: 'This is my body... this is my blood of the covenant, poured out for many' (Mark 14:22-24). By placing this sacred event among modern figures in humble surroundings — concrete walls, clotheslines, makeshift furniture — the artist emphasizes the incarnational theology at the heart of Christianity: God enters the most ordinary circumstances of human life. The standing central figure echoes Christ's role as host and servant (John 13:1-17, the washing of feet). Paul's account in 1 Corinthians 11:23-26 establishes the Last Supper as the perpetual memorial of Christ's death 'until he comes,' making every eucharistic gathering — however humble — a participation in that original meal. The urban poverty of the setting recalls the liberation theology emphasis on Christ's preferential option for the poor and His identification with the marginalized (Matthew 25:35-40).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.17-30",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Last Supper, the institution of the Eucharist on the night of Jesus' betrayal."
+    },
+    {
+      "ref": "MRK.14.22-24",
+      "relevance": "primary",
+      "reason": "Jesus takes bread and wine, declaring them His body and blood of the new covenant."
+    },
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "Luke's account emphasizing Jesus' desire to eat this Passover with His disciples before He suffers."
+    },
+    {
+      "ref": "JHN.13.1-17",
+      "relevance": "primary",
+      "reason": "John's account of the Last Supper evening, focusing on Jesus as servant who washes the disciples' feet."
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "primary",
+      "reason": "Paul's received tradition of the institution narrative, commanding its repetition 'until he comes.'"
+    },
+    {
+      "ref": "MAT.25.35-40",
+      "relevance": "allusion",
+      "reason": "Christ's identification with the poor and hungry — 'as you did it to one of the least of these, you did it to me' — reflected in the humble setting."
+    },
+    {
+      "ref": "ACT.2.42-47",
+      "relevance": "typological",
+      "reason": "The early Church's breaking of bread in homes, continuing the Last Supper in ordinary communal settings."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "communal",
+    "intimate",
+    "contemplative",
+    "humble"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020940",
+    "title": "The Last Supper",
+    "artist": "Gregorio Undurraga",
+    "model": "claude-opus-4-6"
+  }
+}

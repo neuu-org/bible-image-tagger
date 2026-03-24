@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Nativity of Christ",
+  "tags": [
+    "nativity",
+    "birth-of-christ",
+    "holy-family",
+    "manger",
+    "infant-jesus",
+    "adoration",
+    "stable",
+    "crucifix",
+    "incarnation",
+    "christmas"
+  ],
+  "symbols": [
+    "manger with white cloth — the humble bed of the King of Kings, prefiguring the burial linens of the tomb",
+    "crucifix visible in the background — the shadow of the cross over the cradle, linking birth and sacrificial death from the very beginning",
+    "haloes on Joseph and Mary — sanctity and divine favor upon the earthly guardians of the Incarnate Word",
+    "ruined stable — the broken state of the fallen world into which God enters to restore and redeem",
+    "landscape vista through the archway — the wider world that will receive the good news of the Savior's birth"
+  ],
+  "description": "An intimate scene inside a rustic wooden stable open on the left to a distant pastoral landscape. At center, the infant Jesus lies on a white cloth in a low manger on the ground, radiating soft light. To the right, the Virgin Mary kneels in a blue-green robe and white veil, her hands pressed together in prayerful adoration, a golden halo behind her head. To the left, Joseph kneels in a vivid orange-red garment, also in prayer with a golden halo. Above the stable roof, two putti hover against a blue sky. In the right background, a crucifix is mounted on the exterior wall of the stable.",
+  "theological_description": "Lorenzo Lotto's Nativity presents the Incarnation with profound theological intentionality. The Christ child, laid in a humble manger, embodies the kenosis described in Philippians 2:6-8 — God emptying Himself to take on human flesh in the most lowly circumstances. The adoring postures of Mary and Joseph express the proper human response to the mystery: silent wonder and worship. The most striking theological element is the crucifix visible on the stable wall, an anachronistic detail that is theologically deliberate. It announces that the Incarnation and the Passion are a single salvific act — the child born in Bethlehem is born to die on Calvary. The stable itself, often understood as a figure of the broken world, becomes the first tabernacle of God's presence among humanity. The putti above represent the heavenly host who announced 'Glory to God in the highest and peace to those on whom His favor rests' (Luke 2:14). The white cloth beneath the infant prefigures the burial shroud, linking the swaddling clothes of birth to the linen wrappings of death and resurrection.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.1-7",
+      "relevance": "primary",
+      "reason": "Luke's narrative of the birth of Jesus in Bethlehem, laid in a manger because there was no room in the inn"
+    },
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Nativity, emphasizing Joseph's role and the fulfillment of Isaiah's prophecy"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "primary",
+      "reason": "The angelic host announcing glory to God, represented by the putti above the stable"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "The great kenosis hymn — Christ who, being in the form of God, emptied Himself and was born in human likeness"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The prophecy of Immanuel — the virgin shall conceive and bear a son, fulfilled in this scene"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation mystery this Nativity scene embodies"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "reverent",
+    "peaceful",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020066",
+    "title": "Nativity of Christ",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd at Jerusalem",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Triumphal Entry into Jerusalem",
+  "tags": [
+    "entry-into-jerusalem",
+    "palm-sunday",
+    "triumphal-entry",
+    "donkey",
+    "palm-branches",
+    "jerusalem-gate",
+    "crowd",
+    "messianic-fulfillment",
+    "grisaille",
+    "relief-sculpture"
+  ],
+  "symbols": [
+    "gold leaf background — the divine glory breaking into the earthly scene, heaven touching earth at the Messiah's arrival",
+    "palm branches — victory, triumph, and the crowd's recognition of Jesus as the promised King",
+    "figure laying garments on the ground — homage and submission to royal authority, fulfilling Zechariah's prophecy",
+    "city walls and gate — Jerusalem, the holy city and destination of Christ's salvific mission",
+    "donkey — humility of the Messiah who comes not as a military conqueror but as a servant-king"
+  ],
+  "description": "A monochrome grisaille relief panel set within an arched architectural frame. At center, a robed figure rides forward on a donkey with one arm extended toward a walled city visible at the right. Behind him on the left, a group of followers carry branches and gesture in acclamation. A large tree with spreading branches rises above the central group. In the foreground, a figure crouches low, apparently laying down a garment on the path. A solitary figure stands at the far right near the city gate.",
+  "theological_description": "The Triumphal Entry into Jerusalem (Matthew 21:1-11; Mark 11:1-11; Luke 19:28-44; John 12:12-19) is one of the most theologically charged moments of Holy Week. Jesus deliberately fulfills Zechariah 9:9 by entering Jerusalem mounted on a donkey, publicly declaring His messianic identity while simultaneously redefining kingship. The crowd spreads garments and waves palm branches, crying 'Hosanna to the Son of David' — a title with unmistakable royal and Davidic implications. Yet this king comes in humility, not on a war horse but on a beast of burden. The event is deeply ironic: the same city that welcomes Him with Hosanna will cry 'Crucify Him' within days. Luke records that Jesus wept over Jerusalem during this very approach, foreseeing its destruction because it did not recognize the time of its visitation. The Church has long seen in this event a prefiguration of Christ's final coming in glory, when every knee shall bow. Tiepolo's grisaille relief treatment, with its gilded backdrop, emphasizes the intersection of the earthly and the divine — the humble procession framed by transcendent golden light.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.21.1-11",
+      "relevance": "primary",
+      "reason": "Matthew's account of Jesus' triumphal entry into Jerusalem with the crowds crying Hosanna"
+    },
+    {
+      "ref": "MRK.11.1-11",
+      "relevance": "primary",
+      "reason": "Mark's parallel account of the entry into Jerusalem"
+    },
+    {
+      "ref": "LUK.19.28-44",
+      "relevance": "primary",
+      "reason": "Luke's account including Jesus weeping over Jerusalem"
+    },
+    {
+      "ref": "JHN.12.12-19",
+      "relevance": "primary",
+      "reason": "John's account emphasizing the crowd's use of palm branches and the fulfillment of Zechariah's prophecy"
+    },
+    {
+      "ref": "ZEC.9.9",
+      "relevance": "typological",
+      "reason": "The Old Testament prophecy directly fulfilled: 'Behold, your king comes to you, righteous and having salvation, humble and mounted on a donkey'"
+    },
+    {
+      "ref": "PSA.118.25-26",
+      "relevance": "typological",
+      "reason": "The source of the Hosanna acclamation — 'Blessed is he who comes in the name of the Lord'"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "solemn",
+    "reverent",
+    "anticipatory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020039",
+    "title": "Entry into Jerusalem",
+    "artist": "Giovanni Domenico Tiepolo",
+    "model": "claude-opus-4-6"
+  }
+}

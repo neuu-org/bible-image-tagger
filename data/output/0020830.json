@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Saint Stephen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Members of the Sanhedrin",
+      "type": "GROUP"
+    },
+    {
+      "name": "High Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Witnesses and accusers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Dispute of Saint Stephen before the Sanhedrin",
+  "tags": [
+    "Christianity",
+    "saints-and-apostles",
+    "sanhedrin",
+    "trial",
+    "saint-stephen",
+    "first-martyr",
+    "protomartyr",
+    "preaching",
+    "accusation",
+    "council-chamber",
+    "fresco",
+    "early-church",
+    "deacon",
+    "defense-of-the-faith",
+    "confrontation"
+  ],
+  "symbols": [
+    "Stephen standing before the council — the faithful witness who speaks God's truth before hostile authorities, prefiguring Christ before the Sanhedrin",
+    "the council chamber and elevated architecture — the seat of religious authority that rejects the prophetic word",
+    "Stephen's tonsured head and deacon's vestment — his role as one of the seven deacons ordained by the apostles",
+    "gestures of accusation from council members — the false witnesses who charged Stephen with blasphemy",
+    "fortress or city wall visible in background — Jerusalem, the city that kills the prophets (Matthew 23:37)"
+  ],
+  "description": "A lunette-shaped fresco depicting a scene inside an architectural space with a vaulted ceiling and a fortified city visible in the upper left background. A young man in liturgical vestments stands at center, facing a semi-circle of seated and standing elders in richly colored robes. Several figures gesture emphatically toward the central figure, some with raised hands in accusation or debate. The composition is framed by a painted arch. The palette features deep blues, reds, and earth tones characteristic of early Italian Renaissance fresco technique.",
+  "theological_description": "This fresco depicts the appearance of the deacon Stephen before the Sanhedrin (Acts 6:12-7:53), the pivotal moment when the first Christian martyr delivers his great speech recounting salvation history. Stephen, one of the seven deacons chosen by the apostles (Acts 6:5), had been performing signs and wonders among the people, provoking opposition from members of the Synagogue of the Freedmen. False witnesses accused him of speaking against the Temple and the Law. Before the council, Stephen's face shone 'like the face of an angel' (Acts 6:15) -- a detail linking him to Moses whose face radiated after encountering God on Sinai (Exodus 34:29-35). Stephen's speech is the longest in Acts, tracing God's redemptive work from Abraham through Moses to Solomon's Temple, culminating in the charge that the council, like their ancestors, always resists the Holy Spirit (Acts 7:51). The scene prefigures Christ's own trial before the same body (Matthew 26:59-66): both face false witnesses, both are condemned for speaking truth about God's purposes transcending the Temple. Stephen's dispute marks the theological turning point in Acts -- the gospel begins to move beyond Jerusalem toward the Gentile world, as persecution scatters the believers (Acts 8:1). His witness embodies the apostolic boldness (parrhesia) promised by Christ: 'When they bring you before synagogues and rulers, do not be anxious about how you should defend yourself, for the Holy Spirit will teach you' (Luke 12:11-12).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.6.12-15",
+      "relevance": "primary",
+      "reason": "Stephen brought before the Sanhedrin by false witnesses, his face shining like an angel -- the direct scene depicted"
+    },
+    {
+      "ref": "ACT.7.1-53",
+      "relevance": "primary",
+      "reason": "Stephen's defense speech before the council recounting salvation history and accusing the council of resisting the Holy Spirit"
+    },
+    {
+      "ref": "MAT.26.59-66",
+      "relevance": "typological",
+      "reason": "Christ's trial before the Sanhedrin with false witnesses -- the prototype Stephen's trial mirrors"
+    },
+    {
+      "ref": "LUK.12.11-12",
+      "relevance": "typological",
+      "reason": "Christ's promise that the Holy Spirit will give words when believers are brought before councils -- fulfilled in Stephen's bold speech"
+    },
+    {
+      "ref": "EXO.34.29-35",
+      "relevance": "allusion",
+      "reason": "Moses' radiant face after encountering God on Sinai -- paralleled by Stephen's angelic countenance before the council"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "confrontational",
+    "tense",
+    "solemn",
+    "defiant"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0020830",
+    "title": "Dispute before Sanhedrin",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

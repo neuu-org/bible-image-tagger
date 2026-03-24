@@ -1,0 +1,105 @@
+{
+  "characters": [
+    {
+      "name": "Saint Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Martha",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Leonard",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Four Saints: Peter, Martha, Mary Magdalene, and Leonard",
+  "tags": [
+    "saints-and-apostles",
+    "sacra-conversazione",
+    "Saint-Peter",
+    "Saint-Martha",
+    "Saint-Mary-Magdalene",
+    "Saint-Leonard",
+    "keys-of-Peter",
+    "ointment-jar",
+    "chains-and-shackles",
+    "communion-of-saints",
+    "devotional-grouping",
+    "apostolic-authority",
+    "penitence",
+    "hospitality",
+    "liberation-of-captives"
+  ],
+  "symbols": [
+    "two large keys held by Peter — the keys of the kingdom of heaven given by Christ, authority to bind and loose",
+    "book held by Peter — apostolic teaching, the Gospel, and the authority of Peter's epistles",
+    "ointment jar held by Mary Magdalene — the precious ointment with which she anointed Christ's feet, symbol of penitent love and devotion",
+    "red and gold garments of Mary Magdalene — her traditional iconographic colors suggesting both her former worldly life and her transformation by grace",
+    "blue-green veil and modest garments of Martha — her identity as the devoted servant and model of active faith",
+    "chains or shackles held by Leonard — his patronage of prisoners and the liberation of captives through faith",
+    "small dragon at Martha's feet — the Tarasque, the legendary beast Martha subdued by faith, symbolizing the triumph of holiness over evil",
+    "wooded outdoor setting — the garden of the Church, where saints from different times and vocations meet in eternal communion"
+  ],
+  "description": "Four full-length figures stand together in a wooded outdoor setting. At the far left, Saint Peter, a bearded elderly man in a blue and orange-gold robe, holds two large keys in his left hand and a closed book in his right. Beside him, a woman in a blue-green hooded veil and modest garments stands with downcast eyes, identifiable as Saint Martha. Next, a younger woman with flowing hair wears a richly colored red and golden-yellow dress and holds a golden vessel or ointment jar to her chest — Saint Mary Magdalene.",
+  "theological_description": "This sacra conversazione gathers four saints who represent distinct vocations within the Body of Christ. Saint Peter, the chief of the apostles, bears the keys of the kingdom (Matthew 16:18-19), embodying apostolic authority and the foundational rock upon which Christ built the Church. His presence anchors the group in the apostolic tradition. Saint Martha of Bethany represents the vita activa, the life of practical service and hospitality. Her confession to Jesus — 'I believe that you are the Christ, the Son of God' (John 11:27) — is one of the great Christological declarations in the Gospels, equal to Peter's own confession. The small dragon at her feet references the legend of the Tarasque, through which the Church celebrates the power of faith to subdue evil. Saint Mary Magdalene, bearing her ointment jar, embodies penitent love and the primacy of devotion. She who anointed Jesus's feet with costly ointment and her tears (Luke 7:37-38) became the first witness of the Resurrection, the 'apostle to the apostles' (John 20:11-18). Her transformation from sinner to saint is a cornerstone of the theology of grace. Saint Leonard, a sixth-century abbot, represents the post-biblical extension of Christ's mission to set captives free (Luke 4:18), patron of prisoners whose chains he miraculously loosened. Together, these four demonstrate the breadth of Christian sanctity: apostolic authority, active service, contemplative devotion, and works of mercy.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ giving Peter the keys of the kingdom of heaven, the authority to bind and loose — directly depicted by the keys Peter holds"
+    },
+    {
+      "ref": "JHN.11.27",
+      "relevance": "primary",
+      "reason": "Martha's great Christological confession: I believe you are the Christ, the Son of God — identifying her theological significance beyond her role as hostess"
+    },
+    {
+      "ref": "LUK.10.38-42",
+      "relevance": "primary",
+      "reason": "Martha and Mary in the house at Bethany — the foundational text for Martha's identity as the model of active service"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "primary",
+      "reason": "Mary Magdalene as the first witness of the risen Christ, sent to proclaim the Resurrection to the apostles"
+    },
+    {
+      "ref": "LUK.7.37-38",
+      "relevance": "primary",
+      "reason": "The sinful woman who anointed Jesus's feet with ointment and tears, traditionally identified with Mary Magdalene and her jar of ointment"
+    },
+    {
+      "ref": "LUK.4.18",
+      "relevance": "typological",
+      "reason": "Christ's mission to proclaim liberty to captives and set at liberty the oppressed — the vocation Saint Leonard continued in freeing prisoners"
+    },
+    {
+      "ref": "MAT.26.6-13",
+      "relevance": "primary",
+      "reason": "The anointing at Bethany where Jesus declares that wherever the Gospel is proclaimed, what she has done will be told in memory of her"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses surrounding the faithful — embodied in this communion of saints from different eras and vocations gathered together"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotion",
+    "serenity",
+    "contemplation"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0020551",
+    "title": "Four Saints (St. Peter, St. Martha, St. Mary Magdalene, St. Leonard)",
+    "artist": "Correggio",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant Saint John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin and Child with Floral Garland",
+  "tags": [
+    "virgin-and-child",
+    "flower-garland",
+    "cartouche",
+    "madonna-and-child",
+    "roses",
+    "tulips",
+    "lilies",
+    "carnations",
+    "floral-wreath",
+    "dark-background",
+    "collaborative-painting",
+    "marian-devotion",
+    "creation-beauty",
+    "drapery",
+    "stone-niche"
+  ],
+  "symbols": [
+    "flower garland — the beauty of creation offered in honor of the Mother of God; paradise regained through the Incarnation",
+    "roses — Mary as the 'Mystical Rose,' love and martyrdom; red roses for Christ's Passion, white for Mary's purity",
+    "lilies — virginal purity of Mary, the lily among thorns (Song of Songs 2:2)",
+    "tulips — the transience of earthly beauty and the ephemeral glory of created things (vanitas element)",
+    "Virgin holding the Child — the Incarnation, God made flesh and held in human arms",
+    "stone cartouche framing the central image — the sacred set apart from the natural world, heaven framed within creation",
+    "dark background — the fallen world from which the garland of grace and the light of Christ emerge"
+  ],
+  "description": "A central stone cartouche with an ornate scalloped pediment frames a small painting of the Virgin Mary seated, holding the infant Christ on her lap while a second small child (likely the infant John the Baptist) reaches toward them. A rich draped curtain hangs behind the figures. Surrounding this central image is a lavish oval garland of flowers set against a near-black background. The garland includes large pink and red roses, white roses, striped and solid tulips, carnations, irises, morning glories, daffodils, and various smaller blossoms with green leaves.",
+  "theological_description": "The genre of garland paintings surrounding a devotional image of the Virgin and Child emerged in early seventeenth-century Antwerp as a collaborative form uniting still-life mastery with sacred figuration. Theologically, the floral wreath functions as a visual litany of Marian titles and virtues. The rose is Mary's preeminent flower -- the 'Mystical Rose' of the Litany of Loreto -- with white roses signifying her purity and red roses the Passion her Son would endure. The lily, associated with the Annunciation (Luke 1:28-35), declares her perpetual virginity, while the iris (named for its sword-like leaves) alludes to Simeon's prophecy that 'a sword will pierce your own soul' (Luke 2:35). The variety and abundance of flowers evoke the garden enclosed (hortus conclusus) of Song of Songs 4:12, a patristic type of Mary's inviolate virginity. At the center, the Incarnation itself -- God taking flesh from this woman -- is literally framed and honored by the beauty of the created order, suggesting that all of nature pays homage to the one through whom the Creator entered creation. The infant Baptist's presence recalls the Visitation and the prophetic recognition of Christ even in the womb (Luke 1:41-44).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28-35",
+      "relevance": "primary",
+      "reason": "The Annunciation -- the angel's greeting to Mary and the promise of the Incarnation that is depicted at the center of the garland."
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword will pierce Mary's soul -- alluded to by the iris (sword-lily) in the garland."
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The infant John leaping in Elizabeth's womb at the presence of Christ -- the Baptist child reaching toward Christ in the central image."
+    },
+    {
+      "ref": "SNG.4.12",
+      "relevance": "typological",
+      "reason": "'A garden locked is my sister, my bride' -- the hortus conclusus typology applied to Mary's virginity, embodied in the enclosed floral garland."
+    },
+    {
+      "ref": "SNG.2.2",
+      "relevance": "typological",
+      "reason": "'As a lily among thorns, so is my love among the young women' -- Mary as the lily of surpassing purity."
+    },
+    {
+      "ref": "ISA.11.1",
+      "relevance": "allusion",
+      "reason": "'A shoot shall come out from the stump of Jesse, and a branch shall grow out of his roots' -- the floral imagery of messianic promise."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "'The Word became flesh and dwelt among us' -- the Incarnation depicted at the heart of creation's beauty."
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "devotional",
+    "lush",
+    "serene",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020428",
+    "title": "A Garland of Flowers Surrounding the Virgin and Child",
+    "artist": "Jan Brueghel the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

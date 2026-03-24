@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "One of the Magi (King)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and entourage of the Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd of onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "New-Testament",
+    "Adoration-of-the-Magi",
+    "Epiphany",
+    "Magi",
+    "Wise-Men",
+    "kings",
+    "horses",
+    "procession",
+    "crowded-scene",
+    "turbans",
+    "exotic-visitors",
+    "gentile-worship",
+    "revelation-to-the-nations",
+    "richly-dressed-figures",
+    "vivid-colors",
+    "medieval-costume"
+  ],
+  "symbols": [
+    "outstretched hand of the king — the gesture of wonder, proclamation, and homage before the Christ child",
+    "horses and retinue — the long journey of the Magi, signifying the nations' pilgrimage to worship the newborn King",
+    "diverse headgear and costumes — the universality of Christ's kingship drawing all peoples and nations",
+    "rich red garment of the central figure — royalty and the costly devotion offered to the King of Kings",
+    "crowded pressing throng — the multitudes drawn to the light of Christ at his manifestation to the world"
+  ],
+  "description": "A detail from a larger Adoration scene showing a densely packed crowd of figures. At center, a bearded man in a vivid red robe extends his right hand outward in a gesture of proclamation or wonder. Beside him, a younger figure with golden hair wears a blue garment and has hands pressed together in prayer. Dark horses are visible behind them. The crowd includes figures in turbans, colorful caps, and varied medieval and exotic attire. The scene is richly colored with reds, blues, golds, and greens, rendered in the jewel-like detail characteristic of early Renaissance panel painting.",
+  "theological_description": "This detail from Filippo Lippi's Adoration of the Magi captures the moment of Epiphany — the manifestation of Christ to the Gentile nations. The Magi, traditionally understood as wise men or kings from the East, represent the first fruits of the Gentile world coming to worship the Jewish Messiah. Matthew 2:1-12 records that they followed a star to Bethlehem, bearing gifts of gold, frankincense, and myrrh. The theological significance of the Epiphany is immense: it fulfills Isaiah's prophecy that nations shall come to the light of Israel's glory and kings to the brightness of her rising (Isaiah 60:3). The diverse costumes and exotic headgear in Lippi's rendering emphasize the universality of this revelation — Christ is born not for Israel alone but for all peoples. The gesture of the central king, hand extended in wonder, embodies the appropriate human response to the Incarnation: astonishment, adoration, and self-offering. The young praying figure may represent the piety of those who approach Christ with pure devotion. The pressing crowd typologically anticipates the ingathering of the nations described in Revelation 7:9, where a great multitude from every nation stands before the Lamb. Paul articulates this same mystery in Ephesians 3:6: the Gentiles are fellow heirs with Israel, members of the same body, partakers of the promise in Christ Jesus through the Gospel.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The direct narrative source: Magi from the East come to worship the newborn King of the Jews, bearing gifts of gold, frankincense, and myrrh"
+    },
+    {
+      "ref": "ISA.60.3",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light, and kings to the brightness of your rising — the prophetic fulfillment embodied by the Magi's journey"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "The kings of Tarshish and the isles shall bring tribute; the kings of Sheba and Seba shall offer gifts — a messianic psalm fulfilled in the Magi's homage"
+    },
+    {
+      "ref": "EPH.3.6",
+      "relevance": "typological",
+      "reason": "The mystery that the Gentiles are fellow heirs — the Magi as the firstfruits of Gentile inclusion in the covenant of promise"
+    },
+    {
+      "ref": "REV.7.9",
+      "relevance": "typological",
+      "reason": "A great multitude from every nation standing before the Lamb — the eschatological fulfillment of what begins with the Magi's worship"
+    },
+    {
+      "ref": "MAT.2.11",
+      "relevance": "primary",
+      "reason": "They fell down and worshiped him and offered gifts — the act of adoration that is the theological center of the Epiphany"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "wonder",
+    "reverence",
+    "festive",
+    "devotion"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020796",
+    "title": "Adoration of the Magi (detail)",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

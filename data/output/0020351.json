@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Matthew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Matthew inspired by an angel while writing his Gospel",
+  "tags": [
+    "evangelist",
+    "gospel-writer",
+    "divine-inspiration",
+    "angel-of-matthew",
+    "writing",
+    "book",
+    "quill-pen",
+    "scripture-composition",
+    "apostle",
+    "winged-figure"
+  ],
+  "symbols": [
+    "angel — the traditional symbol of the Evangelist Matthew in the tetramorph, representing Christ's human genealogy and incarnation",
+    "open book or scroll — the Gospel being written under divine inspiration",
+    "quill and inkwell — the instrument of sacred authorship",
+    "wings of the angel — divine origin of the message and heavenly commission",
+    "window with distant light — illumination from beyond, the light of revelation entering the earthly space",
+    "elderly bearded figure — apostolic authority and the wisdom of one who walked with Christ"
+  ],
+  "description": "An elderly bearded man sits at a table draped in red cloth, holding an open book or large manuscript. He wears a brown robe with a blue garment beneath. Behind him and to his right, a youthful winged figure with curly hair leans close, pointing at or guiding the text on the page. The angel wears a reddish garment. On the table sits an inkwell with a quill pen. To the left, a small arched window or opening lets in pale light from outside. The palette is warm and dominated by deep browns, reds, and muted golds, with strong chiaroscuro emphasizing the intimacy of the scene.",
+  "theological_description": "The depiction of Saint Matthew with his angelic companion is rooted in the vision of the four living creatures in Ezekiel 1:5-10 and Revelation 4:7, systematized by Irenaeus and Jerome into the tetramorph -- the four symbols of the Evangelists. Matthew is assigned the human figure or angel because his Gospel begins with the genealogy of Jesus Christ (Matthew 1:1-17), emphasizing the human ancestry and incarnation of the Messiah. The angel does not dictate but inspires, reflecting the Catholic and Orthodox doctrine of divine inspiration: the human author writes with full use of his faculties while being moved by the Holy Spirit (2 Peter 1:21; 2 Timothy 3:16). Matthew, originally the tax collector Levi called from his booth (Matthew 9:9), is transformed from a servant of worldly accounts to the recorder of the eternal Gospel. The intimate proximity of angel and evangelist visualizes the theology of 2 Peter 1:21: 'men spoke from God as they were carried along by the Holy Spirit.' The open book also echoes the prophetic commission scenes of the Old Testament -- Ezekiel eating the scroll (Ezekiel 2:8-3:3), Jeremiah receiving words in his mouth (Jeremiah 1:9) -- placing Matthew in the succession of those through whom God's word enters the world in written form.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.1-17",
+      "relevance": "primary",
+      "reason": "The genealogy of Jesus Christ that opens Matthew's Gospel, the reason the angel (human figure) is his evangelist symbol."
+    },
+    {
+      "ref": "MAT.9.9",
+      "relevance": "primary",
+      "reason": "The calling of Matthew from the tax collector's booth -- the identity of the figure depicted."
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "primary",
+      "reason": "The four living creatures around the throne, the basis for assigning the angel/human symbol to Matthew."
+    },
+    {
+      "ref": "EZK.1.5-10",
+      "relevance": "primary",
+      "reason": "Ezekiel's vision of the four living creatures, the Old Testament source of the tetramorph tradition."
+    },
+    {
+      "ref": "2PE.1.21",
+      "relevance": "typological",
+      "reason": "Men spoke from God as carried by the Holy Spirit -- the theology of inspiration visualized in the angel guiding the evangelist."
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "typological",
+      "reason": "All Scripture is God-breathed -- the doctrine underlying the scene of divinely guided composition."
+    },
+    {
+      "ref": "JER.1.9",
+      "relevance": "allusion",
+      "reason": "The Lord putting his words in the prophet's mouth, a precursor to the New Testament pattern of inspired authorship."
+    },
+    {
+      "ref": "EZK.2.8-10",
+      "relevance": "allusion",
+      "reason": "Ezekiel receiving the scroll to eat, the prophetic commission that prefigures the evangelist's task."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "intimate",
+    "reverent",
+    "studious"
+  ],
+  "_meta": {
+    "key": "0020351",
+    "title": "St. Matthew",
+    "artist": "Salomon Koninck",
+    "model": "claude-opus-4-6"
+  },
+  "period": "Non-biblical"
+}

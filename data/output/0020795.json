@@ -1,0 +1,103 @@
+{
+  "characters": [
+    {
+      "name": "Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Barnabas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elymas (Bar-Jesus)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sergius Paulus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Blinding of Elymas the Sorcerer",
+  "tags": [
+    "New-Testament",
+    "Acts-of-the-Apostles",
+    "apostolic-mission",
+    "Paul",
+    "Barnabas",
+    "Elymas",
+    "Bar-Jesus",
+    "Sergius-Paulus",
+    "blinding",
+    "sorcery",
+    "divine-judgment",
+    "spiritual-authority",
+    "conversion-of-the-proconsul",
+    "power-of-the-Holy-Spirit",
+    "confrontation-with-evil",
+    "Roman-authority",
+    "Paphos",
+    "first-missionary-journey",
+    "classical-architecture"
+  ],
+  "symbols": [
+    "Paul's outstretched hand — the apostolic authority channeling divine power against the enemy of truth",
+    "Elymas groping blindly — spiritual blindness made physically manifest, the judgment upon those who oppose the Gospel",
+    "Sergius Paulus seated in authority — the Roman proconsul whose conversion demonstrates the Gospel's power to reach the highest levels of worldly authority",
+    "classical architectural setting — the Roman imperial context in which the early Church proclaimed the Kingdom of God",
+    "inscription on the plinth — documentary witness, lending historical gravity to the apostolic narrative",
+    "contrasting gestures of onlookers — the varied responses to the Gospel: amazement, fear, and wonder",
+    "Barnabas behind Paul — the companion in mission, the fellowship of apostolic labor"
+  ],
+  "description": "A large narrative scene set within a grand classical interior with columns and an inscribed stone plinth. At center-left, a robed figure with commanding posture extends his arm forcefully toward a man at center who stumbles and gropes blindly, his arms outstretched in confusion. To the left, a seated figure of authority observes from an elevated position. Several other figures flank the scene on both sides, displaying varied reactions of astonishment and concern. The composition is balanced and monumental, rendered in warm tones with the cartoonlike quality of a Raphael tapestry cartoon.",
+  "theological_description": "Raphael's cartoon for the Sistine Chapel depicts the dramatic confrontation in Acts 13:6-12, when Paul and Barnabas encounter the Jewish sorcerer Elymas (Bar-Jesus) at the court of Sergius Paulus, the Roman proconsul of Cyprus. Elymas opposed the apostles, seeking to turn the proconsul away from the faith. Filled with the Holy Spirit, Paul pronounces divine judgment: 'You son of the devil, you enemy of all righteousness, full of all deceit and villainy, will you not stop making crooked the straight paths of the Lord?' Immediately mist and darkness fall upon Elymas and he gropes for someone to lead him by the hand. This event is theologically rich on multiple levels. First, it demonstrates the reversal of spiritual and physical blindness: Elymas, who claimed spiritual sight through sorcery, is struck physically blind, while the proconsul, who was spiritually blind, comes to see the truth and believes. The episode echoes Paul's own blinding on the Damascus road (Acts 9:8-9), establishing a pattern in which divine blindness serves as both judgment and potential prelude to conversion. The confrontation also marks a turning point in Acts: it is the first use of the name 'Paul' rather than 'Saul,' signaling the apostle's full assumption of his mission to the Gentiles. The proconsul's conversion represents the Gospel penetrating the structures of Roman imperial power, a theme central to Luke's theology in Acts.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.13.6-12",
+      "relevance": "primary",
+      "reason": "The direct narrative source: Paul confronts Elymas the sorcerer at the court of Sergius Paulus, striking him blind by the power of the Holy Spirit"
+    },
+    {
+      "ref": "ACT.9.8-9",
+      "relevance": "typological",
+      "reason": "Paul's own blinding on the Damascus road parallels the blinding of Elymas — divine blindness as both judgment and potential gateway to revelation"
+    },
+    {
+      "ref": "ACT.13.10",
+      "relevance": "primary",
+      "reason": "Paul's declaration that Elymas is a son of the devil and enemy of righteousness who makes crooked the straight paths of the Lord"
+    },
+    {
+      "ref": "ACT.26.18",
+      "relevance": "typological",
+      "reason": "Paul's commission to open eyes and turn people from darkness to light — the ironic reversal enacted upon Elymas who brought spiritual darkness"
+    },
+    {
+      "ref": "2CO.11.14-15",
+      "relevance": "allusion",
+      "reason": "Satan disguises himself as an angel of light — Elymas as a type of false spiritual authority masking deception"
+    },
+    {
+      "ref": "MAT.12.28",
+      "relevance": "allusion",
+      "reason": "The casting out of demonic power by the Spirit of God demonstrates that the Kingdom has come — Paul's authority over Elymas continues this pattern"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "authoritative",
+    "awe",
+    "tension"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0020795",
+    "title": "The Blinding of Elymas (cartoon for the Sistine Chapel)",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

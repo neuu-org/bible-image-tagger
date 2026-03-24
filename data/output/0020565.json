@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Adam", "type": "PERSON"},
+    {"name": "Eve", "type": "PERSON"}
+  ],
+  "event": "Adam and Eve",
+  "tags": [
+    "adam-and-eve",
+    "garden-of-eden",
+    "human-figure",
+    "tree",
+    "creation",
+    "innocence",
+    "nudity"
+  ],
+  "symbols": [
+    "tree branch — the Tree of Knowledge or the Tree of Life, central to the drama of the Fall",
+    "bare figures suggested by faint lines — the primal innocence and nakedness of humanity before the Fall",
+    "sparse composition — the simplicity and purity of the created order before sin"
+  ],
+  "description": "A minimalist ink sketch on cream paper showing two barely delineated human figures rendered in faint, gestural lines at the lower left. A prominent tree trunk or branch dominates the center and upper portion, drawn with bold, expressive brush strokes and ink spatters. The trunk curves upward and to the right, with a few small leaf-like marks at its tip. The overall composition is extremely spare, with most of the paper left blank, giving the scene an ethereal, unfinished quality.",
+  "theological_description": "The sketch evokes the primordial setting of Genesis 2-3, where Adam and Eve dwell in the Garden of Eden in a state of original innocence. The dominant tree recalls the Tree of the Knowledge of Good and Evil, which stood at the center of the garden as both a gift and a boundary set by God. The barely visible human forms suggest the transparency of unfallen humanity — creatures who had nothing to hide, who were 'naked and not ashamed' (Genesis 2:25). The simplicity of the composition mirrors the theological simplicity of the pre-Fall state: a world not yet complicated by sin, guilt, or death. Yet the looming tree also foreshadows the temptation to come, its dark strokes hinting at the gravity of the choice that would alter human history forever.",
+  "scripture_refs": [
+    {"ref": "GEN.2.7-25", "relevance": "primary", "reason": "The creation of Adam and Eve and their placement in the Garden of Eden, the foundational scene this sketch evokes"},
+    {"ref": "GEN.3.1-7", "relevance": "primary", "reason": "The temptation and Fall centered on the forbidden tree, which dominates the composition"},
+    {"ref": "GEN.2.9", "relevance": "allusion", "reason": "The Tree of Life and the Tree of Knowledge of Good and Evil placed in the midst of the garden"},
+    {"ref": "ROM.5.12-14", "relevance": "typological", "reason": "Paul's teaching that through one man sin entered the world — Adam as the type whose disobedience brought death to all"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["contemplative", "ethereal", "austere"],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0020565",
+    "title": "Adam and Eve (3)",
+    "artist": "Pietro Lazzari",
+    "model": "claude-opus-4-6"
+  }
+}

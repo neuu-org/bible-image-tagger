@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Pharisees",
+      "type": "GROUP"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ and the Tribute Money",
+  "tags": [
+    "christianity",
+    "jesus-christ",
+    "tribute-money",
+    "render-unto-caesar",
+    "pharisees",
+    "roman-coin",
+    "denarius",
+    "temple-confrontation",
+    "political-trap",
+    "divine-wisdom",
+    "authority",
+    "teaching-scene",
+    "bible-illustration",
+    "engraving"
+  ],
+  "symbols": [
+    "coin (denarius) — the tribute money bearing Caesar's image, representing the tension between earthly political authority and God's sovereign claim",
+    "Jesus at the center surrounded by questioners — divine wisdom confronting human cunning, the Light surrounded by those who seek to extinguish it",
+    "Pharisees and Herodians pressing close — the alliance of religious and political powers attempting to trap the Messiah",
+    "Jesus's calm, authoritative gesture — divine composure and supreme authority that transcends earthly political categories",
+    "robed crowd — the diverse witnesses to this pivotal exchange about the nature of true authority"
+  ],
+  "description": "A detailed black-and-white engraving depicting Jesus Christ standing at the center of a dense crowd in what appears to be the temple precincts. Jesus, distinguished by his halo of light and calm bearing, faces a group of men who press toward him from the left and right. Several figures lean in intently, some with questioning or hostile expressions. One figure near Jesus appears to hold or present a small coin. The composition is tightly packed with robed figures, their faces rendered with great individual character.",
+  "theological_description": "The episode of the tribute money is one of the most politically charged encounters in the Gospels. The Pharisees and Herodians -- normally bitter rivals -- form an unholy alliance to trap Jesus with a dilemma: if he endorses paying the Roman tax, he loses credibility with Jewish nationalists; if he opposes it, he can be reported to Rome as a seditious rebel. Jesus's response, 'Render to Caesar the things that are Caesar's, and to God the things that are God's' (Matthew 22:21), is not merely diplomatic evasion but a profound theological declaration. By asking whose image (eikon) is on the coin, Jesus invokes the deeper question of Genesis 1:26-27: human beings bear the image (eikon) of God. If the coin bearing Caesar's image belongs to Caesar, then human beings bearing God's image belong to God. The statement thus subordinates all political authority to divine sovereignty without directly challenging Roman rule. This teaching established a foundational principle for Christian political theology: earthly governments have legitimate but limited claims, while God's claim upon the human person is total and ultimate. The Pharisees' amazement (Matthew 22:22) testifies to the supernatural wisdom that transcends human categories of political calculation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.22.15-22",
+      "relevance": "primary",
+      "reason": "The direct biblical passage depicted: the Pharisees test Jesus about paying taxes to Caesar, and he delivers his famous response about rendering unto Caesar and unto God"
+    },
+    {
+      "ref": "MRK.12.13-17",
+      "relevance": "primary",
+      "reason": "Mark's parallel account of the tribute money episode, noting the combined delegation of Pharisees and Herodians"
+    },
+    {
+      "ref": "LUK.20.20-26",
+      "relevance": "primary",
+      "reason": "Luke's account, emphasizing that the spies sought to hand Jesus over to the authority of the governor"
+    },
+    {
+      "ref": "GEN.1.26-27",
+      "relevance": "typological",
+      "reason": "The creation of humanity in God's image (eikon) -- the deeper theological layer beneath Jesus's question about whose image is on the coin"
+    },
+    {
+      "ref": "ROM.13.1-7",
+      "relevance": "allusion",
+      "reason": "Paul's teaching on submission to governing authorities and paying taxes, directly building on Jesus's principle articulated in this episode"
+    },
+    {
+      "ref": "ACT.5.29",
+      "relevance": "allusion",
+      "reason": "Peter's declaration that we must obey God rather than men -- the necessary complement to rendering unto Caesar, establishing the limit of political obedience"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tension",
+    "authority",
+    "confrontation"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020906",
+    "title": "Christ And The Tribute Money",
+    "artist": "Gustave Dore",
+    "model": "claude-opus-4-6"
+  }
+}

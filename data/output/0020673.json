@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint John the Baptist (as child)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna with Child, infant Saint John, and an angel",
+  "tags": [
+    "virgin-and-child",
+    "madonna-del-sacco",
+    "infant-baptist",
+    "angel",
+    "landscape",
+    "devotional",
+    "halo",
+    "prayer",
+    "incarnation"
+  ],
+  "symbols": [
+    "Virgin standing with clasped hands — prayerful contemplation of the mystery of her Son's destiny",
+    "Christ Child held by the angel — the divine nature of Christ attended and upheld by heavenly beings",
+    "young Saint John in prayer — the forerunner's recognition of and reverence for the Messiah even in infancy",
+    "angel bearing the Child — the heavenly mediation between God and humanity through the Incarnation",
+    "expansive landscape — the whole creation as the theatre of God's redemptive work",
+    "round object at lower left (possibly a sack or stone) — may allude to the 'del Sacco' title, or to the earth receiving the divine gift",
+    "Mary's dark blue mantle — traditional color of heavenly queenship and fidelity"
+  ],
+  "description": "A devotional painting depicting the Virgin Mary standing at center, her hands clasped in prayer, wearing a red dress beneath a dark blue mantle. She gazes downward gently. To her left, an angel with visible wings cradles the nude infant Christ Child. To her right, the infant Saint John the Baptist sits nude on the ground, hands pressed together in prayer, looking downward. A round pale object rests on the ground at the lower left. Behind the figures, a sweeping Umbrian landscape extends to distant blue mountains under a clear sky.",
+  "theological_description": "This Madonna presents the Incarnation as a moment of prayerful stillness. Mary stands not as a mere mother but as the Theotokos — the God-bearer — whose clasped hands express the Magnificat's surrender: 'Let it be to me according to your word' (Luke 1:38). The angel cradling the Christ Child visually enacts the theology of the Incarnation: the divine Son sustained by heavenly power even as He enters human vulnerability. The infant Baptist's prayerful posture before Christ recalls the Johannine declaration 'He must increase, but I must decrease' (John 3:30), already embodied in the child's reverent humility. The open landscape behind them evokes the cosmic scope of redemption — the One held by an angel is the same through whom 'all things were made' (John 1:3). Perugino's characteristic serenity here becomes theological: the stillness is not emptiness but the pregnant silence of God dwelling among His creation, the moment when heaven and earth converge in the quiet flesh of an infant.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Mary's prayerful clasped hands embody her fiat — her willing surrender to God's plan at the Annunciation"
+    },
+    {
+      "ref": "LUK.1.39-44",
+      "relevance": "primary",
+      "reason": "The infant Baptist's reverence for Christ recalls the Visitation, when John leaped in the womb acknowledging the Lord"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "typological",
+      "reason": "The Baptist's prayerful kneeling before the Child prefigures his adult declaration that Christ must increase"
+    },
+    {
+      "ref": "JHN.1.3",
+      "relevance": "allusion",
+      "reason": "The vast landscape behind the infant Christ alludes to His role as the Logos through whom all creation came into being"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "The angel holding the Child echoes the heavenly host attending the birth of the Savior"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The Virgin with her divine Son fulfills Isaiah's prophecy of the virgin who shall conceive and bear a son called Immanuel"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "devotional",
+    "contemplative",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020673",
+    "title": "Virgin with a Child, St. John and an angel (Madonna del Sacco)",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "St. Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints Jerome and Mary Magdalene Standing Together",
+  "tags": [
+    "saint-jerome",
+    "mary-magdalene",
+    "church-father",
+    "penitent-saint",
+    "altarpiece-panel",
+    "ointment-jar",
+    "lion-of-jerome",
+    "halo",
+    "standing-saints",
+    "devotional-pairing",
+    "asceticism",
+    "repentance",
+    "pala-di-sant-agostino"
+  ],
+  "symbols": [
+    "lion at Jerome's feet — his legendary companion and attribute, symbolizing fierce nature tamed by Christian charity",
+    "Jerome's aged, emaciated body — the ascetic life of the desert hermit, mortification of the flesh in pursuit of holiness",
+    "blue-grey drapery around Jerome — penitential simplicity, renunciation of worldly garments",
+    "ointment jar held by Magdalene — the alabaster jar of precious perfume she poured on Christ's feet, her defining act of devotion",
+    "book held by Magdalene — her role as witness to the Resurrection and bearer of the Gospel message",
+    "halos — sanctity and divine favor conferred upon both saints",
+    "Magdalene's rich garments (pink and dark green) — her former worldly life now consecrated to Christ's service",
+    "landscape background — the earthly pilgrimage of the saints set against the beauty of God's creation"
+  ],
+  "description": "Two standing figures are depicted in a tall arched panel against a serene landscape with hills and blue sky. At left stands an elderly, gaunt man with a long reddish-blond beard, bare-chested and draped in a grey-blue cloth from the waist down. His arms are crossed over his chest in a gesture of devotion. A small lion sits at his feet at the lower left. At right stands a young woman with delicate features and light brown hair, wearing a dark green bodice over a pink robe with blue fabric at her hip. She holds an ornate golden ointment vessel in her right hand and a closed book in her left.",
+  "theological_description": "This panel from Perugino's Pala di Sant'Agostino pairs two of Christianity's most celebrated penitent saints, creating a visual theology of conversion and ascetic devotion. Jerome (c. 347-420), Doctor of the Church and translator of the Vulgate, spent years as a hermit in the Syrian desert, where he practiced severe asceticism -- his emaciated frame here testifies to the mortification he undertook to subdue the flesh and sharpen the mind for sacred study. His crossed arms suggest both prayerful devotion and the embrace of the Cross. Mary Magdalene, from whom Christ cast out seven demons (Luke 8:2), became in Western tradition the archetype of the penitent sinner transformed by grace. Her ointment jar recalls the anointing at Bethany (John 12:3), the supreme gesture of extravagant love that Jesus himself memorialized. Together these two saints embody complementary paths to holiness: Jerome through intellectual rigor and bodily asceticism in service of God's Word, Magdalene through passionate love and faithful witness. Both were transformed by encounter with Christ -- Jerome through the Scriptures he spent his life translating, Magdalene through the living Lord who called her by name at the empty tomb (John 20:16). Their pairing proclaims that the fullness of Christian sanctity encompasses both mind and heart, study and devotion, the scholar's cell and the penitent's tears.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.8.2",
+      "relevance": "primary",
+      "reason": "Mary Magdalene, from whom seven demons were cast out -- the foundational text for her identity as one radically liberated by Christ"
+    },
+    {
+      "ref": "JHN.12.3",
+      "relevance": "primary",
+      "reason": "The anointing at Bethany with costly perfume -- the ointment jar Magdalene holds is her defining attribute drawn from this passage"
+    },
+    {
+      "ref": "JHN.20.16-18",
+      "relevance": "primary",
+      "reason": "The risen Christ calls Mary by name and commissions her as apostle to the apostles -- the culmination of her journey from penitent to witness"
+    },
+    {
+      "ref": "2TI.2.15",
+      "relevance": "allusion",
+      "reason": "Rightly handling the word of truth -- Jerome's life mission of accurate biblical translation"
+    },
+    {
+      "ref": "1CO.9.27",
+      "relevance": "allusion",
+      "reason": "Paul's discipline of the body, which Jerome took literally in his desert asceticism depicted by his gaunt frame"
+    },
+    {
+      "ref": "LUK.7.47",
+      "relevance": "typological",
+      "reason": "She who is forgiven much, loves much -- the theological principle uniting Magdalene's penitence and her extravagant devotion"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotion",
+    "serenity",
+    "reverence"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0020866",
+    "title": "Pala di Sant Agostino (St. Jerome and Santa Maria Magdalena)",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Cambyses II",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sisamnes",
+      "type": "PERSON"
+    },
+    {
+      "name": "Courtiers and officials",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Judgement of Cambyses — Arrest of Sisamnes",
+  "tags": [
+    "justice",
+    "judgement",
+    "corrupt-judge",
+    "royal-authority",
+    "punishment",
+    "civic-morality",
+    "courtroom-scene",
+    "crowd",
+    "medieval-dress",
+    "accusation",
+    "persian-king",
+    "warning-against-corruption",
+    "divine-justice-analogy"
+  ],
+  "symbols": [
+    "king pointing accusingly — the exercise of sovereign justice against corruption",
+    "red robes of the accused — judicial office now turned to shame and guilt",
+    "crowd of witnesses — public accountability and the communal nature of justice",
+    "dog in the foreground — fidelity and watchfulness, or the lowliness of the condemned",
+    "architectural setting with Gothic details — civic authority and the seat of judgment",
+    "rich garments of the courtiers — the wealth and power structures that justice must penetrate"
+  ],
+  "description": "A richly detailed panel depicting a public judicial scene in a late medieval Flemish setting. At center, a bearded figure in a red robe and dark hat stands as the accused, flanked by officials. A regal figure in ermine-trimmed garments and a crown or rich headpiece extends his hand in a commanding gesture, pronouncing judgment. A crowd of men in dark robes, turbans, and various period headgear observes from the left. The scene takes place before a Gothic architectural backdrop with a cityscape visible through openings on the left. A white dog sits in the lower foreground.",
+  "theological_description": "Although depicting a Persian historical episode recorded by Herodotus — King Cambyses ordering the arrest and flaying of the corrupt judge Sisamnes — this painting was commissioned as a civic moral exemplum for the magistrates of Bruges. Its theological resonance lies in the biblical principles of just judgment. The scene echoes the stern warnings found throughout Scripture against corrupt judges and the perversion of justice. Deuteronomy 16:19 commands judges not to pervert justice, show partiality, or accept bribes, 'for a bribe blinds the eyes of the wise and subverts the cause of the righteous.' The prophets repeatedly thunder against unjust rulers: Isaiah denounces those who 'acquit the guilty for a bribe, and deprive the innocent of his right' (Isaiah 5:23). The painting functions as a typological warning that divine justice will ultimately hold all earthly judges accountable, anticipating the final judgment when Christ himself, the righteous Judge, will render to each according to their works. Psalm 82 declares that God stands in the divine council judging unjust judges: 'How long will you judge unjustly and show partiality to the wicked?' The severity of Cambyses' punishment prefigures the greater severity of divine judgment against those who corrupt the sacred office of justice.",
+  "scripture_refs": [
+    {
+      "ref": "DEU.16.18-19",
+      "relevance": "primary",
+      "reason": "The command to appoint just judges who do not pervert justice or accept bribes is the theological foundation for this scene of judicial corruption punished"
+    },
+    {
+      "ref": "PSA.82.1-4",
+      "relevance": "typological",
+      "reason": "God judging the unjust judges and commanding them to defend the weak parallels Cambyses holding his own judge accountable"
+    },
+    {
+      "ref": "ISA.5.23",
+      "relevance": "allusion",
+      "reason": "Isaiah's woe against those who acquit the guilty for a bribe describes the very sin for which Sisamnes is condemned"
+    },
+    {
+      "ref": "ROM.2.1-3",
+      "relevance": "typological",
+      "reason": "Paul's warning that those who judge others yet practice the same things will not escape God's judgment resonates with the theme of judicial accountability"
+    },
+    {
+      "ref": "REV.20.12-13",
+      "relevance": "typological",
+      "reason": "The final judgment where all are judged according to their deeds provides the eschatological horizon for all earthly acts of justice"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "severity",
+    "tension",
+    "solemnity",
+    "foreboding"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0020020",
+    "title": "The Judgement of Cambyses",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

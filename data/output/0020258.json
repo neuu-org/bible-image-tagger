@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "tags": [
+    "nativity",
+    "adoration-of-the-shepherds",
+    "manger",
+    "infant",
+    "swaddling-clothes",
+    "straw",
+    "halo",
+    "blue-mantle",
+    "red-robe",
+    "motherhood",
+    "incarnation",
+    "worship"
+  ],
+  "description": "A close-up detail showing the Virgin Mary seated centrally, wearing a red robe and dark blue mantle, gazing downward with hands pressed to her chest in a gesture of tender devotion. Before her lies the infant Jesus wrapped in white cloth on a bed of straw. Two shepherds flank Mary: one to her left partially visible in brown garments looking toward the child, and another to her right in a blue-violet cloak with hands clasped in prayer. The scene is warmly lit from below, illuminating Mary's face and the infant against the dark background.",
+  "theological_description": "This detail from Maino's Adoration of the Shepherds captures the moment described in Luke 2:15-20, when the shepherds, having received the angelic announcement, come to Bethlehem and find the child lying in a manger. Mary's hands pressed against her heart recall Luke 2:19: she 'treasured up all these things, pondering them in her heart.' The incarnation -- God taking on human flesh -- is rendered with profound intimacy: the divine Word made flesh appears as a vulnerable infant on straw. The shepherds, among the lowest social classes in first-century Palestine, are the first witnesses chosen by God, underscoring the theme that the gospel is revealed to the humble rather than the powerful. The warm light emanating from the child alludes to the theological motif of Christ as the light of the world entering the darkness of a fallen creation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.15-20",
+      "relevance": "primary"
+    },
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological"
+    },
+    {
+      "ref": "ISA.9.6",
+      "relevance": "typological"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "reverent",
+    "warm",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020258",
+    "title": "Adoration of the Shepherds (detail)",
+    "artist": "Juan Bautista Maíno",
+    "model": "claude-opus-4-6"
+  }
+}

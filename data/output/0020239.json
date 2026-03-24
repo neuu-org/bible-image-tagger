@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "tags": [
+    "crucifixion",
+    "cross",
+    "suffering",
+    "atonement",
+    "loincloth",
+    "crown-of-thorns",
+    "inri",
+    "gold-background",
+    "red-background",
+    "nails",
+    "passion",
+    "redemption"
+  ],
+  "description": "Christ hangs on a dark wooden cross against a vivid red background with a gold upper portion. The inscription INRI is affixed to the top of the cross. Jesus is depicted with his head bowed, eyes closed, wearing only a white loincloth that billows slightly. His body is lean and elongated, arms stretched wide, hands and feet pierced by nails. The stark red field behind the figure creates a dramatic, almost abstract backdrop, emphasizing the isolation of the crucified body.",
+  "theological_description": "This panel from Rogier van der Weyden's Crucifixion Diptych presents Christ's death on the cross as the central act of salvation history. The bold red background may symbolize the blood of atonement and the divine love that motivated the sacrifice, while the gold above evokes heavenly glory. Christ's bowed head and closed eyes indicate that he has yielded up his spirit, fulfilling the prophetic words of Isaiah 53 concerning the suffering servant who was pierced for our transgressions. The INRI inscription -- Jesus of Nazareth, King of the Jews -- serves as an ironic declaration of kingship: Rome meant it as mockery, but the Christian tradition reads it as profound truth. The stripped, solitary figure emphasizes the totality of Christ's self-emptying (kenosis) described in Philippians 2:7-8. The diptych format originally paired this panel with mourning figures, connecting the viewer's grief to the objective reality of the cross.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-19",
+      "relevance": "primary"
+    },
+    {
+      "ref": "MAT.27.35-37",
+      "relevance": "primary"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological"
+    },
+    {
+      "ref": "PHP.2.7-8",
+      "relevance": "allusion"
+    },
+    {
+      "ref": "HEB.9.12",
+      "relevance": "allusion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "sorrowful",
+    "austere",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020239",
+    "title": "Crucifixion Diptych",
+    "artist": "Rogier van der Weyden",
+    "model": "claude-opus-4-6"
+  }
+}

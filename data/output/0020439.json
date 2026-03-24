@@ -1,0 +1,96 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Male Figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Visitation",
+  "tags": [
+    "visitation",
+    "embrace",
+    "greeting",
+    "pregnancy",
+    "maternal-encounter",
+    "hillside-town",
+    "architectural-setting",
+    "veiled-women",
+    "prophetic-recognition",
+    "magnificat",
+    "joyful-meeting",
+    "stairway",
+    "landscape-background"
+  ],
+  "symbols": [
+    "embrace of Mary and Elizabeth — the meeting of the Old and New Covenants; the prophetic order (Elizabeth/John) greeting its fulfillment (Mary/Christ)",
+    "Elizabeth's aged face and Mary's youth — the barren made fruitful and the virgin made mother, both by divine intervention",
+    "hillside town in background — the 'hill country' of Judea to which Mary traveled with haste (Luke 1:39)",
+    "stairway and architectural threshold — the crossing of a boundary, entering a new dispensation of salvation history",
+    "veils and mantles — modesty and sanctity of the women chosen to bear the prophet and the Messiah"
+  ],
+  "description": "Two women meet in an embrace before an architectural setting with stone steps and a column. The younger woman at left, Mary, wears a white veil over her head, a pink dress, and a green-and-blue mantle. She places her hand gently on her chest while leaning toward the older woman. Elizabeth, at right, is elderly with a weathered face, wearing a yellow-gold mantle over a darker garment, and reaches out to grasp Mary's arm with tenderness and reverence.",
+  "theological_description": "The Visitation (Luke 1:39-56) is among the most theologically dense episodes of the infancy narrative. Mary, having just received the Annunciation, travels 'with haste' into the Judean hill country to visit her kinswoman Elizabeth, who is six months pregnant with John the Baptist. At the sound of Mary's greeting, the infant John leaps in Elizabeth's womb -- the first act of prophetic recognition of the Messiah, performed before birth. Elizabeth, filled with the Holy Spirit, cries out: 'Blessed are you among women, and blessed is the fruit of your womb! And why is this granted to me that the mother of my Lord should come to me?' (Luke 1:42-43). This utterance constitutes the first christological confession in the Gospel: Elizabeth identifies the unborn Jesus as 'my Lord' (ho kyrios mou), a title loaded with divine significance. Mary responds with the Magnificat (Luke 1:46-55), the great canticle that recapitulates Hannah's song (1 Sam 2:1-10) and proclaims God's reversal of worldly power structures. The scene is also typologically linked to 2 Samuel 6:2-11, where the Ark of the Covenant is brought to the hill country of Judah and David leaps before it -- as John leaps before Mary, the new Ark bearing the incarnate Word. Sebastiano del Piombo's monumental figures convey the gravity and tenderness of this encounter between the two covenants.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The direct narrative source: Mary visits Elizabeth, John leaps in the womb, and Elizabeth pronounces her Spirit-filled blessing."
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat -- Mary's great canticle of praise spoken during the Visitation, proclaiming God's saving acts."
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The infant John leaping in Elizabeth's womb at Mary's greeting -- the first prophetic recognition of Christ."
+    },
+    {
+      "ref": "2SA.6.2-11",
+      "relevance": "typological",
+      "reason": "The Ark of the Covenant brought to the hill country of Judah, with David leaping before it -- Mary as the new Ark, John as the new David."
+    },
+    {
+      "ref": "1SA.2.1-10",
+      "relevance": "typological",
+      "reason": "Hannah's song of thanksgiving, the Old Testament prototype of the Magnificat, celebrating God's reversal of human fortunes."
+    },
+    {
+      "ref": "LUK.1.36-37",
+      "relevance": "allusion",
+      "reason": "The angel's revelation that Elizabeth has conceived in her old age, 'for nothing will be impossible with God' -- the catalyst for Mary's journey."
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "allusion",
+      "reason": "'I will send my messenger, who will prepare the way before me' -- John's prophetic role, already active in the womb at the Visitation."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "tender",
+    "reverent",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0020439",
+    "title": "The Visitation",
+    "artist": "Sebastiano del Piombo",
+    "model": "claude-opus-4-6"
+  }
+}

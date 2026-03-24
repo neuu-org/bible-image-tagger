@@ -1,0 +1,116 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Christine",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Liberale",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Dead Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels (lunette)",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Sacra Conversazione with Dead Christ in Lunette",
+  "tags": [
+    "sacra-conversazione",
+    "virgin-and-child",
+    "enthroned-madonna",
+    "saints-and-apostles",
+    "dead-christ",
+    "pieta",
+    "altarpiece",
+    "lunette",
+    "saint-peter",
+    "saint-jerome",
+    "saint-christine",
+    "saint-liberale",
+    "angels-supporting-christ",
+    "throne",
+    "halo",
+    "cardinal-robes",
+    "keys-of-peter",
+    "devotional-assembly"
+  ],
+  "symbols": [
+    "enthroned Madonna — the Virgin as Seat of Wisdom (Sedes Sapientiae) and Queen of Heaven",
+    "Christ Child on her lap — the Incarnation of the divine Word made flesh",
+    "dead Christ in the lunette — redemptive suffering and the Passion that gives meaning to the assembly below",
+    "angels supporting Christ's body — heavenly ministration and the cosmic significance of the Crucifixion",
+    "keys held by Saint Peter — the authority granted by Christ to bind and loose (Matthew 16:19)",
+    "red cardinal robes of Saint Jerome — his role as Doctor of the Church and translator of Scripture",
+    "armor of Saint Liberale — the spiritual warfare of the Christian soldier (Ephesians 6:11)",
+    "ornate throne — the exalted status of the Theotokos in the economy of salvation",
+    "banner or staff held by the armored saint — victory through faith and the triumph of the cross"
+  ],
+  "description": "A large two-register altarpiece. In the upper lunette, the dead Christ is shown half-length, supported by two angels with outstretched wings, his body pale and lifeless with head tilted. In the main panel below, the Virgin Mary sits enthroned in an elaborate architectural setting with a decorated canopy and classical columns. She holds the Christ Child on her lap.",
+  "theological_description": "Lorenzo Lotto's sacra conversazione presents the central mystery of the Incarnation — the Virgin enthroned with the Christ Child — framed by saints who embody different dimensions of Christian vocation. The lunette above, depicting the dead Christ supported by angels, provides the soteriological key to the entire composition: the Child below will become the sacrificial Lamb, and the assembly of saints below exists only because of this redemptive death. Saint Peter, holding the keys promised in Matthew 16:19, represents apostolic authority and the foundation of the Church. Saint Jerome, in his cardinal's robes, represents the scholarly and ascetic life devoted to Scripture — his Vulgate translation made the Word of God accessible to the Latin world. Saint Liberale, the local patron in armor, embodies the theology of spiritual warfare articulated in Ephesians 6, the soldier of Christ who stands firm against the powers of darkness. Saint Christine represents the faithful witness of a young martyr. Together they form an ecclesial communion around the Madonna and Child, expressing the theology of the Body of Christ where each member fulfills a distinct vocation. The vertical axis from the dead Christ above to the living Child below embodies the Paschal Mystery — death and new life inseparably joined.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Saint Peter's keys directly reference Christ's granting of the keys of the kingdom and the authority to bind and loose"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh dwelling among us is the central theological reality of the enthroned Christ Child"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "The dead Christ in the lunette, wounded and borne by angels, fulfills the Suffering Servant prophecy"
+    },
+    {
+      "ref": "EPH.6.11-13",
+      "relevance": "allusion",
+      "reason": "Saint Liberale's armor evokes Paul's exhortation to put on the full armor of God against spiritual forces"
+    },
+    {
+      "ref": "LUK.1.46-49",
+      "relevance": "allusion",
+      "reason": "The enthroned and exalted Virgin reflects the Magnificat's proclamation that all generations will call her blessed"
+    },
+    {
+      "ref": "1CO.12.12-27",
+      "relevance": "typological",
+      "reason": "The diverse assembly of saints around Christ embodies the Pauline theology of one body with many members"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "solemn",
+    "contemplative",
+    "reverent"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0020015",
+    "title": "Madonna and Child with Sts Peter, Christine, Liberale, and Jerome",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

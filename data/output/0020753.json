@@ -1,0 +1,107 @@
+{
+  "characters": [
+    {
+      "name": "Abraham",
+      "type": "PERSON"
+    },
+    {
+      "name": "Melchizedek",
+      "type": "PERSON"
+    },
+    {
+      "name": "Abraham's soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Attendants of Melchizedek",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Meeting of Abraham and Melchizedek",
+  "tags": [
+    "abraham",
+    "melchizedek",
+    "bread and wine",
+    "priest-king",
+    "salem",
+    "tithe",
+    "blessing",
+    "eucharistic prefiguration",
+    "old testament covenant",
+    "patriarchal narrative",
+    "victory after battle",
+    "priestly offering",
+    "architectural frame",
+    "angelic witnesses"
+  ],
+  "symbols": [
+    "bread and wine — the priestly offering of Melchizedek that prefigures the Eucharist",
+    "kneeling posture of Abraham — reverence before a priest of God Most High, acknowledging a superior blessing",
+    "ornate columns — the grandeur of the sacred encounter, framing it as a moment of cosmic significance",
+    "angels above — heavenly witnesses confirming the divine nature of the meeting",
+    "armor and weapons — Abraham's return from the defeat of the four kings (Genesis 14), contextualizing the encounter",
+    "Melchizedek's vestments — his dual role as priest and king of Salem, a type of Christ"
+  ],
+  "description": "A grand composition set within an elaborate architectural frame of twisted columns, sculpted figures, and ornate cartouches. In the central scene, a robed and vested figure stands elevated, extending bread or offerings toward a kneeling armored warrior accompanied by soldiers. Attendants carry vessels and provisions. Above the scene, angels and putti swirl amid clouds in a luminous sky. The architectural surround features muscular caryatid-like figures flanking the columns. The palette is warm with golden highlights, rich reds, and deep shadows, creating a sense of ceremonial grandeur.",
+  "theological_description": "The meeting of Abraham and Melchizedek (Genesis 14:18-20) is one of the most theologically dense episodes in the Old Testament. After Abraham's victory over the four kings who had captured Lot, Melchizedek, king of Salem and priest of God Most High (El Elyon), brings out bread and wine and blesses Abraham. Abraham responds by giving him a tenth of everything. This brief encounter generates an enormous theological legacy. The Epistle to the Hebrews (chapters 5-7) develops Melchizedek as the supreme Old Testament type of Christ: a priest-king 'without father or mother, without genealogy, without beginning of days or end of life' (Hebrews 7:3), whose priesthood is superior to the Levitical order. The bread and wine he offers are understood by the Church Fathers (Clement of Alexandria, Cyprian, Augustine) as a direct prefiguration of the Eucharist -- the unbloody sacrifice that Christ, 'a priest forever after the order of Melchizedek' (Psalm 110:4), would institute at the Last Supper. Abraham's kneeling before Melchizedek demonstrates the principle that 'the lesser is blessed by the greater' (Hebrews 7:7), establishing the superiority of Christ's eternal priesthood over all earthly orders. The angels above witness a covenant moment that bridges the old dispensation and the new.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.14.18-20",
+      "relevance": "primary",
+      "reason": "The direct narrative: Melchizedek king of Salem brings out bread and wine, blesses Abraham, and receives a tithe from him."
+    },
+    {
+      "ref": "HEB.7.1-10",
+      "relevance": "primary",
+      "reason": "The New Testament theological exposition of the Melchizedek encounter, establishing his priesthood as superior to the Levitical order and as a type of Christ."
+    },
+    {
+      "ref": "HEB.7.3",
+      "relevance": "primary",
+      "reason": "Melchizedek described as without genealogy, resembling the Son of God, a priest forever -- the key typological identification."
+    },
+    {
+      "ref": "PSA.110.4",
+      "relevance": "primary",
+      "reason": "'You are a priest forever after the order of Melchizedek' -- the messianic psalm linking David's Lord to the eternal priesthood."
+    },
+    {
+      "ref": "HEB.5.6-10",
+      "relevance": "primary",
+      "reason": "Christ designated by God as high priest after the order of Melchizedek, fulfilling the type."
+    },
+    {
+      "ref": "GEN.14.14-16",
+      "relevance": "primary",
+      "reason": "Abraham's defeat of the four kings and rescue of Lot, the military victory that precedes the meeting."
+    },
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "typological",
+      "reason": "The institution of the Eucharist with bread and wine, the fulfillment of Melchizedek's offering."
+    },
+    {
+      "ref": "HEB.7.7",
+      "relevance": "allusion",
+      "reason": "'The lesser is blessed by the greater' -- Abraham's deference to Melchizedek reveals the superior priesthood."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "ceremonial",
+    "reverent",
+    "triumphant"
+  ],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0020753",
+    "title": "The Meeting of Abraham and Melchizedek",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}
