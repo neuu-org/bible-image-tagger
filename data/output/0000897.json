@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {"name": "John the Baptist", "type": "PERSON"}
+  ],
+  "event": "Portrait of John the Baptist as the Forerunner of Christ",
+  "tags": ["forerunner", "prophet", "ecce-agnus-dei", "reed-cross", "banner", "wilderness-prophet", "precursor", "lamb-of-god"],
+  "symbols": [
+    "reed cross with banner — prophetic sign pointing to Christ's crucifixion; the reed recalls the wilderness and the banner often bears 'Ecce Agnus Dei'",
+    "red cloak — prefigures John's own martyrdom by beheading and the blood of witness",
+    "bare chest — ascetic life in the wilderness, recalling the camel-hair garment of the Gospel accounts",
+    "pointing gesture — John's essential role as the one who points away from himself toward Christ",
+    "youthful appearance — depicts John before his public ministry, in the tradition of the young Baptist"
+  ],
+  "description": "A young man with curly reddish-brown hair is shown in half-length view against a dark background. He wears a vivid red cloak draped over his left shoulder, leaving much of his chest bare. In his hands he holds a thin reed cross to which a white scroll or banner is attached bearing partial text. His right hand extends a pointing finger near the cross staff. His expression is contemplative, with lips slightly parted and eyes gazing to the upper right. A faint form, possibly foliage, appears in the dark background at upper right.",
+  "theological_description": "John the Baptist stands as the hinge between the Old and New Testaments — the last and greatest of the prophets (Matthew 11:11) and the immediate herald of the Messiah. His defining act was pointing beyond himself to Christ: 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29), words traditionally inscribed on the banner he holds. The reed cross he carries is doubly symbolic: it identifies him with the wilderness where he preached repentance, and it prophetically anticipates the cross on which the Lamb he announced would be sacrificed. His role as Forerunner (Prodromos) means his entire identity is oriented toward Another. The red garment prefigures his martyrdom under Herod Antipas, making him not only the voice crying in the wilderness but also a blood-witness whose death foreshadowed Christ's own. Church fathers like John Chrysostom saw in the Baptist the embodiment of prophetic courage — one who spoke truth to power at the cost of his life. His youthful depiction here recalls the tradition of his sanctification from the womb, when he leaped at the presence of the unborn Christ (Luke 1:41).",
+  "scripture_refs": [
+    {"ref": "JHN.1.29", "relevance": "primary", "reason": "Ecce Agnus Dei — John's declaration identifying Jesus as the Lamb of God, the text traditionally on his banner"},
+    {"ref": "MAT.3.1-3", "relevance": "primary", "reason": "John's role as the voice crying in the wilderness preparing the way of the Lord"},
+    {"ref": "MAT.11.11", "relevance": "primary", "reason": "Jesus' declaration that among those born of women none is greater than John the Baptist"},
+    {"ref": "LUK.1.41", "relevance": "allusion", "reason": "John leaping in the womb at the presence of Christ, connecting to his youthful depiction"},
+    {"ref": "ISA.40.3", "relevance": "typological", "reason": "The prophetic text fulfilled in John: a voice crying in the wilderness to prepare the Lord's way"},
+    {"ref": "MRK.6.27-28", "relevance": "allusion", "reason": "John's martyrdom by beheading, prefigured by the red garment he wears"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "prophetic", "serene"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000897",
+    "title": "Saint John the Baptist",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Angel of the Last Judgement", "type": "ANGEL"}
+  ],
+  "event": "Last Judgement",
+  "tags": [
+    "last-judgement",
+    "angel",
+    "halo",
+    "divine-messenger",
+    "eschatological-separation",
+    "heavenly-host",
+    "trumpet-call",
+    "celestial-being",
+    "final-reckoning",
+    "divine-justice"
+  ],
+  "symbols": [
+    "golden halo — divine glory and the uncreated light surrounding heavenly beings",
+    "bowed posture — reverence before God's judgment seat and sorrow over the condemned",
+    "blue and gold robes — heavenly origin (blue) and divine glory (gold)",
+    "circular medallion/orb — the cosmos or the soul weighed in judgment",
+    "decorative circular border at right — the wheels of Ezekiel's vision, divine order encompassing all creation"
+  ],
+  "description": "A single angel with a golden halo, dressed in blue-green and golden-ochre robes, bends forward in a dynamic posture against a pale blue-grey background. The angel's head is bowed and the body leans as if in motion or grief. To the upper left, a small circular form is visible. At the far right edge, a series of concentric decorative circles can be seen. Below and to the left, a dark reddish-brown area suggests an abyss or hellfire. The surface is aged and cracked.",
+  "theological_description": "The angel bowing in the context of the Last Judgement carries immense theological weight. In patristic eschatology (Gregory of Nyssa, John Chrysostom), angels serve as ministers of divine justice at the final assize, separating the wheat from the tares (Matthew 13:41-42). The angel's bowed, sorrowful posture may reflect what Origen described as the angelic grief over the perdition of souls — even heavenly beings mourn the loss of those created in God's image. The golden halo signifies participation in the divine light (1 Timothy 6:16), while the dynamic forward lean suggests the urgency of eschatological action: the angel descending to execute God's decree (Revelation 20:1-3). The dark area below evokes the abyss into which the wicked are cast. The circular forms at right recall Ezekiel's vision of wheels within wheels (Ezekiel 1:16), the machinery of divine providence that governs the cosmos from creation to consummation. In the Byzantine-Russian theological tradition, the Last Judgement is not merely punitive but revelatory — it unveils the truth of every soul before the face of Christ the Righteous Judge (2 Corinthians 5:10).",
+  "scripture_refs": [
+    {"ref": "MAT.25.31", "relevance": "primary", "reason": "The Son of Man comes in glory with all his angels for the final judgement"},
+    {"ref": "MAT.13.41", "relevance": "primary", "reason": "Angels sent to gather out of the kingdom all causes of sin"},
+    {"ref": "REV.20.1", "relevance": "primary", "reason": "An angel descending to bind Satan and execute eschatological judgment"},
+    {"ref": "2CO.5.10", "relevance": "allusion", "reason": "All must appear before the judgment seat of Christ"},
+    {"ref": "EZK.1.16", "relevance": "typological", "reason": "Circular forms recall the wheels of the divine throne-chariot vision"},
+    {"ref": "1TI.6.16", "relevance": "allusion", "reason": "The unapproachable light in which God dwells, reflected in the angel's halo"},
+    {"ref": "REV.14.7", "relevance": "allusion", "reason": "Angel proclaiming the hour of God's judgment has come"},
+    {"ref": "DAN.7.10", "relevance": "typological", "reason": "Thousands of angels ministering at the great tribunal of the Ancient of Days"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe", "solemnity", "sorrow", "gravity"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0000768",
+    "title": "The Last Judgement: Angel",
+    "artist": "Andrei Rublev",
+    "model": "claude-opus-4-6"
+  }
+}

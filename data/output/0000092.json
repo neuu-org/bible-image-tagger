@@ -1,6 +1,9 @@
 {
   "characters": [
-    {"name": "Saint Gregory the Great", "type": "PERSON"}
+    {
+      "name": "Saint Gregory the Great",
+      "type": "PERSON"
+    }
   ],
   "event": "Portrait of Saint Gregory the Great as Pope and Doctor of the Church",
   "tags": [
@@ -37,20 +40,69 @@
   "description": "A full-length standing figure of a pope set against an ornate gold background with Gothic tracery forming a pointed arch. He wears a tall papal tiara with a golden nimbus behind his head, and is draped in voluminous green robes over a white undergarment, with a red stole crossing his chest. His left hand cradles a dark-bound book adorned with golden decorative elements. His right hand is raised with index finger extended upward in a gesture of teaching or blessing. His expression is solemn and authoritative, gazing directly outward. The figure fills nearly the entire vertical panel.",
   "theological_description": "Saint Gregory the Great (c. 540-604), Pope and Doctor of the Church, stands as one of the four great Latin Fathers alongside Ambrose, Augustine, and Jerome. His depiction as a solitary, monumental figure reflects his towering theological and pastoral legacy. Gregory's 'Pastoral Rule' (Regula Pastoralis) became the definitive handbook of episcopal ministry for centuries, articulating the bishop's dual vocation of contemplation and action. His 'Moralia in Job' offered an encyclopedic allegorical and moral exegesis of Scripture that shaped medieval hermeneutics. The raised teaching finger signifies his role as Doctor — one whose doctrine the Church has formally recognized as sound and authoritative for all ages. Gregory coined the papal title 'Servus Servorum Dei' (Servant of the Servants of God), embodying Christ's teaching that the greatest must be the servant of all (Mark 10:43-44). His sending of Augustine of Canterbury to evangelize England fulfilled the Great Commission in a concrete historical moment. The book he holds represents both the Word of God he expounded and the vast literary corpus through which he transmitted patristic wisdom to the medieval West, forming a bridge between the ancient Church and the Middle Ages.",
   "scripture_refs": [
-    {"ref": "Matt.16.18-19", "relevance": "primary", "reason": "Christ's commission to Peter as the rock upon which the Church is built, and the granting of the keys — the foundation of the papal office Gregory held"},
-    {"ref": "John.21.15-17", "relevance": "primary", "reason": "Christ's threefold command to Peter to feed and tend his sheep — the pastoral mandate that Gregory embodied and theologized in his Pastoral Rule"},
-    {"ref": "Mark.10.43-44", "relevance": "primary", "reason": "Whoever would be great among you must be your servant — the scriptural basis for Gregory's self-designation as Servant of the Servants of God"},
-    {"ref": "2Tim.4.2", "relevance": "primary", "reason": "Preach the word, be ready in season and out of season — the teaching and preaching mission embodied by the raised hand and the book"},
-    {"ref": "1Tim.3.1-7", "relevance": "allusion", "reason": "Qualifications for the bishop/overseer — Gregory's Pastoral Rule is an extended meditation on these Pauline requirements for episcopal ministry"},
-    {"ref": "Matt.28.19-20", "relevance": "allusion", "reason": "The Great Commission to go and make disciples of all nations — fulfilled concretely by Gregory's mission to evangelize the Anglo-Saxons"},
-    {"ref": "Ezek.34.2-10", "relevance": "typological", "reason": "God's judgment on unfaithful shepherds and his promise to shepherd his people himself — Gregory's pastoral theology drew deeply on Ezekiel's prophetic vision of true shepherding"},
-    {"ref": "Acts.20.28", "relevance": "allusion", "reason": "Paul's charge to the Ephesian elders to shepherd the Church of God — the apostolic model of pastoral oversight Gregory inherited and advanced"},
-    {"ref": "1Pet.5.1-4", "relevance": "allusion", "reason": "Peter's exhortation to elders to shepherd the flock willingly, not for gain, and the promise of the unfading crown of glory — the petrine pastoral theology Gregory embodied"},
-    {"ref": "Jas.3.1", "relevance": "allusion", "reason": "Not many should become teachers, for they will be judged more strictly — the weight of the teaching office that Gregory bore with sober responsibility"},
-    {"ref": "Heb.13.17", "relevance": "allusion", "reason": "Obey your leaders and submit to them, for they keep watch over your souls — the authority and accountability of pastoral governance"}
+    {
+      "ref": "Matt.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ's commission to Peter as the rock upon which the Church is built, and the granting of the keys — the foundation of the papal office Gregory held"
+    },
+    {
+      "ref": "John.21.15-17",
+      "relevance": "primary",
+      "reason": "Christ's threefold command to Peter to feed and tend his sheep — the pastoral mandate that Gregory embodied and theologized in his Pastoral Rule"
+    },
+    {
+      "ref": "Mark.10.43-44",
+      "relevance": "primary",
+      "reason": "Whoever would be great among you must be your servant — the scriptural basis for Gregory's self-designation as Servant of the Servants of God"
+    },
+    {
+      "ref": "2Tim.4.2",
+      "relevance": "primary",
+      "reason": "Preach the word, be ready in season and out of season — the teaching and preaching mission embodied by the raised hand and the book"
+    },
+    {
+      "ref": "1Tim.3.1-7",
+      "relevance": "allusion",
+      "reason": "Qualifications for the bishop/overseer — Gregory's Pastoral Rule is an extended meditation on these Pauline requirements for episcopal ministry"
+    },
+    {
+      "ref": "Matt.28.19-20",
+      "relevance": "allusion",
+      "reason": "The Great Commission to go and make disciples of all nations — fulfilled concretely by Gregory's mission to evangelize the Anglo-Saxons"
+    },
+    {
+      "ref": "Ezek.34.2-10",
+      "relevance": "typological",
+      "reason": "God's judgment on unfaithful shepherds and his promise to shepherd his people himself — Gregory's pastoral theology drew deeply on Ezekiel's prophetic vision of true shepherding"
+    },
+    {
+      "ref": "Acts.20.28",
+      "relevance": "allusion",
+      "reason": "Paul's charge to the Ephesian elders to shepherd the Church of God — the apostolic model of pastoral oversight Gregory inherited and advanced"
+    },
+    {
+      "ref": "1Pet.5.1-4",
+      "relevance": "allusion",
+      "reason": "Peter's exhortation to elders to shepherd the flock willingly, not for gain, and the promise of the unfading crown of glory — the petrine pastoral theology Gregory embodied"
+    },
+    {
+      "ref": "Jas.3.1",
+      "relevance": "allusion",
+      "reason": "Not many should become teachers, for they will be judged more strictly — the weight of the teaching office that Gregory bore with sober responsibility"
+    },
+    {
+      "ref": "Heb.13.17",
+      "relevance": "allusion",
+      "reason": "Obey your leaders and submit to them, for they keep watch over your souls — the authority and accountability of pastoral governance"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["solemnity", "authority", "reverence", "dignity", "serenity"],
+  "mood": [
+    "solemnity",
+    "authority",
+    "reverence",
+    "dignity"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0000092",

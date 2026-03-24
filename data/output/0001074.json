@@ -1,0 +1,55 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Holy Spirit", "type": "DEITY"},
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "Pentecost — Descent of the Holy Spirit",
+  "tags": [
+    "pentecost",
+    "holy-spirit",
+    "descent-of-fire",
+    "tongues-of-flame",
+    "upper-room",
+    "birth-of-the-church",
+    "divine-illumination",
+    "apostolic-commission",
+    "heavenly-light",
+    "ecstasy",
+    "glossolalia",
+    "outpouring-of-the-spirit"
+  ],
+  "symbols": [
+    "brilliant light from above — the divine glory and presence of the Holy Spirit descending from heaven",
+    "tongues of fire — the gifts of the Spirit distributed to each believer, enabling prophecy and speech in tongues",
+    "architectural setting with columns — the temple or upper room, the Church as the new Temple of the Holy Spirit",
+    "raised hands and gestures of astonishment — the overwhelming power of the Spirit that transforms the fearful apostles into bold witnesses",
+    "central position of the Virgin Mary — Mary as Mother of the Church, present at the Spirit's descent as she was at the Incarnation",
+    "dramatic light breaking through darkness — the Spirit dispelling ignorance and fear, inaugurating a new age of grace"
+  ],
+  "description": "A dramatic scene set within a grand architectural interior with massive columns. Brilliant golden-white light pours down from above, illuminating a group of approximately twelve figures gathered on a raised platform. At the center stands a woman in a blue mantle with arms raised, flanked by men in richly colored robes of red, green, blue, and ochre. The figures display dramatic gestures of awe, wonder, and ecstasy — some throw their hands up, others fall back, some gaze heavenward. The light creates strong contrasts of illumination and shadow throughout the composition.",
+  "theological_description": "Pentecost is the fulfillment of Christ's promise to send the Paraclete (John 14:16-17, 16:7) and the birthday of the Church. The descent of the Holy Spirit upon the apostles and Mary in the upper room at Jerusalem marks the transition from the Gospel period to the Apostolic age. Luke's account in Acts 2:1-4 describes a mighty rushing wind and tongues as of fire resting upon each person, empowering them to speak in other languages — a reversal of the confusion of Babel (Genesis 11:1-9). Where Babel scattered humanity through linguistic division, Pentecost reunites it through the universal proclamation of God's mighty works. The centrality of Mary in this composition reflects her role as the Mother of the Church (as affirmed at the Cross in John 19:26-27), present at both the Incarnation when the Spirit overshadowed her and at the Church's birth when the Spirit descends upon the apostolic community. The dramatic illumination embodies Joel's prophecy fulfilled: 'I will pour out my Spirit on all flesh' (Joel 2:28). The apostles' ecstatic gestures convey the radical transformation from fearful, hiding disciples to bold proclaimers of the Resurrection.",
+  "scripture_refs": [
+    {"ref": "ACT.2.1-4", "relevance": "primary", "reason": "The primary biblical account of Pentecost: the descent of the Holy Spirit with tongues of fire upon the gathered believers"},
+    {"ref": "ACT.2.17-18", "relevance": "primary", "reason": "Peter's citation of Joel's prophecy: God pouring out his Spirit on all flesh in the last days"},
+    {"ref": "JHN.14.16-17", "relevance": "primary", "reason": "Christ's promise to send the Paraclete, the Spirit of truth, fulfilled at Pentecost"},
+    {"ref": "JHN.16.7", "relevance": "allusion", "reason": "It is to your advantage that I go away, for the Helper will come — the theological necessity of Pentecost following the Ascension"},
+    {"ref": "GEN.11.1-9", "relevance": "typological", "reason": "The Tower of Babel's linguistic confusion is typologically reversed at Pentecost through the gift of tongues"},
+    {"ref": "JHN.19.26-27", "relevance": "allusion", "reason": "Mary entrusted to the beloved disciple at the Cross, now present as Mother of the nascent Church at Pentecost"},
+    {"ref": "ACT.1.14", "relevance": "primary", "reason": "The apostles with Mary devoted themselves to prayer before Pentecost, establishing her presence in the upper room"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe",
+    "ecstasy",
+    "radiance",
+    "power"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0001074",
+    "title": "Pentecost",
+    "artist": "Jean II Restout",
+    "model": "claude-opus-4-6"
+  }
+}

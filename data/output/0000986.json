@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Moses", "type": "PERSON"},
+    {"name": "Joshua", "type": "PERSON"},
+    {"name": "Eleazar", "type": "PERSON"},
+    {"name": "Tribal leaders of Israel", "type": "GROUP"}
+  ],
+  "event": "Moses commissions Joshua before Eleazar the priest",
+  "tags": [
+    "commissioning",
+    "leadership-transfer",
+    "tribal-banners",
+    "priesthood",
+    "blessing",
+    "succession",
+    "promised-land",
+    "obedience"
+  ],
+  "symbols": [
+    "tribal banners — the twelve tribes of Israel assembled under God's covenant order",
+    "Moses standing apart — the departing leader who will not enter the land",
+    "laying on of hands implied — the transfer of divine authority to Joshua",
+    "desert mountains and water — the wilderness setting at the edge of the promised land"
+  ],
+  "description": "An elderly bearded man in flowing white robes stands at the left, addressing a group of men who kneel and stand before him. The men hold tall staffs topped with golden finials, bearing colored banners of green, white, and gold. They wear varied garments including turbans and richly patterned robes. Behind them stretches a body of water bordered by barren reddish-brown mountains under a pale sky.",
+  "theological_description": "This scene depicts the pivotal moment in Numbers 27:18-23 when Moses, by divine command, publicly commissions Joshua son of Nun as his successor before Eleazar the high priest and the entire congregation. The laying on of hands signifies the transfer of Moses' authority — not the fullness of prophetic office, but the spirit of leadership needed to bring Israel into Canaan. Theologically, this commissioning prefigures Christ's own appointment of the apostles and the continuity of God's plan through successive servants. The name Joshua (Yehoshua) itself foreshadows Jesus (the Greek form), making this transfer of leadership a typological anticipation of the one true Leader who would bring God's people into their ultimate rest (Hebrews 4:8). The tribal banners signify the covenant community's unity under divinely appointed governance, while the wilderness setting marks the threshold between promise and fulfillment.",
+  "scripture_refs": [
+    {"ref": "NUM.27.18-23", "relevance": "primary", "reason": "The direct biblical account of Moses commissioning Joshua before Eleazar the priest and the congregation"},
+    {"ref": "DEU.31.7-8", "relevance": "primary", "reason": "Moses charges Joshua to be strong and courageous to lead Israel into the promised land"},
+    {"ref": "DEU.34.9", "relevance": "primary", "reason": "Joshua filled with the spirit of wisdom after Moses laid hands on him"},
+    {"ref": "HEB.4.8", "relevance": "typological", "reason": "Joshua as a type of Jesus — both names mean 'the Lord saves,' both lead God's people into rest"},
+    {"ref": "NUM.2.2", "relevance": "allusion", "reason": "The tribal standards/banners under which each tribe of Israel encamped"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "reverent",
+    "authoritative"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0000986",
+    "title": "Moses Blesses Joshua Before the High Priest",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

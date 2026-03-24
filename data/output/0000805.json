@@ -1,0 +1,51 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Cherubs", "type": "ANGEL"}
+  ],
+  "event": "Immaculate Conception of the Virgin Mary",
+  "tags": [
+    "immaculate-conception",
+    "virgin-mary",
+    "marian-devotion",
+    "cherubs",
+    "putti",
+    "heavenly-glory",
+    "lilies",
+    "roses",
+    "crescent-moon",
+    "celestial-vision",
+    "queen-of-heaven",
+    "divine-grace"
+  ],
+  "symbols": [
+    "white and blue robes — purity (white) and heavenly grace (blue), the traditional Marian colors",
+    "hands clasped at breast — receptive prayer and humble acceptance of God's singular grace",
+    "golden aureole — the radiance of divine favor surrounding the one full of grace",
+    "cherubs bearing flowers — angelic celebration of Mary's preservation from sin",
+    "lilies — virginal purity, recalling the lily of the Annunciation",
+    "roses — Mary as the mystical rose, beauty without the thorn of original sin",
+    "clouds beneath her feet — Mary elevated above the earthly realm, standing in the heavenly sphere",
+    "crescent form beneath feet — the woman clothed with the sun with the moon under her feet (Revelation 12:1)"
+  ],
+  "description": "A young woman stands upon billowing clouds, her body slightly turned, wearing flowing white and deep blue robes. Her hands are pressed together at her breast in prayer. A golden radiance surrounds her head and upper body. She gazes downward with a serene expression. Below her, several plump cherubs support her on the clouds; one carries pink roses and white lilies. Small winged cherub heads peek out from the clouds at the upper corners. The sky behind is a luminous pale blue.",
+  "theological_description": "The Immaculate Conception — the doctrine that Mary was preserved from original sin from the moment of her conception — finds its visual expression in the iconographic type established by Pacheco and codified in Counter-Reformation art. The scriptural foundation draws from Genesis 3:15, where God declares enmity between the woman and the serpent: the Fathers (Irenaeus, Ephrem the Syrian, and later Duns Scotus) saw in this the promise that one woman would be entirely untouched by the serpent's poison. Revelation 12:1 provides the apocalyptic vision of 'a woman clothed with the sun, with the moon under her feet and a crown of twelve stars,' which the tradition identifies with Mary in her immaculate glory. Luke 1:28 — 'Hail, full of grace' (kecharitomene) — was read by the Fathers as indicating a fullness of grace from the very beginning, not merely at the Annunciation. The lilies signify the purity proclaimed in the Song of Songs 2:2: 'As a lily among thorns, so is my love among the daughters.' The cherubs attending Mary recall that she is the new Ark of the Covenant (Luke 1:35, 2 Samuel 6:2), overshadowed by the divine presence as the cherubim overshadowed the mercy seat.",
+  "scripture_refs": [
+    {"ref": "REV.12.1", "relevance": "primary", "reason": "The woman clothed with the sun, moon under her feet — primary iconographic source for the Immaculate Conception image"},
+    {"ref": "LUK.1.28", "relevance": "primary", "reason": "Hail, full of grace — the angelic salutation indicating Mary's unique fullness of divine favor"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "Enmity between the woman and the serpent — the protoevangelium, Mary as the woman who crushes the serpent"},
+    {"ref": "LUK.1.35", "relevance": "allusion", "reason": "The Holy Spirit will overshadow you — Mary as the new Ark overshadowed by divine presence"},
+    {"ref": "SNG.2.2", "relevance": "typological", "reason": "As a lily among thorns — Mary's purity among fallen humanity, reflected in the lilies carried by cherubs"},
+    {"ref": "EPH.1.4", "relevance": "allusion", "reason": "Chosen before the foundation of the world to be holy and blameless — applied to Mary's predestined preservation"},
+    {"ref": "PSA.45.13", "relevance": "allusion", "reason": "The king's daughter is all glorious within — the interior beauty and glory of the Immaculate Virgin"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["serenity", "reverence", "glory"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0000805",
+    "title": "Immaculate Conception",
+    "artist": "Alonzo Cano",
+    "model": "claude-opus-4-6"
+  }
+}

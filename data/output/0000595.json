@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {"name": "Saint Barbara", "type": "PERSON"},
+    {"name": "Barbara van Vlaenderbergh", "type": "PERSON"},
+    {"name": "Daughters of the Moreel family", "type": "GROUP"}
+  ],
+  "event": "Donor portrait of the female members of the Moreel family presented by their patron Saint Barbara",
+  "tags": [
+    "donor-portrait",
+    "triptych-wing",
+    "saint-barbara",
+    "intercession",
+    "tower-attribute",
+    "prayer-book",
+    "piety",
+    "devotion",
+    "communion-of-saints",
+    "women-in-prayer",
+    "patronage"
+  ],
+  "symbols": [
+    "Saint Barbara standing tall behind kneeling donors — patron saint as heavenly protector and intercessor, presenting the faithful to God",
+    "Miniature stone tower beside Saint Barbara — her traditional attribute recalling imprisonment for faith, and the Lord as strong tower (Prov 18:10)",
+    "Kneeling women with hands clasped — humble petition and devotion, those who 'come boldly to the throne of grace' (Heb 4:16) through saintly intercession",
+    "Open prayer book in the foremost woman's hands — the Book of Hours connecting medieval laity to liturgical rhythms of the Church",
+    "Multiple generations of women together — multi-generational transmission of faith, fulfilling 'Train up a child in the way he should go' (Prov 22:6)",
+    "Landscape with castle in background — temporal wealth subordinated to spiritual devotion and heavenly patronage"
+  ],
+  "description": "Right wing of a triptych showing kneeling women presented by Saint Barbara. She stands at left, tall with reddish-gold hair, in an embroidered dark bodice with golden brocade over a red gown. A miniature stone tower sits beside her. The principal donor kneels at a prayer desk with an open book, in a black gown and white headdress. Behind her, daughters kneel in a row by age, mostly in black with varied headdresses; several wear black and white religious habits. A green landscape with a Gothic castle fills the background.",
+  "theological_description": "This right wing presents the female Moreel family under Saint Barbara's patronage, creating a visual theology of intercession, domestic piety, and the communion of saints. In triptych convention, wings present donors kneeling with patron saints. Saint Barbara, martyred in the third century for refusing to renounce her faith, was one of the Fourteen Holy Helpers. Her tower recalls her father's attempt to isolate her from Christianity — a plan that failed because faith cannot be contained by walls. The theological principle is profound: the family is presented to God not on its own merits but through saintly mediation, itself grounded in the one mediator, Christ Jesus (1 Tim 2:5). The composition creates a chain of intercession: the women pray, the patron saint presents them, and the central panel would contain the divine object of devotion. This reflects Hebrews 12:22-24, where earthly worshippers join 'the assembly of the firstborn enrolled in heaven.' The prayer book represents daily devotion connecting laity to liturgical life. Both married women and nuns appear, reflecting that holiness is available in all states of life. Multiple generations embody faith transmitted through families: 'a faith that dwelt first in your grandmother Lois and your mother Eunice' (2 Tim 1:5).",
+  "scripture_refs": [
+    {
+      "ref": "HEB.12.1",
+      "relevance": "primary",
+      "reason": "Since we are surrounded by so great a cloud of witnesses — the patron saint standing behind kneeling donors visually enacts the communion of saints"
+    },
+    {
+      "ref": "1PE.2.5",
+      "relevance": "primary",
+      "reason": "You yourselves like living stones are being built into a spiritual house, to be a holy priesthood — the family as spiritual household offering prayers through saintly intercession"
+    },
+    {
+      "ref": "2PE.1.5-7",
+      "relevance": "allusion",
+      "reason": "Supplement your faith with virtue, knowledge, self-control, godliness — the virtuous household of faith depicted in the pious family group"
+    },
+    {
+      "ref": "PRO.18.10",
+      "relevance": "typological",
+      "reason": "The name of the LORD is a strong tower; the righteous run into it and are safe — the tower attribute of Saint Barbara as visual echo of divine protection"
+    },
+    {
+      "ref": "PRO.22.6",
+      "relevance": "allusion",
+      "reason": "Train up a child in the way he should go — the multi-generational family devotional scene embodying wisdom of transmitting faith"
+    },
+    {
+      "ref": "HEB.12.22-24",
+      "relevance": "allusion",
+      "reason": "You have come to the heavenly Jerusalem, to the assembly of the firstborn — the mystical union of earthly worshippers with the heavenly Church enacted by the triptych format"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": ["serene", "devotional", "dignified", "contemplative"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000595",
+    "title": "Triptych of Willem Moreel, right wing, the founder Barbara van Vlaenderbergh, wife of Willem Moreel, the daughters and the St. Barbara",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

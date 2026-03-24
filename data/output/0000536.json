@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Crucifixion of Christ on Calvary",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "redemption",
+    "atonement",
+    "sacrifice",
+    "golgotha",
+    "calvary",
+    "darkness-over-the-land",
+    "suffering-servant",
+    "lamb-of-god",
+    "new-adam",
+    "tree-of-life",
+    "INRI",
+    "solitude",
+    "abandonment",
+    "paschal-mystery"
+  ],
+  "symbols": [
+    "the cross — the instrument of redemption, the tree of life that reverses the Fall, the altar of the cosmic sacrifice",
+    "the INRI titulus above Christ's head — Pilate's inscription 'Jesus of Nazareth, King of the Jews,' an unwitting proclamation of Christ's true kingship",
+    "the deep darkness enveloping the scene — the three hours of supernatural darkness (Matthew 27:45), creation mourning its Creator, the cosmic weight of sin",
+    "Christ's solitary figure with no mourners present — the utter desolation of the Passion, the abandonment expressed in the cry 'My God, why have you forsaken me?'",
+    "the distant city on the horizon — Jerusalem, outside whose gates Christ suffered, fulfilling the typology of the scapegoat sent outside the camp (Hebrews 13:12)",
+    "the rocky ground of Golgotha — the Place of the Skull, tradition linking it to Adam's burial site so that Christ's blood flows over the first man's bones"
+  ],
+  "description": "A stark depiction of Christ crucified alone on a large wooden cross against an almost entirely dark background. Christ's pale, elongated body hangs with arms outstretched, head tilted slightly to one side, wearing only a white loincloth. A rectangular titulus with text is affixed above his head. The background is consumed by deep shadow and turbulent dark clouds, with only faint light breaking through at the edges. At the base of the cross, barely visible in the gloom, a small distant cityscape with tiny buildings can be discerned on the horizon.",
+  "theological_description": "This crucifixion presents Christ utterly alone against an abyss of darkness -- a theological statement as much as an artistic one. The solitary figure on the cross, without the usual attendants (Mary, John, the Magdalene), emphasizes the radical isolation of the Passion: 'I have trodden the winepress alone, and from the peoples no one was with me' (Isaiah 63:3). The overwhelming darkness recalls the three hours when the sun's light failed (Luke 23:44-45), which the Fathers interpreted not merely as an eclipse but as creation itself recoiling in horror at the death of its Maker. Cyril of Jerusalem saw in this darkness the fulfillment of Amos 8:9: 'I will make the sun go down at noon and darken the earth in broad daylight.' The elongated, spectral body evokes Isaiah's Suffering Servant whose 'appearance was so marred, beyond human semblance' (Isaiah 52:14). Christ hangs here as the Paschal Lamb (1 Corinthians 5:7), the once-for-all sacrifice that the blood of bulls and goats could never accomplish (Hebrews 10:4). The cross itself is the new Tree of Life -- patristic typology from Irenaeus to Bonaventure reads the wood of Calvary as the reversal of Eden's tree of death. The distant city visible at the base places the crucifixion 'outside the gate' (Hebrews 13:12), fulfilling the Day of Atonement typology where the sin-offering was burned outside the camp. The INRI inscription, intended as mockery, is in truth the proclamation of universal kingship: Christ reigns from the tree, as the ancient hymn Vexilla Regis declares.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "John's account of the crucifixion at Golgotha, including the INRI titulus and Christ's final words"
+    },
+    {
+      "ref": "MAT.27.45-50",
+      "relevance": "primary",
+      "reason": "The three hours of darkness over the land during the crucifixion and the cry of dereliction"
+    },
+    {
+      "ref": "ISA.53.4-6",
+      "relevance": "typological",
+      "reason": "The Suffering Servant pierced for our transgressions, upon whom the Lord laid the iniquity of us all"
+    },
+    {
+      "ref": "HEB.13.12",
+      "relevance": "typological",
+      "reason": "Jesus suffered outside the gate to sanctify the people -- the distant city placing the cross outside Jerusalem fulfills the scapegoat typology"
+    },
+    {
+      "ref": "PSA.22.1",
+      "relevance": "allusion",
+      "reason": "My God, my God, why have you forsaken me -- the psalm of abandonment that Christ cries from the cross, evoked by His solitary figure in darkness"
+    },
+    {
+      "ref": "ISA.63.3",
+      "relevance": "allusion",
+      "reason": "I have trodden the winepress alone -- the prophetic image of solitary suffering fulfilled in Christ's isolated crucifixion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "desolate",
+    "solemn",
+    "anguished",
+    "awe-inspiring"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000536",
+    "title": "Christ on the cross",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

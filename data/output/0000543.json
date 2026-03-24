@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {"name": "Saint Catherine of Siena", "type": "PERSON"},
+    {"name": "Saint Benedict", "type": "PERSON"},
+    {"name": "Saint Jerome", "type": "PERSON"},
+    {"name": "Christ", "type": "DEITY"},
+    {"name": "Angels and putti", "type": "ANGEL"}
+  ],
+  "event": "Saint Catherine of Siena receiving the stigmata, flanked by Saints Benedict and Jerome",
+  "tags": [
+    "stigmata",
+    "mystical-vision",
+    "sacra-conversazione",
+    "dominican-order",
+    "divine-light",
+    "ecstasy",
+    "altarpiece",
+    "predella",
+    "putti",
+    "intercession",
+    "conformity-to-christ"
+  ],
+  "symbols": [
+    "Catherine kneeling with arms raised — total surrender and receptivity to divine grace, echoing the orans prayer posture",
+    "Stigmata imprinted on Catherine — mystical participation in Christ's wounds, fulfilling Paul's 'I bear on my body the marks of Jesus' (Gal 6:17)",
+    "Great stone archway — liminal threshold between earth and heaven, recalling 'This is the gate of heaven' (Gen 28:17)",
+    "Divine light streaming from above — uncreated glory breaking into the material world, evoking the Transfiguration radiance",
+    "Saint Benedict holding a staff — monastic founder whose Rule ordered Western contemplative life toward encounter with God",
+    "Saint Jerome in red robes with open book — Doctor of the Church and Scripture translator, grounding mystical experience in the Word",
+    "Predella panels below — narrative episodes from the saint's life, inviting meditation on the stages of sanctification"
+  ],
+  "description": "Saint Catherine of Siena kneels on an ornate marble floor beneath a stone archway, wearing a black and white Dominican habit, arms raised toward a heavenly vision. Above, Christ appears in golden light surrounded by putti and cherubim. To her left stands an elderly bearded saint in white robes with a staff; to her right, another elder in a red mantle holds an open book. A dark-robed figure kneels behind Catherine. A landscape is visible through the arch. A predella with narrative scenes runs below.",
+  "theological_description": "This altarpiece presents the extraordinary mystical event of Saint Catherine of Siena receiving the stigmata, framed within a sacra conversazione that situates this private experience within the public theology of the Church. Catherine (1347-1380), Dominican tertiary, mystic, and Doctor of the Church, reported receiving the stigmata during a vision in 1375 at Pisa. Unlike Francis of Assisi's visible stigmata, Catherine's were said to be invisible during her lifetime, speaking to the hidden character of the deepest spiritual graces. The flanking saints are theologically deliberate. Benedict represents the monastic contemplative tradition that prepared the Western Church for mystical theology. Jerome represents the scriptural scholarship that grounds mystical experience in God's revealed Word, preventing mere subjective enthusiasm. Catherine stands between them as living fulfillment of both traditions. The architectural setting creates a liminal space between earthly and divine. Catherine's orans posture recalls Scripture's great intercessors. The descending light is the visible sign of invisible grace — the energy that overshadowed Mary at the Annunciation (Lk 1:35) and transfigured Christ on Tabor (Mt 17:2). The stigmata represent the most radical imitatio Christi: not merely following Christ's example but being physically conformed to his Passion. Paul's theology of suffering-with-Christ (Rom 8:17, Phil 3:10) finds its most literal embodiment in the stigmatic saints.",
+  "scripture_refs": [
+    {
+      "ref": "GAL.2.19-20",
+      "relevance": "primary",
+      "reason": "I have been crucified with Christ; it is no longer I who live — the foundational text for understanding the stigmata as mystical participation in Christ's crucifixion"
+    },
+    {
+      "ref": "GAL.6.17",
+      "relevance": "primary",
+      "reason": "I bear on my body the marks of Jesus — Paul's declaration providing the scriptural basis for the stigmata as bodily signs of union with the crucified Christ"
+    },
+    {
+      "ref": "PHP.3.10-11",
+      "relevance": "primary",
+      "reason": "That I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death — the Pauline desire for conformity to Christ's Passion"
+    },
+    {
+      "ref": "ROM.8.17",
+      "relevance": "typological",
+      "reason": "Fellow heirs with Christ, provided we suffer with him — the theology of co-suffering with Christ as the path to co-glorification"
+    },
+    {
+      "ref": "COL.1.24",
+      "relevance": "typological",
+      "reason": "In my flesh I am filling up what is lacking in Christ's afflictions for the sake of his body — the mystical completion of Christ's sufferings in the members of his body"
+    },
+    {
+      "ref": "MAT.17.1-2",
+      "relevance": "allusion",
+      "reason": "He was transfigured before them, and his face shone like the sun — the divine light streaming from heaven recalls the Transfiguration as revelatory glory"
+    },
+    {
+      "ref": "HEB.12.1-2",
+      "relevance": "allusion",
+      "reason": "Surrounded by so great a cloud of witnesses — the flanking saints and heavenly host attending the moment of divine grace"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["mystical", "ecstatic", "solemn", "reverent"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000543",
+    "title": "Saint Catherine of Siena receiving the stigmata between Saints Benedict and Jerome",
+    "artist": "Domenico Beccafumi",
+    "model": "claude-opus-4-6"
+  }
+}

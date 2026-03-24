@@ -1,7 +1,13 @@
 {
   "characters": [
-    {"name": "Gabriel", "type": "ANGEL"},
-    {"name": "Virgin Mary", "type": "PERSON"}
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
   ],
   "event": "Annunciation",
   "tags": [
@@ -28,14 +34,39 @@
   "description": "Within a Renaissance loggia of arched colonnades, the Archangel Gabriel kneels at left, dressed in rich robes, extending one hand toward the Virgin Mary. Two companion angels stand behind Gabriel. Mary sits at right before a lectern holding a book, her body turned toward the angel with a gesture of acceptance. A white lily stands between them. Below the main scene, two predella panels depict additional episodes from the life of the Virgin.",
   "theological_description": "The Annunciation is the pivotal moment when God initiates the New Covenant through Mary's free consent. Gabriel's greeting 'Hail, full of grace' (Luke 1:28) reveals that Mary has been prepared by prevenient grace for her singular role as Theotokos. Her response, 'Let it be done to me according to your word' (Luke 1:38), is the second Eve's reversal of the Fall: where Eve's disobedience brought death, Mary's obedience opens the way for the Word to become flesh. The lily between them signifies her perpetual virginity and the purity required for the temple of the Incarnation. The architectural setting, with its ordered columns and receding space, evokes the new temple theology: Mary's womb becomes the Holy of Holies where divinity and humanity meet. Typologically, this scene fulfills Isaiah's prophecy that a virgin shall conceive (Isaiah 7:14) and echoes the overshadowing of the Ark of the Covenant by God's glory (Exodus 40:34-35), as the Holy Spirit overshadows Mary (Luke 1:35).",
   "scripture_refs": [
-    {"ref": "LUK.1.26-38", "relevance": "primary", "reason": "The direct biblical account of the Annunciation, Gabriel's visit to Mary in Nazareth"},
-    {"ref": "ISA.7.14", "relevance": "typological", "reason": "Prophecy of a virgin conceiving and bearing a son called Emmanuel, fulfilled in this event"},
-    {"ref": "EXO.40.34-35", "relevance": "typological", "reason": "The glory of the Lord filling the Tabernacle prefigures the Holy Spirit overshadowing Mary"},
-    {"ref": "GEN.3.15", "relevance": "typological", "reason": "Protoevangelium: the woman whose seed will crush the serpent's head, fulfilled through Mary's consent"},
-    {"ref": "LUK.1.35", "relevance": "primary", "reason": "The Holy Spirit will come upon you and the power of the Most High will overshadow you"}
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The direct biblical account of the Annunciation, Gabriel's visit to Mary in Nazareth"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "Prophecy of a virgin conceiving and bearing a son called Emmanuel, fulfilled in this event"
+    },
+    {
+      "ref": "EXO.40.34-35",
+      "relevance": "typological",
+      "reason": "The glory of the Lord filling the Tabernacle prefigures the Holy Spirit overshadowing Mary"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "Protoevangelium: the woman whose seed will crush the serpent's head, fulfilled through Mary's consent"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you and the power of the Most High will overshadow you"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["reverent", "solemn", "expectant", "peaceful", "sacred"],
+  "mood": [
+    "reverent",
+    "solemn",
+    "expectant",
+    "peaceful"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0000160",

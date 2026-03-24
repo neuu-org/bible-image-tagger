@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Simon of Cyrene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldiers and crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Passion of Christ: Ecce Homo and the Carrying of the Cross",
+  "tags": [
+    "passion-of-christ",
+    "ecce-homo",
+    "carrying-the-cross",
+    "via-dolorosa",
+    "stations-of-the-cross",
+    "altarpiece",
+    "diptych",
+    "scourging",
+    "crown-of-thorns",
+    "suffering-servant",
+    "redemption",
+    "simon-of-cyrene",
+    "mocking",
+    "judgment",
+    "sacrificial-love",
+    "atonement"
+  ],
+  "symbols": [
+    "the cross carried on Christ's shoulders — the instrument of redemption, the tree of life restoring what was lost through the tree of knowledge",
+    "crown of thorns — the curse of Genesis 3:18 turned into a royal diadem, thorns that sprouted from the Fall now worn by the new Adam",
+    "Pilate seated on the judgment seat — worldly authority unwittingly fulfilling divine decree, the judge who is himself judged",
+    "Christ stripped and bound — the Suffering Servant of Isaiah 53, despised and rejected, led like a lamb to slaughter",
+    "the Virgin Mary following in the crowd — the Mater Dolorosa, the sword piercing her soul as Simeon prophesied (Luke 2:35)",
+    "Simon of Cyrene helping carry the cross — the calling of every disciple to take up the cross and follow Christ (Matthew 16:24)"
+  ],
+  "description": "A two-panel altarpiece with ornate Gothic tracery framing. The left panel shows Christ standing before Pilate on an elevated platform. Christ is stripped to a loincloth, bound, wearing a crown of thorns, his body showing marks of scourging. Pilate gestures from his seat of judgment while soldiers and a dense crowd fill the lower portion. The right panel depicts Christ fallen under the weight of a large wooden cross on a crowded street. A man helps support the cross beam. The Virgin Mary, veiled in blue, watches from the background with hands clasped.",
+  "theological_description": "This Kaisheim altarpiece diptych presents two pivotal Passion stations: the Ecce Homo (John 19:5) and Christ carrying the Cross to Golgotha. The left panel captures the moment Pilate presents the scourged Christ to the crowd -- 'Behold the man!' -- a declaration the Fathers read as unwitting prophecy. In presenting the broken, humiliated Jesus, Pilate inadvertently reveals the deepest truth: behold the Man, the new Adam, the one in whom humanity is fully revealed through its suffering. Isaiah's Suffering Servant prophecy finds its literal fulfillment here: 'His appearance was so marred, beyond human semblance' (Isaiah 52:14). The right panel shows Christ carrying His cross along the Via Dolorosa, falling under its weight. The cross He bears is the wood of the new Tree of Life -- what the first Adam lost through the tree of the garden, the second Adam restores through the tree of Calvary. Patristic typology (Irenaeus, Justin Martyr) consistently read the cross as the reversal of Eden: where the tree brought death, now the tree brings life. Simon of Cyrene pressed into service (Mark 15:21) becomes the image of every Christian called to share in Christ's sufferings (Colossians 1:24). Mary's presence as Mater Dolorosa fulfills Simeon's oracle that a sword would pierce her soul (Luke 2:35) and establishes her as the new Eve standing beside the new Adam at the moment of redemption. The two panels together trace the arc from condemnation to consummation, from the world's judgment upon Christ to Christ's judgment upon the world.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.1-5",
+      "relevance": "primary",
+      "reason": "Pilate presenting the scourged Christ to the crowd with 'Behold the man' -- the scene depicted in the left panel"
+    },
+    {
+      "ref": "MRK.15.21",
+      "relevance": "primary",
+      "reason": "Simon of Cyrene compelled to carry the cross -- the scene depicted in the right panel"
+    },
+    {
+      "ref": "LUK.23.26-28",
+      "relevance": "primary",
+      "reason": "Christ led away bearing the cross, followed by women mourning -- the right panel's procession"
+    },
+    {
+      "ref": "ISA.53.3-7",
+      "relevance": "typological",
+      "reason": "The Suffering Servant despised, rejected, led like a lamb to slaughter -- the prophetic archetype fulfilled in the scourged Christ before Pilate"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy that a sword shall pierce Mary's soul -- fulfilled as she witnesses her Son's suffering on the Via Dolorosa"
+    },
+    {
+      "ref": "MAT.16.24",
+      "relevance": "allusion",
+      "reason": "If anyone would come after me, let him take up his cross and follow me -- Simon of Cyrene as the literal icon of this calling"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "solemn",
+    "sorrowful",
+    "grave"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000530",
+    "title": "Kaisheimer Altar",
+    "artist": "Hans Holbein the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

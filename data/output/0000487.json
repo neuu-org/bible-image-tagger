@@ -1,94 +1,83 @@
 {
   "characters": [
-    "the Three Magi (Wise Men / Kings)",
-    "attendants and retinue on horseback"
+    {
+      "name": "The Three Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Attendants and Retinue",
+      "type": "GROUP"
+    }
   ],
-  "event": "The journey of the Three Magi following the star to find the newborn King of the Jews in Bethlehem",
+  "event": "The journey of the Three Magi following the Star of Bethlehem to find the newborn King",
   "tags": [
-    "Christianity",
-    "Magi",
-    "Wise-Men",
-    "Three-Kings",
-    "Epiphany",
-    "Star-of-Bethlehem",
+    "magi",
+    "epiphany",
+    "star-of-bethlehem",
     "journey",
-    "Nativity",
-    "Adoration-of-the-Magi",
+    "three-kings",
     "horses",
     "desert",
-    "night",
-    "star",
-    "Kupelwieser",
-    "Romanticism",
-    "Austrian-painting",
-    "Gentiles",
+    "twilight",
+    "gentile-worship",
     "pilgrimage",
-    "gold-frankincense-myrrh",
-    "revelation"
+    "nativity"
   ],
   "symbols": [
-    "the star shining in the upper sky ahead of the riders — the supernatural sign that guided the Magi to the birthplace of the Messiah (Matthew 2:2), the light of divine revelation breaking into the pagan world to lead the nations to Christ",
-    "three richly robed kings on horseback riding together — the representatives of the Gentile nations journeying to worship the King of Kings, the fulfillment of Isaiah's prophecy that kings shall come to the brightness of his rising (Isaiah 60:3)",
-    "the diverse appearance of the three figures suggesting different ethnicities — the universality of Christ's kingship, drawing worshippers from every nation, tribe, and tongue to acknowledge his sovereignty",
-    "the golden-red robes of the foremost king — the royal dignity of those who come bearing gifts, the gold that signifies Christ's kingship, the wealth of the nations flowing to Zion",
-    "the dusky twilight landscape with mountains and a distant settlement — the long and arduous pilgrimage of faith, the journey through darkness and wilderness that leads to the light of Christ",
-    "the attendants and additional riders following behind — the nations streaming toward the light of the Messiah, the eschatological pilgrimage of peoples to the holy city",
-    "the one Magus pointing his staff upward toward the star — the act of discernment and guidance, the seeker of wisdom recognizing the sign from heaven and directing others to follow"
+    "bright star in the upper sky — the supernatural sign guiding the Magi to the Messiah, the light of divine revelation breaking into the pagan world",
+    "three richly robed kings on horseback — representatives of the Gentile nations journeying to worship the King of Kings, fulfilling Isaiah's prophecy that kings shall come to his rising",
+    "diverse appearance suggesting different ethnicities — the universality of Christ's kingship, drawing worshippers from every nation",
+    "golden-red robes of the foremost king — royal dignity and the gold signifying Christ's kingship",
+    "dusky twilight landscape with mountains — the long pilgrimage of faith through darkness toward the light of Christ",
+    "one Magus pointing his staff toward the star — the act of discernment, the seeker of wisdom recognizing the sign from heaven"
   ],
-  "description": "A Romantic-era painting showing three richly dressed kings on horseback riding across a dusky desert landscape. The foremost rider wears a flowing red-gold robe and a turban, mounted on a golden-brown horse. The second figure in darker attire rides close behind, while the third, whose features suggest African origin, raises a staff or rod toward the sky where a bright star gleams in the deep blue upper atmosphere. Behind them, additional mounted attendants follow at a distance against the glow of a setting or rising sun on the horizon. The terrain is arid with low scrubby vegetation and distant blue-grey mountains. The sky transitions from warm amber and orange near the horizon to deep blue above, where the single guiding star is prominently visible. The lighting is dramatic and atmospheric, with the warm sunset tones illuminating the riders' robes and the horses' flanks while the landscape recedes into cool shadow. The composition moves from right to left, conveying a strong sense of purposeful forward motion.",
-  "theological_description": "Leopold Kupelwieser's 1825 painting of the Journey of the Three Kings captures one of the most theologically rich episodes in the Infancy Narratives -- the coming of the Magi from the East to worship the newborn King of the Jews (Matthew 2:1-12). This event, celebrated in the Christian calendar as the Feast of the Epiphany, marks the first revelation of Christ to the Gentile world and is thus the foundational event in the theology of universal salvation. The Magi are not Jews but pagan astrologers, seekers of wisdom from distant lands, and their journey to Bethlehem signifies that the birth of Jesus is not merely a Jewish event but a cosmic one, a light for revelation to the Gentiles as Simeon would prophesy (Luke 2:32). The star that guides them is a supernatural sign, a divine accommodation to their mode of knowledge -- God meets the wise men where they are, speaking through the stars they have studied, drawing them through natural wisdom toward supernatural truth. As the prophet Balaam had foretold centuries earlier, 'A star shall come out of Jacob, and a scepter shall rise out of Israel' (Numbers 24:17). The three kings riding across the twilight landscape fulfill the great prophecy of Isaiah 60: 'Nations shall come to your light, and kings to the brightness of your rising... They shall bring gold and frankincense, and shall bring good news, the praises of the LORD' (Isaiah 60:3, 6). The Psalmist too foresaw this royal pilgrimage: 'May the kings of Tarshish and of the coastlands render him tribute; may the kings of Sheba and Seba bring gifts! May all kings fall down before him, all nations serve him!' (Psalm 72:10-11). The diverse appearance of the three figures in Kupelwieser's rendering -- suggesting different races and regions -- expresses the patristic and medieval tradition that the Magi represent the three known continents of the ancient world (Europe, Asia, Africa), and therefore the totality of the human race coming to acknowledge Christ. Their journey through the wilderness at twilight is itself a figure of the human condition: groping through the darkness of ignorance and sin, guided by whatever light God provides, pressing onward toward the truth that will be fully revealed in the face of the Christ Child. The Romantic treatment, with its warm atmospheric light and sense of noble purpose, emphasizes the grandeur and dignity of this act of faith -- these are powerful men humbling themselves before an infant, an act that overturns all worldly categories of power and wisdom.",
+  "description": "Three richly dressed kings ride horseback across a dusky desert landscape. The foremost rider wears a flowing red-gold robe and turban, mounted on a golden-brown horse. The second figure in darker attire rides close behind. The third, with darker skin, raises a staff toward the sky where a bright star gleams. Behind them, additional mounted attendants follow against the glow of a setting sun on the horizon. The terrain is arid with low vegetation and distant blue-grey mountains.",
+  "theological_description": "Kupelwieser's painting captures one of the most theologically rich episodes in the Infancy Narratives -- the coming of the Magi from the East to worship the newborn King (Matthew 2:1-12). Celebrated as the Feast of the Epiphany, this event marks the first revelation of Christ to the Gentile world and is foundational to the theology of universal salvation. The Magi are not Jews but pagan astrologers, and their journey signifies that Christ's birth is a cosmic event, 'a light for revelation to the Gentiles' (Luke 2:32). The guiding star fulfills Balaam's oracle: 'A star shall come out of Jacob, and a scepter shall rise out of Israel' (Numbers 24:17). The three kings fulfill Isaiah 60: 'Nations shall come to your light, and kings to the brightness of your rising... they shall bring gold and frankincense' (Isaiah 60:3, 6). The Psalmist too foresaw this: 'May the kings of Tarshish and of the coastlands render him tribute; may the kings of Sheba and Seba bring gifts!' (Psalm 72:10-11). The diverse appearance of the three figures expresses the patristic tradition that the Magi represent the three continents of the ancient world, and therefore the totality of humanity coming to acknowledge Christ.",
   "scripture_refs": [
     {
-      "ref": "Matt.2.1-12",
+      "ref": "MAT.2.1-12",
       "relevance": "primary",
-      "reason": "The account of the Magi coming from the East, following the star, and seeking the newborn King of the Jews -- the direct biblical narrative depicted in the painting"
+      "reason": "The Magi from the East following the star to find the newborn King -- the direct narrative depicted"
     },
     {
-      "ref": "Isa.60.1-6",
+      "ref": "ISA.60.1-6",
       "relevance": "primary",
-      "reason": "Nations shall come to your light, and kings to the brightness of your rising; they shall bring gold and frankincense -- the prophetic vision of Gentile kings bringing gifts to the Messiah, fulfilled in the Magi's journey"
+      "reason": "Nations shall come to your light, kings to the brightness of your rising, bringing gold and frankincense"
     },
     {
-      "ref": "Ps.72.10-11",
+      "ref": "PSA.72.10-11",
       "relevance": "primary",
-      "reason": "May the kings of Tarshish and the coastlands render him tribute; may the kings of Sheba and Seba bring gifts; may all kings fall down before him -- the messianic psalm foreseeing the homage of kings from distant lands"
+      "reason": "Kings of Tarshish and coastlands render tribute; kings of Sheba and Seba bring gifts -- messianic psalm of royal homage"
     },
     {
-      "ref": "Num.24.17",
-      "relevance": "secondary",
-      "reason": "A star shall come out of Jacob, and a scepter shall rise out of Israel -- Balaam's oracle prophesying the star as a sign of the Messiah, fulfilled in the Star of Bethlehem guiding the Magi"
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "A star shall come out of Jacob -- Balaam's oracle fulfilled in the Star of Bethlehem"
     },
     {
-      "ref": "Luke.2.30-32",
-      "relevance": "secondary",
-      "reason": "A light for revelation to the Gentiles, and for glory to your people Israel -- Simeon's prophecy that the Christ Child would be the light of the Gentile nations, of which the Magi are the firstfruits"
-    },
-    {
-      "ref": "Mic.5.2",
-      "relevance": "secondary",
-      "reason": "But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel -- the destination of the Magi's journey, the humble village where the King of Kings was born"
-    },
-    {
-      "ref": "Eph.3.5-6",
+      "ref": "LUK.2.30-32",
       "relevance": "allusion",
-      "reason": "The mystery that the Gentiles are fellow heirs, members of the same body -- the Magi as the first Gentile worshippers, foreshadowing the full inclusion of the nations in the body of Christ"
+      "reason": "A light for revelation to the Gentiles -- the Magi as the firstfruits of Gentile worship"
     },
     {
-      "ref": "Rev.21.24",
+      "ref": "MIC.5.2",
       "relevance": "allusion",
-      "reason": "The nations will walk by its light, and the kings of the earth will bring their glory into it -- the eschatological vision of kings bringing their tribute to the New Jerusalem, prefigured in the Magi's gifts to the infant Christ"
+      "reason": "From Bethlehem shall come forth a ruler in Israel -- the destination of the Magi's journey"
+    },
+    {
+      "ref": "EPH.3.5-6",
+      "relevance": "allusion",
+      "reason": "The Gentiles are fellow heirs -- the Magi foreshadowing the full inclusion of nations in Christ's body"
     }
   ],
   "scene_type": "narrative",
   "mood": [
-    "majestic",
-    "atmospheric",
-    "purposeful",
-    "reverent",
-    "expectant",
-    "noble"
+    "majesty",
+    "expectation",
+    "reverence",
+    "wonder"
   ],
-  "period": "Life of Christ / Infancy",
+  "period": "Gospel",
   "_meta": {
     "key": "0000487",
     "title": "The Journey of the Three Kings",

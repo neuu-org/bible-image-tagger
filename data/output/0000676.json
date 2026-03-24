@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Penitence of Mary Magdalene",
+  "tags": [
+    "penitence",
+    "repentance",
+    "solitude",
+    "prayer",
+    "vanitas",
+    "memento-mori",
+    "desert-contemplation",
+    "conversion",
+    "forgiveness",
+    "renunciation",
+    "mortification",
+    "holy-tears",
+    "wilderness-retreat",
+    "abandoned-luxury"
+  ],
+  "symbols": [
+    "skull — memento mori, meditation on death, the wages of sin, and the emptiness of worldly life",
+    "red book — Sacred Scripture, the Word of God nourishing the penitent soul in solitude",
+    "clasped hands in prayer — contrition, supplication, and total surrender to divine mercy",
+    "golden cloak — remnant of former worldly wealth now repurposed for ascetic life",
+    "dark wilderness setting — the desert of penitence, spiritual solitude, withdrawal from the world",
+    "glass vessel at lower left — the alabaster jar of ointment, recalling the anointing of Christ's feet",
+    "loose flowing hair — traditional iconographic sign of the Magdalene and of penitential mourning",
+    "faint golden light in upper right — divine grace breaking into the darkness of penance"
+  ],
+  "description": "A young woman kneels in a dark wilderness setting, her hands clasped together in prayer. She wears a flowing golden cloak over her shoulders, and her long hair falls loosely. Before her rests a human skull and a closed red book on the ground. A small glass vessel sits near her at the lower left. Behind her, bare trees and sparse vegetation emerge from the darkness. A faint golden light appears in the upper right corner of the scene. Her expression is downcast and deeply contemplative.",
+  "theological_description": "The Penitent Magdalene is one of the most theologically rich subjects in Christian iconography. The Western tradition, following Gregory the Great, conflated Mary Magdalene with the sinful woman who washed Christ's feet with her tears (LUK.7.37-38), making her the supreme model of repentance and divine mercy. The skull and wilderness setting evoke the tradition that the Magdalene spent her final thirty years in the cave of Sainte-Baume in ascetic prayer — a life of purgation that mirrors the desert spirituality of the early monastics. The skull is both vanitas — the emptiness of the pleasures she renounced — and eschatological hope, for the God who forgave her will also raise her body. The red book signifies her transformation from sinner to contemplative, from the life of the flesh to the life of the Word. The glass vessel recalls the jar of costly ointment (MRK.14.3), which Jesus defended as an anointing for burial — connecting her penitence to the Passion itself. Patristically, the Magdalene embodies the trajectory from sin through tears to resurrection-witness: she who wept at Christ's feet in life was the first to proclaim 'I have seen the Lord' (JHN.20.18). Her prayer in darkness anticipates the dawn of Easter morning.",
+  "scripture_refs": [
+    {"ref": "LUK.7.37-50", "relevance": "primary", "reason": "The sinful woman who washed Christ's feet with tears and anointed them — the foundational penitential scene traditionally linked to the Magdalene"},
+    {"ref": "JHN.20.1-18", "relevance": "primary", "reason": "Mary Magdalene as first witness of the Resurrection — her penitence finds its culmination in Easter encounter"},
+    {"ref": "MRK.14.3-9", "relevance": "typological", "reason": "The anointing at Bethany with costly ointment — the glass vessel in the painting recalls this act of devotion"},
+    {"ref": "LUK.15.7", "relevance": "typological", "reason": "Joy in heaven over one sinner who repents — the Magdalene as the paradigmatic penitent"},
+    {"ref": "PSA.51.17", "relevance": "typological", "reason": "A broken and contrite heart God will not despise — the Magdalene's clasped hands express this psalm of penitence"},
+    {"ref": "2CO.5.17", "relevance": "allusion", "reason": "If anyone is in Christ, they are a new creation — the Magdalene's transformation from sinner to saint"},
+    {"ref": "PSA.130.1", "relevance": "allusion", "reason": "Out of the depths I cry to you, O Lord — prayer from the darkness of the wilderness"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["penitence", "contemplation", "solitude", "hope"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000676",
+    "title": "Penitent Magdalene",
+    "artist": "Jacques Stella",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Mexican peasants and leaders", "type": "GROUP"}
+  ],
+  "event": "Festival of the Distribution of the Land",
+  "tags": ["land-distribution", "crowd", "arched-doorways", "gathering", "social-justice", "agrarian-reform", "mural"],
+  "symbols": [
+    "distribution of land — echoes the biblical principle of equitable inheritance and jubilee restoration",
+    "gathered crowds — the assembly of a people claiming their rightful portion",
+    "arched doorways — thresholds of civic and communal authority"
+  ],
+  "description": "A large mural spanning two arched wooden doorways. Above and around the doorways, dense crowds of people in white clothing gather on terraced levels. At center, figures sit on an elevated platform as if presiding over or witnessing a public event. Groups at left and right include men, women, and children in both peasant and more formal dress. The background shows mountains and a sky. The composition is symmetrical, anchored by the two prominent arched doors below.",
+  "theological_description": "While this mural depicts a modern Mexican agrarian-reform festival rather than a biblical narrative, the theme of land distribution resonates deeply with Scripture. In Joshua 13-21, the Promised Land is divided among the twelve tribes by lot as God's covenantal gift. The jubilee legislation of Leviticus 25 mandates the periodic return of ancestral land to prevent permanent dispossession, rooted in the conviction that 'the land is mine; you are but strangers and sojourners with me' (Lev 25:23). The prophets denounced those who seized fields and defrauded the poor of their inheritance (Mic 2:1-2; Isa 5:8). Rivera's vision of communal redistribution, though secular and political, unknowingly mirrors the biblical insistence that land belongs ultimately to God and must serve the common good of all his people.",
+  "scripture_refs": [
+    {"ref": "JOS.13.1-7", "relevance": "typological", "reason": "God commands the distribution of the Promised Land among the tribes of Israel"},
+    {"ref": "LEV.25.23-28", "relevance": "typological", "reason": "Jubilee laws mandating return of land to original families, asserting God's ultimate ownership"},
+    {"ref": "ISA.5.8", "relevance": "allusion", "reason": "Prophetic woe against those who accumulate land at the expense of the poor"},
+    {"ref": "MIC.2.1-2", "relevance": "allusion", "reason": "Condemnation of those who covet and seize fields, defrauding people of their inheritance"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["communal", "solemn", "hopeful"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000943",
+    "title": "The Festival of The Distribution of The Land",
+    "artist": "Diego Rivera",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Saint Pantaleon", "type": "PERSON"}
+  ],
+  "event": "Glorification of the holy martyr Pantaleon (Pantalon)",
+  "tags": [
+    "martyr",
+    "saint",
+    "palm-branch",
+    "halo",
+    "globus-cruciger",
+    "beheading",
+    "fresco-fragment",
+    "hagiography",
+    "triumph-over-death"
+  ],
+  "symbols": [
+    "palm branch — victory and martyrdom, triumph over death through faith",
+    "golden halo — sanctity and the light of divine grace surrounding the saint",
+    "globus cruciger — Christ's sovereignty over the world, the kingdom for which the martyr died",
+    "severed head at feet — the manner of the saint's martyrdom by beheading",
+    "clouds beneath feet — heavenly glorification and the saint's entry into paradise"
+  ],
+  "description": "A young male figure with a golden halo stands on clouds, wearing a long blue-grey robe. In his left hand he holds a green palm branch. To the upper right floats a globus cruciger — a dark orb topped with a golden cross. At the lower right, near the saint's feet, a severed male head rests on the ground. The fresco is a surviving fragment with irregular edges, set against a warm ochre and brown background with visible damage and aging.",
+  "theological_description": "This fresco fragment from San Pantalon in Venice depicts the church's patron saint in heavenly triumph after his martyrdom. Saint Pantaleon (also Pantalon or Panteleimon, meaning 'all-merciful') was a physician martyred during the Diocletian persecution around 305 AD. The palm branch he holds is the universal Christian symbol of martyrdom, drawn from Revelation 7:9 where the white-robed multitude before the throne holds palm branches — those who have come out of the great tribulation. The severed head at his feet references his death by beheading, yet his youthful, serene countenance shows that death has been conquered. The globus cruciger declares that Christ is Lord of all creation, the King for whose sake the martyr surrendered his earthly life. Standing upon clouds, the saint is shown already in glory, a member of the Church Triumphant, interceding for the faithful below. His story exemplifies the paradox at the heart of Christian martyrdom: by losing one's life for Christ, one gains it eternally (Matthew 16:25).",
+  "scripture_refs": [
+    {"ref": "REV.7.9-14", "relevance": "primary", "reason": "The great multitude in white robes with palm branches — those who came through the great tribulation"},
+    {"ref": "MAT.16.25", "relevance": "primary", "reason": "Whoever loses his life for my sake will find it — the theology of martyrdom"},
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and I will give you the crown of life — promise to martyrs"},
+    {"ref": "PHP.1.21", "relevance": "allusion", "reason": "For to me to live is Christ and to die is gain — the martyr's confidence"},
+    {"ref": "2TI.4.7-8", "relevance": "allusion", "reason": "I have fought the good fight — the crown of righteousness awaiting the faithful"}
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "triumphant",
+    "serene",
+    "sacred"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000997",
+    "title": "Fresco in San Pantalon in Venice, Scene: Holy Martyr, fragment",
+    "artist": "Pietro Longhi",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "characters": [
+    {"name": "Adam", "type": "PERSON"},
+    {"name": "Eve", "type": "PERSON"}
+  ],
+  "event": "Adam and Eve in the Garden of Eden",
+  "tags": ["adam-and-eve", "garden-of-eden", "paradise", "creation", "innocence", "lush-vegetation", "first-couple", "paradise-lost"],
+  "symbols": [
+    "dense lush forest — the pristine Garden of Eden, creation untouched by the curse",
+    "stream of water in the foreground — the river flowing out of Eden to water the garden (Genesis 2:10)",
+    "brilliant light breaking through the canopy — the presence and glory of God in the garden",
+    "Eve reclining on the ground — her creation from Adam, rest in original innocence before the Fall",
+    "Adam seated upright gazing at Eve — the first recognition of the companion God has given, 'bone of my bones'",
+    "tropical and exotic vegetation — the paradisiacal abundance of the pre-Fall world"
+  ],
+  "description": "In a dense, lush forest scene rendered in dramatic black and white, a muscular man sits upright on the ground gazing down at a woman who reclines beside him. Towering tropical trees, ferns, and hanging vines surround them, their canopy opening to reveal brilliant light streaming in from beyond. A small stream or pool lies in the foreground. Birds can be seen in the distance among the trees. The atmosphere is primeval, abundant, and tranquil.",
+  "theological_description": "This scene depicts the first human couple in the Garden of Eden before the Fall, in the state of original innocence and righteousness. Adam's attentive gaze upon Eve captures the moment of Genesis 2:23: 'This at last is bone of my bones and flesh of my flesh.' The luxuriant garden represents creation as God intended it — 'very good' (Genesis 1:31) — a world of harmony between humanity, nature, and the Creator. The light streaming through the canopy suggests the divine presence that walked in the garden 'in the cool of the day' (Genesis 3:8). As an illustration from Milton's Paradise Lost, it also carries the poignant weight of dramatic irony: this peace will not last. Patristic writers like Irenaeus saw Adam and Eve as immature children who needed to grow into the divine likeness — their innocence was real but untested. Paul's typology in Romans 5:14 identifies Adam as a 'type of the one who was to come,' making every depiction of Eden simultaneously a pointer to Christ the New Adam and Mary the New Eve, through whom paradise is restored. The flowing water prefigures both the rivers of Eden (Genesis 2:10) and the eschatological river of life (Revelation 22:1).",
+  "scripture_refs": [
+    {"ref": "GEN.2.7-8", "relevance": "primary", "reason": "God forming Adam and placing him in the Garden of Eden"},
+    {"ref": "GEN.2.21-23", "relevance": "primary", "reason": "The creation of Eve and Adam's first recognition of her — the scene depicted"},
+    {"ref": "GEN.1.31", "relevance": "allusion", "reason": "God saw everything he had made and it was very good — the unspoiled paradise shown here"},
+    {"ref": "GEN.2.10", "relevance": "allusion", "reason": "A river flowed out of Eden to water the garden — the stream in the foreground"},
+    {"ref": "ROM.5.14", "relevance": "typological", "reason": "Adam as a type of Christ — every Eden scene points forward to redemption"},
+    {"ref": "REV.22.1-2", "relevance": "typological", "reason": "The river of the water of life in the New Jerusalem — eschatological fulfillment of Eden's river"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["innocence", "wonder", "tranquility", "majesty"],
+  "period": "Creation",
+  "_meta": {
+    "key": "0001053",
+    "title": "Adam and Eve",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

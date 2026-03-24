@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Crowd", "type": "GROUP"}
+  ],
+  "event": "Jesus teaching or ministering among the crowds",
+  "tags": [
+    "jesus-christ",
+    "crowd",
+    "teaching",
+    "halo",
+    "public-ministry",
+    "compassion",
+    "gathering"
+  ],
+  "symbols": [
+    "golden halo — divine glory and sanctity of Christ",
+    "blue robes — heavenly origin and divinity",
+    "crowd pressing in — the multitudes who sought Jesus",
+    "city in background — Jerusalem or a Galilean town as setting for ministry"
+  ],
+  "description": "A bearded man identified as Jesus Christ stands at the right, depicted with a large golden circular halo. He wears flowing blue robes and looks toward a dense crowd of men, women, and children who press toward him from the left. Some figures reach out; others bow or kneel. The crowd wears muted garments of brown, green, and grey. Behind them, stone buildings and dark clouds form the backdrop of a city scene. The image uses bold outlines and flat color areas.",
+  "theological_description": "This image captures the essence of Christ's public ministry — the God-man present among ordinary people, accessible to the multitudes. The golden halo marks His divine nature shining through His humanity, fulfilling Isaiah's prophecy that the people walking in darkness have seen a great light (Isaiah 9:2). The crowd pressing toward Jesus recalls numerous Gospel accounts: the Sermon on the Mount, the feeding of the multitudes, and the many occasions when throngs sought His teaching and healing. Jesus' posture of engagement rather than withdrawal embodies the Incarnation itself — God not remaining distant but dwelling among His people (John 1:14). The scene evokes Matthew 9:36, where Jesus saw the crowds and had compassion on them because they were harassed and helpless, like sheep without a shepherd. Christ is the Good Shepherd who does not flee from His flock but gives Himself to them entirely.",
+  "scripture_refs": [
+    {"ref": "MAT.9.35-36", "relevance": "primary", "reason": "Jesus went through all the towns teaching and healing, moved with compassion for the crowds"},
+    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us — the Incarnation depicted as Christ among the people"},
+    {"ref": "ISA.9.2", "relevance": "typological", "reason": "The people walking in darkness have seen a great light — fulfilled in Christ's public ministry"},
+    {"ref": "MRK.6.34", "relevance": "allusion", "reason": "Jesus saw a large crowd and had compassion on them and began to teach them"},
+    {"ref": "LUK.4.18-19", "relevance": "allusion", "reason": "The Spirit of the Lord is upon me to proclaim good news — Christ's mission to the multitudes"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "earnest",
+    "hopeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000996",
+    "title": "Jesus Christ",
+    "artist": "Esther Newport",
+    "model": "claude-opus-4-6"
+  }
+}

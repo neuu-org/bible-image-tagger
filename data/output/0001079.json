@@ -1,0 +1,105 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Lamentation over the Dead Christ (Pieta)",
+  "tags": [
+    "pieta",
+    "lamentation",
+    "dead-christ",
+    "passion",
+    "mater-dolorosa",
+    "deposition",
+    "grief",
+    "redemptive-suffering",
+    "wound-of-christ",
+    "compassion",
+    "burial-preparation",
+    "sorrowful-mother"
+  ],
+  "symbols": [
+    "dead body of Christ on Mary's lap — the Pieta motif: the Mother receives back the Son she offered to the world at the Incarnation",
+    "blue mantle of the Virgin — her heavenly purity and queenship, even in deepest sorrow",
+    "wound in Christ's side — the lance wound from which flowed blood and water, source of the sacraments",
+    "arched architectural setting — the Church as shelter and frame for the Paschal mystery",
+    "open sky visible through the arch — hope of Resurrection beyond the darkness of death",
+    "clasped hands of the mourner at right — intense personal grief and prayerful devotion",
+    "youth at upper left — Saint John, the beloved disciple entrusted with the care of Mary at the Cross"
+  ],
+  "description": "The dead body of Christ lies horizontally across the lap of the seated Virgin Mary, who wears a deep blue mantle and veil. She gazes down at her son with restrained sorrow. Christ's body is pale and limp, with visible wounds on his side and hands. Two figures support the body: at left, a young man in red and blue garments holds Christ's upper body; at right, a kneeling figure in red and green cradles Christ's legs with hands clasped in grief. Behind, at upper left, a youthful figure looks upward in anguish; at upper right, an elderly bearded man in blue gazes down solemnly.",
+  "theological_description": "The Pieta — the Virgin holding the dead body of her Son — is among the most theologically dense subjects in Christian art. It compresses the entire arc of salvation: the Incarnation (the same body Mary held as an infant she now holds in death), the Passion (the visible wounds testifying to the price of redemption), and the implicit promise of Resurrection (the architectural opening to the sky). Mary's sorrow fulfills Simeon's prophecy that a sword would pierce her soul (Luke 2:35), making her suffering a participation in her Son's redemptive act. The theological tradition of compassio Mariae holds that Mary's grief was not mere human bereavement but a co-suffering with Christ that made her the first and most perfect disciple. The surrounding figures represent the faithful remnant: John the beloved disciple, Mary Magdalene, Nicodemus, and Joseph of Arimathea — those who remained when others fled. Christ's wounds, particularly the side wound from which John 19:34 records blood and water flowing, were understood by the Fathers as the source of the sacraments of Eucharist and Baptism. Thus the Pieta is simultaneously a scene of death and a fountainhead of the Church's sacramental life.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea and Nicodemus take the body of Jesus for burial — the narrative setting of the lamentation"
+    },
+    {
+      "ref": "LUK.2.34-35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword will pierce Mary's soul, fulfilled in this moment of supreme grief"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and the beloved disciple at the Cross — the figures surrounding Christ in lamentation"
+    },
+    {
+      "ref": "JHN.19.34",
+      "relevance": "typological",
+      "reason": "Blood and water from Christ's pierced side, visible in the wound — source of sacramental life for the Church"
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant, wounded for our transgressions — the theological meaning of the broken body displayed"
+    },
+    {
+      "ref": "PSA.22.16-18",
+      "relevance": "typological",
+      "reason": "The Psalmist's prophetic description of the pierced one, whose garments are divided — prefiguring Christ's Passion"
+    },
+    {
+      "ref": "ROM.5.8",
+      "relevance": "allusion",
+      "reason": "God demonstrates his love in that while we were sinners, Christ died for us — the redemptive significance of the death shown"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "solemnity",
+    "tenderness",
+    "reverence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001079",
+    "title": "Pieta",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

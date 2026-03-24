@@ -1,7 +1,13 @@
 {
   "characters": [
-    {"name": "Saint Severin of Cologne", "type": "PERSON"},
-    {"name": "Travelers and townspeople", "type": "GROUP"}
+    {
+      "name": "Saint Severin of Cologne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Travelers and townspeople",
+      "type": "GROUP"
+    }
   ],
   "event": "Church of St. Severin in a fictive landscape setting",
   "tags": [
@@ -37,26 +43,56 @@
     "distant second steeple — the communion of saints across many congregations",
     "green landscape — God's provision and the goodness of creation"
   ],
-  "description": "A wide panoramic landscape centered on a medieval church complex with a prominent tall spire rising above surrounding stone buildings and towers. A fortified gatehouse with an arched entry stands to the left. Stone walls enclose the ecclesiastical precinct. Several small figures walk along a broad unpaved road leading toward the church; two travelers sit resting in the right foreground near a large rounded structure. Mature trees with full green foliage frame both sides. The sky is vast and luminous, pale blue with soft white clouds. In the far left distance, another church steeple is faintly visible. The overall atmosphere is peaceful and idyllic.",
+  "description": "A wide panoramic landscape centered on a medieval church complex with a prominent tall spire rising above surrounding stone buildings and towers. A fortified gatehouse with an arched entry stands to the left. Stone walls enclose the ecclesiastical precinct. Several small figures walk along a broad unpaved road leading toward the church; two travelers sit resting in the right foreground near a large rounded structure. Mature trees with full green foliage frame both sides. The sky is vast and luminous, pale blue with soft white clouds.",
   "theological_description": "This painting presents the church building as the spiritual and physical center of the Christian community, reflecting the ecclesiological conviction that the gathered worshiping body is central to civic and spiritual life. The Church of St. Severin, named for the fourth-century bishop of Cologne known for his pastoral care and prophetic gifts, represents the enduring presence of the Church across centuries. The fictive setting elevates the particular church into an idealized vision of the Church universal — the ecclesia visible in the world. The spire reaching heavenward embodies the theological principle of sursum corda, directing the community's gaze from earthly concerns toward the transcendent. The city walls evoke Psalm 48's celebration of Zion, the city of the great King, beautiful in its elevation. The road leading to the church recalls Psalm 122:1, 'I was glad when they said to me, Let us go to the house of the Lord.' The small figures going about daily life around the church reflect the integration of faith into the rhythms of ordinary existence, fulfilling the vocation described in Jeremiah 29:7 to seek the welfare of the city. As a landscape rather than a narrative scene, the painting functions as a visual meditation on the Church as the enduring dwelling place of God among his people (Revelation 21:3), while the travelers resting along the way recall the pilgrim theology of Hebrews 13:14: here we have no lasting city, but we seek the city that is to come.",
   "scripture_refs": [
-    {"ref": "PSA.48.1-2", "relevance": "typological", "reason": "Great is the Lord and greatly to be praised in the city of our God — the church as the beautiful hill of Zion in the earthly landscape"},
-    {"ref": "PSA.122.1", "relevance": "allusion", "reason": "I was glad when they said to me, Let us go to the house of the Lord — the church as joyful destination for the faithful"},
-    {"ref": "MAT.5.14", "relevance": "typological", "reason": "A city set on a hill cannot be hidden — the church spire dominating the landscape as visible witness to the world"},
-    {"ref": "MAT.16.18", "relevance": "typological", "reason": "On this rock I will build my Church — the enduring physical church as sign of Christ's promise against the gates of hell"},
-    {"ref": "REV.21.2-3", "relevance": "typological", "reason": "The holy city, new Jerusalem, coming down from God — the earthly church as foretaste of the heavenly dwelling"},
-    {"ref": "JER.29.7", "relevance": "allusion", "reason": "Seek the welfare of the city — the integration of church and civic life depicted in the townspeople's daily activity"},
-    {"ref": "EPH.2.19-22", "relevance": "typological", "reason": "The household of God built on the foundation of apostles and prophets — the church as a holy temple in the Lord"},
-    {"ref": "HEB.13.14", "relevance": "allusion", "reason": "Here we have no lasting city but we seek the city to come — the travelers resting along the pilgrim way"}
+    {
+      "ref": "PSA.48.1-2",
+      "relevance": "typological",
+      "reason": "Great is the Lord and greatly to be praised in the city of our God — the church as the beautiful hill of Zion in the earthly landscape"
+    },
+    {
+      "ref": "PSA.122.1",
+      "relevance": "allusion",
+      "reason": "I was glad when they said to me, Let us go to the house of the Lord — the church as joyful destination for the faithful"
+    },
+    {
+      "ref": "MAT.5.14",
+      "relevance": "typological",
+      "reason": "A city set on a hill cannot be hidden — the church spire dominating the landscape as visible witness to the world"
+    },
+    {
+      "ref": "MAT.16.18",
+      "relevance": "typological",
+      "reason": "On this rock I will build my Church — the enduring physical church as sign of Christ's promise against the gates of hell"
+    },
+    {
+      "ref": "REV.21.2-3",
+      "relevance": "typological",
+      "reason": "The holy city, new Jerusalem, coming down from God — the earthly church as foretaste of the heavenly dwelling"
+    },
+    {
+      "ref": "JER.29.7",
+      "relevance": "allusion",
+      "reason": "Seek the welfare of the city — the integration of church and civic life depicted in the townspeople's daily activity"
+    },
+    {
+      "ref": "EPH.2.19-22",
+      "relevance": "typological",
+      "reason": "The household of God built on the foundation of apostles and prophets — the church as a holy temple in the Lord"
+    },
+    {
+      "ref": "HEB.13.14",
+      "relevance": "allusion",
+      "reason": "Here we have no lasting city but we seek the city to come — the travelers resting along the pilgrim way"
+    }
   ],
   "scene_type": "landscape",
   "mood": [
     "tranquility",
     "serenity",
     "nostalgia",
-    "reverence",
-    "peacefulness",
-    "pastoral-calm"
+    "reverence"
   ],
   "period": "Non-biblical",
   "_meta": {

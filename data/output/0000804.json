@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "David", "type": "PERSON"},
+    {"name": "Lamb", "type": "OTHER"},
+    {"name": "Lion", "type": "OTHER"}
+  ],
+  "event": "David slays the lion to protect his flock",
+  "tags": [
+    "david-the-shepherd",
+    "slain-lion",
+    "rescued-lamb",
+    "triumph",
+    "shepherd",
+    "divine-protection",
+    "youthful-hero",
+    "wilderness",
+    "good-shepherd",
+    "defender-of-the-flock"
+  ],
+  "symbols": [
+    "lamb cradled in arm — the helpless sheep rescued by the faithful shepherd, prefiguring Christ the Good Shepherd who lays down his life for the sheep",
+    "slain lion — the predatory power of evil defeated; David's victory foreshadows Christ's triumph over Satan, the roaring lion",
+    "raised hand pointing heavenward — thanksgiving and attribution of victory to God, not to human strength",
+    "shepherd's tunic — humble pastoral vocation from which God raises up the king of Israel",
+    "rocky wilderness — the dangerous terrain of faithfulness, where God proves and prepares His chosen servants"
+  ],
+  "description": "A young, barefoot shepherd boy sits triumphantly atop the body of a slain lion whose mouth hangs open in death. The boy cradles a small white lamb tenderly in his right arm while raising his left hand upward toward heaven in a gesture of praise. He wears a simple light-colored tunic. Behind him, a dark and rugged mountainous landscape rises steeply. The lamb nestles peacefully against the boy's chest, contrasting with the massive, lifeless predator beneath him.",
+  "theological_description": "David's slaying of the lion (and bear) to protect his father's sheep is among the most typologically rich episodes of the Old Testament. In 1 Samuel 17:34-37, David recounts this deed to Saul as proof that God who delivered him from the paw of the lion will also deliver him from Goliath. The Church Fathers — Origen, Augustine, and Gregory the Great — read David the shepherd as a type of Christ the Good Shepherd (John 10:11), who rescues the lost lamb of humanity from the jaws of the devil. The slain lion prefigures Christ's conquest over Satan, whom 1 Peter 5:8 describes as 'a roaring lion seeking someone to devour.' David's raised hand acknowledges that the victory belongs to God alone (1 Samuel 17:47), just as Christ's triumph over death is accomplished by divine power. The lamb cradled against the shepherd's breast echoes Isaiah 40:11: 'He will gather the lambs in his arms.' The youth of David, chosen over his elder brothers, fulfills the biblical pattern of God's preferential election of the lowly (1 Corinthians 1:27). From this shepherd boy God will raise up the royal line from which the Messiah descends (Romans 1:3).",
+  "scripture_refs": [
+    {"ref": "1SA.17.34", "relevance": "primary", "reason": "David tells Saul he killed a lion and bear to rescue his father's sheep"},
+    {"ref": "1SA.17.37", "relevance": "primary", "reason": "The Lord who delivered me from the paw of the lion will deliver me from the Philistine"},
+    {"ref": "JHN.10.11", "relevance": "typological", "reason": "I am the Good Shepherd who lays down his life for the sheep — David as Christ-type"},
+    {"ref": "1PE.5.8", "relevance": "typological", "reason": "The devil prowls like a roaring lion — the slain lion prefigures Satan's defeat"},
+    {"ref": "ISA.40.11", "relevance": "typological", "reason": "He will gather the lambs in his arms — the tender shepherd cradling the rescued lamb"},
+    {"ref": "PSA.23.1", "relevance": "allusion", "reason": "The Lord is my shepherd — David who shepherds the flock is himself shepherded by God"},
+    {"ref": "ROM.1.3", "relevance": "typological", "reason": "The Messiah descended from David according to the flesh — the shepherd-king's royal lineage"},
+    {"ref": "1SA.16.11", "relevance": "allusion", "reason": "David the youngest, keeping sheep, chosen by God over his brothers"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["triumph", "tenderness", "gratitude"],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0000804",
+    "title": "The Shepherd David Triumphant",
+    "artist": "Elizabeth Jane Gardner",
+    "model": "claude-opus-4-6"
+  }
+}

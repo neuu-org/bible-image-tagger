@@ -1,7 +1,13 @@
 {
   "characters": [
-    {"name": "Saint Secunda", "type": "PERSON"},
-    {"name": "Saint Rufina", "type": "PERSON"}
+    {
+      "name": "Saint Secunda",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Rufina",
+      "type": "PERSON"
+    }
   ],
   "event": "Martyrdom of Saints Secunda and Rufina",
   "tags": [
@@ -38,22 +44,48 @@
   "description": "A tightly cropped scene showing two female figures in intimate proximity. A woman with dark hair and a faint golden halo gazes downward with calm, sorrowful composure. She wears a white garment partially displaced, revealing her shoulder, with red fabric beneath. Beside her, a younger figure with golden curly hair looks upward, mouth slightly open in anguish or ecstasy. A hand enters from the upper right, pointing or reaching toward them. The background is deeply dark, concentrating all light on the luminous skin and faces of the two figures.",
   "theological_description": "The martyrdom of Saints Secunda and Rufina, traditionally dated to 257 AD under Emperor Valerian, embodies the theology of witness through blood. These two sisters refused to sacrifice to pagan gods and to marry pagan suitors, choosing death over apostasy. Their story exemplifies the early Church's conviction that martyrdom is a second baptism — a baptism of blood that unites the believer directly to Christ's Passion. The protective posture of the elder sister over the younger evokes the communion of saints and mutual strengthening in faith. Secunda's serene downward gaze reflects the Pauline theology of Philippians 1:21, 'to die is gain,' while Rufina's upward gaze anticipates the beatific vision, recalling Stephen's heavenly vision at his own martyrdom (Acts 7:55-56). Together they typologically recall the faithful witnesses of Revelation 12:11 who 'conquered by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death.' The red fabric beneath them signals their imminent blood-shedding, while the mysterious hand from above may represent either the executioner or the hand of God receiving their sacrifice.",
   "scripture_refs": [
-    {"ref": "REV.12.11", "relevance": "typological", "reason": "The saints overcome through testimony and willingness to die, paralleling the martyrs who conquer by the blood of the Lamb"},
-    {"ref": "MAT.10.28", "relevance": "primary", "reason": "Jesus's command not to fear those who kill the body but cannot kill the soul undergirds the entire theology of martyrdom depicted here"},
-    {"ref": "PHP.1.21", "relevance": "allusion", "reason": "Secunda's serene composure reflects Paul's declaration that to live is Christ and to die is gain"},
-    {"ref": "ACT.7.55-56", "relevance": "typological", "reason": "Rufina's upward gaze parallels Stephen's vision of heaven opened at his martyrdom, the archetype of Christian witness unto death"},
-    {"ref": "ROM.8.35-39", "relevance": "allusion", "reason": "Neither death nor persecution can separate the saints from the love of Christ — the theological foundation of the martyrs' courage"},
-    {"ref": "2TI.4.7-8", "relevance": "typological", "reason": "The saints have fought the good fight and kept the faith, awaiting the crown of righteousness"},
-    {"ref": "REV.6.9-11", "relevance": "typological", "reason": "The souls of martyrs under the altar cry out for vindication — Secunda and Rufina join this heavenly company"}
+    {
+      "ref": "REV.12.11",
+      "relevance": "typological",
+      "reason": "The saints overcome through testimony and willingness to die, paralleling the martyrs who conquer by the blood of the Lamb"
+    },
+    {
+      "ref": "MAT.10.28",
+      "relevance": "primary",
+      "reason": "Jesus's command not to fear those who kill the body but cannot kill the soul undergirds the entire theology of martyrdom depicted here"
+    },
+    {
+      "ref": "PHP.1.21",
+      "relevance": "allusion",
+      "reason": "Secunda's serene composure reflects Paul's declaration that to live is Christ and to die is gain"
+    },
+    {
+      "ref": "ACT.7.55-56",
+      "relevance": "typological",
+      "reason": "Rufina's upward gaze parallels Stephen's vision of heaven opened at his martyrdom, the archetype of Christian witness unto death"
+    },
+    {
+      "ref": "ROM.8.35-39",
+      "relevance": "allusion",
+      "reason": "Neither death nor persecution can separate the saints from the love of Christ — the theological foundation of the martyrs' courage"
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "typological",
+      "reason": "The saints have fought the good fight and kept the faith, awaiting the crown of righteousness"
+    },
+    {
+      "ref": "REV.6.9-11",
+      "relevance": "typological",
+      "reason": "The souls of martyrs under the altar cry out for vindication — Secunda and Rufina join this heavenly company"
+    }
   ],
   "scene_type": "narrative",
   "mood": [
     "tenderness",
     "anguish",
     "serenity",
-    "devotion",
-    "pathos",
-    "solemnity"
+    "devotion"
   ],
   "period": "Non-biblical",
   "_meta": {

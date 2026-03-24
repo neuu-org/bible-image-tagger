@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {"name": "Saint Bonaventure", "type": "PERSON"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Angels and putti", "type": "ANGEL"},
+    {"name": "Franciscan friars", "type": "GROUP"},
+    {"name": "Attendant figures", "type": "GROUP"}
+  ],
+  "event": "Saint Bonaventure receiving the Banner of the Holy Sepulchre from the Madonna",
+  "tags": [
+    "holy-sepulchre",
+    "banner",
+    "franciscan-order",
+    "divine-commission",
+    "intercession",
+    "virgin-mary",
+    "heavenly-investiture",
+    "custodianship",
+    "devotion",
+    "putti",
+    "chiaroscuro"
+  ],
+  "symbols": [
+    "Banner of the Holy Sepulchre handed down from heaven — divine commissioning of a sacred mission, recalling Christ's Great Commission (Mt 28:18-19)",
+    "Madonna enthroned in glory above — the Queen of Heaven dispensing grace and mission, exalted as intercessor for the Church",
+    "Bonaventure kneeling in Franciscan habit — humility of the servant receiving a divine charge, echoing Isaiah's 'Here am I! Send me' (Isa 6:8)",
+    "Franciscan friars kneeling as witnesses — the community of faith present at the divine commissioning, the body through which Christ's work continues",
+    "Dramatic diagonal of light through darkness — the irruption of divine grace into human history, light shining in darkness (Jn 1:5)",
+    "Angels bridging heaven and earth — ministering spirits serving those who inherit salvation (Heb 1:14)"
+  ],
+  "description": "The Madonna is enthroned upon clouds at upper right, draped in red and blue, surrounded by angels and putti. She presents a large banner — the standard of the Holy Sepulchre — cascading diagonally across the composition. Below left, Saint Bonaventure kneels in a dark Franciscan habit, head raised, receiving the banner. Behind him, Franciscan friars and other figures kneel in devotion. Putti appear at the base. A column rises at left. Deep browns, reds, and luminous flesh tones dominate against a dark background.",
+  "theological_description": "This painting depicts Saint Bonaventure (1221-1274), the Seraphic Doctor and Minister General of the Franciscan Order, receiving the Banner of the Holy Sepulchre from the Madonna in a visionary commission. The enthroned figure is the Virgin Mary, placing the scene within the tradition of Marian patronage of the Franciscan order. The banner connects to Franciscan custodianship of the holy sites in Jerusalem, entrusted to the order by Pope Clement VI in 1342, though Franciscan presence in the Holy Land began with Francis visiting the Sultan in 1219. The painting presents this custodianship as divinely ordained: the Madonna herself entrusts care of her Son's burial place to the Franciscan family. The Holy Sepulchre is where Christ was buried and rose — the empty tomb foundational to Christian faith: 'If Christ has not been raised, your faith is futile' (1 Cor 15:17). To bear its banner is to witness to the resurrection. Bonaventure's kneeling reception echoes scriptural commissioning scenes: Moses before the burning bush (Ex 3), Isaiah before God's throne (Isa 6), and the Great Commission (Mt 28:18-20). The Franciscan community below reminds us that grace given to the saint overflows into the mission of the entire order.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.18-20",
+      "relevance": "primary",
+      "reason": "All authority in heaven and on earth has been given to me. Go therefore — the Great Commission providing the paradigm for a sacred mission entrusted from heaven"
+    },
+    {
+      "ref": "1CO.15.3-4",
+      "relevance": "primary",
+      "reason": "Christ died for our sins, was buried, and was raised on the third day — the kerygma of death, burial, and resurrection that the Holy Sepulchre enshrines"
+    },
+    {
+      "ref": "ISA.6.1-8",
+      "relevance": "typological",
+      "reason": "I saw the Lord upon a throne, high and lifted up; Here am I! Send me — the prophetic commissioning vision echoed in the saint kneeling before the enthroned Madonna"
+    },
+    {
+      "ref": "JHN.20.1-18",
+      "relevance": "typological",
+      "reason": "The account of the empty tomb — the Holy Sepulchre whose custodianship the banner symbolizes is where Mary Magdalene first encountered the risen Lord"
+    },
+    {
+      "ref": "HEB.1.14",
+      "relevance": "allusion",
+      "reason": "Are they not all ministering spirits sent out to serve? — the angels attending the heavenly commission as divine ministers"
+    },
+    {
+      "ref": "REV.5.6-14",
+      "relevance": "allusion",
+      "reason": "The Lamb who was slain, receiving worship from angels — the heavenly court scene informing the staging of the enthroned figure surrounded by heavenly beings"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "majestic", "solemn", "reverent"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000553",
+    "title": "St. Bonaventura Receiving the Banner of St. Sepulchre from the Madonna",
+    "artist": "Francesco Solimena",
+    "model": "claude-opus-4-6"
+  }
+}

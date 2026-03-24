@@ -1,8 +1,17 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Angels", "type": "ANGEL"},
-    {"name": "Cherubs/Putti", "type": "ANGEL"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Cherubs/Putti",
+      "type": "ANGEL"
+    }
   ],
   "event": "Eucharistic Vision of Christ in the Chalice",
   "tags": [
@@ -30,16 +39,49 @@
   "description": "A pen and ink drawing depicting Christ standing half-length within a large chalice or goblet. His torso is bare and his arms are slightly extended. Two larger angels flank him on either side, supporting or attending him. Radiant light emanates from above Christ's head. Below the chalice, two smaller putti or cherubs crouch, one on each side, helping to support the base of the vessel. The composition is symmetrical and devotional in character.",
   "theological_description": "This eucharistic image presents one of the most profound mysteries of Christian theology: the Real Presence of Christ in the sacrament of the Eucharist. By depicting Christ standing bodily within the chalice, Palma il Giovane renders visible what faith confesses -- that the cup of the Lord's Supper truly contains the body and blood of Christ (1 Corinthians 10:16). The image synthesizes the Last Supper ('This is my blood of the covenant, poured out for many,' Mark 14:24) with the sacrificial theology of Hebrews, where Christ is simultaneously the high priest and the offering. His exposed body recalls the Man of Sorrows tradition, linking the Eucharist inseparably to the Passion: every celebration of the sacrament is an anamnesis, a making-present of Calvary. The flanking angels evoke the cherubim who guarded the Ark of the Covenant and the mercy seat (Exodus 25:18-20), now transposed to the New Covenant altar. The radiance from above signifies the epiclesis, the invocation of the Holy Spirit who transforms bread and wine into the body and blood of Christ. The putti supporting the chalice below suggest that the entire created order participates in and is sustained by this central mystery. Typologically, the chalice recalls Melchizedek's offering of bread and wine (Genesis 14:18), the Passover cup of Exodus, and the cup of salvation in Psalm 116:13.",
   "scripture_refs": [
-    {"ref": "1CO.10.16", "relevance": "primary", "reason": "The cup of blessing is a participation in the blood of Christ -- the direct theological content of the image"},
-    {"ref": "MRK.14.22-24", "relevance": "primary", "reason": "The institution of the Eucharist at the Last Supper: This is my body, this is my blood of the covenant"},
-    {"ref": "HEB.9.11-14", "relevance": "typological", "reason": "Christ as high priest entering the heavenly sanctuary with his own blood, not the blood of goats"},
-    {"ref": "EXO.25.18-20", "relevance": "typological", "reason": "The cherubim flanking the mercy seat on the Ark prefigure the angels attending Christ in the chalice"},
-    {"ref": "GEN.14.18", "relevance": "typological", "reason": "Melchizedek's offering of bread and wine as a type of the Eucharistic sacrifice"},
-    {"ref": "PSA.116.13", "relevance": "allusion", "reason": "I will lift up the cup of salvation and call on the name of the Lord"},
-    {"ref": "JHN.6.53-56", "relevance": "primary", "reason": "Unless you eat the flesh of the Son of Man and drink his blood, you have no life in you"}
+    {
+      "ref": "1CO.10.16",
+      "relevance": "primary",
+      "reason": "The cup of blessing is a participation in the blood of Christ -- the direct theological content of the image"
+    },
+    {
+      "ref": "MRK.14.22-24",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist at the Last Supper: This is my body, this is my blood of the covenant"
+    },
+    {
+      "ref": "HEB.9.11-14",
+      "relevance": "typological",
+      "reason": "Christ as high priest entering the heavenly sanctuary with his own blood, not the blood of goats"
+    },
+    {
+      "ref": "EXO.25.18-20",
+      "relevance": "typological",
+      "reason": "The cherubim flanking the mercy seat on the Ark prefigure the angels attending Christ in the chalice"
+    },
+    {
+      "ref": "GEN.14.18",
+      "relevance": "typological",
+      "reason": "Melchizedek's offering of bread and wine as a type of the Eucharistic sacrifice"
+    },
+    {
+      "ref": "PSA.116.13",
+      "relevance": "allusion",
+      "reason": "I will lift up the cup of salvation and call on the name of the Lord"
+    },
+    {
+      "ref": "JHN.6.53-56",
+      "relevance": "primary",
+      "reason": "Unless you eat the flesh of the Son of Man and drink his blood, you have no life in you"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["mystical", "reverent", "solemn", "transcendent", "sacred"],
+  "mood": [
+    "mystical",
+    "reverent",
+    "solemn",
+    "transcendent"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0000225",

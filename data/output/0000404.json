@@ -1,94 +1,43 @@
 {
   "characters": [
-    "Jesus Christ",
-    "Disciples (in the boat)"
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Disciples", "type": "GROUP"}
   ],
-  "event": "Jesus walks on water toward the disciples' boat during a storm on the Sea of Galilee",
+  "event": "Jesus walks on the water toward the disciples' boat during a storm on the Sea of Galilee",
   "tags": [
-    "Christianity",
-    "Jesus-Christ",
+    "walking-on-water",
     "miracle",
-    "walking on water",
-    "Sea of Galilee",
+    "sea-of-galilee",
     "storm",
-    "disciples",
-    "boat",
-    "divine power",
-    "faith",
-    "fear",
     "theophany",
-    "luminous",
-    "Aivazovsky",
-    "Romanticism",
-    "seascape"
+    "divine-glory",
+    "boat",
+    "faith-and-fear",
+    "radiant-light",
+    "sovereignty-over-nature"
   ],
   "symbols": [
-    "radiant golden light surrounding the figure of Jesus — the divine glory, the shekinah presence of God, the light shining in the darkness that the darkness cannot overcome",
-    "turbulent dark sea with crashing waves — the chaos and danger of the world, the primordial deep over which God's Spirit hovered, the forces of death and disorder",
-    "Jesus standing upon the waves — divine sovereignty over nature and the forces of chaos, the Creator who set boundaries for the sea now treading upon it",
-    "small boat tossed in the storm with huddled disciples — the Church in the world, the community of faith assailed by trials yet not destroyed",
-    "contrast between brilliant light around Christ and surrounding darkness — the cosmic struggle between light and darkness, the coming of divine salvation into a dark and terrified world",
-    "the disciples' upward gaze toward the approaching figure — the posture of faith recognizing the divine presence amid terror and confusion"
+    "radiant golden light surrounding Jesus — the shekinah glory of God, the divine presence shining in darkness",
+    "turbulent dark sea with crashing waves — the primordial chaos over which God alone has dominion",
+    "Jesus standing upon the waves — divine sovereignty over creation, an act Scripture attributes exclusively to YHWH",
+    "small boat tossed in the storm — the Church assailed by trials yet sustained by Christ's presence",
+    "contrast of brilliant light and surrounding darkness — the light shining in the darkness that the darkness cannot overcome"
   ],
-  "description": "A dramatic Romantic seascape painting depicting a luminous figure of Jesus Christ walking upon a dark, turbulent sea. Christ stands at the upper center of the composition, his body surrounded by an intense golden-white radiance that illuminates the waves beneath his feet and pierces the dark storm clouds above. He wears flowing robes of pale rose and blue. To the lower left, a small boat with several huddled figures is visible among the dark, churning waves, the disciples looking up toward the approaching figure. The sea is rendered in deep greens, blues, and blacks with white-capped breakers catching the supernatural light. The sky is dark and stormy except where Christ's radiance breaks through. The overall composition creates a powerful vertical axis of light descending from Christ to the water's surface against a horizontal expanse of darkness. Signed at lower left.",
-  "theological_description": "Aivazovsky's magnificent rendering of Jesus walking on the water captures one of the most theologically dense miracles in the Gospels. The event is recorded in Matthew 14:22-33, Mark 6:45-52, and John 6:16-21, each account emphasizing different dimensions of its meaning. At the most fundamental level, this is a theophany -- a revelation of divine identity. When Jesus says 'It is I; do not be afraid' (Mark 6:50), the Greek ego eimi echoes the divine name revealed to Moses at the burning bush: 'I AM WHO I AM' (Exodus 3:14). Aivazovsky's treatment makes this theophanic dimension visually overwhelming: Christ is not merely a man defying physics but a being of radiant glory whose very presence transforms the darkness around him. The Old Testament consistently reserves authority over the sea as a divine prerogative. God alone 'trampled the waves of the sea' (Job 9:8); God alone 'stilled the roaring of the seas' (Psalm 65:7); God alone 'set a boundary that the waters may not pass' (Psalm 104:9). When Jesus walks on the water, he is performing an act that Scripture attributes exclusively to YHWH, and the disciples' response -- 'Truly you are the Son of God' (Matthew 14:33) -- is the appropriate theological conclusion. The storm-tossed boat carrying the frightened disciples has been understood since the earliest centuries of the Church as an image of the ecclesia -- the community of faith navigating the dangers and chaos of the present age. The boat is small, the sea is vast and dark, and the disciples are powerless against the storm. But Christ comes to them -- walking upon the very forces that threaten to destroy them. This is the Gospel in visual form: humanity cannot save itself from the chaos of sin and death; salvation comes from outside, from the one who has authority over all the powers of destruction. The dramatic contrast of light and darkness that Aivazovsky paints with such mastery is itself a theological statement. John's Gospel opens with the declaration that 'the light shines in the darkness, and the darkness has not overcome it' (John 1:5). Here that verse is rendered in oil paint: the radiance of Christ is not diminished by the surrounding darkness but rather exposes and defines it. The darkness is real, the danger is genuine, but the light is stronger.",
+  "description": "A luminous figure of Jesus Christ walks upon a dark, storm-tossed sea. Christ stands at upper center, surrounded by intense golden-white radiance that illuminates the waves beneath his feet. He wears flowing robes of pale rose and blue. At lower left, a small boat with huddled disciples is visible among churning dark waves. The sea is rendered in deep greens and blacks with white-capped breakers catching supernatural light. The sky is dark and stormy except where Christ's radiance breaks through. A powerful vertical axis of light descends from Christ to the water's surface.",
+  "theological_description": "Aivazovsky's rendering captures one of the most theologically dense miracles in the Gospels. The event, recorded in Matthew 14, Mark 6, and John 6, is fundamentally a theophany -- a revelation of divine identity. When Jesus says 'It is I; do not be afraid,' the Greek ego eimi echoes the divine name revealed to Moses: 'I AM WHO I AM' (Exodus 3:14). The Old Testament reserves authority over the sea as a divine prerogative: God alone 'trampled the waves of the sea' (Job 9:8) and 'stilled the roaring of the seas' (Psalm 65:7). When Jesus walks on water, he performs an act attributed exclusively to YHWH, prompting the disciples' confession: 'Truly you are the Son of God' (Matthew 14:33). The storm-tossed boat has been understood since the earliest centuries as an image of the ecclesia navigating the chaos of the present age. Christ comes to them walking upon the very forces that threaten destruction -- the Gospel in visual form: salvation comes from outside, from the one who has authority over all powers of death. The dramatic light-darkness contrast embodies John 1:5: 'the light shines in the darkness, and the darkness has not overcome it.'",
   "scripture_refs": [
-    {
-      "ref": "Matt.14.25-27",
-      "relevance": "primary",
-      "reason": "Jesus came walking toward them on the sea and said, Take heart; it is I. Do not be afraid -- the direct biblical event depicted in the painting"
-    },
-    {
-      "ref": "Mark.6.48-50",
-      "relevance": "primary",
-      "reason": "He came to them walking on the sea and meant to pass by them -- Mark's account emphasizing the theophanic nature of the event"
-    },
-    {
-      "ref": "John.6.19-20",
-      "relevance": "primary",
-      "reason": "They saw Jesus walking on the sea and coming near the boat, and they were frightened -- John's account of the same miracle"
-    },
-    {
-      "ref": "Job.9.8",
-      "relevance": "primary",
-      "reason": "He alone stretched out the heavens and trampled the waves of the sea -- walking on water is a divine prerogative that Jesus exercises, revealing his divine identity"
-    },
-    {
-      "ref": "John.1.5",
-      "relevance": "allusion",
-      "reason": "The light shines in the darkness and the darkness has not overcome it -- the dramatic radiance of Christ against the dark storm embodies this Johannine theme"
-    },
-    {
-      "ref": "Exod.3.14",
-      "relevance": "typological",
-      "reason": "I AM WHO I AM -- Jesus's ego eimi on the water echoes the divine name, identifying him with YHWH"
-    },
-    {
-      "ref": "Ps.65.7",
-      "relevance": "allusion",
-      "reason": "He stilled the roaring of the seas, the roaring of their waves -- God's exclusive authority over the chaotic sea, now exercised by Christ"
-    },
-    {
-      "ref": "Ps.107.28-30",
-      "relevance": "allusion",
-      "reason": "They cried to the LORD in their trouble and he delivered them from their distress; he made the storm be still -- the pattern of divine rescue from the sea"
-    },
-    {
-      "ref": "Matt.14.33",
-      "relevance": "primary",
-      "reason": "Those in the boat worshiped him saying, Truly you are the Son of God -- the disciples' confession of Christ's divine identity in response to the miracle"
-    }
+    {"ref": "MAT.14.25-33", "relevance": "primary", "reason": "The direct account of Jesus walking on the sea and the disciples' confession of his divine identity"},
+    {"ref": "MRK.6.48-52", "relevance": "primary", "reason": "Mark's account emphasizing the theophanic nature of Jesus walking on the sea"},
+    {"ref": "JHN.6.19-21", "relevance": "primary", "reason": "John's account of the disciples seeing Jesus walking on the sea and being frightened"},
+    {"ref": "JOB.9.8", "relevance": "typological", "reason": "God alone trampled the waves of the sea -- walking on water as a divine prerogative Jesus exercises"},
+    {"ref": "EXO.3.14", "relevance": "typological", "reason": "I AM WHO I AM -- Jesus's ego eimi on the water echoes the divine name"},
+    {"ref": "PSA.65.7", "relevance": "allusion", "reason": "He stilled the roaring of the seas -- God's exclusive authority over chaotic waters, now exercised by Christ"},
+    {"ref": "JHN.1.5", "relevance": "allusion", "reason": "The light shines in the darkness and the darkness has not overcome it -- the radiance of Christ against the dark storm"},
+    {"ref": "PSA.107.28-30", "relevance": "allusion", "reason": "They cried to the LORD in their trouble and he delivered them; he made the storm be still"}
   ],
-  "scene_type": "miracle",
-  "mood": [
-    "awe-inspiring",
-    "dramatic",
-    "luminous",
-    "fearful",
-    "transcendent",
-    "majestic"
-  ],
-  "period": "Public Ministry of Jesus",
+  "scene_type": "narrative",
+  "mood": ["awe", "fear", "transcendence", "majesty"],
+  "period": "Gospel",
   "_meta": {
     "key": "0000404",
     "title": "Jesus walks on water",

@@ -1,10 +1,25 @@
 {
   "characters": [
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Joseph", "type": "PERSON"},
-    {"name": "Shepherds", "type": "GROUP"},
-    {"name": "Angels", "type": "ANGEL"}
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
   ],
   "event": "Nativity of Jesus",
   "tags": [
@@ -35,16 +50,49 @@
   "description": "Within an arched architectural frame, the infant Jesus lies naked on the ground at the center. The Virgin Mary kneels in prayer at the right, wearing blue robes. Joseph sits at the far left, leaning pensively. Several shepherds kneel and stand in adoration around the child. Behind them, a classical ruined structure with columns frames the scene. In the upper lunette, a group of angels hovers in the sky, some playing instruments, celebrating the birth. An ox and possibly an ass are visible at the far right. A distant landscape with hills extends through the archway.",
   "theological_description": "The Nativity is the definitive moment of the Incarnation, when the eternal Word who was with God and was God (John 1:1) takes on human flesh and dwells among us. Perugino places the infant directly on the bare ground, emphasizing the kenosis described in Philippians 2:6-8 -- Christ, though in the form of God, emptied Himself and took the form of a servant. The ruined classical architecture speaks to the passing of the old order: the Law and the Prophets find their fulfillment in this child. The shepherds, summoned by angels from the fields of Bethlehem (Luke 2:8-14), represent God's preferential revelation to the lowly and marginal -- a theme that will define Jesus' entire ministry. The angels in the lunette sing the Gloria, announcing peace on earth to those on whom God's favor rests. Mary's prayerful kneeling posture reflects her role as the first adorer and the Ark of the New Covenant who bears the divine presence. Joseph's contemplative repose echoes his role as righteous guardian, obedient to divine direction through dreams. Typologically, the birth in Bethlehem fulfills Micah 5:2, and the ox and ass recall Isaiah 1:3 -- the animals know their owner, but Israel does not know God, yet now in this manger God makes Himself known to all.",
   "scripture_refs": [
-    {"ref": "LUK.2.1-20", "relevance": "primary", "reason": "The Lukan Nativity narrative: the birth in Bethlehem, the manger, the shepherds, and the angelic announcement"},
-    {"ref": "JHN.1.1-14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us -- the theological foundation of the Incarnation depicted here"},
-    {"ref": "PHP.2.6-8", "relevance": "typological", "reason": "Christ's self-emptying (kenosis), taking the form of a servant, shown by the naked infant on bare ground"},
-    {"ref": "MIC.5.2", "relevance": "typological", "reason": "Prophecy that from Bethlehem shall come a ruler who will shepherd Israel"},
-    {"ref": "ISA.1.3", "relevance": "typological", "reason": "The ox knows its owner -- the presence of animals at the manger fulfills this prophetic image"},
-    {"ref": "MAT.1.18-25", "relevance": "primary", "reason": "The Matthean account of Joseph's role and the virgin birth fulfilling Isaiah 7:14"},
-    {"ref": "LUK.2.13-14", "relevance": "primary", "reason": "The heavenly host praising God -- Glory to God in the highest -- depicted in the lunette angels"}
+    {
+      "ref": "LUK.2.1-20",
+      "relevance": "primary",
+      "reason": "The Lukan Nativity narrative: the birth in Bethlehem, the manger, the shepherds, and the angelic announcement"
+    },
+    {
+      "ref": "JHN.1.1-14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us -- the theological foundation of the Incarnation depicted here"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ's self-emptying (kenosis), taking the form of a servant, shown by the naked infant on bare ground"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "typological",
+      "reason": "Prophecy that from Bethlehem shall come a ruler who will shepherd Israel"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "typological",
+      "reason": "The ox knows its owner -- the presence of animals at the manger fulfills this prophetic image"
+    },
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "primary",
+      "reason": "The Matthean account of Joseph's role and the virgin birth fulfilling Isaiah 7:14"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "primary",
+      "reason": "The heavenly host praising God -- Glory to God in the highest -- depicted in the lunette angels"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["joyful", "reverent", "peaceful", "tender", "sacred", "celebratory"],
+  "mood": [
+    "joyful",
+    "reverent",
+    "peaceful",
+    "tender"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0000194",

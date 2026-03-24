@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {"name": "Ploughman", "type": "PERSON"},
+    {"name": "Horses", "type": "OTHER"}
+  ],
+  "event": "Rural ploughing scene in the English countryside",
+  "tags": ["ploughing", "countryside", "rural-life", "fields", "clouds", "harvest-preparation", "pastoral", "agricultural-labor", "open-sky"],
+  "symbols": [
+    "ploughing — biblical metaphor for spiritual preparation of the heart to receive the seed of God's word",
+    "vast sky with clouds — evokes divine providence and the Creator's sovereignty over the earth",
+    "open fields — the world as a field ready for sowing, echoing Christ's parable of the sower",
+    "trees at field's edge — the settled, rooted life of those who dwell on the land God provides"
+  ],
+  "description": "A wide panoramic landscape under a towering sky filled with luminous cream and grey clouds. In the middle distance, a man guides a plough drawn by two horses across a brown, freshly turned field. The foreground and right side are framed by clusters of dark trees, while beyond the ploughed area a green patchwork of meadows and hedgerows stretches to a far, hazy horizon. The light breaks through the clouds at center, casting a warm glow over the expansive rural scene.",
+  "theological_description": "",
+  "scripture_refs": [
+    {"ref": "LUK.9.62", "relevance": "allusion", "reason": "Jesus' saying that no one who puts his hand to the plough and looks back is fit for the kingdom of God"},
+    {"ref": "MAT.13.3-8", "relevance": "allusion", "reason": "The parable of the sower — ploughing prepares the soil that receives the seed of the word"},
+    {"ref": "PSA.65.9-13", "relevance": "allusion", "reason": "God's provision for the earth through rain and harvest, crowning the year with bounty"},
+    {"ref": "GEN.3.17-19", "relevance": "allusion", "reason": "The mandate to work the ground by the sweat of one's brow after the Fall"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["peaceful", "expansive", "contemplative"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000915",
+    "title": "Landscape Ploughing Scene In Suffolk",
+    "artist": "John Constable",
+    "model": "claude-opus-4-6"
+  }
+}

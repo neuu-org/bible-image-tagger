@@ -1,113 +1,117 @@
 {
   "characters": [
-    "Jesus Christ",
-    "Virgin Mary",
-    "Saint John the Baptist",
-    "Saint Peter",
-    "Saint Paul",
-    "Archangel Michael",
-    "angels",
-    "saints",
-    "patriarchs",
-    "the damned",
-    "the saved"
-  ],
-  "event": "The Last Judgment at the end of time, when Christ enthroned in glory separates the righteous from the wicked",
-  "tags": [
-    "Christianity",
-    "Last-Judgment",
-    "Jesus-Christ",
-    "Virgin-Mary",
-    "eschatology",
-    "Second-Coming",
-    "resurrection",
-    "angels",
-    "saints",
-    "heaven",
-    "hell",
-    "damnation",
-    "salvation",
-    "cross",
-    "Pacheco",
-    "Baroque",
-    "Spanish-painting",
-    "Counter-Reformation",
-    "Deesis",
-    "throne-of-glory"
-  ],
-  "symbols": [
-    "Christ enthroned at the summit of the composition in radiant glory — the Son of Man coming in his glory to judge the living and the dead, seated upon the throne of his majesty as foretold in Matthew 25:31",
-    "the Virgin Mary and Saint John the Baptist flanking Christ in the Deesis arrangement — the two principal intercessors of Christian tradition, representing the fullness of humanity's plea before the divine Judge",
-    "the large wooden cross held aloft at the center of the composition — the instrument of salvation displayed as the standard of judgment, the sign of the Son of Man appearing in heaven (Matthew 24:30), by which all humanity is measured",
-    "angels with trumpets summoning the dead — the great trumpet blast of the last day (1 Thessalonians 4:16), the angelic ministers executing God's final decree",
-    "the separation of figures into upper heavenly realm and lower earthly chaos — the division of sheep from goats, the righteous ascending to glory while the condemned are cast down into perdition",
-    "saints and patriarchs arrayed in clouds around the throne — the great cloud of witnesses (Hebrews 12:1), the communion of saints gathered in heavenly worship at the consummation of all things",
-    "naked and exposed figures at the bottom of the composition — the dead raised from their graves, stripped of all earthly pretension, standing vulnerable before the all-seeing Judge"
-  ],
-  "description": "A monumental vertical composition depicting the Last Judgment in the Counter-Reformation Baroque style. At the apex, Christ sits enthroned in brilliant golden light, flanked by the Virgin Mary and Saint John the Baptist in the traditional Deesis arrangement. Below them, a large wooden cross is held upright at the center by angelic figures. Rows of saints, apostles, and patriarchs in richly colored robes are arranged in concentric cloud-banks around the heavenly court. In the middle register, angels with outstretched wings act as agents of divine justice. At the bottom, newly risen figures in various states of nakedness emerge from the earth, some being drawn upward toward salvation, others falling or being driven downward toward damnation. The palette is warm and luminous in the heavenly zone, darkening toward turbulence at the base.",
-  "theological_description": "Francisco Pacheco's Last Judgment of 1614 represents one of the great eschatological subjects of Christian art, the culminating event of salvation history when Christ returns in glory to render final judgment upon all humanity. This painting faithfully follows the Western iconographic tradition established in medieval tympana and brought to its supreme expression in Michelangelo's Sistine Chapel fresco, yet inflects it through the lens of Spanish Counter-Reformation piety. The tripartite vertical structure -- heavenly court above, angelic mediation in the middle, and the tumult of resurrection and judgment below -- mirrors the theological reality that the Last Judgment is simultaneously an act of divine sovereignty, angelic ministry, and human reckoning. Christ at the summit is the fulfillment of his own prophecy: 'When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne. Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats' (Matthew 25:31-32). The prominence of the cross at the center is profoundly significant: it is not merely a decorative element but the criterion of judgment itself. The cross is the sign by which all human history is evaluated -- those who embraced its scandal are saved, those who rejected it are condemned. As Paul wrote, 'the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God' (1 Corinthians 1:18). The Deesis composition -- Mary and the Baptist flanking Christ -- expresses the ancient Christian conviction that even at the moment of judgment, intercession continues; the Mother of God and the greatest born of women plead on behalf of trembling humanity. The saints arrayed in glory around the throne are not passive spectators but active participants in the judicial act: 'Do you not know that the saints will judge the world?' (1 Corinthians 6:2). The naked figures rising from the earth below embody the doctrine of bodily resurrection -- the dead do not remain dust but are reconstituted in their bodies to face the Judge, for 'we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body, whether good or evil' (2 Corinthians 5:10). Pacheco, who was also the chief censor of religious art for the Inquisition in Seville and the author of 'Arte de la Pintura,' painted this work with deliberate theological precision, ensuring that every detail conforms to orthodox Catholic doctrine regarding the Four Last Things: death, judgment, heaven, and hell.",
-  "scripture_refs": [
     {
-      "ref": "Matt.25.31-46",
-      "relevance": "primary",
-      "reason": "When the Son of Man comes in his glory he will sit on his throne and separate the sheep from the goats -- the central biblical text for the Last Judgment, directly depicted in the painting's composition"
+      "name": "Jesus Christ",
+      "type": "DEITY"
     },
     {
-      "ref": "Rev.20.11-15",
-      "relevance": "primary",
-      "reason": "The great white throne judgment and the opening of the books, the dead judged according to what they had done -- the apocalyptic vision of final judgment that underlies the entire scene"
+      "name": "Virgin Mary",
+      "type": "PERSON"
     },
     {
-      "ref": "Matt.24.30-31",
-      "relevance": "primary",
-      "reason": "The sign of the Son of Man will appear in heaven, and he will send his angels with a loud trumpet call to gather his elect -- the cross displayed in heaven and the angelic trumpeters depicted in the painting"
+      "name": "John the Baptist",
+      "type": "PERSON"
     },
     {
-      "ref": "1Cor.1.18",
-      "relevance": "primary",
-      "reason": "The word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God -- the cross held aloft at the center as the standard by which humanity is judged"
+      "name": "Archangel Michael",
+      "type": "ANGEL"
     },
     {
-      "ref": "2Cor.5.10",
-      "relevance": "primary",
-      "reason": "We must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body -- the naked risen figures standing before Christ in judgment"
+      "name": "Apostles",
+      "type": "GROUP"
     },
     {
-      "ref": "1Thess.4.16",
-      "relevance": "secondary",
-      "reason": "The Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God -- the angels sounding the trumpet of the last day"
+      "name": "Saints and Patriarchs",
+      "type": "GROUP"
     },
     {
-      "ref": "1Cor.6.2",
-      "relevance": "secondary",
-      "reason": "Do you not know that the saints will judge the world -- the saints arrayed around the throne as participants in the act of judgment"
+      "name": "Angels",
+      "type": "GROUP"
     },
     {
-      "ref": "Heb.12.1",
-      "relevance": "allusion",
-      "reason": "Since we are surrounded by so great a cloud of witnesses -- the saints and patriarchs gathered in the heavenly clouds around the throne of Christ"
+      "name": "The Saved",
+      "type": "GROUP"
     },
     {
-      "ref": "Dan.7.9-10",
-      "relevance": "allusion",
-      "reason": "Thrones were placed and the Ancient of Days took his seat; the court sat in judgment and the books were opened -- the Old Testament prophetic vision of the heavenly tribunal"
-    },
-    {
-      "ref": "John.5.28-29",
-      "relevance": "secondary",
-      "reason": "The hour is coming when all who are in the tombs will hear his voice and come out, those who have done good to the resurrection of life and those who have done evil to the resurrection of judgment -- the bodily resurrection of the dead depicted at the bottom of the painting"
+      "name": "The Damned",
+      "type": "GROUP"
     }
   ],
-  "scene_type": "eschatological",
-  "mood": [
-    "awe-inspiring",
-    "majestic",
-    "solemn",
-    "dramatic",
-    "terrifying",
-    "glorious"
+  "event": "The Last Judgment, when Christ enthroned in glory separates the righteous from the wicked at the end of time",
+  "tags": [
+    "last-judgment",
+    "second-coming",
+    "resurrection-of-the-dead",
+    "deesis",
+    "throne-of-glory",
+    "cross",
+    "angels",
+    "saints",
+    "heaven-and-hell",
+    "separation-of-souls",
+    "eschatology",
+    "trumpet"
   ],
-  "period": "Eschatological / End of Time",
+  "symbols": [
+    "Christ enthroned at the summit in radiant glory — the Son of Man coming to judge the living and the dead",
+    "the large wooden cross held aloft at center — the instrument of salvation displayed as the standard of judgment, the sign of the Son of Man appearing in heaven",
+    "Mary and John the Baptist flanking Christ in Deesis — the two principal intercessors pleading on behalf of trembling humanity",
+    "angels with trumpets summoning the dead — the great trumpet blast of the last day",
+    "separation of figures into heavenly realm above and earthly chaos below — the division of sheep from goats",
+    "naked figures at the bottom — the dead raised from graves, stripped of pretension before the all-seeing Judge"
+  ],
+  "description": "A monumental vertical composition depicting the Last Judgment. At the apex, Christ sits enthroned in golden light, flanked by the Virgin Mary and John the Baptist in the Deesis arrangement. Below, a large wooden cross is held upright by angelic figures. Rows of saints, apostles, and patriarchs in richly colored robes are arranged in concentric cloud-banks around the heavenly court. In the middle register, angels with outstretched wings act as agents of divine justice.",
+  "theological_description": "Pacheco's Last Judgment represents the culminating event of salvation history when Christ returns in glory to render final judgment upon all humanity. Christ at the summit fulfills his own prophecy: 'When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne. Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats' (Matthew 25:31-32). The cross at center is not decorative but the criterion of judgment itself -- the standard by which all human history is evaluated. As Paul wrote, 'the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God' (1 Corinthians 1:18). The Deesis composition expresses the conviction that even at judgment, intercession continues. The saints arrayed in glory participate in the judicial act: 'Do you not know that the saints will judge the world?' (1 Corinthians 6:2). The naked rising figures embody bodily resurrection: 'we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body' (2 Corinthians 5:10).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.31-46",
+      "relevance": "primary",
+      "reason": "The Son of Man on his throne separating sheep from goats -- the central biblical text for the Last Judgment"
+    },
+    {
+      "ref": "REV.20.11-15",
+      "relevance": "primary",
+      "reason": "The great white throne judgment and the dead judged according to their deeds"
+    },
+    {
+      "ref": "MAT.24.30-31",
+      "relevance": "primary",
+      "reason": "The sign of the Son of Man in heaven and angels gathering the elect with a trumpet -- the cross and angelic trumpeters depicted"
+    },
+    {
+      "ref": "2CO.5.10",
+      "relevance": "primary",
+      "reason": "We must all appear before the judgment seat of Christ -- the risen figures standing before the Judge"
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "allusion",
+      "reason": "The word of the cross is the power of God -- the cross held aloft as the standard of judgment"
+    },
+    {
+      "ref": "DAN.7.9-10",
+      "relevance": "typological",
+      "reason": "The Ancient of Days took his seat; the court sat in judgment and the books were opened -- Old Testament vision of the heavenly tribunal"
+    },
+    {
+      "ref": "JHN.5.28-29",
+      "relevance": "allusion",
+      "reason": "All in the tombs will hear his voice and come out to resurrection of life or judgment"
+    },
+    {
+      "ref": "1CO.6.2",
+      "relevance": "allusion",
+      "reason": "The saints will judge the world -- saints arrayed around the throne as participants in judgment"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "awe",
+    "solemnity",
+    "terror",
+    "glory"
+  ],
+  "period": "Eschatological",
   "_meta": {
     "key": "0000454",
     "title": "The Last Judgment",

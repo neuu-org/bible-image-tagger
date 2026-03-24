@@ -2,7 +2,7 @@
   "characters": [
     {
       "name": "Virgin Mary",
-      "type": "HOLY_FIGURE"
+      "type": "PERSON"
     },
     {
       "name": "Jesus Christ",
@@ -10,18 +10,18 @@
     },
     {
       "name": "Apostle Peter",
-      "type": "APOSTLE"
+      "type": "PERSON"
     },
     {
       "name": "Apostle Paul",
-      "type": "APOSTLE"
+      "type": "PERSON"
     },
     {
       "name": "Apostle John",
-      "type": "APOSTLE"
+      "type": "PERSON"
     },
     {
-      "name": "Apostles and disciples",
+      "name": "Apostles and Disciples",
       "type": "GROUP"
     },
     {
@@ -31,82 +31,68 @@
   ],
   "event": "The Dormition (Falling Asleep) of the Virgin Mary",
   "tags": [
-    "Dormition",
-    "Assumption of Mary",
-    "death of the Virgin",
-    "apostles gathered",
-    "heavenly assumption",
+    "dormition",
+    "assumption-of-mary",
+    "death-of-the-virgin",
+    "apostles-gathered",
+    "heavenly-assumption",
     "mandorla",
-    "illuminated manuscript",
-    "French Gothic art",
-    "blue and gold",
-    "liturgical art",
-    "Book of Hours",
-    "Marian devotion",
+    "marian-devotion",
     "seraphim",
-    "celestial glory",
-    "deathbed scene"
+    "celestial-glory",
+    "deathbed-scene",
+    "liturgical-prayer"
   ],
   "symbols": [
     "mandorla of fire and gold — the divine glory surrounding the assumed Virgin, the heavenly realm breaking into earth",
     "blue robe on the deathbed — Mary's traditional color of heavenly purity and queenship, even in death",
-    "white-robed ascending figure — Mary's soul or glorified body received into heaven, clothed in the white of sanctity",
-    "gathered apostles — the Church assembled at the passing of its Mother, witness to the eschatological hope of bodily resurrection",
+    "white-robed ascending figure — Mary's soul or glorified body received into heaven, clothed in sanctity",
+    "gathered apostles — the Church assembled at the passing of its Mother, witness to the hope of bodily resurrection",
     "candles and liturgical objects — the deathbed as sacred liturgy, death transformed into holy transit",
     "angels in the upper register — heavenly hosts receiving the Queen of Heaven into paradise",
-    "open book held by apostle — the prayers for the dying, the Word of God that accompanies the faithful in death",
+    "open book held by apostle — the prayers for the dying, the Word of God accompanying the faithful in death",
     "gold background — the eternal realm of divine presence into which Mary passes"
   ],
-  "description": "A richly illuminated painting in the style of a Book of Hours, showing the Virgin Mary lying on a draped deathbed in the lower register, her body clothed in deep blue, hands folded, eyes closed. Around her bed, the twelve apostles are gathered in attitudes of prayer, grief, and reverence, some holding candles and liturgical books. Peter stands near the head in priestly vestments. In the upper register, within a blazing mandorla of flame and gold, the figure of Mary in white stands in prayer, being received into heaven. Christ or an angelic figure appears at the apex. Blue rays radiate outward behind the mandorla. Latin text runs along the bottom border. The palette is dominated by ultramarine blue and burnished gold.",
-  "theological_description": "Jean Fouquet's luminous Dormition synthesizes the two great Marian doctrines that developed across East and West: the Dormition (koimesis) -- Mary's peaceful falling asleep in death -- and the Assumption -- her bodily taking up into heavenly glory. The lower register presents the ancient tradition, attested from at least the fifth century in texts like the Transitus Mariae, that all the apostles were miraculously transported to Mary's bedside for her final hour. This gathering is ecclesiologically significant: as Mary stood at the foot of the cross when the Church was born (John 19:25-27), so the whole apostolic Church stands at her deathbed when she departs. The upper register enacts the theology of the Assumption: Mary, the Ark of the New Covenant who bore the incarnate Word in her womb, is not abandoned to corruption but taken body and soul into glory. The fiery mandorla surrounding her ascent recalls the imagery of Revelation 12:1, the woman clothed with the sun, whom the Church Fathers from Ephrem the Syrian onward identified with Mary. The theological logic is Pauline: if Christ is the firstfruits of the resurrection (1 Corinthians 15:20-23), Mary as the first and most faithful disciple is the first to share fully in that resurrection. Fouquet's composition makes this visible -- Christ receives his mother in the upper realm just as she received him in her womb at the Annunciation (Luke 1:38). The gathered apostles with their liturgical books and candles transform the scene into the prototype of every Christian funeral: death is not extinction but dormition, a falling asleep from which one awakes in glory. The psalm text along the bottom border ('Deus in adiutorium meum intende' -- O God, come to my assistance) is the opening versicle of the Divine Office, embedding Mary's transit within the ceaseless prayer of the Church. The overwhelming blue and gold palette -- Fouquet's signature -- is itself theological: blue for the created world sanctified by grace, gold for the uncreated divine light that transfigures all creation.",
+  "description": "The Virgin Mary lies on a draped deathbed in the lower register, clothed in deep blue with hands folded and eyes closed. Around her bed, the twelve apostles gather in attitudes of prayer, grief, and reverence, some holding candles and liturgical books. Peter stands near the head in priestly vestments. In the upper register, within a blazing mandorla of flame and gold, a figure of Mary in white stands in prayer, being received into heaven. Christ or an angelic figure appears at the apex. Blue rays radiate outward behind the mandorla. Latin text runs along the bottom border.",
+  "theological_description": "This luminous Dormition synthesizes the two great Marian doctrines that developed across East and West: the Dormition (koimesis) -- Mary's peaceful falling asleep in death -- and the Assumption -- her bodily taking up into heavenly glory. The lower register presents the ancient tradition, attested from at least the fifth century in texts like the Transitus Mariae, that all the apostles were miraculously transported to Mary's bedside for her final hour. This gathering is ecclesiologically significant: as Mary stood at the foot of the cross when the Church was born (John 19:25-27), so the whole apostolic Church stands at her deathbed. The upper register enacts the theology of the Assumption: Mary, the Ark of the New Covenant who bore the incarnate Word in her womb, is not abandoned to corruption but taken body and soul into glory. The fiery mandorla surrounding her ascent recalls the imagery of Revelation 12:1, the woman clothed with the sun, whom the Church Fathers identified with Mary. The theological logic is Pauline: if Christ is the firstfruits of the resurrection (1 Corinthians 15:20-23), Mary as the first and most faithful disciple is the first to share fully in that resurrection. Christ receives his mother in the upper realm just as she received him in her womb at the Annunciation (Luke 1:38). The gathered apostles with their liturgical books and candles transform the scene into the prototype of every Christian funeral: death is not extinction but dormition, a falling asleep from which one awakes in glory. The psalm text along the bottom border ('Deus in adiutorium meum intende') is the opening versicle of the Divine Office, embedding Mary's transit within the ceaseless prayer of the Church.",
   "scripture_refs": [
     {
-      "ref": "Rev.12.1",
+      "ref": "REV.12.1",
       "relevance": "typological",
       "reason": "The woman clothed with the sun, identified by patristic tradition with Mary, is visually echoed in the blazing mandorla of her assumption"
     },
     {
-      "ref": "Luke.1.28",
+      "ref": "LUK.1.28",
       "relevance": "allusion",
       "reason": "Mary full of grace -- her Dormition and Assumption are the fulfillment of the grace announced at the Annunciation"
     },
     {
-      "ref": "Luke.1.38",
+      "ref": "LUK.1.38",
       "relevance": "allusion",
-      "reason": "Mary's fiat -- her lifelong obedience that began at the Annunciation reaches its consummation in her peaceful death and glorification"
+      "reason": "Mary's fiat -- her lifelong obedience reaches its consummation in her peaceful death and glorification"
     },
     {
-      "ref": "John.19.25-27",
+      "ref": "JHN.19.25-27",
       "relevance": "allusion",
-      "reason": "The apostles gathered at Mary's deathbed mirror the beloved disciple receiving Mary at the cross; the Church accompanies its Mother"
+      "reason": "The apostles gathered at Mary's deathbed mirror the beloved disciple receiving Mary at the cross"
     },
     {
-      "ref": "1Cor.15.20-23",
+      "ref": "1CO.15.20-23",
       "relevance": "primary",
-      "reason": "Christ the firstfruits of resurrection; Mary's bodily assumption is the first participation in that risen glory after Christ himself"
+      "reason": "Christ the firstfruits of resurrection; Mary's bodily assumption is the first participation in that risen glory"
     },
     {
-      "ref": "Ps.132.8",
+      "ref": "PSA.132.8",
       "relevance": "typological",
-      "reason": "Arise, O LORD, to your resting place, you and the ark of your might -- applied liturgically to Mary as Ark of the Covenant taken into the heavenly temple"
+      "reason": "Arise, O LORD, to your resting place, you and the ark of your might -- applied liturgically to Mary as Ark of the Covenant"
     },
     {
-      "ref": "Ps.45.9-15",
+      "ref": "PSA.45.9-15",
       "relevance": "typological",
-      "reason": "The queen stands at the right hand in gold of Ophir -- the royal psalm applied to Mary's assumption as heavenly enthronement"
+      "reason": "The queen stands at the right hand in gold of Ophir -- the royal psalm applied to Mary's heavenly enthronement"
     },
     {
-      "ref": "Song.3.6",
-      "relevance": "typological",
-      "reason": "Who is this coming up from the wilderness like a column of smoke -- the bride ascending, read by the Fathers as Mary's transit to glory"
-    },
-    {
-      "ref": "Phil.3.20-21",
-      "relevance": "allusion",
-      "reason": "Christ will transform our lowly body to be like his glorious body -- Mary's assumption is the paradigm of this promised transformation"
-    },
-    {
-      "ref": "Ps.70.1",
+      "ref": "PSA.70.1",
       "relevance": "allusion",
       "reason": "The Latin inscription at the bottom, Deus in adiutorium meum intende, is the opening of Psalm 70 used to begin the Divine Office"
     }
@@ -116,9 +102,7 @@
     "solemn",
     "glorious",
     "reverent",
-    "luminous",
-    "transcendent",
-    "devotional"
+    "luminous"
   ],
   "period": "Apostolic",
   "_meta": {

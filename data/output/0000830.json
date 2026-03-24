@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Saint Barbara", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": [
+    "saint-portrait",
+    "female-martyr",
+    "tower",
+    "chalice",
+    "martyrdom-attribute",
+    "rocky-landscape",
+    "red-mantle",
+    "fortitude",
+    "eucharistic-symbol"
+  ],
+  "symbols": [
+    "tower in the background — Barbara's imprisonment by her father; the three windows she added symbolize the Trinity",
+    "chalice held in hand — the Eucharist, patron saint of a holy death and receiving last sacraments",
+    "red and gold mantle — martyrdom (red) and heavenly glory (gold)",
+    "rocky barren landscape — the desolation of persecution and the firmness of faith"
+  ],
+  "description": "A standing female figure in three-quarter view, wearing a red mantle over a dark dress with a golden-ochre drape. She holds a chalice in her left hand. Behind her to the left stands a stone tower with small windows, set against a rocky, barren landscape with distant cliffs and a pale sky. Her hair is long and reddish-brown, parted in the center, and she gazes gently downward with a calm expression. Small plants grow at her feet on the ground.",
+  "theological_description": "Saint Barbara is one of the Fourteen Holy Helpers, venerated since the early centuries as patron against sudden death and invoked to ensure reception of the Eucharist before dying. The tower — her signature attribute — refers to her legendary imprisonment by her pagan father Dioscorus, who confined her to prevent her conversion. Barbara secretly had three windows installed in the tower to honor the Trinity, an act of defiant confession of faith. The chalice she holds signifies her role as patron of the dying and the Eucharistic viaticum — the last communion given to the faithful at death's threshold. Her martyrdom by beheading at her father's own hand (who was then struck by lightning) connects her to themes of filial obedience transcended by obedience to God (Matt 10:37). Patristically, virgin martyrs like Barbara embody the Church as Bride of Christ (2 Cor 11:2), choosing death over apostasy, thus sharing in Christ's Passion.",
+  "scripture_refs": [
+    {"ref": "MAT.10.37", "relevance": "primary", "reason": "Whoever loves father or mother more than me is not worthy of me — Barbara chose Christ over her father"},
+    {"ref": "2CO.11.2", "relevance": "typological", "reason": "The Church presented as a pure virgin to Christ — Barbara as exemplar of virginal fidelity unto death"},
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and I will give you the crown of life — the promise underlying all martyr veneration"},
+    {"ref": "JHN.6.54", "relevance": "allusion", "reason": "Whoever eats my flesh and drinks my blood has eternal life — the chalice as Eucharistic viaticum"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["serenity", "fortitude", "devotion"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0000830",
+    "title": "St. Barbara",
+    "artist": "Giovanni Antonio Boltraffio",
+    "model": "claude-opus-4-6"
+  }
+}

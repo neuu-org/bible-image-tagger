@@ -1,0 +1,55 @@
+{
+  "characters": [
+    {"name": "Eve", "type": "PERSON"}
+  ],
+  "event": "Eve with the Forbidden Fruit",
+  "tags": [
+    "eve",
+    "forbidden-fruit",
+    "temptation",
+    "original-sin",
+    "fall-of-man",
+    "apple",
+    "knowledge-of-good-and-evil",
+    "garden-of-eden",
+    "mother-of-all-living",
+    "disobedience",
+    "desire",
+    "innocence-lost",
+    "concupiscence",
+    "human-frailty"
+  ],
+  "symbols": [
+    "apple with leaf — the forbidden fruit of the Tree of Knowledge, symbol of temptation and the desire that led to the Fall",
+    "loosened flowing hair — freedom and wildness, but also the unraveling of innocence and the disorder of concupiscence",
+    "nakedness — the state of original innocence before shame entered, or the moment just before awareness of nakedness",
+    "sideward gaze — contemplation, hesitation, or the allure of forbidden knowledge; Eve does not look at the viewer but toward something beyond",
+    "leaf still attached to fruit — the fruit freshly plucked, connecting the object to the living tree of prohibition",
+    "warm golden light on skin — the remnant glow of Edenic beauty before the Fall darkens creation"
+  ],
+  "description": "A close-up portrait of a young woman shown from the chest up, unclothed. She has long, wavy reddish-golden hair cascading over her shoulders. She holds a red apple with a green leaf still attached in her right hand, raised near her chest. Her face is turned slightly to the left, with a calm, contemplative expression and soft features. Her lips are gently closed. The background is dark, warm brown, placing all focus on her luminous face and the vivid red fruit she holds.",
+  "theological_description": "This intimate portrait isolates Eve in the decisive moment of the Fall — holding the forbidden fruit but not yet biting it, suspended in the instant between innocence and transgression. The contemplative sideward gaze suggests the internal drama described in Genesis 3:6: 'the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise.' The threefold concupiscence identified by Augustine (concupiscence of the flesh, the eyes, and the pride of life, cf. 1 John 2:16) is distilled into this single gaze of desire. Eve's beauty here is not incidental — it recalls that humanity was created 'very good' (Gen 1:31), and the tragedy of the Fall is precisely that such beauty and goodness chose rebellion. Patristically, Eve is read as a type reversed by Mary: where Eve took the fruit of disobedience, Mary received the Word in obedience (Luke 1:38). The Fathers called Mary the 'New Eve' whose fiat undid the damage of the first Eve's reach. The fruit itself, traditionally rendered as an apple (a Latin pun on malum, meaning both 'apple' and 'evil'), concentrates the whole theology of forbidden knowledge and its cost.",
+  "scripture_refs": [
+    {"ref": "GEN.3.6", "relevance": "primary", "reason": "Eve saw that the fruit was good for food, a delight to the eyes, and desired to make one wise — the exact moment depicted"},
+    {"ref": "GEN.2.17", "relevance": "primary", "reason": "God's prohibition: of the tree of knowledge you shall not eat, for in the day you eat of it you shall surely die"},
+    {"ref": "GEN.3.22", "relevance": "allusion", "reason": "The fruit confers knowledge of good and evil, making humans 'like God' in a way that leads to exile"},
+    {"ref": "1JN.2.16", "relevance": "typological", "reason": "The lust of the flesh, the lust of the eyes, and the pride of life — the threefold temptation Augustine saw prefigured in Eve's gaze"},
+    {"ref": "LUK.1.38", "relevance": "typological", "reason": "Mary's obedient fiat reverses Eve's disobedient grasp — the New Eve typology central to patristic theology"},
+    {"ref": "ROM.5.12", "relevance": "typological", "reason": "Through one transgression sin entered the world — this portrait captures the origin of that universal condition"},
+    {"ref": "GEN.3.20", "relevance": "allusion", "reason": "Eve as 'mother of all living' — her choice affects all humanity that follows"}
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplation",
+    "desire",
+    "stillness",
+    "melancholy"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0000688",
+    "title": "Eve",
+    "artist": "Hendrick Goltzius",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,9 +1,21 @@
 {
   "characters": [
-    {"name": "Azor", "type": "PERSON"},
-    {"name": "Sadoch", "type": "PERSON"},
-    {"name": "Woman (wife/mother)", "type": "PERSON"},
-    {"name": "Child", "type": "PERSON"}
+    {
+      "name": "Azor",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sadoch",
+      "type": "PERSON"
+    },
+    {
+      "name": "Woman (wife/mother)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Child",
+      "type": "PERSON"
+    }
   ],
   "event": "The ancestors of Christ in the genealogy of Jesus: Azor and Sadoch",
   "tags": [
@@ -34,14 +46,39 @@
   "description": "A lunette composition divided by a central stone tablet inscribed with the names AZOR and SADOCH. On the left, a woman in pink and coral robes sits turned slightly inward, gazing downward while tending a small child beside her. On the right, an older bearded man in an orange-gold mantle sits pensively with his head resting on his right hand, elbow propped on his knee. Both figures occupy stone ledges against a warm ochre background. Below the tablet, a decorative circular motif with a ram's skull fills the spandrel. The palette is warm throughout with terracotta, gold, and muted rose hues.",
   "theological_description": "This lunette belongs to Michelangelo's series depicting the ancestors of Christ listed in Matthew's genealogy (Matt 1:13-14). Azor and Sadoch represent links in the chain of generations stretching from the Babylonian exile to the birth of Jesus. Theologically, these otherwise obscure figures embody the hidden providence of God working through ordinary families across centuries of apparent silence. The woman and child emphasize that the messianic promise was carried forward through the mundane faithfulness of marriage and childbearing. The contemplative posture of the elder figure suggests the weight of exile and the patient endurance of Israel awaiting its redemption. Michelangelo's placement of these ancestors on the ceiling of the Sistine Chapel elevates them to cosmic significance, declaring that every generation in the genealogy participates in the divine plan of incarnation. They are typological forerunners whose quiet lives made possible the fullness of time when God sent forth His Son, born of a woman.",
   "scripture_refs": [
-    {"ref": "MAT.1.13", "relevance": "primary", "reason": "Azor is named in the genealogy of Jesus as son of Eliakim and father of Sadoch"},
-    {"ref": "MAT.1.14", "relevance": "primary", "reason": "Sadoch is named as son of Azor and father of Achim in the Matthean genealogy"},
-    {"ref": "GAL.4.4", "relevance": "typological", "reason": "The fullness of time theology — God working through generations to bring forth the Messiah born of a woman"},
-    {"ref": "LUK.3.23", "relevance": "allusion", "reason": "Luke's parallel genealogy affirms the theological importance of Christ's human ancestry"},
-    {"ref": "ROM.9.5", "relevance": "typological", "reason": "Christ according to the flesh descends from the patriarchs and their successors through these generations"}
+    {
+      "ref": "MAT.1.13",
+      "relevance": "primary",
+      "reason": "Azor is named in the genealogy of Jesus as son of Eliakim and father of Sadoch"
+    },
+    {
+      "ref": "MAT.1.14",
+      "relevance": "primary",
+      "reason": "Sadoch is named as son of Azor and father of Achim in the Matthean genealogy"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "The fullness of time theology — God working through generations to bring forth the Messiah born of a woman"
+    },
+    {
+      "ref": "LUK.3.23",
+      "relevance": "allusion",
+      "reason": "Luke's parallel genealogy affirms the theological importance of Christ's human ancestry"
+    },
+    {
+      "ref": "ROM.9.5",
+      "relevance": "typological",
+      "reason": "Christ according to the flesh descends from the patriarchs and their successors through these generations"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["contemplative", "patient", "solemn", "quiet", "dignified"],
+  "mood": [
+    "contemplative",
+    "patient",
+    "solemn",
+    "quiet"
+  ],
   "period": "Intertestamental",
   "_meta": {
     "key": "0000019",

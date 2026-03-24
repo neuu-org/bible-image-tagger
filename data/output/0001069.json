@@ -1,0 +1,51 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Penitence of Mary Magdalene",
+  "tags": [
+    "penitence",
+    "repentance",
+    "contemplation",
+    "mary-magdalene",
+    "converted-sinner",
+    "heavenly-longing",
+    "vulnerability",
+    "divine-mercy",
+    "spiritual-awakening",
+    "unbound-hair",
+    "upward-gaze"
+  ],
+  "symbols": [
+    "long unbound hair — traditional attribute of Mary Magdalene, signifying her wiping of Christ's feet and her penitential humility",
+    "upward gaze — spiritual longing and turning of the soul toward God in repentance",
+    "exposed flesh — vulnerability before God, stripping away of worldly vanity",
+    "partially draped garment — transition between worldly life and spiritual conversion",
+    "dark background — the sinful past from which the penitent emerges into divine light",
+    "light falling on face — grace illuminating the repentant soul"
+  ],
+  "description": "A half-length female figure shown from the waist up, facing right, gazing upward with an expression of longing and contemplation. She has long, flowing reddish-brown hair cascading over her shoulders. Her upper body is largely uncovered, with loose drapery of muted green and lavender falling around her arms. Her left hand is raised near her head in a gesture of reflection or emotional distress. Warm light illuminates her face and torso against a deep brown background.",
+  "theological_description": "The Penitent Magdalene is one of the most enduring subjects of Christian devotion, embodying the theology of radical conversion and divine mercy. Mary Magdalene, traditionally identified as the sinful woman of Luke 7:36-50 who washed Christ's feet with her tears and dried them with her hair, became the paradigmatic figure of repentance in the Western Church. Her upward gaze signifies the reorientation of desire — the soul turning from earthly attachments toward the transcendent beauty of God. The Fathers, particularly Gregory the Great, saw in Magdalene the proof that no sin is beyond the reach of grace. Her unbound hair, once an instrument of vanity, becomes a sacramental sign of humble service to Christ. The vulnerability of her exposed form speaks to the stripping away of pretense before God, echoing Augustine's theology of confession. She embodies the Paschal mystery at a personal level: the old self dies so the new self may rise. Christ's words, 'Her sins, which are many, are forgiven, for she loved much' (Luke 7:47), establish the link between depth of repentance and abundance of love that defines the Magdalene tradition.",
+  "scripture_refs": [
+    {"ref": "LUK.7.37-38", "relevance": "primary", "reason": "The sinful woman who washed Jesus's feet with tears and dried them with her hair, traditionally identified as Magdalene"},
+    {"ref": "LUK.7.47", "relevance": "primary", "reason": "Christ's declaration that her many sins are forgiven because she loved much — the theological core of the penitent Magdalene"},
+    {"ref": "JHN.20.11-18", "relevance": "typological", "reason": "Magdalene as first witness of the Resurrection, her upward gaze anticipating the encounter with the Risen Christ"},
+    {"ref": "PSA.51.17", "relevance": "allusion", "reason": "A broken and contrite heart God will not despise — the penitential posture of the figure"},
+    {"ref": "2CO.5.17", "relevance": "typological", "reason": "The old has passed away, the new has come — Magdalene's conversion as paradigm of new creation in Christ"},
+    {"ref": "MRK.16.9", "relevance": "allusion", "reason": "Jesus first appeared to Mary Magdalene from whom he had cast out seven demons, linking her past bondage to her liberation"}
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "longing",
+    "penitence",
+    "tenderness",
+    "contemplation"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001069",
+    "title": "Study of a Female Figure Facing Right (Penitent Magdalene)",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

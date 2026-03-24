@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {"name": "Angel of the Lord", "type": "ANGEL"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Mary mother of James", "type": "PERSON"},
+    {"name": "Salome", "type": "PERSON"},
+    {"name": "Roman soldiers", "type": "GROUP"}
+  ],
+  "event": "The Angel Announces the Resurrection at the Empty Tomb",
+  "tags": ["resurrection", "empty-tomb", "angel", "holy-women", "roman-soldiers", "rolled-stone", "dawn", "easter", "fear-and-awe", "white-garments"],
+  "symbols": [
+    "angel seated on the stone — divine authority over death, the seal of the tomb broken by God's power",
+    "raised arm of the angel — proclamation of victory and the heavenly announcement",
+    "fallen soldiers — worldly power rendered helpless before the Resurrection",
+    "white robes of the angel — purity, glory, and the radiance of the new creation",
+    "kneeling woman in white — reverent faith receiving the Easter kerygma",
+    "dark sky breaking with light — the transition from the darkness of death to the dawn of resurrection"
+  ],
+  "description": "A luminous angel with large white wings sits atop a massive stone, left arm raised toward the sky, draped in flowing white cloth. Three women approach from the right: one kneels in a white garment with hands clasped, another in a red-orange robe reaches toward her, and a third stands behind in a dark mantle with a veiled head. At lower left, two or three Roman soldiers in armor have collapsed to the ground, one shielding his face. The background sky is dark and stormy at right but brightening behind the angel at upper left.",
+  "theological_description": "This painting captures the climactic moment of the Gospel narrative: the angel's announcement that Christ is risen (Matt 28:5-6; Mark 16:5-6). The Resurrection is the cornerstone of Christian faith — 'if Christ has not been raised, your faith is futile' (1 Cor 15:17). The angel seated on the rolled-away stone signifies that no human or imperial power can contain the Lord of life; the Roman guards, symbols of the authority that crucified Jesus, lie prostrate and defeated. The three women — the myrrh-bearing women of the Synoptic tradition — become the first witnesses and apostles of the Resurrection, a profound reversal in a culture where women's testimony was discounted. Their varied postures (kneeling awe, reaching, standing reverence) mirror the range of human response to the paschal mystery. The scene fulfills Old Testament typology: as Jonah emerged from the whale after three days (Matt 12:40), so Christ rises from the tomb. The dawning light recalls Isaiah's prophecy: 'The people who walked in darkness have seen a great light' (Isa 9:2).",
+  "scripture_refs": [
+    {"ref": "MAT.28.1-7", "relevance": "primary", "reason": "The angel seated on the rolled stone announces 'He is not here; he has risen' to the women at the tomb"},
+    {"ref": "MRK.16.1-7", "relevance": "primary", "reason": "Mark's account of the young man in white telling the women of the Resurrection"},
+    {"ref": "LUK.24.1-8", "relevance": "primary", "reason": "Luke's account of two angels reminding the women of Jesus' prediction of his rising"},
+    {"ref": "1CO.15.3-8", "relevance": "allusion", "reason": "Paul's kerygmatic summary: Christ died, was buried, and was raised on the third day"},
+    {"ref": "ISA.9.2", "relevance": "typological", "reason": "The great light dawning in darkness fulfilled in the Resurrection morning"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe", "triumphant", "reverent", "fearful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000958",
+    "title": "The Angel of the Lord Announcing the Resurrection",
+    "artist": "Benjamin West",
+    "model": "claude-opus-4-6"
+  }
+}

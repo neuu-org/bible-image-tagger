@@ -1,10 +1,25 @@
 {
   "characters": [
-    {"name": "Antiochus I Soter", "type": "PERSON"},
-    {"name": "Stratonice", "type": "PERSON"},
-    {"name": "Seleucus I Nicator", "type": "PERSON"},
-    {"name": "Erasistratus", "type": "PERSON"},
-    {"name": "Attendants and handmaidens", "type": "GROUP"}
+    {
+      "name": "Antiochus I Soter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Stratonice",
+      "type": "PERSON"
+    },
+    {
+      "name": "Seleucus I Nicator",
+      "type": "PERSON"
+    },
+    {
+      "name": "Erasistratus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and handmaidens",
+      "type": "GROUP"
+    }
   ],
   "event": "The physician Erasistratus discovers that Prince Antiochus is lovesick for his stepmother Stratonice",
   "tags": [
@@ -34,18 +49,47 @@
     "outstretched hand of the king — offering and self-giving, echoing the Abrahamic sacrifice gesture",
     "chiaroscuro light — divine revelation breaking into the darkness of concealment"
   ],
-  "description": "A young man lies pale and weakened on an ornate golden bed, bare-chested and draped in red cloth, his head resting on pillows. An elderly bald physician sits at his side, grasping his wrist to feel his pulse while gazing intently at his face. Behind them stands a bearded crowned king in a red robe who gestures toward a beautiful crowned woman in a flowing white gown. She stands with composed dignity, hands clasped near her chest. A kneeling handmaiden attends her, and several figures observe from the shadows. Grand Corinthian columns and classical architecture frame the scene in dramatic light and shadow.",
+  "description": "A young man lies pale and weakened on an ornate golden bed, bare-chested and draped in red cloth, his head resting on pillows. An elderly bald physician sits at his side, grasping his wrist to feel his pulse while gazing intently at his face. Behind them stands a bearded crowned king in a red robe who gestures toward a beautiful crowned woman in a flowing white gown. She stands with composed dignity, hands clasped near her chest. A kneeling handmaiden attends her, and several figures observe from the shadows.",
   "theological_description": "Though drawn from Hellenistic history rather than Scripture, the story of Antiochus and Stratonice belongs to the Seleucid dynasty that profoundly shaped the intertestamental period and is directly referenced in Daniel's prophecies of the kings of the North (Dan 11). The Seleucids would produce Antiochus IV Epiphanes, whose desecration of the Temple became the paradigmatic act of sacrilege — the abomination of desolation (Dan 11:31). This scene of a prince consumed by hidden desire for what is forbidden typologically mirrors the broader biblical theme of the human heart's concealed idolatries that only God can diagnose (Jer 17:9-10). As Erasistratus discerns the secret of Antiochus's heart through his pulse, so Scripture declares that the Lord searches the heart and tests the mind, giving to each according to his ways. The transfer of Stratonice from father to son also echoes the biblical pattern of kingdoms being given and taken away according to divine purpose (Dan 2:21). Seleucus's willingness to surrender his own wife for the life of his son carries a faint typological echo of the Father who gave what was most precious for the sake of the beloved — though here in a deeply imperfect, pagan register. The Seleucid succession preserved in this episode was necessary for the prophetic timeline leading to the Maccabean revolt and ultimately to the fullness of time in which Christ appeared.",
   "scripture_refs": [
-    {"ref": "DAN.11.5", "relevance": "primary", "reason": "The king of the South and the king of the North — the Seleucid dynasty forms the historical backdrop of Daniel's prophecy"},
-    {"ref": "DAN.2.21", "relevance": "typological", "reason": "God removes kings and sets up kings — the Seleucid succession serves divine providential purposes"},
-    {"ref": "JER.17.9", "relevance": "typological", "reason": "The heart is deceitful above all things — Antiochus's hidden passion as a type of concealed sin only God can expose"},
-    {"ref": "DAN.11.31", "relevance": "allusion", "reason": "The Seleucid line leads to Antiochus IV Epiphanes and the abomination of desolation"},
-    {"ref": "1MA.1.10", "relevance": "allusion", "reason": "The Maccabean account of the Seleucid persecution that this dynasty ultimately produced"},
-    {"ref": "PRO.13.12", "relevance": "typological", "reason": "Hope deferred makes the heart sick — the lovesickness of Antiochus as embodiment of this proverb"}
+    {
+      "ref": "DAN.11.5",
+      "relevance": "primary",
+      "reason": "The king of the South and the king of the North — the Seleucid dynasty forms the historical backdrop of Daniel's prophecy"
+    },
+    {
+      "ref": "DAN.2.21",
+      "relevance": "typological",
+      "reason": "God removes kings and sets up kings — the Seleucid succession serves divine providential purposes"
+    },
+    {
+      "ref": "JER.17.9",
+      "relevance": "typological",
+      "reason": "The heart is deceitful above all things — Antiochus's hidden passion as a type of concealed sin only God can expose"
+    },
+    {
+      "ref": "DAN.11.31",
+      "relevance": "allusion",
+      "reason": "The Seleucid line leads to Antiochus IV Epiphanes and the abomination of desolation"
+    },
+    {
+      "ref": "1MA.1.10",
+      "relevance": "allusion",
+      "reason": "The Maccabean account of the Seleucid persecution that this dynasty ultimately produced"
+    },
+    {
+      "ref": "PRO.13.12",
+      "relevance": "typological",
+      "reason": "Hope deferred makes the heart sick — the lovesickness of Antiochus as embodiment of this proverb"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["dramatic", "tense", "melancholic", "revelatory", "solemn"],
+  "mood": [
+    "dramatic",
+    "tense",
+    "melancholic",
+    "revelatory"
+  ],
   "period": "Intertestamental",
   "_meta": {
     "key": "0000027",

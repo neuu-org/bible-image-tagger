@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Saint Nicholas of Myra", "type": "PERSON"},
+    {"name": "Three youths", "type": "GROUP"}
+  ],
+  "event": "Saint Nicholas resurrects the three boys from the pickling tub",
+  "tags": [
+    "saint-nicholas",
+    "miracle",
+    "resurrection-of-the-dead",
+    "bishop",
+    "crozier",
+    "mitre",
+    "hagiography",
+    "intercession",
+    "salvation-of-the-innocent"
+  ],
+  "symbols": [
+    "bishop's crozier — pastoral authority and spiritual shepherding",
+    "mitre and vestments — episcopal office and sacramental power",
+    "three youths in the tub — innocence rescued from death through saintly intercession",
+    "blessing gesture — divine power mediated through the saint"
+  ],
+  "description": "A bishop in full liturgical vestments — a tall mitre, an ornate golden brocade cope, and a long golden crozier in his left hand — stands beside a large wooden tub. His right hand is raised in a gesture of blessing. Inside the tub, three naked young figures stand upright with their hands clasped in prayer. The setting is an interior with a stone wall and an arched window admitting light. The panel has an arched top.",
+  "theological_description": "This depicts the most famous posthumous miracle attributed to St. Nicholas of Myra: the resurrection of three boys (or young men) who had been murdered and pickled in brine by a wicked innkeeper. The legend, widely circulated from the medieval period, became a defining iconographic attribute of Nicholas. Theologically, the scene illustrates the Christian belief in the communion of saints and the power of holy intercession. Nicholas acts not by his own power but as a channel of divine grace, raising the dead just as Christ raised Lazarus and the son of the widow of Nain. The three youths emerging from the tub echo baptismal imagery — rising from death to new life through water — connecting this hagiographic miracle to the sacramental theology of baptism (Romans 6:3-4). Nicholas's episcopal vestments emphasize that this power flows through the ordained ministry of the Church.",
+  "scripture_refs": [
+    {"ref": "JHN.11.43-44", "relevance": "typological", "reason": "Christ raising Lazarus from the dead prefigures the saint's miracle of resurrection"},
+    {"ref": "ROM.6.3-4", "relevance": "typological", "reason": "Baptismal imagery of dying and rising through water parallels the youths emerging from the tub"},
+    {"ref": "2KI.4.32-35", "relevance": "typological", "reason": "Elisha raising the Shunammite's son — Old Testament precedent for prophetic resurrection miracles"},
+    {"ref": "ACT.9.40", "relevance": "allusion", "reason": "Peter raising Tabitha from the dead — apostolic precedent for saints performing resurrections"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "miraculous",
+    "solemn",
+    "reverent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000991",
+    "title": "Two Legends of St. Nicholas",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

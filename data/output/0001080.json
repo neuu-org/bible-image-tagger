@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints and Religious Figures",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Scenes from the Lives of the Virgin Mary and Mary Magdalene",
+  "tags": [
+    "fresco-cycle",
+    "life-of-the-virgin",
+    "life-of-mary-magdalene",
+    "chapel-decoration",
+    "multi-scene-narrative",
+    "annunciation",
+    "visitation",
+    "nativity-of-the-virgin",
+    "noli-me-tangere",
+    "marian-devotion",
+    "hagiography"
+  ],
+  "symbols": [
+    "multiple registers of scenes — the unfolding of salvation history told through connected episodes",
+    "Gothic arched framing — the sacred space of the chapel as a portal to heavenly realities",
+    "architectural interiors within the scenes — domestic and temple settings grounding sacred events in human life",
+    "angelic figures — divine messengers mediating between heaven and earth throughout salvation history",
+    "groupings of haloed figures — the communion of saints witnessing and participating in God's plan"
+  ],
+  "description": "A chapel wall fresco arranged in two registers beneath a pointed Gothic arch. The upper register contains three scenes separated by painted architectural frames: at left, a gathering of haloed figures in a columned interior; in the center, a scene with figures in an architectural setting with one prominent figure in a doorway; at right, a group of figures in black and white religious habits before a building. The lower register shows additional narrative scenes including what appears to be a reclining figure visited by angels at the right, and other episodes with groups of figures.",
+  "theological_description": "The Cappella Rinuccini frescoes by Giovanni da Milano present a comprehensive visual catechesis through interwoven narrative cycles from the lives of the Virgin Mary and Mary Magdalene. This pairing is theologically significant: Mary represents the path of sinless grace and obedient faith, while Magdalene represents the path of conversion and penitent love — together they encompass the full range of the Christian journey toward holiness. The multi-register format echoes the medieval understanding of Scripture's multiple senses: the historical events depicted carry moral, allegorical, and anagogical meanings simultaneously. The scenes from Mary's life — likely including her birth, presentation, and the Annunciation — trace the preparation of the vessel chosen for the Incarnation. The Magdalene scenes — possibly including her conversion, communion with the risen Christ (Noli me tangere), and her legendary later life as a hermit — show the transformative power of grace upon a repentant soul. Together the cycles proclaim that sanctity is accessible through both preserved innocence and radical conversion, and that all paths lead to the same Christ.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation to Mary, likely depicted among the Marian scenes in the upper register"
+    },
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation of Mary to Elizabeth, a common scene in Marian fresco cycles"
+    },
+    {
+      "ref": "JHN.20.17",
+      "relevance": "primary",
+      "reason": "Noli me tangere — Christ appearing to Magdalene after the Resurrection, likely depicted in the lower register"
+    },
+    {
+      "ref": "LUK.7.37-50",
+      "relevance": "allusion",
+      "reason": "The anointing by the sinful woman, traditionally linked to Magdalene's conversion and likely part of her narrative cycle"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat — Mary's canticle of praise expressing the theology of divine reversal that connects both women's stories"
+    },
+    {
+      "ref": "LUK.10.38-42",
+      "relevance": "allusion",
+      "reason": "Mary of Bethany choosing the better part, traditionally conflated with Magdalene in the Western hagiographic tradition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotion",
+    "solemnity",
+    "reverence"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001080",
+    "title": "Cappella Rinuccini",
+    "artist": "Giovanni da Milano",
+    "model": "claude-opus-4-6"
+  }
+}

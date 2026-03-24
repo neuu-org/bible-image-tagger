@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {"name": "Adam", "type": "PERSON"},
+    {"name": "Eve", "type": "PERSON"}
+  ],
+  "event": "The Fall of Man",
+  "tags": [
+    "fall-of-man",
+    "original-sin",
+    "temptation",
+    "forbidden-fruit",
+    "tree-of-knowledge",
+    "serpent",
+    "nakedness",
+    "garden-of-eden",
+    "disobedience",
+    "concupiscence",
+    "loss-of-innocence",
+    "human-frailty",
+    "protoevangelium",
+    "fig-leaves",
+    "shame"
+  ],
+  "symbols": [
+    "serpent coiled in tree — Satan the deceiver, the ancient enemy of Genesis 3 and Revelation 12:9",
+    "forbidden fruit — disobedience to God's command and the desire for forbidden knowledge",
+    "fig leaves held by Eve — shame and the first human attempt to cover sin after the Fall",
+    "nakedness — original innocence now turning to vulnerability and exposure before God",
+    "Adam reaching upward toward serpent — active participation in the transgression, not passive ignorance",
+    "Eve's pale luminous flesh contrasted with Adam's darker skin — possible visual distinction of the two created beings, male and female",
+    "tree — the Tree of the Knowledge of Good and Evil, the locus of the divine prohibition",
+    "dark curtain or canopy — the shadow of death entering creation through sin"
+  ],
+  "description": "A tall, narrow composition showing two nude figures standing beside a tree. Adam, seen from behind with muscular, tanned skin, reaches upward toward a serpent coiled among the branches above. Eve stands facing the viewer, her pale body fully visible, holding a small sprig of fig leaves at her waist. The serpent twists around the upper trunk and branches of the tree. The background is dark, with a deep blue-green drapery or canopy behind the figures. A stone or rock is visible at the base near their feet.",
+  "theological_description": "This image captures the decisive moment of the Fall, with Adam actively reaching toward the serpent and the forbidden fruit while Eve already holds fig leaves — suggesting the transgression is in progress or just completed. The scene condenses the entire drama of Genesis 3 into a single frame. The Fathers of the Church, particularly Irenaeus and Augustine, saw in this moment the catastrophic reversal of the divine order: the creature choosing autonomy over obedience, knowledge of evil over trust in God. Adam's active reach toward the serpent counters the common exegetical tradition that blamed Eve alone; here both are complicit. Eve's fig leaves evoke Genesis 3:7, the first act after the eyes of both were opened — the pitiful human attempt to cover guilt that only God's own provision of animal skins (Gen 3:21) would properly address, a foreshadowing of sacrificial atonement. Typologically, the tree of disobedience finds its reversal in the wood of the Cross, where the Second Adam undoes the ruin of the first (Rom 5:12-21). The serpent here prefigures the one whom Christ will crush (Gen 3:15, the Protoevangelium), and the nakedness of shame will be restored to glory only in the Resurrection body.",
+  "scripture_refs": [
+    {"ref": "GEN.3.6", "relevance": "primary", "reason": "The central event depicted: Eve takes the fruit and gives also to Adam, who eats"},
+    {"ref": "GEN.3.7", "relevance": "primary", "reason": "The fig leaves Eve holds signal the moment their eyes were opened and they knew they were naked"},
+    {"ref": "GEN.3.1-5", "relevance": "primary", "reason": "The serpent's temptation in the tree, visible coiled above the figures"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The Protoevangelium — God's promise that the seed of the woman will crush the serpent's head, the first messianic prophecy"},
+    {"ref": "ROM.5.12", "relevance": "typological", "reason": "Through one man sin entered the world, and death through sin — the Pauline theology of the Fall as universal catastrophe"},
+    {"ref": "ROM.5.19", "relevance": "typological", "reason": "By one man's disobedience the many were made sinners; the Adam-Christ typology is implicit in any depiction of the Fall"},
+    {"ref": "1CO.15.22", "relevance": "typological", "reason": "In Adam all die, so also in Christ shall all be made alive — the Fall demands the Resurrection"},
+    {"ref": "REV.12.9", "relevance": "typological", "reason": "The ancient serpent identified as the devil and Satan, connecting Eden's tempter to the cosmic adversary"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "temptation",
+    "tension",
+    "foreboding"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0000679",
+    "title": "Adam and Eve",
+    "artist": "Maerten van Heemskerck",
+    "model": "claude-opus-4-6"
+  }
+}

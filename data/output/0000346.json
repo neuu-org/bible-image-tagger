@@ -1,87 +1,41 @@
 {
   "characters": [
-    "Saint Agnes of Rome"
+    {"name": "Saint Agnes of Rome", "type": "PERSON"}
   ],
-  "event": "Saint Agnes standing in triumph over martyrdom",
+  "event": "Saint Agnes Standing in Triumph over Martyrdom",
   "tags": [
-    "Christianity",
-    "saints-and-apostles",
-    "Baroque sculpture",
-    "Bernini",
+    "saint-agnes",
     "martyrdom",
     "virginity",
+    "palm-branch",
     "lamb",
     "purity",
-    "faith",
-    "perseverance",
-    "Roman persecution",
-    "bronze",
     "devotion",
-    "early Church",
-    "courage"
+    "sculpture",
+    "early-church",
+    "perseverance"
   ],
   "symbols": [
-    "palm branch held in the left hand — the universal symbol of martyrdom and victory over death, the triumph of faith through suffering",
-    "right hand placed over the heart — the gesture of devotion and interior purity, the consecration of oneself wholly to God",
-    "flowing drapery in heavy classical folds — the dignity and modesty of the virgin saint, the clothing of righteousness",
-    "lamb at the base of the figure — the attribute of Saint Agnes (from the Latin agnus, lamb), and a typological connection to Christ as the Lamb of God who was slain",
-    "youthful female figure with serene downcast gaze — the calm courage of faith in the face of execution, the peace that surpasses understanding",
-    "bronze medium with dark patina — the endurance and permanence of the saint's witness, the imperishability of faithful testimony"
+    "palm branch in her left hand — the universal symbol of martyrdom and victory over death, triumph of faith through suffering",
+    "right hand placed over heart — the gesture of interior devotion and purity, total consecration of self to God",
+    "lamb at the base — the attribute of Saint Agnes (from Latin agnus), typologically linking her to Christ the Lamb of God",
+    "flowing drapery in heavy folds — dignity and modesty of the virgin saint, the clothing of righteousness",
+    "youthful figure with serene downcast gaze — calm courage of faith before execution, the peace that surpasses understanding"
   ],
-  "description": "A bronze sculpture depicting a standing female figure in flowing classical robes. The young woman holds a palm branch in her left hand while her right hand rests over her heart in a gesture of devotion. Her head is slightly inclined with a serene, contemplative expression. The drapery is richly modeled in deep, heavy folds characteristic of Baroque sculpture, cascading from her shoulders to the rectangular base. At her feet, partially obscured by the folds of fabric, a small lamb rests on the ground. The figure stands in a gentle contrapposto pose, conveying both grace and quiet resolve. The dark bronze patina gives the work a solemn, dignified character.",
-  "theological_description": "Bernini's bronze of Saint Agnes embodies one of the earliest and most beloved martyrdom narratives of the Christian Church. Agnes, traditionally held to have been a twelve- or thirteen-year-old Roman girl executed during the Diocletian persecution around AD 304, became the paradigmatic figure of virginal fidelity to Christ unto death. The palm branch she holds is the ancient attribute of the martyr: 'The righteous flourish like the palm tree' (Psalm 92:12), and in Revelation the white-robed multitude who have come through the great tribulation stand before the throne 'with palm branches in their hands' (Revelation 7:9). The lamb at her feet operates on multiple levels: it is her personal iconographic attribute (playing on the Latin agnus), but it simultaneously links her to Christ, the Lamb of God who takes away the sin of the world (John 1:29). Agnes is a lamb who follows the Lamb -- a virgin who kept herself undefiled and who follows the Lamb wherever he goes (Revelation 14:4). Her hand upon her heart signals the interior consecration that martyrdom merely makes visible: she had already given her whole self to Christ before the executioner's blade confirmed it. The early Church fathers, particularly Ambrose in his De Virginibus, celebrated Agnes as proof that faithfulness is not a function of age or physical strength but of the Spirit's power working through human weakness: 'My power is made perfect in weakness' (2 Corinthians 12:9). Bernini, the supreme artist of the Counter-Reformation, renders her not in agony but in serenity -- the peace of one who has already passed through death into life. Her calm gaze reflects the assurance Paul articulated: 'For to me to live is Christ, and to die is gain' (Philippians 1:21). The theological weight of the sculpture lies in its portrayal of victory through apparent defeat, strength through vulnerability, and glory through suffering -- the paradox at the heart of the Gospel itself.",
+  "description": "A bronze sculpture of a standing young woman in flowing classical robes. She holds a palm branch in her left hand while her right hand rests over her heart. Her head is slightly inclined with a serene contemplative expression. The drapery is richly modeled in deep heavy folds cascading from her shoulders to the rectangular base. At her feet partially obscured by fabric a small lamb rests on the ground. The figure stands in a gentle contrapposto pose conveying both grace and quiet resolve. The dark bronze patina gives the work a solemn dignified character.",
+  "theological_description": "This bronze of Saint Agnes embodies one of the earliest and most beloved martyrdom narratives of the Christian Church. Agnes, traditionally a twelve- or thirteen-year-old Roman girl executed during the Diocletian persecution around AD 304, became the paradigmatic figure of virginal fidelity to Christ unto death. The palm branch she holds is the ancient martyr's attribute: 'The righteous flourish like the palm tree' (Psalm 92:12), and in Revelation the white-robed multitude who came through the great tribulation stand before the throne 'with palm branches in their hands' (Revelation 7:9). The lamb at her feet operates on multiple levels: her personal iconographic attribute (playing on Latin agnus), but simultaneously linking her to Christ, the Lamb of God who takes away the sin of the world (John 1:29). Agnes is a lamb who follows the Lamb — a virgin who kept herself undefiled and follows the Lamb wherever he goes (Revelation 14:4). Her hand upon her heart signals the interior consecration that martyrdom merely makes visible. Ambrose celebrated Agnes as proof that faithfulness is not a function of age but of the Spirit's power: 'My power is made perfect in weakness' (2 Corinthians 12:9). She is rendered not in agony but in serenity — the peace of one who has passed through death into life, reflecting Paul's assurance: 'For to me to live is Christ, and to die is gain' (Philippians 1:21).",
   "scripture_refs": [
-    {
-      "ref": "Rev.7.9-10",
-      "relevance": "primary",
-      "reason": "The great multitude standing before the throne with palm branches -- Agnes holds the palm of martyrdom, numbered among those who came through the great tribulation"
-    },
-    {
-      "ref": "John.1.29",
-      "relevance": "primary",
-      "reason": "Behold the Lamb of God who takes away the sin of the world -- the lamb at Agnes's feet links her sacrifice typologically to Christ's own sacrificial identity"
-    },
-    {
-      "ref": "Rev.14.4",
-      "relevance": "primary",
-      "reason": "These are those who have not defiled themselves, who follow the Lamb wherever he goes -- Agnes as the virgin martyr who follows Christ the Lamb"
-    },
-    {
-      "ref": "Ps.92.12",
-      "relevance": "allusion",
-      "reason": "The righteous flourish like the palm tree -- the palm branch as the biblical symbol of the flourishing of the righteous even through suffering"
-    },
-    {
-      "ref": "2Cor.12.9",
-      "relevance": "allusion",
-      "reason": "My power is made perfect in weakness -- the young girl's courageous martyrdom demonstrates divine strength operating through human frailty"
-    },
-    {
-      "ref": "Phil.1.21",
-      "relevance": "allusion",
-      "reason": "To live is Christ and to die is gain -- Agnes's serene countenance reflects the conviction that death for Christ is not loss but triumph"
-    },
-    {
-      "ref": "Rev.2.10",
-      "relevance": "allusion",
-      "reason": "Be faithful unto death and I will give you the crown of life -- the promise to those who endure persecution to the end"
-    },
-    {
-      "ref": "Rom.8.35-37",
-      "relevance": "allusion",
-      "reason": "Neither death nor life can separate us from the love of God -- Agnes's martyrdom as witness that no earthly power can sever the bond between the believer and Christ"
-    }
+    {"ref": "REV.7.9-10", "relevance": "primary", "reason": "The great multitude with palm branches — Agnes holds the palm of martyrdom, numbered among those who came through the great tribulation"},
+    {"ref": "JHN.1.29", "relevance": "primary", "reason": "Behold the Lamb of God who takes away the sin of the world — the lamb at her feet links her typologically to Christ's sacrificial identity"},
+    {"ref": "REV.14.4", "relevance": "primary", "reason": "Those who follow the Lamb wherever he goes — Agnes as virgin martyr who follows Christ the Lamb"},
+    {"ref": "PSA.92.12", "relevance": "allusion", "reason": "The righteous flourish like the palm tree — the palm branch as biblical symbol of the righteous flourishing through suffering"},
+    {"ref": "2CO.12.9", "relevance": "allusion", "reason": "My power is made perfect in weakness — the young girl's martyrdom demonstrates divine strength through human frailty"},
+    {"ref": "PHP.1.21", "relevance": "allusion", "reason": "To live is Christ and to die is gain — Agnes's serene countenance reflects conviction that death for Christ is triumph"},
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and I will give you the crown of life — the promise to those who endure persecution"}
   ],
-  "scene_type": "devotional",
-  "mood": [
-    "serene",
-    "solemn",
-    "dignified",
-    "triumphant",
-    "contemplative",
-    "reverent"
-  ],
-  "period": "Early Church / Persecution era (c. AD 304)",
+  "scene_type": "portrait",
+  "mood": ["serene", "solemn", "dignified", "triumphant"],
+  "period": "Apostolic",
   "_meta": {
     "key": "0000346",
     "title": "St. Agnese",

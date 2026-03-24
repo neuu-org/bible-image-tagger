@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Saint George", "type": "PERSON"},
+    {"name": "Dragon", "type": "OTHER"},
+    {"name": "Princess", "type": "PERSON"},
+    {"name": "Crowd", "type": "GROUP"},
+    {"name": "King", "type": "PERSON"}
+  ],
+  "event": "The Triumph of Saint George over the Dragon",
+  "tags": [
+    "saint-george",
+    "dragon-slaying",
+    "triumph",
+    "martyrdom",
+    "spiritual-warfare",
+    "deliverance",
+    "chivalry",
+    "holy-warrior",
+    "crowd-witness",
+    "city-gate"
+  ],
+  "symbols": [
+    "slain dragon — conquest of evil and Satan, echoing Revelation 12",
+    "armored knight — the armor of God and spiritual warfare",
+    "white horse — victory and righteousness",
+    "princess rescued — the Church delivered from the power of the devil",
+    "city and crowd — the community of the faithful witnessing God's triumph"
+  ],
+  "description": "A wide panoramic scene in a grand city square with domed buildings, towers, and minarets in the background. At center, an armored knight stands over the body of a slain dragon lying prostrate on the ground. To the left, a crowd of onlookers in varied dress gathers around a white horse and a regal figure. To the right, more spectators and a rearing brown horse. A young woman in white stands near the dragon. The architecture suggests an Eastern Mediterranean city. Banners and flags fly atop the buildings.",
+  "theological_description": "The legend of Saint George and the Dragon, while extra-biblical, carries profound typological resonance with Scripture. George functions as a Christ-figure who defeats the ancient serpent (Genesis 3:15) and the great dragon of Revelation 12:7-9. His triumph mirrors Michael the Archangel's victory over Satan and, more deeply, Christ's definitive conquest of death and evil through the Cross. The rescued princess typologically represents the Church — the Bride of Christ — delivered from bondage to sin and the devil (Ephesians 5:25-27). The public, civic nature of the triumph, witnessed by a diverse multitude, prefigures the eschatological victory when every knee shall bow (Philippians 2:10-11). George's armor evokes the 'whole armor of God' from Ephesians 6:11-17. The Eastern setting recalls the historical milieu of early Christian martyrdom and the Church's struggle against pagan powers. The scene proclaims that holiness, courage, and faith overcome the most fearsome manifestations of evil.",
+  "scripture_refs": [
+    {"ref": "REV.12.7-9", "relevance": "typological", "reason": "The dragon slain by George typologically mirrors Michael and his angels casting down the great dragon Satan"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The protoevangelium — the seed of the woman crushing the serpent's head — is enacted in George's victory over the dragon"},
+    {"ref": "EPH.6.11-17", "relevance": "allusion", "reason": "George's full armor evokes Paul's exhortation to put on the whole armor of God for spiritual warfare"},
+    {"ref": "REV.19.11-16", "relevance": "typological", "reason": "The triumphant knight on horseback echoes the rider on the white horse who conquers in righteousness"},
+    {"ref": "EPH.5.25-27", "relevance": "typological", "reason": "The rescued princess prefigures the Church as the spotless Bride delivered by Christ"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["triumphant", "celebratory", "awe"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0001094",
+    "title": "The Triumph of St. George",
+    "artist": "Vittore Carpaccio",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,7 +1,13 @@
 {
   "characters": [
-    {"name": "Mary", "type": "PERSON"},
-    {"name": "Jesus", "type": "DEITY"}
+    {
+      "name": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus",
+      "type": "DEITY"
+    }
   ],
   "event": "The Virgin Mary holding the infant Christ who grasps an apple",
   "tags": [
@@ -34,16 +40,49 @@
   "description": "A young woman with brown hair, draped in a blue mantle over a red robe with a white undergarment, sits holding a nude infant on her lap. The child grasps a reddish apple in his right hand while pressing his face tenderly against the woman's cheek. She inclines her head toward the child with eyes gently downcast. A deep red velvet curtain drapes from the upper left, and a red cloth-covered surface appears at the lower right. The background is very dark, concentrating all light on the warmly illuminated pair.",
   "theological_description": "This image presents the classic Madonna and Child iconography enriched with profound typological meaning through the apple. In patristic and medieval theology, the apple evokes the fruit of the Tree of Knowledge by which Adam and Eve fell (Gen 3:6). By placing it in the hand of the Christ child, the composition declares that the New Adam has come to reverse the curse of the old. Mary, as the New Eve, presents the one who will triumph over sin and death. The intimate, almost kiss-like closeness between mother and child speaks to the scandal of the Incarnation — that the infinite God became a nursing infant, dependent upon a human mother. The interplay of red and blue garments on Mary signifies the union of her earthly humanity with her heavenly vocation. The dark background isolates the pair in a timeless theological space, emphasizing that this mother-child relationship is the hinge of salvation history, the moment when heaven entered earth through the womb of a virgin. As Irenaeus taught, what was bound by Eve's disobedience was loosed by Mary's obedience — a recapitulation made visible in this tender scene.",
   "scripture_refs": [
-    {"ref": "LUK.2.7", "relevance": "primary", "reason": "Mary gave birth to her firstborn son and wrapped him in swaddling clothes"},
-    {"ref": "GEN.3.6", "relevance": "typological", "reason": "The apple alludes to the forbidden fruit, now held by Christ as the reversal of the fall"},
-    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The protoevangelium — the seed of the woman will crush the serpent's head"},
-    {"ref": "ISA.7.14", "relevance": "primary", "reason": "The virgin shall conceive and bear a son — fulfilled in Mary's divine motherhood"},
-    {"ref": "GAL.4.4", "relevance": "primary", "reason": "God sent forth His Son, born of a woman, born under the law"},
-    {"ref": "ROM.5.14", "relevance": "typological", "reason": "Adam as a type of the one who was to come — the apple bridges the first and second Adam"},
-    {"ref": "1CO.15.22", "relevance": "typological", "reason": "As in Adam all die, so in Christ shall all be made alive"}
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary gave birth to her firstborn son and wrapped him in swaddling clothes"
+    },
+    {
+      "ref": "GEN.3.6",
+      "relevance": "typological",
+      "reason": "The apple alludes to the forbidden fruit, now held by Christ as the reversal of the fall"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The protoevangelium — the seed of the woman will crush the serpent's head"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The virgin shall conceive and bear a son — fulfilled in Mary's divine motherhood"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent forth His Son, born of a woman, born under the law"
+    },
+    {
+      "ref": "ROM.5.14",
+      "relevance": "typological",
+      "reason": "Adam as a type of the one who was to come — the apple bridges the first and second Adam"
+    },
+    {
+      "ref": "1CO.15.22",
+      "relevance": "typological",
+      "reason": "As in Adam all die, so in Christ shall all be made alive"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["tender", "intimate", "devotional", "serene", "warm"],
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional",
+    "serene"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0000021",

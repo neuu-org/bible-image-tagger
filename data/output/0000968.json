@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ Knocking at the Door",
+  "tags": ["door", "lantern", "knocking", "crown", "overgrown-weeds", "night-scene", "invitation", "repentance", "no-exterior-handle", "divine-patience"],
+  "symbols": [
+    "lantern — Christ as the light of the world, illuminating conscience and truth (John 8:12)",
+    "door without exterior handle — the human heart can only be opened from within; God does not force entry",
+    "overgrown weeds and brambles — spiritual neglect, sin, and the untended soul",
+    "crown — Christ's kingly authority, even as he humbly knocks rather than commands",
+    "night setting — the darkness of a world or soul that has not yet admitted the light",
+    "knocking hand — divine patience and persistent grace seeking fellowship with the believer"
+  ],
+  "description": "A full-length figure of Christ stands before a heavy wooden door thickly overgrown with weeds, brambles, and fallen leaves. He wears a long white robe and an ornate jeweled breastplate or cope, with a crown upon his head and a golden halo. In his left hand he holds a glowing lantern that casts warm light across his garments and the surrounding foliage. His right hand is raised to knock on the door, which notably has no handle on the outside. The scene is set at night among dark trees, with the lantern providing the sole illumination.",
+  "theological_description": "This iconic allegory illustrates Revelation 3:20: 'Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me.' The painting's most famous detail — the door lacking an exterior handle — embodies the theological principle of free will in soteriology: Christ offers grace but never coerces. The overgrown threshold signifies a soul long closed to God, choked with the weeds of sin and neglect (cf. the thorns in the Parable of the Sower, Mark 4:18-19). Yet Christ persists in knocking, wearing the triple office of Prophet, Priest, and King — his lantern (prophetic truth), his priestly garments (intercession), and his crown (sovereign authority) all present at the threshold. The scene also evokes Song of Songs 5:2: 'I slept, but my heart was awake. A sound! My beloved is knocking.' The warm glow of the lantern against the surrounding darkness recalls John 1:5: 'The light shines in the darkness, and the darkness has not overcome it.' This is a profound image of prevenient grace — God's initiative always precedes human response.",
+  "scripture_refs": [
+    {"ref": "REV.3.20", "relevance": "primary", "reason": "Direct illustration of Christ standing at the door and knocking, seeking entry into the believer's heart"},
+    {"ref": "JHN.8.12", "relevance": "primary", "reason": "Christ declares 'I am the light of the world,' visually embodied by the lantern he carries"},
+    {"ref": "JHN.1.5", "relevance": "allusion", "reason": "The light shining in darkness — the lantern glowing against the night scene"},
+    {"ref": "MRK.4.18-19", "relevance": "typological", "reason": "Thorns choking the word parallel the overgrown weeds blocking the door of the neglected soul"},
+    {"ref": "LUK.12.35-36", "relevance": "allusion", "reason": "The master who comes and knocks, expecting readiness from those within"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["solemn", "hopeful", "intimate", "patient"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0000968",
+    "title": "The Light of the World",
+    "artist": "William Holman Hunt",
+    "model": "claude-opus-4-6"
+  }
+}

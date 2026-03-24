@@ -1,0 +1,37 @@
+{
+  "characters": [],
+  "event": "",
+  "tags": [
+    "bread",
+    "wine",
+    "ham",
+    "still-life",
+    "table",
+    "bottle",
+    "glass",
+    "peppers",
+    "food-and-drink",
+    "domestic-scene"
+  ],
+  "symbols": [
+    "bread — daily sustenance and, in Christian reading, the Eucharistic body of Christ",
+    "wine in glass — blood of the covenant, the Eucharistic species",
+    "simple table setting — humility of the common meal, echoing the shared table of fellowship"
+  ],
+  "description": "A dark wooden table holds a plate with a large piece of ham or cured meat, a dark green glass bottle, a small stemmed glass filled with red wine, and a piece of bread on white paper or cloth. A string of dried red peppers hangs on the wall to the right. The background is muted blue-grey. The composition is spare and direct, with warm tones from the meat and peppers contrasting against the cool wall.",
+  "theological_description": "Though a secular still life, the pairing of bread and wine inevitably evokes Eucharistic resonance within the Christian visual tradition. Bread and wine are the central elements of the Last Supper (Luke 22:19-20) and the matter of the sacrament of the Eucharist. The addition of meat recalls the provision of food as divine blessing — God feeding Israel with manna and quail (Exodus 16), and the broader biblical theme of table fellowship as communion with God. However, this painting is fundamentally a domestic genre scene without explicit religious intent, so the theological reading remains an associative resonance rather than a deliberate iconographic program.",
+  "scripture_refs": [
+    {"ref": "LUK.22.19", "relevance": "allusion", "reason": "Bread and wine on the table echo the elements of the Last Supper institution narrative"},
+    {"ref": "EXO.16.12", "relevance": "allusion", "reason": "God providing meat (quail) and bread (manna) — divine provision of food for sustenance"},
+    {"ref": "PSA.104.15", "relevance": "allusion", "reason": "Wine that gladdens the heart and bread that sustains — the psalm of God's provision through creation"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["quietude", "simplicity", "warmth"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000835",
+    "title": "Still Life. Bread, ham and wine.",
+    "artist": "Pyotr Konchalovsky",
+    "model": "claude-opus-4-6"
+  }
+}

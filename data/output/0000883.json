@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman Soldiers", "type": "GROUP"}
+  ],
+  "event": "Flagellation of Christ",
+  "tags": [
+    "flagellation",
+    "passion-of-christ",
+    "scourging",
+    "pillar",
+    "suffering",
+    "roman-soldiers",
+    "golden-background",
+    "halo",
+    "bound-figure",
+    "whips"
+  ],
+  "symbols": [
+    "column or pillar — the pillar of scourging, instrument of the Passion; typologically linked to the pillar of cloud guiding Israel",
+    "gold background — divine glory persisting even amid suffering and humiliation",
+    "halo around Christ's head — sanctity and divine nature undiminished by bodily torment",
+    "two tormentors flanking Christ — the universality of sin, both Jew and Gentile complicit in the Passion",
+    "bare, bound body of Christ — the vulnerability of the Incarnation, God made flesh and subject to human cruelty",
+    "architectural setting with towers — Pilate's praetorium in Jerusalem"
+  ],
+  "description": "Christ stands nearly nude, bound to a tall column at the center of the composition, against a brilliant gold background. His body is lean and marked with wounds; a halo encircles his head. He is bearded with dark hair and gazes to the side with an expression of patient suffering. Two men flank him — one on the left in a pinkish tunic raising a whip overhead, the other on the right in dark and red clothing mid-swing with a scourge. Stone buildings with arched doorways and towers frame the scene on both sides.",
+  "theological_description": "The Flagellation is the second Sorrowful Mystery and fulfills Isaiah's Suffering Servant oracle: 'By his stripes we are healed' (Isa 53:5). The scourging at the pillar, ordered by Pontius Pilate (John 19:1), was a brutal Roman punishment that preceded crucifixion. Patristically, the column to which Christ is bound becomes an anti-type of the pillar of cloud and fire (Exod 13:21) — where once God led Israel by a pillar of glory, now the incarnate God is bound to a pillar of shame, leading humanity out of the slavery of sin. The gold background, characteristic of Byzantine and early Italian tradition, signals that even in his deepest humiliation, Christ's divine nature radiates uncreated light. The two tormentors represent all humanity — Fathers like Augustine stress that sin itself, not merely Roman soldiers, scourges Christ. His patient endurance fulfills 1 Peter 2:24: 'He himself bore our sins in his body on the tree, so that we might die to sins and live for righteousness.' The architectural framing with towers evokes the praetorium and the earthly city of Jerusalem, contrasting with the heavenly gold — the suffering Christ bridges the earthly and the divine.",
+  "scripture_refs": [
+    {"ref": "JHN.19.1", "relevance": "primary", "reason": "Pilate took Jesus and had him flogged — the direct Gospel account of the flagellation"},
+    {"ref": "ISA.53.5", "relevance": "primary", "reason": "By his wounds we are healed — the Suffering Servant prophecy fulfilled in the scourging"},
+    {"ref": "MAT.27.26", "relevance": "primary", "reason": "Having Jesus scourged, he delivered him to be crucified — Matthean parallel of the flagellation"},
+    {"ref": "1PE.2.24", "relevance": "typological", "reason": "He bore our sins in his body — apostolic interpretation of Christ's physical suffering as redemptive"},
+    {"ref": "EXO.13.21", "relevance": "typological", "reason": "The pillar of cloud and fire — typological contrast with the pillar of scourging"},
+    {"ref": "ISA.50.6", "relevance": "allusion", "reason": "I gave my back to those who strike — the Servant's willing submission to beating"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["suffering", "solemnity", "anguish", "compassion"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000883",
+    "title": "The Flagellation of Christ",
+    "artist": "Cimabue",
+    "model": "claude-opus-4-6"
+  }
+}

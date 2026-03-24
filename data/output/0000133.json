@@ -1,37 +1,22 @@
 {
   "characters": [
-    {
-      "name": "Jesus Christ",
-      "type": "DEITY"
-    },
-    {
-      "name": "Angels",
-      "type": "ANGEL"
-    },
-    {
-      "name": "Roman soldiers",
-      "type": "GROUP"
-    },
-    {
-      "name": "Three Avogadri donors",
-      "type": "GROUP"
-    }
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Roman Soldiers", "type": "GROUP"},
+    {"name": "Three Avogadri Donors", "type": "GROUP"}
   ],
   "event": "Resurrection of Christ",
   "tags": [
-    "Resurrection",
-    "risen Christ",
+    "resurrection",
+    "risen-christ",
     "angels",
     "soldiers",
-    "empty tomb",
-    "donor portrait",
-    "triumph over death",
-    "Easter",
+    "empty-tomb",
+    "donor-portrait",
+    "triumph-over-death",
+    "easter",
     "glory",
-    "ruins",
-    "Venetian painting",
-    "ascension prefigured",
-    "new creation"
+    "ruins"
   ],
   "symbols": [
     "risen Christ ascending — victory over death and sin",
@@ -43,53 +28,19 @@
     "red robes of donors — earthly authority humbled before divine glory",
     "ermine-trimmed vestments — civic dignity presented in devotion"
   ],
-  "description": "The composition is divided between a supernatural event on the left and three donor figures on the right. On the left, Christ rises powerfully upward, his body luminous and partially draped in white cloth, accompanied by angels. Below him, Roman soldiers fall back in fear and confusion, their armor and weapons scattered. Ruined arches and a landscape stretch into the background under a dramatic sky. On the right, three men in rich dark red robes trimmed with ermine stand in devotional posture, gazing toward the miraculous scene.",
-  "theological_description": "This painting captures the climactic moment of salvation history: the bodily Resurrection of Jesus Christ from the dead. The risen Christ bursts upward with divine energy, fulfilling his own prophecy (Matthew 20:19) and vindicating all his claims. The terrified soldiers echo Matthew 28:4, where the guards 'shook and became like dead men' at the angel's appearance. The angels attending Christ recall the accounts in all four Gospels of angelic witnesses at the empty tomb. Theologically, the Resurrection is the foundation of Christian faith (1 Corinthians 15:14-17): without it, Paul writes, faith is in vain. The ruins in the background symbolize the Old Covenant order giving way to the New, and death's dominion crumbling (Romans 6:9). The three Avogadri donors, positioned as witnesses in rich civic attire, represent the faithful of every age who encounter the Risen Lord not through physical sight but through faith and sacrament. Their presence bridges the historical event and the devotional present, reflecting the theology that every believer participates in Christ's Resurrection (Romans 6:4-5). The dramatic upward movement of Christ prefigures the Ascension and anticipates his return in glory (Acts 1:11). Psalm 16:10 finds its fulfillment here: God did not let his Holy One see corruption.",
+  "description": "The composition divides between a supernatural event on the left and three donor figures on the right. Christ rises powerfully upward, his body luminous and partially draped in white cloth, accompanied by angels. Below him, Roman soldiers fall back in fear, their armor and weapons scattered. Ruined arches and a landscape stretch into the background under a dramatic sky. On the right, three men in rich dark red robes trimmed with ermine stand in devotional posture, gazing toward the miraculous scene.",
+  "theological_description": "This painting captures the climactic moment of salvation history: the bodily Resurrection of Jesus Christ from the dead. The risen Christ bursts upward with divine energy, fulfilling his own prophecy (Matthew 20:19) and vindicating all his claims. The terrified soldiers echo Matthew 28:4, where the guards shook and became like dead men at the angel's appearance. The angels attending Christ recall the accounts in all four Gospels of angelic witnesses at the empty tomb. The Resurrection is the foundation of Christian faith (1 Corinthians 15:14-17): without it, Paul writes, faith is in vain. The ruins in the background symbolize the Old Covenant order giving way to the New, and death's dominion crumbling (Romans 6:9). The three Avogadri donors, positioned as witnesses in rich civic attire, represent the faithful of every age who encounter the Risen Lord through faith and sacrament. Their presence bridges the historical event and the devotional present, reflecting the theology that every believer participates in Christ's Resurrection (Romans 6:4-5). The dramatic upward movement of Christ prefigures the Ascension and anticipates his return in glory (Acts 1:11). Psalm 16:10 finds its fulfillment here: God did not let his Holy One see corruption.",
   "scripture_refs": [
-    {
-      "ref": "MAT.28.1-7",
-      "relevance": "primary",
-      "reason": "The Resurrection narrative: the angel, the terrified guards, and the empty tomb are directly depicted"
-    },
-    {
-      "ref": "1CO.15.14-17",
-      "relevance": "primary",
-      "reason": "Paul's declaration that the Resurrection is the foundation of Christian faith, the theological core of this image"
-    },
-    {
-      "ref": "ROM.6.4-9",
-      "relevance": "allusion",
-      "reason": "Baptized into Christ's death, raised with him in newness of life; death no longer has dominion"
-    },
-    {
-      "ref": "MAT.20.19",
-      "relevance": "primary",
-      "reason": "Christ's prediction of his own resurrection on the third day, fulfilled in the scene depicted"
-    },
-    {
-      "ref": "JHN.20.1-9",
-      "relevance": "primary",
-      "reason": "John's account of the discovery of the empty tomb and its significance for belief in the Resurrection"
-    },
-    {
-      "ref": "ACT.1.11",
-      "relevance": "typological",
-      "reason": "The upward movement of the risen Christ anticipates the Ascension and the promise of his return"
-    },
-    {
-      "ref": "PSA.16.10",
-      "relevance": "typological",
-      "reason": "David's prophecy that God would not let his Holy One see corruption, fulfilled in the Resurrection"
-    }
+    {"ref": "MAT.28.1-7", "relevance": "primary", "reason": "The Resurrection narrative: the angel, the terrified guards, and the empty tomb are directly depicted"},
+    {"ref": "1CO.15.14-17", "relevance": "primary", "reason": "Paul's declaration that the Resurrection is the foundation of Christian faith"},
+    {"ref": "ROM.6.4-9", "relevance": "allusion", "reason": "Baptized into Christ's death, raised with him in newness of life; death no longer has dominion"},
+    {"ref": "MAT.20.19", "relevance": "primary", "reason": "Christ's prediction of his own resurrection on the third day, fulfilled in the scene depicted"},
+    {"ref": "JHN.20.1-9", "relevance": "primary", "reason": "John's account of the discovery of the empty tomb and its significance for belief"},
+    {"ref": "ACT.1.11", "relevance": "typological", "reason": "The upward movement of the risen Christ anticipates the Ascension and the promise of his return"},
+    {"ref": "PSA.16.10", "relevance": "typological", "reason": "David's prophecy that God would not let his Holy One see corruption, fulfilled in the Resurrection"}
   ],
   "scene_type": "narrative",
-  "mood": [
-    "triumphant",
-    "awe-inspiring",
-    "dramatic",
-    "glorious",
-    "reverent"
-  ],
+  "mood": ["triumphant", "awe-inspiring", "reverent", "glorious"],
   "period": "Gospel",
   "_meta": {
     "key": "0000133",

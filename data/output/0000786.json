@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman soldiers", "type": "GROUP"}
+  ],
+  "event": "Flagellation of Christ",
+  "tags": [
+    "flagellation",
+    "passion-of-christ",
+    "scourging",
+    "suffering-servant",
+    "bound-to-column",
+    "roman-soldiers",
+    "loincloth",
+    "humiliation",
+    "redemptive-suffering",
+    "pillar"
+  ],
+  "symbols": [
+    "column — the pillar of scourging, recalling the pillar of cloud by which God led Israel, now the instrument of His Son's torment",
+    "loincloth — Christ stripped of dignity, the new Adam exposed as the first Adam was naked in shame",
+    "bound wrists — the voluntary binding of the omnipotent God, fulfilling Isaiah's Suffering Servant who was led as a lamb",
+    "exposed torso — the vulnerable flesh of the Incarnation, God made man to suffer in the body",
+    "architectural columns framing the scene — the Praetorium, the seat of Roman power where divine kingship is mocked"
+  ],
+  "description": "Christ stands nearly naked, wearing only a white loincloth, bound at the wrists to a short stone column. Two muscular men flank him: the one at left grasps Christ's hair and pulls his head back, while the one at right ties or tightens the bonds around his wrists to the pillar. Christ's body is pale and exposed, his face turned aside in suffering. Behind them, large architectural columns frame the scene, with a patch of blue sky and clouds visible through the opening.",
+  "theological_description": "The Flagellation stands at the heart of Christ's Passion, fulfilling Isaiah's prophecy: 'By his stripes we are healed' (Isaiah 53:5). The Fathers — Cyril of Alexandria, Augustine, and John Chrysostom — understood the scourging as the moment when Christ took upon His flesh the punishment due to all humanity's sin. The binding to the column inverts the Exodus typology: whereas God led Israel by a pillar of cloud and fire (Exodus 13:21), here God-in-the-flesh is bound to a pillar of humiliation. Christ's near-nakedness recalls Adam's shame after the Fall (Genesis 3:7), but whereas Adam hid, Christ stands exposed voluntarily — the new Adam undoing the curse through obedient suffering. The two tormentors represent the Gentile powers executing judgment, yet they unknowingly fulfill the divine plan of redemption. Pilate's soldiers scourge the King of Kings, not knowing that this bruised flesh is the Paschal Lamb whose blood ransoms the world (1 Peter 1:18-19). The scene fulfills Psalm 129:3: 'The plowers plowed upon my back; they made long their furrows.'",
+  "scripture_refs": [
+    {"ref": "JHN.19.1", "relevance": "primary", "reason": "Pilate took Jesus and had him flogged — the direct narrative source"},
+    {"ref": "ISA.53.5", "relevance": "primary", "reason": "By his wounds we are healed — the prophetic foundation of the scourging's redemptive meaning"},
+    {"ref": "MAT.27.26", "relevance": "primary", "reason": "Pilate had Jesus flogged and handed him over to be crucified"},
+    {"ref": "MRK.15.15", "relevance": "primary", "reason": "Mark's account of the scourging before crucifixion"},
+    {"ref": "PSA.129.3", "relevance": "typological", "reason": "The plowers plowed upon my back — messianic psalm prefiguring the lashing"},
+    {"ref": "ISA.50.6", "relevance": "typological", "reason": "I gave my back to those who strike — the Servant's willing submission to beating"},
+    {"ref": "1PE.2.24", "relevance": "allusion", "reason": "He himself bore our sins in his body on the tree, by his wounds you have been healed"},
+    {"ref": "GEN.3.7", "relevance": "typological", "reason": "Adam's nakedness reversed: Christ exposed voluntarily to undo the shame of the Fall"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguish", "brutality", "solemnity"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000786",
+    "title": "The Flagellation of Christ",
+    "artist": "Guercino",
+    "model": "claude-opus-4-6"
+  }
+}

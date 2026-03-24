@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simon Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ washing the feet of His disciples at the Last Supper",
+  "tags": [
+    "foot-washing",
+    "humility",
+    "servant-leadership",
+    "last-supper",
+    "upper-room",
+    "apostles",
+    "sacramental-prefiguration",
+    "baptism",
+    "purification",
+    "love-commandment",
+    "water-basin",
+    "towel",
+    "kenosis",
+    "discipleship",
+    "eucharistic-context",
+    "holy-thursday"
+  ],
+  "symbols": [
+    "water basin and towel — Christ's voluntary self-abasement and the cleansing of sin through baptism",
+    "Jesus kneeling on the ground — the kenosis of the divine Logos, God taking the form of a servant (Philippians 2:7)",
+    "Peter's gesture of protest — the human resistance to receiving grace in a form that overturns worldly expectations of power",
+    "the gathered disciples around a table — the ecclesial community assembled for the institution of the new covenant meal",
+    "the architectural interior of the upper room — the sacred space of covenant inauguration, prefiguring the Church's liturgical assembly",
+    "the water poured over feet — purification and spiritual cleansing, a sign of the baptismal washing that makes one share in Christ"
+  ],
+  "description": "A large interior scene showing Jesus kneeling on the floor, barefoot, washing the foot of a seated disciple. Jesus wears a blue-red garment with a white towel at his waist and leans forward with a basin of water before him. The disciple whose feet are washed gestures with one hand in apparent protest. Around them, approximately ten other men are gathered in various postures -- some seated at a long table, others standing or leaning, watching with expressions of astonishment. The setting is a grand vaulted hall with massive columns and a balustrade with onlookers above.",
+  "theological_description": "The washing of the disciples' feet (John 13:1-17) is one of the most theologically dense episodes in the Fourth Gospel. Occurring on the eve of the Passion, it is John's substitute for the Synoptic institution narrative -- where the Synoptics record the Eucharist, John gives us this acted parable of divine love descending to the lowest place. Jesus, knowing that He came from the Father and was returning to the Father (John 13:3), rises from supper, lays aside His garments, and takes up the towel of a slave. The Fathers saw in this divestiture a figure of the Incarnation itself: the eternal Word laying aside His glory to take the form of a servant (Philippians 2:6-8). Peter's protest -- 'You shall never wash my feet!' -- and Christ's reply -- 'If I do not wash you, you have no share with me' -- became foundational for patristic baptismal theology: the washing is not optional but necessary for communion with Christ. Origen and Cyril of Alexandria read the foot-washing as a sacramental sign of the ongoing purification believers need even after baptism. Augustine saw it as the institution of the mandatum, the new commandment of love: 'A new commandment I give to you, that you love one another as I have loved you' (John 13:34). The act overturns every human hierarchy -- the Master becomes the slave, the Lord kneels before His creatures -- establishing the pattern of Christian authority as service. This kenotic reversal finds its ultimate expression the following day on the Cross, where the same hands that washed feet are nailed to wood.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.13.1-17",
+      "relevance": "primary",
+      "reason": "The direct biblical account of Jesus washing the disciples' feet before the Passover feast"
+    },
+    {
+      "ref": "JHN.13.34-35",
+      "relevance": "primary",
+      "reason": "The new commandment of love given in the context of the foot-washing, establishing mutual service as the mark of discipleship"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ emptying Himself and taking the form of a servant -- the theological pattern enacted visibly in the foot-washing"
+    },
+    {
+      "ref": "LUK.22.27",
+      "relevance": "allusion",
+      "reason": "I am among you as the one who serves -- Jesus' self-identification as servant at the Last Supper"
+    },
+    {
+      "ref": "MRK.10.43-45",
+      "relevance": "allusion",
+      "reason": "Whoever would be great among you must be your servant -- the principle of authority as service that the foot-washing enacts"
+    },
+    {
+      "ref": "1PE.5.5",
+      "relevance": "allusion",
+      "reason": "Clothe yourselves with humility toward one another -- Peter's later teaching, transformed by having experienced the Master kneeling before him"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "humble",
+    "tender",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000488",
+    "title": "Christ Washing the Feet of the Disciples",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

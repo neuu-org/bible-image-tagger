@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Mary of Bethany", "type": "PERSON"},
+    {"name": "Martha of Bethany", "type": "PERSON"}
+  ],
+  "event": "Christ in the House of Martha and Mary",
+  "tags": ["feast-table", "kneeling", "serving", "halos", "hospitality", "discipleship", "contemplative-life", "active-life", "domestic-setting", "banquet"],
+  "symbols": [
+    "Mary kneeling at Christ's feet — the contemplative life chosen as the 'better part' (vita contemplativa)",
+    "Martha standing and serving — the active life of service (vita activa)",
+    "banquet table with bread — eucharistic hospitality and fellowship with Christ",
+    "halos — sanctity and divine recognition of both vocations"
+  ],
+  "description": "A fresco depicting Christ seated at right beside a table laid with bread and dishes. He wears a blue robe and bears a golden halo, his right hand raised in a gesture of speech. A woman in a flowing pink-red mantle kneels at his feet, gazing up at him, also haloed. A second haloed woman in a green dress and white apron stands at center holding a dish, turning toward Christ. Additional figures are partially visible at the far left. The setting features Gothic arched windows in an interior space.",
+  "theological_description": "This scene from Luke 10:38-42 is one of the foundational texts for the Christian distinction between the contemplative and active lives. Mary, seated at the Lord's feet absorbing his teaching, embodies the primacy of receptive faith and interior devotion. Martha, busy with much serving (diakonia), represents the necessary but secondary work of external ministry. Christ's gentle correction — 'Martha, Martha, you are anxious and troubled about many things, but one thing is necessary' — does not condemn service but establishes a hierarchy of goods: union with God through attentive listening precedes and grounds all fruitful action. The patristic and medieval tradition (Augustine, Gregory the Great, Meister Eckhart) saw in this episode a paradigm for monastic versus apostolic vocations. The banquet setting also carries eucharistic overtones: Christ as both host and food, the one who feeds and who must be received.",
+  "scripture_refs": [
+    {"ref": "LUK.10.38-42", "relevance": "primary", "reason": "Direct depiction of Christ's visit to the house of Martha and Mary in Bethany"},
+    {"ref": "JHN.12.1-3", "relevance": "allusion", "reason": "Mary of Bethany later anoints Jesus' feet, deepening the motif of devotion at his feet"},
+    {"ref": "JHN.11.1-5", "relevance": "allusion", "reason": "Identifies the household of Martha, Mary, and Lazarus as beloved friends of Jesus"},
+    {"ref": "PSA.27.4", "relevance": "typological", "reason": "'One thing I ask of the Lord... to dwell in the house of the Lord' parallels Mary's choosing the one needful thing"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["contemplative", "serene", "intimate"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000932",
+    "title": "Rinuccini Chapel (basilica of Santa Croce)",
+    "artist": "Giovanni da Milano",
+    "model": "claude-opus-4-6"
+  }
+}

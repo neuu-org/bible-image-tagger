@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "John the Apostle", "type": "PERSON"},
+    {"name": "Joseph of Arimathea", "type": "PERSON"},
+    {"name": "Nicodemus", "type": "PERSON"}
+  ],
+  "event": "Lamentation over the Dead Christ",
+  "tags": [
+    "lamentation",
+    "descent-from-cross",
+    "dead-christ",
+    "passion",
+    "pieta",
+    "maternal-grief",
+    "redemptive-suffering",
+    "golgotha",
+    "crucifixion-aftermath",
+    "burial-preparation",
+    "sacrificial-lamb",
+    "new-adam",
+    "mater-dolorosa",
+    "holy-wounds",
+    "atoning-death"
+  ],
+  "symbols": [
+    "dead body of Christ — the sacrificial Lamb slain for the sins of the world",
+    "wounds on Christ's body — the price of atonement and marks of redemptive suffering",
+    "Virgin Mary cradling Christ — Mater Dolorosa, the Church mourning and the sword prophesied by Simeon",
+    "three crosses on distant hill — Golgotha, the place of the Crucifixion",
+    "landscape with river — the passage from death to life, Jordan as threshold",
+    "white linen cloth — burial shroud, prefiguring the empty grave clothes of the Resurrection",
+    "clasped hands of mourners — intercessory grief and shared sorrow of the faithful"
+  ],
+  "description": "The lifeless body of Christ lies across the lap of the Virgin Mary, who wears a blue mantle and white head covering, her face contorted in anguish. A woman with long flowing hair kneels at Christ's feet, clasping them tenderly. Behind them stand three male figures, one in red robes, gazing down in sorrow. Christ's torso is bare, displaying the wound in his side and marks on his hands. In the distant background, three empty crosses stand on a hill, and a river winds through a green landscape under a hazy sky.",
+  "theological_description": "The Lamentation is the moment of stillness between Crucifixion and Entombment, when the full weight of the Incarnation's cost is laid bare. Mary, the new Eve, holds in her arms the new Adam whose death undoes the curse of Eden (ROM.5.12-19). The scene fulfills Simeon's prophecy that a sword would pierce Mary's soul (LUK.2.35), and her grief becomes the archetype of the Church's contemplation of the Paschal Mystery. The Magdalene at Christ's feet echoes her earlier anointing (JHN.12.3), now transformed from devotion to mourning — the precious ointment of Bethany foreshadowed this burial preparation. The three crosses visible on Calvary recall the two thieves and the paradox of Christ crucified between sinners, making intercession even in death (ISA.53.12). Patristically, the Fathers read the Lamentation through the lens of Isaiah's Suffering Servant: 'He was despised and rejected by men, a man of sorrows and acquainted with grief' (ISA.53.3). The horizontal body across Mary's lap prefigures the altar upon which the Eucharistic sacrifice is perpetually offered, connecting the historical event to the liturgical anamnesis of the Church.",
+  "scripture_refs": [
+    {"ref": "JHN.19.38-42", "relevance": "primary", "reason": "The events immediately surrounding the removal of Christ's body from the cross and preparation for burial"},
+    {"ref": "LUK.23.50-53", "relevance": "primary", "reason": "Joseph of Arimathea's role in taking down the body and wrapping it in linen"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "Simeon's prophecy that a sword would pierce Mary's soul, fulfilled in her grief at the Lamentation"},
+    {"ref": "ISA.53.3-5", "relevance": "typological", "reason": "The Suffering Servant, man of sorrows, wounded for our transgressions — prefiguring the dead Christ displayed in mourning"},
+    {"ref": "ROM.5.12-19", "relevance": "typological", "reason": "Christ as new Adam whose death reverses the curse — Mary as new Eve holding the undoing of the Fall"},
+    {"ref": "JHN.12.3-7", "relevance": "allusion", "reason": "Mary Magdalene's earlier anointing of Christ's feet foreshadowed this burial preparation"},
+    {"ref": "PSA.22.16-18", "relevance": "typological", "reason": "Messianic psalm describing pierced hands and feet, the wounds visible on the dead Christ"},
+    {"ref": "MAT.27.55-56", "relevance": "primary", "reason": "The women who watched from afar at the Crucifixion, now gathered close to mourn"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "solemnity", "tenderness", "sorrow"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000596",
+    "title": "The Lamentation of Christ",
+    "artist": "Andrea Solario",
+    "model": "claude-opus-4-6"
+  }
+}

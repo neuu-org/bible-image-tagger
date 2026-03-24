@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "The Song of the Virgin (Magnificat)",
+  "tags": ["magnificat", "virgin-mary", "doves", "ecstasy", "cross", "holy-spirit", "white-drapery", "surrender"],
+  "symbols": [
+    "white doves in flight — the Holy Spirit descending upon and surrounding the Virgin",
+    "cross-shaped object clutched in hand — prefiguration of Christ's Passion, the sword that will pierce her soul",
+    "white drapery — purity, virginal innocence, and sacrificial surrender",
+    "arched-back ecstatic posture — total self-abandonment to the divine will, spiritual rapture",
+    "closed eyes — interior vision, mystical contemplation beyond the senses"
+  ],
+  "description": "A young woman reclines backward in an arched, ecstatic posture, her body draped partially in white cloth. Her eyes are closed, head thrown back, dark hair cascading down. Her right hand grips a dark cross-shaped object raised above her torso. Five white doves flutter and soar around her upper body and the cross, wings spread wide against a muted grey background. The composition conveys intense physical and spiritual abandonment.",
+  "theological_description": "Titled 'Il Canto della Vergine' (The Song of the Virgin), this image evokes the Magnificat — Mary's canticle of praise upon visiting Elizabeth (Luke 1:46-55). The ecstatic posture suggests the overwhelming movement of the Holy Spirit upon Mary, recalling the Annunciation when 'the power of the Most High will overshadow you' (Luke 1:35). The doves, traditional symbols of the Holy Spirit since Christ's baptism (Matthew 3:16), swirl around her in a visible outpouring of grace. The cross she clutches prophetically anticipates Simeon's oracle: 'a sword will pierce your own soul also' (Luke 2:35), binding the Incarnation to the Passion from the very beginning. The white cloth and surrendered body recall the fiat of the Annunciation — 'let it be to me according to your word' — a total kenosis that mirrors and makes possible the kenosis of Christ himself (Philippians 2:7). In patristic thought, Mary's song is the New Covenant counterpart to Hannah's prayer (1 Samuel 2:1-10), reversing the order of the world: the mighty cast down, the humble exalted.",
+  "scripture_refs": [
+    {"ref": "LUK.1.46-55", "relevance": "primary", "reason": "The Magnificat — Mary's song of praise, the direct subject of the title"},
+    {"ref": "LUK.1.35", "relevance": "primary", "reason": "The Holy Spirit overshadowing Mary at the Annunciation, symbolized by the surrounding doves"},
+    {"ref": "LUK.2.35", "relevance": "allusion", "reason": "Simeon's prophecy of the sword piercing Mary's soul, prefigured by the cross she holds"},
+    {"ref": "MAT.3.16", "relevance": "allusion", "reason": "The dove as symbol of the Holy Spirit descending at Christ's baptism"},
+    {"ref": "1SA.2.1-10", "relevance": "typological", "reason": "Hannah's prayer as Old Testament type of the Magnificat"},
+    {"ref": "PHP.2.7", "relevance": "typological", "reason": "Mary's self-emptying surrender prefigures and enables the kenosis of Christ"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["ecstasy", "surrender", "transcendence"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001036",
+    "title": "Il Canto Della Vergine",
+    "artist": "Roberto Ferri",
+    "model": "claude-opus-4-6"
+  }
+}

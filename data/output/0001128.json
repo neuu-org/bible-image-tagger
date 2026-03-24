@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "Executioner", "type": "PERSON"},
+    {"name": "Salome", "type": "PERSON"},
+    {"name": "Herodias", "type": "PERSON"},
+    {"name": "Attendants", "type": "GROUP"}
+  ],
+  "event": "Beheading of John the Baptist",
+  "tags": [
+    "beheading",
+    "john-the-baptist",
+    "martyrdom",
+    "salome",
+    "herodias",
+    "platter",
+    "execution",
+    "prison",
+    "prophetic-witness",
+    "injustice"
+  ],
+  "symbols": [
+    "severed head — the cost of prophetic truth-telling against corrupt power",
+    "platter — the perverse inversion of a banquet gift into an instrument of death",
+    "palm tree — martyrdom and the victory of the righteous",
+    "dungeon archway — imprisonment of the truth by worldly powers",
+    "distant castle — the seat of Herod's corrupt authority"
+  ],
+  "description": "A dark, narrow scene set beneath a stone archway opening to a distant mountainous landscape with a castle. At center, a kneeling executioner in red military garb holds a sword and reaches toward a platter held by a richly dressed young woman. The headless body of a man lies prostrate on the ground before them. Two or three women in elegant gowns stand to the left, one holding the dish to receive the head. A tall palm tree rises at the right edge. The overall palette is dark with the bright landscape visible through the arch.",
+  "theological_description": "The beheading of John the Baptist is one of the most sobering episodes in the Gospels (Mark 6:14-29; Matthew 14:1-12). John, the greatest born of women according to Christ Himself (Matthew 11:11), was imprisoned by Herod Antipas for denouncing his unlawful marriage to Herodias, his brother's wife. The scene depicts the gruesome fulfillment of Salome's request, made at Herodias's instigation during Herod's birthday banquet. Theologically, John's death prefigures Christ's own Passion: both are innocent men killed by weak rulers yielding to political pressure, both are prophets rejected by the powerful. The Baptist, as the forerunner of Christ in life, also becomes the forerunner in death. The Church Fathers saw in this martyrdom a witness to the supremacy of divine law over human authority. John's willingness to die rather than compromise truth embodies the prophetic vocation at its most radical. His blood, like Abel's, cries out from the ground, and his death stands as an eternal indictment of those who sacrifice righteousness for political convenience.",
+  "scripture_refs": [
+    {"ref": "MRK.6.14-29", "relevance": "primary", "reason": "Mark's detailed account of the beheading of John the Baptist at Herod's banquet, the scene directly depicted"},
+    {"ref": "MAT.14.1-12", "relevance": "primary", "reason": "Matthew's parallel account of John's imprisonment and execution by Herod Antipas"},
+    {"ref": "MAT.11.11", "relevance": "allusion", "reason": "Christ's testimony that among those born of women none is greater than John the Baptist, underscoring the gravity of his martyrdom"},
+    {"ref": "LUK.1.76-77", "relevance": "allusion", "reason": "Zechariah's prophecy that John would go before the Lord to prepare His ways — fulfilled even unto death"},
+    {"ref": "REV.6.9-11", "relevance": "typological", "reason": "The souls under the altar who were slain for the word of God — John is among the foremost of these martyrs"},
+    {"ref": "REV.20.4", "relevance": "typological", "reason": "Those beheaded for the testimony of Jesus and the word of God — John's beheading prefigures all subsequent Christian martyrdom"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grim", "solemn", "tragic", "ominous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001128",
+    "title": "Beheading of John the Baptist",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

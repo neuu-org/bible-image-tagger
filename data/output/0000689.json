@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Infant Jesus", "type": "DEITY"},
+    {"name": "Saint Joseph", "type": "PERSON"},
+    {"name": "Female Saint", "type": "PERSON"}
+  ],
+  "event": "Sacred Conversation (Sacra Conversazione)",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "sacred-conversation",
+    "incarnation",
+    "virgin-mother",
+    "infant-Christ",
+    "cross-staff",
+    "divine-infancy",
+    "theotokos",
+    "adoration",
+    "blue-mantle",
+    "maternal-tenderness",
+    "communion-of-saints",
+    "devotion",
+    "epiphany-of-the-divine"
+  ],
+  "symbols": [
+    "cross-topped staff held by Joseph — foreshadowing of the Passion; the Cross is present even at Christ's infancy",
+    "blue mantle of the Virgin — heavenly purity, the Queen of Heaven, and Marian devotion",
+    "white veil on Mary — virginity and consecration",
+    "nude infant Christ — the vulnerability of the Incarnation, God made flesh",
+    "open window with landscape — the world into which Christ has come, creation awaiting redemption",
+    "green curtain behind Mary — life, hope, and the verdant paradise restored through the Incarnation",
+    "book or scroll near Mary — the Word of God, the Scriptures fulfilled in the child she holds"
+  ],
+  "description": "A horizontal composition showing four figures. At right, a seated woman in a blue mantle over a rose garment, wearing a white veil, holds a nude infant on her lap. The baby reclines against her body. At center, a bearded man in a brown-red robe holds a tall staff topped with a cross, looking toward the child. At left, a younger woman in a gold and rose garment with a white headcovering gestures or reaches toward the central group. Behind the figures, an open window reveals a bright landscape with sky and distant hills. A green curtain or wall fills the right background.",
+  "theological_description": "The sacra conversazione genre presents the Virgin and Child in the company of saints, collapsing time to show the communion of the blessed gathered around the Incarnate Word. Mary enthroned with the Christ Child is the Theotokos — the God-Bearer — the living Ark of the New Covenant who carries within her womb what the Ark of old carried in shadow: the divine presence itself (cf. Luke 1:35, 2 Samuel 6:9). The cross-topped staff in Joseph's hand is a startling intrusion of Golgotha into Bethlehem, a visual prolepsis of the Passion that the Church Fathers consistently read back into every scene of Christ's infancy. As Simeon prophesied, a sword would pierce Mary's soul (Luke 2:35), and that shadow falls even here. The female saint at left, likely Saint Catherine or another virgin-martyr, represents the Church — the community of believers drawn to adore the incarnate God. Her presence alongside the Holy Family enacts the mystery described in Ephesians 1:10: the gathering up of all things in Christ. The open window behind the figures is not merely architectural but theological — it frames the created world that the Logos entered to redeem (John 1:14), the light streaming in paralleling the light of the world made flesh among us.",
+  "scripture_refs": [
+    {"ref": "LUK.2.7", "relevance": "primary", "reason": "The Nativity scene underlying the composition: Mary with the infant Christ"},
+    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us — the central theological reality of the Incarnation depicted"},
+    {"ref": "LUK.1.35", "relevance": "primary", "reason": "The Holy Spirit will come upon you — Mary as Theotokos, the virgin mother of God incarnate"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "Simeon's prophecy that a sword will pierce Mary's soul — foreshadowed by the cross-staff Joseph holds"},
+    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son — the Isaianic prophecy fulfilled in this scene of Virgin and Child"},
+    {"ref": "EPH.1.10", "relevance": "allusion", "reason": "The gathering up of all things in Christ — the saints assembled around the incarnate Word enact this cosmic unity"},
+    {"ref": "MAT.1.23", "relevance": "primary", "reason": "Emmanuel, God with us — the Holy Family scene is the visible sign of God's presence among humanity"}
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "serenity",
+    "devotion",
+    "tenderness",
+    "reverence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000689",
+    "title": "Sacred conversation",
+    "artist": "Sebastiano del Piombo",
+    "model": "claude-opus-4-6"
+  }
+}

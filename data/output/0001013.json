@@ -1,0 +1,34 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "The Immaculate Conception",
+  "tags": ["immaculate-conception", "virgin-mary", "crescent-moon", "crown-of-stars", "clouds", "prayer-hands", "marian-devotion", "purity"],
+  "symbols": [
+    "crescent moon beneath her feet — purity and triumph over sin, echoing the woman of Revelation 12",
+    "twelve stars above her head — the crown of twelve stars from Revelation 12:1, representing the twelve tribes of Israel",
+    "hands clasped in prayer — humility and total submission to God's will",
+    "dark blue mantle — heavenly royalty and virginity",
+    "billowing clouds — the heavenly realm, divine glory surrounding the Mother of God",
+    "landscape with cypress tree below — earthly realm left behind in her exaltation"
+  ],
+  "description": "A young woman stands elevated upon a translucent crescent moon, suspended above a distant landscape. She wears a mauve-pink robe and dark blue mantle, her hands pressed together in prayer at her chest. Her head is slightly bowed with downcast eyes, and a ring of twelve small stars crowns her head like a luminous diadem. Massive white and golden clouds billow around her against a dark sky. Below, a faint landscape with small architectural structures and a tall tree is visible.",
+  "theological_description": "The Immaculate Conception is the dogma that Mary was preserved from original sin from the first moment of her conception, preparing her to be the worthy vessel of the Incarnation. Velázquez follows the iconographic program codified by Francisco Pacheco: the young Virgin standing on the crescent moon, crowned with twelve stars, as described in Revelation 12:1 — 'A woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.' The crescent moon beneath her feet symbolizes her triumph over the mutable world and over sin. The prayerful posture reflects the Lucan Magnificat: 'He has looked upon the lowliness of his handmaid' (Luke 1:48). Patristic tradition, especially Ephrem the Syrian and later Duns Scotus, developed the theology of Mary as the New Eve whose sinlessness reverses the fall. The dark sky parting with luminous clouds suggests the breakthrough of grace into a fallen world. The earthly landscape below, small and distant, reinforces her elevation above the created order — she is the 'sealed garden' (Song of Songs 4:12) and the 'gate closed' (Ezekiel 44:2) through whom God alone has entered.",
+  "scripture_refs": [
+    {"ref": "REV.12.1", "relevance": "primary", "reason": "The woman clothed with the sun, moon under feet, crowned with twelve stars — direct iconographic source"},
+    {"ref": "LUK.1.28", "relevance": "primary", "reason": "The angelic salutation 'full of grace' (kecharitomene) is the scriptural basis for the doctrine of the Immaculate Conception"},
+    {"ref": "LUK.1.48", "relevance": "allusion", "reason": "Mary's humble posture reflects the Magnificat: 'He has regarded the lowliness of his handmaid'"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The Protoevangelium — enmity between the woman and the serpent; Mary as the New Eve crushing sin"},
+    {"ref": "SNG.4.12", "relevance": "typological", "reason": "The enclosed garden as a figure of Mary's inviolate purity"},
+    {"ref": "EZK.44.2", "relevance": "typological", "reason": "The closed gate through which only the Lord has passed — patristic type of Mary's perpetual virginity"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["reverence", "serenity", "transcendence"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001013",
+    "title": "The Immaculate Conception",
+    "artist": "Diego Velázquez",
+    "model": "claude-opus-4-6"
+  }
+}

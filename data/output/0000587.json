@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Saint John the Apostle", "type": "PERSON"},
+    {"name": "Pontius Pilate", "type": "PERSON"},
+    {"name": "Roman soldiers", "type": "GROUP"},
+    {"name": "Disciples", "type": "GROUP"},
+    {"name": "Crowds and witnesses", "type": "GROUP"}
+  ],
+  "event": "The Passion of Christ in nine scenes, centered on the Crucifixion",
+  "tags": [
+    "passion-of-christ",
+    "crucifixion",
+    "stained-glass",
+    "lancet-window",
+    "golgotha",
+    "trial-of-jesus",
+    "way-of-the-cross",
+    "stations-of-the-cross",
+    "crown-motif",
+    "liturgical-art",
+    "triptych-window"
+  ],
+  "symbols": [
+    "Crucified Christ dominating the central lancet — the cross as axis mundi, the center of salvation history; 'I decided to know nothing except Jesus Christ and him crucified' (1 Cor 2:2)",
+    "Nine-panel arrangement — systematic meditation on Christ's suffering in sequential stages, a visual Stations of the Cross",
+    "Three lancet windows forming a triptych — Trinitarian structure: the Father who sends, the Son who suffers, the Spirit who sustains",
+    "Golden crowns in the tracery above — the crown of glory beyond the crown of thorns; 'Be faithful unto death, and I will give you the crown of life' (Rev 2:10)",
+    "Light passing through stained glass — divine light transfiguring material substance, as the Incarnation transfigures suffering into redemption"
+  ],
+  "description": "Three tall Gothic lancet stained-glass panels depicting the Passion. The central lancet shows the Crucifixion: Christ on the cross flanked by the Virgin Mary, Saint John, and other figures. Above it, another Passion scene. The left lancet has stacked panels of earlier events — the trial before Pilate and entry into Jerusalem — with figures in blues, reds, and purples. The right lancet shows further scenes with groups of figures. Gothic tracery at the top contains golden crowns. Saturated blues, reds, greens, and golden yellows glow with exterior daylight.",
+  "theological_description": "This Passion window presents Christ's suffering, death, and redemptive work in nine interconnected panels inviting comprehensive meditation. The three lancets with multiple registers create a visual theology both narrative and typological: reading across and down, the viewer walks with Christ through successive Passion stages, while the architectural unity declares these a single coherent act of salvation. The Crucifixion occupies the center — the theological heart. This reflects Paul's conviction that the cross is the interpretive key to reality: 'Far be it from me to boast except in the cross of our Lord Jesus Christ' (Gal 6:14). The stained-glass medium carries theological significance: unlike paintings lit from the front, stained glass requires light from beyond to become visible — plain glass becomes radiant with glory. This is an analogy of the Passion: suffering dark from a human perspective becomes luminous when God's redemptive purpose shines through. The panels recall the Stations of the Cross. Each is a theological moment: the trial raises questions of kingship ('My kingdom is not of this world,' Jn 18:36); carrying the cross manifests discipleship ('take up his cross,' Mt 16:24); the Crucifixion is supreme revelation ('when I am lifted up, I will draw all people to myself,' Jn 12:32). The crowns in the tracery point beyond Passion to Resurrection triumph.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.32-56",
+      "relevance": "primary",
+      "reason": "The way to Golgotha, the Crucifixion, and the death of Jesus — the central narrative depicted across the nine panels"
+    },
+    {
+      "ref": "JHN.19.16-37",
+      "relevance": "primary",
+      "reason": "The Johannine Crucifixion including Jesus' mother and the beloved disciple at the cross, visible in the central panel"
+    },
+    {
+      "ref": "MRK.15.1-39",
+      "relevance": "primary",
+      "reason": "The Markan Passion from trial before Pilate through the centurion's confession — events depicted across the lancets"
+    },
+    {
+      "ref": "LUK.23.1-49",
+      "relevance": "primary",
+      "reason": "The Lukan Passion including the trial, the way of the cross, and the words from the cross — events distributed across panels"
+    },
+    {
+      "ref": "ISA.53.3-7",
+      "relevance": "typological",
+      "reason": "He was despised and rejected, a man of sorrows — the Suffering Servant prophecy providing the Old Testament foundation for the Passion"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "He humbled himself becoming obedient to death, even death on a cross — the kenotic hymn describing the trajectory from glory to cross"
+    },
+    {
+      "ref": "JHN.12.32",
+      "relevance": "allusion",
+      "reason": "When I am lifted up from the earth, I will draw all people to myself — the elevated crucified Christ drawing the eyes of all who enter"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death, and I will give you the crown of life — the crowns in the tracery above the Passion panels point to eschatological victory"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemn", "sorrowful", "luminous", "meditative"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000587",
+    "title": "Loughrea St. Brendan's Cathedral. Passion in Nine Scenes",
+    "artist": "Sarah Purser",
+    "model": "claude-opus-4-6"
+  }
+}
