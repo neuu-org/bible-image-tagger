@@ -1,0 +1,51 @@
+{
+  "characters": [],
+  "event": "Memento Mori",
+  "tags": [
+    "memento mori",
+    "vanitas",
+    "mortality",
+    "skull",
+    "MORIERIS inscription",
+    "Latin eschatological warning",
+    "death as universal leveler",
+    "meditation on death",
+    "diptych reverse",
+    "trompe-l'oeil niche",
+    "Golgotha/Calvary allusion",
+    "Adam's skull",
+    "contemplation of the Four Last Things",
+    "ars moriendi tradition",
+    "penitential devotion",
+    "eschatological sobriety"
+  ],
+  "symbols": [
+    "skull — human mortality, the inevitability of death, and the skull of Adam at the foot of the Cross on Golgotha",
+    "stone niche — the tomb, confinement of death, and the sepulchre from which Christ rose",
+    "MORIERIS inscription — Latin for 'You shall die,' a direct eschatological admonition to the viewer",
+    "empty eye sockets — the vanity of earthly sight and the need for spiritual vision",
+    "bare bone — the stripping away of all earthly flesh, beauty, and pretension before God's judgment"
+  ],
+  "description": "A single human skull rests inside a shallow, square stone niche rendered in trompe-l'oeil fashion. The skull faces slightly left, its jaw intact and teeth visible, its bone a warm ivory tone against the cool grey stone recess. Deep shadows fill the eye sockets and nasal cavity. Below the niche, carved in dark Roman capitals against the stone ledge, is the Latin word MORIERIS. The background is a plain, pale surface suggesting a stone wall.",
+  "theological_description": "This memento mori panel, placed on the reverse of a devotional diptych, functions as a penitential counterweight to the sacred images on the interior. The Latin inscription 'MORIERIS' ('You shall die') echoes Ecclesiastes' relentless refrain that all is vanity (Eccl 1:2) and Sirach's counsel to 'remember your last days' (Sir 7:36). In patristic and medieval theology, the skull carries a rich Christological layer: tradition identifies it as the skull of Adam, buried at Golgotha ('the place of the skull,' Matt 27:33), so that Christ's blood flowed down upon the first man's bones, effecting the redemption of all humanity from the death Adam introduced (Rom 5:12-17). The Desert Fathers and the monastic ars moriendi tradition used skull meditation as a spiritual discipline -- not morbid fixation, but sober preparation for the particular judgment (Heb 9:27). The niche evokes the tomb, but also the empty tomb of the Resurrection: for the Christian, the skull is not despair but the gateway through which one must pass to eternal life. The viewer, closing the diptych, encounters this skull last -- a final exhortation to live sub specie aeternitatis.",
+  "scripture_refs": [
+    {"ref": "ECC.1.2", "relevance": "primary", "reason": "Vanitas vanitatum -- the theological foundation of all memento mori art, declaring the transience of earthly things."},
+    {"ref": "SIR.7.36", "relevance": "primary", "reason": "'In all you do, remember your last days, and you will never sin' -- the direct spiritual purpose of the memento mori tradition."},
+    {"ref": "HEB.9.27", "relevance": "primary", "reason": "'It is appointed for man to die once, and after that the judgment' -- the eschatological truth MORIERIS encapsulates."},
+    {"ref": "MAT.27.33", "relevance": "typological", "reason": "Golgotha, 'the place of the skull,' where Christ was crucified -- patristic tradition places Adam's skull beneath the Cross."},
+    {"ref": "ROM.5.12", "relevance": "typological", "reason": "Through one man (Adam) death entered the world -- the skull represents Adamic mortality redeemed by Christ's sacrifice."},
+    {"ref": "1CO.15.22", "relevance": "typological", "reason": "'As in Adam all die, so in Christ shall all be made alive' -- the skull is both death's emblem and the promise of resurrection."},
+    {"ref": "GEN.3.19", "relevance": "allusion", "reason": "'You are dust, and to dust you shall return' -- God's pronouncement after the Fall, the origin of all memento mori reflection."},
+    {"ref": "PSA.90.12", "relevance": "allusion", "reason": "'Teach us to number our days, that we may gain a heart of wisdom' -- the devotional intention behind contemplating the skull."},
+    {"ref": "PHP.1.21", "relevance": "allusion", "reason": "'For to me, to live is Christ and to die is gain' -- the Pauline transformation of death from terror to hope that undergirds Christian memento mori."}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["solemn", "contemplative", "austere", "sobering"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000050",
+    "title": "St. John and Veronica Diptych (reverse of the left wing)",
+    "artist": "Hans Memling, 1483",
+    "model": "claude-opus-4-6"
+  }
+}

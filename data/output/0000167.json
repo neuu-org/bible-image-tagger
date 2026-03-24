@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Pilgrims/Travelers", "type": "GROUP"},
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "Pilgrimage to a Marian Chapel at Subiaco",
+  "tags": [
+    "Marian devotion",
+    "wayside shrine",
+    "pilgrimage",
+    "Subiaco",
+    "Italian landscape",
+    "mountain chapel",
+    "sacred geography",
+    "divine light",
+    "Benedictine heritage",
+    "devotional journey"
+  ],
+  "symbols": [
+    "ruined tower shrine — enduring faith amid temporal decay",
+    "golden sunset light — divine glory and providential presence",
+    "mountain path — the spiritual journey of ascent toward God",
+    "distant monastery/fortress — the Church as a refuge on a hill",
+    "travelers gesturing toward the shrine — human longing for the sacred"
+  ],
+  "description": "A dramatic mountainous Italian landscape at sunset. On a rocky promontory at center stands a tall, partially ruined brick tower or wayside chapel structure with a small roof. Several figures gather on the ridge at left, one gesturing upward toward the shrine or the distant vista. Behind them, a fortified monastery or town sits atop a distant hill, bathed in warm golden light. Steep cliffs frame the right side. The sky is luminous with sunset clouds.",
+  "theological_description": "This landscape of Subiaco, the site of Saint Benedict's early monastic life, transforms physical geography into spiritual topography. The chapel dedicated to the Virgin stands as a testament to Marian devotion woven into the fabric of monastic Christianity. The ruined yet still standing shrine speaks to the persistence of faith through centuries of historical change -- the same truth Paul articulates when he says that what is seen is temporary, but what is unseen is eternal (2 Corinthians 4:18). The pilgrims ascending the mountain path recall the Psalms of Ascent, where the faithful journey upward to Jerusalem and to the presence of God. The golden light suffusing the scene evokes the Shekinah glory, the manifest radiance of God's dwelling among His people. Subiaco itself carries typological weight as a place of wilderness withdrawal, echoing Elijah at Horeb and Christ in the desert, where solitude becomes the crucible of encounter with the divine. Mary, to whom this chapel is dedicated, stands as the model contemplative -- she who pondered all things in her heart (Luke 2:19).",
+  "scripture_refs": [
+    {"ref": "PSA.121.1-2", "relevance": "allusion", "reason": "I lift up my eyes to the mountains -- the mountain landscape and upward gaze of the pilgrims"},
+    {"ref": "LUK.2.19", "relevance": "allusion", "reason": "Mary pondering in her heart, reflected in the contemplative chapel dedication"},
+    {"ref": "MAT.5.14", "relevance": "allusion", "reason": "A city set on a hill cannot be hidden -- the distant hilltop monastery visible to all"},
+    {"ref": "2CO.4.18", "relevance": "allusion", "reason": "The temporal ruin of the shrine contrasted with the eternal faith it represents"},
+    {"ref": "1KI.19.8-12", "relevance": "typological", "reason": "Elijah's mountain wilderness encounter with God, prefiguring monastic withdrawal at Subiaco"},
+    {"ref": "PSA.84.5-7", "relevance": "allusion", "reason": "Blessed are those whose strength is in you, whose hearts are set on pilgrimage"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["contemplative", "majestic", "nostalgic", "luminous", "serene"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000167",
+    "title": "The Chapel of the Virgin at Subiaco",
+    "artist": "Samuel Morse",
+    "model": "claude-opus-4-6"
+  }
+}

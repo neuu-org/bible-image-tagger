@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Mary of Bethany", "type": "PERSON"},
+    {"name": "Martha of Bethany", "type": "PERSON"},
+    {"name": "Young kitchen maid", "type": "PERSON"},
+    {"name": "Elderly woman", "type": "PERSON"}
+  ],
+  "event": "Christ in the House of Mary and Martha",
+  "tags": [
+    "Christianity",
+    "Jesus-Christ",
+    "Mary-and-Martha",
+    "contemplative-vs-active-life",
+    "vita-activa-vs-vita-contemplativa",
+    "hospitality",
+    "discipleship",
+    "kitchen-scene",
+    "bodegon",
+    "domestic-labor",
+    "listening-to-the-Word",
+    "the-better-part",
+    "distraction-by-worldly-cares",
+    "spiritual-nourishment",
+    "Eucharistic-hospitality",
+    "fish-as-Christological-symbol",
+    "eggs-as-resurrection-symbol",
+    "foreground-background-duality",
+    "domestic-vocation",
+    "Augustinian-two-lives",
+    "word-and-sacrament"
+  ],
+  "symbols": [
+    "fish — Christ himself (ichthys acronym), Eucharistic food, and divine provision",
+    "eggs — resurrection, new life, and Easter symbolism",
+    "mortar and pestle — the grinding labor of daily service and transformation",
+    "garlic and red peppers — earthly sustenance, the bitterness and spice of temporal work",
+    "window or opening showing Jesus — revelation, the glimpse into the sacred beyond the mundane",
+    "dark kitchen interior — worldly distraction and the obscurity of a life absorbed in material concerns",
+    "seated posture of Mary at Jesus's feet — the contemplative life (vita contemplativa) chosen as the better part",
+    "elderly woman's gesture toward the background — the voice of wisdom directing attention toward Christ",
+    "dark ceramic jug — humble vessel of service"
+  ],
+  "description": "A kitchen scene dominates the foreground: a young woman in a yellow-green blouse and white headscarf works with a mortar and pestle, her expression pensive or sullen. Behind her, an elderly woman in a dark headscarf gestures toward the background with one hand while touching the young woman's shoulder with the other. On the table lie four silver fish on a dark ceramic plate, four white eggs, scattered garlic cloves, and red peppers. A dark jug stands nearby. Through a rectangular opening in the upper right, a secondary scene shows Christ seated in a blue robe speaking to a woman kneeling at his feet while another stands nearby. The foreground palette is dark and earthy; the background scene is softly illuminated.",
+  "theological_description": "Velazquez's masterful composition sets up a visual and theological dialectic between the active and contemplative lives that lies at the heart of Luke 10:38-42. The foreground kitchen — with its raw fish, eggs, garlic, and pestle — represents the vita activa, the life of service and material provision that Martha embodies. The background scene, glimpsed through an opening variously interpreted as a window, mirror, or painting-within-a-painting, shows the vita contemplativa: Mary seated at Jesus's feet, having chosen the better part which shall not be taken from her. The genius of the arrangement is that the viewer, like the foreground servant, is initially absorbed in the material world and must look beyond it to find Christ. The elderly woman's gesture functions as a prophetic direction — she points the young woman (and the viewer) toward the encounter with Jesus. The fish on the table carry rich Christological significance: the Greek ichthys as acronym for Jesus Christ, God's Son, Savior, and the Eucharistic overtones of the feeding miracles. The eggs suggest resurrection hope. The painting thus becomes a meditation on how the daily bread of labor finds its ultimate meaning only in relation to the Word of God (Matthew 4:4). Martha's distraction is not condemned but relativized: service matters, yet sitting at Jesus's feet is the one necessary thing (Luke 10:42). The foreground servant's sullen expression may mirror Martha's complaint — Lord, do you not care that my sister has left me to serve alone? — while the background scene silently answers with Christ's gentle correction. Augustine and Origen both read this passage as revealing two dimensions of the Christian life: Martha represents the active Church serving in the world, Mary the contemplative soul attending to the Logos.",
+  "scripture_refs": [
+    {"ref": "LUK.10.38-42", "relevance": "primary", "reason": "The direct biblical narrative depicted: Jesus visits Mary and Martha, and declares Mary has chosen the better part"},
+    {"ref": "LUK.10.40", "relevance": "primary", "reason": "Martha was distracted with much serving — the foreground kitchen scene embodies Martha's burden of preparation"},
+    {"ref": "LUK.10.42", "relevance": "primary", "reason": "One thing is necessary; Mary has chosen the good portion — the theological crux visible in the background scene"},
+    {"ref": "MAT.4.4", "relevance": "allusion", "reason": "Man shall not live by bread alone but by every word from God — the contrast between physical nourishment in the foreground and spiritual nourishment in the background"},
+    {"ref": "JHN.11.1-5", "relevance": "allusion", "reason": "The household of Mary, Martha, and Lazarus at Bethany, beloved friends of Jesus, providing broader context for this domestic scene"},
+    {"ref": "JHN.12.1-3", "relevance": "typological", "reason": "Mary's later anointing of Jesus's feet completes the devotional pattern begun in the Lukan account"},
+    {"ref": "MAT.6.33", "relevance": "allusion", "reason": "Seek first the kingdom of God — the painting's composition directs the eye from earthly provision to encounter with Christ"},
+    {"ref": "JHN.6.27", "relevance": "typological", "reason": "Do not work for the food that perishes but for the food that endures to eternal life — the fish on the table as both earthly and Christological food"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "tension",
+    "domestic-warmth",
+    "quiet-rebuke",
+    "pensiveness",
+    "spiritual-longing"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000017",
+    "title": "Christ in the House of Mary and Martha",
+    "artist": "Diego Velazquez",
+    "model": "claude-opus-4-6"
+  }
+}

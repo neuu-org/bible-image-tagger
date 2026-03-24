@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Saint Nicholas of Bari",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Nicholas as Bishop of Myra",
+  "tags": [
+    "bishop",
+    "episcopacy",
+    "pastoral authority",
+    "Christian sainthood",
+    "church father",
+    "generosity",
+    "orthodoxy defender",
+    "mitre",
+    "crozier",
+    "Gospel book",
+    "red cope",
+    "gold halo",
+    "altarpiece panel"
+  ],
+  "symbols": [
+    "bishop's mitre — ecclesiastical authority and apostolic succession",
+    "crozier (pastoral staff) — shepherd's care over the flock of Christ",
+    "book (Gospel or Scripture) — fidelity to sacred doctrine and teaching office",
+    "red cope — martyrdom-readiness and the blood of Christ's sacrifice",
+    "gold halo — sanctity and divine glory",
+    "gold-embroidered vestments — heavenly splendor and priestly dignity",
+    "pointed arch niche — heavenly dwelling and sacred space"
+  ],
+  "description": "A full-length standing figure of a bishop occupies a narrow pointed-arch panel against a dark background. He wears an ornate golden mitre and a richly decorated red cope over a deep blue-violet dalmatic. In his left hand he holds a green-bound book pressed to his chest, while his right hand grasps a tall golden crozier. A large gold halo radiates behind his head. His expression is calm and authoritative. Beneath his feet a decorative carpet with floral motifs is visible.",
+  "theological_description": "Saint Nicholas of Myra (Bari) embodies the episcopal ideal of the early Church: a shepherd who defends orthodox doctrine, distributes charity to the poor, and exercises apostolic authority. His presence holding the Scriptures reflects the bishop's primary duty as guardian and proclaimer of divine revelation. The crozier signifies pastoral governance rooted in Christ the Good Shepherd (John 10:11). The red vestments recall both the liturgical color of martyrdom and Nicholas's legendary defense of Trinitarian orthodoxy at the Council of Nicaea (325 AD). As a post-biblical saint, Nicholas is typologically linked to the shepherding motif that runs from Moses through the Apostles, and his legendary gift-giving mirrors the divine generosity described in 2 Corinthians 9:7. The gold halo and arch-shaped frame place him within the communion of saints, participating in the heavenly liturgy described in Revelation.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.10.11",
+      "relevance": "typological",
+      "reason": "Christ as the Good Shepherd is the archetype for the bishop's pastoral office symbolized by the crozier"
+    },
+    {
+      "ref": "1TI.3.2",
+      "relevance": "primary",
+      "reason": "Pauline qualifications for a bishop — apt to teach, holding fast faithful doctrine — depicted by the book in hand"
+    },
+    {
+      "ref": "ACT.20.28",
+      "relevance": "typological",
+      "reason": "Paul's charge to the Ephesian elders to shepherd the flock parallels Nicholas's episcopal vocation"
+    },
+    {
+      "ref": "2CO.9.7",
+      "relevance": "allusion",
+      "reason": "God loves a cheerful giver — Nicholas is the paradigmatic saint of generous almsgiving"
+    },
+    {
+      "ref": "TIT.1.7-9",
+      "relevance": "primary",
+      "reason": "Requirements for a bishop to hold firm to the trustworthy word, reflecting Nicholas's defense of orthodoxy"
+    },
+    {
+      "ref": "REV.4.4",
+      "relevance": "allusion",
+      "reason": "The gold halo and enthroned dignity echo the elders clothed in white with golden crowns in the heavenly court"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "authoritative",
+    "dignified",
+    "reverent",
+    "serene"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000136",
+    "title": "St. Nicholas of Bari",
+    "artist": "Fra Angelico, 1424",
+    "model": "claude-opus-4-6"
+  }
+}

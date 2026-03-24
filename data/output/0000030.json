@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Joan of Arc",
+      "type": "OTHER"
+    },
+    {
+      "name": "French soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Townspeople",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Triumphal entry of Joan of Arc into a liberated city",
+  "tags": [
+    "saint",
+    "halo",
+    "warrior maiden",
+    "divine mission",
+    "white horse",
+    "military procession",
+    "holy war",
+    "divine vocation",
+    "armor of God",
+    "triumphal entry",
+    "liberation",
+    "virginal consecration",
+    "prophetic charism",
+    "typology of Deborah",
+    "mural"
+  ],
+  "symbols": [
+    "halo — sanctity and divine election",
+    "white horse — purity, divine favor, and righteous conquest (cf. Revelation 19:11)",
+    "armor — spiritual warfare and the armor of God (Ephesians 6)",
+    "city gates — triumphal entry and deliverance of the oppressed",
+    "banners — rallying under divine authority",
+    "mounted procession — triumphal entry echoing Christ entry into Jerusalem"
+  ],
+  "description": "A haloed Joan of Arc rides a white horse at the head of a procession through a city. She wears full plate armor and sits upright in the saddle, radiating authority. Armed soldiers on horseback follow behind her, carrying standards. Townspeople line the route, some kneeling, others reaching toward her. A fortified stone city with towers and walls rises in the background. A French inscription runs along the bottom of the mural. The scene conveys liberation, triumph, and the reverence of the crowd for a figure perceived as divinely sent.",
+  "theological_description": "Though Joan of Arc is not a biblical figure, her story has been read through a deeply scriptural lens since the medieval period. The halo marks her as one set apart by God, echoing the calling of the Old Testament judges (Judges 4-5, Deborah) and prophets who arose to deliver God's people in times of national crisis. Her triumphal entry on a white horse evokes Revelation 19:11, where Christ rides forth in righteousness. The medieval theological imagination saw Joan as a typological echo of Judith (Judith 13), the woman chosen by God to deliver Israel through unexpected means. Her armor resonates with Ephesians 6:11-17, the armor of God given to those who fight not against flesh and blood but against spiritual powers. The scene also parallels Christ's entry into Jerusalem (Matthew 21:1-11), where the crowds gather to witness the arrival of a divinely appointed deliverer. The Magnificat theme is present: the lowly handmaid exalted by God to confound the mighty (Luke 1:46-55). Joan embodies the Marian typology of the woman who crushes the enemy (Genesis 3:15), her virginal consecration and obedience to heavenly voices placing her within the tradition of those through whom God works unexpected deliverance.",
+  "scripture_refs": [
+    {
+      "ref": "REV.19.11",
+      "relevance": "typological",
+      "reason": "The rider on the white horse going forth in righteousness parallels Joan's divinely commissioned military mission"
+    },
+    {
+      "ref": "JDG.4.4-9",
+      "relevance": "typological",
+      "reason": "Deborah as a woman raised by God to lead Israel in battle provides the Old Testament type for Joan's calling"
+    },
+    {
+      "ref": "EPH.6.11-17",
+      "relevance": "allusion",
+      "reason": "The armor of God imagery applied to spiritual and physical warfare against evil"
+    },
+    {
+      "ref": "JDT.13.1-10",
+      "relevance": "typological",
+      "reason": "Judith as a woman who delivers God's people through courage and divine empowerment"
+    },
+    {
+      "ref": "MAT.21.1-11",
+      "relevance": "allusion",
+      "reason": "Triumphal entry into the city with crowds gathering echoes Christ's entry into Jerusalem"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat theme of the lowly exalted and the mighty cast down, realized in Joan's mission"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "reverent",
+    "heroic",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000030",
+    "title": "Scène De La Vie De Jeanne D'Arc",
+    "artist": "Lionel Noel Royer, 1913",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Temple Guards / Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Mary (holy woman with halo)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Betrayal of Jesus by Judas in the Garden of Gethsemane",
+  "tags": [
+    "betrayal",
+    "kiss of Judas",
+    "Gethsemane",
+    "Passion of Christ",
+    "arrest of Jesus",
+    "treachery",
+    "redemptive suffering",
+    "armed mob",
+    "torches",
+    "halo",
+    "night scene",
+    "disciples",
+    "sorrow",
+    "sacrificial love"
+  ],
+  "symbols": [
+    "kiss — perverted sign of love used as instrument of betrayal",
+    "halo around Jesus — divine identity and sinlessness even in humiliation",
+    "halo on woman at right — sanctity of the faithful who remain near Christ",
+    "torch and weapons — worldly power arrayed against the Prince of Peace",
+    "darkness — spiritual blindness and the 'hour of the power of darkness' (Luke 22:53)",
+    "Judas's embrace — counterfeit intimacy masking mortal treachery",
+    "Christ's calm posture — willing submission to the Father's redemptive plan"
+  ],
+  "description": "A sepia-toned composition shows Judas in the foreground embracing and kissing Jesus, who stands with a serene expression and a faint halo. Behind Judas, armed men with torches and weapons press forward from the left. To the right of Jesus, several disciples look on with distress, and a haloed woman — likely representing a holy follower — stands at the far right with a grieving expression. The figures are densely grouped, creating an atmosphere of urgency and encroaching violence around the central pair.",
+  "theological_description": "The Kiss of Judas is the hinge-moment of the Passion narrative, where intimate discipleship collapses into the darkest betrayal in salvation history. Judas's kiss perverts the sign of fellowship (Romans 16:16) into a signal for arrest, fulfilling Jesus's own prophecy at the Last Supper (John 13:21-26). Christ's calm acceptance demonstrates His willing obedience to the Father's will (John 18:4-11; Matthew 26:54), transforming a moment of human treachery into the catalyst for cosmic redemption. The armed mob represents the futility of worldly force against the Lamb of God who lays down His life voluntarily. The grieving disciples embody the scattering prophesied in Zechariah 13:7 ('Strike the shepherd, and the sheep will be scattered'). Typologically, Judas's betrayal of a covenant brother echoes Joseph's brothers selling him (Genesis 37:28) and Joab's treacherous kiss of Amasa (2 Samuel 20:9-10), while Christ stands as the ultimate innocent sufferer foreshadowed throughout the Psalms.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.48-50",
+      "relevance": "primary",
+      "reason": "Judas's prearranged sign — 'The one I kiss is the man; arrest him' — is the exact moment depicted"
+    },
+    {
+      "ref": "LUK.22.47-48",
+      "relevance": "primary",
+      "reason": "Jesus's poignant question: 'Judas, are you betraying the Son of Man with a kiss?'"
+    },
+    {
+      "ref": "JHN.18.3-8",
+      "relevance": "primary",
+      "reason": "John's account of the arrest with lanterns, torches, and weapons matches the armed mob depicted"
+    },
+    {
+      "ref": "ZEC.13.7",
+      "relevance": "typological",
+      "reason": "The striking of the shepherd and scattering of the flock — fulfilled in the disciples' distress and flight"
+    },
+    {
+      "ref": "2SA.20.9-10",
+      "relevance": "typological",
+      "reason": "Joab's treacherous kiss of Amasa prefigures Judas's use of a kiss as instrument of death"
+    },
+    {
+      "ref": "PSA.41.9",
+      "relevance": "typological",
+      "reason": "The close friend who shared bread lifting his heel — messianic psalm applied to Judas's betrayal (John 13:18)"
+    },
+    {
+      "ref": "LUK.22.53",
+      "relevance": "allusion",
+      "reason": "Jesus declares 'this is your hour — when darkness reigns,' reflected in the dark tonal atmosphere"
+    },
+    {
+      "ref": "GEN.37.28",
+      "relevance": "typological",
+      "reason": "Joseph sold by his own brothers for silver prefigures Christ betrayed by His own disciple for thirty pieces"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "tense",
+    "sorrowful",
+    "foreboding",
+    "somber",
+    "tragic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000148",
+    "title": "The Judas kiss",
+    "artist": "Karl Bryullov, 1847",
+    "model": "claude-opus-4-6"
+  }
+}

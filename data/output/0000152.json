@@ -1,0 +1,110 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anthony of Padua",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Sacra Conversazione of John the Baptist with four saints",
+  "tags": [
+    "John the Baptist",
+    "sacra conversazione",
+    "saints",
+    "Franciscan",
+    "precursor of Christ",
+    "repentance",
+    "baptism",
+    "reed cross",
+    "animal skin",
+    "martyrdom",
+    "monasticism",
+    "asceticism",
+    "armor",
+    "devotional grouping"
+  ],
+  "symbols": [
+    "reed cross with banner — John's role as herald proclaiming the Lamb of God",
+    "pointing finger raised upward — directing attention to Christ who is above all",
+    "animal skin garment — John's ascetic wilderness life and prophetic call",
+    "book held by Jerome — sacred Scripture and the Vulgate translation",
+    "red cloak on Jerome — his status as cardinal and Church Doctor",
+    "armor and helmet on Sebastian — Roman military identity and spiritual warfare",
+    "brown Franciscan habit — evangelical poverty and imitation of Christ",
+    "landscape background — the created world bearing witness to God's glory"
+  ],
+  "description": "Five figures stand in a row against a soft landscape with distant blue mountains and pale sky. At the center, John the Baptist dominates the composition, barefoot and taller than the others, wearing an animal-skin garment under a blue-green mantle. He holds a tall reed cross in his left hand and raises his right index finger skyward. To the far left, a Franciscan friar in a brown habit stands quietly. Beside him, an elderly bearded figure in a red and pink robe holds an open book. To John's right, a youthful figure in armor with a plumed helmet and pink cloak holds an arrow. At the far right, another tonsured Franciscan friar holds a cross.",
+  "theological_description": "This sacra conversazione places John the Baptist at the center as the forerunner of Christ, the greatest born of women (Matthew 11:11), whose entire vocation was to point beyond himself to the Lamb of God (John 1:29). His raised finger is the classic iconographic gesture directing all attention to Christ. The surrounding saints span centuries of Christian witness: Jerome, the great translator and Doctor of the Church, represents fidelity to Scripture; Sebastian, the Roman soldier-martyr, embodies courageous witness unto death; and the two Franciscans recall the evangelical poverty that echoes John's own ascetic desert life. Together they form a communion of saints united across time in their testimony to Christ. Typologically, John stands at the hinge between Old and New Testaments, the last prophet who bridges Malachi's promise of Elijah's return (Malachi 4:5) with the Gospel's fulfillment. The desert landscape evokes Isaiah 40:3 — the voice crying in the wilderness — while the gathering of saints around the Baptist creates a visual ecclesiology of the Church gathered around the proclamation of Christ.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John's core proclamation 'Behold, the Lamb of God' is signified by his pointing gesture and reed cross"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "primary",
+      "reason": "Jesus's declaration that among those born of women none is greater than John — reflected in his central, elevated position"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness to prepare the way of the Lord — John's prophetic identity and the landscape setting"
+    },
+    {
+      "ref": "MAL.4.5",
+      "relevance": "typological",
+      "reason": "The promise of Elijah's return before the great day of the Lord, fulfilled in John the Baptist"
+    },
+    {
+      "ref": "MAT.3.4",
+      "relevance": "primary",
+      "reason": "Description of John's clothing of camel's hair — directly depicted in the animal-skin garment"
+    },
+    {
+      "ref": "LUK.3.3-6",
+      "relevance": "primary",
+      "reason": "John's ministry of baptism and repentance, the core mission of the central figure"
+    },
+    {
+      "ref": "REV.7.9-14",
+      "relevance": "allusion",
+      "reason": "The great multitude of saints from every era gathered before the Lamb — prefigured in this communion of saints"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses surrounding the believer — visualized in the saints flanking John"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "serene",
+    "contemplative",
+    "reverent",
+    "majestic",
+    "peaceful"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0000152",
+    "title": "John the Baptist and four saints",
+    "artist": "Pietro Perugino, 1510",
+    "model": "claude-opus-4-6"
+  }
+}

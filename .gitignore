@@ -11,10 +11,14 @@ venv/
 .env
 .env.local
 
-# Data outputs (large files)
-data/output/
+# Large generated data
 data/embeddings/
 data/validation/
+data/lookup/
+data/enriched/
+data/reports/
+data/prompts/
+data/temp/
 
 # IDE
 .vscode/

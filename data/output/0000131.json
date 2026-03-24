@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "Madonna",
+    "Christ Child",
+    "Incarnation",
+    "maternal love",
+    "Theotokos",
+    "infancy",
+    "tenderness",
+    "oval portrait",
+    "intimacy",
+    "gold frame",
+    "New Eve",
+    "Marian devotion"
+  ],
+  "symbols": [
+    "mother and child — the Incarnation, God taking human flesh",
+    "Mary's blue garment — purity, heavenly grace, and Marian devotion",
+    "sleeping or resting infant — vulnerability of the Incarnate God and foreshadowing of the Passion",
+    "oval framing — eternity and the womb, enclosing the mystery of the Incarnation",
+    "gold surround — divine glory and sacred presence",
+    "dark background — the world in darkness into which the Light has come",
+    "white swaddling cloth — purity and the burial shroud prefigured"
+  ],
+  "description": "An oval portrait of a young woman tenderly cradling a sleeping infant against her chest. She gazes down with a gentle, loving expression. She wears a blue garment and her light brown hair frames her face softly. The baby is wrapped in white cloth and rests peacefully in her arms. The scene is set against a dark background, enclosed within an oval shape on a gold-colored surface. The composition conveys deep intimacy and maternal warmth between mother and child.",
+  "theological_description": "This Madonna and Child presents the central mystery of the Christian faith: the Incarnation. In this intimate scene, the infinite God of the universe rests as a helpless infant in the arms of a young woman, fulfilling the prophecy of Isaiah 7:14 that a virgin would conceive and bear a son called Emmanuel -- God with us. Mary's tender gaze embodies the Lucan narrative of the mother who 'treasured all these things in her heart' (Luke 2:19, 51). The patristic tradition sees Mary as the New Eve (Irenaeus, Adversus Haereses III.22), whose obedient 'yes' reversed Eve's disobedience. The sleeping child prefigures the death and entombment of Christ, a connection frequently drawn in Byzantine and Western theology -- the infant resting in Mary's arms as the dead Christ will rest in the tomb and in the Pieta. The blue of Mary's garment traditionally signifies her heavenly purity and her role as Queen of Heaven. The gold surrounding evokes the divine glory that envelops the mystery of God-made-flesh (John 1:14), the Word dwelling among humanity in the most vulnerable form imaginable. The Protoevangelium of Genesis 3:15 finds its fulfillment here: the woman's seed who will crush the serpent's head lies cradled in her arms.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus and Mary wrapping him in swaddling cloths is the narrative moment depicted"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The prophecy of the virgin bearing a son, Emmanuel, fulfilled in the Incarnation shown here"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us -- the theological heart of the Madonna and Child image"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary pondering and treasuring things in her heart reflected in her contemplative gaze at the child"
+    },
+    {
+      "ref": "GAL.4.4-5",
+      "relevance": "allusion",
+      "reason": "God sent his Son, born of a woman, born under the law, to redeem -- the Pauline theology of Incarnation"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The Protoevangelium: the woman's seed who will crush the serpent's head, fulfilled in the child Mary holds"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "serene",
+    "contemplative",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000131",
+    "title": "Madona S Dítětem (Madonna with Child)",
+    "artist": "Maximilian Pirner",
+    "model": "claude-opus-4-6"
+  }
+}
