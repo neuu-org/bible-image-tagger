@@ -1,0 +1,111 @@
+{
+  "characters": [
+    {
+      "name": "John (son of Zebedee)",
+      "type": "APOSTLE"
+    },
+    {
+      "name": "James (son of Zebedee)",
+      "type": "APOSTLE"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Fishermen in boat",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Calling of James and John at the Sea of Galilee",
+  "tags": [
+    "calling of disciples",
+    "Sea of Galilee",
+    "fishermen",
+    "fishing boats",
+    "Boanerges",
+    "sons of Zebedee",
+    "apostles",
+    "saints-and-apostles",
+    "Christianity",
+    "shoreline",
+    "Galilean landscape",
+    "plein-air realism",
+    "Russian Realism",
+    "nets and sails",
+    "vocation"
+  ],
+  "symbols": [
+    "fishing boats — the livelihood left behind to follow Christ, the old life of earthly labor transformed into catching souls",
+    "shoreline — the liminal boundary between the known world of work and the unknown call to discipleship",
+    "figure in white on the hillside — Christ standing apart, calling from the margin, the divine initiative in vocation",
+    "rocky hillside — the rugged terrain of Galilee, the concrete historical setting of the Gospel events",
+    "nets and sails — the instruments of the fisherman's trade that become metaphors for apostolic mission",
+    "calm sea — the Sea of Galilee at peace, before the storms that will test the disciples' faith"
+  ],
+  "description": "An oil painting in Russian realist style depicting a rocky, sun-bleached shoreline along the Sea of Galilee. In the foreground, a wooden fishing boat rests near the shore with several dark-robed figures seated inside, tending to nets or equipment. A second boat with a raised sail is visible further out on the still, blue-green water. On the left, a solitary figure dressed in white stands on the hillside path above the shore, facing toward the men in the boats. The terrain is arid and hilly, with warm ochre and golden tones dominating the rocky slope. The light is naturalistic, suggesting late morning, casting soft shadows. The scene is intimate and quiet, capturing a moment of transition.",
+  "theological_description": "Polenov's quiet, naturalistic rendering of John and James at the Sea of Galilee strips the calling narrative of all hagiographic grandeur and returns it to its Synoptic simplicity. In Mark's account, Jesus simply walks along the shore and calls; they immediately leave their father Zebedee in the boat with the hired men and follow (Mark 1:19-20). Polenov, painting as part of his ambitious Life of Christ series, was deeply committed to depicting the Gospel events in their actual Palestinian landscape -- he traveled to the Holy Land specifically to paint these settings from life. The result is a theology of incarnation enacted through the brush: God enters not a mythological landscape but this specific rocky shore, this actual lake, these real fishing boats. The figure of Christ in white, standing apart on the hillside, embodies the Johannine theme of divine initiative: 'You did not choose me, but I chose you' (John 15:16). The Sons of Thunder -- James and John, whom Jesus would later name Boanerges (Mark 3:17) -- are here simply workingmen in their boats, unknowing that this ordinary day will become the hinge of their entire existence. The theological weight of the scene lies in its very ordinariness: vocation comes not in thunder and fire but in a quiet word spoken beside the water. This resonates with Elijah's experience at Horeb, where God was not in the wind, earthquake, or fire, but in the still small voice (1 Kings 19:11-12). James would become the first apostle martyred (Acts 12:2), and John the last surviving witness, the beloved disciple who would lean on Jesus' breast at the Last Supper (John 13:23). All of that future -- martyrdom, mystical intimacy, the writing of the Fourth Gospel -- is hidden in seed form in this sunlit moment by the lake. Polenov's genius is to let the landscape itself become the sermon: the God who made this lake and these hills enters them as a walking man and calls ordinary fishermen to become pillars of the Church (Galatians 2:9).",
+  "scripture_refs": [
+    {
+      "ref": "Mark.1.19-20",
+      "relevance": "primary",
+      "reason": "The direct narrative source: Jesus sees James and John in their boat and calls them to follow, and they leave their father Zebedee"
+    },
+    {
+      "ref": "Matt.4.21-22",
+      "relevance": "primary",
+      "reason": "Matthew's parallel account of the calling of the sons of Zebedee from their fishing boat"
+    },
+    {
+      "ref": "Luke.5.10-11",
+      "relevance": "primary",
+      "reason": "Luke's expanded account where Jesus tells them they will be catching people, and they leave everything to follow"
+    },
+    {
+      "ref": "John.15.16",
+      "relevance": "allusion",
+      "reason": "You did not choose me, but I chose you -- the divine initiative visible in Christ standing apart, calling the fishermen"
+    },
+    {
+      "ref": "Mark.3.17",
+      "relevance": "allusion",
+      "reason": "Jesus names James and John Boanerges, Sons of Thunder -- the future apostolic identity latent in these fishermen"
+    },
+    {
+      "ref": "Acts.12.2",
+      "relevance": "allusion",
+      "reason": "James's future martyrdom under Herod Agrippa, the cost of discipleship hidden in this moment of calling"
+    },
+    {
+      "ref": "John.13.23",
+      "relevance": "allusion",
+      "reason": "John as the beloved disciple who reclined next to Jesus -- the intimacy that begins here at the lakeshore"
+    },
+    {
+      "ref": "Gal.2.9",
+      "relevance": "allusion",
+      "reason": "James, Peter, and John recognized as pillars of the Church -- the apostolic authority rooted in this initial calling"
+    },
+    {
+      "ref": "Matt.4.19",
+      "relevance": "primary",
+      "reason": "Follow me, and I will make you fishers of men -- the transformative promise that redefines the fisherman's vocation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "serene",
+    "luminous",
+    "quiet",
+    "transitional",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0000299",
+    "title": "John and James",
+    "artist": "Vasily Polenov",
+    "model": "claude-opus-4-6"
+  }
+}

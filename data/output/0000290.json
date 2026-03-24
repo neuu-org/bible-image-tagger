@@ -1,0 +1,108 @@
+{
+  "characters": [
+    {
+      "name": "Priest or elder",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and worshippers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "A Sacrificial Offering at an Altar",
+  "tags": [
+    "sacrifice",
+    "altar",
+    "burnt offering",
+    "smoke rising",
+    "priestly figure",
+    "etching",
+    "Old Testament sacrifice",
+    "ritual offering",
+    "ancient worship",
+    "incense",
+    "stone altar",
+    "classical drapery",
+    "Piranesi etching",
+    "sacrificial smoke",
+    "Baroque printmaking"
+  ],
+  "symbols": [
+    "rising smoke from the altar — the offering ascending to God, prayer made visible, divine acceptance of the sacrifice",
+    "stone altar — the ancient place of encounter between humanity and God, the threshold of sacred and profane",
+    "priestly figure officiating — the mediator between God and the people, foreshadowing Christ the eternal high priest",
+    "gathered worshippers — the community of faith assembled before God in corporate worship",
+    "bare-chested attendant — the servant of the sacrifice, the physical labor of devotion and obedience",
+    "headcoverings and turbans — reverence before the divine presence, the gravity of approaching the holy"
+  ],
+  "description": "A black-and-white etching depicting a group of figures gathered around a stone altar from which smoke rises. At left, an elderly bearded man stands behind the altar, hands extended toward the offering. Smoke billows upward from the altar's surface. Several figures stand to the right, including a central figure wearing a pointed mitre or tall cap, wrapped in robes, and a bare-chested younger man. Other robed figures look on. The composition is arranged in a horizontal frieze-like format. The inscription below reads 'Ex Collectione Comitis Andreae di Zanetti q. Hieronymi F.' The drawing style is loose, energetic, with hatched shading typical of Baroque printmaking.",
+  "theological_description": "Piranesi's etching after an earlier master captures the primal biblical act of worship: sacrifice at an altar. From Abel's offering (Genesis 4:4) through the elaborate Levitical system, the sacrifice of animals and grain was the central liturgical act of Israel's covenant relationship with God. The rising smoke is the visual signature of accepted sacrifice -- when God accepted Abel's offering, when Noah sacrificed after the flood and God smelled the pleasing aroma (Genesis 8:21), when Elijah's sacrifice on Carmel was consumed by divine fire (1 Kings 18:38). The priestly figure at the altar embodies the mediatorial role established in the Levitical code: only the consecrated priest could approach the altar and offer sacrifice on behalf of the people (Leviticus 1:5-9). The gathered community reflects the corporate nature of Israelite worship -- sacrifice was never a private act but the liturgical center of the covenant community. The Epistle to the Hebrews reads the entire sacrificial system as a shadow and type of Christ's once-for-all self-offering (Hebrews 10:1-4): the blood of bulls and goats could never ultimately take away sin, but pointed forward to the Lamb of God who takes away the sin of the world (John 1:29). The altar itself is theologically resonant -- from Jacob's stone pillar at Bethel (Genesis 28:18) to the bronze altar of the Tabernacle (Exodus 27:1-8) to the altar of the Temple, the altar marks the place where heaven and earth intersect, where the worshipper brings the fruit of creation back to the Creator. The smoke ascending heavenward enacts the movement of all true prayer: from earth to the throne of God, as the incense altar in Revelation stands before the heavenly throne with the prayers of the saints rising like smoke before the Almighty (Revelation 8:3-4).",
+  "scripture_refs": [
+    {
+      "ref": "Lev.1.5-9",
+      "relevance": "primary",
+      "reason": "The Levitical instructions for burnt offerings at the altar, the direct subject of the image"
+    },
+    {
+      "ref": "Gen.4.4",
+      "relevance": "allusion",
+      "reason": "Abel's accepted sacrifice -- the prototype of all offerings whose smoke rises to God"
+    },
+    {
+      "ref": "Gen.8.20-21",
+      "relevance": "allusion",
+      "reason": "Noah's post-flood sacrifice from which God smelled the pleasing aroma, establishing the pattern of accepted offering"
+    },
+    {
+      "ref": "Heb.10.1-4",
+      "relevance": "typological",
+      "reason": "The Old Testament sacrificial system as shadow pointing to Christ's definitive sacrifice"
+    },
+    {
+      "ref": "Heb.9.22",
+      "relevance": "typological",
+      "reason": "Without the shedding of blood there is no forgiveness -- the theological rationale for the entire sacrificial system depicted"
+    },
+    {
+      "ref": "Rev.8.3-4",
+      "relevance": "typological",
+      "reason": "The smoke of incense rising with the prayers of the saints before the heavenly throne, fulfilling the earthly altar's smoke"
+    },
+    {
+      "ref": "Exod.27.1-8",
+      "relevance": "allusion",
+      "reason": "The instructions for the bronze altar of burnt offering in the Tabernacle, the sacred furniture this scene evokes"
+    },
+    {
+      "ref": "1Kgs.18.38",
+      "relevance": "allusion",
+      "reason": "The fire of the LORD consuming Elijah's sacrifice -- divine acceptance of offering made visible through fire and smoke"
+    },
+    {
+      "ref": "Ps.141.2",
+      "relevance": "allusion",
+      "reason": "Let my prayer be set before you like incense, the lifting up of my hands like the evening sacrifice"
+    },
+    {
+      "ref": "John.1.29",
+      "relevance": "typological",
+      "reason": "The Lamb of God who takes away the sin of the world -- every animal sacrifice points forward to Christ"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "ritualistic",
+    "reverent",
+    "archaic",
+    "austere",
+    "devotional"
+  ],
+  "period": "Old Testament",
+  "_meta": {
+    "key": "0000290",
+    "title": "A Sacrifice",
+    "artist": "Giovanni Battista Piranesi",
+    "model": "claude-opus-4-6"
+  }
+}
