@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mourning figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "New-Testament",
+    "crucifixion",
+    "cross",
+    "Passion",
+    "atonement",
+    "redemption",
+    "sacrifice",
+    "mourning",
+    "blood-of-Christ",
+    "Lamb-of-God",
+    "salvific-death",
+    "crown-of-thorns",
+    "flowers-at-the-cross",
+    "suffering-servant"
+  ],
+  "symbols": [
+    "cross — the instrument of Christ's atoning death, the axis mundi where heaven and earth meet through sacrificial love",
+    "crown of thorns — the curse of Genesis 3:18 borne by Christ, transforming the curse into a royal emblem",
+    "outstretched arms — the universal embrace of Christ's saving work, drawing all humanity to himself",
+    "red background — the blood of the Passion, the sacrificial crimson of redemption",
+    "gold tones — divinity shining through suffering, the glory hidden within the humiliation of the cross",
+    "mourning figures at the foot — the faithful remnant who witness the crucifixion, traditionally Mary and John",
+    "flowers at the base — new life springing from the ground sanctified by Christ's death, resurrection hope",
+    "arch framing — a liturgical or apse-like setting, suggesting the cross as the altar of sacrifice"
+  ],
+  "description": "A crucifixion scene rendered in bold, expressionistic strokes. Christ hangs on a large gold-and-white cross with arms outstretched, wearing a crown of thorns and a white loincloth. His body is rendered in earthy brown and gold tones. A vivid red background fills the left side and upper area. Two smaller figures stand at the base of the cross, one on each side, heads bowed in grief. The figure on the right appears to wear a halo of flowers. Small white and yellow flowers scatter along the bottom edge. A dark arch frames the entire scene.",
+  "theological_description": "This crucifixion painting presents Christ upon the cross in a manner that emphasizes both the raw physicality of his suffering and the transcendent glory breaking through it. The bold red field behind the cross evokes Isaiah's prophecy of the one who comes from Edom with garments stained crimson (Isaiah 63:1-3), while also recalling the Passover blood that saves from death (Exodus 12:13). The gold tones suffusing Christ's body suggest the divine nature that does not abandon the flesh even at the moment of greatest kenosis (Philippians 2:7-8). The two mourning figures at the foot recall the Johannine account where Jesus entrusts his mother to the beloved disciple (John 19:26-27), establishing the new family of faith at the foot of the cross. The crown of thorns transforms the curse of the ground in Genesis 3:18 into a royal diadem, revealing Christ as the second Adam who bears the full weight of the Fall. The flowers at the base speak of resurrection hope — the grain of wheat that falls into the earth and dies bears much fruit (John 12:24). The arch framing the scene evokes an apse, positioning the cross as the liturgical center, the true altar upon which the Lamb of God offers himself once for all (Hebrews 9:12).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The direct narrative of Christ's crucifixion at Golgotha"
+    },
+    {
+      "ref": "JHN.19.26-27",
+      "relevance": "primary",
+      "reason": "Jesus entrusts Mary to the beloved disciple — the mourning figures at the foot of the cross"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "He was pierced for our transgressions — the Suffering Servant prophecy fulfilled in the crucified Christ"
+    },
+    {
+      "ref": "EXO.12.13",
+      "relevance": "typological",
+      "reason": "The blood of the Passover lamb that saves from death, typologically fulfilled in Christ's blood on the cross"
+    },
+    {
+      "ref": "GEN.3.18",
+      "relevance": "typological",
+      "reason": "Thorns and thistles as the curse of the Fall, now borne as a crown by the second Adam"
+    },
+    {
+      "ref": "HEB.9.12",
+      "relevance": "allusion",
+      "reason": "Christ entered the holy places once for all by means of his own blood — the cross as the true altar"
+    },
+    {
+      "ref": "JHN.12.24",
+      "relevance": "allusion",
+      "reason": "The grain of wheat that dies bears much fruit — flowers at the foot of the cross as resurrection hope"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "grief",
+    "reverence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010242",
+    "title": "Hungarian Christ",
+    "artist": "Piroska Szanto",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {"name": "St. Catherine of Alexandria", "type": "PERSON"},
+    {"name": "Executioner", "type": "PERSON"},
+    {"name": "Angel with Crown", "type": "ANGEL"}
+  ],
+  "event": "Martyrdom of St. Catherine of Alexandria",
+  "tags": [
+    "martyrdom",
+    "saints-and-apostles",
+    "beheading",
+    "angel-with-crown",
+    "sword",
+    "breaking-wheel",
+    "crown-of-martyrdom",
+    "putto",
+    "divine-intervention",
+    "persecution",
+    "female-saint",
+    "classical-column"
+  ],
+  "symbols": [
+    "sword in executioner's hand — the instrument of martyrdom, echoing the sword of persecution in Revelation",
+    "crown carried by the angel — the crown of life promised to those faithful unto death (Revelation 2:10)",
+    "broken wheel fragment — the failed attempt to destroy Catherine by torture, thwarted by divine intervention",
+    "kneeling posture of the saint — submission to God's will and acceptance of martyrdom",
+    "classical column — the pagan Roman world that persecuted the early Church",
+    "bare-chested executioner — brute physical force contrasted with spiritual fortitude"
+  ],
+  "description": "A muscular, bare-chested executioner wearing a red headband stands with his left hand resting on the head of a kneeling woman in rich blue and golden robes. His right arm is raised, holding a curved sword poised to strike. St. Catherine kneels before him, her head bowed and hands clasped in prayer. In the upper right, a winged putto or angel descends from golden clouds carrying a laurel or floral crown. A broken fragment of a spiked wheel is visible near the lower left. A classical column rises behind the executioner. The background shows architectural ruins against a warm, dusky sky.",
+  "theological_description": "St. Catherine of Alexandria (d. c. 305), legendary for her learning and faith, was condemned to death on a spiked wheel that miraculously shattered at her touch, after which she was beheaded. Though her historicity is debated, her theological significance is profound: she embodies the faithful witness (martys) who confesses Christ before hostile powers, fulfilling the Lord's promise in Matthew 10:32-33. The angel descending with a crown directly illustrates Revelation 2:10: 'Be faithful unto death, and I will give you the crown of life.' Catherine's intellectual defeat of fifty pagan philosophers before her martyrdom echoes the wisdom motif of 1 Corinthians 1:27 -- God choosing the foolish things of the world to shame the wise. The broken wheel represents God's sovereign power to frustrate the instruments of persecution (Daniel 3:25-27, the fiery furnace that did not harm the three youths). Her calm acceptance of the sword models the apostolic teaching that 'to live is Christ, and to die is gain' (Philippians 1:21).",
+  "scripture_refs": [
+    {"ref": "REV.2.10", "relevance": "primary", "reason": "Be faithful unto death and I will give you the crown of life -- directly illustrated by the angel descending with the martyr's crown."},
+    {"ref": "MAT.10.32-33", "relevance": "typological", "reason": "Whoever confesses Christ before men, Christ will confess before the Father -- Catherine's bold confession before Roman authorities."},
+    {"ref": "1CO.1.27", "relevance": "typological", "reason": "God chose the foolish to shame the wise -- Catherine, a young woman, defeated fifty learned philosophers through the power of truth."},
+    {"ref": "DAN.3.25-27", "relevance": "typological", "reason": "The three youths unharmed in the furnace -- the typological precedent for divine intervention that destroyed the wheel of torture."},
+    {"ref": "PHP.1.21", "relevance": "allusion", "reason": "To live is Christ and to die is gain -- the theological posture of Catherine's serene acceptance of execution."},
+    {"ref": "2TI.4.7-8", "relevance": "allusion", "reason": "I have fought the good fight, I have finished the race -- the crown of righteousness awaiting those who persevere."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "solemn", "triumphant", "violent"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0010972",
+    "title": "Martyrdom of St Catherine",
+    "artist": "Guercino",
+    "model": "claude-opus-4-6"
+  }
+}

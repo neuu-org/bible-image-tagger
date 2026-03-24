@@ -1,0 +1,23 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Christ Child", "type": "DEITY"}
+  ],
+  "event": "Our Lady of Vladimir (Theotokos of Tenderness)",
+  "tags": ["theotokos", "virgin-mary", "christ-child", "icon", "tenderness", "incarnation", "mother-and-child", "eleousa", "divine-maternity", "gold-ground"],
+  "symbols": ["cheek-to-cheek embrace — the Eleousa (Tenderness) type expressing intimate divine-human love", "golden halos — divine glory and sanctity of Mother and Son", "Christ Child clinging to Mary — the Incarnate God fully dependent on human motherhood", "dark maphorion of Mary — virginal purity and solemn role as God-bearer", "golden vestment of Christ — royal and priestly dignity of the divine Child", "gold background — uncreated divine light and heavenly glory", "IC XC inscription — identification of Jesus Christ, affirming his divine identity"],
+  "description": "A Byzantine-style icon on a gold background depicting a woman holding an infant against her left cheek in a tender embrace. The woman wears a dark blue-brown veil (maphorion) over her head, and a golden halo encircles her head. The child wears bright golden-orange robes with green accents and also has a golden halo. The child's left arm reaches around the woman's neck while pressing cheek to cheek. Greek abbreviations are inscribed at the upper corners and beside the child's halo. The panel has a raised border and the gold ground shows age and patina.",
+  "theological_description": "The Vladimir Mother of God (Vladimirskaya) is the most venerated icon type in Russian Orthodoxy, belonging to the Eleousa (Tenderness) iconographic tradition. The intimate cheek-to-cheek embrace of Mother and Child is far more than maternal affection: it is a visual theology of the Incarnation. Mary holds the eternal Logos who has taken flesh from her — the Creator cradled by the creature. The Child clings to his mother, revealing the full reality of the kenosis (Phil 2:7): God emptied himself and became genuinely dependent on human care. Yet the halos and inscriptions (IC XC = Jesus Christ) proclaim that this infant is the Lord of glory. The Theotokos title, affirmed at Ephesus (431 AD), is itself a Christological statement: Mary is God-bearer because her Son is truly God. The tenderness prefigures sorrow — tradition holds that Mary's melancholic gaze foresees the Passion (Luke 2:35, Simeon's prophecy that a sword would pierce her soul). The gold ground signifies uncreated divine light, placing the scene outside ordinary time in the eternal present of salvation. The reverse bears a Calvary cross, uniting the Incarnation with the Crucifixion — the child held tenderly is the Lamb slain from the foundation of the world (Rev 13:8).",
+  "scripture_refs": [
+    {"ref": "LUK.1.35", "relevance": "primary", "reason": "The Holy Spirit overshadows Mary and she conceives the Son of God — the Incarnation this icon depicts"},
+    {"ref": "LUK.2.35", "relevance": "primary", "reason": "Simeon's prophecy that a sword will pierce Mary's soul, reflected in her sorrowful gaze"},
+    {"ref": "PHP.2.7", "relevance": "allusion", "reason": "Christ emptied himself, taking the form of a servant — the divine infant dependent on his mother"},
+    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us — the foundational mystery the icon proclaims"},
+    {"ref": "REV.13.8", "relevance": "typological", "reason": "The Lamb slain from the foundation of the world — the Calvary cross on the reverse links Incarnation to Passion"},
+    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son — Old Testament prophecy fulfilled in the Theotokos"}
+  ],
+  "scene_type": "liturgical",
+  "mood": ["tender", "solemn", "reverent", "sorrowful"],
+  "period": "Liturgical",
+  "_meta": {"key": "0010199", "title": "Our Lady of Vladimir. On the Turn - Calvary Cross", "artist": "Simon Ushakov", "model": "claude-opus-4-6"}
+}

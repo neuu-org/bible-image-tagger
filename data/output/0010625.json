@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {"name": "Saint Francis of Assisi", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Saint Francis in mystical ecstasy before the crucifix",
+  "tags": ["stigmata", "ecstasy", "crucifix", "Franciscan devotion", "memento mori", "mysticism"],
+  "symbols": [
+    "crucifix — Christ's sacrificial death and the center of Franciscan spirituality",
+    "outstretched hands — reception of divine grace and stigmata",
+    "brown habit with rope belt — Franciscan poverty, chastity, and obedience",
+    "rosary — meditative prayer and devotion to the mysteries of Christ",
+    "skull — memento mori, mortality and detachment from worldly life",
+    "open book — Scripture and the rule of life"
+  ],
+  "description": "Saint Francis of Assisi stands in ecstatic rapture, wearing his brown Franciscan habit cinched with a knotted rope belt from which a rosary hangs. His arms are thrown wide, his mouth open, and his eyes lifted heavenward in an expression of intense spiritual transport. Behind him to the upper right, a crucifix bearing the corpus of Christ emerges from the darkness, toward which Francis reaches. At his feet lie an open book and a human skull. The composition is dramatically lit from the upper left, casting deep shadows that heighten the emotional intensity against the nearly black background.",
+  "theological_description": "Saint Francis of Assisi, though not a biblical figure, is one of the most Christologically centered saints in Christian history. His radical imitation of Christ led to the legendary reception of the stigmata on Mount La Verna in 1224, making him the first recorded person to bear the wounds of Christ's crucifixion on his own body. This painting captures Francis in the ecstatic state of mystical union with the crucified Lord. The crucifix is central because Francis's entire spirituality revolved around conformity to the suffering Christ; he is reported to have said, 'I desire to be a book of the Gospel and to do what it says.' The skull and book at his feet represent the contemplative rejection of worldly vanity and immersion in sacred Scripture. Franciscan mysticism draws deeply from Paul's declaration of being crucified with Christ and from the call to take up one's cross daily. Francis's ecstasy embodies the paradox at the heart of Christian mysticism: that through participation in Christ's suffering, one enters into His glory.",
+  "scripture_refs": [
+    {"ref": "Gal.2.20", "relevance": "allusion", "reason": "Paul's declaration of being crucified with Christ, the core of Franciscan identification with the Passion"},
+    {"ref": "Gal.6.17", "relevance": "allusion", "reason": "Paul bearing the marks (stigmata) of Jesus on his body, paralleling Francis's stigmata"},
+    {"ref": "Luke.9.23", "relevance": "allusion", "reason": "Christ's call to take up the cross daily, which Francis literally embodied"},
+    {"ref": "Phil.3.10", "relevance": "allusion", "reason": "Knowing Christ and the fellowship of His sufferings, being conformed to His death"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["ecstatic", "intense", "devotional", "somber"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0010625",
+    "title": "St.Francis in ecstasy",
+    "artist": "Bernardo Strozzi",
+    "model": "claude-opus-4-6"
+  }
+}

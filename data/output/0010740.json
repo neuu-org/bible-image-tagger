@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "tags": [
+    "virgin-and-child",
+    "enthroned-madonna",
+    "angels",
+    "saints",
+    "gold-background",
+    "sacra-conversazione",
+    "haloes",
+    "throne"
+  ],
+  "description": "A vertical panel painting depicting the Virgin Mary enthroned, holding the Christ Child on her left arm. She wears a dark blue mantle over a golden-orange robe and sits upon an architectural throne flanked by columns. Six angels in colorful garments surround her on either side at varying heights. Below the throne, two haloed saints kneel in adoration -- one reading a book at lower left, the other in elaborate vestments at lower right. The background is a luminous gold. The composition is set within an arched top panel.",
+  "theological_description": "This Maestà-type composition exalts Mary as Theotokos, the God-bearer, enthroned as Queen of Heaven with the divine Child. The attending angels signify the heavenly court's worship of the Incarnate Word. The kneeling saints below represent the Church's veneration and intercession. The gold background symbolizes the eternal divine light. The entire composition is a visual confession of the Incarnation -- God taking flesh through the Virgin -- the central mystery celebrated in the Gospels of Luke and Matthew, and elaborated in the Christological hymn of Colossians.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.30-33",
+      "relevance": "primary"
+    },
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary"
+    },
+    {
+      "ref": "MAT.1.23",
+      "relevance": "primary"
+    },
+    {
+      "ref": "COL.1.15-17",
+      "relevance": "typological"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "allusion"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "majestic",
+    "devotional",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010740",
+    "title": "Virgin with child and angels",
+    "artist": "Álvaro Pires de Évora",
+    "model": "claude-opus-4-6"
+  }
+}

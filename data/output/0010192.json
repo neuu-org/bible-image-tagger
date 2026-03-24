@@ -1,0 +1,21 @@
+{
+  "characters": [
+    {"name": "Demon", "type": "OTHER"}
+  ],
+  "event": "",
+  "tags": ["demon", "fallen-being", "spiritual-darkness", "torment", "brooding", "supernatural-entity", "inner-struggle"],
+  "symbols": ["downcast gaze — the sorrow and restlessness of a being separated from God", "tangled wild hair — disorder and chaos of the fallen spiritual realm", "shadowed features — obscured identity and the darkness of rebellion against the divine"],
+  "description": "A profile sketch of a figure with sharp, angular features gazing downward to the left. The figure has thick, wild, tangled hair or a crown-like mass atop the head. Strong hatched lines create deep shadows across the face and neck. The shoulders and upper body dissolve into rough, fragmented strokes. The expression is melancholic and brooding, with prominent cheekbones and a strong jawline. The overall rendering is dark and turbulent.",
+  "theological_description": "Vrubel's Demon draws on the biblical and literary tradition of fallen angelic beings. While directly inspired by Lermontov's poem, the concept is rooted in the Scriptural account of spiritual rebellion. The melancholic, brooding figure evokes the tragic grandeur of a being who once dwelt in heavenly glory but fell through pride (Isa 14:12-15, Ezek 28:12-17). The downward gaze suggests an awareness of loss and exile from the divine presence. Christian theology understands demons as real spiritual adversaries (Eph 6:12), yet also as beings already defeated by Christ's victory on the cross (Col 2:15). The figure's tortured beauty reflects the patristic insight that evil is not an independent substance but a corruption of created good — the demon retains traces of original splendor even in its ruin. James 2:19 reminds us that even demons believe and shudder, suggesting an inescapable awareness of God's sovereignty that compounds their anguish.",
+  "scripture_refs": [
+    {"ref": "ISA.14.12", "relevance": "typological", "reason": "The fall of the morning star, traditionally read as depicting the fall of a proud angelic being"},
+    {"ref": "EZK.28.15", "relevance": "typological", "reason": "A once-perfect created being in whom iniquity was found, cast from God's presence"},
+    {"ref": "EPH.6.12", "relevance": "allusion", "reason": "Spiritual forces of wickedness — the reality of demonic beings in biblical theology"},
+    {"ref": "JAS.2.19", "relevance": "allusion", "reason": "Even demons believe and tremble — the anguish visible in the figure's expression"},
+    {"ref": "COL.2.15", "relevance": "allusion", "reason": "Christ's triumph over principalities and powers, the ultimate defeat of demonic rebellion"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["melancholic", "tormented", "brooding"],
+  "period": "Non-biblical",
+  "_meta": {"key": "0010192", "title": "Demon looking", "artist": "Mikhail Vrubel", "model": "claude-opus-4-6"}
+}

@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Zachariah", "type": "PERSON"}
+  ],
+  "event": "Zachariah (Prophetic Vision)",
+  "tags": [
+    "prophet",
+    "tree",
+    "folk-art",
+    "night-scene",
+    "african-american-art",
+    "bare-trees",
+    "visionary-landscape",
+    "white-figure",
+    "twilight",
+    "wilderness",
+    "prophetic-vision"
+  ],
+  "symbols": [
+    "bare leafless trees — desolation, exile, and the spiritual barrenness awaiting divine renewal",
+    "white-robed figure — purity, prophetic calling, and the righteousness of the servant of God",
+    "twilight sky — the liminal threshold between darkness and the coming dawn of messianic hope",
+    "wilderness setting — the place of prophetic encounter and divine revelation",
+    "dark undergrowth — the obscurity from which God's word emerges"
+  ],
+  "description": "A figure rendered in white stands amid a dark, forested landscape of bare, twisted trees. The figure appears to be gesturing or moving dynamically, arms extended, wearing flowing white garments that contrast sharply with the dark green and black surroundings. The sky behind shows a twilight gradient of golden-orange and grey-blue with white clouds. The trees are skeletal and leafless, creating angular dark silhouettes. The painting has a naive or folk art quality with flat areas of color and simplified forms.",
+  "theological_description": "The prophet Zechariah (Hebrew: 'The Lord remembers') ministered in the post-exilic period, urging the returned remnant of Israel to rebuild the temple and renew their covenant faithfulness. His prophecies contain some of the most vivid messianic visions in the Old Testament: the Branch who would rebuild the temple (Zechariah 6:12), the king entering Jerusalem on a donkey (Zechariah 9:9, fulfilled in Christ's triumphal entry), the thirty pieces of silver (Zechariah 11:12-13, fulfilled in Judas's betrayal), and the pierced one whom they shall mourn (Zechariah 12:10, cited at the crucifixion). The desolate landscape surrounding the prophet evokes the spiritual wilderness of post-exilic Judah, while his white garments suggest the purity of the prophetic office. Horace Pippin's folk-art rendering places the biblical prophet in a distinctly American visual idiom, reflecting the deep tradition of African American engagement with Old Testament prophetic literature as a source of hope amid suffering and oppression.",
+  "scripture_refs": [
+    {"ref": "EZK.1.1", "relevance": "allusion", "reason": "Prophetic visions in a desolate setting -- the paradigm of God revealing His word to prophets in exile or wilderness."},
+    {"ref": "PSA.137.1-4", "relevance": "allusion", "reason": "By the waters of Babylon we wept -- the exile experience that forms the backdrop of Zechariah's ministry to the returned remnant."},
+    {"ref": "ISA.40.3", "relevance": "allusion", "reason": "A voice crying in the wilderness -- the prophetic call emerging from desolation, visually echoed in the wilderness setting."},
+    {"ref": "REV.11.3-4", "relevance": "allusion", "reason": "The two witnesses who prophesy -- Zechariah's vision of the two olive trees (Zechariah 4) is directly referenced in Revelation."}
+  ],
+  "scene_type": "allegory",
+  "mood": ["mysterious", "desolate", "visionary", "haunting"],
+  "period": "Prophetic",
+  "_meta": {
+    "key": "0010980",
+    "title": "Zachariah",
+    "artist": "Horace Pippin",
+    "model": "claude-opus-4-6"
+  }
+}

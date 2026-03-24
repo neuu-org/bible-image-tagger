@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "St. Lawrence", "type": "PERSON"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Christ Child", "type": "DEITY"}
+  ],
+  "event": "Apparition of the Virgin and Child to St. Lawrence",
+  "tags": [
+    "saints-and-apostles",
+    "virgin-and-child",
+    "apparition",
+    "deacon",
+    "dalmatic",
+    "gridiron",
+    "martyrdom",
+    "heavenly-vision",
+    "liturgical-vestments",
+    "intercession",
+    "golden-vestment",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "dalmatic vestment — the liturgical garment of a deacon, Lawrence's ecclesiastical office",
+    "palm branch or rod in hand — the instrument of martyrdom or symbol of victory over death",
+    "Virgin and Child in the clouds — heavenly consolation and the reward awaiting the faithful martyr",
+    "richly embroidered gold vestment — the glory of sacrificial service in Christ's Church",
+    "dark rocky background — the valley of suffering through which the saint passes to glory"
+  ],
+  "description": "A young man in ornate deacon's vestments stands in three-quarter view against a dark, rocky backdrop. He wears a richly embroidered gold-and-white dalmatic with red lining and crimson tassels. His right hand holds a thin rod or palm. His left hand rests open at his side. In the upper right corner, a small apparition of the Virgin Mary holding the Christ Child appears amid clouds and a faint celestial glow. The saint's face is youthful, serene, and slightly upturned, with dark hair.",
+  "theological_description": "St. Lawrence of Rome (d. 258), one of the seven deacons of the Roman church, was martyred on a gridiron under Emperor Valerian. His legendary courage -- reportedly telling his torturers to turn him over because one side was done -- made him the supreme exemplar of joyful suffering for Christ. The apparition of the Virgin and Child signifies heavenly approval and the communion between the Church Triumphant and the Church Militant. Lawrence's diaconal ministry to the poor echoes Acts 6, where the first deacons were appointed to serve tables, and his bold confession before Roman authorities fulfills Christ's promise that the Holy Spirit would speak through the persecuted (Matthew 10:19-20). His willingness to die rather than surrender the Church's treasury to the state embodies the principle that one must 'render unto Caesar what is Caesar's, and unto God what is God's' (Matthew 22:21). The Virgin's presence affirms that the Mother of the Church accompanies her children through the fires of persecution.",
+  "scripture_refs": [
+    {"ref": "ACT.6.1-6", "relevance": "typological", "reason": "The appointment of the first seven deacons -- Lawrence's diaconal office is the direct continuation of this apostolic institution."},
+    {"ref": "MAT.10.19-20", "relevance": "typological", "reason": "Christ's promise that the Spirit will speak through His persecuted followers, fulfilled in Lawrence's courageous witness before Roman magistrates."},
+    {"ref": "MAT.22.21", "relevance": "allusion", "reason": "Rendering unto God what is God's -- Lawrence declared the poor to be the true treasure of the Church rather than surrender wealth to the emperor."},
+    {"ref": "ROM.8.18", "relevance": "allusion", "reason": "The sufferings of the present time are not worth comparing with the glory to be revealed -- the theological basis of Lawrence's joyful martyrdom."},
+    {"ref": "REV.7.14", "relevance": "allusion", "reason": "Those who have come out of the great tribulation and washed their robes in the blood of the Lamb -- Lawrence among the white-robed army of martyrs."},
+    {"ref": "2CO.4.17", "relevance": "allusion", "reason": "Momentary affliction producing an eternal weight of glory -- the paradox that Lawrence's martyrdom perfectly embodies."}
+  ],
+  "scene_type": "portrait",
+  "mood": ["serene", "devotional", "triumphant", "contemplative"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0010947",
+    "title": "Apparition of the Virgin to St. Lawrence",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

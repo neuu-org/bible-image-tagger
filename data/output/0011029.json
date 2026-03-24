@@ -1,0 +1,115 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Female Saint (left)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female Saint (right)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Man of Sorrows / Imago Pietatis",
+  "tags": [
+    "man-of-sorrows",
+    "imago-pietatis",
+    "passion",
+    "crucifixion",
+    "crown-of-thorns",
+    "holy-wounds",
+    "suffering-servant",
+    "redemptive-suffering",
+    "devotional-image",
+    "illuminated-manuscript",
+    "cross",
+    "blood-of-christ",
+    "eucharistic-imagery",
+    "book-of-hours",
+    "latin-inscription",
+    "donor-figures",
+    "heraldic-shield"
+  ],
+  "symbols": [
+    "half-length Christ rising from tomb — the Man of Sorrows who is simultaneously dead and alive, bridging Crucifixion and Resurrection",
+    "crown of thorns — the mockery of kingship transformed into the true crown of the King of Kings",
+    "wounds and flowing blood — the five holy wounds, source of sacramental grace and Eucharistic theology",
+    "large cross behind Christ — the instrument of salvation, the tree of life that reverses the tree of the Fall",
+    "stone sarcophagus — the tomb from which Christ rises, death conquered from within",
+    "two female saints flanking Christ — intercessory figures, possibly donor patronesses or the Church personified alongside a female saint",
+    "gothic architectural frame — the Church as sacred space containing and mediating the mystery of redemption",
+    "putti with heraldic shield — angelic attendants connecting earthly patronage to heavenly realities",
+    "Latin text at base — liturgical prayer invoking divine mercy, linking the image to the Hours of the Office",
+    "landscape with castle and river — the earthly realm over which the crucified Christ reigns"
+  ],
+  "description": "An illuminated manuscript page framed by elaborate gothic architectural elements in gold. At center, within an arched opening, the half-length figure of Christ rises from a stone sarcophagus. He is nearly naked, wearing only a white loincloth, his body covered with wounds and streaks of blood. A crown of thorns encircles his head, and a large wooden cross rises behind him. His hands are crossed at the wrists before his body, displaying the nail wounds. Behind him stretches a landscape with a castle on a hill at left, green meadows, a river, mountains, and a blue sky.",
+  "theological_description": "The Man of Sorrows (Imago Pietatis) is one of the most theologically dense devotional images in Western Christianity. It does not depict a single historical moment but rather a timeless theological statement: Christ simultaneously dead and risen, displaying the wounds of his Passion as perpetual intercession before the Father (Hebrews 7:25). The Limbourg brothers' rendering in this Book of Hours page places the image within the liturgical context of the Divine Office, where the faithful meditate on Christ's suffering as the source of redemption. Isaiah's prophecy of the Suffering Servant — 'He was despised and rejected, a man of sorrows acquainted with grief' (Isaiah 53:3) — provides the scriptural foundation. The wounds that stream with blood connect directly to Eucharistic theology: the blood and water that flowed from Christ's pierced side (John 19:34) become the sacraments of Baptism and Eucharist. The stone sarcophagus from which Christ emerges prefigures the empty tomb of Easter morning while also functioning as an altar, linking the historical sacrifice of Calvary to its liturgical perpetuation. The crown of thorns, given in mockery by the soldiers (Matthew 27:29), is transformed into a genuine diadem of the true King whose kingdom is not of this world (John 18:36). The two kneeling female figures, whether donor patronesses or allegorical representations, embody the posture of prayer and devotion that the image was designed to elicit — the faithful gazing upon the one they have pierced (Zechariah 12:10, John 19:37).",
+  "scripture_refs": [
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "primary",
+      "reason": "The Suffering Servant, man of sorrows acquainted with grief, wounded for our transgressions — the direct prophetic source of this iconographic type"
+    },
+    {
+      "ref": "JHN.19.33-34",
+      "relevance": "primary",
+      "reason": "The piercing of Christ's side from which blood and water flowed, visible in the wound depicted on Christ's torso"
+    },
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "primary",
+      "reason": "The crowning with thorns, stripping, and mockery of Christ by the soldiers — the crown of thorns prominently displayed"
+    },
+    {
+      "ref": "HEB.7.25",
+      "relevance": "typological",
+      "reason": "Christ's perpetual intercession, displaying his wounds before the Father — the theological meaning of the Man of Sorrows showing his wounds"
+    },
+    {
+      "ref": "ZEC.12.10",
+      "relevance": "typological",
+      "reason": "They shall look on him whom they have pierced — the devotional gaze invited by the Imago Pietatis"
+    },
+    {
+      "ref": "JHN.19.37",
+      "relevance": "primary",
+      "reason": "John's citation of Zechariah fulfilled at the Crucifixion, central to the theology of beholding the wounded Christ"
+    },
+    {
+      "ref": "REV.5.6",
+      "relevance": "typological",
+      "reason": "The Lamb standing as though slain — the paradox of death and life united in Christ, mirrored in the Man of Sorrows who is dead yet standing"
+    },
+    {
+      "ref": "PSA.22.16-18",
+      "relevance": "typological",
+      "reason": "The messianic psalm describing pierced hands and feet, the suffering of the righteous one"
+    },
+    {
+      "ref": "1PE.2.24",
+      "relevance": "allusion",
+      "reason": "By his wounds you have been healed — the redemptive theology that transforms the display of wounds into a proclamation of salvation"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "devotional",
+    "sorrowful",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011029",
+    "title": "The Man of Sorrows",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "tags": [
+    "angel",
+    "wings",
+    "halo",
+    "seated-figure",
+    "heavenly-being",
+    "white-garment"
+  ],
+  "description": "A seated angel depicted as a young figure with short brown hair and a large circular golden halo. Two large, feathered wings in muted grey-brown tones extend behind the figure. The angel wears a flowing white garment with soft golden highlights and sits in a relaxed, slightly turned pose against a blue sky background. The brushwork is loose and impressionistic, lending the figure an ethereal, luminous quality. The angel's expression is calm and direct, gazing gently toward the viewer.",
+  "theological_description": "This painting presents an angel in contemplative repose, reflecting the biblical conception of angels as messengers and ministers of God. The golden halo signifies heavenly glory, while the large wings denote the angel's supernatural nature and capacity to traverse between heaven and earth. The white garment recalls the angelic appearances at key moments in Scripture -- the angel seated at Christ's empty tomb wearing white, and the two men in white at the Ascension. The seated posture conveys both watchfulness and peace, characteristic of the guardian and ministering spirits described in Hebrews.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.16.5-6",
+      "relevance": "primary"
+    },
+    {
+      "ref": "ACT.1.10-11",
+      "relevance": "typological"
+    },
+    {
+      "ref": "HEB.1.14",
+      "relevance": "primary"
+    },
+    {
+      "ref": "PSA.91.11",
+      "relevance": "allusion"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "ethereal",
+    "serene",
+    "luminous"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0010800",
+    "title": "Seated Angel",
+    "artist": "Abbott Handerson Thayer",
+    "model": "claude-opus-4-6"
+  }
+}

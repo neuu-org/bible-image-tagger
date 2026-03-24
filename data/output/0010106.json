@@ -1,0 +1,36 @@
+{
+  "characters": [],
+  "event": "",
+  "tags": [
+    "capital",
+    "column",
+    "stone-carving",
+    "foliate-ornament",
+    "rosette",
+    "abbey",
+    "sacred-architecture",
+    "liturgical-furnishing"
+  ],
+  "symbols": [
+    "acanthus leaves — flourishing life and resurrection, common in church architecture",
+    "rosettes — divine perfection and the eternal cycle of creation",
+    "column capital — the Church as pillar and ground of truth (1 Tim 3:15)"
+  ],
+  "description": "A carved stone capital atop a column inside a dimly lit church interior. The capital features interlaced acanthus-like foliage with deeply undercut leaves curling outward. Several circular rosette motifs with petal patterns are interspersed among the leaves. The capital is banded with red and cream polychrome stone courses at top and bottom. Rounded arched vaults are partially visible in the background. The carving shows worn but still crisp detail in the intertwined vegetal forms.",
+  "theological_description": "This Romanesque capital from Maria Laach Abbey exemplifies how medieval monastic architecture encoded theological meaning into every structural element. The column, bearing the weight of the sacred canopy above, recalls Paul's description of the Church as 'the pillar and ground of truth' (1 Tim 3:15). The abundant foliate carving, rooted in the Corinthian tradition but Christianized, evokes the Tree of Life (Rev 22:2) and the flourishing of the righteous 'like a palm tree' (Ps 92:12). Rosettes, symbols of divine perfection, punctuate the foliage. In Benedictine monastic theology, the abbey church is an earthly image of the heavenly Jerusalem, and every stone serves the opus Dei. The polychrome banding hints at the layered richness of liturgical worship that filled this space. Such capitals were not mere decoration but visual theology — inviting monks processing through the nave to meditate on creation's praise of the Creator.",
+  "scripture_refs": [
+    {"ref": "1TI.3.15", "relevance": "allusion", "reason": "The church as pillar and ground of truth, symbolized by the supporting column"},
+    {"ref": "REV.22.2", "relevance": "typological", "reason": "Tree of Life imagery evoked by the abundant foliage carving"},
+    {"ref": "PSA.92.12", "relevance": "allusion", "reason": "The righteous flourish like a palm tree — vegetal abundance signifying spiritual vitality"},
+    {"ref": "1KI.7.19", "relevance": "allusion", "reason": "Lily-work on capitals of Solomon's Temple columns, precedent for sacred architectural ornament"}
+  ],
+  "scene_type": "liturgical",
+  "mood": ["contemplative", "serene"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0010106",
+    "title": "Capital, Maria Laach Abbey, Germany",
+    "artist": "Romanesque Architecture",
+    "model": "claude-opus-4-6"
+  }
+}

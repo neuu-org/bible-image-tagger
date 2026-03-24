@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Woman Caught in Adultery",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pharisees and Scribes",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ and the Woman Taken in Adultery",
+  "tags": [
+    "pericope-adulterae",
+    "forgiveness-of-sins",
+    "mercy-over-judgment",
+    "mosaic-law",
+    "pharisaic-accusation",
+    "divine-compassion",
+    "scribes-and-pharisees",
+    "woman-caught-in-sin",
+    "confrontation",
+    "raised-hand-gesture",
+    "crowd-of-accusers",
+    "red-cloak-of-christ",
+    "half-length-figures",
+    "moral-challenge"
+  ],
+  "symbols": [
+    "Christ's raised finger — the authority to teach, judge, and forgive; the gesture that silences the accusers and redirects the moral question",
+    "Christ's red cloak — His sacrificial love and the blood He will shed to cover sin",
+    "the woman standing beside Christ — sinful humanity sheltered by divine mercy, the Church as bride rescued from condemnation",
+    "the stone (implied) — the weight of the Law that kills without grace, the instrument of judgment Christ sets aside",
+    "the Pharisees' turbans and beards — religious authority, the letter of the Law that accuses but cannot save",
+    "proximity of accusers to Christ — the confrontation between legalistic righteousness and divine mercy"
+  ],
+  "description": "Christ stands at centre wearing a dark green-brown garment and a vivid red cloak draped over his left shoulder. His right hand is raised with the index finger extended in a teaching gesture. Directly behind and to his right stands a young woman in a richly embroidered gold and red dress with a jewelled necklace, her gaze cast downward. Surrounding them are six or seven older men: bearded figures in turbans, fur-trimmed caps, and dark robes, pressing close with expressions ranging from stern scrutiny to uneasy contemplation. The background shows a dark arched doorway.",
+  "theological_description": "The Pericope Adulterae (John 7:53-8:11) presents one of the most profound confrontations between Law and Grace in all of Scripture. The Pharisees and scribes bring a woman caught in the very act of adultery, citing Moses' command to stone her (Lev 20:10, Deut 22:22), and ask Jesus to pronounce judgment -- a trap designed to force Him either to contradict Moses or to violate Roman authority. Christ's response -- 'Let him who is without sin cast the first stone' -- dismantles the accusation by turning the Law's mirror upon the accusers themselves. Augustine famously commented: 'Relicti sunt duo, misera et misericordia' (Two were left alone: the wretched woman and Mercy). The scene is a dramatic enactment of the New Covenant principle that mercy triumphs over judgment (James 2:13). Christ does not abolish the Law but fulfills it by revealing its deepest purpose: not the destruction of the sinner but the destruction of sin. His final words, 'Go, and sin no more,' unite forgiveness with the call to repentance, demonstrating that grace is not license but transformation. Cranach's depiction, with Jesus physically positioned between the woman and her accusers, visually incarnates Paul's teaching that Christ is our advocate who stands between us and condemnation (Rom 8:1, 33-34).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.8.1-11",
+      "relevance": "primary",
+      "reason": "The direct narrative source: the scribes and Pharisees bring a woman caught in adultery to Jesus, who responds 'Let him who is without sin cast the first stone.'"
+    },
+    {
+      "ref": "JHN.8.7",
+      "relevance": "primary",
+      "reason": "Christ's definitive challenge to the accusers, the theological and dramatic climax of the episode."
+    },
+    {
+      "ref": "JHN.8.11",
+      "relevance": "primary",
+      "reason": "Neither do I condemn you; go, and from now on sin no more -- the union of mercy and the call to holiness."
+    },
+    {
+      "ref": "DEU.22.22",
+      "relevance": "primary",
+      "reason": "The Mosaic law prescribing death for adultery, which the Pharisees invoke to trap Jesus."
+    },
+    {
+      "ref": "ROM.8.1",
+      "relevance": "typological",
+      "reason": "There is now no condemnation for those who are in Christ Jesus -- the theological principle Christ enacts in this scene."
+    },
+    {
+      "ref": "ROM.8.33-34",
+      "relevance": "typological",
+      "reason": "Who shall bring any charge against God's elect? Christ Jesus who intercedes for us -- visually depicted as Christ stands between the woman and her accusers."
+    },
+    {
+      "ref": "JAS.2.13",
+      "relevance": "typological",
+      "reason": "Mercy triumphs over judgment -- the thematic key to the entire Pericope Adulterae."
+    },
+    {
+      "ref": "LEV.20.10",
+      "relevance": "allusion",
+      "reason": "The Levitical death penalty for adultery, the legal basis of the Pharisees' accusation."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "compassionate",
+    "confrontational",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010853",
+    "title": "Christ and the Adulteress",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

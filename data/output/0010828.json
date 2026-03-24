@@ -1,0 +1,107 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Archangel Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Cat/Devil figure",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "incarnation",
+    "virgin-mary",
+    "archangel-gabriel",
+    "lily-of-purity",
+    "divine-messenger",
+    "fiat-of-mary",
+    "holy-spirit-descent",
+    "domestic-interior",
+    "prayer-interrupted",
+    "cat-as-fleeing-evil",
+    "god-the-father-in-clouds",
+    "open-book",
+    "candlestick",
+    "heavenly-irruption",
+    "classical-architecture"
+  ],
+  "symbols": [
+    "white lilies — purity and virginity of Mary, and the angelic nature of the message",
+    "open book on lectern — Mary's study of Scripture, likely Isaiah's prophecy, showing her as the contemplative handmaid of the Lord",
+    "candle on mantelpiece — the light of faith and watchful prayer that prepared Mary for the divine encounter",
+    "God the Father descending from clouds — the divine initiative of the Incarnation, the Father sending His Word",
+    "fleeing cat/dark creature — the devil or evil fleeing at the moment of the Incarnation, the crushing of the serpent's dominion beginning",
+    "architectural column dividing the scene — the threshold between heaven and earth that the Incarnation bridges",
+    "Mary's red and blue garments — red for humanity and sacrificial love, blue for heavenly grace and divinity dwelling within her",
+    "Gabriel kneeling — angelic reverence before the woman chosen to bear the Son of God"
+  ],
+  "description": "A young woman in a flowing red dress and blue mantle turns sharply leftward with both hands raised in startled surprise. She stands on a raised stone platform inside a dark, vaulted domestic interior. On the right, a kneeling angel with golden curly hair and blue robes holds a stem of white lilies upward. Between them on the tiled floor, a dark cat-like creature darts away. Above and behind the angel, through an arched opening revealing a sky with cypress trees, an elderly figure in billowing red robes descends on clouds with arms extended.",
+  "theological_description": "Lorenzo Lotto's Annunciation captures the dramatic moment when Gabriel announces to Mary that she will conceive the Son of God (Luke 1:26-38). The painting is theologically rich in its details. Mary's startled posture -- turning away with raised hands -- conveys the 'troubled' reaction Luke records (dietarachthe, Lk 1:29), the human confrontation with the numinous. Gabriel kneels rather than stands, emphasizing that even the highest angelic being reverences the Mother of God, a tradition rooted in patristic commentary (Ephrem the Syrian, Proclus of Constantinople). The white lilies are the perennial symbol of Mary's perpetual virginity (Song of Songs 2:2, 'as a lily among thorns'). Most striking is the dark creature fleeing across the floor -- widely interpreted as evil being driven out at the very moment the Incarnation begins, fulfilling the Protoevangelium of Genesis 3:15 where the woman's seed crushes the serpent. God the Father descends from above in a visual echo of the Nicene Creed: 'He came down from heaven and by the Holy Spirit was incarnate of the Virgin Mary.' The open book on the lectern alludes to Isaiah 7:14, the prophecy Mary was traditionally thought to be reading. This Annunciation is the hinge of salvation history -- the moment when eternity enters time, the Word becomes flesh (John 1:14), and the New Eve reverses the disobedience of the first through her fiat: 'Let it be done to me according to your word.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The direct narrative source: the angel Gabriel is sent by God to Nazareth to announce to the Virgin Mary that she will conceive and bear a son, Jesus."
+    },
+    {
+      "ref": "LUK.1.29",
+      "relevance": "primary",
+      "reason": "Mary was 'greatly troubled' at the angel's greeting -- depicted in her startled recoil with raised hands."
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you and the power of the Most High will overshadow you -- represented by God the Father descending from above."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The prophecy that a virgin shall conceive and bear a son called Emmanuel, traditionally the text Mary was reading at the moment of the Annunciation."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us -- the Annunciation is the moment this cosmic event begins."
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The Protoevangelium: the seed of the woman will crush the serpent's head -- symbolized by the dark creature fleeing as the Incarnation begins."
+    },
+    {
+      "ref": "SNG.2.2",
+      "relevance": "allusion",
+      "reason": "As a lily among thorns, so is my love among the daughters -- the white lilies symbolizing Mary's purity among humanity."
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "When the fullness of time had come, God sent forth his Son, born of a woman -- the theological gravity of this appointed moment."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe",
+    "dramatic",
+    "reverent",
+    "startled"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010828",
+    "title": "The Annunciation",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

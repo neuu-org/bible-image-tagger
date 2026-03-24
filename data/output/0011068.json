@@ -1,0 +1,116 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit (as dove)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Baptism of Christ",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "john-the-baptist",
+    "holy-spirit",
+    "dove",
+    "trinitarian-theophany",
+    "sacrament-of-baptism",
+    "new-creation",
+    "divine-sonship",
+    "messianic-anointing",
+    "angelic-witnesses",
+    "reed-cross",
+    "humility-of-christ",
+    "water-symbolism",
+    "inauguration-of-ministry"
+  ],
+  "symbols": [
+    "dove descending — the Holy Spirit manifesting visibly, confirming Christ's divine identity and anointing him for ministry",
+    "water of the Jordan — the primordial waters of creation sanctified by Christ's entry, the sacramental element of baptism",
+    "reed cross held by John — prophetic sign pointing to the Crucifixion, the Baptist's role as forerunner who identifies the Lamb of God",
+    "Christ standing in the river — voluntary descent into the waters of death and judgment, sanctifying them for all who will be baptized",
+    "angels on either side — heavenly witnesses to the Trinitarian theophany, ministers attending the anointed King",
+    "Christ's bare torso — vulnerability and humility of the sinless one submitting to the baptism of repentance",
+    "John's animal-skin garment — the prophetic mantle recalling Elijah, the wilderness asceticism of the forerunner",
+    "landscape with hills and trees — the wilderness of the Jordan valley, the liminal space between old and new covenants"
+  ],
+  "description": "Christ stands at center in the shallow waters of the Jordan River, nearly naked save for a cloth around his loins, hands pressed together in prayer. To the right, John the Baptist stands on the riverbank wearing a rough garment with a red mantle draped over one shoulder. He extends his right hand over Christ's head in the act of baptism while holding a tall reed cross in his left hand. Above, a white dove descends from the sky amid golden rays of light. Two angels stand on the left bank: one in a pinkish gown holding a garment, the other in muted robes with arms folded.",
+  "theological_description": "Pietro Perugino's Baptism of Christ depicts the inaugurating theophany of Jesus' public ministry and the foundational event of Christian sacramental theology. All four Gospels record this moment, but its deepest significance lies in the Trinitarian revelation: the Father's voice declares 'This is my beloved Son' (Matthew 3:17), the Spirit descends as a dove, and the Son stands in the water — the entire Trinity manifested simultaneously. The Fathers of the Church (Cyril of Jerusalem, Gregory of Nazianzus, John Chrysostom) taught that Christ did not need baptism for the forgiveness of sins but entered the waters to sanctify them for all subsequent baptisms. As Gregory of Nazianzus preached, 'Jesus comes up out of the water, carrying the world with him.' Christ's descent into the Jordan typologically recapitulates Israel's crossing of the Jordan under Joshua (whose name is the Hebrew form of Jesus), marking the entry into the promised land of the New Covenant. The dove recalls the Spirit hovering over the waters at creation (Genesis 1:2), signaling that in Christ's baptism a new creation has begun. John the Baptist fulfills his prophetic role as the voice crying in the wilderness (Isaiah 40:3), the last and greatest prophet of the old dispensation who identifies Jesus as 'the Lamb of God who takes away the sin of the world' (John 1:29). The reed cross John carries is a prophetic sign: the one being baptized will ultimately be baptized in his own blood on Calvary, the true baptism to which this Jordan event points (Luke 12:50).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Baptism, including the heavenly voice declaring Jesus the beloved Son and the Spirit descending as a dove"
+    },
+    {
+      "ref": "MRK.1.9-11",
+      "relevance": "primary",
+      "reason": "Mark's account of the Baptism of Jesus by John in the Jordan, the heavens torn open, and the Spirit descending"
+    },
+    {
+      "ref": "LUK.3.21-22",
+      "relevance": "primary",
+      "reason": "Luke's account emphasizing Jesus praying as the heavens open and the Spirit descends in bodily form as a dove"
+    },
+    {
+      "ref": "JHN.1.29-34",
+      "relevance": "primary",
+      "reason": "John the Baptist's testimony identifying Jesus as the Lamb of God and witnessing the Spirit descend and remain upon him"
+    },
+    {
+      "ref": "GEN.1.2",
+      "relevance": "typological",
+      "reason": "The Spirit of God hovering over the waters at creation — the dove over the Jordan signals new creation in Christ"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness to prepare the way of the Lord — John the Baptist as the prophesied forerunner"
+    },
+    {
+      "ref": "ISA.42.1",
+      "relevance": "typological",
+      "reason": "Behold my servant whom I uphold, my chosen in whom my soul delights — the Servant Song fulfilled in the Father's declaration at the Baptism"
+    },
+    {
+      "ref": "JOS.3.14-17",
+      "relevance": "typological",
+      "reason": "Israel crossing the Jordan under Joshua prefigures Christ sanctifying the Jordan waters, entering the promised land of the New Covenant"
+    },
+    {
+      "ref": "LUK.12.50",
+      "relevance": "allusion",
+      "reason": "Jesus speaks of a baptism of suffering he must undergo — the Jordan baptism points forward to the cross"
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "allusion",
+      "reason": "Baptism into Christ's death and resurrection — the sacramental theology that flows from the event depicted"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "serene",
+    "luminous",
+    "revelatory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011068",
+    "title": "Baptism of Christ",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

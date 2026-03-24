@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Virgin and Child in a Domestic Interior",
+  "tags": [
+    "virgin-and-child",
+    "madonna",
+    "infant-jesus",
+    "nursing-madonna",
+    "domestic-scene",
+    "motherhood",
+    "incarnation",
+    "bread",
+    "milk-soup",
+    "spoon",
+    "lily",
+    "tenderness",
+    "humility-of-christ",
+    "landscape-through-window"
+  ],
+  "symbols": [
+    "bowl of milk soup — nourishment of the incarnate God, the humble dependence of divinity upon human care",
+    "bread and fruit on the table — prefiguration of the Eucharist, the Bread of Life made flesh",
+    "white lily in a vase — the perpetual virginity and purity of Mary",
+    "spoon in the Child's hand — the full humanity of Christ who must be fed as any infant",
+    "open window with landscape — the world into which Christ has come, the passage from the sacred interior to the broader creation",
+    "castle in the distant landscape — the heavenly Jerusalem or the house of David from which Mary descends",
+    "white head-covering of Mary — modesty, purity, and the veil of the New Covenant",
+    "red book on the windowsill — Scripture or the Book of Wisdom, associating Mary with divine Wisdom"
+  ],
+  "description": "A woman wearing a dark blue dress and white head-covering sits in a domestic interior, holding a nude infant on her lap. The child grasps a small spoon in his right hand. Before them on a white cloth-covered table sits a bowl of pale soup or porridge, a piece of bread, and a round reddish fruit. On the windowsill behind them stands a glass vase with white lilies and a small red book. Through the open window, a green landscape with rolling hills, a river, and a distant castle is visible under a pale blue sky.",
+  "theological_description": "Gerard David's intimate depiction of the Virgin feeding the Christ Child belongs to a rich tradition of Marian devotional images that emphasize the Incarnation in its most radical dimension: God Himself made dependent upon a human mother for sustenance. The milk soup and bread upon the table point forward typologically to the Eucharist — the same Christ who here receives earthly food from Mary's hand will later offer His own body as food for the world (John 6:51). The lily, a perennial symbol of Mary's virginity since the Annunciation iconography of the medieval West, affirms that the one who nourishes God remains the pure vessel chosen by divine election. The domestic setting, far from diminishing the sacred, elevates ordinary human care to a locus of divine mystery: the theology of kenosis (Philippians 2:6-8) is made visible in a child who must be spoon-fed. Mary's downcast eyes reflect the contemplative humility praised in the Magnificat (Luke 1:48), while the open window connecting the intimate chamber to the wider world signals that this hidden event in a humble room carries cosmic significance for all creation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "The infancy of Christ — Mary caring for the newborn Jesus in humble circumstances, the scene directly depicted"
+    },
+    {
+      "ref": "JHN.6.51",
+      "relevance": "typological",
+      "reason": "Christ as the Bread of Life — the bread on the table prefigures the Eucharist in which Christ gives His flesh for the life of the world"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat — Mary's humble posture and downcast gaze embody her canticle of lowliness exalted by God"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "The kenosis of Christ — God emptying Himself to take the form of a servant, here visible as a dependent infant requiring feeding"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent His Son, born of a woman — the mystery of the Incarnation through Mary, the theological core of this image"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the lily symbolizing Mary's virginity connects to Isaiah's messianic prophecy"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "serene",
+    "intimate",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011139",
+    "title": "Madonna with the Milk Soup",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

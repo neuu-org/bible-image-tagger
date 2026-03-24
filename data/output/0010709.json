@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion of Jesus Christ with a mourner at the foot of the cross",
+  "tags": [
+    "Crucifixion",
+    "cross",
+    "Golgotha",
+    "mourning",
+    "atonement",
+    "Passion",
+    "penitent-at-the-cross",
+    "grief",
+    "sacrificial-death",
+    "vicarious-suffering",
+    "divine-light",
+    "desolation",
+    "redemptive-suffering"
+  ],
+  "symbols": [
+    "cross — the instrument of execution transformed into the means of salvation",
+    "elevated body of Christ — the lifted-up Son of Man drawing all people to himself",
+    "prostrate mourner at the foot — human grief, repentance, and clinging to the cross for salvation",
+    "rays of light from the right — divine presence breaking through the darkness of death",
+    "dark oppressive sky — the cosmic darkness at the hour of Christ's death",
+    "bare minimal landscape — the desolation and starkness of Golgotha",
+    "loincloth — the final stripping of dignity in the kenotic self-emptying"
+  ],
+  "description": "A monochromatic drawing in graphite or charcoal depicting Christ crucified on a tall wooden cross that dominates the composition. The figure of Christ hangs with arms stretched wide, head bowed, body lean and exposed save for a loincloth. At the base of the cross, a figure crouches in a posture of utter grief, head bowed to the ground, draped in flowing robes. The background is rendered in somber gray tones suggesting a heavy, overcast sky, with faint rays of light breaking through from the upper right. The overall atmosphere is stark, austere, and deeply sorrowful.",
+  "theological_description": "Toorop's Crucifixion strips the central event of Christian salvation to its essential elements: the crucified Christ, the grieving witness, and the darkness. The stark monochromatic treatment intensifies the desolation described in the Gospels: 'From the sixth hour there was darkness over all the land until the ninth hour' (Matthew 27:45). The prostrate figure at the base, likely Mary Magdalene — who was present at the cross according to all four Gospels (Matthew 27:56, Mark 15:40, John 19:25) — embodies the posture of one who has lost everything yet clings to the cross as the only source of hope. Christ's elevated body fulfills his own words: 'And I, when I am lifted up from the earth, will draw all people to myself' (John 12:32). The tall, vertical cross thrusts upward like an axis mundi connecting earth to heaven, the singular point at which divine justice and divine mercy converge. The faint light piercing the darkness from the right suggests that even in the hour of death, the victory of the Resurrection is already being prepared — the darkness cannot overcome it. Paul's theology of the cross pervades the image: 'For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God' (1 Corinthians 1:18). The austerity of Toorop's drawing, with its refusal of color and ornament, mirrors the scandal and foolishness of the cross itself.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.45-50",
+      "relevance": "primary",
+      "reason": "The darkness over the land and Christ's death on the cross — the central event depicted in its starkest form"
+    },
+    {
+      "ref": "JHN.19.25",
+      "relevance": "primary",
+      "reason": "The women standing near the cross, including Mary Magdalene — the grieving figure at the foot of the cross"
+    },
+    {
+      "ref": "JHN.12.32",
+      "relevance": "primary",
+      "reason": "When I am lifted up I will draw all people to myself — the elevated Christ on the tall cross draws the prostrate mourner"
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "typological",
+      "reason": "The word of the cross is the power of God — the austere minimalism of the image reflects the scandal and power of the crucifixion"
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant despised and rejected, wounded for our transgressions — Christ's broken body fulfills the Isaianic prophecy"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Far be it from me to boast except in the cross — the cross as the singular focus of the entire composition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "desolation",
+    "solemnity",
+    "awe"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010709",
+    "title": "Crucifixion",
+    "artist": "Jan Toorop",
+    "model": "claude-opus-4-6"
+  }
+}

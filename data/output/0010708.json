@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Virgin Mary cradling the sleeping Christ Child",
+  "tags": [
+    "Madonna-and-Child",
+    "sleeping-infant",
+    "maternal-tenderness",
+    "incarnation",
+    "divine-infancy",
+    "Marian-devotion",
+    "swaddling-cloth",
+    "Virgin-Mother",
+    "holy-intimacy",
+    "contemplative-gaze",
+    "vulnerability-of-God",
+    "prefiguration-of-death"
+  ],
+  "symbols": [
+    "sleeping Christ Child — rest and trust, but also prefiguration of the sleep of death on Good Friday",
+    "white cloth draped by Mary — swaddling and burial linen foreshadowing, the cloths of Bethlehem and Golgotha",
+    "Mary's downward gaze — contemplative awareness and maternal love mingled with foreknowledge of suffering",
+    "red garment — the blood of the Passion, the sacrificial destiny of the child she holds",
+    "blue mantle — heavenly identity, Mary's role as Queen of Heaven and vessel of divine grace",
+    "dark background — the world's darkness into which the light of Christ is born",
+    "bare infant body — vulnerability, true humanity, and the self-emptying of the divine Son"
+  ],
+  "description": "A tender half-length composition showing a young woman holding a sleeping nude infant on her lap. The woman wears a red dress beneath a blue mantle, with a white and golden-yellow veil over her head. She gazes down gently at the child, her right hand delicately lifting a white cloth. The infant lies peacefully asleep across her arms, his body relaxed and exposed, with soft reddish-blond hair. The background is entirely dark, focusing all attention on the intimate bond between mother and child. Soft chiaroscuro models their forms with warmth and subtlety.",
+  "theological_description": "Pietro de' Pietri's Madonna and Child presents the theological mystery of the Incarnation through its most intimate expression: the divine Son asleep in his mother's arms. The sleeping infant embodies the kenosis of Philippians 2:7 — God who neither slumbers nor sleeps (Psalm 121:4) has taken on a nature that requires rest, hunger, and vulnerability. Mary's contemplative downward gaze recalls Luke's twice-recorded observation that she 'treasured up all these things, pondering them in her heart' (Luke 2:19, 51). The white cloth she lifts carries dual significance: it is the swaddling cloth of the Nativity (Luke 2:7) and a typological anticipation of the burial linen (John 19:40). In devotional tradition, depictions of the sleeping Christ Child deliberately invoke the Pieta — the same body will lie limp across the same mother's lap at Calvary. The dark void surrounding them heightens the Johannine theme: 'The light shines in the darkness, and the darkness has not overcome it' (John 1:5). Mary here serves as the theotokos, the God-bearer, whose very body became the first tabernacle of the divine presence, fulfilling the promise that 'the Lord whom you seek will suddenly come to his temple' (Malachi 3:1).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary wrapped the child in swaddling cloths — the white cloth in her hand directly evokes the Nativity scene"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary pondered all these things in her heart — her contemplative gaze embodies this inward meditation"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "typological",
+      "reason": "The self-emptying of the divine Son into vulnerable human infancy, sleeping helplessly in his mother's arms"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "typological",
+      "reason": "The light shining in darkness — the luminous mother and child surrounded by the void of a dark world"
+    },
+    {
+      "ref": "JHN.19.40",
+      "relevance": "typological",
+      "reason": "The white cloth prefigures the burial linen — the sleeping infant foreshadows the dead Christ"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "allusion",
+      "reason": "The Lord comes suddenly to his temple — Mary's body as the living temple housing the divine presence"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tenderness",
+    "serenity",
+    "intimacy",
+    "melancholy"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010708",
+    "title": "Madonna and Child",
+    "artist": "Pietro de' Pietri",
+    "model": "claude-opus-4-6"
+  }
+}

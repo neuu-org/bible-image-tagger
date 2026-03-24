@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Portrait of Christ (Holy Face / Vera Icon tradition)",
+  "tags": [
+    "portrait-of-christ",
+    "holy-face",
+    "vera-icon",
+    "frontal-portrait",
+    "divine-countenance",
+    "pantocrator",
+    "incarnation",
+    "latin-inscription",
+    "sacred-gaze",
+    "long-hair",
+    "beard",
+    "red-garment",
+    "acheiropoieton",
+    "christological-portrait"
+  ],
+  "symbols": [
+    "frontal gaze of Christ — the all-seeing eyes of the Pantocrator who judges and shows mercy simultaneously",
+    "red garment — the blood of the Passion, royal dignity, and divine love",
+    "long hair and beard — the traditional physical description of Christ derived from early Christian sources and the Letter of Lentulus",
+    "Latin inscription (IHESUS NAZARENUS REX IUDEORUM / VIA VERITAS VITA) — the titulus of the cross combined with John 14:6, declaring Christ as Way, Truth, and Life",
+    "gold background and frame — divine glory, heavenly light, and the eternal realm beyond time",
+    "direct eye contact — personal encounter with the living Christ, the devotional function of the icon"
+  ],
+  "description": "A small frontal portrait of Christ set within a painted gold frame with a Latin inscription along the top edge reading portions of Christ's titles. Christ faces the viewer directly with a solemn, penetrating gaze. He has long brown hair parted at the center falling past his shoulders, a short forked beard, and a mustache. His face is pale with delicate features, high cheekbones, and deep-set eyes. He wears a red garment visible at the chest and shoulders, adorned with small jeweled or beaded details at the neckline. The background is dark.",
+  "theological_description": "Jan van Eyck's Portrait of Christ belongs to the tradition of the Vera Icon (True Image) and the Acheiropoieton — images 'not made by human hands' believed to preserve the authentic likeness of Christ. This iconographic tradition carries profound theological weight: the possibility of depicting Christ's face at all depends on the Incarnation. As the Second Council of Nicaea (787) affirmed against iconoclasm, because the invisible God took on visible flesh, images of Christ are not merely permitted but theologically necessary — they affirm the reality of the Incarnation against all forms of Docetism. The inscription along the top frame likely includes 'IHESUS NAZARENUS REX IUDEORUM' (Jesus of Nazareth, King of the Jews) — the titulus Pilate placed on the cross (John 19:19) — and Christ's self-declaration from John 14:6: 'I am the Way, the Truth, and the Life.' The frontal, hieratic pose derives from the Byzantine Pantocrator tradition, presenting Christ as the sovereign ruler and judge of all creation. Yet Van Eyck's Northern realism invests the face with a deeply human tenderness that communicates the paradox of Chalcedonian Christology: this face is fully human and fully divine, one person in two natures 'without confusion, without change, without division, without separation.' The direct gaze creates a relationship between the viewer and the depicted Christ, fulfilling the theological purpose of the devotional image: to facilitate personal encounter with the living Lord who said 'Behold, I stand at the door and knock' (Revelation 3:20).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.14.6",
+      "relevance": "primary",
+      "reason": "I am the Way, the Truth, and the Life — likely inscribed on the frame, Christ's self-revelation as the sole path to the Father"
+    },
+    {
+      "ref": "JHN.19.19",
+      "relevance": "primary",
+      "reason": "The titulus 'Jesus of Nazareth, King of the Jews' inscribed by Pilate on the cross, referenced in the frame inscription"
+    },
+    {
+      "ref": "COL.1.15",
+      "relevance": "typological",
+      "reason": "Christ is the image of the invisible God — the theological foundation for portraying Christ's face, the visible icon of the unseen Father"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh — the Incarnation that makes it possible and necessary to depict Christ in human form"
+    },
+    {
+      "ref": "HEB.1.3",
+      "relevance": "typological",
+      "reason": "Christ is the radiance of God's glory and the exact representation of his being — the portrait as theological statement of divine self-revelation"
+    },
+    {
+      "ref": "2CO.4.6",
+      "relevance": "allusion",
+      "reason": "The light of the knowledge of the glory of God shines in the face of Jesus Christ — the devotional gaze upon Christ's portrait as spiritual illumination"
+    },
+    {
+      "ref": "REV.3.20",
+      "relevance": "allusion",
+      "reason": "Behold, I stand at the door and knock — Christ's direct gaze as an invitation to personal encounter and communion"
+    },
+    {
+      "ref": "REV.1.13-16",
+      "relevance": "allusion",
+      "reason": "John's vision of the glorified Christ with eyes like a flame of fire — the penetrating sacred gaze of the depicted Lord"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "penetrating",
+    "majestic",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011071",
+    "title": "Portrait of Christ",
+    "artist": "Jan van Eyck",
+    "model": "claude-opus-4-6"
+  }
+}

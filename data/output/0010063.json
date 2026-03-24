@@ -1,0 +1,98 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saint Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint James",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Judas and soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Agony in the Garden of Gethsemane",
+  "tags": [
+    "gethsemane",
+    "agony-in-the-garden",
+    "prayer",
+    "chalice",
+    "sleeping-disciples",
+    "angel-comforting",
+    "betrayal-approaching",
+    "olive-garden"
+  ],
+  "symbols": [
+    "chalice held by the angel — the cup of suffering and divine wrath that Jesus prays to have pass from Him, yet submits to the Father's will",
+    "three sleeping disciples — human frailty and inability to watch even one hour in the face of spiritual crisis",
+    "kneeling posture of Christ — complete submission to the will of the Father",
+    "approaching soldiers in the background — the imminent betrayal by Judas and the arrest",
+    "rock upon which Jesus kneels — steadfastness and the firm foundation of obedience"
+  ],
+  "description": "Jesus kneels in prayer atop a large rock, hands clasped, wearing a red cloak over a grey-blue robe, gazing upward toward an angel descending from the upper left. The angel, robed in pink and accompanied by a smaller winged figure, extends a golden chalice toward Christ. In the foreground below, three disciples — Peter, James, and John — lie asleep in various postures of exhaustion. To the left background, a group of figures appears to be departing or conversing. To the right background, a company of armed soldiers led by a figure approaches along a path.",
+  "theological_description": "The Agony in the Garden is the supreme moment of Christ's human struggle with the Passion that awaits Him. In Gethsemane, Jesus experiences the full weight of humanity's sin and the Father's cup of wrath, yet freely chooses obedience: 'Not my will, but yours be done' (Luke 22:42). The angel bearing the chalice is unique to Luke's account (22:43), sent to strengthen Him — a remarkable paradox where the omnipotent Son of God receives comfort from a created being, emphasizing the reality of His human nature. The sleeping disciples illustrate the warning Jesus gives: 'The spirit is willing but the flesh is weak' (Matthew 26:41). This scene is the hinge of redemption history: had Christ refused the cup, there would be no atonement. His prayer recapitulates and reverses Adam's disobedience in another garden (Eden), where the first man chose his own will over God's. The approaching soldiers signal the betrayal by Judas, linking this contemplative moment to the violent events that follow. Hebrews 5:7 recalls that Christ 'offered up prayers and supplications with loud cries and tears to the one who was able to save him from death.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.39-46",
+      "relevance": "primary",
+      "reason": "Luke's account of the agony, including the angel strengthening Jesus and the command to the disciples to pray"
+    },
+    {
+      "ref": "MAT.26.36-46",
+      "relevance": "primary",
+      "reason": "Matthew's account of Gethsemane with the three sleeping disciples and Jesus praying for the cup to pass"
+    },
+    {
+      "ref": "MRK.14.32-42",
+      "relevance": "primary",
+      "reason": "Mark's parallel account of the agony, emphasizing Jesus's distress and the disciples' failure to watch"
+    },
+    {
+      "ref": "HEB.5.7",
+      "relevance": "typological",
+      "reason": "Christ offering prayers with loud cries and tears to the one who could save Him from death"
+    },
+    {
+      "ref": "JHN.18.1-3",
+      "relevance": "allusion",
+      "reason": "The arrival of Judas with soldiers and officials to arrest Jesus in the garden"
+    },
+    {
+      "ref": "ROM.5.19",
+      "relevance": "typological",
+      "reason": "Christ's obedience in the garden reverses Adam's disobedience, making many righteous"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "reverent",
+    "tense",
+    "sorrowful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010063",
+    "title": "Praying for a Cup",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

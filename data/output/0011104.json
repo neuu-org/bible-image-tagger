@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Lamentation over the Dead Christ",
+  "tags": [
+    "lamentation",
+    "pieta",
+    "dead-christ",
+    "deposition",
+    "mourning",
+    "cross",
+    "passion-of-christ",
+    "mater-dolorosa",
+    "beloved-disciple",
+    "donor-portrait",
+    "grief",
+    "redemption",
+    "wounds-of-christ"
+  ],
+  "symbols": [
+    "the empty cross towering behind the figures — the instrument of salvation now emptied of its victim, standing as the sign of accomplished redemption",
+    "Christ's wounded body laid across Mary's lap — the Pieta motif, the Mother receiving back the body she brought into the world, a reversal of the Nativity",
+    "the white loincloth and linen wrappings — the burial cloths, anticipating the empty tomb and resurrection",
+    "Saint John supporting Christ's head — the beloved disciple entrusted with the care of Mary (John 19:26-27), now sharing in her grief",
+    "the donor figure in prayer at the right — the faithful believer contemplating the mystery of Christ's death, representing the viewer's devotional participation",
+    "the open landscape beyond — the hill of Golgotha outside the walls of Jerusalem, the place of execution transformed into the site of universal salvation"
+  ],
+  "description": "A Northern Renaissance panel painting depicting the Lamentation over the body of Christ. The dead Christ lies across the lap of the Virgin Mary, who is dressed in a blue-gray mantle and white head covering, her face etched with sorrow. Christ's body is pale and emaciated, marked with wounds, wearing only a white loincloth. To the left, Saint John the Evangelist, dressed in a blue robe, tenderly supports Christ's head and upper body, his expression one of deep grief. To the right, a man in a red robe kneels in prayer — a donor figure gazing reverently at Christ's body.",
+  "theological_description": "The Lamentation is the moment between the Deposition from the Cross and the Entombment — a pause of grief before the burial that precedes the Resurrection. Rogier van der Weyden's rendering distills the scene to its essential emotional and theological core. The Virgin Mary holds the body of her Son in a configuration that deliberately echoes the Madonna and Child: the Mother who once cradled the infant Word now receives His broken adult body, creating a poignant visual theology of Incarnation and Passion as two aspects of the same salvific mystery. John 19:38-42 describes Joseph of Arimathea and Nicodemus taking down Christ's body, but the Lamentation tradition focuses on Mary's grief — the fulfillment of Simeon's prophecy that 'a sword will pierce through your own soul also' (Luke 2:35). Saint John's presence recalls his unique position at the cross (John 19:26-27), where Christ entrusted His mother to the beloved disciple's care. The donor figure at right represents the devotional purpose of the work: the medieval and Renaissance practice of inserting the patron into the sacred scene invited the viewer to place themselves at the foot of the cross, to contemplate the price of redemption, and to respond with faith. The empty cross stands as a sign both of death accomplished and victory pending — 'it is finished' (John 19:30) — while the luminous sky beyond hints at the Easter dawn to come. As Paul writes, 'We preach Christ crucified' (1 Corinthians 1:23), and this image is that preaching made visible.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "The removal of Christ's body from the cross and preparation for burial — the narrative moment depicted in the Lamentation"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and the beloved disciple at the cross, Jesus entrusting His mother to John — both figures depicted flanking Christ's body"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul — fulfilled in this moment of maternal grief over her dead Son"
+    },
+    {
+      "ref": "JHN.19.30",
+      "relevance": "primary",
+      "reason": "It is finished — Christ's completed work of redemption, the theological weight behind the empty cross and the still body"
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "A man of sorrows, acquainted with grief — the Suffering Servant prophecy realized in the wounded, lifeless body of Christ"
+    },
+    {
+      "ref": "1CO.1.23",
+      "relevance": "allusion",
+      "reason": "We preach Christ crucified — the devotional purpose of the painting as a proclamation of the cross to the kneeling donor and the viewer"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "devotional",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011104",
+    "title": "Lamentation",
+    "artist": "Rogier van der Weyden",
+    "model": "claude-opus-4-6"
+  }
+}

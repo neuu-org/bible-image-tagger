@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Constantine the Great",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Depiction of the Arch of Constantine in Rome, a monument commemorating Constantine's victory at the Battle of Milvian Bridge",
+  "tags": [
+    "triumphal arch",
+    "Roman architecture",
+    "etching",
+    "Constantine",
+    "Rome",
+    "monumental ruins",
+    "antiquarian documentation"
+  ],
+  "symbols": [
+    "triumphal arch — imperial victory and power",
+    "relief sculptures on the arch — historical commemoration",
+    "broken masonry and overgrowth — passage of time and transience of empires",
+    "small human figures at base — scale of imperial ambition dwarfing ordinary life"
+  ],
+  "description": "A detailed black-and-white etching showing the Arch of Constantine in Rome from a three-quarter perspective. The massive triple-arched monument dominates the composition, rendered with meticulous attention to its Corinthian columns, relief panels, and attic inscriptions. Sculpted roundels and frieze panels are visible across the facade. At the base, tiny human figures and horses provide scale. Surrounding the arch are fragments of fallen masonry and sparse vegetation. The background shows hints of the Roman landscape with trees to the left and distant structures.",
+  "theological_description": "The Arch of Constantine holds a singular place in Christian history. Erected in 315 AD to celebrate Constantine's victory over Maxentius at the Milvian Bridge in 312 AD, it is inextricably linked to the moment that transformed Christianity from a persecuted sect to the faith of the Roman Empire. According to Eusebius and Lactantius, Constantine received a vision—either of a cross of light or the Chi-Rho symbol—before the battle, prompting his conversion. While the arch itself bears traditional pagan imagery (Victory figures, Sol Invictus), its historical significance as a marker of the Constantinian revolution is immense. The Edict of Milan (313 AD) followed shortly after, granting religious tolerance throughout the empire. Theologically, this monument stands at the hinge between the Apostolic era of persecution and the Christendom that followed—a fulfillment, in providential reading, of the mustard seed that grew into the greatest of trees (Matthew 13:31-32). The arch's endurance amid ruins also evokes the prophetic theme of earthly kingdoms rising and falling while God's kingdom endures (Daniel 2:44).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.13.31-32",
+      "relevance": "typological",
+      "reason": "The triumph of Constantine symbolizes the explosive growth of Christianity from a small persecuted community to imperial faith"
+    },
+    {
+      "ref": "DAN.2.44",
+      "relevance": "typological",
+      "reason": "The arch amid ruins evokes the theme of God's eternal kingdom outlasting earthly empires"
+    },
+    {
+      "ref": "ROM.13.1",
+      "relevance": "allusion",
+      "reason": "Constantine's victory raised questions about the relationship between governing authorities and divine appointment"
+    },
+    {
+      "ref": "ACT.9.15",
+      "relevance": "allusion",
+      "reason": "As Paul was a chosen vessel to bear Christ's name before Gentiles and kings, Constantine became an instrument of Christianity's imperial spread"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "solemn",
+    "antiquarian",
+    "monumental"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0010481",
+    "title": "View of the Arch of Constantine",
+    "artist": "Giovanni Battista Piranesi",
+    "model": "claude-opus-4-6"
+  }
+}

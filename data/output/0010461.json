@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna the Prophetess",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Presentation of Jesus at the Temple",
+  "tags": [
+    "Presentation at the Temple",
+    "Purification of Mary",
+    "Candlemas",
+    "altar",
+    "Nunc Dimittis",
+    "infant Christ",
+    "temple ritual",
+    "Mosaic Law fulfillment"
+  ],
+  "symbols": [
+    "altar — the place of sacrifice, prefiguring Christ's self-offering",
+    "infant on the altar cloth — Christ as both priest and victim",
+    "red columns — the blood of the covenant and the Passion to come",
+    "golden roundels on altar — sacred vessels evoking the Temple's holy objects",
+    "candles held by attendants — Simeon's prophecy of Christ as light to the nations",
+    "white cloth — purity and the sacrificial wrapping of the Lamb of God"
+  ],
+  "description": "A Gothic-framed altarpiece showing the Presentation of the infant Jesus in the Temple. At center, the elderly Simeon holds the Christ Child above a richly decorated altar draped in white cloth with golden roundels. The Virgin Mary stands beside Simeon in a red robe and blue mantle. Joseph appears at the far left leaning on a staff, wearing a green cloak. An elderly woman, likely Anna the Prophetess, stands near Mary. Two attendant figures in rich garments flank the scene, one carrying what appears to be offerings. Two red columns frame the central group beneath pointed Gothic arches.",
+  "theological_description": "The Presentation in the Temple (Luke 2:22-40) marks the moment when Jesus, the firstborn son, is consecrated to the Lord according to the Mosaic Law (Exod 13:2, 12). This scene carries profound Christological significance: the infant placed upon the altar visually anticipates his future sacrifice on the Cross. Simeon's canticle, the Nunc Dimittis, proclaims Jesus as 'a light for revelation to the Gentiles and for glory to your people Israel' (Luke 2:32). His prophecy to Mary — 'a sword will pierce your own soul' (Luke 2:35) — foreshadows the Passion. The prophetess Anna represents the faithful remnant of Israel who awaited redemption. The scene fulfills Malachi 3:1: 'the Lord whom you seek will suddenly come to his temple.' The purification offering of the poor (two turtledoves, per Lev 12:8) underscores the humble circumstances of the Incarnation, while the Temple setting affirms Jesus as the true presence of God entering his own dwelling place.",
+  "scripture_refs": [
+    {
+      "ref": "Luke.2.22-35",
+      "relevance": "primary",
+      "reason": "The direct biblical narrative of the Presentation of Jesus and Simeon's prophecy"
+    },
+    {
+      "ref": "Mal.3.1",
+      "relevance": "typological",
+      "reason": "The Lord suddenly coming to his temple, fulfilled in the infant Christ's presentation"
+    },
+    {
+      "ref": "Exod.13.2",
+      "relevance": "primary",
+      "reason": "The law of consecration of the firstborn which the Holy Family obeys"
+    },
+    {
+      "ref": "Lev.12.6-8",
+      "relevance": "primary",
+      "reason": "The purification offering prescribed for Mary after childbirth"
+    },
+    {
+      "ref": "Luke.2.36-38",
+      "relevance": "primary",
+      "reason": "Anna the prophetess recognizing the Redeemer in the Temple"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotion",
+    "solemnity",
+    "hope",
+    "reverence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010461",
+    "title": "Presentation in the Temple",
+    "artist": "Jacques Daret",
+    "model": "claude-opus-4-6"
+  }
+}

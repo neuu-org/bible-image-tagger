@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Villagers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "three-kings",
+    "winter-landscape",
+    "snow",
+    "bethlehem",
+    "nativity",
+    "crowded-scene",
+    "gift-bearing",
+    "pilgrimage",
+    "christmas",
+    "incarnation",
+    "humble-stable",
+    "divine-kingship"
+  ],
+  "symbols": [
+    "snow-covered village — the harsh world into which the Savior was born, the spiritual winter awaiting the light of Christ",
+    "crowd of villagers — all nations and peoples drawn to witness the revelation of God in the flesh",
+    "humble stable or ruined structure at left — the lowliness of Christ's birth, the old order giving way to the new",
+    "gifts of the Magi — gold for kingship, frankincense for divinity, myrrh for suffering and death",
+    "bare winter trees — the world in its season of dormancy before the renewal brought by the Incarnation",
+    "distant church spire — the future Church that will arise from this event"
+  ],
+  "description": "A panoramic winter village scene rendered from a slightly elevated viewpoint. Snow blankets rooftops, roads, and the surrounding countryside. A dense crowd of figures in dark clothing gathers around a dilapidated structure at the lower left, where several richly dressed figures kneel or stand before a sheltered group. Bare-branched trees frame the composition. Additional villagers move through the snowy streets between timber-framed buildings. Horse-drawn carts and scattered figures populate the middle distance.",
+  "theological_description": "Pieter Bruegel the Elder's transposition of the Adoration of the Magi into a Flemish winter village is one of the most theologically profound treatments of the Epiphany in Western art. By setting the event not in an idealized Bethlehem but in an ordinary northern European village buried under snow, Bruegel affirms the Incarnation's central claim: God enters the actual, present world of His people — not a mythic past. The Magi, representing the Gentile nations coming to worship the Jewish Messiah, nearly disappear into the crowd, emphasizing that this cosmic event occurs amid the mundane bustle of daily life, largely unnoticed by the world. The snow itself becomes a powerful symbol of the world's spiritual state before the coming of Christ: cold, bare, seemingly lifeless, yet on the verge of transformation. Matthew's account (Matthew 2:1-12) records that the Magi came from the East following a star, bringing gold, frankincense, and myrrh — gifts that confess Christ's kingship, divinity, and redemptive suffering. The ruined stable recalls Isaiah's prophecy of a shoot from the stump of Jesse (Isaiah 11:1) — new life emerging from apparent death. Bruegel's genius is to show that the greatest event in salvation history unfolds not with fanfare but in hiddenness, exactly as the theology of kenosis demands.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The visit of the Magi to the newborn Jesus — the event directly depicted with the wise men bearing gifts to the Christ Child"
+    },
+    {
+      "ref": "ISA.60.3",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light, and kings to the brightness of your rising — the Magi fulfill this Isaianic prophecy of Gentile pilgrimage"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "The kings of Tarshish and the isles shall bring tribute — messianic psalm traditionally connected to the Magi's gifts"
+    },
+    {
+      "ref": "ISA.11.1",
+      "relevance": "allusion",
+      "reason": "A shoot from the stump of Jesse — the ruined stable amid winter suggests new life emerging from apparent barrenness"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "allusion",
+      "reason": "The kenosis of Christ — divinity hidden in a humble village scene, the King of kings nearly invisible among ordinary people"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "There was no room for them in the inn — the humble, marginal circumstances of Christ's birth reinforced by the dilapidated shelter"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "hushed",
+    "wintry",
+    "solemn",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011172",
+    "title": "The Adoration of the Kings in the Snow",
+    "artist": "Pieter Bruegel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

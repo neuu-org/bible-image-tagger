@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    }
+  ],
+  "event": "God the Eternal Father appears to Moses",
+  "tags": [
+    "theophany",
+    "Moses",
+    "God-the-Father",
+    "divine-encounter",
+    "divine-radiance",
+    "awe-and-fear",
+    "calling-of-Moses",
+    "heavenly-glory",
+    "divine-commission",
+    "cloud-of-presence",
+    "Old-Testament-theophany",
+    "gesture-of-command"
+  ],
+  "symbols": [
+    "radiant golden light surrounding God — the shekinah glory and unapproachable light of the divine presence",
+    "God seated on clouds — heavenly enthronement and sovereignty over creation",
+    "Moses shielding his face — human inability to behold the full glory of God and reverent fear",
+    "outstretched hand of God — divine commission, command, or revelation",
+    "dark lower register — the earthly realm contrasted with heavenly brilliance",
+    "upward diagonal composition — the transcendent gap between the human and the divine"
+  ],
+  "description": "An oval-format painting depicting two figures in dramatic diagonal arrangement against a dark background. In the upper right, an elderly bearded figure surrounded by golden radiance sits upon clouds, one hand raised in a gesture of authority or speech, robed in flowing garments. In the lower left, a younger bearded man in a white garment recoils or shields himself, one arm raised as if to protect his eyes from the blinding light above. Powerful chiaroscuro separates the luminous divine figure from the darker earthly zone, with the two figures connected by the dramatic play of light.",
+  "theological_description": "Tintoretto depicts one of the foundational theophanies of the Old Testament: the Eternal Father revealing himself to Moses. This encounter synthesizes several Mosaic theophanies — the burning bush (Exodus 3), the cloud on Sinai (Exodus 19), and God's passing before Moses in the cleft of the rock (Exodus 33:18-23). Moses's recoiling posture embodies the biblical teaching that no one may see God and live (Exodus 33:20), a principle that underscores the infinite ontological distance between Creator and creature. Yet the very fact that God appears at all reveals divine condescension — the Almighty accommodating himself to human capacity. God's authoritative gesture suggests the commissioning moment: 'I will send you to Pharaoh that you may bring my people out of Egypt' (Exodus 3:10). The radical contrast between the luminous upper realm and the dark lower zone visually expresses Paul's declaration that God 'dwells in unapproachable light, whom no one has ever seen or can see' (1 Timothy 6:16). Typologically, this theophany points forward to the ultimate revelation of the Father through the Son: 'No one has seen the Father except the one who is from God' (John 6:46), making every Old Testament theophany a preparation for the Incarnation.",
+  "scripture_refs": [
+    {
+      "ref": "EXO.3.4-6",
+      "relevance": "primary",
+      "reason": "God's initial theophany to Moses, where Moses hid his face because he was afraid to look at God"
+    },
+    {
+      "ref": "EXO.33.18-23",
+      "relevance": "primary",
+      "reason": "Moses's request to see God's glory and God's response that no one can see his face and live — Moses shields himself here"
+    },
+    {
+      "ref": "EXO.3.10",
+      "relevance": "primary",
+      "reason": "God's commissioning gesture corresponds to the divine command sending Moses to deliver Israel from Egypt"
+    },
+    {
+      "ref": "1TI.6.16",
+      "relevance": "typological",
+      "reason": "God dwelling in unapproachable light — the radiant brilliance surrounding the Father in this depiction"
+    },
+    {
+      "ref": "JHN.6.46",
+      "relevance": "typological",
+      "reason": "No one has seen the Father except the Son — the Old Testament theophany points forward to the fuller revelation in Christ"
+    },
+    {
+      "ref": "HEB.12.21",
+      "relevance": "allusion",
+      "reason": "So terrifying was the sight that Moses said he trembled with fear — the recoiling posture of Moses in this scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe",
+    "terror",
+    "majesty",
+    "reverence"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0010683",
+    "title": "The Eternal Father Appears to Moses",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

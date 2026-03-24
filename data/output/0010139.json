@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "John the Baptist", "type": "PERSON"}
+  ],
+  "event": "John the Baptist dwelling in the wilderness",
+  "tags": [
+    "wilderness",
+    "prophet",
+    "seated-figure",
+    "nude",
+    "staff",
+    "cross-staff",
+    "asceticism",
+    "solitude",
+    "rocky-landscape",
+    "forerunner"
+  ],
+  "symbols": [
+    "wilderness — place of divine preparation and prophetic calling",
+    "staff/cross-staff — prefiguration of Christ's cross and John's role as herald of the Lamb",
+    "animal skin garment — ascetic life and prophetic identity recalling Elijah",
+    "rocky seat — the harsh desert terrain of John's penitential dwelling",
+    "seated posture — contemplative waiting before the public ministry begins"
+  ],
+  "description": "A muscular young male figure sits on a rocky outcrop in a wilderness setting, his body turned slightly to the left. He is largely unclothed, with an animal skin draped across his torso. His right hand rests near his chest in a gesture that may be pointing, while his left hand holds a long thin staff or reed cross that extends diagonally downward. His hair is full and curly. Dense, dark foliage and rocky terrain surround him. The figure's expression is contemplative, gazing outward. The drawing is rendered in dark tones with vigorous hatching and atmospheric shading.",
+  "theological_description": "This study depicts the young John the Baptist in the wilderness, a subject rooted in Luke 1:80: 'the child grew and became strong in spirit, and he was in the wilderness until the day of his public appearance to Israel.' The wilderness sojourn is theologically central — it is the crucible where the greatest of the prophets (Matt 11:11) was forged before proclaiming the coming Messiah. John's animal skin garment identifies him with Elijah (2 Kings 1:8), fulfilling Malachi's prophecy that Elijah would return before the great day of the Lord (Mal 4:5). The cross-staff he holds is an iconographic convention that compresses his entire mission into one symbol: he is the one who 'saw Jesus coming toward him and said, Behold, the Lamb of God, who takes away the sin of the world' (John 1:29). The pointing gesture, even here in solitude, anticipates his defining act — directing all attention away from himself and toward Christ. His youthful, powerful physique conveys the spiritual vigor of one set apart from the womb (Luke 1:15), while his seated contemplative posture suggests the inner preparation preceding the thunderous call to repentance that would shake Israel.",
+  "scripture_refs": [
+    {"ref": "LUK.1.80", "relevance": "primary", "reason": "John grew strong in spirit and lived in the wilderness until his public ministry"},
+    {"ref": "MAT.3.1", "relevance": "primary", "reason": "John the Baptist appears preaching in the wilderness of Judea"},
+    {"ref": "JHN.1.29", "relevance": "allusion", "reason": "John's role as the one who points to the Lamb of God, anticipated by the cross-staff"},
+    {"ref": "2KI.1.8", "relevance": "typological", "reason": "Elijah's garment of hair — John's animal skin identifies him as the new Elijah"},
+    {"ref": "MAL.4.5", "relevance": "typological", "reason": "Prophecy of Elijah's return before the Lord's coming, fulfilled in John"},
+    {"ref": "MAT.11.11", "relevance": "allusion", "reason": "Among those born of women none is greater than John the Baptist"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "austere", "expectant"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010139",
+    "title": "Study for St. John in the Wilderness",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

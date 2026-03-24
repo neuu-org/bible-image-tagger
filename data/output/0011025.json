@@ -1,0 +1,110 @@
+{
+  "characters": [
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ox",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Nativity of Christ",
+  "tags": [
+    "nativity",
+    "birth-of-christ",
+    "incarnation",
+    "adoration-of-the-child",
+    "holy-family",
+    "manger",
+    "stable",
+    "divine-humility",
+    "maternal-devotion",
+    "christmas",
+    "kneeling-madonna",
+    "swaddling-clothes",
+    "ox-at-manger",
+    "stone-architecture"
+  ],
+  "symbols": [
+    "naked infant on bare ground — the divine Word made vulnerable flesh, the kenotic humility of the Incarnation",
+    "kneeling Virgin Mary — adoration of the God she has borne, the first act of worship before the incarnate Lord",
+    "ox behind the manger — fulfillment of Isaiah's prophecy that the ox knows its owner, and traditional symbol of patient sacrifice",
+    "ruined stone architecture — the old covenant giving way to the new; the crumbling temple through which new life enters",
+    "Joseph in prayer — the just man's faithful obedience and contemplative worship",
+    "red robe of Joseph — prefiguration of Christ's Passion, the blood that will be shed",
+    "distant landscape with figures — the wider world unaware of the cosmic event unfolding in this humble stable",
+    "radiant hair of Mary — purity and the light of grace upon the Theotokos"
+  ],
+  "description": "The Virgin Mary kneels at center right, wearing a pale blue-white gown over a dark mantle spread across the ground. Her long golden hair flows over her shoulders as she gazes down at the naked Christ Child who lies on the hem of her mantle on the bare stone floor. To the left, an elderly Joseph in voluminous red robes kneels in prayer with hands clasped, his balding head bowed. Behind him, the dark head of an ox peers over a wooden manger. The setting is a partly ruined stone structure with columns, brick walls, and a timber roof open to the sky.",
+  "theological_description": "Hans Memling's Nativity presents the central mystery of the Christian faith: the Incarnation of the eternal Word. The infant Christ lies not in a cradle but on the bare earth, a motif drawn from the visions of St. Bridget of Sweden, signifying that the Creator of all descended to the lowest place. Mary kneels in adoration rather than reclining in exhaustion, reflecting the Bridgettine tradition that the birth was painless and miraculous, preserving Mary's virginity — a point the Council of Ephesus (431) affirmed by declaring her Theotokos. Joseph's prayerful posture embodies the righteous man of Matthew 1:19 who obeyed the angelic command without fully comprehending the mystery. The ox fulfills Isaiah 1:3 ('The ox knows its owner'), a text the Fathers (Jerome, Gregory of Nyssa) applied to the Nativity to show that brute beasts recognized their Creator while Israel did not. The ruined architecture symbolizes the passing of the old dispensation: as Augustine taught, Christ was born among ruins to rebuild humanity as a new temple. The scene's stillness and intimacy invite the viewer into the contemplative adoration that is the proper response to the mystery of Emmanuel — God with us (Matthew 1:23). Micah's prophecy of Bethlehem as the birthplace of the ruler of Israel (Micah 5:2) finds its fulfillment in this humble stable, where the shepherd of Israel arrives as a helpless lamb.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus in Bethlehem, Mary wrapping him in swaddling clothes and laying him in a manger"
+    },
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "primary",
+      "reason": "The virginal conception and Joseph's obedient acceptance of his role as guardian of the Holy Family"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "typological",
+      "reason": "The ox knows its owner — patristic tradition places the ox at the Nativity as fulfillment of this prophecy"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son, Emmanuel — the foundational prophecy of the Incarnation"
+    },
+    {
+      "ref": "MAT.1.23",
+      "relevance": "primary",
+      "reason": "Emmanuel, God with us, the theological name that interprets the entire Nativity scene"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ's kenosis — though in the form of God he emptied himself, taking the form of a servant, visualized in the naked infant on bare ground"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "primary",
+      "reason": "Bethlehem Ephrathah as the prophesied birthplace of the ruler of Israel"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us — the theological core of the Nativity mystery"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "When the fullness of time had come, God sent his Son, born of a woman — the Incarnation in its Pauline formulation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "serene",
+    "intimate",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011025",
+    "title": "Nativity",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

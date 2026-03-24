@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Paul", "type": "PERSON"},
+    {"name": "King Agrippa", "type": "PERSON"},
+    {"name": "Berenice", "type": "PERSON"},
+    {"name": "Festus", "type": "PERSON"}
+  ],
+  "event": "Paul's defense before King Agrippa",
+  "tags": ["trial", "apostolic-defense", "proclamation", "roman-authority", "witness", "kingship", "captivity", "christian-testimony", "courage"],
+  "symbols": ["Paul standing in white garment — purity and righteousness of the gospel witness", "throne and elevated seat — earthly power confronted by divine truth", "Roman military attire — imperial authority that cannot silence the Word", "Paul's outstretched hand — bold apostolic proclamation and appeal to conscience", "scribes recording in background — the testimony preserved for history"],
+  "description": "A bearded man in a simple white robe stands at right, gesturing with his right hand as he addresses a group of seated dignitaries. At center, a man in a white toga with red trim sits on an ornate chair, resting his chin on his hand in contemplation. To his left sits a richly adorned woman in a light-colored dress. A crowned figure in royal garments stands at far left behind a desk. Roman soldiers and attendants fill the dim background. The scene is set in a grand columned hall with dramatic, dark lighting.",
+  "theological_description": "This scene captures one of the most dramatic moments in Acts: Paul's defense before Agrippa II, Berenice, and the proconsul Festus in Caesarea. Paul recounts his conversion on the Damascus road and his divine commission to preach to the Gentiles. The theological weight lies in the inversion of power: the prisoner Paul stands as the true authority, bearing witness to the risen Christ before rulers who hold only temporal power. Festus declares Paul mad, yet Agrippa is nearly persuaded (Acts 26:28). The scene embodies the apostolic principle that the gospel must be proclaimed before kings and governors (Matt 10:18), and that divine foolishness surpasses human wisdom (1 Cor 1:25). Paul's chains become instruments of testimony, fulfilling Jesus' promise that the Holy Spirit would give words in the hour of trial (Luke 12:11-12). The contrast between the opulent court and Paul's humble garment visually enacts the Pauline theology of power perfected in weakness (2 Cor 12:9).",
+  "scripture_refs": [
+    {"ref": "ACT.25.23", "relevance": "primary", "reason": "Agrippa, Berenice, and Festus gather to hear Paul's case"},
+    {"ref": "ACT.26.1", "relevance": "primary", "reason": "Paul stretches out his hand and begins his defense before Agrippa"},
+    {"ref": "ACT.26.28", "relevance": "primary", "reason": "Agrippa's response: 'You almost persuade me to become a Christian'"},
+    {"ref": "ACT.9.15", "relevance": "allusion", "reason": "Paul as chosen vessel to bear Christ's name before kings"},
+    {"ref": "MAT.10.18", "relevance": "typological", "reason": "Jesus foretells disciples brought before governors and kings as witnesses"},
+    {"ref": "2CO.12.9", "relevance": "allusion", "reason": "God's power made perfect in weakness, embodied by Paul the prisoner before royalty"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemn", "tense", "dignified", "confrontational"],
+  "period": "Apostolic",
+  "_meta": {"key": "0010184", "title": "The Apostle Paul explains the tenets of faith in the presence of King Agrippa, his sister Berenice, and the proconsul Festus", "artist": "Vasily Surikov", "model": "claude-opus-4-6"}
+}

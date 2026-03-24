@@ -1,0 +1,20 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Study for a depiction of Christ, likely the Crucifixion or Ascension",
+  "tags": ["crucifixion-pose", "outstretched-arms", "male-torso", "preparatory-study", "christ-figure", "passion", "bodily-suffering"],
+  "symbols": ["outstretched arms — prefigure the cruciform posture of Christ on the cross, evoking total self-offering", "upward gaze — spiritual aspiration and submission to the Father's will", "exposed torso — vulnerability and incarnational theology, God made flesh"],
+  "description": "A pencil study on paper showing two views of a male figure. The upper figure is a half-length torso seen from the left side, arms outstretched wide with the left arm raised high and the right extended horizontally, head turned in profile with a downward or distant gaze. Muscular anatomy is carefully rendered. Below, a smaller study shows the same figure from a different angle, arms similarly extended upward, the body arching back. The background is bare paper.",
+  "theological_description": "This preparatory study captures Christ in a cruciform or ascending posture. The outstretched arms unmistakably evoke the cross — the primary gesture of Christian soteriology. In patristic thought (Irenaeus, Athanasius), the extension of Christ's arms on the cross represents the universal embrace of salvation, gathering all nations to himself. The muscular yet vulnerable body reflects the Chalcedonian paradox: fully divine, fully human. The upward reach of the raised arm may also suggest the moment of Ascension (ACT.1.9), or the cry of dereliction when Christ entrusted his spirit to the Father (LUK.23.46). The dual studies — one showing the body from the side, the other arching upward — may correspond to the dual movement of kenosis (downward self-emptying, PHP.2.7-8) and exaltation (upward glorification, PHP.2.9-11). The nakedness of the figure recalls the stripping of Christ before crucifixion, an act of humiliation that theology reinterprets as the new Adam restoring the innocence lost in Eden.",
+  "scripture_refs": [
+    {"ref": "JHN.19.18", "relevance": "primary", "reason": "The cruciform posture with arms outstretched directly references Christ crucified"},
+    {"ref": "PHP.2.7-8", "relevance": "typological", "reason": "The vulnerable, exposed body embodies the kenotic self-emptying of the incarnate Son"},
+    {"ref": "ACT.1.9", "relevance": "allusion", "reason": "The upward-reaching arm may allude to the Ascension"},
+    {"ref": "LUK.23.46", "relevance": "allusion", "reason": "The upward gaze evokes Christ commending his spirit to the Father"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "vulnerable", "transcendent"],
+  "period": "Gospel",
+  "_meta": {"key": "0010219", "title": "Study for Christ", "artist": "Luc-Olivier Merson", "model": "claude-opus-4-6"}
+}

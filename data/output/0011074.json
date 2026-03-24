@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bystanders at Golgotha",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion of Jesus Christ at Golgotha",
+  "tags": [
+    "crucifixion",
+    "golgotha",
+    "calvary",
+    "cross",
+    "passion-of-christ",
+    "suffering",
+    "redemption",
+    "atonement",
+    "death-of-christ",
+    "mourning",
+    "sacrifice",
+    "darkness-over-the-land"
+  ],
+  "symbols": [
+    "the cross with Christ's body — the instrument of atonement, the tree of life through which the curse of Eden is reversed",
+    "the darkened, turbulent sky — the cosmic darkness that fell over the land during the crucifixion (Matthew 27:45), creation groaning at the death of its Creator",
+    "the distorted, anguished figures below the cross — humanity's grief and horror at the enormity of the Passion, the sorrow that pierces the hearts of the faithful",
+    "the buildings of Jerusalem in the background — the city that kills the prophets (Matthew 23:37), soon to face judgment for rejecting its Messiah",
+    "the mounted figure on horseback — the Roman centurion or soldier, representing worldly power that unknowingly serves the divine plan of salvation",
+    "the expressionist distortion of forms — the shattering of the natural order as the sinless one bears the sins of the world"
+  ],
+  "description": "An expressionist painting depicting the crucifixion of Christ at Golgotha. The central figure of Jesus hangs on a large cross, his body rendered in distorted, anguished forms with muted flesh tones against a swirling, dark greenish-brown and yellow sky. Below the cross stand several figures: a mourning woman draped in warm orange-red robes, a figure on horseback to the left, and other bystanders to the right. The composition is dominated by heavy, agitated brushwork with thick impasto. Buildings and architectural forms of Jerusalem appear in the background corners.",
+  "theological_description": "The Crucifixion is the central event of Christian soteriology — the moment when God in Christ reconciles the world to Himself (2 Corinthians 5:19). Kokoschka's expressionist treatment strips away the serene devotional tradition to reveal the raw horror and cosmic significance of the event. The distorted forms and violent brushwork convey what the Gospels report: darkness covered the whole land (Mark 15:33), the earth shook, rocks split (Matthew 27:51), and the veil of the temple was torn in two. This is not a peaceful death but the apocalyptic collision of divine love with human sin. Paul writes that Christ 'became a curse for us' (Galatians 3:13), and the tortured surface of this painting embodies that theological reality. The mourning figures beneath the cross recall John's account of Mary and the beloved disciple standing at the foot of the cross (John 19:25-27), where Jesus establishes the new family of faith even in His agony. The mounted figure may evoke the centurion who, witnessing these things, declared 'Truly this man was the Son of God' (Mark 15:39) — faith born precisely at the point of greatest apparent defeat. The oppressive atmosphere captures the mysterium tremendum of the atonement: the Lamb of God taking away the sin of the world (John 1:29) through an act of self-giving love so radical it convulses creation itself.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.33-50",
+      "relevance": "primary",
+      "reason": "Matthew's account of the crucifixion at Golgotha, the darkness over the land, and Christ's death on the cross"
+    },
+    {
+      "ref": "MRK.15.33-39",
+      "relevance": "primary",
+      "reason": "The darkness at the sixth hour and the centurion's confession that Jesus was the Son of God"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and the beloved disciple standing at the foot of the cross, the figures of grief depicted below"
+    },
+    {
+      "ref": "ISA.53.4-6",
+      "relevance": "typological",
+      "reason": "The Suffering Servant bearing our griefs and carrying our sorrows — the prophetic archetype of the crucified Christ"
+    },
+    {
+      "ref": "GAL.3.13",
+      "relevance": "allusion",
+      "reason": "Christ became a curse for us, hung on a tree — the theological weight behind the tortured expressionist rendering"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "allusion",
+      "reason": "Behold the Lamb of God who takes away the sin of the world — the sacrificial theology underlying the crucifixion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "turbulent",
+    "somber",
+    "apocalyptic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011074",
+    "title": "Crucifixion (Golgotha)",
+    "artist": "Oskar Kokoschka",
+    "model": "claude-opus-4-6"
+  }
+}

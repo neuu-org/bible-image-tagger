@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Penitence of Mary Magdalene",
+  "tags": [
+    "penitent-magdalene",
+    "candlelight",
+    "repentance",
+    "contemplation",
+    "vanitas",
+    "oil-lamp",
+    "darkness",
+    "conversion",
+    "spiritual-awakening"
+  ],
+  "symbols": [
+    "candle flame — the light of Christ illuminating the penitent soul in darkness",
+    "darkness surrounding the figure — the state of sin from which Magdalene turns toward grace",
+    "long flowing hair — traditional identifier of Magdalene, recalling her wiping Christ's feet with her hair",
+    "open book — Scripture or devotional meditation, the Word guiding repentance",
+    "mirror or reflective object — vanitas symbol, renunciation of worldly beauty and pride"
+  ],
+  "description": "A young woman sits in near-total darkness, illuminated only by a single small oil lamp or candle she holds near her face with one hand. Her other hand rests on a table or surface before her. She has long, loose reddish-brown hair falling over her shoulders. She wears a white blouse with billowing sleeves and a dark robe over a reddish-purple skirt. Her face is turned upward with a contemplative, mournful expression. On the table beside her are objects partially visible in the dim light, including what appears to be a book and possibly a mirror or vessel.",
+  "theological_description": "Mary Magdalene as the penitent contemplative is one of the most enduring subjects in Christian art. The Western tradition (following Gregory the Great) conflated her with the sinful woman who washed Christ's feet with tears and dried them with her hair (LUK.7.37-38), making her the paradigm of repentance. The single candle flame in surrounding darkness enacts the Johannine theology of light entering darkness (JHN.1.5): Magdalene's conversion is the movement from darkness to light, from death to life. Her upward gaze suggests the moment of metanoia — the turning of the soul toward God. The loose hair that once signified worldly vanity now becomes an instrument of devotion. Patristic writers (Ephrem the Syrian, Gregory the Great) celebrated Magdalene as proof that no sinner is beyond grace. She was also the first witness of the Resurrection (JHN.20.11-18), earning the title 'Apostle to the Apostles' — the one who carried the news of the risen Christ. The vanitas elements on the table (book, possible mirror) mark her renunciation of worldly attachment in favor of the one thing needful (LUK.10.42).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.37-38",
+      "relevance": "primary",
+      "reason": "The sinful woman who anointed Christ's feet, traditionally identified as Magdalene"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "primary",
+      "reason": "Magdalene as first witness of the Resurrection, called by name by the risen Christ"
+    },
+    {
+      "ref": "LUK.10.42",
+      "relevance": "allusion",
+      "reason": "Mary choosing the better part — contemplative devotion over worldly concerns"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "typological",
+      "reason": "The candle in darkness enacts the Johannine theme of light shining in darkness"
+    },
+    {
+      "ref": "2CO.5.17",
+      "relevance": "allusion",
+      "reason": "Magdalene as the paradigm of new creation through repentance in Christ"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitent",
+    "contemplative",
+    "sorrowful",
+    "hopeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010225",
+    "title": "St. Mary Magdalene",
+    "artist": "Josefa de Obidos",
+    "model": "claude-opus-4-6"
+  }
+}

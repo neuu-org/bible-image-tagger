@@ -1,0 +1,21 @@
+{
+  "characters": [
+    {"name": "Pilgrims and visitors", "type": "GROUP"}
+  ],
+  "event": "Interior view of the Church of the Holy Sepulchre",
+  "tags": ["holy-sepulchre", "jerusalem", "pilgrimage", "sacred-architecture", "crucifixion-site", "resurrection-site", "stone-columns", "arches", "candlesticks", "worship-space"],
+  "symbols": ["arches and columns — the church as the body of Christ, structured and enduring through centuries", "candlesticks and lamps — the light of the Resurrection conquering the darkness of the tomb", "stone — the stone rolled away from Christ's tomb, now incorporated into the church fabric", "upper gallery — heavenly realm overlooking the earthly place of death and resurrection"],
+  "description": "The interior of a large stone church with massive rounded arches supported by tall columns with ornate capitals. The space rises through multiple levels, with a balustrade gallery on the second story and a clerestory window admitting light from above. The floor is polished stone. Several visitors stand and walk through the space. In the left foreground, tall metal candlesticks flank what appears to be a shrine or monument. Warm lamplight illuminates portions of the stonework while other areas remain in deep shadow. The architecture features a mix of arched doorways and decorative stonework.",
+  "theological_description": "The Church of the Holy Sepulchre in Jerusalem encloses the two most significant sites in Christian faith: Golgotha, where Christ was crucified, and the empty tomb, from which he rose. This building is the physical nexus of salvation history — the place where death was defeated. The massive Romanesque arches rising overhead recall the cosmic scope of the Paschal mystery; what happened in this small geographic space reverberates through all creation. The interplay of shadow and light within the church is itself a theological statement: the darkness of Good Friday yielding to Easter dawn. Pilgrims have come to this site since Helena's identification of it in the 4th century, fulfilling the Psalmist's longing to dwell in the house of the Lord (PSA.27.4). The layered architecture — Crusader, Byzantine, and earlier — testifies to the communion of saints across centuries, all drawn to the place where Christ's words were fulfilled: 'Destroy this temple, and in three days I will raise it up' (JHN.2.19).",
+  "scripture_refs": [
+    {"ref": "MAT.27.33-35", "relevance": "primary", "reason": "The church encloses Golgotha, the site of Christ's crucifixion"},
+    {"ref": "MAT.28.6", "relevance": "primary", "reason": "The empty tomb within the church is the site of the Resurrection"},
+    {"ref": "JHN.2.19", "relevance": "typological", "reason": "Christ's prophecy about destroying and raising the temple finds its literal fulfillment at this site"},
+    {"ref": "PSA.27.4", "relevance": "allusion", "reason": "Pilgrims visiting this holy place embody the Psalmist's desire to dwell in God's house"},
+    {"ref": "JHN.19.41-42", "relevance": "primary", "reason": "The garden tomb near the crucifixion site where Jesus was buried"}
+  ],
+  "scene_type": "liturgical",
+  "mood": ["reverent", "solemn", "awe-inspiring"],
+  "period": "Liturgical",
+  "_meta": {"key": "0010223", "title": "Interior of Church of the Holy Sepulchre, Jerusalem, Israel", "artist": "Romanesque Architecture", "model": "claude-opus-4-6"}
+}

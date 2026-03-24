@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Saint Peter", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman soldiers", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Saints", "type": "GROUP"},
+    {"name": "Spectators", "type": "GROUP"}
+  ],
+  "event": "The Crucifixion of Saint Peter",
+  "tags": [
+    "crucifixion",
+    "martyrdom",
+    "inverted-cross",
+    "heavenly-glory",
+    "apostolic-death",
+    "persecution",
+    "clouds",
+    "heaven-and-earth"
+  ],
+  "symbols": [
+    "inverted cross — Peter's humility, deeming himself unworthy to die in the same manner as Christ",
+    "heavenly host above — the communion of saints receiving the martyr into glory",
+    "golden light at top — divine glory and the beatific vision awaiting the faithful",
+    "soldiers below — the worldly power of Rome set against the Kingdom of God"
+  ],
+  "description": "A large multi-register composition. In the lower half, a crowd of Roman soldiers and executioners raise an inverted cross bearing the figure of Peter, his body upside down, while onlookers gesture and struggle amid the tumult. In the upper half, a heavenly realm opens in golden light: Christ is enthroned at the summit surrounded by a halo, flanked by angels, saints, and figures seated on clouds. The entire scene is rendered in deep warm browns and golds, creating a dramatic contrast between the earthly violence below and celestial glory above.",
+  "theological_description": "This painting captures the tradition, attested by Origen and recorded by Eusebius, that the Apostle Peter was crucified upside down in Rome under Nero, insisting he was not worthy to die in the same posture as his Lord. The dual-register composition embodies the Christian eschatological vision: earthly suffering is not the final word but the gateway to heavenly glory. The heavenly court above, with Christ enthroned among saints and angels, visualizes the promise of Revelation 7 — the great multitude before the throne. Peter's martyrdom fulfills Christ's prophecy in John 21:18-19 that Peter would glorify God by his death. The inverted cross became a symbol of radical humility and total self-offering. The juxtaposition of chaos below and serene glory above reflects Paul's teaching that present sufferings are not worth comparing with the glory to be revealed (Romans 8:18).",
+  "scripture_refs": [
+    {"ref": "JHN.21.18-19", "relevance": "primary", "reason": "Jesus prophesies Peter's martyrdom, telling him another will stretch out his hands and carry him where he does not wish to go"},
+    {"ref": "ACT.12.3-4", "relevance": "allusion", "reason": "Peter's earlier imprisonment under Herod prefigures his eventual martyrdom in Rome"},
+    {"ref": "2PE.1.14", "relevance": "primary", "reason": "Peter acknowledges his impending death as revealed by the Lord"},
+    {"ref": "ROM.8.18", "relevance": "typological", "reason": "The dual composition of earthly suffering below and heavenly glory above illustrates Paul's contrast of present suffering and future glory"},
+    {"ref": "REV.7.9-17", "relevance": "typological", "reason": "The heavenly assembly of saints in the upper register evokes the multitude before the throne who have come through great tribulation"},
+    {"ref": "MAT.16.18-19", "relevance": "allusion", "reason": "Peter as the rock upon whom the Church is built; his martyrdom seals his apostolic commission"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["violent", "triumphant", "solemn", "glorious"],
+  "period": "Apostolic",
+  "_meta": {"key": "0010043", "title": "The Crucifixion of St Peter", "artist": "Palma il Giovane", "model": "claude-opus-4-6"}
+}

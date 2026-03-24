@@ -1,0 +1,23 @@
+{
+  "characters": [
+    {"name": "Ezekiel", "type": "PERSON"},
+    {"name": "Israelite exiles", "type": "GROUP"}
+  ],
+  "event": "Ezekiel prophesying to the exiles",
+  "tags": ["prophecy", "exile", "divine-calling", "proclamation", "prophet", "captivity", "heavens-opened", "prophetic-vision"],
+  "symbols": ["raised arms — prophetic invocation and reception of divine word", "elevated rocky ground — the prophet set apart and above as God's mouthpiece", "dark swirling sky — the opening of heavens and the approaching glory of God", "huddled crowd below — the exiled and despairing people of Israel awaiting God's word", "windswept robes — the rushing of the Spirit upon the prophet"],
+  "description": "An elderly bearded man stands atop a rocky elevation, arms raised toward a dramatic stormy sky with parting clouds. His long robes and hair are blown by wind. Below him, a group of people sit and kneel on the ground, looking up toward him with attention. Some figures are wrapped in cloaks, huddled together. The landscape is barren and desolate. The engraving uses strong contrasts of light and dark, with beams of light breaking through the heavy clouds above the prophet's outstretched hands. A caption reads 'Ezekiel Prophesying.'",
+  "theological_description": "This image depicts the inaugural prophetic ministry of Ezekiel among the Babylonian exiles by the river Chebar. Called in the fifth year of King Jehoiachin's captivity, Ezekiel receives visions of God as the heavens open (Ezek 1:1). The raised arms signify both the reception of the divine word and its proclamation to a people in despair. Ezekiel's role is unique among the prophets: he is simultaneously priest and prophet, called to embody God's message through dramatic sign-acts. The stormy sky evokes the theophanic vision of chapter 1 — the whirlwind, the cloud, and the fire from which the glory of the Lord appears. The exiles huddled below represent the 'rebellious house' to whom Ezekiel is sent (Ezek 2:3-5), yet they also represent the remnant who will receive the promise of restoration. The barren landscape prefigures the valley of dry bones (Ezek 37), where God's Spirit will breathe life into death itself. Ezekiel stands as a watchman (Ezek 33:7), mediating between heaven's judgment and earth's sorrow.",
+  "scripture_refs": [
+    {"ref": "EZK.1.1", "relevance": "primary", "reason": "The heavens open and Ezekiel receives visions of God by the river Chebar"},
+    {"ref": "EZK.2.3", "relevance": "primary", "reason": "God sends Ezekiel to prophesy to the rebellious house of Israel"},
+    {"ref": "EZK.3.22", "relevance": "primary", "reason": "The hand of the Lord comes upon Ezekiel and commands him to go to the plain and prophesy"},
+    {"ref": "EZK.33.7", "relevance": "allusion", "reason": "Ezekiel appointed as watchman over the house of Israel"},
+    {"ref": "EZK.37.1", "relevance": "typological", "reason": "The valley of dry bones vision foreshadowed by the barren landscape and despairing exiles"},
+    {"ref": "PSA.137.1", "relevance": "allusion", "reason": "The exiles sitting in mourning, recalling Babylon's captivity"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe", "desolation", "prophetic-urgency"],
+  "period": "Exile",
+  "_meta": {"key": "0010188", "title": "The Prophet Ezekiel", "artist": "Gustave Doré", "model": "claude-opus-4-6"}
+}

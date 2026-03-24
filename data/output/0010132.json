@@ -1,0 +1,62 @@
+{
+  "characters": [],
+  "event": "",
+  "tags": [
+    "chapel-interior",
+    "vaulted-ceiling",
+    "ornate-stonework",
+    "columns",
+    "sacred-architecture",
+    "altar-area",
+    "tracery",
+    "carved-foliage"
+  ],
+  "symbols": [
+    "pointed arch — aspiration heavenward, the soul's ascent toward God",
+    "elaborate stone canopy — the heavenly tabernacle sheltering the sacred",
+    "pillars — strength and stability of the Church",
+    "steps leading to altar — liturgical ascent, approaching the holy of holies"
+  ],
+  "description": "A detailed pen-and-ink drawing of the interior of a chapel showing an elaborately carved pointed arch rising to a richly decorated vault. Dense stone carvings of foliage, figures, and geometric tracery cover every surface of the arch and ceiling. Slender clustered columns with ornate capitals support the arch on both sides. Stone steps in the foreground lead up toward what appears to be an altar area beneath the vaulted canopy. The stonework is rendered with meticulous linework capturing the deep relief and layered complexity of the carvings.",
+  "theological_description": "Rosslyn Chapel, built in the fifteenth century, is saturated with biblical and theological symbolism carved into its stone fabric. The chapel interior, depicted here with its soaring pointed arch and profuse sculptural ornament, embodies the medieval understanding of the church building as a microcosm of heaven. The steps ascending toward the altar space recall the gradual psalms of ascent (Psalms 120-134) and the approach to God's presence in the Temple. The vault canopy overhead evokes the heavenly tabernacle of Revelation 21, where God dwells among His people. The clustered pillars recall the two great pillars of Solomon's Temple, Jachin and Boaz (1 Kings 7:21), foundational symbols of divine establishment and strength. The overwhelming abundance of carved foliage — vines, leaves, and botanical forms — points to Christ's declaration 'I am the vine' (John 15:5) and the paradisal garden restored. Every surface testifies to the medieval conviction that sacred space should overwhelm the senses and draw the worshipper into contemplation of divine glory.",
+  "scripture_refs": [
+    {
+      "ref": "1KI.7.21",
+      "relevance": "typological",
+      "reason": "Pillars of Solomon's Temple (Jachin and Boaz) recalled by the chapel's clustered columns"
+    },
+    {
+      "ref": "PSA.122.1",
+      "relevance": "allusion",
+      "reason": "Joy at going to the house of the Lord — the chapel as destination of pilgrimage and worship"
+    },
+    {
+      "ref": "JHN.15.5",
+      "relevance": "allusion",
+      "reason": "Christ as the vine, evoked by abundant carved vine and foliage decoration"
+    },
+    {
+      "ref": "REV.21.3",
+      "relevance": "typological",
+      "reason": "God's tabernacle among men, symbolized by the ornate vaulted canopy over the altar"
+    },
+    {
+      "ref": "PSA.127.1",
+      "relevance": "allusion",
+      "reason": "Unless the Lord builds the house — the theological foundation of sacred architecture"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "awe",
+    "reverent",
+    "contemplative"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0010132",
+    "title": "Roslin Chapel",
+    "artist": "John Ruskin",
+    "model": "claude-opus-4-6"
+  }
+}

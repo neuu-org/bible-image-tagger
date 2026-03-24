@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Madeleine of Bourgogne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Donor portrait with patron saint Mary Magdalene",
+  "tags": [
+    "donor-portrait",
+    "patron-saint",
+    "Mary-Magdalene",
+    "ointment-jar",
+    "intercession",
+    "devotional-presentation",
+    "prayerful-hands",
+    "saintly-patronage",
+    "late-medieval-piety",
+    "heavenly-advocacy",
+    "namesake-devotion",
+    "contemplative-reverence"
+  ],
+  "symbols": [
+    "ointment jar — Mary Magdalene's attribute, recalling her anointing of Christ's feet and her visit to the tomb with spices",
+    "radiant halo — sanctity and heavenly glory of Mary Magdalene",
+    "clasped hands of the donor — posture of prayer, supplication, and devotion",
+    "Magdalene's presenting gesture — saintly intercession, presenting the donor before the divine presence",
+    "rich but dark garments of the donor — earthly wealth subordinated to spiritual devotion",
+    "white veil on Magdalene — purity and penitential transformation from sinner to saint"
+  ],
+  "description": "Two women stand in close proximity against a dark interior with a red curtain visible at right. At left, an older woman in dark garments with a black hood kneels or stands with hands clasped in prayer, her face lined and solemn, gazing outward. Beside her, a younger woman with a luminous radiant halo wears a green and red gown with a white veil over her head. She holds a white cylindrical ointment jar in her left hand while her right hand reaches gently toward the older woman in a presenting gesture. The Magdalene's gaze is directed downward with serene composure.",
+  "theological_description": "This donor portrait embodies the late medieval theology of saintly intercession, in which the faithful sought the advocacy of their patron saints before God's throne. Madeleine of Bourgogne is presented by her namesake, Mary Magdalene, whose presence signifies both spiritual patronage and a model of repentant faith. The ointment jar is the Magdalene's defining attribute, linking her to the woman who anointed Jesus's feet with costly perfume (Luke 7:37-38) and who brought spices to his tomb on Easter morning (Mark 16:1). The Magdalene's dual identity in Western tradition — as penitent sinner and first witness of the Resurrection — makes her a powerful intercessor, one who has experienced both the depths of sin and the fullness of divine mercy. Her gentle, presenting gesture toward the donor mirrors the theology of the communion of saints articulated in Hebrews 12:1, where the great cloud of witnesses surrounds and supports the living faithful. The donor's clasped hands express the humility of one who approaches God not on her own merit but through the mediation of a saint who herself was transformed by grace.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.37-38",
+      "relevance": "primary",
+      "reason": "The ointment jar directly identifies the Magdalene with the sinful woman who anointed Christ's feet with perfume and tears"
+    },
+    {
+      "ref": "MRK.16.1",
+      "relevance": "primary",
+      "reason": "Mary Magdalene brought spices to the tomb, connecting the ointment jar to the Easter morning visit"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "typological",
+      "reason": "The Magdalene as first witness of the Resurrection elevates her as intercessor — she who saw the Risen Lord now presents the faithful"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses surrounds the faithful — the patron saint stands as one of that cloud advocating for the donor"
+    },
+    {
+      "ref": "1TI.2.5",
+      "relevance": "allusion",
+      "reason": "The theology of mediation underlies the donor portrait tradition, with saints serving as advocates within the one mediation of Christ"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotion",
+    "reverence",
+    "serenity",
+    "humility"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0010672",
+    "title": "Madeleine of Bourgogne presented by St. Mary Magdalene",
+    "artist": "Jean Hey",
+    "model": "claude-opus-4-6"
+  }
+}

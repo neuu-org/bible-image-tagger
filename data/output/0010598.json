@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {"name": "Saint Cecilia", "type": "PERSON"},
+    {"name": "Putti", "type": "ANGEL"}
+  ],
+  "event": "",
+  "tags": ["patron saint of music", "harp", "musical devotion", "cherubim", "hagiographic portrait"],
+  "symbols": [
+    "harp — music and sacred worship through song",
+    "open music book — devotion expressed through hymns and psalms",
+    "putti in clouds — heavenly approval and angelic communion",
+    "upward gaze — spiritual rapture and connection to the divine",
+    "classical column — the Church as pillar and ground of truth"
+  ],
+  "description": "A grand portrait of Saint Cecilia seated at a large harp, her right hand raised to the strings. She wears an elaborate turban-like headdress and richly draped garments of pink, gold, white, and blue. Her gaze turns upward in ecstatic devotion. An open book of musical notation rests on a stand to her left. Two winged putti emerge from billowing clouds above, gazing down at her. A large classical column and dark drapery frame the right side, with a distant landscape visible through an opening.",
+  "theological_description": "Saint Cecilia, venerated as the patron saint of musicians and church music, is a figure of early Christian hagiography traditionally dated to the second or third century. According to her legend, she sang to God in her heart during her forced wedding, consecrating her virginity. Her association with music became central to her iconography from the late medieval period onward. While not a biblical figure, Cecilia embodies the scriptural call to worship God through music and song. The Psalms repeatedly exhort the faithful to praise the Lord with instruments, and Paul instructs believers to address one another with psalms, hymns, and spiritual songs. The putti above suggest heavenly witnesses to her devotion, evoking the communion of saints. Her ecstatic upward gaze reflects the contemplative tradition of prayer as the lifting of the mind and heart to God.",
+  "scripture_refs": [
+    {"ref": "Ps.150.1-6", "relevance": "allusion", "reason": "The psalm's call to praise God with every instrument reflects Cecilia's patronage of sacred music"},
+    {"ref": "Eph.5.19", "relevance": "allusion", "reason": "Paul's instruction to sing and make melody in your heart to the Lord parallels Cecilia's legend"},
+    {"ref": "Col.3.16", "relevance": "allusion", "reason": "Exhortation to sing psalms, hymns, and spiritual songs with gratitude in the heart"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["ecstatic", "devotional", "serene"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0010598",
+    "title": "St. Cecillia",
+    "artist": "Joshua Reynolds",
+    "model": "claude-opus-4-6"
+  }
+}

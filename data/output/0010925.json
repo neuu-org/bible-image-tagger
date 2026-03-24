@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Gabriel", "type": "ANGEL"}
+  ],
+  "event": "The Annunciation (Angel Fragment)",
+  "tags": [
+    "annunciation",
+    "angels-and-archangels",
+    "divine-messenger",
+    "wings",
+    "heavenly-glory",
+    "upward-gesture",
+    "drapery",
+    "celestial-light",
+    "incarnation",
+    "gabriels-mission"
+  ],
+  "symbols": [
+    "outstretched wings — divine authority and the heavenly origin of the messenger",
+    "upward-pointing hand — directing attention to God as the source of the annunciation",
+    "billowing drapery — the rushing movement of the angelic descent from heaven",
+    "golden-brown atmosphere — the threshold between the celestial and terrestrial realms",
+    "muscular dynamism — the overwhelming power of God's angelic emissary"
+  ],
+  "description": "A powerful angelic figure dominates the composition, shown from below in a dramatic upward perspective. The angel has large, outstretched feathered wings in golden-brown tones. Curly hair frames a youthful face turned slightly downward. One arm reaches upward while the body twists dynamically. Dark blue and deep crimson drapery wraps around the torso. The background is a warm, atmospheric haze of golden and olive tones suggesting clouded heavens. The figure conveys immense energy and divine authority.",
+  "theological_description": "This is the angel Gabriel at the moment of the Annunciation, the pivotal event in salvation history when God's eternal Word began to take flesh (Luke 1:26-38). Gabriel's name means 'God is my strength,' and Tintoretto captures that supernatural power in the angel's muscular dynamism and expansive wings. The upward-pointing gesture directs attention to the divine source of the message: 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you' (Luke 1:35). In patristic theology, the Annunciation reverses Eve's encounter with the fallen angel -- where the serpent brought death through deception, Gabriel brings life through truth. The angel's descent from above echoes Daniel's earlier encounter with Gabriel (Daniel 9:21), where the angel reveals the timeline of messianic redemption. The Annunciation is thus the hinge of history: the moment heaven and earth are joined through the incarnation of the Logos.",
+  "scripture_refs": [
+    {"ref": "LUK.1.26-38", "relevance": "primary", "reason": "The Annunciation narrative: Gabriel is sent to the Virgin Mary to announce the incarnation of the Son of God."},
+    {"ref": "LUK.1.35", "relevance": "primary", "reason": "Gabriel's declaration that the Holy Spirit will overshadow Mary -- the theological core of the angel's message."},
+    {"ref": "DAN.9.21-23", "relevance": "typological", "reason": "Gabriel's earlier appearance to Daniel, revealing the messianic timeline that culminates in the Annunciation."},
+    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The prophecy of the virgin conceiving Emmanuel, fulfilled in the event Gabriel announces."},
+    {"ref": "JHN.1.14", "relevance": "typological", "reason": "The Word becoming flesh -- the theological reality that the Annunciation initiates."},
+    {"ref": "HEB.1.14", "relevance": "allusion", "reason": "Angels as ministering spirits sent to serve those who will inherit salvation -- Gabriel's supreme ministry."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["majestic", "dynamic", "awe-inspiring", "transcendent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010925",
+    "title": "Annunciation the Angel",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

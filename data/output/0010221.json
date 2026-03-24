@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "The Rest on the Flight into Egypt",
+  "tags": ["flight-into-egypt", "holy-family", "rest", "donkey", "halo", "maternal-tenderness", "infant-christ", "exile", "divine-protection", "putti"],
+  "symbols": ["donkey — humble beast of burden bearing the holy family, symbol of service and lowliness", "halo on Mary — sanctity and her role as Theotokos", "stone ruins and tools — the old order giving way to the new covenant brought by Christ", "tree providing shade — divine shelter and providence over the fleeing family", "blue mantle of Mary — heavenly purity, royalty, and faithfulness"],
+  "description": "A seated woman in a flowing deep blue mantle and pink dress holds a nude infant on her lap. She wears a golden halo. To the left, an elderly bearded man in an orange-brown cloak leans on a stone block, reaching tenderly toward the child. Behind them a large tree spreads its branches. In the right background, a winged putto tends to a donkey near a stream. Scattered on the ground at the lower left are carpenter's tools including a saw, mallet, and square. A distant landscape with buildings and a river extends under a blue sky with white clouds.",
+  "theological_description": "The Rest on the Flight into Egypt depicts the Holy Family's pause during their escape from Herod's massacre of the innocents (MAT.2.13-15). Matthew reads this flight as fulfillment of Hosea's prophecy, 'Out of Egypt I called my son' (HOS.11.1), establishing a typological parallel between Israel's Exodus and Christ's sojourn in Egypt. The infant Christ recapitulates Israel's journey — descending into Egypt and returning, redeeming the pattern. Joseph's protective presence fulfills the angel's command in a dream, making him a type of the patriarch Joseph who also went to Egypt to preserve life (GEN.46.3-4). Mary's blue mantle and serene composure present her as the Ark of the New Covenant carrying the divine presence through the wilderness. The carpenter's tools scattered on the ground identify Joseph's trade and foreshadow the wood of the cross. The angel tending the donkey signals ongoing heavenly care. The idyllic landscape suggests a moment of Sabbath rest within crisis — divine peace amid persecution, anticipating Christ's promise of rest for the weary (MAT.11.28-29).",
+  "scripture_refs": [
+    {"ref": "MAT.2.13-15", "relevance": "primary", "reason": "Direct depiction of the angel's warning and the Holy Family's flight to Egypt"},
+    {"ref": "HOS.11.1", "relevance": "typological", "reason": "Matthew cites this prophecy as fulfilled in Christ's return from Egypt"},
+    {"ref": "MAT.2.16-18", "relevance": "allusion", "reason": "The flight is caused by Herod's decree to massacre the innocents"},
+    {"ref": "GEN.46.3-4", "relevance": "typological", "reason": "Joseph the patriarch's descent into Egypt prefigures the Holy Family's journey"},
+    {"ref": "MAT.11.28-29", "relevance": "allusion", "reason": "The restful scene anticipates Christ's invitation to come and find rest"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["peaceful", "tender", "protective"],
+  "period": "Gospel",
+  "_meta": {"key": "0010221", "title": "The Rest on the Flight into Egypt", "artist": "Pompeo Batoni", "model": "claude-opus-4-6"}
+}

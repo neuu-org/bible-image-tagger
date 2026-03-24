@@ -1,0 +1,23 @@
+{
+  "characters": [],
+  "event": "Memento Mori",
+  "tags": ["memento-mori", "vanitas", "skull", "mortality", "death", "golgotha"],
+  "symbols": [
+    "skull — mortality and the universality of death as consequence of the Fall",
+    "dark arched niche — tomb or burial recess, evoking the grave",
+    "bare ledge — the stark finality of earthly life stripped of all possessions"
+  ],
+  "description": "A human skull is placed on a plain reddish-brown ledge, set within a dark arched niche. The skull is rendered in warm ochre tones against an almost black background. The composition is starkly simple: the skull occupies the center, facing the viewer directly with empty eye sockets and partially visible teeth. The arched top of the panel frames the skull like an apse or tomb opening.",
+  "theological_description": "This panel, part of Albertinelli's triptych, functions as a memento mori — a reminder that death comes for all. In Genesis 3:19, God tells Adam 'you are dust, and to dust you shall return,' establishing mortality as the consequence of the Fall. The skull evokes Golgotha, literally 'the place of the skull' (Matt 27:33), where Christ was crucified. Early Christian tradition held that Adam was buried at Golgotha, so that Christ's blood flowed down upon Adam's skull, redeeming humanity from the very curse of death. This typological connection — the skull of the first Adam beneath the cross of the second Adam (1 Cor 15:45) — is central to Christian iconography. Ecclesiastes meditates extensively on the vanity of earthly life and the certainty of death (Eccl 3:20). Yet for the Christian, the skull is not merely a sign of despair; it points forward to the resurrection, for 'death is swallowed up in victory' (1 Cor 15:54). Placed within a triptych alongside sacred scenes, this skull invites the viewer to contemplate their own mortality and turn toward the eternal life offered through Christ.",
+  "scripture_refs": [
+    {"ref": "GEN.3.19", "relevance": "primary", "reason": "You are dust and to dust you shall return — the origin of human mortality"},
+    {"ref": "MAT.27.33", "relevance": "typological", "reason": "Golgotha, the place of the skull, where Christ was crucified over Adam's grave"},
+    {"ref": "1CO.15.45", "relevance": "typological", "reason": "The first Adam became a living being; the last Adam a life-giving spirit"},
+    {"ref": "ECC.3.20", "relevance": "allusion", "reason": "All go to one place; all are from dust and to dust all return"},
+    {"ref": "1CO.15.54", "relevance": "allusion", "reason": "Death is swallowed up in victory — the resurrection hope beyond the grave"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["somber", "meditative", "austere"],
+  "period": "Liturgical",
+  "_meta": {"key": "0010340", "title": "Triptych", "artist": "Mariotto Albertinelli", "model": "claude-opus-4-6"}
+}

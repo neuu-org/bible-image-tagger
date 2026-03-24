@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Andrew the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of the Apostle Andrew with his attributes, the saltire cross and a book",
+  "tags": [
+    "apostle",
+    "Saint Andrew",
+    "saltire cross",
+    "martyrdom",
+    "devotional portrait"
+  ],
+  "symbols": [
+    "X-shaped saltire cross — Andrew's instrument of martyrdom",
+    "book or Bible — apostolic teaching and the Word of God",
+    "golden-yellow robes — apostolic dignity and sanctity",
+    "halo — sainthood and divine favor",
+    "upward gaze — heavenly aspiration and readiness for martyrdom",
+    "bare feet — apostolic poverty and missionary calling"
+  ],
+  "description": "A full-length standing portrait of the Apostle Andrew depicted as an elderly, bald man with a white beard, gazing upward with an expression of devout contemplation. He wears voluminous golden-yellow robes that cascade in heavy dramatic folds. In his left hand he holds an open book, while behind him rises the diagonal beam of a large X-shaped saltire cross, his traditional attribute. His bare feet are visible beneath the robes. The background is dark, with deep teal and black tones creating a brooding atmosphere that contrasts with the warm luminosity of the figure.",
+  "theological_description": "Andrew, brother of Simon Peter, was among the first disciples called by Jesus. In John's Gospel, Andrew was originally a disciple of John the Baptist who, upon hearing the Baptist identify Jesus as 'the Lamb of God,' followed Christ and then brought his brother Peter to Jesus (John 1:35-42)—earning him the title Protokletos, 'the First-Called.' Andrew appears at key moments in the Gospels: he is present when the boy's five loaves and two fish are identified before the feeding of the five thousand (John 6:8-9), and he brings Greek seekers to Jesus (John 12:20-22), prefiguring the universal mission of the Church. According to tradition, Andrew preached in Scythia, Greece, and Asia Minor before being crucified on an X-shaped cross in Patras, Greece, around 60 AD. He reportedly requested this distinctive form of crucifixion out of humility, considering himself unworthy to die on the same shape of cross as his Lord. The saltire cross visible behind him is thus both his identifying attribute and a powerful symbol of his imitation of Christ's self-giving love. Zurbaran's Counter-Reformation portrayal emphasizes the book—Scripture and apostolic authority—alongside the cross of martyrdom, presenting Andrew as exemplar of both teaching and suffering for the faith.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.40-42",
+      "relevance": "primary",
+      "reason": "Andrew was the first disciple called, who then brought his brother Simon Peter to Jesus"
+    },
+    {
+      "ref": "JHN.6.8-9",
+      "relevance": "primary",
+      "reason": "Andrew identified the boy with five loaves and two fish before the miraculous feeding"
+    },
+    {
+      "ref": "JHN.12.20-22",
+      "relevance": "primary",
+      "reason": "Andrew brought Greek seekers to Jesus, foreshadowing the Gentile mission"
+    },
+    {
+      "ref": "MAT.4.18-20",
+      "relevance": "primary",
+      "reason": "The calling of Andrew and Peter from their fishing nets by the Sea of Galilee"
+    },
+    {
+      "ref": "MRK.13.3",
+      "relevance": "allusion",
+      "reason": "Andrew was among the four disciples who heard Jesus' Olivet Discourse privately"
+    },
+    {
+      "ref": "MAT.10.2",
+      "relevance": "allusion",
+      "reason": "Andrew listed among the twelve apostles commissioned by Jesus"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "devout",
+    "austere"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0010513",
+    "title": "Apostle St. Andrew",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

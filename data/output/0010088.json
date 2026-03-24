@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Stephen", "type": "PERSON"},
+    {"name": "Soldiers and Accusers", "type": "GROUP"}
+  ],
+  "event": "Stephen led to martyrdom outside the city gates",
+  "tags": [
+    "martyrdom",
+    "stoning",
+    "persecution",
+    "deacon",
+    "protomartyr",
+    "city-gate",
+    "halo",
+    "dragging",
+    "accusation",
+    "mob"
+  ],
+  "symbols": [
+    "halo — sanctity and divine favor upon Stephen as the first Christian martyr",
+    "city gate — Stephen being led outside the walls, echoing Christ led outside Jerusalem to Calvary",
+    "red/crimson garment — foreshadowing of blood martyrdom and sacrificial witness",
+    "rocky hillside — anticipation of the stoning ground"
+  ],
+  "description": "A young tonsured man with a golden halo, wearing a richly decorated dalmatic over a red robe, is being forcibly pushed and dragged by a group of men through an arched city gate. One man grabs his arm while another shoves him from behind. The city's pale stone buildings and towers rise in the background, and a rocky hillside is visible beyond the walls. The haloed figure gazes forward with serene composure despite the violence. Several onlookers stand near the gate.",
+  "theological_description": "This scene depicts Acts 6-7, the seizure and expulsion of Stephen, the Church's protomartyr and one of the seven deacons. Stephen, 'full of grace and power' (Acts 6:8), was accused of blasphemy by members of the Synagogue of the Freedmen. His calm demeanor amid the hostile crowd reflects Luke's description that the Sanhedrin 'saw that his face was like the face of an angel' (Acts 6:15). The action of leading him outside the city deliberately parallels Christ's own journey to Golgotha (Heb 13:12), establishing Stephen as an imitatio Christi — the first to follow the Master in laying down his life. The dalmatic vestment, proper to a deacon, visually affirms his ecclesiastical office. Patristically, Stephen's martyrdom is understood as the seed of the Church's expansion: Augustine noted that 'if Stephen had not prayed, the Church would not have had Paul' (Sermon 315), linking this event to Saul's presence at the stoning. The scene captures the threshold moment between witness (martyria) and death, the instant where confession of faith becomes irrevocable sacrifice.",
+  "scripture_refs": [
+    {"ref": "ACT.6.12", "relevance": "primary", "reason": "The mob seizes Stephen and brings him before the council"},
+    {"ref": "ACT.7.57", "relevance": "primary", "reason": "They rush at Stephen and drag him out of the city to stone him"},
+    {"ref": "ACT.6.15", "relevance": "allusion", "reason": "Stephen's face appeared like that of an angel, reflected in his serene halo"},
+    {"ref": "HEB.13.12", "relevance": "typological", "reason": "Jesus suffered outside the city gate; Stephen's expulsion parallels this"},
+    {"ref": "ACT.7.58", "relevance": "primary", "reason": "They cast him out of the city and stoned him; witnesses laid garments at Saul's feet"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["violent", "solemn", "resolute"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0010088",
+    "title": "St. Stephen Being Led to his Martyrdom",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

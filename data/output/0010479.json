@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Scenes from the life of Christ, culminating in the Ascension and heavenly glorification",
+  "tags": [
+    "stained glass",
+    "Life of Christ",
+    "Ascension",
+    "heavenly glory",
+    "church window",
+    "narrative cycle"
+  ],
+  "symbols": [
+    "ascending Christ in white — resurrection and glorification",
+    "blue robes of the Virgin — purity and heavenly devotion",
+    "angels in the tracery — celestial witnesses",
+    "Gothic arch framing — sacred architecture enclosing salvation history",
+    "multiple registers — sequential unfolding of redemptive events"
+  ],
+  "description": "A large Gothic stained glass window divided into three tall lancets topped by ornate tracery. The central register shows Christ in radiant white robes ascending or transfigured, arms raised, surrounded by apostles and the Virgin Mary in blue who gaze upward. The lower register depicts additional figures in richly colored garments—reds, blues, golds—kneeling or standing in attitudes of wonder. The upper tracery contains angels with red wings and a roundel showing Christ enthroned in heavenly glory wearing blue, flanked by celestial figures.",
+  "theological_description": "This window presents a sweeping visual catechesis of the Life of Christ, with the Ascension as its dramatic climax. The lower scenes likely encompass key Gospel moments—teaching, passion, or post-resurrection appearances—while the central lancets capture the pivotal moment when the risen Christ departs from His disciples. Luke's account in Acts 1:9-11 describes Christ being 'taken up' while the apostles watched, after which two angels assured them of His return. The upper tracery's enthroned Christ fulfills the Creed's affirmation that He 'ascended into heaven and is seated at the right hand of the Father.' The Virgin Mary's prominent placement reflects her role in ecclesial tradition as present at the Ascension (cf. Acts 1:14). The entire window functions liturgically as a visual summary of salvation history visible to the congregation, moving the eye from earthly encounter upward to eschatological hope—mirroring the believer's own journey from faith to glory (Philippians 3:20-21).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.1.9",
+      "relevance": "primary",
+      "reason": "The central scene depicts the Ascension of Christ as described in Acts"
+    },
+    {
+      "ref": "ACT.1.10-11",
+      "relevance": "primary",
+      "reason": "Angels in the tracery recall the two men in white who promised Christ's return"
+    },
+    {
+      "ref": "ACT.1.14",
+      "relevance": "allusion",
+      "reason": "Mary's presence among the disciples after the Ascension"
+    },
+    {
+      "ref": "LUK.24.50-51",
+      "relevance": "primary",
+      "reason": "Luke's Gospel account of Christ blessing the disciples and being carried into heaven"
+    },
+    {
+      "ref": "PHP.3.20-21",
+      "relevance": "typological",
+      "reason": "The upward movement of the window reflects the believer's citizenship in heaven"
+    },
+    {
+      "ref": "REV.4.2-3",
+      "relevance": "allusion",
+      "reason": "The enthroned Christ in the tracery roundel evokes the heavenly throne vision"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "majestic",
+    "devotional",
+    "triumphant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010479",
+    "title": "Life of Christ. Eglise Saint-Sulpice de Fougères",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

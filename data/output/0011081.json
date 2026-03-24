@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Adam and Eve in the Garden of Eden",
+  "tags": [
+    "adam-and-eve",
+    "garden-of-eden",
+    "paradise",
+    "creation",
+    "innocence",
+    "fall-of-man",
+    "tree-of-knowledge",
+    "original-sin",
+    "temptation",
+    "nakedness",
+    "primordial-couple",
+    "cypress-trees"
+  ],
+  "symbols": [
+    "the nakedness of Adam and Eve — prelapsarian innocence, the state of original grace before shame entered the world (Genesis 2:25)",
+    "the trees and lush garden setting — the Garden of Eden, the paradise of God's original design for human communion with the Creator",
+    "the inscriptions above the figures — naming, the divine gift of language and identity given to the first humans (Genesis 2:19-20)",
+    "the dark cypress trees between the figures — the tree of the knowledge of good and evil standing between humanity and its innocence",
+    "Eve reaching toward the branch — the moment of temptation, the hand extended toward the forbidden fruit",
+    "the circular halo-like form behind Eve — the sun or cosmic order of creation, the light of the unfallen world"
+  ],
+  "description": "A monochromatic painting rendered in muted gray-green and cream tones, depicting two nude figures in a stylized garden landscape. On the left stands a woman (Eve) with long flowing hair cascading down her back, her body turned slightly as she reaches outward. Behind her is a large circular form suggesting a sun or halo. On the right stands a man (Adam) with windswept hair, reaching toward a branch or plant. Between them rise tall, dark cypress-like trees. The background shows a flat, pastoral landscape with rolling hills and distant vegetation. Above the figures appear inscribed text panels.",
+  "theological_description": "The depiction of Adam and Eve in Eden represents the foundational narrative of biblical anthropology. Genesis 2:7-25 describes God forming Adam from the dust of the ground and breathing life into him, then creating Eve from his side as a companion and counterpart — 'bone of my bones and flesh of my flesh' (Genesis 2:23). Nesterov's treatment emphasizes the stillness and solemnity of the prelapsarian state, before the disruption of the Fall. The figures' nakedness without shame (Genesis 2:25) signals their original integrity, the state of grace theologians call justitia originalis. Yet the composition carries a tension: Eve's gesture toward the foliage and the dark trees standing between the figures anticipate the coming temptation by the serpent (Genesis 3:1-6). The cypress trees, traditionally associated with mourning and death in art, serve as a proleptic symbol — death has not yet entered the world, but the tree of the knowledge of good and evil already stands as the boundary of human obedience. The naming inscriptions above the figures recall God's act of granting Adam authority to name the creatures (Genesis 2:19-20), and Adam's naming of Eve as 'the mother of all living' (Genesis 3:20). In Christian typology, Adam is the type of Christ, the second Adam (Romans 5:14; 1 Corinthians 15:45), and Eve the type of the Church or of Mary, the new Eve who reverses the first Eve's disobedience through her fiat (Luke 1:38).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.2.7-25",
+      "relevance": "primary",
+      "reason": "The creation of Adam and Eve and their placement in the Garden of Eden, the direct subject of this painting"
+    },
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The temptation and Fall anticipated by Eve's gesture toward the foliage and the tension in the composition"
+    },
+    {
+      "ref": "GEN.2.25",
+      "relevance": "primary",
+      "reason": "They were both naked and were not ashamed — the prelapsarian innocence depicted in the figures' unclothed state"
+    },
+    {
+      "ref": "ROM.5.14",
+      "relevance": "typological",
+      "reason": "Adam as a type of the one who was to come — the typological relationship between the first Adam and Christ"
+    },
+    {
+      "ref": "1CO.15.45",
+      "relevance": "typological",
+      "reason": "The first man Adam became a living being; the last Adam became a life-giving spirit — the Adamic typology central to this scene"
+    },
+    {
+      "ref": "GEN.2.19-20",
+      "relevance": "allusion",
+      "reason": "Adam naming the creatures — the inscriptions above the figures recalling the divine gift of naming and identity"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "solemn",
+    "contemplative"
+  ],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0011081",
+    "title": "Adam and Eve",
+    "artist": "Mikhaïl Nesterov",
+    "model": "claude-opus-4-6"
+  }
+}

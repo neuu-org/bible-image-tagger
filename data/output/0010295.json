@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Michael", "type": "ANGEL"}
+  ],
+  "event": "St. Michael the Archangel",
+  "tags": ["archangel", "warrior-angel", "sword", "halo", "wings", "heavenly-guardian"],
+  "symbols": [
+    "sword — divine authority and power to defeat evil",
+    "golden halo — sanctity and celestial glory",
+    "wings — angelic nature and heavenly messenger status",
+    "inscription 'This moment now is the heavenly moment' — the eternal present of divine action"
+  ],
+  "description": "A youthful archangel Michael is depicted in a frontal portrait with a golden halo, large wings, and a sword held upright behind his head. He has curly brown hair and gazes slightly downward with a solemn expression. The background features ornate blue and gold scrollwork patterns. An inscription encircles the border reading 'This moment now is the heavenly moment' with 'St. Michael' at the bottom.",
+  "theological_description": "Michael the Archangel is the great prince and protector of God's people, identified in Daniel as the one who stands guard over Israel (Dan 10:13, 12:1). In Revelation 12, Michael leads the heavenly armies against the dragon Satan, casting him out of heaven. The sword symbolizes his role as heaven's warrior-champion, the agent of divine justice who contends against the powers of darkness. His youthful visage reflects the agelessness of angelic beings. The inscription 'This moment now is the heavenly moment' evokes the kairos dimension of spiritual warfare — each present moment participates in the eternal conflict between good and evil. In Jude 9, Michael disputes with the devil over the body of Moses, showing both his authority and deference to God's judgment. Christian tradition venerates Michael as the psychopomp who weighs souls and the defender of the Church militant.",
+  "scripture_refs": [
+    {"ref": "REV.12.7", "relevance": "primary", "reason": "Michael and his angels war against the dragon in heaven"},
+    {"ref": "DAN.10.13", "relevance": "primary", "reason": "Michael identified as one of the chief princes who came to help Daniel"},
+    {"ref": "DAN.12.1", "relevance": "primary", "reason": "Michael described as the great prince who protects God's people"},
+    {"ref": "JUD.1.9", "relevance": "allusion", "reason": "Michael the archangel contending with the devil over the body of Moses"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "majestic", "contemplative"],
+  "period": "Eschatological",
+  "_meta": {"key": "0010295", "title": "St. Michael", "artist": "D. Jeffrey Mims", "model": "claude-opus-4-6"}
+}

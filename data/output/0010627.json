@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The infant Jesus and young John the Baptist together with the Virgin Mary",
+  "tags": [
+    "Holy Family",
+    "Madonna and Child",
+    "infant Baptist",
+    "maternal tenderness",
+    "childhood of Christ"
+  ],
+  "symbols": [
+    "animal skin on young John — his future ascetic life in the wilderness",
+    "two children embracing — the union of the Old Covenant's last prophet with the New Covenant's Lord",
+    "basket with bread — eucharistic prefiguration and God's provision",
+    "Mary's blue mantle — heavenly grace and the Virgin's purity",
+    "rocky landscape — the wilderness associated with John's future ministry"
+  ],
+  "description": "The Virgin Mary sits serenely in an outdoor setting, wearing a grey-blue headcovering and a deep blue mantle over reddish garments. On her lap and at her feet, two infant children embrace and kiss. The Christ child, plump and fair-haired, sits on Mary's knee, while the young John the Baptist, slightly older with darker hair and wearing an animal skin garment, holds the Christ child affectionately. John reaches down with one hand toward a woven basket containing what appears to be bread. A rocky, hilly landscape with vegetation stretches behind the group under a soft sky.",
+  "theological_description": "This devotional composition brings together the Virgin Mary, the infant Christ, and the young John the Baptist in a scene of tender intimacy that is rooted not in a single biblical text but in the theological tradition surrounding the childhood of Jesus. Luke's Gospel provides the foundation: Mary and Elizabeth are kinsfolk, and when the pregnant Mary visits Elizabeth, the unborn John leaps in the womb at the presence of the unborn Christ, the first act of prophetic recognition. The artistic tradition of depicting the two holy children together extends this moment of recognition into childhood, showing the affectionate bond between the Forerunner and the Messiah he would one day proclaim. John's animal skin garment, even in infancy, anticipates his adult identity as the voice crying in the wilderness, clothed in camel's hair. The embrace between the children symbolizes the unity of Old and New Covenants: John is the last and greatest of the prophets, while Jesus is the one to whom all prophecy points. The basket of bread may allude to the Eucharist, connecting Christ's infancy to His salvific mission. Mary's calm, watchful presence over both children reflects her role as the Mother of the Church who ponders all these things in her heart.",
+  "scripture_refs": [
+    {
+      "ref": "Luke.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation, where the unborn John leaps at the presence of the unborn Christ, establishing their prophetic relationship"
+    },
+    {
+      "ref": "Luke.1.36",
+      "relevance": "primary",
+      "reason": "Elizabeth identified as Mary's kinswoman, the familial basis for the children's connection"
+    },
+    {
+      "ref": "Matt.3.13-17",
+      "relevance": "typological",
+      "reason": "John's future baptism of Jesus, the adult fulfillment of the childhood bond depicted here"
+    },
+    {
+      "ref": "John.1.29-30",
+      "relevance": "typological",
+      "reason": "John's proclamation of Jesus as the Lamb of God, the prophetic role foreshadowed in infancy"
+    },
+    {
+      "ref": "Luke.2.19",
+      "relevance": "allusion",
+      "reason": "Mary pondering events in her heart, reflected in her serene contemplative gaze"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "serene",
+    "intimate",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0010627",
+    "title": "The Holy Family",
+    "artist": "William-Adolphe Bouguereau",
+    "model": "claude-opus-4-6"
+  }
+}

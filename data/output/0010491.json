@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Saint Helena",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Helena holding the True Cross, commemorating her legendary discovery of the relic in Jerusalem",
+  "tags": [
+    "Saint Helena",
+    "True Cross",
+    "relic",
+    "empress",
+    "Invention of the Cross",
+    "devotional portrait"
+  ],
+  "symbols": [
+    "large wooden cross — the True Cross discovered by Helena in Jerusalem",
+    "crown or diadem — Helena's imperial status as mother of Constantine",
+    "white veil — piety and modesty",
+    "pink and golden robes — royal dignity combined with spiritual devotion",
+    "upward gaze — contemplative devotion and heavenly orientation"
+  ],
+  "description": "A full-length portrait of Saint Helena standing in a slight contrapposto pose, holding a large wooden cross that extends beyond the top of the frame. She wears a flowing pink gown with voluminous golden-brown drapery and a white veil beneath a small crown or diadem. Her face is youthful and serene, with a gentle upward gaze. Her left hand rests on the vertical beam of the cross while her right hand steadies it from below. The background is dark and architectural, with a column base visible at the upper left.",
+  "theological_description": "Saint Helena (c. 250-330 AD), mother of Emperor Constantine, is venerated in Christian tradition for her pilgrimage to the Holy Land around 326-328 AD, during which she is credited with discovering the True Cross—the very instrument of Christ's crucifixion. While Helena is not a biblical figure, her iconographic significance is deeply rooted in the theology of the Cross. The cross she holds is the central symbol of Christian soteriology: 'the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God' (1 Corinthians 1:18). Helena's discovery and veneration of the physical relic gave tangible, material expression to the doctrine of redemption through Christ's sacrificial death. Her pious journey to Jerusalem also established the model for Christian pilgrimage and the devotional recovery of sacred sites. The Feast of the Exaltation of the Holy Cross (September 14) commemorates events connected to her discovery. In holding the cross, Helena becomes an icon of the Church's fidelity to the memory and meaning of Christ's Passion—embodying Galatians 6:14, 'May I never boast except in the cross of our Lord Jesus Christ.'",
+  "scripture_refs": [
+    {
+      "ref": "1CO.1.18",
+      "relevance": "typological",
+      "reason": "The cross Helena holds is the supreme symbol of salvation—folly to the perishing, power of God to the saved"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "typological",
+      "reason": "Helena's devotion to the cross embodies Paul's boast in the cross alone"
+    },
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The cross is the instrument of Christ's crucifixion at Golgotha, the very relic Helena sought"
+    },
+    {
+      "ref": "PHP.2.8",
+      "relevance": "allusion",
+      "reason": "Christ's obedience unto death on a cross gives the relic its theological weight"
+    },
+    {
+      "ref": "COL.2.14",
+      "relevance": "allusion",
+      "reason": "The cross as the place where the record of debt was nailed and cancelled"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "regal",
+    "contemplative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0010491",
+    "title": "Saint Helena",
+    "artist": "Palma il Giovane",
+    "model": "claude-opus-4-6"
+  }
+}

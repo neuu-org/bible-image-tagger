@@ -1,0 +1,35 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Mourners", "type": "GROUP"}
+  ],
+  "event": "The Death of Jesus on the Cross",
+  "tags": [
+    "crucifixion",
+    "death-of-christ",
+    "golgotha",
+    "mourning",
+    "crosses",
+    "crowd",
+    "jerusalem"
+  ],
+  "symbols": [
+    "three crosses on the hill — Christ crucified between two thieves, the central cross as the axis of salvation",
+    "mourning figures in foreground — the grief of disciples and followers witnessing the Passion",
+    "city in the background — Jerusalem, the holy city where redemption is accomplished"
+  ],
+  "description": "A bold black-and-white illustration serving as a cover for a musical adaptation. At the top, the title 'La Mort de Jesus' is lettered. The central image shows a group of robed, grieving figures in the foreground, heads bowed or covered, some with clasped hands. Behind them, three crosses stand on a distant hill beneath a pale sky, with the outline of a city visible in the background. The figures convey deep sorrow. Text below identifies this as an episode from Renan's 'La Vie de Jesus,' set to music by Marcel Legay.",
+  "theological_description": "The death of Jesus on the cross is the pivotal event of Christian soteriology. The three crosses on Golgotha recall the accounts in all four Gospels of Christ crucified between two criminals (Luke 23:33). The mourning figures evoke the faithful women and the beloved disciple who stood near the cross (John 19:25-27). Christ's death fulfills the Suffering Servant prophecy of Isaiah 53, where He is pierced for our transgressions. The darkness of the scene recalls the supernatural darkness that covered the land from the sixth to the ninth hour (Mark 15:33). This moment is simultaneously the nadir of human grief and the supreme act of divine love — God reconciling the world to Himself through the blood of the cross (Colossians 1:20). The city of Jerusalem in the background recalls Jesus's lament over the city (Luke 19:41-44) and the theological significance of His suffering 'outside the gate' (Hebrews 13:12).",
+  "scripture_refs": [
+    {"ref": "LUK.23.33", "relevance": "primary", "reason": "The crucifixion at the place called The Skull, with two criminals alongside Jesus"},
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "The faithful mourners standing near the cross of Jesus"},
+    {"ref": "MRK.15.33-37", "relevance": "primary", "reason": "The death of Jesus, the darkness over the land, and His final cry"},
+    {"ref": "ISA.53.3-5", "relevance": "typological", "reason": "The Suffering Servant, a man of sorrows acquainted with grief, pierced for our transgressions"},
+    {"ref": "COL.1.20", "relevance": "allusion", "reason": "God reconciling all things through the blood of the cross"},
+    {"ref": "HEB.13.12", "relevance": "allusion", "reason": "Jesus suffering outside the city gate to sanctify the people through His own blood"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "solemn", "mournful"],
+  "period": "Gospel",
+  "_meta": {"key": "0010055", "title": "La Mort de Jesus", "artist": "Theophile Steinlen", "model": "claude-opus-4-6"}
+}

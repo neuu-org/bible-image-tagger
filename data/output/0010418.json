@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {"name": "James the Greater", "type": "PERSON"},
+    {"name": "Herod Agrippa I", "type": "PERSON"},
+    {"name": "Hermogenes", "type": "PERSON"}
+  ],
+  "event": "Scenes from the life and martyrdom of Saint James the Greater",
+  "tags": ["apostle", "martyrdom", "baptism", "trial", "execution", "fresco cycle", "narrative cycle", "preaching"],
+  "symbols": [
+    "architectural settings — the Roman world in which the early Church spread",
+    "baptism scene — sacramental initiation and conversion of pagans",
+    "trial before king — witness of faith under persecution",
+    "execution — apostolic martyrdom as supreme witness to Christ"
+  ],
+  "description": "A composite image showing multiple fresco panels from Mantegna's cycle in the Ovetari Chapel, depicting episodes from the life of St. James the Greater. The scenes include James baptizing the magician Hermogenes, James before Herod Agrippa, and James being led to execution. The frescoes employ dramatic perspective, classical architecture, and monumental figure compositions rendered in Mantegna's characteristic sharp, sculptural style.",
+  "theological_description": "Mantegna's fresco cycle narrates the apostolic mission and martyrdom of James son of Zebedee, one of Christ's inner circle of disciples. According to Acts 12:1-2, Herod Agrippa I had James killed by the sword, making him the first apostle to be martyred. The baptism of Hermogenes, drawn from the Golden Legend, illustrates the triumph of apostolic preaching over pagan magic and the power of the Gospel to convert even its adversaries. The trial and execution scenes embody the theology of martyrdom central to early Christianity: that bearing witness unto death conforms the disciple to Christ's own Passion (Phil 1:21, Rev 2:10). The narrative arc from mission to martyrdom encapsulates the apostolic vocation as expressed in Christ's prophecy that James would indeed drink His cup (Mark 10.38-39).",
+  "scripture_refs": [
+    {"ref": "Acts.12.1-Acts.12.2", "relevance": "primary", "reason": "Direct biblical account of Herod Agrippa executing James with the sword"},
+    {"ref": "Mark.10.38-Mark.10.39", "relevance": "primary", "reason": "Jesus prophesies that James will drink His cup and share His baptism of suffering"},
+    {"ref": "Matt.4.21-Matt.4.22", "relevance": "allusion", "reason": "The calling of James and John from their fishing nets to follow Christ"},
+    {"ref": "Rev.2.10", "relevance": "typological", "reason": "Be faithful unto death and receive the crown of life, fulfilled in James's martyrdom"},
+    {"ref": "Phil.1.21", "relevance": "allusion", "reason": "To live is Christ and to die is gain, exemplified in apostolic martyrdom"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "solemn", "heroic"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0010418",
+    "title": "Scenes from the Life of St. James",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

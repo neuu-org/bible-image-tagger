@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Mary of Egypt",
+      "type": "PERSON"
+    },
+    {
+      "name": "Lion",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Saint Mary of Egypt in the desert",
+  "tags": [
+    "desert-asceticism",
+    "repentance",
+    "lion",
+    "wilderness",
+    "flowers",
+    "solitude",
+    "penitent-saint",
+    "spiritual-combat",
+    "hagiography"
+  ],
+  "symbols": [
+    "lion — in the legend of Mary of Egypt, the lion dug her grave; symbolizes wildness tamed by holiness and creation honoring the saints",
+    "flowers — life flourishing even in spiritual desolation, grace transforming the barren wilderness",
+    "desert — the place of purification, temptation, and encounter with God",
+    "raised hand — prayer, blessing, or spiritual authority over the natural world"
+  ],
+  "description": "A bold, brightly colored scene showing an elderly figure with a bald or shaven head and a long reddish-brown garment standing at the right with one hand raised. Beside the figure crouches a large golden-yellow lion with an open mouth and prominent mane. The lion's body fills much of the center-left area. In the foreground, vivid flowers in pinks, reds, and yellows bloom amid dark foliage. Two small blue-robed figures stand in the lower center. The background features sharp rays of yellow-green light against a deep blue-black sky.",
+  "theological_description": "Saint Mary of Egypt is one of the great penitent figures of Christian hagiography. A former prostitute in Alexandria, she experienced a miraculous conversion at the Church of the Holy Sepulchre in Jerusalem when an invisible force prevented her from entering until she repented before an icon of the Theotokos. She then crossed the Jordan and spent 47 years in the desert in radical asceticism and prayer. The legend recounts that upon her death, the monk Zosimas found a lion that had dug her grave — a detail depicted here. The lion, normally a symbol of danger, becomes an instrument of honor, recalling Isaiah's peaceable kingdom where the wild and the holy coexist (ISA.11.6-9). The desert setting echoes Israel's wilderness purification and Christ's own temptation in the wilderness (MAT.4.1-2). Mary of Egypt's story became central to Eastern Orthodox Lenten liturgy, read on the Fifth Sunday of Great Lent as a paradigm of repentance. The flowers blooming around her may signify the desert blossoming in the presence of holiness, fulfilling Isaiah's vision that the wilderness shall rejoice and blossom (ISA.35.1).",
+  "scripture_refs": [
+    {
+      "ref": "ISA.35.1",
+      "relevance": "typological",
+      "reason": "The flowers in the desert fulfill Isaiah's prophecy of the wilderness blossoming with divine glory"
+    },
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "typological",
+      "reason": "Mary of Egypt's 47 years in the desert parallel Christ's temptation in the wilderness"
+    },
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "typological",
+      "reason": "The peaceful lion beside the saint evokes the peaceable kingdom prophecy"
+    },
+    {
+      "ref": "LUK.7.47",
+      "relevance": "allusion",
+      "reason": "She who is forgiven much loves much — the paradigm of the great penitent"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "mystical",
+    "wild",
+    "penitent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0010233",
+    "title": "Saint Mary of Egypt",
+    "artist": "Emil Nolde",
+    "model": "claude-opus-4-6"
+  }
+}

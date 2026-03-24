@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Saint Anthony", "type": "PERSON"},
+    {"name": "Demons", "type": "GROUP"},
+    {"name": "Temptresses", "type": "GROUP"}
+  ],
+  "event": "Temptation of Saint Anthony",
+  "tags": [
+    "desert temptation",
+    "spiritual warfare",
+    "demonic assault",
+    "Desert Fathers",
+    "asceticism",
+    "nude figures",
+    "chaotic composition",
+    "hagiography",
+    "monasticism"
+  ],
+  "symbols": [
+    "nude figures — the temptations of the flesh and worldly desire",
+    "swirling chaos — the disorder of sin and demonic confusion",
+    "central standing figure — the saint's steadfastness amid spiritual assault",
+    "barren landscape — the desert as arena of spiritual combat",
+    "monstrous forms — the distortion of creation by evil"
+  ],
+  "description": "A chaotic, densely populated composition depicting the Temptation of Saint Anthony. Dozens of nude and semi-nude figures swirl around a central standing figure who appears calm amid the tumult. The scene is rendered in warm earth tones with expressionistic brushwork. Demonic and seductive figures surround the saint from every direction — some writhing, some beckoning, some grotesque. The landscape is turbulent with dark reddish-brown clouds or rocky formations in the background. The overall effect is one of frenzied, carnal chaos pressing upon a single point of spiritual resistance.",
+  "theological_description": "The Temptation of Saint Anthony, drawn from Athanasius's Life of Anthony, depicts the foundational narrative of Christian desert monasticism. Anthony of Egypt (c. 251-356) withdrew into the desert where he endured sustained demonic assault — visions of wealth, lust, and terror — yet prevailed through prayer, fasting, and invocation of Christ's name. This hagiographic episode draws on biblical precedents: Christ's own temptation in the wilderness (Matt 4:1-11), Paul's teaching on spiritual warfare against principalities and powers (Eph 6:12), and James's promise that resisting the devil causes him to flee (Jas 4:7). The Desert Fathers understood the wilderness as the battlefield where the soul is purified through ascetic struggle (askesis), following Israel's own desert testing (Deut 8:2). While not a biblical event itself, Anthony's temptation became the paradigmatic illustration of 1 Peter 5:8 — the devil prowling like a roaring lion — and remains central to the theology of spiritual combat in Eastern and Western Christianity alike.",
+  "scripture_refs": [
+    {"ref": "Matt.4.1-11", "relevance": "typological", "reason": "Christ's temptation in the wilderness is the archetype for Anthony's desert trial"},
+    {"ref": "Eph.6.12", "relevance": "allusion", "reason": "The struggle against spiritual forces of evil in the heavenly places, depicted as demonic assault"},
+    {"ref": "Jas.4.7", "relevance": "allusion", "reason": "Resist the devil and he will flee — the spiritual principle Anthony embodies"},
+    {"ref": "1Pet.5.8", "relevance": "allusion", "reason": "The devil as a prowling adversary, visualized in the demonic horde surrounding the saint"},
+    {"ref": "Deut.8.2", "relevance": "typological", "reason": "The desert as a place of testing and humbling, as Israel was tested for forty years"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["chaos", "menace", "endurance"],
+  "period": "Non-biblical",
+  "_meta": {"key": "0010472", "title": "The Temptation of Saint Anthony", "artist": "Jules Pascin", "model": "claude-opus-4-6"}
+}
