@@ -1,0 +1,66 @@
+{
+  "characters": [],
+  "event": "",
+  "tags": [
+    "romanesque-architecture",
+    "abbey",
+    "stone-arch",
+    "church-portal",
+    "carved-tympanum",
+    "medieval-church",
+    "sacred-architecture",
+    "english-abbey",
+    "norman-style",
+    "holy-place",
+    "entrance-portal",
+    "sculptural-program"
+  ],
+  "symbols": [
+    "arched portal — the gate of heaven and the threshold between profane and sacred space, echoing Genesis 28:17 ('This is the gate of heaven')",
+    "concentric arches (voussoirs) — the layers of heavenly hierarchy, drawing the viewer inward toward the holy",
+    "carved figures in the tympanum — biblical narrative rendered in stone, serving as the 'Bible of the illiterate' in medieval theology",
+    "stone construction — the Church built on rock, echoing Christ's words to Peter (Matt 16:18)"
+  ],
+  "description": "A photograph of the south porch entrance to Malmesbury Abbey in England, showing a magnificent Romanesque portal. Multiple concentric rounded arches recede inward, their voussoirs richly carved with figurative biblical scenes in relief. The stonework is warm-toned limestone. Through the deep portal, a smaller interior archway and windows are visible. Wooden benches flank the entrance on either side, and a small green bollard stands to the right.",
+  "theological_description": "Malmesbury Abbey's Romanesque portal (c. 1160-1170) is one of the finest examples of medieval sculptural theology in England. The deeply recessed arches contain carved cycles depicting biblical narratives -- typically Old and New Testament scenes arranged typologically in the Norman tradition. The portal itself functions as a theological statement: Christ declared 'I am the door; if anyone enters by Me, he will be saved' (John 10:9), and medieval church architecture deliberately made the entrance a catechetical and liminal space. The concentric arches draw the pilgrim progressively inward, from the world into the sacred, enacting the spiritual journey from creation to redemption. The carved tympanum and voussoirs served as visual Scripture for a largely illiterate populace, fulfilling Gregory the Great's dictum that images are the books of those who cannot read. The Romanesque round arch itself, rooted in Roman architectural tradition, was understood as a symbol of the heavenly vault and God's encompassing protection (Psalm 91:4).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.10.9",
+      "relevance": "primary",
+      "reason": "Christ as the door through which the faithful enter salvation -- the theological meaning of the church portal."
+    },
+    {
+      "ref": "GEN.28.17",
+      "relevance": "typological",
+      "reason": "Jacob's declaration 'This is the gate of heaven' at Bethel, the archetypal sacred threshold."
+    },
+    {
+      "ref": "MAT.16.18",
+      "relevance": "allusion",
+      "reason": "The Church built upon rock, literally expressed in the massive stone construction."
+    },
+    {
+      "ref": "PSA.91.4",
+      "relevance": "allusion",
+      "reason": "God's sheltering protection symbolized by the encompassing vault of the arches."
+    },
+    {
+      "ref": "PSA.118.20",
+      "relevance": "allusion",
+      "reason": "This is the gate of the Lord through which the righteous shall enter."
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "majestic",
+    "sacred",
+    "ancient"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0040547",
+    "title": "Malmesbury Abbey, England",
+    "artist": "Romanesque Architecture",
+    "model": "claude-opus-4-6"
+  }
+}

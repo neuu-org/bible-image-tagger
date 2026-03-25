@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Christ Appears to John and Commands Him to Send the Book to the Seven Churches of Asia",
+  "tags": [
+    "revelation",
+    "apocalypse",
+    "seven-churches",
+    "vision-of-patmos",
+    "book",
+    "seven-stars",
+    "candlesticks",
+    "mozarabic",
+    "illuminated-manuscript",
+    "horseshoe-arches",
+    "beatus",
+    "prostration",
+    "divine-commission",
+    "scroll"
+  ],
+  "symbols": [
+    "Christ standing with staff and book — the risen Lord who holds the authority of heaven and commissions the prophetic word",
+    "seven stars surrounding Christ — the angels of the seven churches (Revelation 1:20), held in Christ's sovereign care",
+    "John prostrate at Christ's feet — the seer overwhelmed by the vision of glory, falling as though dead (Revelation 1:17)",
+    "the angel in green and gold — the heavenly mediator conveying the revelation",
+    "the seven horseshoe arches in the lower register — the seven churches of Asia to which the book is sent (Revelation 1:11)",
+    "John writing the book in the lower register — the apostle fulfilling Christ's command to 'write what you see' (Revelation 1:19)",
+    "the Mozarabic horseshoe arches — the distinctive visual language of the Beatus manuscript tradition from medieval Iberia"
+  ],
+  "description": "A Mozarabic illuminated manuscript page divided into two registers. In the upper register, a haloed Christ stands at center in dark robes holding a tall staff and a book, surrounded by seven eight-pointed stars against a dark blue background. To the left, the apostle John lies prostrate at Christ's feet. To the right, a winged angel in green and gold gestures toward Christ. Above them, a row of decorative horseshoe arches in red and gold frames the top of the page.",
+  "theological_description": "This folio from a Beatus Apocalypse manuscript depicts the opening vision of the Book of Revelation (Revelation 1:9-20), when the exiled John on Patmos hears a voice 'like a trumpet' and turns to see the risen Christ standing among seven golden lampstands. The Mozarabic artistic tradition, flourishing in Christian communities under Islamic rule in medieval Iberia, developed a uniquely vivid visual theology of the Apocalypse through the commentary of Beatus of Liebana (c. 776). Christ holding the book and staff embodies His dual authority as revealer and ruler -- He alone is worthy to open the sealed scroll (Revelation 5:9). The seven stars are identified by Christ Himself as 'the angels of the seven churches' (Revelation 1:20), signifying His sovereign oversight of the universal Church. John's prostration expresses the proper human response to theophany, echoing Daniel falling on his face before the heavenly vision (Daniel 10:9) and Ezekiel overwhelmed by the glory of the Lord (Ezekiel 1:28). Christ's command -- 'Write what you see in a book and send it to the seven churches' (Revelation 1:11) -- is shown fulfilled in the lower register where John writes. The seven arches representing the seven churches (Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea) visualize the particular-yet-universal scope of the prophetic message: addressed to specific congregations, it speaks to the whole Church across all ages.",
+  "scripture_refs": [
+    {
+      "ref": "REV.1.9-20",
+      "relevance": "primary",
+      "reason": "John's inaugural vision of the risen Christ on Patmos, the direct narrative source for the upper register: Christ among the stars, John prostrate."
+    },
+    {
+      "ref": "REV.1.11",
+      "relevance": "primary",
+      "reason": "Christ's command to write what you see and send it to the seven churches -- depicted in the lower register with John writing and the seven arches."
+    },
+    {
+      "ref": "REV.1.20",
+      "relevance": "primary",
+      "reason": "Christ's explanation that the seven stars are the angels of the seven churches and the seven lampstands are the churches themselves."
+    },
+    {
+      "ref": "REV.2.1-3.22",
+      "relevance": "primary",
+      "reason": "The seven letters to the seven churches of Asia, represented by the seven labeled arches in the lower register."
+    },
+    {
+      "ref": "DAN.10.9",
+      "relevance": "typological",
+      "reason": "Daniel fell into a deep sleep on his face at the heavenly vision, prefiguring John's prostration before the glorified Christ."
+    },
+    {
+      "ref": "EZK.1.28",
+      "relevance": "allusion",
+      "reason": "Ezekiel fell on his face before the glory of the Lord, the prophetic precedent for John's overwhelmed response."
+    },
+    {
+      "ref": "REV.5.9",
+      "relevance": "allusion",
+      "reason": "Christ alone is worthy to open the scroll -- His authority over the book connects to the staff and book He holds in this image."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "visionary",
+    "solemn",
+    "majestic",
+    "apocalyptic"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0040334",
+    "title": "Le Christ se penche vers Jean. Jean envoie le Livre aux Sept Eglises d'Asie",
+    "artist": "Facundus",
+    "model": "claude-opus-4-6"
+  }
+}

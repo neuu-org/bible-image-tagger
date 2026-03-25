@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Saint Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel Musician",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Peter Enthroned with Saints",
+  "tags": [
+    "saint-peter",
+    "papal-tiara",
+    "enthroned",
+    "saint-john-the-baptist",
+    "saint-paul",
+    "angel-musician",
+    "keys",
+    "sacra-conversazione",
+    "apostolic-authority",
+    "church-authority"
+  ],
+  "symbols": [
+    "papal tiara — the threefold authority of the Bishop of Rome as vicar of Christ, derived from Peter's primacy",
+    "throne — the cathedra of Peter, seat of apostolic authority given by Christ (Matthew 16:18-19)",
+    "keys (implied by Peter's gesture) — the keys of the kingdom of heaven, the power to bind and loose",
+    "cross on the niche — Christ's redemptive sacrifice, the foundation upon which Peter's authority rests",
+    "angel with lute — heavenly worship and the harmony of the Church under apostolic governance",
+    "John the Baptist in animal skin — the forerunner who prepared the way for Christ and pointed to the Lamb of God",
+    "Saint Paul with book — the apostle to the Gentiles, doctrine and missionary expansion of the Church"
+  ],
+  "description": "Saint Peter sits enthroned in a grand architectural niche surmounted by a cross, wearing full papal vestments including a tall triregnum (triple tiara). His hands are clasped in a gesture of prayer or blessing. Below him, a small angel sits playing a lute. To the left stands Saint John the Baptist, recognizable by his animal-skin garment and reed cross-staff, with youthful curling hair. To the right stands an older bearded figure in red robes — likely Saint Paul — holding a book. The background shows Renaissance architecture and a distant landscape under a bright sky.",
+  "theological_description": "This altarpiece presents the Petrine primacy at the heart of ecclesiology. Peter enthroned in papal regalia visualizes Christ's words in Matthew 16:18-19: 'You are Peter, and on this rock I will build my Church... I will give you the keys of the kingdom of heaven.' The triple tiara signifies Peter's threefold office — teaching, sanctifying, governing — inherited by his successors. John the Baptist, the last and greatest of the Old Testament prophets (Matthew 11:11), flanks the throne as the one who prepared the way and declared 'Behold the Lamb of God' (John 1:29), thus linking Old Covenant prophecy to New Covenant fulfillment through the Church. Paul on the other side represents the apostolic mission to the Gentiles (Galatians 2:7-8), complementing Peter's role. Together, Peter and Paul are the twin pillars of the Church in Rome, and John the Baptist is the bridge between the testaments. The angel musician at the base represents the heavenly liturgy that accompanies the earthly Church's worship.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ's institution of Petrine primacy: 'On this rock I will build my Church' and the granting of the keys."
+    },
+    {
+      "ref": "JHN.21.15-17",
+      "relevance": "primary",
+      "reason": "The risen Christ's threefold commission to Peter: 'Feed my sheep' — the pastoral authority depicted in the enthronement."
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John the Baptist declaring 'Behold the Lamb of God' — the Baptist's prophetic witness represented here."
+    },
+    {
+      "ref": "GAL.2.7-8",
+      "relevance": "primary",
+      "reason": "Peter entrusted with the gospel to the circumcised, Paul to the Gentiles — the two pillars flanking the throne."
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "typological",
+      "reason": "Among those born of women none greater than John the Baptist has arisen — his prominence in the composition."
+    },
+    {
+      "ref": "ACT.2.14",
+      "relevance": "allusion",
+      "reason": "Peter standing to address the crowd at Pentecost, exercising the apostolic authority depicted here."
+    },
+    {
+      "ref": "EPH.2.20",
+      "relevance": "allusion",
+      "reason": "Built on the foundation of the apostles and prophets, with Christ as the cornerstone — the theological structure this altarpiece embodies."
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "authoritative",
+    "solemn",
+    "majestic",
+    "devotional"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0040093",
+    "title": "St. Peter Enthroned with Saints",
+    "artist": "Cima da Conegliano",
+    "model": "claude-opus-4-6"
+  }
+}

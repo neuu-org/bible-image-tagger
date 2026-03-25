@@ -1,0 +1,100 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Unidentified Male Saint (far left)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Unidentified Male Saint (far right)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child Enthroned with Saints (Sacra Conversazione)",
+  "tags": [
+    "virgin-and-child",
+    "sacra-conversazione",
+    "enthroned-madonna",
+    "saints-in-attendance",
+    "gold-haloes",
+    "john-the-baptist",
+    "saint-peter",
+    "divine-majesty",
+    "intercession",
+    "heavenly-court",
+    "architectural-setting",
+    "romanesque-arches",
+    "throne"
+  ],
+  "symbols": [
+    "throne — divine sovereignty of Christ and the exalted dignity of the Theotokos",
+    "gold haloes — sanctity and the indwelling of divine glory",
+    "scroll held by John the Baptist — the prophetic witness, likely reading 'Ecce Agnus Dei'",
+    "keys or book held by Saint Peter — apostolic authority and the power of binding and loosing",
+    "Christ Child seated on Mary's lap — the Incarnation, God made flesh and accessible through His mother",
+    "architectural arches — the heavenly Jerusalem and the ordered structure of the Church"
+  ],
+  "description": "The Virgin Mary, draped in a dark mantle, sits enthroned on a hexagonal pedestal at center, holding the haloed Christ Child on her lap. Four male saints flank them symmetrically: to the left, a blond youth in a red cloak and a bearded figure in a pink garment carrying a scroll inscribed with text; to the right, an older white-bearded saint holding a book and a youthful saint in a red robe carrying a book. Romanesque arches with decorative roundels frame the composition against a dark background. The tiled floor is rendered in geometric perspective.",
+  "theological_description": "The Sacra Conversazione is one of the most enduring formats in Christian art, depicting the communion of saints gathered around the enthroned Mother of God and her divine Son. The composition embodies the ecclesiological vision of the Church as the body of Christ, with the saints -- apostles, martyrs, confessors -- gathered around the central mystery of the Incarnation. The enthroned Madonna recalls the Sedes Sapientiae tradition, in which Mary serves as the living throne of Wisdom Incarnate (cf. Prov 8:1; Sir 24:4). The presence of John the Baptist, the last and greatest of the Old Testament prophets (Matt 11:11), bridges the old and new covenants. Saint Peter, identified by his traditional iconographic attributes, represents the apostolic foundation upon which the Church is built (Matt 16:18). The symmetrical arrangement suggests the ordered harmony of the heavenly court described in Revelation, where the saints surround the throne of God in perpetual worship.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "The Annunciation promise that Mary's son would reign forever, visualized in the enthroned Christ Child."
+    },
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Peter's commission as the rock of the Church, represented by his prominent place among the attending saints."
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John the Baptist's proclamation 'Behold the Lamb of God,' likely inscribed on his scroll."
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Christ's declaration that no one born of woman is greater than John the Baptist, explaining his privileged position."
+    },
+    {
+      "ref": "REV.4.4",
+      "relevance": "typological",
+      "reason": "The elders surrounding the throne of God prefigure the saints gathered around the enthroned Christ."
+    },
+    {
+      "ref": "PRO.8.1",
+      "relevance": "typological",
+      "reason": "Wisdom's cry in public places fulfilled in the Incarnation of divine Wisdom upon the lap of Mary, the Sedes Sapientiae."
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "reverential",
+    "majestic",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040664",
+    "title": "Madonna col bambino in trono e santi",
+    "artist": "Lo Scheggia",
+    "model": "claude-opus-4-6"
+  }
+}

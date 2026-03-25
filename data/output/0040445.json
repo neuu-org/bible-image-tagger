@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna and Child with Angels",
+  "tags": [
+    "Christianity",
+    "Madonna-and-Child",
+    "Virgin-Mary",
+    "Christ-Child",
+    "angels",
+    "Incarnation",
+    "maternal-love",
+    "divine-infancy",
+    "sleeping-Christ",
+    "Marian-devotion",
+    "cherubim",
+    "tenderness"
+  ],
+  "symbols": [
+    "sleeping Christ Child — prefiguration of death and entombment, and trust in the Father",
+    "blue mantle of the Virgin — heavenly queenship and fidelity",
+    "red garment beneath — love, the Passion, and Mary's share in Christ's suffering",
+    "white veil — purity and virginal consecration",
+    "golden glow behind Mary's head — divine favor and sanctifying grace",
+    "cherubim in the clouds — heavenly court attending the Incarnate God",
+    "Mary's downcast eyes and inclined head — contemplative humility and the Magnificat disposition",
+    "Christ's bare chest — vulnerability of the Incarnation, God made accessible in human flesh"
+  ],
+  "description": "A close, devotional composition showing the Virgin Mary tenderly cradling the sleeping Christ Child. Mary wears a red dress beneath a voluminous blue mantle, with a white veil over her auburn hair. She inclines her head gently toward the infant, her eyes lowered in contemplation. The Christ Child sleeps peacefully in her arms, His bare torso resting against soft drapery. Two small cherubim emerge from golden clouds at either side of the upper background, gazing down at the sacred pair. The palette is rich and warm, with luminous skin tones set against deep blue and red fabric.",
+  "theological_description": "Sassoferrato's Madonna and Child distills the mystery of the Incarnation into its most intimate expression. The sleeping Christ Child embodies the paradox at the heart of Christian theology: the omnipotent God rendered vulnerable, dependent, and mortal in human flesh (Phil 2:6-8). In patristic and medieval devotion, the sleep of the infant Christ was read as a prefiguration of His death and three-day rest in the tomb, making every such image simultaneously a Nativity and a Pieta in embryo. Mary's posture — head inclined, eyes lowered, arms cradling — mirrors her disposition in Luke's Magnificat (Luke 1:46-55): the humble handmaid exalted by God, who treasures these things in her heart (Luke 2:19). The attending cherubim recall the heavenly host that surrounds God's throne (Isa 6:1-3) now redirected to attend the God-made-infant, a visual catechesis on the doctrine that in Christ 'the whole fullness of deity dwells bodily' (Col 2:9). The blue and red of Mary's garments encode the traditional Marian theology of heavenly grace (blue) and sacrificial love (red), while the golden light behind her head anticipates the 'woman clothed with the sun' of Revelation 12:1.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the central mystery depicted in the infant God held by His human mother"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "primary",
+      "reason": "Christ emptied Himself, taking the form of a servant — the sleeping infant embodies divine kenosis"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things and pondered them in her heart — reflected in her contemplative downward gaze"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "Mary's humble posture embodies the Magnificat disposition of the lowly handmaid exalted by God"
+    },
+    {
+      "ref": "COL.2.9",
+      "relevance": "typological",
+      "reason": "The fullness of deity dwelling bodily in Christ — cherubim attend the infant in whom God is fully present"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The golden glow surrounding Mary anticipates the apocalyptic woman clothed with the sun"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "serene",
+    "devotional",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040445",
+    "title": "Madonna and child",
+    "artist": "Sassoferrato",
+    "model": "claude-opus-4-6"
+  }
+}

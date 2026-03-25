@@ -1,0 +1,104 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Donors / Blumeneck Family",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "jesus-christ",
+    "stained-glass",
+    "calvary",
+    "redemption",
+    "passion",
+    "mourning-figures",
+    "donor-portraits",
+    "chapel-window",
+    "blood-of-christ",
+    "inri"
+  ],
+  "symbols": [
+    "cross — the instrument of salvation, the altar on which Christ the High Priest offers Himself",
+    "blood flowing from wounds — the atoning sacrifice and the New Covenant sealed in Christ's blood",
+    "Mary at the foot of the cross — the Church as mother of believers, sharing in Christ's suffering",
+    "John the Beloved — the faithful disciple entrusted with Mary, representing the whole Church",
+    "angels collecting blood — the precious blood gathered for the Eucharistic mystery",
+    "darkened sky — creation mourning its Creator, the cosmic significance of the Crucifixion",
+    "stained glass medium — the light of divine grace transfiguring matter, a liturgical theology of illumination"
+  ],
+  "description": "A large stained glass window divided into panels depicting the Crucifixion of Christ. At center, Christ hangs on a tall cross against a blue sky with angels hovering near the crossbeam. Blood streams from his wounds. Below and to the left, the Virgin Mary stands in a dark robe with hands clasped or raised in grief. Saint John the Evangelist stands nearby in a red garment. To the right, additional figures including Mary Magdalene and possibly donor figures from the Blumeneck family kneel in prayer. The lower portions of the window show landscape elements with green hills.",
+  "theological_description": "The Crucifixion is the central event of Christian soteriology. On the cross, Christ accomplishes the redemption of humanity through His voluntary self-offering as the Lamb of God (John 1:29). The scene depicted draws on all four Gospel accounts of the Passion, particularly John 19:25-27, where Jesus entrusts Mary to John and John to Mary, constituting the Church as a family born from the cross. Patristic theology (Athanasius, Cyril of Alexandria) teaches that on the cross the divine and human natures in Christ's one Person unite to achieve what neither could alone: the immortal God suffers death in His humanity to destroy death from within. The blood and water flowing from Christ's side (John 19:34) are read by the Fathers as the sacraments of Baptism and Eucharist — the Church herself being born from the wounded side of the New Adam, just as Eve was formed from the side of the first Adam. The stained glass medium itself embodies a liturgical theology: as light passes through colored glass to illuminate the sacred space, so divine grace transfigures created matter.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "John's account of the Crucifixion, including 'It is finished' and the entrusting of Mary to John."
+    },
+    {
+      "ref": "MAT.27.33-56",
+      "relevance": "primary",
+      "reason": "Matthew's Passion narrative including the darkness over the land and the cosmic signs at Christ's death."
+    },
+    {
+      "ref": "JHN.19.34",
+      "relevance": "primary",
+      "reason": "The piercing of Christ's side from which blood and water flowed — sacramental birth of the Church."
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "By his wounds we are healed — the Suffering Servant prophecy fulfilled in the Crucifixion."
+    },
+    {
+      "ref": "HEB.9.12",
+      "relevance": "typological",
+      "reason": "Christ entered the holy places by means of His own blood, securing eternal redemption."
+    },
+    {
+      "ref": "GAL.3.13",
+      "relevance": "allusion",
+      "reason": "Christ redeemed us from the curse of the law by becoming a curse for us, hung on a tree."
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "allusion",
+      "reason": "Behold the Lamb of God who takes away the sin of the world — the sacrificial identity revealed on the cross."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "redemptive",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040138",
+    "title": "Stained glass windows from the Blumeneck Family Chapel",
+    "artist": "Hans Baldung",
+    "model": "claude-opus-4-6"
+  }
+}

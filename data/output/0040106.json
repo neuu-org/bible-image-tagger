@@ -1,0 +1,44 @@
+{
+  "characters": [],
+  "event": "Interior of the Basilica of San Miniato al Monte",
+  "tags": [
+    "church-interior",
+    "romanesque-architecture",
+    "basilica",
+    "arches",
+    "columns",
+    "staircase",
+    "holy-places",
+    "florence",
+    "sacred-space",
+    "stone-masonry",
+    "nave"
+  ],
+  "symbols": [
+    "arches — the vault of heaven and the passage from the earthly to the divine, architectural echoes of covenant theology",
+    "columns — pillars of the Church, recalling the pillars of Solomon's Temple (Jachin and Boaz) and the apostles as pillars (Galatians 2:9)",
+    "staircase — ascent toward God, recalling Jacob's ladder and the liturgical ascent psalms",
+    "stone construction — the living stones of 1 Peter 2:5, built into a spiritual house",
+    "dim natural light — the 'already but not yet' of faith, seeing through a glass darkly before the full light of glory"
+  ],
+  "description": "A watercolor rendering of the interior of the Basilica of San Miniato al Monte in Florence. A large stone column with a Corinthian capital dominates the center, supporting Romanesque arches that recede into shadowed aisles. A stone staircase with an iron railing ascends to the left. Inlaid marble panels with geometric patterns adorn the lower walls. The light is subdued, filtering through small windows, casting soft highlights on the warm sandstone surfaces. The atmosphere is hushed and venerable.",
+  "theological_description": "San Miniato al Monte is one of the finest Romanesque basilicas in Italy, and its interior embodies the theology of sacred space. The church building in Christian tradition is not merely a functional gathering place but an icon of the heavenly Jerusalem (Revelation 21:2-3), where God dwells among His people. The ascending staircase recalls the Psalms of Ascent (Psalms 120-134) sung by pilgrims going up to the Temple in Jerusalem, and Jacob's ladder vision at Bethel — 'this is none other than the house of God, and this is the gate of heaven' (Genesis 28:17). The columns echo the two pillars of Solomon's Temple, Jachin and Boaz (1 Kings 7:21), which symbolized God's establishment and strength. The Romanesque arches, built upon these pillars, create a canopy that mirrors the firmament — the sacred cosmos enclosed within the sanctuary. The subdued light filtering through small windows suggests the present age of faith where 'we see in a mirror dimly' (1 Corinthians 13:12), awaiting the full radiance of the New Jerusalem where God Himself is the light (Revelation 21:23).",
+  "scripture_refs": [
+    {"ref": "GEN.28.17", "relevance": "primary", "reason": "This is none other than the house of God and the gate of heaven — Jacob's declaration that sanctifies sacred space."},
+    {"ref": "1KI.7.21", "relevance": "typological", "reason": "The pillars Jachin and Boaz at the entrance of Solomon's Temple — the architectural columns as theological symbols."},
+    {"ref": "REV.21.2-3", "relevance": "typological", "reason": "The New Jerusalem descending from heaven, the eschatological fulfillment of which every church building is an earthly icon."},
+    {"ref": "1PE.2.5", "relevance": "typological", "reason": "You yourselves like living stones are being built up as a spiritual house — the theology of sacred architecture."},
+    {"ref": "PSA.122.1", "relevance": "allusion", "reason": "I was glad when they said to me, Let us go to the house of the Lord — the joy of entering sacred space."},
+    {"ref": "1CO.13.12", "relevance": "allusion", "reason": "Now we see in a mirror dimly — the subdued light suggesting the present age of faith."},
+    {"ref": "GAL.2.9", "relevance": "allusion", "reason": "James, Cephas, and John recognized as pillars — the apostolic pillars that the architectural columns symbolize."}
+  ],
+  "scene_type": "landscape",
+  "mood": ["contemplative", "hushed", "reverent"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0040106",
+    "title": "Interno di San Miniato",
+    "artist": "Telemaco Signorini",
+    "model": "claude-opus-4-6"
+  }
+}

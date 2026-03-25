@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Susanna",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elders",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Susanna spied upon by the Elders",
+  "tags": [
+    "susanna-and-the-elders",
+    "bathing",
+    "garden",
+    "voyeurism",
+    "innocence-threatened",
+    "woodland",
+    "statue",
+    "old-testament-apocrypha"
+  ],
+  "symbols": [
+    "garden — enclosed space of privacy and feminine virtue (cf. Song of Solomon 4:12)",
+    "bathing Susanna — purity and vulnerability of the righteous before corrupt power",
+    "lurking elders — corruption of justice and abuse of authority",
+    "statue atop column — classical or pagan setting contrasting with Susanna's biblical virtue",
+    "dark woods — concealment, danger, and the shadowy nature of sin"
+  ],
+  "description": "A dark, atmospheric woodland scene. In the left foreground, a young woman (Susanna) is partially undressed, seated near a stone basin or fountain, preparing to bathe. Her pale skin stands out against the deep shadows of the surrounding trees. At the right, two elderly men lurk on stone steps partially concealed by foliage, peering toward her. A statue stands atop a column in the background. The heavy canopy of trees creates a sense of enclosure and menace. The overall palette is dark and earthy, with Susanna's figure providing the main source of light.",
+  "theological_description": "The story of Susanna (Daniel 13 in the Septuagint and Vulgate, or the addition to Daniel in Protestant tradition) is one of the most dramatically charged narratives of innocence vindicated by divine justice. Susanna, a beautiful and God-fearing wife, is spied upon while bathing in her garden by two corrupt elders who serve as judges. When she refuses their advances, they falsely accuse her of adultery, and she is condemned to death. Her prayer to God, who knows all hidden things (Daniel 13:42-43), is answered through the young prophet Daniel, who cross-examines the elders separately, exposes their contradictory testimony, and saves Susanna's life. The narrative is a powerful meditation on the themes of righteous suffering, false witness (Exodus 20:16), the corruption of those entrusted with justice (Isaiah 1:23), and God's vindication of the innocent. Susanna's enclosed garden evokes the hortus conclusus of Song of Solomon 4:12, a symbol of inviolable virtue. The lurking elders embody the scriptural warning that 'the wicked watches the righteous and seeks to put him to death' (Psalm 37:32).",
+  "scripture_refs": [
+    {
+      "ref": "DAN.13.1-64",
+      "relevance": "primary",
+      "reason": "The direct narrative source: Susanna bathing in her garden, spied upon by the corrupt elders"
+    },
+    {
+      "ref": "PSA.37.32-33",
+      "relevance": "allusion",
+      "reason": "The wicked watching the righteous and seeking to destroy them, but the Lord not abandoning them to judgment"
+    },
+    {
+      "ref": "EXO.20.16",
+      "relevance": "allusion",
+      "reason": "The commandment against bearing false witness, which the elders violate in accusing Susanna"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "ominous",
+    "vulnerable",
+    "shadowy"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0040957",
+    "title": "Susanna and the Elders",
+    "artist": "Jan Dirksz Both",
+    "model": "claude-opus-4-6"
+  }
+}

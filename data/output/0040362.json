@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "redemption",
+    "atonement",
+    "passion",
+    "suffering-servant",
+    "sacrifice",
+    "expressionist",
+    "charcoal-drawing",
+    "golgotha",
+    "darkness",
+    "abstract-crucifixion"
+  ],
+  "symbols": [
+    "the cross dominating the composition — the instrument of salvation, the axis of cosmic redemption around which all reality pivots",
+    "Christ's white figure against the dark background — light piercing darkness, the life of the world shining through death (John 1:5)",
+    "the chaotic hatched lines surrounding Christ — the turmoil of cosmic forces, the darkness that covered the land at the sixth hour",
+    "the elongated, ethereal body — Christ stretched between heaven and earth, mediating between God and humanity",
+    "circular forms at the base — possibly mourners or the world gathered at the foot of the cross"
+  ],
+  "description": "An expressionistic charcoal drawing depicting the crucifixion of Christ. A white, elongated figure of Christ hangs on a cross with arms outstretched, rendered as a luminous, ghostly form against an aggressively hatched dark background. The body is simplified and almost spectral -- a narrow torso tapering downward, with the head tilted. The surrounding space is filled with dense, angular cross-hatching creating a sense of darkness and chaos. At the base of the cross, loosely drawn circular forms suggest either mourners or abstract elements.",
+  "theological_description": "George Stefanescu's expressionistic crucifixion strips the scene to its essential theological core: a luminous body suspended in darkness. The white figure of Christ against the aggressive black hatching visualizes the Johannine theology of light and darkness -- 'The light shines in the darkness, and the darkness has not overcome it' (John 1:5). The elongated, almost dematerialized body evokes the kenotic theology of Philippians 2:7: Christ 'emptied Himself,' and here that self-emptying is rendered as near-dissolution, the body becoming translucent, barely holding form under the weight of the world's sin. The chaotic surrounding lines recall the cosmic disturbance at the crucifixion: the darkness over the land (Matthew 27:45), the tearing of the Temple veil (Matthew 27:51), the earthquake. The cross itself stands as the still center of this chaos, the axis mundi of salvation history. Patristic theology from Athanasius to Maximus the Confessor understood the cross as the point where heaven and earth, east and west, are united in Christ's outstretched arms. The raw, unfinished quality of the drawing echoes the cry of dereliction itself -- 'My God, my God, why have you forsaken me?' (Psalm 22:1) -- a scream rendered in charcoal rather than words.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.25-37",
+      "relevance": "primary",
+      "reason": "Mark's account of the crucifixion, the darkness at the sixth hour, and Christ's cry of dereliction from the cross."
+    },
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "John's narrative of the crucifixion, Christ lifted up on the cross as the supreme revelation of divine love."
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "typological",
+      "reason": "The light shines in the darkness and the darkness has not overcome it -- the white figure of Christ glowing against the dark ground."
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant, wounded for our transgressions, whose stripes heal us -- the prophetic vision behind every crucifixion image."
+    },
+    {
+      "ref": "PSA.22.1",
+      "relevance": "allusion",
+      "reason": "My God, my God, why have you forsaken me -- the psalm of abandonment that Christ cries from the cross, evoked by the anguished expressionism."
+    },
+    {
+      "ref": "MAT.27.45-51",
+      "relevance": "allusion",
+      "reason": "The darkness, earthquake, and torn veil at the crucifixion -- the cosmic chaos rendered in the aggressive hatching surrounding Christ."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "stark",
+    "urgent",
+    "transcendent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040362",
+    "title": "The Lord's Crucifixion",
+    "artist": "George Stefanescu",
+    "model": "claude-opus-4-6"
+  }
+}

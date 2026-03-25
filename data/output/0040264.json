@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {"name": "Abraham", "type": "PERSON"},
+    {"name": "Isaac", "type": "PERSON"},
+    {"name": "Angel of the Lord", "type": "ANGEL"}
+  ],
+  "event": "The Angel Stays Abraham's Hand at the Sacrifice of Isaac",
+  "tags": [
+    "sacrifice",
+    "binding-of-isaac",
+    "aqedah",
+    "obedience",
+    "divine-intervention",
+    "angel",
+    "ram-substitution",
+    "faith",
+    "covenant",
+    "mount-moriah",
+    "patriarch",
+    "foreshadowing-of-calvary",
+    "altar",
+    "bound-victim",
+    "knife"
+  ],
+  "symbols": [
+    "the angel seizing Abraham's arm — divine intervention at the threshold of death, God's sovereign command overruling human action",
+    "Isaac bound on the wood — the archetypal type of Christ bearing the cross-wood to Calvary, the willing victim laid upon the altar",
+    "Abraham's knife — obedient faith pushed to its ultimate limit, the willingness to surrender the most precious gift back to the Giver",
+    "the wood/altar beneath Isaac — the sacrificial altar prefiguring the cross, the wood carried by the son echoing Christ carrying His cross (John 19:17)",
+    "the angel's wings and golden garments — heavenly glory breaking into the moment of greatest anguish, the visible sign of God's watchfulness"
+  ],
+  "description": "An angel in golden-yellow and crimson robes rushes in from the left, white wings outstretched, seizing the elderly Abraham by the wrist to halt the sacrifice. Abraham, bearded and turbaned, grips a knife and leans over the prostrate body of Isaac, whose hands are bound and who lies pale and exposed across a rocky makeshift altar. The scene is set outdoors among dark foliage and craggy rocks. The angel's dynamic motion contrasts with the tense stillness of the patriarch, creating a moment of frozen drama. The palette is dominated by warm earthy tones with highlights of gold, red, and white.",
+  "theological_description": "The Aqedah (Binding of Isaac) in Genesis 22 is one of the most theologically dense episodes in the Hebrew Bible and the supreme test of Abrahamic faith. God commands Abraham to offer his 'only son, whom you love' (Genesis 22:2) -- language the Church Fathers universally recognized as a prefiguration of the Father offering His only-begotten Son (John 3:16). Irenaeus, Origen, and Augustine all read Isaac as a type of Christ: the son carries the wood of his own sacrifice (Genesis 22:6 / John 19:17), is bound willingly, and ascends the mountain of offering. The substitutionary ram caught in the thicket (Genesis 22:13) foreshadows the Lamb of God who takes away the sin of the world (John 1:29). The angel's intervention reveals that God does not desire human sacrifice but obedient faith -- 'now I know that you fear God' (Genesis 22:12). Hebrews 11:17-19 interprets Abraham as believing God could raise the dead, making the Aqedah a proleptic resurrection narrative. Mount Moriah itself is identified with the Temple Mount (2 Chronicles 3:1) and by extension Golgotha in Christian tradition, binding the geography of sacrifice across both Testaments. The scene captures the hinge-moment: the knife is arrested, death is reversed, and the covenant promise -- 'in your offspring shall all the nations of the earth be blessed' (Genesis 22:18) -- is confirmed irrevocably.",
+  "scripture_refs": [
+    {"ref": "GEN.22.1-19", "relevance": "primary", "reason": "The complete narrative of the Binding of Isaac: God's command, the journey to Moriah, the angel's intervention, and the covenant reaffirmation."},
+    {"ref": "GEN.22.11-12", "relevance": "primary", "reason": "The angel of the Lord calls from heaven to stay Abraham's hand, the precise moment depicted in the painting."},
+    {"ref": "HEB.11.17-19", "relevance": "typological", "reason": "Abraham offered Isaac in faith, reasoning that God could raise the dead -- the New Testament typological reading of the Aqedah as prefiguring resurrection."},
+    {"ref": "JHN.3.16", "relevance": "typological", "reason": "God so loved the world that He gave His only Son -- the Aqedah as the Old Testament foreshadowing of the Father's self-giving at Calvary."},
+    {"ref": "JHN.1.29", "relevance": "typological", "reason": "The Lamb of God who takes away the sin of the world, prefigured by the substitutionary ram provided on Moriah."},
+    {"ref": "ROM.8.32", "relevance": "allusion", "reason": "He who did not spare His own Son -- Paul's echo of Genesis 22, contrasting Abraham's spared Isaac with God's unspared Christ."},
+    {"ref": "2CH.3.1", "relevance": "allusion", "reason": "Solomon built the Temple on Mount Moriah, linking the site of the Aqedah to the place of perpetual sacrifice."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "tense", "reverent", "awe-inspiring"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0040264",
+    "title": "The Sacrifice of Isaac",
+    "artist": "Juan de Valdes Leal",
+    "model": "claude-opus-4-6"
+  }
+}

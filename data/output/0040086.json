@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Seraphim", "type": "ANGEL"}
+  ],
+  "event": "Seraphim in the Dome",
+  "tags": [
+    "seraphim",
+    "dome",
+    "church-interior",
+    "celestial-beings",
+    "gold",
+    "mosaic-style",
+    "liturgical-art",
+    "heavenly-worship",
+    "wings",
+    "divine-glory",
+    "orthodox-iconography"
+  ],
+  "symbols": [
+    "seraphim — the burning ones who attend God's throne, ceaselessly crying 'Holy, Holy, Holy,' representing the highest order of angelic worship",
+    "dome — the vault of heaven, the celestial sphere through which divine light descends into the earthly sanctuary",
+    "gold ground — the uncreated light of God's glory, the eternal realm beyond time and space",
+    "cross at apex — Christ as the cosmic center toward whom all worship ascends",
+    "circular composition — the perfection and eternity of God, without beginning or end"
+  ],
+  "description": "A view looking directly upward into a small church dome reveals four seraphim painted in the pendentives at the four corners, their wings spread wide in rich blues, reds, and golds. The dome's interior features a window-pierced drum admitting natural light, with a cross at the apex. Concentric golden and blue bands frame the composition. The seraphim have solemn faces and six wings each, rendered in a Byzantine-influenced style against deep blue and gold backgrounds.",
+  "theological_description": "This dome painting visualizes Isaiah's throne-room vision (Isaiah 6:1-7), where seraphim with six wings stand above the Lord's throne, crying 'Holy, Holy, Holy is the Lord of hosts; the whole earth is full of His glory.' The seraphim — literally 'burning ones' — represent the highest order of created beings, consumed with the fire of divine love and perpetual adoration. In Orthodox and Catholic liturgical theology, the church building itself is an icon of heaven, and the dome represents the celestial vault. The seraphim in the pendentives bridge earth and heaven, reminding the worshiper below that the earthly liturgy participates in the eternal heavenly worship described in Revelation 4:8, where four living creatures ceaselessly proclaim God's holiness. The Trisagion ('Holy, Holy, Holy') proclaimed by the seraphim is the foundation of Christian doxology, echoed in every Eucharistic liturgy in the Sanctus. The light entering through the drum windows symbolizes divine illumination breaking into the created order.",
+  "scripture_refs": [
+    {"ref": "ISA.6.1-7", "relevance": "primary", "reason": "Isaiah's vision of seraphim with six wings surrounding God's throne, crying the Trisagion — the direct source of this iconography."},
+    {"ref": "REV.4.8", "relevance": "primary", "reason": "The four living creatures with six wings ceaselessly saying 'Holy, Holy, Holy' — the New Testament parallel to Isaiah's seraphim."},
+    {"ref": "EZK.1.4-14", "relevance": "typological", "reason": "Ezekiel's vision of the living creatures with wings and multiple faces, a related theophanic vision of celestial attendants."},
+    {"ref": "EZK.10.1-22", "relevance": "typological", "reason": "The cherubim above which God's glory dwells, closely related to the seraphic throne guardians."},
+    {"ref": "PSA.99.1", "relevance": "allusion", "reason": "The Lord reigns, enthroned upon the cherubim — the divine throne attended by celestial beings."},
+    {"ref": "ISA.6.3", "relevance": "primary", "reason": "Holy, Holy, Holy is the Lord of hosts; the whole earth is full of His glory — the Trisagion hymn."}
+  ],
+  "scene_type": "liturgical",
+  "mood": ["transcendent", "reverent", "luminous", "celestial"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0040086",
+    "title": "Small dome - Seraphs",
+    "artist": "Wilhelm Kotarbinski",
+    "model": "claude-opus-4-6"
+  }
+}

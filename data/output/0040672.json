@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Christ (implied)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Surrealist Reinterpretation of the Crucified or Suffering Christ",
+  "tags": [
+    "suffering",
+    "crucifixion-allusion",
+    "distorted-figure",
+    "human-agony",
+    "cosmic-scale",
+    "outstretched-hand",
+    "metamorphosis",
+    "spiritual-anguish",
+    "contemporary-reinterpretation"
+  ],
+  "symbols": [
+    "distorted human body — the disfigurement of suffering foretold by Isaiah 52:14, 'his appearance was so marred beyond human semblance'",
+    "outstretched hand — echoes of the crucified Christ's hands nailed to the cross",
+    "cosmic sky — the universal scope of Christ's redemptive suffering",
+    "fragmented anatomy — the brokenness of humanity in need of redemption"
+  ],
+  "description": "A surrealist painting after Salvador Dali's imagery, rendered in Glenn Brown's reinterpretation style. A colossal, distorted human figure dominates the composition, its anatomy twisted and fragmented across a vast sky of blues, greens, and clouds. The figure stretches an enormous hand outward, fingers splayed. Smaller anatomical fragments and dreamlike forms merge with the landscape below. The palette ranges from warm flesh tones to cool atmospheric blues and greens.",
+  "theological_description": "Though not a direct biblical illustration, the title 'Dali-Christ' and the visual language of a tortured, cosmic-scale human figure evoke the mystery of Christ's Passion. The grotesque distortion of the body recalls Isaiah's Suffering Servant, whose form was 'marred beyond human semblance' (Isa 52:14), and the Psalmist's cry 'I am poured out like water, and all my bones are out of joint' (Ps 22:14). The surrealist idiom, far from trivializing the subject, conveys the incomprehensibility of divine suffering -- how the infinite God could experience human agony. The outstretched hand against the cosmic sky suggests the universal reach of the Crucifixion: 'And I, when I am lifted up from the earth, will draw all people to myself' (John 12:32). The fragmentation of the body can be read as a modern meditation on the Eucharistic breaking of Christ's body for the life of the world.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.52.14",
+      "relevance": "typological",
+      "reason": "The Suffering Servant whose appearance was marred beyond human likeness, visually echoed in the distorted figure."
+    },
+    {
+      "ref": "PSA.22.14",
+      "relevance": "typological",
+      "reason": "The Psalmist's description of being poured out like water with disjointed bones, mirrored in the fragmented anatomy."
+    },
+    {
+      "ref": "JHN.12.32",
+      "relevance": "allusion",
+      "reason": "Christ lifted up to draw all humanity, suggested by the cosmic scale and outstretched hand."
+    },
+    {
+      "ref": "1CO.11.24",
+      "relevance": "allusion",
+      "reason": "The Eucharistic words 'This is my body, broken for you,' evoked by the fragmented corporeal form."
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "anguished",
+    "surreal",
+    "cosmic",
+    "unsettling"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040672",
+    "title": "Dali-Christ",
+    "artist": "Glenn Brown",
+    "model": "claude-opus-4-6"
+  }
+}

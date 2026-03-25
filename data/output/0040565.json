@@ -1,0 +1,105 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Goliath",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Doctors of the Temple",
+      "type": "GROUP"
+    },
+    {
+      "name": "Solomon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Triptych of Heroism, Sacrifice, and Service: Young David, Christ Among the Doctors, and Young Solomon",
+  "tags": [
+    "triptych",
+    "heroism",
+    "sacrifice",
+    "service",
+    "young-david",
+    "christ-among-the-doctors",
+    "young-solomon",
+    "mural",
+    "civic-virtue",
+    "typology",
+    "old-testament-new-testament-parallel",
+    "wisdom",
+    "courage",
+    "temple"
+  ],
+  "symbols": [
+    "young David with Goliath's body — heroic faith and courage against overwhelming odds, the small overcoming the great by divine power",
+    "Christ seated among the doctors — divine wisdom incarnate surpassing all human learning, the fulfillment of Solomon's wisdom",
+    "young Solomon enthroned — the gift of wisdom for governance and justice, a type of Christ the King",
+    "triptych format — the theological triad of heroism, sacrifice, and service as vocational virtues rooted in Scripture",
+    "angels flanking the composition — divine messengers attending the unfolding of salvation history"
+  ],
+  "description": "A wide horizontal mural divided into three panels within a wooden architectural framework. The left panel shows a young, nearly nude David standing heroically over the fallen body of Goliath, with onlookers and a mountainous landscape behind. The central panel, the largest, depicts the young Jesus seated among robed elders and doctors in a temple setting, gesturing in teaching. The right panel presents the young Solomon seated in authority, attended by courtiers and figures in Eastern dress. Angels appear at the far left and right edges of the composition.",
+  "theological_description": "Violet Oakley's mural presents a typological triptych linking three pivotal moments of youthful biblical vocation. The left panel depicts David's triumph over Goliath (1 Samuel 17), the paradigmatic Old Testament act of heroic faith where a shepherd boy defeats a giant not by human strength but by the name of the Lord of hosts. The central panel shows the twelve-year-old Jesus among the teachers in the Temple (Luke 2:41-52), the first public manifestation of His divine wisdom that astonished all who heard Him. The right panel presents young Solomon receiving the gift of wisdom (1 Kings 3:5-14), the archetypal ruler who asked not for riches or power but for an understanding heart. Typologically, David's courage prefigures Christ's conquest of sin and death; Solomon's wisdom finds its ultimate fulfillment in Christ, 'in whom are hidden all the treasures of wisdom and knowledge' (Colossians 2:3). The mural's triple theme of heroism, sacrifice, and service maps onto the threefold office of Christ (munus triplex): King (David's heroism), Prophet (Christ teaching in the Temple), and Priest-Sage (Solomon's governance). Together, the three panels proclaim that true greatness in God's economy emerges not from age or worldly power but from youthful obedience to divine calling.",
+  "scripture_refs": [
+    {
+      "ref": "1SA.17.45-50",
+      "relevance": "primary",
+      "reason": "David's defeat of Goliath by faith in the Lord of hosts -- the heroism panel's direct subject."
+    },
+    {
+      "ref": "LUK.2.41-52",
+      "relevance": "primary",
+      "reason": "The boy Jesus among the Temple doctors, astonishing them with His understanding -- the central panel's subject."
+    },
+    {
+      "ref": "1KI.3.5-14",
+      "relevance": "primary",
+      "reason": "Young Solomon's request for wisdom and God's granting of an understanding heart -- the service panel's subject."
+    },
+    {
+      "ref": "COL.2.3",
+      "relevance": "typological",
+      "reason": "In Christ are hidden all treasures of wisdom and knowledge -- the fulfillment of Solomon's wisdom."
+    },
+    {
+      "ref": "MAT.12.42",
+      "relevance": "typological",
+      "reason": "Something greater than Solomon is here -- Christ surpasses the wisdom tradition."
+    },
+    {
+      "ref": "1SA.16.7",
+      "relevance": "allusion",
+      "reason": "The Lord looks on the heart, not outward appearance -- the principle uniting all three youthful heroes."
+    },
+    {
+      "ref": "PSA.8.2",
+      "relevance": "allusion",
+      "reason": "Out of the mouths of babes and infants God has ordained strength -- youthful agents of divine purpose."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "heroic",
+    "didactic",
+    "solemn",
+    "reverent"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0040565",
+    "title": "Heroism (Young David), Sacrifice (Christ Among the Doctors), Service (Young Solomon)",
+    "artist": "Violet Oakley",
+    "model": "claude-opus-4-6"
+  }
+}

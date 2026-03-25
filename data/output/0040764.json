@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Saint Christopher",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint Christopher Carrying the Christ Child",
+  "tags": [
+    "river crossing",
+    "burden of Christ",
+    "staff",
+    "red cloak",
+    "alpine landscape",
+    "lake shore",
+    "faith and service",
+    "hagiography",
+    "christophoros",
+    "bearing the weight of the world",
+    "water as trial",
+    "devotional image"
+  ],
+  "symbols": [
+    "Christ Child on shoulders — bearing the weight of Christ and, through Him, the entire world",
+    "staff — pilgrimage, faith as support through perilous waters",
+    "river — trials and tribulations of the faithful life",
+    "red cloak — martyrdom and sacrificial service",
+    "rocky shoreline — the firm ground of salvation reached through perseverance",
+    "distant town — the worldly realm left behind in pursuit of holy service"
+  ],
+  "description": "A large, powerfully built man wades through a lake or river, bent under the weight of a small child seated on his shoulders. He wears a flowing red cloak and grips a rough wooden staff driven into the water. The child, with a calm expression, raises one hand in blessing. Behind them stretches a serene Alpine landscape with a lake, rocky cliffs, distant mountains, and a small settlement with red-roofed buildings on the far shore. The water reflects the figures with luminous naturalism.",
+  "theological_description": "The legend of Saint Christopher, though extra-biblical, became one of the most popular devotional subjects in medieval Christianity. According to the Golden Legend, the giant Reprobus sought to serve the mightiest king and was directed to carry travelers across a dangerous river. When he bore a small child who grew impossibly heavy, the child revealed himself as Christ, bearing the sins of the world. The name Christophoros ('Christ-bearer') encapsulates the vocation of every Christian: to carry Christ into the world. Konrad Witz's naturalistic Alpine setting -- one of the earliest identifiable landscapes in Western art -- grounds this hagiographic legend in the tangible Swiss world, suggesting that the encounter with Christ happens not in abstraction but in the concrete geography of daily life. The river crossing echoes baptismal imagery (Rom 6:3-4) and Israel's passage through the Jordan (Josh 3), while Christopher's staff recalls the pilgrim's rod and Moses' staff that parted the waters.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.18.5",
+      "relevance": "typological",
+      "reason": "Whoever receives one such child in my name receives me -- Christopher literally receives and bears the Christ Child."
+    },
+    {
+      "ref": "GAL.6.2",
+      "relevance": "typological",
+      "reason": "Bear one another's burdens and so fulfill the law of Christ -- Christopher's act of service is the embodiment of this exhortation."
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "allusion",
+      "reason": "Baptismal passage through water as death and resurrection, echoed in the river crossing."
+    },
+    {
+      "ref": "JOS.3.14-17",
+      "relevance": "allusion",
+      "reason": "Israel crossing the Jordan carrying the Ark of the Covenant parallels Christopher carrying the Lord through water."
+    },
+    {
+      "ref": "ISA.43.2",
+      "relevance": "allusion",
+      "reason": "When you pass through the waters I will be with you -- divine promise of presence amid peril."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "serene",
+    "laborious"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040764",
+    "title": "St. Christopher",
+    "artist": "Konrad Witz",
+    "model": "claude-opus-4-6"
+  }
+}

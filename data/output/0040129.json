@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Gregory the Great",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Poor",
+      "type": "GROUP"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    },
+    {
+      "name": "Cherub",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "St. Gregory Distributing His Worldly Goods to the Poor",
+  "tags": [
+    "charity",
+    "almsgiving",
+    "renunciation-of-wealth",
+    "care-for-the-poor",
+    "christian-virtue",
+    "hagiography",
+    "papal-holiness",
+    "mother-and-child",
+    "urban-setting",
+    "arched-composition",
+    "preparatory-drawing"
+  ],
+  "symbols": [
+    "bread and coins — material charity as expression of spiritual love for the least of these",
+    "cherub crowning the arch — divine approval and heavenly witness to acts of mercy",
+    "classical column — the institutional Church as pillar of charitable works",
+    "mother with infant — the vulnerable whom Christ identifies with Himself (Matt 25:40)",
+    "Gregory's simple garments — voluntary poverty and renunciation of worldly status"
+  ],
+  "description": "A wash-and-chalk drawing set within an arched frame crowned by a winged cherub head amid garlands. A young man in simple attire stands at center on a stone step, distributing bread or alms to a gathering of poor people. To his left, attendants carry plates and goods. To his right, a woman holding an infant reaches out to receive his charity. Behind the figures, classical columns and a distant cityscape with towers are visible under an open sky. The tonal palette is muted brown and grey, characteristic of a preparatory sketch.",
+  "theological_description": "Gregory the Great (c. 540-604), before his papacy, famously liquidated his family's vast wealth and distributed everything to the poor, converting his own Roman palace into a monastery. This act embodies the dominical command to sell what one has and give to the poor (Matt 19:21), and the early Church's practice of radical charity described in Acts 2:44-45. Gregory's almsgiving is a concrete enactment of Christ's teaching in the Parable of the Sheep and Goats (Matt 25:31-46), where service to the hungry, naked, and destitute is service rendered to Christ Himself. The Church Fathers consistently taught that wealth is held in stewardship, not ownership, and that the goods of the earth belong by right to the needy. Gregory himself wrote extensively in his Regula Pastoralis about the pastor's obligation to care for the material as well as spiritual needs of the flock. His personal example became paradigmatic for later mendicant spirituality and the theology of evangelical poverty.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.35-40",
+      "relevance": "primary",
+      "reason": "Christ's identification with the hungry, thirsty, and naked — the theological foundation for Gregory's charitable act."
+    },
+    {
+      "ref": "MAT.19.21",
+      "relevance": "primary",
+      "reason": "Jesus' command to the rich young man to sell possessions and give to the poor, which Gregory literally fulfilled."
+    },
+    {
+      "ref": "ACT.2.44-45",
+      "relevance": "typological",
+      "reason": "The early Church's communal sharing of goods, the apostolic model Gregory sought to imitate."
+    },
+    {
+      "ref": "PRO.19.17",
+      "relevance": "allusion",
+      "reason": "Whoever is generous to the poor lends to the Lord — the wisdom tradition behind Christian almsgiving."
+    },
+    {
+      "ref": "2CO.9.7",
+      "relevance": "allusion",
+      "reason": "God loves a cheerful giver — Paul's theology of generous giving reflected in Gregory's willing distribution."
+    },
+    {
+      "ref": "LUK.12.33",
+      "relevance": "allusion",
+      "reason": "Sell your possessions and give to the needy — Luke's emphasis on radical dispossession for the Kingdom."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "solemn",
+    "generous",
+    "tender"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0040129",
+    "title": "St. Gregory Distributing His Worldly Goods to the Poor",
+    "artist": "Charles-Andre van Loo",
+    "model": "claude-opus-4-6"
+  }
+}

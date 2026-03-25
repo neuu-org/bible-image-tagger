@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Saint Stephen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Lawrence",
+      "type": "PERSON"
+    },
+    {
+      "name": "Persecutors",
+      "type": "GROUP"
+    },
+    {
+      "name": "Witnesses",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Scenes from the Lives of Saints Stephen and Lawrence",
+  "tags": [
+    "stoning of stephen",
+    "martyrdom",
+    "saint lawrence",
+    "deacon",
+    "fresco cycle",
+    "chapel wall",
+    "early church",
+    "persecution",
+    "acts of the apostles",
+    "preaching",
+    "distribution of alms",
+    "trial before authorities"
+  ],
+  "symbols": [
+    "stones — instruments of martyrdom and rejection of prophetic witness",
+    "city gate — Stephen cast outside the city, paralleling Christ's crucifixion outside Jerusalem",
+    "dalmatic vestment — diaconal office of Stephen and Lawrence",
+    "architectural settings — the Church established in the world, from Jerusalem to Rome",
+    "kneeling posture — Stephen's prayer of forgiveness echoing Christ on the cross"
+  ],
+  "description": "A full view of the east wall of a chapel decorated with frescoes by Fra Angelico. The wall is divided into upper and lower registers, each containing narrative scenes framed by painted architectural elements. The upper lunette depicts a scene of stoning outside a city gate, with a figure kneeling while others hurl stones. The lower register shows an interior scene with figures before an authority figure and a scene of charitable distribution. Below the frescoes, a decorative dado with inlaid wood paneling and a wooden door complete the wall.",
+  "theological_description": "This chapel wall presents parallel lives of the first two great deacons and martyrs of the Church: Stephen (Acts 6-7) and Lawrence (d. 258). Fra Angelico's juxtaposition is theologically deliberate. Stephen, the protomartyr, was stoned to death after his defense speech before the Sanhedrin in which he saw the heavens opened and the Son of Man standing at God's right hand (Acts 7:55-56). His dying prayer, 'Lord, do not hold this sin against them' (Acts 7:60), directly echoes Christ's words from the cross (Luke 23:34), establishing the pattern of Christian martyrdom as conformity to Christ's Passion. Lawrence, the Roman deacon, continued this pattern three centuries later, distributing the Church's treasures to the poor when ordered to surrender them to the emperor. The pairing teaches that the diaconal vocation -- service to the Word (Stephen) and service to the poor (Lawrence) -- leads to the ultimate witness (martyria) of laying down one's life. The chapel setting transforms these narratives into a liturgical program: the faithful who worship here are surrounded by the communion of saints whose blood is the seed of the Church (Tertullian).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.6.8-15",
+      "relevance": "primary",
+      "reason": "Stephen's ministry of signs and wonders, and his arrest and trial before the Sanhedrin."
+    },
+    {
+      "ref": "ACT.7.54-60",
+      "relevance": "primary",
+      "reason": "Stephen's vision of the opened heavens, his stoning, and his dying prayer of forgiveness."
+    },
+    {
+      "ref": "ACT.6.1-6",
+      "relevance": "primary",
+      "reason": "The appointment of the seven deacons including Stephen, establishing the diaconal ministry."
+    },
+    {
+      "ref": "LUK.23.34",
+      "relevance": "typological",
+      "reason": "Father, forgive them -- Christ's prayer from the cross that Stephen echoes at his martyrdom."
+    },
+    {
+      "ref": "JHN.12.24",
+      "relevance": "typological",
+      "reason": "Unless a grain of wheat falls into the earth and dies, it remains alone -- the theology of martyrdom as fruitfulness."
+    },
+    {
+      "ref": "REV.6.9-11",
+      "relevance": "allusion",
+      "reason": "The souls of the martyrs under the altar crying out -- the chapel as a space honoring the martyrs' witness."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "dramatic",
+    "solemn"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0040824",
+    "title": "View of east wall of the chapel",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

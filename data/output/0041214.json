@@ -1,0 +1,110 @@
+{
+  "characters": [
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Serpent",
+      "type": "OTHER"
+    },
+    {
+      "name": "Death",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Eve, the Serpent, and Death — the consequences of the Fall",
+  "tags": [
+    "eve",
+    "serpent",
+    "death",
+    "fall-of-man",
+    "original-sin",
+    "garden-of-eden",
+    "temptation",
+    "tree-of-knowledge",
+    "mortality",
+    "nakedness",
+    "curse",
+    "genesis",
+    "allegory-of-death",
+    "corruption",
+    "memento-mori"
+  ],
+  "symbols": [
+    "Eve standing nude — primal innocence already corrupted, the nakedness that was once without shame (Gen 2:25) now exposed to death's gaze",
+    "serpent coiled around the tree — Satan, the deceiver, the 'ancient serpent' of Revelation 12:9, whose cunning brought death into the world",
+    "skeletal figure of Death — the wages of sin (Rom 6:23), the direct consequence of the Fall, mortality entering creation through disobedience",
+    "Death grasping the serpent and reaching toward Eve — the unholy alliance between temptation and mortality, sin and death as inseparable partners",
+    "tree of knowledge — the forbidden tree whose fruit brought the knowledge of good and evil at the cost of communion with God",
+    "dark background — the cosmic darkness that descended upon creation when sin entered the world, the 'domain of darkness' (Col 1:13)"
+  ],
+  "description": "A tall, narrow panel depicting three figures against a dark background. At left stands Eve, fully nude with long reddish-blonde hair, her skin pale and luminous. She gazes outward with a faint, enigmatic expression. Behind and to the right of her, a grotesque decomposing figure — Death personified as a cadaver with rotting flesh, visible ribs, and hollow features — clings to a tree trunk. Death grips the upper body of a large serpent whose coils wrap around the tree. The serpent's body is thick and dark, its head near Death's grip. Death's other arm reaches toward Eve, nearly touching her.",
+  "theological_description": "Hans Baldung's Eve, the Serpent, and Death is one of the most theologically penetrating images of the Fall ever painted. It does not merely narrate Genesis 3 but compresses its entire theological consequence into a single allegorical moment. The three figures form an infernal anti-trinity: Eve represents humanity, the Serpent represents Satan's deception, and Death represents the wages of sin. This is Genesis 3 read through Romans 5:12: 'Sin came into the world through one man, and death through sin, and so death spread to all men because all sinned.' The genius of Baldung's composition is that Death and the Serpent are physically intertwined — they are collaborators, not separate forces. The serpent tempts, and death follows immediately. This reflects James 1:15: 'When desire has conceived, it gives birth to sin, and sin when it is fully grown brings forth death.' Eve's pale beauty and calm expression amid this horror is itself theological commentary: she does not yet perceive the full consequence of what she has done. Her nakedness, once innocent (Genesis 2:25), is now exposed to the gaze of Death — a visual enactment of the moment when 'the eyes of both were opened, and they knew that they were naked' (Genesis 3:7). The forbidden fruit near Death's hand conflates the moment of temptation with its consequence, collapsing the temporal sequence into a single devastating image. God's warning to Adam finds its literal fulfillment here: 'In the day that you eat of it you shall surely die' (Genesis 2:17). Yet Christian theology reads the Fall always in light of redemption. The protoevangelium of Genesis 3:15 — 'I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head' — promises that a descendant of this very Eve will crush the serpent's head. Paul declares the resolution: 'As in Adam all die, so also in Christ shall all be made alive' (1 Corinthians 15:22). The horror of this image is real but not final; it is Good Friday without yet knowing Easter.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The temptation and Fall — the serpent deceives Eve, she eats the forbidden fruit, and sin enters the world"
+    },
+    {
+      "ref": "GEN.2.17",
+      "relevance": "primary",
+      "reason": "In the day that you eat of it you shall surely die — God's warning fulfilled in the presence of Death beside Eve"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "primary",
+      "reason": "The protoevangelium: the seed of the woman shall bruise the serpent's head — the promise of redemption latent even in this scene of catastrophe"
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "primary",
+      "reason": "Sin came into the world through one man, and death through sin — Paul's theology of original sin, the exact subject of the painting"
+    },
+    {
+      "ref": "ROM.6.23",
+      "relevance": "primary",
+      "reason": "The wages of sin is death — Death personified as the direct consequence of the Fall"
+    },
+    {
+      "ref": "JAS.1.15",
+      "relevance": "typological",
+      "reason": "Desire when it has conceived gives birth to sin, and sin when fully grown brings forth death — the serpent-Eve-Death chain visualized"
+    },
+    {
+      "ref": "1CO.15.21-22",
+      "relevance": "typological",
+      "reason": "As in Adam all die, so also in Christ shall all be made alive — the Pauline resolution that frames this Fall scene within salvation history"
+    },
+    {
+      "ref": "REV.12.9",
+      "relevance": "typological",
+      "reason": "That ancient serpent, who is called the devil and Satan, the deceiver of the whole world — identifying the Genesis serpent with the cosmic adversary"
+    },
+    {
+      "ref": "GEN.2.25",
+      "relevance": "allusion",
+      "reason": "The man and his wife were both naked and were not ashamed — the lost innocence that Eve's nakedness before Death now tragically recalls"
+    },
+    {
+      "ref": "WIS.2.24",
+      "relevance": "allusion",
+      "reason": "Through the devil's envy death entered the world — the deuterocanonical text identifying the serpent's motive as envy"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "ominous",
+    "unsettling",
+    "tragic",
+    "haunting"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0041214",
+    "title": "Eve, the Serpent and Death",
+    "artist": "Hans Baldung",
+    "model": "claude-opus-4-6"
+  }
+}

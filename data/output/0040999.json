@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "infant-jesus",
+    "saint-joseph",
+    "maternal-tenderness",
+    "incarnation",
+    "chiaroscuro"
+  ],
+  "symbols": [
+    "infant Christ — the Word made flesh, God in vulnerable human form (John 1:14)",
+    "Mary's embrace — maternal love and the Church sheltering the faithful",
+    "Joseph in shadow — the quiet guardian and protector of the Holy Family",
+    "dark background — the world's darkness into which the Light has come (John 1:5)",
+    "blue mantle of Mary — heavenly purity and her role as Theotokos"
+  ],
+  "description": "A dark, intimate composition showing the Holy Family in close embrace. The Virgin Mary, wearing a blue mantle over warm-toned robes, tenderly holds the nude infant Jesus against her cheek. The child reaches up toward her face with one hand. At the left, the elderly Saint Joseph leans forward from deep shadow, gazing at mother and child. The dramatic chiaroscuro, with figures emerging from near-total darkness, focuses all attention on the tender physical bond between Mary and the Christ Child. The brushwork is soft and warm, characteristic of Procaccini's late Mannerist style.",
+  "theological_description": "This intimate portrayal of the Holy Family embodies the central mystery of the Incarnation: the infinite God becoming a vulnerable infant held in his mother's arms. The Word who was with God and was God (John 1:1) here appears as a small child pressing his cheek to Mary's, dependent on human love and care. Mary's tender embrace fulfills the prophecy of Isaiah 7:14, the virgin who bears Emmanuel, God-with-us. Joseph's presence in the shadows recalls his role as the righteous man (Matthew 1:19) entrusted by God with the protection of the divine child, obedient to angelic instruction in dreams (Matthew 1:20-21; 2:13-14). The deep darkness surrounding the family is theologically charged: into the darkness of a fallen world, the Light of the World has come (John 8:12), first as a helpless infant in the arms of the poor. The physical intimacy of the scene affirms the full reality of Christ's humanity, countering all docetic tendencies. This is not a distant deity but a child who hungers, sleeps, and reaches for his mother's face, the scandal and glory of the Incarnation (Philippians 2:6-8).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us, the central mystery embodied in the infant Christ"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The virgin bearing a son called Emmanuel, fulfilled in Mary holding the Christ Child"
+    },
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "primary",
+      "reason": "Joseph's role as righteous guardian of Mary and the child Jesus"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "allusion",
+      "reason": "Christ emptying himself and taking the form of a servant, visible in the vulnerable infant form"
+    },
+    {
+      "ref": "JHN.8.12",
+      "relevance": "allusion",
+      "reason": "The Light of the World emerging from darkness, enacted in the chiaroscuro composition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040999",
+    "title": "Maria Mit Dem Jesuskind",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

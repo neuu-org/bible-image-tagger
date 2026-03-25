@@ -1,0 +1,50 @@
+{
+  "characters": [
+    {"name": "Adam", "type": "PERSON"},
+    {"name": "Eve", "type": "PERSON"},
+    {"name": "Abel", "type": "PERSON"}
+  ],
+  "event": "Adam and Eve Discover the Body of Abel",
+  "tags": [
+    "adam-and-eve",
+    "abel",
+    "first-murder",
+    "death",
+    "grief",
+    "lamentation",
+    "fallen-humanity",
+    "consequence-of-sin",
+    "blood-red-sun",
+    "naked-figures",
+    "primeval-tragedy"
+  ],
+  "symbols": [
+    "blood-red sun — the cosmic horror of the first human death, creation itself groaning under the curse of sin",
+    "naked bodies — the primal state of humanity stripped of innocence, now confronting death for the first time",
+    "Abel's lifeless body — the first martyr, innocent blood crying from the ground, prefiguring Christ's atoning blood",
+    "Adam's anguished posture — the father of humanity bearing the full weight of the Fall's consequences",
+    "Eve's horror — the mother of all living encountering death, the bitter fruit of the serpent's deception",
+    "dark mountains — the hostile, cursed earth that now receives innocent blood"
+  ],
+  "description": "Two nude figures — a powerfully muscled man and a stout woman — react with visceral anguish upon finding the pale, lifeless body of a young man stretched on the ground. Adam strides forward with arms flung wide, his face contorted in horror and grief. Eve sits beside the corpse, her mouth open in a scream, hands raised in despair. A large blood-red disc (the sun) glows ominously behind a dark mountainous landscape. The palette is dominated by deep greens, ochres, and fiery reds, rendered in Blake's characteristic visionary manner.",
+  "theological_description": "Blake's painting captures the moment when Adam and Eve — the first parents — discover the slain body of their son Abel, murdered by his brother Cain (Genesis 4:8). This is the first death in human history, and its horror is cosmic: death entered through Adam's sin (Romans 5:12), and now Adam himself must witness its firstfruits in his own child. The blood of Abel cries out from the ground to God (Genesis 4:10), a cry that Hebrews 12:24 contrasts with the blood of Jesus which 'speaks a better word.' Abel thus becomes the first in the line of righteous martyrs (Matthew 23:35), and his innocent death is a type of Christ's — the Lamb slain from the foundation of the world (Revelation 13:8). Eve's grief fulfills the curse of Genesis 3:16, where sorrow would multiply for the woman. The blood-red sun evokes the prophetic imagery of cosmic mourning — the sun darkened at Christ's crucifixion (Luke 23:44-45) — suggesting that all creation participates in the tragedy of sin's wages.",
+  "scripture_refs": [
+    {"ref": "GEN.4.8", "relevance": "primary", "reason": "Cain rose up against Abel his brother and killed him — the murder whose aftermath is depicted."},
+    {"ref": "GEN.4.10", "relevance": "primary", "reason": "The voice of Abel's blood crying to God from the ground — the theological center of the scene."},
+    {"ref": "ROM.5.12", "relevance": "primary", "reason": "Through one man sin entered the world, and death through sin — Adam now sees death's reality."},
+    {"ref": "HEB.12.24", "relevance": "typological", "reason": "The blood of Jesus speaks a better word than the blood of Abel — Abel's blood as type of Christ's."},
+    {"ref": "MAT.23.35", "relevance": "typological", "reason": "From the blood of righteous Abel — Jesus names Abel as the first in the line of martyrs."},
+    {"ref": "REV.13.8", "relevance": "typological", "reason": "The Lamb slain from the foundation of the world — Abel's death as a prefiguration of Christ's sacrifice."},
+    {"ref": "GEN.3.16-19", "relevance": "allusion", "reason": "The curses of the Fall now realized in grief, toil, and death within Adam and Eve's own family."},
+    {"ref": "LUK.23.44-45", "relevance": "allusion", "reason": "The sun darkened at Christ's death — the blood-red sun echoes cosmic mourning over innocent blood."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguished", "horrific", "tragic", "visceral"],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0040062",
+    "title": "The Body of Abel Found by Adam & Eve",
+    "artist": "William Blake",
+    "model": "claude-opus-4-6"
+  }
+}

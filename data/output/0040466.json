@@ -1,0 +1,98 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Old Testament righteous",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Harrowing of Hell (Christ's Descent into Limbo)",
+  "tags": [
+    "Christianity",
+    "Jesus-Christ",
+    "Limbo",
+    "Harrowing-of-Hell",
+    "Descent-into-Hell",
+    "Resurrection",
+    "liberation-of-the-just",
+    "Adam-and-Eve",
+    "salvation",
+    "victory-over-death",
+    "Paschal-mystery",
+    "Apostles-Creed",
+    "Mannerist-composition"
+  ],
+  "symbols": [
+    "banner with cross held by Christ — the victory standard of the Resurrection",
+    "Christ's luminous body at center — the glorified risen Lord, light conquering darkness",
+    "nude figures reaching upward — the Old Testament just, stripped of everything yet yearning for salvation",
+    "darkness and cavern setting — Sheol, the abode of the dead, the realm of shadows",
+    "figures at Christ's feet — Adam and Eve, the first to be redeemed by the New Adam",
+    "crowded, writhing composition — the multitude of the righteous dead awaiting liberation across millennia",
+    "dramatic contrast of light and shadow — the irruption of divine grace into the domain of death"
+  ],
+  "description": "A monumental Mannerist composition densely packed with intertwined figures. Christ stands at the center-right of the composition, luminous and muscular, holding a banner topped with a cross. He towers over a throng of nude and semi-draped figures who reach toward Him from below and from all sides. The scene is set in a dark, cavernous space. Some figures are elderly patriarchs; others include women and younger figures. At the top, demonic or shadowy forms lurk. The entire composition swirls with dramatic energy, bodies overlapping and pressing toward the light emanating from the risen Christ.",
+  "theological_description": "Bronzino's Christ in Limbo depicts the Descensus ad Inferos — Christ's descent to the abode of the dead between His crucifixion and resurrection, an article of the Apostles' Creed ('He descended into hell'). This doctrine, rooted in 1 Peter 3:18-20 and 4:6, holds that the risen Christ proclaimed liberation to the righteous dead who had awaited redemption since the dawn of humanity. The theological significance is immense: it means that salvation in Christ is retroactive, reaching back to Adam himself. The banner of the cross signifies that the instrument of death has become the instrument of victory (Col 2:15). Christ as the New Adam (Rom 5:14-19) undoes the condemnation brought by the first Adam, which is why patristic tradition consistently places Adam and Eve at Christ's feet in Harrowing scenes. The crowded, almost overwhelming composition reflects the scope of this liberation — every righteous soul from Abel to John the Baptist is freed. Ephesians 4:8-10, quoting Psalm 68, declares that Christ 'descended into the lower parts of the earth' and 'led captivity captive.' The Harrowing thus completes the Paschal mystery: cross, descent, and resurrection form one continuous act of redemption that spans not only space but all of human time.",
+  "scripture_refs": [
+    {
+      "ref": "1PE.3.18-20",
+      "relevance": "primary",
+      "reason": "Christ preached to the spirits in prison — the foundational New Testament text for the Harrowing of Hell"
+    },
+    {
+      "ref": "EPH.4.8-10",
+      "relevance": "primary",
+      "reason": "Christ descended into the lower parts of the earth and led captivity captive, giving gifts to men"
+    },
+    {
+      "ref": "COL.2.15",
+      "relevance": "primary",
+      "reason": "Christ disarmed principalities and powers, triumphing over them through the cross — depicted in His victory banner"
+    },
+    {
+      "ref": "ROM.5.14-19",
+      "relevance": "typological",
+      "reason": "Christ as the New Adam reversing the condemnation of the first Adam, who is among those liberated"
+    },
+    {
+      "ref": "1PE.4.6",
+      "relevance": "primary",
+      "reason": "The gospel was preached even to the dead, that they might live according to God in the spirit"
+    },
+    {
+      "ref": "PSA.68.18",
+      "relevance": "typological",
+      "reason": "The psalm quoted in Ephesians: ascending on high, leading captives — the Old Testament prefiguration of the Harrowing"
+    },
+    {
+      "ref": "MAT.27.52-53",
+      "relevance": "allusion",
+      "reason": "At Christ's death the tombs were opened and many bodies of saints were raised — a sign of the liberation depicted here"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "dramatic",
+    "overwhelming",
+    "ecstatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040466",
+    "title": "Christ in Limbo",
+    "artist": "Agnolo Bronzino",
+    "model": "claude-opus-4-6"
+  }
+}

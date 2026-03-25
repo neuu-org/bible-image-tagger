@@ -1,0 +1,50 @@
+{
+  "characters": [
+    {"name": "Noah", "type": "PERSON"},
+    {"name": "Noah's Family", "type": "GROUP"},
+    {"name": "Animals", "type": "OTHER"}
+  ],
+  "event": "Noah Gathers the Animals Before Entering the Ark",
+  "tags": [
+    "noahs-ark",
+    "animals-boarding",
+    "divine-light",
+    "deluge",
+    "obedience-to-god",
+    "pairs-of-animals",
+    "wooden-ark",
+    "kneeling-in-prayer",
+    "palm-trees",
+    "storm-approaching",
+    "covenant-promise",
+    "salvation-through-water"
+  ],
+  "symbols": [
+    "ark — salvation through divine provision, a type of the Church and of baptism (1 Pet 3:20-21)",
+    "beam of light from heaven — God's directive providence and favor upon Noah",
+    "Noah kneeling — righteous obedience and faith before the coming judgment",
+    "paired animals — the divine command to preserve creation, God's sovereignty over all life",
+    "gathering storm — impending judgment upon the wicked world",
+    "palm trees — the antediluvian world about to be destroyed and remade"
+  ],
+  "description": "An elderly bearded man, identified as Noah, kneels in prayer at the left foreground, bathed in a shaft of golden light breaking through dark clouds. Behind him, the massive wooden structure of the ark rises at center. A procession of animals converges toward the ark: elephants, horses, cattle, dogs, birds perched in trees, and other creatures. Several human figures, presumably Noah's family, assist in guiding the animals. The landscape features tropical palm trees and lush vegetation under a dramatic sky divided between divine light and approaching storm clouds.",
+  "theological_description": "The gathering at the ark represents one of the most theologically dense events in Genesis. Noah, the one righteous man in his generation (Gen 6:9), acts in faith on God's command to build the ark and gather the animals, 'two of every kind' (Gen 6:19-20). The beam of heavenly light upon the kneeling patriarch visualizes the divine favor (chen) that Noah found in God's eyes (Gen 6:8). The ark itself became the central Old Testament type of salvation: just as eight souls were 'saved through water,' so baptism now saves believers through the resurrection of Christ (1 Pet 3:20-21). The Church Fathers universally read the ark as a figure of the Church -- the sole vessel of salvation amid the flood of divine judgment. Hebrews 11:7 praises Noah's faith: 'By faith Noah, being warned by God concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household.' The paired animals represent God's covenantal care for all creation, anticipating the Noahic covenant (Gen 9:8-17) in which God makes peace not only with humanity but with 'every living creature.'",
+  "scripture_refs": [
+    {"ref": "GEN.6.13-22", "relevance": "primary", "reason": "God's command to Noah to build the ark and gather the animals, the direct narrative source of the scene."},
+    {"ref": "GEN.7.1-5", "relevance": "primary", "reason": "The Lord's instruction to enter the ark with pairs of animals, the moment being depicted."},
+    {"ref": "GEN.6.8-9", "relevance": "primary", "reason": "Noah found favor in God's eyes and was righteous in his generation, visualized by the divine light upon the kneeling figure."},
+    {"ref": "1PE.3.20-21", "relevance": "typological", "reason": "The ark as a type of baptism: eight persons saved through water prefigure salvation through the waters of baptism."},
+    {"ref": "HEB.11.7", "relevance": "typological", "reason": "Noah's faith in constructing the ark for events unseen, the theological virtue depicted in his prayerful posture."},
+    {"ref": "GEN.9.8-17", "relevance": "allusion", "reason": "The Noahic covenant with all living creatures, anticipated by the preservation of paired animals."},
+    {"ref": "MAT.24.37-39", "relevance": "typological", "reason": "Jesus compares His return to the days of Noah, making this scene an eschatological type of the final judgment."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "reverent", "foreboding", "hopeful"],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0040706",
+    "title": "Noah and His Ark",
+    "artist": "Charles Willson Peale",
+    "model": "claude-opus-4-6"
+  }
+}

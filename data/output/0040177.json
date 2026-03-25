@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "name": "Herod Antipas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Herodias",
+      "type": "PERSON"
+    },
+    {
+      "name": "Salome",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Courtiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Feast of Herod and the Presentation of the Baptist's Head",
+  "tags": [
+    "feast-of-herod",
+    "beheading-of-john-the-baptist",
+    "salome",
+    "herodias",
+    "martyrdom",
+    "banquet-scene",
+    "severed-head",
+    "silver-platter",
+    "courtly-sin",
+    "fruit-platter",
+    "prophetic-witness"
+  ],
+  "symbols": [
+    "severed head on a platter — the cost of prophetic truth-telling, the price of denouncing sin in high places",
+    "banquet table — worldly indulgence and the corruption of festivity into an occasion of murder",
+    "Salome presenting the head — the instrument of Herodias's vengeance, innocence corrupted by malice",
+    "Herodias gazing at the head — the vindictive satisfaction of those who silence God's prophets",
+    "Herod's crown — temporal authority misused, the ruler who fears human opinion more than divine law",
+    "fruit platter — abundance and luxury contrasted with the brutal reality of the severed head, worldly feasting juxtaposed with sacrificial death"
+  ],
+  "description": "A banquet scene set at a long table covered with a white cloth. At the left, Herod Antipas sits wearing a crown and fur-trimmed robe, looking troubled. Next to him, Herodias in an elaborate Renaissance gown gazes intently at the severed head of John the Baptist, which rests on a large silver platter at the center of the table. Behind the table, Salome — a younger woman in a richly patterned green and gold dress — stands presenting the head. A group of courtiers in colorful garments stands at the right, one bearing a large platter heaped with fruit.",
+  "theological_description": "The Feast of Herod (Mark 6:17-29; Matt 14:1-12) is the climactic martyrdom of the last and greatest of the Old Testament prophets. John the Baptist had denounced Herod Antipas's unlawful marriage to Herodias, his brother's wife — a direct violation of Levitical law (Lev 18:16). John's fearless proclamation of moral truth to political power cost him his life, making him the forerunner of Christ not only in preaching but in suffering. The Church Fathers (Chrysostom, Ambrose) drew extensive parallels: as John prepared the way for Christ's coming, so his death prepared the way for Christ's Passion. Both were killed by unjust rulers who acted against their own conscience under social pressure. Herod's rash oath and his fear of the banquet guests reveal the moral cowardice that sacrifices righteousness for reputation. The severed head on the platter has been read typologically as an anti-Eucharist: where Christ offers His body and blood for life, Herod's feast offers a prophet's head for death. Jerome noted that Herodias pierced the tongue that had condemned her sin, fulfilling the pattern of the world's hatred for God's prophets (Matt 23:37).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.17-29",
+      "relevance": "primary",
+      "reason": "Mark's detailed account of Herod's banquet, Salome's dance, and the beheading of John the Baptist."
+    },
+    {
+      "ref": "MAT.14.1-12",
+      "relevance": "primary",
+      "reason": "Matthew's parallel account of the martyrdom of John the Baptist."
+    },
+    {
+      "ref": "LEV.18.16",
+      "relevance": "primary",
+      "reason": "The Levitical prohibition against taking one's brother's wife — the law John denounced Herod for violating."
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "typological",
+      "reason": "Among those born of women there has arisen no one greater than John the Baptist — Christ's own testimony to John's prophetic stature."
+    },
+    {
+      "ref": "MAT.23.37",
+      "relevance": "typological",
+      "reason": "Jerusalem, you who kill the prophets — John's death fits the pattern of Israel's persecution of prophetic voices."
+    },
+    {
+      "ref": "LUK.1.17",
+      "relevance": "allusion",
+      "reason": "John will go before the Lord in the spirit and power of Elijah — the prophetic office that led to his martyrdom."
+    },
+    {
+      "ref": "REV.6.9-10",
+      "relevance": "allusion",
+      "reason": "The souls of those slain for the word of God cry out — the martyrs' witness continued beyond death."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "macabre",
+    "disturbing",
+    "opulent",
+    "tragic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040177",
+    "title": "Feast of Herod",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

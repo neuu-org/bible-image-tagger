@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Ursula",
+      "type": "PERSON"
+    },
+    {
+      "name": "Companions of St. Ursula",
+      "type": "GROUP"
+    },
+    {
+      "name": "Sailors",
+      "type": "GROUP"
+    },
+    {
+      "name": "Townsfolk of Basel",
+      "type": "GROUP"
+    }
+  ],
+  "event": "St. Ursula and Her Companions Landing at Basel",
+  "tags": [
+    "st-ursula",
+    "pilgrimage",
+    "martyrdom",
+    "virgin-martyrs",
+    "medieval-port",
+    "sailing-ships",
+    "hagiography",
+    "basel",
+    "reliquary-panel",
+    "eleven-thousand-virgins"
+  ],
+  "symbols": [
+    "ships — the Church as a vessel (navis ecclesiae) carrying the faithful through the waters of the world toward their heavenly destination",
+    "disembarkation — the pilgrim's arrival at each station of the spiritual journey, prefiguring the final arrival in the heavenly city",
+    "Gothic cathedral in background — the Church as the goal and guardian of the pilgrim community",
+    "multitude of companions — the communion of saints, the great cloud of witnesses (Heb 12:1)",
+    "port city — a way-station on the earthly pilgrimage, recalling Abraham's journeying by faith (Heb 11:8-10)"
+  ],
+  "description": "A panel painting set within a painted arched frame showing a busy medieval harbor scene. Multiple sailing ships with tall masts and furled sails are moored at a stone quay. A large group of women in richly colored medieval garments disembark from the vessels onto the shore, where townsfolk receive them. In the background rises a Gothic cityscape dominated by a large cathedral with towers and spires, representing Basel. The composition is densely packed with figures and architectural detail, rendered in the meticulous, jewel-like style characteristic of Flemish painting.",
+  "theological_description": "The legend of St. Ursula tells of a British princess who, along with eleven thousand virgin companions, undertook a pilgrimage to Rome before being martyred by the Huns at Cologne. While the historical details are largely legendary, the theological significance is rich. The story embodies the Christian theology of pilgrimage — the earthly journey as an image of the soul's progress toward God. Ursula's voluntary journey, knowing it would end in martyrdom, reflects Christ's own setting of His face toward Jerusalem (Luke 9:51). The virgin companions represent the Church as the Bride of Christ (Rev 19:7-8), maintaining purity and fidelity even unto death. Their landing at Basel is a way-station on the via crucis, recalling that the faithful have no lasting city here but seek the city that is to come (Heb 13:14). Hans Memling painted this scene for the Reliquary of St. Ursula in Bruges, making the artwork itself a container for sacred relics — matter sanctified by the martyrs' witness.",
+  "scripture_refs": [
+    {
+      "ref": "HEB.11.8-10",
+      "relevance": "typological",
+      "reason": "Abraham journeyed by faith to a land he did not know, seeking a city with foundations built by God — the paradigm of faithful pilgrimage."
+    },
+    {
+      "ref": "HEB.13.14",
+      "relevance": "typological",
+      "reason": "Here we have no lasting city, but we seek the city that is to come — the theology of earthly pilgrimage underlying Ursula's journey."
+    },
+    {
+      "ref": "REV.14.4",
+      "relevance": "typological",
+      "reason": "These are those who have not defiled themselves, who follow the Lamb wherever He goes — the theology of consecrated virginity."
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "Surrounded by so great a cloud of witnesses — the multitude of companions as an image of the communion of saints."
+    },
+    {
+      "ref": "LUK.9.51",
+      "relevance": "allusion",
+      "reason": "Jesus set his face toward Jerusalem — the model of deliberate, sacrificial journeying toward one's appointed destiny."
+    },
+    {
+      "ref": "REV.7.9",
+      "relevance": "allusion",
+      "reason": "A great multitude that no one could number, from every nation — the eschatological gathering prefigured by Ursula's company."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "processional",
+    "reverent",
+    "expectant"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0040169",
+    "title": "St. Ursula and her companions landing at Basel",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

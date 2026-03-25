@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Crucifixion of Jesus Christ",
+  "tags": [
+    "crucifixion",
+    "passion",
+    "loincloth",
+    "wounds",
+    "torso",
+    "suffering-body",
+    "blood",
+    "thorns-marks",
+    "atonement",
+    "corpus-christi",
+    "detail-study",
+    "late-medieval-realism"
+  ],
+  "symbols": [
+    "wounded and pustule-covered body — the full weight of human sin borne by the Suffering Servant, fulfilling Isaiah 53:4-5",
+    "loincloth — the last remnant of human dignity, echoing the stripping of Christ and His voluntary humiliation",
+    "blood streaming from above — the wound in Christ's side or hands, the blood of the new covenant (Luke 22:20)",
+    "dark background — the cosmic darkness that fell over the earth during the crucifixion (Mark 15:33)",
+    "tattered cloth — the disintegration of the old covenant, paralleling the tearing of the Temple veil"
+  ],
+  "description": "An extreme close-up detail of the torso and upper legs of a crucified figure. The body is rendered with unflinching realism: the skin is covered in countless small wounds, abrasions, and darkened pustules. A tattered, knotted white loincloth wraps around the waist. A stream of blood runs down from the upper right, presumably from a wound above the frame. The flesh is pallid and swollen, conveying immense physical suffering against a nearly black background.",
+  "theological_description": "Grunewald's harrowing detail from the Isenheim Altarpiece presents the crucified body of Christ with a medical realism unmatched in Western art, originally created for a hospital chapel treating patients with skin diseases (likely ergotism). Theologically, the ravaged flesh is a visual exegesis of Isaiah 53:4-5: 'Surely he has borne our infirmities and carried our diseases... by his wounds we are healed.' Every pustule and lesion on Christ's body represents the doctrine of vicarious atonement -- the sinless One taking upon Himself the full corruption of fallen humanity. Paul's statement in 2 Corinthians 5:21, 'God made him who had no sin to be sin for us,' finds its most visceral artistic expression here. The deliberate ugliness repudiates any merely aesthetic piety and forces the viewer to confront the scandal of the Cross (1 Cor 1:23). For the sick who gazed upon this altarpiece, it proclaimed that Christ had entered into their specific suffering -- His body bore their diseases. This is incarnational theology at its most radical: the Word made flesh (John 1:14) taken to its ultimate consequence in redemptive agony. The darkness surrounding the body recalls the three hours of supernatural darkness (Mark 15:33), signifying cosmic judgment falling upon the Lamb of God who takes away the sin of the world (John 1:29).",
+  "scripture_refs": [
+    {
+      "ref": "ISA.53.4-5",
+      "relevance": "primary",
+      "reason": "The Suffering Servant bearing our diseases and wounded for our transgressions -- the direct theological meaning of the ravaged body."
+    },
+    {
+      "ref": "MAT.27.35",
+      "relevance": "primary",
+      "reason": "The crucifixion narrative: Jesus stripped of garments and nailed to the cross."
+    },
+    {
+      "ref": "MRK.15.33",
+      "relevance": "primary",
+      "reason": "Darkness over the whole land during the crucifixion, reflected in the black background."
+    },
+    {
+      "ref": "2CO.5.21",
+      "relevance": "typological",
+      "reason": "God made Him who knew no sin to be sin for us -- the theological principle behind Christ's disease-ridden appearance."
+    },
+    {
+      "ref": "1CO.1.23",
+      "relevance": "typological",
+      "reason": "Christ crucified as a stumbling block -- Grunewald's unflinching realism embodies the scandal of the Cross."
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The Lamb of God who takes away the sin of the world, bearing that sin visibly in His flesh."
+    },
+    {
+      "ref": "GAL.3.13",
+      "relevance": "allusion",
+      "reason": "Christ became a curse for us -- the visual horror of the body communicates the reality of curse-bearing."
+    },
+    {
+      "ref": "1PE.2.24",
+      "relevance": "allusion",
+      "reason": "He bore our sins in His body on the tree, that we might die to sin and live to righteousness."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "solemn",
+    "unflinching",
+    "redemptive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040544",
+    "title": "The Crucifixion 3 (detail)",
+    "artist": "Matthias Grunewald",
+    "model": "claude-opus-4-6"
+  }
+}

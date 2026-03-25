@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jonah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Great Fish",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Jonah and the Great Fish",
+  "tags": [
+    "jonah",
+    "great-fish",
+    "sea",
+    "storm",
+    "divine-pursuit",
+    "prophetic-call",
+    "expressive-ink",
+    "abstract-figuration",
+    "swallowing",
+    "turbulence",
+    "repentance",
+    "obedience",
+    "modern-illustration",
+    "gestural-drawing"
+  ],
+  "symbols": [
+    "great fish — divine instrument of discipline and preservation, the belly of death from which God delivers",
+    "turbulent sea — chaos, rebellion, and the consequences of fleeing from God's call",
+    "swallowed figure — descent into death and darkness, prefiguring Christ's three days in the tomb",
+    "ink splashes and gestural lines — the violence and disorientation of divine intervention breaking into human defiance"
+  ],
+  "description": "An expressionistic ink drawing rendered in bold black strokes and washes on a light ground. A large, amorphous creature -- part fish, part abstract form -- dominates the right side of the composition, its gaping form suggested by sweeping dark masses. A human figure, barely discernible amid tangled gestural lines, appears caught in the creature's maw or tumbling in a turbulent sea. The left side shows agitated lines suggesting waves, wind, or a second figure. The style is raw, spontaneous, and highly abstracted, conveying violent motion and engulfment.",
+  "theological_description": "The Book of Jonah tells of a prophet who flees from God's command to preach repentance to Nineveh, only to be swallowed by a great fish and held in its belly for three days and nights before being vomited onto dry land (Jonah 1:17-2:10). Jesus himself identifies this episode as the preeminent Old Testament type of his own death and resurrection: 'For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth' (Matthew 12:40). The fish is simultaneously an instrument of judgment (consequence of Jonah's disobedience) and of mercy (preservation from drowning). Jonah's prayer from the belly of the fish (Jonah 2) echoes the psalms of lament and prefigures Christ's descent into Sheol. The expressionistic style of Bozoky's illustration captures the visceral terror and disorientation of this encounter with divine sovereignty -- the God who will not let his servant escape the mission of mercy, even to the most despised of enemies.",
+  "scripture_refs": [
+    {
+      "ref": "JON.1.17",
+      "relevance": "primary",
+      "reason": "The Lord appoints a great fish to swallow Jonah, the central event depicted in the illustration."
+    },
+    {
+      "ref": "JON.2.1-10",
+      "relevance": "primary",
+      "reason": "Jonah's prayer from inside the fish -- a psalm of distress and deliverance that structures the theological meaning of the scene."
+    },
+    {
+      "ref": "MAT.12.40",
+      "relevance": "typological",
+      "reason": "Jesus identifies Jonah's three days in the fish as the type of his own three days in the tomb -- the sign of Jonah."
+    },
+    {
+      "ref": "JON.1.1-3",
+      "relevance": "primary",
+      "reason": "God's initial call to Jonah and Jonah's flight to Tarshish, the rebellion that precipitates the swallowing."
+    },
+    {
+      "ref": "PSA.69.1-2",
+      "relevance": "allusion",
+      "reason": "The psalmist's cry as waters close over him, echoed in Jonah's prayer from the deep."
+    },
+    {
+      "ref": "LUK.11.29-30",
+      "relevance": "typological",
+      "reason": "Jesus declares that no sign will be given to this generation except the sign of Jonah, linking the prophet to the resurrection."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "turbulent",
+    "visceral",
+    "chaotic",
+    "dramatic"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0041087",
+    "title": "Babits: The book of Jonah I.",
+    "artist": "Maria Bozoky",
+    "model": "claude-opus-4-6"
+  }
+}

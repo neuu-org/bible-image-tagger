@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Ecce Homo — Christ Presented to the Crowd",
+  "tags": [
+    "ecce-homo",
+    "passion",
+    "suffering-christ",
+    "crown-of-thorns",
+    "scourging",
+    "humiliation",
+    "reed-scepter",
+    "mockery",
+    "man-of-sorrows",
+    "incarnation",
+    "vulnerability",
+    "seated-christ",
+    "pink-robe"
+  ],
+  "symbols": [
+    "crown of thorns — mockery of kingship that paradoxically proclaims Christ's true sovereignty over all creation",
+    "reed scepter — the instrument of ridicule that inverts worldly power; Christ's kingdom is not of this world (John 18:36)",
+    "rope binding the hands — Christ's voluntary submission to captivity, the almighty God permitting Himself to be bound",
+    "pink/scarlet robe draped loosely — the soldiers' purple robe of mockery (Mark 15:17), here rendered in Botero's signature palette",
+    "Christ's voluminous, fleshy body — Botero's characteristic inflated forms emphasize the full weight of incarnation: God took on real, heavy, vulnerable flesh"
+  ],
+  "description": "A voluminous, fleshy figure of Christ sits on a stone block, rendered in Botero's characteristic inflated proportions. Christ wears a crown of thorns and holds a thin reed scepter in his bound hands. A loose pink robe is draped across his lap and lower body. His round face bears a passive, resigned expression with downcast eyes. Rope binds his wrists. The background is a flat, muted gray-green. The exaggerated bodily mass gives the figure a monumental heaviness, making Christ's vulnerability and humiliation paradoxically more poignant through sheer physical presence.",
+  "theological_description": "Botero's 'Ecce Homo' takes Pilate's words -- 'Behold the man!' (John 19:5) -- and renders them with startling literalness. The inflated, heavy flesh is not caricature but incarnational theology pushed to its extreme: the Word became flesh (John 1:14), and here that flesh is overwhelmingly, unavoidably present. The Church Fathers insisted against the Docetists that Christ possessed a real human body capable of real suffering. Botero's exaggerated corporeality makes this anti-Docetist point viscerally. The crown of thorns recalls Genesis 3:18, where thorns are the curse upon the ground after the Fall; Christ wears the curse of Eden on His brow, absorbing it into Himself. The reed scepter mocks His kingship (Matthew 27:29), yet the irony runs deeper: the soldiers unwittingly enact the truth, for the beaten prisoner is indeed the King of Kings. The seated posture, despite its humiliation, evokes Isaiah's Suffering Servant 'despised and rejected by men, a man of sorrows acquainted with grief' (Isaiah 53:3). Botero's Christ does not resist or protest; He sits in massive, patient silence -- the Lamb led to slaughter who 'opened not his mouth' (Isaiah 53:7). The sheer weight of the body suggests the weight of the world's sin that He bears.",
+  "scripture_refs": [
+    {"ref": "JHN.19.4-5", "relevance": "primary", "reason": "Pilate presents Christ to the crowd with the words 'Ecce Homo' -- Behold the man -- the direct subject of the painting."},
+    {"ref": "MAT.27.27-31", "relevance": "primary", "reason": "The soldiers strip Jesus, place a scarlet robe, crown of thorns, and reed scepter on Him, and mock Him as King of the Jews."},
+    {"ref": "ISA.53.3-7", "relevance": "typological", "reason": "The Suffering Servant despised, rejected, and silent before his shearers -- the prophetic foundation of the Ecce Homo scene."},
+    {"ref": "JHN.1.14", "relevance": "typological", "reason": "The Word became flesh -- Botero's hyper-corporeal Christ is an extreme statement of incarnational theology."},
+    {"ref": "GEN.3.18", "relevance": "typological", "reason": "Thorns as the curse of the Fall, now worn by Christ who absorbs the Edenic curse into His own body."},
+    {"ref": "PHP.2.6-8", "relevance": "allusion", "reason": "Christ emptied Himself, taking the form of a servant, humbled to the point of death -- the kenosis visible in the mocked, bound figure."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["somber", "poignant", "resigned", "contemplative"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040278",
+    "title": "Ecce Homo",
+    "artist": "Fernando Botero",
+    "model": "claude-opus-4-6"
+  }
+}

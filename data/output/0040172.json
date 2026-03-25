@@ -1,0 +1,100 @@
+{
+  "characters": [
+    {
+      "name": "The Antichrist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Satan",
+      "type": "OTHER"
+    },
+    {
+      "name": "The Crowds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Dominican Friars",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Deeds of the Antichrist",
+  "tags": [
+    "antichrist",
+    "eschatology",
+    "last-days",
+    "false-prophet",
+    "deception",
+    "end-times",
+    "orvieto-cathedral",
+    "fresco",
+    "apocalypse",
+    "false-miracles",
+    "judgment",
+    "temple-of-solomon"
+  ],
+  "symbols": [
+    "Antichrist resembling Christ — the deceptive mimicry of the true Messiah, the abomination of desolation",
+    "Satan whispering behind the Antichrist — the diabolical power animating the false prophet",
+    "temple structure — the desecration of sacred space, the Antichrist claiming to be God in the temple (2 Thess 2:4)",
+    "falling bodies and chaos — the tribulation and destruction preceding the Second Coming",
+    "Dominican friars observing — the Church's vigilance against heresy and eschatological deception",
+    "angels in the sky — the heavenly host poised for the final judgment and Christ's true return"
+  ],
+  "description": "A large fresco depicting a complex, multi-figured scene of apocalyptic deception. At center-right, a figure resembling Christ stands on a pedestal before a classical temple, preaching to a large crowd — this is the Antichrist, with Satan visibly whispering in his ear from behind. Around him, scenes of false miracles, violence, and moral corruption unfold simultaneously. In the foreground, bodies lie fallen and crowds react with varying degrees of credulity and horror. To the left, Dominican friars observe the scene.",
+  "theological_description": "Signorelli's fresco in the Orvieto Cathedral illustrates the eschatological tradition of the Antichrist — the great deceiver who appears before Christ's Second Coming. The theological foundation rests on 2 Thessalonians 2:3-12, where Paul describes the 'man of lawlessness' who sets himself up in God's temple, proclaiming himself to be God, deceiving many with counterfeit miracles empowered by Satan. The Johannine epistles (1 John 2:18, 4:3) identify the spirit of antichrist as already present — anyone who denies that Jesus Christ has come in the flesh. The visual tradition draws heavily on the medieval Libellus de Antichristo by Adso of Montier-en-Der, which synthesized patristic eschatology (Irenaeus, Hippolytus, Jerome) into a coherent narrative. The Antichrist's resemblance to Christ is theologically essential: he is the ultimate counterfeit, the false shepherd (John 10:12-13) who scatters rather than gathers. The scene warns that eschatological discernment requires testing the spirits (1 John 4:1), for even the elect may be deceived (Matt 24:24). The Dominican presence reflects the Order of Preachers' role as guardians of doctrinal truth against deception.",
+  "scripture_refs": [
+    {
+      "ref": "2TH.2.3-12",
+      "relevance": "primary",
+      "reason": "Paul's prophecy of the man of lawlessness who opposes God, takes his seat in the temple, and deceives with false signs — the direct theological source."
+    },
+    {
+      "ref": "MAT.24.24",
+      "relevance": "primary",
+      "reason": "False christs and false prophets will arise and perform great signs and wonders, so as to lead astray even the elect."
+    },
+    {
+      "ref": "1JN.2.18",
+      "relevance": "primary",
+      "reason": "You have heard that antichrist is coming — John's explicit identification of the eschatological deceiver."
+    },
+    {
+      "ref": "REV.13.11-17",
+      "relevance": "typological",
+      "reason": "The beast from the earth who performs great signs and deceives the inhabitants of the earth."
+    },
+    {
+      "ref": "DAN.9.27",
+      "relevance": "typological",
+      "reason": "The abomination of desolation set up in the holy place — the Old Testament type of the Antichrist's desecration."
+    },
+    {
+      "ref": "1JN.4.1-3",
+      "relevance": "allusion",
+      "reason": "Test the spirits to see whether they are from God — the call to eschatological discernment."
+    },
+    {
+      "ref": "JHN.10.12-13",
+      "relevance": "allusion",
+      "reason": "The hired hand and the wolf — the false shepherd who scatters the flock, a type of the Antichrist."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ominous",
+    "chaotic",
+    "terrifying",
+    "apocalyptic"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0040172",
+    "title": "The Deeds of the Antichrist",
+    "artist": "Luca Signorelli",
+    "model": "claude-opus-4-6"
+  }
+}

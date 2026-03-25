@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Resurrection of Jesus Christ",
+  "tags": [
+    "resurrection",
+    "risen-christ",
+    "easter",
+    "empty-tomb",
+    "angel-at-tomb",
+    "glory",
+    "divine-light",
+    "rolled-stone",
+    "grave-clothes",
+    "triumph-over-death",
+    "new-creation"
+  ],
+  "symbols": [
+    "risen body of Christ — the firstfruits of the resurrection (1 Corinthians 15:20), glorified yet still bearing the marks of incarnation",
+    "radiant light from above — the glory of God and the dawn of the new creation, the light shining in the darkness (John 1:5)",
+    "rolled-away stone — the removal of the barrier of death, the unsealing of the tomb by divine power",
+    "angel in red and white — the heavenly messenger announcing the resurrection, dressed in the colors of divine love and purity",
+    "white burial cloth — the grave clothes left behind, proof that death could not hold Him (Acts 2:24)",
+    "upward gaze of Christ — the restored communion with the Father and the ascension that will follow"
+  ],
+  "description": "A dynamic composition showing the risen Christ stepping forward from the tomb area, His muscular body draped in flowing white and blue-gray cloth. His long hair streams behind Him and His face is turned upward toward a burst of brilliant golden light descending from the upper right. Beside Him, an angel in red robes with wings visible reaches out, as though rolling back the large brownish stone of the tomb. The background is dark and atmospheric, with the divine radiance creating a powerful contrast. The overall impression is of explosive, triumphant movement.",
+  "theological_description": "Benjamin West's painting captures the supreme moment of Christian faith: the bodily resurrection of Jesus Christ from the dead. This event is the cornerstone of the entire New Testament proclamation -- Paul declares that 'if Christ has not been raised, your faith is futile' (1 Corinthians 15:17). The risen Christ emerges not as a ghost or spirit but in a glorified physical body, fulfilling His own prophecy that He would destroy the temple of His body and raise it in three days (John 2:19-21). The angel rolling back the stone (Matthew 28:2) does not open the tomb to let Christ out -- the risen Lord needs no door -- but to reveal the empty tomb as evidence to the world. The burst of heavenly light signifies the dawn of the new creation: as God said 'Let there be light' at the first creation (Genesis 1:3), so the resurrection inaugurates a new heavens and new earth. Christ's upward gaze anticipates His ascension and session at the Father's right hand (Hebrews 1:3). The discarded grave clothes recall John 20:6-7, where Peter finds the linen wrappings lying in the empty tomb -- orderly, not disturbed by theft, testifying to a sovereign departure from death. This is the event by which death is 'swallowed up in victory' (1 Corinthians 15:54), the fulfillment of Hosea 13:14: 'O Death, where is your sting?'",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.1-6",
+      "relevance": "primary",
+      "reason": "The angel rolling back the stone and announcing Christ's resurrection -- the painting's direct narrative source."
+    },
+    {
+      "ref": "1CO.15.20",
+      "relevance": "primary",
+      "reason": "Christ as the firstfruits of the resurrection, the theological center of the depicted event."
+    },
+    {
+      "ref": "JHN.2.19-21",
+      "relevance": "primary",
+      "reason": "Jesus's prophecy of His own resurrection: 'Destroy this temple and in three days I will raise it up.'"
+    },
+    {
+      "ref": "JHN.20.6-7",
+      "relevance": "primary",
+      "reason": "Peter finding the grave clothes in the empty tomb, evidence of the resurrection rather than theft."
+    },
+    {
+      "ref": "1CO.15.54-55",
+      "relevance": "typological",
+      "reason": "Death swallowed up in victory -- the triumphant mood of the painting embodies this proclamation."
+    },
+    {
+      "ref": "HEB.1.3",
+      "relevance": "typological",
+      "reason": "Christ the radiance of God's glory, seated at the right hand -- the glory and upward movement depicted here."
+    },
+    {
+      "ref": "ACT.2.24",
+      "relevance": "allusion",
+      "reason": "God raised Him up, loosing the pangs of death, because it was not possible for Him to be held by it."
+    },
+    {
+      "ref": "GEN.1.3",
+      "relevance": "allusion",
+      "reason": "Let there be light -- the resurrection as new creation, echoed in the brilliant divine radiance."
+    },
+    {
+      "ref": "HOS.13.14",
+      "relevance": "allusion",
+      "reason": "O Death, where are your plagues? O Sheol, where is your sting? -- the prophetic background to Christ's victory."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "radiant",
+    "majestic",
+    "awe-inspiring"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040633",
+    "title": "The Resurrection",
+    "artist": "Benjamin West",
+    "model": "claude-opus-4-6"
+  }
+}

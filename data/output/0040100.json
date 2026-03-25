@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Angel", "type": "ANGEL"},
+    {"name": "Fallen Figures", "type": "GROUP"}
+  ],
+  "event": "Angel in the Dust Cloud",
+  "tags": [
+    "angel",
+    "dust-cloud",
+    "whirlwind",
+    "divine-messenger",
+    "fallen-humanity",
+    "wheat-field",
+    "judgment",
+    "spiritual-warfare",
+    "wind",
+    "transcendence",
+    "dissolution"
+  ],
+  "symbols": [
+    "angel rising above the dust — divine transcendence over mortal decay, the spiritual realm prevailing over the flesh",
+    "dust cloud with dissolving figures — humanity returning to dust (Genesis 3:19), the transience of mortal life",
+    "wheat field — the harvest of the earth, the separation of wheat and chaff at the final judgment",
+    "dark horizon line — the boundary between earth and heaven, the temporal and the eternal",
+    "white garment of the angel — purity and heavenly glory untouched by earthly corruption"
+  ],
+  "description": "A luminous winged angel in a white garment rises from a swirling cloud of golden dust that engulfs several human figures in various states of dissolution. The figures tumble and fragment as they are swept along the ground of a vast wheat field stretching to a dark tree-lined horizon. The angel, with flowing hair and outstretched wings, appears to ascend above the chaos, glowing with an ethereal light. The sky is overcast and heavy. The painting has a dreamlike, symbolist quality with muted golds, whites, and browns.",
+  "theological_description": "Malczewski's visionary painting evokes the biblical tension between flesh and spirit, mortality and transcendence. The dissolving human figures swept through the wheat field recall Genesis 3:19 — 'you are dust, and to dust you shall return' — and Psalm 103:15-16, where human life is likened to grass that flourishes briefly before the wind passes over it. The angel ascending from this mortal dissolution embodies the promise that the spiritual endures beyond the physical. The wheat field is charged with eschatological meaning: Christ's parable of the wheat and tares (Matthew 13:24-30) culminates in the harvest where angels are sent to separate the righteous from the wicked. The angel here may represent the reaper-angel of Revelation 14:15-16, sent to harvest the earth. The composition also resonates with Ezekiel's valley of dry bones (Ezekiel 37:1-14), where the Spirit (ruach, also 'wind') breathes life into what was dead — suggesting that from the dust of human mortality, God's Spirit raises up new life.",
+  "scripture_refs": [
+    {"ref": "GEN.3.19", "relevance": "primary", "reason": "You are dust and to dust you shall return — the dissolving figures embody humanity's mortal sentence."},
+    {"ref": "PSA.103.15-16", "relevance": "primary", "reason": "As for man, his days are like grass; the wind passes over it and it is gone — the transience depicted in the dust cloud."},
+    {"ref": "MAT.13.39-41", "relevance": "typological", "reason": "The harvest is the end of the age, and the reapers are angels — the wheat field and angel as eschatological symbols."},
+    {"ref": "REV.14.15-16", "relevance": "typological", "reason": "The angel with the sickle sent to reap the harvest of the earth — the angel rising above the field."},
+    {"ref": "EZK.37.1-14", "relevance": "typological", "reason": "The valley of dry bones where God's Spirit restores life — wind, dust, and divine presence united."},
+    {"ref": "2CO.4.16-18", "relevance": "allusion", "reason": "The outer self wastes away while the inner is renewed — the contrast between dissolving flesh and radiant angel."},
+    {"ref": "1CO.15.42-44", "relevance": "allusion", "reason": "What is sown perishable is raised imperishable — the resurrection hope amid mortal dissolution."}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["dreamlike", "melancholic", "transcendent", "ethereal"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0040100",
+    "title": "In the dust cloud",
+    "artist": "Jacek Malczewski",
+    "model": "claude-opus-4-6"
+  }
+}

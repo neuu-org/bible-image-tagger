@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Travelers / Franks",
+      "type": "GROUP"
+    },
+    {
+      "name": "Bedouin Guides",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Encampment at the Foot of Mount Sinai",
+  "tags": [
+    "mount-sinai",
+    "desert-encampment",
+    "camels",
+    "tents",
+    "biblical-landscape",
+    "holy-mountain",
+    "wilderness",
+    "pilgrimage",
+    "orientalism",
+    "bedouin",
+    "sinai-peninsula",
+    "19th-century-travel"
+  ],
+  "symbols": [
+    "Mount Sinai — the mountain of God where the Law was given, the locus of divine revelation (Exod 19-20)",
+    "tents in the desert — echoes of Israel's wilderness encampment at the foot of Sinai",
+    "camels — the age-old mode of desert travel, continuity with biblical-era journeying",
+    "barren rocky landscape — the wilderness of testing and divine encounter"
+  ],
+  "description": "A detailed watercolor panorama depicts a Western ('Frank') encampment in the desert at the base of towering reddish-brown rocky mountains identified as Mount Sinai. A large white tent canopy provides shade at right, under which a figure reclines. In the center foreground, a tall figure in red robes and white turban stands prominently. Camels, both resting and standing, are scattered across the scene. Various figures in Middle Eastern and European dress attend to camp activities. The desert floor is strewn with supplies, rugs, and personal effects.",
+  "theological_description": "Mount Sinai (also called Horeb) is among the most theologically significant locations in Scripture. It is the mountain where God appeared to Moses in the burning bush (Exod 3:1-6), where the Law was given amid thunder, lightning, and the voice of God (Exod 19:16-20), and where Elijah encountered God not in wind, earthquake, or fire, but in a still small voice (1 Kgs 19:11-13). This 19th-century orientalist depiction shows the enduring power of the site to attract pilgrims and travelers. The encampment at the foot of the mountain mirrors Israel's own encampment: 'Israel camped there in front of the mountain' (Exod 19:2). Paul would later use Sinai as a typological figure: Mount Sinai represents the old covenant of law, while the heavenly Jerusalem represents the new covenant of grace (Gal 4:24-26). The barren wilderness setting itself is theologically significant -- it is in the desert, stripped of worldly comfort, that God most intimately reveals Himself to His people.",
+  "scripture_refs": [
+    {
+      "ref": "EXO.19.1-2",
+      "relevance": "primary",
+      "reason": "Israel's arrival and encampment at the foot of Mount Sinai, the direct biblical parallel to the depicted scene."
+    },
+    {
+      "ref": "EXO.19.16-20",
+      "relevance": "primary",
+      "reason": "The theophany on Sinai with thunder, lightning, and the descent of God -- the defining event that makes this mountain sacred."
+    },
+    {
+      "ref": "EXO.3.1-6",
+      "relevance": "primary",
+      "reason": "Moses and the burning bush at Horeb/Sinai, the first theophany at this mountain."
+    },
+    {
+      "ref": "1KI.19.11-13",
+      "relevance": "allusion",
+      "reason": "Elijah's encounter with God at Horeb in the still small voice, another foundational Sinai theophany."
+    },
+    {
+      "ref": "GAL.4.24-26",
+      "relevance": "typological",
+      "reason": "Paul's allegory of Sinai as the old covenant, contrasted with the heavenly Jerusalem of the new."
+    },
+    {
+      "ref": "DEU.4.10-13",
+      "relevance": "allusion",
+      "reason": "Moses' recollection of the day Israel stood before the Lord at Horeb and heard the voice from the fire."
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "contemplative",
+    "expansive",
+    "warm",
+    "tranquil"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0040747",
+    "title": "A Frank Encampment in the Desert of Mount Sinai",
+    "artist": "John Frederick Lewis",
+    "model": "claude-opus-4-6"
+  }
+}

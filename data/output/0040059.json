@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child Enthroned with Saints (Sacra Conversazione)",
+  "tags": [
+    "madonna-and-child",
+    "sacra-conversazione",
+    "enthroned-virgin",
+    "saints",
+    "holy-family",
+    "devotional",
+    "infant-christ",
+    "throne",
+    "intercession"
+  ],
+  "symbols": [
+    "elevated throne — the exaltation of the Virgin as Theotokos and Queen of Heaven, seat of Wisdom",
+    "Christ Child — the Incarnation of the Logos, God made flesh held by His human mother",
+    "saints flanking the throne — the communion of saints and the Church's intercessory fellowship around Christ",
+    "staff and attributes — marks of apostolic or pastoral authority granted by Christ to His followers",
+    "arched composition — evokes an apse or church niche, framing the scene as liturgical and sacramental"
+  ],
+  "description": "The Virgin Mary, wearing a white headcovering and dark mantle, sits elevated on a stone pedestal, cradling the nude Christ Child in her arms. Two male saints flank her below: one on the left wears rich red-orange robes and holds a tall staff, while the other on the right, muscular and partially draped, gestures toward the central group. The background shows a soft landscape under an overcast sky. The composition is framed within an arched format typical of Renaissance altarpieces.",
+  "theological_description": "The Sacra Conversazione — the 'holy conversation' — places the Madonna and Child in timeless dialogue with saints, expressing the doctrine of the Communion of Saints. Mary's elevated position reflects her role as Theotokos (God-bearer), affirmed at the Council of Ephesus (431 AD), and as the new Ark of the Covenant who carries within herself the presence of God (Luke 1:35). The Christ Child on her lap is the Incarnate Word (John 1:14), the visible image of the invisible God (Colossians 1:15). The flanking saints represent the Church Triumphant gathered around their Lord, modeling faithful discipleship and intercession. This composition embodies the theology of Hebrews 12:1 — the great cloud of witnesses surrounding the faithful — and visually proclaims the eschatological communion where all the redeemed are united in Christ.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit overshadowing Mary, making her the Mother of the Son of God — the Incarnation at the heart of this image."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the Christ Child as the visible Incarnation."
+    },
+    {
+      "ref": "COL.1.15",
+      "relevance": "typological",
+      "reason": "Christ as the image of the invisible God, the firstborn over all creation — the theological ground of His depiction."
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "typological",
+      "reason": "The great cloud of witnesses surrounding the faithful, visually enacted by the saints flanking Christ."
+    },
+    {
+      "ref": "REV.12.1-5",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun who gives birth to the male child — Marian-ecclesial typology."
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations shall call me blessed — the exaltation of Mary expressed in her elevated throne."
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "serene",
+    "majestic"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0040059",
+    "title": "Madonna and Child with Saints",
+    "artist": "Jacopo Bassano",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saint Lawrence",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Cyriakus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Assumption and Coronation of the Virgin Mary",
+  "tags": [
+    "assumption-of-mary",
+    "coronation-of-the-virgin",
+    "altarpiece",
+    "triptych",
+    "trinity",
+    "apostles",
+    "cherubim",
+    "donor-portraits",
+    "saints",
+    "empty-tomb",
+    "heavenly-glory"
+  ],
+  "symbols": [
+    "crown — royal dignity of the Virgin as Queen of Heaven",
+    "empty tomb — bodily assumption of Mary, echoing Christ's Resurrection",
+    "cherubim — heavenly court attending the glorified Virgin",
+    "Trinity crowning Mary — divine affirmation of her unique role in salvation history",
+    "donor portraits — earthly devotion seeking heavenly intercession"
+  ],
+  "description": "A large multi-panel altarpiece. The central panel shows the Assumption and Coronation of the Virgin: Mary, in a dark blue mantle, is elevated heavenward surrounded by cherubim. Above her, Christ and God the Father, both in red robes, place a crown on her head while the Holy Spirit hovers as a dove. Below, the apostles gather around Mary's empty tomb, gesturing in astonishment. The left wing depicts the martyrdom of Saint Lawrence, and the right wing shows a scene with Saint Cyriakus. Two small panels at the bottom contain kneeling donor portraits with heraldic shields.",
+  "theological_description": "The Heller Altarpiece presents one of the most theologically dense compositions of Northern Renaissance art. The central scene unites two Marian doctrines: the Assumption (Mary's bodily taking-up into heaven) and the Coronation (her enthronement as Queen of Heaven). The empty tomb below directly parallels the empty tomb of Christ (Matthew 28:6), suggesting that Mary's assumption is the first fruit of her Son's Resurrection (1 Corinthians 15:20-23). The Trinity crowning Mary together affirms her unique place in the economy of salvation; she is the new Ark of the Covenant (Revelation 11:19-12:1), the woman clothed with the sun. The astonished apostles echo the witnesses at Christ's own Ascension (Acts 1:9-11). The flanking saints, Lawrence and Cyriakus, represent the Church Militant that follows Mary's path of fidelity through suffering to glory. The composition moves the eye from earthly devotion (the donors) upward through apostolic witness to heavenly coronation, enacting the entire pilgrim journey of the Church from earth to the beatific vision (Revelation 4-5).",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman clothed with the sun and crowned with stars is the primary scriptural basis for the Coronation of the Virgin"
+    },
+    {
+      "ref": "1COR.15.20-23",
+      "relevance": "typological",
+      "reason": "Mary's bodily assumption understood as the first fruit of Christ's Resurrection applied to a believer"
+    },
+    {
+      "ref": "ACT.1.9-11",
+      "relevance": "typological",
+      "reason": "The apostles gazing upward at the assumed Virgin parallels their witness of Christ's Ascension"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat theme of the lowly handmaid exalted by the Almighty is visually fulfilled in the Coronation"
+    },
+    {
+      "ref": "REV.11.19",
+      "relevance": "allusion",
+      "reason": "The Ark of the Covenant revealed in heaven, traditionally linked to Mary as the new Ark"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "glorious",
+    "reverent",
+    "majestic",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040922",
+    "title": "Heller Altarpiece",
+    "artist": "Matthias Grunewald",
+    "model": "claude-opus-4-6"
+  }
+}

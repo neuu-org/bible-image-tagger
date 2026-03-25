@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna with Child",
+  "tags": [
+    "virgin and child",
+    "madonna",
+    "infant jesus",
+    "maternal tenderness",
+    "incarnation",
+    "red dress",
+    "blue mantle",
+    "landscape background",
+    "blessing gesture",
+    "necklace",
+    "devotional image"
+  ],
+  "symbols": [
+    "red dress — humanity, the blood of the Passion, and Mary's share in her Son's suffering",
+    "blue mantle — heavenly grace, Mary's role as Queen of Heaven",
+    "standing Child — the active, sovereign Christ who comes not as passive infant but as Lord",
+    "blessing gesture — Christ's priestly and kingly office exercised even in infancy",
+    "coral necklace — traditional apotropaic symbol and allusion to Christ's future blood-shedding",
+    "classical columns — the new temple of the Incarnation, Christ as the pillar of the Church",
+    "distant landscape — the created world over which the Incarnate Word holds dominion"
+  ],
+  "description": "The Virgin Mary, depicted as a young woman with long golden-brown hair, sits behind a stone parapet upon which the Christ Child stands. She wears a red dress with a jeweled brooch at the neckline and a deep blue mantle. Her right hand steadies the Child, who stands upright, nude save for a thin white cloth, wearing a coral necklace and raising his right hand. The background features classical architectural columns framing views of a distant landscape with trees and sky on the left, and an ornate candelabrum on the right.",
+  "theological_description": "The Madonna and Child is the central devotional image of the Incarnation: God made flesh, born of a woman (Gal 4:4). Perugino presents the theological paradox with quiet grace -- the infinite Creator of the universe is held by a human mother, dependent on her care yet simultaneously the one who sustains all things (Col 1:17). Mary's gentle supporting hand embodies the Theotokos doctrine affirmed at Ephesus (431): she is truly the God-bearer, not merely the bearer of Christ's human nature. The Child's standing posture and blessing gesture communicate His active lordship; even as an infant He exercises the priestly office, prefiguring the blessing He will extend from the cross. The coral necklace, a common motif in Italian Renaissance Madonnas, was traditionally understood as a protective amulet, but its blood-red color also foreshadows the Passion -- the precious blood that would be shed for the redemption of the world (1 Pet 1:18-19). The classical architecture frames Mary as the new Ark of the Covenant (Luke 1:35, cf. Exod 40:34-35), the living temple in which God chose to dwell among His people. The serene landscape beyond speaks of the restored creation that the Incarnation initiates.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus, the foundational event that the Madonna and Child image celebrates."
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "When the fullness of time had come, God sent forth His Son, born of a woman -- the theology of the Incarnation."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The virgin shall conceive and bear a son, Immanuel -- the prophetic basis for the image."
+    },
+    {
+      "ref": "COL.1.15-17",
+      "relevance": "typological",
+      "reason": "He is the image of the invisible God, in Him all things hold together -- the infant who sustains creation."
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "typological",
+      "reason": "The Holy Spirit will come upon you and the power of the Most High will overshadow you -- Mary as the new Ark overshadowed by divine presence."
+    },
+    {
+      "ref": "1PE.1.18-19",
+      "relevance": "allusion",
+      "reason": "Redeemed with the precious blood of Christ -- the coral necklace as foreshadowing of the Passion."
+    },
+    {
+      "ref": "EXO.40.34-35",
+      "relevance": "allusion",
+      "reason": "The glory of the Lord filled the tabernacle -- Mary as the living tabernacle of the divine presence."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "serene",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040899",
+    "title": "Madonna with Child",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

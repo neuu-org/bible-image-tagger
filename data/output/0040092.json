@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Daughters of the Philistines", "type": "GROUP"},
+    {"name": "Idol", "type": "OTHER"}
+  ],
+  "event": "Pagan Ritual of the Daughters of the Philistines",
+  "tags": [
+    "philistines",
+    "pagan-worship",
+    "idolatry",
+    "ritual-dance",
+    "women",
+    "idol",
+    "night-ceremony",
+    "golden-calf-echo",
+    "foreign-gods",
+    "temptation",
+    "old-testament-paganism"
+  ],
+  "symbols": [
+    "golden idol on pedestal — the false gods of the nations, the abomination set up in opposition to the true God of Israel",
+    "dancing women — the seductive power of pagan worship that lured Israel into apostasy throughout the period of the Judges",
+    "night setting — spiritual darkness and the blindness of idolatry",
+    "raised arms — ecstatic pagan devotion contrasted with the ordered worship commanded by God",
+    "solitary robed figure — possibly a priestess or observer, the institutional structure of false religion"
+  ],
+  "description": "A group of women in vibrant, loosely draped garments dance and prostrate themselves before a golden idol set on a raised pedestal. The scene is bathed in warm amber and ochre tones, with a deep blue-violet night sky behind a fence or palisade. Several women raise their arms in ecstasy, others kneel or bow low. A solitary robed figure stands apart at the right edge. The style is boldly colorful and flat, with strong outlines in a Post-Impressionist manner.",
+  "theological_description": "This image depicts the cultic worship of the Philistine women, evoking the pervasive idolatry that Israel was commanded to reject. The Philistines worshipped Dagon (Judges 16:23; 1 Samuel 5:1-7) and Baal-Zebub (2 Kings 1:2), and their women were instruments of temptation — Samson's entanglement with Philistine women led to his downfall (Judges 14-16). The scene echoes the golden calf apostasy (Exodus 32:6, 19) where Israel danced before an idol, and the Moabite women at Baal-Peor who seduced Israel into pagan worship (Numbers 25:1-3). Throughout the Deuteronomistic history, the 'daughters of foreign nations' symbolize the danger of religious syncretism that provokes divine jealousy (Deuteronomy 7:3-4). The prophets consistently use the imagery of idolatrous worship as spiritual adultery (Hosea 2; Ezekiel 16), a betrayal of the covenant marriage between God and His people.",
+  "scripture_refs": [
+    {"ref": "JDG.16.23", "relevance": "primary", "reason": "The Philistines gathered to offer sacrifice to Dagon their god — the cultic context of Philistine worship."},
+    {"ref": "1SA.5.1-7", "relevance": "primary", "reason": "The idol Dagon falling before the Ark of the Covenant, demonstrating the impotence of Philistine gods."},
+    {"ref": "EXO.32.6", "relevance": "typological", "reason": "The people sat down to eat and drink and rose up to play — idolatrous revelry echoed in this scene."},
+    {"ref": "NUM.25.1-3", "relevance": "typological", "reason": "Israel joined in worship of Baal-Peor through the daughters of Moab — foreign women and idolatry intertwined."},
+    {"ref": "DEU.7.3-4", "relevance": "typological", "reason": "The prohibition against intermarriage with pagan nations lest they turn Israel's heart to other gods."},
+    {"ref": "JDG.14.1-3", "relevance": "allusion", "reason": "Samson's desire for a Philistine woman, beginning the pattern of entanglement with Philistine culture."},
+    {"ref": "EZK.16.15-22", "relevance": "allusion", "reason": "Israel's harlotry with idols, the prophetic metaphor for exactly this kind of pagan worship."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["ecstatic", "ominous", "sensuous", "dark"],
+  "period": "Conquest",
+  "_meta": {
+    "key": "0040092",
+    "title": "The Daughters of Pelichtim",
+    "artist": "Paul Serusier",
+    "model": "claude-opus-4-6"
+  }
+}

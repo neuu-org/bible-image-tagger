@@ -1,0 +1,105 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldier",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Ecce Homo",
+  "tags": [
+    "passion of christ",
+    "ecce homo",
+    "crown of thorns",
+    "red robe",
+    "mockery",
+    "suffering servant",
+    "pilate",
+    "presentation to the crowd",
+    "scourging aftermath",
+    "divine humiliation",
+    "sorrowful mother",
+    "bound hands"
+  ],
+  "symbols": [
+    "crown of thorns — mockery of kingship that paradoxically reveals true divine sovereignty",
+    "scarlet robe — imperial purple twisted into ridicule, yet signifying Christ's true royal dignity",
+    "bound or exposed body — the Suffering Servant stripped and afflicted (Isa 53)",
+    "Pilate's gesture — worldly authority presenting divine innocence to a guilty world",
+    "mourning woman below — the Mater Dolorosa, sharing in her Son's suffering",
+    "putti/angels — heavenly witnesses to the cosmic significance of the Passion"
+  ],
+  "description": "Christ sits nearly nude on a stone block, crowned with thorns, a red cloak draped loosely over his lap and shoulder. His body shows signs of scourging. Behind him, a robed elder figure -- likely Pilate -- extends a cloth or garment over Christ while a soldier assists. Below in the foreground, a sorrowful blue-robed woman (the Virgin Mary) reclines in grief, and small angelic figures or putti attend nearby. The background opens to a distant landscape under a partly cloudy sky. The composition is vertical and tightly compressed, with rich Mannerist coloring.",
+  "theological_description": "The Ecce Homo ('Behold the Man,' John 19:5) is the moment when Pontius Pilate presents the scourged and mocked Jesus to the Jerusalem crowd, unwittingly proclaiming a profound christological truth: behold the true Man, the Second Adam (1 Cor 15:45), in whom divinity is veiled under the most abject human suffering. The crown of thorns inverts the curse of Genesis 3:18 ('thorns and thistles shall the ground bring forth'), as Christ bears creation's penalty upon His own head. The scarlet robe (Matt 27:28) mocks His kingship while fulfilling Isaiah's vision of one who comes from Edom with garments stained crimson (Isa 63:1-2). Pilate's presentation is deeply ironic: the judge of the world is judged, the King of Kings is mocked as a pretender. Spranger's Mannerist treatment, with its muscular yet vulnerable Christ, emphasizes the paradox of divine power made perfect in weakness (2 Cor 12:9). The Virgin below participates in the Passion as the Mater Dolorosa, fulfilling Simeon's prophecy that a sword would pierce her soul (Luke 2:35).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.4-5",
+      "relevance": "primary",
+      "reason": "Pilate brings Jesus out and declares 'Ecce Homo' -- the direct narrative source of the scene."
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "primary",
+      "reason": "He was despised and rejected, a man of sorrows -- the Suffering Servant prophecy embodied in the scourged Christ."
+    },
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "primary",
+      "reason": "The soldiers strip Jesus, put a scarlet robe and crown of thorns on Him, and mock Him as King of the Jews."
+    },
+    {
+      "ref": "GEN.3.18",
+      "relevance": "typological",
+      "reason": "Thorns and thistles as the curse of the Fall, now borne by the Second Adam on His crown."
+    },
+    {
+      "ref": "ISA.63.1-2",
+      "relevance": "typological",
+      "reason": "Who is this coming from Edom with garments stained crimson -- the scarlet robe as prophetic fulfillment."
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy that a sword will pierce Mary's soul, fulfilled in her grief at the Passion."
+    },
+    {
+      "ref": "2CO.12.9",
+      "relevance": "allusion",
+      "reason": "My power is made perfect in weakness -- the paradox of divine omnipotence in humiliation."
+    },
+    {
+      "ref": "1CO.15.45",
+      "relevance": "allusion",
+      "reason": "The last Adam became a life-giving spirit -- Christ as the true Man whom Pilate unwittingly reveals."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "solemn",
+    "dramatic",
+    "sorrowful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040807",
+    "title": "Ecce Homo",
+    "artist": "Bartholomeus Spranger",
+    "model": "claude-opus-4-6"
+  }
+}

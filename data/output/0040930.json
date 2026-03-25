@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints and righteous",
+      "type": "GROUP"
+    },
+    {
+      "name": "Damned souls",
+      "type": "GROUP"
+    },
+    {
+      "name": "Demons",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Last Judgment",
+  "tags": [
+    "last-judgment",
+    "second-coming",
+    "heaven-and-hell",
+    "resurrection-of-the-dead",
+    "separation-of-sheep-and-goats",
+    "mural-sketch",
+    "orthodox-iconography",
+    "river-of-fire",
+    "book-of-life",
+    "mandorla",
+    "sea-giving-up-dead"
+  ],
+  "symbols": [
+    "mandorla of glory — divine majesty of Christ the Judge",
+    "river of fire — eternal punishment flowing from the throne of judgment (Daniel 7:10)",
+    "sea giving up its dead — universal resurrection (Revelation 20:13)",
+    "golden throne — the Great White Throne of judgment (Revelation 20:11)",
+    "angels with trumpets — the angelic heralds of the Second Coming (Matthew 24:31)",
+    "palm branches — victory and martyrdom of the saints"
+  ],
+  "description": "A richly colored sketch for a church mural depicting the Last Judgment in Byzantine-influenced style. At the upper center, Christ sits enthroned in a golden mandorla, flanked by the Virgin Mary and saints. Angels blow trumpets and bear instruments of the Passion. Below, the dead rise from land and sea. To the left, the righteous ascend toward golden gates; to the right, a river of fire descends, consuming the damned among demonic figures. The composition is dense, highly decorative, and organized in registers typical of Orthodox iconographic tradition. Rich blues, golds, and reds dominate.",
+  "theological_description": "Bilibin's sketch presents the Last Judgment according to the Byzantine liturgical tradition, drawing on the full eschatological vision of Scripture. Christ enthroned as Judge fulfills the prophecy of Daniel 7:9-14, where the Ancient of Days takes His seat and the books are opened. The separation of righteous and damned enacts Matthew 25:31-46, the parable of the sheep and goats. The sea giving up its dead follows Revelation 20:13 literally. The river of fire flowing from beneath the throne echoes Daniel 7:10, where a stream of fire issues from before the divine presence. The angels sounding trumpets fulfill 1 Thessalonians 4:16 and Matthew 24:31, heralding the universal resurrection. The entire composition is a visual catechesis on the Four Last Things (death, judgment, heaven, hell), presenting the Christian hope that the righteous will enter the New Jerusalem (Revelation 21:1-4) while affirming the reality of divine justice. The golden gates at left recall the pearly gates of Revelation 21:21, the final destination of those written in the Book of Life.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.31-46",
+      "relevance": "primary",
+      "reason": "The separation of the righteous from the damned at the throne of the Son of Man is the core narrative depicted"
+    },
+    {
+      "ref": "REV.20.11-15",
+      "relevance": "primary",
+      "reason": "The Great White Throne judgment, the opening of books, and the lake of fire are all visually represented"
+    },
+    {
+      "ref": "DAN.7.9-14",
+      "relevance": "primary",
+      "reason": "Christ enthroned in glory with a river of fire issuing forth follows the vision of the Ancient of Days"
+    },
+    {
+      "ref": "1TH.4.16-17",
+      "relevance": "allusion",
+      "reason": "Angels sounding trumpets and the dead rising correspond to the Pauline description of the Second Coming"
+    },
+    {
+      "ref": "REV.21.1-4",
+      "relevance": "allusion",
+      "reason": "The golden gates receiving the righteous anticipate the New Jerusalem descending from heaven"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "apocalyptic",
+    "majestic",
+    "solemn",
+    "fearsome"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0040930",
+    "title": "Judgement. Sketch of murals for the church of the Assumption",
+    "artist": "Ivan Bilibin",
+    "model": "claude-opus-4-6"
+  }
+}

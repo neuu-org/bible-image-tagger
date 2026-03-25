@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Joan of Arc",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ecclesiastical Judges",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Burning of Joan of Arc at the Stake",
+  "tags": [
+    "joan-of-arc",
+    "martyrdom",
+    "burning-at-the-stake",
+    "execution",
+    "trial",
+    "halo",
+    "pyre",
+    "medieval-warfare",
+    "french-history",
+    "hundred-years-war",
+    "divine-calling",
+    "persecution",
+    "crowd-scene",
+    "banners",
+    "ecclesiastical-tribunal"
+  ],
+  "symbols": [
+    "pyre and flames — martyrdom, persecution, and the purifying fire that tests the faithful",
+    "halo on Joan — sanctity and divine vindication of the condemned, the saint recognized by heaven before earth",
+    "banners and mounted soldiers — temporal power arrayed against the voice of God, the clash between political authority and prophetic witness",
+    "kneeling figures — those who recognize holiness in the moment of its destruction, the faithful remnant"
+  ],
+  "description": "A large mural-format painting depicting the execution of Joan of Arc. At right, a young woman with a radiant halo stands atop a tall pyre engulfed in flames, her arms raised or bound to the stake. At left and center, a dense crowd fills the scene: mounted soldiers in armor, ecclesiastical figures in white and blue robes kneeling or gesturing, and common onlookers. Red banners and military standards wave above the crowd. The composition is framed with a decorative painted border containing text. The atmosphere is dramatic and charged with conflicting emotions of condemnation and reverence.",
+  "theological_description": "",
+  "scripture_refs": [
+    {
+      "ref": "MAT.5.10-12",
+      "relevance": "allusion",
+      "reason": "Blessed are those who are persecuted for righteousness' sake -- Joan's execution for her claimed divine mission mirrors the pattern of prophetic suffering."
+    },
+    {
+      "ref": "ACT.7.55-60",
+      "relevance": "allusion",
+      "reason": "Stephen's martyrdom, seeing heaven opened while being killed, parallels Joan's reported final vision of the cross and saints."
+    },
+    {
+      "ref": "JHN.15.18-20",
+      "relevance": "allusion",
+      "reason": "Christ's warning that the world will hate his followers as it hated him, applicable to Joan's condemnation by both secular and ecclesiastical powers."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "tragic",
+    "defiant",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0041119",
+    "title": "Scène De La Vie De Jeanne D'Arc",
+    "artist": "Lionel Noel Royer",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Saint John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with the Infant Saint John the Baptist",
+  "tags": [
+    "Christianity",
+    "Holy-Family",
+    "Madonna-and-Child",
+    "infant-Saint-John",
+    "sacred-conversation",
+    "maternal-tenderness",
+    "divine-infancy",
+    "Incarnation",
+    "domestic-holiness",
+    "cherries",
+    "prefiguration-of-Passion"
+  ],
+  "symbols": [
+    "halo on the Virgin — Mary's sanctity and her role as Theotokos",
+    "Christ Child standing on Mary's lap — the Incarnate Word upheld by His mother",
+    "Saint Joseph in red — the faithful guardian and earthly father figure",
+    "infant John the Baptist at lower left — the Forerunner who will proclaim Christ as the Lamb of God",
+    "cherries held by the infant John — traditionally symbolic of the sweetness of paradise or the blood of Christ's Passion",
+    "dark background — intimacy and sacred focus on the holy figures",
+    "green and rose garments of the Virgin — hope, life, and love"
+  ],
+  "description": "A warm, intimate composition showing the Holy Family gathered closely together. The Virgin Mary, wearing rose and green garments with a dark veil and a faint halo, holds the Christ Child who stands on her lap and reaches toward her. At right, the elderly Saint Joseph in a red mantle looks on with paternal tenderness. In the lower left corner, the infant Saint John the Baptist gazes upward, holding small red cherries. The figures are bathed in soft golden light against a dark background, creating a sense of tender domestic intimacy.",
+  "theological_description": "This depiction of the Holy Family with the infant Baptist encapsulates several layers of New Testament theology. The gathering of these four figures anticipates the unfolding of salvation history: Mary as Theotokos bears the Incarnate God, Joseph serves as the righteous guardian of the divine mystery, and the young John already appears in his role as Forerunner. The cherries in John's hand carry a dual symbolism — the sweetness of paradise regained through Christ and a foreshadowing of the blood of the Passion. The Christ Child's animated gesture toward His mother recalls the intimate bond through which the Word made flesh entered human experience (John 1:14). The proximity of the infant Baptist to Christ prefigures the later encounter at the Jordan (Matt 3:13-17) and John's proclamation, 'Behold, the Lamb of God' (John 1:29). Joseph's quiet presence at the margin reflects his scriptural role as the just man who obeys in silence (Matt 1:19-24). Together the scene embodies the theology of the Incarnation — God entering the ordinary rhythms of family life to sanctify all human relationships from within.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the theological foundation of the Incarnation depicted in this domestic scene"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "typological",
+      "reason": "The infant John leaped in Elizabeth's womb at the presence of Christ; here both infants are shown together, continuing that recognition"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John's role as the one who will identify Christ as the Lamb of God is prefigured in his infant proximity to Christ"
+    },
+    {
+      "ref": "MAT.1.19-24",
+      "relevance": "allusion",
+      "reason": "Joseph the righteous man who accepted his role as guardian of the divine mystery, shown here in quiet faithfulness"
+    },
+    {
+      "ref": "LUK.2.51-52",
+      "relevance": "allusion",
+      "reason": "The hidden years of Christ's childhood in the Holy Family, where Jesus grew in wisdom under Mary and Joseph's care"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040438",
+    "title": "The Holy Family with the Infant St. John the Baptist",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

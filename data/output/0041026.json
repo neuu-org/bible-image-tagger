@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "infant-christ",
+    "kingship",
+    "gentile-worship",
+    "classical-ruins",
+    "putti",
+    "kneeling",
+    "turbans",
+    "royal-robes",
+    "divine-light",
+    "marian-devotion",
+    "revelation-to-nations"
+  ],
+  "symbols": [
+    "gold — Christ's kingship and sovereignty over all nations",
+    "frankincense — Christ's divinity and priestly role, the offering of worship",
+    "myrrh — Christ's future suffering, death, and burial",
+    "kneeling Magi — the Gentile nations bowing before Israel's Messiah, fulfilling Isaiah's prophecy",
+    "classical ruins — the old pagan order giving way to the new dispensation in Christ",
+    "angels in the clouds — heavenly witnesses to the theophany and cosmic significance of the event",
+    "star (implied) — divine guidance leading the nations to the Light of the World"
+  ],
+  "description": "A grand composition in a tall arched format shows the Virgin Mary seated at the center, holding the infant Christ on her lap. Before her, a richly robed king kneels in adoration, offering a gift. Behind him stand two other Magi in elaborate Oriental dress -- one dark-skinned wearing a red cloak and turban, holding aloft a chalice. A crowd of attendants and onlookers fills the middle ground. Above, putti hover amid swirling clouds near crumbling classical architecture that frames the scene. The palette is warm and luminous with dramatic chiaroscuro.",
+  "theological_description": "The Adoration of the Magi (Matthew 2:1-12) is the Epiphany -- the manifestation of Christ to the Gentile world. The Magi, traditionally understood as wise men or kings from the East, represent the nations beyond Israel who recognize in this infant the fulfillment of universal hope. Their three gifts carry profound christological meaning in patristic exegesis (Irenaeus, Origen): gold for a king, frankincense for God, myrrh for one who will die. The scene fulfills Isaiah 60:3 ('Nations shall come to your light, and kings to the brightness of your rising') and Psalm 72:10-11 ('May the kings of Tarshish and of the coastlands render him tribute'). The classical ruins in Pittoni's composition embody the patristic theme that pagan wisdom, philosophy, and empire crumble before the revelation of the true God in the flesh. The Magi's long journey from the East to Bethlehem prefigures the universal mission of the Church, gathering all peoples to worship the one Lord.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Gospel account of the Magi following the star to Bethlehem, worshiping the child, and presenting gifts of gold, frankincense, and myrrh."
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "The prophecy that nations shall come to Israel's light and kings to the brightness of its rising, bearing gold and frankincense."
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "The messianic psalm foreseeing kings bringing gifts and all nations serving the anointed ruler."
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "Balaam's oracle of a star rising out of Jacob, traditionally linked to the Star of Bethlehem."
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "primary",
+      "reason": "The prophecy identifying Bethlehem as the birthplace of the ruler of Israel, cited by the chief priests to Herod."
+    },
+    {
+      "ref": "EPH.3.6",
+      "relevance": "allusion",
+      "reason": "Paul's revelation that the Gentiles are fellow heirs, the mystery made visible in the Magi's worship."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "worshipful",
+    "luminous",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0041026",
+    "title": "Adoration of the Magi",
+    "artist": "Giambattista Pittoni",
+    "model": "claude-opus-4-6"
+  }
+}

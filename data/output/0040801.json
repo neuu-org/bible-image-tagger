@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Saint Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome in Penitence (Polyptych detail)",
+  "tags": [
+    "penitence",
+    "church father",
+    "skull",
+    "crucifix",
+    "red mantle",
+    "halo",
+    "polyptych",
+    "gilded frame",
+    "asceticism",
+    "memento mori",
+    "meditation on death",
+    "desert father",
+    "church interior"
+  ],
+  "symbols": [
+    "skull — memento mori, meditation on mortality and the vanity of worldly learning",
+    "crucifix — Jerome's devotion to Christ crucified, the center of his scriptural scholarship",
+    "red cardinal's mantle — traditional (anachronistic) attribution of cardinalate, symbolizing his authority in the Church",
+    "bare chest — ascetic renunciation and desert penitence",
+    "halo — sanctity recognized by the Church",
+    "roundel of the Virgin — Marian devotion and Jerome's defense of Mary's perpetual virginity",
+    "gilded ornamental frame — the splendor of sacred liturgical space"
+  ],
+  "description": "A detail from a polyptych set within an elaborate gilded frame shows Saint Jerome as an elderly, bearded, half-naked man draped in a red mantle. He holds a crucifix in his left hand and touches his chest with his right. A human skull rests on the ledge before him. A golden halo encircles his head against a blue background. To the right, within the curved spandrel of the polyptych arch, a small roundel contains a bust of the Virgin Mary. The surrounding frame is richly carved with acanthus leaves, putti, and classical motifs in gold.",
+  "theological_description": "Saint Jerome (c. 347-420), Doctor of the Church and translator of the Vulgate Bible, is depicted here in his traditional penitential guise recalling his years of ascetic withdrawal in the Syrian desert (c. 375-378). Jerome wrote of beating his breast with a stone while meditating on the sufferings of Christ -- a practice alluded to by his gesture toward his bare chest. The skull signifies his constant meditation on death (Eccl 12:7) and the transience of worldly wisdom, which he famously renounced after a dream in which Christ accused him: 'You are a Ciceronian, not a Christian.' The crucifix in his hand represents the reorientation of his vast learning toward the service of Scripture. The inclusion of a Marian roundel recalls Jerome's vigorous defense of Mary's perpetual virginity against Helvidius, establishing a theological link between the two figures. As the translator who rendered the Hebrew and Greek scriptures into Latin, Jerome stands as the patron of biblical scholarship, and his penitential iconography reminds the viewer that true knowledge of God's Word requires humility and self-mortification.",
+  "scripture_refs": [
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "typological",
+      "reason": "All Scripture is God-breathed -- Jerome's life work of translation embodies devotion to the inspired Word."
+    },
+    {
+      "ref": "ECC.12.7",
+      "relevance": "allusion",
+      "reason": "The dust returns to the earth -- the skull as memento mori reflects Qohelet's meditation on mortality."
+    },
+    {
+      "ref": "PHP.3.8",
+      "relevance": "allusion",
+      "reason": "Paul counts all things as loss for the sake of knowing Christ -- Jerome's renunciation of classical learning for Scripture."
+    },
+    {
+      "ref": "1CO.1.23",
+      "relevance": "allusion",
+      "reason": "We preach Christ crucified -- the crucifix in Jerome's hand points to the heart of his theological commitment."
+    },
+    {
+      "ref": "PSA.51.17",
+      "relevance": "allusion",
+      "reason": "A broken and contrite heart God will not despise -- the penitential posture of the desert ascetic."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitential",
+    "austere",
+    "contemplative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0040801",
+    "title": "Polyptych in Santo Spirito (Bergamo), detail",
+    "artist": "Ambrogio Bergognone",
+    "model": "claude-opus-4-6"
+  }
+}

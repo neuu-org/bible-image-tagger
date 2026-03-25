@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "divine-message",
+    "incarnation",
+    "humility",
+    "obedience",
+    "lectio-divina",
+    "halo",
+    "interior-setting",
+    "book",
+    "column",
+    "wings",
+    "blue-mantle",
+    "gold-ground",
+    "marian-devotion",
+    "fiat"
+  ],
+  "symbols": [
+    "book or lectern — Mary's prayerful study of Scripture, signifying her readiness to receive the Word made flesh",
+    "column dividing the composition — the architectural boundary between the angelic and human realms, bridged by the divine message",
+    "blue mantle — Mary's heavenly purity and her role as Queen of Heaven",
+    "angel's raised hand — the gesture of salutation and divine proclamation",
+    "halo — sanctity and the indwelling of divine grace",
+    "open window with landscape — the world awaiting redemption, into which the Incarnation will break forth"
+  ],
+  "description": "An interior scene divided by a central stone column. On the left, a winged angel in a richly colored robe raises one hand in greeting, a golden halo around his head. On the right, a young woman draped in a luminous blue mantle stands before a lectern with an open book, her hands crossed reverently over her chest. The paint surface is heavily damaged with large areas of loss, revealing the underlying ground. Through a window between the two figures, a distant landscape is visible beneath a pale sky.",
+  "theological_description": "The Annunciation records the pivotal moment when the angel Gabriel was sent by God to the Virgin Mary in Nazareth to announce that she would conceive and bear the Son of the Most High (Luke 1:26-38). Mary's response -- 'Behold, I am the handmaid of the Lord; let it be to me according to your word' -- is the fiat that opens the door to the Incarnation, the central mystery of Christian faith. The Church Fathers (Irenaeus, Justin Martyr) see Mary's obedience as the reversal of Eve's disobedience: where Eve's 'yes' to the serpent brought death, Mary's 'yes' to the angel brings salvation. The book before Mary symbolizes her immersion in the prophetic promises, particularly Isaiah 7:14 ('Behold, a virgin shall conceive'). The architectural setting -- an intimate domestic interior -- underscores the paradox of the Incarnation: the infinite God enters history through the humble consent of a young woman in an obscure town. Antonello da Messina's Sicilian interpretation, with its careful perspective and Flemish-influenced detail, enfolds this cosmic event within the tangible, everyday world.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The direct Gospel narrative of the angel Gabriel's announcement to Mary and her consent to bear the Son of God."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The prophetic sign of a virgin conceiving and bearing a son called Immanuel, fulfilled in the Annunciation."
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The Protoevangelium: the seed of the woman who will crush the serpent's head, initiated through Mary's fiat."
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "Gabriel's explanation that the Holy Spirit will overshadow Mary, and the child will be called the Son of God."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us -- the theological culmination of the event depicted."
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "Paul's statement that in the fullness of time God sent His Son, born of a woman, born under the law."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "solemn",
+    "luminous",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0041016",
+    "title": "Annunciation",
+    "artist": "Antonello da Messina",
+    "model": "claude-opus-4-6"
+  }
+}

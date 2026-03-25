@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "passover-meal",
+    "apostles",
+    "institution-of-the-eucharist",
+    "betrayal-foretold",
+    "upper-room",
+    "oil-lamp",
+    "bread-and-wine",
+    "sketch"
+  ],
+  "symbols": [
+    "bread — the Body of Christ given for the world (Matthew 26:26)",
+    "round table — the fellowship and unity of Christ with his disciples",
+    "oil lamp — the light of Christ shining even in the hour of darkness",
+    "reclining figures — the Passover seder posture of free people",
+    "golden tonality — sacred solemnity and the glory veiled in the humble meal"
+  ],
+  "description": "A golden-toned preparatory sketch showing Christ and twelve apostles gathered around a large round table for the Last Supper. The figures recline and lean in various postures of conversation, reflection, and emotion. A hanging oil lamp illuminates the scene from above. A large platter sits at the center of the table. The composition is rendered in warm sepia and gold washes with delicate linework, giving it a luminous, ethereal quality. The architectural setting is simple, suggesting the upper room described in the Gospels.",
+  "theological_description": "Alexander Ivanov's sketch captures the moment of supreme theological significance: the institution of the Eucharist and Christ's farewell discourse with his apostles on the night before his Passion. At this Passover meal (Luke 22:14-20), Jesus transforms the ancient Jewish rite into the New Covenant in his blood, fulfilling the prophetic promise of Jeremiah 31:31-34. The bread he breaks is his body; the cup he shares is his blood of the covenant poured out for many (Mark 14:22-24). The gathering around the table enacts the intimacy of John 13-17, where Jesus washes the disciples' feet, identifies his betrayer, gives the new commandment of love (John 13:34), and prays his high priestly prayer. The warm golden tonality suggests both the lamplight of the upper room and the theological radiance of the moment when God gives himself as food for the life of the world (John 6:51). Judas is present among the Twelve, and the knowledge of betrayal (John 13:21-30) adds a note of sorrow to the sacred solemnity. This meal is the hinge of salvation history, connecting the Exodus Passover (Exodus 12) to the eschatological banquet of the Lamb (Revelation 19:9).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist at the Last Supper, the direct event depicted"
+    },
+    {
+      "ref": "MRK.14.22-25",
+      "relevance": "primary",
+      "reason": "Christ breaking bread and sharing the cup as his body and blood of the New Covenant"
+    },
+    {
+      "ref": "JHN.13.21-30",
+      "relevance": "primary",
+      "reason": "Jesus identifies his betrayer at the supper, a dramatic undercurrent in the scene"
+    },
+    {
+      "ref": "EXO.12.1-14",
+      "relevance": "typological",
+      "reason": "The Passover lamb whose blood saves Israel prefigures Christ, the Lamb of God, offering himself at this meal"
+    },
+    {
+      "ref": "JER.31.31-34",
+      "relevance": "typological",
+      "reason": "The new covenant prophesied by Jeremiah is inaugurated in the cup Christ shares"
+    },
+    {
+      "ref": "JHN.6.51",
+      "relevance": "allusion",
+      "reason": "Christ as the living bread come down from heaven, given for the life of the world"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "intimate",
+    "solemn",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040975",
+    "title": "The Last Supper",
+    "artist": "Alexander Ivanov",
+    "model": "claude-opus-4-6"
+  }
+}

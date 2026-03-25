@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "Achan", "type": "PERSON"},
+    {"name": "Israelites", "type": "GROUP"}
+  ],
+  "event": "The Stoning of Achan in the Valley of Achor",
+  "tags": [
+    "stoning",
+    "divine-judgment",
+    "achan",
+    "valley-of-achor",
+    "sin-and-punishment",
+    "covenant-violation",
+    "herem-ban",
+    "devoted-things",
+    "communal-judgment",
+    "birds-of-prey",
+    "rocky-valley",
+    "gustave-dore-engraving"
+  ],
+  "symbols": [
+    "stones heaped upon Achan — the weight of divine judgment upon covenant-breakers",
+    "birds circling overhead — death, carrion, and the finality of God's sentence",
+    "valley — the Valley of Achor (trouble), named for the trouble Achan brought upon Israel",
+    "desolate landscape — the spiritual barrenness caused by sin in the community",
+    "body buried under stones — the purging of sin from the covenant people"
+  ],
+  "description": "A dramatic black-and-white engraving depicts a barren rocky valley between steep hillsides. At the center foreground, a human figure lies buried under a heap of large stones. Overhead, a flock of birds -- vultures or crows -- circles against a dark, brooding sky. The valley stretches back into a narrow defile between craggy mountains. The caption at the bottom reads 'THE STONING OF ACHAN' with a scripture reference. The tonal range creates a scene of desolation and finality.",
+  "theological_description": "The stoning of Achan (Joshua 7:19-26) is one of the most sobering narratives in the Old Testament. After the miraculous victory at Jericho, Israel suffered an unexpected defeat at Ai because Achan had violated the herem -- the sacred ban that devoted all of Jericho's spoils to God. Achan secretly took a cloak, silver, and gold, hiding them in his tent. By lot, God identified the transgressor, and Achan confessed: 'I coveted them and took them' (Josh 7:21). The entire community then executed judgment by stoning in the Valley of Achor. This event teaches several foundational theological principles. First, the solidarity of the covenant community: one member's sin brought defeat upon all Israel (Josh 7:1, 11-12). Second, the holiness of God is non-negotiable -- what is devoted to Him cannot be appropriated by human greed. Third, the narrative reveals that hidden sin will inevitably be exposed by God who 'searches the heart and tests the mind' (Jer 17:10). The Valley of Achor (trouble) later becomes, remarkably, a 'door of hope' in Hosea 2:15, where God promises to transform the place of judgment into a place of restoration -- a prophetic reversal that points ultimately to the Cross, where divine judgment and divine mercy meet.",
+  "scripture_refs": [
+    {"ref": "JOS.7.19-26", "relevance": "primary", "reason": "The direct narrative: Achan's confession, judgment, and execution by stoning in the Valley of Achor."},
+    {"ref": "JOS.7.1", "relevance": "primary", "reason": "Israel's corporate guilt because of Achan's violation of the devoted things after Jericho."},
+    {"ref": "JOS.7.10-12", "relevance": "primary", "reason": "God's declaration that Israel has sinned by taking devoted things, and He will no longer be with them until the sin is purged."},
+    {"ref": "JOS.6.17-19", "relevance": "primary", "reason": "The original herem command at Jericho: all spoils are devoted to the Lord; taking them brings a curse."},
+    {"ref": "HOS.2.15", "relevance": "typological", "reason": "The Valley of Achor becomes a 'door of hope,' transforming the site of judgment into a prophecy of eschatological restoration."},
+    {"ref": "JER.17.10", "relevance": "allusion", "reason": "God searches hearts and tests minds, giving to each according to their ways -- the principle demonstrated in Achan's exposure."},
+    {"ref": "ACT.5.1-11", "relevance": "typological", "reason": "Ananias and Sapphira's death for withholding from God parallels Achan's judgment, showing the continuity of covenantal holiness."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["desolate", "somber", "severe", "foreboding"],
+  "period": "Conquest",
+  "_meta": {
+    "key": "0040718",
+    "title": "Achan Is Stoned to Death",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

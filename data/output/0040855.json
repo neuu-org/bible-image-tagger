@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Thomas", "type": "PERSON"}
+  ],
+  "event": "Saint Thomas the Apostle",
+  "tags": [
+    "apostle",
+    "doubting thomas",
+    "book",
+    "lance",
+    "reading",
+    "blue mantle",
+    "apostolic portrait",
+    "evangelization of india",
+    "faith through testimony",
+    "elderly figure"
+  ],
+  "symbols": [
+    "book — the Gospel and apostolic witness, Scripture as the foundation of faith",
+    "lance or staff — traditional attribute of Thomas, recalling his martyrdom in India",
+    "blue mantle — heavenly calling and apostolic dignity",
+    "open pages — active reading and meditation on divine truth",
+    "aged countenance — wisdom gained through years of apostolic mission and mature faith"
+  ],
+  "description": "A powerful half-length portrait of an elderly, bald-headed man with a magnificent flowing gray-white beard. He is draped in a deep blue mantle over a brown undergarment and holds an open book in both hands, reading intently with downcast eyes. Behind his right shoulder a tall staff or lance is visible. The background is dark and neutral, focusing all attention on the figure's luminous face and hands. The brushwork is characteristically Rubensian -- broad, confident, and richly textured, with warm flesh tones set against the cool blue drapery.",
+  "theological_description": "Saint Thomas, called Didymus ('the Twin'), is best known for his initial doubt and subsequent profound confession of faith. When presented with the risen Christ, Thomas uttered the highest christological declaration in the Gospels: 'My Lord and my God!' (John 20:28), explicitly acknowledging Jesus's divinity. Jesus's response -- 'Blessed are those who have not seen and yet have believed' (John 20:29) -- transforms Thomas's experience into a paradigm for all subsequent Christian faith, which rests on apostolic testimony rather than direct sight. Rubens depicts Thomas not in his moment of doubt but as the mature apostle-evangelist, absorbed in the reading of Scripture. This portrayal aligns with the tradition that Thomas carried the Gospel to Parthia and India, becoming one of the farthest-traveling missionaries of the apostolic age. The lance recalls his martyrdom by spear, making him a witness (martys) in the fullest sense -- one who sealed his testimony with his blood. The open book in his hands signifies that the same apostle who once demanded physical evidence became a herald of the written Word, trusting the testimony he himself helped to create.",
+  "scripture_refs": [
+    {"ref": "JHN.20.24-29", "relevance": "primary", "reason": "Thomas's doubt and his confession 'My Lord and my God!' -- the defining episode of his apostolic identity."},
+    {"ref": "JHN.11.16", "relevance": "primary", "reason": "Thomas says 'Let us also go, that we may die with him' -- showing his courage and loyalty before the raising of Lazarus."},
+    {"ref": "JHN.14.5", "relevance": "primary", "reason": "Thomas asks 'Lord, we do not know where you are going; how can we know the way?' -- prompting Jesus's 'I am the way' declaration."},
+    {"ref": "MRK.3.18", "relevance": "primary", "reason": "Thomas listed among the Twelve Apostles called by Jesus."},
+    {"ref": "HEB.11.1", "relevance": "typological", "reason": "Faith is the substance of things hoped for, the evidence of things not seen -- Thomas's journey from sight to faith."},
+    {"ref": "ROM.10.17", "relevance": "allusion", "reason": "Faith comes from hearing, and hearing through the word of Christ -- the book in Thomas's hands as instrument of proclamation."}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "dignified", "serene"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0040855",
+    "title": "Saint Thomas",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

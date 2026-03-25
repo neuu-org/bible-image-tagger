@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Saint Barbara", "type": "PERSON"}
+  ],
+  "event": "Portrait of Saint Barbara, virgin and martyr",
+  "tags": [
+    "saint-barbara",
+    "virgin-martyr",
+    "crown",
+    "palm-of-martyrdom",
+    "tower-attribute",
+    "divine-light",
+    "book",
+    "intercession",
+    "early-christian-martyr",
+    "fourteen-holy-helpers",
+    "fortitude"
+  ],
+  "symbols": [
+    "crown with jewels — Barbara's noble birth and her heavenly reward, the 'crown of life' promised to those faithful unto death (Rev 2:10)",
+    "palm branch held in her hand — the universal symbol of martyrdom and victory over death, recalling the palm-bearers before the throne (Rev 7:9)",
+    "open book — the Scriptures and the knowledge of the faith for which she gave her life, the Word that endures forever",
+    "divine ray of light — God's illumination and protection of his saints, the light that shines in darkness (John 1:5)",
+    "tower visible in the background — Barbara's traditional attribute recalling her imprisonment in a tower by her pagan father, and the Lord as strong tower (Prov 18:10)"
+  ],
+  "description": "A three-quarter portrait of a young woman gazing upward to the left, bathed in a warm golden light. She wears an ornate jeweled crown atop her blonde hair, which is partly braided and adorned. Her garments include a rich red mantle over green and pink fabrics. In one hand she holds a green palm frond; in the other, an open book. A bright ray of divine light enters from the upper right. In the background to the right, a tower and fortified buildings are visible against a cloudy sky. Her expression is serene and resolute, her complexion luminous.",
+  "theological_description": "Saint Barbara, traditionally dated to the third century, is one of the most venerated virgin martyrs of the early Church and one of the Fourteen Holy Helpers. According to hagiographic tradition, her pagan father Dioscorus imprisoned her in a tower to prevent her from becoming Christian. She nevertheless received baptism and confessed Christ. When her father discovered her faith, he reported her to the Roman authorities, and she was tortured and beheaded — her own father serving as executioner. The tower in which she was imprisoned became her identifying attribute, and it carries rich biblical resonance: 'The name of the LORD is a strong tower; the righteous man runs into it and is safe' (Proverbs 18:10). What her father intended as a prison, God transformed into a fortress of faith. The palm of martyrdom she holds recalls Revelation 7:9, where the great multitude before the throne holds palm branches — those who 'have come out of the great tribulation and have washed their robes in the blood of the Lamb.' Her crown fulfills Christ's promise: 'Be faithful unto death, and I will give you the crown of life' (Revelation 2:10). The divine ray of light entering the composition speaks to the illumination that no prison walls could obstruct — the same light that shone upon Paul and Silas in the Philippian jail (Acts 16:25-26). Barbara's open book represents the faith she received and for which she died: the knowledge of Christ that is 'the power of God and the wisdom of God' (1 Corinthians 1:24). She became the patron saint of those facing sudden death, invoked for protection against lightning and explosions — a patronage rooted in the belief that her father was struck by lightning after executing her, a sign of divine justice.",
+  "scripture_refs": [
+    {"ref": "REV.2.10", "relevance": "primary", "reason": "Be faithful unto death, and I will give you the crown of life — Barbara's crown as the visible sign of the martyr's heavenly reward"},
+    {"ref": "REV.7.9-14", "relevance": "primary", "reason": "The great multitude holding palm branches who came out of the great tribulation — the palm Barbara holds identifying her among the victorious martyrs"},
+    {"ref": "PRO.18.10", "relevance": "typological", "reason": "The name of the LORD is a strong tower — Barbara's tower attribute transformed from prison to symbol of divine protection"},
+    {"ref": "ACT.16.25-26", "relevance": "typological", "reason": "Paul and Silas imprisoned yet praising God, and the prison shaken open — the pattern of divine deliverance from imprisonment that Barbara's story echoes"},
+    {"ref": "1CO.1.24", "relevance": "allusion", "reason": "Christ the power of God and the wisdom of God — the open book representing the knowledge of Christ for which Barbara gave her life"},
+    {"ref": "2TI.4.7-8", "relevance": "allusion", "reason": "I have fought the good fight, I have finished the race; there is laid up for me the crown of righteousness — Paul's words embodied in the crowned martyr"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["serene", "luminous", "resolute", "devotional"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0041158",
+    "title": "Saint Barbara",
+    "artist": "Bartholomeus Spranger",
+    "model": "claude-opus-4-6"
+  }
+}

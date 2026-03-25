@@ -1,0 +1,50 @@
+{
+  "characters": [
+    {
+      "name": "Preacher",
+      "type": "PERSON"
+    }
+  ],
+  "event": "",
+  "tags": [
+    "sermon",
+    "robed-figure",
+    "flowers",
+    "arch",
+    "mystical-light",
+    "spiritual-atmosphere"
+  ],
+  "symbols": [
+    "robed figure — a preacher or prophet shrouded in spiritual intensity",
+    "arch — sacred or liturgical space",
+    "flowers — offering, beauty of creation, or spiritual fruitfulness",
+    "golden light — divine presence or spiritual illumination"
+  ],
+  "description": "A tall, narrow composition rendered in rich, impressionistic color. A robed figure in deep red stands beneath a luminous arch, head slightly bowed as if delivering or meditating upon a sermon. Brilliant bursts of yellow, blue, and green suggest flowers or spiritual radiance at right. The palette is dominated by warm golds and reds with cool blue arcs framing the scene. The style is dreamlike and visionary, with forms dissolving into pure color and light.",
+  "theological_description": "Odilon Redon's visionary style transforms the act of preaching into a mystical encounter with the divine. The robed figure beneath the arch evokes the prophetic tradition of those who stand in sacred spaces to proclaim God's word. The luminous arch recalls the numinous thresholds of Scripture, from Jacob's ladder (Genesis 28:12-17) to the temple visions of Isaiah (Isaiah 6:1-4). The flowers at the figure's side may allude to the flourishing that accompanies God's word going forth (Isaiah 55:10-11). The overall atmosphere of spiritual intensity, with forms dissolving into light, suggests the experience described by Paul: seeing through a glass darkly, yet sensing the overwhelming reality of the divine (1 Corinthians 13:12).",
+  "scripture_refs": [
+    {
+      "ref": "ISA.6.1-4",
+      "relevance": "allusion",
+      "reason": "A figure standing in a sacred, luminous space evokes the prophet's vision of God's glory filling the temple"
+    },
+    {
+      "ref": "1COR.13.12",
+      "relevance": "allusion",
+      "reason": "The dreamlike, dissolving forms suggest perceiving spiritual reality indirectly, as through a glass darkly"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "mystical",
+    "contemplative",
+    "luminous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0040912",
+    "title": "The Sermon",
+    "artist": "Odilon Redon",
+    "model": "claude-opus-4-6"
+  }
+}

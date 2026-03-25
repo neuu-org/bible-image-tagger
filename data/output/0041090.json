@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Cherub with Flaming Sword",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Angel Guarding the Gate of Eden",
+  "tags": [
+    "angel",
+    "flaming-sword",
+    "cherubim",
+    "garden-of-eden",
+    "expulsion",
+    "guardian",
+    "divine-justice",
+    "halo",
+    "wings",
+    "white-robe",
+    "fire",
+    "paradise-lost",
+    "threshold",
+    "judgment"
+  ],
+  "symbols": [
+    "flaming sword — divine justice barring fallen humanity from the tree of life, the consuming holiness of God",
+    "wings — angelic nature and heavenly origin, the power and swiftness of God's messengers",
+    "halo — divine authority and sanctity delegated from God to the guardian of paradise",
+    "white robe — purity, righteousness, and the terrible beauty of holiness",
+    "upright stance at threshold — the impassable boundary between fallen humanity and lost paradise, only reopened through Christ"
+  ],
+  "description": "A solitary angel stands frontally against a pale, luminous sky. The figure wears a flowing white robe and has large, dark-feathered wings spread behind. A golden halo encircles the head. The angel grips a long flaming sword that blazes with orange-red fire, its point touching the ground. The background is rendered in soft, muted blues and pinks with a textured, fresco-like quality. The angel's expression is stern and resolute, embodying implacable divine authority.",
+  "theological_description": "After the Fall, God stationed cherubim and a flaming sword that turned every way to guard the path to the tree of life (Genesis 3:24). This angel represents the irreversible consequence of sin: humanity is exiled from paradise and from direct access to immortality. The flaming sword is the first post-Fall theophanic symbol in Scripture -- fire as the manifestation of God's holiness that both purifies and consumes. The Church Fathers (Ephrem the Syrian, John Chrysostom) interpret this guardian as a sign of divine mercy as well as judgment: access to the tree of life in a fallen state would have meant eternal existence in corruption. The way back to paradise is reopened only through Christ's cross, which the Fathers call the new tree of life (Revelation 2:7, 22:2). Franz Stuck's Symbolist rendering emphasizes the numinous, awesome quality of the angelic guardian -- the mysterium tremendum of divine holiness that Otto would later describe. The angel stands at the threshold between two ages of salvation history.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.24",
+      "relevance": "primary",
+      "reason": "God places cherubim and a flaming sword east of Eden to guard the way to the tree of life -- the direct subject of the painting."
+    },
+    {
+      "ref": "GEN.3.22-23",
+      "relevance": "primary",
+      "reason": "God's expulsion of Adam and Eve from the garden, the event that necessitates the angelic guard."
+    },
+    {
+      "ref": "REV.22.2",
+      "relevance": "typological",
+      "reason": "The tree of life reappears in the New Jerusalem, its leaves for the healing of the nations -- paradise regained through Christ."
+    },
+    {
+      "ref": "REV.2.7",
+      "relevance": "typological",
+      "reason": "The promise to the one who conquers: to eat of the tree of life in the paradise of God -- the reversal of the Edenic exclusion."
+    },
+    {
+      "ref": "HEB.1.7",
+      "relevance": "allusion",
+      "reason": "God makes his angels winds and his ministers a flame of fire, echoing the fiery nature of the Edenic guardian."
+    },
+    {
+      "ref": "EZK.28.13-14",
+      "relevance": "allusion",
+      "reason": "The guardian cherub in Eden in Ezekiel's oracle, linking cherubim to the paradisal setting."
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "awe-inspiring",
+    "stern",
+    "luminous",
+    "solemn"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0041090",
+    "title": "Angel with the Flaming Sword",
+    "artist": "Franz Stuck",
+    "model": "claude-opus-4-6"
+  }
+}

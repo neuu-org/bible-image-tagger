@@ -1,0 +1,93 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Serpent",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Fall of Man",
+  "tags": [
+    "fall-of-man",
+    "original-sin",
+    "temptation",
+    "garden-of-eden",
+    "forbidden-fruit",
+    "serpent",
+    "tree-of-knowledge",
+    "nudity",
+    "embrace",
+    "disobedience",
+    "loss-of-innocence",
+    "paradise",
+    "mannerist-composition",
+    "landscape"
+  ],
+  "symbols": [
+    "tree of knowledge — the divine boundary between obedience and rebellion, the locus of humanity's fateful choice",
+    "serpent — Satan the deceiver, the tempter who seduces through cunning and misdirection",
+    "forbidden fruit — the allure of autonomy apart from God, the desire to 'be like God' on one's own terms",
+    "naked bodies in embrace — the original innocence now yielding to disordered desire and shame",
+    "dark landscape beyond Eden — the fallen world of toil, suffering, and death that awaits after the expulsion"
+  ],
+  "description": "Two nude figures stand in a close, intertwined embrace beside a large tree. The woman, with long flowing hair, reaches toward a branch where a serpent coils, its head near the fruit. The man presses against her from behind. Their bodies are rendered in a sinuous, elongated Mannerist style with pale, luminous skin against a dark wooded background. A distant landscape with buildings is faintly visible through the trees. The overall tone is dark and sensuous.",
+  "theological_description": "The Fall of Man (Genesis 3:1-7) is the foundational event of biblical hamartiology. The serpent, identified in later tradition with Satan (Revelation 12:9), tempts Eve to eat the forbidden fruit of the tree of the knowledge of good and evil. Adam, present with her, partakes as well. This act of disobedience ruptures the covenant relationship between God and humanity, introducing sin, shame, and death into the created order (Romans 5:12). The Church Fathers (Augustine, Irenaeus) interpret the Fall as the felix culpa -- the 'happy fault' that occasions God's greater work of redemption. The embrace of Adam and Eve in Spranger's Mannerist rendering emphasizes the sensuous dimension of the temptation: the Augustinian tradition links the Fall to concupiscence, the disordering of desire. Yet Genesis also contains the Protoevangelium (Genesis 3:15), the first promise of salvation: the seed of the woman will crush the serpent's head. Paul develops this Adam-Christ typology extensively: as through one man sin entered the world, so through one Man comes the free gift of righteousness (Romans 5:15-19). The scene thus stands at the hinge of salvation history -- the tragedy that necessitates the Incarnation.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The direct narrative of the serpent's temptation of Eve, the eating of the forbidden fruit, and the opening of their eyes to nakedness and shame."
+    },
+    {
+      "ref": "GEN.2.16-17",
+      "relevance": "primary",
+      "reason": "God's original command not to eat from the tree of knowledge, with the warning that death would follow."
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "primary",
+      "reason": "The Protoevangelium: God's promise that the seed of the woman will crush the serpent's head."
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "typological",
+      "reason": "Paul's teaching that through one man sin entered the world, and death through sin, establishing the Adam-Christ typology."
+    },
+    {
+      "ref": "ROM.5.15-19",
+      "relevance": "typological",
+      "reason": "The contrast between Adam's trespass bringing condemnation and Christ's obedience bringing justification."
+    },
+    {
+      "ref": "REV.12.9",
+      "relevance": "allusion",
+      "reason": "The identification of the ancient serpent with the devil and Satan, linking Genesis to eschatological defeat."
+    },
+    {
+      "ref": "1CO.15.21-22",
+      "relevance": "typological",
+      "reason": "As in Adam all die, so in Christ shall all be made alive -- the Pauline reversal of the Fall."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sensuous",
+    "ominous",
+    "intimate",
+    "foreboding"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0041038",
+    "title": "Fall of Man",
+    "artist": "Bartholomeus Spranger",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "virgin-mary",
+    "archangel-gabriel",
+    "incarnation",
+    "diptych",
+    "gold-halo",
+    "lily-absent",
+    "open-book",
+    "divine-messenger"
+  ],
+  "symbols": [
+    "open book — Mary's prayerful study of Scripture and her readiness to receive the Word of God",
+    "gold halo — sanctity and the divine favor bestowed upon the Theotokos",
+    "Gabriel's raised hand — the divine salutation 'Ave Maria' and the authoritative announcement from heaven",
+    "scroll or banderole in Gabriel's hand — the spoken Word of God conveyed to Mary",
+    "dark blue mantle of Mary — heavenly queenship, faithfulness, and virginal purity",
+    "architectural interior — the domestic chamber of Nazareth, the humble setting of the greatest event in salvation history",
+    "distant landscape through doorway — the world that will be transformed by the Incarnation"
+  ],
+  "description": "A two-panel diptych in late Gothic style. On the left panel, the Virgin Mary stands in a dark blue mantle over a red gown, a golden halo behind her head, looking downward with hands clasped near an open book on a lectern. A curtain drapes behind her, and through an open archway a distant landscape is visible. On the right panel, the Archangel Gabriel kneels in a golden-yellow robe, one arm raised upward toward a small scroll or banderole above, the other hand gesturing toward Mary. His wings are spread behind him.",
+  "theological_description": "The Annunciation (Luke 1:26-38) is the pivotal moment of salvation history: the eternal Word of God becomes flesh in the womb of the Virgin Mary through the overshadowing of the Holy Spirit. Gabriel's greeting — 'Hail, full of grace, the Lord is with you' — announces that Mary has been uniquely prepared by God for her role as Theotokos (God-bearer). Mary's fiat — 'Let it be done to me according to your word' — is the human consent that opens the door to the Incarnation, reversing Eve's disobedience (Irenaeus's recapitulation theology). The Church Fathers (Justin Martyr, Irenaeus, Ephrem) read this scene as the new creation: just as the first creation began with God's word ('Let there be light'), so the new creation begins with God's Word taking flesh. The diptych format emphasizes the dialogue between heaven and earth, the divine initiative and the human response, that together constitute the mystery of the Incarnation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The direct biblical narrative of the angel Gabriel's announcement to Mary and her fiat."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The prophecy that a virgin shall conceive and bear a son called Immanuel, fulfilled in this moment."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us — the theological reality accomplished at the Annunciation."
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The Protoevangelium: the woman's offspring will crush the serpent — Mary as the New Eve whose consent begins the fulfillment."
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "When the fullness of time had come, God sent forth His Son, born of woman — Paul's summary of the Incarnation."
+    },
+    {
+      "ref": "LUK.1.45",
+      "relevance": "allusion",
+      "reason": "Blessed is she who believed — Elizabeth's affirmation of Mary's faith at the Annunciation."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "serene",
+    "awe-filled",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040130",
+    "title": "The Annunciation",
+    "artist": "Bernhard Strigel",
+    "model": "claude-opus-4-6"
+  }
+}

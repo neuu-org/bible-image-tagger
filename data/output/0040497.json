@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Dominic",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion of Christ with Saint Dominic",
+  "tags": [
+    "Christianity",
+    "Jesus-Christ",
+    "Crucifixion",
+    "Virgin-Mary",
+    "Saint-Dominic",
+    "Passion",
+    "redemption",
+    "atonement",
+    "INRI",
+    "Dominican-devotion",
+    "Calvary",
+    "sacrificial-death",
+    "gold-ground"
+  ],
+  "symbols": [
+    "cross — the instrument of atonement and the tree of life restored",
+    "INRI inscription — Jesus of Nazareth, King of the Jews, the ironic yet true royal title",
+    "gold background — divine transcendence, heavenly glory, and the eternal realm",
+    "halos on all three figures — sanctity and participation in divine light",
+    "Virgin Mary at the left in blue — the Mater Dolorosa, co-suffering with her Son",
+    "Saint Dominic at the right — the mendicant saint kneeling in perpetual contemplation of the Passion",
+    "Christ's emaciated body — the full weight of human sin borne in physical suffering",
+    "arched panel format — liturgical and altarpiece function, framing the scene as sacred space"
+  ],
+  "description": "A devotional Crucifixion scene in Fra Angelico's luminous early Renaissance style, set within an arched panel. Christ hangs on a tall wooden cross against a gold ground, His body thin and pale, head bowed to the right. The inscription INRI appears at the top of the cross. To the left, the Virgin Mary stands in prayer, wearing a dark blue mantle, her halo catching the gold light. To the right, Saint Dominic kneels at the foot of the cross in the black and white habit of the Dominican order, his hands clasped in adoration. All three figures bear golden halos.",
+  "theological_description": "Fra Angelico's Crucifixion with Saint Dominic is a work of Dominican spiritual theology rendered in visual form. The spare composition strips away narrative detail to focus on the essential mystery of the atonement: Christ crucified as the once-for-all sacrifice for sin (Heb 9:26-28). The gold ground removes the scene from historical time and places it in the eternal present of liturgical contemplation — this is not merely Golgotha in 33 AD but the perpetual sacrifice made present in the life of prayer. The Virgin Mary stands as the Mater Dolorosa whose soul is pierced by the sword foretold by Simeon (Luke 2:34-35), sharing in her Son's suffering as the first and most faithful disciple. Saint Dominic's anachronistic presence at the cross is a hallmark of Dominican devotion: the founder of the Order of Preachers is shown in mystical contemplation of the Passion, modeling for every Dominican friar the centrality of the cross in their vocation. This reflects Paul's declaration in 1 Corinthians 2:2, 'I decided to know nothing among you except Jesus Christ and him crucified.' The cross itself stands as the axis mundi, the center of creation and history, where God reconciles all things to Himself (Col 1:19-20). The simplicity of the composition embodies the Dominican charism of contemplata aliis tradere — handing on to others the fruits of contemplation.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "The Crucifixion of Christ at Golgotha, the central event depicted in the painting"
+    },
+    {
+      "ref": "HEB.9.26-28",
+      "relevance": "primary",
+      "reason": "Christ appeared once for all at the end of the ages to put away sin by the sacrifice of Himself"
+    },
+    {
+      "ref": "LUK.2.34-35",
+      "relevance": "allusion",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul, fulfilled as she stands at the cross"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary standing by the cross of Jesus — her presence as witness and co-sufferer"
+    },
+    {
+      "ref": "1CO.2.2",
+      "relevance": "typological",
+      "reason": "Saint Dominic's contemplation of the crucified Christ embodies Paul's resolve to know nothing except Christ crucified"
+    },
+    {
+      "ref": "COL.1.19-20",
+      "relevance": "allusion",
+      "reason": "Through the cross God reconciles all things to Himself, making peace by the blood of the cross"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Boasting only in the cross of our Lord Jesus Christ — the Dominican devotional stance depicted here"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "contemplative",
+    "solemn",
+    "devotional",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040497",
+    "title": "Crucifixion with St. Dominic",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

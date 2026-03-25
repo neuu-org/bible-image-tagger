@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Poor Widow",
+      "type": "PERSON"
+    },
+    {
+      "name": "Child",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Widow's Mite",
+  "tags": [
+    "widows-mite",
+    "offering",
+    "generosity",
+    "poverty",
+    "temple-treasury",
+    "sacrificial-giving",
+    "coins",
+    "mother-and-child",
+    "humility",
+    "devotion",
+    "collection-box",
+    "breton-costume",
+    "books",
+    "quiet-piety"
+  ],
+  "symbols": [
+    "small coin (mite) — total self-giving from poverty, the gift that surpasses all others in God's eyes",
+    "collection box or alms dish — the temple treasury where offerings are made, the place of encounter between human generosity and divine appraisal",
+    "simple dress and headcovering — poverty and humility, the outward markers of the lowly whom God exalts",
+    "child at the widow's side — vulnerability, dependence, and the cost of the widow's gift (she gives from what she needs to live)",
+    "books — devotion, prayer, and the widow's faithfulness to religious duty despite her poverty"
+  ],
+  "description": "A woman in traditional Breton peasant costume -- dark dress with a wide white collar, white headcovering, and an apron -- stands in a dimly lit interior, one hand extended to drop a small coin into a collection vessel. She holds two small books under her other arm. Beside her stands a young girl in a similar white bonnet, looking outward at the viewer. The lighting is warm and subdued, falling softly on the woman's face and hands. The mood is one of quiet, dignified piety and modest sacrifice.",
+  "theological_description": "The Widow's Mite (Mark 12:41-44; Luke 21:1-4) is one of Jesus' most pointed teachings on the nature of true generosity. Observing worshippers making offerings at the temple treasury, Jesus notes that while the rich give from their surplus, a poor widow drops in two small copper coins -- all she had to live on. He declares that she has given more than all the others, for they gave out of abundance while she gave out of her poverty, her whole livelihood. This passage overturns the world's measure of value: in God's economy, the quality of sacrifice matters infinitely more than quantity. The Church Fathers (John Chrysostom, Ambrose) use this text to teach that God weighs the heart, not the hand. Hublin's rendering transposes the scene into a contemporary Breton setting, following the devotional tradition of making biblical events present and immediate. The widow's dignified poverty, her books of prayer, and the child at her side embody the totality of her sacrifice -- she gives not from what she can spare but from what she and her dependent need to survive. This is the pattern of kenotic love that Christ himself will embody on the cross.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.12.41-44",
+      "relevance": "primary",
+      "reason": "Jesus observes the widow putting two small coins into the temple treasury and declares she has given more than all the wealthy donors."
+    },
+    {
+      "ref": "LUK.21.1-4",
+      "relevance": "primary",
+      "reason": "Luke's parallel account of the widow's offering, emphasizing that she gave all she had to live on."
+    },
+    {
+      "ref": "2CO.8.1-5",
+      "relevance": "typological",
+      "reason": "Paul praises the Macedonian churches for giving beyond their means out of deep poverty, echoing the widow's radical generosity."
+    },
+    {
+      "ref": "2CO.9.7",
+      "relevance": "allusion",
+      "reason": "God loves a cheerful giver -- the principle embodied in the widow's willing sacrifice."
+    },
+    {
+      "ref": "1KI.17.10-16",
+      "relevance": "typological",
+      "reason": "The widow of Zarephath who gave her last meal to Elijah and was miraculously sustained -- an Old Testament type of the trusting widow."
+    },
+    {
+      "ref": "JAS.2.5",
+      "relevance": "allusion",
+      "reason": "God has chosen those who are poor in the world to be rich in faith and heirs of the kingdom."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "quiet",
+    "dignified",
+    "tender",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0041132",
+    "title": "The Widow's Mite",
+    "artist": "Émile Auguste Hublin",
+    "model": "claude-opus-4-6"
+  }
+}

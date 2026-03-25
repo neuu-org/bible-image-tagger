@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "name": "Noah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Noah's Family",
+      "type": "GROUP"
+    },
+    {
+      "name": "Animals",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Entry of the Animals into Noah's Ark",
+  "tags": [
+    "noahs-ark",
+    "animals-entering-ark",
+    "flood-narrative",
+    "creation-abundance",
+    "pairs-of-animals",
+    "horses",
+    "lions",
+    "leopards",
+    "birds",
+    "exotic-animals",
+    "lush-landscape",
+    "divine-preservation",
+    "paradise-imagery",
+    "antediluvian-world"
+  ],
+  "symbols": [
+    "ark — salvation and the Church as the vessel of redemption, a type of baptism (1 Peter 3:20-21)",
+    "paired animals — God's providential ordering of creation and His covenant faithfulness to preserve life",
+    "lush forest landscape — the abundance of the pre-Flood world and the goodness of creation before judgment",
+    "diverse species gathered together — the universality of God's saving purpose encompassing all living things",
+    "birds in the trees — the creatures of the air answering God's sovereign summons",
+    "horses and lions together — the peaceable coexistence under divine command, foreshadowing Isaiah's peaceable kingdom"
+  ],
+  "description": "A richly detailed landscape painting showing a vast procession of animals converging through a dense, verdant forest toward an ark visible in the right background. Horses, cattle, lions, leopards, camels, deer, goats, birds of every kind, and numerous other creatures crowd the foreground and middle ground. Exotic birds -- parrots, macaws, cranes, and owls -- perch in a large bare tree at left. A pond with waterfowl and herons occupies the lower left. Human figures, presumably Noah and his family, are visible among the animals directing the procession.",
+  "theological_description": "Jan Brueghel the Elder's magnificent depiction of the animals entering Noah's Ark (Genesis 6:19-20; 7:8-9) is one of the great visual meditations on God's dual attributes of judgment and mercy. While the Flood represents divine judgment upon a world corrupted by violence (Gen 6:11-13), the ark represents God's gracious provision of salvation. The extraordinary diversity of animals gathered in obedience to God's command testifies to His sovereign power over all creation -- 'they came to Noah into the ark, two and two of all flesh, as God had commanded him' (Gen 7:15-16). Patristic interpreters from Justin Martyr to Augustine read the ark as a type of the Church: as only those within the ark were saved from the waters of judgment, so only those within the body of Christ are saved. Peter makes this typology explicit, declaring that the Flood waters prefigure baptism (1 Peter 3:20-21). The Edenic abundance of Brueghel's landscape also recalls the original creation blessing of Genesis 1:20-25, where God brought forth every living creature and declared it good. The peaceful coexistence of predator and prey in the procession evokes Isaiah 11:6-9, the eschatological vision of the peaceable kingdom where the wolf lies down with the lamb -- a redemptive reversal that the ark's preservation of life anticipates.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.7.8-9",
+      "relevance": "primary",
+      "reason": "The animals entering the ark two by two, clean and unclean, as God commanded -- the painting's direct subject."
+    },
+    {
+      "ref": "GEN.6.19-20",
+      "relevance": "primary",
+      "reason": "God's command to Noah to bring two of every kind into the ark to keep them alive."
+    },
+    {
+      "ref": "GEN.7.15-16",
+      "relevance": "primary",
+      "reason": "The animals came to Noah and the Lord shut him in -- divine sovereignty governing the entire event."
+    },
+    {
+      "ref": "1PE.3.20-21",
+      "relevance": "typological",
+      "reason": "The ark and Flood waters as types of baptism and salvation through Christ."
+    },
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "typological",
+      "reason": "The peaceable kingdom where diverse creatures coexist, foreshadowed by the harmonious procession."
+    },
+    {
+      "ref": "GEN.1.20-25",
+      "relevance": "allusion",
+      "reason": "God's creation of every living creature, whose abundance and diversity are celebrated in the painting."
+    },
+    {
+      "ref": "GEN.9.8-17",
+      "relevance": "allusion",
+      "reason": "God's post-Flood covenant with every living creature, the ultimate purpose of their preservation."
+    },
+    {
+      "ref": "HEB.11.7",
+      "relevance": "allusion",
+      "reason": "By faith Noah prepared an ark for the saving of his household, becoming an heir of righteousness."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "abundant",
+    "wondrous",
+    "serene",
+    "majestic"
+  ],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0040598",
+    "title": "The Entry of the Animals into Noah's Ark",
+    "artist": "Jan Brueghel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

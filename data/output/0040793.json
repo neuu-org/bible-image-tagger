@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "High Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Witnesses",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Betrothal of Mary and Joseph",
+  "tags": [
+    "betrothal",
+    "marriage",
+    "temple ceremony",
+    "holy family origin",
+    "apocryphal tradition",
+    "columned interior",
+    "priestly blessing",
+    "sacred union",
+    "preparation for incarnation",
+    "obedience to divine plan"
+  ],
+  "symbols": [
+    "joined hands — covenant bond of marriage ordained by God",
+    "temple columns — sacred setting indicating divine sanction of the union",
+    "high priest — God's mediating authority over the holy covenant",
+    "gathered witnesses — the community of Israel affirming the betrothal",
+    "architectural threshold — the liminal moment before the Incarnation narrative begins"
+  ],
+  "description": "A sepia-toned drawing depicts a ceremonial scene inside a columned temple or portico. At the center, a priest stands on a raised step joining the hands of a young woman and an older bearded man, surrounded by a crowd of witnesses in flowing robes. The architectural setting features tall classical columns and an arched doorway in the background. Figures are arranged in a processional semicircle, some kneeling, others standing in attitudes of solemn attention. The delicate linework and warm wash give the composition a sketch-like, preparatory quality.",
+  "theological_description": "The Betrothal of Mary and Joseph, drawn from the Protoevangelium of James and medieval tradition, represents the divinely orchestrated preparation for the Incarnation. Though not narrated in canonical scripture, Matthew 1:18 presupposes the betrothal ('before they came together'), and the event holds deep theological significance: God arranged that His Son would be born within a lawful marriage to protect both Mary's honor and the child's legal Davidic lineage (Matt 1:1-16). Joseph's role as guardian and legal father fulfills the prophecy that the Messiah would come from David's house (2 Sam 7:12-13). The temple setting emphasizes that this union is not merely social but liturgical -- a covenant act under priestly authority. Patristic writers (Jerome, Ambrose) stressed that Mary's virginity was preserved within marriage, making the betrothal a mystery of grace: the highest consecration coexisting with the conjugal bond.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.18",
+      "relevance": "primary",
+      "reason": "States that Mary was betrothed to Joseph before the conception by the Holy Spirit -- the canonical basis for this scene."
+    },
+    {
+      "ref": "LUK.1.27",
+      "relevance": "primary",
+      "reason": "Identifies Mary as a virgin betrothed to a man named Joseph of the house of David."
+    },
+    {
+      "ref": "MAT.1.1-16",
+      "relevance": "typological",
+      "reason": "The genealogy establishing Jesus's Davidic lineage through Joseph, which the betrothal legally secures."
+    },
+    {
+      "ref": "2SA.7.12-13",
+      "relevance": "typological",
+      "reason": "God's promise to David of an eternal throne, fulfilled through Joseph's Davidic line."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "allusion",
+      "reason": "The virgin shall conceive -- the betrothal sets the stage for this prophetic fulfillment."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "ceremonial",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0040793",
+    "title": "Betrothal of Mary and Joseph",
+    "artist": "Mikhail Vrubel",
+    "model": "claude-opus-4-6"
+  }
+}
