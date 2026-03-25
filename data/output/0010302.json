@@ -1,12 +1,32 @@
 {
   "characters": [
-    {"name": "Jesus", "type": "DEITY"},
-    {"name": "Mary", "type": "PERSON"},
-    {"name": "Angel", "type": "ANGEL"},
-    {"name": "Shepherds", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
   ],
   "event": "Nativity of Jesus Christ",
-  "tags": ["nativity", "birth-of-christ", "manger", "incarnation", "mother-and-child", "animals", "stable"],
+  "tags": [
+    "nativity",
+    "birth-of-christ",
+    "manger",
+    "incarnation",
+    "mother-and-child",
+    "animals",
+    "stable"
+  ],
   "symbols": [
     "infant Christ — the Incarnation of God in human flesh",
     "manger and stable — humility of divine condescension",
@@ -17,14 +37,44 @@
   "description": "A Tahitian-contextualized Nativity scene rendered in warm golden-yellow tones. In the foreground, a Polynesian woman sits holding the infant Jesus. Behind her stands an angel with dark wings. In the middle ground, cattle and other animals rest near a simple open shelter where a figure reclines on a bed. The setting is tropical with wooden posts and lush ground, transposing the Bethlehem scene into a Pacific Island context.",
   "theological_description": "Gauguin's Tahitian Nativity transposes the Incarnation into a Polynesian setting, embodying the universal reach of the Gospel. The birth of Christ in Luke 2 records how the Savior of the world was born in the humblest circumstances — laid in a manger because there was no room in the inn. By placing this scene among Tahitian people, the painting affirms that the Word became flesh not for one culture alone but for all nations (Matt 28:19). The angel's presence recalls the heavenly host that announced 'good news of great joy for all the people' (Luke 2:10). The animals echo Isaiah's prophecy that 'the ox knows its owner' (Isa 1:3), traditionally read as creation recognizing its Maker. Mary's central, seated posture with the child evokes the Theotokos tradition — the God-bearer through whom the Eternal entered time. The warm golden atmosphere suggests the light that shines in the darkness (John 1:5), the divine glory radiating from the humble birth of Emmanuel.",
   "scripture_refs": [
-    {"ref": "LUK.2.7", "relevance": "primary", "reason": "Mary gave birth to her firstborn son, wrapped him in cloths, and laid him in a manger"},
-    {"ref": "LUK.2.10", "relevance": "primary", "reason": "The angel announces good news of great joy for all the people"},
-    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us"},
-    {"ref": "ISA.1.3", "relevance": "typological", "reason": "The ox knows its owner — animals at the manger recognizing the Creator"},
-    {"ref": "MAT.28.19", "relevance": "allusion", "reason": "Go and make disciples of all nations — the universal scope depicted by the Tahitian setting"}
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary gave birth to her firstborn son, wrapped him in cloths, and laid him in a manger"
+    },
+    {
+      "ref": "LUK.2.10",
+      "relevance": "primary",
+      "reason": "The angel announces good news of great joy for all the people"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "typological",
+      "reason": "The ox knows its owner — animals at the manger recognizing the Creator"
+    },
+    {
+      "ref": "MAT.28.19",
+      "relevance": "allusion",
+      "reason": "Go and make disciples of all nations — the universal scope depicted by the Tahitian setting"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["serene", "warm", "contemplative", "reverent"],
+  "mood": [
+    "serene",
+    "warm",
+    "contemplative",
+    "reverent"
+  ],
   "period": "Gospel",
-  "_meta": {"key": "0010302", "title": "Baby (Nativity of Tahitian Christ)", "artist": "Paul Gauguin", "model": "claude-opus-4-6"}
+  "_meta": {
+    "key": "0010302",
+    "title": "Baby (Nativity of Tahitian Christ)",
+    "artist": "Paul Gauguin",
+    "model": "claude-opus-4-6"
+  }
 }

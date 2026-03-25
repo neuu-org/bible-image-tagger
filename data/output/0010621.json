@@ -1,10 +1,22 @@
 {
   "characters": [
-    {"name": "Abraham", "type": "PERSON"},
-    {"name": "Isaac", "type": "PERSON"}
+    {
+      "name": "Abraham",
+      "type": "PERSON"
+    },
+    {
+      "name": "Isaac",
+      "type": "PERSON"
+    }
   ],
   "event": "Abraham and Isaac journey to Mount Moriah for the sacrifice",
-  "tags": ["Binding of Isaac", "Aqedah", "sacrifice", "obedience", "faith tested"],
+  "tags": [
+    "binding-of-isaac",
+    "aqedah",
+    "sacrifice",
+    "obedience",
+    "faith-tested"
+  ],
   "symbols": [
     "bundle of wood on Isaac's back — the cross carried by Christ to Calvary",
     "Abraham's hand on Isaac's shoulder — paternal authority and anguished resolve",
@@ -14,14 +26,38 @@
   "description": "A close, intimate composition showing Abraham and Isaac walking together. Young Isaac carries a large bundle of firewood strapped to his back, while the elderly bearded Abraham, draped in a heavy brown cloak, places his right hand on the boy's shoulder and gestures forward with purpose. Isaac looks up toward his father with an expression of trust and mild concern. The dark, turbulent landscape and overcast sky behind them create a mood of foreboding. The painting is cropped tightly, emphasizing the emotional bond between father and son.",
   "theological_description": "The Binding of Isaac (Aqedah) is one of the most profound tests of faith in Scripture. God commands Abraham to offer his only beloved son Isaac as a burnt offering on Mount Moriah. Abraham obeys without protest, trusting that God, who had promised descendants through Isaac, could even raise him from the dead if necessary. The journey to Moriah, with Isaac unknowingly carrying the wood for his own sacrifice, is among the richest typological narratives in the Bible. The early Church Fathers consistently read this passage as a prefiguration of the Passion: Isaac carrying the wood parallels Christ bearing His cross; Abraham's willingness to sacrifice his only son mirrors the Father offering His only begotten Son; and the ram caught in the thicket, which God provides as a substitute, prefigures the Lamb of God who takes away the sin of the world. The mountain itself is traditionally identified with the Temple Mount in Jerusalem, linking Abraham's sacrifice to the site of Christ's redemptive death. God's declaration, 'Now I know that you fear God, since you have not withheld your son, your only son, from me,' is echoed in Paul's assurance that God 'did not spare His own Son but gave Him up for us all.'",
   "scripture_refs": [
-    {"ref": "Gen.22.1-14", "relevance": "primary", "reason": "The complete narrative of the Binding of Isaac, the journey, and God's provision of the ram"},
-    {"ref": "Gen.22.6", "relevance": "primary", "reason": "Isaac carrying the wood for the burnt offering, the specific moment depicted"},
-    {"ref": "Heb.11.17-19", "relevance": "typological", "reason": "Abraham's faith that God could raise Isaac from the dead, receiving him back as a type"},
-    {"ref": "Rom.8.32", "relevance": "typological", "reason": "God who did not spare His own Son, echoing Abraham's offering of Isaac"},
-    {"ref": "John.1.29", "relevance": "typological", "reason": "The Lamb of God who takes away sin, fulfilling the substitute ram of Moriah"}
+    {
+      "ref": "GEN.22.1-14",
+      "relevance": "primary",
+      "reason": "The complete narrative of the Binding of Isaac, the journey, and God's provision of the ram"
+    },
+    {
+      "ref": "GEN.22.6",
+      "relevance": "primary",
+      "reason": "Isaac carrying the wood for the burnt offering, the specific moment depicted"
+    },
+    {
+      "ref": "HEB.11.17-19",
+      "relevance": "typological",
+      "reason": "Abraham's faith that God could raise Isaac from the dead, receiving him back as a type"
+    },
+    {
+      "ref": "ROM.8.32",
+      "relevance": "typological",
+      "reason": "God who did not spare His own Son, echoing Abraham's offering of Isaac"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The Lamb of God who takes away sin, fulfilling the substitute ram of Moriah"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["solemn", "tense", "poignant"],
+  "mood": [
+    "solemn",
+    "tense",
+    "poignant"
+  ],
   "period": "Patriarchal",
   "_meta": {
     "key": "0010621",

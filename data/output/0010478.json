@@ -1,16 +1,19 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
   ],
   "event": "Lamentation of the Virgin (Pietà)",
   "tags": [
-    "Pietà",
-    "Mater Dolorosa",
+    "pietà",
+    "mater-dolorosa",
     "lamentation",
-    "grief of Mary",
-    "Passion of Christ",
-    "clasped hands",
-    "upward gaze",
+    "grief-of-mary",
+    "passion-of-christ",
+    "clasped-hands",
+    "upward-gaze",
     "sorrow",
     "prayer"
   ],
@@ -24,14 +27,44 @@
   "description": "A half-length portrait of the Virgin Mary shown from the waist up against a dark, almost black background. She wears a soft blue robe with a white or cream-colored veil covering her head. Her hands are clasped together at her chest in a gesture of prayer or grief. Her face is turned upward and slightly to the right, eyes gazing heavenward with an expression of deep sorrow mingled with resignation. The lighting illuminates her face and hands, creating a strong chiaroscuro effect. The painting conveys profound maternal grief with quiet dignity.",
   "theological_description": "This detail from Sebastiano del Piombo's Pietà isolates the figure of the Mater Dolorosa — the Sorrowful Mother — at the foot of the Cross or beside the body of her dead Son. The image fulfills Simeon's prophecy at the Presentation: 'a sword will pierce through your own soul also' (Luke 2:35). Mary's upward gaze enacts the prayer of lament found throughout the Psalms, particularly Psalm 13:1 ('How long, O Lord?') and Psalm 22, the psalm Jesus himself cried from the Cross. Her clasped hands express the fiat of Luke 1:38 sustained through its most agonizing test — saying 'yes' to God even when that obedience leads to watching her Son die. The dark background evokes the three hours of darkness over the land (Matt 27:45). In patristic and medieval theology, Mary at the Cross (John 19:25-27) becomes the new Eve whose faithful sorrow reverses Eve's disobedience, and she is given as mother to the beloved disciple and, through him, to the whole Church. Her grief is not despair but the suffering of hope — she who treasured all things in her heart (Luke 2:51) now endures the Passion as co-sufferer with redemptive trust.",
   "scripture_refs": [
-    {"ref": "John.19.25-27", "relevance": "primary", "reason": "Mary standing at the foot of the Cross, the direct narrative context of the Pietà"},
-    {"ref": "Luke.2.35", "relevance": "primary", "reason": "Simeon's prophecy that a sword would pierce Mary's soul, fulfilled at the Crucifixion"},
-    {"ref": "Matt.27.45-46", "relevance": "primary", "reason": "The darkness over the land and the cry of dereliction, the Passion context of Mary's grief"},
-    {"ref": "Ps.13.1-2", "relevance": "allusion", "reason": "The psalm of lament echoed in Mary's upward gaze of sorrowful questioning"},
-    {"ref": "Luke.1.38", "relevance": "typological", "reason": "Mary's original fiat sustained through its most painful consequence at Calvary"}
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary standing at the foot of the Cross, the direct narrative context of the Pietà"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul, fulfilled at the Crucifixion"
+    },
+    {
+      "ref": "MAT.27.45-46",
+      "relevance": "primary",
+      "reason": "The darkness over the land and the cry of dereliction, the Passion context of Mary's grief"
+    },
+    {
+      "ref": "PSA.13.1-2",
+      "relevance": "allusion",
+      "reason": "The psalm of lament echoed in Mary's upward gaze of sorrowful questioning"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "typological",
+      "reason": "Mary's original fiat sustained through its most painful consequence at Calvary"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["grief", "resignation", "solemnity", "hope"],
+  "mood": [
+    "grief",
+    "resignation",
+    "solemnity",
+    "hope"
+  ],
   "period": "Gospel",
-  "_meta": {"key": "0010478", "title": "Pietà (detail)", "artist": "Sebastiano del Piombo", "model": "claude-opus-4-6"}
+  "_meta": {
+    "key": "0010478",
+    "title": "Pietà (detail)",
+    "artist": "Sebastiano del Piombo",
+    "model": "claude-opus-4-6"
+  }
 }

@@ -1,8 +1,11 @@
 {
   "characters": [
-    {"name": "Young Women (Demi-Vierges)", "type": "GROUP"}
+    {
+      "name": "Young Women (Demi-Vierges)",
+      "type": "GROUP"
+    }
   ],
-  "event": "",
+  "event": "A half of a Virgin",
   "tags": [
     "female-figure",
     "flowers",
@@ -22,7 +25,11 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "portrait",
-  "mood": ["elegance", "lightness", "coyness"],
+  "mood": [
+    "elegance",
+    "lightness",
+    "coyness"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000762",

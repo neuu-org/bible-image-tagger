@@ -1,8 +1,11 @@
 {
   "characters": [
-    {"name": "Self-portrait figure", "type": "PERSON"}
+    {
+      "name": "Self-portrait figure",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
+  "event": "Self-Portrait in Hell",
   "tags": [
     "self-portrait",
     "hell",
@@ -10,7 +13,6 @@
     "nude-figure",
     "flames",
     "psychological-torment",
-    "expressionism",
     "damnation",
     "inner-darkness",
     "spiritual-crisis",
@@ -22,7 +24,12 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "portrait",
-  "mood": ["anguished", "infernal", "desolate", "haunting"],
+  "mood": [
+    "anguished",
+    "infernal",
+    "desolate",
+    "haunting"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0031127",

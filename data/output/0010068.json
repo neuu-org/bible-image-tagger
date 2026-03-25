@@ -1,8 +1,11 @@
 {
   "characters": [
-    {"name": "Worshippers", "type": "GROUP"}
+    {
+      "name": "Worshippers",
+      "type": "GROUP"
+    }
   ],
-  "event": "",
+  "event": "Tomb of Sheikh Salim Chishti in Fatehpur Sikri",
   "tags": [
     "tomb",
     "mosque",
@@ -18,7 +21,15 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "landscape",
-  "mood": ["serene", "reverent"],
+  "mood": [
+    "serene",
+    "reverent"
+  ],
   "period": "Non-biblical",
-  "_meta": {"key": "0010068", "title": "Tomb of Sheikh Salim Chishti in Fatehpur Sikri", "artist": "Vasily Vereshchagin", "model": "claude-opus-4-6"}
+  "_meta": {
+    "key": "0010068",
+    "title": "Tomb of Sheikh Salim Chishti in Fatehpur Sikri",
+    "artist": "Vasily Vereshchagin",
+    "model": "claude-opus-4-6"
+  }
 }

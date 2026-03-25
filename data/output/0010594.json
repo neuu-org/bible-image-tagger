@@ -1,12 +1,31 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Moses", "type": "PERSON"},
-    {"name": "Elijah", "type": "PERSON"},
-    {"name": "Disciples", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elijah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
   ],
   "event": "Transfiguration of Jesus on the mountain",
-  "tags": ["transfiguration", "divine glory", "mandorla", "wall painting", "Orthodox iconography", "IC XC inscription"],
+  "tags": [
+    "transfiguration",
+    "divine-glory",
+    "mandorla",
+    "wall-painting",
+    "orthodox-iconography",
+    "ic-xc-inscription"
+  ],
   "symbols": [
     "blue mandorla — divine glory and heavenly realm surrounding Christ",
     "white robes — radiant purity and divinity revealed",
@@ -17,14 +36,38 @@
   "description": "An Orthodox wall painting depicting the Transfiguration. Christ stands centrally in luminous white robes within a large blue mandorla, bearing the IC XC inscription. He is flanked by two haloed figures, Moses on the left in reddish-brown garments and Elijah on the right in green. Below Christ, dark angular shapes suggest the prostrate disciples overwhelmed by the vision. The composition is painted directly on wooden planks in a modern iconographic style with bold, simplified forms and flat color fields.",
   "theological_description": "The Transfiguration is a pivotal theophanic event in the Synoptic Gospels. On a high mountain, Jesus reveals His divine glory to Peter, James, and John. His face shone like the sun and His garments became dazzling white. Moses and Elijah appeared conversing with Him, representing the Law and the Prophets respectively, both of which find their fulfillment in Christ. The disciples fell prostrate in terror when the voice of the Father spoke from the bright cloud, declaring Jesus as His beloved Son. This event prefigures the resurrection glory and confirms Jesus' divine identity. In Orthodox theology, the Transfiguration holds special significance as a manifestation of the uncreated light (Tabor Light), revealing that the divine energies can be perceived by the purified human person. The mandorla encircling Christ represents the intersection of heaven and earth in His person. The event also parallels Moses' encounter with God on Mount Sinai, where his face shone so brightly he had to veil it, yet Christ's glory surpasses Moses' reflected radiance as the source of divine light itself.",
   "scripture_refs": [
-    {"ref": "Matt.17.1-9", "relevance": "primary", "reason": "Matthew's account of Jesus' Transfiguration on the mountain with Moses and Elijah"},
-    {"ref": "Mark.9.2-8", "relevance": "primary", "reason": "Mark's parallel account of the Transfiguration event"},
-    {"ref": "Luke.9.28-36", "relevance": "primary", "reason": "Luke's account including detail that Moses and Elijah spoke of Jesus' coming exodus in Jerusalem"},
-    {"ref": "2Pet.1.16-18", "relevance": "allusion", "reason": "Peter's later testimony of witnessing Christ's majesty on the holy mountain"},
-    {"ref": "Exod.34.29-35", "relevance": "typological", "reason": "Moses' face shining after encountering God on Sinai prefigures Christ's radiant Transfiguration"}
+    {
+      "ref": "MAT.17.1-9",
+      "relevance": "primary",
+      "reason": "Matthew's account of Jesus' Transfiguration on the mountain with Moses and Elijah"
+    },
+    {
+      "ref": "MRK.9.2-8",
+      "relevance": "primary",
+      "reason": "Mark's parallel account of the Transfiguration event"
+    },
+    {
+      "ref": "LUK.9.28-36",
+      "relevance": "primary",
+      "reason": "Luke's account including detail that Moses and Elijah spoke of Jesus' coming exodus in Jerusalem"
+    },
+    {
+      "ref": "2PE.1.16-18",
+      "relevance": "allusion",
+      "reason": "Peter's later testimony of witnessing Christ's majesty on the holy mountain"
+    },
+    {
+      "ref": "EXO.34.29-35",
+      "relevance": "typological",
+      "reason": "Moses' face shining after encountering God on Sinai prefigures Christ's radiant Transfiguration"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["transcendent", "awe-inspiring", "solemn"],
+  "mood": [
+    "transcendent",
+    "awe-inspiring",
+    "solemn"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0010594",

@@ -1,24 +1,30 @@
 {
   "characters": [
-    {"name": "Sarai", "type": "PERSON"},
-    {"name": "Hagar", "type": "PERSON"}
+    {
+      "name": "Sarai",
+      "type": "PERSON"
+    },
+    {
+      "name": "Hagar",
+      "type": "PERSON"
+    }
   ],
   "event": "Sarai sends Hagar away from the tent of Abram",
   "tags": [
-    "domestic conflict",
-    "barrenness and surrogacy",
-    "covenant household",
-    "two covenants allegory",
-    "free woman and bondwoman",
-    "tent of the patriarchs",
+    "domestic-conflict",
+    "barrenness-and-surrogacy",
+    "covenant-household",
+    "two-covenants-allegory",
+    "free-woman-and-bondwoman",
+    "tent-of-the-patriarchs",
     "expulsion",
     "jealousy",
-    "servant and mistress",
-    "Pauline typology of Sinai and Jerusalem",
-    "prefiguration of Israel and the Church",
-    "matriarchal authority",
-    "desert exile",
-    "divine promise versus human arrangement"
+    "servant-and-mistress",
+    "pauline-typology-of-sinai-and-jerusalem",
+    "prefiguration-of-israel-and-the-church",
+    "matriarchal-authority",
+    "desert-exile",
+    "divine-promise-versus-human-arrangement"
   ],
   "symbols": [
     "tent — the patriarchal household and dwelling of the covenant promise",
@@ -33,16 +39,49 @@
   "description": "A woman in white garments and dark headcovering reclines on a mat beneath a large striped tent, her body turned toward a second woman who stands at the tent's edge. The standing woman wears a blue-grey garment and white headcovering, carrying a round tray or plate, her posture turned away as if departing. Between them lie richly colored rugs, cushions, and domestic implements. The arid, hilly landscape stretches behind the tent under a pale sky. The scene conveys tension and dismissal, with the seated woman's commanding gesture and the standing woman's reluctant departure.",
   "theological_description": "This scene captures one of the Old Testament's most theologically charged domestic conflicts. Sarai, unable to conceive, had given her Egyptian maidservant Hagar to Abram as a surrogate (Gen 16:1-3), but when Hagar conceived and began to despise her mistress, Sarai dealt harshly with her, driving her away. The Apostle Paul in Galatians 4:21-31 reads this narrative typologically: Hagar represents the covenant of Sinai, bearing children into slavery, while Sarah represents the heavenly Jerusalem and the covenant of promise. The expulsion of Hagar prefigures the supersession of the old covenant by the new. The Church Fathers, particularly Origen and Augustine, saw in Hagar's exile a type of the synagogue cast out, and in Sarah's barrenness followed by miraculous fertility a type of the Church, long barren among the Gentiles, who would bear many children through grace. The tent itself becomes a locus of covenant identity — who belongs within the household of promise and who must depart into the wilderness, where God nonetheless hears the outcast (the name Ishmael meaning 'God hears').",
   "scripture_refs": [
-    {"ref": "Gen.16.1-6", "relevance": "primary", "reason": "The direct narrative of Sarai giving Hagar to Abram and then dealing harshly with her, causing Hagar to flee"},
-    {"ref": "Gen.21.9-14", "relevance": "primary", "reason": "The later, definitive expulsion of Hagar and Ishmael by Sarah after Isaac's birth, which this image may also evoke"},
-    {"ref": "Gal.4.21-31", "relevance": "typological", "reason": "Paul's allegory of the two women as two covenants: Hagar as Sinai/bondage, Sarah as the Jerusalem above/freedom"},
-    {"ref": "Gen.16.7-13", "relevance": "allusion", "reason": "The Angel of the Lord finds Hagar in the wilderness and promises her descendants, showing God's care for the expelled"},
-    {"ref": "Gen.17.15-19", "relevance": "allusion", "reason": "God's covenant promise that Sarah herself will bear Isaac, the child of promise, making the surrogate arrangement unnecessary"},
-    {"ref": "Isa.54.1", "relevance": "typological", "reason": "The barren woman who will rejoice with many children — Paul quotes this in Galatians 4:27 as fulfilled in the Church through Sarah's line"},
-    {"ref": "Rom.9.6-9", "relevance": "typological", "reason": "Paul's teaching that not all of Abraham's descendants are children of promise, distinguishing Isaac from Ishmael"}
+    {
+      "ref": "GEN.16.1-6",
+      "relevance": "primary",
+      "reason": "The direct narrative of Sarai giving Hagar to Abram and then dealing harshly with her, causing Hagar to flee"
+    },
+    {
+      "ref": "GEN.21.9-14",
+      "relevance": "primary",
+      "reason": "The later, definitive expulsion of Hagar and Ishmael by Sarah after Isaac's birth, which this image may also evoke"
+    },
+    {
+      "ref": "GAL.4.21-31",
+      "relevance": "typological",
+      "reason": "Paul's allegory of the two women as two covenants: Hagar as Sinai/bondage, Sarah as the Jerusalem above/freedom"
+    },
+    {
+      "ref": "GEN.16.7-13",
+      "relevance": "allusion",
+      "reason": "The Angel of the Lord finds Hagar in the wilderness and promises her descendants, showing God's care for the expelled"
+    },
+    {
+      "ref": "GEN.17.15-19",
+      "relevance": "allusion",
+      "reason": "God's covenant promise that Sarah herself will bear Isaac, the child of promise, making the surrogate arrangement unnecessary"
+    },
+    {
+      "ref": "ISA.54.1",
+      "relevance": "typological",
+      "reason": "The barren woman who will rejoice with many children — Paul quotes this in Galatians 4:27 as fulfilled in the Church through Sarah's line"
+    },
+    {
+      "ref": "ROM.9.6-9",
+      "relevance": "typological",
+      "reason": "Paul's teaching that not all of Abraham's descendants are children of promise, distinguishing Isaac from Ishmael"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["tension", "dismissal", "sorrow", "authority"],
+  "mood": [
+    "tension",
+    "dismissal",
+    "sorrow",
+    "authority"
+  ],
   "period": "Patriarchal",
   "_meta": {
     "key": "0000110",

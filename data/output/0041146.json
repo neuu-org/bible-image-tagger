@@ -1,6 +1,9 @@
 {
   "characters": [
-    {"name": "Saint Francis of Assisi", "type": "PERSON"}
+    {
+      "name": "Saint Francis of Assisi",
+      "type": "PERSON"
+    }
   ],
   "event": "The Meditation of Saint Francis of Assisi",
   "tags": [
@@ -25,18 +28,51 @@
     "dark background — the darkness of the cell and the via negativa, stripping away sensory consolation to find God in silence"
   ],
   "description": "A solitary friar kneels in a dark, undefined space, his body draped in a coarse brown Franciscan habit with a knotted rope cincture. His pointed cowl is pulled up, casting deep shadow over his face so that his features are barely visible. He cradles a human skull in both hands, gazing down at it in intense contemplation. Beside him on a rough stone ledge rests a closed book. The entire composition is steeped in deep chiaroscuro, with warm golden light falling on the habit and skull while the background dissolves into near-total darkness.",
-  "theological_description": "Zurbaran's Meditation of Saint Francis presents the Poverello in the classic Counter-Reformation posture of penitential contemplation, holding a skull as the supreme memento mori. Francis of Assisi (1181/82-1226), who received the stigmata on Mount La Verna, pursued the most radical imitatio Christi in Christian history. His meditation on death is not morbid but theological: by confronting mortality, the saint strips away attachment to the transient and fixes the soul upon the eternal. The skull recalls Ecclesiastes 12:1-7, 'Remember your Creator in the days of your youth, before the evil days come,' and Psalm 90:12, 'Teach us to number our days, that we may gain a heart of wisdom.' The brown habit represents Francis's absolute poverty — his literal obedience to Christ's command to the rich young ruler: 'Go, sell what you possess and give to the poor' (Matthew 19:21). The knotted rope cincture with its three knots symbolizes the three Franciscan vows: poverty, chastity, and obedience. The closed book suggests that Francis has moved beyond discursive meditation on Scripture into infused contemplation — the wordless prayer of the heart that the mystics describe as the soul's direct gaze upon God. The deep chiaroscuro is itself theological: Francis prays in darkness, in the 'dark night' that John of the Cross would later articulate, where God purifies the soul by removing sensory consolation. Yet the warm light that falls on the habit and skull comes from an unseen source — the divine light that illumines even death, transforming the skull from an object of horror into a portal of hope. Paul's declaration that 'to die is gain' (Philippians 1:21) finds its visual embodiment here.",
+  "theological_description": "Zurbaran's Meditation of Saint Francis presents the Poverello in the classic Counter-Reformation posture of penitential contemplation, holding a skull as the supreme memento mori. Francis of Assisi (1181/82-1226), who received the stigmata on Mount La Verna, pursued the most radical imitatio Christi in Christian history. His meditation on death is not morbid but theological: by confronting mortality, the saint strips away attachment to the transient and fixes the soul upon the eternal. The skull recalls Ecclesiastes 12:1-7, 'Remember your Creator in the days of your youth, before the evil days come,' and Psalm 90:12, 'Teach us to number our days, that we may gain a heart of wisdom.' The brown habit represents Francis's absolute poverty — his literal obedience to Christ's command to the rich young ruler: 'Go, sell what you possess and give to the poor' (Matthew 19:21). The knotted rope cincture with its three knots symbolizes the three Franciscan vows: poverty, chastity, and obedience. The closed book suggests that Francis has moved beyond discursive meditation on Scripture into infused contemplation — the wordless prayer of the heart that the mystics describe as the soul's direct gaze upon God. The deep chiaroscuro is itself theological: Francis prays in darkness, in the 'dark night' that John of the Cross would later articulate, where God purifies the soul by removing sensory consolation.",
   "scripture_refs": [
-    {"ref": "PHP.1.21", "relevance": "primary", "reason": "For me to live is Christ, and to die is gain — the foundational Pauline text for Francis's joyful meditation on death as entrance into Christ's presence"},
-    {"ref": "MAT.19.21", "relevance": "primary", "reason": "Go, sell what you possess and give to the poor, and you will have treasure in heaven — the Gospel command that Francis took literally, embodied in his poor habit"},
-    {"ref": "GAL.6.14", "relevance": "primary", "reason": "Far be it from me to boast except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world — Francis's total renunciation"},
-    {"ref": "PSA.90.12", "relevance": "typological", "reason": "Teach us to number our days, that we may gain a heart of wisdom — the theological purpose of meditating on the skull"},
-    {"ref": "ECC.12.1-7", "relevance": "typological", "reason": "Remember your Creator before the silver cord is severed — the Preacher's memento mori that Francis enacts by holding the skull"},
-    {"ref": "GAL.2.20", "relevance": "allusion", "reason": "I have been crucified with Christ; it is no longer I who live — Francis as the supreme exemplar of dying to self"},
-    {"ref": "2CO.4.16-18", "relevance": "allusion", "reason": "We do not lose heart; our outer self is wasting away while our inner self is being renewed — the theology of mortal decay yielding to eternal glory"}
+    {
+      "ref": "PHP.1.21",
+      "relevance": "primary",
+      "reason": "For me to live is Christ, and to die is gain — the foundational Pauline text for Francis's joyful meditation on death as entrance into Christ's presence"
+    },
+    {
+      "ref": "MAT.19.21",
+      "relevance": "primary",
+      "reason": "Go, sell what you possess and give to the poor, and you will have treasure in heaven — the Gospel command that Francis took literally, embodied in his poor habit"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "primary",
+      "reason": "Far be it from me to boast except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world — Francis's total renunciation"
+    },
+    {
+      "ref": "PSA.90.12",
+      "relevance": "typological",
+      "reason": "Teach us to number our days, that we may gain a heart of wisdom — the theological purpose of meditating on the skull"
+    },
+    {
+      "ref": "ECC.12.1-7",
+      "relevance": "typological",
+      "reason": "Remember your Creator before the silver cord is severed — the Preacher's memento mori that Francis enacts by holding the skull"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "allusion",
+      "reason": "I have been crucified with Christ; it is no longer I who live — Francis as the supreme exemplar of dying to self"
+    },
+    {
+      "ref": "2CO.4.16-18",
+      "relevance": "allusion",
+      "reason": "We do not lose heart; our outer self is wasting away while our inner self is being renewed — the theology of mortal decay yielding to eternal glory"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["contemplative", "penitential", "solemn", "austere"],
+  "mood": [
+    "contemplative",
+    "penitential",
+    "solemn",
+    "austere"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0041146",

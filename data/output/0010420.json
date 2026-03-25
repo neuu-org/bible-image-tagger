@@ -1,9 +1,19 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
   ],
   "event": "Salvator Mundi — Christ as Saviour of the World",
-  "tags": ["Salvator Mundi", "Christ portrait", "open book", "blessing", "Incarnation", "divine sovereignty"],
+  "tags": [
+    "salvator-mundi",
+    "christ-portrait",
+    "open-book",
+    "blessing",
+    "incarnation",
+    "divine-sovereignty"
+  ],
   "symbols": [
     "open book — the Word of God and Christ as the Logos who reveals the Father",
     "rose-red tunic — Christ's humanity and sacrificial love",
@@ -14,14 +24,38 @@
   "description": "A half-length portrait of Christ against a dark background with a green drapery to the right. He has long, flowing auburn curls, a youthful and serene face, and gazes directly at the viewer. He wears a rose-red tunic with a gold neckline and a blue mantle draped over his left shoulder. His right hand rests upon or holds an open book, its pages facing the viewer. The painting is rendered in Correggio's characteristic sfumato softness with warm, luminous flesh tones.",
   "theological_description": "Correggio's Salvator Mundi presents Christ as the incarnate Word who holds forth the book of divine revelation. The title 'Saviour of the World' draws upon John 4:42 and 1 John 4:14, affirming Christ's universal salvific mission. The open book signifies Christ as the Logos (John 1:1), the living Word through whom all things were made and in whom all Scripture finds its fulfillment (Luke 24:27). The dual colors of his garments encode the Chalcedonian doctrine of two natures in one person: the red of his humanity and sacrificial blood, the blue of his eternal divinity. His calm, penetrating gaze invites personal encounter, recalling his words 'I am the way, the truth, and the life' (John 14:6). The Salvator Mundi iconographic tradition affirms Christ's lordship over all creation and his offer of salvation to every soul that beholds him in faith.",
   "scripture_refs": [
-    {"ref": "John.4.42", "relevance": "primary", "reason": "The Samaritans declare Jesus 'the Saviour of the world,' the core title of this iconography"},
-    {"ref": "1John.4.14", "relevance": "primary", "reason": "The Father sent the Son to be the Saviour of the world"},
-    {"ref": "John.1.1", "relevance": "primary", "reason": "Christ as the Logos, the Word of God, symbolized by the open book he holds"},
-    {"ref": "John.14.6", "relevance": "allusion", "reason": "Christ's direct gaze recalls his self-revelation as the way, truth, and life"},
-    {"ref": "Col.1.15-Col.1.17", "relevance": "typological", "reason": "Christ as image of the invisible God and sustainer of all things, reflected in his sovereign composure"}
+    {
+      "ref": "JHN.4.42",
+      "relevance": "primary",
+      "reason": "The Samaritans declare Jesus 'the Saviour of the world,' the core title of this iconography"
+    },
+    {
+      "ref": "1JN.4.14",
+      "relevance": "primary",
+      "reason": "The Father sent the Son to be the Saviour of the world"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "primary",
+      "reason": "Christ as the Logos, the Word of God, symbolized by the open book he holds"
+    },
+    {
+      "ref": "JHN.14.6",
+      "relevance": "allusion",
+      "reason": "Christ's direct gaze recalls his self-revelation as the way, truth, and life"
+    },
+    {
+      "ref": "COL.1.15-Col.1.17",
+      "relevance": "typological",
+      "reason": "Christ as image of the invisible God and sustainer of all things, reflected in his sovereign composure"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["serene", "majestic", "contemplative"],
+  "mood": [
+    "serene",
+    "majestic",
+    "contemplative"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0010420",

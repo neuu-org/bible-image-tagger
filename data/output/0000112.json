@@ -1,24 +1,30 @@
 {
   "characters": [
-    {"name": "Judas Iscariot", "type": "PERSON"},
-    {"name": "Female figure", "type": "OTHER"}
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female figure",
+      "type": "OTHER"
+    }
   ],
   "event": "The thirty pieces of silver — the price of betrayal",
   "tags": [
-    "betrayal of Christ",
-    "blood money",
-    "thirty pieces of silver",
-    "Judas Iscariot",
-    "the price of a slave",
-    "Zechariah's prophecy fulfilled",
-    "neo-expressionist reinterpretation",
-    "sin and temptation",
+    "betrayal-of-christ",
+    "blood-money",
+    "thirty-pieces-of-silver",
+    "judas-iscariot",
+    "the-price-of-a-slave",
+    "zechariah's-prophecy-fulfilled",
+    "neo-expressionist-reinterpretation",
+    "sin-and-temptation",
     "avarice",
-    "the potter's field",
-    "covenant broken for silver",
-    "typology of Joseph sold by his brothers",
-    "corruption of the sacred",
-    "spiritual darkness"
+    "the-potter's-field",
+    "covenant-broken-for-silver",
+    "typology-of-joseph-sold-by-his-brothers",
+    "corruption-of-the-sacred",
+    "spiritual-darkness"
   ],
   "symbols": [
     "silver coins or scattered drops — the thirty pieces of silver, the price of betraying the Messiah",
@@ -31,17 +37,54 @@
   "description": "A composition dominated by deep blues and whites. On the right stands a large nude female figure rendered in blue with a serene or smiling face, her body outlined against a white background. At center-left, a large white triangle points upward with small oval shapes scattered around or falling from it. In the upper left, a dark figure holds what appears to be a butterfly or flower, surrounded by deep indigo and black tones. Geometric diamond shapes fill the lower portion. The palette is restricted to shades of blue, white, and silver, creating an atmosphere of nocturnal mystery and unease.",
   "theological_description": "Chris Ofili's abstract meditation on the thirty pieces of silver engages one of Scripture's most theologically dense moments: the commodification of the incarnate God. In Matthew 26:14-16, Judas asks the chief priests what they will give him to deliver Jesus, and they weigh out thirty silver coins — the exact price Mosaic law assigned for a gored slave (Exod 21:32). This deliberate echo underscores the scandalous reduction of the Creator to the value of a servant. Zechariah 11:12-13 prophesied this 'lordly price' with bitter irony, commanding the prophet to throw the silver to the potter in the house of the Lord — fulfilled when Judas, seized by remorse, hurled the coins into the Temple and the priests used them to buy the potter's field (Matt 27:3-10). The Fathers saw in Judas a type of fallen humanity that trades eternal treasure for temporal gain. The pervasive darkness in the image evokes John's note that when Judas left the Last Supper, 'it was night' (John 13:30) — a theological darkness, the hour when the power of evil held sway. The abstract female form may evoke the personification of worldly temptation or the 'strange woman' of Proverbs whose path leads to death, while the scattered silver shapes recall both the coins and the shattering of covenantal fidelity.",
   "scripture_refs": [
-    {"ref": "Matt.26.14-16", "relevance": "primary", "reason": "Judas agrees with the chief priests to betray Jesus for thirty pieces of silver"},
-    {"ref": "Matt.27.3-10", "relevance": "primary", "reason": "Judas's remorse, the return of the silver, and the purchase of the potter's field fulfilling prophecy"},
-    {"ref": "Zech.11.12-13", "relevance": "typological", "reason": "The prophet receives thirty pieces of silver as his wages and is told to throw them to the potter — a direct prophetic prefiguration"},
-    {"ref": "Exod.21.32", "relevance": "typological", "reason": "Thirty shekels of silver was the price of a slave gored by an ox, linking the betrayal price to the valuation of a servant"},
-    {"ref": "John.13.27-30", "relevance": "allusion", "reason": "After receiving the morsel, Satan enters Judas and he goes out — and it was night; the theological darkness surrounding the betrayal"},
-    {"ref": "Gen.37.26-28", "relevance": "typological", "reason": "Joseph sold by his brothers for twenty pieces of silver — a patriarchal type of the innocent one betrayed for money"},
-    {"ref": "Prov.7.21-27", "relevance": "allusion", "reason": "The seductive woman whose house leads to death — a possible allusion evoked by the female figure in the context of temptation and ruin"},
-    {"ref": "Acts.1.18-19", "relevance": "allusion", "reason": "Peter's account of Judas's fate and the Field of Blood purchased with the reward of wickedness"}
+    {
+      "ref": "MAT.26.14-16",
+      "relevance": "primary",
+      "reason": "Judas agrees with the chief priests to betray Jesus for thirty pieces of silver"
+    },
+    {
+      "ref": "MAT.27.3-10",
+      "relevance": "primary",
+      "reason": "Judas's remorse, the return of the silver, and the purchase of the potter's field fulfilling prophecy"
+    },
+    {
+      "ref": "ZEC.11.12-13",
+      "relevance": "typological",
+      "reason": "The prophet receives thirty pieces of silver as his wages and is told to throw them to the potter — a direct prophetic prefiguration"
+    },
+    {
+      "ref": "EXO.21.32",
+      "relevance": "typological",
+      "reason": "Thirty shekels of silver was the price of a slave gored by an ox, linking the betrayal price to the valuation of a servant"
+    },
+    {
+      "ref": "JHN.13.27-30",
+      "relevance": "allusion",
+      "reason": "After receiving the morsel, Satan enters Judas and he goes out — and it was night; the theological darkness surrounding the betrayal"
+    },
+    {
+      "ref": "GEN.37.26-28",
+      "relevance": "typological",
+      "reason": "Joseph sold by his brothers for twenty pieces of silver — a patriarchal type of the innocent one betrayed for money"
+    },
+    {
+      "ref": "PRO.7.21-27",
+      "relevance": "allusion",
+      "reason": "The seductive woman whose house leads to death — a possible allusion evoked by the female figure in the context of temptation and ruin"
+    },
+    {
+      "ref": "ACT.1.18-19",
+      "relevance": "allusion",
+      "reason": "Peter's account of Judas's fate and the Field of Blood purchased with the reward of wickedness"
+    }
   ],
   "scene_type": "symbolic",
-  "mood": ["darkness", "mystery", "foreboding", "corruption"],
+  "mood": [
+    "darkness",
+    "mystery",
+    "foreboding",
+    "corruption"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0000112",

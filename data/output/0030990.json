@@ -1,25 +1,34 @@
 {
   "characters": [
-    {"name": "Abraham", "type": "PERSON"},
-    {"name": "Three Angels", "type": "GROUP"},
-    {"name": "Sarah", "type": "PERSON"}
+    {
+      "name": "Abraham",
+      "type": "PERSON"
+    },
+    {
+      "name": "Three Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Sarah",
+      "type": "PERSON"
+    }
   ],
   "event": "The three angels visit Abraham at Mamre",
   "tags": [
     "theophany",
     "hospitality",
-    "trinitarian prefiguration",
-    "annunciation of Isaac",
-    "covenant promise",
-    "oak of Mamre",
-    "angelic visitation",
+    "trinitarian-prefiguration",
+    "annunciation-of-isaac",
+    "covenant-promise",
+    "oak-of-mamre",
+    "angelic-visitation",
     "ruins",
     "kneeling",
-    "divine messengers",
-    "patriarchal encounter",
-    "three visitors",
-    "promise of a son",
-    "ivy-covered architecture"
+    "divine-messengers",
+    "patriarchal-encounter",
+    "three-visitors",
+    "promise-of-a-son",
+    "ivy-covered-architecture"
   ],
   "symbols": [
     "three visitors — patristic tradition (Augustine, Ambrose) reads the three angels as a prefiguration of the Trinity; Abraham sees three but addresses One",
@@ -31,17 +40,54 @@
   "description": "An elderly bearded man kneels before three winged figures standing near a large ruined building overgrown with ivy. The angels are dressed in flowing robes, one gesturing toward the kneeling patriarch. Behind the group, a woman observes from a slight distance. The architecture is crumbling, with classical columns and walls partially covered in climbing vegetation. A stormy sky darkens overhead. The palette is dominated by earthy browns and muted golds, with dramatic chiaroscuro typical of Dutch Baroque painting.",
   "theological_description": "The visit of three angels to Abraham at the oaks of Mamre (Genesis 18:1-15) is one of the most theologically dense theophanies in Scripture. The text oscillates between singular and plural address — 'The LORD appeared to him' yet 'he saw three men' — generating centuries of trinitarian interpretation. The Church Fathers, especially Augustine in De Trinitate, saw this as a veiled revelation of the Triune God: three Persons, one divine visitation. In Eastern Orthodox theology, Andrei Rublev's icon of this scene became the definitive image of the Trinity. The visitors announce the impossible: Sarah, long past childbearing age, will have a son. This announcement parallels the Annunciation to Mary (Luke 1:37, 'Nothing is impossible with God'), establishing a typological arc from the miraculous birth of Isaac to the virginal conception of Christ. Abraham's hospitality becomes paradigmatic — Hebrews 13:2 warns that some have 'entertained angels unawares,' directly referencing this episode. The meal Abraham prepares foreshadows eucharistic hospitality: God comes to the human table, and in the breaking of bread, impossible promises are spoken into being. Sarah's laughter at the divine promise (Gen 18:12) and her later naming of Isaac ('he laughs') encode the paradox of faith: what seems absurd to human reckoning is the very substance of divine faithfulness.",
   "scripture_refs": [
-    {"ref": "Gen.18.1-15", "relevance": "primary", "reason": "The direct narrative: the LORD appears to Abraham at Mamre through three visitors who announce Sarah will bear a son"},
-    {"ref": "Gen.18.2-3", "relevance": "primary", "reason": "Abraham sees three men yet addresses them as 'my Lord' (singular), the basis for trinitarian interpretation"},
-    {"ref": "Heb.13.2", "relevance": "primary", "reason": "Direct reference to this episode: 'Do not neglect hospitality, for some have entertained angels without knowing it'"},
-    {"ref": "Luk.1.37", "relevance": "typological", "reason": "Gabriel's words to Mary, 'Nothing is impossible with God,' echo the angel's question to Sarah, 'Is anything too hard for the LORD?'"},
-    {"ref": "Gen.18.14", "relevance": "primary", "reason": "The pivotal theological question: 'Is anything too hard for the LORD?' — establishing God's sovereignty over nature"},
-    {"ref": "Gen.21.1-3", "relevance": "primary", "reason": "The fulfillment of the promise: Isaac is born, vindicating the angelic announcement"},
-    {"ref": "Rom.4.18-21", "relevance": "typological", "reason": "Paul's exposition of Abraham's faith in the promise against all natural hope, the paradigm of justification by faith"},
-    {"ref": "Gen.12.1-3", "relevance": "allusion", "reason": "The foundational Abrahamic covenant that this visitation reaffirms and specifies with the promise of Isaac"}
+    {
+      "ref": "GEN.18.1-15",
+      "relevance": "primary",
+      "reason": "The direct narrative: the LORD appears to Abraham at Mamre through three visitors who announce Sarah will bear a son"
+    },
+    {
+      "ref": "GEN.18.2-3",
+      "relevance": "primary",
+      "reason": "Abraham sees three men yet addresses them as 'my Lord' (singular), the basis for trinitarian interpretation"
+    },
+    {
+      "ref": "HEB.13.2",
+      "relevance": "primary",
+      "reason": "Direct reference to this episode: 'Do not neglect hospitality, for some have entertained angels without knowing it'"
+    },
+    {
+      "ref": "LUK.1.37",
+      "relevance": "typological",
+      "reason": "Gabriel's words to Mary, 'Nothing is impossible with God,' echo the angel's question to Sarah, 'Is anything too hard for the LORD?'"
+    },
+    {
+      "ref": "GEN.18.14",
+      "relevance": "primary",
+      "reason": "The pivotal theological question: 'Is anything too hard for the LORD?' — establishing God's sovereignty over nature"
+    },
+    {
+      "ref": "GEN.21.1-3",
+      "relevance": "primary",
+      "reason": "The fulfillment of the promise: Isaac is born, vindicating the angelic announcement"
+    },
+    {
+      "ref": "ROM.4.18-21",
+      "relevance": "typological",
+      "reason": "Paul's exposition of Abraham's faith in the promise against all natural hope, the paradigm of justification by faith"
+    },
+    {
+      "ref": "GEN.12.1-3",
+      "relevance": "allusion",
+      "reason": "The foundational Abrahamic covenant that this visitation reaffirms and specifies with the promise of Isaac"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["reverent", "mysterious", "solemn", "expectant"],
+  "mood": [
+    "reverent",
+    "mysterious",
+    "solemn",
+    "expectant"
+  ],
   "period": "Patriarchal",
   "_meta": {
     "key": "0030990",

@@ -1,10 +1,25 @@
 {
   "characters": [
-    {"name": "Saint Bonaventure", "type": "PERSON"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Angels and putti", "type": "ANGEL"},
-    {"name": "Franciscan friars", "type": "GROUP"},
-    {"name": "Attendant figures", "type": "GROUP"}
+    {
+      "name": "Saint Bonaventure",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels and putti",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Franciscan friars",
+      "type": "GROUP"
+    },
+    {
+      "name": "Attendant figures",
+      "type": "GROUP"
+    }
   ],
   "event": "Saint Bonaventure receiving the Banner of the Holy Sepulchre from the Madonna",
   "tags": [
@@ -17,8 +32,7 @@
     "heavenly-investiture",
     "custodianship",
     "devotion",
-    "putti",
-    "chiaroscuro"
+    "putti"
   ],
   "symbols": [
     "Banner of the Holy Sepulchre handed down from heaven — divine commissioning of a sacred mission, recalling Christ's Great Commission (Mt 28:18-19)",
@@ -63,7 +77,12 @@
     }
   ],
   "scene_type": "narrative",
-  "mood": ["dramatic", "majestic", "solemn", "reverent"],
+  "mood": [
+    "dramatic",
+    "majestic",
+    "solemn",
+    "reverent"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000553",

@@ -1,20 +1,29 @@
 {
   "characters": [
-    {"name": "Christ Pantocrator", "type": "DEITY"},
-    {"name": "Angels", "type": "ANGEL"},
-    {"name": "Saints", "type": "GROUP"}
+    {
+      "name": "Christ Pantocrator",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
   ],
   "event": "Christ enthroned in glory",
   "tags": [
-    "cathedral interior",
-    "dome mosaic",
+    "cathedral-interior",
+    "dome-mosaic",
     "pendentives",
     "arches",
-    "Armenian Christian art",
-    "Pantocrator iconography",
-    "sacred architecture",
-    "polychrome decoration",
-    "Byzantine influence"
+    "armenian-christian-art",
+    "pantocrator-iconography",
+    "sacred-architecture",
+    "polychrome-decoration",
+    "byzantine-influence"
   ],
   "symbols": [
     "dome — the vault of heaven and the dwelling of God",
@@ -26,13 +35,38 @@
   "description": "Interior view of the Armenian Cathedral in Lviv looking upward into the central dome. The octagonal dome is adorned with a mosaic depicting Christ or heavenly figures, surrounded by ornate polychrome patterns in gold, red, green, and blue. Pendentives with large figures of saints or angels in red robes connect the dome to the arches below. Elaborate floral and geometric mosaic patterns cover every surface. Windows at the drum of the dome admit natural light. The overall impression is of richly layered sacred decoration in a Byzantine-Armenian style.",
   "theological_description": "The architectural program of a domed church encodes a comprehensive theology of heaven and earth. The dome represents the celestial sphere — the abode of God — and placing Christ or the divine presence at its apex expresses the cosmic lordship proclaimed in Colossians 1:15-17. The descending hierarchy of angels and saints on the pendentives and walls mirrors the ecclesiology of the Church as the body of Christ extending from heaven to earth. Light filtering through the drum windows symbolizes the uncreated light of God entering creation, recalling the Transfiguration (Matt 17:1-8). Armenian Christian iconography draws on both Byzantine and indigenous traditions, emphasizing the Incarnation as the meeting point of divine glory and material creation. The lavish ornamentation reflects the theology that sacred spaces are icons of the heavenly Jerusalem described in Revelation 21, where every surface radiates the glory of God.",
   "scripture_refs": [
-    {"ref": "Rev.21.10-11", "relevance": "typological", "reason": "The richly adorned cathedral interior prefigures the heavenly Jerusalem descending in splendor"},
-    {"ref": "Col.1.15-17", "relevance": "allusion", "reason": "Christ depicted at the apex of the dome affirms his supremacy over all creation"},
-    {"ref": "Matt.17.1-2", "relevance": "allusion", "reason": "Light penetrating the dome evokes the divine radiance of the Transfiguration"},
-    {"ref": "Exod.25.8-9", "relevance": "typological", "reason": "The ornate sacred space echoes God's command to build a sanctuary so He may dwell among His people"}
+    {
+      "ref": "REV.21.10-11",
+      "relevance": "typological",
+      "reason": "The richly adorned cathedral interior prefigures the heavenly Jerusalem descending in splendor"
+    },
+    {
+      "ref": "COL.1.15-17",
+      "relevance": "allusion",
+      "reason": "Christ depicted at the apex of the dome affirms his supremacy over all creation"
+    },
+    {
+      "ref": "MAT.17.1-2",
+      "relevance": "allusion",
+      "reason": "Light penetrating the dome evokes the divine radiance of the Transfiguration"
+    },
+    {
+      "ref": "EXO.25.8-9",
+      "relevance": "typological",
+      "reason": "The ornate sacred space echoes God's command to build a sanctuary so He may dwell among His people"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["reverence", "transcendence", "awe"],
+  "mood": [
+    "reverence",
+    "transcendence",
+    "awe"
+  ],
   "period": "Liturgical",
-  "_meta": {"key": "0010454", "title": "Mosaic in the Armenian Cathedral in Lviv", "artist": "Józef Mehoffer", "model": "claude-opus-4-6"}
+  "_meta": {
+    "key": "0010454",
+    "title": "Mosaic in the Armenian Cathedral in Lviv",
+    "artist": "Józef Mehoffer",
+    "model": "claude-opus-4-6"
+  }
 }

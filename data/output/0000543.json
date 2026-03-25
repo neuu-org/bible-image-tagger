@@ -1,16 +1,30 @@
 {
   "characters": [
-    {"name": "Saint Catherine of Siena", "type": "PERSON"},
-    {"name": "Saint Benedict", "type": "PERSON"},
-    {"name": "Saint Jerome", "type": "PERSON"},
-    {"name": "Christ", "type": "DEITY"},
-    {"name": "Angels and putti", "type": "ANGEL"}
+    {
+      "name": "Saint Catherine of Siena",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Benedict",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels and putti",
+      "type": "ANGEL"
+    }
   ],
   "event": "Saint Catherine of Siena receiving the stigmata, flanked by Saints Benedict and Jerome",
   "tags": [
     "stigmata",
     "mystical-vision",
-    "sacra-conversazione",
     "dominican-order",
     "divine-light",
     "ecstasy",
@@ -69,7 +83,12 @@
     }
   ],
   "scene_type": "narrative",
-  "mood": ["mystical", "ecstatic", "solemn", "reverent"],
+  "mood": [
+    "mystical",
+    "ecstatic",
+    "solemn",
+    "reverent"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000543",

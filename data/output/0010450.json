@@ -1,10 +1,24 @@
 {
   "characters": [
-    {"name": "Moses", "type": "PERSON"},
-    {"name": "Israelites", "type": "GROUP"}
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    }
   ],
   "event": "Crossing of the Red Sea",
-  "tags": ["Exodus", "Red Sea crossing", "deliverance", "miracle", "liberation", "pilgrimage", "divine intervention"],
+  "tags": [
+    "exodus",
+    "red-sea-crossing",
+    "deliverance",
+    "miracle",
+    "liberation",
+    "pilgrimage",
+    "divine-intervention"
+  ],
   "symbols": [
     "parted sea — God's sovereign power over creation to deliver His people",
     "dry land amid waters — salvation through judgment, passage from bondage to freedom",
@@ -15,14 +29,39 @@
   "description": "A sweeping panoramic composition showing the Israelites crossing the sea on a narrow strip of dry land. A vast, turbulent crowd of men, women, children, animals, and laden carts presses forward between walls of churning water under a dramatic, storm-darkened sky. Figures in white robes, some carrying bundles and leading livestock, dominate the foreground. A figure beneath a raised canopy near the center suggests Moses or a leader guiding the people. The sea crashes on both sides, heightening the drama and urgency of the scene.",
   "theological_description": "Kotarbinski's monumental canvas depicts the defining salvation event of the Old Testament: the crossing of the Red Sea (Exod 14). After Pharaoh's refusal to release the Israelites, God parted the waters so His people could pass on dry ground, then closed them upon the pursuing Egyptian army. This event became the paradigmatic act of divine deliverance in Israel's memory, celebrated annually at Passover and invoked throughout the Psalms and Prophets (Ps 77:19-20, Isa 43:16-17). In Christian typology, the crossing prefigures baptism (1 Cor 10:1-2): as Israel passed through the waters from slavery to freedom, so believers pass through the waters of baptism from sin to new life in Christ. The Fathers also saw in the crossing an image of Christ's Paschal victory, descending into death and rising to liberate humanity. The painting captures the mingled terror and hope of the moment, the vulnerable human multitude sustained solely by God's outstretched arm.",
   "scripture_refs": [
-    {"ref": "Exod.14.21-Exod.14.29", "relevance": "primary", "reason": "The direct biblical account of God parting the Red Sea and Israel crossing on dry ground"},
-    {"ref": "Exod.15.1-Exod.15.21", "relevance": "primary", "reason": "The Song of Moses and Miriam celebrating the deliverance at the sea"},
-    {"ref": "1Cor.10.1-1Cor.10.2", "relevance": "typological", "reason": "Paul identifies the sea crossing as a type of baptism into Moses, prefiguring Christian baptism"},
-    {"ref": "Ps.77.19-Ps.77.20", "relevance": "allusion", "reason": "Your way was through the sea, your path through the great waters; you led your people like a flock by the hand of Moses"},
-    {"ref": "Isa.43.16-Isa.43.17", "relevance": "allusion", "reason": "The Lord who makes a way in the sea, recalling the Exodus deliverance as promise of future salvation"}
+    {
+      "ref": "EXO.14.21-Exod.14.29",
+      "relevance": "primary",
+      "reason": "The direct biblical account of God parting the Red Sea and Israel crossing on dry ground"
+    },
+    {
+      "ref": "EXO.15.1-Exod.15.21",
+      "relevance": "primary",
+      "reason": "The Song of Moses and Miriam celebrating the deliverance at the sea"
+    },
+    {
+      "ref": "1CO.10.1-1Cor.10.2",
+      "relevance": "typological",
+      "reason": "Paul identifies the sea crossing as a type of baptism into Moses, prefiguring Christian baptism"
+    },
+    {
+      "ref": "PSA.77.19-Ps.77.20",
+      "relevance": "allusion",
+      "reason": "Your way was through the sea, your path through the great waters; you led your people like a flock by the hand of Moses"
+    },
+    {
+      "ref": "ISA.43.16-Isa.43.17",
+      "relevance": "allusion",
+      "reason": "The Lord who makes a way in the sea, recalling the Exodus deliverance as promise of future salvation"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["dramatic", "awe-inspiring", "urgent", "hopeful"],
+  "mood": [
+    "dramatic",
+    "awe-inspiring",
+    "urgent",
+    "hopeful"
+  ],
   "period": "Exodus",
   "_meta": {
     "key": "0010450",

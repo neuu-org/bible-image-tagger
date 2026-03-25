@@ -1,9 +1,15 @@
 {
   "characters": [
-    {"name": "Woman", "type": "PERSON"},
-    {"name": "Children", "type": "GROUP"}
+    {
+      "name": "Woman",
+      "type": "PERSON"
+    },
+    {
+      "name": "Children",
+      "type": "GROUP"
+    }
   ],
-  "event": "",
+  "event": "By the Canal, Venice",
   "tags": [
     "venice",
     "canal",
@@ -23,7 +29,11 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "landscape",
-  "mood": ["tranquil", "domestic", "contemplative"],
+  "mood": [
+    "tranquil",
+    "domestic",
+    "contemplative"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0030178",

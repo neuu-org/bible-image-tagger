@@ -1,7 +1,13 @@
 {
   "characters": [
-    {"name": "Cain", "type": "PERSON"},
-    {"name": "Abel", "type": "PERSON"}
+    {
+      "name": "Cain",
+      "type": "PERSON"
+    },
+    {
+      "name": "Abel",
+      "type": "PERSON"
+    }
   ],
   "event": "Cain Slaying Abel",
   "tags": [
@@ -9,11 +15,9 @@
     "fratricide",
     "murder",
     "first-murder",
-    "grisaille",
     "altarpiece-detail",
     "ghent-altarpiece",
     "stone-sculpture",
-    "trompe-loeil",
     "violence",
     "sin",
     "jealousy",
@@ -30,15 +34,44 @@
   "description": "A lunette-shaped panel rendered in monochrome grisaille to simulate carved stone relief. Within a shallow arched niche, a muscular figure in a short tunic straddles a fallen figure and raises a weapon — a jawbone or club — high above his head with both hands, about to deliver a killing blow. The victim lies on his back beneath the attacker, mouth open, one arm raised defensively. The figures are modeled with strong chiaroscuro to create a convincing three-dimensional sculptural effect against the dark concave niche.",
   "theological_description": "This grisaille panel from the exterior of the Ghent Altarpiece depicts the first murder in human history: Cain slaying his brother Abel (Genesis 4:1-16). The event stands as the immediate consequence of the Fall — the first fruit of Adam and Eve's disobedience is the shedding of innocent blood within the very first family. Cain's rage was provoked by God's acceptance of Abel's offering and rejection of his own, revealing that sin, once admitted through disobedience, rapidly escalates from envy to murder. God had warned Cain that sin was 'crouching at the door' (Genesis 4:7), and the image captures the moment when Cain yields fully to that beast. Theologically, Abel becomes the first type of Christ: the innocent shepherd whose blood cries out from the ground (Genesis 4:10), just as Christ's blood 'speaks a better word than the blood of Abel' (Hebrews 12:24). The Church Fathers consistently read this scene as the archetype of the persecution of the righteous by the wicked, of the faithful remnant by the worldly. Its placement on the Ghent Altarpiece connects the Fall's consequences to the redemption offered within — the interior panels showing the Adoration of the Lamb, whose blood answers Abel's cry at last.",
   "scripture_refs": [
-    {"ref": "GEN.4.1-16", "relevance": "primary", "reason": "The account of Cain murdering Abel out of jealousy after God rejected his offering — the scene directly depicted"},
-    {"ref": "GEN.4.7", "relevance": "primary", "reason": "God's warning to Cain that sin is crouching at the door — the theological backdrop to the violence shown"},
-    {"ref": "GEN.4.10", "relevance": "primary", "reason": "Abel's blood cries out from the ground to God — the immediate aftermath of the murder depicted"},
-    {"ref": "HEB.12.24", "relevance": "typological", "reason": "Christ's blood speaks a better word than Abel's — Abel as the first type of the innocent victim whose death demands divine justice"},
-    {"ref": "HEB.11.4", "relevance": "typological", "reason": "By faith Abel offered a more acceptable sacrifice — his righteousness is the cause of Cain's murderous jealousy"},
-    {"ref": "1JN.3.12", "relevance": "allusion", "reason": "John warns not to be like Cain who was of the evil one and murdered his brother because his own deeds were evil"}
+    {
+      "ref": "GEN.4.1-16",
+      "relevance": "primary",
+      "reason": "The account of Cain murdering Abel out of jealousy after God rejected his offering — the scene directly depicted"
+    },
+    {
+      "ref": "GEN.4.7",
+      "relevance": "primary",
+      "reason": "God's warning to Cain that sin is crouching at the door — the theological backdrop to the violence shown"
+    },
+    {
+      "ref": "GEN.4.10",
+      "relevance": "primary",
+      "reason": "Abel's blood cries out from the ground to God — the immediate aftermath of the murder depicted"
+    },
+    {
+      "ref": "HEB.12.24",
+      "relevance": "typological",
+      "reason": "Christ's blood speaks a better word than Abel's — Abel as the first type of the innocent victim whose death demands divine justice"
+    },
+    {
+      "ref": "HEB.11.4",
+      "relevance": "typological",
+      "reason": "By faith Abel offered a more acceptable sacrifice — his righteousness is the cause of Cain's murderous jealousy"
+    },
+    {
+      "ref": "1JN.3.12",
+      "relevance": "allusion",
+      "reason": "John warns not to be like Cain who was of the evil one and murdered his brother because his own deeds were evil"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["violent", "ominous", "tragic", "primal"],
+  "mood": [
+    "violent",
+    "ominous",
+    "tragic",
+    "primal"
+  ],
   "period": "Antediluvian",
   "_meta": {
     "key": "0011160",

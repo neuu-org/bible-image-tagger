@@ -1,8 +1,11 @@
 {
   "characters": [
-    {"name": "Flute Player", "type": "PERSON"}
+    {
+      "name": "Flute Player",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
+  "event": "Kwela Boy",
   "tags": [
     "flautist",
     "musical-instrument",
@@ -25,7 +28,11 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "portrait",
-  "mood": ["joyful", "vibrant", "contemplative"],
+  "mood": [
+    "joyful",
+    "vibrant",
+    "contemplative"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0010984",

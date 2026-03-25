@@ -1,9 +1,15 @@
 {
   "characters": [
-    {"name": "Indigenous Peoples", "type": "GROUP"},
-    {"name": "Colonial Officials", "type": "GROUP"}
+    {
+      "name": "Indigenous Peoples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Colonial Officials",
+      "type": "GROUP"
+    }
   ],
-  "event": "",
+  "event": "The Subjugation of Truth",
   "tags": [
     "colonialism",
     "treaty-signing",
@@ -26,7 +32,12 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "narrative",
-  "mood": ["tense", "somber", "confrontational", "oppressive"],
+  "mood": [
+    "tense",
+    "somber",
+    "confrontational",
+    "oppressive"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0010964",

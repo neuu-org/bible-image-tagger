@@ -1,9 +1,15 @@
 {
   "characters": [
-    {"name": "Seated Figures", "type": "GROUP"},
-    {"name": "Standing Figure", "type": "PERSON"}
+    {
+      "name": "Seated Figures",
+      "type": "GROUP"
+    },
+    {
+      "name": "Standing Figure",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
+  "event": "Coffee in Las Golondrinas",
   "tags": [
     "courtyard",
     "arch",
@@ -19,7 +25,10 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "landscape",
-  "mood": ["tranquil", "contemplative"],
+  "mood": [
+    "tranquil",
+    "contemplative"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0010111",

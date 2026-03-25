@@ -1,9 +1,15 @@
 {
   "characters": [
-    {"name": "Camel Rider", "type": "PERSON"},
-    {"name": "Solitary Figure", "type": "PERSON"}
+    {
+      "name": "Camel Rider",
+      "type": "PERSON"
+    },
+    {
+      "name": "Solitary Figure",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
+  "event": "Impressions of Cairo",
   "tags": [
     "cairo",
     "holy-land",
@@ -24,12 +30,28 @@
   "description": "A sunlit view of a partially ruined mosque or tomb complex in Cairo. A large domed structure with an ornate minaret rises at left, its walls crumbling and weathered. To the right, a stone wall with a large pointed archway frames a passage. A lone figure rides a camel across the dusty open ground between the buildings. Another small figure stands near the ruined wall at far left. The sky is bright blue with scattered white clouds.",
   "theological_description": "",
   "scripture_refs": [
-    {"ref": "GEN.12.10", "relevance": "allusion", "reason": "Egypt and Cairo evoke the biblical motif of sojourning in Egypt, beginning with Abraham's descent during famine"},
-    {"ref": "ISA.19.1", "relevance": "allusion", "reason": "Oracle concerning Egypt — the LORD rides on a swift cloud and comes to Egypt, and the idols of Egypt tremble"},
-    {"ref": "HEB.11.13-16", "relevance": "allusion", "reason": "The solitary pilgrim amid ancient ruins evokes the theme of strangers and pilgrims on earth seeking a better country"}
+    {
+      "ref": "GEN.12.10",
+      "relevance": "allusion",
+      "reason": "Egypt and Cairo evoke the biblical motif of sojourning in Egypt, beginning with Abraham's descent during famine"
+    },
+    {
+      "ref": "ISA.19.1",
+      "relevance": "allusion",
+      "reason": "Oracle concerning Egypt — the LORD rides on a swift cloud and comes to Egypt, and the idols of Egypt tremble"
+    },
+    {
+      "ref": "HEB.11.13-16",
+      "relevance": "allusion",
+      "reason": "The solitary pilgrim amid ancient ruins evokes the theme of strangers and pilgrims on earth seeking a better country"
+    }
   ],
   "scene_type": "landscape",
-  "mood": ["contemplative", "melancholic", "serene"],
+  "mood": [
+    "contemplative",
+    "melancholic",
+    "serene"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0001107",

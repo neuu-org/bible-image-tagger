@@ -1,8 +1,17 @@
 {
   "characters": [
-    {"name": "Saint Barbara", "type": "PERSON"},
-    {"name": "Barbara van Vlaenderbergh", "type": "PERSON"},
-    {"name": "Daughters of the Moreel family", "type": "GROUP"}
+    {
+      "name": "Barbara",
+      "type": "PERSON"
+    },
+    {
+      "name": "Barbara van Vlaenderbergh",
+      "type": "PERSON"
+    },
+    {
+      "name": "Daughters of the Moreel family",
+      "type": "GROUP"
+    }
   ],
   "event": "Donor portrait of the female members of the Moreel family presented by their patron Saint Barbara",
   "tags": [
@@ -61,7 +70,12 @@
     }
   ],
   "scene_type": "portrait",
-  "mood": ["serene", "devotional", "dignified", "contemplative"],
+  "mood": [
+    "serene",
+    "devotional",
+    "dignified",
+    "contemplative"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000595",

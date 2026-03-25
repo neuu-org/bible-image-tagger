@@ -1,9 +1,18 @@
 {
   "characters": [
-    {"name": "Parisian salon guests", "type": "GROUP"}
+    {
+      "name": "Parisian salon guests",
+      "type": "GROUP"
+    }
   ],
-  "event": "",
-  "tags": ["salon scene", "Parisian society", "musical performance", "Belle Epoque", "genre painting"],
+  "event": "Personnages",
+  "tags": [
+    "salon-scene",
+    "parisian-society",
+    "musical-performance",
+    "belle-epoque",
+    "genre-painting"
+  ],
   "symbols": [
     "red-shaded lamp — warmth and intimacy of the social gathering",
     "piano — culture and refined artistic pursuit",
@@ -13,7 +22,11 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "narrative",
-  "mood": ["elegant", "warm", "festive"],
+  "mood": [
+    "elegant",
+    "warm",
+    "festive"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0010617",

@@ -1,9 +1,18 @@
 {
   "characters": [
-    {"name": "Jesus", "type": "DEITY"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
   ],
   "event": "Christ carrying the Cross to Calvary",
-  "tags": ["carrying-the-cross", "passion", "crown-of-thorns", "via-dolorosa", "suffering-servant"],
+  "tags": [
+    "carrying-the-cross",
+    "passion",
+    "crown-of-thorns",
+    "via-dolorosa",
+    "suffering-servant"
+  ],
   "symbols": [
     "cross — instrument of redemption and atoning sacrifice",
     "crown of thorns — mockery of kingship transformed into true sovereignty through suffering",
@@ -14,14 +23,44 @@
   "description": "A close-up half-length portrait of Christ bearing the cross. Jesus gazes upward with tear-filled eyes, wearing a crown of thorns pressed into his brow and a pinkish-red robe. His right hand grips the heavy wooden cross beam. Blood and tears mark his face. The dark background isolates the figure, concentrating all attention on Christ's anguished yet resolute expression. The palette is dominated by warm flesh tones against deep shadow.",
   "theological_description": "El Greco's Christ Carrying the Cross captures the Via Dolorosa, the sorrowful road from Pilate's judgment hall to Golgotha (John 19:17). Christ bears the cross alone, fulfilling Isaiah's prophecy of the Suffering Servant who was 'wounded for our transgressions' and 'bore the sin of many' (Isa 53:5,12). The crown of thorns, placed by Roman soldiers as mockery (Matt 27:29), becomes paradoxically the true crown of the King of Kings, for Christ's kingdom is established precisely through suffering. His upward gaze reflects the prayer in Gethsemane — 'not my will, but yours be done' (Luke 22:42) — a perfect submission to the Father even unto death. The tears evoke Hebrews 5:7, which says that in the days of his flesh he offered prayers and supplications with loud cries and tears. The isolation of the figure against darkness suggests the loneliness of the Passion, when disciples fled and Jesus trod the winepress alone (Isa 63:3). Yet in this very suffering lies the hope of redemption for all humanity.",
   "scripture_refs": [
-    {"ref": "JHN.19.17", "relevance": "primary", "reason": "Jesus went out carrying his own cross to the place called The Skull"},
-    {"ref": "ISA.53.5", "relevance": "primary", "reason": "He was wounded for our transgressions, crushed for our iniquities"},
-    {"ref": "MAT.27.29", "relevance": "primary", "reason": "They twisted together a crown of thorns and placed it on his head"},
-    {"ref": "LUK.22.42", "relevance": "allusion", "reason": "Christ's upward gaze reflects 'not my will but yours be done'"},
-    {"ref": "HEB.5.7", "relevance": "allusion", "reason": "He offered prayers with loud cries and tears to the one who could save him from death"}
+    {
+      "ref": "JHN.19.17",
+      "relevance": "primary",
+      "reason": "Jesus went out carrying his own cross to the place called The Skull"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "primary",
+      "reason": "He was wounded for our transgressions, crushed for our iniquities"
+    },
+    {
+      "ref": "MAT.27.29",
+      "relevance": "primary",
+      "reason": "They twisted together a crown of thorns and placed it on his head"
+    },
+    {
+      "ref": "LUK.22.42",
+      "relevance": "allusion",
+      "reason": "Christ's upward gaze reflects 'not my will but yours be done'"
+    },
+    {
+      "ref": "HEB.5.7",
+      "relevance": "allusion",
+      "reason": "He offered prayers with loud cries and tears to the one who could save him from death"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["anguished", "resolute", "sorrowful", "devotional"],
+  "mood": [
+    "anguished",
+    "resolute",
+    "sorrowful",
+    "devotional"
+  ],
   "period": "Gospel",
-  "_meta": {"key": "0010328", "title": "Christ carrying the cross", "artist": "El Greco", "model": "claude-opus-4-6"}
+  "_meta": {
+    "key": "0010328",
+    "title": "Christ carrying the cross",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
 }

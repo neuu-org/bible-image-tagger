@@ -1,9 +1,20 @@
 {
   "characters": [
-    {"name": "Saint Blaise", "type": "PERSON"}
+    {
+      "name": "Saint Blaise",
+      "type": "PERSON"
+    }
   ],
   "event": "Depiction of a bishop saint in episcopal vestments",
-  "tags": ["bishop", "saint", "crozier", "mitre", "episcopal vestments", "altarpiece", "triptych"],
+  "tags": [
+    "bishop",
+    "saint",
+    "crozier",
+    "mitre",
+    "episcopal-vestments",
+    "altarpiece",
+    "triptych"
+  ],
   "symbols": [
     "mitre — episcopal authority and teaching office of the bishop",
     "crozier — pastoral care and shepherding of the flock",
@@ -13,13 +24,33 @@
   "description": "A full-length portrait of a bishop saint standing within a stone architectural niche. He wears a richly jeweled mitre, a brown cope over a gold-embroidered chasuble bearing images of saints in niches, and a white alb. He holds a crozier in his right hand and extends his left hand in a gesture of blessing or presentation. The figure is rendered with Memling's characteristic serene realism and meticulous detail.",
   "theological_description": "This panel from the Lubeck Cathedral altar triptych depicts a bishop saint, most likely St. Blaise, one of the Fourteen Holy Helpers venerated in the medieval Church. The elaborate vestments embroidered with figures of saints visually articulate the doctrine of the communion of saints and the continuity of apostolic ministry. The mitre and crozier signify the bishop's threefold office of teaching, sanctifying, and governing, rooted in Christ's commission to the apostles (Matt 28:18-20). The calm, authoritative stance reflects the patristic understanding of the bishop as shepherd who guards the deposit of faith (1 Tim 6:20). Placed within an altarpiece, the image served a liturgical function, inviting the faithful to seek the intercession of the saints during the celebration of the Eucharist.",
   "scripture_refs": [
-    {"ref": "Matt.28.18-Matt.28.20", "relevance": "typological", "reason": "The Great Commission undergirds the episcopal authority symbolized by mitre and crozier"},
-    {"ref": "1Tim.6.20", "relevance": "allusion", "reason": "The bishop guards the deposit of faith, visually conveyed by his solemn bearing and vestments"},
-    {"ref": "John.10.11", "relevance": "typological", "reason": "The crozier evokes the Good Shepherd, whose pastoral role the bishop inherits"},
-    {"ref": "Heb.13.17", "relevance": "allusion", "reason": "The faithful are exhorted to obey their spiritual leaders who keep watch over souls"}
+    {
+      "ref": "MAT.28.18-Matt.28.20",
+      "relevance": "typological",
+      "reason": "The Great Commission undergirds the episcopal authority symbolized by mitre and crozier"
+    },
+    {
+      "ref": "1TI.6.20",
+      "relevance": "allusion",
+      "reason": "The bishop guards the deposit of faith, visually conveyed by his solemn bearing and vestments"
+    },
+    {
+      "ref": "JHN.10.11",
+      "relevance": "typological",
+      "reason": "The crozier evokes the Good Shepherd, whose pastoral role the bishop inherits"
+    },
+    {
+      "ref": "HEB.13.17",
+      "relevance": "allusion",
+      "reason": "The faithful are exhorted to obey their spiritual leaders who keep watch over souls"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["solemn", "serene", "authoritative"],
+  "mood": [
+    "solemn",
+    "serene",
+    "authoritative"
+  ],
   "period": "Apostolic",
   "_meta": {
     "key": "0010391",

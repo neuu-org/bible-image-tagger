@@ -1,14 +1,40 @@
 {
   "characters": [
-    {"name": "Jesus", "type": "DEITY"},
-    {"name": "Penitent Thief", "type": "PERSON"},
-    {"name": "Impenitent Thief", "type": "PERSON"},
-    {"name": "Mary", "type": "PERSON"},
-    {"name": "Mourners", "type": "GROUP"},
-    {"name": "Soldiers", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Penitent Thief",
+      "type": "PERSON"
+    },
+    {
+      "name": "Impenitent Thief",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourners",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    }
   ],
   "event": "Crucifixion of Jesus Christ at Calvary",
-  "tags": ["crucifixion", "calvary", "golgotha", "three-crosses", "passion", "mourning", "ladders"],
+  "tags": [
+    "crucifixion",
+    "calvary",
+    "golgotha",
+    "three-crosses",
+    "passion",
+    "mourning",
+    "ladders"
+  ],
   "symbols": [
     "three crosses — Christ crucified between two thieves, the center of judgment and mercy",
     "ladders — instruments of the Passion, also suggesting ascent and descent between heaven and earth",
@@ -19,15 +45,49 @@
   "description": "A dramatic Calvary scene showing three figures crucified on tall crosses against a turbulent, darkening sky. Christ hangs on the central cross, flanked by the two thieves. Ladders lean against the crosses. At the base, a group of mourners clusters together, including a tall veiled woman standing apart — likely the Virgin Mary. Soldiers and other figures move around the scene. The landscape stretches to a distant city on the horizon beneath stormy clouds.",
   "theological_description": "Morisot's interpretation after Veronese depicts the climax of salvation history: the crucifixion of Jesus at Golgotha (John 19:17-18). Three crosses dominate the composition, fulfilling the Gospel accounts that Jesus was crucified between two criminals (Luke 23:33). The darkened, roiling sky recalls the three hours of darkness that covered the land (Mark 15:33), a cosmic sign that creation itself groaned under the weight of the world's sin being laid upon the Lamb of God. The veiled, standing figure of Mary fulfills Simeon's prophecy that a sword would pierce her soul (Luke 2:35) and recalls John 19:25 where she stood at the foot of the cross. The mourners embody the faithful remnant who did not abandon Christ in his hour of trial. The ladders, traditional instruments of the Passion in iconography, also evoke Jacob's ladder (Gen 28:12), for the cross is the true ladder between heaven and earth — the place where God descended to the lowest depths so that humanity might ascend to glory. The distant city suggests Jerusalem, from which Jesus was led outside the gate to suffer (Heb 13:12).",
   "scripture_refs": [
-    {"ref": "JHN.19.18", "relevance": "primary", "reason": "They crucified him, and with him two others, one on either side"},
-    {"ref": "LUK.23.33", "relevance": "primary", "reason": "When they came to the place called The Skull, they crucified him along with the criminals"},
-    {"ref": "MRK.15.33", "relevance": "primary", "reason": "Darkness came over the whole land from the sixth to the ninth hour"},
-    {"ref": "JHN.19.25", "relevance": "primary", "reason": "Standing near the cross of Jesus were his mother and other women"},
-    {"ref": "LUK.2.35", "relevance": "typological", "reason": "A sword will pierce your own soul — Simeon's prophecy fulfilled at the cross"},
-    {"ref": "HEB.13.12", "relevance": "allusion", "reason": "Jesus suffered outside the city gate — the distant city in the background"}
+    {
+      "ref": "JHN.19.18",
+      "relevance": "primary",
+      "reason": "They crucified him, and with him two others, one on either side"
+    },
+    {
+      "ref": "LUK.23.33",
+      "relevance": "primary",
+      "reason": "When they came to the place called The Skull, they crucified him along with the criminals"
+    },
+    {
+      "ref": "MRK.15.33",
+      "relevance": "primary",
+      "reason": "Darkness came over the whole land from the sixth to the ninth hour"
+    },
+    {
+      "ref": "JHN.19.25",
+      "relevance": "primary",
+      "reason": "Standing near the cross of Jesus were his mother and other women"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "A sword will pierce your own soul — Simeon's prophecy fulfilled at the cross"
+    },
+    {
+      "ref": "HEB.13.12",
+      "relevance": "allusion",
+      "reason": "Jesus suffered outside the city gate — the distant city in the background"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["tragic", "solemn", "anguished", "reverent"],
+  "mood": [
+    "tragic",
+    "solemn",
+    "anguished",
+    "reverent"
+  ],
   "period": "Gospel",
-  "_meta": {"key": "0010364", "title": "Calvary (after Veronese)", "artist": "Berthe Morisot", "model": "claude-opus-4-6"}
+  "_meta": {
+    "key": "0010364",
+    "title": "Calvary (after Veronese)",
+    "artist": "Berthe Morisot",
+    "model": "claude-opus-4-6"
+  }
 }

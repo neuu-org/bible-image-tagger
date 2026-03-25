@@ -1,11 +1,30 @@
 {
   "characters": [
-    {"name": "Saint Andrew", "type": "PERSON"},
-    {"name": "Executioners", "type": "GROUP"},
-    {"name": "Witnesses", "type": "GROUP"}
+    {
+      "name": "Andrew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioners",
+      "type": "GROUP"
+    },
+    {
+      "name": "Witnesses",
+      "type": "GROUP"
+    }
   ],
   "event": "Crucifixion of Saint Andrew on X-shaped cross",
-  "tags": ["crucifixion", "martyrdom", "apostle", "x-shaped-cross", "saltire-cross", "suffering", "bound-to-cross", "darkness", "sacrifice"],
+  "tags": [
+    "crucifixion",
+    "martyrdom",
+    "apostle",
+    "x-shaped-cross",
+    "saltire-cross",
+    "suffering",
+    "bound-to-cross",
+    "darkness",
+    "sacrifice"
+  ],
   "symbols": [
     "X-shaped cross (saltire) — Andrew's distinctive instrument of martyrdom, tradition holds he requested a different cross deeming himself unworthy of Christ's form",
     "darkness surrounding the scene — spiritual darkness of sin and persecution against the faithful",
@@ -16,15 +35,44 @@
   "description": "An elderly, muscular man is bound to a large X-shaped wooden cross, his arms stretched diagonally upward and his body sagging under its own weight. He wears only a reddish-brown loincloth with a white cloth binding one arm. Below him, three figures emerge from deep shadow: two older men at the left gaze upward with distressed expressions, while a figure in dark clothing at the right strains to lift or secure the cross. The scene is starkly lit against an almost entirely black background, emphasizing the pale torso of the crucified figure.",
   "theological_description": "Andrew's crucifixion embodies the apostolic call to share in Christ's sufferings (Philippians 3:10). According to tradition preserved in the Acts of Andrew, he preached for two days from the cross before dying, turning his execution into a final pulpit. His request for a cross different from Christ's reflects deep humility — he considered himself unworthy to die in the same manner as his Lord. The X-shaped cross (crux decussata) became his identifying symbol and speaks to the radical self-denial Jesus demanded: 'If anyone would come after me, let him deny himself and take up his cross and follow me' (Matthew 16:24). Andrew was the first-called disciple (Protoclete), brought to Jesus by John the Baptist's testimony, and here his life comes full circle — the one who first followed the Lamb now follows Him into sacrificial death. The dramatic chiaroscuro isolates the martyrdom as a solitary confrontation between faithful witness and the powers of darkness, recalling Paul's teaching that believers wrestle not against flesh and blood but against spiritual darkness (Ephesians 6:12).",
   "scripture_refs": [
-    {"ref": "MAT.4.18-20", "relevance": "primary", "reason": "The calling of Andrew as the first disciple, whose life of following Christ culminates in this martyrdom"},
-    {"ref": "JHN.1.40-42", "relevance": "primary", "reason": "Andrew identified as one of the first two disciples who followed Jesus after John the Baptist's testimony"},
-    {"ref": "MAT.16.24", "relevance": "primary", "reason": "Jesus' command to take up one's cross and follow Him, literally fulfilled in Andrew's crucifixion"},
-    {"ref": "PHP.3.10", "relevance": "typological", "reason": "Sharing in Christ's sufferings and becoming like Him in death"},
-    {"ref": "EPH.6.12", "relevance": "allusion", "reason": "The surrounding darkness evokes the spiritual warfare against powers of darkness"},
-    {"ref": "2CO.4.10", "relevance": "allusion", "reason": "Carrying in the body the death of Jesus so that His life may be manifested"}
+    {
+      "ref": "MAT.4.18-20",
+      "relevance": "primary",
+      "reason": "The calling of Andrew as the first disciple, whose life of following Christ culminates in this martyrdom"
+    },
+    {
+      "ref": "JHN.1.40-42",
+      "relevance": "primary",
+      "reason": "Andrew identified as one of the first two disciples who followed Jesus after John the Baptist's testimony"
+    },
+    {
+      "ref": "MAT.16.24",
+      "relevance": "primary",
+      "reason": "Jesus' command to take up one's cross and follow Him, literally fulfilled in Andrew's crucifixion"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "typological",
+      "reason": "Sharing in Christ's sufferings and becoming like Him in death"
+    },
+    {
+      "ref": "EPH.6.12",
+      "relevance": "allusion",
+      "reason": "The surrounding darkness evokes the spiritual warfare against powers of darkness"
+    },
+    {
+      "ref": "2CO.4.10",
+      "relevance": "allusion",
+      "reason": "Carrying in the body the death of Jesus so that His life may be manifested"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["suffering", "solemn", "anguished", "reverent"],
+  "mood": [
+    "suffering",
+    "solemn",
+    "anguished",
+    "reverent"
+  ],
   "period": "Apostolic",
   "_meta": {
     "key": "0000889",

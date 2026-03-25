@@ -1,6 +1,6 @@
 {
   "characters": [],
-  "event": "",
+  "event": "Santa Cruz Mountains",
   "tags": [
     "mountains",
     "nature",
@@ -21,12 +21,28 @@
   "description": "A panoramic view of rolling mountain ridges bathed in warm golden-amber light, likely at sunset. Rounded hills covered with dense clusters of trees cascade into shadowed valleys. The interplay of light and shadow creates dramatic contrast, with sunlit slopes glowing against deep green-black hollows. The distant horizon shows layered ridgelines fading into a hazy sky.",
   "theological_description": "",
   "scripture_refs": [
-    {"ref": "PSA.104.8", "relevance": "allusion", "reason": "The mountains rose and the valleys sank to the place God appointed — the grandeur of mountains as divine handiwork."},
-    {"ref": "PSA.19.1", "relevance": "allusion", "reason": "The heavens declare the glory of God — creation as general revelation of the Creator."},
-    {"ref": "GEN.1.9-13", "relevance": "allusion", "reason": "The gathering of waters and appearance of dry land with vegetation on the third day of creation."}
+    {
+      "ref": "PSA.104.8",
+      "relevance": "allusion",
+      "reason": "The mountains rose and the valleys sank to the place God appointed — the grandeur of mountains as divine handiwork."
+    },
+    {
+      "ref": "PSA.19.1",
+      "relevance": "allusion",
+      "reason": "The heavens declare the glory of God — creation as general revelation of the Creator."
+    },
+    {
+      "ref": "GEN.1.9-13",
+      "relevance": "allusion",
+      "reason": "The gathering of waters and appearance of dry land with vegetation on the third day of creation."
+    }
   ],
   "scene_type": "landscape",
-  "mood": ["serene", "majestic", "warm"],
+  "mood": [
+    "serene",
+    "majestic",
+    "warm"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0040039",

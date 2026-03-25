@@ -1,6 +1,6 @@
 {
   "characters": [],
-  "event": "",
+  "event": "Puente sobre el río Jubera",
   "tags": [
     "bridge",
     "river",
@@ -14,7 +14,15 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "landscape",
-  "mood": ["serene", "majestic"],
+  "mood": [
+    "serene",
+    "majestic"
+  ],
   "period": "Non-biblical",
-  "_meta": {"key": "0010044", "title": "Puente sobre el río Jubera", "artist": "Javier Ibarrondo Los Arcos", "model": "claude-opus-4-6"}
+  "_meta": {
+    "key": "0010044",
+    "title": "Puente sobre el río Jubera",
+    "artist": "Javier Ibarrondo Los Arcos",
+    "model": "claude-opus-4-6"
+  }
 }

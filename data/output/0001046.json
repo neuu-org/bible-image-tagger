@@ -1,11 +1,29 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Christ Child", "type": "DEITY"},
-    {"name": "Putti", "type": "ANGEL"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
   ],
   "event": "Madonna and Child with Angels",
-  "tags": ["madonna-and-child", "virgin-mary", "christ-child", "putti", "cherubim", "maternal-tenderness", "incarnation", "heavenly-attendants"],
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "christ-child",
+    "putti",
+    "cherubim",
+    "maternal-tenderness",
+    "incarnation",
+    "heavenly-attendants"
+  ],
   "symbols": [
     "putti surrounding the Madonna — angelic host attending the incarnate God, heaven drawn to earth",
     "infant sleeping in Mary's arms — the Word made flesh in vulnerable humanity, divine condescension",
@@ -16,14 +34,39 @@
   "description": "A seated woman wearing a green headscarf and rose-pink robe holds a sleeping infant wrapped in white cloth in her left arm. A winged child stands beside her at knee level, gazing up. Five more winged putti float and tumble in the golden-brown sky above, some playing, others gazing downward. The setting is an outdoor landscape with dark earth and foliage. Warm light illuminates the central figures against the shadowed background.",
   "theological_description": "The Madonna and Child is the foundational image of the Incarnation: God taking flesh in the womb of a virgin, born as a helpless infant. The sleeping Christ Child embodies the paradox of divine omnipotence made vulnerable — the Creator nursed by his creature. The putti, descendants of the biblical cherubim, represent the heavenly court attending this mystery; their playful flight above recalls the angelic host that announced Christ's birth to the shepherds (Luke 2:13-14). Mary's tender, downward gaze echoes the intimacy of the Theotokos tradition — she who bore God. The Fathers, especially Athanasius and Cyril of Alexandria, insisted that it is truly God whom Mary holds, not merely a human child. Isaiah's prophecy, 'the virgin shall conceive and bear a son' (Isaiah 7:14), finds its fulfillment here. The outdoor setting evokes the poverty of the Nativity — no palace for the King of Kings, but the open earth, fulfilling the kenotic theology of Philippians 2:6-8.",
   "scripture_refs": [
-    {"ref": "LUK.2.7", "relevance": "primary", "reason": "Mary wrapping the newborn Jesus — the central scene of Mother and Child"},
-    {"ref": "LUK.2.13-14", "relevance": "allusion", "reason": "The multitude of the heavenly host praising God, reflected in the surrounding putti"},
-    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son — Messianic prophecy fulfilled in this image"},
-    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us — the theological core of every Madonna and Child"},
-    {"ref": "GAL.4.4", "relevance": "allusion", "reason": "God sent his Son, born of a woman — the Incarnation through Mary"}
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary wrapping the newborn Jesus — the central scene of Mother and Child"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "The multitude of the heavenly host praising God, reflected in the surrounding putti"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — Messianic prophecy fulfilled in this image"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the theological core of every Madonna and Child"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent his Son, born of a woman — the Incarnation through Mary"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["tenderness", "serenity", "warmth", "devotion"],
+  "mood": [
+    "tenderness",
+    "serenity",
+    "warmth",
+    "devotion"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0001046",

@@ -1,6 +1,9 @@
 {
   "characters": [
-    {"name": "Figures near the church", "type": "GROUP"}
+    {
+      "name": "Figures near the church",
+      "type": "GROUP"
+    }
   ],
   "event": "View of Askold's Grave, a church and cemetery on the banks of the Dnieper in Kyiv",
   "tags": [
@@ -14,8 +17,7 @@
     "burial-ground",
     "ukrainian-landscape",
     "sacred-site",
-    "trees",
-    "watercolor"
+    "trees"
   ],
   "symbols": [
     "round church with dome and cross — the sanctification of the landscape, the Church's presence marking a place of death with the hope of resurrection",
@@ -26,14 +28,39 @@
   "description": "A sepia-toned watercolor landscape depicting a domed rotunda church with a cross atop its cupola, set on a gentle hillside. The church is surrounded by old trees with gnarled trunks and spreading canopies. In the foreground and to the right, cemetery crosses of varying sizes mark burial plots. A few small figures walk along paths near the church. Low buildings and structures are visible in the background. The overall tonality is warm brown and ochre, characteristic of a watercolor sketch. A caption in Cyrillic script appears at the bottom of the image.",
   "theological_description": "Askold's Grave in Kyiv is one of the most historically resonant sacred sites in Eastern Christianity. According to the Primary Chronicle, Prince Askold (or Oskold) was one of the first Rus' rulers to encounter Christianity, possibly receiving baptism in Constantinople before the official Christianization of Kyiv Rus' under Vladimir in 988 AD. The rotunda church built over his grave sanctifies the site where political history and salvation history intersect. The cemetery surrounding the church proclaims the Christian theology of death: the dead are not abandoned but entrusted to God, their graves marked with crosses as signs of resurrection hope. Paul declares: 'We do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope' (1 Thessalonians 4:13). Every cemetery cross is a confession of faith in the bodily resurrection. The round church form itself carries theological meaning — the circle symbolizes eternity, the dome represents heaven, and the cross surmounting it declares Christ's victory over death. The ancient trees speak of rootedness and continuity: the faith planted centuries ago still stands, sheltering the living and the dead alike.",
   "scripture_refs": [
-    {"ref": "1TH.4.13-14", "relevance": "primary", "reason": "We do not grieve as those who have no hope, for since we believe that Jesus died and rose again — the Christian hope proclaimed by every cemetery cross"},
-    {"ref": "JHN.11.25-26", "relevance": "primary", "reason": "I am the resurrection and the life; whoever believes in me, though he die, yet shall he live — the theological foundation of the church built over a grave"},
-    {"ref": "ROM.6.5", "relevance": "typological", "reason": "If we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his — the cross on each grave marking union with Christ"},
-    {"ref": "REV.14.13", "relevance": "allusion", "reason": "Blessed are the dead who die in the Lord — the benediction over the cemetery, the saints resting from their labors"},
-    {"ref": "PSA.116.15", "relevance": "allusion", "reason": "Precious in the sight of the LORD is the death of his saints — the sacred ground consecrated by faithful departed"}
+    {
+      "ref": "1TH.4.13-14",
+      "relevance": "primary",
+      "reason": "We do not grieve as those who have no hope, for since we believe that Jesus died and rose again — the Christian hope proclaimed by every cemetery cross"
+    },
+    {
+      "ref": "JHN.11.25-26",
+      "relevance": "primary",
+      "reason": "I am the resurrection and the life; whoever believes in me, though he die, yet shall he live — the theological foundation of the church built over a grave"
+    },
+    {
+      "ref": "ROM.6.5",
+      "relevance": "typological",
+      "reason": "If we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his — the cross on each grave marking union with Christ"
+    },
+    {
+      "ref": "REV.14.13",
+      "relevance": "allusion",
+      "reason": "Blessed are the dead who die in the Lord — the benediction over the cemetery, the saints resting from their labors"
+    },
+    {
+      "ref": "PSA.116.15",
+      "relevance": "allusion",
+      "reason": "Precious in the sight of the LORD is the death of his saints — the sacred ground consecrated by faithful departed"
+    }
   ],
   "scene_type": "landscape",
-  "mood": ["elegiac", "peaceful", "contemplative", "nostalgic"],
+  "mood": [
+    "elegiac",
+    "peaceful",
+    "contemplative",
+    "nostalgic"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0041213",

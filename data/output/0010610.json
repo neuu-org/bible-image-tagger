@@ -1,14 +1,37 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Mary", "type": "PERSON"},
-    {"name": "Joseph", "type": "PERSON"},
-    {"name": "Simeon", "type": "PERSON"},
-    {"name": "Anna", "type": "PERSON"},
-    {"name": "Temple attendants", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna",
+      "type": "PERSON"
+    },
+    {
+      "name": "Temple attendants",
+      "type": "GROUP"
+    }
   ],
   "event": "Presentation of the infant Jesus at the Temple in Jerusalem",
-  "tags": ["Presentation in the Temple", "Purification", "Nunc Dimittis", "mosaic", "Byzantine"],
+  "tags": [
+    "presentation-in-the-temple",
+    "purification",
+    "nunc-dimittis",
+    "byzantine"
+  ],
   "symbols": [
     "temple altar — the meeting place of God and His people",
     "infant on the altar — Christ offered to God, prefiguring His sacrificial self-offering",
@@ -19,14 +42,38 @@
   "description": "A Byzantine-style gold mosaic depicting the Presentation of Christ in the Temple. At center stands a stone altar upon which the infant Christ is placed. The elderly Simeon approaches from the right with arms extended to receive the child. On the left, Mary and Joseph stand presenting the infant, with Mary in a dark blue maphorion. Additional figures, likely including the prophetess Anna, stand behind or near the main group. A Latin inscription runs across the top of the composition. The gold tessera background is characteristic of medieval Byzantine mosaics.",
   "theological_description": "The Presentation of Christ in the Temple, observed forty days after His birth, fulfills the Mosaic law requiring the consecration of every firstborn male to the Lord and the purification rite for the mother. When Mary and Joseph bring the infant Jesus, the aged Simeon, who had been promised by the Holy Spirit that he would not die before seeing the Messiah, takes the child in his arms and proclaims the Nunc Dimittis: 'Lord, now you are letting your servant depart in peace, for my eyes have seen your salvation, a light for revelation to the Gentiles and for glory to your people Israel.' The prophetess Anna likewise gives thanks and speaks of the child to all who await the redemption of Jerusalem. This event marks the moment the Old Covenant meets the New: the Temple, the center of Israelite worship, receives its Lord in the form of a helpless infant. Simeon's prophecy to Mary that a sword will pierce her soul foreshadows the Passion. The placement of the child upon the altar in this mosaic underscores the typological link between Presentation and Sacrifice.",
   "scripture_refs": [
-    {"ref": "Luke.2.22-38", "relevance": "primary", "reason": "Luke's account of the Presentation, Simeon's Nunc Dimittis, and Anna's prophecy"},
-    {"ref": "Exod.13.2", "relevance": "primary", "reason": "The law requiring consecration of every firstborn male which the Presentation fulfills"},
-    {"ref": "Lev.12.1-8", "relevance": "primary", "reason": "Purification rite for the mother after childbirth that Mary observes"},
-    {"ref": "Mal.3.1", "relevance": "typological", "reason": "The Lord whom you seek will suddenly come to His temple, fulfilled in the infant Christ's arrival"},
-    {"ref": "Isa.49.6", "relevance": "allusion", "reason": "Simeon echoes Isaiah's prophecy of a light to the nations"}
+    {
+      "ref": "LUK.2.22-38",
+      "relevance": "primary",
+      "reason": "Luke's account of the Presentation, Simeon's Nunc Dimittis, and Anna's prophecy"
+    },
+    {
+      "ref": "EXO.13.2",
+      "relevance": "primary",
+      "reason": "The law requiring consecration of every firstborn male which the Presentation fulfills"
+    },
+    {
+      "ref": "LEV.12.1-8",
+      "relevance": "primary",
+      "reason": "Purification rite for the mother after childbirth that Mary observes"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord whom you seek will suddenly come to His temple, fulfilled in the infant Christ's arrival"
+    },
+    {
+      "ref": "ISA.49.6",
+      "relevance": "allusion",
+      "reason": "Simeon echoes Isaiah's prophecy of a light to the nations"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["reverent", "solemn", "joyful"],
+  "mood": [
+    "reverent",
+    "solemn",
+    "joyful"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0010610",

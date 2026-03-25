@@ -1,9 +1,15 @@
 {
   "characters": [
-    {"name": "Shiva", "type": "DEITY"},
-    {"name": "Female figure (composite face)", "type": "OTHER"}
+    {
+      "name": "Shiva",
+      "type": "DEITY"
+    },
+    {
+      "name": "Female figure (composite face)",
+      "type": "OTHER"
+    }
   ],
-  "event": "",
+  "event": "Woman and Mountains Shiva",
   "tags": [
     "hindu-deity",
     "optical-illusion",
@@ -30,7 +36,11 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "symbolic",
-  "mood": ["mystical", "serene", "transcendent"],
+  "mood": [
+    "mystical",
+    "serene",
+    "transcendent"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000525",

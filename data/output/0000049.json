@@ -1,32 +1,53 @@
 {
   "characters": [
-    {"name": "Solomon", "type": "PERSON"},
-    {"name": "True Mother", "type": "PERSON"},
-    {"name": "False Mother", "type": "PERSON"},
-    {"name": "Executioner", "type": "PERSON"},
-    {"name": "Living Child", "type": "PERSON"},
-    {"name": "Dead Child", "type": "PERSON"},
-    {"name": "Courtiers", "type": "GROUP"}
+    {
+      "name": "Solomon",
+      "type": "PERSON"
+    },
+    {
+      "name": "True Mother",
+      "type": "PERSON"
+    },
+    {
+      "name": "False Mother",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioner",
+      "type": "PERSON"
+    },
+    {
+      "name": "Living Child",
+      "type": "PERSON"
+    },
+    {
+      "name": "Dead Child",
+      "type": "PERSON"
+    },
+    {
+      "name": "Courtiers",
+      "type": "GROUP"
+    }
   ],
   "event": "The Judgment of Solomon",
   "tags": [
-    "divine wisdom",
-    "royal judgment",
-    "maternal love",
-    "sword of discernment",
-    "true vs. false claimant",
-    "Solomon as type of Christ the Judge",
-    "wisdom literature",
-    "throne of justice",
-    "infant life",
-    "self-sacrificial love as proof of truth",
-    "prefiguration of Last Judgment",
-    "discernment of spirits",
-    "Solomonic kingship",
-    "court scene",
-    "dramatic confrontation",
+    "divine-wisdom",
+    "royal-judgment",
+    "maternal-love",
+    "sword-of-discernment",
+    "true-vs.-false-claimant",
+    "solomon-as-type-of-christ-the-judge",
+    "wisdom-literature",
+    "throne-of-justice",
+    "infant-life",
+    "self-sacrificial-love-as-proof-of-truth",
+    "prefiguration-of-last-judgment",
+    "discernment-of-spirits",
+    "solomonic-kingship",
+    "court-scene",
+    "dramatic-confrontation",
     "canopy",
-    "classical architecture"
+    "classical-architecture"
   ],
   "symbols": [
     "sword — divine discernment and the power of royal justice to divide truth from falsehood",
@@ -40,18 +61,59 @@
   "description": "A king sits enthroned beneath a draped canopy, right arm raised in command. Before him a muscular soldier lifts a sword overhead while gripping a naked infant by the ankle. A woman in a green-white gown lunges desperately toward the child, arms outstretched, pleading. Another woman bends low over a lifeless infant lying on the stone floor. A crowd of courtiers and advisors stands behind, reacting with varied expressions of shock and deliberation. The architecture features classical columns and warm, muted tones.",
   "theological_description": "The Judgment of Solomon is the quintessential Old Testament demonstration of divinely-gifted wisdom (1 Kings 3:16-28). God granted Solomon a 'listening heart' (lev shomea), and this episode proves that gift: only supernatural discernment could unmask the truth when evidence was equal on both sides. Patristic tradition (Origen, Gregory the Great) reads this as a type of Christ's eschatological judgment -- the true King who discerns hearts and separates the righteous from the wicked. The sword that threatens to divide the child prefigures the 'sword of the Spirit' (Eph 6:17) and the 'living and active' Word of God that 'judges the thoughts and intentions of the heart' (Heb 4:12). The true mother's willingness to lose her child rather than see it killed mirrors Christ's kenotic self-giving and the Church's sacrificial love. Ambrose and Augustine read the two women as figures of Ecclesia and Synagoga, or orthodoxy and heresy, each claiming the living truth. Solomon's throne thus becomes a prefiguration of the Great White Throne of Revelation 20, where all hidden things are revealed.",
   "scripture_refs": [
-    {"ref": "1KI.3.16-28", "relevance": "primary", "reason": "The direct narrative source: two harlots bring a dispute over a living child before King Solomon, who discerns the true mother by threatening to divide the infant."},
-    {"ref": "1KI.3.9", "relevance": "primary", "reason": "Solomon's prayer for a 'listening heart' to discern good from evil -- the divine gift that makes this judgment possible."},
-    {"ref": "1KI.3.12", "relevance": "primary", "reason": "God's response granting Solomon unparalleled wisdom, the theological foundation of the scene."},
-    {"ref": "HEB.4.12", "relevance": "typological", "reason": "The sword that divides mirrors the Word of God that is 'sharper than any two-edged sword,' discerning thoughts and intentions."},
-    {"ref": "MAT.12.42", "relevance": "typological", "reason": "Jesus declares 'something greater than Solomon is here,' establishing Solomon's wisdom as a type fulfilled in Christ."},
-    {"ref": "REV.20.11-12", "relevance": "typological", "reason": "Solomon's throne of judgment prefigures the Great White Throne where all are judged with perfect discernment."},
-    {"ref": "EPH.6.17", "relevance": "allusion", "reason": "The sword of the Spirit as instrument of divine truth-discernment, echoed in the soldier's raised blade."},
-    {"ref": "PRO.1.7", "relevance": "allusion", "reason": "The fear of the Lord is the beginning of wisdom -- the Solomonic principle underlying the entire scene."},
-    {"ref": "WIS.9.1-4", "relevance": "allusion", "reason": "The Wisdom of Solomon's prayer for wisdom to govern justly, a deuterocanonical expansion of the 1 Kings narrative."}
+    {
+      "ref": "1KI.3.16-28",
+      "relevance": "primary",
+      "reason": "The direct narrative source: two harlots bring a dispute over a living child before King Solomon, who discerns the true mother by threatening to divide the infant."
+    },
+    {
+      "ref": "1KI.3.9",
+      "relevance": "primary",
+      "reason": "Solomon's prayer for a 'listening heart' to discern good from evil -- the divine gift that makes this judgment possible."
+    },
+    {
+      "ref": "1KI.3.12",
+      "relevance": "primary",
+      "reason": "God's response granting Solomon unparalleled wisdom, the theological foundation of the scene."
+    },
+    {
+      "ref": "HEB.4.12",
+      "relevance": "typological",
+      "reason": "The sword that divides mirrors the Word of God that is 'sharper than any two-edged sword,' discerning thoughts and intentions."
+    },
+    {
+      "ref": "MAT.12.42",
+      "relevance": "typological",
+      "reason": "Jesus declares 'something greater than Solomon is here,' establishing Solomon's wisdom as a type fulfilled in Christ."
+    },
+    {
+      "ref": "REV.20.11-12",
+      "relevance": "typological",
+      "reason": "Solomon's throne of judgment prefigures the Great White Throne where all are judged with perfect discernment."
+    },
+    {
+      "ref": "EPH.6.17",
+      "relevance": "allusion",
+      "reason": "The sword of the Spirit as instrument of divine truth-discernment, echoed in the soldier's raised blade."
+    },
+    {
+      "ref": "PRO.1.7",
+      "relevance": "allusion",
+      "reason": "The fear of the Lord is the beginning of wisdom -- the Solomonic principle underlying the entire scene."
+    },
+    {
+      "ref": "WIS.9.1-4",
+      "relevance": "allusion",
+      "reason": "The Wisdom of Solomon's prayer for wisdom to govern justly, a deuterocanonical expansion of the 1 Kings narrative."
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["tension", "dramatic", "authoritative", "anguished"],
+  "mood": [
+    "tension",
+    "dramatic",
+    "authoritative",
+    "anguished"
+  ],
   "period": "Monarchy",
   "_meta": {
     "key": "0000049",

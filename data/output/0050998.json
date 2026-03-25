@@ -1,11 +1,13 @@
 {
   "characters": [
-    {"name": "John the Baptist", "type": "PERSON"}
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    }
   ],
   "event": "Portrait of John the Baptist",
   "tags": [
     "john-the-baptist",
-    "sculpture",
     "bronze",
     "asceticism",
     "prophet",
@@ -23,15 +25,44 @@
   "description": "A bronze sculpture of a powerfully built, semi-nude male figure standing in a dynamic contrapposto pose inside an ornate church interior. The figure wears only a rough animal skin draped around his waist and holds one arm aloft bearing a circular object (a dish or baptismal bowl), while the other hand extends downward. His face is bearded with curly hair, and his expression is intense and prophetic. The church behind features gilded ceiling coffers, marble railings, hanging lamps, and richly decorated walls.",
   "theological_description": "John the Baptist occupies a unique position in salvation history as the last of the Old Testament prophets and the immediate forerunner of Christ. His ascetic appearance — the camel-hair garment and lean physique — deliberately evokes the prophet Elijah, whose return was prophesied by Malachi (Malachi 4:5) and whom Jesus identified with John (Matthew 11:14). The raised arm captures the Baptist's essential vocation: to point beyond himself to the One who is coming. 'He must increase, but I must decrease' (John 3:30) is the summary of the Baptist's entire theology. Alessandro Vittoria's sculpture, placed within a Venetian church, embodies the paradox of the Baptist: a man of the wilderness whose testimony became the foundation stone of the Church's sacramental life. The baptism he administered in the Jordan was preparatory, yet it was in those very waters that the Trinity was revealed and Jesus' public ministry began.",
   "scripture_refs": [
-    {"ref": "MAT.3.1-6", "relevance": "primary", "reason": "John the Baptist preaching in the wilderness and baptizing — the core identity captured in this sculpture"},
-    {"ref": "JHN.1.23", "relevance": "primary", "reason": "John identifies himself as the voice crying in the wilderness, preparing the way of the Lord"},
-    {"ref": "JHN.3.30", "relevance": "allusion", "reason": "John's declaration that Christ must increase and he must decrease — the theological heart of his mission"},
-    {"ref": "MAL.4.5", "relevance": "typological", "reason": "The prophecy of Elijah's return before the great day of the Lord, fulfilled in John"},
-    {"ref": "MAT.11.11-14", "relevance": "allusion", "reason": "Jesus' testimony that John is Elijah who was to come, the greatest born of women"},
-    {"ref": "LUK.1.76-77", "relevance": "allusion", "reason": "Zechariah's prophecy over infant John that he would go before the Lord to prepare His ways"}
+    {
+      "ref": "MAT.3.1-6",
+      "relevance": "primary",
+      "reason": "John the Baptist preaching in the wilderness and baptizing — the core identity captured in this sculpture"
+    },
+    {
+      "ref": "JHN.1.23",
+      "relevance": "primary",
+      "reason": "John identifies himself as the voice crying in the wilderness, preparing the way of the Lord"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "allusion",
+      "reason": "John's declaration that Christ must increase and he must decrease — the theological heart of his mission"
+    },
+    {
+      "ref": "MAL.4.5",
+      "relevance": "typological",
+      "reason": "The prophecy of Elijah's return before the great day of the Lord, fulfilled in John"
+    },
+    {
+      "ref": "MAT.11.11-14",
+      "relevance": "allusion",
+      "reason": "Jesus' testimony that John is Elijah who was to come, the greatest born of women"
+    },
+    {
+      "ref": "LUK.1.76-77",
+      "relevance": "allusion",
+      "reason": "Zechariah's prophecy over infant John that he would go before the Lord to prepare His ways"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["powerful", "austere", "prophetic", "reverent"],
+  "mood": [
+    "powerful",
+    "austere",
+    "prophetic",
+    "reverent"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0050998",
