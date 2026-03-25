@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "crown-of-thorns",
+    "INRI-inscription",
+    "loincloth",
+    "nails",
+    "blood",
+    "atonement",
+    "passion-of-christ",
+    "darkness",
+    "solitary-crucifixion",
+    "four-nails",
+    "sacrificial-death",
+    "redemptive-suffering"
+  ],
+  "symbols": [
+    "cross — the instrument of salvation and the altar of Christ's sacrifice",
+    "crown of thorns — mockery of kingship transformed into the true crown of the King of Kings",
+    "INRI inscription in three languages — Jesus of Nazareth, King of the Jews, proclaiming his identity to all nations",
+    "nails and blood — the physical cost of redemption and the blood of the new covenant",
+    "white loincloth — purity of the spotless sacrifice amid the shame of crucifixion",
+    "utter darkness — the three hours of darkness over the land and the weight of the world's sin",
+    "head bowed forward — Christ yielding up his spirit in the moment of death",
+    "four nails (feet separate) — traditional Spanish iconography emphasizing the full extension of suffering",
+    "solitary figure — the loneliness of the atoning sacrifice, forsaken by all"
+  ],
+  "description": "A monumental depiction of Christ crucified against an entirely black background. Christ hangs upon a wooden cross, his body pale and luminous against the darkness. He wears a crown of thorns and a white loincloth. His head droops forward, hair covering part of his face. Blood flows from the nail wounds in his hands and feet, and from his side. Above his head, a plaque bears an inscription in Hebrew, Greek, and Latin. The four nails — one in each hand and one in each foot — are clearly visible.",
+  "theological_description": "Velazquez's Cristo crucificado is one of the most theologically concentrated Crucifixion images in Western art. The absolute darkness recalls the three hours of supernatural darkness over the land (Mark 15:33), which the Church Fathers interpreted as creation itself mourning its Creator. The solitary figure — no Mary, no John, no thieves — isolates the theological core: this is the Lamb of God who takes away the sin of the world (John 1:29), alone in his atoning work. The INRI inscription in three languages (John 19:19-20) was meant by Pilate as mockery but functions as proclamation — Jesus is King in the language of religion (Hebrew), culture (Greek), and law (Latin). Paul's theology of the cross pervades the image: 'God made him who had no sin to be sin for us, so that in him we might become the righteousness of God' (2 Cor 5:21). The bowed head signals the moment of John 19:30: 'It is finished' — the Greek tetelestai denoting not mere ending but completion, fulfillment, perfection. Isaiah 53 finds its visual fulfillment here: he was pierced for our transgressions, crushed for our iniquities; by his wounds we are healed. The four nails reflect Spanish theological tradition emphasizing the full measure of Christ's pain, each wound a point of redemption for the four corners of the earth.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "John's Crucifixion narrative including the inscription, the moment of death, and Christ's declaration 'It is finished'"
+    },
+    {
+      "ref": "ISA.53.4-6",
+      "relevance": "typological",
+      "reason": "He was pierced for our transgressions — the Suffering Servant prophecy fulfilled in the crucified body"
+    },
+    {
+      "ref": "MRK.15.33-34",
+      "relevance": "primary",
+      "reason": "Darkness over the whole land from the sixth to the ninth hour — the black background embodies this supernatural darkness"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God who takes away the sin of the world — the solitary figure is the sacrificial Lamb"
+    },
+    {
+      "ref": "2CO.5.21",
+      "relevance": "typological",
+      "reason": "God made him who had no sin to be sin for us — the theological heart of the atoning sacrifice depicted"
+    },
+    {
+      "ref": "GAL.3.13",
+      "relevance": "allusion",
+      "reason": "Christ became a curse for us, for it is written: Cursed is everyone who hangs on a tree"
+    },
+    {
+      "ref": "HEB.9.12",
+      "relevance": "typological",
+      "reason": "He entered the Most Holy Place once for all by his own blood — the blood flowing from the wounds is the blood of eternal redemption"
+    },
+    {
+      "ref": "PSA.22.1",
+      "relevance": "allusion",
+      "reason": "My God, my God, why have you forsaken me — the utter isolation of the figure evokes Christ's cry of dereliction"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguish",
+    "solemnity",
+    "awe",
+    "desolation"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050883",
+    "title": "Christ on the Cross",
+    "artist": "Diego Velázquez",
+    "model": "claude-opus-4-6"
+  }
+}

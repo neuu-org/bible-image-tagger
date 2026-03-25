@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Penitent figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Ash Wednesday Penitence",
+  "tags": [
+    "ash-wednesday",
+    "penitence",
+    "lent",
+    "rituals-and-traditions",
+    "solitude",
+    "light",
+    "church-interior",
+    "contemplation",
+    "humility"
+  ],
+  "symbols": [
+    "shaft of light — divine grace penetrating the darkness of sin and penitence",
+    "stone alcove — the austerity and enclosure of the penitential season",
+    "seated solitary figure — the individual soul in self-examination before God",
+    "jug and sparse furnishings — ascetic simplicity and the stripping away of worldly comforts during Lent"
+  ],
+  "description": "A small, atmospheric painting of a solitary figure seated on a stone bench inside a dimly lit vaulted alcove or church niche. A dramatic shaft of bright light enters from a high window or opening, illuminating the rough stone walls and casting the figure in partial light. The person wears colorful but humble garments and sits hunched in a posture of quiet reflection. A dark jug and simple furnishings are barely visible in the shadows to the right. Carl Spitzweg's characteristic warm golden tonality and intimate scale give the scene a feeling of gentle melancholy and solitude.",
+  "theological_description": "Ash Wednesday marks the beginning of Lent, the forty-day season of fasting, prayer, and penitence that prepares the Christian soul for Easter. The practice derives from the ancient tradition of placing ashes on the forehead with the words 'Remember that you are dust, and to dust you shall return' (Genesis 3:19), a stark reminder of human mortality and the need for repentance. Spitzweg's image captures the interior dimension of this observance: a solitary figure in a bare stone space, bathed in a single shaft of light that symbolizes divine grace breaking into the darkness of the human condition. The Lenten disciplines — fasting, almsgiving, prayer — are not ends in themselves but means of clearing away distractions so that the soul may attend more fully to God. Jesus himself withdrew into the wilderness for forty days of fasting and temptation (Matthew 4:1-11), and Lent is the Church's annual participation in that wilderness experience, dying to self so as to rise with Christ at Easter.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.19",
+      "relevance": "primary",
+      "reason": "You are dust, and to dust you shall return — the words spoken at the imposition of ashes on Ash Wednesday"
+    },
+    {
+      "ref": "MAT.6.16-18",
+      "relevance": "primary",
+      "reason": "Jesus' teaching on fasting — the Gospel reading traditionally associated with Ash Wednesday"
+    },
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "typological",
+      "reason": "Jesus fasting forty days in the wilderness — the model for the Lenten season that Ash Wednesday inaugurates"
+    },
+    {
+      "ref": "JOL.2.12-13",
+      "relevance": "primary",
+      "reason": "Return to me with all your heart, with fasting and weeping — the Old Testament call to repentance echoed on Ash Wednesday"
+    },
+    {
+      "ref": "PSA.51.17",
+      "relevance": "allusion",
+      "reason": "A broken and contrite heart, O God, you will not despise — the interior disposition that Lenten penitence seeks to cultivate"
+    },
+    {
+      "ref": "2CO.5.20-6.2",
+      "relevance": "allusion",
+      "reason": "Now is the acceptable time, now is the day of salvation — the Ash Wednesday epistle calling for immediate repentance"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "melancholic",
+    "contemplative",
+    "austere",
+    "hopeful"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0051095",
+    "title": "Ash Wednesday",
+    "artist": "Carl Spitzweg",
+    "model": "claude-opus-4-6"
+  }
+}

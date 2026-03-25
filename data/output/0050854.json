@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Magi",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "three-kings",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "kneeling",
+    "nativity",
+    "royal-visitors",
+    "gentile-worship",
+    "divine-revelation-to-nations",
+    "enthroned-madonna",
+    "exotic-garments",
+    "retinue",
+    "star-of-bethlehem"
+  ],
+  "symbols": [
+    "kneeling eldest magus — humility of earthly power before divine kingship",
+    "golden vessel — gold offered to Christ as King",
+    "ornate vessels held by other magi — frankincense for Christ's divinity and myrrh prefiguring his burial",
+    "rich garments and turbans — the wealth and diversity of the nations coming to worship",
+    "enthroned Virgin with child — Mary as Seat of Wisdom presenting Christ to the world",
+    "Joseph in the background — humble guardian witnessing the revelation to the Gentiles",
+    "architectural ruins — the passing of the old order and the advent of a new covenant"
+  ],
+  "description": "A richly colored scene of the Adoration of the Magi. The Virgin Mary sits at left holding the infant Jesus on her lap, with Saint Joseph standing behind her. Before them, an elderly king kneels in adoration, offering a golden vessel. Two other magi stand at right in magnificent robes — one wearing a turban and bearing an elaborate golden cup, the other in rich red garments with a scepter. A retinue of attendants fills the background, and architectural elements frame the scene. The palette is warm and sumptuous, with deep reds, blues, and gold predominating.",
+  "theological_description": "The Adoration of the Magi is the Epiphany — the manifestation of Christ to the Gentile nations. These wise men from the East, guided by a star, represent the fulfillment of Isaiah's prophecy: 'Nations shall come to your light, and kings to the brightness of your rising' (Isa 60:3). Their three gifts carry deep Christological meaning as articulated by patristic tradition: gold acknowledges Christ's kingship, frankincense his divinity, and myrrh prophesies his sacrificial death and burial. The kneeling posture of the eldest magus before an infant enacts the great reversal of Philippians 2:10-11, where every knee shall bow at the name of Jesus. That pagan astrologers are the first Gentiles to recognize the Messiah fulfills the universalist strand of Hebrew prophecy — Psalm 72:10-11 proclaims that the kings of Tarshish and the isles shall bring gifts, the kings of Sheba and Seba shall offer tribute, and all kings shall fall down before him. Matthew's narrative (Matt 2:1-12) places this scene in deliberate contrast with Herod's murderous hostility, showing that true worship comes from unexpected quarters while established religious authority misses the moment of visitation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The direct biblical narrative of the Magi following the star to worship the newborn King and offer gifts"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light and kings to the brightness of your rising, bringing gold and frankincense"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish and the isles shall bring gifts; all kings shall fall down before him"
+    },
+    {
+      "ref": "PHP.2.10-11",
+      "relevance": "typological",
+      "reason": "Every knee shall bow — the kneeling of the Magi before the infant Christ prefigures universal acknowledgment"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "allusion",
+      "reason": "The prophecy that from Bethlehem shall come a ruler who will shepherd Israel — the destination of the Magi's journey"
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "A star shall come out of Jacob — Balaam's oracle long associated with the Star of Bethlehem that guided the Magi"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majesty",
+    "reverence",
+    "splendor",
+    "wonder"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050854",
+    "title": "L'Adoration Des Mages",
+    "artist": "Georges Lallemand",
+    "model": "claude-opus-4-6"
+  }
+}

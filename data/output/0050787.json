@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Scourging of Christ",
+  "tags": [
+    "scourging",
+    "flagellation",
+    "passion",
+    "suffering-servant",
+    "bound-christ",
+    "half-length",
+    "ecce-homo",
+    "wounds",
+    "stripped",
+    "humiliation",
+    "loincloth",
+    "chiaroscuro"
+  ],
+  "symbols": [
+    "bare torso marked by scourging — the body broken for the sins of the world, the Suffering Servant bearing stripes",
+    "loincloth — Christ stripped of all dignity, reduced to utter humiliation for humanity's sake",
+    "dark background — the spiritual darkness of evil engulfing the Light of the World",
+    "bound or restrained posture — the voluntary submission of the omnipotent God to human cruelty",
+    "averted gaze — sorrow and endurance, not defiance; the meekness of the Lamb led to slaughter",
+    "warm flesh tones against darkness — the humanity of Christ luminous even in suffering"
+  ],
+  "description": "A half-length portrait of Christ after the scourging. The figure emerges from deep darkness, his muscular torso bare except for a white cloth around the waist. His head, framed by reddish-brown hair and a full beard, is turned slightly to the left with a gaze of sorrowful endurance. The body shows the marks of flagellation. One arm is pulled back, suggesting restraint at a column or post behind him.",
+  "theological_description": "Titian's Scourging of Christ presents the Passion with visceral intimacy, stripping away narrative context to force a direct encounter with the suffering Christ. The half-length format transforms the viewer into a witness standing immediately before the scourging post — there is no distance, no crowd to hide behind. This is the moment foretold by Isaiah: 'I gave my back to those who struck me' (Isaiah 50:6) and 'by his stripes we are healed' (Isaiah 53:5). The theological paradox is absolute: the one through whom all things were made (John 1:3) submits his body to destruction by his creatures. Titian's warm, luminous flesh against the enveloping darkness visualizes John's theological framework: the light shines in the darkness (John 1:5), and here the darkness appears to be winning — yet the very radiance of Christ's body proclaims otherwise. The bound posture expresses the voluntary nature of the Passion: Christ is not overpowered but chooses to remain bound, for 'no one takes my life from me; I lay it down of my own accord' (John 10:18). The averted gaze, sorrowful yet composed, fulfills the prophecy of the Lamb led to slaughter who does not open his mouth (Isaiah 53:7). Every brushstroke of suffering flesh is simultaneously a proclamation of redeeming love.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.1",
+      "relevance": "primary",
+      "reason": "Pilate took Jesus and had him flogged — the direct event depicted"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "primary",
+      "reason": "By his stripes we are healed — the Suffering Servant prophecy fulfilled in the scourging marks on Christ's body"
+    },
+    {
+      "ref": "ISA.50.6",
+      "relevance": "primary",
+      "reason": "I gave my back to those who struck me — the Servant's voluntary submission to beating"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "Like a lamb led to slaughter, he did not open his mouth — Christ's silent endurance visible in his composed expression"
+    },
+    {
+      "ref": "JHN.10.18",
+      "relevance": "allusion",
+      "reason": "No one takes my life from me — the voluntary nature of Christ's suffering, choosing to remain bound"
+    },
+    {
+      "ref": "1PE.2.24",
+      "relevance": "allusion",
+      "reason": "He himself bore our sins in his body on the tree, that by his wounds you have been healed"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "anguish",
+    "solemnity",
+    "compassion"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050787",
+    "title": "The Scourging of Christ",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

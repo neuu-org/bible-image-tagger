@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Saint Catherine of Alexandria",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of a Woman as Saint Catherine of Alexandria",
+  "tags": [
+    "saint-catherine",
+    "female-saint",
+    "martyr",
+    "profile-portrait",
+    "halo",
+    "palm-branch",
+    "learned-woman",
+    "alexandrian-martyr",
+    "patroness-of-scholars",
+    "faithfulness-unto-death"
+  ],
+  "symbols": [
+    "halo — sanctity and divine favor upon the martyred saint",
+    "palm branch in hand — the palm of martyrdom signifying victory over death through faith",
+    "profile pose — noble bearing and contemplative dignity",
+    "green and rose garments — the vitality of faith and the blush of sanctified life",
+    "landscape background — the created world beyond the window as testament to divine order",
+    "book or wheel (implied by tradition) — Catherine's learning and the instrument of her intended martyrdom"
+  ],
+  "description": "A profile portrait of a young woman shown from the waist up, facing left. She wears an elegant green dress over a rose-colored undergarment, with her blonde hair gathered at the back with a decorative ornament. A faint golden halo encircles her head. She holds what appears to be a palm frond and a small dark object, possibly a book, in her hands. The background shows a landscape with trees and distant architecture through an opening, while the left side is framed by a dark interior wall. The painting is rendered in Botticelli's characteristic refined, linear style.",
+  "theological_description": "Saint Catherine of Alexandria, according to tradition a fourth-century noblewoman of extraordinary learning, was martyred under Emperor Maxentius for refusing to renounce her Christian faith. She reportedly defeated fifty pagan philosophers in debate, converting many to Christianity, embodying the Petrine command to always be ready to give a reason for the hope within (1 Peter 3:15). Her legend holds that the spiked wheel intended for her execution miraculously shattered, and she was ultimately beheaded — her constancy under persecution exemplifying Christ's promise that the Holy Spirit would give his followers words in the hour of trial (Matthew 10:19-20). The palm branch she holds is the universal symbol of martyrdom in Christian iconography, drawn from the vision of the great multitude in Revelation 7:9 who stand before the throne holding palm branches, having come through the great tribulation. Catherine's intellectual defense of the faith makes her a type of the wisdom tradition, recalling the personified Wisdom of Proverbs who speaks truth in the public square (Proverbs 1:20-21).",
+  "scripture_refs": [
+    {
+      "ref": "REV.7.9-14",
+      "relevance": "typological",
+      "reason": "The palm branch identifies Catherine among the great multitude who came through tribulation and stand victorious before God's throne"
+    },
+    {
+      "ref": "1PE.3.15",
+      "relevance": "primary",
+      "reason": "Catherine's legendary defeat of pagan philosophers embodies the command to give a reasoned defense of the Christian hope"
+    },
+    {
+      "ref": "MAT.10.19-20",
+      "relevance": "allusion",
+      "reason": "Christ's promise that the Spirit would provide words before persecutors is fulfilled in Catherine's eloquent defense of faith"
+    },
+    {
+      "ref": "PRO.1.20-21",
+      "relevance": "typological",
+      "reason": "Catherine as a learned woman defending truth echoes personified Wisdom crying out in the public square"
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "allusion",
+      "reason": "The saint has fought the good fight and kept the faith, awaiting the crown of righteousness"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serenity",
+    "dignity",
+    "contemplation"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0050013",
+    "title": "Woman with attributes of Saint Catherine",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

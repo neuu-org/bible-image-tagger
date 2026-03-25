@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Mark the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Mark the Evangelist writing or meditating in a landscape setting",
+  "tags": [
+    "saint-mark",
+    "evangelist",
+    "gospel-writer",
+    "landscape",
+    "contemplation",
+    "pastoral-scene",
+    "haystacks",
+    "rest",
+    "writing",
+    "solitude"
+  ],
+  "symbols": [
+    "solitary figure in landscape — the evangelist's retreat for writing under divine inspiration",
+    "natural setting — creation as the theater of God's revelation",
+    "reclining posture — contemplative reception of the Gospel message"
+  ],
+  "description": "A landscape painting showing a solitary figure, identified as Saint Mark the Evangelist, reclining or sitting in a pastoral setting with large haystacks or rocky formations in the background. Trees frame the scene from above. The figure appears small relative to the landscape, suggesting contemplation amid nature. Animals may be present nearby. The palette is earthy with warm golden-brown tones and deep greens. The style reflects Nicolas Antoine Taunay's characteristic blending of landscape painting with religious subject matter in the Brazilian academic tradition.",
+  "theological_description": "Saint Mark, traditionally identified as John Mark of Acts 12:12 and the companion of Paul and Barnabas (Acts 15:37-39), is the author of the earliest Gospel. His Gospel begins with the voice crying in the wilderness (Mark 1:3, citing Isaiah 40:3), and appropriately here he is depicted in a natural landscape setting. The tradition associates Mark with the lion (from Revelation 4:7 and Ezekiel 1:10), symbolizing the royal and courageous proclamation of the Gospel that opens with the powerful voice of the Baptist in the wilderness. Mark's Gospel emphasizes the suffering Messiah, the Son of Man who came not to be served but to serve and give his life as a ransom for many (Mark 10:45). The solitary, contemplative posture suggests the quiet work of inspired authorship, the evangelist receiving and transmitting the apostolic witness, particularly that of Peter, whose interpreter Mark was according to Papias. The pastoral Brazilian landscape becomes a new wilderness where the ancient Gospel speaks afresh.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.1.1-3",
+      "relevance": "primary",
+      "reason": "The opening of Mark's Gospel, the beginning of the good news of Jesus Christ"
+    },
+    {
+      "ref": "ACT.12.12",
+      "relevance": "primary",
+      "reason": "John Mark identified in Acts as a member of the early Jerusalem church"
+    },
+    {
+      "ref": "MRK.10.45",
+      "relevance": "allusion",
+      "reason": "The central theological theme of Mark's Gospel: the Son of Man came to serve and give his life"
+    },
+    {
+      "ref": "ACT.15.37-39",
+      "relevance": "allusion",
+      "reason": "Mark's role as companion of the apostles in missionary work"
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "typological",
+      "reason": "The lion of the four living creatures, traditionally associated with Mark's Gospel"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "pastoral",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050332",
+    "title": "São Marcos Evangelista",
+    "artist": "Nicolas Antoine Taunay",
+    "model": "claude-opus-4-6"
+  }
+}

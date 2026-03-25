@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Baptist (as child)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Francis of Assisi",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Holy Family enthroned with saints",
+  "tags": [
+    "Christianity",
+    "Virgin-Mary",
+    "holy-family",
+    "sacra-conversazione",
+    "infant-Christ",
+    "saints-and-apostles",
+    "Christ-child",
+    "child-Baptist",
+    "Madonna-and-Child",
+    "putti",
+    "devotional-image",
+    "intercession-of-saints"
+  ],
+  "symbols": [
+    "central elevation of the Virgin — her queenly role as Theotokos and intercessor",
+    "nude Christ Child — the Incarnation, God made vulnerable human flesh",
+    "open book held by the elderly saint — Scripture and sacred learning, identifying Saint Jerome",
+    "nude child at lower center — the young John the Baptist, Christ's forerunner and cousin",
+    "putti in the upper corners — heavenly beings attending the sacred gathering",
+    "tonsured figure in grey — Saint Francis, embodying poverty and devotion to Christ",
+    "pyramidal composition — the hierarchical ordering of heaven with Mary and Christ at the apex"
+  ],
+  "description": "A complex multi-figure composition arranged in a pyramidal structure. The Virgin Mary stands elevated at center, wearing a rose-pink dress and blue mantle, gazing outward with serene composure. Below and around her, several figures gather: an elderly bearded man at lower left holds an open book, another bearded man supports the nude Christ Child who reaches outward energetically, a nude child sits at center bottom, and a tonsured figure in grey kneels at lower right. A female saint stands at the far right. Two nude putti appear in the upper corners.",
+  "theological_description": "This sacra conversazione — a holy conversation — gathers the Holy Family with selected saints in a timeless devotional encounter that transcends historical chronology. The Virgin Mary's central, elevated position affirms her role as Theotokos and Queen of Heaven. The Christ Child's dynamic, outward-reaching gesture signifies His mission to embrace all humanity through the Incarnation. The elderly figure with the book likely represents Saint Jerome, the great translator of Scripture, whose scholarship served to make God's Word accessible. The young nude child at the bottom is the infant John the Baptist, whose entire life pointed toward Christ as 'the Lamb of God who takes away the sin of the world' (John 1:29). The Franciscan figure represents the imitatio Christi tradition — following Christ through poverty and self-denial. Together, these figures form a visual theology of the communion of saints gathered around the mystery of the Incarnation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.51",
+      "relevance": "primary",
+      "reason": "The Holy Family at Nazareth, with Jesus subject to Mary and Joseph, is the foundational text for Holy Family devotion"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The young Baptist's presence anticipates his adult proclamation of Jesus as the Lamb of God"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "Mary's elevated position reflects the Magnificat's declaration that all generations shall call her blessed"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "typological",
+      "reason": "The gathering of saints around Christ evokes the great cloud of witnesses who surround the faithful"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "The vulnerable Christ Child embodies Paul's teaching that God sent His Son, born of a woman, in the fullness of time"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "devotion",
+    "tenderness",
+    "grandeur",
+    "intimacy"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050078",
+    "title": "Holy Family with Saints",
+    "artist": "Jacopo Pontormo",
+    "model": "claude-opus-4-6"
+  }
+}

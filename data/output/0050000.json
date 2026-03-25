@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Portrait of Christ",
+  "tags": [
+    "christ-figure",
+    "suffering-servant",
+    "passion",
+    "disfigured-messiah",
+    "man-of-sorrows",
+    "redemptive-suffering",
+    "incarnation",
+    "cruciform-sacrifice",
+    "broken-body",
+    "divine-humanity"
+  ],
+  "symbols": [
+    "fragmented face — the disfigurement of the Suffering Servant prophesied in Isaiah 52:14",
+    "dark earth tones — earthly humiliation and kenosis of the divine Son",
+    "dripping paint — blood and tears shed for humanity's redemption",
+    "obscured features — Christ's glory veiled in human flesh and suffering",
+    "golden highlights amid darkness — divine nature shining through broken humanity",
+    "vertical composition — the upright posture of sacrificial offering"
+  ],
+  "description": "An expressionistic bust-length portrait of Christ rendered in thick, gestural brushstrokes of dark brown, black, and golden ochre. The face is fragmented and partially obscured, with paint dripping downward from the features, creating a visceral sense of dissolution and anguish. The figure emerges from a pale, textured background. The overall effect is raw and confrontational, presenting Christ not in idealized glory but in tortured, material immediacy.",
+  "theological_description": "Siqueiros's Christ strips away centuries of idealized sacred portraiture to confront the viewer with the raw reality of the Incarnation and Passion. This is the Christ of Isaiah 53:2-3, who had 'no form or majesty that we should look at him, and no beauty that we should desire him,' the Man of Sorrows acquainted with grief. The fragmented, almost disintegrating face evokes the kenosis described in Philippians 2:7, where Christ emptied himself and took on the form of a servant. The dripping, melting quality of the paint speaks to the bodily destruction endured on the cross — the flesh torn by scourging, the face marred beyond human semblance (Isaiah 52:14). Yet the golden light breaking through the dark mass recalls the paradox at the heart of Christian soteriology: that through this very brokenness comes salvation, that the grain of wheat must fall into the earth and die to bear fruit (John 12:24). The painting functions as a theological meditation on the scandal of the cross — that God chose to redeem the world not through triumphant power but through abject suffering and apparent defeat.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.53.2-3",
+      "relevance": "primary",
+      "reason": "The disfigured, unappealing Christ directly embodies the Suffering Servant who had no beauty that we should desire him"
+    },
+    {
+      "ref": "ISA.52.14",
+      "relevance": "primary",
+      "reason": "The marred, fragmented visage reflects the servant whose appearance was so disfigured beyond that of any human being"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "The kenotic theology of self-emptying is visually expressed in the dissolution of Christ's form"
+    },
+    {
+      "ref": "JHN.12.24",
+      "relevance": "allusion",
+      "reason": "The grain of wheat falling into the earth and dying is evoked by the downward dripping and dissolution of the figure"
+    },
+    {
+      "ref": "1CO.1.23",
+      "relevance": "allusion",
+      "reason": "The raw, confrontational depiction embodies the scandal of the crucified Christ that Paul proclaimed"
+    },
+    {
+      "ref": "HEB.12.2",
+      "relevance": "allusion",
+      "reason": "Christ who endured the cross, despising the shame, is captured in this unflinching portrait of divine suffering"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "anguish",
+    "rawness",
+    "solemnity",
+    "confrontation"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050000",
+    "title": "Christ",
+    "artist": "David Alfaro Siqueiros",
+    "model": "claude-opus-4-6"
+  }
+}

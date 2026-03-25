@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Thomas the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Magnus",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Doubting Thomas with Saint Magnus",
+  "tags": [
+    "doubting-thomas",
+    "resurrection",
+    "wound-in-side",
+    "faith-and-doubt",
+    "risen-christ",
+    "apostle",
+    "bishop-saint",
+    "touch",
+    "proof-of-resurrection",
+    "crosier",
+    "mitre",
+    "arched-frame",
+    "sacra-conversazione"
+  ],
+  "symbols": [
+    "wound in Christ's side — proof of the bodily resurrection and the price of redemption",
+    "Thomas's hand reaching toward the wound — doubt transformed into faith through encounter",
+    "Christ's white garment — purity, glorified body, and resurrection",
+    "crosier held by Saint Magnus — episcopal authority and pastoral care",
+    "arched architectural frame — sacred space and ecclesial setting",
+    "open sky with clouds — the heavenly realm to which the risen Christ belongs",
+    "Thomas's green mantle — hope renewed through the encounter with the Risen Lord"
+  ],
+  "description": "The risen Christ stands centrally beneath a stone arch, his torso bare revealing the wound in his side. He wears a white cloth draped around his lower body and holds a staff. To his left, the apostle Thomas reaches his hand toward Christ's side wound, gazing intently. To Christ's right stands an elderly bishop figure identified as Saint Magnus, wearing episcopal robes and holding a book and crosier. The background shows an open sky with clouds. The composition is symmetrical and serene, set within an architectural frame with medallion decorations at the arch's summit.",
+  "theological_description": "This painting depicts the pivotal post-resurrection encounter between Jesus and the apostle Thomas recorded in John 20:24-29. Thomas, who had declared he would not believe unless he placed his finger in the nail marks and his hand in Christ's side, is here shown in the very act of touching the wound — the moment where doubt gives way to the greatest Christological confession in the Gospels: 'My Lord and my God!' (John 20:28). Christ's response — 'Blessed are those who have not seen and yet have believed' (John 20:29) — extends beyond Thomas to address every subsequent generation of believers. The inclusion of Saint Magnus, a bishop from a later era, creates a sacra conversazione that bridges biblical event and ecclesial tradition: Magnus represents those later believers whom Christ pronounced blessed. The wound in Christ's side carries profound sacramental theology: from that wound flowed blood and water (John 19:34), which patristic tradition identifies with the Eucharist and Baptism, the twin sacraments that sustain the Church. The risen body still bears its wounds — glorified but not erased — affirming that redemption does not erase suffering but transfigures it.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.20.24-29",
+      "relevance": "primary",
+      "reason": "The direct biblical account of Thomas's doubt and his encounter with the risen Christ, culminating in the confession 'My Lord and my God'"
+    },
+    {
+      "ref": "JHN.19.34",
+      "relevance": "allusion",
+      "reason": "The wound in Christ's side recalls the soldier's lance thrust from which blood and water flowed, symbolizing the sacraments"
+    },
+    {
+      "ref": "1PE.1.8",
+      "relevance": "typological",
+      "reason": "Though you have not seen him, you love him; though you do not now see him, you believe — the faith of those after Thomas"
+    },
+    {
+      "ref": "LUK.24.39",
+      "relevance": "allusion",
+      "reason": "See my hands and my feet, that it is I myself. Touch me and see — the physicality of the resurrection body"
+    },
+    {
+      "ref": "HEB.11.1",
+      "relevance": "typological",
+      "reason": "Faith is the assurance of things hoped for, the conviction of things not seen — the broader theology Christ teaches through Thomas"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe",
+    "serenity",
+    "solemnity",
+    "revelation"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050864",
+    "title": "Doubting Thomas with St. Magnus",
+    "artist": "Cima da Conegliano",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Saint John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint John the Baptist",
+  "tags": [
+    "john-the-baptist",
+    "forerunner",
+    "prophet",
+    "halo",
+    "cross-staff",
+    "lamb-of-god",
+    "wilderness-preacher",
+    "baptism",
+    "repentance",
+    "messianic-herald",
+    "asceticism",
+    "decorative-background"
+  ],
+  "symbols": [
+    "golden halo — sanctity and divine calling of the greatest prophet born of women",
+    "cross-topped staff with banner — the Agnus Dei standard pointing to Christ as the Lamb of God",
+    "white garment — purity and the priestly lineage of John as son of Zechariah",
+    "wild hair and beard — the ascetic life in the wilderness, recalling Elijah",
+    "ornate golden background — the heavenly glory that frames the Baptist's prophetic office",
+    "direct gaze — the urgency and authority of the prophetic witness"
+  ],
+  "description": "A bust-length portrait of Saint John the Baptist against an elaborately decorated golden background with ornate floral scrollwork. The Baptist is depicted with long, dark curly hair and a full beard, gazing directly at the viewer with intense, penetrating eyes. He wears a white mantle draped around his shoulders. In his right hand he holds a slender cross-topped staff bearing a small white pennant with a red cross — the Agnus Dei banner. The golden halo surrounding his head is rendered as a solid gold disc.",
+  "theological_description": "Robert Campin's portrait of the Baptist presents the forerunner of Christ in his dual role as the last Old Testament prophet and the first witness to the New Covenant. The cross-staff with the Agnus Dei banner encapsulates John's supreme prophetic declaration upon seeing Jesus: 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29). This single utterance bridges the entire sacrificial system of the Old Testament — every Passover lamb, every temple offering — with its fulfillment in Christ's atoning death. The Baptist's intense, direct gaze embodies the urgency of his preaching: 'Repent, for the kingdom of heaven is at hand' (Matthew 3:2). His wild hair identifies him with Elijah, whose spirit and power he bore (Luke 1:17), fulfilling Malachi's prophecy that Elijah would return before the great day of the Lord (Malachi 4:5). Jesus himself declared that among those born of women there has arisen no one greater than John the Baptist (Matthew 11:11), yet John understood his own subordinate role, declaring that he must decrease while Christ must increase (John 3:30). The golden background elevates the portrait to an iconic, timeless plane — this is not merely a historical figure but the eternal witness who stands at the threshold between promise and fulfillment.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "The Agnus Dei banner on the cross-staff directly represents John's declaration: Behold the Lamb of God who takes away the sin of the world"
+    },
+    {
+      "ref": "MAT.3.1-3",
+      "relevance": "primary",
+      "reason": "John's identity as the wilderness preacher calling Israel to repentance is the foundation of this portrait"
+    },
+    {
+      "ref": "MAL.4.5",
+      "relevance": "typological",
+      "reason": "The Baptist's appearance recalls Elijah, fulfilling the prophecy that Elijah would return before the day of the Lord"
+    },
+    {
+      "ref": "LUK.1.17",
+      "relevance": "primary",
+      "reason": "John came in the spirit and power of Elijah to prepare the people for the Lord"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Jesus's declaration that no one born of women is greater than the Baptist affirms his supreme prophetic dignity"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "allusion",
+      "reason": "The Baptist's humility — he must increase, I must decrease — is implicit in the staff pointing beyond himself to the Lamb"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intensity",
+    "authority",
+    "solemnity",
+    "devotion"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050063",
+    "title": "Saint John the Baptist",
+    "artist": "Robert Campin",
+    "model": "claude-opus-4-6"
+  }
+}

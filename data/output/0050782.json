@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simon of Cyrene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Road to Calvary (Christ Carrying the Cross)",
+  "tags": [
+    "road-to-calvary",
+    "carrying-the-cross",
+    "via-dolorosa",
+    "passion",
+    "crucifixion-procession",
+    "simon-of-cyrene",
+    "crowd-scene",
+    "panoramic-landscape",
+    "soldiers",
+    "golgotha",
+    "suffering",
+    "anachronistic-setting"
+  ],
+  "symbols": [
+    "cross carried through the crowd — the instrument of salvation borne through the midst of sinful humanity",
+    "vast panoramic landscape — the cosmic scope of Christ's Passion, affecting all of creation",
+    "anachronistic Flemish village setting — the universality of the Passion, happening in every time and place",
+    "crowd oblivious to the event — humanity's blindness to the saving work occurring in their midst",
+    "mourning women in the foreground — the faithful who grieve while the world ignores",
+    "road winding uphill to Golgotha — the Via Dolorosa ascending toward the place of sacrifice",
+    "soldiers on horseback — the worldly power that unwittingly serves God's salvific plan"
+  ],
+  "description": "A vast panoramic landscape in the manner of Pieter Brueghel the Elder, teeming with hundreds of figures. The scene depicts Christ carrying the cross to Calvary, but the central event is nearly lost amid a sprawling Flemish countryside populated with contemporary 16th-century figures going about their daily lives. A procession of soldiers, executioners, and condemned figures winds from the lower center up a hill toward Golgotha at the upper right, where crosses are already being prepared.",
+  "theological_description": "Pieter Brueghel the Younger's panoramic Road to Calvary, following his father's famous composition, embeds the central event of salvation history within the bustling indifference of everyday life — a profound theological statement. Christ carrying the cross is nearly invisible amid the crowd, fulfilling Isaiah's prophecy that 'he had no form or majesty that we should look at him' (Isaiah 53:2). The anachronistic setting — a 16th-century Flemish landscape rather than first-century Jerusalem — declares that the Passion is not a distant historical event but a present reality in every age. The vast majority of the figures are oblivious, absorbed in commerce, gossip, spectacle, and daily routine, embodying humanity's perennial capacity to ignore the saving action of God in their midst. Only the mourning women in the foreground — led by Mary — see and grieve. Simon of Cyrene, pressed into service to bear the cross, represents the call to every Christian to take up their cross and follow (Luke 9:23). The procession winding uphill toward Golgotha traces the ascending path of sacrifice that leads, beyond the frame, to resurrection. The windmill on its rocky height — sometimes interpreted as a symbol of divine providence grinding the grain of sacrifice — oversees a world that cannot comprehend the love being enacted in its midst.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.26-31",
+      "relevance": "primary",
+      "reason": "Christ on the road to Calvary, Simon of Cyrene compelled to carry the cross, Jesus addressing the weeping women"
+    },
+    {
+      "ref": "MAT.27.32",
+      "relevance": "primary",
+      "reason": "Simon of Cyrene pressed into carrying the cross — visible in the procession"
+    },
+    {
+      "ref": "ISA.53.2-3",
+      "relevance": "typological",
+      "reason": "He had no form or majesty — Christ's near-invisibility in the crowd fulfills the Suffering Servant's hiddenness"
+    },
+    {
+      "ref": "LUK.9.23",
+      "relevance": "allusion",
+      "reason": "Take up your cross daily and follow me — the call visualized in Simon's conscription and the procession"
+    },
+    {
+      "ref": "JHN.1.10",
+      "relevance": "allusion",
+      "reason": "He was in the world and the world did not know him — the crowd's obliviousness to Christ in their midst"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrow",
+    "chaos",
+    "indifference",
+    "pathos"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050782",
+    "title": "The Road to Calvary",
+    "artist": "Pieter Brueghel the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

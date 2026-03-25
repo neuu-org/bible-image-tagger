@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "Pharaoh's Daughter", "type": "PERSON"},
+    {"name": "Moses", "type": "PERSON"},
+    {"name": "Miriam", "type": "PERSON"},
+    {"name": "Handmaidens", "type": "GROUP"},
+    {"name": "Attendants", "type": "GROUP"}
+  ],
+  "event": "The Finding of Moses",
+  "tags": [
+    "finding-of-moses",
+    "nile-river",
+    "basket",
+    "pharaohs-daughter",
+    "rescue",
+    "divine-providence",
+    "egypt",
+    "palm-trees",
+    "infant",
+    "exodus-prelude"
+  ],
+  "symbols": [
+    "basket among the reeds — God's hidden providence preserving the deliverer of Israel amid mortal danger",
+    "Nile river — the instrument of death (Pharaoh's decree) transformed into the instrument of salvation",
+    "Pharaoh's daughter — an unwitting agent of divine purpose, God using even pagan rulers to fulfill His plan",
+    "Miriam watching — faithful vigilance and the role of women in salvation history",
+    "Egyptian setting with palm trees — the land of bondage that paradoxically nurtures the future liberator"
+  ],
+  "description": "A richly composed scene set along the banks of the Nile. At center, Pharaoh's daughter in elegant white robes bends toward a basket containing the infant Moses, attended by several handmaidens in flowing garments. A young girl (Miriam) stands nearby, watching intently. To the left, a servant holds a parasol over the princess. The lush Egyptian landscape includes palm trees, distant pyramids on the horizon, and the river stretching into the background. Rich fabrics and fine linens are spread on the ground. The palette is warm and golden, bathed in luminous light.",
+  "theological_description": "The Finding of Moses (Exodus 2:1-10) is one of Scripture's most vivid demonstrations of divine providence operating through seemingly coincidental human events. Pharaoh decreed the death of all Hebrew male infants, yet God orchestrated events so that Pharaoh's own daughter would rescue, name, and raise the future liberator of Israel within the royal palace itself. The irony is theologically profound: the oppressor's household becomes the nursery of liberation. The Church Fathers saw multiple typological layers in this episode. Moses drawn from the water prefigures baptism -- the passage through water into new life. As Moses was saved to save Israel, so Christ emerged from the waters of the Jordan to save humanity. Origen read the basket (tebah, the same Hebrew word used for Noah's ark) as a figure of the Church, which preserves the faithful amid the floods of the world. Miriam's watchful presence anticipates the role of faithful women throughout salvation history, from the Hebrew midwives who defied Pharaoh to Mary at the foot of the cross. The episode establishes a recurring biblical pattern: God chooses the vulnerable, the hidden, and the endangered to accomplish His greatest works (1 Corinthians 1:27-28).",
+  "scripture_refs": [
+    {"ref": "EXO.2.1-10", "relevance": "primary", "reason": "The direct narrative: Moses' mother places him in a basket, Pharaoh's daughter finds and adopts him."},
+    {"ref": "EXO.1.22", "relevance": "primary", "reason": "Pharaoh's decree to cast every Hebrew son into the Nile, the mortal threat that frames the rescue."},
+    {"ref": "ACT.7.20-22", "relevance": "primary", "reason": "Stephen's speech recounting Moses' rescue and education in Pharaoh's household as part of salvation history."},
+    {"ref": "HEB.11.23", "relevance": "primary", "reason": "By faith Moses' parents hid him three months, seeing he was a beautiful child and not fearing the king's edict."},
+    {"ref": "1CO.1.27-28", "relevance": "typological", "reason": "God chose the weak and lowly to shame the strong -- the vulnerable infant who becomes the deliverer."},
+    {"ref": "MAT.2.13-15", "relevance": "typological", "reason": "The infant Jesus' flight to Egypt and return echoes Moses' early life, fulfilling 'out of Egypt I called my son.'"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tender", "hopeful", "luminous", "dramatic"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0050475",
+    "title": "Pharaoh's daughter finding baby Moses",
+    "artist": "Konstantin Flavitsky",
+    "model": "claude-opus-4-6"
+  }
+}

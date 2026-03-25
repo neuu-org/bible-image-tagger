@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Abel", "type": "PERSON"},
+    {"name": "Cain", "type": "PERSON"}
+  ],
+  "event": "The Sacrifice of Abel",
+  "tags": [
+    "sacrifice",
+    "altar-fire",
+    "offering",
+    "genesis",
+    "primeval-history",
+    "worship",
+    "smoke-rising",
+    "firstlings-of-the-flock",
+    "divine-acceptance"
+  ],
+  "symbols": [
+    "fire and smoke rising — God's acceptance of Abel's offering, the ascending prayer of the righteous",
+    "altar with produce — the first acts of worship in human history, acknowledging God as Creator and Provider",
+    "two figures — the contrast between faith-filled and faithless worship, foreshadowing the division of humanity"
+  ],
+  "description": "A weathered fresco showing two figures on either side of a central altar from which flames and wavy smoke rise upward. On the right, a figure (Abel) kneels or leans toward the offering, presenting what appears to be a bowl of fruits and produce set ablaze. On the left, a second figure (Cain) is partially visible. The painting is heavily damaged with areas of blue, ochre, and brown pigment flaking away, revealing the plaster beneath. The style suggests an early modernist or post-impressionist interpretation of the ancient narrative.",
+  "theological_description": "The Sacrifice of Abel is one of the foundational episodes of salvation history (Genesis 4:1-7). Abel brought the firstlings of his flock and their fat portions, while Cain brought produce of the ground; God 'had regard' for Abel's offering but not for Cain's. The Epistle to the Hebrews explains that 'by faith Abel offered to God a more acceptable sacrifice than Cain' (Heb 11:4), making Abel the first exemplar of justification by faith. The Church Fathers (Irenaeus, Augustine) saw Abel as a type of Christ -- the righteous shepherd whose blood 'cries out from the ground' (Gen 4:10), prefiguring the blood of Jesus that 'speaks a better word than the blood of Abel' (Heb 12:24). Abel's accepted sacrifice also prefigures the Eucharistic offering, where the Lamb of God is perpetually presented to the Father. The rising smoke symbolizes prayer ascending to heaven (Psalm 141:2, Revelation 8:4), establishing the pattern of acceptable worship that runs through all of Scripture.",
+  "scripture_refs": [
+    {"ref": "GEN.4.1-7", "relevance": "primary", "reason": "The direct narrative source: Cain and Abel bring offerings to the Lord, and God accepts Abel's sacrifice."},
+    {"ref": "HEB.11.4", "relevance": "primary", "reason": "By faith Abel offered a more acceptable sacrifice, making him the first hero of faith."},
+    {"ref": "HEB.12.24", "relevance": "typological", "reason": "The blood of Jesus speaks a better word than the blood of Abel -- Abel's sacrifice as type of Christ's."},
+    {"ref": "GEN.4.10", "relevance": "primary", "reason": "Abel's blood cries out from the ground, the first martyrdom in Scripture."},
+    {"ref": "PSA.141.2", "relevance": "allusion", "reason": "Let my prayer be counted as incense, the lifting of my hands as the evening sacrifice -- the rising smoke as prayer."},
+    {"ref": "REV.8.4", "relevance": "allusion", "reason": "The smoke of the incense with the prayers of the saints rose before God, echoing the ascending offering."}
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemn", "devotional", "ancient"],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0050384",
+    "title": "Sacrifice of Abel",
+    "artist": "Kuzmá Petrov-Vodkin",
+    "model": "claude-opus-4-6"
+  }
+}

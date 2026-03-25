@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint John the Evangelist",
+  "tags": [
+    "apostle",
+    "evangelist",
+    "beloved-disciple",
+    "book",
+    "halo",
+    "red-robe",
+    "contemplation",
+    "gospel-writer",
+    "eagle-attribute"
+  ],
+  "symbols": [
+    "book or scroll — the Gospel of John and the written Word of God, the Logos made accessible to humanity",
+    "halo — sanctity and the light of divine grace illuminating the saint",
+    "red garment — the blood of martyrdom and the love that defines John's theology",
+    "upward gaze — contemplation of divine truth, the visionary who 'saw' and testified"
+  ],
+  "description": "A full-length portrait of Saint John the Evangelist standing against a completely dark background. He wears a vivid red robe that dominates the composition, draped in heavy folds. A golden halo encircles his head. He gazes upward with an expression of inspired contemplation, holding a book or writing surface against his body. At his feet, partially visible in the shadows, is a dark form suggesting the eagle, his traditional attribute. The dramatic chiaroscuro and warm palette are characteristic of Spanish Baroque painting.",
+  "theological_description": "Saint John the Evangelist, the 'beloved disciple' who reclined on Jesus' breast at the Last Supper (John 13:23), is the author of the Fourth Gospel, three epistles, and traditionally the Book of Revelation. His Gospel opens with the supreme theological prologue -- 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1) -- establishing the divinity of Christ in terms that shaped all subsequent Christology. The upward gaze in this portrait captures John's role as the contemplative theologian, the eagle who soars highest among the evangelists to perceive divine mysteries. Church tradition (Irenaeus, Clement of Alexandria) regarded John as the 'spiritual Gospel' writer who penetrated beyond historical narrative to reveal the inner meaning of Christ's life. His first epistle declares 'God is love' (1 John 4:8), the theological center of his entire corpus. Ribalta's portrayal emphasizes the saint as visionary and witness -- one who saw, touched, and testified to the Word of life (1 John 1:1-3).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.1-14",
+      "relevance": "primary",
+      "reason": "The Prologue of John's Gospel, the theological summit identifying Christ as the eternal Logos made flesh."
+    },
+    {
+      "ref": "JHN.13.23",
+      "relevance": "primary",
+      "reason": "The beloved disciple reclining on Jesus' breast, the intimate relationship that grounds John's authority."
+    },
+    {
+      "ref": "1JN.4.8",
+      "relevance": "primary",
+      "reason": "God is love -- the distilled essence of Johannine theology."
+    },
+    {
+      "ref": "1JN.1.1-3",
+      "relevance": "primary",
+      "reason": "That which we have seen and heard and touched concerning the Word of life -- John as eyewitness and theologian."
+    },
+    {
+      "ref": "REV.1.1-2",
+      "relevance": "allusion",
+      "reason": "The revelation of Jesus Christ given to his servant John, connecting the evangelist to apocalyptic vision."
+    },
+    {
+      "ref": "JHN.21.20-24",
+      "relevance": "allusion",
+      "reason": "The identification of the beloved disciple as the one who testifies and wrote these things."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "luminous",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050420",
+    "title": "San Juan Evangelista",
+    "artist": "Francesco Ribalta",
+    "model": "claude-opus-4-6"
+  }
+}

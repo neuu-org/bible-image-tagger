@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Saint Stephen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Martyrdom of Saint Stephen",
+  "tags": [
+    "martyrdom",
+    "stoning",
+    "saint-stephen",
+    "first-martyr",
+    "protomartyr",
+    "heavenly-vision",
+    "deacon",
+    "mob-violence",
+    "forgiveness",
+    "risen-christ-in-glory",
+    "palm-branch",
+    "angels",
+    "ecclesiastical-architecture",
+    "jerusalem"
+  ],
+  "symbols": [
+    "stones and stoning — the instrument of Stephen's martyrdom and the crowd's murderous rage",
+    "Christ in glory above — Stephen's vision of the Son of Man standing at the right hand of God",
+    "angels bearing palm and banner — heavenly triumph and the martyr's crown of victory",
+    "Stephen kneeling amid attackers — forgiveness and Christ-like submission in death",
+    "palm trees — Jerusalem setting and the victory of the righteous",
+    "architectural domes in background — the Temple or city of Jerusalem where the martyrdom occurred",
+    "heavenly light breaking through clouds — divine approval and the opened heavens Stephen saw"
+  ],
+  "description": "A dynamic, vertically composed scene within a shaped frame. In the lower portion, Saint Stephen kneels on the ground while a crowd of men hurl stones at him. Figures in turbans and robes surround him in violent agitation. Above, the heavens open dramatically: Christ stands in glory amid clouds, holding a cross-topped staff or banner, flanked by angels. Rays of divine light pour down toward the martyred saint. The background includes architectural elements suggesting Jerusalem, including domed structures and palm trees.",
+  "theological_description": "The martyrdom of Stephen, recorded in Acts 7:54-60, is the first Christian martyrdom and establishes the paradigm for all subsequent witness unto death. Stephen, full of the Holy Spirit, gazed into heaven and saw the glory of God, and Jesus standing at the right hand of God (Acts 7:55). This vision — depicted in the upper register of the painting — is theologically extraordinary: throughout the New Testament, Christ is described as seated at God's right hand, but for Stephen alone he stands, as if rising to receive his first martyr. Stephen's dying words parallel Christ's own: 'Lord Jesus, receive my spirit' (Acts 7:59) echoes 'Father, into your hands I commit my spirit' (Luke 23:46), and 'Lord, do not hold this sin against them' (Acts 7:60) mirrors 'Father, forgive them' (Luke 23:34). Stephen thus becomes an imitatio Christi in the most radical sense — conforming his death to his Master's. The opened heavens recall Ezekiel's inaugural vision (Ezek 1:1) and Jesus's promise to Nathanael that he would see heaven opened and the angels ascending and descending on the Son of Man (John 1:51). Among those consenting to Stephen's death was Saul of Tarsus (Acts 8:1), and Augustine's famous dictum 'If Stephen had not prayed, the Church would not have had Paul' connects this martyrdom to the entire trajectory of Gentile mission.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.7.54-60",
+      "relevance": "primary",
+      "reason": "The direct biblical account of Stephen's stoning, his vision of Christ in glory, and his dying prayer of forgiveness"
+    },
+    {
+      "ref": "ACT.7.55-56",
+      "relevance": "primary",
+      "reason": "Stephen saw the heavens opened and the Son of Man standing at the right hand of God — the heavenly vision depicted above"
+    },
+    {
+      "ref": "LUK.23.34",
+      "relevance": "typological",
+      "reason": "Father, forgive them — Stephen's dying forgiveness parallels Christ's words on the cross"
+    },
+    {
+      "ref": "LUK.23.46",
+      "relevance": "typological",
+      "reason": "Into your hands I commit my spirit — Stephen's 'Lord Jesus, receive my spirit' mirrors Christ's final surrender"
+    },
+    {
+      "ref": "ACT.8.1",
+      "relevance": "allusion",
+      "reason": "Saul was consenting to Stephen's death — connecting the first martyrdom to the conversion of Paul"
+    },
+    {
+      "ref": "JHN.1.51",
+      "relevance": "typological",
+      "reason": "You will see heaven opened — Jesus's promise to Nathanael fulfilled in Stephen's dying vision"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "typological",
+      "reason": "Be faithful unto death, and I will give you the crown of life — Stephen as the archetype of faithful martyrdom"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violence",
+    "glory",
+    "anguish",
+    "transcendence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050889",
+    "title": "The Martyrdom of Saint Stephen",
+    "artist": "Bartolomeo Altomonte",
+    "model": "claude-opus-4-6"
+  }
+}

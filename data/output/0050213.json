@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Just Judges",
+      "type": "GROUP"
+    },
+    {
+      "name": "Knights of Christ",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Procession of the Just Judges and Knights of Christ approaching the Adoration of the Mystic Lamb",
+  "tags": [
+    "altarpiece",
+    "horseback-riders",
+    "pilgrimage",
+    "judges",
+    "knights",
+    "procession",
+    "medieval-city",
+    "heavenly-jerusalem",
+    "adoration",
+    "faithful-witnesses"
+  ],
+  "symbols": [
+    "horses — status and pilgrimage toward salvation",
+    "richly dressed riders — the righteous from all stations of life proceeding toward the Lamb",
+    "distant city with spires — the Heavenly Jerusalem (Revelation 21)",
+    "rocky landscape — the arduous journey of faith"
+  ],
+  "description": "A detail panel from the Ghent Altarpiece showing a procession of richly attired horsemen riding through a rocky landscape toward a distant city with elaborate Gothic spires. The riders wear luxurious robes and headwear in vivid reds, blues, and greens. Some carry attributes of authority. White and brown horses are prominently featured. The background reveals a fantastical cityscape rising above green hills under a bright sky. The figures represent the Just Judges and Knights of Christ converging on the central scene of the Adoration of the Mystic Lamb.",
+  "theological_description": "This panel from Jan van Eyck's Ghent Altarpiece depicts the Just Judges proceeding toward the Lamb of God, who takes away the sin of the world (John 1:29). The entire altarpiece is structured around Revelation 7:9-17 and Revelation 14:1, where a great multitude from every nation gathers before the throne and before the Lamb. The judges represent righteous secular authority, recalling Romans 13:1-4, where governing authorities are established by God as servants for good. Their pilgrimage through the rocky terrain toward the heavenly city echoes Hebrews 11:13-16, where the faithful confess they are strangers and pilgrims on earth, seeking a better country. The distant city with its soaring spires is a visual anticipation of the New Jerusalem descending from heaven (Revelation 21:2). The lavish garments recall the white robes given to the saints (Revelation 7:13-14), here rendered in the splendor of earthly finery to suggest that all human dignity finds its fulfillment in worship of the Lamb. The procession itself evokes Psalm 24:3-6, the question of who may ascend the hill of the Lord, answered by those with clean hands and pure hearts.",
+  "scripture_refs": [
+    {
+      "ref": "REV.7.9-17",
+      "relevance": "primary",
+      "reason": "The multitude gathering before the Lamb is the central theological program of the entire Ghent Altarpiece"
+    },
+    {
+      "ref": "REV.14.1",
+      "relevance": "primary",
+      "reason": "The Lamb standing on Mount Zion with the redeemed is the focal scene toward which these riders process"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "The Mystic Lamb, the Agnus Dei, is the theological center of the altarpiece"
+    },
+    {
+      "ref": "REV.21.2",
+      "relevance": "allusion",
+      "reason": "The fantastical city in the background prefigures the New Jerusalem"
+    },
+    {
+      "ref": "PS.24.3-6",
+      "relevance": "allusion",
+      "reason": "The pilgrimage of the righteous ascending toward the holy place"
+    },
+    {
+      "ref": "HEB.11.13-16",
+      "relevance": "allusion",
+      "reason": "Pilgrims and strangers on earth seeking a heavenly country"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "processional",
+    "reverent",
+    "majestic",
+    "luminous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0050213",
+    "title": "The Ghent Altar (detail)",
+    "artist": "Jan van Eyck",
+    "model": "claude-opus-4-6"
+  }
+}

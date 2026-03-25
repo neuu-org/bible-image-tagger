@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Virgin and Child Enthroned with Angels",
+  "tags": [
+    "virgin-and-child",
+    "enthroned",
+    "angels-and-archangels",
+    "madonna",
+    "throne",
+    "infant-jesus",
+    "queenship",
+    "devotion",
+    "incarnation"
+  ],
+  "symbols": [
+    "throne — Mary's dignity as Queen of Heaven and Theotokos (God-bearer)",
+    "angels flanking the throne — the heavenly court attending the Mother and Child",
+    "Christ Child on Mary's lap — the incarnate God enthroned upon His mother as upon a living throne",
+    "ornate Gothic canopy — the Church as the architectural dwelling place of the divine presence",
+    "red robe — the royal dignity and the foreshadowing of Christ's Passion blood"
+  ],
+  "description": "A small Flemish panel painting depicting the Virgin Mary seated on an ornate Gothic throne, holding the nude Christ Child on her lap. Mary wears a deep crimson-red robe and has long brown hair. The infant Jesus sits facing slightly left, one hand touching what appears to be a book or object. Two small angels kneel on either side of the throne, one at each armrest, their wings folded. The throne is elaborately carved with Gothic tracery, pinnacles, and small sculptural figures. The background is dark, focusing attention on the central group.",
+  "theological_description": "The Virgin and Child Enthroned is one of the most enduring subjects in Christian art, expressing the central mystery of the Incarnation through the image of the God-Man as a helpless infant held by His human mother. The throne elevates this domestic scene to cosmic significance: Mary is not merely a mother but the Theotokos, the God-bearer, whose lap is the first throne of the incarnate Word. The flanking angels, drawn from the heavenly court, acknowledge the divine presence in this seemingly ordinary tableau. Hans Memling's serene, contemplative rendering reflects the late medieval devotional practice of gazing upon such images as aids to prayer and meditation. The Gothic architectural throne, with its echoes of cathedral design, suggests that Mary herself is a kind of living temple — the new Ark of the Covenant who bore within her body what the Jerusalem Temple could never contain. The Christ Child's gesture toward a book anticipates His future role as teacher and the fulfillment of all Scripture.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "The angel announces that Mary will bear a Son who will reign on the throne of David forever — the Incarnation this image depicts"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the prophecy fulfilled in the Virgin and Child"
+    },
+    {
+      "ref": "LUK.1.46-49",
+      "relevance": "allusion",
+      "reason": "Mary's Magnificat declaring that the Mighty One has done great things for her — her exaltation as enthroned Queen"
+    },
+    {
+      "ref": "REV.12.1-5",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun who bears a son destined to rule all nations — the cosmic dimension of Mary's motherhood"
+    },
+    {
+      "ref": "HEB.1.6",
+      "relevance": "allusion",
+      "reason": "When God brings His firstborn into the world He says, Let all God's angels worship Him — the angels attending the Christ Child"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "majestic",
+    "devotional",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0051139",
+    "title": "Virgin and Child Enthroned with Two Angels",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

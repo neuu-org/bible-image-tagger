@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples and mourners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Descent from the Cross (Deposition of Christ)",
+  "tags": [
+    "descent-from-cross",
+    "deposition",
+    "crucifixion",
+    "passion",
+    "lamentation",
+    "church-mural",
+    "apse-painting",
+    "mourning",
+    "burial-preparation",
+    "crosses",
+    "ladder"
+  ],
+  "symbols": [
+    "cross — instrument of Christ's atoning death (Galatians 6:14)",
+    "ladder — the physical means of descent, also a symbol of mediation between heaven and earth",
+    "limp body of Christ — the reality of his death and the cost of redemption",
+    "mourning figures — the grief of the faithful at the death of their Lord",
+    "apse setting — the scene placed in the most sacred architectural space, identifying the altar with Calvary"
+  ],
+  "description": "A monumental apse mural depicting the Descent from the Cross. The lifeless body of Christ is being lowered from the central cross by several figures, including Joseph of Arimathea and Nicodemus. The Virgin Mary and other mourners gather at the base, some kneeling in grief, others reaching to receive the body. Two additional crosses flank the scene with figures still upon or near them. The composition is expansive and theatrical, filling the curved apse of a church. A dove or light appears in the oculus above, suggesting divine presence.",
+  "theological_description": "The Descent from the Cross is one of the most theologically charged moments in the Passion narrative. It stands between the death of Christ on the cross (John 19:30) and his burial (John 19:38-42), a liminal moment when the full weight of the Incarnation is manifest: God in human flesh, truly dead, handled by human hands. Joseph of Arimathea, a secret disciple (John 19:38), and Nicodemus, who first came to Jesus by night (John 3:1-2), now publicly claim the body, their faith overcoming their fear. The Virgin Mary's grief fulfills Simeon's prophecy that a sword would pierce her soul (Luke 2:35). The placement of this scene in the church apse is theologically deliberate, identifying the altar below with the sacrifice of Calvary, making present in the Eucharist what the painting depicts historically. The three crosses recall Luke 23:39-43, with the penitent thief's salvation demonstrating that even at the moment of death, Christ's redemptive power is active. The dove or light in the oculus above affirms the Father's presence even in the darkest hour, echoing Matthew 27:54 where the centurion confesses that this truly was the Son of God.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea and Nicodemus taking down the body and preparing it for burial"
+    },
+    {
+      "ref": "JHN.19.30",
+      "relevance": "primary",
+      "reason": "Christ's death on the cross, the event immediately preceding the deposition"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy of the sword piercing Mary's soul, fulfilled in her grief at the cross"
+    },
+    {
+      "ref": "LUK.23.39-43",
+      "relevance": "allusion",
+      "reason": "The three crosses recall the two thieves crucified alongside Christ"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Glorying in the cross of Christ as the instrument of salvation"
+    },
+    {
+      "ref": "MAT.27.54",
+      "relevance": "allusion",
+      "reason": "The divine presence affirmed even at the moment of Christ's death"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "reverential",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050218",
+    "title": "The Descent from the Cross",
+    "artist": "Theodore Chasseriau",
+    "model": "claude-opus-4-6"
+  }
+}

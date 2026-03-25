@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Saint Luke",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint Luke painting the Virgin and Child",
+  "tags": [
+    "Christianity",
+    "saints-and-apostles",
+    "Saint-Luke",
+    "Virgin-Mary",
+    "patron-of-painters",
+    "evangelist",
+    "sacred-art",
+    "painter-saint",
+    "Madonna-and-Child",
+    "putti",
+    "artist-at-easel",
+    "devotional-image",
+    "icon-tradition"
+  ],
+  "symbols": [
+    "easel and painting — Luke as the first iconographer, the patron saint of artists",
+    "the Virgin appearing in person — divine revelation as the source of sacred art",
+    "putti surrounding Mary — heavenly beings attending the Theotokos, confirming the vision's divine origin",
+    "spectators observing the scene — the Church witnessing and affirming the tradition of sacred image-making",
+    "Christ Child on Mary's lap — the Incarnation made visible, the theological justification for depicting God in art",
+    "canvas showing the Virgin — the painted image as a window to the divine prototype"
+  ],
+  "description": "A richly composed scene showing Saint Luke seated before an easel, actively painting a portrait of the Virgin Mary and Child. He holds a brush and palette, turning to observe his divine subject who appears at the left side of the composition, seated on clouds with the nude Christ Child on her lap and attended by several putti. On the canvas propped on the easel, a sketch of the Madonna and Child is visible. To the right, two or three male figures observe the scene. The setting appears to be a grand interior with architectural elements visible in the background.",
+  "theological_description": "The legend of Saint Luke painting the Virgin is one of the most important traditions in Christian art history, providing the theological foundation for the veneration of icons. According to ancient tradition, Luke the Evangelist — a physician and companion of Paul — was also a painter who produced the first portraits of the Virgin Mary from life. This tradition served as the justification for sacred art against iconoclastic objections: if an apostolic witness depicted Christ and His mother, then image-making is sanctioned by apostolic authority. Vasari's depiction shows the moment of divine encounter, with Mary and the Christ Child appearing in a heavenly vision surrounded by angelic putti, while Luke faithfully transcribes what he sees. The theological principle at work is that sacred art participates in the mystery of the Incarnation: because God became visible in Christ (Col 1:15), He can be depicted. Luke's Gospel contains the most detailed accounts of the Nativity and the Virgin's role, including the Magnificat (Luke 1:46-55) and the Annunciation (Luke 1:26-38), making him uniquely qualified as the one who knew Mary's story most intimately.",
+  "scripture_refs": [
+    {
+      "ref": "COL.1.15",
+      "relevance": "typological",
+      "reason": "Christ as the image of the invisible God provides the theological basis for depicting Him in art, the very act Luke performs"
+    },
+    {
+      "ref": "LUK.1.1-4",
+      "relevance": "primary",
+      "reason": "Luke's prologue declares his intent to set down an orderly account from eyewitnesses — his painting extends this witness visually"
+    },
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "allusion",
+      "reason": "Luke's unique account of the Annunciation reflects his special access to Mary's story, which tradition says came from personal acquaintance"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat, recorded only by Luke, further underscores his intimate knowledge of the Virgin's experience"
+    },
+    {
+      "ref": "COL.4.14",
+      "relevance": "primary",
+      "reason": "Paul identifies Luke as 'the beloved physician,' the apostolic companion tradition also identifies as a painter"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotion",
+    "inspiration",
+    "reverence",
+    "wonder"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0050133",
+    "title": "St. Luke Painting the Virgin",
+    "artist": "Giorgio Vasari",
+    "model": "claude-opus-4-6"
+  }
+}

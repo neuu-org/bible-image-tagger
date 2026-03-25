@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Saint John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints John the Baptist and Mary Magdalene Standing in Landscape",
+  "tags": [
+    "john-the-baptist",
+    "mary-magdalene",
+    "diptych-panels",
+    "patron-saints",
+    "camel-hair-garment",
+    "ointment-jar",
+    "repentance",
+    "forerunner-of-christ",
+    "penitent-woman",
+    "wilderness",
+    "devotional-panels"
+  ],
+  "symbols": [
+    "camel-hair garment on the Baptist — the ascetic garment of the desert prophet, fulfilling Mark 1:6",
+    "ointment jar held by Magdalene — the alabaster flask of precious nard with which she anointed Christ",
+    "red garments on Magdalene — the love and devotion of the penitent saint",
+    "barren landscape behind the Baptist — the wilderness where he preached repentance",
+    "castle on distant hill — earthly power and civilization contrasted with the Baptist's desert calling",
+    "barefoot figures — humility and poverty of spirit before God",
+    "arched panel format — the sacred architectural framing of altarpiece devotion"
+  ],
+  "description": "A diptych of two arched panels set against lush landscapes. On the left, Saint John the Baptist stands barefoot wearing a rough brown camel-hair garment belted at the waist, his right hand raised in a gesture of testimony. His gaunt, ascetic figure occupies a grassy foreground with a lake, distant castle, and green hills behind him. On the right panel, Saint Mary Magdalene stands in an ornate red brocade gown with flowing auburn hair, holding a small white ointment jar in her left hand. Behind her stretches a gentle landscape with buildings and rolling hills.",
+  "theological_description": "The pairing of John the Baptist and Mary Magdalene in devotional art represents two complementary paths to Christ: the prophetic call to repentance and the personal experience of forgiveness. The Baptist, the last and greatest of the Old Testament prophets (Matthew 11:11), stands as the hinge between the old and new covenants, the voice crying in the wilderness to prepare the way of the Lord (Isaiah 40:3, Mark 1:3). His camel-hair garment identifies him with Elijah (2 Kings 1:8), whose spirit he bore (Luke 1:17). Mary Magdalene, from whom seven demons were cast out (Luke 8:2), became the first witness of the Resurrection (John 20:11-18), earning her the title 'Apostle to the Apostles' in patristic tradition. Her ointment jar recalls the anointing at Bethany (John 12:3), an act of extravagant devotion that Jesus declared would be remembered wherever the gospel is preached (Mark 14:9). Together these saints frame the Gospel narrative: the Baptist announces Christ's coming, and the Magdalene proclaims his rising. Both are figures of radical conversion — the Baptist turned Israel from complacency to expectation, and the Magdalene was transformed from bondage to devoted discipleship.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.1.3-6",
+      "relevance": "primary",
+      "reason": "The Baptist's camel-hair garment and wilderness setting directly depict the Gospel description of his appearance and ministry"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "primary",
+      "reason": "Mary Magdalene as first witness of the Resurrection defines her central role in the Gospel narrative"
+    },
+    {
+      "ref": "JHN.12.3",
+      "relevance": "primary",
+      "reason": "The ointment jar identifies Magdalene with the anointing at Bethany, her signature act of devotion"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The Baptist fulfills Isaiah's prophecy of the voice crying in the wilderness to prepare the Lord's way"
+    },
+    {
+      "ref": "LUK.8.2",
+      "relevance": "primary",
+      "reason": "Magdalene's deliverance from seven demons is the foundation of her identity as one transformed by Christ's power"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Jesus's declaration that among those born of women none is greater than John the Baptist affirms his unique prophetic status"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotion",
+    "serenity",
+    "contemplation"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050033",
+    "title": "St. John the Baptist and St. Mary Magdalen",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

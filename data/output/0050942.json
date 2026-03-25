@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bystanders at Calvary",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Calvary (detail from triptych)",
+  "tags": [
+    "calvary",
+    "crucifixion-bystanders",
+    "triptych-detail",
+    "virgin-mary",
+    "crowd-at-golgotha",
+    "grief",
+    "turbans",
+    "medieval-dress",
+    "passion-narrative",
+    "mourning",
+    "witnesses-of-the-cross",
+    "golgotha"
+  ],
+  "symbols": [
+    "Virgin Mary's white mantle and upward gaze — maternal grief and faith at the foot of the cross",
+    "figures turning away — the horror of the crucifixion too terrible to witness",
+    "turbaned figures — the diverse crowd present at Golgotha including Jewish and Roman observers",
+    "dense grouping of figures — the multitude gathered at the epochal event of salvation history",
+    "upward gazes — looking toward the cross (not shown in this detail)"
+  ],
+  "description": "A detail from a larger Calvary triptych showing a dense group of figures, presumably bystanders at the Crucifixion. The Virgin Mary is identifiable in white garments, gazing upward toward the cross which is outside the frame of this detail. Around her are numerous figures in medieval and orientalizing dress, including men in colorful turbans and robes. Some look upward, others turn away or converse. A small tree or shrub is visible in the lower portion. The painting style is characteristic of early Netherlandish art with precise detail and rich coloring.",
+  "theological_description": "This detail from a Calvary triptych captures the human dimension of the Crucifixion — the crowd gathered at the foot of the cross. The Virgin Mary's upward gaze embodies the fulfillment of Simeon's prophecy: the sword is now piercing her soul (Luke 2:35) as she witnesses her son's death. Her white garments amid the colorful crowd set her apart as the uniquely suffering mother. The diverse assembled figures reflect the Gospel accounts that describe a mixed crowd at Golgotha — passersby, chief priests, soldiers, and faithful followers (Mark 15:29-41). John's Gospel specifically places Mary at the cross (John 19:25-27), the moment when Jesus entrusts her to the beloved disciple and establishes her maternal relationship to the Church. The variety of emotional responses in the crowd — some gazing upward in horror, others turning away — mirrors the range of human response to the cross that Paul would later articulate: foolishness to those who are perishing, but the power of God to those who are being saved (1 Cor 1:18).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary standing at the foot of the cross — the Johannine account that places the Virgin at Calvary"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "A sword will pierce your own soul — Simeon's prophecy fulfilled in Mary's anguished gaze at the cross"
+    },
+    {
+      "ref": "MRK.15.29-41",
+      "relevance": "primary",
+      "reason": "The diverse crowd at Golgotha — passersby, chief priests, and faithful women watching from a distance"
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "typological",
+      "reason": "The word of the cross is foolishness to the perishing but the power of God to the saved — the varied reactions of the crowd"
+    },
+    {
+      "ref": "LUK.23.27",
+      "relevance": "allusion",
+      "reason": "A great multitude of the people followed him, and women who were mourning and lamenting"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "solemnity",
+    "tension",
+    "anguish"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050942",
+    "title": "Calvary Triptych (detail)",
+    "artist": "Justus van Gent",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Preacher",
+      "type": "PERSON"
+    },
+    {
+      "name": "Congregation",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Preaching in the Church",
+  "tags": [
+    "preaching",
+    "church-interior",
+    "sermon",
+    "congregation",
+    "pulpit",
+    "worship",
+    "word-of-god",
+    "medieval-church",
+    "ministry-of-the-word",
+    "mixed-congregation",
+    "attentive-listeners"
+  ],
+  "symbols": [
+    "elevated pulpit — the authority of the preached Word, raised up to be heard by all",
+    "attentive congregation of men, women, and all stations — the universality of the Gospel call",
+    "Gothic church interior with arches — the sacred space where heaven and earth meet through the proclaimed Word",
+    "open space between preacher and people — the Word going forth from God's minister to the assembly",
+    "variety of dress and social classes — the church as the gathering of all sorts, rich and poor alike"
+  ],
+  "description": "A detailed late-medieval interior scene of a Gothic church during a sermon. A preacher in white robes stands in an elevated pulpit at the upper left, gesturing as he addresses a large congregation filling the nave. The crowd includes men and women of various social classes — nobles, merchants, religious sisters in white wimples, common folk — all turned attentively toward the speaker. The architectural setting features pointed arches, columns, and through a central archway, a glimpse of a deeper chapel space with an altarpiece.",
+  "theological_description": "Lucas van Leyden's depiction of preaching in the church visualizes the Reformation-era and late-medieval emphasis on the ministry of the Word as central to Christian worship. The elevated pulpit represents the authority Paul describes in Romans 10:14-15: 'How are they to hear without someone preaching?' The diverse congregation — women in religious habits, men of commerce, nobility, and common people gathered together — embodies the Pauline vision of the church as one body with many members (1 Corinthians 12:12-13), where social distinctions are transcended by the shared hearing of God's Word. The Gothic architectural setting, with its upward-pointing arches, frames the act of preaching within the broader liturgical and sacramental life of the church. The scene recalls Nehemiah 8, where Ezra read the Law to the assembled people who listened attentively, and the synagogue scene of Luke 4 where Jesus stood up to read. The image affirms that the proclaimed Word is itself a means of grace — living and active (Hebrews 4:12) — and that faithful preaching is an essential mark of the true church.",
+  "scripture_refs": [
+    {
+      "ref": "ROM.10.14-15",
+      "relevance": "primary",
+      "reason": "How shall they hear without a preacher? — the theological foundation of the preaching ministry depicted"
+    },
+    {
+      "ref": "NEH.8.1-8",
+      "relevance": "typological",
+      "reason": "Ezra reading the Law to the assembled people, the Old Testament prototype of public proclamation of God's Word"
+    },
+    {
+      "ref": "2TI.4.2",
+      "relevance": "allusion",
+      "reason": "Paul's charge to Timothy: 'Preach the Word, be ready in season and out of season'"
+    },
+    {
+      "ref": "HEB.4.12",
+      "relevance": "allusion",
+      "reason": "The Word of God is living and active — the preached Word as a dynamic encounter, not mere information"
+    },
+    {
+      "ref": "ACT.2.42",
+      "relevance": "allusion",
+      "reason": "The early church devoted to the apostles' teaching — the continuity of preaching in the gathered assembly"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "attentiveness",
+    "solemnity",
+    "community"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0050649",
+    "title": "Preaching in the Church",
+    "artist": "Lucas van Leyden",
+    "model": "claude-opus-4-6"
+  }
+}

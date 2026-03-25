@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young Saint John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna and Child with the young John the Baptist and an attending angel",
+  "tags": [
+    "madonna-and-child",
+    "holy-family",
+    "infant-baptist",
+    "scroll",
+    "angel",
+    "red-robe",
+    "sacred-conversation",
+    "maternal-tenderness",
+    "incarnation"
+  ],
+  "symbols": [
+    "scroll held by young Baptist — prophetic witness, 'Behold the Lamb of God' (John 1:29)",
+    "Christ Child's gesture — blessing and divine authority even in infancy",
+    "red robe of Mary — the Passion and the blood of Christ",
+    "angel — heavenly witness to the mystery of the Incarnation",
+    "architectural setting — the Church and the new temple of God's presence"
+  ],
+  "description": "The Virgin Mary, dressed in a vibrant red robe with a green undergarment and a pink head covering, sits centrally holding the infant Christ on her left side. The young Saint John the Baptist, depicted as a curly-haired child, stands at the lower left holding a scroll with an inscription. An angel with reddish-gold hair and a pink mantle appears at the right, gazing tenderly at the scene. A stone architectural element frames the background. The composition is intimate and warm, with rich color and soft modeling characteristic of Roman Mannerism.",
+  "theological_description": "This sacra conversazione unites the central figures of the Incarnation and its prophetic witness. The Virgin Mary as Theotokos holds the divine Word made flesh (John 1:14), her red garment foreshadowing the Passion. The young Baptist holds a scroll, the traditional banderole bearing the words 'Ecce Agnus Dei' (John 1:29), identifying Christ as the sacrificial Lamb even in infancy. This juxtaposition of the infant Christ and the infant Baptist recalls Luke 1:41-44, where the unborn John leapt in Elizabeth's womb at the presence of the unborn Jesus, recognizing his Lord before birth. The attending angel serves as heavenly witness to the mystery, recalling the angelic annunciations to both Mary (Luke 1:26-38) and Zechariah (Luke 1:11-20). The intimacy of the grouping reflects the theological truth that the Incarnation is both a cosmic event and a profoundly domestic one, God entering human history through the tenderness of a mother and child. The scroll connects the Old Testament prophetic tradition to its New Testament fulfillment, as John is the last and greatest of the prophets (Matthew 11:11) who bridges the two covenants.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh, the central mystery depicted in the Christ Child"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "The Baptist's scroll references his identification of Jesus as the Lamb of God"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The meeting of the infant Baptist and infant Christ recalls the Visitation"
+    },
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "allusion",
+      "reason": "The angel's presence recalls the Annunciation to Mary"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "John as the greatest born of women, here shown in intimate proximity to the Christ"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "serene",
+    "devotional",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050216",
+    "title": "Madonna with Child, young Saint John the Baptist and angel",
+    "artist": "Daniele da Volterra",
+    "model": "claude-opus-4-6"
+  }
+}

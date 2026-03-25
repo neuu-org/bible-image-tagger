@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jealous man",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Jealousy (Temptation in the Garden)",
+  "tags": [
+    "adam-and-eve",
+    "jealousy",
+    "temptation",
+    "garden-of-eden",
+    "tree-of-knowledge",
+    "fall",
+    "fruit",
+    "expressionism",
+    "sin",
+    "desire"
+  ],
+  "symbols": [
+    "tree with red fruit — the Tree of Knowledge of Good and Evil, the locus of temptation",
+    "nude woman reaching for fruit — Eve in the act of yielding to temptation",
+    "dark male figure — Adam or the tempter, complicit in the transgression",
+    "brooding face in foreground — jealousy personified, the emotional consequence of the Fall",
+    "dark background — the spiritual darkness unleashed by the first sin"
+  ],
+  "description": "An Expressionist painting by Edvard Munch showing a dark, psychologically charged scene. In the background, a nude red-haired woman (Eve) stands beneath a tree laden with red fruit, reaching upward, while a dark male figure (Adam) stands beside her. In the foreground, dominating the right side, is the large, brooding face and upper body of a bearded man with an anguished expression, staring directly at the viewer. The palette is dominated by deep blacks, dark greens, and vivid reds, with Munch's characteristic swirling, emotionally charged brushwork creating a sense of psychological torment.",
+  "theological_description": "Munch's painting fuses the Genesis narrative of the Fall with the raw emotional reality of jealousy, creating a psychological interpretation of the primal human drama. The background scene clearly evokes Genesis 3: a woman reaching for fruit from a tree, a man standing alongside her. But Munch's addition of the tormented foreground figure transforms the biblical narrative into a meditation on the consequences of the Fall. In Genesis, the immediate result of eating the forbidden fruit is shame, blame, and the rupture of relationships — between humanity and God, between man and woman, and within the human heart itself. Jealousy, envy, and possessive desire are among the first fruits of that rupture: Cain's jealousy of Abel follows almost immediately (Genesis 4). Munch's expressionist vision captures what theology calls concupiscence — the disordering of desire that is the inheritance of the Fall. The brooding foreground face represents every human being who, east of Eden, experiences the torment of desires that have been twisted away from their original divine purpose.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.6",
+      "relevance": "primary",
+      "reason": "Eve sees the fruit is desirable and takes it — the background scene directly depicted"
+    },
+    {
+      "ref": "GEN.3.7-13",
+      "relevance": "primary",
+      "reason": "The immediate aftermath of the Fall: shame, hiding, blame — the psychological reality Munch explores"
+    },
+    {
+      "ref": "GEN.4.5-8",
+      "relevance": "typological",
+      "reason": "Cain's jealousy leading to the first murder — jealousy as a direct consequence of the Fall"
+    },
+    {
+      "ref": "JAS.3.14-16",
+      "relevance": "allusion",
+      "reason": "Where jealousy and selfish ambition exist, there is disorder and every vile practice — the theology of jealousy"
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "allusion",
+      "reason": "Sin entered the world through one man, and death through sin — the universal condition depicted in the tormented foreground figure"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "tormented",
+    "dark",
+    "anguished",
+    "primal"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0051156",
+    "title": "Jealousy",
+    "artist": "Edvard Munch",
+    "model": "claude-opus-4-6"
+  }
+}

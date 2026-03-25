@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Shepherds",
+  "tags": [
+    "nativity",
+    "adoration-of-the-shepherds",
+    "manger",
+    "incarnation",
+    "humble-birth",
+    "stable",
+    "ox-and-donkey",
+    "swaddling-clothes",
+    "kneeling",
+    "divine-revelation-to-the-poor"
+  ],
+  "symbols": [
+    "manger and straw — the humility of the Incarnation, the King of Kings laid in a feeding trough",
+    "white swaddling cloths — purity and the foreshadowing of burial linens",
+    "kneeling shepherds — the lowly and marginalized as the first to receive the Gospel",
+    "ox and donkey — traditional symbols from Isaiah 1:3, the animals that know their master's crib",
+    "cave-like stable — Christ entering the darkness of the fallen world to bring light",
+    "Mary's white garment and protective posture — her role as Theotokos guarding the incarnate Word"
+  ],
+  "description": "A dark, cave-like stable scene rendered in Tissot's characteristic style. The Virgin Mary, draped in white, sits protectively over the newborn Jesus who lies glowing in the manger straw. From the left, a group of shepherds press forward in attitudes of awe and worship, some kneeling and prostrating themselves. Behind them, the heads of oxen and a donkey are visible. The warm earthy tones of the rocky shelter contrast with the luminous white of Mary's veil and the infant's wrappings. A solitary figure stands in shadow at the right edge.",
+  "theological_description": "James Tissot's Adoration of the Shepherds emphasizes the radical condescension of the Incarnation. The cave setting — following Eastern iconographic tradition rather than the Western wooden stable — evokes the womb of the earth receiving the Creator, and prefigures the rock-hewn tomb from which Christ will rise. The shepherds, occupying the lowest rung of Palestinian social hierarchy, are nevertheless the first evangelized, fulfilling the Magnificat's promise that God exalts the humble (Luke 1:52). Their prostration mirrors the worship due to God alone, recognizing in this helpless infant the fulfillment of Isaiah's prophecy. Tissot's archaeological realism, drawn from his extensive travels in the Holy Land, strips the scene of European idealization, grounding the theological mystery in historical particularity. The luminous white wrappings simultaneously point forward to the grave cloths of John 20:5-7, framing the Nativity within the Paschal mystery from the very first moment.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The direct scriptural account of the shepherds visiting the newborn Christ in the manger"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary wrapping the child in swaddling clothes and laying him in a manger, the central visual element"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "typological",
+      "reason": "The ox knows its owner and the donkey its master's crib — the animals present recognize what Israel failed to see"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "allusion",
+      "reason": "The kenosis hymn — Christ emptying himself and taking the form of a servant — is visually expressed in the humble stable birth"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "allusion",
+      "reason": "God exalting the humble, fulfilled in the shepherds being chosen as first witnesses of the Messiah"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe",
+    "tenderness",
+    "reverence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050532",
+    "title": "The Adoration of the Shepherds",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

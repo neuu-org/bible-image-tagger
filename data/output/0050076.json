@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Moses holding the Tablets of the Law",
+  "tags": [
+    "ten-commandments",
+    "tablets-of-the-law",
+    "lawgiver",
+    "old-testament-patriarch",
+    "Hebrew-inscription",
+    "covenant",
+    "divine-law",
+    "Sinai",
+    "prophet",
+    "obedience",
+    "Torah",
+    "famous-men-series"
+  ],
+  "symbols": [
+    "two stone tablets — the Ten Commandments given by God on Mount Sinai, the foundation of the Mosaic covenant",
+    "Hebrew text on the tablets — the very words of God inscribed by His finger, signifying divine authorship of the Law",
+    "turban and ornate robes — Moses's dignity as leader and mediator between God and Israel",
+    "blue curtain behind — evokes the veil of the Tabernacle separating the holy from the profane",
+    "arched architectural setting — suggests a niche of honor, portraying Moses among the illustrious men of history",
+    "inscription 'MOSE IVDAEO' — identifies Moses as a Jew, emphasizing his role within salvation history"
+  ],
+  "description": "A half-length portrait of Moses depicted as a bearded man wearing an elaborate turban with white and crimson fabric and richly decorated robes of gold and burgundy. He holds two stone tablets inscribed with Hebrew text representing the Ten Commandments, pressing them against his chest with both hands. He gazes slightly upward and to the right with a solemn, contemplative expression. Behind him hangs a vivid blue curtain framed by painted arches. At the bottom, an inscription reads 'MOSE IVDAEO.'",
+  "theological_description": "Moses stands as the supreme lawgiver of Israel, the mediator through whom God delivered the Torah to His people. The two tablets he holds represent the Decalogue received on Mount Sinai (Exod 31:18), inscribed by the finger of God Himself. This image belongs to the Renaissance tradition of depicting Moses among the uomini famosi — famous men of history — acknowledging his singular role in salvation history. The Hebrew inscriptions on the tablets underscore the continuity between the written Word and the living covenant. In Christian typology, Moses as lawgiver prefigures Christ, who fulfills the Law (Matt 5:17). The blue curtain behind him evokes the veil of the Tabernacle (Exod 26:31-33), the boundary between God's holy presence and the people, which Moses alone was permitted to cross. His contemplative upward gaze suggests his unique intimacy with God, who spoke to him 'face to face, as a man speaks to his friend' (Exod 33:11).",
+  "scripture_refs": [
+    {
+      "ref": "EXO.31.18",
+      "relevance": "primary",
+      "reason": "God gives Moses the two tablets of the Testimony, inscribed by the finger of God — the very objects depicted in the painting"
+    },
+    {
+      "ref": "EXO.20.1-17",
+      "relevance": "primary",
+      "reason": "The Ten Commandments written on the tablets Moses holds constitute the core of the Sinai covenant"
+    },
+    {
+      "ref": "DEU.5.6-21",
+      "relevance": "primary",
+      "reason": "The Deuteronomic recapitulation of the Decalogue, which Moses delivered to Israel before entering the Promised Land"
+    },
+    {
+      "ref": "EXO.33.11",
+      "relevance": "allusion",
+      "reason": "Moses's contemplative upward gaze reflects his unique privilege of speaking with God face to face"
+    },
+    {
+      "ref": "MAT.5.17",
+      "relevance": "typological",
+      "reason": "Christ declares He came not to abolish the Law but to fulfill it, establishing Moses as His typological forerunner"
+    },
+    {
+      "ref": "2CO.3.7-18",
+      "relevance": "typological",
+      "reason": "Paul contrasts the ministry of Moses inscribed on stone with the surpassing glory of the new covenant written on human hearts"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemnity",
+    "authority",
+    "reverence"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0050076",
+    "title": "Moses",
+    "artist": "Justus van Gent",
+    "model": "claude-opus-4-6"
+  }
+}

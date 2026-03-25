@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Michael",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saint Catherine of Alexandria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Enthroned Virgin and Child with Saints (Dresden Triptych)",
+  "tags": [
+    "virgin-and-child",
+    "triptych",
+    "enthroned-madonna",
+    "archangel-michael",
+    "saint-catherine",
+    "donor-portrait",
+    "incarnation",
+    "devotional",
+    "canopy"
+  ],
+  "symbols": [
+    "throne beneath canopy — Mary as Sedes Sapientiae, the throne of divine Wisdom incarnate",
+    "Christ Child — the Incarnation, God taking human form in the womb of Mary",
+    "Saint Michael in armor — the angelic warrior who defends God's people and casts down Satan (Revelation 12:7-9)",
+    "Saint Catherine with wheel — virginal wisdom and steadfast faith even unto martyrdom",
+    "Gothic cathedral interior — the Church as the house of God and gateway to heaven",
+    "donor kneeling — human devotion and humility before the divine mysteries"
+  ],
+  "description": "A small triptych in three panels set within a Gothic architectural framework. The central panel shows the Virgin Mary seated on an ornate throne beneath a brocaded green and gold canopy, holding the nude Christ Child on her lap. She wears a rich red mantle. The left wing depicts the Archangel Michael in gleaming armor with colorful wings, standing over a small kneeling donor figure. The right wing shows Saint Catherine of Alexandria in a blue gown and crown, holding a broken wheel and possibly a sword.",
+  "theological_description": "Jan van Eyck's Dresden Triptych is a masterwork of late-medieval devotional theology compressed into a miniature format. The enthroned Virgin with the Christ Child at center proclaims the Incarnation -- the mystery that 'the Word became flesh and dwelt among us' (John 1:14). Mary as Theotokos sits within a cathedral space, identifying the Church itself as the dwelling place of God among humanity. The architectural setting evokes the Heavenly Jerusalem (Revelation 21), where God dwells with His people. Saint Michael on the left wing embodies the cosmic battle between good and evil (Revelation 12:7-9); his presence with the kneeling donor suggests both protection and intercession at the hour of death, when Michael was believed to weigh souls. Saint Catherine on the right wing represents sanctified wisdom and virgin faithfulness, a mirror of Mary's own virtues. The triptych format itself is liturgical -- meant to be opened and closed, it enacts the revelation and concealment of sacred mysteries, echoing the veiling and unveiling of the Holy of Holies. Van Eyck's luminous realism makes the transcendent tangibly present, embodying the sacramental principle that material things can communicate divine grace.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh -- the Incarnation that every Virgin-and-Child image makes visible."
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you -- Mary's unique role as Theotokos, the vessel of the Incarnation."
+    },
+    {
+      "ref": "REV.12.7-9",
+      "relevance": "primary",
+      "reason": "Michael and his angels fighting the dragon, the cosmic warfare embodied by the archangel in the left panel."
+    },
+    {
+      "ref": "REV.21.2-3",
+      "relevance": "typological",
+      "reason": "The New Jerusalem coming down from God, evoked by the luminous cathedral architecture surrounding the throne."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son -- the Isaian prophecy fulfilled in Mary and visually proclaimed here."
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat -- Mary's exaltation as the handmaid of the Lord, now enthroned in glory."
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "reverent",
+    "luminous",
+    "intimate",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050471",
+    "title": "Dresden Triptych (Virgin and Child with St. Michael and St. Catherine)",
+    "artist": "Jan van Eyck",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Saint John",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Persecutors",
+      "type": "GROUP"
+    },
+    {
+      "name": "Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Martyrdom of Saints John and Paul",
+  "tags": [
+    "martyrdom",
+    "saints",
+    "fresco",
+    "lunette",
+    "romanesque",
+    "persecution",
+    "execution",
+    "early-church",
+    "faith",
+    "medieval"
+  ],
+  "symbols": [
+    "haloes — sanctity and divine favor upon the martyrs",
+    "Christ figure above — the Lord receiving the souls of His faithful witnesses",
+    "divided composition — the narrative sequence of arrest, trial, and execution",
+    "arched lunette — the architectural setting of a church, framing martyrdom within liturgical space"
+  ],
+  "description": "A Romanesque lunette fresco depicting the martyrdom of Saints John and Paul in multiple narrative episodes within a single semicircular composition. At center, two haloed figures (the saints) stand flanking a decorative vertical band or column. To the left, scenes show figures being confronted or arrested, with architectural elements suggesting a building or prison. To the right, one or more figures are shown being struck down or beheaded, with an executioner figure in action. Above, a partial figure of Christ appears at the apex of the arch, receiving the martyrs.",
+  "theological_description": "Saints John and Paul were Roman soldiers and courtiers traditionally martyred under Julian the Apostate in the 4th century for refusing to sacrifice to pagan gods. Their story belongs to the rich tradition of military saints who chose loyalty to Christ over loyalty to the emperor — a theme with deep New Testament roots. The divided narrative format of this Romanesque fresco, depicting multiple episodes simultaneously, reflects the medieval understanding of sacred time: all moments of the martyrdom are present at once before the eyes of God, who appears above to receive His servants. The fresco by Alberto Sotio, with its austere Romanesque style, strips the narrative to its theological essentials: faithful witness, unjust persecution, violent death, and heavenly reward. The presence of Christ at the apex completes the theological arc, confirming the promise of Revelation 2:10 that those faithful unto death will receive the crown of life.",
+  "scripture_refs": [
+    {
+      "ref": "REV.2.10",
+      "relevance": "primary",
+      "reason": "Be faithful unto death and I will give you the crown of life — the foundational promise for all martyrdom narratives"
+    },
+    {
+      "ref": "ACT.5.29",
+      "relevance": "primary",
+      "reason": "We must obey God rather than men — the principle for which John and Paul died, refusing pagan sacrifice"
+    },
+    {
+      "ref": "ROM.8.36-37",
+      "relevance": "allusion",
+      "reason": "For your sake we are being killed all the day long — yet in all these things we are more than conquerors"
+    },
+    {
+      "ref": "MAT.10.18-20",
+      "relevance": "allusion",
+      "reason": "You will be brought before governors and kings for my sake — Christ's prophecy fulfilled in the martyrs' trial"
+    },
+    {
+      "ref": "2TI.2.3-4",
+      "relevance": "typological",
+      "reason": "Suffer hardship as a good soldier of Christ Jesus — the military saints as literal embodiments of this metaphor"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "austere",
+    "tragic",
+    "triumphant"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0051128",
+    "title": "Martyrdom of St. John and St. Paul",
+    "artist": "Alberto Sotio",
+    "model": "claude-opus-4-6"
+  }
+}

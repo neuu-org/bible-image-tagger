@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Blessing Christ and Praying Virgin",
+  "tags": [
+    "blessing-christ",
+    "praying-virgin",
+    "diptych",
+    "gold-ground",
+    "halo",
+    "devotional-image",
+    "deesis",
+    "intercessory-prayer",
+    "frontal-gaze",
+    "medieval-devotion",
+    "icon",
+    "mother-and-son",
+    "sacred-portrait"
+  ],
+  "symbols": [
+    "gold ground — the eternal, heavenly realm beyond earthly time and space",
+    "ornate halos — divine sanctity and the radiance of glory",
+    "Christ's direct gaze — the omniscient divine presence confronting the viewer",
+    "Mary's praying hands — perpetual intercession for humanity before her Son",
+    "Mary's blue veil — heavenly purity and her role as Queen of Heaven",
+    "Christ's red garment — his divine kingship and the blood of redemption",
+    "pairing of the two figures — the Deesis theme of Christ as Judge and Mary as Intercessor"
+  ],
+  "description": "A close-up diptych-style composition showing the faces of Christ and the Virgin Mary side by side against an ornate gold ground. Christ appears at left with long brown hair and a short beard, gazing directly at the viewer with a calm, penetrating expression. He wears a red garment. His halo is elaborately tooled gold. Beside him, the Virgin Mary wears a dark blue veil over her hair, her hands raised in prayer. Her expression is serene and contemplative, her eyes looking slightly to the side. Both figures are rendered with luminous, pale skin against the resplendent gold background.",
+  "theological_description": "This devotional panel presents a compressed Deesis — the traditional arrangement of Christ flanked by intercessors, here reduced to its essential pairing of the Son and his Mother. Christ's frontal gaze recalls the icon tradition where the divine presence looks out from eternity into the viewer's present moment, demanding response. Mary's praying hands embody her role as perpetual intercessor — the one who at Cana said 'They have no wine' (John 2:3) and who continues to bring human need before her Son. The gold ground, standard in medieval devotional painting, signifies not mere luxury but the uncreated light of divine glory, the realm where these figures eternally dwell. The juxtaposition of Christ's direct blessing gaze with Mary's prayerful posture encapsulates the entire economy of salvation: Christ as the source of all grace (John 1:16), Mary as the channel through whom humanity's prayers ascend. This reflects the Johannine theology of the cross where Christ entrusted his mother to the beloved disciple and the disciple to his mother (John 19:26-27), establishing Mary's maternal relationship to all believers.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.26-27",
+      "relevance": "primary",
+      "reason": "Christ entrusts Mary to the beloved disciple and vice versa, establishing her spiritual motherhood over the Church"
+    },
+    {
+      "ref": "JHN.2.1-5",
+      "relevance": "allusion",
+      "reason": "Mary's intercessory role begins at Cana where she brings human need to Christ — the dynamic captured in her praying posture"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "Hail, full of grace, the Lord is with you — the gold halos and radiant depiction reflect Mary's unique grace"
+    },
+    {
+      "ref": "1TI.2.5",
+      "relevance": "typological",
+      "reason": "There is one mediator between God and man — Christ's central, frontal position affirms his unique mediatorial role"
+    },
+    {
+      "ref": "COL.1.15",
+      "relevance": "allusion",
+      "reason": "He is the image of the invisible God — Christ's direct gaze makes visible the unseen divine presence"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serenity",
+    "devotion",
+    "solemnity",
+    "transcendence"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0050874",
+    "title": "Blessing Christ and Praying Virgin",
+    "artist": "Robert Campin",
+    "model": "claude-opus-4-6"
+  }
+}

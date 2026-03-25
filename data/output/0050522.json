@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child Enthroned in a Floral Garland",
+  "tags": [
+    "madonna-and-child",
+    "floral-garland",
+    "flower-wreath",
+    "marian-devotion",
+    "roses",
+    "lilies",
+    "tulips",
+    "hortus-conclusus",
+    "incarnation",
+    "divine-motherhood",
+    "crown",
+    "radiance"
+  ],
+  "symbols": [
+    "floral garland encircling Madonna and Child — the hortus conclusus, the enclosed garden of Song of Solomon symbolizing Mary's purity",
+    "white lilies — Mary's virginal purity and the Annunciation",
+    "roses — the rose without thorns, a Marian epithet signifying her freedom from original sin",
+    "tulips and varied flowers — the abundance and diversity of God's creation honored through the Incarnation",
+    "golden radiance around Mary's head — divine grace and her role as the vessel of the Light of the World",
+    "Christ Child holding fruit — recalling the new fruit of salvation reversing the forbidden fruit of Eden",
+    "dark background — the fallen world illuminated by the central mystery of the Incarnation"
+  ],
+  "description": "An oval central portrait of the Virgin Mary holding the Christ Child is set against a dark background and surrounded by a lavish garland of flowers. Mary wears a red gown and is crowned, with golden rays emanating from her head. The infant Christ sits on her lap holding a round fruit. The wreath comprises an extravagant variety of flowers including white and pink roses, red and yellow tulips, white lilies, carnations, irises, and numerous smaller blooms, all rendered with meticulous botanical detail against the deep black ground.",
+  "theological_description": "Jan Brueghel the Elder's floral Madonna belongs to a rich Counter-Reformation tradition that united still-life virtuosity with Marian theology. The garland functions as a visual meditation on the Song of Solomon's hortus conclusus (Song 4:12), the enclosed garden that patristic and medieval exegetes interpreted as a figure of Mary's perpetual virginity. Each flower carries symbolic freight: the lilies evoke Gabriel's greeting at the Annunciation, the thornless roses recall the new Eve untouched by sin, and the sheer profusion of blossoms proclaims that in the Incarnation all creation is gathered up and offered back to God. The oval frame-within-a-frame creates an icon-like presence, inviting contemplative devotion. The Christ Child's fruit alludes to the reversal of the Fall — where Eve took the forbidden fruit bringing death, Mary bore the fruit of her womb bringing life (Luke 1:42). The dark surround intensifies the theological contrast: the world lies in darkness, but at its center shines the Mother with the Light of the World.",
+  "scripture_refs": [
+    {
+      "ref": "SNG.4.12",
+      "relevance": "typological",
+      "reason": "The enclosed garden of the Song of Solomon, typologically fulfilled in Mary's virginity, is visually represented by the floral garland"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Elizabeth's blessing — 'blessed is the fruit of your womb' — is evoked by the Christ Child holding fruit amid the garland of blessing"
+    },
+    {
+      "ref": "ISA.11.1",
+      "relevance": "typological",
+      "reason": "The shoot from the stump of Jesse — Mary as the branch bearing the messianic flower — underlies the floral symbolism"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "The lilies within the garland recall the Annunciation greeting, 'Hail, full of grace'"
+    },
+    {
+      "ref": "SIR.24.14",
+      "relevance": "allusion",
+      "reason": "Wisdom compared to a rose plant in Jericho and a fair olive tree — applied in Marian liturgy to the Virgin surrounded by flowers"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotion",
+    "splendor",
+    "serenity"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050522",
+    "title": "Many Different Types of Flowers Surrounding Madonna and Child",
+    "artist": "Jan Brueghel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Bathsheba",
+      "type": "PERSON"
+    },
+    {
+      "name": "Handmaidens",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Bathsheba Bathing",
+  "tags": [
+    "bathsheba",
+    "bathing",
+    "old-testament",
+    "temptation",
+    "beauty",
+    "handmaidens",
+    "water",
+    "garden",
+    "nudity",
+    "david-and-bathsheba"
+  ],
+  "symbols": [
+    "bathing pool — ritual purification and the exposure of private life to the royal gaze",
+    "white towel/turban — purity soon to be compromised by royal desire",
+    "attendant servants — Bathsheba's status as a woman of standing, not a commoner",
+    "wooded garden setting — the seclusion that paradoxically enabled David's voyeurism"
+  ],
+  "description": "A richly painted scene of a beautiful young woman seated at the edge of a stone bathing pool in a lush wooded garden. She is partially undressed, with a white turban or cloth wrapped around her head. Two female attendants assist her: one kneeling in the water washing her feet, and another supporting her from behind. The warm tones of flesh contrast against the dark, autumnal trees in the background. Sandals lie discarded on the stone ledge.",
+  "theological_description": "The bathing of Bathsheba is the inciting event of one of the Old Testament's most consequential moral dramas (2 Samuel 11). King David, walking on his rooftop, sees Bathsheba bathing and is overcome by desire. What follows — adultery, deception, and the murder of her husband Uriah the Hittite — constitutes the great sin of David's reign, a turning point after which the sword never departs from his house (2 Samuel 12:10). The scene is theologically rich because it illustrates how even the man after God's own heart is vulnerable to the deadly progression of sin: seeing leads to coveting, coveting to taking, and taking to killing. Nathan's subsequent parable of the poor man's lamb (2 Samuel 12:1-7) remains one of Scripture's most devastating confrontations between prophet and king. Yet from this very union — after repentance and divine chastisement — comes Solomon, through whose line the Messiah would descend, demonstrating God's sovereign capacity to weave redemption from the darkest threads of human failure.",
+  "scripture_refs": [
+    {
+      "ref": "2SA.11.2-5",
+      "relevance": "primary",
+      "reason": "David sees Bathsheba bathing from his rooftop and sends for her — the scene directly depicted"
+    },
+    {
+      "ref": "2SA.12.1-14",
+      "relevance": "primary",
+      "reason": "Nathan's confrontation with David over his sin with Bathsheba, the theological consequence of this moment"
+    },
+    {
+      "ref": "2SA.12.10",
+      "relevance": "allusion",
+      "reason": "God's judgment that the sword shall never depart from David's house because of this sin"
+    },
+    {
+      "ref": "PSA.51.1-4",
+      "relevance": "allusion",
+      "reason": "David's psalm of repentance traditionally linked to his sin with Bathsheba"
+    },
+    {
+      "ref": "MAT.1.6",
+      "relevance": "typological",
+      "reason": "Matthew's genealogy names Solomon born of 'her who had been the wife of Uriah,' linking this event to the Messianic line"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sensual",
+    "intimate",
+    "ominous",
+    "tranquil"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0050983",
+    "title": "Bathing Bathsheba",
+    "artist": "Francesco Hayez",
+    "model": "claude-opus-4-6"
+  }
+}

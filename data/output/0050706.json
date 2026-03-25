@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Triumphal Entry into Jerusalem",
+  "tags": [
+    "triumphal-entry",
+    "palm-sunday",
+    "jerusalem",
+    "donkey",
+    "hosanna",
+    "messianic-entry",
+    "abstract-expressionism",
+    "white-horse",
+    "crowd",
+    "red-background",
+    "kingship"
+  ],
+  "symbols": [
+    "figure on horseback/donkey — Christ entering Jerusalem as the humble messianic king of Zechariah 9:9",
+    "white and luminous forms — the divine radiance of Christ, the Light of the World entering the holy city",
+    "circular halo-like form above — the glory and divine identity of the entering king",
+    "red background — the Passion that awaits, the blood that will be shed within the week",
+    "dark surrounding figures — the crowd that cries Hosanna today but Crucify him on Friday",
+    "open lattice-like rendering of the figure — the transparency between divine and human natures in Christ"
+  ],
+  "description": "An abstract expressionist painting depicting a figure mounted on a white horse or donkey, rendered in a loose, open lattice of white circular and curved brushstrokes against a dark background dominated by deep reds and blacks. The rider's form is suggested rather than defined — a network of white looping marks creating a translucent, almost spectral figure. A circular form floats above, suggesting a halo or crown. Fragments of green, orange, and red populate the dark background, hinting at a crowd or foliage. The artist's signature 'V. David' is visible at the lower right.",
+  "theological_description": "Vladimir Davidia's expressionist Entry into Jerusalem strips the Palm Sunday narrative to its mystical core: a luminous, almost dematerialized figure rides into the darkness of a world that will shortly destroy him. The open, lattice-like rendering of Christ suggests the kenotic theology of Philippians 2 — God emptied of visible glory, transparent to those with eyes of faith but invisible to those who seek a political messiah. The dominant red background is prophetically charged: it anticipates the Passion that begins with this entry, for Jesus weeps over Jerusalem even as the crowds shout Hosanna (Luke 19:41-44). The white horse recalls both the humble donkey of Zechariah 9:9 and the apocalyptic white horse of Revelation 19:11, collapsing the first and second comings into a single image. The abstraction forces the viewer beyond historical illustration into theological encounter — this is not merely a past event but the perpetual coming of Christ to his people, who must choose whether to receive or reject him. The crowd, suggested by dark fragmented forms, embodies the ambiguity of human response to God's self-revelation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.21.1-11",
+      "relevance": "primary",
+      "reason": "The Triumphal Entry into Jerusalem — Jesus riding into the city as crowds shout Hosanna"
+    },
+    {
+      "ref": "ZEC.9.9",
+      "relevance": "primary",
+      "reason": "The prophecy of the king coming humble, riding on a donkey — fulfilled in Christ's entry"
+    },
+    {
+      "ref": "LUK.19.41-44",
+      "relevance": "allusion",
+      "reason": "Jesus weeping over Jerusalem — the tragic foreknowledge beneath the triumphal surface"
+    },
+    {
+      "ref": "REV.19.11-16",
+      "relevance": "typological",
+      "reason": "Christ on the white horse as King of Kings — the eschatological fulfillment of the entry's messianic claim"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "allusion",
+      "reason": "The kenosis — Christ's self-emptying humility — expressed in the translucent, dematerialized rendering"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "mystery",
+    "intensity",
+    "foreboding"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050706",
+    "title": "Entry of Jesus into Jerusalem",
+    "artist": "Vladimir Davidia",
+    "model": "claude-opus-4-6"
+  }
+}

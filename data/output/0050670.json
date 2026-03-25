@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Adoring Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Virgin in Majesty (Maestà)",
+  "tags": [
+    "madonna-and-child",
+    "maesta",
+    "enthroned-virgin",
+    "gold-background",
+    "angels",
+    "throne",
+    "marian-devotion",
+    "queen-of-heaven",
+    "incarnation",
+    "adoration",
+    "curtain-of-honor"
+  ],
+  "symbols": [
+    "golden background — the uncreated light of divine glory, heaven's eternal realm",
+    "throne and curtain of honor — Mary's queenship as Mother of the King of Kings",
+    "Christ Child standing on Mary's lap — the incarnate Word active and sovereign even as an infant",
+    "two kneeling angels — heavenly adoration of the mystery of the Incarnation",
+    "Mary's dark mantle over red dress — her human nature (red) enveloped by the mystery of divine grace (dark blue/black)",
+    "golden brocade curtain — the veil between heaven and earth, parted to reveal the divine presence",
+    "Gothic pointed arch frame — the heavenly portal through which the viewer encounters the sacred"
+  ],
+  "description": "A Gothic panel painting set within a pointed arch frame with ornate gilded finials. The Virgin Mary sits enthroned at center, wearing a dark mantle over a coral-red dress, with a pink veil covering her hair. She holds the Christ Child, who stands on her lap in a dark blue garment, reaching toward her face in an intimate gesture. Behind them, an elaborate gold brocade curtain is held open, and the background is burnished gold. Two small angels kneel in adoration at the base of the throne, one in golden-yellow robes and the other in pink. Two small columns flank the composition.",
+  "theological_description": "Álvaro Pires de Évora's Maestà follows the great tradition of enthroned Madonna images that proclaim Mary's dignity as Theotokos — the God-bearer. The frontal, hieratic composition derives from Byzantine prototypes that understood the icon not as mere representation but as a window into heavenly reality. The gold background is not decorative but theological: it signifies the uncreated light of God's glory, the eternal realm in which the Incarnation has its ultimate meaning. Mary's throne establishes her as the Sedes Sapientiae, the Seat of Wisdom, upon whom divine Wisdom himself sits — an image rooted in the Wisdom literature (Proverbs 8-9, Sirach 24). The Christ Child's intimate gesture of touching his mother's face reveals the tender humanity of God made flesh, the paradox that the Sustainer of the universe depends on a woman's embrace. The kneeling angels model the proper response of all creation to this mystery. The Gothic frame functions liturgically as a sacred portal: to gaze upon this image in devotion is to be drawn through the veil into the presence of the incarnate Lord and his blessed mother.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.43",
+      "relevance": "primary",
+      "reason": "Elizabeth's exclamation, 'the mother of my Lord,' recognizing Mary's unique dignity as Theotokos — the theological basis of the Maestà"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent his Son, born of a woman — the Incarnation through Mary that the enthroned image proclaims"
+    },
+    {
+      "ref": "PRO.8.22-31",
+      "relevance": "typological",
+      "reason": "Divine Wisdom present at creation — the Christ Child as incarnate Wisdom seated on the throne of his mother"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen standing at the right hand in gold of Ophir — applied in Marian tradition to the Virgin enthroned in glory"
+    },
+    {
+      "ref": "ISA.6.1-3",
+      "relevance": "allusion",
+      "reason": "The Lord seated on a throne, high and lifted up — the kneeling angels echo the seraphim's adoration"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "majesty",
+    "tenderness",
+    "devotion"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050670",
+    "title": "A Virgem em Majestade",
+    "artist": "Álvaro Pires de Évora",
+    "model": "claude-opus-4-6"
+  }
+}

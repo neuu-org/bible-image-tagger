@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Saint Ignatius of Loyola",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Francis Xavier",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Meeting of Saint Ignatius of Loyola and Saint Francis Xavier",
+  "tags": [
+    "ignatius-of-loyola",
+    "francis-xavier",
+    "jesuit-order",
+    "religious-vocation",
+    "spiritual-direction",
+    "missionary-calling",
+    "radiance",
+    "kneeling",
+    "crucifix",
+    "obedience",
+    "apostolic-mission"
+  ],
+  "symbols": [
+    "radiant glow around Ignatius — the light of spiritual authority and divine calling",
+    "kneeling posture of Xavier — obedience and receptivity to spiritual direction",
+    "crucifix held by Xavier — devotion to the crucified Christ and missionary zeal",
+    "dark Jesuit cassocks — the austere discipline of the Society of Jesus",
+    "interior setting — the intimate space of spiritual encounter and vocational discernment",
+    "figure observing from doorway — the witness of the community to this sacred moment"
+  ],
+  "description": "An intimate interior scene showing two men in dark Jesuit cassocks. The standing figure of Ignatius of Loyola is bathed in a warm, supernatural radiance, his right hand raised in a gesture of blessing or instruction. Before him, Francis Xavier kneels, clasping a crucifix and gazing up at his spiritual father with fervent devotion. A third figure, partially visible, observes from a doorway in the background. The scene is rendered in warm, dark tones with dramatic chiaroscuro, the divine light emanating from Ignatius serving as the primary illumination.",
+  "theological_description": "This painting captures the spiritual relationship between the founder of the Society of Jesus and its greatest missionary, depicting the moment of vocational commissioning that would carry the Gospel to the ends of the earth. While post-biblical in setting, the scene resonates with the apostolic pattern of sending established in the New Testament. Ignatius's radiance and authoritative gesture recall Christ commissioning his disciples in Matthew 28:19 to go and make disciples of all nations. Xavier's kneeling posture with crucifix in hand embodies the Pauline determination to know nothing except Christ crucified (1 Corinthians 2:2). The Jesuit mission to carry Christianity to Asia fulfills the eschatological promise that the gospel would be preached to all nations before the end (Matthew 24:14). Xavier's willingness to be sent to the farthest reaches of the known world echoes Isaiah's response to divine calling: 'Here I am, send me' (Isaiah 6:8). The intimacy of the scene reflects the pattern of spiritual mentorship seen in Paul and Timothy, Elijah and Elisha — the passing of apostolic fire from one generation to the next.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.19-20",
+      "relevance": "typological",
+      "reason": "The Great Commission to make disciples of all nations is fulfilled in Xavier's missionary vocation to Asia"
+    },
+    {
+      "ref": "ISA.6.8",
+      "relevance": "typological",
+      "reason": "Xavier's willing acceptance of the missionary call echoes the prophet's response: Here I am, send me"
+    },
+    {
+      "ref": "1CO.2.2",
+      "relevance": "allusion",
+      "reason": "Xavier's clasping of the crucifix embodies Paul's resolve to know nothing except Christ crucified"
+    },
+    {
+      "ref": "MAT.24.14",
+      "relevance": "allusion",
+      "reason": "The Jesuit global mission fulfills Christ's promise that the gospel will be preached to all nations"
+    },
+    {
+      "ref": "2TI.2.2",
+      "relevance": "typological",
+      "reason": "The transmission of faith from Ignatius to Xavier mirrors Paul entrusting the gospel to faithful Timothy who would teach others"
+    },
+    {
+      "ref": "ROM.10.15",
+      "relevance": "allusion",
+      "reason": "How beautiful are the feet of those who bring good news — Xavier is being sent forth as a bearer of the Gospel"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverence",
+    "fervor",
+    "intimacy",
+    "devotion"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0050056",
+    "title": "Saint Ignace De Loyola Et Saint François Xavier",
+    "artist": "Giovanni Battista Gaulli",
+    "model": "claude-opus-4-6"
+  }
+}

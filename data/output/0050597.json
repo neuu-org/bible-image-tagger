@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Adoration of the Shepherds",
+  "tags": [
+    "nativity",
+    "adoration-of-the-shepherds",
+    "manger",
+    "incarnation",
+    "putti",
+    "ox",
+    "swaddling-clothes",
+    "stable",
+    "humble-birth",
+    "angelic-host",
+    "divine-light"
+  ],
+  "symbols": [
+    "infant Christ on white cloth — the purity of the incarnate Word and foreshadowing of burial linens",
+    "putti bearing a scroll in the heavens — the angelic proclamation of 'Glory to God in the highest'",
+    "ox at left — fulfillment of Isaiah 1:3, the beast recognizing its master's crib",
+    "kneeling shepherd — the poor and lowly as the privileged recipients of the Gospel",
+    "Mary's red and blue garments — the dual nature of her role: human motherhood (red) and heavenly grace (blue)",
+    "shepherd bearing a lamb — Christ as the Lamb of God, brought by those who tend earthly lambs",
+    "clay jug on the ground — the humility of ordinary life into which God descends"
+  ],
+  "description": "A richly painted Baroque Nativity scene set in a rustic stable. The Virgin Mary, wearing a red dress and blue mantle, kneels at center beside the newborn Jesus lying on white swaddling clothes in the manger. Around them, shepherds of various ages crowd in from both sides — one kneels reverently at right, another holds a lamb, while others look on with expressions of wonder. An ox is visible at the far left. Above, three putti hover in a break in the clouds, one bearing what appears to be a scroll or banner.",
+  "theological_description": "Gaspar de Crayer's Adoration follows the Flemish Baroque tradition of monumental, emotionally charged Nativity scenes. The composition centers on the theological paradox of the Incarnation: the omnipotent Creator lies helpless in a manger, dependent on human care. The shepherds — representing the anawim, the poor of Israel to whom the messianic promises were especially directed — respond with the worship that the powerful will later refuse. The putti above bearing their banner bridge heaven and earth, visualizing the angelic Gloria of Luke 2:14 and revealing that this humble stable is in truth the throne room of the universe. The shepherd carrying a lamb creates a profound typological resonance: Christ is simultaneously the Good Shepherd (John 10:11) and the Lamb of God (John 1:29), and here the earthly shepherds unknowingly bring a figure of His own future sacrifice to worship at His birth. The dramatic Baroque lighting — emanating from the Christ Child himself — theologically expresses John 1:5: the light shines in the darkness, and the darkness has not overcome it.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The shepherds receive the angelic announcement and come to find the child in the manger"
+    },
+    {
+      "ref": "LUK.2.14",
+      "relevance": "primary",
+      "reason": "The angelic Gloria — 'Glory to God in the highest' — represented by the putti with the scroll above"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation made visible in the manger scene"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The Lamb of God — prefigured by the literal lamb the shepherd brings to worship the newborn Christ"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "typological",
+      "reason": "The ox knows its owner — the animal present at the manger recognizes what many in Israel will not"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "adoration",
+    "wonder",
+    "warmth"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050597",
+    "title": "The Adoration of the Shepherds",
+    "artist": "Gaspar de Crayer",
+    "model": "claude-opus-4-6"
+  }
+}

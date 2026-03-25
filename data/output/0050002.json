@@ -1,0 +1,93 @@
+{
+  "characters": [
+    {
+      "name": "Nebuchadnezzar II",
+      "type": "PERSON"
+    },
+    {
+      "name": "Babylonian army",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jerusalem defenders",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Siege and Destruction of Jerusalem by Nebuchadnezzar",
+  "tags": [
+    "siege-of-jerusalem",
+    "babylonian-exile",
+    "temple-destruction",
+    "divine-judgment",
+    "fall-of-judah",
+    "nebuchadnezzar",
+    "solomons-temple",
+    "covenant-curse",
+    "military-conquest",
+    "prophetic-fulfillment",
+    "national-catastrophe",
+    "mounted-warriors",
+    "medieval-illumination"
+  ],
+  "symbols": [
+    "golden Temple at center — the House of God that was the spiritual heart of Israel, now under assault",
+    "besieging army surrounding the walls — the instrument of divine judgment against a faithless nation",
+    "mounted knights in combat — the violence and chaos of war as consequence of covenant disobedience",
+    "fortified walls being breached — the failure of human defenses when God withdraws his protection",
+    "city on a hill in the background — the once-exalted Zion brought low",
+    "golden color of the Temple — the glory and sanctity of God's dwelling about to be profaned"
+  ],
+  "description": "A richly detailed medieval illumination depicting the Babylonian siege of Jerusalem. At the center stands the magnificent golden Temple of Solomon, an ornate Gothic-style structure rising above fortified walls. Surrounding the city, a vast army of mounted and armored soldiers engages in fierce combat. Knights on horseback clash with defenders in the foreground, while ranks of soldiers press against the city walls.",
+  "theological_description": "The fall of Jerusalem to Nebuchadnezzar in 586 BC represents the most devastating theological crisis in the Old Testament. The destruction of Solomon's Temple was not merely a military defeat but the apparent undoing of God's covenant promises — the loss of the Davidic throne, the holy city, and the dwelling place of God's Name. Yet the prophets interpreted this catastrophe not as God's failure but as his faithfulness to the covenant curses of Deuteronomy 28, which warned that persistent idolatry and injustice would bring foreign conquest and exile. Jeremiah had prophesied this destruction for decades (Jeremiah 25:8-11), declaring Nebuchadnezzar to be God's own servant, an instrument of divine discipline. The book of 2 Kings records the final siege and the burning of the Temple (2 Kings 25:8-10), while Ezekiel's vision of God's glory departing the Temple (Ezekiel 10:18-19) provided the theological framework: God himself had withdrawn his protective presence from a sanctuary defiled by the people's unfaithfulness. Yet even in judgment, the prophets held forth hope of restoration — Jeremiah's seventy years (Jeremiah 29:10) and Ezekiel's vision of a new Temple would sustain Israel through the darkness of exile.",
+  "scripture_refs": [
+    {
+      "ref": "2KI.25.1-10",
+      "relevance": "primary",
+      "reason": "The historical account of Nebuchadnezzar's siege and destruction of Jerusalem and the Temple, the event directly depicted"
+    },
+    {
+      "ref": "JER.25.8-11",
+      "relevance": "primary",
+      "reason": "Jeremiah's prophecy that God would bring Nebuchadnezzar against the land as judgment for disobedience"
+    },
+    {
+      "ref": "EZK.10.18-19",
+      "relevance": "typological",
+      "reason": "The departure of God's glory from the Temple, the theological meaning behind the physical destruction"
+    },
+    {
+      "ref": "DEU.28.49-52",
+      "relevance": "primary",
+      "reason": "The covenant curses warning that a distant nation would besiege all the cities until the high walls fall"
+    },
+    {
+      "ref": "JER.29.10",
+      "relevance": "allusion",
+      "reason": "The promise of restoration after seventy years, ensuring that judgment is not the final word"
+    },
+    {
+      "ref": "DAN.1.1-2",
+      "relevance": "allusion",
+      "reason": "Daniel's account of Nebuchadnezzar's siege and the carrying away of Temple vessels to Babylon"
+    },
+    {
+      "ref": "PSA.79.1-4",
+      "relevance": "typological",
+      "reason": "The psalm lamenting the destruction of the Temple and the defilement of Jerusalem by the nations"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devastation",
+    "violence",
+    "grandeur",
+    "lamentation"
+  ],
+  "period": "Exile",
+  "_meta": {
+    "key": "0050002",
+    "title": "The Siege of Jerusalem by Nebuchadnezzar",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

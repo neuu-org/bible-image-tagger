@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Angelika (Angelica)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Knight (Ruggiero)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Dragon (sea monster)",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Angelica Rescued from the Dragon",
+  "tags": [
+    "rescue",
+    "dragon-slaying",
+    "chivalric-romance",
+    "captive-maiden",
+    "deliverance",
+    "monster",
+    "vulnerability",
+    "heroic-intervention",
+    "literary-allegory",
+    "good-versus-evil"
+  ],
+  "symbols": [
+    "dragon — the ancient serpent and forces of evil that threaten the innocent",
+    "armored knight — the deliverer who overcomes the beast through courage and strength",
+    "naked woman — vulnerability and helplessness of the captive awaiting rescue",
+    "stormy sky — the peril and darkness of the situation before deliverance arrives",
+    "rocky shore — the desolate place of captivity and danger",
+    "slain beast — the defeat of evil by a righteous champion"
+  ],
+  "description": "A nude woman with golden hair stands on a rocky shore beside a slain green-scaled sea dragon. She clasps her hands near her face in a gesture of distress or relief. Behind her, a knight in full black armor with a red-plumed helmet drapes a dark cloak around her shoulders. The cloudy, threatening sky frames the scene in tones of grey and blue. The composition draws from the Ariosto literary tradition of Angelica and Ruggiero, paralleling the classical Perseus and Andromeda myth.",
+  "theological_description": "While this painting depicts a scene from Ariosto's Orlando Furioso rather than a direct biblical narrative, the iconographic pattern of a maiden delivered from a dragon by a heroic champion carries deep typological resonance within Christian tradition. The image of a woman held captive by a dragon and rescued by a knight was understood by medieval and Renaissance theologians as a figure of the Church (or the human soul) delivered from Satan by Christ. Revelation 12 presents the woman threatened by the great dragon, whom Michael and the heavenly host defeat. The slaying of the sea monster echoes God's victory over Leviathan (Isaiah 27:1) and the ancient combat myth reinterpreted through the lens of salvation history. The knight covering the woman's nakedness with his cloak also recalls the gesture of covenant covering in Ezekiel 16:8, where God spreads his garment over vulnerable Israel.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1-9",
+      "relevance": "typological",
+      "reason": "The woman threatened by the dragon and delivered by heavenly intervention provides the deepest biblical parallel to this rescue scene"
+    },
+    {
+      "ref": "ISA.27.1",
+      "relevance": "typological",
+      "reason": "God's slaying of Leviathan the sea serpent resonates with the dragon defeated on the shore"
+    },
+    {
+      "ref": "EZK.16.8",
+      "relevance": "allusion",
+      "reason": "The knight covering the woman's nakedness with his cloak echoes God spreading his garment over vulnerable Israel in covenant love"
+    },
+    {
+      "ref": "PSA.91.13",
+      "relevance": "allusion",
+      "reason": "The righteous one treading upon the serpent and dragon connects to the slain beast at the rescuer's feet"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "peril",
+    "relief",
+    "heroism",
+    "vulnerability"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0050011",
+    "title": "Angelika, guarded by a dragon",
+    "artist": "Arnold Böcklin",
+    "model": "claude-opus-4-6"
+  }
+}

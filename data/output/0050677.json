@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna of the Rose Bower",
+  "tags": [
+    "madonna-and-child",
+    "rose-bower",
+    "hortus-conclusus",
+    "roses",
+    "marian-devotion",
+    "crown",
+    "angels",
+    "red-mantle",
+    "birds",
+    "garden",
+    "incarnation",
+    "queen-of-heaven"
+  ],
+  "symbols": [
+    "rose bower — the hortus conclusus of Song of Solomon 4:12, Mary as the enclosed garden of purity",
+    "red roses — the blood of Christ's Passion and Mary's share in his suffering as co-redemptrix in medieval devotion",
+    "white roses — Mary's purity and virginity",
+    "crown held by angels — Mary's queenship, crowned by heaven as Mother of the King",
+    "red mantle — the royal dignity of Mary and the blood of the Passion",
+    "Christ Child on Mary's lap — the incarnate Word resting in the lap of his mother, the Seat of Wisdom",
+    "birds among the roses — the soul finding rest in the garden of divine love",
+    "ornate Gothic frame with carved figures — the communion of saints surrounding and venerating the central mystery"
+  ],
+  "description": "A late-Gothic panel painting showing the Virgin Mary seated in a lush rose garden arbor. She wears a magnificent flowing red mantle over a dark dress, her long golden hair falling freely. The Christ Child sits on her lap. Above, two dark-winged angels hold a jeweled crown over Mary's head. The bower is densely filled with red and white roses, and small birds perch among the foliage. The background is gilded with intricate decorative patterns. The painting is set within an elaborate carved Gothic frame featuring small figures in the spandrels and at the base.",
+  "theological_description": "Martin Schongauer's Madonna of the Rose Bower is one of the supreme masterpieces of late-medieval Marian devotion, synthesizing multiple layers of theological symbolism. The rose bower is the hortus conclusus of Song of Solomon 4:12, interpreted since the patristic era as a figure of Mary's virginity — an enclosed garden that no one has entered. The red roses carry a dual meaning: they symbolize love and charity, but also prefigure the Passion, reminding the viewer that this tender mother-child scene will culminate at Calvary. The white roses signify Mary's sinless purity. The crowning by angels proclaims the doctrine of Mary's queenship — she who bore the King of Kings shares in his royal dignity, as Psalm 45:9 was applied to her: 'the queen stands at your right hand in gold of Ophir.' The Christ Child's peaceful repose on his mother's lap presents him as the incarnate Wisdom of Proverbs 8, resting in the created order he delights in. The garden setting, far from being merely decorative, is a compressed visual theology of paradise restored: where Eden was lost through the first Eve's disobedience, it is reopened through the new Eve's fiat. The birds, traditional symbols of the soul, find rest among these roses — the faithful soul finding peace in contemplation of the mysteries of the Incarnation.",
+  "scripture_refs": [
+    {
+      "ref": "SNG.4.12",
+      "relevance": "typological",
+      "reason": "The enclosed garden — hortus conclusus — directly visualized by the rose bower as a Marian symbol of virginal purity"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "Hail, full of grace — Mary's unique status proclaimed by the angel, expressed here in her crowned glory amid the garden"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen in gold at the king's right hand — the angels crowning Mary fulfill this psalm's Marian application"
+    },
+    {
+      "ref": "ISA.11.1",
+      "relevance": "typological",
+      "reason": "The flower from the root of Jesse — Christ as the rose sprung from Mary, the branch of David's line"
+    },
+    {
+      "ref": "SIR.24.14",
+      "relevance": "allusion",
+      "reason": "Wisdom compared to a rose plant in Jericho — applied to Mary in the medieval liturgical tradition"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotion",
+    "beauty",
+    "serenity",
+    "majesty"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050677",
+    "title": "Madonna of the Rose Bower",
+    "artist": "Martin Schongauer",
+    "model": "claude-opus-4-6"
+  }
+}

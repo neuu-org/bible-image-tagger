@@ -1,0 +1,102 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Peter Martyr",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Cosmas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Damian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Lawrence",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Sacra Conversazione (Annalena Altarpiece)",
+  "tags": [
+    "virgin-and-child",
+    "sacra-conversazione",
+    "altarpiece",
+    "enthroned-madonna",
+    "saints",
+    "predella",
+    "gold-ground",
+    "heavenly-court",
+    "devotional"
+  ],
+  "symbols": [
+    "throne — the Sedes Sapientiae, seat of divine Wisdom incarnate through Mary",
+    "gold background — heavenly light and the transcendent glory of God",
+    "Christ Child on Mary's lap — the Incarnation, God made flesh dwelling among humanity",
+    "saints flanking the throne — the communion of saints interceding before the Mother and Child",
+    "predella scenes — narrative episodes from the saints' lives, testifying to the cost of discipleship"
+  ],
+  "description": "The Virgin Mary sits enthroned at the center beneath an ornate arched canopy with a rose-gold shell niche, holding the infant Christ on her lap. She wears a deep blue mantle over a red robe. Six saints stand symmetrically on either side: on the left, a Dominican friar in black and white, and a figure in red holding a book; on the right, an elderly saint in pink robes and a Franciscan friar in brown. Small angel roundels in gold decorate the upper corners. Below the main panel, a predella strip displays small narrative scenes from the lives of the saints.",
+  "theological_description": "The Annalena Altarpiece by Fra Angelico presents the classic sacra conversazione, a devotional format in which the Virgin and Child are surrounded by saints across time, united in the eternal communion of heaven. Mary enthroned as Theotokos (God-bearer) affirms the Council of Ephesus (431 AD) doctrine of her divine maternity. The Christ Child's presence on her lap is the visible sign of the Incarnation -- 'the Word became flesh and dwelt among us' (John 1:14). The flanking saints, drawn from different centuries and orders (Dominican, Franciscan, early martyrs), embody the universality of the Church across time. The gold ground signifies uncreated divine light, placing the scene outside earthly time in the heavenly Jerusalem. Fra Angelico, himself a Dominican friar later beatified, understood painting as a form of prayer; this altarpiece functioned as a liturgical aid directing the faithful toward contemplation of the mystery of the Incarnation and the intercession of the saints.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh -- the theological core of every Virgin-and-Child image, the Incarnation made visible."
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat of Mary, who is here enthroned as the one through whom God's saving work enters history."
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun, a figure of Mary in glory, resonates with her exalted enthronement."
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses -- the saints surrounding the throne attest to the communion of the faithful across ages."
+    },
+    {
+      "ref": "EPH.2.19-20",
+      "relevance": "allusion",
+      "reason": "The household of God built on the apostles and prophets, with Christ as the cornerstone, reflected in the gathered company of saints."
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "serene",
+    "reverent",
+    "luminous",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050351",
+    "title": "Annalena Altarpiece",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi (Epiphany)",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "three-kings",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "kneeling",
+    "crowns",
+    "nativity",
+    "star",
+    "bethlehem",
+    "revelation-to-gentiles"
+  ],
+  "symbols": [
+    "three Magi — the nations of the world coming to worship the King of kings",
+    "kneeling elder Magus — humility before divine majesty, the wisdom of age bowing before the infant God",
+    "gifts — gold for kingship, frankincense for divinity, myrrh for burial and death (Matthew 2:11)",
+    "crowns — earthly authority laid at the feet of heavenly authority",
+    "diverse skin tones of the Magi — the universality of Christ's salvation reaching all peoples",
+    "background scenes — the journey of the Magi and possibly the Massacre of the Innocents"
+  ],
+  "description": "A richly colored fresco depicting the Adoration of the Magi. The Virgin Mary, crowned and wearing a blue mantle, sits at the right holding the Christ Child on her lap. The infant Jesus reaches out toward the eldest Magus, who kneels before him in prayer, his crown removed in reverence. Two younger Magi stand behind, one presenting a gift, the other looking on. Joseph stands at the far right. The background contains narrative scenes showing horsemen and travelers, likely depicting the journey of the Magi. The composition is framed by wooden architectural elements of a stable.",
+  "theological_description": "The Adoration of the Magi is the Epiphany, the manifestation of Christ to the Gentiles, fulfilling the prophecy of Isaiah 60:1-6 that nations shall come to the light and kings to the brightness of the rising. Matthew 2:1-12 recounts how wise men from the East followed a star to Bethlehem, where they fell down and worshipped the child, offering gold, frankincense, and myrrh. Each gift carries theological weight: gold acknowledges Christ's kingship (Revelation 19:16), frankincense his divinity and priestly role (Hebrews 4:14), and myrrh foreshadows his suffering and death (John 19:39). The kneeling of the Magi fulfills Psalm 72:10-11, where the kings of Tarshish, Sheba, and Seba bring gifts and all kings fall down before the Messiah. The diverse representation of the Magi visualizes the Pauline theology that in Christ there is neither Jew nor Greek (Galatians 3:28), and that the mystery hidden for ages is now revealed: the Gentiles are fellow heirs of the promise (Ephesians 3:5-6). The Christ Child reaching out to receive the visitors signifies the divine initiative in salvation, God in the flesh welcoming the nations to himself.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The narrative of the Magi following the star, finding the child, and offering gifts"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "primary",
+      "reason": "Prophecy of nations coming to the light and bringing gold and frankincense"
+    },
+    {
+      "ref": "PS.72.10-11",
+      "relevance": "primary",
+      "reason": "Kings bringing gifts and bowing before the Messiah"
+    },
+    {
+      "ref": "EPH.3.5-6",
+      "relevance": "allusion",
+      "reason": "The mystery revealed that Gentiles are fellow heirs of the promise"
+    },
+    {
+      "ref": "GAL.3.28",
+      "relevance": "allusion",
+      "reason": "The universality of salvation depicted through the diverse Magi"
+    },
+    {
+      "ref": "JHN.19.39",
+      "relevance": "typological",
+      "reason": "Myrrh as a gift foreshadowing Christ's burial"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "worshipful",
+    "joyful",
+    "regal",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050231",
+    "title": "Adoration of the Magi",
+    "artist": "Bernardino Luini",
+    "model": "claude-opus-4-6"
+  }
+}

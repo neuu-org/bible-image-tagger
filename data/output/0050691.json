@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Fall of Man",
+  "tags": [
+    "fall-of-man",
+    "adam-and-eve",
+    "garden-of-eden",
+    "forbidden-fruit",
+    "temptation",
+    "serpent",
+    "tree-of-knowledge",
+    "original-sin",
+    "paradise",
+    "nudity",
+    "woodcut-style",
+    "high-contrast"
+  ],
+  "symbols": [
+    "tree of knowledge at center — the locus of the divine prohibition and the test of human obedience",
+    "serpent coiled in the tree — Satan as the deceiver, the tempter who distorts God's word",
+    "Eve reaching for the fruit — the act of disobedience, grasping what God had forbidden",
+    "Adam seated below — complicity through passivity, present but failing to resist",
+    "nudity of both figures — pre-Fall innocence now exposed, the vulnerability before sin's consequences",
+    "lush surrounding vegetation — the paradise that will be lost through transgression",
+    "high-contrast black and white — the absolute moral divide between obedience and rebellion"
+  ],
+  "description": "A bold black-and-white woodcut-style print depicting the Fall of Man. At center, a large tree with intricate, patterned bark dominates the composition, its branches laden with drooping foliage. A serpent with a distinctive body coils among the branches. Eve stands beneath the tree, nude, reaching upward toward the fruit, her long hair flowing. Adam sits on the ground at left in a contemplative or troubled posture. The scene is framed by lush, decorative vegetation rendered in stark black silhouettes against white, with a distant landscape visible through gaps in the foliage.",
+  "theological_description": "M.C. Escher's graphic interpretation of the Fall reduces the Genesis narrative to its essential drama: the encounter between human freedom and divine command at the tree of knowledge. The stark black-and-white medium is itself theologically apt — the Fall introduces the absolute distinction between good and evil, light and darkness, that did not exist in the undivided goodness of creation. Eve's upward reach toward the forbidden fruit visualizes the moment described in Genesis 3:6: she saw that the tree was good for food, a delight to the eyes, and desired to make one wise. The serpent's presence in the tree embodies the external temptation that exploits internal desire. Adam's passive, seated posture captures Paul's theological reading in Romans 5:12 — through one man's disobedience, sin entered the world — emphasizing Adam's representative headship and his failure to exercise the dominion God had given. The lush garden surrounding them represents the paradise that is about to be forfeit, the harmonious creation that will be subjected to futility (Romans 8:20). Yet in Christian reading, this scene is never merely tragic: it is the felix culpa, the 'happy fault' that occasions the greater glory of redemption, for where sin increased, grace abounded all the more (Romans 5:20).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The temptation and Fall — the serpent's deception, Eve taking the fruit, Adam's complicity — the direct narrative depicted"
+    },
+    {
+      "ref": "GEN.2.17",
+      "relevance": "primary",
+      "reason": "The divine prohibition against eating from the tree of knowledge of good and evil"
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "typological",
+      "reason": "Through one man sin entered the world — Paul's theological interpretation of Adam's representative act"
+    },
+    {
+      "ref": "ROM.5.20",
+      "relevance": "allusion",
+      "reason": "Where sin increased, grace abounded all the more — the felix culpa that transforms this tragedy into the prelude to redemption"
+    },
+    {
+      "ref": "REV.12.9",
+      "relevance": "typological",
+      "reason": "The ancient serpent identified as the devil and Satan — the cosmic enemy present in Eden's garden"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tension",
+    "foreboding",
+    "solemnity"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0050691",
+    "title": "The Fall of Man",
+    "artist": "M.C. Escher",
+    "model": "claude-opus-4-6"
+  }
+}

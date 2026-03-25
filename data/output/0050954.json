@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Ezra",
+      "type": "PERSON"
+    },
+    {
+      "name": "The people of Israel",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Ezra reads the Law to the people",
+  "tags": [
+    "ezra",
+    "reading-the-law",
+    "torah",
+    "public-reading",
+    "wooden-platform",
+    "scroll",
+    "assembly",
+    "post-exilic",
+    "covenant-renewal",
+    "weeping",
+    "repentance",
+    "restored-community",
+    "jerusalem",
+    "water-gate",
+    "book-of-the-law"
+  ],
+  "symbols": [
+    "elevated wooden platform — the authority of God's Word raised above the assembly",
+    "open scroll — the Torah, the Law of Moses, the written revelation of God's will",
+    "Ezra's priestly garments — his dual role as priest and scribe, mediating God's Word",
+    "kneeling and weeping people — repentance and sorrow upon hearing the forgotten Law",
+    "stone walls and gateway — the rebuilt Jerusalem after the exile",
+    "dramatic light from above — divine illumination falling upon the reading of Scripture",
+    "women and children in the crowd — the entire covenant community gathered to hear"
+  ],
+  "description": "A Gustave Dore engraving in dramatic black and white showing Ezra standing on a raised wooden platform, holding an open scroll aloft before a vast assembly. He is dressed in priestly robes with a turban. Below and around him, a multitude of men, women, and children listen, many kneeling or raising their hands in emotional response. The scene is set within massive stone walls suggesting a gate or courtyard of Jerusalem. Dramatic beams of light fall from above, illuminating the central figure of Ezra and the scroll.",
+  "theological_description": "This scene depicts one of the most pivotal moments in post-exilic Jewish history: Ezra the scribe reading the Book of the Law of Moses to the assembled people at the Water Gate in Jerusalem, as recorded in Nehemiah 8:1-12. The returned exiles, having rebuilt the walls under Nehemiah's leadership, now gathered for spiritual restoration. When Ezra opened the book, all the people stood up (Neh 8:5), and when they heard the words of the Law, they wept — recognizing how far they had strayed from God's covenant. This public reading represents the birth of synagogue liturgy and the primacy of Scripture in Jewish worship. The theological significance is immense: it establishes the pattern that God's people are reconstituted not merely by rebuilding walls but by hearing and obeying the Word. Ezra's elevated platform (migdal, literally 'tower') prefigures the church pulpit and affirms the Reformation principle that the Word of God must be lifted high above the congregation. The people's weeping reflects genuine conviction of sin, yet Nehemiah, Ezra, and the Levites told them not to mourn but to celebrate: 'The joy of the LORD is your strength' (Neh 8:10) — a profound theological teaching that encounter with God's Word, even when it convicts, ultimately leads to joy. This scene also typologically prefigures Jesus reading from Isaiah in the Nazareth synagogue (Luke 4:16-21), declaring Scripture fulfilled in the hearing of the people.",
+  "scripture_refs": [
+    {
+      "ref": "NEH.8.1-12",
+      "relevance": "primary",
+      "reason": "The direct biblical account of Ezra reading the Law at the Water Gate, the people's response, and the instruction to rejoice"
+    },
+    {
+      "ref": "NEH.8.5-6",
+      "relevance": "primary",
+      "reason": "Ezra opened the book in the sight of all the people, and when he opened it all the people stood — the exact moment depicted"
+    },
+    {
+      "ref": "NEH.8.10",
+      "relevance": "primary",
+      "reason": "The joy of the LORD is your strength — the theological climax of the passage, transforming sorrow into celebration"
+    },
+    {
+      "ref": "DEU.31.10-13",
+      "relevance": "typological",
+      "reason": "Moses commanded the Law to be read publicly every seven years — Ezra fulfills this commandment for the restored community"
+    },
+    {
+      "ref": "LUK.4.16-21",
+      "relevance": "typological",
+      "reason": "Jesus reading Isaiah in the Nazareth synagogue and declaring fulfillment — Ezra's public reading as a typological precursor"
+    },
+    {
+      "ref": "2KI.22.8-13",
+      "relevance": "typological",
+      "reason": "Josiah's discovery of the Book of the Law and the people's repentance — an earlier parallel to Ezra's reading"
+    },
+    {
+      "ref": "PSA.19.7-8",
+      "relevance": "allusion",
+      "reason": "The law of the LORD is perfect, reviving the soul — the transformative power of the Word witnessed in the people's response"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemnity",
+    "repentance",
+    "awe",
+    "reverence"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0050954",
+    "title": "Ezra Reads the Law to the People",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

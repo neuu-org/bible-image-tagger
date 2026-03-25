@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Prodigal Son", "type": "PERSON"}
+  ],
+  "event": "Prodigal Son in Dissolute Living",
+  "tags": [
+    "prodigal-son",
+    "parable",
+    "dissipation",
+    "drinking",
+    "sin",
+    "squandering",
+    "new-testament",
+    "close-up",
+    "detail"
+  ],
+  "symbols": [
+    "pewter jug — the pleasures of the flesh that the prodigal pursued with his inheritance",
+    "sly grin — the deceptive enjoyment of sin before its consequences become apparent",
+    "pouring liquid — the squandering and outpouring of resources on reckless living"
+  ],
+  "description": "A close-up detail showing the face and upper body of an older man with grey hair and weathered features, grinning slyly as he holds up and pours from a large pewter jug. He wears a greenish garment. The background shows a distant architectural element and a sliver of blue sky. The painting style is highly detailed Flemish realism with meticulous rendering of skin texture, wrinkles, and the metallic sheen of the jug. This is a detail crop from a larger composition depicting the parable of the Prodigal Son.",
+  "theological_description": "The Parable of the Prodigal Son (Luke 15:11-32) is perhaps Jesus' most beloved and theologically rich parable. This detail captures the phase of dissolute living — the prodigal squandering his inheritance in reckless pleasure. The grinning figure with his jug of drink embodies the deceptive allure of sin: it appears jovial and satisfying in the moment, but leads inevitably to destitution and despair. Jan van Hemessen's unflinching Flemish realism makes the moral lesson visceral rather than abstract. The prodigal's journey from the father's house through dissipation to the pig trough and finally back to the father's embrace maps the entire arc of sin, consequence, repentance, and grace. The father's response — running to meet the returning son, restoring his dignity with robe and ring — is Christ's most direct revelation of the character of God: a Father who does not merely forgive but actively seeks and celebrates the return of the lost.",
+  "scripture_refs": [
+    {"ref": "LUK.15.13", "relevance": "primary", "reason": "The prodigal son squanders his property in dissolute living — the exact moment depicted in this detail"},
+    {"ref": "LUK.15.11-32", "relevance": "primary", "reason": "The full Parable of the Prodigal Son, the narrative context of this image"},
+    {"ref": "LUK.15.17-20", "relevance": "allusion", "reason": "The prodigal comes to himself and returns to his father — the redemptive trajectory beyond this moment of dissipation"},
+    {"ref": "PRO.23.29-35", "relevance": "typological", "reason": "Proverbs' warning about those who linger long over wine — the Old Testament wisdom tradition behind the parable's moral"},
+    {"ref": "ROM.6.23", "relevance": "allusion", "reason": "The wages of sin is death — the theological principle underlying the prodigal's trajectory toward ruin"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["roguish", "convivial", "cautionary"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0051029",
+    "title": "Parable of the Prodigal Son (detail)",
+    "artist": "Jan van Hemessen",
+    "model": "claude-opus-4-6"
+  }
+}

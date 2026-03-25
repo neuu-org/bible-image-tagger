@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Virgin and Child",
+  "tags": [
+    "virgin-and-child",
+    "madonna",
+    "infant-christ",
+    "maternal-tenderness",
+    "incarnation",
+    "sleeping-child",
+    "veil",
+    "divine-infancy",
+    "theotokos",
+    "intimate-devotion",
+    "mother-and-son",
+    "contemplative-gaze",
+    "vulnerability-of-god"
+  ],
+  "symbols": [
+    "sleeping infant — vulnerability of the Incarnate God and prefiguration of the sleep of death",
+    "Mary's veil — modesty, purity, and her consecrated role as Mother of God",
+    "Mary's downcast gaze — sorrowful foreknowledge of the Passion and contemplative prayer",
+    "close embrace — the intimate union of humanity and divinity in the Incarnation",
+    "dark background — the world's darkness into which the Light of the World has come",
+    "bare infant flesh — the true humanity of Christ, God made vulnerable flesh"
+  ],
+  "description": "A tightly framed half-length composition showing the Virgin Mary holding the sleeping infant Jesus close to her face. Mary wears a dark veil over her hair and a dark garment. Her expression is pensive and sorrowful as she gazes downward at the child. The infant sleeps peacefully against her cheek, his small body swaddled loosely. The background is entirely dark, concentrating all light on the luminous faces and skin of mother and child. The painting conveys profound intimacy and tenderness.",
+  "theological_description": "Mantegna's Virgin and Child presents the mystery of the Incarnation in its most intimate dimension. The sleeping child resting against his mother's cheek is simultaneously the infinite God and a helpless infant — the paradox that lies at the heart of Christian faith. Mary's melancholic gaze anticipates the sword that Simeon prophesied would pierce her soul (Luke 2:35), as the sleep of the infant prefigures the sleep of death on the cross. The theology of Philippians 2:6-7 is made visible: Christ Jesus, though in the form of God, emptied himself, taking the form of a servant, being born in human likeness. Mary as Theotokos (God-bearer) holds in her arms the one whom the heavens cannot contain (1 Kgs 8:27), yet who has chosen to be contained by human flesh. The dark background evokes the Johannine theme that the light shines in the darkness (John 1:5), with the luminous bodies of mother and child forming the sole source of radiance.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary gave birth to her firstborn son and wrapped him in swaddling cloths — the scene of divine infancy this image meditates upon"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "Mary's sorrowful gaze reflects Simeon's prophecy that a sword would pierce her own soul"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "typological",
+      "reason": "The vulnerability of the sleeping infant embodies the kenosis — God emptying himself to take the form of a servant"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "The luminous figures against the dark background echo the light shining in the darkness"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the Immanuel prophecy fulfilled in this tender scene"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent his Son, born of a woman — the theological foundation of every Virgin and Child image"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tenderness",
+    "melancholy",
+    "intimacy",
+    "serenity"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050831",
+    "title": "Virgin and Child",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

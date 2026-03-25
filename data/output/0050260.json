@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint John the Baptist in the wilderness",
+  "tags": [
+    "john-the-baptist",
+    "wilderness",
+    "prophet",
+    "banderole",
+    "ecce-agnus-dei",
+    "animal-skin",
+    "reed-cross",
+    "forerunner",
+    "asceticism",
+    "youth"
+  ],
+  "symbols": [
+    "banderole with inscription — 'Ecce Agnus Dei', identifying Christ as the Lamb of God (John 1:29)",
+    "reed cross — the cross of Christ foreshadowed by the Baptist's prophetic witness",
+    "animal skin garment — the camel's hair clothing of the Baptist (Matthew 3:4), ascetic renunciation",
+    "wilderness setting — the place of prophetic calling and preparation (Luke 1:80)",
+    "youthful appearance — John's consecration from before birth (Luke 1:15)"
+  ],
+  "description": "A young, semi-nude John the Baptist reclines in a dark, verdant wilderness setting. He wears a rough animal skin around his waist and torso. A reed cross with a fluttering white banderole bearing an inscription (Ecce Agnus Dei) extends from behind him. His expression is contemplative, gazing outward as if already aware of his prophetic mission. Foliage and rocks surround him. The dramatic chiaroscuro, with deep shadows and highlighted flesh, creates a powerful sense of isolation and divine calling. The painting reflects the Baroque intensity of Bernardo Strozzi's style.",
+  "theological_description": "John the Baptist in the wilderness is a subject deeply rooted in the Gospel accounts. Luke 1:80 records that the child grew and became strong in spirit, living in the wilderness until the day of his public appearance to Israel. This painting captures that period of hidden formation. The banderole bearing 'Ecce Agnus Dei' (John 1:29) is the Baptist's defining proclamation, identifying Jesus as the sacrificial Lamb who takes away the sin of the world, connecting the Baptist's mission to the entire sacrificial theology of the Old Testament (Exodus 12, Isaiah 53:7). The animal skin garment fulfills the description in Matthew 3:4, linking John to the prophet Elijah (2 Kings 1:8), whose spirit and power he carries (Luke 1:17). The wilderness is the theological locus of Israel's formation (Exodus, Hosea 2:14), where God draws his people apart to speak to their hearts. The reed cross anticipates the Passion, making John not merely a herald of Christ's coming but a prophet of his suffering. His youthful depiction emphasizes his consecration as a Nazirite from the womb (Luke 1:15), set apart by God before he could choose, like Jeremiah (Jeremiah 1:5). The solitary figure embodies the voice crying in the wilderness of Isaiah 40:3, preparing the way of the Lord.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "The banderole inscription 'Ecce Agnus Dei' is John's central proclamation"
+    },
+    {
+      "ref": "LUK.1.80",
+      "relevance": "primary",
+      "reason": "John's years of growth and preparation in the wilderness before his public ministry"
+    },
+    {
+      "ref": "MAT.3.4",
+      "relevance": "primary",
+      "reason": "The animal skin garment identifying John's ascetic lifestyle"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "primary",
+      "reason": "The voice crying in the wilderness, preparing the way of the Lord"
+    },
+    {
+      "ref": "LUK.1.15-17",
+      "relevance": "allusion",
+      "reason": "John's consecration from the womb and his mission in the spirit of Elijah"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "The Suffering Servant led as a lamb to slaughter, whom John identifies in Jesus"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "austere",
+    "prophetic",
+    "solitary"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050260",
+    "title": "St. John the Baptist",
+    "artist": "Bernardo Strozzi",
+    "model": "claude-opus-4-6"
+  }
+}

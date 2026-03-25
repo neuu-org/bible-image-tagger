@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Saint Rodriguez",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Glorification of Saint Rodriguez",
+  "tags": [
+    "saint",
+    "martyr",
+    "palm-branch",
+    "deacon",
+    "dalmatic",
+    "vestments",
+    "halo",
+    "cherub",
+    "crown-of-flowers",
+    "catholic"
+  ],
+  "symbols": [
+    "palm branch — the universal symbol of martyrdom and victory over death",
+    "dalmatic vestments with sacred images — the saint's ecclesiastical office and devotion",
+    "flower crown held by angel — the heavenly reward and glory bestowed upon the faithful martyr",
+    "cherub in clouds — divine approval and heavenly welcome"
+  ],
+  "description": "A full-length portrait of a saint (identified as Saint Rodriguez) standing in an ornate red-and-gold dalmatic vestment decorated with painted images of other saints in medallions. He has a dark beard and a golden halo, and holds a large palm branch in his left hand while extending his right hand outward in a gesture of witness. Above him in the clouds, a small winged cherub descends bearing a wreath of flowers. The background features classical architectural elements including columns. Murillo's characteristic soft, warm palette gives the figure a gentle luminosity.",
+  "theological_description": "Saint Rodriguez (Roderick of Cordoba) was a priest martyred during the Moorish persecution in Cordoba, Spain, in the 9th century. He was denounced by his own brother and, refusing to apostatize from the Christian faith, was beheaded. His story exemplifies the theme of faithfulness under persecution that runs throughout Scripture, from the Hebrew prophets through the early Church. The palm branch he holds is the ancient symbol of martyrdom, rooted in the imagery of Revelation where the redeemed stand before the throne with palm branches (Revelation 7:9). The angel bearing a crown of flowers from heaven enacts the promise of James 1:12: blessed is the one who perseveres under trial, for he will receive the crown of life. Murillo's depiction, with its warm Baroque luminosity and the saint's serene expression, communicates that martyrdom in Christian understanding is not tragedy but triumph — the ultimate imitation of Christ who laid down His life freely.",
+  "scripture_refs": [
+    {
+      "ref": "REV.7.9-14",
+      "relevance": "primary",
+      "reason": "The great multitude in white robes with palm branches who have come out of the great tribulation — the heavenly context of all martyrdom"
+    },
+    {
+      "ref": "JAS.1.12",
+      "relevance": "primary",
+      "reason": "Blessed is the one who perseveres under trial, for he will receive the crown of life — the crown the angel brings"
+    },
+    {
+      "ref": "MAT.10.21-22",
+      "relevance": "allusion",
+      "reason": "Brother will betray brother to death — Rodriguez was betrayed by his own brother, fulfilling Christ's prophecy"
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "allusion",
+      "reason": "I have fought the good fight, I have finished the race — the crown of righteousness awaiting the faithful"
+    },
+    {
+      "ref": "MAT.10.32-33",
+      "relevance": "allusion",
+      "reason": "Whoever acknowledges me before men, I will acknowledge before my Father — the confessor's reward"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "glorious",
+    "serene",
+    "triumphant",
+    "reverent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0051093",
+    "title": "St. Rodriguez",
+    "artist": "Bartolome Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

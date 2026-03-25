@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Saints and apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Design for the east side stained glass window of Church Am Steinhof",
+  "tags": [
+    "stained-glass-design",
+    "saints-and-apostles",
+    "church-window",
+    "art-nouveau",
+    "secession-style",
+    "liturgical-art",
+    "sacred-architecture",
+    "angels",
+    "menorah",
+    "standing-figures",
+    "arched-window",
+    "vienna-secession",
+    "geometric-pattern",
+    "sacred-light"
+  ],
+  "symbols": [
+    "arched window form — the gateway between earthly worship and heavenly light",
+    "standing saints in row — the communion of saints gathered in worship",
+    "central figure in red — Christ or a principal saint as focal point of devotion",
+    "menorah-like form in upper register — connection to Old Testament worship and the light of God",
+    "angels in upper panels — heavenly beings mediating between God and the worshiping community",
+    "geometric patterns — the ordered beauty of creation reflecting divine reason",
+    "side panels with haloed figures — the company of saints flanking the main window"
+  ],
+  "description": "An architectural design drawing for a large stained glass window with an arched top, flanked by two smaller rectangular side windows. The main window features a row of standing figures in the lower register — saints or apostles rendered in the geometric, flattened style of Vienna Secession. A central figure wears a red garment. Above them, text panels and decorative zones lead to an upper lunette containing angelic figures and a central radiant form resembling a menorah or candelabrum. The side windows contain smaller haloed figures.",
+  "theological_description": "Koloman Moser's window design for the Church Am Steinhof in Vienna represents a remarkable synthesis of sacred tradition and modern artistic vision. The row of saints standing together visualizes the communion of saints — the great cloud of witnesses (Heb 12:1) that surrounds every worshiping congregation. The arched window functions liturgically as a portal of light: as sunlight passes through the glass, it is transformed into colored illumination, a physical metaphor for how divine grace transfigures the material world. The menorah-like radiant form in the upper register connects Christian worship to its Jewish roots, recalling the seven-branched lampstand of the Tabernacle (Exod 25:31-40) that symbolized God's presence and the light of divine wisdom. The central figure in red may represent Christ as the Good Shepherd standing among his saints, fulfilling his promise to be present where two or three are gathered in his name (Matt 18:20). The geometric Secession style, far from diminishing the sacred, emphasizes the ordered rationality of divine creation — the Logos through whom all things were made (John 1:3).",
+  "scripture_refs": [
+    {
+      "ref": "HEB.12.1",
+      "relevance": "primary",
+      "reason": "Surrounded by so great a cloud of witnesses — the row of saints represents the communion of saints surrounding the worshiper"
+    },
+    {
+      "ref": "EXO.25.31-40",
+      "relevance": "typological",
+      "reason": "The golden lampstand of the Tabernacle — the menorah-like form in the upper register connects to Old Testament liturgical light"
+    },
+    {
+      "ref": "MAT.18.20",
+      "relevance": "allusion",
+      "reason": "Where two or three are gathered in my name, there am I among them — Christ present amid the gathered saints"
+    },
+    {
+      "ref": "REV.21.23",
+      "relevance": "typological",
+      "reason": "The city has no need of sun or moon, for the glory of God gives it light — the theology of sacred light transmitted through the window"
+    },
+    {
+      "ref": "JHN.1.3-5",
+      "relevance": "allusion",
+      "reason": "All things were made through the Logos, and the light shines in the darkness — the ordered geometric design reflects the divine Logos"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "reverence",
+    "luminosity",
+    "order",
+    "transcendence"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0050941",
+    "title": "Church Am Steinhof, design for the east side window",
+    "artist": "Koloman Moser",
+    "model": "claude-opus-4-6"
+  }
+}

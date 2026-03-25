@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Blind men", "type": "GROUP"},
+    {"name": "Disciples", "type": "GROUP"},
+    {"name": "Crowd", "type": "GROUP"}
+  ],
+  "event": "Christ Healing the Blind",
+  "tags": [
+    "healing",
+    "miracle",
+    "blindness",
+    "sight",
+    "compassion",
+    "new-testament",
+    "crowd",
+    "architecture",
+    "messianic-sign",
+    "faith"
+  ],
+  "symbols": [
+    "blind eyes — spiritual blindness of humanity awaiting divine illumination",
+    "outstretched hands of Christ — the power and willingness of God to restore what is broken",
+    "classical architecture — the public, civic setting underscoring that Jesus' miracles are not hidden but displayed openly",
+    "kneeling postures — the humility and faith required to receive divine healing"
+  ],
+  "description": "A bustling scene set before a grand classical colonnade. Christ, dressed in a reddish robe, stands at left center reaching toward one or more blind figures who kneel or crouch before him. A large crowd of onlookers surrounds the scene — some gesturing in amazement, others leaning in to observe. The architectural backdrop features tall columns and arches receding into the distance. The palette is warm with golden-amber tones, and the composition creates a dynamic diagonal of figures flowing from the blind men up through Christ and into the gathered crowd.",
+  "theological_description": "The healing of the blind is among the most theologically laden of Christ's miracles. In Isaiah's messianic prophecy, the opening of blind eyes is a defining sign of the coming Anointed One (Isaiah 35:5; 42:7). When John the Baptist sends disciples to ask whether Jesus is 'the one who is to come,' Jesus replies by pointing to precisely these works: 'the blind receive their sight' (Matthew 11:5). The healing thus functions as a messianic credential. On a deeper level, physical blindness serves throughout Scripture as a figure for spiritual ignorance — the inability to perceive God's truth and presence. Christ's restoration of sight is simultaneously a sign of his power to open the eyes of the spiritually blind, to bring humanity from darkness into his marvelous light (1 Peter 2:9). El Greco's dynamic composition, with its Mannerist elongation and agitated crowd, captures the disruptive, world-altering character of the miracle: no one who witnesses it can remain indifferent.",
+  "scripture_refs": [
+    {"ref": "MAT.20.29-34", "relevance": "primary", "reason": "Christ heals two blind men near Jericho who cry out for mercy — a close match to the scene depicted"},
+    {"ref": "MRK.10.46-52", "relevance": "primary", "reason": "Mark's account of blind Bartimaeus healed by Jesus, told to go for his faith has made him well"},
+    {"ref": "JHN.9.1-7", "relevance": "primary", "reason": "The healing of the man born blind, the most theologically developed blindness miracle in the Gospels"},
+    {"ref": "ISA.35.5", "relevance": "typological", "reason": "The messianic prophecy that the eyes of the blind shall be opened — fulfilled in Christ's ministry"},
+    {"ref": "ISA.42.7", "relevance": "typological", "reason": "The Servant of the Lord will open the eyes that are blind — a prophecy Christ embodies"},
+    {"ref": "MAT.11.4-5", "relevance": "allusion", "reason": "Jesus cites the healing of the blind as evidence to John the Baptist that he is the Messiah"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "compassionate", "awe-filled", "hopeful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050986",
+    "title": "Christ healing the blind",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

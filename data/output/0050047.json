@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Saint Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Catherine of Alexandria",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints Mary Magdalene and Catherine of Alexandria Standing in Devotion",
+  "tags": [
+    "mary-magdalene",
+    "catherine-of-alexandria",
+    "female-saints",
+    "palm-of-martyrdom",
+    "ointment-jar",
+    "chalice",
+    "devotional-panels",
+    "halo",
+    "paired-saints",
+    "penitence-and-martyrdom"
+  ],
+  "symbols": [
+    "palm branch held by Catherine — the sign of martyrdom and victory over death",
+    "book held by Catherine — her learning and defense of the faith",
+    "chalice or ointment vessel held by Magdalene — identification with the anointing of Christ or eucharistic devotion",
+    "halos — sanctity and the saints' participation in heavenly glory",
+    "red garments — the blood of martyrdom and the passion of devoted love",
+    "dark background — the sacred space of contemplation and devotion"
+  ],
+  "description": "Two framed panels displayed side by side, each containing a standing female saint against a dark background. On the left, Saint Catherine of Alexandria wears a pink and blue upper garment over a red skirt, holding a palm branch in her right hand and a small book in her left, with a delicate halo around her head. On the right, Saint Mary Magdalene is dressed in a coral-red robe with a green mantle, holding a golden chalice or ointment vessel in her right hand, also bearing a halo.",
+  "theological_description": "This pairing of Saints Catherine of Alexandria and Mary Magdalene brings together two paradigmatic models of female holiness in the Christian tradition: the learned virgin martyr and the penitent witness. Catherine represents the intellectual defense of faith, recalling 1 Peter 3:15's injunction to be ready to give a reason for hope. Her palm branch connects her to the white-robed multitude of Revelation 7:9 who have come through tribulation. The Magdalene, holding her characteristic vessel, embodies the transformative encounter with Christ's mercy. Her ointment jar recalls her act of extravagant love in anointing Jesus (John 12:3), while tradition also associates her with the sinful woman whose many sins were forgiven because she loved much (Luke 7:47). Together they represent two paths of sanctification: Catherine through the witness of truth unto death, and the Magdalene through the witness of love born from forgiveness. Both women ultimately point to Christ — Catherine by defending his truth, the Magdalene by experiencing his grace.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.12.3",
+      "relevance": "primary",
+      "reason": "The ointment vessel identifies Magdalene with the anointing at Bethany, her defining act of devotion to Christ"
+    },
+    {
+      "ref": "LUK.7.47",
+      "relevance": "primary",
+      "reason": "The Magdalene embodies the one whose many sins were forgiven because she loved much"
+    },
+    {
+      "ref": "REV.7.9-14",
+      "relevance": "typological",
+      "reason": "Catherine's palm branch identifies her with the triumphant multitude who came through the great tribulation"
+    },
+    {
+      "ref": "1PE.3.15",
+      "relevance": "allusion",
+      "reason": "Catherine's intellectual defense of faith before pagan philosophers fulfills the command to give a reason for hope"
+    },
+    {
+      "ref": "JHN.20.17-18",
+      "relevance": "primary",
+      "reason": "The Magdalene as first witness of the Resurrection, sent by Christ himself to proclaim the good news to the apostles"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotion",
+    "gentleness",
+    "reverence"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0050047",
+    "title": "S. M. Maddalena and S. Caterina D'Alexandria",
+    "artist": "Mariotto Albertinelli",
+    "model": "claude-opus-4-6"
+  }
+}

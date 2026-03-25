@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Madonna with the Christ Child and Infant John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "holy-family",
+    "infant-baptist",
+    "tondo",
+    "incarnation",
+    "maternal-love",
+    "cross",
+    "prophetic-play",
+    "divine-childhood",
+    "landscape-background",
+    "tenderness"
+  ],
+  "symbols": [
+    "small cross held by infant Baptist — foreshadowing his role as herald of the Lamb and the cross of Christ",
+    "Christ Child seated on Mary's lap — the Incarnation, God dwelling among humanity through a human mother",
+    "Virgin's blue mantle — heavenly grace and the mantle of divine favor upon the Theotokos",
+    "Virgin's red garment — the humanity of Mary and her participation in Christ's Passion",
+    "circular tondo format — eternity, perfection, and the unbroken communion of the holy figures",
+    "landscape with lake and mountains — the created world redeemed by the Incarnation",
+    "bare-skinned infant Baptist — the poverty and humility of the prophet's calling from the womb"
+  ],
+  "description": "A large circular tondo painting depicting the Virgin Mary seated on the ground in a landscape setting, wearing a red dress beneath a deep blue mantle. The Christ Child sits on her lap, turning toward the infant John the Baptist who kneels at the left holding a small reed cross. The two children interact tenderly while Mary gazes downward with a serene, contemplative expression. Behind them stretches a luminous landscape with a calm lake, distant trees, and softly rendered mountains under a clear sky.",
+  "theological_description": "Raphael's Alba Madonna is one of the supreme expressions of Incarnational theology in Western art. The meeting of the infant Christ and the infant Baptist is a theme drawn from the Protevangelium tradition and the Lukan narrative of the Visitation (Luke 1:41-44), where the unborn John leapt in Elizabeth's womb at the approach of the unborn Christ. Here the encounter continues into infancy: the young Baptist already holds the reed cross that symbolizes his future proclamation, 'Behold, the Lamb of God' (John 1:29), while the Christ Child reaches toward it with awareness, accepting the cross that awaits him. Mary's downward gaze carries a premonitory sorrow — she is the Mater Dolorosa who 'treasured all these things in her heart' (Luke 2:19), already sensing the sword that would pierce her own soul (Luke 2:35). The circular format speaks theologically of the eternal plan of redemption: the Incarnation is not an accident of history but the predetermined purpose of God from before the foundation of the world (Ephesians 1:4). The luminous landscape behind the figures suggests the renewed creation that the Incarnation inaugurates — the world into which God has entered to dwell with his people.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The infant Baptist's joyful recognition of Christ echoes the leap in Elizabeth's womb at the Visitation"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "The reed cross held by the infant Baptist foreshadows his adult declaration: Behold the Lamb of God"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary's contemplative, downward gaze embodies her treasuring of these mysteries in her heart"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "The premonitory sadness in Mary's expression foreshadows Simeon's prophecy of the sword that would pierce her soul"
+    },
+    {
+      "ref": "EPH.1.4",
+      "relevance": "typological",
+      "reason": "The circular tondo format suggests the eternal plan of redemption chosen before the foundation of the world"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent his Son, born of a woman — the theological reality of the Incarnation depicted in Mary holding the divine Child"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tenderness",
+    "serenity",
+    "contemplation",
+    "reverence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0050066",
+    "title": "The Alba Madonna",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

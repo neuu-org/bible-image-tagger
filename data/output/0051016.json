@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Penitent Magdalene Comforted by Angels",
+  "tags": [
+    "mary-magdalene",
+    "penitence",
+    "angels-and-archangels",
+    "repentance",
+    "contemplation",
+    "devotion",
+    "wilderness",
+    "tears",
+    "comfort"
+  ],
+  "symbols": [
+    "angels ministering — divine consolation given to the truly penitent soul",
+    "bare shoulder and loosened hair — the Magdalene's traditional iconography of penitential humility",
+    "dark landscape — the spiritual wilderness of penance and self-mortification",
+    "white cloth — purity being restored through repentance and divine grace"
+  ],
+  "description": "A dark, dramatic composition showing a partially draped young woman (Mary Magdalene) seated or kneeling at a stone ledge, her head bowed in sorrow and her shoulder bare. Two large-winged angels attend her closely — one reaching tenderly toward her from behind, the other leaning in from the right holding or presenting a white cloth. A third angelic figure appears dimly in the dark sky above. The background is a shadowy nocturnal landscape with a sliver of blue sky at the horizon.",
+  "theological_description": "Mary Magdalene's penitence is one of the great paradigms of conversion in Christian tradition. The woman from whom seven demons were cast out (Luke 8:2) became one of Christ's most faithful followers, present at the Cross when most of the apostles had fled (John 19:25), and the first witness of the Resurrection (John 20:11-18). The tradition of the penitent Magdalene in the wilderness, though largely extra-biblical, became a powerful devotional image expressing the truth that genuine repentance opens the door to intimate communion with God. The ministering angels recall Christ's own experience in the wilderness, where angels came and attended him after his temptation (Matthew 4:11). Their presence here signifies that heaven itself rejoices over one sinner who repents (Luke 15:7) and that divine consolation accompanies the difficult path of penance. The Magdalene thus embodies the paradox at the heart of the Gospel: the greatest sinners, when truly converted, often become the greatest saints.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.37-50",
+      "relevance": "primary",
+      "reason": "The sinful woman who washes Jesus' feet with tears — traditionally identified with the Magdalene and her penitence"
+    },
+    {
+      "ref": "LUK.8.2",
+      "relevance": "primary",
+      "reason": "Mary Magdalene, from whom seven demons had gone out — the basis for her identification as a great penitent"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "allusion",
+      "reason": "The Magdalene at the empty tomb, rewarded for her devotion by being the first to see the risen Christ"
+    },
+    {
+      "ref": "LUK.15.7",
+      "relevance": "allusion",
+      "reason": "There is more joy in heaven over one sinner who repents — embodied in the angelic ministry to the Magdalene"
+    },
+    {
+      "ref": "MAT.4.11",
+      "relevance": "typological",
+      "reason": "Angels ministering to Christ after his wilderness temptation, paralleled here by angels comforting the penitent Magdalene"
+    },
+    {
+      "ref": "2CO.7.10",
+      "relevance": "allusion",
+      "reason": "Godly sorrow produces repentance leading to salvation — the theological principle animating this scene"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "sorrowful",
+    "tender",
+    "contemplative",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0051016",
+    "title": "Magdalen and Two Angels",
+    "artist": "Guercino",
+    "model": "claude-opus-4-6"
+  }
+}

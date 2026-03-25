@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Adam", "type": "PERSON"}
+  ],
+  "event": "Adam after the Fall",
+  "tags": [
+    "adam",
+    "fall-of-man",
+    "nudity",
+    "fig-leaf",
+    "shame",
+    "original-sin",
+    "ghent-altarpiece",
+    "first-man",
+    "creation"
+  ],
+  "symbols": [
+    "fig leaf covering — shame and the awareness of sin that followed the Fall (Genesis 3:7)",
+    "nude body — the original innocence of creation now tainted by transgression, vulnerability before God",
+    "hand on chest — self-awareness, guilt, and the inward turn of the fallen human condition",
+    "arched niche — a liminal space between paradise lost and the world of toil and death"
+  ],
+  "description": "A tall, narrow panel showing a near life-size nude male figure standing within an arched stone niche. The man, Adam, has dark curly hair and a short beard. His body is rendered with striking naturalistic detail -- muscular but not idealized, conveying physical weight and vulnerability. His right hand is placed across his chest while his left hand holds a cluster of fig leaves over his groin. His gaze is averted slightly downward and to the right, conveying a mood of shame or sorrow. The warm flesh tones contrast with the dark, shadowed background.",
+  "theological_description": "Van Eyck's Adam from the Ghent Altarpiece is one of the most theologically profound depictions of the first man in Western art. Positioned on the left wing of the polyptych, Adam stands as the origin of humanity and the origin of sin. The fig leaf he holds directly references Genesis 3:7: 'they sewed fig leaves together and made themselves loincloths' -- the first human act after the Fall, an attempt to cover the shame that sin introduced into creation. His hand on his chest suggests the inward knowledge of guilt; as Paul writes, 'through one man sin entered the world, and death through sin' (Romans 5:12). Yet within the Ghent Altarpiece's overall program, Adam's presence is not despair but hope: he stands at the beginning of the salvation narrative that culminates in the central panel's Adoration of the Lamb (Revelation 5), where Christ the second Adam undoes what the first Adam wrought. Augustine's doctrine of felix culpa -- the 'happy fault' -- is implicit in the altarpiece's structure: Adam's sin was the occasion for the greater glory of redemption. The naturalistic rendering insists on Adam's full humanity, the same humanity that the Son of God would assume in the Incarnation to heal from within.",
+  "scripture_refs": [
+    {"ref": "GEN.3.6-7", "relevance": "primary", "reason": "The Fall and the covering with fig leaves -- the exact moment depicted in Adam's shame and self-concealment."},
+    {"ref": "GEN.2.7", "relevance": "primary", "reason": "God formed man from the dust of the ground -- Adam as the first created human."},
+    {"ref": "ROM.5.12", "relevance": "primary", "reason": "Through one man sin entered the world, and death through sin -- Adam as the origin of universal fallenness."},
+    {"ref": "ROM.5.14-15", "relevance": "typological", "reason": "Adam as a type of the one who was to come -- the first Adam pointing forward to Christ the second Adam."},
+    {"ref": "1CO.15.22", "relevance": "typological", "reason": "As in Adam all die, so in Christ shall all be made alive -- the salvific reversal implicit in the altarpiece's program."},
+    {"ref": "1CO.15.45-49", "relevance": "typological", "reason": "The first man Adam became a living being; the last Adam a life-giving spirit -- the contrast that structures Christian anthropology."},
+    {"ref": "GEN.3.15", "relevance": "allusion", "reason": "The Protoevangelium: the seed of the woman will crush the serpent's head -- the promise of redemption implicit in Adam's story."}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "vulnerable", "introspective"],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0050495",
+    "title": "Adam, from the left wing of the Ghent Altarpiece",
+    "artist": "Jan van Eyck",
+    "model": "claude-opus-4-6"
+  }
+}

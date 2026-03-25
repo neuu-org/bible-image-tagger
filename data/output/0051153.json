@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Tobias",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sarah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Raguel",
+      "type": "PERSON"
+    },
+    {
+      "name": "Wedding guests",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Wedding of Tobias and Sarah",
+  "tags": [
+    "tobias",
+    "sarah",
+    "wedding",
+    "marriage",
+    "tobit",
+    "deuterocanonical",
+    "celebration",
+    "contract",
+    "feast"
+  ],
+  "symbols": [
+    "marriage contract being signed — the covenantal nature of marriage under divine law",
+    "festive gathering — the communal celebration of marriage as a sacred institution",
+    "dog at lower right — a faithful companion mentioned in the Book of Tobit, symbolizing fidelity",
+    "wine barrels — the abundance and celebration of the wedding feast"
+  ],
+  "description": "A lively Dutch Golden Age interior scene depicting the wedding of Tobias and Sarah. At left, an elderly man (likely Raguel, Sarah's father) sits at a table signing or witnessing a marriage contract, attended by another figure. At center, the young couple — Tobias and Sarah — stand together, she in a white bridal dress. Around them, various wedding guests mill about in a richly furnished interior with heavy drapery, barrels of wine, and musical instruments. A small dog sits in the lower right corner.",
+  "theological_description": "The wedding of Tobias and Sarah, narrated in the Book of Tobit (Tobit 7-8), is one of the most touching marriage stories in Scripture. Sarah had been married seven times before, with each husband killed on the wedding night by the demon Asmodeus. Tobias, guided by the archangel Raphael in disguise, approaches the marriage in faith and prayer rather than lust. On their wedding night, Tobias and Sarah pray together, invoking God's blessing and the precedent of Adam and Eve's creation for companionship (Tobit 8:5-7). The demon is driven away, and the marriage is blessed. Jan Steen translates this ancient narrative into the familiar idiom of a Dutch wedding celebration, making the sacred story accessible and relatable. The theological message is clear: marriage rooted in prayer, mutual respect, and obedience to God's design prevails over every evil, while marriage pursued for selfish desire ends in destruction. Tobias and Sarah's union thus becomes a model of sacramental marriage.",
+  "scripture_refs": [
+    {
+      "ref": "TOB.7.12-14",
+      "relevance": "primary",
+      "reason": "Raguel gives Sarah in marriage to Tobias and writes the marriage contract — the scene depicted"
+    },
+    {
+      "ref": "TOB.8.4-8",
+      "relevance": "primary",
+      "reason": "Tobias and Sarah pray together on their wedding night, driving away the demon through faith"
+    },
+    {
+      "ref": "GEN.2.18-24",
+      "relevance": "typological",
+      "reason": "God creates woman as a helper for man and institutes marriage — the precedent Tobias invokes in his wedding prayer"
+    },
+    {
+      "ref": "TOB.6.16-18",
+      "relevance": "allusion",
+      "reason": "Raphael instructs Tobias on how to approach the marriage in faith, driving out the demon"
+    },
+    {
+      "ref": "EPH.5.31-32",
+      "relevance": "typological",
+      "reason": "Marriage as a great mystery reflecting Christ and the Church — the sacramental depth foreshadowed in Tobias and Sarah's union"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "festive",
+    "joyful",
+    "warm",
+    "intimate"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0051153",
+    "title": "Wedding of Tobias and Sarah",
+    "artist": "Jan Steen",
+    "model": "claude-opus-4-6"
+  }
+}
