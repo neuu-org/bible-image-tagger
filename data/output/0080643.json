@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {"name": "St. Florian", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["saint-florian", "modernist", "soldier-saint", "avant-garde", "geometric", "stylized"],
+  "symbols": ["soldier figure with spear — St. Florian's military identity", "stylized forms — modernist reinterpretation of sacred imagery", "geometric patterns — abstracted sacred art"],
+  "description": "A modernist painting depicting St. Florian as a stylized soldier figure holding a long staff or spear, rendered in a flat, geometric manner. The figure stands against a divided background of blue and grey. To the right, abstract decorative elements in red and black appear, along with linear floral or vegetal patterns. The lower portion shows additional geometric shapes. The style is characteristic of interwar Polish avant-garde art, combining folk art influences with modernist abstraction. The figure wears a distinctive hat and purple tunic.",
+  "theological_description": "St. Florian (c. 250-304) was a Roman military officer who secretly practiced Christianity and was martyred by drowning during the Diocletian persecutions. He is the patron saint of firefighters and is especially venerated in Austria and Poland. This modernist depiction strips the saint to essential symbolic elements — the soldier's stance and weapon — while the geometric patterning draws on folk art traditions of Central European Catholic devotion. Florian's willingness to die rather than renounce his faith exemplifies the call to remain faithful even unto death (Revelation 2:10).",
+  "scripture_refs": [
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death, and I will give you the crown of life"},
+    {"ref": "EPH.6.11-13", "relevance": "allusion", "reason": "The armor of God — Florian as soldier of Christ"},
+    {"ref": "2TI.4.7", "relevance": "allusion", "reason": "I have fought the good fight, I have kept the faith"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["bold", "stylized", "devotional", "modernist"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080643",
+    "title": "Saint Florian",
+    "artist": "Henryk Streng",
+    "model": "claude-opus-4-6"
+  }
+}

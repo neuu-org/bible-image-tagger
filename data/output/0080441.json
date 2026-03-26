@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {"name": "Crucified Figure", "type": "DEITY"}
+  ],
+  "event": "Crucifixion",
+  "tags": ["crucifixion", "triptych", "francis-bacon", "expressionism", "suffering", "distortion", "modern-art"],
+  "symbols": ["distorted flesh — agony and dehumanization of suffering", "red background — blood and violence of the Passion", "triptych format — traditional altarpiece form subverted", "hanging carcass — Christ's body as sacrificial meat", "isolated figures — existential abandonment"],
+  "description": "A Francis Bacon triptych inspired by the Crucifixion. The three panels depict distorted, agonized figures against backgrounds of vivid red-orange and muted tan. The left panel shows a contorted seated figure with a standing observer. The central panel, on an intense red background, displays a hanging, butchered carcass-like form above a prone wrapped figure. The right panel shows a hunched, distorted figure with an observer seated behind. The imagery is visceral, raw, and confrontational, characteristic of Bacon's radical reinterpretation of religious themes.",
+  "theological_description": "Francis Bacon's Crucifixion triptych strips away all traditional religious iconography to confront the viewer with the raw horror of suffering and death. By using the traditional altarpiece triptych format, Bacon deliberately invokes the Crucifixion while presenting it through a lens of existential anguish. The butchered carcass evokes both the sacrificial lamb and the brutal reality of Christ's physical torment. The work challenges viewers to confront the scandal of the cross — that God entered into the most extreme human suffering (Isaiah 53:3-5). Bacon's unflinching depiction of flesh and agony paradoxically returns to the theological core that centuries of idealized Crucifixion scenes had softened.",
+  "scripture_refs": [
+    {"ref": "ISA.53.3-5", "relevance": "allusion", "reason": "A man of sorrows, acquainted with grief — the raw suffering Bacon depicts"},
+    {"ref": "GAL.3.13", "relevance": "allusion", "reason": "Christ becoming a curse for us — the scandal and horror of crucifixion"},
+    {"ref": "PHP.2.8", "relevance": "allusion", "reason": "Obedient unto death, even death on a cross — the extremity of the suffering depicted"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["horrifying", "anguished", "visceral", "confrontational"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080441",
+    "title": "Crucifixion",
+    "artist": "Francis Bacon",
+    "model": "claude-opus-4-6"
+  }
+}

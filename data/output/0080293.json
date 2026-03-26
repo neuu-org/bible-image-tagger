@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Mother", "type": "PERSON"},
+    {"name": "Prisoner", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["pieta-reinterpreted", "prison-visit", "social-commentary", "illustration", "mother-and-son", "compassion"],
+  "symbols": ["prison bars — captivity and suffering", "mother visiting — maternal compassion echoing Mary's grief", "title Pieta — deliberate parallel to Mary mourning Christ", "cloth or handkerchief — grief and tears"],
+  "description": "A colored illustration titled 'PIETA DE MAZAS' showing an elderly woman in a checkered shawl and white cap visiting a man behind prison bars. The woman leans forward with deep concern, holding cloth in her hands. The prisoner, wearing a red scarf, looks at her through the bars with a subdued expression. The scene is rendered in a social-realist illustration style, with muted colors and sympathetic treatment of the working-class subjects. The title 'Pieta de Mazas' references the Mazas Prison in Paris.",
+  "theological_description": "This illustration transposes the Christian Pieta — Mary's grief over her dead Son — into a modern social context: a mother visiting her imprisoned son at Mazas Prison in Paris. The deliberate title 'Pieta de Mazas' invites viewers to see in every suffering mother's grief an echo of the Virgin Mary's sorrow. This reflects Christ's identification with prisoners in Matthew 25:36 — 'I was in prison and you came to visit me.' The work suggests that the sacred is present in the ordinary suffering of the poor and marginalized, a theme consistent with the Incarnation's affirmation that God enters into the fullness of human pain.",
+  "scripture_refs": [
+    {"ref": "MAT.25.36", "relevance": "primary", "reason": "Christ identifying with prisoners: 'I was in prison and you visited me'"},
+    {"ref": "JHN.19.25-27", "relevance": "typological", "reason": "Mary standing at the foot of the cross, paralleled by the mother at the prison bars"},
+    {"ref": "LAM.1.12", "relevance": "allusion", "reason": "Is there any sorrow like my sorrow — the universal lament of a grieving mother"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["sorrowful", "compassionate", "tender", "somber"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080293",
+    "title": "Pieta de Mazas",
+    "artist": "Theophile Steinlen",
+    "model": "claude-opus-4-6"
+  }
+}

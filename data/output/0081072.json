@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "St. Lucy", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["saint-lucy", "martyr", "eyes-on-plate", "palm-branch", "flower-crown", "zurburan", "spanish-baroque"],
+  "symbols": ["eyes on a plate — Lucy's attribute, relating to her blinding or eye removal during martyrdom", "palm branch — victory through martyrdom", "flower crown — virginity and heavenly reward", "pearl necklace — purity and noble birth", "inscription S.LUCIA — identifying the saint"],
+  "description": "A Spanish Baroque portrait of St. Lucy, identified by the inscription 'S.LVCIA' at the upper left. She is depicted as a beautiful young woman wearing an elegant red bodice over a white blouse with puffy sleeves, a green skirt, and a dark mantle. Her hair is adorned with a crown of colorful flowers, and she wears a pearl necklace with a cameo brooch. She holds a plate bearing two eyes in one hand and a large palm branch (symbol of martyrdom) in the other. Her expression is calm and dignified against a dark background.",
+  "theological_description": "St. Lucy of Syracuse (c. 283-304) was an early Christian virgin-martyr whose name derives from 'lux' (light). According to hagiographic tradition, she consecrated her virginity to Christ and distributed her wealth to the poor, provoking her pagan betrothed to denounce her to the Roman authorities. She was martyred during the Diocletian persecutions. The eyes on the plate relate to traditions that she was blinded or that she plucked out her own eyes to discourage a suitor, and God miraculously restored them. She became the patron saint of the blind and is associated with light and vision. Her feast day (December 13) falls near the winter solstice, linking her to the return of light — Christ as the Light of the World (John 8:12).",
+  "scripture_refs": [
+    {"ref": "JHN.8.12", "relevance": "allusion", "reason": "I am the light of the world — Lucy's name and patronage of light and vision"},
+    {"ref": "MAT.5.29", "relevance": "allusion", "reason": "If your eye causes you to stumble, pluck it out — sometimes connected to Lucy's legend"},
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and I will give you the crown of life — Lucy's martyrdom"},
+    {"ref": "MAT.19.21", "relevance": "allusion", "reason": "Sell what you have and give to the poor — Lucy distributing her dowry to the needy"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["serene", "dignified", "devotional", "elegant"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0081072",
+    "title": "Saint Lucy",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

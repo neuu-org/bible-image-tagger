@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "David", "type": "PERSON"},
+    {"name": "Ahimelech", "type": "PERSON"},
+    {"name": "Priests", "type": "GROUP"}
+  ],
+  "event": "David and Ahimelech",
+  "tags": ["david", "ahimelech", "showbread", "priests", "old-testament", "baroque", "palma-giovane"],
+  "symbols": [
+    "bread on altar — the showbread / bread of the Presence",
+    "priestly figure — Ahimelech the priest",
+    "heavenly vision above — divine sanction"
+  ],
+  "description": "A tall, narrow Baroque painting showing a scene in a temple or sanctuary. A priest figure stands elevated near an altar or table, with other figures around and below. Above, a heavenly vision with angels appears in golden clouds. Figures in colorful robes gesture and interact. A crowned or armored figure may represent David. The composition is vertical and dramatic with strong chiaroscuro.",
+  "theological_description": "David's encounter with the priest Ahimelech at Nob is a significant Old Testament narrative with profound theological implications. Fleeing from Saul, David arrives hungry at the tabernacle and asks Ahimelech for bread. The priest gives him the consecrated showbread — the bread of the Presence that was normally reserved for priests alone. Jesus himself references this episode in Mark 2:25-26 to defend his disciples plucking grain on the Sabbath, establishing the principle that human need can take precedence over ceremonial law. The heavenly vision above suggests divine approval of this act of mercy.",
+  "scripture_refs": [
+    {"ref": "1SM.21.1-6", "relevance": "primary", "reason": "David receives the showbread from Ahimelech the priest"},
+    {"ref": "MK.2.25-26", "relevance": "typological", "reason": "Jesus cites this episode to justify mercy over strict law observance"},
+    {"ref": "MT.12.3-4", "relevance": "allusion", "reason": "Matthew's parallel account of Jesus referencing David and the showbread"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "urgent", "solemn"],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0090755",
+    "title": "David and Achimelech",
+    "artist": "Palma il Giovane",
+    "model": "claude-opus-4-6"
+  }
+}

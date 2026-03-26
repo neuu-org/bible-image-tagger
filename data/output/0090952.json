@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {"name": "St. Gontran", "type": "PERSON"},
+    {"name": "St. Avitus", "type": "PERSON"},
+    {"name": "Courtiers", "type": "GROUP"},
+    {"name": "Clergy", "type": "GROUP"}
+  ],
+  "event": "Conversation between St. Gontran and St. Avitus",
+  "tags": ["medieval-manuscript", "illumination", "fouquet", "french-court", "bishop", "king", "city", "army"],
+  "symbols": [
+    "fleur-de-lis robes — French royal identity",
+    "bishop's mitre — ecclesiastical authority",
+    "walled city — medieval Christendom",
+    "army in background — temporal power"
+  ],
+  "description": "A richly illuminated manuscript miniature showing a group of elegantly dressed figures in the foreground — a king in a blue robe with gold fleur-de-lis, a bishop in white and gold vestments, and courtiers in red and blue garments. They appear to be in conversation. Behind them, a magnificent walled Gothic city with cathedral spires rises against hills. An army marches in the middle ground. The style is characteristic of Jean Fouquet's luminous, detailed miniature painting.",
+  "theological_description": "This miniature depicts the conversation between the Frankish King Gontran and Bishop Avitus, representing the close relationship between Church and State in medieval Christendom. The meeting of secular and ecclesiastical authority illustrates the medieval ideal of cooperation between the two swords — temporal and spiritual power — both serving God's purposes in the world. The splendid city in the background represents the Civitas Dei — the earthly reflection of the heavenly Jerusalem that medieval Christians sought to build through this partnership of crown and cross.",
+  "scripture_refs": [
+    {"ref": "RM.13.1-4", "relevance": "allusion", "reason": "Let every person be subject to the governing authorities — church-state relations"},
+    {"ref": "PR.11.14", "relevance": "allusion", "reason": "Where there is no guidance, a nation falls, but in abundance of counselors there is safety"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["regal", "formal", "ceremonial", "luminous"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0090952",
+    "title": "Conversation Between St. Gontran and St. Avitus",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

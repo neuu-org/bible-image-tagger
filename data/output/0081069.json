@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Coronation of the Virgin",
+  "tags": [
+    "coronation-of-the-virgin",
+    "gold-background",
+    "gothic",
+    "paolo-veneziano",
+    "venetian-gothic",
+    "angels",
+    "throne"
+  ],
+  "symbols": [
+    "crown being placed — Mary's heavenly queenship",
+    "shared throne — Christ and Mary enthroned together",
+    "angels with instruments — heavenly celebration",
+    "gold background — eternal heavenly realm",
+    "red robes — royalty and charity"
+  ],
+  "description": "A Venetian Gothic panel painting depicting the Coronation of the Virgin. Christ and the Virgin Mary sit together on an ornate throne under a Gothic arch. Christ raises His hand to place a crown on Mary's head while she bows in acceptance. Both wear rich red and blue robes with elaborate gold detailing. Angels flank them on either side, some playing musical instruments. The background is richly tooled gold leaf. The entire composition is set within a pointed Gothic arch frame with ornate carved decoration.",
+  "theological_description": "The Coronation of the Virgin depicts the theological belief that Mary, after her Assumption into heaven, was crowned as Queen of Heaven by her Son. While not directly narrated in Scripture, this doctrine draws on several biblical foundations: the Queen Mother tradition of the Davidic monarchy (1 Kings 2:19), where the mother of the king held a special position of honor; the 'woman clothed with the sun, with a crown of twelve stars' in Revelation 12:1; and Psalm 45:9, where the queen stands at the king's right hand in gold. The Coronation represents the culmination of Mary's role in salvation history — the humble handmaid of the Lord (Luke 1:48) exalted to the highest honor in heaven.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "A woman clothed with the sun, with a crown of twelve stars — Mary as Queen of Heaven"
+    },
+    {
+      "ref": "1KI.2.19",
+      "relevance": "typological",
+      "reason": "The queen mother seated at the king's right hand — Davidic Queen Mother tradition"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen stands at your right hand in gold of Ophir"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — fulfilled in Mary's heavenly coronation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "glorious",
+    "celebratory",
+    "regal",
+    "sacred"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0081069",
+    "title": "Coronation of the Virgin",
+    "artist": "Paolo Veneziano",
+    "model": "claude-opus-4-6"
+  }
+}

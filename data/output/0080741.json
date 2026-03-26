@@ -1,0 +1,27 @@
+{
+  "characters": [
+    {"name": "Zechariah", "type": "PERSON"},
+    {"name": "Infant John the Baptist", "type": "PERSON"},
+    {"name": "Elizabeth", "type": "PERSON"},
+    {"name": "Attendant", "type": "PERSON"}
+  ],
+  "event": "Birth and Naming of St. John the Baptist",
+  "tags": ["birth-of-john-baptist", "zechariah", "elizabeth", "naming", "writing-tablet", "fresco", "filippo-lippi", "renaissance"],
+  "symbols": ["writing tablet — Zechariah writing 'His name is John' to break his silence", "haloed figures — sanctity", "infant — the forerunner of Christ", "architectural setting — domestic scene of sacred birth"],
+  "description": "A fresco detail depicting the naming of St. John the Baptist. The elderly Zechariah sits at center with a halo, appearing to write on a tablet. A woman (Elizabeth) sits at the left holding or near the infant John. Another figure stands at the right gesturing. The scene is set within a Renaissance architectural interior with columns and marble floors. The style shows Filippo Lippi's characteristic grace and narrative clarity. The fresco shows age-related cracking throughout.",
+  "theological_description": "This scene depicts the birth and naming of John the Baptist from Luke 1:57-66. When Zechariah's neighbors wanted to name the child after his father, Elizabeth insisted the name would be John. They turned to the mute Zechariah, who wrote on a tablet, 'His name is John' — and immediately his tongue was loosed and he spoke, praising God. Zechariah had been struck mute for doubting Gabriel's announcement (Luke 1:20). His restored speech at the naming confirmed the divine origin of John's mission as the forerunner of the Messiah. This miraculous event prompted the neighborhood to ask in awe, 'What then will this child be?' (Luke 1:66).",
+  "scripture_refs": [
+    {"ref": "LUK.1.57-66", "relevance": "primary", "reason": "The birth and naming of John the Baptist, Zechariah's restored speech"},
+    {"ref": "LUK.1.63", "relevance": "primary", "reason": "Zechariah writing 'His name is John' on a tablet"},
+    {"ref": "LUK.1.20", "relevance": "allusion", "reason": "Zechariah struck mute for doubting the angel's message"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["joyful", "miraculous", "domestic", "sacred"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080741",
+    "title": "Birth and Naming St. John (detail)",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

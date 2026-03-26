@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Gabriel", "type": "ANGEL"}
+  ],
+  "event": "The Annunciation",
+  "tags": ["annunciation", "angel-gabriel", "virgin-mary", "fresco", "fra-angelico", "monastic-cell", "simplicity"],
+  "symbols": [
+    "crossed arms of Mary — humble submission",
+    "angel's wings — divine messenger",
+    "bare cell — monastic contemplation of the mystery",
+    "arched vaults — sacred space"
+  ],
+  "description": "A fresco in a monastic cell showing the Annunciation with utmost simplicity. The Angel Gabriel, with colorful red-and-gold wings, stands at left in a pink robe, hands crossed, bowing slightly. The Virgin Mary kneels at right in a dark blue robe under a vaulted white arcade, also with hands crossed over her chest. The setting is a bare loggia with plain arched vaults. A figure (possibly St. Peter Martyr) observes from the far left. The style is serene and meditative.",
+  "theological_description": "Fra Angelico's Annunciation frescoes in the cells of San Marco in Florence are among the most contemplative depictions of this mystery in all of art. Stripped of ornament and painted for monastic meditation, this fresco presents the Annunciation in its essential spiritual reality. Gabriel and Mary face each other in postures of mutual humility — both with crossed arms, signifying obedience and reverence. The spare architecture mirrors the monastic cell itself, inviting the friar who dwelt there to enter the scene contemplatively. This is the moment that changed history: Mary's fiat, her 'yes' to God, made the Incarnation possible. The simplicity of the setting reminds us that God's greatest works occur in quiet, humble places.",
+  "scripture_refs": [
+    {"ref": "LK.1.26-38", "relevance": "primary", "reason": "The Annunciation: Gabriel appears to Mary in Nazareth"},
+    {"ref": "LK.1.38", "relevance": "primary", "reason": "Mary's fiat — I am the handmaid of the Lord, let it be done to me"},
+    {"ref": "IS.7.14", "relevance": "typological", "reason": "The virgin shall conceive — prophecy fulfilled in Mary"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["serene", "contemplative", "sacred", "austere"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090599",
+    "title": "Annunciation",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {"name": "Clergy", "type": "GROUP"},
+    {"name": "King Charles II of Spain", "type": "PERSON"},
+    {"name": "Court", "type": "GROUP"}
+  ],
+  "event": "Adoration of the Sacred Host",
+  "tags": ["eucharistic-adoration", "sacred-host", "spanish-court", "liturgical-ceremony", "church-interior", "baroque", "coello"],
+  "symbols": [
+    "sacred host — Real Presence of Christ in the Eucharist",
+    "ornate church interior — majesty of worship",
+    "kneeling figures — adoration and reverence",
+    "candles — light of faith"
+  ],
+  "description": "A large Baroque painting showing a solemn liturgical ceremony in an ornate church interior. A priest in white vestments holds up or presents the sacred host near a grand altar. Members of the Spanish royal court and clergy gather in formal attendance. The architecture features elaborately decorated columns and a painted vault above. Candles illuminate the scene. The composition creates dramatic depth through the receding arches.",
+  "theological_description": "This painting depicts the veneration of a sacred Eucharistic host, a ceremony of profound significance in Catholic theology. The Eucharist is believed to be the true Body and Blood of Christ under the appearances of bread and wine. The presence of the Spanish king and his court underscores the Catholic understanding that before the Eucharistic Christ, even temporal rulers bow in adoration. The magnificent church setting and solemn ceremony reflect the belief that the Mass is the highest form of worship, making present the sacrifice of Calvary. This particular painting likely commemorates a specific miraculous host venerated in the Sacristy of the Escorial.",
+  "scripture_refs": [
+    {"ref": "MT.26.26", "relevance": "primary", "reason": "This is my body — the institution of the Eucharist"},
+    {"ref": "JN.6.53-56", "relevance": "primary", "reason": "Unless you eat the flesh of the Son of Man you have no life in you"},
+    {"ref": "1CO.11.26", "relevance": "allusion", "reason": "Whenever you eat this bread and drink this cup, you proclaim the Lord's death"}
+  ],
+  "scene_type": "liturgical",
+  "mood": ["solemn", "majestic", "reverent", "ceremonial"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0090752",
+    "title": "La adoración de la Sagrada Forma",
+    "artist": "Claudio Coello",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Crucifixion of Christ",
+  "tags": ["crucifixion", "christ-on-the-cross", "golgotha", "inri", "skull", "jerusalem", "crown-of-thorns", "champaigne"],
+  "symbols": [
+    "cross — instrument of salvation",
+    "INRI plaque — Jesus of Nazareth, King of the Jews",
+    "skull at base — Golgotha (place of the skull), also Adam's skull",
+    "crown of thorns — suffering kingship",
+    "dark sky — cosmic mourning at Christ's death",
+    "Jerusalem in background — the holy city"
+  ],
+  "description": "A stark, monumental Crucifixion depicting Christ alone on the cross against a darkening sky. Jesus's body is rendered with anatomical precision — muscular yet emaciated, nailed at hands and feet. He wears a crown of thorns and a white loincloth. The INRI inscription is mounted above. At the base of the cross, a skull and bones are visible (Golgotha). The walls of Jerusalem are visible in the background. The sky is dark and threatening. The composition is austere and focused entirely on Christ's suffering body.",
+  "theological_description": "This austere, solitary Crucifixion by Philippe de Champaigne strips away all secondary figures to focus entirely on the crucified Christ in his final hours. The stark isolation emphasizes the depth of Christ's suffering — he bears the sins of the world alone. The skull at the base of the cross traditionally represents Adam's skull, linking the first Adam's sin with the second Adam's redemptive sacrifice. Jerusalem visible behind Christ places the event firmly in history. The darkened sky recalls the three hours of darkness that covered the land during the crucifixion. Champaigne's Jansenist severity serves the theology of the cross: Christ's death is not sentimentalized but presented in its full, terrible reality as the price of human redemption.",
+  "scripture_refs": [
+    {"ref": "JN.19.17-30", "relevance": "primary", "reason": "John's account of the Crucifixion at Golgotha, the place of the skull"},
+    {"ref": "MK.15.33-34", "relevance": "primary", "reason": "Darkness over the whole land; My God, why have you forsaken me?"},
+    {"ref": "RM.5.12-19", "relevance": "typological", "reason": "As through one man sin entered, so through one man came righteousness — Adam/Christ parallel"},
+    {"ref": "IS.53.5", "relevance": "typological", "reason": "He was pierced for our transgressions, crushed for our iniquities"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["austere", "tragic", "solemn", "monumental"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0091135",
+    "title": "Christ on the Cross",
+    "artist": "Philippe de Champaigne",
+    "model": "claude-opus-4-6"
+  }
+}

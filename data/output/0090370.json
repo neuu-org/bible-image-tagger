@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Pontius Pilate", "type": "PERSON"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Crowd", "type": "GROUP"},
+    {"name": "Soldiers", "type": "GROUP"}
+  ],
+  "event": "The Passion of Christ (multiple scenes)",
+  "tags": ["passion-of-christ", "simultaneous-narrative", "crucifixion", "ecce-homo", "carrying-the-cross", "arrest", "resurrection", "northern-renaissance", "panoramic"],
+  "symbols": [
+    "cross — central instrument of salvation",
+    "city of Jerusalem — stage of redemption",
+    "multiple scenes — continuous narrative of the Passion",
+    "crowds — humanity's participation in Christ's suffering"
+  ],
+  "description": "A vast panoramic painting depicting the entire Passion narrative across a single cityscape of Jerusalem. Multiple episodes are shown simultaneously: the entry into Jerusalem, the arrest in Gethsemane, Christ before Pilate, the flagellation, carrying the cross, the crucifixion on a distant hill, the deposition, and the entombment. Hundreds of tiny figures populate the scene amid elaborate Gothic and medieval architecture. The composition flows from left to right and bottom to top.",
+  "theological_description": "This remarkable continuous narrative compresses the entire Passion of Christ into a single panoramic view of Jerusalem, allowing the viewer to contemplate the full arc of redemption simultaneously. From the triumphal entry through betrayal, trial, suffering, death, and burial, every station of Christ's final days is present. The medieval city setting universalizes the Passion, making it present in the viewer's own time. The sheer density of figures represents all humanity caught up in the drama of salvation. This comprehensive visual meditation invites the faithful to walk with Christ through every stage of his suffering, recognizing that the Passion is not merely a historical event but an ongoing reality in the life of the Church.",
+  "scripture_refs": [
+    {"ref": "MT.26.1-27.66", "relevance": "primary", "reason": "Matthew's complete Passion narrative from conspiracy to burial"},
+    {"ref": "IS.53.3-12", "relevance": "typological", "reason": "The Suffering Servant prophecy fulfilled in every scene"},
+    {"ref": "PS.22.1-31", "relevance": "typological", "reason": "The Psalm of the forsaken righteous one, fulfilled in the Passion"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["epic", "sorrowful", "overwhelming", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090370",
+    "title": "The Passion",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

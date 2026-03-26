@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "The Adulteress", "type": "PERSON"},
+    {"name": "Pharisees", "type": "GROUP"},
+    {"name": "Scribes", "type": "GROUP"},
+    {"name": "Crowd", "type": "GROUP"}
+  ],
+  "event": "Christ and the Woman Taken in Adultery",
+  "tags": ["christ-and-adulteress", "forgiveness", "pharisees", "temple", "mercy", "judgment", "venetian-renaissance"],
+  "symbols": ["Christ elevated on steps — moral and divine authority", "woman accused — human sinfulness and vulnerability", "accusers gesturing — self-righteous judgment", "temple architecture — setting of religious law"],
+  "description": "A large-scale composition set before a grand classical temple. Christ stands elevated on steps at the left, gesturing toward a group of accusers who have brought a woman before him. The Pharisees and scribes gesture dramatically, pointing toward the woman. A large crowd fills the scene. The architectural backdrop features elaborate columns and classical structures. The woman appears humble and distressed among the agitated crowd. Figures in the right background carry on daily activities.",
+  "theological_description": "This scene from John 8:1-11 depicts the Pharisees bringing a woman caught in adultery before Jesus, testing whether He would uphold the Mosaic law requiring stoning. Jesus famously responded, 'Let him who is without sin among you be the first to throw a stone at her.' The episode reveals the tension between law and grace central to Jesus' ministry. Christ does not abolish the law but fulfills it through mercy, demonstrating that God's justice is tempered by compassion. The Pharisees' trap backfires as Jesus exposes their own sinfulness, affirming the universal need for divine mercy.",
+  "scripture_refs": [
+    {"ref": "JHN.8.1-11", "relevance": "primary", "reason": "The woman caught in adultery brought before Jesus by the scribes and Pharisees"},
+    {"ref": "ROM.3.23", "relevance": "allusion", "reason": "All have sinned, the theological point Jesus makes to the accusers"},
+    {"ref": "DEU.22.22", "relevance": "typological", "reason": "The Mosaic law regarding adultery that the Pharisees invoke"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tense", "dramatic", "compassionate", "confrontational"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080043",
+    "title": "Christ and the Adulteress",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

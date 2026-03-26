@@ -1,0 +1,24 @@
+{
+  "characters": [],
+  "event": "",
+  "tags": ["basilica", "roman-architecture", "piranesi", "engraving", "church-facade", "column", "bell-tower"],
+  "symbols": [
+    "basilica — house of God and Christian worship",
+    "column — ancient Roman Christian heritage"
+  ],
+  "description": "A detailed black-and-white engraving showing the exterior of an ancient Roman basilica with a classical columned portico, triangular pediment, and tiled roof. A tall column stands to the left topped with a figure. A bell tower rises on the right. Vegetation, ruins, and small human figures populate the foreground. The inscription at the bottom identifies it as a view of the Basilica of San Lorenzo fuori le mura.",
+  "theological_description": "This engraving by Piranesi depicts one of Rome's ancient Christian basilicas, representing the enduring physical legacy of the early Church. These basilicas, built on the sites of martyrs' tombs or converted from Roman civic buildings, embody the triumph of Christianity within the former Roman Empire. The architectural grandeur testifies to the faith of centuries of believers who built, maintained, and worshipped in these sacred spaces. The basilica form itself — adapted from Roman civic architecture — became the foundational template for Christian church design.",
+  "scripture_refs": [
+    {"ref": "MT.16.18", "relevance": "allusion", "reason": "On this rock I will build my church — the enduring church built through ages"},
+    {"ref": "1PE.2.5", "relevance": "allusion", "reason": "You also, like living stones, are being built into a spiritual house"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["monumental", "historical", "reverent", "scholarly"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0090369",
+    "title": "View of the facade of St. Peter's",
+    "artist": "Giovanni Battista Piranesi",
+    "model": "claude-opus-4-6"
+  }
+}

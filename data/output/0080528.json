@@ -1,0 +1,26 @@
+{
+  "characters": [
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "Lamb", "type": "OTHER"}
+  ],
+  "event": "",
+  "tags": ["john-the-baptist", "caravaggio", "lamb", "wilderness", "cross-staff", "chiaroscuro", "youth", "baroque"],
+  "symbols": ["lamb — Agnus Dei, Christ whom John will announce", "cross-staff — prophetic mission pointing to the Crucifixion", "animal skin garment — wilderness asceticism", "red drapery — martyrdom to come", "vine leaves — wilderness setting", "pensive gaze — contemplation of prophetic calling"],
+  "description": "A young John the Baptist sits in a wilderness setting, bare-chested with a red cloak draped around his lower body and an animal skin. He holds a long staff topped with a small cross, leaning his head against it in a pensive pose. A young lamb sits beside him, looking up. Lush green vine leaves fill the background. The dramatic chiaroscuro lighting illuminates the youth's flesh against the dark foliage. The painting shows Caravaggio's characteristic naturalism and powerful use of light and shadow.",
+  "theological_description": "This painting depicts John the Baptist in the wilderness with his two primary iconographic attributes: the cross-staff and the lamb. The lamb directly references John's declaration upon seeing Jesus: 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29). John was the last and greatest of the Old Testament prophets, the one who bridged the old and new covenants. His youthful depiction recalls his wilderness upbringing described in Luke 1:80. The cross atop the staff anachronistically but theologically correctly points to the culmination of the mission John announced — Christ's sacrificial death on the cross.",
+  "scripture_refs": [
+    {"ref": "JHN.1.29", "relevance": "primary", "reason": "Behold the Lamb of God — directly symbolized by the lamb beside John"},
+    {"ref": "LUK.1.80", "relevance": "primary", "reason": "The child grew and lived in the wilderness until his public appearance"},
+    {"ref": "MAT.3.1-4", "relevance": "allusion", "reason": "John in the wilderness, wearing animal skins"},
+    {"ref": "MAT.11.11", "relevance": "allusion", "reason": "Among those born of women none has risen greater than John the Baptist"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "intimate", "melancholic", "pastoral"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080528",
+    "title": "John the Baptist",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

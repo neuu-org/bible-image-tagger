@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Angels", "type": "GROUP"},
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "Assumption of the Virgin",
+  "tags": ["assumption", "virgin-mary", "angels", "apostles", "empty-tomb", "cloud", "baroque"],
+  "symbols": [
+    "clouds — heavenly realm",
+    "angels lifting Mary — divine transport to heaven",
+    "empty tomb — bodily assumption",
+    "upward gaze — aspiration toward heaven"
+  ],
+  "description": "A Baroque composition showing the Virgin Mary in a blue robe being carried heavenward by angels amid billowing clouds. Below, a group of apostles surround an empty tomb, looking upward in astonishment and wonder. Some hold the burial cloth. The scene is dramatically lit with golden light from above.",
+  "theological_description": "The Assumption of the Virgin Mary celebrates the belief that at the end of her earthly life, Mary was taken up body and soul into heavenly glory. The apostles gathered at her tomb find it empty, mirroring Christ's own Resurrection. As the Mother of God who bore the incarnate Word, Mary is the first to share fully in her Son's victory over death. Her Assumption prefigures the resurrection of all the faithful. The angels who bear her aloft signify God's favor and the heavenly court welcoming the Queen of Heaven. This mystery connects to ancient Christian tradition and is rooted in the understanding that the vessel of the Incarnation was preserved from corruption.",
+  "scripture_refs": [
+    {"ref": "RV.12.1", "relevance": "typological", "reason": "The woman clothed with the sun, often interpreted as Mary assumed into glory"},
+    {"ref": "PS.132.8", "relevance": "typological", "reason": "Arise, O Lord, to your resting place, you and the ark of your might — Mary as Ark"},
+    {"ref": "LK.1.48-49", "relevance": "allusion", "reason": "All generations will call me blessed, for the Mighty One has done great things"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["glorious", "awe-inspiring", "triumphant", "luminous"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0090080",
+    "title": "Assumption of the Virgin",
+    "artist": "Charles Le Brun",
+    "model": "claude-opus-4-6"
+  }
+}

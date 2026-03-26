@@ -1,0 +1,23 @@
+{
+  "characters": [],
+  "event": "",
+  "tags": ["engraving", "waves", "ocean", "storm", "divine-power", "creation", "gustave-dore"],
+  "symbols": ["towering waves — chaos and untamed power of the deep", "light breaking through clouds — divine presence and sovereignty", "mist and spray — sublime power of nature", "dark cliffs — immovable creation amid chaos"],
+  "description": "A dramatic black-and-white engraving depicting enormous ocean waves crashing between towering dark rock formations. Light beams break through heavy clouds above, illuminating the turbulent waters and creating a dramatic contrast of light and shadow. The waves are rendered with extraordinary detail, showing the churning foam and spray. The overall effect is one of sublime natural power and overwhelming scale, characteristic of Gustave Dore's biblical illustration style.",
+  "theological_description": "This engraving evokes the primordial power of the sea as described throughout Scripture. The churning waters recall the formless deep over which God's Spirit hovered at creation (Genesis 1:2), and the untamed ocean that only God can command and contain. The Psalms frequently invoke the power of waves and seas as testimony to God's sovereignty: 'Mightier than the thunder of the great waters, mightier than the breakers of the sea — the Lord on high is mighty' (Psalm 93:4). The light breaking through the clouds suggests divine authority piercing through chaos, echoing God's command 'Let there be light' over the waters of the deep.",
+  "scripture_refs": [
+    {"ref": "GEN.1.2", "relevance": "allusion", "reason": "The Spirit of God hovering over the waters of the formless deep"},
+    {"ref": "PSA.93.4", "relevance": "allusion", "reason": "The Lord mightier than the breakers of the sea"},
+    {"ref": "PSA.107.25-29", "relevance": "allusion", "reason": "God raising the stormy wind and lifting up the waves, then stilling them"},
+    {"ref": "JOB.38.8-11", "relevance": "allusion", "reason": "God setting boundaries for the sea, commanding waves 'here shall you stop'"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["sublime", "awe-inspiring", "turbulent", "majestic"],
+  "period": "Creation",
+  "_meta": {
+    "key": "0080149",
+    "title": "Wave rolling after wave",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Infant Jesus", "type": "DEITY"},
+    {"name": "Angels", "type": "GROUP"}
+  ],
+  "event": "Madonna and Child Enthroned",
+  "tags": ["madonna-enthroned", "infant-jesus", "angels", "byzantine-style", "russian-orthodox", "icon", "vasnetsov", "throne"],
+  "symbols": [
+    "throne — Mary as Queen of Heaven",
+    "gold halo — sanctity and divinity",
+    "angels above — heavenly court",
+    "dark maphorion — traditional Marian garment in Eastern iconography"
+  ],
+  "description": "A tall, narrow painting in Byzantine-influenced style showing the Virgin Mary seated on an ornate golden throne, holding the Christ Child on her lap. She wears a dark brown maphorion over a red garment. The child wears a light blue-white garment and has a halo. Two small angels hover above. The background features golden arched architectural elements. The style blends Russian academic painting with traditional iconographic conventions.",
+  "theological_description": "This Madonna by Vasnetsov bridges the tradition of Eastern Orthodox iconography and Western academic painting. The Theotokos (God-bearer) is presented as the throne of the divine Logos — the living seat upon which God Incarnate rests. In Orthodox theology, icons of the Mother of God are not merely representations but windows into heavenly reality, revealing the mystery of the Incarnation. The child's mature gaze, common in icon tradition, signifies that although an infant in flesh, he is the eternal Word of God. Mary's solemn expression reflects her awareness of the weight of her calling and the suffering that will come.",
+  "scripture_refs": [
+    {"ref": "LK.1.46-55", "relevance": "primary", "reason": "The Magnificat — Mary's hymn of praise as the God-bearer"},
+    {"ref": "JN.1.14", "relevance": "primary", "reason": "The Word became flesh — the child on Mary's lap is the Logos"},
+    {"ref": "IS.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "sacred", "majestic", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090604",
+    "title": "Madonna",
+    "artist": "Viktor Vasnetsov",
+    "model": "claude-opus-4-6"
+  }
+}

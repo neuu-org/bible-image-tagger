@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "Sarah", "type": "PERSON"},
+    {"name": "Isaac", "type": "PERSON"},
+    {"name": "Abraham", "type": "PERSON"}
+  ],
+  "event": "Sarah nursing Isaac / Study sketches",
+  "tags": ["sarah", "isaac", "abraham", "nursing", "sketches", "study-drawings", "patriarchal"],
+  "symbols": [
+    "nursing mother — fulfillment of God's promise",
+    "infant — miraculous birth of the promised son",
+    "multiple sketches — artistic exploration of the theme"
+  ],
+  "description": "A page of study sketches in ink and wash showing multiple scenes. The main upper scene shows a woman (Sarah) reclining and nursing an infant (Isaac), with an elderly bearded figure (Abraham) standing nearby and a small child or angel. Below are additional loose sketches of figures, trees, and animals including what appears to be a cow. The drawing style is rapid and exploratory.",
+  "theological_description": "These study sketches depict the miraculous birth and nursing of Isaac by Sarah, one of the foundational narratives of the Patriarchal period. God promised Abraham and Sarah a son despite their extreme old age — Sarah was ninety years old. When Isaac was born, Sarah exclaimed, 'God has brought me laughter, and everyone who hears about this will laugh with me.' The name Isaac means 'he laughs.' Sarah nursing Isaac represents the fulfillment of God's seemingly impossible promise and demonstrates that nothing is too difficult for God. Isaac becomes the child of promise through whom the covenant with Abraham continues.",
+  "scripture_refs": [
+    {"ref": "GN.21.1-7", "relevance": "primary", "reason": "Sarah bears Isaac and nurses him as God promised"},
+    {"ref": "GN.18.10-14", "relevance": "allusion", "reason": "The Lord promises Sarah a son — Is anything too hard for the Lord?"},
+    {"ref": "HEB.11.11", "relevance": "typological", "reason": "By faith Sarah received power to conceive beyond the age"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["joyful", "intimate", "miraculous"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0090592",
+    "title": "Sarah breast-feeding Isaac",
+    "artist": "Alexander Ivanov",
+    "model": "claude-opus-4-6"
+  }
+}

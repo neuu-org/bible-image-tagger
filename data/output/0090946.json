@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {"name": "Adam", "type": "PERSON"},
+    {"name": "Eve", "type": "PERSON"},
+    {"name": "Animals", "type": "GROUP"}
+  ],
+  "event": "The Sixth Day of Creation",
+  "tags": ["creation", "adam-and-eve", "garden-of-eden", "animals", "palm-tree", "escher", "woodcut", "sixth-day"],
+  "symbols": [
+    "palm tree — tree of life in paradise",
+    "naked couple — innocence before the Fall",
+    "diverse animals — fullness of creation",
+    "garden — Eden, paradise"
+  ],
+  "description": "A black-and-white woodcut in Escher's precise, graphic style depicting the sixth day of Creation. A nude man and woman (Adam and Eve) stand seen from behind, looking out over a lush garden with a large palm tree. Various animals surround them — rabbits, a cat, birds, and others. The scene is rendered with meticulous detail and strong contrast between black and white. The landscape extends to a distant horizon.",
+  "theological_description": "Escher's depiction of the sixth day of Creation shows the culmination of God's creative work — the making of humanity and the land animals. Adam and Eve stand in the newly created paradise, surrounded by the creatures over which they have been given dominion. Their nakedness signifies the state of original innocence and transparency before God, before shame entered the world through the Fall. The palm tree evokes the Tree of Life that stood in Eden. This moment captures creation at its apex — complete, harmonious, and very good — before the serpent's temptation introduces sin and death.",
+  "scripture_refs": [
+    {"ref": "GN.1.24-31", "relevance": "primary", "reason": "The sixth day: God creates animals and humanity, declares creation very good"},
+    {"ref": "GN.2.19-25", "relevance": "primary", "reason": "Adam and Eve in the Garden, naming animals, naked and unashamed"},
+    {"ref": "PS.8.5-8", "relevance": "allusion", "reason": "You made humanity ruler over the works of your hands"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["pristine", "harmonious", "contemplative", "serene"],
+  "period": "Creation",
+  "_meta": {
+    "key": "0090946",
+    "title": "The 6th Day of the Creation",
+    "artist": "M.C. Escher",
+    "model": "claude-opus-4-6"
+  }
+}

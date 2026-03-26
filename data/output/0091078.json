@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Gabriel", "type": "ANGEL"},
+    {"name": "Holy Spirit", "type": "DEITY"},
+    {"name": "Putti", "type": "GROUP"}
+  ],
+  "event": "The Annunciation",
+  "tags": ["annunciation", "angel-gabriel", "virgin-mary", "holy-spirit", "dove", "putti", "baroque", "zurbaran"],
+  "symbols": [
+    "dove — Holy Spirit",
+    "kneeling angel — reverence for the Mother of God",
+    "open book — Scripture interrupted by divine revelation",
+    "red curtain — royal and sacred setting",
+    "green-clothed table — liturgical color of hope"
+  ],
+  "description": "A Baroque painting of the Annunciation. The Angel Gabriel kneels at left in white robes with dark wings, bowing toward the Virgin Mary. Mary sits at a table covered with green cloth, an open book before her, wearing a red dress and blue mantle. She raises one hand in surprise. Above, a white dove (Holy Spirit) descends amid golden light and playful putti. A pink curtain drapes behind. The composition is balanced and serene.",
+  "theological_description": "Zurbaran's Annunciation presents the moment with characteristic clarity and devotion. The kneeling Gabriel shows deep reverence for the woman chosen to bear the Son of God — even the angelic messenger bows before this mystery. Mary's interrupted reading suggests she was meditating on the prophecies that she herself is about to fulfill. The descending dove represents the Holy Spirit who will overshadow her, enabling the virginal conception of Christ. This scene is the hinge of salvation history — the moment when the eternal Word prepares to enter time, when heaven bridges the gap to earth, and when a young woman's consent makes possible the redemption of the world.",
+  "scripture_refs": [
+    {"ref": "LK.1.26-38", "relevance": "primary", "reason": "The Annunciation — Gabriel's message and Mary's fiat"},
+    {"ref": "LK.1.35", "relevance": "primary", "reason": "The Holy Spirit will come upon you — the descending dove"},
+    {"ref": "IS.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son called Emmanuel"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["reverent", "serene", "sacred", "luminous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0091078",
+    "title": "The Annunciation",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "characters": [],
+  "event": "",
+  "tags": ["church-interior", "st-marks-basilica", "venice", "byzantine-architecture", "golden-mosaics", "crucifix", "impressionist"],
+  "symbols": ["golden mosaics — divine glory filling sacred space", "crucifix — centrality of Christ's sacrifice", "domed ceiling — heavenly vault", "warm golden light — divine presence"],
+  "description": "An impressionistic painting of the interior of St. Mark's Basilica in Venice. The view looks toward the iconostasis or rood screen with a prominent crucifix at center. The vast Byzantine interior is rendered in warm golden tones, capturing the famous gold mosaic surfaces of the domes and arches. The painting uses loose, atmospheric brushwork to evoke the mysterious, shimmering quality of light reflecting off the mosaics. Deep shadows contrast with areas of golden luminosity. The artist's signature is visible at lower left.",
+  "theological_description": "St. Mark's Basilica, built to house the relics of the evangelist Mark, is one of the great sacred spaces of Christendom. The gold mosaic program covering its interior creates an environment that seeks to manifest the heavenly Jerusalem on earth. The central crucifix dominates the space, directing all attention to Christ's sacrifice. The Byzantine architectural tradition of covering church interiors with gold reflects the theology of divine light — the uncreated light of God's glory that fills heavenly space (Revelation 21:23). Entering such a space was intended to be a foretaste of paradise.",
+  "scripture_refs": [
+    {"ref": "REV.21.23", "relevance": "allusion", "reason": "The city has no need of sun, for the glory of God gives it light — reflected in golden mosaics"},
+    {"ref": "PSA.26.8", "relevance": "allusion", "reason": "Lord, I love the habitation of your house and the place where your glory dwells"},
+    {"ref": "1KI.6.22", "relevance": "allusion", "reason": "Solomon overlaying the temple interior with gold, paralleled by St. Mark's mosaics"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["mysterious", "sacred", "warm", "atmospheric"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080419",
+    "title": "Interior of St Mark's, Venice",
+    "artist": "Walter Sickert",
+    "model": "claude-opus-4-6"
+  }
+}

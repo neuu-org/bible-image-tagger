@@ -1,0 +1,24 @@
+{
+  "characters": [],
+  "event": "",
+  "tags": ["monastery-gate", "church", "st-nicholas", "gustynia", "ukraine", "watercolor", "shevchenko", "architecture"],
+  "symbols": [
+    "church tower — Christian worship",
+    "gate — threshold between secular and sacred"
+  ],
+  "description": "A sepia-toned watercolor sketch showing a stone gate tower with an onion dome topped by a cross, part of a monastery complex. The building has arched doorways and small windows. A long wall extends to the right. A small figure stands near the gate. Cyrillic text below identifies this as the gate of St. Nicholas Church in Gustynia, dated 1845.",
+  "theological_description": "This watercolor depicts the gate of St. Nicholas Church in the Gustynia Monastery, a historic Orthodox monastic complex in Ukraine. Monastery gates hold deep symbolism in Eastern Christian tradition — they mark the boundary between the secular world and sacred ground, a threshold of spiritual transformation. The onion dome topped with a cross is characteristic of Eastern Orthodox church architecture, pointing heavenward and symbolizing the flame of prayer ascending to God.",
+  "scripture_refs": [
+    {"ref": "PS.100.4", "relevance": "allusion", "reason": "Enter his gates with thanksgiving and his courts with praise"},
+    {"ref": "GN.28.17", "relevance": "allusion", "reason": "This is none other than the house of God; this is the gate of heaven"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["quiet", "historical", "contemplative"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0090265",
+    "title": "A gate in Gustynia",
+    "artist": "Taras Shevchenko",
+    "model": "claude-opus-4-6"
+  }
+}

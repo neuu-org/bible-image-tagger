@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Gabriel", "type": "ANGEL"},
+    {"name": "Donors", "type": "GROUP"}
+  ],
+  "event": "The Annunciation",
+  "tags": ["annunciation", "angel-gabriel", "virgin-mary", "lily", "kneeling-donors", "renaissance", "architectural-interior"],
+  "symbols": [
+    "lily — purity of Mary",
+    "dove — Holy Spirit",
+    "halo — sanctity",
+    "kneeling posture — reverence and devotion"
+  ],
+  "description": "An interior scene showing the Angel Gabriel kneeling before the Virgin Mary, who stands in a blue robe with hands clasped. A white lily in a vase sits between them. Two small kneeling donor figures appear in the foreground. Classical architecture with columns and arches frames the scene. A dove descends from above.",
+  "theological_description": "The Annunciation is the pivotal moment when the Angel Gabriel is sent by God to the Virgin Mary in Nazareth to announce that she will conceive and bear the Son of God through the Holy Spirit. Mary's receptive posture reflects her fiat — 'Let it be done to me according to your word' (Luke 1:38). The lily symbolizes Mary's perpetual virginity and purity. The dove represents the Holy Spirit overshadowing Mary, through whom the Incarnation occurs. The donors kneeling in devotion represent the faithful who venerate this mystery of salvation history, acknowledging that through Mary's consent, God entered human history to redeem humanity.",
+  "scripture_refs": [
+    {"ref": "LK.1.26-38", "relevance": "primary", "reason": "The Annunciation narrative where Gabriel appears to Mary"},
+    {"ref": "IS.7.14", "relevance": "typological", "reason": "Prophecy of a virgin conceiving and bearing a son called Emmanuel"},
+    {"ref": "MT.1.18-23", "relevance": "allusion", "reason": "Matthew's account of Mary's conception by the Holy Spirit"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sacred", "reverent", "serene", "luminous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090006",
+    "title": "The Annunciation with two Kneeling Donors",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

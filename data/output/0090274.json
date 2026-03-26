@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ Carrying the Cross",
+  "tags": ["carrying-the-cross", "via-dolorosa", "passion", "bronze-sculpture", "crown-of-thorns", "stations-of-the-cross"],
+  "symbols": [
+    "cross — instrument of salvation and suffering",
+    "crown of thorns — mockery and suffering",
+    "bent posture — weight of human sin",
+    "bronze material — enduring memorial of the Passion"
+  ],
+  "description": "A dark bronze sculpture depicting Christ bent under the weight of a large wooden cross, stepping forward on a rectangular base. He wears flowing robes and a crown of thorns. His face is turned downward with an expression of suffering and determination. A small brass plaque is affixed to the base. The figure is rendered with realistic detail in the folds of the garments and the wood grain of the cross.",
+  "theological_description": "This bronze figure of Christ carrying his cross captures one of the most poignant moments of the Passion — the Via Dolorosa, the sorrowful way from Pilate's court to Golgotha. Jesus, condemned to death, bears the heavy wooden cross on which he will be crucified. The physical weight of the cross symbolizes the spiritual weight of humanity's sin that Christ takes upon himself. His crown of thorns, placed in mockery by Roman soldiers, becomes paradoxically a crown of glory as it marks him as the true King who conquers through suffering love. This scene is central to the Stations of the Cross devotion, inviting the faithful to walk with Christ in his suffering.",
+  "scripture_refs": [
+    {"ref": "JN.19.17", "relevance": "primary", "reason": "Carrying his own cross, he went out to the place called the Skull"},
+    {"ref": "LK.23.26", "relevance": "primary", "reason": "They seized Simon of Cyrene to carry the cross behind Jesus"},
+    {"ref": "IS.53.4-5", "relevance": "typological", "reason": "He bore our suffering and carried our sorrows"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "determined", "solemn", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090274",
+    "title": "A BRONZED FIGURE OF CHRIST",
+    "artist": "Eugène Laurent",
+    "model": "claude-opus-4-6"
+  }
+}

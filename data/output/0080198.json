@@ -1,0 +1,22 @@
+{
+  "characters": [],
+  "event": "",
+  "tags": ["abbey", "romanesque-architecture", "monastery", "stone-vaulting", "rose-window", "sacred-space"],
+  "symbols": ["vaulted ceiling — heavenly canopy", "round window — divine light entering sacred space", "bare stone walls — monastic simplicity and austerity", "arched doorways — passage between sacred and profane"],
+  "description": "Interior photograph of Senanque Abbey in France, showing a large Romanesque stone room with a pointed barrel-vaulted ceiling. A circular rose window is centered in the far wall, allowing soft natural light to enter. The walls are constructed of light-colored dressed stone. Small arched windows on the side walls provide additional illumination. The space is austere and empty, embodying Cistercian architectural simplicity. The overall effect is one of serene, contemplative beauty.",
+  "theological_description": "Senanque Abbey, founded in 1148, is a Cistercian monastery embodying the monastic ideal of simplicity and contemplation. The Cistercian architectural philosophy rejected ornamental excess in favor of pure geometric forms and natural light, reflecting St. Bernard of Clairvaux's teaching that beauty should point to God rather than distract from Him. The round window recalls the concept of God as the source of all light (1 John 1:5), while the vaulted ceiling draws the eye upward toward heaven. The empty, austere space invites the kind of inner silence and prayer described in Psalm 46:10 — 'Be still and know that I am God.'",
+  "scripture_refs": [
+    {"ref": "PSA.46.10", "relevance": "allusion", "reason": "The austere, silent space invites stillness before God"},
+    {"ref": "1JN.1.5", "relevance": "allusion", "reason": "God is light, reflected in the central window illuminating the space"},
+    {"ref": "1KI.6.7", "relevance": "allusion", "reason": "Solomon's temple built of dressed stone, echoed in the abbey's construction"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["contemplative", "austere", "serene", "sacred"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080198",
+    "title": "Sénanque Abbey, France",
+    "artist": "Romanesque Architecture",
+    "model": "claude-opus-4-6"
+  }
+}

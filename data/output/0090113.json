@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Angels", "type": "GROUP"},
+    {"name": "Shepherds", "type": "GROUP"},
+    {"name": "Various biblical figures", "type": "GROUP"}
+  ],
+  "event": "Annunciation to the Shepherds",
+  "tags": ["annunciation-to-shepherds", "illuminated-manuscript", "miniature", "angels", "shepherds", "elaborate-border", "renaissance-manuscript"],
+  "symbols": [
+    "angel in sky — heavenly messenger",
+    "shepherds — humble recipients of divine news",
+    "ornate border — sacred text decoration"
+  ],
+  "description": "A richly illuminated manuscript opening with two facing pages. Elaborate borders filled with muscular nude figures, putti, garlands, and architectural elements frame central scenes. The compositions include figures in dramatic poses with heavenly apparitions above. The pages are densely decorated in the mannerist illumination style.",
+  "theological_description": "The Annunciation to the Shepherds is the moment when an angel of the Lord appears to shepherds keeping watch over their flocks at night near Bethlehem, proclaiming the birth of the Savior. The shepherds, among the humblest of society, are chosen as the first to receive the good news of Christ's birth, emphasizing God's preferential concern for the lowly and marginalized. The heavenly host then praises God with 'Glory to God in the highest, and on earth peace to those on whom his favor rests.' The shepherds' immediate response to go and see fulfills the pattern of faithful obedience to divine revelation.",
+  "scripture_refs": [
+    {"ref": "LK.2.8-20", "relevance": "primary", "reason": "The angel appears to shepherds announcing Christ's birth"},
+    {"ref": "IS.9.6", "relevance": "typological", "reason": "For unto us a child is born, a son is given"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["ornate", "dramatic", "celebratory"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090113",
+    "title": "Annunciation to the Shepherds",
+    "artist": "Giulio Clovio",
+    "model": "claude-opus-4-6"
+  }
+}

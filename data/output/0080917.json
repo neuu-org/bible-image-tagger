@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Christ Child", "type": "DEITY"}
+  ],
+  "event": "",
+  "tags": ["madonna-and-child", "drawing", "mantegna", "renaissance-sketch", "throne", "devotional"],
+  "symbols": ["enthroned Madonna — Mary as Queen of Heaven", "Christ Child standing — active divine authority even in infancy", "architectural base — throne or altar", "small figure at base — possible donor or angel"],
+  "description": "A pen and ink drawing of the Madonna and Child in the style of Andrea Mantegna. The Virgin Mary is seated, wearing a veil and flowing robes, holding the Christ Child who stands on her lap. The figures are positioned on an architectural base or throne. A small figure (possibly a putto or donor figure) appears at the lower right. The drawing is executed with fine, precise pen strokes characteristic of Mantegna's sculptural approach to form. The paper shows age-related discoloration.",
+  "theological_description": "This drawing depicts the Madonna and Child in a formal, enthroned arrangement that emphasizes Mary's role as the Theotokos (God-bearer) and Seat of Wisdom. The Christ Child standing rather than sitting conveys His active divine nature — even as an infant, He is the Lord of creation. The architectural throne reflects the tradition of the Sedes Sapientiae (Seat of Wisdom), where Mary serves as the living throne of the incarnate Word. This devotional image type invites contemplation of the mystery of the Incarnation — that the infinite God was contained within a human mother's arms.",
+  "scripture_refs": [
+    {"ref": "LUK.1.31-33", "relevance": "primary", "reason": "You will conceive and bear a son, and the Lord God will give Him the throne of David"},
+    {"ref": "GAL.4.4", "relevance": "allusion", "reason": "God sent His Son, born of a woman — the Incarnation depicted"},
+    {"ref": "LUK.1.43", "relevance": "allusion", "reason": "The mother of my Lord — Mary as Theotokos"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["dignified", "devotional", "formal", "contemplative"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080917",
+    "title": "Madonna and child",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

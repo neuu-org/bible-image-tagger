@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Infant Jesus", "type": "DEITY"},
+    {"name": "Saints", "type": "GROUP"}
+  ],
+  "event": "The Blessed Virgin with Saints",
+  "tags": ["madonna-and-child", "saints", "etching", "devotional", "piranesi-engraving", "kneeling-figures"],
+  "symbols": [
+    "radiance around Mary — divine grace",
+    "kneeling saints — veneration and intercession",
+    "infant on lap — the Incarnation"
+  ],
+  "description": "A black-and-white etching showing the Virgin Mary seated and holding the infant Jesus, with a radiant halo. Two or three figures kneel before her in devotion — one reaching toward the child, another in a posture of prayer. The drawing is loose and sketch-like with hatched shading. The composition is pyramidal with Mary elevated at center.",
+  "theological_description": "This devotional etching presents the Virgin Mary with the Christ Child receiving the homage of saints. The kneeling figures represent the faithful or specific saints who seek the intercession of the Mother of God. The pyramidal composition places Mary and her divine Son at the apex, reflecting the theological hierarchy — Christ is the source of all grace, and Mary is the mediatrix through whom the faithful approach her Son. The intimate scale and sketchy technique suggest a personal devotional image intended for private meditation rather than public display.",
+  "scripture_refs": [
+    {"ref": "LK.1.48", "relevance": "allusion", "reason": "All generations will call me blessed — the saints honoring Mary"},
+    {"ref": "JN.2.3-5", "relevance": "allusion", "reason": "Mary intercedes at Cana — model of saintly intercession through Mary"},
+    {"ref": "JN.1.14", "relevance": "primary", "reason": "The Word became flesh — the infant as God incarnate"}
+  ],
+  "scene_type": "liturgical",
+  "mood": ["devotional", "intimate", "reverent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090760",
+    "title": "The Blessed Virgin with Saints",
+    "artist": "Giovanni Battista Piranesi",
+    "model": "claude-opus-4-6"
+  }
+}

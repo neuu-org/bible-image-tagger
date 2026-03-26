@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Angel Gabriel", "type": "ANGEL"},
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "Annunciation",
+  "tags": ["annunciation", "angel-gabriel", "virgin-mary", "gold-background", "sienese-gothic", "lorenzetti", "trecento"],
+  "symbols": ["angel kneeling — reverence before the chosen vessel", "wings — celestial nature", "lily or scepter — purity", "Mary with book — reading Scripture at the moment of the announcement", "gold background — heavenly realm", "checkered floor — domestic setting rendered with early perspective"],
+  "description": "A Trecento Sienese painting of the Annunciation set under Gothic arches with a rich gold background. The Angel Gabriel kneels at the left, wearing a pink-red robe with large wings, reaching toward or holding a scepter. The Virgin Mary sits at the right in a dark blue mantle, appearing to hold or read from a book. Both figures have golden halos. A small vase with a lily may be visible between them. The checkered floor shows an early attempt at spatial perspective. The style is characteristic of Ambrogio Lorenzetti's refined, elegant Sienese Gothic manner.",
+  "theological_description": "This Annunciation follows the Sienese Gothic tradition of depicting the moment from Luke 1:26-38 when Gabriel announced to Mary that she would conceive the Son of God by the Holy Spirit. The gold background represents the irruption of the eternal into the temporal — heaven breaking into an ordinary home in Nazareth. Mary's book reflects the medieval tradition that she was reading Isaiah's prophecy of the virgin birth (Isaiah 7:14) at the very moment Gabriel arrived. The Gothic architectural setting frames the encounter as taking place in a sacred space, emphasizing that this domestic moment is the most important event in salvation history — the beginning of the Incarnation.",
+  "scripture_refs": [
+    {"ref": "LUK.1.26-38", "relevance": "primary", "reason": "The Annunciation — Gabriel's announcement to Mary"},
+    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive — the prophecy Mary was traditionally reading"},
+    {"ref": "JHN.1.14", "relevance": "allusion", "reason": "The Word became flesh — the theological meaning of this moment"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sacred", "reverent", "elegant", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080740",
+    "title": "Annunciation",
+    "artist": "Ambrogio Lorenzetti",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {"name": "Dead Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "St. John the Evangelist", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Pietà / Lamentation over the Dead Christ",
+  "tags": ["pieta", "lamentation", "dead-christ", "virgin-mary", "john-evangelist", "mary-magdalene", "high-renaissance"],
+  "symbols": ["dead body of Christ — the sacrifice completed", "Mary supporting Christ — maternal grief and the Church's devotion", "John at Christ's head — the beloved disciple faithful to the end", "Magdalene at feet — the penitent saint devoted to Christ", "white shroud — burial preparation"],
+  "description": "A High Renaissance Pietà showing the dead Christ laid out horizontally, His pale body supported by the Virgin Mary who stands behind, wearing a white veil and dark blue mantle. St. John the Evangelist, with a golden halo, supports Christ's head and upper body from the left. Mary Magdalene, in red, kneels at Christ's feet, embracing or anointing them. The composition is compact and emotionally charged, with the three mourners arranged around Christ's body in a triangular configuration. The coloring is warm and the figures are rendered with graceful solidity.",
+  "theological_description": "The Pietà or Lamentation shows the moment after Christ's body has been taken down from the cross, mourned by those closest to Him. The three figures — Mary, John, and the Magdalene — represent the faithful who remained at the foot of the cross (John 19:25-27). Mary's grief fulfills Simeon's prophecy that a sword would pierce her own soul (Luke 2:35). John, entrusted with Mary's care by the dying Christ, embodies faithful discipleship. The Magdalene at Christ's feet recalls her earlier anointing (John 12:3) and prefigures her role as first witness of the Resurrection. The Pietà is the supreme image of redemptive suffering — the price paid for humanity's salvation.",
+  "scripture_refs": [
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "Mary, John, and the women at the foot of the cross — the mourners shown here"},
+    {"ref": "LUK.2.35", "relevance": "primary", "reason": "A sword will pierce your own soul — Mary's grief at her Son's death"},
+    {"ref": "ISA.53.4-5", "relevance": "allusion", "reason": "He bore our griefs and carried our sorrows — the meaning of the dead Christ"},
+    {"ref": "JHN.12.3", "relevance": "allusion", "reason": "Mary (Magdalene) anointing Jesus' feet, echoed at the Pietà"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "tender", "sacred", "grief-stricken"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080863",
+    "title": "Pietà",
+    "artist": "Fra Bartolomeo",
+    "model": "claude-opus-4-6"
+  }
+}

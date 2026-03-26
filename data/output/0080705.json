@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Miriam", "type": "PERSON"},
+    {"name": "Women of Israel", "type": "GROUP"}
+  ],
+  "event": "Song of Miriam / Songs of Joy after the Red Sea Crossing",
+  "tags": ["miriam", "song-of-miriam", "tambourine", "dance", "celebration", "red-sea-crossing", "exodus", "tissot"],
+  "symbols": ["tambourines — joyful praise and celebration", "dancing women — ecstatic worship after deliverance", "palm trees — setting in the Sinai region", "procession — communal celebration of God's victory"],
+  "description": "A watercolor depicting Miriam and the women of Israel dancing and playing tambourines in celebration after the crossing of the Red Sea. Miriam leads at the front, holding a large tambourine overhead, wearing a blue dress with a red sash. Behind her, a procession of women follows, all playing tambourines and dancing with joy. Palm trees line the background. The scene is rendered in James Tissot's detailed, historically-informed style with careful attention to ancient Near Eastern clothing and setting.",
+  "theological_description": "This scene from Exodus 15:20-21 depicts Miriam the prophetess, sister of Aaron and Moses, leading the women of Israel in the Song of the Sea after their miraculous deliverance through the Red Sea. Miriam took a tambourine and all the women followed with tambourines and dancing, singing: 'Sing to the Lord, for he has triumphed gloriously; the horse and his rider he has thrown into the sea.' This is one of the oldest recorded songs in Scripture and represents Israel's first great act of communal worship after liberation from slavery. The joyful celebration embodies the biblical pattern of responding to God's mighty acts with praise and thanksgiving.",
+  "scripture_refs": [
+    {"ref": "EXO.15.20-21", "relevance": "primary", "reason": "Miriam leading the women with tambourines and dancing after the Red Sea crossing"},
+    {"ref": "EXO.15.1-18", "relevance": "primary", "reason": "The Song of the Sea celebrating God's victory over Egypt"},
+    {"ref": "PSA.150.4", "relevance": "allusion", "reason": "Praise Him with tambourine and dance"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["jubilant", "ecstatic", "celebratory", "triumphant"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0080705",
+    "title": "The Songs of Joy",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

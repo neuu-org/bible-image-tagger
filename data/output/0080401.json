@@ -1,0 +1,27 @@
+{
+  "characters": [
+    {"name": "St. Francis", "type": "PERSON"},
+    {"name": "Leper", "type": "PERSON"},
+    {"name": "Friars", "type": "GROUP"},
+    {"name": "Other Figures", "type": "GROUP"}
+  ],
+  "event": "St. Francis and the Leper",
+  "tags": ["saint-francis", "leper", "investiture", "fresco", "florentine-renaissance", "cloister", "charity"],
+  "symbols": ["leper — the outcast and marginalized", "Francis embracing/clothing — radical Christian charity", "tree on hill — life flourishing from acts of mercy", "friars — the Franciscan community"],
+  "description": "A large Renaissance fresco in a lunette-shaped arch within a cloister setting. The partially faded scene depicts St. Francis interacting with a leper in an outdoor landscape. Multiple figures are arranged across the composition — some in religious habits, others in secular clothing. A prominent tree stands on a hilltop in the background. The fresco shows significant aging with areas of paint loss and fading. A bust portrait and decorative medallion are set into the wall below the fresco.",
+  "theological_description": "This fresco depicts a pivotal moment in the life of St. Francis of Assisi — his encounter with and service to lepers, which marked the beginning of his conversion. Francis himself wrote that 'what had seemed bitter to me was turned into sweetness of soul and body' when he embraced lepers. This act of radical charity fulfills Christ's command to serve the least of society (Matthew 25:40) and mirrors Jesus' own willingness to touch and heal lepers (Matthew 8:3). The scene embodies the Franciscan conviction that Christ is encountered most truly in the suffering and outcast members of society.",
+  "scripture_refs": [
+    {"ref": "MAT.25.40", "relevance": "primary", "reason": "Whatever you did for the least of these, you did for me — Francis seeing Christ in the leper"},
+    {"ref": "MAT.8.3", "relevance": "typological", "reason": "Jesus reaching out to touch the leper, which Francis imitates"},
+    {"ref": "ISA.53.3", "relevance": "allusion", "reason": "The suffering servant despised and rejected, identified with the leper"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["compassionate", "solemn", "transformative", "devotional"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080401",
+    "title": "The Investiture of the Leper",
+    "artist": "Andrea del Sarto",
+    "model": "claude-opus-4-6"
+  }
+}

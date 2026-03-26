@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "Departure of the Apostles / Great Commission",
+  "tags": ["apostles", "great-commission", "cross", "inri", "departure", "mission", "sending-forth"],
+  "symbols": [
+    "cross with INRI — Christ's completed sacrifice",
+    "outstretched arms — commissioning and worship",
+    "hilltop — place of encounter and sending",
+    "staffs — pilgrim journey and apostolic mission"
+  ],
+  "description": "A semicircular composition showing a group of twelve apostles gathered around a large wooden cross bearing the INRI inscription on a hilltop. Several raise their arms in worship or farewell. Some carry pilgrim staffs. They look upward and outward, suggesting a moment of commissioning or departure. The mood is both reverent and purposeful. A distant landscape stretches behind them.",
+  "theological_description": "This scene depicts the apostles gathered at the cross before their departure to spread the Gospel to the ends of the earth, fulfilling Christ's Great Commission. After the Ascension, the apostles are sent forth as witnesses to all nations. The cross stands as the central symbol of the faith they will proclaim — Christ crucified and risen. Their varied postures of worship, resolve, and contemplation reflect the diverse missions each will undertake. Tradition holds that the apostles dispersed to different regions of the known world, and most would ultimately give their lives as martyrs for the faith they proclaimed.",
+  "scripture_refs": [
+    {"ref": "MT.28.18-20", "relevance": "primary", "reason": "The Great Commission: Go and make disciples of all nations"},
+    {"ref": "AC.1.8", "relevance": "primary", "reason": "You will be my witnesses in Jerusalem, Judea, Samaria, and to the ends of the earth"},
+    {"ref": "MK.16.15", "relevance": "allusion", "reason": "Go into all the world and preach the gospel to all creation"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["reverent", "purposeful", "solemn", "hopeful"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0090314",
+    "title": "The Departure of the Apostles",
+    "artist": "Charles Gleyre",
+    "model": "claude-opus-4-6"
+  }
+}

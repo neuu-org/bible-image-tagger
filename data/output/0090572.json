@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "Charity (allegorical woman)", "type": "OTHER"},
+    {"name": "Children", "type": "GROUP"}
+  ],
+  "event": "Allegory of Charity",
+  "tags": ["charity", "allegory", "mother-and-children", "nursing", "mannerism", "putti", "virtue"],
+  "symbols": [
+    "woman nursing children — charity, selfless giving",
+    "multiple infants — abundance of love",
+    "exposed breast — nourishment and generosity",
+    "red garments — love and sacrifice"
+  ],
+  "description": "A Mannerist painting showing a beautiful young woman with red hair surrounded by three or four nude children/putti. She holds and nurses them in a tender embrace. She wears pink and blue flowing garments. The composition is tightly interlocked with intertwining limbs. A small dark cherub appears in the upper left. Architectural ruins are visible in the background at right.",
+  "theological_description": "Charity (Caritas) is depicted as a woman nurturing multiple children, representing the theological virtue of selfless, sacrificial love — the highest of the three theological virtues (faith, hope, and charity). In Christian theology, charity is not merely almsgiving but the very love of God poured into human hearts by the Holy Spirit. Paul's hymn to love in 1 Corinthians 13 describes charity as patient, kind, and enduring — the greatest virtue. The nursing mother imagery connects to God's own nurturing love for humanity, as expressed in Isaiah: 'Can a mother forget the baby at her breast?' The multiple children suggest the inexhaustible nature of divine love.",
+  "scripture_refs": [
+    {"ref": "1CO.13.13", "relevance": "primary", "reason": "The greatest of these is love — charity as the supreme theological virtue"},
+    {"ref": "IS.49.15", "relevance": "typological", "reason": "Can a mother forget her nursing child? The nurturing love of God"},
+    {"ref": "1JN.4.8", "relevance": "allusion", "reason": "God is love — charity as the essence of the divine nature"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["tender", "warm", "abundant", "nurturing"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0090572",
+    "title": "Charité",
+    "artist": "Francesco Salviati",
+    "model": "claude-opus-4-6"
+  }
+}

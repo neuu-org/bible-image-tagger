@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Infant Jesus", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "Shepherds", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "Adoration of the Shepherds",
+  "tags": ["adoration-of-shepherds", "nativity", "angels", "stable", "holy-family", "french-baroque", "le-brun"],
+  "symbols": ["divine light from Child — Christ as Light of the World", "angels above — heavenly host praising God", "ox and donkey — traditional nativity animals", "humble stable — poverty of the Incarnation", "kneeling shepherds — the lowly receiving revelation first"],
+  "description": "A grand French Baroque Nativity scene. The Virgin Mary kneels at center beside the radiant Christ Child, who lies in a manger emanating supernatural light that illuminates the entire scene. Joseph stands nearby. Shepherds gather from both sides in attitudes of wonder and adoration. A host of angels fills the sky above, some playing instruments, others in attitudes of worship. The stable setting includes columns and architectural elements. The composition is richly detailed with a dramatic contrast between the dark night setting and the radiant light from the Christ Child.",
+  "theological_description": "This grand Nativity depicts the shepherds' adoration from Luke 2:8-20, combined with the angelic proclamation. The divine light emanating from the Infant Jesus visually expresses John's Gospel: 'The true light, which gives light to everyone, was coming into the world' (John 1:9). The angels in glory above represent the heavenly host who sang 'Glory to God in the highest, and on earth peace among those with whom he is pleased' (Luke 2:14). The contrast between the humble stable and the spectacular heavenly display captures the paradox of the Incarnation — the Creator of the universe entering creation as a helpless infant, the King of Kings born in a manger.",
+  "scripture_refs": [
+    {"ref": "LUK.2.8-20", "relevance": "primary", "reason": "Shepherds receiving the angelic announcement and visiting the manger"},
+    {"ref": "LUK.2.14", "relevance": "primary", "reason": "Glory to God in the highest — the angels' proclamation shown above"},
+    {"ref": "JHN.1.9", "relevance": "allusion", "reason": "The true light coming into the world, shown as radiance from the Christ Child"},
+    {"ref": "ISA.9.2", "relevance": "typological", "reason": "The people walking in darkness have seen a great light"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["glorious", "reverent", "joyful", "spectacular"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080657",
+    "title": "The Adoration of the Shepherds",
+    "artist": "Charles Le Brun",
+    "model": "claude-opus-4-6"
+  }
+}

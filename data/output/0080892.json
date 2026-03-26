@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Bathsheba", "type": "PERSON"},
+    {"name": "Attendants", "type": "GROUP"}
+  ],
+  "event": "Bathsheba at Her Bath",
+  "tags": ["bathsheba", "bathing", "rococo", "attendants", "palace", "temptation", "david-and-bathsheba"],
+  "symbols": ["bathing scene — exposure and vulnerability", "palace in background — David's proximity and power", "attendants — luxury and status", "semi-nudity — beauty that tempted David"],
+  "description": "A Rococo painting of Bathsheba at her bath, set in an outdoor garden with a classical palace visible in the background. Bathsheba reclines semi-nude in a rich red garment while several female attendants tend to her — one washing her feet, others arranging her hair or bringing items. The scene is lush with trees and elegant architecture. The painting is displayed in an ornate gilded frame. The palette is characteristic of 18th-century French Rococo with soft blues, pinks, and warm flesh tones.",
+  "theological_description": "This scene depicts Bathsheba bathing, as described in 2 Samuel 11:2-4. King David, walking on the roof of his palace, saw Bathsheba bathing and was overcome with desire, leading to adultery and ultimately to the murder of her husband Uriah. This episode is one of the darkest moments in David's reign and serves as a powerful biblical warning about the consequences of unchecked desire and the abuse of royal power. David's sin set in motion a chain of tragic events within his household that the prophet Nathan condemned (2 Samuel 12:7-12). Yet even from this sinful union, God brought forth Solomon, through whose line the Messiah would come — demonstrating God's ability to bring redemption even from human failure.",
+  "scripture_refs": [
+    {"ref": "2SA.11.2-4", "relevance": "primary", "reason": "David seeing Bathsheba bathing from the rooftop, the beginning of his great sin"},
+    {"ref": "2SA.12.7-12", "relevance": "allusion", "reason": "Nathan's confrontation of David for his sin with Bathsheba"},
+    {"ref": "PSA.51.1-4", "relevance": "allusion", "reason": "David's penitential psalm written after Nathan's rebuke regarding Bathsheba"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sensual", "luxurious", "ominous", "beautiful"],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0080892",
+    "title": "Bathsheba in the Bath",
+    "artist": "Charles-Andre van Loo",
+    "model": "claude-opus-4-6"
+  }
+}

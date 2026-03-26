@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "St. Nicholas", "type": "PERSON"},
+    {"name": "Sailors", "type": "GROUP"}
+  ],
+  "event": "Miracle of St. Nicholas",
+  "tags": ["saint-nicholas", "miracle", "gilded-relief", "baroque-sculpture", "sailors", "ship"],
+  "symbols": ["ship — sea rescue and protection of sailors", "bishop figure — ecclesiastical authority", "gilded material — sacred glory", "rococo frame — liturgical ornamentation"],
+  "description": "A gilded wooden relief panel depicting a scene from the life of St. Nicholas. The ornate Baroque/Rococo composition shows figures in a maritime or architectural setting, with St. Nicholas performing a miracle. The relief is framed by elaborate scrollwork and decorative elements. The entire panel is covered in gold leaf, giving it a rich, luminous quality. Figures are carved in dynamic poses with detailed drapery and expressive gestures.",
+  "theological_description": "St. Nicholas of Myra (4th century) was a bishop renowned for his generosity and miraculous interventions. Among his most famous miracles was calming a storm at sea and saving drowning sailors, making him the patron saint of seafarers. While not a biblical figure, Nicholas is venerated as a model of Christian charity and faith. His acts of mercy reflect the biblical command to love one's neighbor (Matthew 22:39) and care for the vulnerable. His reputation for secret gift-giving to the poor echoes Christ's teaching about giving in secret (Matthew 6:3-4).",
+  "scripture_refs": [
+    {"ref": "MAT.22.39", "relevance": "allusion", "reason": "Nicholas as exemplar of loving one's neighbor through miraculous charity"},
+    {"ref": "MAT.6.3-4", "relevance": "allusion", "reason": "Nicholas' secret generosity reflecting Christ's teaching on giving"},
+    {"ref": "MRK.4.39", "relevance": "typological", "reason": "Calming the storm at sea, echoing Christ's authority over the waters"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["miraculous", "dramatic", "sacred", "ornate"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080133",
+    "title": "The Miracle of St. Nicholas",
+    "artist": "Johann Georg Pinzel",
+    "model": "claude-opus-4-6"
+  }
+}

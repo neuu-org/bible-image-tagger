@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Angels/Cherubim", "type": "GROUP"},
+    {"name": "Saints/Witnesses", "type": "GROUP"}
+  ],
+  "event": "The Immaculate Conception",
+  "tags": ["immaculate-conception", "virgin-mary", "cherubim", "glory", "saints-below", "baroque", "zurbaran"],
+  "symbols": [
+    "standing on clouds — heavenly exaltation",
+    "hands clasped in prayer — purity and devotion",
+    "golden light — divine favor and grace",
+    "cherub faces — heavenly court",
+    "witnesses below — the faithful venerating the mystery"
+  ],
+  "description": "An arched Baroque painting showing the Virgin Mary standing on clouds in a halo of golden light, wearing a white-pink dress and blue-violet mantle, hands clasped in prayer, eyes raised to heaven. Cherub heads surround her in the clouds. Below on earth, two figures — a man in a green robe and a woman in a dark garment with hands on her chest — gaze upward in devotion. The composition divides between the heavenly and earthly realms.",
+  "theological_description": "The Immaculate Conception is the Catholic dogma that the Virgin Mary was preserved from original sin from the moment of her conception, in anticipation of her role as the Mother of God. Zurbaran's painting presents Mary suspended between heaven and earth, bathed in divine light, her purity visually rendered by the luminous whites and blues of her garments. The cherubim who attend her signify her exalted status among all creatures. The witnesses below — possibly Sts. Joachim and Anne, Mary's parents — represent the human lineage through which God prepared the spotless vessel for the Incarnation. This doctrine affirms that God's grace can work preemptively, sanctifying Mary to be a fitting dwelling for the Word made flesh.",
+  "scripture_refs": [
+    {"ref": "LK.1.28", "relevance": "primary", "reason": "Hail, full of grace — Mary's unique state of grace from conception"},
+    {"ref": "GN.3.15", "relevance": "typological", "reason": "The woman whose offspring will crush the serpent's head — the new Eve"},
+    {"ref": "SS.4.7", "relevance": "typological", "reason": "You are altogether beautiful, my love; there is no flaw in you"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["luminous", "exalted", "reverent", "celestial"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0090704",
+    "title": "The Immaculate Conception",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

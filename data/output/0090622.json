@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Mary Magdalene in the Desert",
+  "tags": ["mary-magdalene", "penitent", "skull", "desert", "red-hair", "wilderness", "contemplation"],
+  "symbols": [
+    "skull — meditation on mortality and vanity",
+    "long red hair — traditional attribute of Magdalene",
+    "rocky desert — penitential solitude",
+    "bare skin covered by hair — renunciation of worldly adornment",
+    "red garment — love and repentance"
+  ],
+  "description": "Mary Magdalene stands on a rocky desert ledge, her long flowing red-golden hair partially covering her body. She wears a simple red drape. In her left hand she holds a human skull, while her right hand rests on her chest. Behind her, a vast arid landscape stretches to the horizon under a blue sky. The style is smooth and symbolic, characteristic of Puvis de Chavannes.",
+  "theological_description": "The tradition of Mary Magdalene as a desert penitent draws on both Gospel accounts and hagiographic legend. After witnessing Christ's resurrection, according to tradition, Magdalene withdrew to a desert cave in southern France for thirty years of prayer and penance. The skull she contemplates is a memento mori — a reminder of the transience of earthly beauty and pleasures she once pursued. Her long hair, which she once used to dry Christ's feet, now serves as her only covering in the wilderness. Mary Magdalene's transformation from sinner to devoted disciple to contemplative hermit makes her one of Christianity's most powerful icons of conversion and the transformative power of encountering Christ.",
+  "scripture_refs": [
+    {"ref": "LK.7.37-50", "relevance": "allusion", "reason": "The sinful woman who anointed Jesus's feet — traditionally identified with Magdalene"},
+    {"ref": "JN.20.11-18", "relevance": "primary", "reason": "Mary Magdalene encounters the risen Christ at the empty tomb"},
+    {"ref": "LK.8.2", "relevance": "allusion", "reason": "Mary called Magdalene, from whom seven demons had gone out"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "penitent", "serene", "austere"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0090622",
+    "title": "Mary Magdalene in the Desert",
+    "artist": "Pierre Puvis de Chavannes",
+    "model": "claude-opus-4-6"
+  }
+}

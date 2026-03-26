@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {"name": "Mother", "type": "PERSON"},
+    {"name": "Father", "type": "PERSON"},
+    {"name": "Infant", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"},
+    {"name": "Ox", "type": "OTHER"}
+  ],
+  "event": "Nativity",
+  "tags": ["nativity", "william-blake", "manger", "angel", "stable", "visionary", "milton-illustration"],
+  "symbols": ["stable — humble birthplace", "ox at manger — traditional nativity animal", "angel soaring overhead — heavenly proclamation", "sleeping figure — humanity unaware of the divine event", "pointed roof — the threshold between heaven and earth"],
+  "description": "A William Blake watercolor depicting a Nativity scene within a humble stable. A mother (Mary) sits nursing or holding an infant (Christ) while a man (Joseph) stands protectively beside them. An ox looks on from behind a manger. Above the peaked roof, a luminous angel soars with outstretched arms. Outside the stable, a figure lies sleeping on the ground. The style is characteristic of Blake's visionary art, with flowing lines, pale watercolor washes, and a mystical quality that merges the earthly and heavenly realms.",
+  "theological_description": "Though titled as an illustration to Milton, this image clearly depicts the Nativity of Christ — the central event of Milton's 'On the Morning of Christ's Nativity.' Blake shows the Incarnation as a moment of cosmic significance: the angel above announces the birth while a figure sleeps below, unaware of the world-changing event occurring in the humble stable. This contrast between heavenly awareness and earthly oblivion echoes the Gospel narrative — the greatest event in human history occurred in obscurity, noticed only by angels and shepherds. Blake's visionary style captures the interpenetration of the spiritual and material worlds at the moment of the Incarnation.",
+  "scripture_refs": [
+    {"ref": "LUK.2.6-7", "relevance": "primary", "reason": "The birth of Jesus in a manger, the scene depicted"},
+    {"ref": "LUK.2.13-14", "relevance": "primary", "reason": "The heavenly host appearing, represented by the soaring angel"},
+    {"ref": "JHN.1.10-11", "relevance": "allusion", "reason": "He was in the world, and the world did not recognize Him — the sleeping figure's oblivion"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["mystical", "serene", "visionary", "intimate"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080946",
+    "title": "Illustration to Milton",
+    "artist": "William Blake",
+    "model": "claude-opus-4-6"
+  }
+}

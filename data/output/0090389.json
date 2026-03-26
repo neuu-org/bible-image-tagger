@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "Fallen souls", "type": "GROUP"},
+    {"name": "Demons", "type": "GROUP"}
+  ],
+  "event": "Fall of the Damned",
+  "tags": ["fall-of-the-damned", "hell", "damnation", "bosch", "dark", "falling-figures", "demons", "judgment"],
+  "symbols": [
+    "falling naked figures — souls cast into perdition",
+    "darkness — absence of God's light",
+    "demons — agents of torment",
+    "downward movement — descent into hell"
+  ],
+  "description": "A tall, narrow, very dark panel painting showing naked human figures tumbling and falling through an abyss of near-total darkness. Dimly visible demonic figures and monstrous shapes populate the darkness. The composition moves relentlessly downward, creating a vertiginous sense of descent. Only faint highlights reveal the tortured bodies against the almost black background.",
+  "theological_description": "The Fall of the Damned depicts the terrible consequence of final judgment — the casting of the unrepentant into eternal separation from God. Bosch's vision of souls tumbling into an abyss of darkness reflects the biblical warnings about the 'outer darkness' where there is weeping and gnashing of teeth. The near-total blackness represents the absolute absence of God's light and goodness. This image serves as a visual warning in the medieval tradition of memento mori — remember that you must die and face judgment. The helpless falling of the naked figures emphasizes that no earthly power, wealth, or status can save the soul from divine judgment.",
+  "scripture_refs": [
+    {"ref": "RV.20.15", "relevance": "primary", "reason": "Anyone whose name was not found in the book of life was thrown into the lake of fire"},
+    {"ref": "MT.25.41", "relevance": "primary", "reason": "Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels"},
+    {"ref": "JD.1.6", "relevance": "allusion", "reason": "Angels who did not keep their positions, kept in darkness and chains for judgment"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["terrifying", "dark", "anguished", "apocalyptic"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0090389",
+    "title": "Fall of the Damned",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

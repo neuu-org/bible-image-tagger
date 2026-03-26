@@ -1,0 +1,27 @@
+{
+  "characters": [
+    {"name": "Christopher Columbus", "type": "PERSON"},
+    {"name": "Young Boy", "type": "PERSON"},
+    {"name": "Monks", "type": "GROUP"},
+    {"name": "Poor People", "type": "GROUP"}
+  ],
+  "event": "Columbus at the Monastery",
+  "tags": ["columbus", "monastery", "la-rabida", "franciscan-monks", "history-painting", "dehodencq", "pilgrimage"],
+  "symbols": ["monastery entrance — refuge and hospitality", "monks — Franciscan friars who supported Columbus", "young boy (Diego) — Columbus' son", "poor and sick gathered — the monastery's charitable mission"],
+  "description": "A 19th-century history painting depicting Christopher Columbus arriving at the Monastery of La Rabida in Spain with his young son Diego. Columbus, wearing a worn dark red cloak, stands protectively with his arm around the boy. Franciscan monks in brown habits stand in the monastery doorway. Around the entrance, poor and infirm people sit and gather, seeking alms and shelter. The scene captures the humility of Columbus' circumstances before his historic voyage, seeking assistance from the Franciscan friars who would become his advocates. The artist's signature is visible at lower left.",
+  "theological_description": "This scene depicts Columbus seeking refuge at the Franciscan monastery of La Rabida near Palos, Spain, a pivotal moment in the history of European exploration. The Franciscan friars at La Rabida provided Columbus with hospitality, education for his son, and ultimately advocacy at the Spanish court that led to his voyage of discovery. The painting illustrates the monastic tradition of hospitality toward strangers and the poor, rooted in the biblical command of Hebrews 13:2: 'Do not neglect to show hospitality to strangers.' The gathering of the poor at the monastery door reflects the Franciscan commitment to serving the marginalized, following Christ's identification with the least (Matthew 25:35-40).",
+  "scripture_refs": [
+    {"ref": "HEB.13.2", "relevance": "allusion", "reason": "Showing hospitality to strangers — the monks receiving the weary Columbus"},
+    {"ref": "MAT.25.35", "relevance": "allusion", "reason": "I was a stranger and you welcomed me — the monastery as place of refuge"},
+    {"ref": "MAT.25.40", "relevance": "allusion", "reason": "Whatever you did for the least of these — the poor gathered at the monastery"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["compassionate", "somber", "humble", "hopeful"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0081070",
+    "title": "Christopher Columbus at the Monastery",
+    "artist": "Alfred Dehodencq",
+    "model": "claude-opus-4-6"
+  }
+}

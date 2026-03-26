@@ -1,0 +1,26 @@
+{
+  "characters": [
+    {"name": "God the Father", "type": "DEITY"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Cherubim", "type": "ANGEL"}
+  ],
+  "event": "God the Creator Enthroned",
+  "tags": ["god-the-father", "creator", "angels", "cherubim", "enthroned", "ceiling-fresco", "perugino", "renaissance"],
+  "symbols": ["God enthroned — divine sovereignty over creation", "surrounding angels — heavenly court", "circular composition — eternity and perfection", "clouds — heavenly realm", "golden halo — divine glory"],
+  "description": "A circular ceiling fresco depicting God the Father (or Creator) enthroned among clouds, surrounded by angels and cherubim. The central figure wears flowing robes in pink/red and green, with a golden halo, making a gesture of benediction. Angels in various colored robes flank Him on either side, some holding instruments or in attitudes of worship. Putti and cherubim fill the lower portion of the composition. The fresco is set within a circular frame decorated with ornate golden scrollwork. The style is characteristic of Perugino's harmonious, idealized Renaissance compositions.",
+  "theological_description": "This ceiling fresco presents God the Creator enthroned in heavenly glory, surrounded by the angelic court. The circular format (tondo) symbolizes eternity and divine perfection. The image draws on biblical descriptions of God's heavenly throne room from Isaiah 6:1-3, where the prophet sees the Lord seated on a throne with seraphim attending, and from Revelation 4:2-8, where God sits enthroned surrounded by heavenly beings. The gesture of benediction indicates God's ongoing creative and sustaining power over His creation. The angels arranged hierarchically reflect the medieval theological tradition of angelic orders developed from Pseudo-Dionysius.",
+  "scripture_refs": [
+    {"ref": "ISA.6.1-3", "relevance": "primary", "reason": "The Lord seated on a throne, high and lifted up, surrounded by seraphim"},
+    {"ref": "REV.4.2-8", "relevance": "primary", "reason": "The throne in heaven surrounded by living creatures and elders worshipping"},
+    {"ref": "PSA.103.19-21", "relevance": "allusion", "reason": "The Lord has established His throne in heaven, angels bless Him"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["majestic", "celestial", "glorious", "serene"],
+  "period": "Creation",
+  "_meta": {
+    "key": "0080455",
+    "title": "God the Creator and Angels",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

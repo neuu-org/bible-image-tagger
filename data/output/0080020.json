@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "St. Ursula", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Dream of St. Ursula",
+  "tags": ["saint-ursula", "dream-vision", "angel-visitation", "bedroom-scene", "venetian-renaissance"],
+  "symbols": ["angel entering room — divine messenger bearing revelation", "sleeping saint — receptivity to divine communication", "canopied bed — virginal purity", "potted plants by windows — life and growth", "light from doorway — divine illumination"],
+  "description": "A richly detailed interior scene of a Renaissance bedroom. A young woman (St. Ursula) sleeps peacefully in a canopied bed while an angel enters through a doorway at the right, bearing a palm branch. The room is meticulously rendered with period furnishings including a writing desk, potted plants on a windowsill, a reading stand, and decorative elements. The warm lighting and careful perspective create an intimate domestic atmosphere.",
+  "theological_description": "This painting depicts the vision of St. Ursula, a legendary Christian virgin-martyr. According to hagiographic tradition, an angel appeared to Ursula in a dream foretelling her martyrdom and offering her a palm of victory. The scene reflects the biblical tradition of divine communication through dreams, paralleling God's method of revelation to figures like Joseph (Matthew 1:20) and the Magi (Matthew 2:12). The palm branch carried by the angel is a symbol of martyrdom and victory over death, drawn from Revelation 7:9 where the redeemed hold palm branches before the throne.",
+  "scripture_refs": [
+    {"ref": "MAT.1.20", "relevance": "typological", "reason": "Angel appearing in a dream to communicate God's will, as to Joseph"},
+    {"ref": "REV.7.9", "relevance": "allusion", "reason": "Palm branches as symbols of martyrdom and victory"},
+    {"ref": "JOB.33.15-16", "relevance": "allusion", "reason": "God speaking through dreams and visions in the night"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["serene", "intimate", "mysterious", "contemplative"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080020",
+    "title": "Dream of St.Ursula",
+    "artist": "Vittore Carpaccio",
+    "model": "claude-opus-4-6"
+  }
+}

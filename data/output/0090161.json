@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Fishermen", "type": "GROUP"}
+  ],
+  "event": "Last Supper (reinterpreted)",
+  "tags": ["last-supper", "fishermen", "modern-art", "expressionism", "communal-meal", "blue-room"],
+  "symbols": [
+    "long table — echo of the Last Supper",
+    "five figures seated in a row — communal fellowship",
+    "ship painting — maritime life, fishermen",
+    "bread and fish — Eucharistic overtones"
+  ],
+  "description": "Five figures sit in a row behind a long white-clothed table in a deep blue room. They face the viewer frontally in a composition reminiscent of the Last Supper. Plates of food are set before them. A painting of a sailing ship hangs on the wall behind. Chairs stand in front of the table. The style is bold and expressionistic with heavy outlines.",
+  "theological_description": "This modern reinterpretation of the Last Supper transposes the sacred meal into a fisherman's setting. The frontal composition of five figures behind a long table deliberately echoes Leonardo's iconic arrangement. The fish and bread on the table carry Eucharistic overtones — Christ fed the five thousand with loaves and fishes, and the early Christians used the fish (ichthys) as a symbol for Christ. Several of Jesus's apostles were fishermen called from their nets. By placing working fishermen in the Last Supper arrangement, the artist connects the sacred to the ordinary, suggesting that Christ's presence abides in humble communal meals.",
+  "scripture_refs": [
+    {"ref": "MT.26.26-29", "relevance": "allusion", "reason": "The Last Supper composition evoked by the arrangement of figures at table"},
+    {"ref": "MK.1.16-20", "relevance": "allusion", "reason": "Jesus calls fishermen to be his disciples"},
+    {"ref": "JN.21.9-13", "relevance": "allusion", "reason": "The risen Christ shares a meal of bread and fish with his disciples"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["solemn", "communal", "melancholic", "reverent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090161",
+    "title": "Fisherman's Last Supper",
+    "artist": "Marsden Hartley",
+    "model": "claude-opus-4-6"
+  }
+}

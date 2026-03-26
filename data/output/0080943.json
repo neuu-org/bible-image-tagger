@@ -1,0 +1,27 @@
+{
+  "characters": [
+    {"name": "Moses", "type": "PERSON"},
+    {"name": "Israelites", "type": "GROUP"},
+    {"name": "Egyptians", "type": "GROUP"}
+  ],
+  "event": "Crossing of the Red Sea",
+  "tags": ["red-sea-crossing", "exodus", "moses", "israelites", "egyptians-drowning", "miracle", "fresco", "mannerist"],
+  "symbols": ["parted waters — God's miraculous deliverance", "drowning Egyptians — divine judgment on oppressors", "Israelites on shore — the saved people of God", "Moses central — mediator and leader of the Exodus"],
+  "description": "A large Mannerist fresco in a lunette format depicting the Israelites crossing the Red Sea. The scene is packed with muscular, dynamic figures in the foreground — Israelites who have safely crossed to shore, shown in various states of relief, celebration, and gathering their belongings. In the background, the Egyptian army can be seen drowning as the waters close over them. Ships and chariots are engulfed. Moses stands prominently in the center. The composition is characteristic of Bronzino's Mannerist style with its complex arrangement of idealized nude and draped figures.",
+  "theological_description": "The crossing of the Red Sea (Exodus 14) is the defining event of Israel's history — God's mighty act of deliverance from Egyptian slavery. When the Egyptian army pursued the fleeing Israelites to the sea, God parted the waters through Moses, allowing Israel to cross on dry ground. When the Egyptians followed, the waters returned and destroyed them. This event established the pattern for all subsequent biblical salvation — God rescuing His people from impossible situations through miraculous intervention. Paul interprets this crossing as a type of baptism (1 Corinthians 10:1-2), in which believers pass through the waters of death into new life. The Exodus became the paradigm through which Israel and the Church understood God's saving power.",
+  "scripture_refs": [
+    {"ref": "EXO.14.21-31", "relevance": "primary", "reason": "The parting of the Red Sea and the destruction of the Egyptian army"},
+    {"ref": "EXO.15.1-2", "relevance": "primary", "reason": "The Song of Moses celebrating victory — I will sing to the Lord, for He has triumphed gloriously"},
+    {"ref": "1CO.10.1-2", "relevance": "typological", "reason": "Paul interpreting the Red Sea crossing as a type of baptism"},
+    {"ref": "HEB.11.29", "relevance": "allusion", "reason": "By faith they crossed the Red Sea as on dry land"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["triumphant", "dramatic", "chaotic", "miraculous"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0080943",
+    "title": "The Israelites crossing the Red Sea",
+    "artist": "Agnolo Bronzino",
+    "model": "claude-opus-4-6"
+  }
+}

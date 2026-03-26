@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Infant Jesus", "type": "DEITY"}
+  ],
+  "event": "Virgin and Child",
+  "tags": ["virgin-and-child", "modern-icon", "stylized", "contemporary-sacred-art", "lily", "halo", "dark-palette"],
+  "symbols": [
+    "halo — sanctity of the Christ Child",
+    "lily/flower — purity of Mary",
+    "cross on headdress — Christian identity",
+    "dark geometric forms — abstract sacred space"
+  ],
+  "description": "A contemporary stylized painting of the Virgin and Child. Two geometric, mask-like faces are depicted — a larger central figure (Mary) wearing an elaborate dark headdress with a cross, and a smaller haloed figure (the Christ Child) to the left. A pink-purple flower appears at the lower right. The palette is dominated by dark burnt sienna, black, and accents of orange, pink, and gold. The style is modernist and abstract, drawing on icon traditions.",
+  "theological_description": "This contemporary reinterpretation of the Virgin and Child draws on traditional iconographic conventions while employing a modernist, abstracted visual language. The geometric, mask-like faces evoke African or folk art influences, suggesting the universality of the Incarnation across cultures. The child's halo identifies him as divine. The flower, likely a lily, symbolizes Mary's purity. By abstracting the familiar subject, the artist invites new contemplation of the ancient mystery of God becoming human through a woman's consent.",
+  "scripture_refs": [
+    {"ref": "LK.2.7", "relevance": "primary", "reason": "She gave birth to her firstborn son — the Incarnation depicted"},
+    {"ref": "JN.1.14", "relevance": "allusion", "reason": "The Word became flesh and dwelt among us"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["mystical", "contemplative", "solemn", "abstract"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090725",
+    "title": "Virgin and Child of St Andrews Fulham",
+    "artist": "Paulo Tercio",
+    "model": "claude-opus-4-6"
+  }
+}

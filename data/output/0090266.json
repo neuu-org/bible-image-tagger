@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Infant Jesus", "type": "DEITY"},
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "Magi", "type": "GROUP"}
+  ],
+  "event": "Adoration of the Magi",
+  "tags": ["adoration-of-the-magi", "epiphany", "infant-jesus", "virgin-mary", "joseph", "gifts", "kneeling-king", "baroque"],
+  "symbols": [
+    "golden robe of kneeling king — offering of earthly riches to God",
+    "gifts — gold, frankincense, myrrh",
+    "ruined architecture — Old Covenant giving way to New",
+    "diverse Magi — universality of Christ's kingship"
+  ],
+  "description": "The Magi present gifts to the infant Jesus, who sits on Mary's lap at the right. Mary wears a pink garment, and Joseph stands behind her. The eldest Magus kneels in the foreground wearing a sumptuous golden brocade robe, reaching toward the child. Behind him, a richly armored king holds a golden vessel. A third Magus and attendants fill the left side. Ruined architecture frames the scene.",
+  "theological_description": "The Adoration of the Magi celebrates the Epiphany — the revelation of Christ to the Gentile world. The three wise men, traditionally representing different ages and continents, journey from the East guided by a star to worship the newborn King. Their gifts carry deep symbolism: gold for Christ's kingship, frankincense for his divinity, and myrrh for his future suffering and burial. The eldest king's kneeling posture of adoration before an infant in humble surroundings dramatizes the paradox of the Incarnation — the kings of the earth bow before a child born in poverty. This fulfills Isaiah's prophecy that nations shall come to the light of God's glory.",
+  "scripture_refs": [
+    {"ref": "MT.2.1-12", "relevance": "primary", "reason": "The Magi from the East visit and worship the infant Jesus"},
+    {"ref": "IS.60.1-6", "relevance": "typological", "reason": "Nations shall come to your light, bearing gold and frankincense"},
+    {"ref": "PS.72.10-11", "relevance": "typological", "reason": "All kings shall fall down before him, all nations serve him"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["majestic", "reverent", "celebratory", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090266",
+    "title": "Adoration of the Magi",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

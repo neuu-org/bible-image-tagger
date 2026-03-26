@@ -1,0 +1,26 @@
+{
+  "characters": [
+    {"name": "Hagar", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"},
+    {"name": "Ishmael", "type": "PERSON"}
+  ],
+  "event": "Hagar and the Angel in the Desert",
+  "tags": ["hagar", "ishmael", "angel", "desert", "wilderness", "divine-rescue", "baroque"],
+  "symbols": ["desert landscape — trial and abandonment", "angel comforting — divine provision and care for the outcast", "sleeping child — Ishmael near death from thirst", "bare tree — desolation"],
+  "description": "A Baroque painting showing a beautiful young woman (Hagar) seated in a barren landscape, looking toward a winged angel child who reaches toward her comfortingly. At her feet, partially obscured, lies a dark-skinned child (Ishmael) who appears to be sleeping or collapsed. The sky is dramatic with clouds. Hagar wears a golden-orange dress with a blue mantle. The angel has large feathered wings and a luminous appearance.",
+  "theological_description": "This scene depicts Genesis 21:14-19, where Hagar and her son Ishmael are cast out by Abraham at Sarah's insistence. After wandering in the wilderness of Beersheba, their water runs out and Hagar places the dying boy under a bush, unable to watch him perish. God hears the boy's cries and sends an angel who reveals a well of water, saving both their lives. This episode demonstrates God's compassion extending beyond the covenant line — He promises to make Ishmael into a great nation (Genesis 21:18). It reveals a God who sees and hears the suffering of the marginalized, as Hagar herself earlier named God 'El Roi,' the God who sees (Genesis 16:13).",
+  "scripture_refs": [
+    {"ref": "GEN.21.14-19", "relevance": "primary", "reason": "Hagar and Ishmael cast into the wilderness, rescued by an angel"},
+    {"ref": "GEN.21.18", "relevance": "primary", "reason": "God's promise to make Ishmael a great nation"},
+    {"ref": "GEN.16.13", "relevance": "allusion", "reason": "Hagar naming God 'El Roi' — the God who sees the outcast"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tender", "desperate", "hopeful", "compassionate"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0080050",
+    "title": "Hagar in the Desert",
+    "artist": "Giambattista Pittoni",
+    "model": "claude-opus-4-6"
+  }
+}

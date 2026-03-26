@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "Angels", "type": "GROUP"},
+    {"name": "Holy Spirit", "type": "DEITY"}
+  ],
+  "event": "Baptism of Christ",
+  "tags": ["baptism-of-christ", "jordan-river", "john-the-baptist", "holy-spirit", "dove", "angels", "venetian-renaissance"],
+  "symbols": [
+    "dove — Holy Spirit descending",
+    "water — purification and new life",
+    "light from heaven — divine approval",
+    "cherub heads in clouds — heavenly witnesses",
+    "angels holding garments — heavenly attendants"
+  ],
+  "description": "Jesus stands waist-deep in the Jordan River with hands crossed over his chest. John the Baptist, a muscular figure on the right bank, extends his hand over Jesus's head. On the left, angels hold garments. Light and cherub heads break through the clouds above. The scene is painted in a dark, dramatic Venetian style with rich tonal contrasts.",
+  "theological_description": "The Baptism of Jesus in the Jordan marks the beginning of his public ministry and is one of the key theophanies of the New Testament. As Jesus emerges from the water, the heavens open, the Holy Spirit descends like a dove, and the Father's voice declares 'This is my beloved Son, in whom I am well pleased.' This event reveals the Trinity — Father, Son, and Holy Spirit — acting in unity. Jesus's submission to John's baptism of repentance, though he is sinless, prefigures his identification with sinful humanity and anticipates his death and resurrection. The water symbolizes both purification and the passage through death to new life.",
+  "scripture_refs": [
+    {"ref": "MT.3.13-17", "relevance": "primary", "reason": "Matthew's account of Jesus's baptism with the voice from heaven"},
+    {"ref": "MK.1.9-11", "relevance": "primary", "reason": "Mark's account of the baptism and Spirit descending like a dove"},
+    {"ref": "IS.42.1", "relevance": "typological", "reason": "Behold my servant whom I uphold, my chosen in whom my soul delights"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sacred", "dramatic", "revelatory", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090174",
+    "title": "Baptism of Christ",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

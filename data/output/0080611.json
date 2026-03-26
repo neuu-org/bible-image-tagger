@@ -1,0 +1,27 @@
+{
+  "characters": [
+    {"name": "Infant Jesus", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "Magi", "type": "GROUP"}
+  ],
+  "event": "Adoration of the Magi",
+  "tags": ["adoration-of-the-magi", "epiphany", "holy-family", "gifts", "french-baroque", "nativity"],
+  "symbols": ["kneeling Magus — humility before the divine King", "gifts — gold, frankincense, and myrrh", "Mary in blue — purity and heavenly queenship", "diverse visitors — universality of Christ's kingship"],
+  "description": "A French Baroque Adoration of the Magi. The Virgin Mary, wearing a rich blue mantle, holds the Infant Jesus at center. An elderly Magus kneels before them offering a gift. Joseph stands behind. Other Magi and attendants gather around, including a figure in a red turban suggesting a Moorish king. The composition is warm and intimate, with soft lighting focused on the Christ child. The style is characteristic of 18th-century French religious painting with its refined coloring and graceful figures.",
+  "theological_description": "The Adoration of the Magi from Matthew 2:1-12 represents the Epiphany — the revelation of Christ to the Gentile nations. The wise men's journey from the East, guided by a star, demonstrates that the birth of Jesus has cosmic significance reaching far beyond Israel. The diversity of the Magi (traditionally depicted as representing different continents and races) emphasizes the universality of Christ's kingship. Their gifts of gold, frankincense, and myrrh are traditionally understood as acknowledging Christ's royal, divine, and sacrificial nature. This scene fulfills the prophetic vision of all nations streaming to the light of God's glory (Isaiah 60:1-6).",
+  "scripture_refs": [
+    {"ref": "MAT.2.1-12", "relevance": "primary", "reason": "Wise men from the East coming to worship the newborn King"},
+    {"ref": "ISA.60.1-6", "relevance": "typological", "reason": "Nations coming to the light, bearing gold and frankincense"},
+    {"ref": "EPH.3.6", "relevance": "allusion", "reason": "The mystery that Gentiles are fellow heirs with Israel, revealed in the Magi's worship"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["reverent", "warm", "intimate", "celebratory"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080611",
+    "title": "Adoration of the Magi",
+    "artist": "Jean II Restout",
+    "model": "claude-opus-4-6"
+  }
+}

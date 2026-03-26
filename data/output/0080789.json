@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {"name": "Dead Christ", "type": "DEITY"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Joseph of Arimathea", "type": "PERSON"},
+    {"name": "Nicodemus", "type": "PERSON"}
+  ],
+  "event": "Deposition / Lowering of the Cross",
+  "tags": ["deposition", "descent-from-cross", "dead-christ", "angels", "passion", "baroque", "procaccini", "dark-painting"],
+  "symbols": ["dead body of Christ — the cost of redemption", "angels attending — heavenly grief at the Savior's death", "darkness — cosmic mourning at the death of the Son of God", "wounds visible — the price of sin paid in blood"],
+  "description": "A dramatically dark Baroque painting of the Deposition or Lowering of the Cross. The dead body of Christ hangs or is being lowered, His muscular torso illuminated against the deep darkness. Angels attend the body — one beneath catching or supporting Him, others at the sides looking on with grief. The composition is dominated by shadow with only the body of Christ and the faces of the mourning figures picked out in light. The painting's dark palette and emotional intensity are characteristic of Procaccini's late Baroque style.",
+  "theological_description": "The Deposition depicts the moment after Christ's death when His body was taken down from the cross, as described in the Gospels (Matthew 27:57-59, Mark 15:46, Luke 23:53, John 19:38-42). The presence of angels attending the dead Christ adds a theological dimension — heaven itself mourns the death of the incarnate God. The darkness of the composition reflects the cosmic darkness that fell at Christ's death (Matthew 27:45). The careful attention to Christ's wounded body emphasizes the physical reality of His sacrifice — 'by His wounds we are healed' (Isaiah 53:5). This moment between death and burial represents the nadir of the Passion before the triumph of Easter.",
+  "scripture_refs": [
+    {"ref": "MAT.27.57-59", "relevance": "primary", "reason": "Joseph of Arimathea taking down the body of Jesus from the cross"},
+    {"ref": "ISA.53.5", "relevance": "primary", "reason": "By His wounds we are healed — the theological meaning of the wounded body"},
+    {"ref": "MAT.27.45", "relevance": "allusion", "reason": "Darkness over the land from the sixth to the ninth hour — reflected in the painting's darkness"},
+    {"ref": "JHN.19.38-42", "relevance": "allusion", "reason": "The care given to Christ's body after death"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "dark", "reverent", "anguished"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080789",
+    "title": "The Lowering of the Cross",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

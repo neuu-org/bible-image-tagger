@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Simon of Cyrene", "type": "PERSON"},
+    {"name": "Roman soldiers", "type": "GROUP"},
+    {"name": "Crowd", "type": "GROUP"}
+  ],
+  "event": "Christ Carrying the Cross / Via Dolorosa",
+  "tags": ["carrying-the-cross", "via-dolorosa", "simon-of-cyrene", "roman-soldiers", "crown-of-thorns", "optical-illusion", "surrealist"],
+  "symbols": [
+    "cross — instrument of salvation",
+    "crown of thorns — suffering kingship",
+    "face of Christ hidden in composition — omnipresence of Christ in suffering",
+    "bird in sky — Holy Spirit or freedom of the soul"
+  ],
+  "description": "A surrealist painting showing Christ fallen under the cross, being helped by Simon of Cyrene. Roman soldiers on horseback oversee the procession. A crowd follows. The figures are composed in a way that forms a larger hidden face of Christ when viewed from a distance — an optical illusion characteristic of Ocampo's metamorphic art. A dark bird flies in the turbulent sky. The palette is warm earth tones with dramatic cloudy skies.",
+  "theological_description": "This metamorphic painting of Christ carrying the cross employs optical illusion to embed Christ's face within the entire composition, suggesting that Christ is present in every aspect of suffering. The Via Dolorosa — the way of sorrows — shows Jesus staggering under the weight of the cross, aided by Simon of Cyrene who was compelled to help. The hidden face visible at a distance speaks to the mystical understanding that Christ's suffering permeates all of creation and that in every act of compassion (like Simon's), we encounter the face of Christ. The surrealist technique reinforces the theological truth that Christ is simultaneously the suffering servant and the cosmic Lord.",
+  "scripture_refs": [
+    {"ref": "LK.23.26", "relevance": "primary", "reason": "They seized Simon of Cyrene and put the cross on him to carry behind Jesus"},
+    {"ref": "MT.25.40", "relevance": "typological", "reason": "Whatever you did for the least of these, you did for me — Christ's hidden face"},
+    {"ref": "IS.53.4", "relevance": "typological", "reason": "Surely he took up our pain and bore our suffering"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "mysterious", "dramatic", "reverent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090432",
+    "title": "Jesus Christ",
+    "artist": "Octavio Ocampo",
+    "model": "claude-opus-4-6"
+  }
+}

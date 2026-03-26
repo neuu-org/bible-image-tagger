@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Angel", "type": "ANGEL"},
+    {"name": "St. Pachomius", "type": "PERSON"}
+  ],
+  "event": "Angel Presenting the Cenobitic Rule to Pachomius",
+  "tags": ["pachomius", "angel", "monastic-rule", "cenobitic-life", "fresco", "rublev", "russian-icon", "scroll"],
+  "symbols": ["scroll or tablet — the monastic rule received from heaven", "angel with wings — divine origin of the rule", "halos — sanctity of both figures", "gold background (faded) — heavenly realm"],
+  "description": "A weathered medieval Russian fresco showing two haloed figures standing side by side. On the right, an angel with wings holds or presents a scroll or tablet (the cenobitic rule). On the left, a bearded monk (St. Pachomius) receives it with reverence. Both figures are rendered in the flattened, hieratic style of Russian icon painting with golden halos. The fresco shows significant deterioration with large areas of paint loss and fading, though the essential composition remains legible.",
+  "theological_description": "According to monastic tradition, an angel appeared to St. Pachomius the Great (c. 292-348), the Egyptian monk who founded cenobitic (communal) monasticism, and presented him with a bronze tablet inscribed with the rules for communal monastic life. This divine origin of the monastic rule parallels Moses receiving the Law on Sinai (Exodus 31:18) — just as God gave Israel its constitution through Moses, God gave the Church its monastic constitution through Pachomius. The cenobitic rule established principles of communal prayer, shared work, and obedience that shaped all subsequent Western and Eastern monasticism, reflecting the pattern of the early Jerusalem community described in Acts 2:44-47.",
+  "scripture_refs": [
+    {"ref": "EXO.31.18", "relevance": "typological", "reason": "God giving Moses tablets of the Law — paralleled by the angel giving Pachomius the rule"},
+    {"ref": "ACT.2.44-47", "relevance": "allusion", "reason": "The early Church holding all things in common — the model for cenobitic life"},
+    {"ref": "ACT.4.32", "relevance": "allusion", "reason": "The community of believers being of one heart and soul, sharing everything"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sacred", "solemn", "ancient", "reverent"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080850",
+    "title": "Angel presents Monk Pachomius cenobitic rule",
+    "artist": "Andrei Rublev",
+    "model": "claude-opus-4-6"
+  }
+}

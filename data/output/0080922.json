@@ -1,0 +1,27 @@
+{
+  "characters": [
+    {"name": "Dead Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "St. John the Evangelist", "type": "PERSON"},
+    {"name": "Kneeling Saints", "type": "GROUP"}
+  ],
+  "event": "Pietà / Dead Christ Supported by Saints",
+  "tags": ["pieta", "dead-christ", "bellini", "venetian-renaissance", "lunette", "candlesticks", "mourning-saints"],
+  "symbols": ["dead Christ rising from tomb — between death and resurrection", "supporting figures — the Church bearing witness to Christ's sacrifice", "candlesticks — liturgical context and vigil", "kneeling monks — devotional response to Christ's sacrifice"],
+  "description": "A lunette-shaped painting by Giovanni Bellini showing the dead Christ standing half-length in a tomb or sarcophagus, supported by the Virgin Mary on the right and St. John the Evangelist on the left, who wears a red garment. Christ's head is slumped and His eyes are closed, His body pale. Tall candlesticks flank the central group. At the far left and right, two figures in dark monastic habits kneel in devotion. The composition is symmetrical and formal, reflecting its liturgical function as an altarpiece lunette.",
+  "theological_description": "Bellini's Pietà presents the dead Christ in a unique 'Man of Sorrows' composition, showing Christ rising from the tomb supported by mourners. This liminal image hovers between the Passion and the Resurrection, inviting eucharistic meditation — the dead Christ displayed above the altar mirrors the eucharistic sacrifice celebrated below. The Virgin and John represent the Church bearing witness to Christ's sacrifice. The flanking monks in prayer model the devotional response expected of the viewer. This image type, popular in Venetian altarpieces, makes visible Isaiah 53:3: 'a man of sorrows, acquainted with grief,' while the upright posture of the dead Christ hints at the coming Resurrection.",
+  "scripture_refs": [
+    {"ref": "ISA.53.3-5", "relevance": "primary", "reason": "A man of sorrows, acquainted with grief — the Man of Sorrows image type"},
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "Mary and John at the cross, the same figures who support Christ here"},
+    {"ref": "1CO.11.26", "relevance": "allusion", "reason": "Proclaiming the Lord's death until He comes — the eucharistic context of this altarpiece"}
+  ],
+  "scene_type": "liturgical",
+  "mood": ["sorrowful", "sacred", "contemplative", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080922",
+    "title": "Pietà",
+    "artist": "Giovanni Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

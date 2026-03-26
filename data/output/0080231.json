@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {"name": "Church Fathers", "type": "GROUP"}
+  ],
+  "event": "",
+  "tags": ["church-fathers", "orthodox-icon", "bishops", "cathedral-fresco", "vasnetsov", "vestments"],
+  "symbols": ["bishop vestments — episcopal authority", "omophorion — pastoral care of the flock", "crosses on vestments — Christian faith", "golden background — divine glory", "group arrangement — unity of the Church"],
+  "description": "A fresco or icon-style painting depicting a group of Orthodox Church Fathers or bishops standing in a row, wearing elaborate liturgical vestments. The figures wear white and gold episcopal robes decorated with crosses and ornamental patterns. They have long beards and serious, dignified expressions. The painting is set within an arched frame and appears to be part of a larger cathedral decorative program. The style is characteristic of Viktor Vasnetsov's church murals, blending traditional Orthodox iconography with 19th-century academic painting.",
+  "theological_description": "This fresco depicts the great saints and hierarchs of the Orthodox Church, likely including figures such as Basil the Great, Gregory the Theologian, John Chrysostom, and other Church Fathers. These bishops were instrumental in defining Christian doctrine, defending orthodoxy against heresy, and shaping the liturgical traditions of the Church. Their theological writings and pastoral leadership fulfilled the apostolic commission to teach and guard the faith (2 Timothy 1:13-14). The gathering of these saints together visually represents the concept of Holy Tradition — the living transmission of apostolic teaching through the Church's greatest teachers.",
+  "scripture_refs": [
+    {"ref": "2TI.1.13-14", "relevance": "allusion", "reason": "Guarding the good deposit of faith, the role of the Church Fathers"},
+    {"ref": "EPH.4.11-13", "relevance": "allusion", "reason": "Christ gave teachers and pastors for the building up of the Church"},
+    {"ref": "TIT.1.9", "relevance": "allusion", "reason": "Bishops holding firm to sound doctrine and able to give instruction"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "sacred", "dignified", "authoritative"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080231",
+    "title": "Cathedral of Saints",
+    "artist": "Viktor Vasnetsov",
+    "model": "claude-opus-4-6"
+  }
+}

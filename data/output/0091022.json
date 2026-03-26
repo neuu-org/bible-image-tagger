@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {"name": "Jonah", "type": "PERSON"}
+  ],
+  "event": "Book of Jonah",
+  "tags": ["jonah", "prophet", "city", "nineveh", "ink-drawing", "expressionist", "modern-illustration"],
+  "symbols": [
+    "windswept figure — prophet driven by God's commission",
+    "city below — Nineveh, the city to which Jonah is sent",
+    "dramatic gestures — prophetic anguish and reluctance"
+  ],
+  "description": "A bold ink drawing in an expressionist style showing a tall, angular figure (Jonah) gesturing dramatically, his robes and hair blown by wind. A small walled city with towers (Nineveh) is visible below in the distance. The drawing uses rapid, energetic lines with areas of wash. The style is loose and expressive, with the figure dominating the composition against a sky with sweeping clouds.",
+  "theological_description": "This illustration for the Book of Jonah captures the prophet's tormented relationship with his divine mission. Jonah, commanded by God to preach repentance to the great city of Nineveh, famously tried to flee but was brought back through the episode of the great fish. The dramatic, wind-blown figure suggests either Jonah's initial reluctance or his later anger when God showed mercy to the Ninevites. The Book of Jonah is a profound meditation on God's universal mercy — his concern extends even to Israel's enemies. Jonah's resistance to this mercy makes him a foil for divine compassion, revealing that God's love cannot be contained within any national or ethnic boundary.",
+  "scripture_refs": [
+    {"ref": "JNH.3.1-10", "relevance": "primary", "reason": "Jonah preaches to Nineveh and the city repents"},
+    {"ref": "JNH.4.1-11", "relevance": "primary", "reason": "Jonah's anger at God's mercy toward Nineveh"},
+    {"ref": "MT.12.41", "relevance": "typological", "reason": "Jesus references Jonah — the sign of Jonah and Nineveh's repentance"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "anguished", "windswept", "prophetic"],
+  "period": "Prophetic",
+  "_meta": {
+    "key": "0091022",
+    "title": "Babits: The book of Jonah III.",
+    "artist": "Maria Bozoky",
+    "model": "claude-opus-4-6"
+  }
+}

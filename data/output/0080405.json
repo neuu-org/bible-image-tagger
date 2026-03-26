@@ -1,0 +1,26 @@
+{
+  "characters": [
+    {"name": "Roman Soldier", "type": "PERSON"},
+    {"name": "Mother", "type": "PERSON"},
+    {"name": "Infant", "type": "PERSON"}
+  ],
+  "event": "Massacre of the Innocents",
+  "tags": ["massacre-of-innocents", "herod", "bethlehem", "infanticide", "roman-soldier", "mother-and-child", "violence"],
+  "symbols": ["sword drawn — violence of Herod's decree", "mother shielding infant — desperate maternal love", "open doorway showing more killing — extent of the slaughter", "curtain — domestic space violated by political power"],
+  "description": "A harrowing scene from the Massacre of the Innocents. A muscular Roman soldier with a red head covering stands in a doorway, sword in hand, while a mother in red collapses over her infant child, trying to protect it. Through the open doorway behind the soldier, more violence is visible in the streets of Bethlehem — another figure with raised arms, scenes of pursuit and killing. The composition is vertically oriented with dramatic lighting contrasting the dark interior with the sunlit street beyond.",
+  "theological_description": "The Massacre of the Innocents (Matthew 2:16-18) records Herod the Great's order to kill all male children under two years old in Bethlehem, attempting to eliminate the newborn King of the Jews announced by the Magi. This horrific event fulfills Jeremiah's prophecy: 'A voice was heard in Ramah, weeping and great mourning, Rachel weeping for her children' (Jeremiah 31:15, quoted in Matthew 2:17-18). The massacre reveals the violent hostility of worldly power toward God's anointed, a pattern repeated throughout Scripture from Pharaoh's decree against Hebrew infants (Exodus 1:22) to the persecution of the early Church. The Holy Innocents are venerated as the first martyrs for Christ.",
+  "scripture_refs": [
+    {"ref": "MAT.2.16-18", "relevance": "primary", "reason": "Herod's order to kill all male children in Bethlehem under age two"},
+    {"ref": "JER.31.15", "relevance": "primary", "reason": "Rachel weeping for her children, fulfilled in this massacre"},
+    {"ref": "EXO.1.22", "relevance": "typological", "reason": "Pharaoh's decree to kill Hebrew infants, prefiguring Herod's atrocity"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["horrifying", "tragic", "violent", "desperate"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080405",
+    "title": "The Slaughter of the Innocents",
+    "artist": "Carl Bloch",
+    "model": "claude-opus-4-6"
+  }
+}

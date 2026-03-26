@@ -1,0 +1,26 @@
+{
+  "characters": [
+    {"name": "Young Jesus", "type": "DEITY"},
+    {"name": "Elders", "type": "GROUP"},
+    {"name": "Scribes", "type": "GROUP"}
+  ],
+  "event": "Jesus Among the Doctors in the Temple",
+  "tags": ["jesus-in-the-temple", "boy-jesus", "elders", "teachers", "temple", "wisdom", "childhood-of-christ"],
+  "symbols": ["young Christ in white — purity and divine wisdom", "scroll held by elders — Torah and Jewish law", "temple setting — center of religious authority", "astonished elders — human wisdom confounded by divine"],
+  "description": "A young Jesus, dressed in white, stands among a group of elderly Jewish scholars and teachers in the Temple. The boy appears composed and authoritative while the surrounding elders display expressions of astonishment and intense interest. Some hold scrolls or texts. The elders wear richly colored robes in reds and browns with traditional head coverings. The temple interior is dimly lit with architectural elements visible in the background. The contrast between the luminous young Christ and the darkly-clad elders is striking.",
+  "theological_description": "This scene from Luke 2:41-52 depicts the twelve-year-old Jesus in the Jerusalem Temple, found by His parents after three days, sitting among the teachers, listening and asking questions. All who heard Him were amazed at His understanding and answers (Luke 2:47). This episode is the only canonical account of Jesus' childhood and reveals His divine wisdom and His awareness of His special relationship with the Father — 'Did you not know that I must be in my Father's house?' (Luke 2:49). It prefigures His later teaching ministry and His authority over the religious establishment.",
+  "scripture_refs": [
+    {"ref": "LUK.2.41-52", "relevance": "primary", "reason": "The twelve-year-old Jesus found teaching in the Temple among the doctors"},
+    {"ref": "LUK.2.47", "relevance": "primary", "reason": "All who heard Him were amazed at His understanding and answers"},
+    {"ref": "ISA.11.2", "relevance": "typological", "reason": "The Spirit of wisdom and understanding resting upon the Messiah"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe-struck", "reverent", "intellectual", "dramatic"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080113",
+    "title": "Jesus Confounding the Elders",
+    "artist": "Frank Mason",
+    "model": "claude-opus-4-6"
+  }
+}

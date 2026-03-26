@@ -1,0 +1,26 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Agony in the Garden of Gethsemane",
+  "tags": ["gethsemane", "agony-in-the-garden", "angel-comforting-christ", "prayer", "passion", "olive-garden"],
+  "symbols": ["dark garden — night of the soul and approaching suffering", "angel supporting Christ — divine strengthening amid human weakness", "Christ's clasped hands — intense prayer", "red garment — Christ's passion and blood to be shed", "sleeping disciples implied — human frailty"],
+  "description": "A deeply moving painting of Christ in the Garden of Gethsemane. Jesus kneels in prayer, His hands clasped together, wearing a red robe, His expression one of profound sorrow and anguish. A luminous angel in white robes kneels beside Him, gently supporting and comforting Him with an arm around His shoulder. The scene is set in the darkness of the olive garden at night, with the figures illuminated by a supernatural light. The darkness beyond is almost impenetrable, creating a powerful sense of isolation.",
+  "theological_description": "This painting depicts the Agony in the Garden (Luke 22:39-46), one of the most profound moments of Christ's Passion. Jesus, knowing the full horror of the crucifixion that awaited Him, prayed with such intensity that His sweat became like drops of blood (Luke 22:44). He prayed, 'Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done' (Luke 22:42). An angel appeared from heaven to strengthen Him (Luke 22:43). This moment reveals the full humanity of Christ — His genuine suffering and dread — alongside His perfect obedience to the Father's will. It is the supreme model of submission to God's purposes even in the face of unbearable suffering.",
+  "scripture_refs": [
+    {"ref": "LUK.22.39-46", "relevance": "primary", "reason": "Christ's agony in the garden, praying for the cup to pass"},
+    {"ref": "LUK.22.43", "relevance": "primary", "reason": "An angel from heaven appearing to strengthen Jesus"},
+    {"ref": "LUK.22.42", "relevance": "primary", "reason": "Not my will but yours be done — the prayer of perfect submission"},
+    {"ref": "HEB.5.7", "relevance": "allusion", "reason": "Jesus offering prayers with loud cries and tears to the one who could save Him from death"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguished", "tender", "sorrowful", "intimate"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080427",
+    "title": "Christ in Gethsemane",
+    "artist": "Carl Bloch",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {"name": "St. Peter", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["saint-peter", "apostle", "keys", "book", "halo", "renaissance", "ferrarese-school", "full-length"],
+  "symbols": ["two keys — keys of the kingdom of heaven", "open book — Gospel teaching", "golden halo — apostolic sanctity", "red sandals — apostolic authority", "architectural ruins — old order giving way to the new"],
+  "description": "A full-length Renaissance portrait of St. Peter standing in an architectural setting with ruins and arches. He wears a golden-brown mantle over a dark tunic with a red cloak draped over one arm. He holds a large open book in one hand and ornate golden keys in the other. His golden halo is intricately tooled. He is depicted as an elderly, balding man with a short grey beard. Red sandals adorn his feet. A landscape with buildings is visible in the background. The painting is framed in an ornate gilded frame. The style is characteristic of the Ferrarese school.",
+  "theological_description": "St. Peter is depicted with his two defining attributes: the keys and the book. The keys represent Christ's commission to Peter in Matthew 16:19: 'I will give you the keys of the kingdom of heaven.' The book symbolizes his apostolic teaching preserved in his two canonical epistles and his preaching recorded in Acts. Peter stands among architectural ruins, which may symbolize the passing of the old order and the establishment of the new — the Church that Christ promised to build upon the 'rock' of Peter's confession (Matthew 16:18). As the chief apostle, Peter was the first leader of the Jerusalem church and the first to open the door of faith to the Gentiles (Acts 10).",
+  "scripture_refs": [
+    {"ref": "MAT.16.18-19", "relevance": "primary", "reason": "Upon this rock I will build my Church; the keys of the kingdom given to Peter"},
+    {"ref": "ACT.2.14-41", "relevance": "allusion", "reason": "Peter's Pentecost sermon — his role as chief apostolic teacher"},
+    {"ref": "ACT.10.34-48", "relevance": "allusion", "reason": "Peter opening the door of faith to the Gentiles"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["authoritative", "dignified", "solemn", "monumental"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0080763",
+    "title": "Saint Peter",
+    "artist": "Francesco del Cossa",
+    "model": "claude-opus-4-6"
+  }
+}

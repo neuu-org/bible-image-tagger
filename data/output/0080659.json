@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {"name": "Swedish Woman (Madonna figure)", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["madonna-type", "swedish-woman", "etching", "portrait", "headscarf", "anders-zorn", "peasant-woman"],
+  "symbols": ["headscarf — modesty and traditional piety", "contemplative pose — inner devotion", "dark background — emphasis on the figure's spirituality"],
+  "description": "An etching portrait of a young Swedish woman with a headscarf, shown in half-length against a dark background. She holds or cradles something close to her body (possibly an infant, though not clearly visible in the dark areas). Her expression is contemplative and gentle, with downcast eyes. The technique shows masterful cross-hatching creating rich tonal contrasts, characteristic of Anders Zorn's virtuosic etching style. The woman's face and upper body are illuminated while the rest dissolves into deep blacks.",
+  "theological_description": "Titled 'A Swedish Madonna,' this portrait transposes the traditional Madonna image into a contemporary Swedish peasant context. The headscarf, downcast eyes, and nurturing posture evoke the iconographic tradition of the Virgin Mary while celebrating the sacred dimension of ordinary motherhood. This approach reflects the theological truth that the Incarnation sanctified all of human life — Mary was herself a humble young woman from an insignificant village (Luke 1:26-28). By depicting a Madonna in contemporary dress, Zorn affirms that the maternal tenderness and spiritual depth associated with Mary can be found in every devout mother.",
+  "scripture_refs": [
+    {"ref": "LUK.1.48", "relevance": "allusion", "reason": "He has looked on the humble estate of His servant — a humble woman as Madonna"},
+    {"ref": "LUK.2.19", "relevance": "allusion", "reason": "Mary pondering things in her heart — the contemplative expression"},
+    {"ref": "PRO.31.30", "relevance": "allusion", "reason": "A woman who fears the Lord is to be praised — the quiet dignity of the portrait"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "tender", "intimate", "reverent"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080659",
+    "title": "A Swedish Madonna",
+    "artist": "Anders Zorn",
+    "model": "claude-opus-4-6"
+  }
+}

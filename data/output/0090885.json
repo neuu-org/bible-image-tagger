@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Infant Jesus", "type": "DEITY"}
+  ],
+  "event": "Madonna and Child",
+  "tags": ["madonna-and-child", "relief-sculpture", "marble", "renaissance", "tenderness", "halo", "desiderio"],
+  "symbols": [
+    "halo — sanctity",
+    "tender embrace — maternal love and the Incarnation",
+    "marble relief — devotional object for private prayer"
+  ],
+  "description": "A terracotta or marble bas-relief sculpture of the Madonna and Child. The Virgin Mary, wearing a veil and with a halo indicated in the stone, cradles the infant Jesus close to her face in a tender, intimate embrace. The child reaches up toward her. The relief is weathered and shows the warm patina of age. The carving style is delicate and naturalistic, characteristic of 15th-century Florentine devotional sculpture.",
+  "theological_description": "This intimate relief of the Madonna and Child was created for private devotion, inviting the faithful to contemplate the mystery of the Incarnation through the most tender of human relationships — a mother holding her child. The physical closeness between Mary and Jesus affirms the full reality of Christ's humanity; he was truly flesh of her flesh. At the same time, the halo reminds the viewer that this child is divine. Such domestic devotional reliefs brought the mystery of Christ into the private sphere, enabling meditation on the Incarnation in daily life. The embrace between mother and child is both fully human and charged with theological meaning — God allows himself to be held.",
+  "scripture_refs": [
+    {"ref": "LK.2.7", "relevance": "primary", "reason": "She gave birth to her firstborn and wrapped him in swaddling cloths"},
+    {"ref": "JN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us"},
+    {"ref": "GL.4.4", "relevance": "allusion", "reason": "God sent his Son, born of a woman"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["tender", "intimate", "devotional", "peaceful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090885",
+    "title": "Madonna Col Bambino",
+    "artist": "Desiderio da Settignano",
+    "model": "claude-opus-4-6"
+  }
+}

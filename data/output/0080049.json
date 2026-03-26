@@ -1,0 +1,28 @@
+{
+  "characters": [
+    {"name": "Infant Jesus", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "Magi", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "Adoration of the Magi",
+  "tags": ["adoration-of-the-magi", "epiphany", "nativity", "gifts", "angels", "venetian-renaissance", "quatrefoil"],
+  "symbols": ["gifts of the Magi — gold for kingship, frankincense for divinity, myrrh for death", "angels above — heavenly rejoicing at the Incarnation", "ruined architecture — old covenant giving way to the new", "kneeling Magi — Gentile nations worshipping the Messiah"],
+  "description": "A richly colored Adoration of the Magi set within a quatrefoil-shaped frame against a black background. The Holy Family is at the center, with the Magi presenting gifts to the Christ child. Angels hover above in a golden sky. The scene is set among classical ruins with an arch visible at right. Attendants with horses appear at the edges. The composition is dynamic with figures arranged in sweeping curves. The palette is warm with rich reds, golds, and deep blues.",
+  "theological_description": "The Adoration of the Magi fulfills the prophecy of Isaiah 60:3 that nations would come to the light of Israel's glory. The Magi, representing the Gentile world, travel from the East guided by a star to worship the newborn King of the Jews (Matthew 2:1-12). Their gifts carry profound theological meaning: gold acknowledges His kingship, frankincense His divinity, and myrrh foreshadows His sacrificial death. This event marks the Epiphany — the manifestation of Christ to the Gentiles — establishing that salvation extends beyond Israel to all nations, a theme Paul develops in Ephesians 3:6.",
+  "scripture_refs": [
+    {"ref": "MAT.2.1-12", "relevance": "primary", "reason": "The visit of the Magi from the East bearing gifts to the newborn Jesus"},
+    {"ref": "ISA.60.3", "relevance": "typological", "reason": "Nations coming to the light and kings to the brightness of the rising"},
+    {"ref": "PSA.72.10-11", "relevance": "typological", "reason": "Kings of Tarshish and distant shores bringing tribute to the Messianic king"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["celebratory", "reverent", "majestic", "joyful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080049",
+    "title": "Adoration of the Magi",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

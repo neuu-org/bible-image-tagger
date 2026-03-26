@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "Exit from the Last Supper",
+  "tags": ["last-supper", "departure", "upper-room", "apostles", "jesus-and-disciples", "preparatory-sketch", "ivanov"],
+  "symbols": ["Christ walking forward — leading toward Gethsemane and the Passion", "group of disciples — the Twelve following their Master", "lamp overhead — the last shared light before the darkness of the Passion", "interior setting — the upper room"],
+  "description": "A preparatory sketch or study in warm tones depicting Jesus Christ departing from the Last Supper with His apostles. Christ stands at the center in red and blue-green robes, moving forward. The disciples gather around and behind Him in flowing garments, some conversing, others looking troubled. A hanging lamp is visible overhead. The sketch is done in pencil with watercolor washes on toned paper, giving it a warm, amber quality. The style is academic and classical, characteristic of Alexander Ivanov's biblical studies.",
+  "theological_description": "This scene captures the moment after the Last Supper when Jesus and His disciples departed from the Upper Room to the Mount of Olives (Matthew 26:30). After instituting the Eucharist and delivering His farewell discourse, Jesus led His followers toward Gethsemane where He would pray in agony and then be arrested. The somber mood reflects Jesus' warning at supper: 'You will all fall away because of me this night' (Matthew 26:31). This transitional moment between the intimacy of the Upper Room and the horror of the Passion marks the threshold of Christ's sacrificial journey.",
+  "scripture_refs": [
+    {"ref": "MAT.26.30", "relevance": "primary", "reason": "After singing a hymn, they went out to the Mount of Olives"},
+    {"ref": "JHN.13.30-31", "relevance": "allusion", "reason": "The departure after Judas left — the hour of glorification approaching"},
+    {"ref": "MAT.26.31", "relevance": "allusion", "reason": "Jesus warning that the disciples would all fall away"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["somber", "apprehensive", "solemn", "transitional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080647",
+    "title": "Exit from the Last Supper",
+    "artist": "Alexander Ivanov",
+    "model": "claude-opus-4-6"
+  }
+}

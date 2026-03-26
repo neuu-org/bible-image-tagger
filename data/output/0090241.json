@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "Angel", "type": "ANGEL"},
+    {"name": "Young woman", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["angel", "girl", "guardian-angel", "night-scene", "romantic-symbolism", "wings", "moonlight"],
+  "symbols": [
+    "angel wings — divine protection",
+    "embrace — heavenly care and comfort",
+    "night sky — spiritual darkness dispelled by angelic presence",
+    "flowers in hair — innocence"
+  ],
+  "description": "A luminous angel with large white wings cradles a young woman in a tender embrace against a twilight sky with a glowing moon or star. The angel wears flowing robes and looks down protectively. The woman, in a pale dress with flowers in her hair, appears to be sleeping or in ecstasy. A misty waterscape forms the background. The scene is ethereal and romantic.",
+  "theological_description": "The image of a guardian angel tenderly holding a human soul reflects the biblical and theological tradition of angelic protection. Scripture attests that God assigns angels to watch over individuals, particularly the vulnerable. The intimate embrace suggests the closeness of heavenly guardianship — God's care mediated through angelic beings. The night setting evokes the spiritual darkness of the world through which the angel guides the soul safely. This theme resonates with Psalm 91's promise that God commands his angels to guard the faithful in all their ways.",
+  "scripture_refs": [
+    {"ref": "PS.91.11-12", "relevance": "primary", "reason": "He will command his angels concerning you to guard you in all your ways"},
+    {"ref": "MT.18.10", "relevance": "allusion", "reason": "Their angels in heaven always see the face of my Father — guardian angels"},
+    {"ref": "HEB.1.14", "relevance": "allusion", "reason": "Are not all angels ministering spirits sent to serve those who will inherit salvation?"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["ethereal", "tender", "protective", "mystical"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0090241",
+    "title": "Girl with Angel",
+    "artist": "Wilhelm Kotarbinski",
+    "model": "claude-opus-4-6"
+  }
+}

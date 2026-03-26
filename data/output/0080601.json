@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {"name": "Prophet", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["prophet", "old-testament", "niche-figure", "tintoretto", "venetian-renaissance", "scroll", "beard"],
+  "symbols": ["scroll or book — prophetic writings and divine revelation", "shell-shaped niche — classical architectural setting", "flowing robes — dignity of prophetic office", "aged figure — wisdom and long prophetic ministry"],
+  "description": "A full-length figure of a bearded Old Testament prophet standing in a shell-shaped architectural niche. The elderly figure wears flowing dark blue-green robes with an orange-brown mantle and holds what appears to be a scroll or book. He has a long white beard and appears deep in thought. The painting is executed in Tintoretto's characteristic dynamic style with bold, loose brushwork and dramatic lighting. The niche creates a sculptural, monumental effect for the solitary figure.",
+  "theological_description": "This painting depicts an Old Testament prophet, part of a series of prophet figures typical of Venetian church decoration. The prophets served as God's spokesmen, delivering divine messages of warning, judgment, and hope to Israel. Their writings pointed forward to the coming of the Messiah and the establishment of God's kingdom. The scroll or book the figure holds represents the prophetic writings preserved in Scripture. As Hebrews 1:1 states, 'Long ago, at many times and in many ways, God spoke to our fathers by the prophets.' These figures bridge the Old and New Testaments, their prophecies finding fulfillment in Christ.",
+  "scripture_refs": [
+    {"ref": "HEB.1.1", "relevance": "allusion", "reason": "God speaking through the prophets in many ways — the role this figure represents"},
+    {"ref": "2PE.1.21", "relevance": "allusion", "reason": "Men spoke from God as they were carried along by the Holy Spirit"},
+    {"ref": "AMO.3.7", "relevance": "allusion", "reason": "The Lord does nothing without revealing His plan to His servants the prophets"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "contemplative", "authoritative", "dignified"],
+  "period": "Prophetic",
+  "_meta": {
+    "key": "0080601",
+    "title": "Prophet",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

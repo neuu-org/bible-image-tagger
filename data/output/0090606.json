@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Infant Jesus", "type": "DEITY"},
+    {"name": "Shepherds", "type": "GROUP"}
+  ],
+  "event": "The Nativity",
+  "tags": ["nativity", "stable", "shepherds", "infant-jesus", "virgin-mary", "moonlight", "star", "dog", "impressionism"],
+  "symbols": [
+    "radiant light from infant — divine light entering the world",
+    "stable — humility of the Incarnation",
+    "moon — night of Christ's birth",
+    "shepherds — humble first witnesses",
+    "dog — faithful companionship"
+  ],
+  "description": "An impressionistic Nativity scene set under a thatched stable at night. The Virgin Mary in blue sits holding the radiant infant Jesus, whose body emits a brilliant starburst of light. Shepherds and figures kneel and approach from the right, one wearing a hat. A dog accompanies them. A full moon hangs in the grey-green sky. A cart wheel is visible on the left. The palette is muted earth tones with the glowing infant as the focal point.",
+  "theological_description": "This impressionistic Nativity transposes the birth of Christ into a humble rural French setting, emphasizing the universal and timeless nature of the Incarnation. The brilliant light emanating from the infant Jesus embodies the theological truth that 'the light shines in the darkness' (John 1:5). The shepherds who come to see the newborn Savior represent the humble and poor whom God favors with the first revelation of his Son. The rustic stable setting reinforces the kenosis — God's self-emptying in Christ, who though rich became poor for our sake. The moonlit night setting recalls the prophecy of a great light arising for those who walk in darkness.",
+  "scripture_refs": [
+    {"ref": "LK.2.6-16", "relevance": "primary", "reason": "The birth of Jesus and the visit of the shepherds"},
+    {"ref": "JN.1.4-5", "relevance": "primary", "reason": "In him was life, and that life was the light of all mankind"},
+    {"ref": "IS.9.2", "relevance": "typological", "reason": "The people walking in darkness have seen a great light"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["luminous", "peaceful", "humble", "mystical"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0090606",
+    "title": "La Nativité, Rolleboise",
+    "artist": "Maximilien Luce",
+    "model": "claude-opus-4-6"
+  }
+}

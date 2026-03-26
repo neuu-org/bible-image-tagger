@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "Esther", "type": "PERSON"},
+    {"name": "Ahasuerus", "type": "PERSON"}
+  ],
+  "event": "Esther before Ahasuerus",
+  "tags": ["esther", "ahasuerus", "scepter", "queen", "king", "medieval", "konrad-witz", "throne-room"],
+  "symbols": [
+    "golden scepter — royal authority and favor granted",
+    "Esther's gesture — supplication and courage",
+    "ornate tapestry — royal court",
+    "crown — royalty"
+  ],
+  "description": "A late medieval painting showing two richly dressed figures seated before an ornate tapestry background. On the right, King Ahasuerus in a tall ornate headdress and red-pink robe extends a golden scepter toward Queen Esther. Esther, on the left, wears a green gown with her hands raised in a gesture of supplication. Text labels identify them as 'hester' and 'alweord.' The painting has a flat, decorative Gothic style with elaborate drapery.",
+  "theological_description": "The scene of Esther approaching King Ahasuerus is one of the most dramatic moments in the Book of Esther. Approaching the king uninvited was punishable by death unless the king extended his golden scepter in favor. Esther, a Jewish woman who had become queen, risks her life to intercede for her people who face genocide at the hands of Haman. When Ahasuerus extends the scepter, he grants her an audience that will ultimately save the Jewish nation. Esther's courage and self-sacrifice ('If I perish, I perish') make her a type of Christ who intercedes for his people at the cost of his own life. She is also seen as a type of Mary, the intercessor who approaches the throne of grace on behalf of the faithful.",
+  "scripture_refs": [
+    {"ref": "ES.5.1-3", "relevance": "primary", "reason": "Esther approaches the king and he extends the golden scepter"},
+    {"ref": "ES.4.16", "relevance": "primary", "reason": "If I perish, I perish — Esther's courageous resolve"},
+    {"ref": "HEB.4.16", "relevance": "typological", "reason": "Let us approach the throne of grace with boldness — Esther as type"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tense", "regal", "dramatic", "hopeful"],
+  "period": "Exile",
+  "_meta": {
+    "key": "0090764",
+    "title": "Esther before Ahasuerus",
+    "artist": "Konrad Witz",
+    "model": "claude-opus-4-6"
+  }
+}

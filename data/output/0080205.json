@@ -1,0 +1,27 @@
+{
+  "characters": [
+    {"name": "St. Martin of Tours", "type": "PERSON"},
+    {"name": "Beggar", "type": "PERSON"},
+    {"name": "Attendants", "type": "GROUP"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Scenes from the Life of St. Martin",
+  "tags": ["saint-martin", "charity", "cloak-sharing", "death-of-saint", "modern-renaissance-revival", "dual-scene"],
+  "symbols": ["cloak — charity and sharing with the poor", "white horse — St. Martin's military status", "bedside scene — holy death attended by angels", "rolling hills — earthly journey"],
+  "description": "A dual-scene composition in a modern neo-Renaissance style. The left scene shows St. Martin dividing his cloak with a beggar, surrounded by onlookers including figures on horseback in a hilly landscape. A woman in blue kneels by the beggar. The right scene, set in an interior, depicts the death of St. Martin on a bed, attended by angels and companions. The style is restrained and elegant with clear outlines, muted colors, and a flat decorative quality reminiscent of early Italian Renaissance painting.",
+  "theological_description": "St. Martin of Tours (316-397) is depicted in two defining moments: his famous act of charity in dividing his cloak with a freezing beggar (after which Christ appeared to him in a dream wearing the same half-cloak), and his holy death attended by angels. Martin's act of sharing his cloak directly fulfills Christ's teaching in Matthew 25:35-40 — 'I was naked and you clothed me... whatever you did for the least of these brothers of mine, you did for me.' His story illustrates the Christian conviction that charity toward the poor is service to Christ Himself, a foundational principle of Christian social ethics.",
+  "scripture_refs": [
+    {"ref": "MAT.25.35-40", "relevance": "primary", "reason": "Clothing the naked as service to Christ — the core meaning of Martin sharing his cloak"},
+    {"ref": "LUK.3.11", "relevance": "allusion", "reason": "John the Baptist's teaching: whoever has two tunics should share with the one who has none"},
+    {"ref": "HEB.13.2", "relevance": "allusion", "reason": "Entertaining angels unawares, as Christ appeared as the beggar"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["compassionate", "serene", "solemn", "devotional"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0080205",
+    "title": "Scenes from the Life of St. Martin",
+    "artist": "Winifred Knights",
+    "model": "claude-opus-4-6"
+  }
+}

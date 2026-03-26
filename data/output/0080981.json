@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Damned Souls",
+      "type": "GROUP"
+    },
+    {
+      "name": "Demons",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Hell / Damnation",
+  "tags": [
+    "garden-of-earthly-delights",
+    "hell-panel",
+    "bosch",
+    "damnation",
+    "demons",
+    "fire",
+    "punishment",
+    "surreal"
+  ],
+  "symbols": [
+    "burning city — destruction and eternal punishment",
+    "grotesque creatures — demonic tormentors",
+    "broken eggshell figures — fragile human vanity shattered",
+    "musical instruments as torture — pleasures turned to punishment",
+    "fire everywhere — hellfire and divine judgment",
+    "bizarre hybrid creatures — corruption and perversion of God's creation"
+  ],
+  "description": "A detail from the Hell panel of Hieronymus Bosch's Garden of Earthly Delights. The scene is a nightmarish landscape of torment and destruction. A burning cityscape fills the background with orange flames and smoke. In the middle and foreground, grotesque hybrid creatures and demonic figures torture human souls in bizarre and inventive ways. Giant broken eggshell-like structures house scenes of punishment. A pink creature perched atop a broken structure dominates the center. Musical instruments, knives, and strange machines serve as instruments of torture.",
+  "theological_description": "Bosch's Hell panel presents a horrifying vision of the consequences of sin — the final destination of those who surrendered to the earthly delights depicted in the central panel. The burning city recalls the destruction of Sodom and Gomorrah (Genesis 19:24-25) and the lake of fire described in Revelation 20:15. The creative torments reflect the medieval theological principle of 'contrapasso' — that punishment corresponds to the sin. Pleasures that seduced in life become instruments of torture in hell. Musical instruments used for revelry now torture their players. This vision served as a powerful moral warning, illustrating Jesus' teaching about the 'outer darkness' where there is 'weeping and gnashing of teeth' (Matthew 25:30).",
+  "scripture_refs": [
+    {
+      "ref": "REV.20.15",
+      "relevance": "primary",
+      "reason": "The lake of fire — the ultimate destination depicted in Bosch's Hell"
+    },
+    {
+      "ref": "MAT.25.30",
+      "relevance": "allusion",
+      "reason": "Outer darkness with weeping and gnashing of teeth — the atmosphere of the scene"
+    },
+    {
+      "ref": "GEN.19.24-25",
+      "relevance": "typological",
+      "reason": "The destruction of Sodom by fire, prefiguring the burning city in the background"
+    },
+    {
+      "ref": "ISA.66.24",
+      "relevance": "allusion",
+      "reason": "Their worm shall not die, their fire shall not be quenched — unending torment"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "nightmarish",
+    "horrifying",
+    "chaotic",
+    "terrifying"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0080981",
+    "title": "The Garden of Earthly Delights (detail)",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

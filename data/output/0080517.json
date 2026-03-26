@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["virgin-mary", "head-study", "drawing", "contemplative", "pencil-sketch", "devotional"],
+  "symbols": ["downcast eyes — humility and contemplation", "veil covering hair — modesty and purity", "delicate features — idealized beauty of the Theotokos"],
+  "description": "A delicate pencil or chalk drawing showing the head and upper neck of the Virgin Mary in three-quarter profile, looking downward with closed or nearly closed eyes. Her hair is gathered under a covering or veil. The drawing is executed on toned paper with subtle white highlighting for the flesh tones and blue-grey for the shadows and hair. The technique is refined with fine cross-hatching, creating a soft, luminous quality. The expression is one of deep, peaceful contemplation.",
+  "theological_description": "This intimate study of the Virgin Mary's face captures the contemplative interiority that Scripture attributes to her. Luke repeatedly describes Mary as one who 'kept all these things, pondering them in her heart' (Luke 2:19, 2:51). The downcast eyes and serene expression suggest a soul in deep communion with God, reflecting the Magnificat's declaration of humble receptivity: 'My soul magnifies the Lord' (Luke 1:46). This drawing type served as a study for larger devotional compositions and captures the essence of Marian piety — the beauty of a soul wholly surrendered to God's will.",
+  "scripture_refs": [
+    {"ref": "LUK.2.19", "relevance": "primary", "reason": "Mary treasured all these things, pondering them in her heart"},
+    {"ref": "LUK.1.46-48", "relevance": "allusion", "reason": "The Magnificat — the humble handmaid exalted by God"},
+    {"ref": "LUK.1.38", "relevance": "allusion", "reason": "Behold the handmaid of the Lord — the humility captured in the downcast gaze"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "serene", "intimate", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080517",
+    "title": "Head of the Virgin Mary",
+    "artist": "Silvestro Lega",
+    "model": "claude-opus-4-6"
+  }
+}

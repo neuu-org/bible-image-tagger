@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Risen Christ", "type": "DEITY"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Defeated enemies", "type": "GROUP"},
+    {"name": "St. John the Evangelist", "type": "PERSON"},
+    {"name": "Female Saints", "type": "GROUP"}
+  ],
+  "event": "Resurrection of Christ",
+  "tags": ["resurrection", "triptych", "risen-christ", "triumph-over-death", "baroque", "rubens", "easter"],
+  "symbols": ["risen body of Christ — victory over death", "trampled figures below — defeat of sin, death, and the devil", "banner or cross — triumph of the resurrection", "light emanating from Christ — divine glory", "triptych format — liturgical altarpiece"],
+  "description": "A Baroque triptych altarpiece. The central panel shows the Risen Christ in a powerful, muscular form, standing triumphant with arms raised, radiating divine light. Below Him, defeated figures representing death and evil are trampled. Angels accompany the scene. The left wing panel shows a figure (possibly a patron saint or John the Evangelist) standing with a staff. The right wing panel depicts a female saint (possibly a martyr). The composition is dynamic and dramatic with Rubens' characteristic vigorous modeling and warm palette.",
+  "theological_description": "The Resurrection of Christ is the cornerstone of Christian faith — 'if Christ has not been raised, your faith is futile' (1 Corinthians 15:17). Rubens depicts the triumphant Risen Lord in full physical glory, emphasizing the bodily nature of the resurrection. Christ tramples the powers of death and evil underfoot, fulfilling the promise of Genesis 3:15 that the seed of the woman would crush the serpent's head. The dynamic upward movement captures the explosive power of the event described in Matthew 28:2-6. The flanking saints on the wing panels represent the Church that endures through faith in the Risen Lord.",
+  "scripture_refs": [
+    {"ref": "MAT.28.2-6", "relevance": "primary", "reason": "The resurrection of Christ as described by the angel at the empty tomb"},
+    {"ref": "1CO.15.17", "relevance": "primary", "reason": "The centrality of the resurrection to Christian faith"},
+    {"ref": "1CO.15.54-57", "relevance": "allusion", "reason": "Death swallowed up in victory, depicted by Christ trampling death"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The protoevangelium — crushing the serpent's head, fulfilled in Christ's triumph"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["triumphant", "glorious", "powerful", "majestic"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080200",
+    "title": "The Resurrection of Christ",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

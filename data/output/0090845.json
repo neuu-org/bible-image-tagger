@@ -1,0 +1,30 @@
+{
+  "characters": [
+    {"name": "Saint Augustine", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["saint-augustine", "bishop", "mitre", "crosier", "church-father", "flaming-heart", "episcopal-vestments"],
+  "symbols": [
+    "mitre — episcopal authority",
+    "crosier — pastoral shepherd's staff",
+    "flaming heart — Augustine's burning love for God",
+    "cross on vestment — Christian identity",
+    "sea in background — his famous seashell meditation on the Trinity"
+  ],
+  "description": "A full-length portrait of Saint Augustine of Hippo standing in full episcopal vestments — a richly embroidered gold and red cope over a dark green chasuble, white surplice, and a jeweled mitre. He holds an ornate golden crosier in his left hand and a flaming red heart in his right. The background shows a seascape on the left and a rocky landscape on the right. His expression is gentle and authoritative.",
+  "theological_description": "Saint Augustine of Hippo (354-430) was one of the greatest theologians in Christian history, whose writings shaped Western Christian thought for over a millennium. The flaming heart is his most distinctive attribute, representing his famous prayer: 'You have made us for yourself, O Lord, and our hearts are restless until they rest in you.' The episcopal vestments indicate his role as Bishop of Hippo. The sea in the background may reference the legend of Augustine walking on a beach while contemplating the Trinity, when he encountered a child trying to pour the ocean into a hole — illustrating the impossibility of the finite human mind fully comprehending the infinite God.",
+  "scripture_refs": [
+    {"ref": "PS.42.1", "relevance": "allusion", "reason": "As the deer pants for streams of water, so my soul pants for you — Augustine's restless heart"},
+    {"ref": "RM.13.13-14", "relevance": "allusion", "reason": "The passage Augustine read at his conversion, prompting him to put on Christ"},
+    {"ref": "1TI.3.1-2", "relevance": "allusion", "reason": "Qualifications for a bishop — Augustine's episcopal office"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["authoritative", "devotional", "noble", "scholarly"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0090845",
+    "title": "St Augustine",
+    "artist": "Maarten de Vos",
+    "model": "claude-opus-4-6"
+  }
+}

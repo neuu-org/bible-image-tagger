@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "King", "type": "PERSON"},
+    {"name": "Beggar Maid", "type": "PERSON"}
+  ],
+  "event": "",
+  "tags": ["king-and-beggar", "medieval", "romance", "throne", "pre-raphaelite-style", "palace", "love"],
+  "symbols": [
+    "crown/royal garments — earthly power",
+    "simple dress of maid — humility and poverty",
+    "kneeling king — love transcending rank"
+  ],
+  "description": "A medieval scene in a palace interior. A young woman in a simple white dress stands on steps beneath pink curtains, looking down at a richly dressed king who kneels before her offering something. He wears a red and gold royal robe. Grand columns and a chandelier frame the background. The painting has a romanticized, Pre-Raphaelite aesthetic.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "narrative",
+  "mood": ["romantic", "tender", "regal", "idealized"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0090288",
+    "title": "The King and the Beggar Maid",
+    "artist": "Edmund Blair Leighton",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {"name": "Risen Christ", "type": "DEITY"},
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Noli Me Tangere",
+  "tags": ["noli-me-tangere", "resurrection", "mary-magdalene", "risen-christ", "garden", "recognition", "post-resurrection"],
+  "symbols": ["Christ's partial undress showing wounds — the resurrected body bearing marks of crucifixion", "garden setting — echoing Eden, the new creation", "Christ's restraining gesture — transition to a new mode of relationship", "Magdalene reaching out — human longing for the tangible divine", "tree — tree of life in the new Eden"],
+  "description": "A painting of the Noli Me Tangere scene. The Risen Christ stands at the right, partially draped in a dark cloth, His torso bare showing the wound in His side. He gently holds or touches Mary Magdalene's head with one hand while she kneels before Him, reaching toward Him with both hands. She wears an ornate gold-patterned garment over a red dress. A tree rises behind Christ and a broad landscape stretches into the distance. The composition conveys both tenderness and restraint.",
+  "theological_description": "This scene from John 20:14-17 depicts the moment when the Risen Christ appears to Mary Magdalene in the garden near the empty tomb. She initially mistakes Him for the gardener, but recognizes Him when He speaks her name. When she reaches to embrace Him, He says 'Do not cling to me, for I have not yet ascended to the Father' (John 20:17). This enigmatic command points to a fundamental change in the relationship between Christ and His followers after the Resurrection. Physical proximity will give way to spiritual presence through the Holy Spirit. Mary is then commissioned as the 'apostle to the apostles,' sent to announce the Resurrection to the disciples.",
+  "scripture_refs": [
+    {"ref": "JHN.20.14-17", "relevance": "primary", "reason": "Mary Magdalene encountering the Risen Christ in the garden"},
+    {"ref": "JHN.20.17", "relevance": "primary", "reason": "Noli me tangere — do not cling to me, for I have not yet ascended"},
+    {"ref": "MRK.16.9", "relevance": "allusion", "reason": "Christ appearing first to Mary Magdalene after the Resurrection"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tender", "mysterious", "joyful", "bittersweet"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0080535",
+    "title": "Noli Me Tangere",
+    "artist": "Alonzo Cano",
+    "model": "claude-opus-4-6"
+  }
+}
