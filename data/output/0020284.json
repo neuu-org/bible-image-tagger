@@ -41,23 +41,28 @@
   "scripture_refs": [
     {
       "ref": "MAT.27.57-60",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "JHN.19.38-42",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "LUK.2.35",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "ISA.53.3-4",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "LUK.23.55-56",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     }
   ],
   "scene_type": "narrative",
@@ -74,5 +79,6 @@
     "artist": "Andrea del Sarto",
     "model": "claude-opus-4-6"
   },
-  "event": "Pietà"
+  "event": "Pietà",
+  "symbols": []
 }

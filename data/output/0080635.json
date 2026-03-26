@@ -1,22 +1,63 @@
 {
   "characters": [
-    {"name": "Dead Christ", "type": "DEITY"},
-    {"name": "Doges", "type": "GROUP"},
-    {"name": "Saints", "type": "GROUP"},
-    {"name": "Angels", "type": "ANGEL"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Doges",
+      "type": "GROUP"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
   ],
   "event": "The Dead Christ Adored by Doges",
-  "tags": ["dead-christ", "doges", "venice", "adoration", "crucifixion-aftermath", "tintoretto", "venetian-art"],
-  "symbols": ["dead Christ elevated — sacrificial offering at center of devotion", "kneeling doges — temporal power submitting to divine authority", "red drapery — Venetian state and blood of sacrifice", "saints flanking — heavenly intercessors"],
+  "tags": [
+    "dead-christ",
+    "doges",
+    "venice",
+    "adoration",
+    "crucifixion-aftermath",
+    "venetian-art"
+  ],
+  "symbols": [
+    "dead Christ elevated — sacrificial offering at center of devotion",
+    "kneeling doges — temporal power submitting to divine authority",
+    "red drapery — Venetian state and blood of sacrifice",
+    "saints flanking — heavenly intercessors"
+  ],
   "description": "A wide horizontal composition showing the dead Christ elevated at the center, supported or displayed before a group of adoring figures. Doges (Venetian rulers) and saints kneel or stand in veneration on either side. Angels attend above. Rich red drapery frames the scene. The painting has a ceremonial, state-religious character combining devotion to Christ with Venetian civic pride. The palette is dominated by deep reds, golds, and dark tones characteristic of Tintoretto's work for Venetian state buildings.",
   "theological_description": "This painting represents the Venetian state's devotion to Christ crucified, showing the city's rulers (doges) adoring the dead Christ. The composition makes a profound theological statement: all earthly power and authority derives from and must submit to the crucified Lord. The doges' veneration of the dead Christ reflects the Pauline teaching that God exalted Christ and gave Him the name above every name, that 'at the name of Jesus every knee should bow' (Philippians 2:9-11). The presence of patron saints reinforces the connection between the heavenly Church and the earthly Venetian republic.",
   "scripture_refs": [
-    {"ref": "PHP.2.9-11", "relevance": "primary", "reason": "Every knee bowing before Christ — shown in the doges' veneration"},
-    {"ref": "ISA.53.5", "relevance": "allusion", "reason": "By His wounds we are healed — the dead Christ as source of salvation"},
-    {"ref": "REV.1.5", "relevance": "allusion", "reason": "The ruler of kings on earth — Christ's authority over temporal powers"}
+    {
+      "ref": "PHP.2.9-11",
+      "relevance": "primary",
+      "reason": "Every knee bowing before Christ — shown in the doges' veneration"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "allusion",
+      "reason": "By His wounds we are healed — the dead Christ as source of salvation"
+    },
+    {
+      "ref": "REV.1.5",
+      "relevance": "allusion",
+      "reason": "The ruler of kings on earth — Christ's authority over temporal powers"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["solemn", "reverential", "majestic", "ceremonial"],
+  "mood": [
+    "solemn",
+    "reverential",
+    "majestic",
+    "ceremonial"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080635",

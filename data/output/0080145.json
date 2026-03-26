@@ -1,22 +1,62 @@
 {
   "characters": [
-    {"name": "St. Nicholas", "type": "PERSON"},
-    {"name": "Male Donor", "type": "PERSON"},
-    {"name": "Female Donor", "type": "PERSON"},
-    {"name": "Female Saint", "type": "PERSON"}
+    {
+      "name": "Nicholas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Male Donor",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female Donor",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female Saint",
+      "type": "PERSON"
+    }
   ],
   "event": "Donor Portraits with Saints",
-  "tags": ["donor-portrait", "saint-nicholas", "early-netherlandish", "diptych", "devotional", "patron-saints"],
-  "symbols": ["bishop's mitre and crozier — episcopal authority of St. Nicholas", "open book — Scripture and teaching", "landscape backgrounds — earthly realm contrasted with heavenly patronage", "praying hands — devotion and piety"],
+  "tags": [
+    "donor-portrait",
+    "saint-nicholas",
+    "early-netherlandish",
+    "devotional",
+    "patron-saints"
+  ],
+  "symbols": [
+    "bishop's mitre and crozier — episcopal authority of St. Nicholas",
+    "open book — Scripture and teaching",
+    "landscape backgrounds — earthly realm contrasted with heavenly patronage",
+    "praying hands — devotion and piety"
+  ],
   "description": "A diptych of two panels in the Early Netherlandish style. The left panel shows a male donor kneeling in prayer, presented by St. Nicholas wearing full bishop's regalia including a golden mitre and crozier. The right panel shows a female donor in a white wimple kneeling in prayer, presented by a female saint. Both panels feature detailed landscape backgrounds with architecture and distant views. The donors are depicted in dark, sober clothing while the saints wear richly decorated vestments.",
   "theological_description": "This donor diptych reflects the medieval practice of commissioning religious artworks in which the patron is depicted alongside their name saint, who serves as intercessor before God. St. Nicholas, identifiable by his bishop's vestments, presents the male donor, suggesting he is the donor's patron saint. The practice reflects the belief in the communion of saints — that the faithful on earth are connected to the saints in heaven who intercede on their behalf. This devotional tradition draws from the broader Christian understanding of the Church as one body spanning the living and the dead (Hebrews 12:1).",
   "scripture_refs": [
-    {"ref": "HEB.12.1", "relevance": "allusion", "reason": "The great cloud of witnesses surrounding believers, reflected in saintly patronage"},
-    {"ref": "1TI.2.1", "relevance": "allusion", "reason": "Intercessions made on behalf of all people, the theology behind patron saint devotion"},
-    {"ref": "REV.5.8", "relevance": "allusion", "reason": "Prayers of the saints rising like incense before God"}
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses surrounding believers, reflected in saintly patronage"
+    },
+    {
+      "ref": "1TI.2.1",
+      "relevance": "allusion",
+      "reason": "Intercessions made on behalf of all people, the theology behind patron saint devotion"
+    },
+    {
+      "ref": "REV.5.8",
+      "relevance": "allusion",
+      "reason": "Prayers of the saints rising like incense before God"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["devotional", "solemn", "dignified", "prayerful"],
+  "mood": [
+    "devotional",
+    "solemn",
+    "dignified",
+    "prayerful"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080145",

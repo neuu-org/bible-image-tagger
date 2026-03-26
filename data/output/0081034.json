@@ -1,19 +1,52 @@
 {
   "characters": [
-    {"name": "Mary Magdalene", "type": "PERSON"}
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["mary-magdalene", "penitent", "crucifix", "devotional", "oval-portrait", "baroque", "guido-reni"],
-  "symbols": ["crucifix embraced — devotion to Christ crucified", "loose hair — traditional Magdalene iconography and penitence", "bare shoulder — vulnerability and former life of sin", "downcast eyes — contrition and repentance", "oval frame — devotional intimacy"],
+  "event": "Mary Magdalen",
+  "tags": [
+    "mary-magdalene",
+    "penitent",
+    "crucifix",
+    "devotional",
+    "oval-portrait",
+    "guido-reni"
+  ],
+  "symbols": [
+    "crucifix embraced — devotion to Christ crucified",
+    "loose hair — traditional Magdalene iconography and penitence",
+    "bare shoulder — vulnerability and former life of sin",
+    "downcast eyes — contrition and repentance",
+    "oval frame — devotional intimacy"
+  ],
   "description": "An oval devotional portrait of the penitent Mary Magdalene. She is shown in half-length, embracing a wooden crucifix against her chest with both hands. Her long, loose reddish-brown hair flows over her shoulders. Her eyes are downcast in an expression of profound contrition and devotion. She wears a simple garment that leaves one shoulder partially bare. The painting is warm and intimate, with soft lighting illuminating her face and the crucifix against a dark background. The style shows the influence of Guido Reni's idealized, emotionally refined devotional paintings.",
   "theological_description": "The penitent Magdalene embracing the crucifix is one of the most powerful devotional images in Christian art. The crucifix in her arms represents her transformation — the cross that once symbolized the shame of her past now becomes the source of her salvation and the object of her deepest love. Western tradition identified Mary Magdalene with the sinful woman of Luke 7:36-50 who washed Jesus' feet with her tears, and Jesus declared that her many sins were forgiven 'for she loved much' (Luke 7:47). The Magdalene thus became the supreme example of how God's grace transforms sinners into saints. Her embrace of the crucifix expresses Paul's declaration: 'Far be it from me to boast except in the cross of our Lord Jesus Christ' (Galatians 6:14).",
   "scripture_refs": [
-    {"ref": "LUK.7.47", "relevance": "primary", "reason": "Her sins, which are many, are forgiven — for she loved much"},
-    {"ref": "GAL.6.14", "relevance": "allusion", "reason": "Boasting only in the cross — the Magdalene's embrace of the crucifix"},
-    {"ref": "JHN.20.1-18", "relevance": "allusion", "reason": "Magdalene's devotion to Christ, first at the tomb on Easter morning"}
+    {
+      "ref": "LUK.7.47",
+      "relevance": "primary",
+      "reason": "Her sins, which are many, are forgiven — for she loved much"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Boasting only in the cross — the Magdalene's embrace of the crucifix"
+    },
+    {
+      "ref": "JHN.20.1-18",
+      "relevance": "allusion",
+      "reason": "Magdalene's devotion to Christ, first at the tomb on Easter morning"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["penitent", "devotional", "tender", "intimate"],
+  "mood": [
+    "penitent",
+    "devotional",
+    "tender",
+    "intimate"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0081034",

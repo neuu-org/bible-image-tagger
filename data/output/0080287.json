@@ -1,19 +1,51 @@
 {
   "characters": [
-    {"name": "St. Cecilia", "type": "PERSON"}
+    {
+      "name": "St. Cecilia",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["saint-cecilia", "patron-of-music", "organ", "halo", "baroque", "devotional-portrait"],
-  "symbols": ["organ pipes — sacred music and Cecilia's patronage of musicians", "halo — sanctity", "upward gaze — communion with heaven through music", "sheet music — hymns of praise", "jeweled brooch — noble birth"],
+  "event": "Saint Cecilia",
+  "tags": [
+    "saint-cecilia",
+    "patron-of-music",
+    "organ",
+    "halo",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "organ pipes — sacred music and Cecilia's patronage of musicians",
+    "halo — sanctity",
+    "upward gaze — communion with heaven through music",
+    "sheet music — hymns of praise",
+    "jeweled brooch — noble birth"
+  ],
   "description": "A half-length portrait of St. Cecilia depicted as a beautiful young woman with reddish-blonde hair, wearing a green dress with a cream-colored shawl fastened with a jeweled brooch, and a red skirt. She has a golden halo and gazes upward with a rapt, devotional expression. Her hands are raised near a small pipe organ with sheet music. The dark background creates a dramatic contrast with her luminous skin and richly colored clothing. The painting style is refined and idealized, characteristic of Sassoferrato's devotional works.",
   "theological_description": "St. Cecilia (2nd-3rd century) is the patron saint of musicians and church music, traditionally depicted with an organ or musical instrument. According to her hagiography, Cecilia sang to God in her heart even during her forced marriage, and the music of her faith led to the conversion of her husband and his brother. Her devotion to sacred music reflects the scriptural call to praise God with instruments and song (Psalm 150). The upward gaze suggests her soul ascending through music to contemplate divine beauty, embodying the theological principle that sacred music is a form of prayer that elevates the soul to God (Colossians 3:16).",
   "scripture_refs": [
-    {"ref": "PSA.150.1-6", "relevance": "allusion", "reason": "Praise the Lord with instruments — Cecilia as the embodiment of musical praise"},
-    {"ref": "COL.3.16", "relevance": "allusion", "reason": "Singing psalms, hymns, and spiritual songs with gratitude in your hearts"},
-    {"ref": "EPH.5.19", "relevance": "allusion", "reason": "Making melody to the Lord in your heart, Cecilia's defining attribute"}
+    {
+      "ref": "PSA.150.1-6",
+      "relevance": "allusion",
+      "reason": "Praise the Lord with instruments — Cecilia as the embodiment of musical praise"
+    },
+    {
+      "ref": "COL.3.16",
+      "relevance": "allusion",
+      "reason": "Singing psalms, hymns, and spiritual songs with gratitude in your hearts"
+    },
+    {
+      "ref": "EPH.5.19",
+      "relevance": "allusion",
+      "reason": "Making melody to the Lord in your heart, Cecilia's defining attribute"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["devotional", "ecstatic", "serene", "beautiful"],
+  "mood": [
+    "devotional",
+    "ecstatic",
+    "serene",
+    "beautiful"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080287",

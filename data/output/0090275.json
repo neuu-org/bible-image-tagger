@@ -1,11 +1,27 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Soldiers", "type": "GROUP"},
-    {"name": "Onlookers", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
   ],
   "event": "Christ Carrying the Cross",
-  "tags": ["carrying-the-cross", "via-dolorosa", "passion", "crown-of-thorns", "soldiers", "northern-renaissance", "arched-panel"],
+  "tags": [
+    "carrying-the-cross",
+    "via-dolorosa",
+    "passion",
+    "crown-of-thorns",
+    "soldiers",
+    "arched-panel"
+  ],
   "symbols": [
     "cross — instrument of salvation",
     "crown of thorns — mockery and kingship through suffering",
@@ -15,12 +31,29 @@
   "description": "An arched panel painting showing Christ collapsed under the weight of a massive wooden cross. He wears a blue robe stained with blood, and a crown of thorns. Surrounding him are soldiers and tormentors — one pulling a rope, others pushing and mocking. A city gate with towers is visible in the background. A soldier carries a banner with an imperial eagle. The scene is crowded and violent, painted in the detailed Northern Renaissance style.",
   "theological_description": "The Carrying of the Cross (Kruisdraging) depicts Jesus on the Via Dolorosa, staggering under the weight of the cross toward Calvary. Surrounded by hostile soldiers and mocking crowds, Christ endures the full brutality of human cruelty. The city gate in the background marks the departure from Jerusalem, fulfilling the typology of the scapegoat sent outside the camp bearing the sins of the people (Leviticus 16). Christ's suffering is voluntary — he could call upon legions of angels but chooses to endure for humanity's redemption. The grotesque faces of the tormentors represent the ugliness of sin, contrasting with Christ's patient suffering.",
   "scripture_refs": [
-    {"ref": "JN.19.17", "relevance": "primary", "reason": "He went out, bearing his own cross, to the place called the Skull"},
-    {"ref": "HEB.13.12", "relevance": "typological", "reason": "Jesus suffered outside the city gate to sanctify the people"},
-    {"ref": "IS.53.7", "relevance": "typological", "reason": "He was oppressed and afflicted, yet he did not open his mouth"}
+    {
+      "ref": "JHN.19.17",
+      "relevance": "primary",
+      "reason": "He went out, bearing his own cross, to the place called the Skull"
+    },
+    {
+      "ref": "HEB.13.12",
+      "relevance": "typological",
+      "reason": "Jesus suffered outside the city gate to sanctify the people"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "He was oppressed and afflicted, yet he did not open his mouth"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["anguished", "violent", "sorrowful", "oppressive"],
+  "mood": [
+    "anguished",
+    "violent",
+    "sorrowful",
+    "oppressive"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090275",

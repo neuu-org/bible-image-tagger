@@ -1,11 +1,28 @@
 {
   "characters": [
-    {"name": "Saint Bruno", "type": "PERSON"},
-    {"name": "Roger Guiscard", "type": "PERSON"},
-    {"name": "Soldiers", "type": "GROUP"}
+    {
+      "name": "Saint Bruno",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roger Guiscard",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    }
   ],
   "event": "Apparition of Saint Bruno to Roger Guiscard",
-  "tags": ["saint-bruno", "apparition", "vision", "dream", "carthusian", "white-robes", "military-leader", "baroque"],
+  "tags": [
+    "saint-bruno",
+    "apparition",
+    "vision",
+    "dream",
+    "carthusian",
+    "white-robes",
+    "military-leader"
+  ],
   "symbols": [
     "glowing figure — supernatural apparition",
     "white robes — Carthusian order purity",
@@ -16,12 +33,29 @@
   "description": "An arched Baroque painting showing Saint Bruno appearing as a luminous figure in white Carthusian robes, hovering above a man (Roger Guiscard) who lies startled in an ornate bed. Bruno points or gestures, apparently warning him. At the foot of the bed, a soldier in red rests with his weapons. Through a window on the right, soldiers are visible in moonlight. The apparition is bathed in golden supernatural light contrasting with the dark interior.",
   "theological_description": "This scene depicts a legendary episode from the life of Saint Bruno, founder of the Carthusian order. According to tradition, Saint Bruno appeared in a vision to Count Roger Guiscard of Sicily to warn him of a conspiracy against his life, thus saving him. The apparition illustrates the Catholic belief in the communion of saints — that the blessed in heaven remain active intercessors for the living. Bruno, who in life chose the solitary contemplative path, continues in death to exercise care for those connected to him. The contrast between the peace of the supernatural light and the threat of the soldiers emphasizes the protective power of saintly intercession.",
   "scripture_refs": [
-    {"ref": "HEB.12.1", "relevance": "allusion", "reason": "We are surrounded by a great cloud of witnesses — the communion of saints"},
-    {"ref": "MT.1.20", "relevance": "typological", "reason": "An angel appears to Joseph in a dream — divine communication through visions"},
-    {"ref": "2KI.6.17", "relevance": "allusion", "reason": "Elisha prays that his servant's eyes be opened to see heavenly protectors"}
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "We are surrounded by a great cloud of witnesses — the communion of saints"
+    },
+    {
+      "ref": "MAT.1.20",
+      "relevance": "typological",
+      "reason": "An angel appears to Joseph in a dream — divine communication through visions"
+    },
+    {
+      "ref": "2KI.6.17",
+      "relevance": "allusion",
+      "reason": "Elisha prays that his servant's eyes be opened to see heavenly protectors"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["supernatural", "dramatic", "protective", "awe-inspiring"],
+  "mood": [
+    "supernatural",
+    "dramatic",
+    "protective",
+    "awe-inspiring"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0090796",

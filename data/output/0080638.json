@@ -1,22 +1,63 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Christ Child", "type": "DEITY"},
-    {"name": "St. Elizabeth", "type": "PERSON"},
-    {"name": "Young John the Baptist", "type": "PERSON"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "St. Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
   ],
   "event": "Holy Family with St. Elizabeth and Young John",
-  "tags": ["madonna-and-child", "saint-elizabeth", "young-john-baptist", "holy-kinship", "andrea-del-sarto", "high-renaissance"],
-  "symbols": ["Christ Child reaching — divine initiative and blessing", "young John — the forerunner recognizing the Messiah even as children", "Elizabeth — the mother of the prophet", "Mary's halo — sanctity of the Mother of God"],
+  "tags": [
+    "madonna-and-child",
+    "saint-elizabeth",
+    "young-john-baptist",
+    "holy-kinship",
+    "andrea-del-sarto",
+    "high-renaissance"
+  ],
+  "symbols": [
+    "Christ Child reaching — divine initiative and blessing",
+    "young John — the forerunner recognizing the Messiah even as children",
+    "Elizabeth — the mother of the prophet",
+    "Mary's halo — sanctity of the Mother of God"
+  ],
   "description": "A tender Renaissance composition showing the Virgin Mary (with a golden halo) seated with the Infant Jesus on her lap, accompanied by the elderly St. Elizabeth behind and the young John the Baptist at left. The Christ Child reaches toward the young John or Elizabeth with a lively gesture. Mary wears a pink dress with a blue-grey mantle and looks down tenderly at her Son. Elizabeth, in a dark head covering, watches from behind. The young John, bare-shouldered, looks at the Christ Child with attentive interest. The warm, sfumato modeling is characteristic of Andrea del Sarto.",
   "theological_description": "This scene depicts the Holy Kinship — the extended holy family including Mary, Jesus, Elizabeth, and the young John the Baptist. It draws on the account of the Visitation (Luke 1:39-56) when the unborn John leaped in Elizabeth's womb at the approach of the pregnant Mary, recognizing the presence of the Messiah. The intimate family scene emphasizes the human bonds through which God's plan of salvation unfolded. The interaction between the Christ Child and young John prefigures the Baptist's later ministry of pointing to Jesus as the Lamb of God (John 1:29). Elizabeth's presence recalls her Spirit-filled declaration: 'Blessed are you among women, and blessed is the fruit of your womb' (Luke 1:42).",
   "scripture_refs": [
-    {"ref": "LUK.1.39-45", "relevance": "primary", "reason": "The Visitation — Elizabeth and Mary together, John recognizing Jesus"},
-    {"ref": "LUK.1.42", "relevance": "primary", "reason": "Elizabeth's blessing: blessed are you among women"},
-    {"ref": "JHN.1.29", "relevance": "typological", "reason": "John's future role pointing to Jesus as the Lamb of God, prefigured here"}
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation — Elizabeth and Mary together, John recognizing Jesus"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Elizabeth's blessing: blessed are you among women"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John's future role pointing to Jesus as the Lamb of God, prefigured here"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["tender", "intimate", "warm", "devotional"],
+  "mood": [
+    "tender",
+    "intimate",
+    "warm",
+    "devotional"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080638",

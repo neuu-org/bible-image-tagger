@@ -1,12 +1,32 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Gabriel", "type": "ANGEL"},
-    {"name": "Holy Spirit", "type": "DEITY"},
-    {"name": "Putti", "type": "GROUP"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    },
+    {
+      "name": "Putti",
+      "type": "GROUP"
+    }
   ],
   "event": "The Annunciation",
-  "tags": ["annunciation", "angel-gabriel", "virgin-mary", "holy-spirit", "dove", "lily", "putti", "baroque", "murillo"],
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "holy-spirit",
+    "dove",
+    "lily",
+    "putti"
+  ],
   "symbols": [
     "dove — Holy Spirit descending upon Mary",
     "lily — Mary's purity",
@@ -17,12 +37,29 @@
   "description": "An arched Baroque painting of the Annunciation. The Angel Gabriel, in flowing pink and white robes with large wings, floats on a cloud at right, holding a lily and pointing upward. The Virgin Mary kneels at a prayer desk with an open book, looking up in surprise and reverence. A white dove representing the Holy Spirit hovers between them in brilliant golden light. Putti and cherub heads fill the clouds above. The composition has dramatic Baroque lighting.",
   "theological_description": "The Annunciation marks the pivotal moment of salvation history when the Angel Gabriel announces to Mary that she has been chosen to bear the Son of God. Murillo's sumptuous Baroque treatment emphasizes the supernatural nature of the event — the heavens open with golden light, the Holy Spirit descends as a dove, and the angelic messenger arrives on clouds of glory. Mary's open book symbolizes her prayerful life and the prophecies now being fulfilled. Her posture of humble receptivity embodies the fiat — 'Let it be done to me according to your word.' The lily Gabriel holds signifies Mary's virginal purity, preserved through the miraculous conception by the Holy Spirit.",
   "scripture_refs": [
-    {"ref": "LK.1.26-38", "relevance": "primary", "reason": "Gabriel announces to Mary that she will conceive by the Holy Spirit"},
-    {"ref": "IS.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son, Emmanuel"},
-    {"ref": "LK.1.35", "relevance": "primary", "reason": "The Holy Spirit will come upon you — the dove symbolism"}
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "Gabriel announces to Mary that she will conceive by the Holy Spirit"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son, Emmanuel"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you — the dove symbolism"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["luminous", "sacred", "awe-inspiring", "reverent"],
+  "mood": [
+    "luminous",
+    "sacred",
+    "awe-inspiring",
+    "reverent"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090490",

@@ -23,15 +23,43 @@
   "description": "A wide canal towpath curves gently from the lower center toward a distant village. The foreground is a sandy-ochre path with a few small figures and scattered timber or logs. To the left a leafless tree with first hints of spring growth stands against the sky. In the middle distance a cluster of village buildings with red and grey rooftops sits among green and golden trees. The sky occupies roughly two-thirds of the canvas as a vast expanse of pale blue mottled with white and lavender clouds, capturing diffused light on a mild spring day.",
   "theological_description": "This luminous landscape contains no explicit biblical subject, yet it speaks powerfully to the theology of creation and general revelation. 'The heavens declare the glory of God, and the sky proclaims his handiwork' (Psalm 19:1) — and the sky is given two-thirds of the canvas, as if insisting the created heavens are the primary text. The canal — a waterway shaped by human labor through the land God made — embodies the biblical vocation of stewardship: humanity working with creation, channeling water to sustain agriculture and community, fulfilling the mandate to tend and keep the garden (Genesis 2:15). The small village nestled among trees is an image of shalom — the peace of a community dwelling within creation's rhythms. The bare trees showing first signs of spring growth speak to the pattern of death and resurrection embedded in the natural order: 'Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit' (John 12:24). Paul saw in the natural world a testimony: 'His invisible attributes have been clearly perceived in the things that have been made' (Romans 1:20). This painting renders exactly those things — light, sky, water, earth — with tenderness that invites reverent attention to the world the Bible declares God made and called good (Genesis 1:31).",
   "scripture_refs": [
-    {"ref": "PSA.19.1-2", "relevance": "primary", "reason": "The heavens declare the glory of God — the vast sky dominating the canvas embodies creation's testimony to its Creator"},
-    {"ref": "GEN.1.31", "relevance": "primary", "reason": "God saw everything he had made and it was very good — the painting renders the goodness and beauty of the created order"},
-    {"ref": "ROM.1.20", "relevance": "primary", "reason": "God's invisible attributes are clearly perceived in things that have been made — general revelation through natural beauty"},
-    {"ref": "GEN.2.15", "relevance": "allusion", "reason": "The LORD God put man in the garden to work and keep it — the canal and cultivated landscape reflect the stewardship mandate"},
-    {"ref": "JHN.12.24", "relevance": "typological", "reason": "Unless a grain of wheat falls into the earth and dies — bare trees budding into new life embody the death-and-resurrection pattern"},
-    {"ref": "PSA.104.10-13", "relevance": "allusion", "reason": "God makes springs pour water into the valleys — the canal as expression of God's provision through water"}
+    {
+      "ref": "PSA.19.1-2",
+      "relevance": "typological",
+      "reason": "The heavens declare the glory of God — the vast sky dominating the canvas embodies creation's testimony to its Creator"
+    },
+    {
+      "ref": "GEN.1.31",
+      "relevance": "typological",
+      "reason": "God saw everything he had made and it was very good — the painting renders the goodness and beauty of the created order"
+    },
+    {
+      "ref": "ROM.1.20",
+      "relevance": "typological",
+      "reason": "God's invisible attributes are clearly perceived in things that have been made — general revelation through natural beauty"
+    },
+    {
+      "ref": "GEN.2.15",
+      "relevance": "allusion",
+      "reason": "The LORD God put man in the garden to work and keep it — the canal and cultivated landscape reflect the stewardship mandate"
+    },
+    {
+      "ref": "JHN.12.24",
+      "relevance": "typological",
+      "reason": "Unless a grain of wheat falls into the earth and dies — bare trees budding into new life embody the death-and-resurrection pattern"
+    },
+    {
+      "ref": "PSA.104.10-13",
+      "relevance": "allusion",
+      "reason": "God makes springs pour water into the valleys — the canal as expression of God's provision through water"
+    }
   ],
   "scene_type": "landscape",
-  "mood": ["tranquil", "contemplative", "serene"],
+  "mood": [
+    "tranquil",
+    "contemplative",
+    "serene"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000344",

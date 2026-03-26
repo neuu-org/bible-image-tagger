@@ -1,22 +1,67 @@
 {
   "characters": [
-    {"name": "Angel of Death", "type": "ANGEL"},
-    {"name": "Dying Young Woman", "type": "PERSON"},
-    {"name": "Grieving Man", "type": "PERSON"}
+    {
+      "name": "Angel of Death",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Dying Young Woman",
+      "type": "PERSON"
+    },
+    {
+      "name": "Grieving Man",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["angel-of-death", "death", "romanticism", "deathbed", "soul-departing", "mourning", "divine-light"],
-  "symbols": ["dark-winged angel — the angel of death", "white-robed woman — pure soul being taken", "divine light from above — heavenly destination", "open prayer book — faith and devotion", "icon on stand — religious devotion of the dying", "grieving man — human loss and sorrow", "cross on chest — Christian faith"],
+  "event": "Angel of Death",
+  "tags": [
+    "angel-of-death",
+    "death",
+    "deathbed",
+    "soul-departing",
+    "mourning",
+    "divine-light"
+  ],
+  "symbols": [
+    "dark-winged angel — the angel of death",
+    "white-robed woman — pure soul being taken",
+    "divine light from above — heavenly destination",
+    "open prayer book — faith and devotion",
+    "icon on stand — religious devotion of the dying",
+    "grieving man — human loss and sorrow",
+    "cross on chest — Christian faith"
+  ],
   "description": "A dramatic Romantic painting showing the Angel of Death — a dark, hooded figure with large brown wings — gathering the soul of a young woman from her deathbed. The woman, in a white gown with a cross at her breast and long flowing hair, appears to be rising or being lifted upward. A beam of divine light shines from above. At the foot of the bed, a man collapses in grief. An icon on a stand and an open prayer book are visible at the bedside. The composition is theatrical and emotionally charged.",
   "theological_description": "This painting visualizes the moment of death as understood in Christian tradition — the soul departing the body, escorted by an angel to its eternal destination. While the figure is called the Angel of Death, the white garment and cross worn by the dying woman, combined with the divine light from above, suggest she is among the righteous dead who are received into God's presence. The scene reflects the Christian hope expressed in 2 Corinthians 5:8 — to be absent from the body is to be present with the Lord. The contrast between the grieving man below and the luminous scene above captures the tension between earthly loss and heavenly gain that Paul describes in Philippians 1:21-23.",
   "scripture_refs": [
-    {"ref": "2CO.5.8", "relevance": "allusion", "reason": "To be absent from the body is to be present with the Lord"},
-    {"ref": "PHP.1.21-23", "relevance": "allusion", "reason": "To live is Christ and to die is gain — the tension between earthly grief and heavenly hope"},
-    {"ref": "PSA.116.15", "relevance": "allusion", "reason": "Precious in the sight of the Lord is the death of His saints"},
-    {"ref": "LUK.16.22", "relevance": "allusion", "reason": "Angels carrying the righteous soul to Abraham's side"}
+    {
+      "ref": "2CO.5.8",
+      "relevance": "allusion",
+      "reason": "To be absent from the body is to be present with the Lord"
+    },
+    {
+      "ref": "PHP.1.21-23",
+      "relevance": "allusion",
+      "reason": "To live is Christ and to die is gain — the tension between earthly grief and heavenly hope"
+    },
+    {
+      "ref": "PSA.116.15",
+      "relevance": "allusion",
+      "reason": "Precious in the sight of the Lord is the death of His saints"
+    },
+    {
+      "ref": "LUK.16.22",
+      "relevance": "allusion",
+      "reason": "Angels carrying the righteous soul to Abraham's side"
+    }
   ],
   "scene_type": "allegory",
-  "mood": ["sorrowful", "ethereal", "dramatic", "hopeful"],
+  "mood": [
+    "sorrowful",
+    "ethereal",
+    "dramatic",
+    "hopeful"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080456",

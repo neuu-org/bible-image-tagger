@@ -1,22 +1,63 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Apostles", "type": "GROUP"},
-    {"name": "Judas Iscariot", "type": "PERSON"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    }
   ],
   "event": "The Last Supper",
-  "tags": ["last-supper", "eucharist", "apostles", "upper-room", "baroque", "procaccini", "dramatic-lighting"],
-  "symbols": ["bread and wine on table — institution of the Eucharist", "dramatic gestures — shock at Christ's betrayal announcement", "dark interior — approaching night of the Passion", "Christ at center — the focal point of the new covenant"],
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "apostles",
+    "upper-room",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "bread and wine on table — institution of the Eucharist",
+    "dramatic gestures — shock at Christ's betrayal announcement",
+    "dark interior — approaching night of the Passion",
+    "Christ at center — the focal point of the new covenant"
+  ],
   "description": "A dramatic Baroque Last Supper composition in a lunette-shaped format. Christ sits at the center of a long table, surrounded by the twelve apostles who react with intense emotion. The figures are captured in dynamic, expressive poses — some leaning forward, others pulling back in shock, gesturing dramatically. The lighting is theatrical, with strong chiaroscuro illuminating faces and hands against the dark interior. The composition is densely packed with overlapping figures, creating a sense of intense energy and drama characteristic of Giulio Cesare Procaccini's style.",
   "theological_description": "The Last Supper (Matthew 26:17-30, Mark 14:12-26, Luke 22:7-38, John 13) is the foundational event of Christian eucharistic worship. At this final Passover meal, Jesus took bread and wine and declared them His body and blood, given for the forgiveness of sins, establishing the New Covenant. The dramatic reactions of the apostles likely respond to Jesus' announcement that one of them would betray Him — 'Truly, I say to you, one of you will betray me' (Matthew 26:21). This moment combines the institution of Christianity's central sacrament with the revelation of human betrayal, capturing the intersection of divine grace and human sin at the heart of the Passion narrative.",
   "scripture_refs": [
-    {"ref": "MAT.26.17-30", "relevance": "primary", "reason": "The Last Supper, institution of the Eucharist, and announcement of betrayal"},
-    {"ref": "MAT.26.21", "relevance": "primary", "reason": "One of you will betray me — the cause of the apostles' dramatic reactions"},
-    {"ref": "LUK.22.19-20", "relevance": "primary", "reason": "This is my body given for you; this cup is the new covenant in my blood"},
-    {"ref": "1CO.11.23-26", "relevance": "allusion", "reason": "Paul's account of the institution of the Lord's Supper"}
+    {
+      "ref": "MAT.26.17-30",
+      "relevance": "primary",
+      "reason": "The Last Supper, institution of the Eucharist, and announcement of betrayal"
+    },
+    {
+      "ref": "MAT.26.21",
+      "relevance": "primary",
+      "reason": "One of you will betray me — the cause of the apostles' dramatic reactions"
+    },
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "This is my body given for you; this cup is the new covenant in my blood"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "allusion",
+      "reason": "Paul's account of the institution of the Lord's Supper"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["dramatic", "tense", "emotional", "sacred"],
+  "mood": [
+    "dramatic",
+    "tense",
+    "emotional",
+    "sacred"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080727",

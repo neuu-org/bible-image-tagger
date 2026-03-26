@@ -1,23 +1,69 @@
 {
   "characters": [
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Joseph", "type": "PERSON"},
-    {"name": "Shepherds", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
   ],
   "event": "Adoration of the Shepherds",
-  "tags": ["adoration-of-shepherds", "nativity", "manger", "shepherds", "holy-family", "baroque", "ribera"],
-  "symbols": ["manger with straw — humble birth of the King of Kings", "swaddling clothes — fulfillment of the angelic sign (Luke 2:12)", "lamb — Christ as the Lamb of God", "praying hands of Mary — contemplative devotion", "shepherds in rough clothing — the lowly as first witnesses"],
+  "tags": [
+    "adoration-of-shepherds",
+    "nativity",
+    "manger",
+    "shepherds",
+    "holy-family",
+    "ribera"
+  ],
+  "symbols": [
+    "manger with straw — humble birth of the King of Kings",
+    "swaddling clothes — fulfillment of the angelic sign (Luke 2:12)",
+    "lamb — Christ as the Lamb of God",
+    "praying hands of Mary — contemplative devotion",
+    "shepherds in rough clothing — the lowly as first witnesses"
+  ],
   "description": "A Baroque Nativity scene showing the Adoration of the Shepherds. The Infant Jesus lies in a straw manger at the center, wrapped in white swaddling clothes and emanating a soft glow. The Virgin Mary, wearing a dark blue veil, kneels in prayer beside Him. Joseph stands behind with hands joined in prayer. Several shepherds in rough, earthy clothing gather around with expressions of wonder and devotion. A white lamb lies at the bottom of the composition. The scene is set in a humble stable with a landscape visible in the background.",
   "theological_description": "The Adoration of the Shepherds from Luke 2:8-20 shows the first witnesses to the Incarnation. God chose shepherds — among the lowest social classes — as the first to receive the angelic announcement and visit the newborn Messiah, establishing a pattern of divine preference for the humble and lowly (1 Corinthians 1:27-28). The lamb in the foreground foreshadows Christ's identity as the Lamb of God who takes away the sin of the world (John 1:29). Mary's contemplative posture reflects Luke 2:19: she 'treasured up all these things, pondering them in her heart.' The humble stable setting reveals that God enters the world not in royal splendor but in poverty.",
   "scripture_refs": [
-    {"ref": "LUK.2.8-20", "relevance": "primary", "reason": "The shepherds visiting the newborn Jesus in the manger"},
-    {"ref": "LUK.2.12", "relevance": "primary", "reason": "The sign: a baby wrapped in swaddling clothes, lying in a manger"},
-    {"ref": "JHN.1.29", "relevance": "typological", "reason": "The Lamb of God foreshadowed by the lamb in the scene"},
-    {"ref": "LUK.2.19", "relevance": "allusion", "reason": "Mary pondering these things in her heart, shown in her prayerful posture"}
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The shepherds visiting the newborn Jesus in the manger"
+    },
+    {
+      "ref": "LUK.2.12",
+      "relevance": "primary",
+      "reason": "The sign: a baby wrapped in swaddling clothes, lying in a manger"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The Lamb of God foreshadowed by the lamb in the scene"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary pondering these things in her heart, shown in her prayerful posture"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["reverent", "tender", "humble", "warm"],
+  "mood": [
+    "reverent",
+    "tender",
+    "humble",
+    "warm"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080345",

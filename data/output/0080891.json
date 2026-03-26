@@ -1,19 +1,47 @@
 {
   "characters": [
-    {"name": "Tibullus (or Classical Poet)", "type": "PERSON"},
-    {"name": "Prophet or Sibyl", "type": "PERSON"}
+    {
+      "name": "Tibullus (or Classical Poet)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Prophet or Sibyl",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["classical-poet", "fresco", "renaissance", "signorelli", "orvieto-cathedral", "grotesque-decoration", "laurel-wreath"],
-  "symbols": ["laurel wreath — poetic or prophetic authority", "scroll or book — literary or prophetic writings", "ornate grotesque decoration — Renaissance blending of classical and sacred motifs", "medallion scenes — related narratives"],
+  "event": "Tibullus",
+  "tags": [
+    "classical-poet",
+    "grotesque-decoration",
+    "laurel-wreath"
+  ],
+  "symbols": [
+    "laurel wreath — poetic or prophetic authority",
+    "scroll or book — literary or prophetic writings",
+    "ornate grotesque decoration — Renaissance blending of classical and sacred motifs",
+    "medallion scenes — related narratives"
+  ],
   "description": "A detail of a Renaissance fresco from the Orvieto Cathedral decoration, attributed to Luca Signorelli. The main figure is a classical poet or seer (identified as Tibullus), depicted with a laurel wreath and holding a scroll or book. He is set against an elaborate background of grotesque decorative patterns in gold with medallion scenes. To the left, a partial figure of another person (possibly a prophet or sibyl) is visible in an arched frame. The painting shows rich ornamentation combining classical and Christian motifs typical of Renaissance chapel programs.",
   "theological_description": "The inclusion of the classical Roman poet Tibullus (c. 55-19 BC) in the decorative program of a cathedral reflects the Renaissance understanding that pagan poets and philosophers could contain seeds of divine truth that pointed toward Christian revelation. This tradition, rooted in Justin Martyr's concept of the 'logos spermatikos' and Augustine's idea of 'spoiling the Egyptians' (drawing truth from pagan sources), saw classical writers as unwitting prophets whose best insights foreshadowed Gospel truths. The placement alongside biblical prophets in the cathedral program suggests a typological relationship between pagan wisdom and Christian revelation.",
   "scripture_refs": [
-    {"ref": "ACT.17.28", "relevance": "allusion", "reason": "Paul quoting pagan poets — the precedent for including classical writers in sacred contexts"},
-    {"ref": "JHN.1.9", "relevance": "allusion", "reason": "The true light that enlightens every person — including pagan poets"}
+    {
+      "ref": "ACT.17.28",
+      "relevance": "allusion",
+      "reason": "Paul quoting pagan poets — the precedent for including classical writers in sacred contexts"
+    },
+    {
+      "ref": "JHN.1.9",
+      "relevance": "allusion",
+      "reason": "The true light that enlightens every person — including pagan poets"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["scholarly", "ornate", "dignified", "classical"],
+  "mood": [
+    "scholarly",
+    "ornate",
+    "dignified",
+    "classical"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080891",

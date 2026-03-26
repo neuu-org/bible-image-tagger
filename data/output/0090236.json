@@ -1,11 +1,27 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "John the Baptist", "type": "PERSON"},
-    {"name": "Witnesses", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Witnesses",
+      "type": "GROUP"
+    }
   ],
   "event": "Baptism of Jesus",
-  "tags": ["baptism-of-jesus", "jordan-river", "john-the-baptist", "holy-spirit", "dove", "light-from-heaven", "dore-engraving"],
+  "tags": [
+    "baptism-of-jesus",
+    "jordan-river",
+    "john-the-baptist",
+    "holy-spirit",
+    "dove",
+    "light-from-heaven"
+  ],
   "symbols": [
     "light rays from heaven — divine approval and presence",
     "water — purification and rebirth",
@@ -15,12 +31,29 @@
   "description": "A black-and-white engraving showing Jesus standing in the Jordan River with one arm raised toward heaven. John the Baptist stands beside him holding a cross-topped staff. Dramatic rays of light break through storm clouds. A witness stands to the right observing. The landscape is rendered with Dore's characteristic detailed cross-hatching. Text at bottom references Mark 1.",
   "theological_description": "The Baptism of Jesus by John in the Jordan River inaugurates Christ's public ministry. As Jesus rises from the water, the heavens open and the Spirit descends like a dove, while the Father's voice proclaims, 'You are my beloved Son; with you I am well pleased.' This theophany reveals the Trinitarian nature of God. Jesus's willingness to undergo a baptism of repentance, though sinless, demonstrates his solidarity with sinful humanity — he takes upon himself the burden of human sin that he will bear to the cross. John's cross-shaped staff in this engraving foreshadows the Passion to come.",
   "scripture_refs": [
-    {"ref": "MK.1.9-11", "relevance": "primary", "reason": "Mark's account of Jesus's baptism referenced in the image text"},
-    {"ref": "MT.3.13-17", "relevance": "primary", "reason": "Parallel account of the baptism with the heavenly voice"},
-    {"ref": "JN.1.29-34", "relevance": "allusion", "reason": "John's testimony: Behold the Lamb of God who takes away the sin of the world"}
+    {
+      "ref": "MRK.1.9-11",
+      "relevance": "primary",
+      "reason": "Mark's account of Jesus's baptism referenced in the image text"
+    },
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "Parallel account of the baptism with the heavenly voice"
+    },
+    {
+      "ref": "JHN.1.29-34",
+      "relevance": "allusion",
+      "reason": "John's testimony: Behold the Lamb of God who takes away the sin of the world"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["revelatory", "dramatic", "sacred", "solemn"],
+  "mood": [
+    "revelatory",
+    "dramatic",
+    "sacred",
+    "solemn"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090236",

@@ -1,19 +1,51 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["virgin-mary", "titian", "devotional", "polyptych-fragment", "venetian-renaissance", "sorrow", "contemplation"],
-  "symbols": ["hand on chest — grief and devotion", "blue mantle — heavenly queenship", "red dress — suffering and the Passion", "downcast eyes — sorrow and contemplation", "veil — modesty and mourning"],
+  "event": "Polyptych of the Resurrection",
+  "tags": [
+    "virgin-mary",
+    "devotional",
+    "polyptych-fragment",
+    "sorrow",
+    "contemplation"
+  ],
+  "symbols": [
+    "hand on chest — grief and devotion",
+    "blue mantle — heavenly queenship",
+    "red dress — suffering and the Passion",
+    "downcast eyes — sorrow and contemplation",
+    "veil — modesty and mourning"
+  ],
   "description": "A half-length portrait of the Virgin Mary from a polyptych, painted by Titian. Mary is shown in profile, her head bowed in sorrow, with one hand pressed to her chest. She wears a red dress under a blue-grey mantle, with a light veil over her hair. Her expression conveys deep grief and contemplation. The painting is set against a dark background, focusing all attention on the luminous face and the emotional gesture. The style shows Titian's characteristic warm coloring and sensitive handling of flesh tones.",
   "theological_description": "This image of the sorrowful Virgin, likely from a Resurrection polyptych, shows Mary in the grief of Holy Saturday — the day between the Crucifixion and the Resurrection. Her hand on her chest expresses the sword that pierced her soul, as Simeon prophesied (Luke 2:35). Yet this is not despair but the sorrow of faith that awaits vindication. The fragment likely formed part of an altarpiece where Mary's grief was juxtaposed with the triumph of the Resurrection, embodying the Christian movement from Passion to glory. Mary's quiet suffering models the faithful response to inexplicable suffering — trusting in God's promises even when all seems lost.",
   "scripture_refs": [
-    {"ref": "LUK.2.35", "relevance": "primary", "reason": "A sword will pierce your own soul — Mary's grief depicted in her gesture"},
-    {"ref": "JHN.19.25", "relevance": "primary", "reason": "Standing near the cross of Jesus was His mother — the source of her sorrow"},
-    {"ref": "PSA.13.1-2", "relevance": "allusion", "reason": "How long, O Lord? — the faithful lament in the darkness before resurrection"}
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "A sword will pierce your own soul — Mary's grief depicted in her gesture"
+    },
+    {
+      "ref": "JHN.19.25",
+      "relevance": "primary",
+      "reason": "Standing near the cross of Jesus was His mother — the source of her sorrow"
+    },
+    {
+      "ref": "PSA.13.1-2",
+      "relevance": "allusion",
+      "reason": "How long, O Lord? — the faithful lament in the darkness before resurrection"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["sorrowful", "contemplative", "tender", "devotional"],
+  "mood": [
+    "sorrowful",
+    "contemplative",
+    "tender",
+    "devotional"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0081024",

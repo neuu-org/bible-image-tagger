@@ -1,10 +1,24 @@
 {
   "characters": [
-    {"name": "Saint Jerome", "type": "PERSON"},
-    {"name": "Lion", "type": "OTHER"}
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Lion",
+      "type": "OTHER"
+    }
   ],
   "event": "Saint Jerome in the Wilderness",
-  "tags": ["saint-jerome", "lion", "wilderness", "reading", "scholar", "crucifix", "church-father", "cranach"],
+  "tags": [
+    "saint-jerome",
+    "lion",
+    "wilderness",
+    "reading",
+    "scholar",
+    "crucifix",
+    "church-father"
+  ],
   "symbols": [
     "book/manuscript — Scripture translation (the Vulgate)",
     "lion — Jerome's faithful companion (legend of the thorn)",
@@ -15,12 +29,29 @@
   "description": "Saint Jerome sits at a rough wooden desk in a rocky wilderness, reading from an open book. He is depicted as an elderly, balding, bearded man in a red robe. A lion lies calmly at his feet. A small crucifix is mounted on the rock face. In the background, a church spire rises amid a mountainous landscape with a lake. Dense foliage and dramatic rock formations frame the scene. The painting is in Cranach's characteristic Northern Renaissance style.",
   "theological_description": "Saint Jerome (c. 347-420) was one of the four great Latin Doctors of the Church, best known for translating the Bible into Latin (the Vulgate), which became the standard Scripture of the Western Church for over a millennium. He is shown in his wilderness retreat in Bethlehem, where he spent decades in ascetic scholarship. The lion, according to legend, became his companion after Jerome removed a thorn from its paw. The open book represents his life's work of making Scripture accessible. The crucifix reminds us that all Jerome's scholarship served Christ. His example established the principle that faithful Bible translation and rigorous study are acts of worship.",
   "scripture_refs": [
-    {"ref": "2TI.3.16-17", "relevance": "allusion", "reason": "All Scripture is God-breathed — Jerome's life devoted to translating it"},
-    {"ref": "PS.119.105", "relevance": "allusion", "reason": "Your word is a lamp to my feet — Jerome's scholarly devotion to the Word"},
-    {"ref": "JN.5.39", "relevance": "allusion", "reason": "You search the Scriptures because in them you think you have eternal life"}
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed — Jerome's life devoted to translating it"
+    },
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "Your word is a lamp to my feet — Jerome's scholarly devotion to the Word"
+    },
+    {
+      "ref": "JHN.5.39",
+      "relevance": "allusion",
+      "reason": "You search the Scriptures because in them you think you have eternal life"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["contemplative", "scholarly", "peaceful", "devout"],
+  "mood": [
+    "contemplative",
+    "scholarly",
+    "peaceful",
+    "devout"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0090676",

@@ -1,10 +1,24 @@
 {
   "characters": [
-    {"name": "Saint (Franciscan friar)", "type": "PERSON"},
-    {"name": "Nun/Saint", "type": "PERSON"}
+    {
+      "name": "Saint (Franciscan friar)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nun/Saint",
+      "type": "PERSON"
+    }
   ],
   "event": "Death of a Saint / Deathbed Scene",
-  "tags": ["deathbed", "saint", "franciscan", "nun", "crucifix", "dog", "baroque", "religious-life"],
+  "tags": [
+    "deathbed",
+    "saint",
+    "franciscan",
+    "nun",
+    "crucifix",
+    "dog",
+    "religious-life"
+  ],
   "symbols": [
     "crucifix held by friar — commending the dying soul to Christ",
     "bed — deathbed scene, holy death",
@@ -15,12 +29,29 @@
   "description": "A Baroque painting showing a deathbed scene. A Franciscan friar in a dark brown habit holds a crucifix and gestures upward while comforting a dying nun or female saint who lies in bed wearing a religious habit. The nun reaches upward with one hand. A small dog sits at the foot of the bed. Golden light illuminates the figures against a dark background. The scene is intimate and devotional.",
   "theological_description": "This deathbed scene depicts the holy death (ars moriendi) of a female religious, attended by a Franciscan friar who holds a crucifix before her — ensuring that Christ's cross is the last thing she sees. The Christian tradition of the 'good death' emphasizes dying in a state of grace, accompanied by the sacraments and the prayers of the faithful. The dying saint's upward gesture suggests she already perceives the heavenly realm opening before her. The Franciscan's presence and crucifix embody the Church's ministry of accompaniment at the threshold of eternity, fulfilling Christ's promise that he would never leave his faithful alone.",
   "scripture_refs": [
-    {"ref": "PHP.1.21", "relevance": "allusion", "reason": "For to me, to live is Christ, and to die is gain — the holy death"},
-    {"ref": "PS.23.4", "relevance": "allusion", "reason": "Though I walk through the valley of the shadow of death, I will fear no evil"},
-    {"ref": "RV.14.13", "relevance": "allusion", "reason": "Blessed are the dead who die in the Lord"}
+    {
+      "ref": "PHP.1.21",
+      "relevance": "allusion",
+      "reason": "For to me, to live is Christ, and to die is gain — the holy death"
+    },
+    {
+      "ref": "PSA.23.4",
+      "relevance": "allusion",
+      "reason": "Though I walk through the valley of the shadow of death, I will fear no evil"
+    },
+    {
+      "ref": "REV.14.13",
+      "relevance": "allusion",
+      "reason": "Blessed are the dead who die in the Lord"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["solemn", "tender", "peaceful", "devotional"],
+  "mood": [
+    "solemn",
+    "tender",
+    "peaceful",
+    "devotional"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0091155",

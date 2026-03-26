@@ -18,19 +18,23 @@
   "scripture_refs": [
     {
       "ref": "REV.7.9-14",
-      "relevance": "primary"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "REV.2.10",
-      "relevance": "primary"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "2TI.4.7-8",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     },
     {
       "ref": "ROM.8.35-37",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     }
   ],
   "scene_type": "portrait",
@@ -46,5 +50,6 @@
     "artist": "Francisco de Zurbaran",
     "model": "claude-opus-4-6"
   },
-  "event": "Martyrdom of Saint Euphemia"
+  "event": "Martyrdom of Saint Euphemia",
+  "symbols": []
 }

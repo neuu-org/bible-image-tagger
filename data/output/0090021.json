@@ -1,12 +1,33 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Magi", "type": "GROUP"},
-    {"name": "Donors", "type": "GROUP"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Donors",
+      "type": "GROUP"
+    }
   ],
   "event": "Adoration of the Magi",
-  "tags": ["adoration-of-the-magi", "epiphany", "triptych", "nativity", "gifts", "infant-jesus", "virgin-mary", "stable", "landscape"],
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "nativity",
+    "gifts",
+    "infant-jesus",
+    "virgin-mary",
+    "stable",
+    "landscape"
+  ],
   "symbols": [
     "star — guidance to Christ",
     "gifts — gold for kingship, frankincense for divinity, myrrh for death",
@@ -16,12 +37,29 @@
   "description": "A triptych with arched panels. The central panel shows the Magi presenting gifts to the infant Jesus seated on the Virgin Mary's lap under a dilapidated stable. One Magus kneels, another stands in rich robes. Expansive hilly landscape with cities in the background. Side panels show donor figures with saints. A star gleams in the sky above.",
   "theological_description": "The Adoration of the Magi represents the Epiphany — the manifestation of Christ to the Gentile world. The three Magi, traditionally named Caspar, Melchior, and Balthasar, follow a miraculous star from the East to Bethlehem, where they present symbolic gifts: gold acknowledging Christ's kingship, frankincense his divinity, and myrrh foreshadowing his suffering and death. The dilapidated stable signifies the Old Covenant giving way to the New. The Magi's journey from distant lands fulfills Isaiah's prophecy that nations shall come to the light of God's glory. Their worship affirms Jesus as the universal savior, not for Israel alone but for all peoples. The donors on the wings place themselves within this salvific scene.",
   "scripture_refs": [
-    {"ref": "MT.2.1-12", "relevance": "primary", "reason": "The visit and worship of the Magi from the East"},
-    {"ref": "IS.60.1-6", "relevance": "typological", "reason": "Nations shall come to your light, bearing gold and frankincense"},
-    {"ref": "PS.72.10-11", "relevance": "typological", "reason": "Kings of Tarshish and distant shores bring tribute"}
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The visit and worship of the Magi from the East"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light, bearing gold and frankincense"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish and distant shores bring tribute"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["majestic", "reverent", "celebratory", "mysterious"],
+  "mood": [
+    "majestic",
+    "reverent",
+    "celebratory",
+    "mysterious"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090021",

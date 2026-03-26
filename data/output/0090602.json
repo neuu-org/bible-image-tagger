@@ -1,9 +1,20 @@
 {
   "characters": [
-    {"name": "Female Saint", "type": "PERSON"}
+    {
+      "name": "Female Saint",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["female-saint", "crown", "halo", "portrait", "holbein", "golden-crown", "long-hair"],
+  "event": "Head of a Female Saint",
+  "tags": [
+    "female-saint",
+    "crown",
+    "halo",
+    "portrait",
+    "holbein",
+    "golden-crown",
+    "long-hair"
+  ],
   "symbols": [
     "crown — royal or noble saint, possibly St. Catherine or St. Ursula",
     "gold halo — sanctity",
@@ -12,11 +23,24 @@
   "description": "A close-up portrait of a young female saint with long flowing blonde hair, wearing an ornate golden crown with leaf-like finials. A large gold halo disc is visible behind her head. She wears a red garment with a dark collar. Her expression is gentle and slightly melancholic. The painting style is precise and detailed, characteristic of Northern Renaissance portraiture.",
   "theological_description": "This portrait of a crowned female saint likely represents one of the virgin martyr saints — possibly St. Catherine of Alexandria, St. Ursula, or St. Barbara — who were widely venerated in the late medieval period. The crown signifies her noble birth or heavenly reward, while the halo confirms her sanctity. Virgin martyrs were celebrated for choosing fidelity to Christ over earthly marriage or compromise with paganism, often suffering death rather than renounce their faith. They embody the Beatitude: 'Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.'",
   "scripture_refs": [
-    {"ref": "MT.5.10", "relevance": "allusion", "reason": "Blessed are those persecuted for righteousness — the crown of martyrdom"},
-    {"ref": "RV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and I will give you the crown of life"}
+    {
+      "ref": "MAT.5.10",
+      "relevance": "allusion",
+      "reason": "Blessed are those persecuted for righteousness — the crown of martyrdom"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and I will give you the crown of life"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["serene", "noble", "devotional", "gentle"],
+  "mood": [
+    "serene",
+    "noble",
+    "devotional",
+    "gentle"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0090602",

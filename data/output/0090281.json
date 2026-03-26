@@ -1,10 +1,23 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Apostles", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
   ],
   "event": "The Last Supper",
-  "tags": ["last-supper", "apostles", "eucharist", "engraving", "modernist-style", "geometric", "upper-room"],
+  "tags": [
+    "last-supper",
+    "apostles",
+    "eucharist",
+    "modernist-style",
+    "geometric",
+    "upper-room"
+  ],
   "symbols": [
     "table with bread — Eucharistic institution",
     "gathered figures — apostolic community",
@@ -14,12 +27,29 @@
   "description": "A small engraving in a geometric, modernist style depicting the Last Supper. Five or six haloed figures sit behind a trapezoidal table in a confined room with angular walls and vertical windows. Round objects (bread rolls) are arranged on the table. The composition uses strong linear perspective with hatched lines. The style is stylized and somewhat abstract.",
   "theological_description": "The Last Supper is the final meal Jesus shares with his apostles on the evening before his crucifixion. During this Passover meal, Jesus institutes the Eucharist, taking bread and wine and declaring them his body and blood, given for the forgiveness of sins. This moment establishes the New Covenant, replacing the Old Covenant sacrificial system with Christ's own self-offering. The intimate upper room setting emphasizes the communion between Christ and his followers. This modernist engraving distills the scene to its essential geometric forms, yet preserves the sacred gravity of the moment through the haloed figures and the ritualistic arrangement of bread.",
   "scripture_refs": [
-    {"ref": "MT.26.26-29", "relevance": "primary", "reason": "Institution of the Eucharist at the Last Supper"},
-    {"ref": "LK.22.14-20", "relevance": "primary", "reason": "Luke's account of the Last Supper and the new covenant in Christ's blood"},
-    {"ref": "1CO.11.23-26", "relevance": "allusion", "reason": "Paul's transmission of the Eucharistic tradition"}
+    {
+      "ref": "MAT.26.26-29",
+      "relevance": "primary",
+      "reason": "Institution of the Eucharist at the Last Supper"
+    },
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "Luke's account of the Last Supper and the new covenant in Christ's blood"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "allusion",
+      "reason": "Paul's transmission of the Eucharistic tradition"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["solemn", "sacred", "intimate", "austere"],
+  "mood": [
+    "solemn",
+    "sacred",
+    "intimate",
+    "austere"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090281",

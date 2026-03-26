@@ -24,23 +24,28 @@
   "scripture_refs": [
     {
       "ref": "GEN.7.17-24",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "GEN.8.8-12",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "GEN.6.14-22",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     },
     {
       "ref": "1PE.3.20-21",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "HEB.11.7",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     }
   ],
   "scene_type": "narrative",
@@ -56,5 +61,6 @@
     "artist": "Paulo Fontes",
     "model": "claude-opus-4-6"
   },
-  "event": "Noah and the Ark"
+  "event": "Noah and the Ark",
+  "symbols": []
 }

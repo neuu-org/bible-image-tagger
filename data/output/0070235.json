@@ -1,6 +1,9 @@
 {
   "characters": [
-    {"name": "Gospel Singers", "type": "GROUP"}
+    {
+      "name": "Gospel Singers",
+      "type": "GROUP"
+    }
   ],
   "event": "Gospel Singers Performing",
   "tags": [
@@ -11,7 +14,6 @@
     "african-american-spirituality",
     "praise",
     "musical-devotion",
-    "stained-glass",
     "joyful-worship"
   ],
   "symbols": [
@@ -23,8 +25,16 @@
   "description": "Two African American figures are shown in close-up, deeply absorbed in musical performance. In the foreground, a figure in a red garment plays a guitar, head tilted back with mouth open in song. Behind, a second figure with an open, impassioned expression sings with full voice. The background is composed of angular geometric shapes in blues, greens, yellows, and warm tones reminiscent of stained glass. The figures are rendered with strong, rounded forms and rich, warm skin tones. The overall composition conveys intense energy and devotion.",
   "theological_description": "",
   "scripture_refs": [
-    {"ref": "PSA.150.3-4", "relevance": "allusion", "reason": "Praise Him with stringed instruments — the biblical mandate for musical worship that gospel music fulfills"},
-    {"ref": "COL.3.16", "relevance": "allusion", "reason": "Singing psalms, hymns, and spiritual songs with gratitude in your hearts to God"}
+    {
+      "ref": "PSA.150.3-4",
+      "relevance": "allusion",
+      "reason": "Praise Him with stringed instruments — the biblical mandate for musical worship that gospel music fulfills"
+    },
+    {
+      "ref": "COL.3.16",
+      "relevance": "allusion",
+      "reason": "Singing psalms, hymns, and spiritual songs with gratitude in your hearts to God"
+    }
   ],
   "scene_type": "portrait",
   "mood": [

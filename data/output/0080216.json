@@ -1,20 +1,54 @@
 {
   "characters": [
-    {"name": "John the Baptist", "type": "PERSON"}
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["john-the-baptist", "caravaggio", "chiaroscuro", "wilderness", "prophet", "baroque", "youth"],
-  "symbols": ["bare torso — ascetic wilderness life", "red drapery — martyrdom to come", "dark setting — wilderness solitude", "melancholic expression — prophetic burden"],
+  "event": "John the Baptist",
+  "tags": [
+    "john-the-baptist",
+    "wilderness",
+    "prophet",
+    "youth"
+  ],
+  "symbols": [
+    "bare torso — ascetic wilderness life",
+    "red drapery — martyrdom to come",
+    "dark setting — wilderness solitude",
+    "melancholic expression — prophetic burden"
+  ],
   "description": "A young John the Baptist depicted as a handsome, bare-chested youth wrapped in a rich red cloak, seated in a dark, shadowy setting. His curly auburn hair frames a face with a pensive, downward gaze. The dramatic chiaroscuro lighting, characteristic of Caravaggio, illuminates the figure's flesh tones against the nearly black background. Tree branches and natural elements are barely visible in the darkness. A shallow dish or plate is visible at the left edge.",
   "theological_description": "Caravaggio depicts John the Baptist as a young man in the wilderness, before the beginning of his public ministry. John was set apart from before birth (Luke 1:15-17) and spent his formative years in the desert (Luke 1:80) before emerging to preach repentance and baptize in the Jordan. The pensive, almost melancholic mood may reflect the weight of his prophetic calling — he was destined to prepare the way for the Messiah (Isaiah 40:3) and ultimately to suffer martyrdom at the hands of Herod. The red drapery foreshadows his violent death by beheading (Mark 6:27). Jesus called John the greatest born among women (Matthew 11:11).",
   "scripture_refs": [
-    {"ref": "LUK.1.80", "relevance": "primary", "reason": "John growing up in the wilderness before his public ministry"},
-    {"ref": "MAT.3.1-4", "relevance": "allusion", "reason": "John the Baptist in the wilderness, his ascetic lifestyle"},
-    {"ref": "ISA.40.3", "relevance": "typological", "reason": "A voice crying in the wilderness, prepare the way of the Lord"},
-    {"ref": "MRK.6.27", "relevance": "allusion", "reason": "The red drapery foreshadowing John's martyrdom by beheading"}
+    {
+      "ref": "LUK.1.80",
+      "relevance": "primary",
+      "reason": "John growing up in the wilderness before his public ministry"
+    },
+    {
+      "ref": "MAT.3.1-4",
+      "relevance": "allusion",
+      "reason": "John the Baptist in the wilderness, his ascetic lifestyle"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "A voice crying in the wilderness, prepare the way of the Lord"
+    },
+    {
+      "ref": "MRK.6.27",
+      "relevance": "allusion",
+      "reason": "The red drapery foreshadowing John's martyrdom by beheading"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["contemplative", "melancholic", "intimate", "brooding"],
+  "mood": [
+    "contemplative",
+    "melancholic",
+    "intimate",
+    "brooding"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080216",

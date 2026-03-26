@@ -37,19 +37,23 @@
   "scripture_refs": [
     {
       "ref": "LUK.1.39-45",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "LUK.1.46-55",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "LUK.1.36",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     },
     {
       "ref": "LUK.1.15",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     }
   ],
   "scene_type": "narrative",
@@ -65,5 +69,6 @@
     "artist": "Gregorio Lopes",
     "model": "claude-opus-4-6"
   },
-  "event": "The Visitation"
+  "event": "The Visitation",
+  "symbols": []
 }

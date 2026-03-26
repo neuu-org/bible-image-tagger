@@ -1,19 +1,53 @@
 {
   "characters": [
-    {"name": "St. Peter", "type": "PERSON"}
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["saint-peter", "apostle", "keys", "book", "gold-halo", "panel-painting", "trecento", "italian-gothic"],
-  "symbols": ["keys — the keys of the kingdom of heaven given by Christ", "book — the Gospel and apostolic teaching", "golden halo with ornamentation — sanctity and apostolic authority", "golden mantle — glory and authority of the chief apostle"],
+  "event": "San Pietro",
+  "tags": [
+    "saint-peter",
+    "apostle",
+    "keys",
+    "book",
+    "gold-halo",
+    "panel-painting",
+    "trecento",
+    "italian-gothic"
+  ],
+  "symbols": [
+    "keys — the keys of the kingdom of heaven given by Christ",
+    "book — the Gospel and apostolic teaching",
+    "golden halo with ornamentation — sanctity and apostolic authority",
+    "golden mantle — glory and authority of the chief apostle"
+  ],
   "description": "A Trecento panel painting of St. Peter depicted as an elderly man with grey hair and a short beard. He wears a blue tunic under a golden-orange mantle and holds large ornate keys in one hand and a book (likely a Gospel or epistle) in the other. His halo is elaborately tooled gold leaf with decorative patterns. The background is gold leaf, now partially worn. The painting is on a wooden panel showing its age with some paint loss. The style is characteristic of 14th-century Sienese painting.",
   "theological_description": "St. Peter is depicted with his two defining attributes: the keys and the book. The keys refer to Christ's commission in Matthew 16:19: 'I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven.' This made Peter the foundation stone of the Church ('upon this rock I will build my Church,' Matthew 16:18). The book represents both Peter's role as teacher of the early Church and his two canonical epistles. As the chief among the apostles, Peter was the first to confess Jesus as the Christ (Matthew 16:16) and played the leading role in the early Church as recorded in the first half of Acts.",
   "scripture_refs": [
-    {"ref": "MAT.16.18-19", "relevance": "primary", "reason": "The keys of the kingdom given to Peter — his defining attribute shown here"},
-    {"ref": "MAT.16.16", "relevance": "allusion", "reason": "Peter's confession: You are the Christ, the Son of the living God"},
-    {"ref": "JHN.21.15-17", "relevance": "allusion", "reason": "Feed my sheep — Peter's pastoral commission represented by his authority"}
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "The keys of the kingdom given to Peter — his defining attribute shown here"
+    },
+    {
+      "ref": "MAT.16.16",
+      "relevance": "allusion",
+      "reason": "Peter's confession: You are the Christ, the Son of the living God"
+    },
+    {
+      "ref": "JHN.21.15-17",
+      "relevance": "allusion",
+      "reason": "Feed my sheep — Peter's pastoral commission represented by his authority"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["solemn", "authoritative", "sacred", "venerable"],
+  "mood": [
+    "solemn",
+    "authoritative",
+    "sacred",
+    "venerable"
+  ],
   "period": "Apostolic",
   "_meta": {
     "key": "0080698",

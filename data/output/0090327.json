@@ -1,9 +1,20 @@
 {
   "characters": [
-    {"name": "Saint Dominic de Guzmán", "type": "PERSON"}
+    {
+      "name": "Saint Dominic de Guzmán",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["saint-dominic", "dominican-order", "cross-staff", "lily", "dog-with-torch", "halo", "white-habit", "baroque"],
+  "event": "Saint Dominic of Guzmán",
+  "tags": [
+    "saint-dominic",
+    "dominican-order",
+    "cross-staff",
+    "lily",
+    "dog-with-torch",
+    "halo",
+    "white-habit"
+  ],
   "symbols": [
     "cross-topped staff — preaching of the Gospel",
     "lily — purity and chastity",
@@ -14,11 +25,24 @@
   "description": "A full-length portrait of Saint Dominic de Guzmán standing in an arched niche framed by red curtains. He wears the white habit and black cloak of the Dominican order, holds a cross-topped staff in his right hand and a lily branch in his left. A halo glows around his head. At his feet, a black-and-white dog holds a burning torch in its mouth beside a globe. The composition is formal and devotional.",
   "theological_description": "Saint Dominic de Guzmán (1170-1221) founded the Order of Preachers (Dominicans), dedicated to combating heresy through education, preaching, and the pursuit of truth. The dog with a torch (Domini Canis — 'hound of the Lord') represents the order's mission to set the world alight with the truth of the Gospel. The lily signifies Dominic's personal purity and devotion. The cross-staff symbolizes his commitment to preaching Christ crucified. Dominic's emphasis on study, prayer, and preaching shaped Catholic intellectual life profoundly, producing great theologians like Thomas Aquinas.",
   "scripture_refs": [
-    {"ref": "MT.28.19-20", "relevance": "allusion", "reason": "Go and make disciples — the preaching mission Dominic embraced"},
-    {"ref": "2TI.4.2", "relevance": "allusion", "reason": "Preach the word, be prepared in season and out of season"}
+    {
+      "ref": "MAT.28.19-20",
+      "relevance": "allusion",
+      "reason": "Go and make disciples — the preaching mission Dominic embraced"
+    },
+    {
+      "ref": "2TI.4.2",
+      "relevance": "allusion",
+      "reason": "Preach the word, be prepared in season and out of season"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["devotional", "authoritative", "solemn", "noble"],
+  "mood": [
+    "devotional",
+    "authoritative",
+    "solemn",
+    "noble"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0090327",

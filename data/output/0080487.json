@@ -1,21 +1,59 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Christ Child", "type": "DEITY"},
-    {"name": "Cherubim", "type": "ANGEL"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Cherubim",
+      "type": "ANGEL"
+    }
   ],
-  "event": "",
-  "tags": ["madonna-and-child", "blessing-child", "cherubim", "venetian-renaissance", "landscape-background", "devotional"],
-  "symbols": ["Christ Child's blessing gesture — divine authority even in infancy", "Mary's downcast eyes — humility and contemplation", "white veil — purity", "cherub heads with wings — heavenly presence", "landscape with city — earthly realm under divine care"],
+  "event": "Madonna and Blessing Child",
+  "tags": [
+    "madonna-and-child",
+    "blessing-child",
+    "cherubim",
+    "landscape-background",
+    "devotional"
+  ],
+  "symbols": [
+    "Christ Child's blessing gesture — divine authority even in infancy",
+    "Mary's downcast eyes — humility and contemplation",
+    "white veil — purity",
+    "cherub heads with wings — heavenly presence",
+    "landscape with city — earthly realm under divine care"
+  ],
   "description": "A Venetian Renaissance Madonna and Child painting. The Virgin Mary sits in three-quarter view, wearing a white veil, red dress, and dark blue mantle. She holds the infant Christ who sits on her lap with one hand raised in a gesture of blessing. Two winged cherub heads float in the sky above. Behind them, a panoramic landscape stretches to a hilltop town on the left and trees and buildings on the right. The sky shows clouds and soft evening light. The painting has a warm, gentle quality characteristic of Carpaccio's devotional works.",
   "theological_description": "The Madonna and Blessing Child is a devotional image type presenting the Christ Child already exercising His divine authority through the gesture of benediction. Despite His infancy, the blessing hand reveals His identity as the incarnate God — fully divine even while fully human. Mary's tender yet reserved expression reflects her role as Theotokos (God-bearer), the one through whom the eternal Word took flesh. The cherubim overhead affirm the heavenly nature of the Child she holds. This image type served as a focus for private devotion, inviting the viewer to receive Christ's blessing through contemplation of the sacred image.",
   "scripture_refs": [
-    {"ref": "LUK.2.7", "relevance": "primary", "reason": "Mary giving birth to her firstborn son — the Incarnation depicted"},
-    {"ref": "GAL.4.4", "relevance": "allusion", "reason": "God sent His Son, born of a woman — the theology of the Incarnation"},
-    {"ref": "COL.1.15-17", "relevance": "allusion", "reason": "The firstborn over all creation, in whom all things hold together — the blessing Child's divine nature"}
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary giving birth to her firstborn son — the Incarnation depicted"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent His Son, born of a woman — the theology of the Incarnation"
+    },
+    {
+      "ref": "COL.1.15-17",
+      "relevance": "allusion",
+      "reason": "The firstborn over all creation, in whom all things hold together — the blessing Child's divine nature"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["tender", "serene", "devotional", "gentle"],
+  "mood": [
+    "tender",
+    "serene",
+    "devotional",
+    "gentle"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080487",

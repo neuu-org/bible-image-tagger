@@ -1,12 +1,33 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Joseph", "type": "PERSON"},
-    {"name": "Magi", "type": "GROUP"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    }
   ],
   "event": "Adoration of the Magi",
-  "tags": ["adoration-of-the-magi", "epiphany", "infant-jesus", "virgin-mary", "joseph", "gifts", "star", "ornate-frame"],
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "infant-jesus",
+    "virgin-mary",
+    "joseph",
+    "gifts",
+    "star",
+    "ornate-frame"
+  ],
   "symbols": [
     "star — divine guidance to Christ",
     "kneeling Magus — homage to the King of Kings",
@@ -16,12 +37,29 @@
   "description": "An altarpiece painting in an elaborate gilded and enameled frame depicting the Adoration of the Magi. The Virgin Mary sits at left holding the infant Jesus, with Joseph standing behind. One Magus kneels before the child, kissing his hand. Two other Magi stand behind, one holding a golden vessel. A radiant star or sun shines above in the sky. The background shows rocky ruins and a distant landscape. The ornate frame features medallions and scrollwork.",
   "theological_description": "The Adoration of the Magi celebrates the Epiphany — the manifestation of Christ to the Gentile nations. These wise men from the East followed a miraculous star to find the newborn King of the Jews. Their journey represents the seeking of all nations for God, and their worship affirms that Jesus is not merely the Messiah of Israel but the Savior of the world. The eldest Magus kneeling and reverently touching the child embodies the response of human wisdom encountering divine truth — all earthly knowledge bows before the incarnate Wisdom of God. The altarpiece frame suggests this image served as a focus for liturgical worship and devotion.",
   "scripture_refs": [
-    {"ref": "MT.2.1-12", "relevance": "primary", "reason": "The Magi follow the star and worship the infant Christ"},
-    {"ref": "IS.60.3", "relevance": "typological", "reason": "Nations will come to your light, and kings to the brightness of your dawn"},
-    {"ref": "PS.72.10-11", "relevance": "typological", "reason": "Kings of Tarshish bring gifts; all kings bow down before him"}
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Magi follow the star and worship the infant Christ"
+    },
+    {
+      "ref": "ISA.60.3",
+      "relevance": "typological",
+      "reason": "Nations will come to your light, and kings to the brightness of your dawn"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish bring gifts; all kings bow down before him"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["reverent", "majestic", "devotional", "celebratory"],
+  "mood": [
+    "reverent",
+    "majestic",
+    "devotional",
+    "celebratory"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090723",

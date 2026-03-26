@@ -1,7 +1,14 @@
 {
   "characters": [],
-  "event": "",
-  "tags": ["cathedral-interior", "romanesque-architecture", "nave", "arches", "church", "lund-cathedral", "sweden"],
+  "event": "Interior of Lund Cathedral, Sweden",
+  "tags": [
+    "cathedral-interior",
+    "romanesque-architecture",
+    "nave",
+    "arches",
+    "church",
+    "sweden"
+  ],
   "symbols": [
     "nave — the body of the Church, the journey of faith",
     "altar — place of worship and sacrifice",
@@ -10,11 +17,24 @@
   "description": "A photograph of the interior of a Romanesque cathedral. The long nave stretches toward a lit apse and altar. Rows of wooden chairs line both sides. Rounded stone arches supported by massive pillars create a rhythmic progression. The ribbed vaulted ceiling rises above. Warm light illuminates the sanctuary area. The architecture is austere and monumental.",
   "theological_description": "The interior of a Romanesque cathedral embodies the theological understanding of sacred space. The long nave symbolizes the pilgrim's journey toward God, drawing the eye and the soul toward the altar where the Eucharistic sacrifice is offered. The massive stone pillars and rounded arches evoke the stability and permanence of the faith. The apse, bathed in light, represents the heavenly Jerusalem toward which the faithful journey. Romanesque architecture, with its fortress-like solidity, reflects the Church as the stronghold of God on earth, a place where heaven and earth meet in liturgical worship.",
   "scripture_refs": [
-    {"ref": "PS.122.1", "relevance": "allusion", "reason": "I was glad when they said to me, Let us go to the house of the Lord"},
-    {"ref": "1KI.8.27-30", "relevance": "allusion", "reason": "Solomon's prayer of dedication, asking God to hear prayers offered in the temple"}
+    {
+      "ref": "PSA.122.1",
+      "relevance": "allusion",
+      "reason": "I was glad when they said to me, Let us go to the house of the Lord"
+    },
+    {
+      "ref": "1KI.8.27-30",
+      "relevance": "allusion",
+      "reason": "Solomon's prayer of dedication, asking God to hear prayers offered in the temple"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["solemn", "reverent", "peaceful", "majestic"],
+  "mood": [
+    "solemn",
+    "reverent",
+    "peaceful",
+    "majestic"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0090205",

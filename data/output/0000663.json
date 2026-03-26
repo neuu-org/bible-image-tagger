@@ -1,7 +1,13 @@
 {
   "characters": [
-    {"name": "Elderly Painter", "type": "PERSON"},
-    {"name": "Jesus Christ", "type": "DEITY"}
+    {
+      "name": "Elderly Painter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
   ],
   "event": "None",
   "tags": [
@@ -27,14 +33,38 @@
   "description": "An elderly man with white hair and glasses stands facing the viewer, wearing a dark blue shirt beneath a light-colored vest. His expression is somber and introspective. Behind him, partially obscured by a richly textured red and green background, a dark crucifix is visible with the figure of Christ upon it. The man's posture is upright but weary, his gaze direct. Paint supplies are faintly visible at the lower right edge of the composition.",
   "theological_description": "The painting presents the artist as a contemplative figure standing before the Crucified Christ — a visual meditation on the relationship between human creativity and divine suffering. The crucifix behind the painter suggests that the Cross is the unavoidable horizon of all authentic seeing. In patristic thought, the Christian vocation is fundamentally one of witness (martyria), and the artist-painter here embodies that call: to stand before the mystery of the Cross and render it visible to others. The elderly figure's weariness echoes Paul's words about carrying the dying of Jesus in the body (2CO.4.10). The juxtaposition of a living man against the crucified Christ creates a dialogue between mortality and sacrifice — the painter's own approaching death reflected in the death already accomplished on Calvary. This resonates with Galatians 2:20: 'I have been crucified with Christ; it is no longer I who live.' The image suggests that all human endeavor, particularly creative work, finds its deepest meaning when oriented toward the Cross.",
   "scripture_refs": [
-    {"ref": "2CO.4.10-11", "relevance": "primary", "reason": "Carrying the dying of Jesus in the body — the aging painter stands as one who bears witness to the Crucifixion in his own mortality"},
-    {"ref": "GAL.2.20", "relevance": "primary", "reason": "Crucified with Christ — the painter's life lived in the shadow of the Cross behind him"},
-    {"ref": "GAL.6.14", "relevance": "allusion", "reason": "The world crucified through the Cross — the crucifix as the defining reality behind the painter's existence"},
-    {"ref": "1CO.1.23", "relevance": "allusion", "reason": "We preach Christ crucified — the artist as one who presents the crucified Christ through creative witness"},
-    {"ref": "PHP.3.10", "relevance": "allusion", "reason": "The fellowship of Christ's sufferings — the elderly painter sharing in the mystery of the Passion through contemplation"}
+    {
+      "ref": "2CO.4.10-11",
+      "relevance": "typological",
+      "reason": "Carrying the dying of Jesus in the body — the aging painter stands as one who bears witness to the Crucifixion in his own mortality"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "typological",
+      "reason": "Crucified with Christ — the painter's life lived in the shadow of the Cross behind him"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "The world crucified through the Cross — the crucifix as the defining reality behind the painter's existence"
+    },
+    {
+      "ref": "1CO.1.23",
+      "relevance": "allusion",
+      "reason": "We preach Christ crucified — the artist as one who presents the crucified Christ through creative witness"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "allusion",
+      "reason": "The fellowship of Christ's sufferings — the elderly painter sharing in the mystery of the Passion through contemplation"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["contemplation", "solemnity", "weariness"],
+  "mood": [
+    "contemplation",
+    "solemnity",
+    "weariness"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000663",

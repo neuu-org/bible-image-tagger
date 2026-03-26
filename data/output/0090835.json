@@ -1,9 +1,20 @@
 {
   "characters": [
-    {"name": "Figures among ruins", "type": "GROUP"}
+    {
+      "name": "Figures among ruins",
+      "type": "GROUP"
+    }
   ],
-  "event": "",
-  "tags": ["capriccio", "ruins", "roman-architecture", "arches", "allegorical", "canaletto", "veduta"],
+  "event": "An Allegorical Painting",
+  "tags": [
+    "capriccio",
+    "ruins",
+    "roman-architecture",
+    "arches",
+    "allegorical",
+    "canaletto",
+    "veduta"
+  ],
   "symbols": [
     "ruins — transience of earthly power",
     "arches and columns — fallen grandeur",
@@ -13,7 +24,12 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "landscape",
-  "mood": ["melancholic", "atmospheric", "romantic", "dreamlike"],
+  "mood": [
+    "melancholic",
+    "atmospheric",
+    "romantic",
+    "dreamlike"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0090835",

@@ -1,24 +1,71 @@
 {
   "characters": [
-    {"name": "Christ", "type": "DEITY"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Angels", "type": "ANGEL"},
-    {"name": "The Blessed", "type": "GROUP"},
-    {"name": "The Damned", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "The Blessed",
+      "type": "GROUP"
+    },
+    {
+      "name": "The Damned",
+      "type": "GROUP"
+    }
   ],
   "event": "Paradise / Last Judgment",
-  "tags": ["paradise", "last-judgment", "resurrection-of-the-flesh", "blessed-souls", "heaven", "signorelli", "fresco"],
-  "symbols": ["Christ enthroned above — divine judge and ruler of paradise", "angels with instruments — heavenly music and worship", "nude resurrected figures — the resurrection of the body", "upward movement — souls ascending to glory"],
+  "tags": [
+    "paradise",
+    "last-judgment",
+    "resurrection-of-the-flesh",
+    "blessed-souls",
+    "heaven"
+  ],
+  "symbols": [
+    "Christ enthroned above — divine judge and ruler of paradise",
+    "angels with instruments — heavenly music and worship",
+    "nude resurrected figures — the resurrection of the body",
+    "upward movement — souls ascending to glory"
+  ],
   "description": "A large fresco depicting a vision of Paradise or the blessed in the Last Judgment. In the upper register, Christ and the Virgin Mary are enthroned among angels, some playing musical instruments. Below, a multitude of nude figures (the blessed) are shown rising, embracing, and celebrating in dynamic, muscular poses. The figures are rendered with Signorelli's characteristic anatomical precision and powerful physicality. The composition moves upward from the crowd of the blessed toward the heavenly court, creating a sense of ascent and liberation.",
   "theological_description": "This fresco from the Orvieto Cathedral depicts the blessed receiving their glorified resurrection bodies at the Last Judgment. The nude figures represent souls reunited with their perfected physical bodies, fulfilling Paul's teaching that 'the dead will be raised imperishable, and we shall be changed' (1 Corinthians 15:52). The joy and physical beauty of the figures express the Christian hope of bodily resurrection — not merely spiritual survival after death, but the transformation of the whole person. Christ enthroned above, flanked by the Virgin and angels, presides over this glorious scene as both judge and redeemer.",
   "scripture_refs": [
-    {"ref": "1CO.15.42-54", "relevance": "primary", "reason": "The resurrection of the body — sown perishable, raised imperishable"},
-    {"ref": "REV.21.4", "relevance": "allusion", "reason": "God will wipe away every tear — the joy of the blessed in paradise"},
-    {"ref": "MAT.25.34", "relevance": "primary", "reason": "Come, blessed of my Father, inherit the kingdom prepared for you"},
-    {"ref": "PHP.3.21", "relevance": "allusion", "reason": "Christ will transform our lowly bodies to be like His glorious body"}
+    {
+      "ref": "1CO.15.42-54",
+      "relevance": "primary",
+      "reason": "The resurrection of the body — sown perishable, raised imperishable"
+    },
+    {
+      "ref": "REV.21.4",
+      "relevance": "allusion",
+      "reason": "God will wipe away every tear — the joy of the blessed in paradise"
+    },
+    {
+      "ref": "MAT.25.34",
+      "relevance": "primary",
+      "reason": "Come, blessed of my Father, inherit the kingdom prepared for you"
+    },
+    {
+      "ref": "PHP.3.21",
+      "relevance": "allusion",
+      "reason": "Christ will transform our lowly bodies to be like His glorious body"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["ecstatic", "triumphant", "joyful", "glorious"],
+  "mood": [
+    "ecstatic",
+    "triumphant",
+    "joyful",
+    "glorious"
+  ],
   "period": "Eschatological",
   "_meta": {
     "key": "0080630",

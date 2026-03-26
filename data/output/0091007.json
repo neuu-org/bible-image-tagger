@@ -1,9 +1,20 @@
 {
   "characters": [
-    {"name": "St. Maximus the Greek", "type": "PERSON"}
+    {
+      "name": "St. Maximus the Greek",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["orthodox-icon", "saint-maximus", "monk", "gold-background", "trees", "russian-icon", "scholar"],
+  "event": "St. Maximus the Greek",
+  "tags": [
+    "orthodox-icon",
+    "saint-maximus",
+    "monk",
+    "gold-background",
+    "trees",
+    "russian-icon",
+    "scholar"
+  ],
   "symbols": [
     "gold background — divine light and heavenly realm",
     "halo — sanctity",
@@ -14,11 +25,24 @@
   "description": "A traditional Russian Orthodox icon on a gold background depicting St. Maximus the Greek as a bearded monk in dark brown robes. He has a golden halo and stands or sits behind what appears to be a writing desk or lectern. Cyrillic text identifies him at the top. Stylized trees flank both sides. The icon is painted on wood with visible aging and crackling, indicating age.",
   "theological_description": "St. Maximus the Greek (1470-1556) was a Greek Orthodox monk and scholar who was invited to Russia to translate and correct liturgical texts. He became one of the most important religious intellectuals in Russian history, advocating for accuracy in sacred texts and for social justice. Despite being imprisoned for his criticism of certain practices, he continued his scholarly and spiritual work. His icon, painted in the traditional Russian style with gold background and stylized trees, places him among the communion of saints who served the Church through the life of the mind. Like Jerome before him, Maximus understood that faithful translation and scholarship serve the Gospel.",
   "scripture_refs": [
-    {"ref": "2TI.2.15", "relevance": "allusion", "reason": "Do your best to present yourself to God as one approved, a worker who correctly handles the word of truth"},
-    {"ref": "AC.17.11", "relevance": "allusion", "reason": "They examined the Scriptures daily — Maximus's devotion to textual accuracy"}
+    {
+      "ref": "2TI.2.15",
+      "relevance": "allusion",
+      "reason": "Do your best to present yourself to God as one approved, a worker who correctly handles the word of truth"
+    },
+    {
+      "ref": "ACT.17.11",
+      "relevance": "allusion",
+      "reason": "They examined the Scriptures daily — Maximus's devotion to textual accuracy"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["solemn", "devotional", "reverent", "austere"],
+  "mood": [
+    "solemn",
+    "devotional",
+    "reverent",
+    "austere"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0091007",

@@ -1,20 +1,56 @@
 {
   "characters": [
-    {"name": "Tobit", "type": "PERSON"},
-    {"name": "Anna", "type": "PERSON"}
+    {
+      "name": "Tobit",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna",
+      "type": "PERSON"
+    }
   ],
   "event": "Tobit and Anna reading Scripture",
-  "tags": ["tobit", "bible-reading", "elderly-couple", "dutch-golden-age", "candlelight", "domestic-devotion", "spinning-wheel"],
-  "symbols": ["open book — Scripture and divine instruction", "spinning wheel — domestic fidelity and Anna's industriousness", "arched window with light — divine light entering the home", "birdcage — captivity of Israel in exile", "candle — illumination of God's word"],
+  "tags": [
+    "tobit",
+    "bible-reading",
+    "elderly-couple",
+    "candlelight",
+    "domestic-devotion",
+    "spinning-wheel"
+  ],
+  "symbols": [
+    "open book — Scripture and divine instruction",
+    "spinning wheel — domestic fidelity and Anna's industriousness",
+    "arched window with light — divine light entering the home",
+    "birdcage — captivity of Israel in exile",
+    "candle — illumination of God's word"
+  ],
   "description": "An elderly couple in a dimly lit Dutch interior. The old man (Tobit) leans forward intently as the woman (Anna) reads from a large open book, likely Scripture. A spinning wheel sits prominently in the foreground. Light enters through an arched window at the left. The scene is rendered in rich chiaroscuro with warm candlelight illuminating the figures against the dark interior. Various domestic objects are visible including a birdcage hanging from the ceiling.",
   "theological_description": "This scene depicts the apocryphal story of Tobit and his wife Anna from the Book of Tobit. Tobit, a righteous Israelite living in exile in Nineveh, was known for his piety and adherence to the Law despite the hardships of captivity. The scene shows the couple engaged in reading Scripture together, reflecting their devotion to God's word even in exile. The Book of Tobit emphasizes themes of faithfulness in suffering, the efficacy of prayer, and God's providential care for the righteous. Anna's spinning wheel recalls her role in supporting the family after Tobit's blindness (Tobit 2:11-14).",
   "scripture_refs": [
-    {"ref": "TOB.2.11-14", "relevance": "primary", "reason": "Anna supporting the household through her work while Tobit is blind"},
-    {"ref": "TOB.1.3-9", "relevance": "primary", "reason": "Tobit's righteousness and devotion to the Law in exile"},
-    {"ref": "PSA.119.105", "relevance": "allusion", "reason": "God's word as a lamp, reflected in the candlelit reading"}
+    {
+      "ref": "TOB.2.11-14",
+      "relevance": "primary",
+      "reason": "Anna supporting the household through her work while Tobit is blind"
+    },
+    {
+      "ref": "TOB.1.3-9",
+      "relevance": "primary",
+      "reason": "Tobit's righteousness and devotion to the Law in exile"
+    },
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "God's word as a lamp, reflected in the candlelit reading"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["intimate", "devotional", "warm", "contemplative"],
+  "mood": [
+    "intimate",
+    "devotional",
+    "warm",
+    "contemplative"
+  ],
   "period": "Exile",
   "_meta": {
     "key": "0080026",

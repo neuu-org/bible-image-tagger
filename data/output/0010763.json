@@ -20,19 +20,23 @@
   "scripture_refs": [
     {
       "ref": "LUK.1.38",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "LUK.1.46-49",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "JHN.2.3-5",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "LUK.2.19",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     }
   ],
   "scene_type": "liturgical",
@@ -48,5 +52,6 @@
     "artist": "Orthodox Icons",
     "model": "claude-opus-4-6"
   },
-  "event": "Virgin Mary Hagiosoritissa"
+  "event": "Virgin Mary Hagiosoritissa",
+  "symbols": []
 }

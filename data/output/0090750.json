@@ -1,11 +1,26 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Angels", "type": "GROUP"},
-    {"name": "Saints", "type": "GROUP"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
   ],
   "event": "Coronation of the Virgin (detail)",
-  "tags": ["coronation-of-the-virgin", "angels", "saints", "fresco", "apse", "colorful-robes", "renaissance"],
+  "tags": [
+    "coronation-of-the-virgin",
+    "angels",
+    "saints",
+    "apse",
+    "colorful-robes"
+  ],
   "symbols": [
     "gathering of saints — heavenly court assembled for the coronation",
     "angels — heavenly attendants and ministers",
@@ -15,12 +30,29 @@
   "description": "A detail from a large fresco depicting the Coronation of the Virgin. A crowd of figures in brilliantly colored robes — red, green, gold, blue, white — are gathered together. Angels with wings are visible among them. Some figures hold books, others raise their hands. The Virgin Mary appears in the center in a dark red mantle. Small children or putti appear at the base. The composition is dense and celebratory, painted in the curved surface of an apse.",
   "theological_description": "The Coronation of the Virgin is the culminating Marian mystery — the moment when Mary, assumed into heaven, is crowned as Queen of Heaven by Christ or the Trinity. This detail shows the heavenly court assembled for this coronation: angels, apostles, martyrs, and saints in their distinctive robes gather to witness Mary's exaltation. The diversity of colors represents the variety of vocations in the Church triumphant. Mary's central position affirms her unique status as the Mother of God, the first and greatest of the saints, and the model of the Church's own destiny — to be glorified with Christ.",
   "scripture_refs": [
-    {"ref": "RV.12.1", "relevance": "typological", "reason": "A woman clothed with the sun, with a crown of twelve stars — Mary crowned in heaven"},
-    {"ref": "PS.45.9", "relevance": "typological", "reason": "The queen stands at your right hand in gold of Ophir"},
-    {"ref": "LK.1.48", "relevance": "allusion", "reason": "All generations will call me blessed — the saints honoring Mary"}
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "A woman clothed with the sun, with a crown of twelve stars — Mary crowned in heaven"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen stands at your right hand in gold of Ophir"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — the saints honoring Mary"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["celebratory", "glorious", "colorful", "majestic"],
+  "mood": [
+    "celebratory",
+    "glorious",
+    "colorful",
+    "majestic"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0090750",

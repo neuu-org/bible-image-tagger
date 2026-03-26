@@ -1,21 +1,60 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Simon Peter", "type": "PERSON"},
-    {"name": "Disciples", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
   ],
   "event": "Miraculous Draught of Fishes",
-  "tags": ["miraculous-catch", "fishing", "sea-of-galilee", "disciples", "boat", "nets", "calling-of-apostles"],
-  "symbols": ["overflowing nets — abundance of God's provision", "fish — future converts and the Church", "boat — the Church navigating the world", "Christ directing from the boat — divine authority over nature"],
+  "tags": [
+    "miraculous-catch",
+    "fishing",
+    "sea-of-galilee",
+    "disciples",
+    "boat",
+    "nets",
+    "calling-of-apostles"
+  ],
+  "symbols": [
+    "overflowing nets — abundance of God's provision",
+    "fish — future converts and the Church",
+    "boat — the Church navigating the world",
+    "Christ directing from the boat — divine authority over nature"
+  ],
   "description": "A watercolor depicting the Miraculous Draught of Fishes. Jesus sits at the stern of a fishing boat, watching as the disciples struggle to haul in an enormous catch of fish. The boat is low in the water, nearly swamped by the weight of fish filling the nets. Several disciples strain with effort — pulling nets, sorting fish, their bodies bent with exertion. Fish spill and writhe throughout the boat. The Sea of Galilee shore with rocky banks is visible in the background. The style is characteristic of James Tissot's detailed biblical illustrations.",
   "theological_description": "This scene likely depicts the miraculous catch of fish from Luke 5:1-11, which culminated in Jesus calling Simon Peter, James, and John to become 'fishers of men.' After a fruitless night of fishing, Jesus instructed them to cast their nets again, resulting in a catch so large it threatened to sink two boats. Peter fell at Jesus' knees saying, 'Depart from me, for I am a sinful man, O Lord' (Luke 5:8), recognizing divine power. This miracle serves as both a demonstration of Christ's authority over nature and a prophetic sign of the apostles' future ministry — gathering people into the kingdom of God in overwhelming abundance.",
   "scripture_refs": [
-    {"ref": "LUK.5.1-11", "relevance": "primary", "reason": "The miraculous catch of fish and the calling of the first disciples"},
-    {"ref": "LUK.5.10", "relevance": "primary", "reason": "Jesus telling Simon: from now on you will be catching men"},
-    {"ref": "JHN.21.4-11", "relevance": "allusion", "reason": "The post-resurrection miraculous catch, a parallel event"}
+    {
+      "ref": "LUK.5.1-11",
+      "relevance": "primary",
+      "reason": "The miraculous catch of fish and the calling of the first disciples"
+    },
+    {
+      "ref": "LUK.5.10",
+      "relevance": "primary",
+      "reason": "Jesus telling Simon: from now on you will be catching men"
+    },
+    {
+      "ref": "JHN.21.4-11",
+      "relevance": "allusion",
+      "reason": "The post-resurrection miraculous catch, a parallel event"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["astonished", "laborious", "miraculous", "dynamic"],
+  "mood": [
+    "astonished",
+    "laborious",
+    "miraculous",
+    "dynamic"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080435",

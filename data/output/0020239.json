@@ -24,23 +24,28 @@
   "scripture_refs": [
     {
       "ref": "JHN.19.17-19",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "MAT.27.35-37",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "ISA.53.5",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "PHP.2.7-8",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     },
     {
       "ref": "HEB.9.12",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     }
   ],
   "scene_type": "narrative",
@@ -57,5 +62,6 @@
     "artist": "Rogier van der Weyden",
     "model": "claude-opus-4-6"
   },
-  "event": "Crucifixion"
+  "event": "Crucifixion",
+  "symbols": []
 }

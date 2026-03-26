@@ -1,16 +1,33 @@
 {
   "characters": [
-    {"name": "Empress Elizabeth", "type": "PERSON"},
-    {"name": "Courtiers", "type": "GROUP"}
+    {
+      "name": "Empress Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Courtiers",
+      "type": "GROUP"
+    }
   ],
-  "event": "",
-  "tags": ["russian-imperial", "promenade", "horse-drawn-carriage", "18th-century", "court-scene", "benois"],
+  "event": "Promenade of Empress Elizabeth",
+  "tags": [
+    "russian-imperial",
+    "promenade",
+    "horse-drawn-carriage",
+    "18th-century",
+    "court-scene",
+    "benois"
+  ],
   "symbols": [],
   "description": "A colorful watercolor depicting a Russian imperial scene with a grand red building as backdrop. Horse-drawn carriages and elegantly dressed courtiers fill a wooden-planked square. Figures bow before a central procession. The scene is lively with 18th-century costumes, horses, and architectural details rendered in a bright, illustrative style.",
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "narrative",
-  "mood": ["lively", "ceremonial", "colorful"],
+  "mood": [
+    "lively",
+    "ceremonial",
+    "colorful"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0090289",

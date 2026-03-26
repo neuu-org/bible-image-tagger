@@ -1,12 +1,32 @@
 {
   "characters": [
-    {"name": "Esther", "type": "PERSON"},
-    {"name": "Ahasuerus", "type": "PERSON"},
-    {"name": "Haman", "type": "PERSON"},
-    {"name": "Court attendants", "type": "GROUP"}
+    {
+      "name": "Esther",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ahasuerus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Haman",
+      "type": "PERSON"
+    },
+    {
+      "name": "Court attendants",
+      "type": "GROUP"
+    }
   ],
   "event": "Esther's Banquet / Esther Accuses Haman",
-  "tags": ["esther", "ahasuerus", "haman", "banquet", "accusation", "persian-court", "dutch-golden-age", "steen"],
+  "tags": [
+    "esther",
+    "ahasuerus",
+    "haman",
+    "banquet",
+    "accusation",
+    "persian-court",
+    "steen"
+  ],
   "symbols": [
     "banquet table — Esther's strategic feast",
     "Haman cowering — guilt exposed",
@@ -17,12 +37,29 @@
   "description": "A Dutch Golden Age painting showing a dramatic banquet scene. Queen Esther sits at left at a table laden with food and drink, gesturing in accusation. King Ahasuerus stands at center in a turban and rich robes, his arm raised in anger. Haman sits at right, cowering or recoiling in distress. Courtiers and attendants fill the background. The scene is animated and theatrical, painted in Jan Steen's characteristic lively narrative style.",
   "theological_description": "This pivotal scene from the Book of Esther depicts the dramatic moment when Queen Esther reveals Haman's genocidal plot against the Jewish people at her second banquet. When Ahasuerus asks who has dared to threaten her people, Esther points to Haman and declares, 'The adversary and enemy is this wicked Haman.' The king rises in fury. This moment of revelation and reversal is the climax of the entire book — evil is unmasked, the righteous are vindicated, and the planned destruction of God's people is turned back upon the perpetrator. The story demonstrates God's providential care for his covenant people, working through human courage and divine timing even when God's name is never mentioned in the text.",
   "scripture_refs": [
-    {"ref": "ES.7.1-10", "relevance": "primary", "reason": "Esther accuses Haman at the banquet; the king's wrath falls on Haman"},
-    {"ref": "ES.7.6", "relevance": "primary", "reason": "The adversary and enemy is this wicked Haman — Esther's accusation"},
-    {"ref": "PR.11.8", "relevance": "typological", "reason": "The righteous is delivered from trouble, and the wicked walks into it instead"}
+    {
+      "ref": "EST.7.1-10",
+      "relevance": "primary",
+      "reason": "Esther accuses Haman at the banquet; the king's wrath falls on Haman"
+    },
+    {
+      "ref": "EST.7.6",
+      "relevance": "primary",
+      "reason": "The adversary and enemy is this wicked Haman — Esther's accusation"
+    },
+    {
+      "ref": "PRO.11.8",
+      "relevance": "typological",
+      "reason": "The righteous is delivered from trouble, and the wicked walks into it instead"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["dramatic", "tense", "triumphant", "theatrical"],
+  "mood": [
+    "dramatic",
+    "tense",
+    "triumphant",
+    "theatrical"
+  ],
   "period": "Exile",
   "_meta": {
     "key": "0091166",

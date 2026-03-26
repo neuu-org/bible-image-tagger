@@ -1,22 +1,63 @@
 {
   "characters": [
-    {"name": "St. Stephen", "type": "PERSON"},
-    {"name": "Executioners", "type": "GROUP"},
-    {"name": "Christ", "type": "DEITY"},
-    {"name": "God the Father", "type": "DEITY"}
+    {
+      "name": "Stephen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioners",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    }
   ],
   "event": "Martyrdom of St. Stephen",
-  "tags": ["stoning", "martyrdom", "stephen", "first-martyr", "heaven-opened", "baroque"],
-  "symbols": ["stones — instrument of martyrdom", "heavens opening above — Stephen's vision of Christ at God's right hand", "SPQR inscription — Roman authority", "kneeling posture — prayerful submission even in death", "classical architecture — Jerusalem setting"],
+  "tags": [
+    "stoning",
+    "martyrdom",
+    "stephen",
+    "first-martyr",
+    "heaven-opened"
+  ],
+  "symbols": [
+    "stones — instrument of martyrdom",
+    "heavens opening above — Stephen's vision of Christ at God's right hand",
+    "SPQR inscription — Roman authority",
+    "kneeling posture — prayerful submission even in death",
+    "classical architecture — Jerusalem setting"
+  ],
   "description": "A dramatic Baroque scene of the stoning of St. Stephen. The young deacon kneels in the center, looking upward with serene faith as multiple assailants hurl stones at him. Above in the clouds, a heavenly vision shows Christ seated at the right hand of God the Father. The inscription SPQR appears in the upper right. A Roman arch and classical architecture frame the scene at right. The executioners are depicted in violent motion, their muscular bodies straining with effort. Stephen wears a blue robe and his face radiates calm acceptance.",
   "theological_description": "The martyrdom of Stephen, recorded in Acts 7:54-60, marks a pivotal moment in early Christianity. Stephen, the first Christian martyr (protomartyr), was stoned to death after his bold defense of the faith before the Sanhedrin. As he died, he saw 'the heavens opened and the Son of Man standing at the right hand of God' (Acts 7:56), depicted in the heavenly vision above. His dying prayer, 'Lord, do not hold this sin against them' (Acts 7:60), mirrors Christ's own words on the cross (Luke 23:34). Saul of Tarsus (later Paul) was present approving of this execution, making Stephen's martyrdom a catalyst for Paul's eventual conversion and the spread of Christianity beyond Jerusalem.",
   "scripture_refs": [
-    {"ref": "ACT.7.54-60", "relevance": "primary", "reason": "The stoning of Stephen, the first Christian martyr"},
-    {"ref": "ACT.7.56", "relevance": "primary", "reason": "Stephen's vision of the Son of Man at God's right hand, shown in the heavenly scene"},
-    {"ref": "LUK.23.34", "relevance": "typological", "reason": "Stephen's dying prayer echoes Christ's forgiveness from the cross"}
+    {
+      "ref": "ACT.7.54-60",
+      "relevance": "primary",
+      "reason": "The stoning of Stephen, the first Christian martyr"
+    },
+    {
+      "ref": "ACT.7.56",
+      "relevance": "primary",
+      "reason": "Stephen's vision of the Son of Man at God's right hand, shown in the heavenly scene"
+    },
+    {
+      "ref": "LUK.23.34",
+      "relevance": "typological",
+      "reason": "Stephen's dying prayer echoes Christ's forgiveness from the cross"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["violent", "transcendent", "dramatic", "sacrificial"],
+  "mood": [
+    "violent",
+    "transcendent",
+    "dramatic",
+    "sacrificial"
+  ],
   "period": "Apostolic",
   "_meta": {
     "key": "0080089",

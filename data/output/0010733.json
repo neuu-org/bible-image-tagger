@@ -22,23 +22,28 @@
   "scripture_refs": [
     {
       "ref": "ISA.40.6-8",
-      "relevance": "primary"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "1JN.2.16-17",
-      "relevance": "primary"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "MAT.7.13",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "1TI.6.9-10",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     },
     {
       "ref": "PRO.16.18",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     }
   ],
   "scene_type": "allegory",
@@ -54,5 +59,6 @@
     "artist": "Hieronymus Bosch",
     "model": "claude-opus-4-6"
   },
-  "event": "Vision of Hell"
+  "event": "Vision of Hell",
+  "symbols": []
 }

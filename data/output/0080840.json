@@ -1,23 +1,67 @@
 {
   "characters": [
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Joseph", "type": "PERSON"},
-    {"name": "Magi", "type": "GROUP"},
-    {"name": "Crowd", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
   ],
   "event": "Adoration of the Magi",
-  "tags": ["adoration-of-the-magi", "epiphany", "bruegel", "crowd-scene", "northern-renaissance", "stable", "angel"],
-  "symbols": ["kneeling kings — Gentile nations worshipping", "angel above stable — divine sanction of the event", "vast crowd — universal significance of Christ's birth", "humble stable — poverty of the Incarnation"],
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "bruegel",
+    "crowd-scene",
+    "stable",
+    "angel"
+  ],
+  "symbols": [
+    "kneeling kings — Gentile nations worshipping",
+    "angel above stable — divine sanction of the event",
+    "vast crowd — universal significance of Christ's birth",
+    "humble stable — poverty of the Incarnation"
+  ],
   "description": "A crowded, panoramic Adoration of the Magi by Pieter Bruegel the Elder. The Holy Family occupies the center of the composition under a thatched stable roof, with the Magi kneeling before the Christ Child in rich red and gold robes. An enormous crowd of figures surrounds them — soldiers, peasants, onlookers, and attendants filling every corner of the composition. An angel hovers above the stable. The scene teems with human activity and detail in Bruegel's characteristic style, transforming the biblical event into a vast, bustling contemporary scene populated with Flemish-looking figures.",
   "theological_description": "Bruegel's Adoration places the Epiphany scene within a teeming crowd of humanity, emphasizing the universal significance of Christ's birth. The Magi's visit (Matthew 2:1-12) represents the first fruits of Gentile faith, and Bruegel extends this to show all of humanity drawn to the event. The contrast between the humble stable and the magnificent procession captures the paradox of the Incarnation — the King of Kings born in utter poverty. The crowded, chaotic composition suggests that Christ came into the midst of ordinary human life in all its complexity, not into a sanitized, idealized setting. This reflects the theological truth that the Word became flesh and dwelt among us (John 1:14).",
   "scripture_refs": [
-    {"ref": "MAT.2.1-12", "relevance": "primary", "reason": "The Magi from the East worshipping the newborn King"},
-    {"ref": "JHN.1.14", "relevance": "allusion", "reason": "The Word became flesh and dwelt among us — Christ in the midst of the crowd"},
-    {"ref": "ISA.60.3", "relevance": "typological", "reason": "Nations coming to the light — the universal scope of the gathering"}
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Magi from the East worshipping the newborn King"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word became flesh and dwelt among us — Christ in the midst of the crowd"
+    },
+    {
+      "ref": "ISA.60.3",
+      "relevance": "typological",
+      "reason": "Nations coming to the light — the universal scope of the gathering"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["bustling", "chaotic", "reverent", "earthy"],
+  "mood": [
+    "bustling",
+    "chaotic",
+    "reverent",
+    "earthy"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080840",

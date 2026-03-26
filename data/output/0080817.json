@@ -1,19 +1,52 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
   ],
-  "event": "",
-  "tags": ["christ-portrait", "salvator-mundi", "blessing", "lombardian-renaissance", "luini", "devotional"],
-  "symbols": ["hand gesture pointing to heart — Christ's sacred heart and self-offering", "red/pink garment — royalty and the Passion", "blue-green stole with gold — priestly authority", "jeweled breastplate — High Priest of the new covenant", "long hair — traditional Christ iconography"],
+  "event": "Christ",
+  "tags": [
+    "christ-portrait",
+    "salvator-mundi",
+    "blessing",
+    "lombardian-renaissance",
+    "luini",
+    "devotional"
+  ],
+  "symbols": [
+    "hand gesture pointing to heart — Christ's sacred heart and self-offering",
+    "red/pink garment — royalty and the Passion",
+    "blue-green stole with gold — priestly authority",
+    "jeweled breastplate — High Priest of the new covenant",
+    "long hair — traditional Christ iconography"
+  ],
   "description": "A half-length devotional portrait of Christ depicted as a young man with long brown hair parted in the center and a short beard. He wears a rich pink-red garment with a blue-green stole or band crossing His chest, fastened by an ornate golden jeweled brooch. His hands are crossed on His chest in a gesture pointing toward His heart. The expression is gentle, serene, and compassionate, gazing directly at the viewer. The style shows the influence of Leonardo da Vinci in the soft sfumato modeling, characteristic of Bernardino Luini's work.",
   "theological_description": "This devotional portrait presents Christ as the Salvator Mundi (Savior of the World) or in a gesture associated with the Sacred Heart. His hands pointing to His heart invite the viewer to contemplate the love that motivated the Incarnation and Passion — 'God so loved the world that He gave His only Son' (John 3:16). The priestly vestment-like garment with its jeweled breastplate echoes the High Priest's attire in Exodus 28, reflecting Christ's role as the eternal High Priest described in Hebrews who intercedes for humanity. The gentle, direct gaze embodies Christ's invitation: 'Come to me, all who labor and are heavy laden, and I will give you rest' (Matthew 11:28).",
   "scripture_refs": [
-    {"ref": "JHN.3.16", "relevance": "allusion", "reason": "God's love for the world expressed in the giving of His Son — the heart gesture"},
-    {"ref": "MAT.11.28", "relevance": "allusion", "reason": "Come to me all who are weary — the inviting, compassionate gaze"},
-    {"ref": "HEB.4.14-16", "relevance": "allusion", "reason": "Christ as the great High Priest, reflected in the priestly vestment"}
+    {
+      "ref": "JHN.3.16",
+      "relevance": "allusion",
+      "reason": "God's love for the world expressed in the giving of His Son — the heart gesture"
+    },
+    {
+      "ref": "MAT.11.28",
+      "relevance": "allusion",
+      "reason": "Come to me all who are weary — the inviting, compassionate gaze"
+    },
+    {
+      "ref": "HEB.4.14-16",
+      "relevance": "allusion",
+      "reason": "Christ as the great High Priest, reflected in the priestly vestment"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["gentle", "compassionate", "serene", "inviting"],
+  "mood": [
+    "gentle",
+    "compassionate",
+    "serene",
+    "inviting"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080817",

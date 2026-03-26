@@ -1,18 +1,45 @@
 {
   "characters": [
-    {"name": "Central Figure", "type": "DEITY"}
+    {
+      "name": "Central Figure",
+      "type": "DEITY"
+    }
   ],
-  "event": "",
-  "tags": ["afrofuturism", "sacred-art", "contemporary-sacred", "body-art", "spiritual-figure"],
-  "symbols": ["golden figure — divinity and spiritual illumination", "radiating patterns — divine energy emanating outward", "surrounding faces — humanity or spiritual witnesses", "outstretched arms — cruciform pose evoking sacrifice"],
+  "event": "Untitled",
+  "tags": [
+    "afrofuturism",
+    "sacred-art",
+    "contemporary-sacred",
+    "body-art",
+    "spiritual-figure"
+  ],
+  "symbols": [
+    "golden figure — divinity and spiritual illumination",
+    "radiating patterns — divine energy emanating outward",
+    "surrounding faces — humanity or spiritual witnesses",
+    "outstretched arms — cruciform pose evoking sacrifice"
+  ],
   "description": "A striking contemporary artwork depicting a golden-yellow figure with outstretched arms in a cruciform pose, set against an intricate black-and-white background filled with swirling patterns, faces, and organic motifs. The central figure appears divine or transcendent, with elaborate decorative patterns covering the body. Multiple faces emerge from the surrounding intricate linework, suggesting a cosmic or spiritual dimension.",
   "theological_description": "The cruciform pose of the central figure evokes Christ's sacrifice on the cross, while the golden coloring suggests divine glory and resurrection. The surrounding multitude of faces may represent all of humanity witnessing the redemptive act. The radiating patterns emanating from the figure recall the theological concept of divine light penetrating darkness, echoing John 1:5 — 'The light shines in the darkness, and the darkness has not overcome it.' The contemporary African artistic style recontextualizes sacred imagery within a broader cultural framework.",
   "scripture_refs": [
-    {"ref": "JHN.1.5", "relevance": "allusion", "reason": "Light shining in darkness evoked by golden figure against dark background"},
-    {"ref": "PHP.2.10-11", "relevance": "allusion", "reason": "Every knee bowing and tongue confessing, suggested by surrounding faces"}
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "Light shining in darkness evoked by golden figure against dark background"
+    },
+    {
+      "ref": "PHP.2.10-11",
+      "relevance": "allusion",
+      "reason": "Every knee bowing and tongue confessing, suggested by surrounding faces"
+    }
   ],
   "scene_type": "symbolic",
-  "mood": ["transcendent", "mystical", "powerful", "sacred"],
+  "mood": [
+    "transcendent",
+    "mystical",
+    "powerful",
+    "sacred"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080008",

@@ -1,11 +1,27 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Joseph", "type": "PERSON"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
   ],
   "event": "Holy Family / Rest on the Flight to Egypt",
-  "tags": ["holy-family", "virgin-mary", "infant-jesus", "joseph", "nursing-madonna", "tenderness", "baroque"],
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "infant-jesus",
+    "joseph",
+    "nursing-madonna",
+    "tenderness"
+  ],
   "symbols": [
     "nursing infant — Incarnation made tangible",
     "straw manger — humility of Christ's birth",
@@ -14,12 +30,29 @@
   "description": "An intimate close-up of the Holy Family. The Virgin Mary, wearing a pink and blue garment, tenderly holds and nurses the infant Jesus wrapped in white cloth. Joseph, in a golden-brown cloak, leans in from the right, gazing lovingly at the child. A straw-filled manger is visible below. Soft, warm lighting bathes the figures against a dark background.",
   "theological_description": "This tender scene of the Holy Family emphasizes the full humanity of the incarnate Word. The Virgin Mary nursing the infant Jesus (Maria Lactans) is a powerful visual affirmation of the Incarnation — God truly became flesh, dependent on a human mother for sustenance. Joseph's protective presence fulfills his role as guardian of the Holy Family, entrusted by God with the care of Mary and Jesus. The humble manger setting recalls the poverty and vulnerability of God entering the world, fulfilling the kenotic theology of Philippians 2 — Christ emptying himself to take the form of a servant.",
   "scripture_refs": [
-    {"ref": "MT.2.13-15", "relevance": "primary", "reason": "The Flight to Egypt where the Holy Family rests"},
-    {"ref": "LK.2.7", "relevance": "allusion", "reason": "She wrapped him in swaddling cloths and laid him in a manger"},
-    {"ref": "PHP.2.6-8", "relevance": "typological", "reason": "Christ humbled himself, taking the form of a servant"}
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The Flight to Egypt where the Holy Family rests"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "allusion",
+      "reason": "She wrapped him in swaddling cloths and laid him in a manger"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ humbled himself, taking the form of a servant"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["tender", "intimate", "warm", "peaceful"],
+  "mood": [
+    "tender",
+    "intimate",
+    "warm",
+    "peaceful"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090182",

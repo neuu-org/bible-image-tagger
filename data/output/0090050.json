@@ -1,10 +1,22 @@
 {
   "characters": [
-    {"name": "Frederick I Barbarossa", "type": "PERSON"},
-    {"name": "Crusader Knights", "type": "GROUP"}
+    {
+      "name": "Frederick I Barbarossa",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crusader Knights",
+      "type": "GROUP"
+    }
   ],
   "event": "Death of Frederick I during the Third Crusade",
-  "tags": ["crusade", "death", "drowning", "river", "knights", "engraving", "dore"],
+  "tags": [
+    "crusade",
+    "death",
+    "drowning",
+    "river",
+    "knights"
+  ],
   "symbols": [
     "armor — crusading warrior",
     "fallen bodies — tragedy of death on pilgrimage",
@@ -13,10 +25,18 @@
   "description": "A detailed black-and-white engraving depicting the aftermath of a drowning. Armored bodies lie on a riverbank, with a central figure in full plate armor sprawled lifeless. Other fallen knights surround him. A desolate landscape stretches into the background with distant hills and a cloudy sky.",
   "theological_description": "While not a direct biblical scene, Frederick Barbarossa's death by drowning in the Saleph River during the Third Crusade (1190) is deeply intertwined with Christian history. The Crusades were undertaken as armed pilgrimages to reclaim the Holy Land. Frederick's death en route to Jerusalem evokes the theme of pilgrimage and the peril of the journey of faith. His quest to liberate sacred sites connects to the broader Christian devotion to the land where Christ walked, suffered, and rose.",
   "scripture_refs": [
-    {"ref": "PS.137.5-6", "relevance": "allusion", "reason": "Longing for Jerusalem, the holy city the Crusaders sought to reclaim"}
+    {
+      "ref": "PSA.137.5-6",
+      "relevance": "allusion",
+      "reason": "Longing for Jerusalem, the holy city the Crusaders sought to reclaim"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["tragic", "somber", "desolate"],
+  "mood": [
+    "tragic",
+    "somber",
+    "desolate"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0090050",

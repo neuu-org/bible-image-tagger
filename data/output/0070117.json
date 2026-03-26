@@ -1,8 +1,17 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Young John the Baptist", "type": "PERSON"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
   ],
   "event": "Madonna and Child with the Infant Saint John the Baptist",
   "tags": [
@@ -28,15 +37,44 @@
   "description": "The Virgin Mary, wearing a dark blue mantle over a red dress with a white veil, holds the plump Infant Jesus on her lap while looking down tenderly. The Christ Child gazes outward at the viewer with a lively expression. At the lower left, the young John the Baptist, with curly reddish hair, holds a thin cross-staff and looks up at Jesus. Behind the figures, a soft Italian landscape with distant blue mountains and sky opens up. A stone column or architectural element frames the left edge of the composition. The painting exemplifies Correggio's sfumato technique and warm, gentle palette.",
   "theological_description": "Correggio presents the classic devotional subject of the Virgin and Child accompanied by the infant John the Baptist. The theological heart of the image is the Incarnation: the eternal Word of God (JHN.1.1) held as a helpless infant in the arms of his human mother. Mary's dual colors — blue for heaven, red for earth and sacrifice — visually express the doctrine of the Theotokos: she is the meeting point of divine and human natures. The young Baptist, traditionally identified by his cross-staff, is the forerunner whose entire existence points toward Christ. Even as a child, John is depicted turning toward Jesus, prefiguring his adult proclamation: 'Behold, the Lamb of God, who takes away the sin of the world!' (JHN.1.29). The cross-staff anticipates both Christ's Passion and John's own martyrdom. Luke's Gospel records the connection between these two children from before birth — when the pregnant Mary visited Elizabeth, the baby John leaped in the womb at the presence of the Lord (LUK.1.41-44). Mary's tender downward gaze embodies the Magnificat's spirit of humble gratitude: 'My soul magnifies the Lord' (LUK.1.46). The open landscape suggests the world that awaits the ministry of both figures — one as herald, the other as Redeemer.",
   "scripture_refs": [
-    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us — the Incarnation depicted in the Christ Child"},
-    {"ref": "JHN.1.29", "relevance": "primary", "reason": "John declaring Jesus the Lamb of God — prefigured in the infant Baptist gazing at Christ"},
-    {"ref": "LUK.1.41-44", "relevance": "primary", "reason": "The infant John leaping in Elizabeth's womb at the presence of Christ — the childhood meeting echoes this"},
-    {"ref": "LUK.1.46-55", "relevance": "allusion", "reason": "Mary's Magnificat — her tender maternal gaze reflecting humble gratitude and praise"},
-    {"ref": "MAT.3.3", "relevance": "typological", "reason": "John as the voice crying in the wilderness, preparing the way of the Lord"},
-    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son — the prophetic foundation of the Madonna and Child motif"}
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation depicted in the Christ Child"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John declaring Jesus the Lamb of God — prefigured in the infant Baptist gazing at Christ"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The infant John leaping in Elizabeth's womb at the presence of Christ — the childhood meeting echoes this"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "Mary's Magnificat — her tender maternal gaze reflecting humble gratitude and praise"
+    },
+    {
+      "ref": "MAT.3.3",
+      "relevance": "typological",
+      "reason": "John as the voice crying in the wilderness, preparing the way of the Lord"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the prophetic foundation of the Madonna and Child motif"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["tender", "serene", "intimate", "devotional"],
+  "mood": [
+    "tender",
+    "serene",
+    "intimate",
+    "devotional"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0070117",

@@ -23,17 +23,53 @@
   "description": "A sunlit stone courtyard stretches before the Dome of the Rock, its blue-green dome and octagonal drum dominating the composition. Mature olive and cypress trees cast dappled shadows across the paving stones. Small figures walk through the open space, dwarfed by the monumental structure. The palette is warm and luminous, with golden light saturating the stonework and foliage under a pale sky.",
   "theological_description": "This painting depicts the Haram Ash-Sharif, the platform upon which Solomon's Temple once stood — the dwelling place of God's Name among His people (1 Kings 8:29). The site is layered with salvation history: here Abraham offered Isaac in obedience (Genesis 22:2), David purchased the threshing floor of Araunah after seeing the destroying angel (2 Samuel 24:18-25), and Solomon erected the Temple where the Shekinah glory filled the Holy of Holies (1 Kings 8:10-11). The prophets mourned its destruction (Lamentations 2:7) and envisioned its eschatological restoration (Ezekiel 40-48). Jesus taught in these courts, cleansed them of merchants (Matthew 21:12-13), and prophesied that not one stone would remain upon another (Matthew 24:2). The current emptiness of the site — no Jewish Temple standing — is itself a theological statement: the true Temple is now the risen Christ (John 2:19-21) and His Body the Church (1 Corinthians 3:16).",
   "scripture_refs": [
-    {"ref": "1KI.8.10-11", "relevance": "primary", "reason": "The glory of the Lord filling Solomon's Temple, which stood on this very platform."},
-    {"ref": "2SA.24.18-25", "relevance": "primary", "reason": "David's purchase of the threshing floor of Araunah on Mount Moriah, the site depicted."},
-    {"ref": "GEN.22.2", "relevance": "primary", "reason": "The binding of Isaac on Mount Moriah, traditionally identified with this location."},
-    {"ref": "MAT.24.1-2", "relevance": "primary", "reason": "Jesus's prophecy that not one stone of the Temple would remain upon another."},
-    {"ref": "JHN.2.19-21", "relevance": "typological", "reason": "Jesus identifies His body as the true Temple, superseding the physical structure that once stood here."},
-    {"ref": "EZK.40.1-5", "relevance": "typological", "reason": "Ezekiel's vision of the restored eschatological Temple on this mountain."},
-    {"ref": "1CO.3.16", "relevance": "typological", "reason": "The Church as the new Temple of God where the Spirit dwells."},
-    {"ref": "LAM.2.7", "relevance": "allusion", "reason": "The Lord rejected His altar and abandoned His sanctuary — the grief over the Temple's destruction."}
+    {
+      "ref": "1KI.8.10-11",
+      "relevance": "typological",
+      "reason": "The glory of the Lord filling Solomon's Temple, which stood on this very platform."
+    },
+    {
+      "ref": "2SA.24.18-25",
+      "relevance": "typological",
+      "reason": "David's purchase of the threshing floor of Araunah on Mount Moriah, the site depicted."
+    },
+    {
+      "ref": "GEN.22.2",
+      "relevance": "typological",
+      "reason": "The binding of Isaac on Mount Moriah, traditionally identified with this location."
+    },
+    {
+      "ref": "MAT.24.1-2",
+      "relevance": "typological",
+      "reason": "Jesus's prophecy that not one stone of the Temple would remain upon another."
+    },
+    {
+      "ref": "JHN.2.19-21",
+      "relevance": "typological",
+      "reason": "Jesus identifies His body as the true Temple, superseding the physical structure that once stood here."
+    },
+    {
+      "ref": "EZK.40.1-5",
+      "relevance": "typological",
+      "reason": "Ezekiel's vision of the restored eschatological Temple on this mountain."
+    },
+    {
+      "ref": "1CO.3.16",
+      "relevance": "typological",
+      "reason": "The Church as the new Temple of God where the Spirit dwells."
+    },
+    {
+      "ref": "LAM.2.7",
+      "relevance": "allusion",
+      "reason": "The Lord rejected His altar and abandoned His sanctuary — the grief over the Temple's destruction."
+    }
   ],
   "scene_type": "landscape",
-  "mood": ["contemplative", "solemn", "luminous"],
+  "mood": [
+    "contemplative",
+    "solemn",
+    "luminous"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0040015",

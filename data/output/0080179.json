@@ -1,22 +1,64 @@
 {
   "characters": [
-    {"name": "Raymond Diocres", "type": "PERSON"},
-    {"name": "St. Bruno", "type": "PERSON"},
-    {"name": "Monks", "type": "GROUP"},
-    {"name": "Clergy", "type": "GROUP"}
+    {
+      "name": "Raymond Diocres",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Bruno",
+      "type": "PERSON"
+    },
+    {
+      "name": "Monks",
+      "type": "GROUP"
+    },
+    {
+      "name": "Clergy",
+      "type": "GROUP"
+    }
   ],
   "event": "Funeral of Raymond Diocres",
-  "tags": ["funeral", "illuminated-manuscript", "gothic", "medieval", "book-of-hours", "miraculous-event", "monks", "cathedral"],
-  "symbols": ["corpse rising — miraculous warning from beyond death", "gothic cathedral — Church authority and sacred space", "white-robed monks — Carthusian order founded by St. Bruno", "ornate borders — the richness of devotional art", "roundel scenes — related episodes from the narrative"],
+  "tags": [
+    "funeral",
+    "medieval",
+    "book-of-hours",
+    "miraculous-event",
+    "monks",
+    "cathedral"
+  ],
+  "symbols": [
+    "corpse rising — miraculous warning from beyond death",
+    "gothic cathedral — Church authority and sacred space",
+    "white-robed monks — Carthusian order founded by St. Bruno",
+    "ornate borders — the richness of devotional art",
+    "roundel scenes — related episodes from the narrative"
+  ],
   "description": "A richly illuminated manuscript page depicting a funeral scene inside a Gothic cathedral. A deceased figure (Raymond Diocres) is shown on a bier or coffin while monks and clergy gather around him. The scene is set within elaborate Gothic architecture with pointed arches and spires. The main miniature is surrounded by an ornate floral border with roundel scenes in the corners showing related episodes. Latin text appears below the miniature. The colors are vivid with rich blues, reds, golds, and greens typical of the Limbourg brothers' masterful illumination style.",
   "theological_description": "According to hagiographic tradition, Raymond Diocres was a renowned Parisian theologian whose funeral became a miraculous event. During the funeral Mass, the corpse reportedly sat up three times, crying out that he had been accused, judged, and condemned before God's tribunal. This terrifying event moved Bruno of Cologne to abandon worldly life and found the Carthusian order, devoted to contemplative prayer and penance. The story reflects the Christian understanding of divine judgment (Hebrews 9:27) and the urgency of repentance. It echoes the parable of Lazarus and the rich man (Luke 16:19-31), where the dead seek to warn the living.",
   "scripture_refs": [
-    {"ref": "HEB.9.27", "relevance": "allusion", "reason": "It is appointed for man to die once, and after that comes judgment"},
-    {"ref": "LUK.16.19-31", "relevance": "typological", "reason": "The dead warning the living about judgment, as in the parable of Lazarus"},
-    {"ref": "2CO.5.10", "relevance": "allusion", "reason": "All must appear before the judgment seat of Christ"}
+    {
+      "ref": "HEB.9.27",
+      "relevance": "allusion",
+      "reason": "It is appointed for man to die once, and after that comes judgment"
+    },
+    {
+      "ref": "LUK.16.19-31",
+      "relevance": "typological",
+      "reason": "The dead warning the living about judgment, as in the parable of Lazarus"
+    },
+    {
+      "ref": "2CO.5.10",
+      "relevance": "allusion",
+      "reason": "All must appear before the judgment seat of Christ"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["solemn", "ominous", "sacred", "fearful"],
+  "mood": [
+    "solemn",
+    "ominous",
+    "sacred",
+    "fearful"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080179",

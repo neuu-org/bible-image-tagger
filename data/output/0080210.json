@@ -1,23 +1,67 @@
 {
   "characters": [
-    {"name": "King David", "type": "PERSON"},
-    {"name": "Solomon", "type": "PERSON"},
-    {"name": "Angels", "type": "ANGEL"},
-    {"name": "Courtiers", "type": "GROUP"},
-    {"name": "Priests", "type": "GROUP"}
+    {
+      "name": "King David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Solomon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Courtiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Priests",
+      "type": "GROUP"
+    }
   ],
   "event": "David's Charge to Solomon",
-  "tags": ["david", "solomon", "temple-commission", "stained-glass", "kingship", "succession", "pre-raphaelite"],
-  "symbols": ["throne — royal authority and succession", "scroll or plans — instructions for building the Temple", "angelic presence — divine sanction of the commission", "crown — transfer of royal power", "kneeling figures — submission to divine will"],
+  "tags": [
+    "david",
+    "solomon",
+    "temple-commission",
+    "kingship",
+    "succession"
+  ],
+  "symbols": [
+    "throne — royal authority and succession",
+    "scroll or plans — instructions for building the Temple",
+    "angelic presence — divine sanction of the commission",
+    "crown — transfer of royal power",
+    "kneeling figures — submission to divine will"
+  ],
   "description": "A large stained glass window depicting King David's charge to his son Solomon. David, wearing royal red robes, sits enthroned at the center, gesturing authoritatively. Solomon and attendants gather around, some kneeling. Angels with wings are visible among the crowd to the left. The composition is rich with figures in flowing robes of white, gold, red, and blue. The scene is rendered in the Pre-Raphaelite style characteristic of Burne-Jones' stained glass work, with warm reds, ambers, and deep blues dominating the palette.",
   "theological_description": "This scene depicts 1 Chronicles 28:9-21, where the aging King David publicly charges his son Solomon to build the Temple of the Lord. David passes along the divinely inspired plans for the Temple — plans he received 'from the hand of the Lord' (1 Chronicles 28:19). This commission represents the continuation of God's covenant with David (2 Samuel 7:12-13), wherein God promised that David's offspring would build a house for His name and that his throne would be established forever. David's charge emphasizes faithfulness to God: 'If you seek Him, He will be found by you; but if you forsake Him, He will cast you off forever' (1 Chronicles 28:9).",
   "scripture_refs": [
-    {"ref": "1CH.28.9-21", "relevance": "primary", "reason": "David's charge to Solomon to build the Temple and serve God wholeheartedly"},
-    {"ref": "2SA.7.12-13", "relevance": "primary", "reason": "God's covenant promise that David's offspring would build a house for His name"},
-    {"ref": "1KI.2.1-4", "relevance": "allusion", "reason": "David's final charge to Solomon to keep God's commandments"}
+    {
+      "ref": "1CH.28.9-21",
+      "relevance": "primary",
+      "reason": "David's charge to Solomon to build the Temple and serve God wholeheartedly"
+    },
+    {
+      "ref": "2SA.7.12-13",
+      "relevance": "primary",
+      "reason": "God's covenant promise that David's offspring would build a house for His name"
+    },
+    {
+      "ref": "1KI.2.1-4",
+      "relevance": "allusion",
+      "reason": "David's final charge to Solomon to keep God's commandments"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["solemn", "majestic", "sacred", "authoritative"],
+  "mood": [
+    "solemn",
+    "majestic",
+    "sacred",
+    "authoritative"
+  ],
   "period": "Monarchy",
   "_meta": {
     "key": "0080210",

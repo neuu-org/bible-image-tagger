@@ -23,15 +23,43 @@
   "description": "An imaginary view of Venice's Grand Canal with a monumental Palladian-style bridge replacing the Rialto. On the right bank rises a large domed building with colonnaded facades. On the left, classically styled buildings with porticoes line the waterfront. The bridge features three arches supporting a covered arcade with columns. The canal is populated with gondolas, boats, and figures. The palette is warm with golden-ochre tones. Small figures along quays and stairs provide human scale to the grand architecture.",
   "theological_description": "Canaletto's capriccio — an imagined Venice rebuilt according to Palladio's unrealized designs — carries no direct biblical narrative, yet it speaks to the theology of the city and sacred architecture. Venice conceived of itself as a Christian republic, its architecture an outward expression of faith. The great dome dominating the right bank echoes the tradition of sacred domes from the Pantheon through Hagia Sophia — the dome as architectural icon of heaven's vault, the cosmos as conceived in the mind of God. Palladian architecture, with its devotion to mathematical proportion and harmony, embodies the conviction that the universe is rationally structured by a divine Logos: 'In the beginning was the Word' (John 1:1). The bridge is a powerful theological image: it spans the divide, connects what was separated. Christ is the ultimate bridge — the one mediator between God and humanity (1 Timothy 2:5). The Latin pontifex (bridge-builder) became the title of the highest priest. Human figures in this idealized city evoke the vision of the heavenly Jerusalem where nations walk by its light (Revelation 21:24). Yet as an imagined city that never existed, the capriccio makes explicit that the most beautiful city remains a pointer toward the city 'whose designer and builder is God' (Hebrews 11:10).",
   "scripture_refs": [
-    {"ref": "HEB.11.10", "relevance": "primary", "reason": "Abraham looked forward to the city with foundations, whose architect and builder is God — the idealized city as figure of the heavenly city"},
-    {"ref": "REV.21.10-11", "relevance": "primary", "reason": "The holy city Jerusalem coming down from heaven — the vision of the perfected city that all earthly cities imperfectly foreshadow"},
-    {"ref": "JHN.1.1", "relevance": "allusion", "reason": "In the beginning was the Word — Palladian devotion to rational proportion reflects the conviction that divine Logos orders all things"},
-    {"ref": "1TI.2.5", "relevance": "allusion", "reason": "One mediator between God and men — the bridge as symbol of mediation and reconciliation across the divide"},
-    {"ref": "REV.21.24-26", "relevance": "allusion", "reason": "The nations will walk by the light of the city — commerce and activity in a civilization shaped by faith"},
-    {"ref": "PSA.127.1", "relevance": "allusion", "reason": "Unless the LORD builds the house, those who build it labor in vain — the theological foundation of all civic architecture"}
+    {
+      "ref": "HEB.11.10",
+      "relevance": "typological",
+      "reason": "Abraham looked forward to the city with foundations, whose architect and builder is God — the idealized city as figure of the heavenly city"
+    },
+    {
+      "ref": "REV.21.10-11",
+      "relevance": "typological",
+      "reason": "The holy city Jerusalem coming down from heaven — the vision of the perfected city that all earthly cities imperfectly foreshadow"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "allusion",
+      "reason": "In the beginning was the Word — Palladian devotion to rational proportion reflects the conviction that divine Logos orders all things"
+    },
+    {
+      "ref": "1TI.2.5",
+      "relevance": "allusion",
+      "reason": "One mediator between God and men — the bridge as symbol of mediation and reconciliation across the divide"
+    },
+    {
+      "ref": "REV.21.24-26",
+      "relevance": "allusion",
+      "reason": "The nations will walk by the light of the city — commerce and activity in a civilization shaped by faith"
+    },
+    {
+      "ref": "PSA.127.1",
+      "relevance": "allusion",
+      "reason": "Unless the LORD builds the house, those who build it labor in vain — the theological foundation of all civic architecture"
+    }
   ],
   "scene_type": "landscape",
-  "mood": ["majestic", "serene", "orderly"],
+  "mood": [
+    "majestic",
+    "serene",
+    "orderly"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000362",

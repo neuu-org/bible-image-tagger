@@ -1,19 +1,51 @@
 {
   "characters": [
-    {"name": "St. Catherine of Alexandria", "type": "PERSON"}
+    {
+      "name": "St. Catherine of Alexandria",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["saint-catherine", "martyr", "breaking-wheel", "palm-branch", "crown", "engraving", "carracci"],
-  "symbols": ["spiked wheel — instrument of attempted martyrdom", "crown — royal birth and heavenly queenship", "palm branch — victory and martyrdom", "halo — sanctity"],
+  "event": "St. Catherine",
+  "tags": [
+    "saint-catherine",
+    "martyr",
+    "breaking-wheel",
+    "palm-branch",
+    "crown",
+    "carracci"
+  ],
+  "symbols": [
+    "spiked wheel — instrument of attempted martyrdom",
+    "crown — royal birth and heavenly queenship",
+    "palm branch — victory and martyrdom",
+    "halo — sanctity"
+  ],
   "description": "An engraving depicting St. Catherine of Alexandria as a full-length standing figure. She wears an elegant dress and crown, with a halo. She holds a palm branch (symbol of martyrdom) in one hand and stands beside a large spiked wheel — her famous attribute, the instrument of her attempted execution. The figure is rendered with confident crosshatching technique, showing the influence of the Carracci school's blend of classical idealism and naturalism. A landscape is visible in the background.",
   "theological_description": "St. Catherine of Alexandria (traditionally dated to the early 4th century) was a learned Christian princess who debated and converted pagan philosophers sent by the Roman emperor to refute her faith. When the emperor ordered her execution on a spiked wheel, the wheel miraculously broke, and she was ultimately beheaded. She became one of the most popular saints in medieval Christianity, patroness of philosophers, students, and young women. Her story illustrates the biblical principle that God confounds worldly wisdom through the 'foolishness' of the Gospel (1 Corinthians 1:27). Her willingness to die for her faith exemplifies Revelation 2:10: 'Be faithful unto death, and I will give you the crown of life.'",
   "scripture_refs": [
-    {"ref": "1CO.1.27", "relevance": "allusion", "reason": "God choosing the foolish to shame the wise — Catherine confounding the philosophers"},
-    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death, I will give you the crown of life — Catherine's martyrdom"},
-    {"ref": "MAT.10.19-20", "relevance": "allusion", "reason": "The Spirit speaking through believers under persecution, as through Catherine in her debates"}
+    {
+      "ref": "1CO.1.27",
+      "relevance": "allusion",
+      "reason": "God choosing the foolish to shame the wise — Catherine confounding the philosophers"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death, I will give you the crown of life — Catherine's martyrdom"
+    },
+    {
+      "ref": "MAT.10.19-20",
+      "relevance": "allusion",
+      "reason": "The Spirit speaking through believers under persecution, as through Catherine in her debates"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["dignified", "triumphant", "elegant", "resolute"],
+  "mood": [
+    "dignified",
+    "triumphant",
+    "elegant",
+    "resolute"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080931",

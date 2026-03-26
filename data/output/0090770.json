@@ -1,11 +1,26 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Soldiers", "type": "GROUP"},
-    {"name": "Judas", "type": "PERSON"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Judas",
+      "type": "PERSON"
+    }
   ],
   "event": "The Capture / Arrest of Christ",
-  "tags": ["arrest-of-christ", "betrayal", "soldiers", "gethsemane", "passion", "renaissance", "signorelli"],
+  "tags": [
+    "arrest-of-christ",
+    "betrayal",
+    "soldiers",
+    "gethsemane",
+    "passion"
+  ],
   "symbols": [
     "soldiers with weapons — force against the Prince of Peace",
     "bound Christ — voluntary submission to suffering",
@@ -14,12 +29,29 @@
   "description": "A wide, frieze-like Renaissance painting showing the arrest of Christ in Gethsemane. A crowd of armed soldiers and figures seizes Christ, who is bound and being led away. The composition shows intense physical interaction — pushing, grabbing, and restraining. Soldiers wear ancient armor and carry weapons. The scene is crowded and violent, painted in Signorelli's muscular, dynamic style with a landscape background.",
   "theological_description": "The arrest of Christ in the Garden of Gethsemane marks the beginning of the Passion proper. After Judas's betrayal with a kiss, a crowd armed with swords and clubs seizes Jesus. Despite his ability to call upon legions of angels, Christ submits willingly to arrest, declaring, 'This has all taken place that the writings of the prophets might be fulfilled.' The violence of the arrest contrasts with Christ's peaceful surrender, embodying the paradox of the Passion — divine power expressed through voluntary weakness. The soldiers' aggression represents the blindness of worldly power confronting divine love.",
   "scripture_refs": [
-    {"ref": "MT.26.47-56", "relevance": "primary", "reason": "The arrest of Jesus in Gethsemane"},
-    {"ref": "JN.18.3-12", "relevance": "primary", "reason": "John's account of the arrest, including 'I AM' declaration"},
-    {"ref": "IS.53.7", "relevance": "typological", "reason": "He was led like a lamb to the slaughter and did not open his mouth"}
+    {
+      "ref": "MAT.26.47-56",
+      "relevance": "primary",
+      "reason": "The arrest of Jesus in Gethsemane"
+    },
+    {
+      "ref": "JHN.18.3-12",
+      "relevance": "primary",
+      "reason": "John's account of the arrest, including 'I AM' declaration"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "He was led like a lamb to the slaughter and did not open his mouth"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["violent", "chaotic", "tense", "dramatic"],
+  "mood": [
+    "violent",
+    "chaotic",
+    "tense",
+    "dramatic"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090770",

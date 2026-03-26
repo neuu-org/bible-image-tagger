@@ -1,9 +1,19 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
   ],
   "event": "Christ Blessing / Salvator Mundi",
-  "tags": ["christ-blessing", "salvator-mundi", "cross", "globe", "blessing-gesture", "baroque", "zurbarán"],
+  "tags": [
+    "christ-blessing",
+    "salvator-mundi",
+    "cross",
+    "globe",
+    "blessing-gesture",
+    "zurbaran"
+  ],
   "symbols": [
     "cross — instrument of salvation",
     "globe — Christ's sovereignty over the world",
@@ -13,13 +23,34 @@
   "description": "A half-length portrait of Christ facing the viewer, holding a large wooden cross in his left hand and resting his right hand on a blue globe representing the earth. His right hand is raised in a gesture of blessing. He wears a rose-pink tunic under a dark robe. Long brown hair frames a serene, direct gaze. A golden halo or glow emanates from behind his head.",
   "theological_description": "The Salvator Mundi (Savior of the World) iconographic type presents Christ as the sovereign ruler and redeemer of all creation. The globe beneath his hand signifies his lordship over the entire world — 'The earth is the Lord's, and everything in it' (Psalm 24:1). The cross he holds is the instrument of salvation through which he conquered sin and death. His gesture of blessing extends grace to all who behold him, embodying his words: 'I am the way, the truth, and the life.' This image combines Christ's roles as priest, prophet, and king — he blesses (priestly), teaches truth (prophetic), and reigns (kingly) — the threefold office described in Christian theology.",
   "scripture_refs": [
-    {"ref": "JN.14.6", "relevance": "primary", "reason": "I am the way, the truth, and the life — Christ's universal claim"},
-    {"ref": "MT.28.18", "relevance": "primary", "reason": "All authority in heaven and on earth has been given to me"},
-    {"ref": "PS.24.1", "relevance": "allusion", "reason": "The earth is the Lord's and everything in it — the globe symbolism"},
-    {"ref": "CL.1.15-17", "relevance": "typological", "reason": "He is the image of the invisible God, in him all things hold together"}
+    {
+      "ref": "JHN.14.6",
+      "relevance": "primary",
+      "reason": "I am the way, the truth, and the life — Christ's universal claim"
+    },
+    {
+      "ref": "MAT.28.18",
+      "relevance": "primary",
+      "reason": "All authority in heaven and on earth has been given to me"
+    },
+    {
+      "ref": "PSA.24.1",
+      "relevance": "allusion",
+      "reason": "The earth is the Lord's and everything in it — the globe symbolism"
+    },
+    {
+      "ref": "COL.1.15-17",
+      "relevance": "typological",
+      "reason": "He is the image of the invisible God, in him all things hold together"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["authoritative", "serene", "majestic", "sacred"],
+  "mood": [
+    "authoritative",
+    "serene",
+    "majestic",
+    "sacred"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090267",

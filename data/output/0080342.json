@@ -1,19 +1,53 @@
 {
   "characters": [
-    {"name": "St. Charles of Sezze", "type": "PERSON"}
+    {
+      "name": "St. Charles of Sezze",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["saint-charles-of-sezze", "franciscan", "stigmata", "rosary", "italian-countryside", "modern-religious-art"],
-  "symbols": ["rays of light striking heart — mystical transverberation or spiritual wound", "rosary — Franciscan devotion", "open book — spiritual writings", "animals and harvest — Franciscan love of creation", "halo — sanctity", "bare feet — Franciscan poverty"],
+  "event": "Saint Charles from Sezze",
+  "tags": [
+    "saint-charles-of-sezze",
+    "franciscan",
+    "stigmata",
+    "rosary",
+    "italian-countryside",
+    "modern-religious-art"
+  ],
+  "symbols": [
+    "rays of light striking heart — mystical transverberation or spiritual wound",
+    "rosary — Franciscan devotion",
+    "open book — spiritual writings",
+    "animals and harvest — Franciscan love of creation",
+    "halo — sanctity",
+    "bare feet — Franciscan poverty"
+  ],
   "description": "A modern devotional painting of St. Charles of Sezze, a Franciscan friar, standing in an Italian countryside setting. He wears a brown Franciscan habit with a rosary hanging from his belt and has a circular halo. Rays of divine light strike his chest, suggesting a mystical experience. Behind him, an Italian hilltop town is visible. A book stand holds an open text. Farm animals (goats, sheep) graze in the background, and a farmer works in a red field. Vegetables and fruits are arranged at his feet. The style is boldly colored with strong outlines.",
   "theological_description": "St. Charles of Sezze (1613-1670) was a Franciscan lay brother known for his mystical experiences and spiritual writings. The rays striking his chest refer to his famous mystical transverberation — during Mass, he received a wound in his side from a ray of light emanating from the consecrated Host, an experience he recorded in his autobiography. This miracle parallels the stigmata of St. Francis (Galatians 6:17) and reflects the Pauline concept of bearing the marks of Christ in one's body. His simple setting among animals and harvest reflects the Franciscan ideal of poverty and harmony with creation.",
   "scripture_refs": [
-    {"ref": "GAL.6.17", "relevance": "allusion", "reason": "Bearing the marks of Jesus in one's body, as in the mystical wound"},
-    {"ref": "GAL.2.20", "relevance": "allusion", "reason": "It is no longer I who live, but Christ who lives in me — mystical union"},
-    {"ref": "PSA.148.7-10", "relevance": "allusion", "reason": "All creation praising God, reflected in the Franciscan harmony with nature"}
+    {
+      "ref": "GAL.6.17",
+      "relevance": "allusion",
+      "reason": "Bearing the marks of Jesus in one's body, as in the mystical wound"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "allusion",
+      "reason": "It is no longer I who live, but Christ who lives in me — mystical union"
+    },
+    {
+      "ref": "PSA.148.7-10",
+      "relevance": "allusion",
+      "reason": "All creation praising God, reflected in the Franciscan harmony with nature"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["devotional", "mystical", "pastoral", "serene"],
+  "mood": [
+    "devotional",
+    "mystical",
+    "pastoral",
+    "serene"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080342",

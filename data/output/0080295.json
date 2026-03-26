@@ -1,20 +1,57 @@
 {
   "characters": [
-    {"name": "Angel Gabriel", "type": "ANGEL"},
-    {"name": "Virgin Mary", "type": "PERSON"}
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
   ],
   "event": "Annunciation",
-  "tags": ["annunciation", "orthodox-icon", "angel-gabriel", "virgin-mary", "byzantine", "halos", "theotokos"],
-  "symbols": ["angel with wings — Gabriel as divine messenger", "golden halos — sanctity", "red veil/curtain above — the heavenly realm revealed", "architectural setting — the house of Nazareth or the Temple", "Mary at a stand — spinning or reading, receiving the message"],
+  "tags": [
+    "annunciation",
+    "orthodox-icon",
+    "angel-gabriel",
+    "virgin-mary",
+    "byzantine",
+    "halos",
+    "theotokos"
+  ],
+  "symbols": [
+    "angel with wings — Gabriel as divine messenger",
+    "golden halos — sanctity",
+    "red veil/curtain above — the heavenly realm revealed",
+    "architectural setting — the house of Nazareth or the Temple",
+    "Mary at a stand — spinning or reading, receiving the message"
+  ],
   "description": "A Byzantine Orthodox icon of the Annunciation. The Angel Gabriel stands at the left with wings, a golden halo, and gestures toward the Virgin Mary, who stands at the right beside an architectural structure. She also has a golden halo and appears to be near a reading stand or altar. A red curtain or veil is draped between the buildings above. The icon follows traditional Orthodox iconographic conventions with flattened perspective, gold leaf background, and Greek inscriptions at the top. The paint shows age-related wear and cracking.",
   "theological_description": "The Annunciation icon follows the strict Orthodox iconographic tradition depicting Luke 1:26-38. Gabriel appears to Mary to announce that she will conceive the Son of the Most High by the Holy Spirit. In Orthodox theology, this moment is called the 'beginning of our salvation,' when the Second Person of the Trinity begins to take flesh. The red veil between the buildings symbolizes the opening of heaven to earth through the Incarnation. Mary's posture of receptivity represents her free consent ('let it be to me according to your word') which makes possible the redemption of humanity. The Annunciation is one of the twelve Great Feasts of the Orthodox liturgical calendar.",
   "scripture_refs": [
-    {"ref": "LUK.1.26-38", "relevance": "primary", "reason": "The Angel Gabriel's announcement to Mary of the Incarnation"},
-    {"ref": "LUK.1.38", "relevance": "primary", "reason": "Mary's fiat — 'let it be to me according to your word'"},
-    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son, Immanuel"}
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Angel Gabriel's announcement to Mary of the Incarnation"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Mary's fiat — 'let it be to me according to your word'"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son, Immanuel"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["sacred", "reverent", "solemn", "mysterious"],
+  "mood": [
+    "sacred",
+    "reverent",
+    "solemn",
+    "mysterious"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080295",

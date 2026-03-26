@@ -1,10 +1,23 @@
 {
   "characters": [
-    {"name": "Saint Andrew", "type": "PERSON"},
-    {"name": "Executioners", "type": "GROUP"}
+    {
+      "name": "Andrew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioners",
+      "type": "GROUP"
+    }
   ],
   "event": "Martyrdom of Saint Andrew",
-  "tags": ["martyrdom", "saint-andrew", "crucifixion", "x-cross", "tenebrism", "ribera", "suffering"],
+  "tags": [
+    "martyrdom",
+    "saint-andrew",
+    "crucifixion",
+    "x-cross",
+    "ribera",
+    "suffering"
+  ],
   "symbols": [
     "cross — instrument of martyrdom",
     "elderly emaciated body — suffering for Christ",
@@ -14,12 +27,29 @@
   "description": "A tenebristic painting showing the martyrdom of Saint Andrew. The elderly apostle lies stretched out, his emaciated body dramatically lit against deep darkness. Executioners lift and bind him, preparing to crucify him. His expression is one of anguish and resignation. The figures emerge from near-total darkness in Ribera's characteristic dramatic chiaroscuro. The scene is intensely physical and visceral.",
   "theological_description": "The martyrdom of Saint Andrew, brother of Simon Peter and one of the first disciples called by Jesus, was a central subject of Counter-Reformation art. Tradition holds that Andrew was crucified on an X-shaped cross (the saltire or crux decussata) in Patras, Greece, around 60 AD. According to legend, he preached from the cross for two days before dying. Andrew's martyrdom fulfills Christ's prophecy that his followers would take up their own crosses. Ribera's brutally realistic depiction, with the saint's aged flesh rendered with unflinching honesty, strips away any romantic idealization of martyrdom, presenting it as genuine suffering willingly endured for the sake of Christ.",
   "scripture_refs": [
-    {"ref": "JN.1.40-42", "relevance": "allusion", "reason": "Andrew was one of the first two disciples to follow Jesus"},
-    {"ref": "MT.10.38-39", "relevance": "typological", "reason": "Whoever does not take up their cross and follow me is not worthy of me"},
-    {"ref": "JN.12.26", "relevance": "allusion", "reason": "Where I am, my servant also will be — following Christ to the cross"}
+    {
+      "ref": "JHN.1.40-42",
+      "relevance": "allusion",
+      "reason": "Andrew was one of the first two disciples to follow Jesus"
+    },
+    {
+      "ref": "MAT.10.38-39",
+      "relevance": "typological",
+      "reason": "Whoever does not take up their cross and follow me is not worthy of me"
+    },
+    {
+      "ref": "JHN.12.26",
+      "relevance": "allusion",
+      "reason": "Where I am, my servant also will be — following Christ to the cross"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["anguished", "dark", "brutal", "solemn"],
+  "mood": [
+    "anguished",
+    "dark",
+    "brutal",
+    "solemn"
+  ],
   "period": "Apostolic",
   "_meta": {
     "key": "0090785",

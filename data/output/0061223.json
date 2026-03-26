@@ -1,6 +1,9 @@
 {
   "characters": [
-    {"name": "Anthony the Great", "type": "PERSON"}
+    {
+      "name": "Anthony the Great",
+      "type": "PERSON"
+    }
   ],
   "event": "Saint Anthony the Great in the wilderness",
   "tags": [
@@ -29,14 +32,38 @@
   "description": "An elderly bearded man with a large gold halo walks through a barren, rocky landscape. He wears a long dark brown-black monastic robe and carries a red-covered book in his left hand and a tall walking staff in his right. The terrain is steep and craggy, with sparse vegetation and stunted pine trees growing from the rocky outcrops. The sky is pale and hazy. The figure moves deliberately across the difficult ground, his expression resolute and contemplative. The painting has a gold background in the corners, suggesting a medieval panel format.",
   "theological_description": "Saint Anthony the Great (c. 251-356) is revered as the father of Christian monasticism. After hearing the Gospel command, 'If you would be perfect, go, sell what you possess and give to the poor' (Matthew 19:21), Anthony withdrew into the Egyptian desert to pursue a life of radical discipleship. His biography, written by Athanasius of Alexandria, became one of the most influential texts in Christian history, inspiring generations of monks and ascetics. The barren landscape in this painting reflects the desert that was Anthony's crucible of sanctification -- a place of spiritual warfare against demons and deepening communion with God. The red book he carries represents the Scriptures, which were the foundation of his spiritual life; tradition holds that it was hearing the Gospel read aloud that catalyzed his conversion. His walking staff identifies him as a perpetual pilgrim, one who recognized that the Christian life is a journey toward the heavenly city (Hebrews 11:13-16). Anthony's example proved that the desert, far from being empty, was a place of encounter with the living God, fulfilling Hosea's prophecy: 'I will allure her and bring her into the wilderness, and speak tenderly to her' (Hosea 2:14).",
   "scripture_refs": [
-    {"ref": "MAT.19.21", "relevance": "primary", "reason": "The Gospel command that prompted Anthony's renunciation -- sell all, give to the poor, and follow Christ."},
-    {"ref": "MAT.4.1-2", "relevance": "typological", "reason": "Jesus was led into the wilderness to be tempted -- Anthony's desert life as an imitation of Christ's own testing."},
-    {"ref": "HOS.2.14", "relevance": "typological", "reason": "God alluring Israel into the wilderness to speak tenderly -- the desert as a place of intimate divine encounter."},
-    {"ref": "HEB.11.38", "relevance": "allusion", "reason": "Those of whom the world was not worthy, wandering in deserts and mountains -- the desert saints."},
-    {"ref": "1KI.19.4-8", "relevance": "allusion", "reason": "Elijah's wilderness journey sustained by God's provision -- a prototype of the desert father's solitary walk with God."}
+    {
+      "ref": "MAT.19.21",
+      "relevance": "typological",
+      "reason": "The Gospel command that prompted Anthony's renunciation -- sell all, give to the poor, and follow Christ."
+    },
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "typological",
+      "reason": "Jesus was led into the wilderness to be tempted -- Anthony's desert life as an imitation of Christ's own testing."
+    },
+    {
+      "ref": "HOS.2.14",
+      "relevance": "typological",
+      "reason": "God alluring Israel into the wilderness to speak tenderly -- the desert as a place of intimate divine encounter."
+    },
+    {
+      "ref": "HEB.11.38",
+      "relevance": "allusion",
+      "reason": "Those of whom the world was not worthy, wandering in deserts and mountains -- the desert saints."
+    },
+    {
+      "ref": "1KI.19.4-8",
+      "relevance": "allusion",
+      "reason": "Elijah's wilderness journey sustained by God's provision -- a prototype of the desert father's solitary walk with God."
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["austere", "contemplative", "resolute"],
+  "mood": [
+    "austere",
+    "contemplative",
+    "resolute"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0061223",

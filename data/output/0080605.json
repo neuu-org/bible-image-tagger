@@ -1,21 +1,61 @@
 {
   "characters": [
-    {"name": "Adam", "type": "PERSON"},
-    {"name": "Eve", "type": "PERSON"}
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    }
   ],
   "event": "Adam and Eve in Paradise",
-  "tags": ["adam-and-eve", "paradise", "garden-of-eden", "animals", "creation", "innocence", "woodcut", "cranach"],
-  "symbols": ["tree of knowledge — source of temptation", "various animals — peaceful coexistence before the Fall", "nudity — original innocence before sin", "lush garden — God's perfect provision", "birds and beasts together — harmony of unfallen creation"],
+  "tags": [
+    "adam-and-eve",
+    "paradise",
+    "garden-of-eden",
+    "animals",
+    "creation",
+    "innocence"
+  ],
+  "symbols": [
+    "tree of knowledge — source of temptation",
+    "various animals — peaceful coexistence before the Fall",
+    "nudity — original innocence before sin",
+    "lush garden — God's perfect provision",
+    "birds and beasts together — harmony of unfallen creation"
+  ],
   "description": "A detailed woodcut or engraving depicting Adam and Eve in the Garden of Eden. Eve stands at center beneath a large tree, while Adam sits nearby. They are surrounded by a rich variety of animals living in harmony — deer, lions, rabbits, birds, and other creatures. The scene is lush with vegetation including trees, grass, and flowering plants. The composition fills the entire frame with intricate detail. The style is characteristic of Lucas Cranach the Elder's Northern Renaissance approach, with fine linework and naturalistic animal depictions.",
   "theological_description": "This image depicts the state of original innocence in the Garden of Eden before the Fall (Genesis 2:8-25). Adam and Eve live in perfect harmony with creation, fulfilling their role as stewards of God's world (Genesis 1:28). The peaceful coexistence of all animals reflects the pre-Fall condition when, according to Genesis 1:30, all creatures were given green plants for food — there was no predation or death. This paradisal scene represents what was lost through sin and what will be restored in the eschaton, when 'the wolf shall dwell with the lamb' (Isaiah 11:6). The Garden of Eden is the archetype of all that is good, beautiful, and true in God's creation.",
   "scripture_refs": [
-    {"ref": "GEN.2.8-25", "relevance": "primary", "reason": "God placing Adam and Eve in the Garden of Eden in original innocence"},
-    {"ref": "GEN.1.28-31", "relevance": "primary", "reason": "God's commission to steward creation, declared 'very good'"},
-    {"ref": "ISA.11.6-9", "relevance": "typological", "reason": "The peaceable kingdom where animals coexist, mirroring and restoring Eden"},
-    {"ref": "GEN.1.30", "relevance": "allusion", "reason": "All animals given green plants for food — no predation in the original creation"}
+    {
+      "ref": "GEN.2.8-25",
+      "relevance": "primary",
+      "reason": "God placing Adam and Eve in the Garden of Eden in original innocence"
+    },
+    {
+      "ref": "GEN.1.28-31",
+      "relevance": "primary",
+      "reason": "God's commission to steward creation, declared 'very good'"
+    },
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "typological",
+      "reason": "The peaceable kingdom where animals coexist, mirroring and restoring Eden"
+    },
+    {
+      "ref": "GEN.1.30",
+      "relevance": "allusion",
+      "reason": "All animals given green plants for food — no predation in the original creation"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["idyllic", "peaceful", "innocent", "harmonious"],
+  "mood": [
+    "idyllic",
+    "peaceful",
+    "innocent",
+    "harmonious"
+  ],
   "period": "Creation",
   "_meta": {
     "key": "0080605",

@@ -1,11 +1,28 @@
 {
   "characters": [
-    {"name": "Tobias", "type": "PERSON"},
-    {"name": "Tobit", "type": "PERSON"},
-    {"name": "Raphael", "type": "ANGEL"}
+    {
+      "name": "Tobias",
+      "type": "PERSON"
+    },
+    {
+      "name": "Tobit",
+      "type": "PERSON"
+    },
+    {
+      "name": "Raphael",
+      "type": "ANGEL"
+    }
   ],
   "event": "Return of Tobias",
-  "tags": ["return-of-tobias", "tobit", "angel-raphael", "reunion", "luminous-figure", "dog", "old-testament-apocrypha"],
+  "tags": [
+    "return-of-tobias",
+    "tobit",
+    "angel-raphael",
+    "reunion",
+    "luminous-figure",
+    "dog",
+    "old-testament-apocrypha"
+  ],
   "symbols": [
     "luminous white figure — angelic presence (Raphael)",
     "dog — faithful companion on journey",
@@ -15,12 +32,29 @@
   "description": "A loosely painted scene showing two dark-robed figures in an embrace near a building on the left, while a luminous white-clad figure accompanied by a small dog approaches from the right on a sunlit path. The landscape is pastoral with hills in the background. The painting style is impressionistic with broad, expressive brushstrokes and warm golden light.",
   "theological_description": "The Return of Tobias depicts the joyful conclusion of the Book of Tobit, a deuterocanonical narrative. Young Tobias, sent on a journey by his blind father Tobit, was accompanied and protected by the angel Raphael in disguise. Raphael guided Tobias to collect the gall of a fish that would heal his father's blindness. The luminous figure represents either Raphael or the returning Tobias, glowing with divine favor. The story is a profound meditation on God's providential care — even when God seems absent, he sends angels to guide, protect, and heal. The faithful dog is a charming detail preserved from the biblical text.",
   "scripture_refs": [
-    {"ref": "TB.11.1-15", "relevance": "primary", "reason": "Tobias returns home and heals his father Tobit's blindness"},
-    {"ref": "TB.5.4-6", "relevance": "allusion", "reason": "Raphael accompanies Tobias on his journey in disguise"},
-    {"ref": "PS.91.11", "relevance": "allusion", "reason": "He will command his angels concerning you to guard you in all your ways"}
+    {
+      "ref": "TOB.11.1-15",
+      "relevance": "primary",
+      "reason": "Tobias returns home and heals his father Tobit's blindness"
+    },
+    {
+      "ref": "TOB.5.4-6",
+      "relevance": "allusion",
+      "reason": "Raphael accompanies Tobias on his journey in disguise"
+    },
+    {
+      "ref": "PSA.91.11",
+      "relevance": "allusion",
+      "reason": "He will command his angels concerning you to guard you in all your ways"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["joyful", "luminous", "hopeful", "tender"],
+  "mood": [
+    "joyful",
+    "luminous",
+    "hopeful",
+    "tender"
+  ],
   "period": "Intertestamental",
   "_meta": {
     "key": "0090517",

@@ -1,9 +1,19 @@
 {
   "characters": [
-    {"name": "Salome", "type": "PERSON"}
+    {
+      "name": "Salome",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["salome", "veiled-woman", "decorative", "orientalist", "colorful", "floral-pattern", "expressionism"],
+  "event": "Salomeea",
+  "tags": [
+    "salome",
+    "veiled-woman",
+    "decorative",
+    "orientalist",
+    "colorful",
+    "floral-pattern"
+  ],
   "symbols": [
     "veil — mystery and concealment",
     "floral patterns — earthly beauty and temptation"
@@ -11,11 +21,24 @@
   "description": "A richly colored expressionist portrait of a woman with her face partially veiled in pale blue, wearing an elaborate striped headdress in pink, yellow, and green. The background features a dense, decorative tapestry-like pattern with orange figures, deer, flowers, and a rose. The style is flat and decorative, reminiscent of Eastern European expressionism with heavy impasto texture.",
   "theological_description": "If this depicts Salome, she is the figure who danced before King Herod and requested the head of John the Baptist on a platter. Salome represents the dangerous power of seduction and manipulation when allied with political power. Her veiled face could suggest the hidden nature of evil that conceals itself behind beauty. The story of Salome serves as a warning about the consequences of rash oaths and the vulnerability of prophetic truth to political violence.",
   "scripture_refs": [
-    {"ref": "MK.6.21-28", "relevance": "allusion", "reason": "Salome dances and requests the head of John the Baptist"},
-    {"ref": "MT.14.6-11", "relevance": "allusion", "reason": "Matthew's parallel account of Herod's feast and John's execution"}
+    {
+      "ref": "MRK.6.21-28",
+      "relevance": "allusion",
+      "reason": "Salome dances and requests the head of John the Baptist"
+    },
+    {
+      "ref": "MAT.14.6-11",
+      "relevance": "allusion",
+      "reason": "Matthew's parallel account of Herod's feast and John's execution"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["exotic", "mysterious", "decorative", "vibrant"],
+  "mood": [
+    "exotic",
+    "mysterious",
+    "decorative",
+    "vibrant"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090515",

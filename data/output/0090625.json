@@ -1,9 +1,15 @@
 {
   "characters": [
-    {"name": "Ancestors of Christ", "type": "GROUP"}
+    {
+      "name": "Ancestors of Christ",
+      "type": "GROUP"
+    }
   ],
   "event": "Ancestors of Christ",
-  "tags": ["ancestors-of-christ", "sistine-chapel", "michelangelo", "lunette", "genealogy", "fresco"],
+  "tags": [
+    "ancestors-of-christ",
+    "genealogy"
+  ],
   "symbols": [
     "tablet with names — genealogy of Christ",
     "seated figures — generations awaiting the Messiah",
@@ -12,12 +18,29 @@
   "description": "A lunette fresco from the Sistine Chapel showing two groups of figures flanking a central tablet inscribed with Hebrew names (ASA, JOSAPHAT, JORAM). On the left, a cloaked figure sits in deep thought. On the right, a woman holds a child while a man leans forward. The figures are painted in Michelangelo's characteristic monumental style with rich drapery and powerful anatomy.",
   "theological_description": "Michelangelo's lunettes in the Sistine Chapel depict the ancestors of Christ listed in Matthew's genealogy. These figures — Asa, Jehoshaphat, and Joram — are kings of Judah in the Davidic line through which the Messiah was promised. By painting these ancestors, Michelangelo visualizes the long chain of generations from Abraham to Christ, demonstrating that God's promise was faithfully transmitted through centuries of human history. The contemplative, sometimes weary postures of the ancestors suggest the patient waiting of Israel for the fulfillment of the Messianic promise. Each generation carried the hope forward, even through periods of unfaithfulness and exile.",
   "scripture_refs": [
-    {"ref": "MT.1.7-8", "relevance": "primary", "reason": "The genealogy lists Asa, Jehoshaphat, and Joram as ancestors of Christ"},
-    {"ref": "1KI.15.11", "relevance": "allusion", "reason": "Asa did what was right in the eyes of the Lord"},
-    {"ref": "GL.4.4", "relevance": "typological", "reason": "When the fullness of time had come, God sent his Son — the culmination of the lineage"}
+    {
+      "ref": "MAT.1.7-8",
+      "relevance": "primary",
+      "reason": "The genealogy lists Asa, Jehoshaphat, and Joram as ancestors of Christ"
+    },
+    {
+      "ref": "1KI.15.11",
+      "relevance": "allusion",
+      "reason": "Asa did what was right in the eyes of the Lord"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "When the fullness of time had come, God sent his Son — the culmination of the lineage"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["contemplative", "solemn", "monumental", "expectant"],
+  "mood": [
+    "contemplative",
+    "solemn",
+    "monumental",
+    "expectant"
+  ],
   "period": "Monarchy",
   "_meta": {
     "key": "0090625",

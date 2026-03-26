@@ -1,22 +1,63 @@
 {
   "characters": [
-    {"name": "Dead Christ", "type": "DEITY"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "St. John the Evangelist", "type": "PERSON"},
-    {"name": "Mary Magdalene", "type": "PERSON"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
   ],
   "event": "Pietà / Lamentation",
-  "tags": ["pieta", "lamentation", "dead-christ", "mourners", "venetian-baroque", "palma-giovane", "altarpiece"],
-  "symbols": ["dead Christ — the completed sacrifice", "three mourners — faithful witnesses of the Passion", "white shroud — burial preparation", "darkness — cosmic grief at Christ's death"],
+  "tags": [
+    "pieta",
+    "lamentation",
+    "dead-christ",
+    "mourners",
+    "venetian-baroque",
+    "palma-giovane"
+  ],
+  "symbols": [
+    "dead Christ — the completed sacrifice",
+    "three mourners — faithful witnesses of the Passion",
+    "white shroud — burial preparation",
+    "darkness — cosmic grief at Christ's death"
+  ],
   "description": "A Venetian Baroque altarpiece in an arched frame depicting the Pietà. The dead Christ sits slumped, His head fallen to one side, supported by three mourning figures. Behind Him, a figure in red (St. John the Evangelist) supports His body. To the left, a figure (Mary Magdalene) in red kisses or weeps over His hand. To the right, the Virgin Mary in dark blue and white veil grieves with hands clasped. The painting is dark and somber, with subdued lighting picking out the pale body of Christ and the grief-stricken faces of the mourners.",
   "theological_description": "The Pietà shows the dead Christ mourned by His mother, His beloved disciple, and the penitent Magdalene — the three who stood faithful at the cross (John 19:25-27). This image serves as a meditation on the cost of salvation. Christ's lifeless body bears the marks of His sacrifice, fulfilling Isaiah's prophecy: 'He was pierced for our transgressions, he was crushed for our iniquities' (Isaiah 53:5). The three mourners represent different dimensions of Christian response to Christ's sacrifice: maternal love (Mary), faithful discipleship (John), and penitent devotion (Magdalene). As an altarpiece, the painting connects the historical event of Calvary with the eucharistic sacrifice celebrated at the altar below.",
   "scripture_refs": [
-    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "The faithful witnesses at the cross — Mary, John, and the women"},
-    {"ref": "ISA.53.5", "relevance": "primary", "reason": "Pierced for our transgressions — the theological meaning of Christ's wounds"},
-    {"ref": "LUK.2.35", "relevance": "allusion", "reason": "A sword will pierce your own soul — Mary's grief fulfilled"}
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "The faithful witnesses at the cross — Mary, John, and the women"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "primary",
+      "reason": "Pierced for our transgressions — the theological meaning of Christ's wounds"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "A sword will pierce your own soul — Mary's grief fulfilled"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["sorrowful", "sacred", "dark", "grief-stricken"],
+  "mood": [
+    "sorrowful",
+    "sacred",
+    "dark",
+    "grief-stricken"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080907",

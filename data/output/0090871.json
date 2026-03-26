@@ -1,10 +1,22 @@
 {
   "characters": [
-    {"name": "David", "type": "PERSON"},
-    {"name": "Goliath", "type": "PERSON"}
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Goliath",
+      "type": "PERSON"
+    }
   ],
   "event": "David Slays Goliath",
-  "tags": ["david-and-goliath", "sling", "giant", "philistines", "victory", "engraving", "dore"],
+  "tags": [
+    "david-and-goliath",
+    "sling",
+    "giant",
+    "philistines",
+    "victory"
+  ],
   "symbols": [
     "sling — humble weapon of faith",
     "fallen giant — worldly power defeated by God",
@@ -14,12 +26,29 @@
   "description": "A dramatic black-and-white Doré engraving showing the young David standing triumphantly over the fallen body of the giant Goliath. David holds Goliath's massive head by the hair, lifting it high. The giant's enormous armored body lies sprawled on the ground. Armies are visible in the background. Text below reads 'DAVID AND GOLIATH' with a biblical reference. The engraving features Doré's characteristic detailed cross-hatching.",
   "theological_description": "The battle between David and Goliath is one of the most iconic narratives in Scripture — the shepherd boy defeating the mighty Philistine champion with nothing but a sling and five smooth stones. David's victory demonstrates that true power comes not from military might but from faith in God. David declares to Goliath: 'You come against me with sword and spear, but I come against you in the name of the Lord Almighty.' This episode is a powerful type of Christ's victory over Satan — the seemingly powerless one defeating the overwhelming enemy through divine power. David's humble origin as a shepherd prefigures Christ the Good Shepherd, who conquers death itself.",
   "scripture_refs": [
-    {"ref": "1SM.17.49-51", "relevance": "primary", "reason": "David strikes Goliath with the sling stone and cuts off his head"},
-    {"ref": "1SM.17.45", "relevance": "primary", "reason": "David declares he comes in the name of the Lord Almighty"},
-    {"ref": "1CO.1.27", "relevance": "typological", "reason": "God chose the weak things of the world to shame the strong"}
+    {
+      "ref": "1SA.17.49-51",
+      "relevance": "primary",
+      "reason": "David strikes Goliath with the sling stone and cuts off his head"
+    },
+    {
+      "ref": "1SA.17.45",
+      "relevance": "primary",
+      "reason": "David declares he comes in the name of the Lord Almighty"
+    },
+    {
+      "ref": "1CO.1.27",
+      "relevance": "typological",
+      "reason": "God chose the weak things of the world to shame the strong"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["triumphant", "dramatic", "heroic", "awe-inspiring"],
+  "mood": [
+    "triumphant",
+    "dramatic",
+    "heroic",
+    "awe-inspiring"
+  ],
   "period": "Monarchy",
   "_meta": {
     "key": "0090871",

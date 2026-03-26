@@ -1,12 +1,31 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Soldiers", "type": "GROUP"},
-    {"name": "Crowd", "type": "GROUP"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
   ],
   "event": "Procession / Departure of the Virgin and Child",
-  "tags": ["procession", "horses", "soldiers", "virgin-and-child", "engraving", "piranesi", "roman-architecture"],
+  "tags": [
+    "procession",
+    "horses",
+    "soldiers",
+    "virgin-and-child",
+    "piranesi",
+    "roman-architecture"
+  ],
   "symbols": [
     "horse — power and authority",
     "arch — Roman imperial setting",
@@ -15,11 +34,23 @@
   "description": "A tall, narrow engraving depicting a dramatic procession scene. Roman soldiers on horseback pass through a monumental arched gateway. A woman holding a child is visible among the figures. Crowds of people fill the scene. The architecture is grand with classical arches and balconies. The composition is vertical and densely packed with figures. Latin text at the bottom reads about the departure of the Virgin and her Son.",
   "theological_description": "The Latin inscription references the departure of the Virgin with her Son, suggesting this depicts either the Flight into Egypt or a related journey of the Holy Family. The dramatic Roman military context may represent Herod's soldiers or the general atmosphere of threat under which the Holy Family traveled. The engraving's monumental architecture places the sacred event within the historical reality of the Roman world, reminding viewers that the Incarnation occurred at a specific time and place in history — during the reign of Caesar Augustus, as Luke's Gospel emphasizes.",
   "scripture_refs": [
-    {"ref": "MT.2.13-15", "relevance": "primary", "reason": "The Flight into Egypt — Joseph takes Mary and the child to escape Herod"},
-    {"ref": "HO.11.1", "relevance": "typological", "reason": "Out of Egypt I called my son"}
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The Flight into Egypt — Joseph takes Mary and the child to escape Herod"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["dramatic", "urgent", "monumental"],
+  "mood": [
+    "dramatic",
+    "urgent",
+    "monumental"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090462",

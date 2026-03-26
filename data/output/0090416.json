@@ -1,9 +1,20 @@
 {
   "characters": [
-    {"name": "Angels", "type": "GROUP"}
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
   ],
   "event": "Angelic Choir",
-  "tags": ["angel-choir", "music-making-angels", "gold-halos", "lute", "tambourine", "praying-angels", "gothic-panel"],
+  "tags": [
+    "angel-choir",
+    "music-making-angels",
+    "gold-halos",
+    "lute",
+    "tambourine",
+    "praying-angels",
+    "gothic-panel"
+  ],
   "symbols": [
     "musical instruments — heavenly praise",
     "gold halos — sanctity and heavenly nature",
@@ -13,12 +24,29 @@
   "description": "A tall panel painting showing twelve angels arranged in four rows. The upper angels have hands clasped in prayer with large gold halos and red wings. The middle row shows angels singing or praying. The lower angels play musical instruments including a lute, tambourine, and what appears to be a small drum. All have golden halos against a red background. The style is Gothic with rich gilding.",
   "theological_description": "Choirs of music-making angels represent the ceaseless worship of heaven. In Christian theology, angels exist primarily to worship God and serve as his messengers. The nine choirs of angels — from Seraphim to ordinary angels — form a celestial hierarchy of praise. Musical angels appear throughout Scripture, from the hosts who sang at Christ's birth ('Glory to God in the highest') to the trumpeting angels of Revelation. The variety of instruments suggests the fullness and richness of heavenly worship, where every faculty and gift is directed toward the praise of God. The praying angels above the musicians indicate that worship begins in contemplation before finding expression in song.",
   "scripture_refs": [
-    {"ref": "PS.148.2", "relevance": "primary", "reason": "Praise him, all his angels; praise him, all his heavenly hosts"},
-    {"ref": "RV.5.11-12", "relevance": "allusion", "reason": "Thousands upon thousands of angels singing: Worthy is the Lamb"},
-    {"ref": "LK.2.13-14", "relevance": "allusion", "reason": "A great company of the heavenly host praising God at Christ's birth"}
+    {
+      "ref": "PSA.148.2",
+      "relevance": "primary",
+      "reason": "Praise him, all his angels; praise him, all his heavenly hosts"
+    },
+    {
+      "ref": "REV.5.11-12",
+      "relevance": "allusion",
+      "reason": "Thousands upon thousands of angels singing: Worthy is the Lamb"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "A great company of the heavenly host praising God at Christ's birth"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["celestial", "joyful", "devotional", "harmonious"],
+  "mood": [
+    "celestial",
+    "joyful",
+    "devotional",
+    "harmonious"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0090416",

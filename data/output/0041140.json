@@ -1,6 +1,9 @@
 {
   "characters": [
-    {"name": "Seated figure", "type": "PERSON"}
+    {
+      "name": "Seated figure",
+      "type": "PERSON"
+    }
   ],
   "event": "Interior view of the Baptistry at St. Mark's Basilica, Venice",
   "tags": [
@@ -9,7 +12,6 @@
     "byzantine-mosaics",
     "sacred-architecture",
     "venice",
-    "st-marks-basilica",
     "liturgical-space",
     "baptism",
     "candlelight",
@@ -24,15 +26,44 @@
   "description": "A dark, atmospheric interior of a baptistry with richly decorated walls. Golden Byzantine mosaics cover the upper walls and vaulted ceiling, glinting faintly in the dim light. A solitary figure sits near the center of the space, dwarfed by the monumental architecture. Candelabra, an ornate bronze vessel, and liturgical furniture occupy the foreground. Heavy columns and arches frame the composition. The light is subdued and warm, creating deep shadows that give the space a mysterious, hallowed atmosphere.",
   "theological_description": "The Baptistry of St. Mark's is one of Christendom's most theologically charged architectural spaces. A baptistry exists for one purpose: the sacrament of Baptism, whereby the believer is buried with Christ into death and raised to new life (Romans 6:3-4). The golden mosaics that cover its walls and ceiling depict salvation history from Creation to Christ, surrounding the baptismal candidate with the whole narrative of redemption. This visual theology declares that baptism is not an isolated rite but the individual's entry into the cosmic drama of salvation. The Byzantine gold is itself theological: gold does not tarnish, symbolizing the imperishable divine glory. The lone figure seated within this vast space embodies the soul's encounter with the sacred — overwhelmed by beauty, drawn into contemplation, experiencing what Rudolf Otto called the mysterium tremendum. The baptistry's architectural separation from the main nave reflects the ancient catechumenal discipline: one entered through water before one could approach the altar. The space thus embodies the entire theology of initiation: dying to the old self, being washed clean, and emerging into the light of the ecclesial community.",
   "scripture_refs": [
-    {"ref": "ROM.6.3-4", "relevance": "primary", "reason": "Baptized into Christ's death and raised to walk in newness of life — the foundational theology of every baptistry"},
-    {"ref": "JHN.3.5", "relevance": "primary", "reason": "Unless one is born of water and the Spirit, he cannot enter the kingdom of God — the sacramental purpose of the baptistry space"},
-    {"ref": "TIT.3.5", "relevance": "primary", "reason": "He saved us through the washing of regeneration and renewal of the Holy Spirit — the baptismal font as place of rebirth"},
-    {"ref": "REV.21.18", "relevance": "typological", "reason": "The city was pure gold, clear as glass — the golden mosaics creating a foretaste of the heavenly Jerusalem"},
-    {"ref": "PSA.27.4", "relevance": "allusion", "reason": "One thing I ask of the LORD: to dwell in the house of the LORD and to gaze upon his beauty — the solitary contemplator within the sacred space"},
-    {"ref": "1PE.3.21", "relevance": "allusion", "reason": "Baptism now saves you — the baptistry as architectural witness to Peter's declaration of baptism's salvific power"}
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "typological",
+      "reason": "Baptized into Christ's death and raised to walk in newness of life — the foundational theology of every baptistry"
+    },
+    {
+      "ref": "JHN.3.5",
+      "relevance": "typological",
+      "reason": "Unless one is born of water and the Spirit, he cannot enter the kingdom of God — the sacramental purpose of the baptistry space"
+    },
+    {
+      "ref": "TIT.3.5",
+      "relevance": "typological",
+      "reason": "He saved us through the washing of regeneration and renewal of the Holy Spirit — the baptismal font as place of rebirth"
+    },
+    {
+      "ref": "REV.21.18",
+      "relevance": "typological",
+      "reason": "The city was pure gold, clear as glass — the golden mosaics creating a foretaste of the heavenly Jerusalem"
+    },
+    {
+      "ref": "PSA.27.4",
+      "relevance": "allusion",
+      "reason": "One thing I ask of the LORD: to dwell in the house of the LORD and to gaze upon his beauty — the solitary contemplator within the sacred space"
+    },
+    {
+      "ref": "1PE.3.21",
+      "relevance": "allusion",
+      "reason": "Baptism now saves you — the baptistry as architectural witness to Peter's declaration of baptism's salvific power"
+    }
   ],
   "scene_type": "landscape",
-  "mood": ["mysterious", "reverent", "contemplative", "solemn"],
+  "mood": [
+    "mysterious",
+    "reverent",
+    "contemplative",
+    "solemn"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0041140",

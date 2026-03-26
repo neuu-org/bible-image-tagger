@@ -1,22 +1,66 @@
 {
   "characters": [
-    {"name": "Risen Christ", "type": "DEITY"},
-    {"name": "Angels", "type": "ANGEL"},
-    {"name": "Putti", "type": "ANGEL"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
   ],
   "event": "Christ Triumphant over Sin and Death",
-  "tags": ["risen-christ", "triumph", "sin-and-death", "serpent", "skull", "baroque", "rubens", "resurrection-victory"],
-  "symbols": ["serpent trampled — victory over Satan and sin (Genesis 3:15)", "skull and bones — death defeated", "resurrection banner with cross — victory of the cross", "red mantle — kingship and blood of sacrifice", "trumpet-blowing angel — announcing triumph", "fire below — hell subdued"],
+  "tags": [
+    "risen-christ",
+    "triumph",
+    "sin-and-death",
+    "serpent",
+    "skull",
+    "resurrection-victory"
+  ],
+  "symbols": [
+    "serpent trampled — victory over Satan and sin (Genesis 3:15)",
+    "skull and bones — death defeated",
+    "resurrection banner with cross — victory of the cross",
+    "red mantle — kingship and blood of sacrifice",
+    "trumpet-blowing angel — announcing triumph",
+    "fire below — hell subdued"
+  ],
   "description": "The Risen Christ sits enthroned in powerful physical glory, draped in a rich red mantle, holding a white banner with a red cross. His muscular body displays the wounds of crucifixion. An angel blows a trumpet at the left. Another angel supports Christ from behind. A putto at the right assists. Beneath Christ's feet lie a skull, bones, and a serpent — symbols of death and sin crushed by His resurrection. Flames lick at the bottom of the composition. The painting radiates Rubens' characteristic dynamic energy and warm coloring.",
   "theological_description": "This painting presents the resurrected Christ as the triumphant conqueror of humanity's three great enemies: sin (the serpent), death (the skull), and hell (the flames). The composition is a visual expression of 1 Corinthians 15:54-57: 'Death is swallowed up in victory. O death, where is your sting?' The serpent beneath Christ's feet fulfills the protoevangelium of Genesis 3:15, where God promised that the seed of the woman would crush the serpent's head. The resurrection banner proclaims that the cross, once an instrument of shame, has become the standard of eternal victory. The trumpet-blowing angel anticipates the final triumph at Christ's return (1 Thessalonians 4:16).",
   "scripture_refs": [
-    {"ref": "1CO.15.54-57", "relevance": "primary", "reason": "Death swallowed up in victory, the sting of death removed — the painting's central theme"},
-    {"ref": "GEN.3.15", "relevance": "primary", "reason": "The serpent's head crushed, depicted literally under Christ's feet"},
-    {"ref": "COL.2.15", "relevance": "primary", "reason": "Christ disarming rulers and authorities, triumphing over them by the cross"},
-    {"ref": "REV.1.18", "relevance": "allusion", "reason": "Christ holding the keys of Death and Hades, depicted as conquering both"}
+    {
+      "ref": "1CO.15.54-57",
+      "relevance": "primary",
+      "reason": "Death swallowed up in victory, the sting of death removed — the painting's central theme"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "primary",
+      "reason": "The serpent's head crushed, depicted literally under Christ's feet"
+    },
+    {
+      "ref": "COL.2.15",
+      "relevance": "primary",
+      "reason": "Christ disarming rulers and authorities, triumphing over them by the cross"
+    },
+    {
+      "ref": "REV.1.18",
+      "relevance": "allusion",
+      "reason": "Christ holding the keys of Death and Hades, depicted as conquering both"
+    }
   ],
   "scene_type": "allegory",
-  "mood": ["triumphant", "powerful", "glorious", "victorious"],
+  "mood": [
+    "triumphant",
+    "powerful",
+    "glorious",
+    "victorious"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080248",

@@ -1,23 +1,67 @@
 {
   "characters": [
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Joseph", "type": "PERSON"},
-    {"name": "Magi", "type": "GROUP"},
-    {"name": "Attendants", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
   ],
   "event": "Adoration of the Magi",
-  "tags": ["adoration-of-the-magi", "epiphany", "nativity", "gifts", "perugino", "renaissance", "stable"],
-  "symbols": ["kneeling king — Gentile nations worshipping Christ", "gifts — gold, frankincense, and myrrh", "stable/manger — humble birth of the King", "tree — life or the Tree of Jesse", "star implied — divine guidance"],
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "nativity",
+    "gifts",
+    "stable"
+  ],
+  "symbols": [
+    "kneeling king — Gentile nations worshipping Christ",
+    "gifts — gold, frankincense, and myrrh",
+    "stable/manger — humble birth of the King",
+    "tree — life or the Tree of Jesse",
+    "star implied — divine guidance"
+  ],
   "description": "A Renaissance altarpiece depicting the Adoration of the Magi in an arched frame. The Virgin Mary sits at center-right holding the Infant Jesus, with Joseph standing behind. One of the Magi kneels before the Child, offering a gift. Other richly dressed figures gather at the left in a procession. The scene is set under a humble wooden structure with a lush tree behind and a landscape vista. The composition is balanced and harmonious, with soft colors and idealized figures characteristic of Perugino's Umbrian style.",
   "theological_description": "The Adoration of the Kings depicts Matthew 2:1-12, when wise men from the East came to worship the newborn King of the Jews. The Magi's journey, guided by a star, represents the revelation of Christ to the Gentile world — the Epiphany. Their gifts carry Christological significance: gold for His kingship, frankincense for His divinity, and myrrh anticipating His death and burial. The humble setting contrasts with the royal visitors, emphasizing that God's kingdom operates by a different logic than earthly power. This scene fulfills Isaiah's prophecy that nations would come bearing gold and frankincense to proclaim the Lord's praise (Isaiah 60:6).",
   "scripture_refs": [
-    {"ref": "MAT.2.1-12", "relevance": "primary", "reason": "The Magi from the East coming to worship the newborn King"},
-    {"ref": "ISA.60.6", "relevance": "typological", "reason": "Nations bringing gold and frankincense to proclaim the praise of the Lord"},
-    {"ref": "PSA.72.10-11", "relevance": "typological", "reason": "Kings bringing gifts and bowing down before the Messianic ruler"}
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Magi from the East coming to worship the newborn King"
+    },
+    {
+      "ref": "ISA.60.6",
+      "relevance": "typological",
+      "reason": "Nations bringing gold and frankincense to proclaim the praise of the Lord"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings bringing gifts and bowing down before the Messianic ruler"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["reverent", "joyful", "majestic", "serene"],
+  "mood": [
+    "reverent",
+    "joyful",
+    "majestic",
+    "serene"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080506",

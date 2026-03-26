@@ -31,23 +31,28 @@
   "scripture_refs": [
     {
       "ref": "LUK.1.30-33",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "LUK.2.6-7",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "MAT.1.23",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "COL.1.15-17",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "REV.12.1",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     }
   ],
   "scene_type": "liturgical",
@@ -63,5 +68,6 @@
     "artist": "Álvaro Pires de Évora",
     "model": "claude-opus-4-6"
   },
-  "event": "Virgin and Child with Angels"
+  "event": "Virgin and Child with Angels",
+  "symbols": []
 }

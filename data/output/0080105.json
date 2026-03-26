@@ -1,24 +1,70 @@
 {
   "characters": [
-    {"name": "Infant Mary", "type": "PERSON"},
-    {"name": "St. Anne", "type": "PERSON"},
-    {"name": "St. Joachim", "type": "PERSON"},
-    {"name": "Midwives", "type": "GROUP"},
-    {"name": "God the Father", "type": "DEITY"},
-    {"name": "Angels", "type": "ANGEL"}
+    {
+      "name": "Infant Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Joachim",
+      "type": "PERSON"
+    },
+    {
+      "name": "Midwives",
+      "type": "GROUP"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
   ],
   "event": "Nativity of the Virgin Mary",
-  "tags": ["nativity-of-mary", "saint-anne", "joachim", "birth-scene", "fresco", "renaissance", "angels"],
-  "symbols": ["newborn being bathed — purification and new beginning", "God the Father above — divine providence over Mary's birth", "angels in lunette — heavenly joy at Mary's birth", "bed scene — domestic nativity paralleling Christ's birth"],
+  "tags": [
+    "nativity-of-mary",
+    "saint-anne",
+    "joachim",
+    "birth-scene",
+    "angels"
+  ],
+  "symbols": [
+    "newborn being bathed — purification and new beginning",
+    "God the Father above — divine providence over Mary's birth",
+    "angels in lunette — heavenly joy at Mary's birth",
+    "bed scene — domestic nativity paralleling Christ's birth"
+  ],
   "description": "A Renaissance fresco in two registers within an architectural setting. The upper lunette shows God the Father surrounded by angels and cherubim in clouds. The lower arched scene depicts the birth of the Virgin Mary in a domestic interior. St. Anne reclines in bed at left while attendants care for the newborn, with one woman in a golden dress presenting the infant. Other women assist with bathing and swaddling. The scene is richly colored with warm earth tones, golds, and greens. Decorative borders with angelic figures frame the composition.",
   "theological_description": "The Nativity of the Virgin Mary, celebrated as a liturgical feast on September 8th, draws from apocryphal tradition (particularly the Protoevangelium of James) rather than canonical Scripture. According to tradition, Mary was born to the elderly and previously barren couple Joachim and Anne, making her birth a miraculous gift from God — paralleling Old Testament patterns of barren women bearing children of destiny (Sarah, Hannah, Elizabeth). God the Father presiding above signifies that Mary's birth was ordained within the divine plan of salvation, preparing the vessel who would bear the Incarnate Word. Her birth is seen as the dawn before the sunrise of Christ's coming.",
   "scripture_refs": [
-    {"ref": "LUK.1.28", "relevance": "allusion", "reason": "Mary as 'full of grace' from the moment of her existence, anticipated in this birth scene"},
-    {"ref": "1SA.1.20", "relevance": "typological", "reason": "Hannah's miraculous birth of Samuel parallels Anne's birth of Mary"},
-    {"ref": "GEN.18.10-14", "relevance": "typological", "reason": "Pattern of God granting children to barren couples for His purposes"}
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "Mary as 'full of grace' from the moment of her existence, anticipated in this birth scene"
+    },
+    {
+      "ref": "1SA.1.20",
+      "relevance": "typological",
+      "reason": "Hannah's miraculous birth of Samuel parallels Anne's birth of Mary"
+    },
+    {
+      "ref": "GEN.18.10-14",
+      "relevance": "typological",
+      "reason": "Pattern of God granting children to barren couples for His purposes"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["joyful", "celebratory", "tender", "sacred"],
+  "mood": [
+    "joyful",
+    "celebratory",
+    "tender",
+    "sacred"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0080105",

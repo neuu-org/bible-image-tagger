@@ -1,9 +1,19 @@
 {
   "characters": [
-    {"name": "Joe Louis", "type": "PERSON"}
+    {
+      "name": "Joe Louis",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["neo-expressionism", "basquiat", "boxer", "graffiti-art", "snake", "modern-art"],
+  "event": "St. Joe Louis Surrounded Snake",
+  "tags": [
+    "neo-expressionism",
+    "basquiat",
+    "boxer",
+    "graffiti-art",
+    "snake",
+    "modern-art"
+  ],
   "symbols": [
     "snake — evil, temptation",
     "boxing gloves — spiritual combat"
@@ -12,7 +22,11 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "symbolic",
-  "mood": ["aggressive", "raw", "chaotic"],
+  "mood": [
+    "aggressive",
+    "raw",
+    "chaotic"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0090049",

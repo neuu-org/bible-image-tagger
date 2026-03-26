@@ -1,11 +1,29 @@
 {
   "characters": [
-    {"name": "Russian Bishops and Monks", "type": "GROUP"},
-    {"name": "St. Alexius of Moscow", "type": "PERSON"},
-    {"name": "St. Peter of Moscow", "type": "PERSON"},
-    {"name": "St. Sergius of Radonezh", "type": "PERSON"},
-    {"name": "St. Theodosius of the Caves", "type": "PERSON"},
-    {"name": "St. Anthony of the Caves", "type": "PERSON"}
+    {
+      "name": "Russian Bishops and Monks",
+      "type": "GROUP"
+    },
+    {
+      "name": "St. Alexius of Moscow",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Peter of Moscow",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Sergius of Radonezh",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Theodosius of the Caves",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Anthony of the Caves",
+      "type": "PERSON"
+    }
   ],
   "event": "Assembly of Russian Saints and Church Fathers",
   "tags": [
@@ -38,16 +56,49 @@
   "description": "Seven or eight bearded holy men stand in a row beneath an arched frame. On the left, monks in dark robes with long white beards hold a cross and scrolls. On the right, bishops in richly ornamented liturgical vestments — gold, white, and jeweled — hold an open book and a cross. Each figure has a golden halo. Behind them rise golden-domed churches and cathedrals. Cyrillic inscriptions identify the saints along the bottom. Ornamental crosses adorn the upper corners.",
   "theological_description": "This assembly of Russian saints represents the concept of the Communion of Saints (communio sanctorum) — the living and the departed united in the Body of Christ. The pairing of monks and bishops reflects the Eastern Orthodox understanding of the complementary vocations of the contemplative and hierarchical life, both essential pillars of the Church. The golden domes behind them signify the heavenly Jerusalem (Revelation 21:18) made present on earth through the sanctified community. The open Gospel book at center is the Word that unites them, recalling Christ's high-priestly prayer that they may all be one (John 17:21). The monastic figures on the left embody the kenotic tradition — self-emptying in imitation of Christ (Philippians 2:7) — while the bishops on the right embody the apostolic mandate to teach and sanctify. Together they form an icon of the Church Militant become the Church Triumphant, interceding before the throne of God. The arched composition itself functions as a deesis — the saints presenting themselves and the faithful before Christ.",
   "scripture_refs": [
-    {"ref": "HEB.12.1", "relevance": "primary", "reason": "The great cloud of witnesses surrounding the faithful"},
-    {"ref": "REV.21.18", "relevance": "typological", "reason": "Golden domes symbolize the city of pure gold, the heavenly Jerusalem"},
-    {"ref": "JHN.17.21", "relevance": "allusion", "reason": "Unity of the saints reflecting Christ's prayer for oneness"},
-    {"ref": "ISA.61.10", "relevance": "allusion", "reason": "Vestments as garments of salvation and robes of righteousness"},
-    {"ref": "EPH.2.20", "relevance": "allusion", "reason": "The Church built on the foundation of apostles and prophets"},
-    {"ref": "PHP.2.7", "relevance": "typological", "reason": "Monastic kenosis imitating Christ who emptied himself"},
-    {"ref": "1PE.2.9", "relevance": "allusion", "reason": "A royal priesthood, a holy nation — the sanctified community"}
+    {
+      "ref": "HEB.12.1",
+      "relevance": "typological",
+      "reason": "The great cloud of witnesses surrounding the faithful"
+    },
+    {
+      "ref": "REV.21.18",
+      "relevance": "typological",
+      "reason": "Golden domes symbolize the city of pure gold, the heavenly Jerusalem"
+    },
+    {
+      "ref": "JHN.17.21",
+      "relevance": "allusion",
+      "reason": "Unity of the saints reflecting Christ's prayer for oneness"
+    },
+    {
+      "ref": "ISA.61.10",
+      "relevance": "allusion",
+      "reason": "Vestments as garments of salvation and robes of righteousness"
+    },
+    {
+      "ref": "EPH.2.20",
+      "relevance": "allusion",
+      "reason": "The Church built on the foundation of apostles and prophets"
+    },
+    {
+      "ref": "PHP.2.7",
+      "relevance": "typological",
+      "reason": "Monastic kenosis imitating Christ who emptied himself"
+    },
+    {
+      "ref": "1PE.2.9",
+      "relevance": "allusion",
+      "reason": "A royal priesthood, a holy nation — the sanctified community"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["reverence", "solemnity", "glory", "devotion"],
+  "mood": [
+    "reverence",
+    "solemnity",
+    "glory",
+    "devotion"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000744",

@@ -1,26 +1,80 @@
 {
   "characters": [
-    {"name": "Christ", "type": "DEITY"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "John the Baptist", "type": "PERSON"},
-    {"name": "Angels", "type": "ANGEL"},
-    {"name": "Saints", "type": "GROUP"},
-    {"name": "The Damned", "type": "GROUP"},
-    {"name": "The Saved", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "The Damned",
+      "type": "GROUP"
+    },
+    {
+      "name": "The Saved",
+      "type": "GROUP"
+    }
   ],
   "event": "Last Judgment",
-  "tags": ["last-judgment", "eschatology", "sketch", "heaven-and-hell", "resurrection-of-the-dead", "christ-in-glory"],
-  "symbols": ["Christ enthroned above — supreme judge", "tiered composition — hierarchy of heaven", "lower figures rising — resurrection of the dead", "separation of groups — division of saved and damned"],
+  "tags": [
+    "last-judgment",
+    "eschatology",
+    "sketch",
+    "heaven-and-hell",
+    "resurrection-of-the-dead",
+    "christ-in-glory"
+  ],
+  "symbols": [
+    "Christ enthroned above — supreme judge",
+    "tiered composition — hierarchy of heaven",
+    "lower figures rising — resurrection of the dead",
+    "separation of groups — division of saved and damned"
+  ],
   "description": "A detailed preparatory sketch depicting the Last Judgment in a multi-tiered vertical composition. At the top, a figure of the risen Christ is enthroned in glory. Below, the Virgin Mary and saints are arranged in heavenly tiers with angels. The middle register shows figures being judged, while the bottom tier depicts the resurrection of the dead and the separation of the saved from the damned. The drawing is executed in ink/wash with fine detail throughout.",
   "theological_description": "This sketch depicts the Last Judgment as described in Matthew 25:31-46 and Revelation 20:11-15. Christ sits enthroned as the supreme judge, flanked by intercessors including the Virgin Mary and John the Baptist in the traditional Deesis arrangement. The multi-tiered composition reflects the hierarchical ordering of the heavenly court. The lower registers show the resurrection of the dead (1 Thessalonians 4:16) and the final separation of the righteous from the wicked, a central eschatological doctrine. The arrangement follows the theological understanding that all humanity will be called to account before the throne of Christ.",
   "scripture_refs": [
-    {"ref": "MAT.25.31-46", "relevance": "primary", "reason": "The Son of Man coming in glory to judge all nations, separating sheep from goats"},
-    {"ref": "REV.20.11-15", "relevance": "primary", "reason": "The great white throne judgment and the book of life"},
-    {"ref": "1TH.4.16", "relevance": "allusion", "reason": "The dead in Christ rising, depicted in lower register"},
-    {"ref": "DAN.7.9-10", "relevance": "typological", "reason": "The Ancient of Days taking His seat in judgment"}
+    {
+      "ref": "MAT.25.31-46",
+      "relevance": "primary",
+      "reason": "The Son of Man coming in glory to judge all nations, separating sheep from goats"
+    },
+    {
+      "ref": "REV.20.11-15",
+      "relevance": "primary",
+      "reason": "The great white throne judgment and the book of life"
+    },
+    {
+      "ref": "1TH.4.16",
+      "relevance": "allusion",
+      "reason": "The dead in Christ rising, depicted in lower register"
+    },
+    {
+      "ref": "DAN.7.9-10",
+      "relevance": "typological",
+      "reason": "The Ancient of Days taking His seat in judgment"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["solemn", "majestic", "apocalyptic", "awe-inspiring"],
+  "mood": [
+    "solemn",
+    "majestic",
+    "apocalyptic",
+    "awe-inspiring"
+  ],
   "period": "Eschatological",
   "_meta": {
     "key": "0080009",

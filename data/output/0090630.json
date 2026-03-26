@@ -1,10 +1,25 @@
 {
   "characters": [
-    {"name": "Child", "type": "PERSON"},
-    {"name": "Animals", "type": "GROUP"}
+    {
+      "name": "Child",
+      "type": "PERSON"
+    },
+    {
+      "name": "Animals",
+      "type": "GROUP"
+    }
   ],
   "event": "Peaceable Kingdom",
-  "tags": ["peaceable-kingdom", "isaiah-prophecy", "lion-and-lamb", "child", "animals", "peace-treaty", "naive-art", "hicks"],
+  "tags": [
+    "peaceable-kingdom",
+    "isaiah-prophecy",
+    "lion-and-lamb",
+    "child",
+    "animals",
+    "peace-treaty",
+    "naive-art",
+    "hicks"
+  ],
   "symbols": [
     "lion lying with lamb — messianic peace",
     "child leading animals — innocence ruling over wildness",
@@ -14,12 +29,29 @@
   "description": "A naive-style painting depicting the Peaceable Kingdom from Isaiah's prophecy. A child stands among wild and domestic animals — lions, leopards, cattle, lambs, and a bear — all coexisting peacefully by a river. In the background left, William Penn makes his famous treaty with Native Americans under an elm tree. Text borders the image with poetic inscriptions about the leopard and kid lying together. The style is folk art, flat and symbolic.",
   "theological_description": "Edward Hicks's Peaceable Kingdom visualizes Isaiah's messianic prophecy of a world restored to primordial harmony. The wolf dwells with the lamb, the leopard lies with the kid, and a little child leads them — a vision of creation healed from the violence introduced by the Fall. Hicks pairs this biblical vision with Penn's treaty, suggesting that the Quaker ideal of peaceful coexistence with Native Americans was a partial earthly realization of Isaiah's eschatological hope. The painting proclaims that Christ's kingdom inaugurates peace not through force but through the transformation of hearts and the reconciliation of all creation.",
   "scripture_refs": [
-    {"ref": "IS.11.6-9", "relevance": "primary", "reason": "The wolf shall dwell with the lamb, and a little child shall lead them"},
-    {"ref": "IS.65.25", "relevance": "allusion", "reason": "The wolf and the lamb shall feed together in the new creation"},
-    {"ref": "RM.8.19-21", "relevance": "typological", "reason": "Creation itself will be liberated from bondage to decay"}
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "primary",
+      "reason": "The wolf shall dwell with the lamb, and a little child shall lead them"
+    },
+    {
+      "ref": "ISA.65.25",
+      "relevance": "allusion",
+      "reason": "The wolf and the lamb shall feed together in the new creation"
+    },
+    {
+      "ref": "ROM.8.19-21",
+      "relevance": "typological",
+      "reason": "Creation itself will be liberated from bondage to decay"
+    }
   ],
   "scene_type": "allegory",
-  "mood": ["peaceful", "idyllic", "hopeful", "utopian"],
+  "mood": [
+    "peaceful",
+    "idyllic",
+    "hopeful",
+    "utopian"
+  ],
   "period": "Prophetic",
   "_meta": {
     "key": "0090630",

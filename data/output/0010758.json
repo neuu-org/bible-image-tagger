@@ -21,15 +21,18 @@
   "scripture_refs": [
     {
       "ref": "MAT.16.24",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     },
     {
       "ref": "MAT.19.21",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     },
     {
       "ref": "GEN.18.1-3",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     }
   ],
   "scene_type": "portrait",
@@ -45,5 +48,6 @@
     "artist": "Viktor Vasnetsov",
     "model": "claude-opus-4-6"
   },
-  "event": "Saint Sergius of Radonezh"
+  "event": "Saint Sergius of Radonezh",
+  "symbols": []
 }

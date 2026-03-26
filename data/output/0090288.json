@@ -1,10 +1,24 @@
 {
   "characters": [
-    {"name": "King", "type": "PERSON"},
-    {"name": "Beggar Maid", "type": "PERSON"}
+    {
+      "name": "King",
+      "type": "PERSON"
+    },
+    {
+      "name": "Beggar Maid",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["king-and-beggar", "medieval", "romance", "throne", "pre-raphaelite-style", "palace", "love"],
+  "event": "The King and the Beggar Maid",
+  "tags": [
+    "king-and-beggar",
+    "medieval",
+    "romance",
+    "throne",
+    "pre-raphaelite-style",
+    "palace",
+    "love"
+  ],
   "symbols": [
     "crown/royal garments — earthly power",
     "simple dress of maid — humility and poverty",
@@ -14,7 +28,12 @@
   "theological_description": "",
   "scripture_refs": [],
   "scene_type": "narrative",
-  "mood": ["romantic", "tender", "regal", "idealized"],
+  "mood": [
+    "romantic",
+    "tender",
+    "regal",
+    "idealized"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0090288",

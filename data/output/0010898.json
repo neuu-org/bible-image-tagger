@@ -1,7 +1,13 @@
 {
   "characters": [
-    {"name": "St. Nicholas of Bari", "type": "PERSON"},
-    {"name": "Pilgrims", "type": "GROUP"}
+    {
+      "name": "St. Nicholas of Bari",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pilgrims",
+      "type": "GROUP"
+    }
   ],
   "event": "Pilgrims at the Tomb of St. Nicholas of Bari",
   "tags": [
@@ -15,7 +21,6 @@
     "saints-and-relics",
     "medieval-piety",
     "sacred-space",
-    "altarpiece-panel",
     "crippled-pilgrim",
     "intercession-of-saints"
   ],
@@ -29,14 +34,39 @@
   "description": "A raised stone sarcophagus stands beneath a vaulted architectural canopy supported by columns in a Romanesque or early Gothic style. Several figures gather around the tomb: some kneel in prayer, others stand in reverence. A figure with a crutch or walking aid approaches from the left. The pilgrims wear varied medieval garments in muted earth tones. The interior is dimly lit, with the tomb as the luminous focal point under the barrel-vaulted ceiling. A small bust or relief appears in the upper archway.",
   "theological_description": "While St. Nicholas of Bari (Nicholas of Myra, 4th century) is a post-biblical saint, the practice of pilgrimage to holy tombs has deep scriptural roots. The veneration of relics and the belief in healing through proximity to the holy dead echoes Elisha's bones raising a dead man (2 Kings 13:21). The gathered pilgrims embody the communion of saints described in Hebrews 12:1 -- a 'great cloud of witnesses' whose faith endures beyond death. Nicholas himself was famed for acts of charity that mirror Christ's command to care for the poor and oppressed (Matthew 25:35-40). The architectural setting evokes the temple as sacred meeting place between God and humanity, while the crippled pilgrim recalls the lame man healed at the Beautiful Gate (Acts 3:1-10), suggesting that divine power flows through consecrated places and faithful intercession.",
   "scripture_refs": [
-    {"ref": "2KI.13.21", "relevance": "typological", "reason": "A dead man revived by contact with Elisha's bones -- the Old Testament precedent for healing power associated with the relics of holy persons."},
-    {"ref": "HEB.12.1", "relevance": "allusion", "reason": "The 'great cloud of witnesses' surrounding believers -- the theological foundation for the communion of saints that the pilgrims invoke."},
-    {"ref": "MAT.25.35-40", "relevance": "allusion", "reason": "Christ's identification with the needy -- St. Nicholas's legendary charity embodies this dominical command."},
-    {"ref": "ACT.3.1-10", "relevance": "allusion", "reason": "The healing of the lame man at the temple gate resonates with the crippled pilgrim seeking healing at the saint's tomb."},
-    {"ref": "ACT.19.11-12", "relevance": "typological", "reason": "Handkerchiefs and aprons from Paul healed the sick -- apostolic precedent for healing through material contact with the holy."}
+    {
+      "ref": "2KI.13.21",
+      "relevance": "typological",
+      "reason": "A dead man revived by contact with Elisha's bones -- the Old Testament precedent for healing power associated with the relics of holy persons."
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The 'great cloud of witnesses' surrounding believers -- the theological foundation for the communion of saints that the pilgrims invoke."
+    },
+    {
+      "ref": "MAT.25.35-40",
+      "relevance": "allusion",
+      "reason": "Christ's identification with the needy -- St. Nicholas's legendary charity embodies this dominical command."
+    },
+    {
+      "ref": "ACT.3.1-10",
+      "relevance": "allusion",
+      "reason": "The healing of the lame man at the temple gate resonates with the crippled pilgrim seeking healing at the saint's tomb."
+    },
+    {
+      "ref": "ACT.19.11-12",
+      "relevance": "typological",
+      "reason": "Handkerchiefs and aprons from Paul healed the sick -- apostolic precedent for healing through material contact with the holy."
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["devotional", "solemn", "reverent", "hopeful"],
+  "mood": [
+    "devotional",
+    "solemn",
+    "reverent",
+    "hopeful"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0010898",

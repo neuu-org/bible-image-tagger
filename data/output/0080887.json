@@ -1,19 +1,54 @@
 {
   "characters": [
-    {"name": "St. Francis of Assisi", "type": "PERSON"}
+    {
+      "name": "St. Francis of Assisi",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["saint-francis", "franciscan", "stigmata", "book", "gold-background", "trecento", "italian-gothic"],
-  "symbols": ["stigmata on hand — bearing the wounds of Christ", "book — the Gospel and Franciscan Rule", "grey habit with cord belt — Franciscan poverty", "golden halo — sanctity", "sandals — evangelical poverty", "tonsure — monastic dedication"],
+  "event": "St Francis of Assisi",
+  "tags": [
+    "saint-francis",
+    "franciscan",
+    "stigmata",
+    "book",
+    "gold-background",
+    "trecento",
+    "italian-gothic"
+  ],
+  "symbols": [
+    "stigmata on hand — bearing the wounds of Christ",
+    "book — the Gospel and Franciscan Rule",
+    "grey habit with cord belt — Franciscan poverty",
+    "golden halo — sanctity",
+    "sandals — evangelical poverty",
+    "tonsure — monastic dedication"
+  ],
   "description": "A full-length panel painting of St. Francis of Assisi standing in a pointed Gothic arch against a gold background. He wears a grey Franciscan habit tied with a knotted cord belt and sandals. He holds a red-bound book in one hand and raises the other, which shows the stigmata (the wound of Christ's nail). His face is lean and ascetic with a short beard. A golden halo surrounds his tonsured head. The style is characteristic of 14th-century Italian Gothic panel painting with its elegant simplicity and gold leaf background.",
   "theological_description": "St. Francis of Assisi (1181/82-1226) is depicted with his two primary attributes: the stigmata and the book (representing both the Gospel and the Franciscan Rule). Francis received the stigmata — the five wounds of Christ's crucifixion — on Mount La Verna in 1224, the first recorded case in Christian history. This miraculous event visually confirmed Francis' radical identification with Christ crucified, fulfilling Paul's words: 'I bear on my body the marks of Jesus' (Galatians 6:17). Francis' life of radical poverty, based on a literal reading of Christ's instructions to the apostles (Matthew 10:7-10), initiated a spiritual revolution that renewed the medieval Church.",
   "scripture_refs": [
-    {"ref": "GAL.6.17", "relevance": "primary", "reason": "I bear on my body the marks of Jesus — the stigmata visible on Francis' hand"},
-    {"ref": "MAT.10.7-10", "relevance": "allusion", "reason": "Go, preach the kingdom, take no possessions — Francis' foundational text"},
-    {"ref": "GAL.2.20", "relevance": "allusion", "reason": "I have been crucified with Christ — Francis' total identification with the crucified Lord"}
+    {
+      "ref": "GAL.6.17",
+      "relevance": "typological",
+      "reason": "I bear on my body the marks of Jesus — the stigmata visible on Francis' hand"
+    },
+    {
+      "ref": "MAT.10.7-10",
+      "relevance": "allusion",
+      "reason": "Go, preach the kingdom, take no possessions — Francis' foundational text"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "allusion",
+      "reason": "I have been crucified with Christ — Francis' total identification with the crucified Lord"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["austere", "holy", "serene", "devotional"],
+  "mood": [
+    "austere",
+    "holy",
+    "serene",
+    "devotional"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080887",

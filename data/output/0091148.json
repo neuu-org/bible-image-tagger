@@ -1,9 +1,21 @@
 {
   "characters": [
-    {"name": "Saint Andrew", "type": "PERSON"}
+    {
+      "name": "Andrew",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["saint-andrew", "apostle", "profile", "study", "leonardo", "bald-head", "beard", "drawing"],
+  "event": "Head of St. Andrew",
+  "tags": [
+    "saint-andrew",
+    "apostle",
+    "profile",
+    "study",
+    "leonardo",
+    "bald-head",
+    "beard",
+    "drawing"
+  ],
   "symbols": [
     "profile study — Leonardo's anatomical observation",
     "elderly features — the apostle in his later years"
@@ -11,12 +23,29 @@
   "description": "A profile study of an elderly bald man with a prominent forehead and beard, rendered in subtle tones on a warm ground. The head is turned to the right, showing the left profile. The painting or drawing is delicate and slightly faded, with characteristic sfumato technique. The man's expression is thoughtful and dignified. The style is consistent with Leonardo da Vinci's preparatory studies.",
   "theological_description": "This profile study, attributed to Leonardo, likely represents the Apostle Andrew, brother of Peter and one of the first disciples called by Christ. Andrew's distinctive profile — elderly, bald, with a rugged beard — reflects the traditional iconography of an apostle who spent decades preaching the Gospel throughout Asia Minor and Greece. The sensitive, naturalistic rendering captures the humanity of a man who walked with Christ and gave his life as a martyr. Leonardo's scientific observation of human anatomy serves theological art by presenting the apostle as a real, specific human being rather than an idealized figure.",
   "scripture_refs": [
-    {"ref": "JN.1.40-42", "relevance": "allusion", "reason": "Andrew was the first disciple to follow Jesus and brought his brother Peter"},
-    {"ref": "MK.1.16-18", "relevance": "allusion", "reason": "Jesus calls Andrew and Peter from their fishing nets"},
-    {"ref": "JN.6.8-9", "relevance": "allusion", "reason": "Andrew finds the boy with five loaves and two fish"}
+    {
+      "ref": "JHN.1.40-42",
+      "relevance": "allusion",
+      "reason": "Andrew was the first disciple to follow Jesus and brought his brother Peter"
+    },
+    {
+      "ref": "MRK.1.16-18",
+      "relevance": "allusion",
+      "reason": "Jesus calls Andrew and Peter from their fishing nets"
+    },
+    {
+      "ref": "JHN.6.8-9",
+      "relevance": "allusion",
+      "reason": "Andrew finds the boy with five loaves and two fish"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["contemplative", "dignified", "scholarly", "intimate"],
+  "mood": [
+    "contemplative",
+    "dignified",
+    "scholarly",
+    "intimate"
+  ],
   "period": "Apostolic",
   "_meta": {
     "key": "0091148",

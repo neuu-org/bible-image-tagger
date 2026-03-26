@@ -1,10 +1,25 @@
 {
   "characters": [
-    {"name": "Evangelists", "type": "GROUP"},
-    {"name": "Saints", "type": "GROUP"}
+    {
+      "name": "Evangelists",
+      "type": "GROUP"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
   ],
-  "event": "",
-  "tags": ["iconostasis", "royal-doors", "orthodox", "evangelists", "ukrainian-icon", "carved-wood", "cross", "kholodny"],
+  "event": "Iconostasis in the Holy Spirit Chapel",
+  "tags": [
+    "iconostasis",
+    "royal-doors",
+    "orthodox",
+    "evangelists",
+    "ukrainian-icon",
+    "carved-wood",
+    "cross",
+    "kholodny"
+  ],
   "symbols": [
     "cross on top — Christ as head of the Church",
     "royal doors — entrance to the sanctuary, threshold to heaven",
@@ -15,12 +30,29 @@
   "description": "A set of royal doors (iconostasis doors) for an Orthodox chapel. The arched wooden structure is topped with a cross and contains six icon panels — two in the upper arch (possibly the Annunciation figures) and four rectangular panels below showing the four Evangelists seated at writing desks. The panels are framed by carved wooden interlace patterns with pierced openwork on the outer wings. The style blends traditional Orthodox iconography with Ukrainian decorative arts.",
   "theological_description": "The royal doors of an iconostasis are the central gateway in Orthodox church architecture, leading from the nave (the earthly realm) into the sanctuary (the heavenly realm). Only clergy pass through these doors during the liturgy, symbolizing Christ's mediation between God and humanity. The four Evangelists — Matthew, Mark, Luke, and John — are traditionally depicted on these doors because their Gospels are the 'doors' through which the faithful enter into knowledge of Christ. The Annunciation figures above recall the moment when heaven's door opened to earth through Mary's consent. Kholodny's design integrates Ukrainian folk art traditions with Orthodox theological symbolism.",
   "scripture_refs": [
-    {"ref": "JN.10.9", "relevance": "typological", "reason": "I am the door; whoever enters through me will be saved — the royal doors as Christ's gateway"},
-    {"ref": "RV.4.1", "relevance": "allusion", "reason": "A door standing open in heaven — the iconostasis as threshold to the divine"},
-    {"ref": "MK.16.15", "relevance": "allusion", "reason": "Go into all the world and preach the gospel — the Evangelists' mission on the doors"}
+    {
+      "ref": "JHN.10.9",
+      "relevance": "typological",
+      "reason": "I am the door; whoever enters through me will be saved — the royal doors as Christ's gateway"
+    },
+    {
+      "ref": "REV.4.1",
+      "relevance": "allusion",
+      "reason": "A door standing open in heaven — the iconostasis as threshold to the divine"
+    },
+    {
+      "ref": "MRK.16.15",
+      "relevance": "allusion",
+      "reason": "Go into all the world and preach the gospel — the Evangelists' mission on the doors"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["sacred", "ornate", "devotional", "traditional"],
+  "mood": [
+    "sacred",
+    "ornate",
+    "devotional",
+    "traditional"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0091107",

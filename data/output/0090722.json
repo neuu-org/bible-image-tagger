@@ -1,12 +1,31 @@
 {
   "characters": [
-    {"name": "Infant Virgin Mary", "type": "PERSON"},
-    {"name": "Saint Anne", "type": "PERSON"},
-    {"name": "Women attendants", "type": "GROUP"},
-    {"name": "Angels", "type": "GROUP"}
+    {
+      "name": "Infant Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Women attendants",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
   ],
   "event": "Birth of the Virgin Mary",
-  "tags": ["birth-of-the-virgin", "saint-anne", "infant-mary", "attendants", "angels", "putti", "baroque", "murillo"],
+  "tags": [
+    "birth-of-the-virgin",
+    "saint-anne",
+    "infant-mary",
+    "attendants",
+    "angels",
+    "putti"
+  ],
   "symbols": [
     "newborn infant — Mary's entry into the world",
     "attending women — midwives and care",
@@ -16,12 +35,29 @@
   "description": "An arched Baroque painting depicting the birth of the Virgin Mary. In a domestic interior, women attendants tend to a newborn infant — washing and swaddling her. Saint Anne reclines in a bed in the background. Putti and cherubs float above in golden light, celebrating. A small dog sits in the foreground. The scene is warm and intimate, painted in Murillo's soft, luminous style.",
   "theological_description": "The Birth of the Virgin Mary, though not recorded in canonical Scripture, is celebrated in Christian tradition as the birth of the woman who would become the Mother of God. According to the Protoevangelium of James, Mary was born to the elderly and previously barren couple Joachim and Anne after an angelic announcement — mirroring the miraculous births of Isaac, Samuel, and John the Baptist. The heavenly rejoicing shown by the angels indicates that Mary's birth was a pivotal moment in salvation history, bringing into the world the chosen vessel of the Incarnation. This event is the necessary prelude to the Annunciation and ultimately to Christ's birth.",
   "scripture_refs": [
-    {"ref": "LK.1.28", "relevance": "allusion", "reason": "Full of grace — Mary's birth begins her unique role in salvation"},
-    {"ref": "IS.7.14", "relevance": "typological", "reason": "The virgin who will conceive — Mary's birth is the first step toward fulfillment"},
-    {"ref": "GN.21.1-2", "relevance": "typological", "reason": "Sarah's miraculous birth of Isaac parallels Anne's miraculous conception of Mary"}
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "Full of grace — Mary's birth begins her unique role in salvation"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin who will conceive — Mary's birth is the first step toward fulfillment"
+    },
+    {
+      "ref": "GEN.21.1-2",
+      "relevance": "typological",
+      "reason": "Sarah's miraculous birth of Isaac parallels Anne's miraculous conception of Mary"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["joyful", "tender", "warm", "celebratory"],
+  "mood": [
+    "joyful",
+    "tender",
+    "warm",
+    "celebratory"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0090722",

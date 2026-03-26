@@ -1,11 +1,26 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Angels", "type": "GROUP"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
   ],
   "event": "Virgin and Child Enthroned with Angels",
-  "tags": ["madonna-enthroned", "infant-jesus", "angels", "throne", "gold-background", "gothic", "fra-angelico"],
+  "tags": [
+    "madonna-enthroned",
+    "infant-jesus",
+    "angels",
+    "throne",
+    "gold-background"
+  ],
   "symbols": [
     "throne — Mary as Queen of Heaven",
     "gold background — heavenly realm",
@@ -15,12 +30,29 @@
   "description": "The Virgin Mary sits enthroned holding the infant Jesus on her lap, surrounded by twelve angels arranged symmetrically on either side. She wears a deep blue robe over a red dress. The angels wear pastel-colored robes and have golden halos. Above, a Gothic architectural canopy with pointed arches frames the scene. The background is gold leaf. The style is early Italian Renaissance with Gothic elements.",
   "theological_description": "This sacra conversazione presents the Virgin Mary as the Queen of Heaven, enthroned with the Christ Child amid an angelic court. The twelve angels surrounding the throne evoke the heavenly worship described in Revelation, where the hosts of heaven ceaselessly praise God. Mary's central position reflects her unique role in salvation history as Theotokos — the God-bearer. The Gothic canopy above suggests the heavenly Jerusalem, while the gold background signifies the eternal, transcendent realm. The infant Christ, though small, is the true center of the composition — the King enthroned on his mother's lap, receiving the worship of the angelic choir.",
   "scripture_refs": [
-    {"ref": "RV.4.2-4", "relevance": "typological", "reason": "The heavenly throne surrounded by worshippers"},
-    {"ref": "LK.1.28", "relevance": "allusion", "reason": "Hail, full of grace, the Lord is with you — Mary's exalted status"},
-    {"ref": "PS.45.9", "relevance": "typological", "reason": "The queen stands at your right hand adorned in gold"}
+    {
+      "ref": "REV.4.2-4",
+      "relevance": "typological",
+      "reason": "The heavenly throne surrounded by worshippers"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "Hail, full of grace, the Lord is with you — Mary's exalted status"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen stands at your right hand adorned in gold"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["celestial", "devotional", "serene", "majestic"],
+  "mood": [
+    "celestial",
+    "devotional",
+    "serene",
+    "majestic"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090380",

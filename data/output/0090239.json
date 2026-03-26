@@ -1,12 +1,31 @@
 {
   "characters": [
-    {"name": "Solomon", "type": "PERSON"},
-    {"name": "Two mothers", "type": "GROUP"},
-    {"name": "Infant", "type": "PERSON"},
-    {"name": "Executioner", "type": "PERSON"}
+    {
+      "name": "Solomon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Two mothers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Infant",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioner",
+      "type": "PERSON"
+    }
   ],
   "event": "The Judgment of Solomon",
-  "tags": ["judgment-of-solomon", "wisdom", "throne", "infant", "sword", "two-mothers", "renaissance"],
+  "tags": [
+    "judgment-of-solomon",
+    "wisdom",
+    "throne",
+    "infant",
+    "sword",
+    "two-mothers"
+  ],
   "symbols": [
     "throne — royal authority and judgment",
     "sword/executioner — threat to divide the child",
@@ -16,12 +35,29 @@
   "description": "King Solomon sits elevated on a throne in a grand architectural setting with columns. Before him, two women dispute over a child. One woman in red gestures pleadingly while the other stands to the left. A muscular executioner figure stands to the right. Courtiers and advisors surround the king. The composition is monumental with Renaissance architectural framing.",
   "theological_description": "The Judgment of Solomon is among the most celebrated demonstrations of divinely granted wisdom in Scripture. Two women each claim to be the mother of a living infant; Solomon orders the child cut in two, knowing the true mother will surrender her claim to save her child's life. The true mother's sacrificial love reveals the truth. This episode, occurring early in Solomon's reign, demonstrates that God honored Solomon's prayer for wisdom above all other gifts. The story prefigures Christ's own wisdom and his ability to discern the hearts of men. Solomon's judgment also typologically points to God's own justice — perfect, discerning, and life-giving.",
   "scripture_refs": [
-    {"ref": "1KI.3.16-28", "relevance": "primary", "reason": "The account of Solomon's wise judgment between two mothers"},
-    {"ref": "1KI.3.9-12", "relevance": "allusion", "reason": "Solomon's prayer for wisdom and God's generous response"},
-    {"ref": "PR.2.6", "relevance": "allusion", "reason": "For the Lord gives wisdom; from his mouth come knowledge and understanding"}
+    {
+      "ref": "1KI.3.16-28",
+      "relevance": "primary",
+      "reason": "The account of Solomon's wise judgment between two mothers"
+    },
+    {
+      "ref": "1KI.3.9-12",
+      "relevance": "allusion",
+      "reason": "Solomon's prayer for wisdom and God's generous response"
+    },
+    {
+      "ref": "PRO.2.6",
+      "relevance": "allusion",
+      "reason": "For the Lord gives wisdom; from his mouth come knowledge and understanding"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["dramatic", "tense", "authoritative", "solemn"],
+  "mood": [
+    "dramatic",
+    "tense",
+    "authoritative",
+    "solemn"
+  ],
   "period": "Monarchy",
   "_meta": {
     "key": "0090239",

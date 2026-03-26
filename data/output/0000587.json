@@ -1,18 +1,38 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Saint John the Apostle", "type": "PERSON"},
-    {"name": "Pontius Pilate", "type": "PERSON"},
-    {"name": "Roman soldiers", "type": "GROUP"},
-    {"name": "Disciples", "type": "GROUP"},
-    {"name": "Crowds and witnesses", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowds and witnesses",
+      "type": "GROUP"
+    }
   ],
   "event": "The Passion of Christ in nine scenes, centered on the Crucifixion",
   "tags": [
     "passion-of-christ",
     "crucifixion",
-    "stained-glass",
     "lancet-window",
     "golgotha",
     "trial-of-jesus",
@@ -74,7 +94,12 @@
     }
   ],
   "scene_type": "narrative",
-  "mood": ["solemn", "sorrowful", "luminous", "meditative"],
+  "mood": [
+    "solemn",
+    "sorrowful",
+    "luminous",
+    "meditative"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0000587",

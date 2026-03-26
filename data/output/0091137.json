@@ -1,12 +1,32 @@
 {
   "characters": [
-    {"name": "God the Father", "type": "DEITY"},
-    {"name": "Michael", "type": "ANGEL"},
-    {"name": "Rebel Angels", "type": "GROUP"},
-    {"name": "Damned Souls", "type": "GROUP"}
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Michael",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Rebel Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Damned Souls",
+      "type": "GROUP"
+    }
   ],
   "event": "The Fall of the Rebel Angels",
-  "tags": ["fall-of-rebel-angels", "archangel-michael", "god-the-father", "hell", "sword", "fallen-angels", "judgment", "mannerism"],
+  "tags": [
+    "fall-of-rebel-angels",
+    "archangel-michael",
+    "god-the-father",
+    "hell",
+    "sword",
+    "fallen-angels",
+    "judgment"
+  ],
   "symbols": [
     "sword of Michael — divine justice and spiritual warfare",
     "falling figures — rebel angels cast down",
@@ -17,13 +37,34 @@
   "description": "A large arched painting divided between heaven and hell. At the top, God the Father in a red robe presides amid a host of angels and the blessed. In the center, the Archangel Michael in golden armor wields a sword, driving the rebel angels downward. Below, falling figures tumble into darkness and fire, where damned souls are tormented. The composition creates a dramatic vertical descent from light to darkness, from heavenly glory to infernal torment.",
   "theological_description": "The Fall of the Rebel Angels depicts the primordial cosmic battle when Lucifer and his followers rebelled against God and were cast out of heaven by the Archangel Michael. This event, referenced in Revelation 12, is understood as the origin of evil in creation. Michael, whose name means 'Who is like God?', leads the faithful angels against the pride of Lucifer, who sought to make himself equal to God. The painting visualizes the stark binary of Christian eschatology — the eternal division between those who choose God (above, in light) and those who reject him (below, in darkness). God's sovereign authority, enthroned above the conflict, assures that evil's rebellion is already defeated.",
   "scripture_refs": [
-    {"ref": "RV.12.7-9", "relevance": "primary", "reason": "War in heaven: Michael and his angels fought against the dragon"},
-    {"ref": "IS.14.12-15", "relevance": "typological", "reason": "How you have fallen from heaven, morning star — the fall of Lucifer"},
-    {"ref": "LK.10.18", "relevance": "allusion", "reason": "Jesus says: I saw Satan fall like lightning from heaven"},
-    {"ref": "JD.1.6", "relevance": "allusion", "reason": "Angels who did not keep their positions, bound in chains for judgment"}
+    {
+      "ref": "REV.12.7-9",
+      "relevance": "primary",
+      "reason": "War in heaven: Michael and his angels fought against the dragon"
+    },
+    {
+      "ref": "ISA.14.12-15",
+      "relevance": "typological",
+      "reason": "How you have fallen from heaven, morning star — the fall of Lucifer"
+    },
+    {
+      "ref": "LUK.10.18",
+      "relevance": "allusion",
+      "reason": "Jesus says: I saw Satan fall like lightning from heaven"
+    },
+    {
+      "ref": "JUD.1.6",
+      "relevance": "allusion",
+      "reason": "Angels who did not keep their positions, bound in chains for judgment"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["dramatic", "terrifying", "majestic", "apocalyptic"],
+  "mood": [
+    "dramatic",
+    "terrifying",
+    "majestic",
+    "apocalyptic"
+  ],
   "period": "Eschatological",
   "_meta": {
     "key": "0091137",

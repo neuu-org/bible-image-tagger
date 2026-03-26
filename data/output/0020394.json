@@ -5,7 +5,6 @@
     "church-interior",
     "romanesque-architecture",
     "altar",
-    "altarpiece",
     "gilded-retable",
     "stone-walls",
     "sacred-space",
@@ -29,12 +28,28 @@
   "description": "A dim interior of a Romanesque stone church viewed from the nave toward the apse. Thick stone walls rise to a rounded barrel vault. Two narrow slit windows on the left admit faint natural light. At the far end, a gilded Gothic altarpiece with multiple panels and carved figures sits upon the altar, illuminated softly. A low iron railing separates the sanctuary from the nave. Red-cushioned wooden pews or benches line either side. The floor appears to be stone. The overall atmosphere is one of deep antiquity, silence, and austere devotion.",
   "theological_description": "",
   "scripture_refs": [
-    {"ref": "PSA.84.1-2", "relevance": "allusion", "reason": "'How lovely is your dwelling place, O Lord of hosts! My soul longs, yes, faints for the courts of the Lord' -- the universal longing evoked by sacred architecture."},
-    {"ref": "1PE.2.5", "relevance": "allusion", "reason": "'You yourselves like living stones are being built up as a spiritual house' -- the stone church as visible sign of the invisible Church."},
-    {"ref": "1KI.8.10-11", "relevance": "allusion", "reason": "The glory of the Lord filling the temple of Solomon -- every consecrated church participates in this indwelling presence."}
+    {
+      "ref": "PSA.84.1-2",
+      "relevance": "allusion",
+      "reason": "'How lovely is your dwelling place, O Lord of hosts! My soul longs, yes, faints for the courts of the Lord' -- the universal longing evoked by sacred architecture."
+    },
+    {
+      "ref": "1PE.2.5",
+      "relevance": "allusion",
+      "reason": "'You yourselves like living stones are being built up as a spiritual house' -- the stone church as visible sign of the invisible Church."
+    },
+    {
+      "ref": "1KI.8.10-11",
+      "relevance": "allusion",
+      "reason": "The glory of the Lord filling the temple of Solomon -- every consecrated church participates in this indwelling presence."
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["solemn", "contemplative", "austere"],
+  "mood": [
+    "solemn",
+    "contemplative",
+    "austere"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0020394",

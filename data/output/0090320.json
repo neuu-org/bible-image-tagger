@@ -1,10 +1,22 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Infant Jesus", "type": "DEITY"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
   ],
   "event": "Madonna and Child",
-  "tags": ["madonna-and-child", "virgin-mary", "infant-jesus", "venetian-renaissance", "bellini", "landscape", "veil"],
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-jesus",
+    "landscape",
+    "veil"
+  ],
   "symbols": [
     "blue mantle — heavenly grace and purity",
     "infant on lap — Incarnation",
@@ -14,12 +26,29 @@
   "description": "A half-length portrait of the Virgin Mary holding the infant Jesus on her lap. She wears a white veil over her head, a red dress, and a deep blue mantle. Her gaze is downcast and contemplative. The child sits upright with a thoughtful expression. Behind them, a green curtain on the left gives way to a landscape with a bare tree, distant mountains, and blue sky on the right.",
   "theological_description": "The Madonna and Child is the most enduring image of the Incarnation in Christian art. Mary holds the Word made flesh — God who has entered the world as a vulnerable infant dependent on human care. Bellini's serene, contemplative treatment emphasizes the tenderness of the divine-human encounter. Mary's downcast eyes suggest foreknowledge of her son's suffering. The bare tree in the background may allude to the Tree of the Cross, connecting the Incarnation to the Passion. The landscape visible behind the figures represents the created world that the infant Christ has come to redeem.",
   "scripture_refs": [
-    {"ref": "LK.2.6-7", "relevance": "primary", "reason": "The birth of Jesus, Mary wrapping him in swaddling cloths"},
-    {"ref": "JN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us"},
-    {"ref": "GL.4.4", "relevance": "allusion", "reason": "God sent his Son, born of a woman, born under the law"}
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus, Mary wrapping him in swaddling cloths"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent his Son, born of a woman, born under the law"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["contemplative", "serene", "tender", "devotional"],
+  "mood": [
+    "contemplative",
+    "serene",
+    "tender",
+    "devotional"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090320",

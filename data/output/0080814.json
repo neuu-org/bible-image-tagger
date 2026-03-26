@@ -1,20 +1,57 @@
 {
   "characters": [
-    {"name": "Mary Magdalene", "type": "PERSON"}
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["mary-magdalene", "candlelight", "prayer", "penitent", "devotional", "romantic-realism"],
-  "symbols": ["candle flame — divine light illuminating the penitent soul", "upward gaze — prayer and communion with God", "hands on chest — contrition and heartfelt devotion", "loose hair — traditional iconography of the Magdalene", "darkness surrounding — the sinful world from which she turns"],
+  "event": "Saint Mary Magdalene in prayer",
+  "tags": [
+    "mary-magdalene",
+    "candlelight",
+    "prayer",
+    "penitent",
+    "devotional",
+    "romantic-realism"
+  ],
+  "symbols": [
+    "candle flame — divine light illuminating the penitent soul",
+    "upward gaze — prayer and communion with God",
+    "hands on chest — contrition and heartfelt devotion",
+    "loose hair — traditional iconography of the Magdalene",
+    "darkness surrounding — the sinful world from which she turns"
+  ],
   "description": "A candlelit portrait of Mary Magdalene in prayer. The young woman gazes upward with an expression of intense devotion and longing, her hands pressed to her chest. A single candle or oil lamp illuminates her face and upper body from the right, casting warm light on her features against the surrounding darkness. She has long, loose reddish-brown hair and wears a white undergarment with an orange-red outer garment. The painting achieves a remarkable luminous quality through the realistic rendering of candlelight on flesh, characteristic of Petrus van Schendel's nocturnal scenes.",
   "theological_description": "Mary Magdalene in prayer by candlelight represents the tradition of the penitent Magdalene — a woman transformed by Christ's forgiveness and love. Identified in Western tradition (though not universally) with the sinful woman who washed Jesus' feet with her tears (Luke 7:36-50), the Magdalene became the supreme example of repentance and devotion. Her upward gaze and hands on her heart express the prayer of the repentant soul yearning for God. The candlelight symbolizes divine grace piercing the darkness of sin. Mary Magdalene was the first witness to the Resurrection (John 20:1-18), earning her the title 'Apostle to the Apostles' — proof that the deepest sinners can become the greatest saints.",
   "scripture_refs": [
-    {"ref": "LUK.7.36-50", "relevance": "allusion", "reason": "The sinful woman whose many sins were forgiven because she loved much"},
-    {"ref": "JHN.20.1-18", "relevance": "allusion", "reason": "Mary Magdalene as first witness of the Resurrection"},
-    {"ref": "PSA.51.10", "relevance": "allusion", "reason": "Create in me a clean heart, O God — the prayer of the penitent Magdalene"},
-    {"ref": "LUK.7.47", "relevance": "allusion", "reason": "Her sins, which are many, are forgiven — for she loved much"}
+    {
+      "ref": "LUK.7.36-50",
+      "relevance": "allusion",
+      "reason": "The sinful woman whose many sins were forgiven because she loved much"
+    },
+    {
+      "ref": "JHN.20.1-18",
+      "relevance": "allusion",
+      "reason": "Mary Magdalene as first witness of the Resurrection"
+    },
+    {
+      "ref": "PSA.51.10",
+      "relevance": "allusion",
+      "reason": "Create in me a clean heart, O God — the prayer of the penitent Magdalene"
+    },
+    {
+      "ref": "LUK.7.47",
+      "relevance": "allusion",
+      "reason": "Her sins, which are many, are forgiven — for she loved much"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["devotional", "intimate", "penitent", "luminous"],
+  "mood": [
+    "devotional",
+    "intimate",
+    "penitent",
+    "luminous"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080814",

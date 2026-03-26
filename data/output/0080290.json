@@ -1,18 +1,44 @@
 {
   "characters": [
-    {"name": "Young Saint", "type": "PERSON"}
+    {
+      "name": "Young Saint",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["saint-portrait", "renaissance", "tondo", "perugino", "youthful-saint", "martyrdom"],
-  "symbols": ["palm branch or instrument of martyrdom — martyrdom and victory over death", "green tunic — life and hope", "pink/red mantle — sacrifice and passion", "circular format — eternity and perfection"],
+  "event": "Saint",
+  "tags": [
+    "saint-portrait",
+    "tondo",
+    "youthful-saint",
+    "martyrdom"
+  ],
+  "symbols": [
+    "palm branch or instrument of martyrdom — martyrdom and victory over death",
+    "green tunic — life and hope",
+    "pink/red mantle — sacrifice and passion",
+    "circular format — eternity and perfection"
+  ],
   "description": "A circular (tondo) portrait of a youthful male saint with curly blond hair, wearing a green tunic with a pink-red mantle draped over one shoulder. He holds a small object (possibly a key, martyrdom attribute, or instrument) in one hand. The figure stands before a low balustrade with a blue sky behind. The style is characteristic of Perugino's idealized, graceful figures with soft modeling and clear coloring. The saint's serene expression and elegant pose convey gentle piety.",
   "theological_description": "This portrait likely depicts a young male saint or martyr, possibly St. Sebastian or another early Christian martyr given the youthful appearance and the attribute held in hand. The Renaissance tradition of depicting saints as beautiful, idealized figures reflects the theological understanding that sanctity transfigures the human person, making them radiate divine beauty. The circular tondo format, associated with eternity and wholeness, elevates the portrait to a devotional image inviting contemplation of the saint's virtues and intercession.",
   "scripture_refs": [
-    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and I will give you the crown of life — applicable to any young martyr"},
-    {"ref": "WIS.4.7-9", "relevance": "allusion", "reason": "The righteous who die young are at peace, having attained old age of soul"}
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and I will give you the crown of life — applicable to any young martyr"
+    },
+    {
+      "ref": "WIS.4.7-9",
+      "relevance": "allusion",
+      "reason": "The righteous who die young are at peace, having attained old age of soul"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["serene", "graceful", "contemplative", "idealized"],
+  "mood": [
+    "serene",
+    "graceful",
+    "contemplative",
+    "idealized"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080290",

@@ -1,20 +1,56 @@
 {
   "characters": [
-    {"name": "Angel Gabriel", "type": "ANGEL"},
-    {"name": "Virgin Mary", "type": "PERSON"}
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
   ],
   "event": "Annunciation",
-  "tags": ["annunciation", "angel-gabriel", "virgin-mary", "post-impressionism", "lily", "garden-setting"],
-  "symbols": ["lily branch — purity of Mary", "angel kneeling — reverence before the chosen vessel", "wings — celestial nature of Gabriel", "halo — sanctity", "garden setting — new Eden"],
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "post-impressionism",
+    "lily",
+    "garden-setting"
+  ],
+  "symbols": [
+    "lily branch — purity of Mary",
+    "angel kneeling — reverence before the chosen vessel",
+    "wings — celestial nature of Gabriel",
+    "halo — sanctity",
+    "garden setting — new Eden"
+  ],
   "description": "A post-impressionist rendering of the Annunciation set in a vibrant garden. The Angel Gabriel kneels at the left, depicted with large green wings and a golden halo, holding a branch of white lilies. Mary stands at the right in a flowing blue robe, her posture receptive. The background features warm autumnal trees in golden and orange hues against a blue sky with clouds. The style is characterized by bold colors and simplified forms typical of Emile Bernard's Cloisonnist approach.",
   "theological_description": "The Annunciation is the pivotal moment when the Angel Gabriel was sent by God to the Virgin Mary in Nazareth to announce that she would conceive and bear the Son of God (Luke 1:26-38). Gabriel's kneeling posture emphasizes the extraordinary dignity of Mary's role in salvation history. The lily symbolizes her virginal purity, while the garden setting evokes the new Eden — through Mary's 'yes' (fiat), the curse of the first Eve begins to be reversed. This moment marks the Incarnation, when 'the Word became flesh' (John 1:14), the central mystery of the Christian faith.",
   "scripture_refs": [
-    {"ref": "LUK.1.26-38", "relevance": "primary", "reason": "The Angel Gabriel's announcement to Mary that she will bear the Son of God"},
-    {"ref": "JHN.1.14", "relevance": "allusion", "reason": "The Word becoming flesh, the theological significance of this moment"},
-    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The prophecy of a virgin conceiving and bearing a son called Immanuel"}
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Angel Gabriel's announcement to Mary that she will bear the Son of God"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word becoming flesh, the theological significance of this moment"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The prophecy of a virgin conceiving and bearing a son called Immanuel"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["joyful", "reverent", "luminous", "peaceful"],
+  "mood": [
+    "joyful",
+    "reverent",
+    "luminous",
+    "peaceful"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0080042",

@@ -1,11 +1,27 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Gabriel", "type": "ANGEL"},
-    {"name": "Putti", "type": "GROUP"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Putti",
+      "type": "GROUP"
+    }
   ],
   "event": "The Annunciation",
-  "tags": ["annunciation", "angel-gabriel", "virgin-mary", "putti", "baroque", "lemoyne", "golden-light"],
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "putti",
+    "lemoyne",
+    "golden-light"
+  ],
   "symbols": [
     "angel pointing upward — divine message from heaven",
     "Mary kneeling — humble receptivity",
@@ -16,12 +32,29 @@
   "description": "A Baroque painting of the Annunciation. The Angel Gabriel, with large grey-blue wings and flowing golden and blue robes, descends from the upper right, pointing upward with one hand. The Virgin Mary kneels below in a pink dress and blue mantle, hands clasped in prayer, looking up with a mixture of awe and submission. Putti float among clouds above. A sewing basket lies at Mary's feet. Golden light floods the scene from above.",
   "theological_description": "The Annunciation is the moment that changed the course of human history. Gabriel's pointing gesture directs attention heavenward — the message comes from God himself. Mary's kneeling posture embodies the humility that made her the perfect vessel for the Incarnation. The interruption of her daily life (symbolized by the sewing basket) by the divine messenger speaks to how God breaks into ordinary human existence with extraordinary purpose. Lemoyne's luminous Baroque treatment emphasizes the supernatural character of the event — heaven descends to earth, and a young woman's 'yes' opens the door to humanity's redemption.",
   "scripture_refs": [
-    {"ref": "LK.1.26-38", "relevance": "primary", "reason": "The Annunciation — Gabriel announces to Mary she will bear the Son of God"},
-    {"ref": "LK.1.38", "relevance": "primary", "reason": "Let it be done to me according to your word — Mary's fiat"},
-    {"ref": "IS.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son"}
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation — Gabriel announces to Mary she will bear the Son of God"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Let it be done to me according to your word — Mary's fiat"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["luminous", "awe-inspiring", "reverent", "dramatic"],
+  "mood": [
+    "luminous",
+    "awe-inspiring",
+    "reverent",
+    "dramatic"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090833",

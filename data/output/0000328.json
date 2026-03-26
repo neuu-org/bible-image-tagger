@@ -1,6 +1,9 @@
 {
   "characters": [
-    {"name": "Workers and onlookers", "type": "GROUP"}
+    {
+      "name": "Workers and onlookers",
+      "type": "GROUP"
+    }
   ],
   "event": "The Aftermath of Fire at the Pantheon, Oxford Street",
   "tags": [
@@ -25,15 +28,43 @@
   "description": "The facade of the Pantheon building on Oxford Street the morning after its destruction by fire. The classical portico with columns still stands but the interior is gutted, with smoke-stained walls, empty window openings, and collapsed upper floors visible. A warm dawn sky with amber and grey tones illuminates the scene from behind. In the foreground, groups of small figures including workers and onlookers gather on the wet street hauling debris. Neighboring buildings crowd on either side. Translucent washes of grey, gold, and pale blue render the smoky damp air.",
   "theological_description": "The fire-ravaged Pantheon -- named after Rome's great temple to all the gods -- offers rich theological resonance. The name 'Pantheon' (Greek: 'all gods') evokes the biblical tension between the one true God and idols. A building called 'the temple of all gods' consumed by fire echoes the Lord's judgment on pagan worship: 'Their gods you shall burn with fire' (Deuteronomy 7:25). Fire is Scripture's most persistent symbol of divine presence and judgment -- from the burning bush (Exodus 3:2) to the consuming fire on Sinai (Deuteronomy 4:24). The destroyed temple inevitably recalls Jesus's prophecy of the Jerusalem Temple's destruction: 'Not one stone will be left upon another' (Matthew 24:2). Every ruined sacred space carries this reminder that God does not ultimately dwell in buildings made by human hands (Acts 7:48). The morning light breaking through devastation carries its own theological grammar: 'His mercies are new every morning' (Lamentations 3:22-23). The scene at dawn, not at the height of conflagration, suggests the story does not end with destruction but with renewal. Workers clearing rubble embody restoration after judgment, like the rebuilding of Jerusalem's walls under Nehemiah.",
   "scripture_refs": [
-    {"ref": "MAT.24.1-2", "relevance": "primary", "reason": "Jesus prophesying the Temple's destruction — not one stone left upon another, the paradigm for every ruined sacred building"},
-    {"ref": "ACT.7.48-50", "relevance": "primary", "reason": "The Most High does not dwell in houses made by human hands — the truth exposed when human temples fall"},
-    {"ref": "DEU.4.24", "relevance": "allusion", "reason": "The LORD your God is a consuming fire — fire as instrument of divine judgment and purification"},
-    {"ref": "1CO.3.13-15", "relevance": "typological", "reason": "Each one's work will be revealed by fire — the eschatological testing of all human construction"},
-    {"ref": "LAM.3.22-23", "relevance": "allusion", "reason": "His mercies are new every morning — the dawn light over the ruin suggests hope and renewal after catastrophe"},
-    {"ref": "HEB.12.29", "relevance": "allusion", "reason": "Our God is a consuming fire — fire that consumes what is not eternal"}
+    {
+      "ref": "MAT.24.1-2",
+      "relevance": "typological",
+      "reason": "Jesus prophesying the Temple's destruction — not one stone left upon another, the paradigm for every ruined sacred building"
+    },
+    {
+      "ref": "ACT.7.48-50",
+      "relevance": "typological",
+      "reason": "The Most High does not dwell in houses made by human hands — the truth exposed when human temples fall"
+    },
+    {
+      "ref": "DEU.4.24",
+      "relevance": "allusion",
+      "reason": "The LORD your God is a consuming fire — fire as instrument of divine judgment and purification"
+    },
+    {
+      "ref": "1CO.3.13-15",
+      "relevance": "typological",
+      "reason": "Each one's work will be revealed by fire — the eschatological testing of all human construction"
+    },
+    {
+      "ref": "LAM.3.22-23",
+      "relevance": "allusion",
+      "reason": "His mercies are new every morning — the dawn light over the ruin suggests hope and renewal after catastrophe"
+    },
+    {
+      "ref": "HEB.12.29",
+      "relevance": "allusion",
+      "reason": "Our God is a consuming fire — fire that consumes what is not eternal"
+    }
   ],
   "scene_type": "landscape",
-  "mood": ["somber", "elegiac", "reflective"],
+  "mood": [
+    "somber",
+    "elegiac",
+    "reflective"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0000328",

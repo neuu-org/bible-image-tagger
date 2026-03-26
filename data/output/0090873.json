@@ -1,13 +1,38 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"},
-    {"name": "Two thieves", "type": "GROUP"},
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Roman soldiers", "type": "GROUP"},
-    {"name": "Mourners", "type": "GROUP"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Two thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Mourners",
+      "type": "GROUP"
+    }
   ],
   "event": "The Crucifixion",
-  "tags": ["crucifixion", "three-crosses", "golgotha", "inri", "virgin-mary", "thieves", "roman-soldiers", "horse", "tiepolo"],
+  "tags": [
+    "crucifixion",
+    "three-crosses",
+    "golgotha",
+    "inri",
+    "virgin-mary",
+    "thieves",
+    "roman-soldiers",
+    "horse",
+    "tiepolo"
+  ],
   "symbols": [
     "three crosses — Christ between the repentant and impenitent thieves",
     "INRI plaque — Jesus of Nazareth, King of the Jews",
@@ -18,12 +43,29 @@
   "description": "A dramatic Rococo-Baroque painting of the Crucifixion. Three crosses dominate the composition — Christ on the central cross with the INRI inscription, and the two thieves on either side. A Roman soldier on a white horse approaches from the right with a lance. The Virgin Mary in blue and a group of mourners gather at the base. Figures in red and other colors populate the foreground. The sky is turbulent with dramatic clouds. The palette is luminous with Tiepolo's characteristic light colors.",
   "theological_description": "The Crucifixion is the central event of Christian faith — the moment when God in Christ takes upon himself the sins of the world and offers himself as the perfect sacrifice for humanity's redemption. The three crosses represent the universal response to Christ: the repentant thief who recognizes Jesus as Lord and is promised paradise, and the impenitent thief who mocks even in death. The Virgin Mary's presence at the foot of the cross fulfills Simeon's prophecy that a sword would pierce her heart. The Roman soldier with the lance (traditionally Longinus) will pierce Christ's side, and blood and water will flow — symbols of baptism and Eucharist. Tiepolo's luminous treatment reminds us that even on the darkest day in history, divine light is not extinguished.",
   "scripture_refs": [
-    {"ref": "JN.19.17-30", "relevance": "primary", "reason": "John's account of the Crucifixion, including Mary at the cross"},
-    {"ref": "LK.23.39-43", "relevance": "primary", "reason": "The two thieves — one repentant, promised paradise"},
-    {"ref": "IS.53.5", "relevance": "typological", "reason": "He was pierced for our transgressions, crushed for our iniquities"}
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "John's account of the Crucifixion, including Mary at the cross"
+    },
+    {
+      "ref": "LUK.23.39-43",
+      "relevance": "primary",
+      "reason": "The two thieves — one repentant, promised paradise"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "He was pierced for our transgressions, crushed for our iniquities"
+    }
   ],
   "scene_type": "narrative",
-  "mood": ["dramatic", "sorrowful", "monumental", "luminous"],
+  "mood": [
+    "dramatic",
+    "sorrowful",
+    "monumental",
+    "luminous"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090873",

@@ -1,9 +1,19 @@
 {
   "characters": [
-    {"name": "St. Mary of Egypt", "type": "PERSON"}
+    {
+      "name": "St. Mary of Egypt",
+      "type": "PERSON"
+    }
   ],
-  "event": "",
-  "tags": ["saint-mary-of-egypt", "penitent", "skull", "bread", "contemplation", "tenebrism", "ribera"],
+  "event": "St. Mary of Egypt",
+  "tags": [
+    "saint-mary-of-egypt",
+    "penitent",
+    "skull",
+    "bread",
+    "contemplation",
+    "ribera"
+  ],
   "symbols": [
     "skull — memento mori, meditation on death and vanity",
     "bread — sustenance in the desert, Eucharistic allusion",
@@ -14,12 +24,29 @@
   "description": "A half-length portrait of a gaunt, weather-worn woman in simple brown clothing with a head covering. She clasps her hands in prayer, gazing upward with intense devotion. Before her on a table lie a human skull and a piece of bread. Dramatic side lighting illuminates her face against a dark background, in Ribera's characteristic tenebristic style.",
   "theological_description": "St. Mary of Egypt is one of the great penitent saints of the Church. A former courtesan of Alexandria, she experienced a profound conversion at the doors of the Church of the Holy Sepulchre in Jerusalem, where an invisible force prevented her from entering until she repented. She then withdrew into the desert beyond the Jordan for 47 years of severe penance and prayer. The skull before her represents her constant meditation on mortality and the vanity of her former life. The bread recalls the miraculous provision of God in her desert exile, echoing Israel's manna in the wilderness. Her story powerfully illustrates that no sinner is beyond God's mercy and that genuine repentance can transform even the most wayward soul.",
   "scripture_refs": [
-    {"ref": "LK.7.47", "relevance": "typological", "reason": "Her many sins have been forgiven — as shown by her great love"},
-    {"ref": "PS.51.17", "relevance": "allusion", "reason": "A broken and contrite heart, O God, you will not despise"},
-    {"ref": "MT.4.1-4", "relevance": "allusion", "reason": "Jesus fasts in the desert — Mary of Egypt's desert asceticism"}
+    {
+      "ref": "LUK.7.47",
+      "relevance": "typological",
+      "reason": "Her many sins have been forgiven — as shown by her great love"
+    },
+    {
+      "ref": "PSA.51.17",
+      "relevance": "allusion",
+      "reason": "A broken and contrite heart, O God, you will not despise"
+    },
+    {
+      "ref": "MAT.4.1-4",
+      "relevance": "allusion",
+      "reason": "Jesus fasts in the desert — Mary of Egypt's desert asceticism"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["penitent", "austere", "contemplative", "intense"],
+  "mood": [
+    "penitent",
+    "austere",
+    "contemplative",
+    "intense"
+  ],
   "period": "Liturgical",
   "_meta": {
     "key": "0090582",

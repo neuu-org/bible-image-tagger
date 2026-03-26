@@ -32,23 +32,28 @@
   "scripture_refs": [
     {
       "ref": "LUK.2.15-20",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "LUK.2.6-7",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "LUK.2.19",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     },
     {
       "ref": "JHN.1.14",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     },
     {
       "ref": "ISA.9.6",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     }
   ],
   "scene_type": "narrative",
@@ -65,5 +70,6 @@
     "artist": "Juan Bautista Maíno",
     "model": "claude-opus-4-6"
   },
-  "event": "Adoration of the Shepherds"
+  "event": "Adoration of the Shepherds",
+  "symbols": []
 }

@@ -1,9 +1,21 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Christ Child", "type": "DEITY"},
-    {"name": "Saint Simon Stock", "type": "PERSON"},
-    {"name": "Angels", "type": "GROUP"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Simon Stock",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
   ],
   "event": "Our Lady of Mount Carmel Presenting the Scapular to Saint Simon Stock",
   "tags": [
@@ -29,9 +41,21 @@
   "description": "Within an ornate gilded frame, the Virgin Mary is enthroned at the upper center wearing a blue mantle and golden crown, with the Christ Child seated on her lap. The infant reaches toward a kneeling figure below — a man in a dark Carmelite habit who gazes upward with devotion, receiving or venerating an object from the Child's hand. Two small cherubic figures hover at the upper left. A red curtain drapes behind the Virgin. The painting is rendered in warm tones with golden highlights, visible within its carved and gilded altar frame.",
   "theological_description": "This painting depicts the Carmelite tradition of the vision of Saint Simon Stock (c. 1251), in which the Virgin Mary appeared to him and presented the brown scapular as a sign of her special protection for the Carmelite order. The scene expresses the Catholic theology of Marian mediation — Mary as the channel through whom the graces of her Son flow to the faithful. The crowned Virgin with the Christ Child echoes the ancient Theotokos iconography, affirming that Mary's dignity derives entirely from her role as Mother of God. The scapular devotion is grounded in the broader biblical typology of Mary as the New Ark of the Covenant (cf. Luke 1:35 and Exodus 40:35, where the same language of 'overshadowing' is used). Brazilian colonial devotion to Nossa Senhora do Carmo reflects the deep Marian piety that shaped Latin American Catholicism.",
   "scripture_refs": [
-    {"ref": "LUK.1.48-49", "relevance": "allusion", "reason": "All generations will call me blessed, for the Mighty One has done great things for me — the Magnificat undergirding Marian devotion"},
-    {"ref": "JHN.19.26-27", "relevance": "allusion", "reason": "Behold your mother — Christ entrusting his mother to the beloved disciple, basis for Mary's spiritual motherhood"},
-    {"ref": "REV.12.1", "relevance": "typological", "reason": "A woman clothed with the sun, with a crown — the crowned Virgin as the eschatological woman of Revelation"}
+    {
+      "ref": "LUK.1.48-49",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed, for the Mighty One has done great things for me — the Magnificat undergirding Marian devotion"
+    },
+    {
+      "ref": "JHN.19.26-27",
+      "relevance": "allusion",
+      "reason": "Behold your mother — Christ entrusting his mother to the beloved disciple, basis for Mary's spiritual motherhood"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "A woman clothed with the sun, with a crown — the crowned Virgin as the eschatological woman of Revelation"
+    }
   ],
   "scene_type": "narrative",
   "mood": [

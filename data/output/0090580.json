@@ -1,13 +1,35 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Infant Jesus", "type": "DEITY"},
-    {"name": "Angel", "type": "ANGEL"},
-    {"name": "Saint (in armor)", "type": "PERSON"},
-    {"name": "Donor", "type": "PERSON"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saint (in armor)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor",
+      "type": "PERSON"
+    }
   ],
   "event": "Virgin and Child Enthroned with Angel and Saints",
-  "tags": ["madonna-enthroned", "infant-jesus", "angel-musician", "donor-portrait", "knight-saint", "canopy", "northern-renaissance"],
+  "tags": [
+    "madonna-enthroned",
+    "infant-jesus",
+    "angel-musician",
+    "donor-portrait",
+    "knight-saint",
+    "canopy"
+  ],
   "symbols": [
     "throne — Mary as Queen of Heaven",
     "open book — Scripture and wisdom",
@@ -17,12 +39,29 @@
   "description": "The Virgin Mary sits enthroned under an ornate golden canopy, holding the infant Jesus who reaches toward an open book. An angel playing a lute kneels to the left. A kneeling donor figure is presented at right, behind whom stands a saint in shining armor. A landscape with a city is visible through openings on either side. The painting is in the detailed Flemish style with rich colors and textures.",
   "theological_description": "This sacra conversazione presents the Virgin and Child enthroned in heavenly majesty while saints and donors gather in devotion. The angel's music represents the ceaseless worship of heaven. The infant Jesus reaching for the book symbolizes Christ as the Word made flesh — the living Scripture. The kneeling donor, presented by a patron saint in armor, represents the faithful seeking the intercession of the saints and the protection of the Virgin. The rich canopy and throne affirm Mary's role as Theotokos, the God-bearer, honored above all saints.",
   "scripture_refs": [
-    {"ref": "LK.1.42", "relevance": "primary", "reason": "Blessed are you among women, and blessed is the fruit of your womb"},
-    {"ref": "JN.1.1", "relevance": "allusion", "reason": "In the beginning was the Word — the infant reaching for the book"},
-    {"ref": "RV.12.1-5", "relevance": "typological", "reason": "The woman clothed with the sun who bore a male child — Mary enthroned"}
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Blessed are you among women, and blessed is the fruit of your womb"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "allusion",
+      "reason": "In the beginning was the Word — the infant reaching for the book"
+    },
+    {
+      "ref": "REV.12.1-5",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun who bore a male child — Mary enthroned"
+    }
   ],
   "scene_type": "liturgical",
-  "mood": ["devotional", "serene", "majestic", "intimate"],
+  "mood": [
+    "devotional",
+    "serene",
+    "majestic",
+    "intimate"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090580",

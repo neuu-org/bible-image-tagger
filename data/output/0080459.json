@@ -1,21 +1,60 @@
 {
   "characters": [
-    {"name": "Desert Fathers", "type": "GROUP"},
-    {"name": "Monks", "type": "GROUP"}
+    {
+      "name": "Desert Fathers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Monks",
+      "type": "GROUP"
+    }
   ],
   "event": "Life of the Desert Fathers (Thebaid)",
-  "tags": ["thebaid", "desert-fathers", "monastic-life", "hermits", "landscape", "early-christian", "fra-angelico"],
-  "symbols": ["scattered hermitages — solitary contemplative life", "mountainous landscape — spiritual ascent and withdrawal from the world", "churches and chapels — centers of prayer", "tiny figures — human smallness before God's creation"],
+  "tags": [
+    "thebaid",
+    "desert-fathers",
+    "monastic-life",
+    "hermits",
+    "landscape",
+    "early-christian"
+  ],
+  "symbols": [
+    "scattered hermitages — solitary contemplative life",
+    "mountainous landscape — spiritual ascent and withdrawal from the world",
+    "churches and chapels — centers of prayer",
+    "tiny figures — human smallness before God's creation"
+  ],
   "description": "A panoramic landscape depicting the Thebaid — the Egyptian desert region where early Christian monks and hermits withdrew to live lives of prayer and asceticism. The painting shows a fantastical mountainous landscape dotted with small buildings, churches, caves, and chapels. Tiny figures of monks and hermits are scattered throughout — some in prayer, others in conversation, some laboring. The terrain rises from a lower flat area to rocky peaks, creating a layered, map-like composition. The palette uses soft greens, browns, and greys typical of Fra Angelico's delicate style.",
   "theological_description": "The Thebaid paintings depict the desert monasticism that flourished in Egypt from the 3rd century onward, inspired by St. Anthony the Great and the Desert Fathers. These monks withdrew from worldly society to pursue contemplative union with God through prayer, fasting, and spiritual warfare. Their way of life was rooted in Christ's own forty days in the wilderness (Matthew 4:1-11) and His teaching to seek first the kingdom of God (Matthew 6:33). The desert became a spiritual battleground where monks confronted demonic temptation and sought purification of the soul. This movement profoundly shaped Christian spirituality, producing seminal texts like the Sayings of the Desert Fathers.",
   "scripture_refs": [
-    {"ref": "MAT.4.1-11", "relevance": "typological", "reason": "Christ's forty days in the wilderness, the model for desert monasticism"},
-    {"ref": "MAT.6.33", "relevance": "allusion", "reason": "Seek first the kingdom of God — the monks' radical abandonment of worldly life"},
-    {"ref": "HEB.11.38", "relevance": "allusion", "reason": "Wandering in deserts and mountains, caves and holes — describing the faithful"},
-    {"ref": "1KI.19.4-8", "relevance": "typological", "reason": "Elijah's wilderness withdrawal, a prototype for desert monasticism"}
+    {
+      "ref": "MAT.4.1-11",
+      "relevance": "typological",
+      "reason": "Christ's forty days in the wilderness, the model for desert monasticism"
+    },
+    {
+      "ref": "MAT.6.33",
+      "relevance": "allusion",
+      "reason": "Seek first the kingdom of God — the monks' radical abandonment of worldly life"
+    },
+    {
+      "ref": "HEB.11.38",
+      "relevance": "allusion",
+      "reason": "Wandering in deserts and mountains, caves and holes — describing the faithful"
+    },
+    {
+      "ref": "1KI.19.4-8",
+      "relevance": "typological",
+      "reason": "Elijah's wilderness withdrawal, a prototype for desert monasticism"
+    }
   ],
   "scene_type": "landscape",
-  "mood": ["contemplative", "serene", "otherworldly", "devotional"],
+  "mood": [
+    "contemplative",
+    "serene",
+    "otherworldly",
+    "devotional"
+  ],
   "period": "Non-biblical",
   "_meta": {
     "key": "0080459",

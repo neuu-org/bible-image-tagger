@@ -1,9 +1,19 @@
 {
   "characters": [
-    {"name": "Jesus Christ", "type": "DEITY"}
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
   ],
   "event": "Salvator Mundi / Risen Christ",
-  "tags": ["salvator-mundi", "risen-christ", "portrait", "halo", "bare-chest", "neoclassical"],
+  "tags": [
+    "salvator-mundi",
+    "risen-christ",
+    "portrait",
+    "halo",
+    "bare-chest",
+    "neoclassical"
+  ],
   "symbols": [
     "golden halo — divine glory",
     "bare chest — risen body, vulnerability and humanity",
@@ -13,12 +23,29 @@
   "description": "A close-up bust portrait of Christ with light brown wavy hair, a short beard, and a serene, gentle expression. He gazes directly at the viewer with warm brown eyes. His chest is partially bare with a white garment draped over one shoulder. A warm golden glow radiates from behind his head forming a halo. The background is a luminous golden-amber tone. The style is neoclassical and idealized.",
   "theological_description": "The Salvator Mundi (Savior of the World) presents Christ in his risen, glorified state. The direct gaze invites personal encounter — Christ looks at each viewer as if to say, 'Come to me.' The bare chest suggests the risen body that still bears the marks of the Passion, while the radiant halo speaks of divine glory now fully revealed. This type of Christ portrait draws on the tradition of the 'vera icon' — the true image — and seeks to present the face of God incarnate in a way that inspires devotion. The serene expression communicates Christ's peace that surpasses understanding, offered to all who believe.",
   "scripture_refs": [
-    {"ref": "JN.14.9", "relevance": "primary", "reason": "Anyone who has seen me has seen the Father"},
-    {"ref": "RV.1.13-16", "relevance": "allusion", "reason": "Vision of the glorified Christ with face like the sun shining"},
-    {"ref": "2CO.4.6", "relevance": "allusion", "reason": "The light of the knowledge of the glory of God in the face of Jesus Christ"}
+    {
+      "ref": "JHN.14.9",
+      "relevance": "primary",
+      "reason": "Anyone who has seen me has seen the Father"
+    },
+    {
+      "ref": "REV.1.13-16",
+      "relevance": "allusion",
+      "reason": "Vision of the glorified Christ with face like the sun shining"
+    },
+    {
+      "ref": "2CO.4.6",
+      "relevance": "allusion",
+      "reason": "The light of the knowledge of the glory of God in the face of Jesus Christ"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["serene", "luminous", "sacred", "gentle"],
+  "mood": [
+    "serene",
+    "luminous",
+    "sacred",
+    "gentle"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090351",

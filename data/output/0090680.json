@@ -1,10 +1,25 @@
 {
   "characters": [
-    {"name": "Virgin Mary", "type": "PERSON"},
-    {"name": "Infant Jesus", "type": "DEITY"}
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
   ],
   "event": "Madonna and Child / Theotokos",
-  "tags": ["theotokos", "madonna-and-child", "icon", "vrubel", "gold-background", "marble-columns", "russian-orthodox", "cathedral-painting"],
+  "tags": [
+    "theotokos",
+    "madonna-and-child",
+    "icon",
+    "vrubel",
+    "gold-background",
+    "marble-columns",
+    "russian-orthodox",
+    "cathedral-painting"
+  ],
   "symbols": [
     "gold background — divine transcendence",
     "Marian monogram — identification of the Theotokos",
@@ -15,12 +30,29 @@
   "description": "A monumental cathedral icon of the Theotokos (Mother of God) enthroned with the infant Christ on her lap. She wears a dark red-brown maphorion and has a golden halo. The child wears white and also has a halo, gazing directly at the viewer with a solemn, adult expression. The gold background features a Marian monogram. The icon is set within an ornate marble arch with carved columns. Cyrillic text at the bottom dates it 1885. The style merges academic realism with Orthodox iconographic tradition.",
   "theological_description": "Vrubel's Theotokos for the Church of St. Cyril in Kyiv represents the meeting of Western academic painting and Eastern Orthodox theological vision. The Mother of God holds the Logos incarnate — the eternal Word made flesh — presenting him to the world. In Orthodox theology, the Theotokos is not merely the human mother of Jesus but the one who bore God himself, making her the most exalted of all creatures. The child's solemn, frontal gaze signifies that though appearing as an infant, he is the pre-existent Logos, the creator of all things. The gold background denotes the uncreated light of God that transcends earthly space and time.",
   "scripture_refs": [
-    {"ref": "LK.1.43", "relevance": "primary", "reason": "Why am I so favored that the mother of my Lord should come to me? — Theotokos title"},
-    {"ref": "JN.1.1-14", "relevance": "primary", "reason": "The Word became flesh — the infant is the Logos incarnate"},
-    {"ref": "GL.4.4", "relevance": "allusion", "reason": "God sent his Son, born of a woman"}
+    {
+      "ref": "LUK.1.43",
+      "relevance": "primary",
+      "reason": "Why am I so favored that the mother of my Lord should come to me? — Theotokos title"
+    },
+    {
+      "ref": "JHN.1.1-14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the infant is the Logos incarnate"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent his Son, born of a woman"
+    }
   ],
   "scene_type": "portrait",
-  "mood": ["solemn", "majestic", "sacred", "monumental"],
+  "mood": [
+    "solemn",
+    "majestic",
+    "sacred",
+    "monumental"
+  ],
   "period": "Gospel",
   "_meta": {
     "key": "0090680",

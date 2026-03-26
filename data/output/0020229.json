@@ -23,15 +23,18 @@
   "scripture_refs": [
     {
       "ref": "MAT.13.44",
-      "relevance": "primary"
+      "relevance": "primary",
+      "reason": ""
     },
     {
       "ref": "MAT.13.45-46",
-      "relevance": "allusion"
+      "relevance": "allusion",
+      "reason": ""
     },
     {
       "ref": "PRO.2.4-5",
-      "relevance": "typological"
+      "relevance": "typological",
+      "reason": ""
     }
   ],
   "scene_type": "narrative",
@@ -47,5 +50,6 @@
     "artist": "James Tissot",
     "model": "claude-opus-4-6"
   },
-  "event": "Parable of the Hidden Treasure"
+  "event": "Parable of the Hidden Treasure",
+  "symbols": []
 }
