@@ -1,0 +1,43 @@
+{
+  "characters": [],
+  "event": "Surrealist Cathedral Fantasy",
+  "tags": [
+    "cathedral",
+    "surrealism",
+    "serpent",
+    "dragon",
+    "apple",
+    "temptation",
+    "gothic-architecture",
+    "fantasy",
+    "town",
+    "colossal-creature",
+    "feathered-wings",
+    "fall-of-man"
+  ],
+  "symbols": [
+    "enormous serpent coiled around an apple — the serpent of Eden and the forbidden fruit, the temptation that brought the Fall",
+    "cathedral beneath the creature — the Church overshadowed or threatened by the serpent of sin",
+    "feathered wing sprouting from the apple — a mockery of angelic nature, the fallen angel disguised",
+    "small town below — the human world dwarfed by the cosmic struggle between good and evil",
+    "hybrid creature — the monstrous offspring of sin, the distortion of creation by the Fall"
+  ],
+  "description": "A surrealist painting depicting a colossal hybrid creature looming over a small town and a cathedral. The creature consists of a massive green serpent with multiple heads coiled around an enormous red apple, from which sprouts a large feathered wing with warm orange and blue plumage. The cathedral below has organic, ribbed architecture that seems to merge with the creature's form. A quiet, miniature town sits at the base. The palette is warm earth tones with green, red, and golden hues against a pale sky.",
+  "theological_description": "Yerka's surrealist vision evokes the primal biblical narrative of the Fall. The serpent coiled around the oversized apple is an unmistakable reference to the temptation in Eden, where the serpent deceived Eve into eating the forbidden fruit (GEN.3.1-6). The cathedral beneath — the house of God — is dwarfed and seemingly consumed by the serpentine form, suggesting the perennial threat of sin and deception against the community of faith. The feathered wing emerging from the fruit recalls the tradition of Satan as a fallen angel, once beautiful and luminous, now twisted into the deceiver (2CO.11.14: 'Satan disguises himself as an angel of light'). The multiple serpent heads echo the apocalyptic imagery of the great dragon with seven heads (REV.12.3), the ancient serpent who is the devil (REV.20.2). The small town existing peacefully beneath this monstrous apparition speaks to the human condition — living under the shadow of the Fall, often unaware of the cosmic spiritual battle overhead. The cathedral's organic merging with the serpentine creature hints at the corruption that enters even sacred spaces, the tares among the wheat (MAT.13.24-30).",
+  "scripture_refs": [
+    {"ref": "GEN.3.1-6", "relevance": "primary", "reason": "The serpent's temptation and the forbidden fruit — the central visual motif of the painting"},
+    {"ref": "REV.12.3", "relevance": "typological", "reason": "The great red dragon with seven heads — echoed in the multi-headed serpent creature"},
+    {"ref": "REV.20.2", "relevance": "typological", "reason": "The ancient serpent, who is the devil and Satan — the identification of the serpent across Scripture"},
+    {"ref": "2CO.11.14", "relevance": "allusion", "reason": "Satan disguising himself as an angel of light — the feathered wing suggesting angelic beauty corrupted"},
+    {"ref": "MAT.13.24-30", "relevance": "allusion", "reason": "Tares among the wheat — the cathedral intertwined with the serpentine evil"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["ominous", "surreal", "foreboding", "fantastical"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0070036",
+    "title": "In the Shadow of the Cathedral",
+    "artist": "Jacek Yerka",
+    "model": "claude-opus-4-6"
+  }
+}

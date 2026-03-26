@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mourning Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "christianity",
+    "jesus-christ",
+    "crucifixion",
+    "cross",
+    "passion",
+    "suffering",
+    "atonement",
+    "skull",
+    "golgotha",
+    "sacrifice",
+    "drawing"
+  ],
+  "symbols": [
+    "cross — the instrument of Christ's atoning death, the central symbol of Christianity transformed from shame to glory",
+    "skull at the base of the cross — Golgotha ('place of the skull'), and the tradition that Adam's skull lay buried beneath Calvary, connecting the first Adam's death with the second Adam's redemption",
+    "Christ's upward gaze — the prayer to the Father even in agony, 'Father, into your hands I commit my spirit'",
+    "outstretched arms on the crossbeam — the embrace of all humanity in the act of redemption, Christ drawing all to himself",
+    "two small mourning figures at the foot — traditionally the Virgin Mary and Saint John, the faithful who remain at the cross"
+  ],
+  "description": "A detailed monochrome drawing showing Christ crucified on a tall cross that dominates the composition. His muscular body hangs with arms stretched wide along the crossbeam, his head tilted back and upward with an expression of anguished prayer. He wears only a loincloth. His feet are nailed together at the base of the cross, resting above a human skull placed on a small mound. Two small, lightly sketched figures kneel or crouch at the lower left and right corners — mourners at the foot of the cross.",
+  "theological_description": "The Crucifixion is the apex of Christian soteriology — the moment when 'God was in Christ, reconciling the world to himself' (2 Corinthians 5:19). Michelangelo's anatomical study emphasizes the full humanity of the suffering Christ, reflecting the Chalcedonian insistence that the one who dies on the cross is truly God and truly man. The skull of Adam at the foot of the cross embodies the patristic Adam-Christ typology (Romans 5:12-21): where the first Adam brought death through disobedience, the second Adam brings life through obedient self-sacrifice. Christ's upward gaze captures the moment of Psalm 22:1 ('My God, my God, why have you forsaken me?') or Luke 23:46 ('Father, into your hands I commit my spirit'). The outstretched arms recall John 12:32: 'When I am lifted up from the earth, I will draw all people to myself.' The mourning figures represent the Church born at the foot of the cross — those who remain faithful when all seems lost.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "The crucifixion narrative: Jesus carrying his cross to Golgotha, the place of the skull, and dying"
+    },
+    {
+      "ref": "ROM.5.12-21",
+      "relevance": "typological",
+      "reason": "The Adam-Christ typology — the skull of Adam beneath the cross of the new Adam"
+    },
+    {
+      "ref": "PSA.22.1-18",
+      "relevance": "primary",
+      "reason": "The messianic psalm of the suffering righteous one, prophetically detailing crucifixion"
+    },
+    {
+      "ref": "2CO.5.19-21",
+      "relevance": "allusion",
+      "reason": "God reconciling the world through Christ, who became sin for us on the cross"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "solemn",
+    "powerful",
+    "redemptive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070952",
+    "title": "Study to Crucifixion",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

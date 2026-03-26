@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Job",
+      "type": "PERSON"
+    },
+    {
+      "name": "Job's three friends",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Job visited by his three friends",
+  "tags": [
+    "old-testament",
+    "job",
+    "suffering",
+    "comforters",
+    "ash-heap",
+    "fire",
+    "pottery-vessel",
+    "grief",
+    "theodicy",
+    "patience",
+    "divine-testing",
+    "lament",
+    "night-scene",
+    "friendship"
+  ],
+  "symbols": [
+    "fire or glowing light — the refining fire of affliction through which Job's faith is tested and purified",
+    "darkness enveloping the figures — the impenetrable mystery of suffering and the hiddenness of God's purposes",
+    "pottery vessel on ground — Job sitting among the ashes, scraping his sores with a potsherd (Job 2:8)",
+    "hunched seated posture of Job — the physical devastation of undeserved suffering, stripped of everything",
+    "shadowy companions — the friends who come to comfort but will become accusers"
+  ],
+  "description": "A dark, somber scene illuminated by a small fire or glowing light at right. A central figure sits hunched on the ground, legs bare and extended, draped in dark clothing. One or two shadowy figures sit nearby in the darkness, barely visible. A round pottery vessel sits on the ground. The palette is almost entirely dark earth tones — browns, blacks, and deep ochres — with patches of warm firelight catching the skin and fabric. The composition conveys profound isolation and suffering in a stark, almost abstract landscape.",
+  "theological_description": "Henry Ossawa Tanner's interpretation of Job captures the raw darkness of innocent suffering that defines the book's central theological problem. Job 2:11-13 describes how Eliphaz, Bildad, and Zophar came to comfort Job, and when they saw him from a distance they did not recognize him — they wept, tore their robes, and sat with him on the ground seven days without speaking a word, for they saw his suffering was very great. This painting depicts that profound silence before the arguments begin. The near-total darkness embodies Job's experience of divine absence — God has hidden His face (Job 13:24). The small fire is both literal warmth and metaphorical: the refining fire of suffering through which faith is tested (1 Peter 1:7). Job's theological significance is immense: he prefigures Christ as the righteous sufferer who maintains faith despite apparent abandonment by God. The book demolishes retribution theology and points toward a God who is present in mystery rather than in formulaic answers.",
+  "scripture_refs": [
+    {
+      "ref": "JOB.2.11-13",
+      "relevance": "primary",
+      "reason": "Job's three friends come to comfort him, sit with him seven days in silence — the scene depicted"
+    },
+    {
+      "ref": "JOB.2.7-8",
+      "relevance": "primary",
+      "reason": "Satan strikes Job with loathsome sores; he sits among ashes scraping himself with a potsherd"
+    },
+    {
+      "ref": "JOB.13.24",
+      "relevance": "primary",
+      "reason": "Why do you hide your face and count me as your enemy — Job's experience of divine absence in the darkness"
+    },
+    {
+      "ref": "1PE.1.6-7",
+      "relevance": "typological",
+      "reason": "Faith tested by fire, more precious than gold — Job as the paradigm of refined faith through suffering"
+    },
+    {
+      "ref": "JAS.5.11",
+      "relevance": "typological",
+      "reason": "You have heard of the steadfastness of Job and the purpose of the Lord — Job as model of perseverance"
+    },
+    {
+      "ref": "PSA.88.6-8",
+      "relevance": "allusion",
+      "reason": "You have put me in the lowest pit, in darkness — the psalmist's cry echoing Job's experience"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "desolate",
+    "somber",
+    "anguished"
+  ],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0070685",
+    "title": "Job and His Three Friends",
+    "artist": "Henry Ossawa Tanner",
+    "model": "claude-opus-4-6"
+  }
+}

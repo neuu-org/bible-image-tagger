@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Saint Sebastian", "type": "PERSON"}
+  ],
+  "event": "Saint Sebastian Bound for Martyrdom",
+  "tags": [
+    "saint-sebastian",
+    "martyrdom",
+    "arrow",
+    "bound-figure",
+    "loincloth",
+    "early-christian-martyr",
+    "fortified-town",
+    "landscape",
+    "endurance"
+  ],
+  "symbols": [
+    "arrow piercing the leg — instrument of martyrdom and emblem of Sebastian's witness unto death",
+    "nearly nude body — vulnerability and Christ-like exposure in suffering",
+    "upward gaze — steadfast faith directed toward heaven amid torment",
+    "fortified town in background — the Roman imperial world that persecuted the early Church",
+    "loincloth — echo of Christ on the cross, stripped of dignity yet retaining spiritual nobility"
+  ],
+  "description": "A nearly full-length figure of Saint Sebastian stands upright, his body almost entirely bare save for a white loincloth draped loosely around his hips. He is a young man with curly brown hair, his gaze turned slightly upward and to the left with a calm, stoic expression. An arrow is embedded in his left thigh. Behind him stretches a broad landscape with a fortified town featuring a round tower and arched bridge at left, rolling blue mountains in the distance, a horseman on a path, and a pale sky with scattered clouds.",
+  "theological_description": "Saint Sebastian, a Roman soldier martyred under Diocletian (c. 288 AD), became one of the most frequently depicted saints in Christian art. Though not a biblical figure, his martyrdom is read through the lens of Christ's Passion: the bound, near-naked body pierced by arrows echoes the Suffering Servant of Isaiah 53 and the crucified Christ stripped of his garments. Patristic and hagiographic tradition emphasizes Sebastian's dual witness — first surviving the arrows, then returning to confront the emperor before being clubbed to death. His calm upward gaze communicates the theological virtue of fortitude (fortitudo), one of the gifts of the Holy Spirit enabling believers to endure persecution. Sebastian's story embodies the Apostolic promise that 'to live is Christ, and to die is gain' (Phil 1:21).",
+  "scripture_refs": [
+    {"ref": "PHP.1.21", "relevance": "allusion", "reason": "To live is Christ, to die is gain — the theology of martyrdom Sebastian embodies"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "He was pierced for our transgressions — Sebastian's pierced body echoes the Suffering Servant"},
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and I will give you the crown of life — promise to persecuted believers"}
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "stoic",
+    "serene",
+    "dignified"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0070208",
+    "title": "Saint Sebastian",
+    "artist": "Cima da Conegliano",
+    "model": "claude-opus-4-6"
+  }
+}

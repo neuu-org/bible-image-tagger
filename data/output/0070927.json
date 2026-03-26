@@ -1,0 +1,115 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "John",
+      "type": "PERSON"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Andrew",
+      "type": "PERSON"
+    },
+    {
+      "name": "James the Greater",
+      "type": "PERSON"
+    },
+    {
+      "name": "Philip",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bartholomew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Matthew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Thomas",
+      "type": "PERSON"
+    },
+    {
+      "name": "James the Less",
+      "type": "PERSON"
+    },
+    {
+      "name": "Thaddaeus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Simon the Zealot",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "christianity",
+    "jesus-christ",
+    "last-supper",
+    "apostles",
+    "eucharist",
+    "betrayal",
+    "bread-and-wine",
+    "passover",
+    "twelve-disciples",
+    "communion",
+    "institution-narrative"
+  ],
+  "symbols": [
+    "long table with bread and wine — the Passover meal transformed into the Eucharist, the New Covenant in Christ's body and blood",
+    "Christ at center with outstretched hands — the sacrificial offering of himself, the calm center amid the disciples' agitation",
+    "groups of three disciples — trinitarian compositional structure, the apostles arranged in four clusters of three",
+    "three windows with landscape beyond — light and openness behind Christ, the world to which the Gospel will go forth",
+    "Judas recoiling with money bag — the betrayer identified, greed and treachery contrasted with Christ's self-giving love"
+  ],
+  "description": "A wide mural showing thirteen men seated along one side of a long rectangular table covered with a white cloth, set with plates, bread, and small vessels. Christ sits at the exact center, his arms spread outward in a calm gesture, wearing a blue and red robe. His face is serene with downcast eyes. The twelve apostles are arranged in four groups of three on either side, each group captured in animated conversation and gesturing with dramatic emotion — shock, disbelief, protest, and agitation.",
+  "theological_description": "The Last Supper is the institution of the Eucharist and the moment Christ reveals his impending betrayal. 'This is my body given for you; do this in remembrance of me' (Luke 22:19) establishes the sacrament that becomes the center of Christian worship. The dramatic moment depicted — 'One of you will betray me' (John 13:21) — captures the eruption of human sin into the sacred meal. Christ's calm amid the apostles' turmoil embodies Isaiah's Suffering Servant who is 'led like a lamb to the slaughter' (Isaiah 53:7). The Passover context is essential: as the original Passover lamb's blood saved Israel from death in Egypt, Christ becomes the 'Lamb of God who takes away the sin of the world' (John 1:29). Paul later interprets this meal as the New Covenant: 'as often as you eat this bread and drink this cup, you proclaim the Lord's death until he comes' (1 Corinthians 11:26). The scene is simultaneously a farewell, a sacramental institution, a betrayal, and a prophecy of the cross.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.14-23",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist at the Last Supper with the words of institution"
+    },
+    {
+      "ref": "JHN.13.21-30",
+      "relevance": "primary",
+      "reason": "Jesus announces his betrayal, 'One of you will betray me,' causing the disciples' reactions"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "primary",
+      "reason": "Paul's account of the institution narrative: 'Do this in remembrance of me'"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "The Suffering Servant led to slaughter — Christ's calm acceptance foreshadowing the cross"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "solemn",
+    "tense",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070927",
+    "title": "The Last Supper",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

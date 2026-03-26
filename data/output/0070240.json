@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Souls in Purgatory", "type": "GROUP"},
+    {"name": "Angels", "type": "GROUP"}
+  ],
+  "event": "Souls in Purgatory",
+  "tags": [
+    "purgatory",
+    "souls",
+    "purification",
+    "afterlife",
+    "suffering",
+    "intercession",
+    "angels",
+    "flames",
+    "prayer",
+    "medieval-eschatology",
+    "illuminated-initial"
+  ],
+  "symbols": [
+    "flames at the base — the purifying fire of purgatory that cleanses the soul of remaining attachments to sin",
+    "naked souls reaching upward — the yearning of the departed for God and their helpless dependence on prayer",
+    "angels above — heavenly beings who receive purified souls into glory",
+    "circular enclosure — the bounded, temporary nature of purgatorial suffering",
+    "crowded mass of figures — the multitude of the faithful departed undergoing purification"
+  ],
+  "description": "A medieval illuminated initial containing a densely packed circular composition. Dozens of pale, naked human figures crowd together, many with hands raised or clasped in prayer, their faces expressing anguish and supplication. They are enclosed within a blue circular border. At the bottom, orange and red flames lick upward around some of the figures. At the top, small winged angels look down or reach toward the souls below. A few figures at the margins appear partially engulfed by flame. The palette is rich with gold, blue, red, and flesh tones against a gold leaf background.",
+  "theological_description": "This medieval illumination visualizes the Catholic doctrine of purgatory — the intermediate state where souls destined for heaven undergo final purification. The theological basis draws from 2 Maccabees 12:46 ('it is a holy and wholesome thought to pray for the dead, that they may be loosed from sins') and Paul's image of being saved 'as through fire' (1 Cor 3:15). The souls' upward-reaching arms express the theological reality that purgatorial suffering is marked by hope, not despair — these are the saved who await final glorification. The angels above represent the heavenly communion that awaits. Medieval theology, systematized by Thomas Aquinas, understood purgatorial fire as both painful and purifying, burning away the remnants of disordered love. The living could aid these souls through prayer, alms, and the sacrifice of the Mass — a practice that presupposes the communion of saints across the boundary of death.",
+  "scripture_refs": [
+    {"ref": "1CO.3.13-15", "relevance": "primary", "reason": "Each one's work will be tested by fire; saved yet as through fire — key scriptural basis for purgatorial theology"},
+    {"ref": "MAT.12.32", "relevance": "allusion", "reason": "Will not be forgiven in this age or the age to come — implying a post-mortem state where some forgiveness occurs"},
+    {"ref": "REV.21.27", "relevance": "allusion", "reason": "Nothing unclean shall enter the heavenly Jerusalem — the necessity of complete purification before glory"}
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "anguished",
+    "hopeful",
+    "solemn"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0070240",
+    "title": "Souls in Purgatory",
+    "artist": "Stefan Lochner",
+    "model": "claude-opus-4-6"
+  }
+}

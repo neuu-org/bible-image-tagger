@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Saint Anthony the Great", "type": "PERSON"},
+    {"name": "Saint Paul the Hermit", "type": "PERSON"},
+    {"name": "Demons", "type": "GROUP"}
+  ],
+  "event": "Visit of Saint Anthony to Saint Paul the Hermit and the Temptation of Saint Anthony",
+  "tags": [
+    "desert-fathers",
+    "temptation",
+    "demonic-assault",
+    "hermit",
+    "wilderness",
+    "spiritual-warfare",
+    "monastic-life",
+    "diptych",
+    "demons",
+    "asceticism",
+    "perseverance"
+  ],
+  "symbols": [
+    "wilderness setting — the desert as place of both temptation and encounter with God",
+    "demons and hybrid creatures — forces of evil that assault the faithful in spiritual combat",
+    "two hermits meeting — the communion of saints and mutual encouragement in the ascetic life",
+    "gnarled trees and rocky terrain — the harsh path of renunciation and self-denial"
+  ],
+  "description": "A two-panel altarpiece in an ornate frame. The left panel shows an elderly bearded hermit in brown robes seated on rocky ground in a dark forest, conversing with another aged figure — the meeting of Anthony and Paul. The right panel depicts a chaotic scene of demonic temptation: a figure is beset by monstrous hybrid creatures — part beast, part human — in a hellish landscape of twisted vegetation and fire. Winged and horned demons claw and drag at the saint. Above both panels, a sky with warm golden light breaks through dark clouds.",
+  "theological_description": "This diptych presents two episodes from the life of Saint Anthony the Great (c. 251-356), the father of Christian monasticism. The left panel shows his visit to Saint Paul of Thebes, the first hermit, described by Jerome in his Vita Pauli. Their meeting represents the communion of saints in the desert tradition and the spiritual friendship that sustains ascetic life. The right panel depicts the famous temptation of Anthony, drawn from Athanasius's Life of Anthony, where demons assault him with terrifying apparitions. Anthony's endurance exemplifies the Pauline teaching to 'put on the whole armor of God' (Eph 6:11) against spiritual forces of wickedness. The desert fathers read their combat through the lens of Christ's own temptation in the wilderness (Matt 4:1-11), understanding that resistance to demonic assault deepens union with God.",
+  "scripture_refs": [
+    {"ref": "MAT.4.1-11", "relevance": "typological", "reason": "Christ's temptation in the wilderness prefigures and empowers the desert fathers' spiritual combat"},
+    {"ref": "EPH.6.11-12", "relevance": "allusion", "reason": "Put on the whole armor of God to stand against the schemes of the devil"},
+    {"ref": "1PE.5.8", "relevance": "allusion", "reason": "Your adversary the devil prowls around like a roaring lion — the patristic context for Anthony's battle"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "turbulent",
+    "menacing",
+    "contemplative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0070215",
+    "title": "Visit of St. Anthony to St. Paul and Temptation",
+    "artist": "Matthias Grünewald",
+    "model": "claude-opus-4-6"
+  }
+}

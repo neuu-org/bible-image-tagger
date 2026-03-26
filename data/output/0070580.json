@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mute Possessed Man",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Jesus Heals a Mute Possessed Man",
+  "tags": [
+    "healing",
+    "exorcism",
+    "miracle",
+    "demon-possession",
+    "muteness",
+    "compassion",
+    "touch",
+    "jewish-village",
+    "restoration",
+    "messianic-sign"
+  ],
+  "symbols": [
+    "Christ's hand touching the man's mouth — the divine touch that restores what sin and evil have silenced, the Word giving speech",
+    "the man's striped garment and humble posture — affliction and poverty before the Healer, humanity in bondage seeking liberation",
+    "stone archway of the village — the threshold between bondage and freedom, the ordinary setting where the extraordinary breaks in",
+    "onlooker watching from above — the witnessing community, amazement at what God has done"
+  ],
+  "description": "A narrow vertical composition showing Jesus standing in white robes before a stone archway in a Palestinian village. He reaches out with His right hand to touch the mouth or face of a shorter man who stands before Him in a dark striped garment, head slightly bowed. The man appears to lean toward Jesus. Above, a woman watches from a window or balcony. The setting is rendered with careful archaeological detail — rough-cut stone walls, a wooden beam lintel, and climbing plants on the upper walls.",
+  "theological_description": "James Tissot's meticulously researched rendering of this healing captures the compassionate directness of Jesus's ministry to those on the margins. Matthew 9:32-34 records: 'A demoniac who was mute was brought to him. And when the demon had been cast out, the one who had been mute spoke.' This miracle operates on multiple theological levels. The physical restoration of speech is simultaneously a sign of the messianic age prophesied in Isaiah 35:6: 'then the tongue of the speechless will sing for joy.' In casting out the demon, Jesus demonstrates His authority over the spiritual realm — an authority the Pharisees maliciously attribute to Beelzebul (Matthew 9:34), setting up one of the Gospel's sharpest theological conflicts. The intimate scale of Tissot's composition — just two figures in a village doorway — emphasizes the personal encounter at the heart of every miracle: Christ meets each person individually in their specific suffering. The restoration of speech is also deeply symbolic: to be mute is to be unable to praise God, and the first act of the healed tongue is doxology.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.9.32-34",
+      "relevance": "primary",
+      "reason": "The healing of the mute demoniac, the specific event depicted"
+    },
+    {
+      "ref": "MAT.12.22-24",
+      "relevance": "primary",
+      "reason": "A parallel healing of a blind and mute demoniac, with the Pharisees' accusation of operating by Beelzebul"
+    },
+    {
+      "ref": "ISA.35.5-6",
+      "relevance": "typological",
+      "reason": "The messianic prophecy that the mute will sing and the deaf will hear — fulfilled in Jesus's healings"
+    },
+    {
+      "ref": "MRK.7.37",
+      "relevance": "allusion",
+      "reason": "'He has done all things well. He even makes the deaf hear and the mute speak' — the crowd's astonished verdict"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "intimate",
+    "hopeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070580",
+    "title": "Jesus Heals a Mute Possessed Man",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

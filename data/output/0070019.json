@@ -1,0 +1,51 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Infant Jesus", "type": "DEITY"},
+    {"name": "Angels", "type": "GROUP"},
+    {"name": "Female Saints", "type": "GROUP"}
+  ],
+  "event": "Madonna Enthroned with Angels and Saints (Sacra Conversazione)",
+  "tags": [
+    "sacra-conversazione",
+    "madonna-and-child",
+    "enthroned-virgin",
+    "angels-with-instruments",
+    "female-saints",
+    "heavenly-court",
+    "lute",
+    "music-making-angels",
+    "devotion",
+    "virgin-mother",
+    "holy-gathering",
+    "queenship-of-mary",
+    "celestial-harmony"
+  ],
+  "symbols": [
+    "Virgin Mary enthroned centrally — Queen of Heaven and seat of divine Wisdom",
+    "Christ Child on Mary's lap — the Incarnation, God made flesh through the Virgin",
+    "angels playing lute and other instruments — the celestial harmony of heaven, the praise of the heavenly court",
+    "gathered female saints — the communion of saints, the Church triumphant",
+    "dark blue canopy behind Mary — the vault of heaven, symbol of Mary's heavenly sovereignty",
+    "women in prayer postures — the contemplative and intercessory life of the faithful"
+  ],
+  "description": "The Virgin Mary sits enthroned at center, dressed in a dark blue mantle over a red gown, holding the Christ Child on her lap. Two angels hover above, one playing a lute. Flanking Mary on both sides are groups of richly dressed female saints, some reading books, others in attitudes of prayer or conversation. The composition is symmetrical and formal, with the figures arranged in a shallow space against a dark background. The women wear the elaborate headdresses and costumes of late-medieval Flanders.",
+  "theological_description": "The Sacra Conversazione — the 'holy conversation' — presents the Virgin and Child surrounded by saints in a timeless heavenly gathering that transcends historical chronology. Mary's central, elevated position reflects the doctrine of her role as Theotokos (God-bearer), the woman through whom the Word became flesh (JHN.1.14). The angels making music recall the Psalms' exhortation to praise God with instruments (PSA.150.3-5), imaging the perpetual worship of heaven described in Revelation where the elders and living creatures sing before the throne (REV.5.8-9). The female saints around Mary embody the communion of saints — the cloud of witnesses (HEB.12.1) — and their books and postures of devotion suggest the contemplative reception of God's Word. Gerard David's serene composition visualizes the eschatological promise of the Church triumphant, where the redeemed dwell in the presence of God. Mary as Queen echoes the royal mother (gebirah) tradition of the Davidic monarchy, where the king's mother sat at his right hand (1KI.2.19), now fulfilled in the heavenly kingdom of her Son.",
+  "scripture_refs": [
+    {"ref": "LUK.1.46-55", "relevance": "primary", "reason": "The Magnificat — Mary's song declaring all generations will call her blessed, the theological basis for her exaltation"},
+    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh — the Incarnation depicted through the Christ Child on Mary's lap"},
+    {"ref": "REV.5.8-9", "relevance": "typological", "reason": "Heavenly worship with harps and new song, reflected in the music-making angels"},
+    {"ref": "PSA.150.3-5", "relevance": "allusion", "reason": "Praise God with lute and harp — the angelic musicians fulfilling the psalmist's call"},
+    {"ref": "HEB.12.1", "relevance": "allusion", "reason": "The great cloud of witnesses — the gathered saints surrounding the central mystery of the Incarnation"},
+    {"ref": "1KI.2.19", "relevance": "typological", "reason": "Bathsheba seated at Solomon's right hand — typological basis for Mary's queenship beside her Son"}
+  ],
+  "scene_type": "liturgical",
+  "mood": ["serene", "devotional", "celestial", "harmonious"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070019",
+    "title": "Madonna with Angels and Saints",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

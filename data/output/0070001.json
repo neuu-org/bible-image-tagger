@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Saint George", "type": "PERSON"}
+  ],
+  "event": "Saint George as Military Saint",
+  "tags": [
+    "saint-george",
+    "military-saint",
+    "warrior",
+    "orthodox-icon",
+    "dragon-slayer",
+    "shield",
+    "spear",
+    "halo",
+    "roman-soldier",
+    "christian-martyr",
+    "spiritual-warfare",
+    "faith-and-courage",
+    "triumph-over-evil"
+  ],
+  "symbols": [
+    "golden halo — divine sanctity and the glory of martyrdom",
+    "military armor and red cloak — the spiritual armor of God and the blood of martyrdom",
+    "spear held upright — readiness for battle against evil, the weapon of faith",
+    "round shield with cross — the shield of faith bearing the sign of Christ's victory",
+    "youthful face with direct gaze — the unwavering courage of the faithful witness"
+  ],
+  "description": "A Byzantine-style icon depicting Saint George as a young soldier-saint. He wears dark military armor over a vivid red tunic, with a red cloak draped over his shoulders. His curly brown hair frames a youthful face beneath a large golden halo. In his right hand he holds a tall spear, and in his left he carries a small round shield decorated with a cross motif. The background is gold, typical of Orthodox iconography, with architectural elements suggested at the edges.",
+  "theological_description": "Saint George, venerated across Eastern and Western Christianity, embodies the call to spiritual warfare articulated by Paul: 'Put on the whole armor of God, that you may be able to stand against the schemes of the devil' (EPH.6.11). Though George is a post-biblical saint whose legend of slaying the dragon became the supreme Christian allegory of good triumphing over evil, the theological roots are scriptural. The dragon-combat echoes Revelation's great conflict where Michael and his angels war against the serpent (REV.12.7-9), and George's willingness to die for faith recalls Christ's own words: 'Be faithful unto death, and I will give you the crown of life' (REV.2.10). The shield bearing the cross points to the centrality of Christ's sacrifice as the believer's defense, while the red of George's garments signals both royal dignity and the blood of the martyrs who conquered the accuser 'by the blood of the Lamb and by the word of their testimony' (REV.12.11). In Orthodox theology, the icon itself is a window into heavenly reality, presenting George not as a historical relic but as a living intercessor.",
+  "scripture_refs": [
+    {"ref": "EPH.6.11-17", "relevance": "primary", "reason": "The armor of God — shield of faith, sword of the Spirit — directly reflected in George's military iconography"},
+    {"ref": "REV.12.7-9", "relevance": "typological", "reason": "Michael's war against the dragon parallels George's legendary combat with the serpent of evil"},
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "The call to faithfulness unto death, the path George followed as a Christian martyr under Diocletian"},
+    {"ref": "REV.12.11", "relevance": "allusion", "reason": "The martyrs who overcame the accuser by the blood of the Lamb and the word of their testimony"},
+    {"ref": "2TI.4.7", "relevance": "allusion", "reason": "Having fought the good fight and kept the faith — the martial saint as exemplar of perseverance"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "resolute", "sacred", "majestic"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0070001",
+    "title": "Saint George",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

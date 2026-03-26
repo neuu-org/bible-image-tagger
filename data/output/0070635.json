@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Risen Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Triptych: Pentecost with Resurrection and Assumption",
+  "tags": [
+    "pentecost",
+    "holy-spirit",
+    "descent-of-fire",
+    "triptych",
+    "resurrection",
+    "assumption",
+    "apostles",
+    "tongues-of-fire",
+    "church-birth",
+    "trinity"
+  ],
+  "symbols": [
+    "dove of the Holy Spirit descending with radiant light — the Third Person of the Trinity empowering the Church at Pentecost",
+    "gathered apostles with Mary at center — the infant Church assembled in the Upper Room, the new Israel",
+    "Risen Christ on left wing — the Resurrection that makes Pentecost possible, Christ's victory over death",
+    "Assumption or Coronation of Mary on right wing — the Mother of the Church received into heavenly glory",
+    "tongues of fire — the visible sign of the Spirit's gifts, the reversal of Babel through the gift of universal speech"
+  ],
+  "description": "A three-panel triptych. The central panel, the largest, depicts the descent of the Holy Spirit at Pentecost: a dove radiates golden light from a domed ceiling onto a gathered assembly of apostles and the Virgin Mary in an architectural interior. The figures react with raised hands and animated gestures. The left wing shows the Risen Christ standing triumphant in white, bearing a cross-staff, surrounded by witnesses. The right wing depicts the Assumption or Coronation of the Virgin, with Mary standing in dark robes surrounded by angels, with a smaller scene below.",
+  "theological_description": "Lucas van Leyden's triptych presents the three culminating events of the salvation narrative in a single devotional program. The central Pentecost scene depicts Acts 2:1-4: the Holy Spirit descending as tongues of fire upon the apostles gathered in the Upper Room, empowering them to speak in all languages and inaugurating the Church's universal mission. Mary's presence at the center of the apostolic assembly reflects the tradition from Acts 1:14 that she was with them in prayer before Pentecost — the Mother of Christ becoming the Mother of the Church. The flanking panels create a theological triptych of completion: the Resurrection (left) is the precondition, Pentecost (center) is the fulfillment, and the Assumption (right) is the eschatological promise. Together they trace the arc from Christ's personal victory over death, through the Spirit's communal empowerment of the Church, to the bodily glorification that awaits all the faithful. The dove — the visible form of the Spirit — connects this event to Christ's own baptism (Luke 3:22), creating a Trinitarian frame: as the Spirit descended on Christ to inaugurate His ministry, so now the Spirit descends on the Church to inaugurate its mission.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.2.1-4",
+      "relevance": "primary",
+      "reason": "The descent of the Holy Spirit at Pentecost — the central panel's subject"
+    },
+    {
+      "ref": "ACT.1.14",
+      "relevance": "primary",
+      "reason": "Mary and the apostles gathered in prayer before Pentecost"
+    },
+    {
+      "ref": "MAT.28.1-6",
+      "relevance": "primary",
+      "reason": "The Resurrection of Christ — the subject of the left wing"
+    },
+    {
+      "ref": "LUK.3.22",
+      "relevance": "typological",
+      "reason": "The Holy Spirit descending as a dove at Christ's baptism — Pentecost as the Church's baptism"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "allusion",
+      "reason": "The woman clothed with the sun — the glorified Mary figure in the right wing"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "exalted",
+    "radiant",
+    "triumphant",
+    "sacred"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0070635",
+    "title": "Triptych with Descent of the Holy Spirit",
+    "artist": "Lucas van Leyden",
+    "model": "claude-opus-4-6"
+  }
+}

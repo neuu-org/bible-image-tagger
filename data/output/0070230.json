@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Young Christian Convert", "type": "PERSON"},
+    {"name": "Roman Household Members", "type": "GROUP"}
+  ],
+  "event": "A Young Christian Neophyte Testifying",
+  "tags": [
+    "early-church",
+    "neophyte",
+    "conversion",
+    "testimony",
+    "roman-household",
+    "cross",
+    "catechesis",
+    "faith-witness",
+    "domestic-setting",
+    "pagan-statues"
+  ],
+  "symbols": [
+    "small cross held aloft — the sign of Christian faith boldly proclaimed in a pagan household",
+    "pagan statuary in background — the old religious order being challenged by the new faith",
+    "gathered listeners — the household as the basic unit of early Christian evangelization",
+    "youth of the neophyte — the freshness and boldness of new conversion"
+  ],
+  "description": "In a richly appointed Roman interior, a young man in a white tunic stands at the left holding a small cross aloft in one hand. Before him, a group of figures in Roman dress — men, women, and children — sit and recline on couches and cushions, listening intently. An elderly man in white robes regards the youth with serious attention. Women in colorful draped garments hold children. In the background, classical statuary and ornate columns are visible, suggesting a wealthy patrician household. The light falls warmly on the central group from the left.",
+  "theological_description": "The scene depicts the early Church's evangelization within Roman households, a pattern attested throughout the Acts of the Apostles and Paul's epistles. The young neophyte boldly holding the cross before a pagan household recalls the apostolic pattern of household conversion (Acts 16:31-34, the jailer's household; Acts 18:8, Crispus and his household). The pagan statuary in the background underscores the theological confrontation between the Gospel and idolatry that defined the first centuries of the Church. The domestic setting reflects the historical reality that the earliest Christian communities gathered in homes (Rom 16:5; 1 Cor 16:19). The youth's boldness embodies the Petrine exhortation to 'always be prepared to give a reason for the hope that is in you' (1 Pet 3:15).",
+  "scripture_refs": [
+    {"ref": "1PE.3.15", "relevance": "allusion", "reason": "Always be ready to give an account of the hope within you — the neophyte's bold testimony"},
+    {"ref": "ACT.16.31-34", "relevance": "typological", "reason": "Believe in the Lord Jesus and you will be saved, you and your household — pattern of household conversion"},
+    {"ref": "ROM.16.5", "relevance": "allusion", "reason": "Greet the church that meets in their house — the domestic context of early Christian community"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "earnest",
+    "intimate",
+    "hopeful"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0070230",
+    "title": "The young Christian neophyte",
+    "artist": "Diogène Maillart",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "christianity",
+    "annunciation",
+    "virgin-mary",
+    "angel-gabriel",
+    "holy-spirit",
+    "dove",
+    "lily",
+    "book",
+    "divine-light",
+    "incarnation",
+    "obedience"
+  ],
+  "symbols": [
+    "white dove descending — the Holy Spirit overshadowing Mary, the divine power effecting the Incarnation",
+    "white lilies in Gabriel's hand — Mary's perpetual virginity and purity, a traditional Annunciation attribute",
+    "open book on lectern — Mary interrupted in prayer or reading Scripture, her receptivity to God's Word",
+    "Gabriel kneeling — the angel's reverence before the chosen vessel of the Incarnation, the honor of the message",
+    "divine light radiating from above — the heavenly origin of the announcement, God breaking into human history"
+  ],
+  "description": "A dark interior with two main figures. On the left, a young woman in a blue robe over a red dress kneels at a wooden lectern with an open book, her left hand raised in a gesture of surprise or acceptance. On the right, a winged angel in white and blue-green robes kneels on a cloud, one arm raised toward heaven and the other extending white lilies toward the woman. Above them, a white dove descends in a burst of golden light that illuminates the otherwise shadowy room. A dark curtain hangs at the upper left. The scene is shown within an ornate gilded frame.",
+  "theological_description": "The Annunciation is the pivotal moment of salvation history when the eternal Word becomes flesh (John 1:14). Gabriel's greeting 'Hail, full of grace' (Luke 1:28) initiates the New Covenant, and Mary's fiat — 'let it be done to me according to your word' — becomes the reversal of Eve's disobedience, a patristic theme developed by Irenaeus. The dove of the Holy Spirit descending recalls the Spirit hovering over the waters in Genesis 1:2, marking this as a new creation. The lilies signify Mary's virginal purity, fulfilling Isaiah 7:14. The open book points to Mary as the one steeped in Scripture, the Daughter of Zion who embodies Israel's hopes. This moment is simultaneously the humiliation of God (kenosis, Philippians 2:7) and the exaltation of humanity — God taking human nature through a woman's consent.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The angel Gabriel sent to Mary in Nazareth announcing the conception of Jesus"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the prophecy fulfilled in the Annunciation"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation inaugurated here"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "allusion",
+      "reason": "Christ emptying himself, taking the form of a servant — the kenosis beginning at conception"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "luminous",
+    "awe-struck",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070821",
+    "title": "THE ANNUNCIATION",
+    "artist": "Giovanni Francesco Romanelli",
+    "model": "claude-opus-4-6"
+  }
+}

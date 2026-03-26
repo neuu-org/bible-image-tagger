@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Expelling Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Expulsion from Paradise",
+  "tags": [
+    "expulsion",
+    "fall-of-man",
+    "paradise-lost",
+    "adam-and-eve",
+    "angel-with-sword",
+    "nakedness",
+    "shame",
+    "divine-judgment",
+    "flaming-sword",
+    "garden-of-eden"
+  ],
+  "symbols": [
+    "flaming sword — God's judgment sealing the way back to Eden and the Tree of Life",
+    "nakedness of Adam and Eve — shame and the loss of original innocence after the Fall",
+    "angel driving them out — the divine agency executing the sentence of banishment",
+    "bright light behind the gate — the glory of paradise now inaccessible to fallen humanity",
+    "gestures of distress — the anguish of separation from God's immediate presence"
+  ],
+  "description": "A lunette-shaped composition showing the expulsion of Adam and Eve from Paradise. At the upper center, a muscular winged angel swoops down wielding a red-orange flaming sword, driving the couple outward. Adam, at the left, raises one arm as if shielding himself from the blow, his nude body twisting in flight. Eve crouches beside him, turning her back to the viewer, her body curved in shame. Behind the angel, a band of bright yellow-green light suggests the gate of Paradise from which they are being expelled. The background is dark with hints of foliage.",
+  "theological_description": "The Expulsion from Eden (Genesis 3:22-24) is the catastrophic consequence of the Fall, the moment when humanity is severed from direct communion with God and barred from the Tree of Life. The cherub with the flaming sword (Gen 3:24) symbolizes both divine justice and mercy — justice in enforcing the penalty, mercy in preventing humanity from eating from the Tree of Life in a fallen state and thus immortalizing sin. Patristic theology, especially in Irenaeus and Athanasius, understood the Expulsion as the beginning of God's pedagogy of salvation: banishment initiates the long history that will culminate in Christ, the New Adam, reopening paradise through the cross. Paul's typological reading (Rom 5:12-19) sees the disobedience of Adam undone by the obedience of Christ. The nakedness and shame of the first parents contrast with their pre-Fall innocence (Gen 2:25), making visible the rupture that sin introduces into the human condition.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.22-24",
+      "relevance": "primary",
+      "reason": "God expels Adam and Eve from Eden and stations cherubim with a flaming sword at the entrance"
+    },
+    {
+      "ref": "ROM.5.12-19",
+      "relevance": "typological",
+      "reason": "Through one man sin entered the world — Paul's Adam-Christ typology rooted in the Fall"
+    },
+    {
+      "ref": "GEN.2.25",
+      "relevance": "allusion",
+      "reason": "They were both naked and were not ashamed — the lost innocence the Expulsion makes permanent"
+    },
+    {
+      "ref": "REV.22.14",
+      "relevance": "typological",
+      "reason": "Blessed are those who may have the right to the Tree of Life — eschatological reversal of the Expulsion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "violent",
+    "dramatic"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0070288",
+    "title": "Expulsion from Paradise",
+    "artist": "Francesco Salviati",
+    "model": "claude-opus-4-6"
+  }
+}

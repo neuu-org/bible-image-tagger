@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Virgin and Child with Pomegranate",
+  "tags": [
+    "virgin-mary",
+    "christ-child",
+    "madonna-and-child",
+    "pomegranate",
+    "incarnation",
+    "halo",
+    "maternal-tenderness",
+    "devotional",
+    "passion-foreshadowing",
+    "redemption-symbol"
+  ],
+  "symbols": [
+    "pomegranate offered to the Child — symbol of Christ's passion and resurrection: its red seeds signify His blood, its many seeds the unity of the Church",
+    "golden halo on Mary — her sanctity and divine favor, the gratia plena of Gabriel's greeting",
+    "halo on the Christ Child — His divinity even in infancy, the eternal Son in temporal flesh",
+    "red cushion beneath the Child — royalty and the blood of the Passion, the throne of suffering",
+    "golden brocade background — the heavenly realm, paradise surrounding the Mother and Child",
+    "jeweled brooch on Mary's chest — the preciousness of her role as Theotokos, adorned by grace"
+  ],
+  "description": "A half-length devotional portrait of the Virgin Mary and the Christ Child against a dense golden-green foliage background. Mary has long golden hair flowing over her shoulders, wears a dark green mantle over a lighter gown, and has a thin golden halo. She gazes down tenderly at the nude infant Christ who sits on a red cushion on her lap. She offers Him a pomegranate, which the Child reaches to accept. A jeweled brooch adorns Mary's chest. The Child also bears a small halo.",
+  "theological_description": "Hans Holbein the Elder's intimate devotional panel distills the theology of the Incarnation into the gesture of a mother offering fruit to her child. The pomegranate is one of the richest symbols in Christian iconography: its hard exterior and blood-red seeds have been read since the patristic period as a figure of the Passion — the suffering hidden within the beautiful exterior of Christ's earthly life. By accepting the pomegranate, the Christ Child symbolically consents to the suffering that awaits Him. The image thus condenses the entire arc from Incarnation to Passion into a single domestic gesture. Song of Songs 4:3 and 6:7 use the pomegranate as a figure of beauty, while Jewish tradition associated it with the 613 commandments of the Torah — Christ, in receiving it, fulfills the whole Law. The tender exchange between Mother and Son also evokes Simeon's prophecy to Mary: 'A sword will pierce your own soul also' (Luke 2:35) — the maternal love that will be inseparable from maternal grief.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Christ and His infancy — the setting of the Madonna and Child devotional type"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy that a sword will pierce Mary's soul — the pomegranate as foreshadowing of the Passion"
+    },
+    {
+      "ref": "SNG.4.3",
+      "relevance": "allusion",
+      "reason": "The pomegranate in the Song of Songs as a symbol of beauty and fruitfulness"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "God sent His Son, born of a woman — the theological foundation of every Madonna and Child image"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional",
+    "bittersweet",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070582",
+    "title": "Maria, Dem Kind Einen Granatapfel Reichend",
+    "artist": "Hans Holbein the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

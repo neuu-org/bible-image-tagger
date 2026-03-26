@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Salome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Herod Antipas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Feast Guests",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Dance of Salome at the Feast of Herod",
+  "tags": [
+    "salome",
+    "herod",
+    "feast",
+    "dance",
+    "banquet",
+    "seduction",
+    "john-the-baptist",
+    "beheading-precursor",
+    "courtly-intrigue",
+    "martyrdom-cause"
+  ],
+  "symbols": [
+    "dancing Salome in white gown — seductive beauty weaponized for evil, the instrument of Herodias's vengeance against the prophet",
+    "banquet table — worldly indulgence and courtly excess contrasted with the ascetic holiness of John the Baptist",
+    "checkered floor — the geometric order of earthly courts, indifferent to divine justice",
+    "seated diners and attendants — complicit witnesses to injustice, the court that will consent to a prophet's murder"
+  ],
+  "description": "A detail from a fresco showing a young woman in a flowing white gown dancing gracefully in the center of a banquet hall. She moves with elegant poise, her body twisting in mid-step on a checkered marble floor. Behind her, seated figures observe from the banquet table — a man in dark clothing to the left and another in red to the right. The scene is rendered in muted earth tones with the dancer's pale gown providing the brightest accent.",
+  "theological_description": "Filippo Lippi's fresco captures the fatal dance of Salome that led directly to the beheading of John the Baptist, the greatest of the prophets (Matthew 11:11). Mark 6:21-28 records how Herod's birthday feast became the occasion for the Baptist's martyrdom: Salome danced, Herod rashly promised her anything she wished, and at her mother Herodias's instigation she demanded the prophet's head on a platter. The theological significance is layered: the Baptist's death prefigures Christ's own passion — both are innocent men killed through a conspiracy of political cowardice and personal vendetta. The elegant beauty of the dance stands in terrible irony against its consequence. The Church Fathers, especially Ambrose and Chrysostom, used this episode to warn against the spiritual dangers of sensual indulgence and the corruption of secular power. The banquet setting itself inverts the sacred meal: where the Eucharistic feast gives life, Herod's feast takes it away.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.21-28",
+      "relevance": "primary",
+      "reason": "Mark's detailed account of Herod's birthday banquet, Salome's dance, and the beheading of John the Baptist"
+    },
+    {
+      "ref": "MAT.14.6-11",
+      "relevance": "primary",
+      "reason": "Matthew's parallel account of the dance and the execution of the Baptist"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Christ's testimony that among those born of women none is greater than John — heightening the tragedy of his death"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ominous",
+    "sensual",
+    "tense",
+    "opulent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070423",
+    "title": "The Feast of Herod: Salome's Dance (detail)",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

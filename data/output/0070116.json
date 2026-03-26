@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Roman Soldiers and Temple Guards",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Mocking of Christ",
+  "tags": [
+    "mocking-of-christ",
+    "ecce-homo",
+    "crown-of-thorns",
+    "passion",
+    "reed-scepter",
+    "humiliation",
+    "suffering-servant",
+    "roman-soldiers",
+    "trial-of-jesus",
+    "scourging",
+    "patience-in-suffering",
+    "innocence-condemned",
+    "divine-humility"
+  ],
+  "symbols": [
+    "crown of thorns — mockery of Christ's kingship, the curse of the earth (thorns from Genesis) placed on the head of the one who redeems it",
+    "reed scepter — a parody of royal authority, the fragile instrument of humiliation that paradoxically declares Christ's true kingship",
+    "bare torso of Christ — vulnerability, the exposed flesh of God incarnate subjected to human cruelty",
+    "mocking gestures of the tormentors — the sin of humanity turned against its Redeemer",
+    "Christ's upward gaze — the Son looking to the Father in trust amid suffering",
+    "blue-grey garment draped on Christ — a mock royal robe, the pretense of kingship that is in fact the truth"
+  ],
+  "description": "Christ sits at the left, bare-chested, wearing a crown of thorns and a pale blue-grey garment draped loosely over one shoulder. He holds a reed placed in his hand as a mock scepter. His gaze is directed upward with an expression of patient suffering. Three tormentors surround him: one in a red garment reaches toward the reed, another with dark hair leans in mockingly, and a third wears a feathered cap. Their expressions range from contemptuous to sneering. The scene is dramatically lit from the left, with a dark background creating powerful chiaroscuro.",
+  "theological_description": "The Mocking of Christ is among the most theologically dense moments of the Passion. After Pilate's soldiers scourged Jesus, they twisted a crown of thorns, placed it on his head, put a reed in his right hand, and knelt before him in mockery, saying 'Hail, King of the Jews!' (MAT.27.29). The profound paradox — visible in Stom's painting — is that every instrument of mockery proclaims a deeper truth: the crown, the scepter, and the royal salutation all declare what the mockers cannot see. Christ is indeed the King, and the thorns recall the curse pronounced at the Fall, when the ground would bring forth thorns and thistles (GEN.3.18); now the curse is gathered onto the brow of the one who bears it away. The reed scepter — fragile and contemptible — nonetheless places in Christ's hand the rod of rule prophesied in the Psalms: 'You shall break them with a rod of iron' (PSA.2.9). Christ's patient, upward gaze embodies Isaiah's Suffering Servant who 'opened not his mouth' (ISA.53.7), and fulfills Peter's later reflection: 'When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly' (1PE.2.23). The tormentors represent all humanity, whose sin demanded this price, yet whose redemption is purchased precisely through this humiliation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "primary",
+      "reason": "The soldiers placing a crown of thorns and reed scepter on Christ, mocking him as King of the Jews"
+    },
+    {
+      "ref": "MRK.15.16-20",
+      "relevance": "primary",
+      "reason": "Mark's account of the soldiers' mockery including the purple robe and striking with a reed"
+    },
+    {
+      "ref": "ISA.53.3-7",
+      "relevance": "typological",
+      "reason": "The Suffering Servant despised, rejected, and silent before his accusers — fulfilled in Christ's patient endurance"
+    },
+    {
+      "ref": "GEN.3.18",
+      "relevance": "typological",
+      "reason": "Thorns and thistles as the curse of the Fall — now gathered into a crown placed on the Redeemer's head"
+    },
+    {
+      "ref": "PSA.2.9",
+      "relevance": "typological",
+      "reason": "The rod of iron with which the Messiah rules — parodied in the reed but truly fulfilled in Christ's sovereignty"
+    },
+    {
+      "ref": "1PE.2.23",
+      "relevance": "allusion",
+      "reason": "When reviled he did not revile in return — Christ's patient gaze upward embodying this teaching"
+    },
+    {
+      "ref": "JHN.19.2-3",
+      "relevance": "primary",
+      "reason": "John's account of the soldiers crowning Christ with thorns and striking him"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "solemn",
+    "tense",
+    "grievous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070116",
+    "title": "The Mocking of Christ",
+    "artist": "Matthias Stom",
+    "model": "claude-opus-4-6"
+  }
+}

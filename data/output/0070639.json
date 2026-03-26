@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Simon the Zealot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jude Thaddaeus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Persecutors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Martyrdoms of Saints Simon and Jude",
+  "tags": [
+    "martyrdom",
+    "apostles",
+    "simon-the-zealot",
+    "jude-thaddaeus",
+    "persecution",
+    "sainthood",
+    "violence",
+    "witness",
+    "golden-halo",
+    "sword-and-club"
+  ],
+  "symbols": [
+    "fallen apostles with golden halos — sanctity amid suffering, divine glory shining through mortal agony",
+    "swords and clubs wielded by persecutors — the instruments of martyrdom, the world's violent rejection of the Gospel",
+    "golden background — the heavenly realm already present, the martyrs passing through death into glory",
+    "armed crowd bearing down — the overwhelming force of worldly power arrayed against the vulnerability of faith"
+  ],
+  "description": "A violent scene against a gold background showing the martyrdom of two apostles. At the bottom, one apostle lies on the ground, his halo intact, while attackers strike him with swords. Another apostle is also being assaulted. The persecutors are armed with swords, clubs, and other weapons, their faces contorted with aggression. They wear armor and varied medieval garments. The golden background and the saints' halos create a stark contrast between the heavenly dignity of the martyrs and the brutality of their execution.",
+  "theological_description": "Stefan Lochner's martyrdom panel depicts the violent deaths of the apostles Simon the Zealot and Jude Thaddaeus, traditionally believed to have been martyred together in Persia. While their deaths are not recorded in canonical Scripture, their martyrdom belongs to the earliest apostolic tradition and embodies the promise Jesus made to His disciples: 'They will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name's sake' (Matthew 24:9). The golden background — characteristic of late medieval devotional painting — theologically signifies that the martyrs already inhabit the heavenly realm even as their bodies are destroyed. This visual paradox communicates the core theology of martyrdom: physical death is simultaneously spiritual triumph. As Jesus taught, 'Whoever loses his life for my sake will find it' (Matthew 10:39). The apostles' unresisting posture amid extreme violence follows the pattern of Christ Himself, the proto-martyr who 'when he was reviled, did not revile in return' (1 Peter 2:23). Their feast day (October 28) links them permanently in the Church's liturgical memory.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.24.9",
+      "relevance": "primary",
+      "reason": "Jesus's prophecy that His disciples would be delivered up to death — fulfilled in the apostles' martyrdoms"
+    },
+    {
+      "ref": "MAT.10.39",
+      "relevance": "primary",
+      "reason": "Whoever loses his life for my sake will find it — the paradox of martyrdom"
+    },
+    {
+      "ref": "1PE.2.21-23",
+      "relevance": "typological",
+      "reason": "Christ suffered for you, leaving an example — the apostles following Christ's pattern of innocent suffering"
+    },
+    {
+      "ref": "REV.6.9-11",
+      "relevance": "allusion",
+      "reason": "The souls of the martyrs under the altar — the heavenly glory that the golden background signifies"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "solemn",
+    "sacrificial",
+    "triumphant"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0070639",
+    "title": "Martyrdoms of Simon the Zealot and Jude",
+    "artist": "Stefan Lochner",
+    "model": "claude-opus-4-6"
+  }
+}

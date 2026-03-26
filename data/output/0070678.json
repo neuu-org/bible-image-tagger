@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Rabbis",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Reading and study of the Torah in a synagogue",
+  "tags": [
+    "torah-study",
+    "rabbis",
+    "synagogue",
+    "scripture-reading",
+    "jewish-worship",
+    "scrolls",
+    "books",
+    "oil-lamp",
+    "communal-study",
+    "oral-tradition",
+    "talmud",
+    "learning",
+    "religious-education"
+  ],
+  "symbols": [
+    "open scrolls and books — the living Word of God studied and transmitted through generations",
+    "oil lamp chandelier — the light of Torah that illuminates the mind and dispels spiritual darkness",
+    "standing reader with scroll — the public proclamation of Scripture central to Jewish worship since Ezra",
+    "long table with gathered men — the communal nature of Torah study, the tradition of the beit midrash",
+    "simple room with bare walls — the priority of the Word over material display, study as true wealth"
+  ],
+  "description": "An interior scene of a sparsely furnished room where a group of men in Middle Eastern robes and headcoverings sit around a long wooden table. Several have open books and scrolls before them. At the far right, one man stands reading from a scroll. An ornate oil chandelier hangs from the ceiling, casting warm light. The wall behind is bare and light-colored. Scattered items — a blue vessel, books on the floor, shoes beneath the table — suggest a place of daily communal gathering. The men's expressions are thoughtful, engaged in study and discussion.",
+  "theological_description": "This scene captures the ancient practice of communal Torah study that has been central to Jewish religious life since Ezra read the Law to the returned exiles (Nehemiah 8:1-8). The public reading and communal study of Scripture — in the synagogue, in the beit midrash — is the living mechanism by which God's Word is transmitted, debated, and internalized across generations. The rabbis gathered here embody the tradition described in Psalm 1:2, meditating on the Torah day and night. Jesus Himself participated in this tradition, reading from Isaiah in the synagogue at Nazareth (Luke 4:16-21) and teaching regularly in synagogues. The standing reader echoes the Levitical tradition of public Scripture reading (Deuteronomy 31:11), while the communal discussion reflects the Jewish conviction that Torah is best understood in dialogue. The simple, well-worn room speaks to the priority of study over material display — where two or three gather over Torah, the Shekinah dwells among them.",
+  "scripture_refs": [
+    {
+      "ref": "NEH.8.1-8",
+      "relevance": "primary",
+      "reason": "Ezra reads the Law publicly to the assembly — the foundational scene of communal Scripture reading depicted here"
+    },
+    {
+      "ref": "PSA.1.2",
+      "relevance": "primary",
+      "reason": "Blessed is the one who meditates on the Torah day and night — the devoted study shown in the painting"
+    },
+    {
+      "ref": "LUK.4.16-21",
+      "relevance": "typological",
+      "reason": "Jesus reads from Isaiah in the synagogue — the same practice of public Scripture reading depicted"
+    },
+    {
+      "ref": "DEU.31.11-13",
+      "relevance": "allusion",
+      "reason": "The command to read the Law publicly before all Israel at the feast — the Mosaic origin of this practice"
+    },
+    {
+      "ref": "ACT.15.21",
+      "relevance": "allusion",
+      "reason": "Moses has been read in synagogues every Sabbath — the ongoing tradition reflected in this gathering"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "studious",
+    "reverent"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0070678",
+    "title": "The Reading of the Bible by the Rabbis",
+    "artist": "Jean Lecomte du Nouy",
+    "model": "claude-opus-4-6"
+  }
+}

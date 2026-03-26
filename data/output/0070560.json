@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Saint Catherine of Alexandria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints on Closed Triptych Wings",
+  "tags": [
+    "triptych",
+    "closed-wings",
+    "grisaille",
+    "saint-catherine",
+    "john-the-baptist",
+    "martyrdom",
+    "patron-saints",
+    "devotional",
+    "niche-figures",
+    "gothic-tracery"
+  ],
+  "symbols": [
+    "Saint Catherine with crown and wheel — royal birth and martyrdom, wisdom triumphing over worldly philosophy",
+    "Saint John the Baptist in camel skin — the forerunner, the voice crying in the wilderness, ascetic holiness",
+    "Gothic arched niches — the Church as a sheltering architecture for the saints, heaven's windows",
+    "closed wings — the exterior face of devotion, the saints who greet the viewer before the sacred interior is revealed",
+    "donor figure kneeling at Catherine's feet — earthly supplication before heavenly intercessors"
+  ],
+  "description": "Two panels forming the closed exterior of a triptych, each containing a single standing figure within a painted Gothic architectural niche with elaborate tracery. On the left panel, a crowned female saint — Saint Catherine of Alexandria — stands in a red robe over a blue gown, with a small kneeling donor figure at her feet. On the right panel, Saint John the Baptist stands barefoot in a grey-blue garment, holding a book. Both figures are painted in subdued tones against a pale landscape background visible through the arched openings.",
+  "theological_description": "Hans Memling's closed triptych wings present two saints who together span the arc of salvation history. John the Baptist, the last and greatest prophet of the Old Covenant (Matthew 11:11), stands as the bridge between the Testaments — the voice crying in the wilderness who prepared the way for Christ (Isaiah 40:3, Mark 1:3). Saint Catherine of Alexandria, though a post-biblical figure, represents the early Church's witness: a woman of learning who confounded pagan philosophers and sealed her faith with martyrdom. The closed state of the triptych is itself theologically meaningful in late medieval devotional practice — these exterior saints function as guardians and intercessors who greet the worshipper before the sacred mysteries within are unveiled. The kneeling donor at Catherine's feet embodies the theology of intercession: the faithful on earth seeking the prayers of the saints in heaven, the communion of saints that transcends death.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.1.1-8",
+      "relevance": "primary",
+      "reason": "John the Baptist as the forerunner of Christ, the voice in the wilderness"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Christ's testimony that no one born of women is greater than John the Baptist"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness — the prophetic identity of the Baptist"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "solemn",
+    "devotional"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0070560",
+    "title": "Triptych of Adriaan Reins closed",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

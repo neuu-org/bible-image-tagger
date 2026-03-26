@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Angel Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "new-testament",
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "lilies",
+    "garden",
+    "incarnation",
+    "divine-message",
+    "fiat",
+    "white-flowers",
+    "roses",
+    "surprise",
+    "humility",
+    "obedience"
+  ],
+  "symbols": [
+    "white lilies — the purity and virginity of Mary, the most traditional symbol of the Annunciation",
+    "enclosed garden — the hortus conclusus of Song of Solomon 4:12, a type of Mary's perpetual virginity",
+    "roses among flowers — love and the mystical rose, a Marian title (Rosa Mystica)",
+    "angel appearing at garden gate — the divine messenger entering the human realm, heaven touching earth",
+    "Mary's white garment — purity, innocence, and receptivity to God's will",
+    "red brick house behind Mary — domestic setting emphasizing the Incarnation entering ordinary human life",
+    "lush verdant garden — the new Eden where the new Eve receives the Word and reverses the Fall"
+  ],
+  "description": "A garden scene depicting the Annunciation in a naturalistic English cottage setting. At left, a figure in a pinkish-red robe appears at the entrance of the garden, partially framed by greenery and a wooden gate — this is the angel. At right, a young woman in a flowing white dress turns with an expression of surprise, one hand raised. Between them, a magnificent display of tall white Madonna lilies blooms abundantly. The garden is lush with roses, orange flowers, and dense green foliage. A red brick building is visible behind the woman. The scene is bathed in gentle, natural light.",
+  "theological_description": "This Annunciation transposes the biblical scene into an English garden, yet preserves its core theological meaning with remarkable precision through the language of flowers. The profusion of white lilies — the traditional Marian symbol of purity — forms the visual center, connecting the angel's message to Mary's virginal motherhood. The enclosed garden (hortus conclusus) has been a Marian type since patristic exegesis of Song of Solomon 4:12: 'A garden enclosed is my sister, my bride.' The angel's arrival disrupts Mary's ordinary world, just as the Incarnation disrupts all of human history. Luke 1:28-38 records the exchange: the angel's greeting (Ave gratia plena), Mary's troubled questioning, and her fiat (let it be done to me according to your word). This moment is the hinge of salvation history — the new Eve's obedience reverses the old Eve's disobedience (Irenaeus, Against Heresies III.22). The domestic garden setting emphasizes the scandal of particularity: the infinite God enters creation through one woman's yes, in one specific place and moment, transforming the ordinary into the threshold of the divine.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The angel Gabriel is sent to Mary in Nazareth and announces the conception of Jesus — the scene depicted"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "Hail, full of grace, the Lord is with you — the moment of angelic greeting captured in the painting"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the Isaianic prophecy fulfilled at the Annunciation"
+    },
+    {
+      "ref": "SNG.4.12",
+      "relevance": "typological",
+      "reason": "A garden enclosed is my sister, my bride — the enclosed garden as a type of Mary's virginity"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The seed of the woman shall crush the serpent — Mary as the new Eve through whom the promise is fulfilled"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "When the fullness of time had come, God sent His Son, born of a woman — the Annunciation as that moment"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe",
+    "serene",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070751",
+    "title": "Annunciation",
+    "artist": "Beatrice Emma Parsons",
+    "model": "claude-opus-4-6"
+  }
+}

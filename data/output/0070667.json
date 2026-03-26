@@ -1,0 +1,103 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldier",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion of Jesus Christ",
+  "tags": [
+    "new-testament",
+    "crucifixion",
+    "cross",
+    "passion",
+    "inri",
+    "golgotha",
+    "halos",
+    "spear",
+    "mourning",
+    "sacrifice",
+    "atonement",
+    "redemption",
+    "darkness",
+    "death-of-christ"
+  ],
+  "symbols": [
+    "cross — the instrument of atonement and the paradox of shame becoming the throne of glory",
+    "INRI inscription — Jesus of Nazareth, King of the Jews, the ironic proclamation of Christ's true kingship",
+    "darkness of the sky — the three hours of darkness over the land, creation mourning its Creator",
+    "spear held by soldier — the lance that will pierce Christ's side, releasing blood and water (John 19:34)",
+    "golden halos on Mary and John — sanctity of the faithful who remain at the foot of the cross",
+    "kneeling figure at base of cross — Mary Magdalene in grief, the repentant sinner devoted to Christ unto death",
+    "loincloth on Christ — the stripping of the King of Glory, humiliation willingly accepted"
+  ],
+  "description": "A stylized depiction of the Crucifixion against a deep black background. Christ hangs on a large wooden cross with the INRI inscription above, His body emaciated and head bowed, crowned with thorns. At left, two haloed figures stand together — a young man in gold and white, and a woman in white and blue headcovering. A figure kneels at the base of the cross in grief. At right, a Roman soldier in a blue helmet holds a spear upright, gazing at the crucified figure. Small huddled figures appear in the middle ground behind the cross.",
+  "theological_description": "This Crucifixion scene captures the climactic moment of salvation history when the Son of God offers Himself as the once-for-all sacrifice for sin. The deep darkness recalls the synoptic accounts of the three hours when darkness covered the whole land (Mark 15:33), a cosmic sign that creation itself recoiled at the death of its Maker. The presence of Mary and John at the cross fulfills the Johannine account (John 19:26-27) where Jesus entrusts them to each other, establishing the spiritual family of the Church. The Roman soldier with the spear anticipates the piercing of Christ's side (John 19:34), from which blood and water flow — understood by the Fathers as symbols of the Eucharist and Baptism, the sacraments that flow from Christ's sacrificial death. The INRI inscription, intended as mockery by Pilate, becomes in Christian theology the true proclamation of Christ's universal kingship — He reigns from the cross. As Paul declares, the cross which is folly to the perishing is the power of God to those being saved (1 Corinthians 1:18).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-19",
+      "relevance": "primary",
+      "reason": "The crucifixion at Golgotha with the INRI inscription — the core narrative depicted"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and the beloved disciple at the foot of the cross — the two haloed figures standing together"
+    },
+    {
+      "ref": "MRK.15.33",
+      "relevance": "primary",
+      "reason": "Darkness over the whole land from the sixth to ninth hour — the black sky behind the cross"
+    },
+    {
+      "ref": "JHN.19.34",
+      "relevance": "primary",
+      "reason": "The soldier pierces Christ's side with a spear — the soldier at right holds the lance"
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "typological",
+      "reason": "The word of the cross is folly to those perishing but the power of God to those being saved"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "He was pierced for our transgressions — the suffering servant prophecy fulfilled at Calvary"
+    },
+    {
+      "ref": "LUK.23.27-28",
+      "relevance": "allusion",
+      "reason": "The mourning women who follow Christ to Calvary — reflected in the grieving figures"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "sorrowful",
+    "sacred",
+    "dark"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070667",
+    "title": "The Crucifixion",
+    "artist": "Esther Newport",
+    "model": "claude-opus-4-6"
+  }
+}

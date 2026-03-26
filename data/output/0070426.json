@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Worship of the Golden Calf",
+  "tags": [
+    "golden-calf",
+    "idolatry",
+    "sinai",
+    "apostasy",
+    "revelry",
+    "divine-judgment",
+    "moses",
+    "tablets-of-law",
+    "wilderness",
+    "covenant-breaking"
+  ],
+  "symbols": [
+    "golden calf on altar — the idol fashioned from Israel's own gold, the perennial temptation to worship created things rather than the Creator",
+    "Moses descending with tablets — the divine law arriving to confront human rebellion, the collision of holiness and sin",
+    "dancing and feasting crowds — the revelry of apostasy, turning worship of God into self-indulgent excess",
+    "mountain and divine fire in background — the presence of God on Sinai, whose covenant Israel is breaking even as He speaks",
+    "reclining figures in foreground — the spiritual lassitude of those who have abandoned the true God for comfort and pleasure"
+  ],
+  "description": "A sweeping, panoramic composition showing a vast multitude of Israelites in various states of celebration, dancing, and feasting across a broad landscape. At upper left, Moses appears descending from the mountain, holding the stone tablets. At center, a golden calf stands on an elevated altar or platform, surrounded by worshippers. In the foreground, elegantly dressed figures recline and converse. The background shows tents, a mountain shrouded in cloud and fire, and numerous smaller groups engaged in revelry. The palette is rich with deep greens, golds, and warm earth tones.",
+  "theological_description": "Tintoretto's vast panoramic treatment of the golden calf episode captures one of the most theologically catastrophic moments in Israel's history. Exodus 32 records how, during Moses's forty-day absence on Sinai, Aaron fashioned a molten calf from the people's gold earrings and the people declared, 'These are your gods, O Israel, who brought you up out of the land of Egypt' (Exodus 32:4). The scene dramatizes the fundamental biblical sin: idolatry — the exchange of the glory of the immortal God for images (Romans 1:23). The simultaneity Tintoretto depicts is theologically devastating: at the very moment God is giving the covenant law on the mountain, His people are breaking the first commandment at its base. Moses's descent with the tablets foreshadows their shattering — the covenant broken before it is even delivered. The Church Fathers, particularly Origen and Gregory of Nyssa, read this as a universal parable of human inconstancy: even those who have witnessed God's greatest deliverances can fall back into idolatry when left to their own devices.",
+  "scripture_refs": [
+    {
+      "ref": "EXO.32.1-20",
+      "relevance": "primary",
+      "reason": "The full narrative of the golden calf — its making, the idolatrous feast, Moses's descent and wrath"
+    },
+    {
+      "ref": "EXO.32.4",
+      "relevance": "primary",
+      "reason": "The people's declaration 'These are your gods, O Israel' — the core act of apostasy"
+    },
+    {
+      "ref": "ROM.1.23",
+      "relevance": "typological",
+      "reason": "Paul's indictment of exchanging the glory of God for images — the golden calf as archetype of all idolatry"
+    },
+    {
+      "ref": "DEU.9.12-17",
+      "relevance": "allusion",
+      "reason": "Moses's own retrospective account of the calf incident and the breaking of the tablets"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "chaotic",
+    "decadent",
+    "dramatic",
+    "ominous"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0070426",
+    "title": "The Worship of the Golden Calf",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

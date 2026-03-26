@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Saint Paul the Hermit", "type": "PERSON"}
+  ],
+  "event": "Saint Paul the Hermit in the Desert",
+  "tags": [
+    "desert-father",
+    "hermit",
+    "asceticism",
+    "wilderness",
+    "solitude",
+    "palm-fiber-garment",
+    "elderly-saint",
+    "emaciated",
+    "prayerful-gesture",
+    "cave-dwelling"
+  ],
+  "symbols": [
+    "emaciated body — radical ascetic self-denial and mortification of the flesh",
+    "palm-leaf garment — total poverty and dependence on God's provision in the desert",
+    "outstretched hand — gesture of prayer, longing, or greeting toward the approaching Anthony",
+    "rocky cave setting — the desert hermitage as a place of encounter with God"
+  ],
+  "description": "A close-up view of an elderly, emaciated hermit shown from the waist up. His long white beard and hair frame a gaunt, weather-worn face with an intense upward gaze and open mouth as if speaking or crying out. His bony, elongated arm stretches outward to the right in a gesture of greeting or supplication. His body is extremely thin, ribs and muscles visible beneath taut skin. He wears a rough garment woven from palm fibers. The background is dark, suggesting a rocky cave or cliff face. The painting is rendered in warm, earthy tones with dramatic lighting on the saint's flesh.",
+  "theological_description": "This detail from Grunewald's Isenheim Altarpiece shows Saint Paul of Thebes (c. 227-342), traditionally regarded as the first Christian hermit. According to Jerome's Vita Pauli, Paul fled into the Egyptian desert during the Decian persecution and lived in solitude for nearly a century, sustained by a raven that brought him bread daily — an echo of Elijah fed by ravens at the brook Cherith (1 Kings 17:4-6). Paul's extreme asceticism embodies the radical renunciation Jesus demanded: 'If anyone would come after me, let him deny himself and take up his cross' (Matt 16:24). The emaciated body is not mere deprivation but a theological statement about the priority of spirit over flesh, echoing Paul the Apostle's discipline of the body (1 Cor 9:27). The desert father tradition understood physical privation as creating space for unceasing prayer and direct encounter with God.",
+  "scripture_refs": [
+    {"ref": "MAT.16.24", "relevance": "allusion", "reason": "Let him deny himself and take up his cross — the dominical command that desert asceticism literalizes"},
+    {"ref": "1KI.17.4-6", "relevance": "typological", "reason": "Ravens fed Elijah by the brook — prefigures the raven that sustained Paul the Hermit in the desert"},
+    {"ref": "1CO.9.27", "relevance": "allusion", "reason": "I discipline my body and keep it under control — the apostolic warrant for bodily asceticism"}
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "austere",
+    "intense",
+    "gaunt"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0070287",
+    "title": "St. Anthony Visiting St. Paul the Hermit",
+    "artist": "Matthias Grünewald",
+    "model": "claude-opus-4-6"
+  }
+}

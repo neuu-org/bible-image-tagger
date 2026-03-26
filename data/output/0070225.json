@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {"name": "Saint Francis of Assisi", "type": "PERSON"},
+    {"name": "Seraphic Christ", "type": "DEITY"},
+    {"name": "Companion Friar", "type": "PERSON"}
+  ],
+  "event": "The Stigmatization of Saint Francis",
+  "tags": [
+    "stigmata",
+    "saint-francis",
+    "seraph",
+    "mystical-vision",
+    "mount-la-verna",
+    "cruciform-figure",
+    "divine-wounds",
+    "franciscan",
+    "halo",
+    "mountain",
+    "chapel"
+  ],
+  "symbols": [
+    "seraphic figure with six wings — the crucified Christ appearing as a seraph, uniting divine love with suffering",
+    "rays connecting the seraph to Francis's hands — the transmission of Christ's wounds to the saint",
+    "mountain setting — Mount La Verna, the place of mystical encounter echoing Sinai and Tabor",
+    "golden halo on Francis — sainthood and divine favor",
+    "small chapel in background — the life of prayer and community from which mystical experience arises",
+    "kneeling companion friar — witness to the miraculous event and the communal context of Franciscan spirituality"
+  ],
+  "description": "Saint Francis kneels at the left on rocky ground, his face upturned and arms raised toward the sky where a luminous six-winged seraphic figure hovers in a burst of red and gold flame. Golden rays extend from the seraph's hands, feet, and side down to Francis, connecting to corresponding points on his body. Francis wears a brown Franciscan habit and bears a gold halo. Behind him to the right, a companion friar crouches near a small stone chapel, shielding himself in awe. Dark, craggy mountains fill the background beneath a golden sky.",
+  "theological_description": "The Stigmatization of Saint Francis (1224) on Mount La Verna is the foundational mystical event of Franciscan spirituality. According to Bonaventure's Legenda Major, Francis beheld a seraph in the form of the crucified Christ, and the wounds of the Passion were miraculously imprinted on his body. This event is read theologically as the most literal fulfillment of Paul's words: 'I bear on my body the marks of Jesus' (Gal 6:17). Francis's reception of the stigmata represents the culmination of imitatio Christi — conformity to the crucified Lord not only in will but in flesh. The mountain setting recalls the great theophanies of Scripture — Moses on Sinai, Elijah on Horeb, the Transfiguration on Tabor — suggesting that Francis's experience stands in the lineage of God's self-revelation on high places. The seraph bridges the gap between the angelic order of burning love and the crucified humanity of Christ.",
+  "scripture_refs": [
+    {"ref": "GAL.6.17", "relevance": "primary", "reason": "I bear on my body the marks of Jesus — the direct scriptural warrant for the stigmata tradition"},
+    {"ref": "GAL.2.20", "relevance": "allusion", "reason": "I have been crucified with Christ — the Pauline theology of identification with Christ's death that the stigmata embody"},
+    {"ref": "ISA.6.1-3", "relevance": "typological", "reason": "Isaiah's vision of the six-winged seraphim — the seraphic form of Christ's appearance to Francis"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "awe-filled",
+    "mystical"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0070225",
+    "title": "St.Francis",
+    "artist": "Gentile da Fabriano",
+    "model": "claude-opus-4-6"
+  }
+}

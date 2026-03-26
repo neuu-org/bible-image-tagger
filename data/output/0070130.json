@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Saint Thomas the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Martyrdom of Saint Thomas the Apostle",
+  "tags": [
+    "martyrdom",
+    "saint-thomas",
+    "apostle",
+    "execution",
+    "spear",
+    "persecution",
+    "faith-unto-death",
+    "early-church",
+    "mission-to-india",
+    "christian-witness",
+    "violence",
+    "fresco"
+  ],
+  "symbols": [
+    "spears and weapons raised against Thomas — the hostility of the world against the apostolic witness",
+    "Thomas's posture of acceptance — the martyr's willingness to follow Christ in suffering and death",
+    "architectural setting with columns — the temple or palace where tradition places Thomas's martyrdom",
+    "kneeling figure — submission to God's will even in the face of violent death",
+    "multiple attackers — the overwhelming force of persecution against the solitary witness of faith"
+  ],
+  "description": "A damaged fresco depicting the martyrdom of Saint Thomas the Apostle. In the center, a figure identified as Thomas stands or kneels while being attacked by several assailants wielding spears and weapons. The scene takes place within an architectural setting defined by columns and arches. One attacker lunges from the left with a weapon raised, while another figure kneels before Thomas, possibly in a gesture related to the narrative. The fresco shows significant deterioration, with portions of the upper section missing or abraded.",
+  "theological_description": "The martyrdom of Thomas follows the pattern established by Christ himself: 'If they persecuted me, they will also persecute you' (JHN.15.20). Thomas, famously known for his initial doubt of the Resurrection (JHN.20.24-29), became according to tradition one of the boldest apostles, carrying the Gospel as far as India where he was martyred by spear. His journey from doubt to death-defying faith exemplifies the transformative power of encountering the risen Christ. When Jesus appeared to him and invited him to touch his wounds, Thomas responded with the highest christological confession in the Gospels: 'My Lord and my God!' (JHN.20.28). That confession led to a life of witness that ended in martyrdom. The Acts of the Apostles records the early pattern of apostolic suffering: Stephen was stoned (ACT.7.58-60), James was killed by the sword (ACT.12.2), and Paul catalogued the persecutions endured by the apostles (2CO.11.23-27). Thomas's death by spearing echoes, in tradition, the lance that pierced Christ's side (JHN.19.34) — the very wound Thomas was invited to touch. The martyr participates in the sufferings of Christ (PHP.3.10), and his blood becomes seed for the Church's growth, as Tertullian observed. Andrea del Castagno's fresco preserves this apostolic witness in visual form.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.20.24-29",
+      "relevance": "primary",
+      "reason": "Thomas's doubt and subsequent confession — the defining episode of the apostle whose martyrdom is shown"
+    },
+    {
+      "ref": "JHN.15.20",
+      "relevance": "primary",
+      "reason": "Christ's warning that his followers would be persecuted as he was — the theological basis of apostolic martyrdom"
+    },
+    {
+      "ref": "ACT.12.2",
+      "relevance": "allusion",
+      "reason": "James killed by the sword — the pattern of apostolic martyrdom that Thomas's death continues"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "typological",
+      "reason": "Sharing in Christ's sufferings, becoming like him in his death — the martyr's participation in the Passion"
+    },
+    {
+      "ref": "JHN.19.34",
+      "relevance": "typological",
+      "reason": "The spear piercing Christ's side — tradition connects Thomas's death by spear to the wound he was invited to touch"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and receive the crown of life — the promise fulfilled in Thomas's martyrdom"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "solemn",
+    "courageous",
+    "grievous"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0070130",
+    "title": "Martyrdom of St. Thomas",
+    "artist": "Andrea del Castagno",
+    "model": "claude-opus-4-6"
+  }
+}

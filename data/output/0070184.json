@@ -1,0 +1,51 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Gabriel", "type": "ANGEL"},
+    {"name": "God the Father", "type": "DEITY"},
+    {"name": "Holy Spirit", "type": "DEITY"}
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "virgin-mary",
+    "archangel-gabriel",
+    "holy-spirit",
+    "dove",
+    "lily",
+    "incarnation",
+    "cherubim",
+    "open-book",
+    "divine-light",
+    "kneeling-angel",
+    "heavenly-glory"
+  ],
+  "symbols": [
+    "white lilies — purity of the Virgin and her perpetual virginity",
+    "dove descending — the Holy Spirit overshadowing Mary at the moment of the Incarnation",
+    "open book — Mary's prayerful meditation on Scripture, often identified with Isaiah 7:14",
+    "rays of light from heaven — divine grace and the entry of the eternal Word into the world",
+    "God the Father enthroned above — the Trinitarian dimension of the Annunciation",
+    "cherubim in clouds — the heavenly court witnessing the pivotal moment of salvation history"
+  ],
+  "description": "The Virgin Mary sits at the left beside a lectern with an open book, wearing a pink dress beneath a deep blue mantle. Before her kneels the Archangel Gabriel in an orange-gold robe with large wings, hands clasped in reverence. Between them stands a vase of white lilies. Above, a white dove descends on beams of golden light. In the upper clouds, God the Father gazes downward, flanked by cherubim and a reading angel in blue. An architectural backdrop with pale buildings is visible through the middle ground.",
+  "theological_description": "The Annunciation (Luke 1:26-38) is the decisive turning point of salvation history in which the eternal Son of God takes on human flesh in the womb of the Virgin. Gabriel's kneeling posture emphasizes that even the angelic order reverences the mystery of the Incarnation. The open book on the lectern alludes to the patristic tradition that Mary was reading Isaiah's prophecy of the virgin who would conceive (Isa 7:14) at the very moment the angel appeared. The descending dove visualizes Luke 1:35: 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you.' God the Father's presence above completes the Trinitarian theology of the scene. The lilies, a symbol of purity since the early Church Fathers, signify Mary's sinlessness and her unique role as Theotokos. The composition moves vertically from the Father through the Spirit to Mary, tracing the downward movement of grace that the Incarnation represents.",
+  "scripture_refs": [
+    {"ref": "LUK.1.26-38", "relevance": "primary", "reason": "The Annunciation narrative: Gabriel announces to Mary that she will conceive the Son of the Most High"},
+    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive — the prophecy Mary is traditionally reading at the moment of the Annunciation"},
+    {"ref": "JHN.1.14", "relevance": "allusion", "reason": "The Word became flesh — the theological reality the scene depicts"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "luminous",
+    "transcendent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070184",
+    "title": "Monastery of Nuestra Señora de la Defensión",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

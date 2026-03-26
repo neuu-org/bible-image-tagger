@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Soldiers and mockers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ Crowned with Thorns",
+  "tags": [
+    "new-testament",
+    "crown-of-thorns",
+    "passion",
+    "mocking-of-christ",
+    "humiliation",
+    "suffering-servant",
+    "kingship",
+    "soldiers",
+    "angels",
+    "ecce-homo",
+    "patience-under-suffering",
+    "seated-christ",
+    "inscription",
+    "fresco"
+  ],
+  "symbols": [
+    "crown of thorns — the mockery of Christ's kingship that paradoxically reveals His true sovereignty over all",
+    "seated Christ on elevated platform — ironic enthronement, the soldiers' mockery becoming an unwitting coronation",
+    "dark canopy or veil behind Christ — a royal baldachin, parodied by the soldiers but foreshadowing heavenly enthronement",
+    "Latin inscription above — CRUX REGIS GLORIAE, the Cross as the throne of the King of Glory",
+    "angels flanking the canopy — heavenly witnesses to Christ's suffering, the spiritual reality behind the physical humiliation",
+    "columns framing the scene — the praetorium setting and the pillars of the temple, connecting to Christ as the true temple",
+    "figures kneeling in adoration at sides — the faithful who recognize Christ's true kingship in His suffering"
+  ],
+  "description": "A wide fresco composition centered on Christ seated on a raised platform beneath a dark canopy supported by two angels. Christ wears a red robe and the crown of thorns, His hands bound or resting in His lap. A Latin inscription reads above the canopy. Soldiers and figures surround Him — some appear to mock while others kneel. At the far left and right edges, groups of robed figures stand or kneel in reverence. The scene is framed by architectural columns. Side scenes appear to depict additional narrative episodes of the Passion.",
+  "theological_description": "The Crowning with Thorns is one of the most theologically dense moments of the Passion, where mockery and reality converge. The soldiers intend to humiliate Jesus by parodying kingship (Matthew 27:28-29), yet their actions unwittingly fulfill prophecy and reveal truth: Christ is indeed the King, but His kingdom is not of this world (John 18:36). The inscription CRUX REGIS GLORIAE (Cross of the King of Glory) makes explicit what the soldiers cannot see — the crown of thorns is a true crown, the reed-scepter is true authority. This paradox stands at the heart of Christian soteriology: power made perfect in weakness (2 Corinthians 12:9). The flanking angels represent the heavenly perspective on what appears to be mere brutality. Patristic writers, especially Cyril of Alexandria, emphasized that at the very moment of Christ's deepest humiliation, His divine nature remained sovereign. The thorns themselves recall the curse of Genesis 3:18, where the ground brought forth thorns because of Adam's sin — Christ wears the curse of the Fall on His brow, taking it upon Himself to redeem creation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "primary",
+      "reason": "The soldiers strip Jesus, put a scarlet robe on Him, crown Him with thorns, and mock Him as King of the Jews"
+    },
+    {
+      "ref": "JHN.19.2-5",
+      "relevance": "primary",
+      "reason": "The soldiers crown Jesus with thorns and Pilate presents Him: Ecce Homo — the scene depicted"
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "He was despised and rejected, a man of sorrows — the suffering servant enduring humiliation"
+    },
+    {
+      "ref": "GEN.3.18",
+      "relevance": "typological",
+      "reason": "Thorns and thistles the ground shall bring forth — Christ wearing the curse of the Fall on His head"
+    },
+    {
+      "ref": "2CO.12.9",
+      "relevance": "typological",
+      "reason": "My power is made perfect in weakness — the theological paradox of the crowned-yet-mocked King"
+    },
+    {
+      "ref": "PHP.2.8-9",
+      "relevance": "allusion",
+      "reason": "He humbled Himself and God exalted Him — the descent into humiliation precedes the exaltation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "anguished",
+    "reverential"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070727",
+    "title": "Christ Crowned with Thorns",
+    "artist": "Bernardino Luini",
+    "model": "claude-opus-4-6"
+  }
+}

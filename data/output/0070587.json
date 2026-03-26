@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Lazarus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary of Bethany",
+      "type": "PERSON"
+    },
+    {
+      "name": "Martha",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourners and Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Raising of Lazarus",
+  "tags": [
+    "resurrection",
+    "lazarus",
+    "miracle",
+    "bethany",
+    "cemetery",
+    "gravestone",
+    "death-and-life",
+    "divine-power",
+    "weeping",
+    "faith"
+  ],
+  "symbols": [
+    "Christ standing over the tomb — the Lord of life commanding death to release its captive",
+    "Lazarus rising from the grave — the dead obeying the voice of the Son of God, the firstfruits of resurrection",
+    "weeping women — grief transformed into astonishment, the human experience of bereavement that Christ shares (John 11:35)",
+    "gravestones surrounding the scene — the realm of death within which Christ operates, demonstrating His sovereignty over the grave",
+    "gathering of witnesses — the community that will testify to this sign, leading many to believe (John 11:45)"
+  ],
+  "description": "Set in a churchyard or cemetery with tombstones and crosses, Christ stands at left in a brown robe, His arm extended in a commanding gesture toward the open grave. Lazarus is rising from the tomb, his body partially visible, supported by onlookers. Women kneel or crouch in grief and astonishment at the left. A crowd of men, women, and children gathers around, their faces expressing shock, wonder, and fear. The setting is a graveyard with stone monuments beneath trees in late afternoon light.",
+  "theological_description": "Eduard von Gebhardt transposes the raising of Lazarus into a northern European churchyard, a bold contextual reading that emphasizes the scene's relevance for every generation of believers. The cemetery setting — surrounded by actual graves of the dead — makes the miracle's implications visceral: Christ's power over death is not confined to first-century Bethany but extends to every grave in every age. John 11:25-26 provides the theological core: 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live.' Von Gebhardt's realistic, almost Protestant approach strips away idealization to present the raw encounter between the living God and human mortality. The weeping figures recall that Jesus Himself wept at Lazarus's tomb (John 11:35) — the shortest verse in Scripture but one of the most theologically profound, demonstrating that the God who conquers death first enters into the grief death causes. This miracle is the immediate cause of the Sanhedrin's decision to kill Jesus (John 11:47-53), making it both a revelation of life and a catalyst for the death through which eternal life would be won.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.11.38-44",
+      "relevance": "primary",
+      "reason": "The raising of Lazarus from the tomb — the specific moment depicted"
+    },
+    {
+      "ref": "JHN.11.25-26",
+      "relevance": "primary",
+      "reason": "Christ's declaration 'I am the resurrection and the life,' the theological center of the event"
+    },
+    {
+      "ref": "JHN.11.35",
+      "relevance": "primary",
+      "reason": "Jesus wept — the divine compassion reflected in the mourning figures"
+    },
+    {
+      "ref": "JHN.11.47-53",
+      "relevance": "allusion",
+      "reason": "The Sanhedrin's plot to kill Jesus following this miracle — the sign that precipitates the Passion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "grief-stricken",
+    "awe-struck",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070587",
+    "title": "The Raising of Lazarus",
+    "artist": "Eduard von Gebhardt",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Communion of the Apostles",
+  "tags": [
+    "eucharist",
+    "last-supper",
+    "communion",
+    "apostles",
+    "bread-and-wine",
+    "sacrament",
+    "institution-narrative",
+    "kneeling",
+    "outdoor-setting",
+    "sacred-meal"
+  ],
+  "symbols": [
+    "Christ distributing bread — the institution of the Eucharist, His body given for the life of the world",
+    "kneeling apostles — reverent reception of the sacrament, the posture of worshippers before the divine gift",
+    "tree and mountainous landscape — the garden setting evoking both Eden (paradise lost) and Gethsemane (paradise regained through sacrifice)",
+    "communal gathering beneath open sky — the universality of the Eucharistic gift, offered not within temple walls but for all creation"
+  ],
+  "description": "In a lush outdoor setting beneath a large tree, Christ stands distributing the sacrament to a group of apostles who kneel before Him. The scene takes place on rocky, uneven ground with a sweeping mountainous landscape visible in the background. The apostles are dressed in varied colorful robes. The composition is vertical, with the towering tree and distant peaks framing the intimate sacramental action.",
+  "theological_description": "Albrecht Altdorfer's unusual outdoor setting for the Communion of the Apostles relocates the institution of the Eucharist from the Upper Room into the broader landscape of salvation history. The scene draws upon all four institution narratives (Matthew 26:26-28, Mark 14:22-24, Luke 22:19-20, 1 Corinthians 11:23-25), showing the moment Christ gave His body and blood under the appearances of bread and wine. The kneeling posture of the apostles reflects the early Church's understanding of Eucharistic reception as an encounter with the living Christ. Altdorfer's characteristic integration of figures into a vast natural landscape suggests that the sacramental action has cosmic significance — this is not merely a meal but a new covenant sealing the redemption of all creation. The tree dominating the composition may be read typologically: the Tree of Life from Eden (Genesis 2:9) now made accessible through the Eucharistic body of Christ, who is Himself the bread of life (John 6:35).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "primary",
+      "reason": "Institution of the Eucharist — 'Take, eat; this is my body... this is my blood of the covenant'"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "primary",
+      "reason": "Paul's account of the institution narrative, the earliest written tradition of the Lord's Supper"
+    },
+    {
+      "ref": "JHN.6.35",
+      "relevance": "typological",
+      "reason": "Jesus as the bread of life — the Eucharistic theology underlying the scene"
+    },
+    {
+      "ref": "GEN.2.9",
+      "relevance": "typological",
+      "reason": "The Tree of Life in Eden, typologically echoed by the prominent tree in the composition"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "reverent",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070405",
+    "title": "Communion of the Apostles",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

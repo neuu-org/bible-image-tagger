@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Prodigal Son",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Prodigal Son Among the Swine",
+  "tags": [
+    "prodigal-son",
+    "parable",
+    "swine",
+    "destitution",
+    "repentance",
+    "livestock",
+    "shame",
+    "famine",
+    "far-country",
+    "turning-point"
+  ],
+  "symbols": [
+    "young man kneeling among animals — the degradation of sin, a Jewish son reduced to feeding unclean animals",
+    "cattle and goats surrounding him — the beasts that have become his only companions, humanity sunk below its dignity",
+    "upward gaze — the moment of repentance, 'he came to himself' (Luke 15:17), the soul turning back toward the Father",
+    "tattered clothing — the squandered inheritance, the poverty that follows the exhaustion of worldly pleasure",
+    "darkening sky — the crisis point, the nadir before the return"
+  ],
+  "description": "A young man kneels on the ground among livestock — cattle, goats, and other animals — in a dark pastoral setting. He wears a loose white shirt and yellow-brown breeches, his clothing worn and disheveled. He gazes upward with an expression of longing or supplication, his hands clasped or resting against a large cow beside him. The animals press close around him. A large tree overhangs the scene against a dramatic sky. The palette is dominated by dark browns and earth tones with the man's white shirt providing the central highlight.",
+  "theological_description": "Salvator Rosa depicts the nadir of the prodigal son's journey — the moment described in Luke 15:15-17 when the younger son, having squandered his inheritance in dissolute living, is reduced to feeding pigs (here rendered as cattle and goats, perhaps avoiding the unclean animal for compositional reasons). For a Jewish audience, tending swine was the ultimate degradation — contact with ritually unclean animals signifying complete alienation from God and community. The crucial theological moment is captured in the young man's upward gaze, corresponding to Luke 15:17: 'But when he came to himself, he said, How many of my father's hired servants have bread enough and to spare, and I perish here with hunger!' This 'coming to himself' is the biblical anatomy of repentance — not merely regret but a reorientation of the entire person toward the Father. The Church Fathers, especially Ambrose and Augustine, read this parable as the universal story of the human soul: created in the Father's house, wandering into the 'far country' of sin, and finding its way home through the grace that both prompts repentance and rushes to meet the returning sinner.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.15.11-32",
+      "relevance": "primary",
+      "reason": "The full parable of the prodigal son, the overarching narrative"
+    },
+    {
+      "ref": "LUK.15.15-17",
+      "relevance": "primary",
+      "reason": "The prodigal son reduced to feeding swine and coming to himself — the specific moment depicted"
+    },
+    {
+      "ref": "ISA.55.7",
+      "relevance": "typological",
+      "reason": "Let the wicked forsake his way and return to the Lord — the prophetic call to repentance embodied here"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "desolate",
+    "penitent",
+    "melancholic",
+    "hopeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070592",
+    "title": "The Prodigal Son",
+    "artist": "Salvator Rosa",
+    "model": "claude-opus-4-6"
+  }
+}

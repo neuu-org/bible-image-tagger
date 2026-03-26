@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young Saint John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Holy Family with Infant Saint John",
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "christ-child",
+    "young-john-baptist",
+    "madonna-and-child",
+    "incarnation",
+    "maternal-love",
+    "devotional",
+    "infant-embrace",
+    "angel-attendant"
+  ],
+  "symbols": [
+    "Virgin Mary's dominant presence — the Theotokos encompassing and protecting the Incarnate Word",
+    "Christ Child embracing the young Baptist — the Savior and His forerunner united in infancy, grace recognizing its herald",
+    "Mary's blue mantle — heavenly queenship and divine favor, the traditional color of the Theotokos",
+    "red garment beneath — Mary's humanity and the blood of the Passion she will witness",
+    "angel or companion child — heavenly presence attending the mystery of the Incarnation"
+  ],
+  "description": "A close-up devotional composition dominated by the monumental figure of the Virgin Mary, who gazes down tenderly with half-closed eyes. She wears a deep blue mantle over a red garment. The Christ Child, seen in the lower portion, embraces or plays with another young child — likely the infant Saint John the Baptist. A third child's face is visible to the right. The background shows a faint architectural cityscape. The figures are rendered with soft modeling and warm flesh tones, the composition tightly cropped for maximum intimacy.",
+  "theological_description": "Filippino Lippi's Sacra Famiglia presents the theology of the Incarnation through the lens of maternal intimacy. The Virgin Mary's encompassing presence visually enacts the doctrine of the Theotokos — she who bore God in her womb now shelters Him in her arms. The embrace between the Christ Child and the young John the Baptist is a motif rooted in Luke 1:41-44, where the unborn John leaped in Elizabeth's womb at Mary's greeting — an event the tradition extended into imagined childhood encounters. This meeting of the two infants condenses the relationship between prophecy and fulfillment: John is the voice, Christ is the Word; John is the lamp, Christ is the light (John 5:35). The tight, almost suffocating closeness of the composition communicates a profound theological truth: in the Incarnation, God did not keep His distance but entered fully into the texture of human family life — the warm flesh, the embraces, the vulnerability of childhood. As Athanasius wrote, 'He became what we are so that we might become what He is.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The unborn John leaping at Mary's greeting — the foundational encounter between the two children"
+    },
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth and infancy of Christ, the temporal setting of the devotional image"
+    },
+    {
+      "ref": "JHN.5.35",
+      "relevance": "allusion",
+      "reason": "John as a burning and shining lamp — the forerunner embracing the Light of the World"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "God sent His Son, born of a woman — the Incarnation embodied in this maternal scene"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "warm",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070609",
+    "title": "Sacra Famiglia",
+    "artist": "Filippino Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

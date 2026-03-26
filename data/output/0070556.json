@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Temple Guards and Soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Arrest of Christ in the Garden of Gethsemane",
+  "tags": [
+    "arrest-of-christ",
+    "gethsemane",
+    "passion",
+    "betrayal",
+    "judas-kiss",
+    "torchlight",
+    "night-scene",
+    "soldiers",
+    "captivity",
+    "surrender"
+  ],
+  "symbols": [
+    "white-robed Christ amid darkness — the Light of the World surrounded and seized by the powers of darkness",
+    "torches and lanterns — the artificial light that the forces of evil need because they cannot bear the true light",
+    "Judas pressing close to Christ — the intimate betrayal, the kiss that weaponizes love",
+    "encircling armed figures — the worldly power that believes it can contain the divine",
+    "deep surrounding blackness — the 'hour and the power of darkness' (Luke 22:53)"
+  ],
+  "description": "A dramatically dark composition in an arched format. Christ stands at center in a luminous white robe, His face visible in three-quarter profile, rendered with loose, expressive brushstrokes. A figure leans close to Him — likely Judas. Around them, soldiers and guards press in from all sides, their forms barely distinguishable in the deep darkness. Torches and lanterns cast flickering golden-yellow light that catches armor, faces, and weapons. The overwhelming darkness swallows the edges of the scene, concentrating all attention on Christ's illuminated figure.",
+  "theological_description": "Goya's visceral rendering of the arrest in Gethsemane strips the scene to its essential theological drama: light versus darkness. John 18:3-12 records that Judas came with lanterns, torches, and weapons — a detail Goya makes the visual core of the composition. The irony is profound: they bring artificial light to seize Him who declared 'I am the light of the world' (John 8:12). Christ's luminous white garment makes Him the sole source of true radiance in the painting, visually enacting John 1:5: 'The light shines in the darkness, and the darkness has not overcome it.' The moment depicted fulfills Jesus's own words: 'This is your hour, and the power of darkness' (Luke 22:53). Yet even in captivity, Christ retains sovereign dignity — John's Gospel emphasizes that He stepped forward and identified Himself ('I am he'), causing the soldiers to fall back (John 18:6). Goya's rough, almost violent brushwork communicates the raw physicality of the arrest while preserving the theological paradox: the one being seized is the one who holds all things together.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.18.1-12",
+      "relevance": "primary",
+      "reason": "John's account of the arrest in the garden, including lanterns, torches, and Jesus's sovereign 'I am he'"
+    },
+    {
+      "ref": "MAT.26.47-56",
+      "relevance": "primary",
+      "reason": "Matthew's account of Judas's betrayal and the arrest"
+    },
+    {
+      "ref": "LUK.22.53",
+      "relevance": "primary",
+      "reason": "'This is your hour, and the power of darkness' — the theological darkness dominating the composition"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "typological",
+      "reason": "The light shines in the darkness — Christ's radiance amid the surrounding night"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "menacing",
+    "anguished",
+    "dark",
+    "tense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070556",
+    "title": "The Arrest of Christ",
+    "artist": "Francisco Goya",
+    "model": "claude-opus-4-6"
+  }
+}

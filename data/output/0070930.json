@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Lazarus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples and Mourners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Raising of Lazarus",
+  "tags": [
+    "christianity",
+    "jesus-christ",
+    "lazarus",
+    "resurrection",
+    "miracle",
+    "raising-the-dead",
+    "grave-clothes",
+    "divine-power",
+    "faith",
+    "death-conquered"
+  ],
+  "symbols": [
+    "Lazarus emerging from death in grave wrappings — the power of Christ over death, prefiguring his own resurrection",
+    "Christ's commanding gesture — divine authority over life and death, the Word that calls the dead to life",
+    "crowd's mixed reactions of awe and fear — the response of humanity before the miraculous, belief and unbelief",
+    "tomb or burial setting — the realm of death that Christ invades and overcomes"
+  ],
+  "description": "A large dramatic composition showing a crowd of figures gathered around a central scene. On the left, a figure in robes raises his arm in a commanding gesture toward the right side of the canvas. At the right, a gaunt, pale, nearly naked man — Lazarus — sits or reclines, his emaciated body partially wrapped in white burial cloths, his face showing the shock of returning to life. Between them, a dense crowd of men and women press forward with expressions of astonishment, some shielding their faces, others reaching out or gesturing.",
+  "theological_description": "The raising of Lazarus (John 11:1-44) is the climactic sign in the Fourth Gospel, the seventh and greatest miracle that precipitates Jesus' own death. Christ's declaration 'I am the resurrection and the life' (John 11:25) is not merely a future promise but a present reality demonstrated in the calling forth of Lazarus from the tomb. The four days of death emphasize that this is no mere resuscitation but a reversal of genuine decomposition — Martha protests 'Lord, by this time there is a stench' (11:39). Church Fathers saw in Lazarus a type of all humanity bound by sin and death, whom only the voice of Christ can liberate. Augustine interpreted the grave wrappings as the bonds of sin that must be loosed by the community ('Unbind him and let him go'). This miracle is the immediate cause of the Jewish authorities' decision to kill Jesus (11:53), making it the paradox at the heart of the Gospel: the one who gives life is condemned to death for giving it.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.11.1-44",
+      "relevance": "primary",
+      "reason": "The complete narrative of Jesus raising Lazarus from the dead after four days"
+    },
+    {
+      "ref": "JHN.11.25-26",
+      "relevance": "primary",
+      "reason": "'I am the resurrection and the life' — Christ's self-revelation as conqueror of death"
+    },
+    {
+      "ref": "ROM.6.4-5",
+      "relevance": "typological",
+      "reason": "Baptized into Christ's death to walk in newness of life — Lazarus as type of spiritual resurrection"
+    },
+    {
+      "ref": "EZK.37.1-14",
+      "relevance": "typological",
+      "reason": "The valley of dry bones brought to life by God's breath — the Old Testament type of resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "awe-struck",
+    "powerful",
+    "tense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070930",
+    "title": "The Raising of Lazarus",
+    "artist": "Mattia Preti",
+    "model": "claude-opus-4-6"
+  }
+}

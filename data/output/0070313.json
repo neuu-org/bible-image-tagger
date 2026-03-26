@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Tobias", "type": "PERSON"},
+    {"name": "Tobit", "type": "PERSON"},
+    {"name": "Hannah", "type": "PERSON"}
+  ],
+  "event": "Tobias's Farewell to His Parents",
+  "tags": [
+    "tobias",
+    "tobit",
+    "farewell",
+    "departure",
+    "filial-piety",
+    "blessing",
+    "elderly-parents",
+    "domestic-interior",
+    "journey",
+    "deuterocanonical"
+  ],
+  "symbols": [
+    "departing figure at the door — the journey into the unknown, trusting in divine providence",
+    "elderly parents at the table — parental anxiety and the letting go of a beloved child",
+    "dim domestic interior — the humble home of Tobit, a righteous man afflicted by blindness",
+    "table with simple vessels — the modest circumstances of the faithful family in exile"
+  ],
+  "description": "A somber, dimly lit domestic interior. At the right, a young man stands near the doorway in a richly ornamented robe, turning back toward the room as if taking his leave. At the left, two or three older figures are gathered around a table covered with a cloth, one of them leaning forward with an expression of concern or emotion. The room is dark with warm golden light falling from the left onto the table and figures. The walls are plain, the furnishings modest. A dark animal shape, possibly a dog, is visible near the young man's feet. The atmosphere is deeply intimate and emotionally charged.",
+  "theological_description": "The Book of Tobit (deuterocanonical/apocryphal) tells of young Tobias sent by his blind father Tobit on a perilous journey to recover a family debt. This farewell scene (Tobit 5:17-22) captures the pathos of parental love and the theme of divine providence that pervades the narrative. Hannah weeps for her departing son, but Tobit reassures her: 'A good angel will accompany him; his journey will be successful' (Tob 5:22). Unknown to the family, the archangel Raphael will indeed guide Tobias. The story is a wisdom narrative about faithfulness in exile, the reward of righteous suffering, and God's hidden care for His people. Its themes parallel the Patriarchal narratives — Abraham sending servants on journeys, Jacob's departures — and anticipate the parable of the Prodigal Son in its concern with departure, danger, and return. The domestic intimacy of the farewell emphasizes that the arena of faith is often the ordinary household.",
+  "scripture_refs": [
+    {"ref": "TOB.5.17-22", "relevance": "primary", "reason": "The farewell scene where Tobias departs and Hannah weeps while Tobit promises a guardian angel"},
+    {"ref": "PSA.91.11", "relevance": "allusion", "reason": "He will command his angels concerning you to guard you in all your ways — the angelic protection Tobit trusts"},
+    {"ref": "GEN.24.7", "relevance": "typological", "reason": "Abraham assures his servant that God will send His angel before him — pattern of divinely guided journeys"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "melancholic",
+    "tender",
+    "anxious"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0070313",
+    "title": "Tobias's Farewell to his Parents",
+    "artist": "Samuel Dirksz van Hoogstraten",
+    "model": "claude-opus-4-6"
+  }
+}

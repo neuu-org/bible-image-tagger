@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "Pietà",
+  "tags": [
+    "pieta",
+    "lamentation",
+    "dead-christ",
+    "virgin-mary",
+    "passion",
+    "maternal-grief",
+    "crucifixion-aftermath",
+    "deposition",
+    "suffering",
+    "compassion"
+  ],
+  "symbols": [
+    "dead body of Christ on Mary's lap — the Mater Dolorosa bearing the weight of humanity's sin in her Son's lifeless form",
+    "dark blue-green mantle of Mary — sorrow and the depth of maternal grief",
+    "Christ's bare torso with visible wounds — the physical cost of the atoning sacrifice",
+    "dark landscape — the cosmic darkness that fell at the crucifixion (Luke 23:44-45)",
+    "intimate closeness of mother and son — the human tenderness within the divine drama of redemption"
+  ],
+  "description": "The dead Christ slumps in the arms of the Virgin Mary in a dark, intimate composition. Christ's nude upper body is powerfully modeled, his head fallen to the left with closed eyes and gaunt features. Mary, wearing a dark blue-green mantle and head covering, supports him from behind, her face close to his, her expression one of profound sorrow. The background is nearly black with faint suggestions of a hilly landscape and distant trees. The lighting dramatically illuminates Christ's pale flesh against the surrounding darkness.",
+  "theological_description": "The Pietà — the Virgin cradling the dead Christ — is among the most theologically dense images in Christian art. It depicts the moment between the Deposition and the Entombment, when Mary holds the body she once held as an infant, completing a tragic arc from Bethlehem to Calvary. The scene has no single Gospel text but draws from the prophecy of Simeon: 'A sword will pierce through your own soul also' (Luke 2:35). Medieval theologians developed the theology of Mary's compassio — her suffering alongside Christ that, while not redemptive in itself, united her uniquely to the Passion. The dramatic chiaroscuro emphasizes the theological darkness of Holy Saturday, the liminal space between death and resurrection. Christ's broken body is the Suffering Servant of Isaiah 53, 'wounded for our transgressions,' while Mary embodies the Church mourning its Lord before the dawn of Easter. The intimate scale invites the viewer into contemplative identification with the grief of Good Friday.",
+  "scripture_refs": [
+    {"ref": "LUK.2.35", "relevance": "primary", "reason": "A sword will pierce your own soul — Simeon's prophecy of Mary's suffering fulfilled at the Pietà"},
+    {"ref": "ISA.53.3-5", "relevance": "primary", "reason": "A man of sorrows, acquainted with grief, wounded for our transgressions"},
+    {"ref": "JHN.19.38-40", "relevance": "primary", "reason": "The removal of Christ's body from the cross — the narrative context of the Pietà moment"},
+    {"ref": "LUK.23.44-45", "relevance": "allusion", "reason": "Darkness fell over the whole land — the cosmic darkness mirrored in the painting's somber palette"}
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief-stricken",
+    "somber",
+    "tender",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070254",
+    "title": "Pietà",
+    "artist": "Il Sodoma",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "nativity",
+    "wise-men",
+    "three-kings",
+    "gold-frankincense-myrrh",
+    "kneeling-king",
+    "infant-christ",
+    "virgin-mother",
+    "gentile-worship",
+    "gifts",
+    "divine-kingship",
+    "revelation-to-nations",
+    "bethlehem"
+  ],
+  "symbols": [
+    "elderly king kneeling — the wisdom and wealth of the world bowing before the infant God",
+    "gifts in golden vessels — gold for kingship, frankincense for priesthood, myrrh for burial",
+    "Virgin Mary holding the Child centrally — the Theotokos as throne of the incarnate Word",
+    "richly attired Magi — the Gentile nations bringing their treasures to Israel's Messiah",
+    "dark stable setting — the humility of the Incarnation, God entering the world in poverty",
+    "crowned king in red at right — royalty in service, the fulfillment of Psalm 72's prophecy of kings bearing gifts"
+  ],
+  "description": "A panel painting depicting the Adoration of the Magi in Gerard David's characteristic Flemish style. The Virgin Mary sits centrally in dark robes and white head covering, holding the Infant Jesus on her lap. An elderly Magus kneels before them, having laid down his crown, and presents a golden vessel. A second king stands behind offering a golden globe-shaped gift. At the right, a third king in a red robe and crown holds a golden censer or container. Behind the main figures, attendants and onlookers crowd the scene, some wearing turbans and elaborate headwear.",
+  "theological_description": "Gerard David's Adoration of the Magi presents the Epiphany — the manifestation of Christ to the Gentile world. The Magi, guided by the star to Bethlehem, find not a palace but a stable, and not a warrior-king but a helpless infant. Their act of kneeling and presenting gifts is an act of worship that recognizes in this child the fulfillment of Israel's messianic hopes and the hope of all nations. Matthew records that they 'fell down and worshiped him' and 'offered him gifts, gold and frankincense and myrrh' (MAT.2.11). The elderly king who has removed his crown enacts the theological truth that all earthly authority must bow before the authority of God incarnate — 'at the name of Jesus every knee should bow' (PHP.2.10). The three kings traditionally represent the three ages of man and the three known continents, signifying the universality of Christ's redemption. The prophecy of Isaiah is fulfilled: 'Nations shall come to your light, and kings to the brightness of your rising' (ISA.60.3). The humble stable setting declares the pattern of the Gospel: God's glory revealed in lowliness, divine power manifested in weakness (2CO.12.9). David's painting, with its rich Flemish detail and dignified composition, gives visual weight to the moment when heaven and earth meet in the person of the Christ Child — when the wisdom of the East recognizes what Jerusalem's own rulers could not see.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Magi's journey to Bethlehem, their worship of the child, and the presentation of gifts"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations coming to the light, kings bringing gold and frankincense — prophetic fulfillment in the Epiphany"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish and the islands bringing tribute, all kings bowing before the Messiah"
+    },
+    {
+      "ref": "PHP.2.10-11",
+      "relevance": "typological",
+      "reason": "Every knee bowing at the name of Jesus — enacted by the kneeling Magi"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "allusion",
+      "reason": "The ruler of Israel coming from Bethlehem — the destination of the Magi's journey"
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "A star shall come out of Jacob — Balaam's prophecy traditionally linked to the star of Bethlehem"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "majestic",
+    "devotional",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070152",
+    "title": "The Adoration of the Magi",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

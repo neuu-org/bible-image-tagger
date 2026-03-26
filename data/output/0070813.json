@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints and Martyrs",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ Glorified in the Court of Heaven (Last Judgment predella)",
+  "tags": [
+    "christianity",
+    "jesus-christ",
+    "last-judgment",
+    "saints",
+    "angels",
+    "heavenly-court",
+    "resurrection",
+    "glory",
+    "predella",
+    "communion-of-saints",
+    "golden-light",
+    "celestial-hierarchy"
+  ],
+  "symbols": [
+    "Christ at center with resurrection banner — triumphant victory over death and sin, the risen Lord presiding over all the redeemed",
+    "golden background — divine glory, the uncreated light of heaven",
+    "multitude of saints in varied garments — the communion of saints from every age gathered before the throne",
+    "angels flanking Christ — the heavenly host attending the glorified Savior",
+    "cross-bearing banner — the sign of Christ's passion transformed into a standard of triumph"
+  ],
+  "description": "An extremely wide horizontal panel showing Christ standing at the center holding a cross-staff with a banner, surrounded by a vast golden-lit assembly. To his left and right, hundreds of figures in varied colored robes — saints, apostles, martyrs, monks, bishops, and angels — are arranged in densely packed groups across five distinct sections. Angels with golden wings hover near the top. The figures gaze toward or gesture reverently at the central Christ figure. The gold ground bathes the entire scene in warm celestial light.",
+  "theological_description": "This predella represents the eschatological vision of Christ glorified among the communion of saints — the Church Triumphant assembled in heaven. Drawing on Revelation 7:9 ('a great multitude that no one could count, from every nation'), it depicts the fulfillment of salvation history when all the redeemed stand before the Lamb. Christ holds the resurrection banner, echoing the Christus Victor theology central to patristic soteriology. The arrangement of saints by vocation — apostles, martyrs, confessors, virgins, religious — reflects the medieval understanding of heavenly hierarchy as articulated in Pseudo-Dionysius and Dante's Paradiso. The gold ground is not mere decoration but a theological statement: heaven as a realm of uncreated divine light, the beatific vision made visible. This is the telos of Christian hope — the gathering described in Hebrews 12:22-23, the 'assembly of the firstborn enrolled in heaven.'",
+  "scripture_refs": [
+    {
+      "ref": "REV.7.9-10",
+      "relevance": "primary",
+      "reason": "The great multitude from every nation standing before the throne of the Lamb"
+    },
+    {
+      "ref": "HEB.12.22-23",
+      "relevance": "primary",
+      "reason": "The assembly of the firstborn enrolled in heaven, the spirits of the righteous made perfect"
+    },
+    {
+      "ref": "MAT.25.31-34",
+      "relevance": "typological",
+      "reason": "The Son of Man coming in glory with all his angels, the blessed inheriting the kingdom"
+    },
+    {
+      "ref": "REV.21.23-24",
+      "relevance": "allusion",
+      "reason": "The glory of God as the light of the heavenly city, needing no sun"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "glorious",
+    "triumphant",
+    "reverent",
+    "celestial"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0070813",
+    "title": "Predella of the San Domenico Altarpiece",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

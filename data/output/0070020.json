@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {"name": "Saint Jerome", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "The Vision of Saint Jerome",
+  "tags": [
+    "saint-jerome",
+    "angel-with-trumpet",
+    "vision",
+    "last-judgment",
+    "penitent-saint",
+    "wilderness-hermit",
+    "divine-awakening",
+    "trumpet-blast",
+    "church-father",
+    "repentance",
+    "mortality",
+    "heavenly-messenger",
+    "asceticism"
+  ],
+  "symbols": [
+    "angel blowing trumpet — the trumpet of the Last Judgment, the eschatological call to account",
+    "Jerome's nearly naked body — ascetic renunciation, penitence, and human frailty before God",
+    "dark wilderness setting — the desert of spiritual trial and contemplation",
+    "red drapery — the cardinal's dignity Jerome renounced for the desert, and the blood of martyrdom",
+    "Jerome's startled posture — the soul awakened from spiritual slumber by the call of God",
+    "books and writing materials — Jerome as translator of Scripture (the Vulgate), the Word of God"
+  ],
+  "description": "An angel descends from the upper left, wings spread wide, blowing a golden trumpet directly toward the figure of Saint Jerome below. Jerome lies nearly nude on the ground, draped partially in a red cloth, his aged muscular body recoiling in surprise and awe. His arms are flung outward in a gesture of shock. The scene is set in a dark, rocky landscape with a sliver of blue sky visible through storm clouds. The dramatic diagonal composition emphasizes the heavenly irruption into the earthly realm.",
+  "theological_description": "Guercino's painting captures the legendary vision in which Jerome, while living as a hermit in the desert near Bethlehem, heard the trumpet of the Last Judgment. This vision became a defining moment of his spiritual life, reinforcing his commitment to penitence and the study of Scripture. The angel's trumpet directly evokes the eschatological trumpet blasts of Revelation and Paul's letters: 'For the trumpet will sound, and the dead will be raised imperishable' (1CO.15.52). Jerome's startled awakening parallels the prophetic call experiences throughout Scripture — Isaiah's vision of the Lord (ISA.6.1-5), Ezekiel's overwhelming encounter with the divine glory (EZK.1.28). As the translator of the Vulgate Bible, Jerome's entire life was dedicated to making God's Word accessible, and his desert asceticism embodied the call to 'deny himself and take up his cross' (MAT.16.24). The red cloth recalls both his cardinal status and the blood of the martyrs, while his exposed flesh speaks to the radical vulnerability of the human person before the judgment seat of God. The Church Fathers understood the Last Trumpet as both terrifying and liberating — the moment when all pretense is stripped away and the soul stands naked before its Creator.",
+  "scripture_refs": [
+    {"ref": "1CO.15.52", "relevance": "primary", "reason": "The last trumpet at which the dead are raised — the very vision Jerome experiences"},
+    {"ref": "1TH.4.16", "relevance": "primary", "reason": "The Lord descending with the sound of the trumpet of God — the eschatological event depicted"},
+    {"ref": "REV.8.2", "relevance": "typological", "reason": "The seven angels with seven trumpets — the angelic trumpet call of judgment"},
+    {"ref": "ISA.6.1-5", "relevance": "allusion", "reason": "Isaiah's overwhelming vision of divine holiness — paralleled in Jerome's terrified response"},
+    {"ref": "MAT.16.24", "relevance": "allusion", "reason": "The call to deny oneself and take up the cross — Jerome's ascetic life in the desert"},
+    {"ref": "MAT.24.31", "relevance": "typological", "reason": "The Son of Man sending angels with a great trumpet to gather the elect"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "awe", "terror", "sublime"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0070020",
+    "title": "The Vision of St Jerome",
+    "artist": "Guercino",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "passover",
+    "institution-of-communion",
+    "twelve-apostles",
+    "betrayal",
+    "bread-and-wine",
+    "table-fellowship",
+    "holy-thursday",
+    "new-covenant"
+  ],
+  "symbols": [
+    "bread on the table — the body of Christ given for the life of the world, the Eucharistic bread",
+    "wine vessels — the blood of the new covenant poured out for the forgiveness of sins",
+    "long communal table — the unity of the apostolic fellowship and the Church gathered around Christ",
+    "Judas's position — the betrayer among the faithful, the mystery of iniquity within the inner circle",
+    "large copper basin in foreground — anticipation of the foot-washing and the theme of service"
+  ],
+  "description": "Christ sits at the center of a long table covered with a white cloth, surrounded by the twelve apostles in a horizontal composition. He is shown in a moment of animated discourse, his right hand raised. The apostles are arranged along and around the table, many gesturing expressively — some lean in, some turn to one another in discussion, some appear troubled. The table holds bread, plates, and drinking vessels. A large copper basin sits prominently in the lower foreground. The setting is a vaulted interior space with warm, muted tones.",
+  "theological_description": "The Last Supper (Matt 26:17-30; Mark 14:12-26; Luke 22:7-23; John 13) is the foundational event of Christian worship, the moment when Christ transforms the Passover meal into the Eucharist. 'This is my body, given for you; do this in remembrance of me' (Luke 22:19). The institution of the Lord's Supper creates the New Covenant in Christ's blood, fulfilling Jeremiah's prophecy (Jer 31:31-34). The twelve gathered around the table represent both the reconstituted twelve tribes of Israel and the nucleus of the Church. The dramatic tension of the scene includes Jesus's announcement that one of the Twelve will betray him (Matt 26:21), introducing the mystery of Judas's treachery into the most sacred of meals. The copper basin in the foreground anticipates John's account of the foot-washing (John 13:4-15), in which Christ demonstrates that the Eucharistic life is inseparable from humble service. The Supper is simultaneously a Passover remembrance, a New Covenant institution, and an anticipation of the eschatological banquet (Matt 26:29).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist — this is my body given for you, this cup is the new covenant in my blood"
+    },
+    {
+      "ref": "MAT.26.20-25",
+      "relevance": "primary",
+      "reason": "Jesus announces the betrayal at the table — one of you will betray me"
+    },
+    {
+      "ref": "JHN.13.4-15",
+      "relevance": "allusion",
+      "reason": "The foot-washing at the Last Supper — anticipated by the basin in the foreground"
+    },
+    {
+      "ref": "JER.31.31-34",
+      "relevance": "typological",
+      "reason": "The new covenant prophesied by Jeremiah, fulfilled in the Eucharistic blood of Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "tense",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070311",
+    "title": "The Last Supper",
+    "artist": "Jacopo Bassano",
+    "model": "claude-opus-4-6"
+  }
+}

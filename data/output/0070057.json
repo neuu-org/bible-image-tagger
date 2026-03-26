@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "nativity",
+    "wise-men",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "infant-christ",
+    "kneeling-worship",
+    "star-of-bethlehem",
+    "gentile-nations",
+    "divine-kingship",
+    "incarnation",
+    "revelation-to-nations"
+  ],
+  "symbols": [
+    "richly robed Magi — the nations of the earth coming to worship the King of Kings",
+    "gifts offered to the Child — gold for kingship, frankincense for divinity, myrrh for sacrificial death",
+    "infant Christ as focal light source — the Light of the World, the divine radiance of the Incarnation",
+    "kneeling posture of the Magi — Gentile recognition of Christ's sovereignty",
+    "dark background with luminous center — light shining in the darkness, the Incarnation as revelation"
+  ],
+  "description": "A densely textured, richly colored painting depicting the Adoration of the Magi. The scene is rendered in Monticelli's characteristic thick impasto style, with jewel-like colors emerging from a dark ground. At the left center, the Virgin Mary holds the luminous Infant Christ, who serves as the painting's light source. Richly dressed Magi approach from the right, their opulent red and gold garments catching the light. The figures are more suggested than precisely defined, dissolved into fields of glowing color.",
+  "theological_description": "The Adoration of the Magi, celebrated liturgically as Epiphany, marks the revelation of Christ to the Gentile nations. Matthew records that wise men from the East followed a star to Bethlehem, where they fell down and worshiped the child, offering gifts of gold, frankincense, and myrrh (MAT.2.1-12). The Fathers interpreted these gifts christologically: gold acknowledges Christ's kingship, frankincense his divinity, and myrrh prophetically anticipates his burial. The Magi's journey fulfills Isaiah's prophecy: 'Nations shall come to your light, and kings to the brightness of your rising... they shall bring gold and frankincense' (ISA.60.3-6). Monticelli's rendering, with the infant Christ as the source of light in surrounding darkness, visually embodies John's prologue: 'The light shines in the darkness, and the darkness has not overcome it' (JHN.1.5). The kneeling of these foreign dignitaries before a humble infant enacts the great reversal that pervades the Gospel — the mighty brought low and the lowly exalted (LUK.1.52). The psalmist foresaw this moment: 'May the kings of Tarshish and of the coastlands render him tribute; may the kings of Sheba and Seba bring gifts' (PSA.72.10). In the Magi, the universality of Christ's saving mission is declared from the very beginning of his earthly life.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Magi following the star to Bethlehem, worshiping the child, and presenting gifts of gold, frankincense, and myrrh"
+    },
+    {
+      "ref": "ISA.60.3-6",
+      "relevance": "typological",
+      "reason": "Nations coming to the light, kings bringing gold and frankincense — prophetic fulfillment in the Magi's visit"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish, Sheba, and Seba bringing gifts and bowing down — the Magi as fulfillment"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "The light shining in the darkness — the luminous Christ Child radiating against the dark composition"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "allusion",
+      "reason": "God bringing down the mighty and exalting the humble — kings kneeling before an infant in poverty"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "mysterious",
+    "reverent",
+    "luminous",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070057",
+    "title": "The Adoration of the Magi",
+    "artist": "Adolphe Joseph Thomas Monticelli",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Kindred",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Holy Family with Extended Kindred",
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "christ-child",
+    "infant-jesus",
+    "sacred-kinship",
+    "cherubim",
+    "devotional",
+    "maternal-tenderness",
+    "family",
+    "incarnation"
+  ],
+  "symbols": [
+    "Christ Child at center — the Incarnate Word as the focal point around whom all of salvation history revolves",
+    "Virgin Mary in red and blue — her dual nature as earthly mother (red) and heavenly queen (blue)",
+    "encircling family members — the Holy Kindred tradition, the human lineage chosen by God for the Incarnation",
+    "cherubim above — heavenly witnesses to the mystery of the Word made flesh",
+    "elderly woman — likely Saint Anne, the matriarchal line through which divine promise was transmitted"
+  ],
+  "description": "A dense, warm-toned composition presents the Holy Family surrounded by numerous figures. The Virgin Mary sits at center-left in a red garment, holding or presenting the nude Christ Child, who is the focal point of the composition. An elderly woman, likely Saint Anne, reaches toward the Child from the right. Saint Joseph stands behind Mary. Multiple figures of varying ages press close, gazing at the infant. Above, several winged cherubim emerge from golden-brown clouds.",
+  "theological_description": "Francisco Herrera's crowded Holy Family belongs to the 'Sacra Conversazione' and 'Holy Kindred' (Heilige Sippe) tradition that emphasizes the genealogical matrix chosen by God for the Incarnation. The extended family gathered around the Christ Child visually enacts Matthew's genealogy (Matthew 1:1-17) and Luke's (Luke 3:23-38) — the human lineage through which the eternal Son entered history. The cherubim above signal that this domestic scene is simultaneously a theophany: heaven bows to witness the mystery that angels desire to look into (1 Peter 1:12). Saint Anne's presence recalls the apocryphal but theologically significant tradition of Mary's own miraculous conception, a chain of divine interventions preparing for the supreme intervention of the Incarnation. The sheer density of human figures around one small infant communicates the patristic insight that in Christ, all human kinship is gathered up and redeemed — He assumed the fullness of human nature so that nothing human would be alien to His saving work.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.1-17",
+      "relevance": "primary",
+      "reason": "The genealogy of Jesus Christ through the royal Davidic line, visually embodied by the extended family"
+    },
+    {
+      "ref": "LUK.2.39-40",
+      "relevance": "primary",
+      "reason": "The early life of the Holy Family in Nazareth, the child growing in wisdom"
+    },
+    {
+      "ref": "GAL.4.4-5",
+      "relevance": "typological",
+      "reason": "God sent His Son, born of a woman, born under the law — the theological meaning of the Incarnation within a human family"
+    },
+    {
+      "ref": "1PE.1.12",
+      "relevance": "allusion",
+      "reason": "Things into which angels long to look — the cherubim above gazing upon the mystery of the Incarnation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "warm",
+    "devotional",
+    "intimate",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070389",
+    "title": "The Holy Family",
+    "artist": "Francisco Herrera",
+    "model": "claude-opus-4-6"
+  }
+}

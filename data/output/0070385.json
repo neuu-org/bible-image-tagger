@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Lazarus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary of Bethany",
+      "type": "PERSON"
+    },
+    {
+      "name": "Martha",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples and Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Raising of Lazarus",
+  "tags": [
+    "resurrection",
+    "miracle",
+    "lazarus",
+    "bethany",
+    "death-and-life",
+    "divine-power",
+    "grief",
+    "faith",
+    "graveclothes",
+    "crowd-witness"
+  ],
+  "symbols": [
+    "outstretched hand of Christ — the divine command that conquers death, the word that calls the dead to life",
+    "bound figure of Lazarus — humanity enslaved by death, awaiting liberation by the Savior",
+    "kneeling woman — faith and supplication before Christ, the posture of intercession",
+    "recoiling onlookers — the awe and fear that accompany the manifestation of divine power over death",
+    "open tomb area — the threshold between death and life, foreshadowing Christ's own empty tomb"
+  ],
+  "description": "A large crowd surrounds Christ, who stands at center-left wearing a pale pink robe and blue mantle, His right hand raised in a commanding gesture toward Lazarus. Lazarus, partially wrapped in burial cloths, is supported by attendants at center-right, his body limp and pale. A woman in a golden-yellow dress kneels at Christ's feet. Other figures react with astonishment, some covering their noses. A sweeping landscape with classical ruins and green hills unfolds in the background under a clouded sky.",
+  "theological_description": "Sebastiano del Piombo's monumental rendering of the raising of Lazarus presents the supreme sign (semeion) of Jesus' ministry in the Fourth Gospel — the seventh and greatest miracle that precipitates the plot to kill Him. John 11:25 provides the theological core: 'I am the resurrection and the life.' The scene captures the precise moment of Jesus' authoritative command, 'Lazarus, come forth!' (John 11:43). The kneeling woman — likely Mary of Bethany — embodies the faith that Christ demanded of Martha: 'Did I not tell you that if you believed you would see the glory of God?' (John 11:40). Patristic exegesis, especially Augustine and Cyril of Alexandria, understood this miracle as a proleptic sign of the general resurrection and as Christ's demonstration that He possessed the same life-giving power as the Father (John 5:21). The recoiling crowd, some covering their faces from the stench, anchors the narrative realism of Lazarus being four days dead — making the miracle unmistakable. Typologically, the unbinding of Lazarus prefigures the ultimate liberation from death accomplished at Easter.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.11.1-44",
+      "relevance": "primary",
+      "reason": "The full narrative of the raising of Lazarus at Bethany, the central event depicted"
+    },
+    {
+      "ref": "JHN.11.25-26",
+      "relevance": "primary",
+      "reason": "Christ's declaration 'I am the resurrection and the life,' the theological heart of the scene"
+    },
+    {
+      "ref": "JHN.5.21",
+      "relevance": "typological",
+      "reason": "The Son gives life to whom He wills, as the Father raises the dead — demonstrated visually here"
+    },
+    {
+      "ref": "EZK.37.1-14",
+      "relevance": "typological",
+      "reason": "Ezekiel's valley of dry bones — God's sovereign power to raise the dead, typologically fulfilled in Lazarus"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe",
+    "dramatic",
+    "reverent",
+    "tense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070385",
+    "title": "The Raising of Lazarus",
+    "artist": "Sebastiano del Piombo",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Joseph of Arimathea", "type": "PERSON"},
+    {"name": "Nicodemus", "type": "PERSON"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Mourning Women", "type": "GROUP"}
+  ],
+  "event": "The Entombment of Christ",
+  "tags": [
+    "entombment",
+    "burial-of-christ",
+    "passion",
+    "rock-hewn-tomb",
+    "mourning",
+    "grief",
+    "burial-shroud",
+    "golgotha",
+    "stone-sarcophagus",
+    "lamentation",
+    "death-of-christ",
+    "atonement",
+    "sacrificial-death",
+    "holy-saturday"
+  ],
+  "symbols": [
+    "stone sarcophagus — the rock-hewn tomb of Joseph of Arimathea, the threshold between death and Resurrection",
+    "rocky cave entrance — the womb of the earth receiving the body of Christ, from which he will be born again",
+    "linen wrappings — the burial cloths that will be found empty at the Resurrection",
+    "mourning figures gathered around the body — the Church in grief, the community of faith at the darkest hour",
+    "mountainous barren landscape — Golgotha and the desolation of the Crucifixion site",
+    "crosses visible in the distance — the instruments of execution now emptied of their victim"
+  ],
+  "description": "An engraving depicting the entombment of Christ in a rocky cave setting. Several figures carefully lower or arrange the body of Christ into a stone sarcophagus set within a cave-like opening in a craggy mountainside. The body of Christ lies horizontally, attended by multiple figures including men carrying him and women kneeling in grief. The landscape is stark and mountainous, with bare trees on rocky outcrops. Additional figures stand at the right edge of the composition, watching the burial. The style is detailed line work characteristic of Renaissance engraving.",
+  "theological_description": "Mantegna's Entombment captures the pivotal moment when Christ's body is laid in the tomb of Joseph of Arimathea, fulfilling Isaiah's prophecy that the Servant would be 'with a rich man in his death' (ISA.53.9). This is the hinge between Good Friday and Easter — the descent into the silence of Holy Saturday. The rock-hewn tomb becomes theologically significant: just as Jonah was three days in the belly of the great fish, so the Son of Man would be three days in the heart of the earth (MAT.12.40). The gathered mourners represent the faithful remnant — those who did not abandon Christ even in death. Joseph of Arimathea's act of burying Christ was itself an act of courage and piety, as he was a member of the Sanhedrin who dissented from the condemnation (LUK.23.50-51). Nicodemus, who first came to Jesus by night (JHN.3.1-2), now comes publicly to anoint the body with myrrh and aloes (JHN.19.39), his faith having moved from secrecy to open confession. The cave-tomb in patristic reading prefigures the baptismal font — the believer descends into death with Christ and rises to new life (ROM.6.4). The barren landscape surrounding the tomb will soon give way to the garden of the Resurrection, the new Eden.",
+  "scripture_refs": [
+    {"ref": "JHN.19.38-42", "relevance": "primary", "reason": "The burial of Jesus by Joseph of Arimathea and Nicodemus in a new tomb in a garden"},
+    {"ref": "MAT.27.57-60", "relevance": "primary", "reason": "Joseph of Arimathea wrapping the body in clean linen and placing it in his own new tomb"},
+    {"ref": "ISA.53.9", "relevance": "typological", "reason": "The Suffering Servant assigned a grave with the wicked but with a rich man in his death"},
+    {"ref": "MAT.12.40", "relevance": "typological", "reason": "The sign of Jonah — three days in the earth prefiguring Christ's burial and resurrection"},
+    {"ref": "ROM.6.4", "relevance": "typological", "reason": "Buried with Christ through baptism into death — the tomb as font of new life"},
+    {"ref": "LUK.23.50-53", "relevance": "primary", "reason": "Joseph as righteous council member who did not consent to the death, taking the body for burial"},
+    {"ref": "JHN.3.1-2", "relevance": "allusion", "reason": "Nicodemus who came by night — his journey from secrecy to public devotion at the burial"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "solemnity", "reverence", "desolation"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070026",
+    "title": "The Entombment",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

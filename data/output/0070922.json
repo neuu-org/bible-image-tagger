@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Saint Catherine of Alexandria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioner",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Martyrdom of Saint Catherine of Alexandria",
+  "tags": [
+    "christianity",
+    "martyrdom",
+    "saint-catherine",
+    "execution",
+    "divine-light",
+    "faith-under-persecution",
+    "female-saint",
+    "nudity",
+    "sword",
+    "broken-wheel"
+  ],
+  "symbols": [
+    "beam of divine light from above — God's presence and approval at the moment of martyrdom, heavenly intervention",
+    "executioner with raised arm — the instrument of earthly persecution, the violence of the state against the faithful",
+    "Catherine's exposed and vulnerable body — the stripping away of earthly dignity revealing spiritual purity and courage",
+    "broken wheel fragments — the traditional attribute of Catherine, whose torture wheel was miraculously destroyed by God"
+  ],
+  "description": "A dramatic scene showing a nearly nude young woman with pale skin standing at the center, her body illuminated by a strong beam of light from the upper left. She stands upright with a calm expression amid violent chaos. To the left, a muscular figure raises an arm or weapon above his head, poised to strike. Behind and around them, other figures recoil or fall back in the darkness. Fragments of what appear to be a broken wooden wheel or mechanism are scattered in the lower portion.",
+  "theological_description": "The martyrdom of Saint Catherine of Alexandria (traditionally dated to c. 305 AD) became one of the most celebrated hagiographic narratives in medieval Christianity. According to tradition, the spiked wheel prepared for her torture was shattered by divine intervention, after which she was beheaded. The divine light streaming onto Catherine at the moment of death reflects the theology of martyrdom articulated by early Church Fathers: the martyr participates in Christ's own suffering and death (Philippians 3:10), and their faithfulness unto death earns the crown of life (Revelation 2:10). The breaking of the wheel demonstrates God's sovereignty over persecution — the instruments of torture cannot prevail against the one whom God protects. Catherine's calm amid violence echoes Stephen's vision of heaven opened during his stoning (Acts 7:55-56), the archetype of Christian martyrdom.",
+  "scripture_refs": [
+    {
+      "ref": "REV.2.10",
+      "relevance": "primary",
+      "reason": "'Be faithful unto death, and I will give you the crown of life' — the promise to martyrs"
+    },
+    {
+      "ref": "ACT.7.55-56",
+      "relevance": "typological",
+      "reason": "Stephen seeing the heavens opened during martyrdom — the archetype of divine comfort at death"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "allusion",
+      "reason": "Sharing in Christ's sufferings, becoming like him in death — the theology of martyrdom"
+    },
+    {
+      "ref": "ROM.8.35-37",
+      "relevance": "allusion",
+      "reason": "Neither persecution nor sword can separate from the love of Christ — the martyr's confidence"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "violent",
+    "luminous",
+    "defiant"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0070922",
+    "title": "Martyrdom of St Catherine",
+    "artist": "Francesco Ribalta",
+    "model": "claude-opus-4-6"
+  }
+}

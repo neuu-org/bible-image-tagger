@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony",
+      "type": "PERSON"
+    },
+    {
+      "name": "Demons",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Temptation of Saint Anthony",
+  "tags": [
+    "christianity",
+    "temptation",
+    "saint-anthony",
+    "demons",
+    "spiritual-warfare",
+    "desert-fathers",
+    "grotesque-creatures",
+    "torment",
+    "monastic-asceticism",
+    "nocturnal-scene"
+  ],
+  "symbols": [
+    "monstrous hybrid creatures — demons manifesting as grotesque forms to assault the saint, the visible embodiment of spiritual evil",
+    "isolated saint amid chaos — the solitary ascetic standing firm against diabolical assault through faith and prayer",
+    "dark nocturnal landscape — the spiritual darkness through which the faithful must persevere",
+    "ruined structures — the collapse of worldly order when confronted by demonic forces"
+  ],
+  "description": "A tall arched panel showing a chaotic nocturnal scene. In the lower portion, a robed figure in white kneels or crouches on the ground, surrounded and assailed by a crowd of grotesque creatures — hybrid beings with animal heads, misshapen bodies, and monstrous limbs. Some pull at the saint, others crowd around menacingly. In the middle ground, more figures and bizarre structures are visible, including what appears to be a makeshift shelter. A large rocky hill or cliff dominates the right background. The sky is dark with a faint moon or light source.",
+  "theological_description": "The Temptation of Saint Anthony, drawn from Athanasius's Life of Anthony, became a paradigmatic narrative of spiritual warfare in Christian tradition. Anthony's withdrawal into the Egyptian desert (c. 270 AD) and his resistance to demonic assault established the template for monastic asceticism. The demons' attacks — physical, psychological, and spiritual — reflect Ephesians 6:12: 'we wrestle not against flesh and blood, but against principalities and powers.' Anthony's perseverance prefigures Christ's own temptation in the wilderness (Matthew 4:1-11). The Church Fathers saw in Anthony's struggle the universal Christian battle against sin: the desert strips away all comfort, forcing radical dependence on God alone. Bosch's grotesque imagery visualizes the patristic teaching that evil, lacking creative power, can only distort and parody God's creation.",
+  "scripture_refs": [
+    {
+      "ref": "EPH.6.11-12",
+      "relevance": "primary",
+      "reason": "The armor of God against principalities and powers — the theological framework for Anthony's demonic combat"
+    },
+    {
+      "ref": "MAT.4.1-11",
+      "relevance": "typological",
+      "reason": "Christ's temptation in the wilderness, the archetype of all Christian resistance to evil"
+    },
+    {
+      "ref": "1PE.5.8-9",
+      "relevance": "allusion",
+      "reason": "The devil prowling like a roaring lion — the active malice of evil against the faithful"
+    },
+    {
+      "ref": "JAS.4.7",
+      "relevance": "allusion",
+      "reason": "'Resist the devil and he will flee from you' — the promise Anthony embodies"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "terrifying",
+    "chaotic",
+    "dark",
+    "anguished"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0070866",
+    "title": "Triptych of Temptation of St Anthony",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Bishop",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Royal Gates of an Iconostasis",
+  "tags": [
+    "iconostasis",
+    "royal-gates",
+    "eastern-orthodox",
+    "liturgical-art",
+    "gold-vine",
+    "tree-of-life",
+    "sacred-portal",
+    "icon",
+    "eucharistic-gateway",
+    "church-furnishing"
+  ],
+  "symbols": [
+    "golden vine and grape motif covering the gates — Christ as the True Vine (John 15:1), the Eucharistic wine, and the fruitfulness of the Church",
+    "royal gates as threshold — the boundary between the nave (earthly realm) and the sanctuary (heavenly realm), opened only for the Eucharistic procession",
+    "roundels with icons above — Christ, the Theotokos, and saints presiding over the passage between heaven and earth",
+    "bishop figure on side panel — the apostolic ministry that guards and mediates the sacramental mysteries",
+    "crimson curtain behind the vine — the veil of the Temple, the royal blood of Christ, the mystery partially hidden and partially revealed"
+  ],
+  "description": "An ornate pair of gilded royal gates from a Ukrainian iconostasis. The gates are covered in elaborate golden metalwork depicting intertwining vines, grapes, and foliage against a deep crimson background. Above the gates, a pointed arch contains small painted roundels showing Christ, the Virgin Mary, and scenes of the Annunciation. On the left side panel, an icon of a bishop saint in full vestments is visible. The entire structure is richly gilded with intricate carved and hammered decoration.",
+  "theological_description": "Ivan Rutkovych's royal gates from the Zhovkva iconostasis embody the Eastern Orthodox theology of liturgical space. The royal gates (tsarski vrata) are the central doors of the iconostasis through which only ordained clergy pass during the Divine Liturgy, bearing the Eucharistic gifts. Their theological significance is rooted in the understanding that the iconostasis is not merely a screen but an icon of the boundary between the visible and invisible Church — the communion of saints depicted in icons who mediate between the worshipper and the heavenly altar. The dominant vine motif directly visualizes Christ's words in John 15:1-5: 'I am the true vine.' In Orthodox sacramental theology, this vine is simultaneously Christological (He is the vine), Eucharistic (the wine becomes His blood), and ecclesiological (the branches are the faithful). The Annunciation roundels above are traditional for royal gates, signifying that Mary's 'yes' opened the gate between heaven and earth — the same gate the priest opens when he carries the consecrated gifts through these doors.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.15.1-5",
+      "relevance": "primary",
+      "reason": "Christ as the True Vine — the central decorative motif of the gates directly illustrates this passage"
+    },
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation, depicted in the roundels above the gates, the event that opened the way between heaven and earth"
+    },
+    {
+      "ref": "HEB.10.19-20",
+      "relevance": "typological",
+      "reason": "Entrance into the holy places through the curtain, that is, Christ's flesh — the theological meaning of passing through the royal gates"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "sacred",
+    "resplendent",
+    "mysterious"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0070445",
+    "title": "Royal Gates of the Zhovkva iconostasis",
+    "artist": "Ivan Rutkovych",
+    "model": "claude-opus-4-6"
+  }
+}

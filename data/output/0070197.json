@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Salome",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioner",
+      "type": "PERSON"
+    },
+    {
+      "name": "Herodias",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Salome with the Head of John the Baptist",
+  "tags": [
+    "beheading",
+    "salome",
+    "john-the-baptist",
+    "martyrdom",
+    "severed-head",
+    "platter",
+    "herodias",
+    "executioner",
+    "prophetic-witness",
+    "moral-corruption"
+  ],
+  "symbols": [
+    "severed head — the cost of prophetic truth-telling and the martyrdom of the forerunner of Christ",
+    "platter or cloth — the grotesque trophy demanded by Herodias through Salome, sign of worldly power abused",
+    "muscular executioner — brute force wielded at the command of corrupt authority",
+    "jeweled headdresses on the women — worldly vanity and the seductions of Herod's court"
+  ],
+  "description": "Three figures cluster around the severed head of John the Baptist in a dark, tightly cropped composition. At left, a bare-chested muscular executioner grips the head by its hair, presenting it forward. In the center, a young woman in a white headcovering and pale garment gazes downward at the head with a calm, detached expression. To the right, a second richly dressed woman in blue with a jeweled headband reaches toward the head with a white cloth. The Baptist's face is ashen, eyes closed, mouth slightly open, beard matted.",
+  "theological_description": "The beheading of John the Baptist (Mark 6:17-29; Matt 14:3-12) stands as the paradigmatic martyrdom of the one whom Christ called the greatest born of women (Matt 11:11). John was imprisoned for denouncing the unlawful marriage of Herod Antipas to Herodias, his brother's wife. Salome's dance and her mother's vengeful request for the prophet's head reveal how worldly lust and political cowardice conspire to silence God's voice. The Baptist's death prefigures Christ's own Passion: both are innocent men handed over by weak rulers to satisfy the crowd. Patristic commentators saw in John's beheading a completion of his role as Forerunner — he precedes Christ even into death. The women's composed faces amid the horror underline the moral numbness that accompanies sin entrenched in power.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.17-29",
+      "relevance": "primary",
+      "reason": "The account of Herodias's grudge, Salome's dance, and the beheading of John the Baptist"
+    },
+    {
+      "ref": "MAT.14.3-12",
+      "relevance": "primary",
+      "reason": "Parallel account of John's imprisonment and execution by Herod"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Jesus declares John the greatest born of women, underscoring the magnitude of his martyrdom"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "macabre",
+    "somber",
+    "unsettling"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070197",
+    "title": "Salome with the Head of Saint John the Baptist",
+    "artist": "Onorio Marinari",
+    "model": "claude-opus-4-6"
+  }
+}

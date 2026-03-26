@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Nativity of Christ",
+  "tags": [
+    "christianity",
+    "holy-family",
+    "nativity",
+    "infant-jesus",
+    "virgin-mary",
+    "joseph",
+    "angels",
+    "manger",
+    "divine-light",
+    "incarnation",
+    "heavenly-glory",
+    "night-scene"
+  ],
+  "symbols": [
+    "radiant concentric rings of light in the sky — the glory of God announcing the birth, the heavenly realm breaking into the earthly",
+    "infant lying on the ground or in Mary's lap — the humility of the Incarnation, God choosing lowliness",
+    "ruined architecture — the old order (the Old Covenant, pagan world) collapsing to make way for the new dispensation",
+    "nocturnal setting with supernatural illumination — Christ as the Light of the World born into darkness",
+    "angels descending — the heavenly host praising God at the birth, 'Glory to God in the highest'"
+  ],
+  "description": "A nocturnal scene set amid crumbling architectural ruins. In the left foreground, a man in a green robe kneels beside a woman in dark clothing who cradles a small, luminous infant in her arms. Concentric rings of golden-white light radiate from the dark sky above, casting a supernatural glow over the scene. Small angelic figures hover in the upper portion near the light source. To the right, the ruins of a grand building with arches and columns extend into the background, where additional small figures and a reddish fire or glow are visible.",
+  "theological_description": "The Nativity is the moment when 'the Word became flesh and dwelt among us' (John 1:14). The concentric celestial light represents the Shekinah glory — God's visible presence — now manifested not in the Temple but over a humble birthplace, fulfilling the angel's announcement in Luke 2:9-11. The ruined architecture is a long-standing iconographic tradition signifying the collapse of the pagan world and the Old Covenant's completion in Christ. Gregory the Great and other Fathers interpreted the manger and lowly setting as the kenosis of Philippians 2:7 — God emptying himself into the most vulnerable form. The darkness pierced by divine light fulfills Isaiah 9:2: 'The people who walked in darkness have seen a great light.' Altdorfer's mystical treatment emphasizes the cosmic significance: this is not merely a birth but the axis point of all history, the intersection of eternity with time.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-14",
+      "relevance": "primary",
+      "reason": "The birth of Jesus in humble circumstances with the angelic announcement of glory"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the theological heart of the Nativity"
+    },
+    {
+      "ref": "ISA.9.2",
+      "relevance": "typological",
+      "reason": "The people walking in darkness seeing a great light — fulfilled in Christ's birth into the night"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "allusion",
+      "reason": "Christ's self-emptying, taking human form in utter humility"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "mystical",
+    "reverent",
+    "luminous",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070901",
+    "title": "Nativity",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

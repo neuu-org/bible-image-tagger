@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ Child",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Souls in Purgatory",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Virgin interceding for souls in Purgatory",
+  "tags": [
+    "virgin-mary",
+    "christ-child",
+    "purgatory",
+    "intercession",
+    "angels",
+    "cherubim",
+    "souls",
+    "clouds",
+    "heavenly-glory",
+    "marian-intercession",
+    "suffering",
+    "purification",
+    "mercy",
+    "maternal-compassion"
+  ],
+  "symbols": [
+    "Virgin enthroned on clouds — Mary's exalted status as Queen of Heaven and mediatrix of grace",
+    "Christ Child in Mary's arms — the source of all mercy held by the one who intercedes for humanity",
+    "suffering souls below — the faithful departed undergoing purification before entering glory",
+    "outstretched arms of souls — desperate plea for mercy and release from purgatorial suffering",
+    "cherubim surrounding throne — the heavenly court attending the celestial intercession",
+    "golden light from above — divine glory and the promise of heaven that awaits the purified souls",
+    "clouds separating upper and lower registers — the boundary between heavenly beatitude and purgatorial suffering"
+  ],
+  "description": "A tall vertical composition divided into two registers. In the upper portion, the Virgin Mary sits enthroned on clouds wearing a deep blue mantle over a red dress, holding the Christ Child on her lap. Cherubim and small angels surround them in golden heavenly light. In the lower portion, several nude and semi-clothed figures writhe in distress, their arms raised upward in supplication. Their anguished faces and reaching hands express desperate pleading toward the Virgin above. The composition moves from suffering darkness below to radiant celestial glory above.",
+  "theological_description": "This altarpiece presents the Catholic doctrine of purgatorial purification and Marian intercession. The souls in the lower register undergo the painful but hopeful process of purification described in Catholic theology, rooted in passages like 1 Corinthians 3:13-15, where each person's work is tested by fire. Unlike the damned, these souls are destined for heaven — their suffering is temporal, not eternal. The Virgin Mary, enthroned above with the Christ Child, serves as intercessor and advocate. Her role as mediatrix draws from the tradition of her intercession at the wedding of Cana (John 2:3-5), where she brought human need before her Son. The vertical composition embodies the movement from purgation to glory. The cherubim indicate the heavenly court's attention to this drama of mercy. 2 Maccabees 12:46 provides the deuterocanonical foundation: it is holy and wholesome to pray for the dead that they may be loosed from sins.",
+  "scripture_refs": [
+    {
+      "ref": "1CO.3.13-15",
+      "relevance": "primary",
+      "reason": "Each person's work tested by fire — the theological basis for purification after death"
+    },
+    {
+      "ref": "JHN.2.3-5",
+      "relevance": "typological",
+      "reason": "Mary's intercession at Cana prefigures her ongoing intercessory role for suffering souls"
+    },
+    {
+      "ref": "LUK.1.46-49",
+      "relevance": "allusion",
+      "reason": "The Magnificat — Mary's exaltation by God, reflected in her heavenly enthronement"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun — the glorified Mary in heavenly splendor"
+    },
+    {
+      "ref": "MAT.12.32",
+      "relevance": "allusion",
+      "reason": "Jesus speaks of sins forgiven in the age to come — patristic basis for post-mortem purification"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "anguished",
+    "hopeful",
+    "majestic",
+    "compassionate"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0070655",
+    "title": "Virgin and Child with Souls in Purgatory",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

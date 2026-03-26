@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    },
+    {
+      "name": "Brazen Serpent",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Moses and the Brazen Serpent",
+  "tags": [
+    "brazen-serpent",
+    "moses",
+    "wilderness",
+    "plague-of-serpents",
+    "healing",
+    "fiery-serpents",
+    "bronze-snake",
+    "divine-judgment",
+    "divine-mercy",
+    "typology-of-cross",
+    "look-and-live",
+    "salvation",
+    "suffering-crowd",
+    "raised-on-pole"
+  ],
+  "symbols": [
+    "bronze serpent raised on a pole — prefiguration of Christ lifted up on the cross for the salvation of the world",
+    "suffering Israelites bitten by serpents — humanity afflicted by sin and death, crying out for deliverance",
+    "upward gaze of the people toward the serpent — the act of faith that brings healing, looking to Christ crucified",
+    "Moses standing beside the pole — the mediator of the old covenant pointing to the greater Mediator",
+    "dark stormy sky — divine judgment and the terrifying consequences of sin and rebellion",
+    "dead and dying figures — the wages of sin is death, the devastation wrought by disobedience"
+  ],
+  "description": "A dramatic Baroque painting depicting the episode of the brazen serpent in the wilderness. At the center-left, a bronze serpent is raised high on a wooden cross-like pole, with Moses standing beside it in flowing blue robes, gesturing toward the serpent. Below and around the pole, a mass of Israelites writhes in agony — men, women, and children bitten by venomous serpents, some dying, some reaching upward toward the bronze serpent in desperate hope. The composition is turbulent, with bodies twisted in pain across the foreground.",
+  "theological_description": "This episode from Numbers 21 is one of the most theologically significant typological scenes in the Old Testament because Christ himself explicitly identified it as a prefiguration of his crucifixion: 'As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life' (JHN.3.14-15). The narrative recounts how the Israelites, punished for their complaining against God and Moses with a plague of venomous serpents, were offered healing through a paradoxical means: a bronze serpent raised on a pole (NUM.21.4-9). Those who looked upon it in faith were healed. The paradox is deliberate — the image of the very thing that afflicts them becomes the instrument of their salvation, just as Christ, who knew no sin, was made sin for us (2CO.5.21) and bore the curse of the law on the tree (GAL.3.13). The pole prefigures the cross; the upward look of faith prefigures saving belief in the crucified Christ. Giordano's turbulent composition captures both the horror of divine judgment and the desperate hope of salvation. The Fathers uniformly read this passage christologically: the serpent of brass is Christ on the cross, the poison is sin, and the gaze of faith is the Gospel call to 'look and live' (ISA.45.22).",
+  "scripture_refs": [
+    {
+      "ref": "NUM.21.4-9",
+      "relevance": "primary",
+      "reason": "The Israelites bitten by serpents and healed by looking at the bronze serpent Moses raised on a pole"
+    },
+    {
+      "ref": "JHN.3.14-15",
+      "relevance": "primary",
+      "reason": "Christ's own typological interpretation: as Moses lifted the serpent, so must the Son of Man be lifted up"
+    },
+    {
+      "ref": "2CO.5.21",
+      "relevance": "typological",
+      "reason": "God made him who had no sin to be sin for us — the paradox of the serpent-form as healing instrument"
+    },
+    {
+      "ref": "GAL.3.13",
+      "relevance": "typological",
+      "reason": "Christ becoming a curse for us on the tree — the bronze serpent on the pole as prefiguration of the cross"
+    },
+    {
+      "ref": "ISA.45.22",
+      "relevance": "allusion",
+      "reason": "Look to me and be saved, all the ends of the earth — the act of faithful looking that brings salvation"
+    },
+    {
+      "ref": "1CO.10.9-10",
+      "relevance": "allusion",
+      "reason": "Paul's warning against testing Christ as the Israelites tested God and were destroyed by serpents"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "anguished",
+    "desperate",
+    "hopeful"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0070150",
+    "title": "Moses and the Brazen Serpent",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

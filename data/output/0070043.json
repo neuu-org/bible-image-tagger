@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joshua",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Moses and Joshua Before the Ark of the Covenant in the Tabernacle",
+  "tags": [
+    "moses",
+    "joshua",
+    "ark-of-the-covenant",
+    "tabernacle",
+    "cherubim",
+    "high-priest-breastplate",
+    "kneeling-in-prayer",
+    "holy-of-holies",
+    "divine-presence",
+    "covenant",
+    "mercy-seat",
+    "worship",
+    "priestly-garments",
+    "golden-ark"
+  ],
+  "symbols": [
+    "Ark of the Covenant with golden cherubim — the throne of God's presence on earth, the mercy seat where God meets his people",
+    "two cherubim facing each other — the angelic guardians of God's holiness, recalling the cherubim at Eden's gate",
+    "breastplate with twelve stones on Joshua — the twelve tribes of Israel, the priestly intercession for all God's people",
+    "striped curtains of the Tabernacle — the portable sanctuary of the wilderness, God dwelling among his pilgrim people",
+    "kneeling posture of both figures — submission to divine authority and the posture of prayer and worship",
+    "Moses and Joshua together — the passing of leadership from lawgiver to conqueror, continuity of divine mission"
+  ],
+  "description": "Two figures kneel before the Ark of the Covenant inside the Tabernacle. The Ark, a golden rectangular chest topped with two winged cherubim facing each other, sits on an elevated platform. The figure on the right wears a priestly breastplate with colorful stones and elaborate robes, while the figure on the left wears simpler but richly decorated garments. Both men kneel with arms raised in prayer and supplication. Behind them, the Tabernacle is defined by striped curtains in red, blue, and white, with ornamental tassels.",
+  "theological_description": "Tissot depicts the moment described in Deuteronomy when Moses and Joshua present themselves in the Tabernacle before the Ark of the Covenant, where God's glory appeared in a pillar of cloud (DEU.31.14-15). This is a scene of profound theological transition: Moses, the lawgiver who led Israel out of Egypt, is commissioning Joshua to lead the people into the Promised Land. The Ark of the Covenant, containing the tablets of the Law, Aaron's rod, and a jar of manna (HEB.9.4), represents the fullness of God's covenant relationship with Israel. The mercy seat between the cherubim is where God promised to meet with Moses and speak with him (EXO.25.22). The cherubim recall the guardians placed at the gate of Eden (GEN.3.24), suggesting that the Tabernacle is a symbolic re-entry into God's presence lost at the Fall. The priestly breastplate with its twelve stones (EXO.28.15-21) represents the twelve tribes borne on the heart of the priest before God — a prefiguration of Christ the great High Priest who carries his people on his heart in perpetual intercession (HEB.7.25). Moses and Joshua kneeling together embody the continuity of God's faithfulness: the mission does not depend on one man but on the God who calls, equips, and sends.",
+  "scripture_refs": [
+    {
+      "ref": "DEU.31.14-15",
+      "relevance": "primary",
+      "reason": "God commanding Moses and Joshua to present themselves at the Tabernacle where the pillar of cloud appeared"
+    },
+    {
+      "ref": "EXO.25.22",
+      "relevance": "primary",
+      "reason": "God promising to meet with Moses above the mercy seat between the two cherubim on the Ark"
+    },
+    {
+      "ref": "EXO.25.10-22",
+      "relevance": "primary",
+      "reason": "The construction specifications for the Ark of the Covenant depicted in the painting"
+    },
+    {
+      "ref": "EXO.28.15-21",
+      "relevance": "primary",
+      "reason": "The priestly breastplate with twelve stones representing the twelve tribes of Israel"
+    },
+    {
+      "ref": "HEB.9.4",
+      "relevance": "typological",
+      "reason": "The contents of the Ark — golden jar of manna, Aaron's rod, tablets of the covenant"
+    },
+    {
+      "ref": "GEN.3.24",
+      "relevance": "typological",
+      "reason": "Cherubim guarding Eden — the Ark's cherubim as symbolic re-entry into God's presence"
+    },
+    {
+      "ref": "HEB.7.25",
+      "relevance": "typological",
+      "reason": "Christ as eternal High Priest interceding — prefigured by the priestly mediation at the Ark"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "solemn",
+    "sacred",
+    "awe"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0070043",
+    "title": "Moses and Joshua In the Tabernacle",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

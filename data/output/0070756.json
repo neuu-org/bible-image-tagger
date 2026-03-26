@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    },
+    {
+      "name": "Egyptian army",
+      "type": "GROUP"
+    },
+    {
+      "name": "God",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Crossing of the Red Sea",
+  "tags": [
+    "old-testament",
+    "red-sea",
+    "exodus",
+    "moses",
+    "deliverance",
+    "egyptians",
+    "drowning",
+    "divine-intervention",
+    "salvation",
+    "liberation",
+    "horses",
+    "chariots",
+    "chaos",
+    "miracle",
+    "baptism-typology"
+  ],
+  "symbols": [
+    "parted waters — God's sovereign power over creation exercised for the salvation of His people",
+    "drowning Egyptian army — divine judgment upon the oppressors, the destruction of those who pursue God's people",
+    "Moses with outstretched arm — the human instrument through whom God's power is channeled",
+    "horses and chariots overwhelmed — the military might of the world's greatest empire rendered impotent before God",
+    "Israelites on dry ground — the saved remnant passing through judgment unharmed, a type of baptism"
+  ],
+  "description": "A wide, dramatic panoramic composition depicting the crossing of the Red Sea. At left, a large crowd of Israelites presses forward in tumult, some with arms raised in fear or praise. In the dark turbulent center, the waters crash together as Egyptian soldiers, horses, and chariots are engulfed. Figures struggle in the churning sea. At right, mounted Egyptian soldiers on horseback attempt to pursue but are overwhelmed by the returning waters. The scene is rendered in dark, dramatic tones with flashes of lighter color on the figures.",
+  "theological_description": "The crossing of the Red Sea is the foundational salvation event of the Old Testament — the moment when God definitively delivers Israel from bondage and destroys the power that enslaved them. Exodus 14:21-28 recounts how Moses stretched out his hand and the Lord drove the sea back, creating dry ground for Israel to cross, then returned the waters upon the pursuing Egyptians. This event becomes the paradigm for all subsequent divine deliverance throughout Scripture. In the Song of Moses (Exodus 15), Israel celebrates God as a warrior who has hurled horse and rider into the sea. Paul explicitly interprets the Red Sea crossing as a type of baptism: 'Our fathers were all baptized into Moses in the cloud and in the sea' (1 Corinthians 10:1-2). Just as Israel passed through the waters from slavery to freedom, the baptized pass through water from death to life. The Church Fathers consistently read this passage christologically: the Passover lamb's blood and the Red Sea crossing together prefigure Christ's sacrifice and the baptismal passage into the Church.",
+  "scripture_refs": [
+    {
+      "ref": "EXO.14.21-28",
+      "relevance": "primary",
+      "reason": "Moses parts the Red Sea, Israel crosses on dry ground, and the Egyptian army is destroyed — the scene depicted"
+    },
+    {
+      "ref": "EXO.15.1-4",
+      "relevance": "primary",
+      "reason": "The Song of Moses: horse and rider He has thrown into the sea — the triumphant celebration of deliverance"
+    },
+    {
+      "ref": "1CO.10.1-2",
+      "relevance": "typological",
+      "reason": "Our fathers were all baptized into Moses in the cloud and the sea — the Red Sea as type of baptism"
+    },
+    {
+      "ref": "ISA.43.16-17",
+      "relevance": "typological",
+      "reason": "The Lord who makes a way in the sea — prophetic remembrance of the Exodus as pattern for future salvation"
+    },
+    {
+      "ref": "HEB.11.29",
+      "relevance": "allusion",
+      "reason": "By faith the people crossed the Red Sea as on dry land — the Exodus as an act of faith"
+    },
+    {
+      "ref": "PSA.106.9-11",
+      "relevance": "allusion",
+      "reason": "He rebuked the Red Sea and it became dry — the psalmist's recollection of God's mighty act"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "chaotic",
+    "terrifying",
+    "triumphant"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0070756",
+    "title": "Red Sea Passage",
+    "artist": "Palma il Giovane",
+    "model": "claude-opus-4-6"
+  }
+}

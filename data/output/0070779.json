@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel Gabriel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "new-testament",
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "incarnation",
+    "divine-message",
+    "fiat",
+    "study-drawing",
+    "kneeling",
+    "humility",
+    "obedience",
+    "gesture"
+  ],
+  "symbols": [
+    "kneeling or seated posture of Mary — humility and receptivity to God's will, the handmaid of the Lord",
+    "angel approaching from above — the divine initiative descending from heaven to earth",
+    "Mary's crossed arms or hands at breast — the gesture of acceptance, the fiat moment of consent",
+    "muscular, dynamic figure of the angel — the power and urgency of the divine message"
+  ],
+  "description": "A black chalk study drawing showing two figures. At left, a winged angel figure leans forward dynamically, one arm extended. At right, a larger female figure stands or sits in a slightly turning posture with hands drawn toward her body. The figures are rendered in loose, energetic strokes with extensive cross-hatching and reworked lines. The angel appears smaller and more lightly drawn, while the female figure is more heavily worked with strong anatomical modeling. The drawing has the unfinished, exploratory quality of a compositional study.",
+  "theological_description": "This preparatory study by Michelangelo captures the essential dynamic of the Annunciation: the divine initiative (the angel's forward movement) meeting human receptivity (Mary's inward gesture). The muscular physicality of both figures reflects Michelangelo's conviction that spiritual reality expresses itself through the body. The Annunciation (Luke 1:26-38) is the theological pivot of all history: the moment when the eternal Word becomes flesh (John 1:14) through Mary's consent. Gabriel's announcement and Mary's fiat — 'let it be done to me according to your word' — enact a new creation. Where Eve's disobedience closed paradise, Mary's obedience opens it (Irenaeus, Against Heresies III.22). The angel's dynamic posture conveys the urgency of God's redemptive plan, while Mary's receptive stance embodies the theological virtue of obedience. The unfinished quality of the drawing paradoxically mirrors the Incarnation itself: the infinite taking on the constraints of finite form, the complete entering the incomplete.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The angel Gabriel announces to Mary the conception of Jesus — the Annunciation scene being studied"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Mary's fiat: Let it be done to me according to your word — her gesture of acceptance"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation that the Annunciation initiates"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the Isaianic prophecy fulfilled at this moment"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "When the fullness of time had come, God sent His Son, born of a woman"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dynamic",
+    "contemplative",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0070779",
+    "title": "Annunciation (study)",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}
