@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Saint Nicholas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bishop Consecrator",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Clergy and Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Consecration of Saint Nicholas as Bishop",
+  "tags": [
+    "saint-nicholas",
+    "bishop",
+    "consecration",
+    "ordination",
+    "mitre",
+    "crosier",
+    "episcopal-vestments",
+    "liturgical-ceremony",
+    "angels",
+    "laying-on-of-hands",
+    "church-authority"
+  ],
+  "symbols": [
+    "mitre and episcopal vestments — the authority and teaching office of the bishop, successor to the apostles",
+    "angel descending from above — divine approval and heavenly confirmation of the consecration, recalling the Holy Spirit descending at ordination",
+    "kneeling posture of Nicholas — humility before God and the Church, submission to the sacred office",
+    "hands of the consecrating bishop — the apostolic succession transmitted through the laying on of hands",
+    "assembled clergy and witnesses — the communal nature of ordination, the whole Church affirming the call"
+  ],
+  "description": "A grand Veronese composition depicting the consecration of Saint Nicholas as Bishop of Myra. The scene is set in an architectural space with classical columns. At center, the young Nicholas kneels in white vestments, receiving consecration from an older bishop in elaborate liturgical garb. Above, a dramatic angel in flowing pink and blue robes descends from the heavens, holding what appears to be a mitre or crosier, signifying divine approval of the consecration. A second angel figure in golden armor is also present.",
+  "theological_description": "Paolo Veronese depicts the legendary consecration of Saint Nicholas as Bishop of Myra (c. 300 AD), an event tradition holds was attended by signs of divine favor. Nicholas, one of the most venerated saints in both Eastern and Western Christianity, was said to have been chosen as bishop by miraculous consensus after the existing bishop died. The descending angel bearing the insignia of office visually affirms that this is not merely a human appointment but a divine calling — echoing Paul's insistence that his own apostleship was 'not from men nor through man, but through Jesus Christ and God the Father' (Galatians 1:1). The act of episcopal consecration through the laying on of hands traces its origin to the apostolic practice recorded in Acts and the Pastoral Epistles. Paul instructs Timothy: 'Do not neglect the gift you have, which was given you by prophecy when the council of elders laid their hands on you' (1 Timothy 4:14). Nicholas kneeling to receive this office embodies the paradox Christ taught: 'Whoever would be great among you must be your servant' (Matthew 20:26). As bishop, Nicholas would become legendary for his generosity to the poor, his defense of orthodoxy at the Council of Nicaea, and his protection of the innocent — fulfilling the episcopal mandate to shepherd God's flock as described in 1 Peter 5:2-3.",
+  "scripture_refs": [
+    {
+      "ref": "1TI.4.14",
+      "relevance": "primary",
+      "reason": "Do not neglect the gift given you by prophecy with the laying on of hands — the apostolic practice of ordination depicted in the consecration"
+    },
+    {
+      "ref": "ACT.6.6",
+      "relevance": "typological",
+      "reason": "The apostles laid their hands on the deacons — the biblical origin of ordination through the laying on of hands"
+    },
+    {
+      "ref": "1PE.5.2-3",
+      "relevance": "allusion",
+      "reason": "Shepherd the flock of God that is among you, exercising oversight — the episcopal office Nicholas is being consecrated to fulfill"
+    },
+    {
+      "ref": "MAT.20.26-28",
+      "relevance": "allusion",
+      "reason": "Whoever would be great among you must be your servant — Nicholas kneeling embodies servant leadership"
+    },
+    {
+      "ref": "GAL.1.1",
+      "relevance": "allusion",
+      "reason": "Apostleship not from men but through Jesus Christ — the angel confirms the divine origin of Nicholas's calling"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "ceremonial",
+    "majestic",
+    "reverent",
+    "luminous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060305",
+    "title": "The Consecration of Saint Nicholas",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

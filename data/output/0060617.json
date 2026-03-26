@@ -1,0 +1,103 @@
+{
+  "characters": [
+    {
+      "name": "Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "mourning women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Crucifixion and Resurrection of Christ",
+  "tags": [
+    "crucifixion",
+    "resurrection",
+    "diptych",
+    "calvary",
+    "risen-christ",
+    "cross",
+    "mourning",
+    "soldiers",
+    "angels-at-cross",
+    "red-robe",
+    "tomb",
+    "sleeping-guards",
+    "arched-panel",
+    "altarpiece",
+    "passion-cycle",
+    "triumph-over-death"
+  ],
+  "symbols": [
+    "cross against open sky — the cosmic scope of Christ's atoning sacrifice, the axis mundi joining heaven and earth",
+    "angels catching the blood — the precious blood of Christ, the sacramental significance of his sacrifice",
+    "swooning Virgin — the sword piercing Mary's soul as foretold by Simeon (Luke 2:35)",
+    "Roman centurion gazing upward — the confession 'Truly this was the Son of God' (Matthew 27:54)",
+    "risen Christ in red robe — the resurrected Lord clothed in the glory of his victory over death",
+    "fallen soldiers at the tomb — the futility of earthly power against divine authority",
+    "diptych format — the theological unity of death and resurrection, the Paschal mystery as one event"
+  ],
+  "description": "A two-panel altarpiece in arched Gothic frames. The left panel depicts the Crucifixion: Christ hangs on the cross against a landscape background, flanked by two small angels catching his blood. Below, the Virgin Mary swoons supported by holy women, while a richly dressed centurion and soldiers stand to the right, a spear-bearer visible behind the cross. The right panel shows the Resurrection: Christ steps forth from the tomb wearing a luminous red robe, his right hand raised in blessing. An angel in white stands nearby, while armored soldiers lie sprawled and sleeping on the ground.",
+  "theological_description": "This diptych presents the two inseparable poles of the Paschal mystery -- the death and resurrection of Jesus Christ -- as a single unified theological statement. The left panel captures the moment described in all four Gospels (Matt 27:33-56; Mark 15:22-41; Luke 23:33-49; John 19:17-37): the crucifixion at Golgotha. The angels reverently collecting Christ's blood emphasize the sacrificial-eucharistic theology developed in Hebrews 9:12-14, where Christ enters the holy places 'by means of his own blood, thus securing an eternal redemption.' The swooning Mary embodies the prophecy of Simeon in Luke 2:35 that a sword would pierce her soul. The right panel depicts the Resurrection (Matt 28:1-6), the foundational event of Christian faith. Paul's declaration in 1 Corinthians 15:17 -- 'if Christ has not been raised, your faith is futile' -- is answered visually by the triumphant figure stepping from the tomb. The sleeping guards fulfill Matthew 28:4, where the soldiers 'shook and became like dead men.' The pairing of death and resurrection reflects the early Christian kerygma: 'He was crucified, died, and was buried; on the third day he rose again' (1 Cor 15:3-4). Christ's red garment in the Resurrection panel may allude to Isaiah 63:1-2, the one who comes from Edom with garments stained crimson -- a typological reading of the victorious Messiah.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.33-56",
+      "relevance": "primary",
+      "reason": "The left panel directly depicts the Crucifixion at Golgotha with the mourning women, centurion, and soldiers described by Matthew."
+    },
+    {
+      "ref": "MAT.28.1-6",
+      "relevance": "primary",
+      "reason": "The right panel shows the Resurrection with the angel at the tomb and the guards fallen as dead men."
+    },
+    {
+      "ref": "1CO.15.3-4",
+      "relevance": "typological",
+      "reason": "The diptych format embodies the apostolic kerygma: Christ died, was buried, and rose on the third day."
+    },
+    {
+      "ref": "HEB.9.12-14",
+      "relevance": "typological",
+      "reason": "The angels collecting Christ's blood signify the eternal redemption secured through his own blood."
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "The swooning Virgin at the cross fulfills Simeon's prophecy that a sword would pierce her soul."
+    },
+    {
+      "ref": "ISA.63.1-2",
+      "relevance": "typological",
+      "reason": "Christ's red garment in the Resurrection panel may allude to the conquering figure from Edom in crimson robes."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "triumphant",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060617",
+    "title": "The Triumph of Religion",
+    "artist": "John Singer Sargent",
+    "model": "claude-opus-4-6"
+  }
+}

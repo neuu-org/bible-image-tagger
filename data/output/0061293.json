@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Bishop saint",
+      "type": "PERSON"
+    },
+    {
+      "name": "Monk saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Two saints standing together in devotion",
+  "tags": [
+    "bishop-saint",
+    "monk-saint",
+    "mitre",
+    "crozier",
+    "open-book",
+    "red-book",
+    "walking-staff",
+    "gold-background",
+    "gothic-arch",
+    "pointed-panel",
+    "white-vestments",
+    "black-habit",
+    "aged-figures",
+    "beard"
+  ],
+  "symbols": [
+    "mitre and crozier — episcopal authority, the bishop's role as shepherd of the faithful",
+    "open book held by the bishop — Scripture or liturgical text, the bishop's teaching authority",
+    "red closed book held by the monk — sacred Scripture treasured and guarded in the monastic life",
+    "walking staff — the pilgrim journey and the monk's itinerant or anchoritic life",
+    "gold background — the timeless realm of heavenly glory in which the saints abide",
+    "gothic pointed arch — the heavenward aspiration of the faithful, the gate of paradise"
+  ],
+  "description": "A gothic-arched panel painting with a gold background depicting two standing saints side by side. At left, a bishop wears white liturgical vestments over a red chasuble, a tall mitre on his head, and holds an ornate crozier in his right hand and an open book in his left. He has a dark beard and a solemn expression. At right, an elderly monk with a long white beard wears a black habit and cloak. He holds a closed red book pressed against his body with his left hand and leans on a tall walking staff with his right.",
+  "theological_description": "This panel likely formed part of a polyptych altarpiece and depicts two pillars of the Church: a bishop (possibly Augustine, Ambrose, or another Church Father) and a monastic saint (possibly Anthony the Great or Benedict). The pairing of bishop and monk represents the two great streams of Christian holiness -- the active, pastoral ministry of the episcopate and the contemplative, ascetic life of monasticism. The bishop's open book signifies the public proclamation and teaching of the faith, fulfilling Paul's charge to Timothy to 'preach the word; be ready in season and out of season' (2 Timothy 4:2). The monk's closed red book, pressed close to his body, suggests the inward, contemplative appropriation of Scripture -- Mary's 'pondering in her heart' (Luke 2:19) rather than the bishop's public declaration. Together they embody the fullness of the Church's response to divine revelation: hearing and proclaiming, studying and living. The gold background removes these figures from any earthly setting, placing them in the eternal light of heavenly glory where 'those who are wise shall shine like the brightness of the sky above' (Daniel 12:3). The crozier identifies the bishop as pastor, shepherd of souls in imitation of Christ the Good Shepherd, while the monk's staff marks him as a perpetual pilgrim following Abraham's call to leave homeland for an unknown destination (Hebrews 11:8).",
+  "scripture_refs": [
+    {
+      "ref": "2TI.4.2",
+      "relevance": "typological",
+      "reason": "Preach the word, be ready in season and out of season -- the bishop's open book and teaching authority."
+    },
+    {
+      "ref": "JHN.10.11",
+      "relevance": "typological",
+      "reason": "I am the good shepherd -- the bishop's crozier as the pastoral staff of Christ's under-shepherd."
+    },
+    {
+      "ref": "HEB.11.8",
+      "relevance": "allusion",
+      "reason": "By faith Abraham went out, not knowing where he was going -- the monk with his pilgrim staff echoing this call."
+    },
+    {
+      "ref": "DAN.12.3",
+      "relevance": "allusion",
+      "reason": "Those who are wise shall shine like the brightness of the sky -- the gold background as heavenly glory surrounding the saints."
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things, pondering them in her heart -- the monk's closed book held close embodying contemplative reception of the Word."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "hieratic",
+    "reverent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0061293",
+    "title": "Madonna and Child with Angels",
+    "artist": "Masaccio",
+    "model": "claude-opus-4-6"
+  }
+}

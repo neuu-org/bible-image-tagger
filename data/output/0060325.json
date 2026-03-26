@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Christ Crowned with Thorns",
+  "tags": [
+    "crown-of-thorns",
+    "passion-of-christ",
+    "ecce-homo",
+    "suffering-christ",
+    "head-of-christ",
+    "mockery",
+    "blood",
+    "upward-gaze",
+    "divine-suffering",
+    "sacrificial-love"
+  ],
+  "symbols": [
+    "crown of thorns — the mockery of Christ's kingship turned into a sign of redemptive suffering and true sovereignty",
+    "upward gaze — Christ's communion with the Father even in extremity, echoing 'Father, into your hands I commit my spirit'",
+    "blood trickling from the temples — the cost of atonement, the price paid in the flesh of the incarnate God",
+    "bare shoulders and exposed chest — vulnerability and the full humanity of the Word made flesh",
+    "oval framing — devotional focus drawing the viewer into intimate encounter with the suffering Savior"
+  ],
+  "description": "An oval-format close-up portrait of Christ crowned with thorns, rendered in dramatic chiaroscuro. The head is tilted back and slightly to the right, the mouth open in an expression of anguished supplication, the eyes gazing upward with tear-streaked intensity. A thick, twisted crown of dark thorns encircles his head, pressing deeply into the brow. Blood trickles in thin rivulets down his temples and neck. His dark curling hair falls to his bare shoulders, and the upper chest is visible, pale and vulnerable against the deep amber-brown background.",
+  "theological_description": "Guido Reni's iconic depiction of the crowned Christ isolates the moment of mockery described in all four Gospels, when Roman soldiers plaited a crown of thorns and pressed it onto Jesus' head, hailing him as 'King of the Jews' (Matthew 27:29). The irony at the heart of the scene is central to Christian theology: the soldiers intended to ridicule, yet they unwittingly proclaimed a truth — Jesus is indeed King, but his kingdom is 'not of this world' (John 18:36). The thorns recall the curse pronounced upon the ground after the Fall: 'thorns and thistles it shall bring forth for you' (Genesis 3:18). In wearing the thorns, Christ absorbs the consequences of the primal curse into his own flesh, beginning the reversal of Eden's catastrophe. The upward gaze captures the unbroken communion between the Son and the Father even in the depths of suffering, a visual echo of Christ's high-priestly prayer: 'Father, the hour has come; glorify your Son' (John 17:1). Church Fathers such as Cyril of Alexandria interpreted the crown of thorns as Christ gathering all human sin — symbolized by thorns — upon his own head so that humanity might receive a crown of glory (1 Peter 5:4).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.29",
+      "relevance": "primary",
+      "reason": "The soldiers twist a crown of thorns and place it on Christ's head, the direct narrative event depicted."
+    },
+    {
+      "ref": "JHN.19.2-3",
+      "relevance": "primary",
+      "reason": "John's account of the soldiers crowning Jesus with thorns and mocking him as King of the Jews."
+    },
+    {
+      "ref": "GEN.3.18",
+      "relevance": "typological",
+      "reason": "The curse of thorns upon the ground after the Fall, reversed typologically as Christ wears them upon his own head."
+    },
+    {
+      "ref": "JHN.18.36",
+      "relevance": "allusion",
+      "reason": "Christ's declaration that his kingdom is not of this world, the deeper truth behind the soldiers' mock coronation."
+    },
+    {
+      "ref": "1PE.5.4",
+      "relevance": "typological",
+      "reason": "The crown of glory promised to the faithful, made possible by Christ's acceptance of the crown of thorns."
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "typological",
+      "reason": "The Suffering Servant despised and rejected, a man of sorrows acquainted with grief — visually embodied in Christ's anguished face."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "anguished",
+    "devotional",
+    "sorrowful",
+    "sublime"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060325",
+    "title": "Head of Christ Crowned with Thorns",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Anthony",
+      "type": "PERSON"
+    },
+    {
+      "name": "demons",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Temptation of Saint Anthony",
+  "tags": [
+    "temptation",
+    "saint-anthony",
+    "hermit",
+    "demons",
+    "desert-father",
+    "monastery",
+    "landscape",
+    "church-building",
+    "prayer",
+    "spiritual-warfare",
+    "grotesque-creatures",
+    "kneeling-figure",
+    "reed-hut",
+    "river",
+    "trees"
+  ],
+  "symbols": [
+    "kneeling hermit at center — the steadfastness of faith under demonic assault, modeling spiritual endurance",
+    "grotesque demonic creatures — the manifold temptations of the flesh, the world, and the devil (1 John 2:16)",
+    "small white church in background — the refuge of Christian worship and sacramental grace",
+    "makeshift shelter of reeds — the poverty and simplicity of the ascetic life",
+    "river and bucolic landscape — the deceptive beauty of the world that masks spiritual danger",
+    "crucifix or staff — the sign of the cross as the Christian's weapon against evil (Ephesians 6:16)"
+  ],
+  "description": "A detailed landscape composition centered on an elderly hermit in a brown hooded robe, kneeling in prayer beside a makeshift shelter constructed from branches and reeds on a small island or mound. Around him, bizarre hybrid creatures -- part animal, part human, part insect -- swarm, clamber, and leer. A small white church with a blue roof stands in the left background across a body of water. Tall trees frame the scene, and in the middle distance more figures and fantastical beings populate the riverbanks.",
+  "theological_description": "The Temptation of Saint Anthony (c. 251-356), the father of Christian monasticism, is one of the most depicted subjects in Western art and draws upon the fourth-century Life of Anthony by Athanasius of Alexandria. Anthony withdrew into the Egyptian desert to pursue union with God through prayer, fasting, and solitude, but was beset by violent demonic assaults. Athanasius records that demons appeared in monstrous forms to terrify and tempt the saint, yet Anthony endured through the power of the cross and the name of Christ. The scene embodies the Pauline exhortation to 'put on the whole armor of God, that you may be able to stand against the schemes of the devil' (Ephesians 6:11). Anthony's composure amid the grotesque onslaught illustrates James 4:7: 'Resist the devil, and he will flee from you.' The small church in the background serves as a visual anchor of hope -- the ecclesial community and its sacraments as the ultimate refuge. Christ's own temptation in the wilderness (Matthew 4:1-11) provides the scriptural paradigm for Anthony's ordeal: just as Jesus resisted Satan with the Word of God, so Anthony conquers through prayer and the sign of the cross.",
+  "scripture_refs": [
+    {
+      "ref": "EPH.6.11-13",
+      "relevance": "typological",
+      "reason": "Anthony's endurance under demonic assault embodies Paul's exhortation to put on the full armor of God to withstand the devil's schemes."
+    },
+    {
+      "ref": "JAS.4.7",
+      "relevance": "typological",
+      "reason": "The saint's calm resistance amid the swarming demons illustrates the promise that resisting the devil causes him to flee."
+    },
+    {
+      "ref": "MAT.4.1-11",
+      "relevance": "typological",
+      "reason": "Anthony's desert temptation follows the pattern of Christ's own temptation in the wilderness, the paradigmatic spiritual combat."
+    },
+    {
+      "ref": "1JN.2.16",
+      "relevance": "allusion",
+      "reason": "The manifold demonic temptations represent the desires of the flesh, the desires of the eyes, and the pride of life."
+    },
+    {
+      "ref": "1PE.5.8",
+      "relevance": "allusion",
+      "reason": "The prowling, grotesque creatures surrounding the saint visualize Peter's warning about the devil prowling like a roaring lion."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "menacing",
+    "fantastical",
+    "resolute",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060648",
+    "title": "Rest on the flight into Egypt",
+    "artist": "Adriaen van der Werff",
+    "model": "claude-opus-4-6"
+  }
+}

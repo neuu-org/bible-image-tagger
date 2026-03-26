@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Dormition and Assumption of the Virgin Mary",
+  "tags": [
+    "dormition",
+    "assumption",
+    "virgin-mary",
+    "apostles",
+    "funeral-bier",
+    "mandorla",
+    "heavenly-reception",
+    "palm-branch",
+    "mourning",
+    "gold-background",
+    "altarpiece"
+  ],
+  "symbols": [
+    "funeral bier with ornate panels — the earthly resting place of the Theotokos, honored yet temporary",
+    "mandorla of light in the upper register — the heavenly glory into which Mary is assumed body and soul",
+    "Christ receiving Mary's soul in the upper scene — the Son welcoming His mother into eternal life",
+    "palm branch carried by an apostle — victory over death, traditionally brought by an angel to announce Mary's dormition",
+    "twelve apostles gathered around the bier — the universal Church bearing witness to Mary's blessed departure",
+    "golden halos — sanctity of the apostles and the divine nature of the event"
+  ],
+  "description": "A horizontal panel painting in the style of Fra Angelico, rendered in vivid tempera with rich blues, reds, and gold. In the lower register, the Virgin Mary lies peacefully on an elaborately decorated stone bier, her body draped in dark blue robes. The twelve apostles surround the bier in attitudes of mourning, prayer, and reverence, many with golden halos. Saint Peter stands at the head in papal vestments; other apostles hold books, candles, or palm branches.",
+  "theological_description": "The Dormition (Koimesis) and Assumption of the Virgin Mary is among the most theologically significant Marian subjects in Christian art. While not directly narrated in canonical Scripture, the tradition draws on Revelation 12, where the woman clothed with the sun -- widely interpreted as Mary and the Church -- is given heavenly protection. The double-register composition presents both the earthly dormition and the heavenly assumption as simultaneous realities, reflecting the belief that Mary's death was not a defeat but a 'falling asleep' (koimesis) followed by immediate glorification. Christ's presence receiving His mother's soul inverts the Incarnation: at the Annunciation, God entered the world through Mary; at the Assumption, Mary enters heaven through her Son. The gathering of the apostles from the ends of the earth (according to apocryphal tradition) signifies that this event concerns the whole Church. The palm branch, traditionally delivered by the Archangel Gabriel, symbolizes the victory over death that Mary's assumption anticipates for all the faithful. Fra Angelico's luminous palette and serene composition present death not as terror but as peaceful transition -- a visual meditation on the Christian hope expressed in 1 Corinthians 15:54: 'Death is swallowed up in victory.'",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1-6",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun, a figure widely interpreted as Mary assumed into heavenly glory and protection."
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "The angel's greeting 'full of grace' -- the theological basis for Mary's unique privilege of bodily assumption."
+    },
+    {
+      "ref": "1CO.15.54-55",
+      "relevance": "typological",
+      "reason": "Death is swallowed up in victory -- the Assumption as the first realization of the resurrection promise for the faithful."
+    },
+    {
+      "ref": "PSA.132.8",
+      "relevance": "typological",
+      "reason": "Arise, O Lord, to your resting place, you and the ark of your might -- interpreted as prefiguring the Assumption of Mary, the Ark of the New Covenant."
+    },
+    {
+      "ref": "PSA.45.9-15",
+      "relevance": "allusion",
+      "reason": "The queen stands at your right hand in gold of Ophir -- applied liturgically to Mary's heavenly glorification."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "luminous",
+    "reverent",
+    "hopeful"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060865",
+    "title": "Saint Lawrence Distributing the Treasures of the Church",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

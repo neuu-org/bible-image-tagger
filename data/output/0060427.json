@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Deposition (Pieta)",
+  "tags": [
+    "pieta",
+    "deposition",
+    "passion-of-christ",
+    "dead-christ",
+    "lamentation",
+    "sculpture",
+    "marble",
+    "grief",
+    "burial-preparation",
+    "maternal-sorrow",
+    "descent-from-cross"
+  ],
+  "symbols": [
+    "hooded figure of Nicodemus supporting Christ from above — the secret disciple who now publicly claims the body, tradition holds this is Michelangelo's self-portrait",
+    "limp body of Christ sliding downward — the full weight of death, the completed sacrifice of the Lamb of God",
+    "Virgin Mary embracing her son — the Mater Dolorosa, the sword that pierces her soul (Luke 2:35)",
+    "unfinished marble surfaces — the raw, unpolished stone suggesting the incompleteness of human grief before the mystery of divine death",
+    "three figures supporting one body — the community of mourners gathered around the crucified, the Church born at the foot of the cross"
+  ],
+  "description": "Michelangelo's late marble sculpture known as the Florentine Pieta or the Deposition. A tall, hooded figure — traditionally identified as Nicodemus and believed to be a self-portrait of the aging Michelangelo — supports the dead body of Christ from behind, his cowled face gazing down with solemn gravity. The body of Christ slides forward and downward, the legs buckling, the torso twisting, the head fallen against the Virgin Mary who stands to the right, her face pressed close to her son's. A smaller female figure, likely Mary Magdalene, crouches at the left, supporting Christ's arm.",
+  "theological_description": "Michelangelo's Florentine Pieta is one of the most profound theological statements in the history of sculpture. Created in the artist's old age and intended for his own tomb, it meditates on the mystery of God's death in human flesh. The arrangement — four figures united in a single downward cascade — visualizes the theological movement of kenosis: the self-emptying of God described in Philippians 2:6-8, from the heights of divinity through incarnation to the nadir of death on the cross. The identification of Nicodemus with the aged sculptor himself reveals a deeply personal theology: Michelangelo, like Nicodemus who 'came to Jesus by night' (John 3:2), approaches Christ through darkness and doubt, yet ultimately holds the body of God in his own hands. The Pieta tradition itself has no single scriptural source but draws on the moment between deposition and burial, a liminal space in which the Church pauses to contemplate the paradox that the Author of Life lies dead (Acts 3:15). The Virgin's embrace fulfills Simeon's prophecy: 'a sword will pierce through your own soul also' (Luke 2:35). Patristic writers, especially Romanos the Melodist, composed elaborate laments for this moment, imagining Mary's words to her dead son as a theological dialogue between divine purpose and human anguish.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-40",
+      "relevance": "primary",
+      "reason": "Joseph and Nicodemus take the body of Jesus from the cross and prepare it for burial, the narrative context of the Deposition."
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword will pierce Mary's soul, fulfilled in her embrace of her dead son."
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ's self-emptying unto death, visually embodied in the downward cascade of the lifeless body."
+    },
+    {
+      "ref": "JHN.3.1-2",
+      "relevance": "allusion",
+      "reason": "Nicodemus who came to Jesus by night — the hooded figure who now openly receives the body of Christ."
+    },
+    {
+      "ref": "ACT.3.15",
+      "relevance": "typological",
+      "reason": "You killed the Author of Life — the paradox of the dead Christ, the Creator held by his creatures."
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant wounded for our transgressions, the prophetic foundation of the Pieta tradition."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief-stricken",
+    "solemn",
+    "monumental",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060427",
+    "title": "The Deposition",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

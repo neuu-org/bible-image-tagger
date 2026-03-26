@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Saint Cecilia",
+      "type": "PERSON"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Cecilia Playing Music",
+  "tags": [
+    "saint-cecilia",
+    "music",
+    "patron-saint-of-music",
+    "keyboard-instrument",
+    "putti",
+    "sheet-music",
+    "sacred-music",
+    "martyrdom",
+    "devotion",
+    "heavenly-harmony"
+  ],
+  "symbols": [
+    "keyboard instrument (organ or harpsichord) — sacred music as a vehicle of prayer and worship, Cecilia's traditional attribute",
+    "sheet music held by putti — the heavenly origin of sacred harmony, angels as co-participants in divine praise",
+    "red drapery above — martyrdom, Cecilia's death for the faith, the blood of the witnesses",
+    "classical column and architecture — the Roman world in which Cecilia lived and died for Christ",
+    "children singing behind Cecilia — the transmission of faith through generations, the choir of the Church"
+  ],
+  "description": "Saint Cecilia sits at a keyboard instrument (likely a small organ or virginal), her right hand touching the keys while her left hand rests open. She wears a golden-ochre robe over a blue skirt, with a red cap or fillet in her hair. Her face is turned slightly toward the viewer with a serene, gentle expression. At her feet, two nude winged putti hold open a large sheet of music. Behind her, two or three young children peer over, apparently singing from another sheet.",
+  "theological_description": "Saint Cecilia, the patron saint of music, is venerated as a Roman virgin and martyr of the early Church. According to her hagiography, she sang to God in her heart during her forced wedding, and later converted her husband Valerian and his brother, all three eventually suffering martyrdom. While not a biblical figure, Cecilia's devotion to sacred music connects directly to the rich biblical tradition of worship through song. The Psalms repeatedly command musical praise: 'Sing to the Lord a new song' (Psalm 96:1); 'Praise him with the sounding of the trumpet, praise him with the harp and lyre' (Psalm 150:3). Paul exhorts the Colossians to 'sing psalms, hymns, and spiritual songs with gratitude in your hearts to God' (Colossians 3:16). The putti holding sheet music and singing children represent the heavenly dimension of earthly worship — as the book of Revelation describes the redeemed singing 'a new song before the throne' (Revelation 14:3). Poussin's classical setting grounds the saint in the Roman world where early Christians faced persecution, making her music an act of defiance as much as devotion — choosing the harmony of God over the discord of a hostile empire.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.150.3-6",
+      "relevance": "allusion",
+      "reason": "Praise him with instruments — the biblical mandate for musical worship that Cecilia embodies."
+    },
+    {
+      "ref": "COL.3.16",
+      "relevance": "allusion",
+      "reason": "Singing psalms, hymns, and spiritual songs with gratitude — the Pauline vision of worship through music."
+    },
+    {
+      "ref": "REV.14.3",
+      "relevance": "allusion",
+      "reason": "The redeemed singing a new song before the throne, the heavenly worship that earthly sacred music anticipates."
+    },
+    {
+      "ref": "PSA.96.1",
+      "relevance": "allusion",
+      "reason": "Sing to the Lord a new song — the perpetual call to fresh praise that drives the tradition of sacred music."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "harmonious",
+    "noble",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060523",
+    "title": "St. Cecilia",
+    "artist": "Nicolas Poussin",
+    "model": "claude-opus-4-6"
+  }
+}

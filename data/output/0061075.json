@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Penitent women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ receiving penitent women and supplicants",
+  "tags": [
+    "lunette-mural",
+    "haloed-christ",
+    "penitent-women",
+    "kneeling",
+    "supplication",
+    "birch-trees",
+    "meadow",
+    "crowd",
+    "white-garments",
+    "compassion",
+    "healing",
+    "forgiveness",
+    "slavic-devotion"
+  ],
+  "symbols": [
+    "halo around Christ — divine identity and authority of the Son of God",
+    "kneeling women in white — penitence, purity sought through encounter with Christ",
+    "open meadow with flowers — the renewal of creation through Christ's mercy",
+    "birch trees — in Slavic iconographic tradition, symbols of purity and new life",
+    "outstretched hands of Christ — divine mercy and welcome extended to all who approach"
+  ],
+  "description": "A large lunette-shaped mural depicting a haloed figure of Christ standing at the right among slender birch trees, receiving a crowd of people who approach from the left across a flowering meadow. Several women in white garments kneel before Christ, while others in darker clothing press forward behind them. The landscape is rendered in soft, muted tones of green, gold, and lavender, with a hazy sky and distant hills. The composition moves from left to right, from the dense, burdened crowd toward the luminous, serene figure of Christ.",
+  "theological_description": "This mural evokes the Gospel theme of Christ's compassionate reception of those who come to Him in need. The scene recalls Matthew 11:28, 'Come to me, all who labor and are heavy laden, and I will give you rest.' The kneeling women in white suggest penitents seeking forgiveness, echoing the sinful woman who washed Jesus's feet with her tears (Luke 7:37-38). The open meadow setting, rather than a specific Gospel locale, universalizes the encounter: Christ's mercy is available to all peoples in all places. The lunette format suggests this was designed for a church interior, linking the viewer's liturgical space with the Gospel scene. The Slavic stylistic elements -- birch trees, the broad meadow, the peasant garments -- root the universal Gospel message in a particular cultural context, reflecting the Incarnation's logic of the divine entering specific human circumstances. The progression from the huddled, suffering crowd to the serene Christ embodies the paschal movement from affliction to consolation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.11.28",
+      "relevance": "primary",
+      "reason": "Christ inviting the weary and burdened to come to Him for rest -- the central action depicted as the crowd approaches."
+    },
+    {
+      "ref": "LUK.7.37-38",
+      "relevance": "typological",
+      "reason": "The penitent women kneeling before Christ echo the sinful woman who approached Jesus weeping at the Pharisee's house."
+    },
+    {
+      "ref": "MAT.9.36",
+      "relevance": "allusion",
+      "reason": "Jesus had compassion on the crowds because they were harassed and helpless -- the emotional tenor of the approaching multitude."
+    },
+    {
+      "ref": "ISA.61.1-2",
+      "relevance": "typological",
+      "reason": "The anointed one sent to bind up the brokenhearted and comfort all who mourn, fulfilled in Christ's ministry depicted here."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "solemn",
+    "hopeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0061075",
+    "title": "Head of an Old Man (study for Moses)",
+    "artist": "Domenico Fetti",
+    "model": "claude-opus-4-6"
+  }
+}

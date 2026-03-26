@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Attendants and retinue",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "nativity",
+    "wise-men",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "infant-christ",
+    "worship",
+    "kings",
+    "star",
+    "gentile-worship",
+    "putti"
+  ],
+  "symbols": [
+    "gifts of gold, frankincense, and myrrh — kingship, divinity, and burial, prophetic indicators of Christ's identity and destiny",
+    "kneeling eldest Magus — the submission of worldly wisdom and power before the infant God",
+    "diverse retinue of attendants — the universality of Christ's kingship, all nations streaming to the light (Isaiah 60:3)",
+    "classical column at left — the crumbling of the old pagan order before the new dispensation of grace",
+    "putti in the clouds above — the heavenly joy at the revelation of God to the Gentiles, the angelic hosts bearing witness"
+  ],
+  "description": "A large, richly colored Baroque composition teeming with figures. At the far left, the Virgin Mary sits with the Infant Jesus on her lap beneath the ruins of a classical structure with a tall Corinthian column. The eldest Magus, in a sumptuous red and gold robe, kneels before the child, offering a golden vessel. Behind him, the second and third Magi stand in elaborate turbans and rich garments — one holding a covered vessel, the other gesturing.",
+  "theological_description": "Rubens's monumental Adoration of the Magi is a celebration of the Epiphany — the manifestation of Christ to the Gentile world. Matthew's Gospel records that 'Magi from the east came to Jerusalem' following a star, and finding the child 'they bowed down and worshiped him' and 'opened their treasures and presented him with gifts of gold, frankincense and myrrh' (Matthew 2:1-11). The Church Fathers saw in this scene the fulfillment of multiple Old Testament prophecies. Isaiah 60:3 declares: 'Nations will come to your light, and kings to the brightness of your dawn.' Psalm 72:10-11 prophesies: 'May the kings of Tarshish and of distant shores bring tribute to him... May all kings bow down to him.' The three gifts were interpreted allegorically from early centuries: gold for Christ's kingship, frankincense for his divinity, and myrrh for his coming death and burial — the entire arc of christological doctrine encapsulated in three offerings. The diversity of the retinue, which Rubens emphasizes with figures of different races and cultures, embodies the universality of the Gospel: in Christ 'there is neither Jew nor Gentile' (Galatians 3:28). The classical ruins in the background signify the passing of the old pagan order, as the birth of Christ inaugurates a new age. The Magi themselves, as Gentile seekers of truth, represent all humanity's search for God — a search that finds its answer in the most unexpected place: a child in a manger.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Magi following the star, finding the child, and presenting gifts of gold, frankincense, and myrrh."
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light and kings to the brightness of your rising — the prophetic vision fulfilled in the Magi's journey."
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "The kings of Tarshish and the isles shall bring tribute; all kings shall bow down before him."
+    },
+    {
+      "ref": "GAL.3.28",
+      "relevance": "typological",
+      "reason": "Neither Jew nor Gentile in Christ — the diverse retinue embodying the universality of the Gospel."
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "A star shall come out of Jacob — Balaam's prophecy traditionally linked to the Star of Bethlehem that guided the Magi."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "exuberant",
+    "reverent",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060514",
+    "title": "The Adoration of the Magi",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

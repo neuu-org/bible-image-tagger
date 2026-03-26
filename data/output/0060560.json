@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    },
+    {
+      "name": "Cherubim",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "virgin-mary",
+    "angel-gabriel",
+    "holy-spirit",
+    "incarnation",
+    "fiat",
+    "divine-conception",
+    "god-the-father",
+    "dove",
+    "lily",
+    "heavenly-light",
+    "trinity"
+  ],
+  "symbols": [
+    "dove descending — the Holy Spirit coming upon Mary, the divine power that overshadows her (Luke 1:35)",
+    "ray of light from God the Father above — the divine initiative in the Incarnation, grace descending from heaven",
+    "Mary's bowed head and crossed hands — submission and obedience, the fiat: 'Let it be to me according to your word'",
+    "open book before Mary — the Scriptures she was reading, traditionally Isaiah's prophecy of the virgin birth (Isaiah 7:14)",
+    "Gabriel with outstretched hand — the angelic messenger delivering God's word, the bridge between heaven and earth",
+    "cherubim surrounding the descending light — the heavenly court witnessing the most pivotal moment in salvation history"
+  ],
+  "description": "A vertical composition depicting the Annunciation in Goya's characteristic loose, sketch-like manner. The Angel Gabriel stands at the left, dressed in white and brown robes with visible wings, his right hand extended toward the Virgin Mary. Mary kneels at the right before a prie-dieu with an open book, her head bowed and hands crossed over her chest in an attitude of humble acceptance. Above, God the Father is faintly visible at the apex of the composition, from whom a brilliant shaft of golden light descends diagonally.",
+  "theological_description": "The Annunciation is the pivotal moment of salvation history — the instant when heaven's plan, conceived before the foundation of the world, enters human time through the free consent of a young woman. Luke 1:26-38 records the angel Gabriel's announcement to Mary that she would conceive by the Holy Spirit and bear a son to be called Jesus. Mary's response — 'Let it be to me according to your word' (Luke 1:38) — is the fiat that enables the Incarnation, the moment when 'the Word became flesh and dwelt among us' (John 1:14). Goya's composition emphasizes the Trinitarian dimension: God the Father sends forth the light from above, the Holy Spirit descends as a dove, and the Son is conceived in Mary's womb — the entire Godhead acting in concert. The open book before Mary alludes to the tradition that she was reading Isaiah 7:14 — 'the virgin shall conceive and bear a son' — at the very moment the angel arrived, the prophecy fulfilling itself even as she read it. The Church Fathers, particularly Irenaeus, drew the parallel between Eve and Mary: as Eve's disobedience opened the door to sin, Mary's obedience opened the door to redemption, making her the 'new Eve.' Gabriel's greeting, 'Hail, full of grace' (Luke 1:28), signals that God has already prepared this woman to be the vessel of the Incarnation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "Luke's account of the Annunciation: Gabriel's message to Mary, her question, and her fiat — the direct narrative source."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the Isaianic prophecy fulfilled in the Annunciation, symbolized by the open book."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us — the theological reality that the Annunciation initiates."
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you, and the power of the Most High will overshadow you — the descent of the dove."
+    },
+    {
+      "ref": "MAT.1.22-23",
+      "relevance": "typological",
+      "reason": "Matthew's affirmation that the virgin birth fulfilled Isaiah's prophecy, linking Old and New Testaments."
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "When the fullness of time had come, God sent forth his Son, born of woman — the cosmic timing of the Incarnation."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "luminous",
+    "reverent",
+    "awe-filled",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060560",
+    "title": "The Annunciation",
+    "artist": "Francisco Goya",
+    "model": "claude-opus-4-6"
+  }
+}

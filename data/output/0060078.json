@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "passover",
+    "communion",
+    "bread-and-wine",
+    "upper-room",
+    "twelve-apostles",
+    "institution-of-eucharist",
+    "holy-thursday",
+    "passion-of-christ"
+  ],
+  "symbols": [
+    "bread on the central table — the body of Christ broken for the world, the foundation of the Eucharist",
+    "vessels of wine — the blood of the new covenant poured out for the forgiveness of sins",
+    "Christ at the center glowing with pale light — the Light of the World at the heart of the community, the source of the sacrament",
+    "blue archway behind Christ — the heavenly realm breaking through into the earthly gathering",
+    "figures hunched and huddled around the table — the intimate gravity of the moment, the disciples receiving the mystery they do not yet fully understand"
+  ],
+  "description": "A modernist interpretation of the Last Supper rendered in muted, angular forms. Christ sits at the center of a long table, his figure bathed in a pale, ethereal light emanating from or behind him, set against a deep blue arch. The twelve apostles are arranged around the table in geometrically simplified, almost cubist forms, their faces reduced to essential planes and lines. The palette is dominated by somber earth tones — greys, browns, and ochres — with the striking blue archway behind Christ providing the sole vivid color. Vessels and bread are visible on the white-draped table.",
+  "theological_description": "Andre Derain's modernist rendering of the Last Supper powerfully strips the institution of the Eucharist to its mystical core. By reducing the apostles to angular, almost faceless forms and placing Christ in luminous centrality beneath a blue arch suggesting heaven, Derain emphasizes the cosmic significance of this intimate meal. This is the moment when Jesus, on the night He was betrayed, took bread and said 'This is my body given for you; do this in remembrance of me' (Luke 22:19). The austere, muted palette of greys and browns conveys the solemnity and sorrow of the occasion — Jesus already knows that Judas will betray Him, Peter will deny Him, and the rest will scatter. Yet the pale light surrounding Christ affirms that even in the shadow of the cross, He is the source of grace. The geometric simplification of the figures paradoxically universalizes them: these are not merely twelve historical men but every generation of believers gathered around the Lord's Table. Paul's words to the Corinthians echo here: 'For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes' (1 Corinthians 11:26). The blue archway — the only warm-cool rupture in the palette — suggests the eternal breaking through the temporal, heaven meeting earth at the table of communion.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "Luke's account of the Last Supper and the institution of the Eucharist — 'This is my body given for you; do this in remembrance of me'"
+    },
+    {
+      "ref": "MAT.26.26-29",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Last Supper, including Jesus' words over the bread and wine"
+    },
+    {
+      "ref": "MRK.14.22-25",
+      "relevance": "primary",
+      "reason": "Mark's account of the institution of the Lord's Supper"
+    },
+    {
+      "ref": "JHN.13.1-30",
+      "relevance": "primary",
+      "reason": "John's account of the Last Supper, including the washing of feet and the identification of the betrayer"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "allusion",
+      "reason": "Paul's instruction on the Lord's Supper — 'For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes'"
+    },
+    {
+      "ref": "JHN.6.35",
+      "relevance": "typological",
+      "reason": "Jesus' declaration 'I am the bread of life' — the theological foundation for the eucharistic bread on the table"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "mystical",
+    "contemplative",
+    "austere"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060078",
+    "title": "The Last Supper of Jesus",
+    "artist": "Andre Derain",
+    "model": "claude-opus-4-6"
+  }
+}

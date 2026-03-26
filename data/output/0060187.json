@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Villagers and Followers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Jesus Traveling Through Villages on the Way to Jerusalem",
+  "tags": [
+    "journey-to-jerusalem",
+    "galilean-ministry",
+    "village",
+    "itinerant-preaching",
+    "crowd",
+    "holy-land",
+    "ancient-architecture",
+    "middle-eastern-setting",
+    "pilgrimage",
+    "gospel-narrative"
+  ],
+  "symbols": [
+    "winding path through the village — the journey of faith, the narrow way that leads to life, Christ's purposeful progression toward His destiny",
+    "crowd flowing through the streets — the multitudes who followed Jesus, drawn by His teaching and miracles",
+    "stone buildings and terraces — the actual built environment of first-century Palestine, grounding the Gospel in historical reality",
+    "Jerusalem as unseen destination — the holy city where salvation will be accomplished through Christ's death and resurrection",
+    "figures seated and watching from doorways — the varied responses to Jesus' passing: curiosity, reverence, indifference"
+  ],
+  "description": "A detailed watercolor by James Tissot depicting Jesus and a crowd of followers passing through a Palestinian village on the road to Jerusalem. The scene shows a densely built hillside settlement with flat-roofed stone buildings, terraces, arched doorways, and narrow winding streets. A large crowd of figures in first-century Middle Eastern garments — robes, head coverings, mantles — moves through the village center. Some figures sit along walls watching; others join the procession. Palm trees and sparse vegetation dot the landscape.",
+  "theological_description": "James Tissot's meticulously researched watercolor illustrates Luke's account of Jesus' final journey to Jerusalem, a narrative arc that dominates the central section of the Third Gospel (Luke 9:51-19:44). Luke writes that Jesus 'set his face to go to Jerusalem' (Luke 9:51), a phrase conveying absolute determination — Jesus knew what awaited Him there and went willingly. As He traveled through the villages of Galilee, Samaria, and Judea, He continued teaching, healing, and calling disciples, even as the shadow of the cross lengthened before Him. Tissot's depiction emphasizes the communal, public nature of Jesus' ministry: this is not a solitary mystic but a teacher who walks among the people, accessible in the streets and marketplaces. The archaeological accuracy of the architecture grounds the Gospel in concrete historical reality, countering any tendency to spiritualize Jesus out of His actual first-century Jewish context. The crowd that accompanies Him represents both the genuine seekers and the curious, the committed and the wavering — the same mixed multitude that would cry 'Hosanna' at His triumphal entry and 'Crucify Him' days later. The unseen destination, Jerusalem, charges the entire scene with dramatic irony: the holy city that kills the prophets (Luke 13:34) awaits its final Prophet.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.13.22",
+      "relevance": "primary",
+      "reason": "He went on His way through towns and villages, teaching and journeying toward Jerusalem — the specific verse this painting illustrates"
+    },
+    {
+      "ref": "LUK.9.51",
+      "relevance": "primary",
+      "reason": "He set His face to go to Jerusalem — the beginning of the great travel narrative toward the Passion"
+    },
+    {
+      "ref": "LUK.13.34",
+      "relevance": "allusion",
+      "reason": "O Jerusalem, Jerusalem, the city that kills the prophets — the tragic destination toward which Jesus purposefully travels"
+    },
+    {
+      "ref": "MAT.9.35",
+      "relevance": "allusion",
+      "reason": "Jesus went through all the towns and villages, teaching and proclaiming the good news of the kingdom — the itinerant ministry depicted"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "purposeful",
+    "bustling",
+    "warm",
+    "journeying"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060187",
+    "title": "He Went Through the Villages on the Way to Jerusalem",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

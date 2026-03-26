@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jael",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sisera",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant woman",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Jael killing Sisera with a tent peg",
+  "tags": [
+    "jael",
+    "sisera",
+    "tent-peg",
+    "hammer",
+    "assassination",
+    "sleeping-warrior",
+    "bed-scene",
+    "candle-light",
+    "old-testament-heroine",
+    "draped-curtain",
+    "maidservant",
+    "golden-vessels",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "hammer raised overhead — the instrument of divine judgment executed through Jael's hand",
+    "sleeping Sisera — the vulnerability of the mighty when God determines their fall",
+    "tent and curtains — Jael's domestic sphere transformed into a battlefield",
+    "candlelight — the hidden, secretive nature of the deed performed in darkness",
+    "attendant woman with lamp — witness to the act, possibly representing the women who celebrate the victory"
+  ],
+  "description": "A dramatically lit nocturnal scene depicting a woman in a white head covering and red sash, her right arm raised high holding a hammer or mallet, poised to strike downward at a muscular sleeping man who lies prone on a bed. Her left hand holds or guides a peg or nail toward his head. At the far left, another woman in darker garments holds a candle or small lamp, illuminating the scene from the side. The background is dark with a draped curtain at left and ornate vessels -- a golden ewer and other objects -- on a table at right.",
+  "theological_description": "The killing of Sisera by Jael is one of the most dramatic episodes in the book of Judges. After the Israelite victory over the Canaanite army commanded by Sisera, the defeated general fled and took refuge in the tent of Jael, wife of Heber the Kenite. While he slept, Jael drove a tent peg through his temple, fulfilling the prophetess Deborah's prediction that the Lord would deliver Sisera into the hand of a woman (Judges 4:9). This act is celebrated in the Song of Deborah as a decisive moment of divine deliverance: 'Most blessed of women be Jael, the wife of Heber the Kenite, most blessed of tent-dwelling women' (Judges 5:24). The scene raises challenging theological questions about violence, divine sovereignty, and the unexpected instruments God employs. Jael is neither a warrior nor a judge, but a tent-dwelling woman who becomes the agent of Israel's liberation -- a pattern repeated throughout Scripture where God chooses the unlikely to confound the mighty (1 Corinthians 1:27). In typological reading, Jael's victory over the enemy of God's people has been compared to Mary's role in the defeat of the serpent, and the tent peg to the cross by which Christ conquered the powers of darkness.",
+  "scripture_refs": [
+    {
+      "ref": "JDG.4.17-22",
+      "relevance": "primary",
+      "reason": "The narrative account of Jael inviting Sisera into her tent and killing him with a tent peg while he slept."
+    },
+    {
+      "ref": "JDG.5.24-27",
+      "relevance": "primary",
+      "reason": "The Song of Deborah celebrating Jael as most blessed of women for her role in Sisera's defeat."
+    },
+    {
+      "ref": "JDG.4.9",
+      "relevance": "primary",
+      "reason": "Deborah's prophecy that the Lord would sell Sisera into the hand of a woman -- fulfilled through Jael."
+    },
+    {
+      "ref": "1CO.1.27",
+      "relevance": "typological",
+      "reason": "God chose the weak things of the world to shame the strong -- Jael as an unlikely instrument of divine victory."
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The woman crushing the serpent's head -- Jael's act read as a type of the ultimate victory over evil."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "dramatic",
+    "violent",
+    "resolute"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0061248",
+    "title": "The Miracle of the Loaves and Fishes",
+    "artist": "Giovanni Lanfranco",
+    "model": "claude-opus-4-6"
+  }
+}

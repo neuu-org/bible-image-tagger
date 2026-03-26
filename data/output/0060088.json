@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Angel Bearing the Instruments of the Passion",
+  "tags": [
+    "angel",
+    "passion-of-christ",
+    "spear",
+    "sponge",
+    "instruments-of-passion",
+    "arma-christi",
+    "crucifixion-instruments",
+    "winged-figure",
+    "devotional-drawing",
+    "holy-lance"
+  ],
+  "symbols": [
+    "spear (Holy Lance) held by the angel — the lance that pierced Christ's side at the crucifixion, from which blood and water flowed",
+    "sponge on a reed — the sponge soaked in vinegar offered to Christ in His final moments on the cross",
+    "wings of the angel — the heavenly origin of the being who bears witness to and preserves the memory of Christ's suffering",
+    "flowing drapery — the liturgical and celestial dignity with which the instruments of suffering are treated",
+    "upward gaze of the angel — directing attention heavenward, from the earthly instruments of torture to their redemptive meaning"
+  ],
+  "description": "A sepia-toned drawing or wash study depicting a young angel with large, feathered wings striding forward while holding the instruments of the Passion. The angel carries a long spear (the Holy Lance) in one hand and what appears to be a reed with a sponge in the other. The figure wears flowing classical drapery that swirls with movement. The angel's face is youthful with curly hair, and the expression is one of solemnity. The drawing style is loose and expressive, characteristic of Baroque preparatory studies, with areas of darker wash creating depth and volume against a lighter background.",
+  "theological_description": "Murillo's drawing of an angel bearing the spear and sponge belongs to the rich tradition of depicting the Arma Christi — the instruments of Christ's Passion treated as sacred relics and symbols of redemption. The Holy Lance, which the soldier used to pierce Jesus' side (John 19:34), produced the flow of blood and water that the Church Fathers universally interpreted as signifying the sacraments of Eucharist and Baptism — the life-giving streams flowing from the wounded side of the new Adam. The sponge soaked in sour wine (Matthew 27:48) represents humanity's inadequate response to divine thirst — Jesus' cry 'I thirst' (John 19:28) being understood not merely as physical suffering but as the divine longing for human souls. That an angel bears these instruments transforms them from tools of torture into trophies of victory. In early Christian and medieval theology, the cross and its associated instruments were understood as weapons by which Christ conquered death and the devil. The angel carrying them is thus a herald of triumph, not merely a mourner of suffering. The upward dynamism of the figure — striding forward with wings spread — conveys the movement from Golgotha to glory, from death to resurrection.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.34",
+      "relevance": "primary",
+      "reason": "A soldier pierced Jesus' side with a spear, and at once there came out blood and water — the Holy Lance depicted in the angel's hand"
+    },
+    {
+      "ref": "MAT.27.48",
+      "relevance": "primary",
+      "reason": "One of them ran and took a sponge, filled it with sour wine, put it on a reed and gave it to Him to drink — the sponge on a reed the angel carries"
+    },
+    {
+      "ref": "JHN.19.28-29",
+      "relevance": "primary",
+      "reason": "Jesus said 'I thirst' and they put a sponge full of sour wine on a hyssop branch and held it to His mouth"
+    },
+    {
+      "ref": "COL.2.15",
+      "relevance": "typological",
+      "reason": "He disarmed the rulers and authorities and put them to open shame, triumphing over them — the instruments of Passion as trophies of Christ's victory"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "solemn",
+    "reverent",
+    "dynamic",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060088",
+    "title": "Angel holding the spear and sponge holder",
+    "artist": "Bartolomé Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

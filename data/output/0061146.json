@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Virgin Mary holding the infant Christ",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-jesus",
+    "gold-halo",
+    "red-robe",
+    "blue-mantle",
+    "landscape-background",
+    "half-length-portrait",
+    "crown-on-child",
+    "tenderness",
+    "window-ledge",
+    "hilltop-castle"
+  ],
+  "symbols": [
+    "gold halos — the divine sanctity of both Mother and Son",
+    "red robe of Mary — charity and the blood of Christ's Passion which she will witness",
+    "blue-green mantle — heavenly grace, fidelity, and Mary's association with the celestial realm",
+    "crown or radiance on the Christ Child's head — His kingship and divine nature even in infancy",
+    "landscape with castle beyond the window — the earthly realm over which Christ is Lord",
+    "window ledge framing — the painting as a window into sacred reality, inviting the viewer's devotion"
+  ],
+  "description": "A half-length depiction of the Virgin Mary holding the infant Christ Child. Mary wears a red dress and a dark blue-green mantle, with a gold halo surrounding her head. She gazes gently downward and to the side with a serene expression. The Christ Child, nude except for a transparent garment, sits on her left arm and appears to reach toward the viewer with one hand. He wears a small golden crown or radiate nimbus. Behind them, through an opening at left, a landscape with green hills and a distant castle or fortified town is visible under a pale blue sky.",
+  "theological_description": "The Madonna and Child is the most enduring subject in Christian art, rooted in the Incarnation -- the central mystery that the eternal Word of God took flesh from the Virgin Mary (John 1:14). This intimate half-length format, popularized in Italian Renaissance devotional painting, was designed for private prayer, enabling the faithful to meditate on the mystery of God becoming a helpless infant. Mary's red garment beneath the blue mantle follows a well-established iconographic code: red signifies Christ's humanity and the Passion, blue signifies the heavenly and divine. Together on Mary's person, they affirm the doctrine that she bore in her womb the one who is both God and man. The Christ Child's crown or radiant nimbus identifies Him as King even in infancy, fulfilling Gabriel's annunciation that He would receive 'the throne of his father David' and reign forever (Luke 1:32-33). The serene landscape beyond suggests the created order at peace under the reign of its infant King, anticipating Isaiah's vision of cosmic shalom.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "Gabriel's announcement that Mary will bear a son who will be given the throne of David and whose kingdom will have no end -- the crowned infant."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us -- the foundational mystery of the Incarnation depicted in every Madonna and Child."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son -- the prophetic anticipation fulfilled in Mary's motherhood."
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "God sent His Son, born of a woman -- Paul's summary of the Incarnation that this image embodies."
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary's contemplative gaze reflects her treasuring these things and pondering them in her heart."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "serene",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0061146",
+    "title": "Communion of the Apostles",
+    "artist": "Luca Signorelli",
+    "model": "claude-opus-4-6"
+  }
+}

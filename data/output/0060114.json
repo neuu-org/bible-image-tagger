@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Children",
+      "type": "GROUP"
+    },
+    {
+      "name": "Mothers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Jesus Blesses the Little Children",
+  "tags": [
+    "jesus-blesses-children",
+    "suffer-little-children",
+    "kingdom-of-god",
+    "blessing",
+    "childlike-faith",
+    "motherhood",
+    "disciples",
+    "humility",
+    "tenderness",
+    "gospel-scene"
+  ],
+  "symbols": [
+    "halo around Christ's head — divine identity and holiness, the light of God visible in the incarnate Son",
+    "small children reaching toward Jesus — the openness and trust that characterizes true faith, the model for all believers",
+    "mothers presenting their children — the role of parents in bringing the next generation to Christ",
+    "Christ's open arms and gentle posture — divine welcome and the inclusive love of God that embraces the least and the lowly",
+    "elderly figures looking on — the contrast between worldly wisdom and childlike receptivity, the disciples who initially tried to turn the children away"
+  ],
+  "description": "A vibrant Baroque composition depicting Christ surrounded by women and children, with older male figures (disciples) looking on. Christ stands at center, distinguished by a golden halo, wearing light-colored robes and gently interacting with the children pressed around him. Several mothers hold infants and toddlers, lifting them toward Jesus. The children range from nursing babies to young children, their flesh rendered in warm, luminous tones. The disciples — bearded older men — stand at the periphery with varied expressions.",
+  "theological_description": "Jacob Jordaens depicts one of the most beloved episodes of the Gospels: Jesus welcoming and blessing the little children whom the disciples had tried to turn away. The scene is recorded in all three Synoptic Gospels and represents a radical reversal of social expectations. In the ancient world, children had no status or rights; they were marginal figures. Yet Jesus declares them the very model of those who will enter the Kingdom of God: 'Let the little children come to me, and do not hinder them, for to such belongs the kingdom of God. Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it' (Mark 10:14-15). This teaching overturns the disciples' assumption that the Kingdom is for the powerful, the learned, the spiritually advanced. Instead, it is for those who come with empty hands and open hearts — with the trust, dependence, and receptivity of a small child. Jordaens' Baroque abundance of flesh and warmth emphasizes the incarnational dimension: God in Christ physically touches, holds, and blesses these small bodies. The mothers who bring their children enact the perennial role of faith transmission across generations, echoing Paul's praise of Timothy's faith 'which dwelt first in your grandmother Lois and your mother Eunice' (2 Timothy 1:5). The disciples at the margins embody the Church's perpetual temptation to restrict access to Christ — a temptation Jesus firmly rebukes.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.10.13-16",
+      "relevance": "primary",
+      "reason": "Let the little children come to me and do not hinder them — the primary Gospel text this painting illustrates"
+    },
+    {
+      "ref": "MAT.19.13-15",
+      "relevance": "primary",
+      "reason": "Matthew's parallel account of Jesus blessing the children brought to him"
+    },
+    {
+      "ref": "LUK.18.15-17",
+      "relevance": "primary",
+      "reason": "Luke's account specifying that infants were being brought to Jesus"
+    },
+    {
+      "ref": "MAT.18.3-4",
+      "relevance": "allusion",
+      "reason": "Unless you turn and become like children, you will never enter the kingdom of heaven — the theological teaching undergirding the scene"
+    },
+    {
+      "ref": "2TI.1.5",
+      "relevance": "allusion",
+      "reason": "Faith passed through generations from grandmother to mother to child — the mothers bringing children to Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "joyful",
+    "warm",
+    "welcoming"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060114",
+    "title": "Suffer the Little Children to Come Unto Me",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Saint Teresa of Avila",
+      "type": "PERSON"
+    },
+    {
+      "name": "Seraph with Golden Spear",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Ecstasy of Saint Teresa",
+  "tags": [
+    "ecstasy",
+    "saint-teresa",
+    "angel",
+    "golden-spear",
+    "transverberation",
+    "mystical-experience",
+    "baroque-sculpture",
+    "marble",
+    "golden-rays",
+    "aedicula",
+    "cornaro-chapel",
+    "columns",
+    "drapery"
+  ],
+  "symbols": [
+    "golden spear or arrow — divine love piercing the soul, the transverberation described by Teresa herself",
+    "angel's smile — the sweetness of divine encounter, love that wounds and heals simultaneously",
+    "Teresa's swooning posture — the total surrender of the self to God in mystical union",
+    "billowing drapery — the spiritual turbulence and ecstasy of the soul ravished by divine love",
+    "golden rays of light descending — the divine grace and glory pouring down from heaven",
+    "architectural aedicula with columns — the altar-like setting, framing the mystical event as a liturgical revelation"
+  ],
+  "description": "A photograph of Bernini's famous sculptural group in the Cornaro Chapel, Santa Maria della Vittoria, Rome. Saint Teresa of Avila reclines on a cloud of marble, her body arched backward, eyes closed, mouth slightly open in an expression of overwhelming spiritual ecstasy. Her Carmelite habit billows in deeply carved folds. Above her, a smiling youthful angel holds a golden spear poised to pierce her heart. Golden metal rays descend from above, simulating divine light.",
+  "theological_description": "Bernini's Ecstasy of Saint Teresa (1647-1652) is the supreme visual realization of Christian mystical theology. It depicts the transverberation described in Teresa's autobiography: 'I saw in his hand a long spear of gold, and at the iron's point there seemed to be a little fire. He appeared to me to be thrusting it at times into my heart, and to pierce my very entrails; when he drew it out, he seemed to draw them out also, and to leave me all on fire with a great love of God.' This experience of divine love as simultaneously painful and blissful stands in the tradition of the Song of Solomon (Song 2:5: 'I am sick with love') and the mystical theology of John of the Cross. The angel's golden spear evokes the flaming sword of the cherubim at Eden's gate (Genesis 3:24), now transformed from an instrument of exclusion to one of intimate divine encounter. Teresa's ecstasy is not escapism but the fullest engagement of the whole person -- body, mind, and spirit -- with the living God, fulfilling the great commandment to love the Lord 'with all your heart and with all your soul and with all your might' (Deuteronomy 6:5). Bernini's theatrical staging within the chapel, with the Cornaro family observing from side balconies, insists that mystical experience is not private but ecclesial -- the saints' encounters with God are given for the edification of the whole Church. The golden rays descending from above recall Psalm 36:9: 'In your light do we see light.'",
+  "scripture_refs": [
+    {
+      "ref": "SNG.2.4-5",
+      "relevance": "typological",
+      "reason": "He brought me to the banqueting house, and his banner over me was love; I am sick with love -- the bridal mysticism of Teresa's experience."
+    },
+    {
+      "ref": "DEU.6.5",
+      "relevance": "allusion",
+      "reason": "Love the Lord your God with all your heart, soul, and might -- the total self-giving depicted in Teresa's ecstasy."
+    },
+    {
+      "ref": "2CO.12.2-4",
+      "relevance": "allusion",
+      "reason": "Paul caught up to the third heaven, hearing things that cannot be told -- the apostolic precedent for mystical rapture."
+    },
+    {
+      "ref": "PSA.36.9",
+      "relevance": "allusion",
+      "reason": "In your light do we see light -- the golden rays of divine illumination descending upon the saint."
+    },
+    {
+      "ref": "GEN.3.24",
+      "relevance": "typological",
+      "reason": "The flaming sword of the cherubim, here transformed into the angel's spear of divine love that opens rather than bars the way to God."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "intimate",
+    "transcendent",
+    "rapturous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0061048",
+    "title": "The Return from Egypt",
+    "artist": "Giovanni Battista Tiepolo",
+    "model": "claude-opus-4-6"
+  }
+}

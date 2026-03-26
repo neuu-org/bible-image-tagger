@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "cherubim",
+      "type": "ANGEL"
+    },
+    {
+      "name": "devotees",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Immaculate Conception of the Virgin Mary",
+  "tags": [
+    "immaculate-conception",
+    "virgin-mary",
+    "standing-madonna",
+    "angels",
+    "cherubim",
+    "devotees-kneeling",
+    "nun",
+    "heavenly-glory",
+    "blue-mantle",
+    "pink-robe",
+    "full-length-figure",
+    "clouds",
+    "devotional-painting"
+  ],
+  "symbols": [
+    "Mary standing on clouds — her elevation above the earthly realm, preserved from original sin",
+    "blue mantle over pink/rose garment — the traditional Marian colors signifying heavenly grace (blue) and love/humanity (pink)",
+    "attendant angels — the heavenly court honoring the Mother of God",
+    "cherubim at her feet — the angelic host supporting the Queen of Heaven, echoing Psalm 99:1",
+    "kneeling woman at lower left — the faithful devotee seeking Mary's intercession",
+    "kneeling nun at lower right — consecrated religious life under Mary's patronage",
+    "radiant light behind Mary — the glory of God's grace that preserved her from the stain of sin"
+  ],
+  "description": "A large devotional painting depicting the Virgin Mary standing full-length at the center, elevated on clouds and bathed in golden light. She wears a pink or rose-colored dress with a flowing blue-green mantle. Her face gazes upward serenely. Two angels flank her at shoulder level, and several small cherub heads appear among the clouds below her feet. At the lower left, a young dark-haired woman in secular dress kneels in prayer, gazing up at the Virgin. At the lower right, a figure in white religious habit (a nun) also kneels in adoration.",
+  "theological_description": "This painting depicts the Immaculate Conception -- the Catholic doctrine, defined dogmatically by Pius IX in 1854, that the Virgin Mary was preserved from original sin from the moment of her conception by a singular grace of God in view of the merits of her Son Jesus Christ. The iconography follows the established type derived from the 'woman clothed with the sun' of Revelation 12:1 and the 'all-beautiful' beloved of Song of Songs 4:7 ('You are altogether beautiful, my love; there is no flaw in you'). Mary's elevated position above clouds signals her unique status among all creatures. The attending angels acknowledge her as Theotokos, the God-bearer honored by the Council of Ephesus (431 AD). The two kneeling devotees -- one lay, one religious -- represent the universality of Marian devotion across all states of life in the Church. Gabriel's greeting at the Annunciation, 'Hail, full of grace' (Luke 1:28), was understood by patristic and medieval theologians as indicating Mary's complete freedom from sin. The scene also recalls Genesis 3:15, the protoevangelium, in which God declares enmity between the woman and the serpent -- interpreted in Catholic tradition as referring to Mary's total victory over sin through her Immaculate Conception.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The elevated, luminous Virgin surrounded by heavenly attendants evokes the apocalyptic woman clothed with the sun."
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "typological",
+      "reason": "Gabriel's greeting 'full of grace' was interpreted as confirming Mary's sinlessness from conception, the foundation of Immaculate Conception theology."
+    },
+    {
+      "ref": "SNG.4.7",
+      "relevance": "typological",
+      "reason": "The 'altogether beautiful' beloved without flaw was applied to Mary in Immaculate Conception iconography and theology."
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The protoevangelium's enmity between the woman and the serpent was read as Mary's complete triumph over sin."
+    },
+    {
+      "ref": "LUK.1.48-49",
+      "relevance": "allusion",
+      "reason": "The kneeling devotees honor Mary as she prophesied: 'All generations will call me blessed, for the Mighty One has done great things for me.'"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "devotional",
+    "serene",
+    "luminous",
+    "reverential"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060721",
+    "title": "Nativity",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

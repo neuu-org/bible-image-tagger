@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Angelica",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Hermit",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Angelica and the Hermit",
+  "tags": [
+    "literary-subject",
+    "orlando-furioso",
+    "ariosto",
+    "temptation",
+    "vulnerability",
+    "hermit",
+    "sleeping-figure",
+    "garden-setting",
+    "lust",
+    "deception"
+  ],
+  "symbols": [
+    "sleeping nude woman — vulnerability and innocence exposed to predatory desire",
+    "hooded hermit leaning over her — false piety concealing carnal intent, the corruption of religious authority",
+    "lush garden with flowers and fruit — Edenic beauty perverted by sin, echoing the garden of temptation",
+    "dark woodland background — moral obscurity and the concealment of sin",
+    "discarded blue drapery — the stripping away of modesty and protection"
+  ],
+  "description": "A scene from Ariosto's 'Orlando Furioso' depicting the sleeping princess Angelica and a lecherous hermit. Angelica reclines nude on a grassy bank strewn with flowers and fruit, her body luminous against the dark foliage. An elderly hermit in a hooded red robe leans over her with evident intent, his aged face contrasting sharply with her youthful beauty. The background is a dense, dark woodland with a glimpse of open sky at upper left. The rich Venetian palette features warm flesh tones against deep greens and the vivid red of the hermit's garment.",
+  "theological_description": "Though drawn from Ariosto's Renaissance romance rather than Scripture, Tintoretto's scene resonates with biblical warnings about the corruption of religious authority and the abuse of trust. The hermit — a figure who should embody self-denial and holiness — is here consumed by lust, recalling Ezekiel's denunciations of shepherds who exploit their flock (Ezekiel 34:2-4) and Christ's warnings about wolves in sheep's clothing (Matthew 7:15). The garden setting, with its lush flowers and fruit surrounding a scene of temptation, inevitably evokes the Fall narrative of Genesis 3, where beauty and desire become instruments of transgression. The sleeping woman's vulnerability speaks to the biblical imperative to protect the defenseless rather than exploit them.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.7.15",
+      "relevance": "typological",
+      "reason": "Beware of false prophets who come in sheep's clothing — the hermit's religious garb conceals predatory intent"
+    },
+    {
+      "ref": "EZK.34.2-4",
+      "relevance": "allusion",
+      "reason": "Woe to the shepherds who feed themselves rather than the flock — the corruption of spiritual authority"
+    },
+    {
+      "ref": "GEN.3.6",
+      "relevance": "allusion",
+      "reason": "The garden setting with fruit and beauty linked to temptation evokes the original Fall"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sensual",
+    "sinister",
+    "lush",
+    "uneasy"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060073",
+    "title": "Angelica and the hermit",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

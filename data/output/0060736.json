@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Penitent Mary Magdalene in the wilderness",
+  "tags": [
+    "penitent-magdalene",
+    "mary-magdalene",
+    "skull",
+    "wilderness",
+    "bare-chest",
+    "dark-robe",
+    "repentance",
+    "asceticism",
+    "cave",
+    "rocky-landscape",
+    "clasped-hands",
+    "memento-mori",
+    "solitary-figure",
+    "gazing-upward"
+  ],
+  "symbols": [
+    "skull — memento mori, the vanity of worldly beauty and pleasures that Magdalene renounced",
+    "bare torso and simple cloak — the stripping away of worldly adornment, the radical poverty of the penitent life",
+    "hands clasped at chest — fervent prayer and contrition of heart",
+    "upward gaze — the soul's yearning for God, turning from earthly things to heavenly",
+    "rocky cave setting — the wilderness of penance, tradition placing Magdalene's final years in a cave at Sainte-Baume",
+    "emaciated body — mortification of the flesh, the long years of fasting and prayer"
+  ],
+  "description": "A half-length figure of an emaciated woman with long dark hair and bare upper body, draped in a rough brown cloak that covers her lower half. Her hands are pressed together at her chest in prayer, and she gazes upward with an expression of intense yearning and contrition. Her body is gaunt, the bones of her shoulders and chest visible, indicating prolonged fasting. To the lower right, a human skull rests on a rocky ledge. The setting is a dark, craggy landscape with rocky formations suggesting a cave or wilderness.",
+  "theological_description": "This painting depicts the Penitent Mary Magdalene, drawing on the Western tradition that conflated Mary of Magdala with the sinful woman of Luke 7:36-50 and Mary of Bethany. According to medieval legend (The Golden Legend of Jacobus de Voragine), after the Ascension of Christ, Magdalene withdrew to a cave in Provence where she spent thirty years in solitary penance and contemplation. The image captures the paradox at the heart of Christian repentance theology: through the total renunciation of worldly beauty and pleasure, the penitent discovers a far greater beauty in God. Luke 7:47 provides the key text: 'Her sins, which are many, are forgiven -- for she loved much.' Jesus' defense of the sinful woman against the Pharisee's contempt establishes that extravagant love born of forgiveness surpasses the cautious righteousness of those who believe they have little to be forgiven. The skull serves as a visual meditation on Ecclesiastes 1:2 -- 'Vanity of vanities, all is vanity' -- the transience of earthly beauty that Magdalene once possessed and has now freely surrendered. Her upward gaze echoes Psalm 42:1-2: 'As a deer pants for flowing streams, so pants my soul for you, O God. My soul thirsts for God, for the living God.' The emaciated body, far from being repulsive, represents in the theology of asceticism the 'living sacrifice' of Romans 12:1 -- the body offered wholly to God as an act of spiritual worship.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.47-48",
+      "relevance": "primary",
+      "reason": "Magdalene's penitential life is rooted in Jesus' declaration that her many sins are forgiven because she loved much."
+    },
+    {
+      "ref": "PSA.42.1-2",
+      "relevance": "typological",
+      "reason": "Her upward gaze of spiritual longing embodies the Psalmist's thirst for the living God."
+    },
+    {
+      "ref": "ROM.12.1",
+      "relevance": "typological",
+      "reason": "The mortified body offered in penitence represents the living sacrifice Paul calls spiritual worship."
+    },
+    {
+      "ref": "ECC.1.2",
+      "relevance": "allusion",
+      "reason": "The skull as memento mori reflects Ecclesiastes' meditation on the vanity and transience of all earthly things."
+    },
+    {
+      "ref": "2CO.4.16",
+      "relevance": "allusion",
+      "reason": "Though the outer self wastes away, the inner self is being renewed day by day -- Magdalene's emaciation reveals inner spiritual transformation."
+    },
+    {
+      "ref": "JHN.20.1-18",
+      "relevance": "allusion",
+      "reason": "The Magdalene who first witnessed the Risen Lord now spends her life in contemplative devotion to him."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitential",
+    "austere",
+    "yearning",
+    "contemplative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060736",
+    "title": "Landscape near Nice",
+    "artist": "Max Beckmann",
+    "model": "claude-opus-4-6"
+  }
+}

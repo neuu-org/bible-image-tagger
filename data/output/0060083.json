@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Father Time (Chronos)",
+      "type": "OTHER"
+    },
+    {
+      "name": "Youth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Putti",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Allegory of Time",
+  "tags": [
+    "allegory",
+    "time",
+    "chronos",
+    "classical-ruins",
+    "wings",
+    "vanitas",
+    "youth-and-age",
+    "transience",
+    "hourglass",
+    "mortality"
+  ],
+  "symbols": [
+    "winged old man (Chronos/Father Time) — the relentless passage of time that devours all earthly things",
+    "youth in red drapery — the fleeting beauty and vigor of mortal life",
+    "classical ruins in the background — the impermanence of even the greatest human achievements and empires",
+    "wings on the old man — the swiftness with which time passes, 'our days are like a shadow' (1 Chronicles 29:15)",
+    "small children (putti) — innocence and the brevity of childhood, the generations that rise and pass away"
+  ],
+  "description": "A Baroque allegorical painting depicting an encounter between a muscular, winged elderly man representing Chronos or Father Time and a younger figure draped in red cloth. The old man, shown with powerful dark wings and a weathered, sinewy body, reaches out to grasp or exchange something with the youth, who wears a laurel wreath. In the background, classical architectural ruins — a domed temple, broken columns, and crumbling structures — are visible under a dramatic sky. Small putti or children appear in the lower left, and scattered objects suggest the passage of time.",
+  "theological_description": "Heinrich Schonfeld's 'Allegory of Time' engages the universal theme of temporal transience that pervades both classical philosophy and biblical wisdom literature. The confrontation between the aged, winged figure of Time and the beautiful youth directly visualizes the Preacher's lament: 'Vanity of vanities, all is vanity. What does man gain by all the toil at which he toils under the sun? A generation goes, and a generation comes' (Ecclesiastes 1:2-4). The classical ruins that fill the background — temples, columns, once-grand structures now crumbling — embody the prophetic warning that all human glory is temporary: 'All flesh is grass, and all its beauty is like the flower of the field. The grass withers, the flower fades' (Isaiah 40:6-7). Yet within the biblical framework, this recognition of transience is not nihilistic but pastoral: it redirects the viewer's gaze from temporal achievements to eternal realities. The Psalmist's prayer emerges naturally from such a scene: 'So teach us to number our days that we may get a heart of wisdom' (Psalm 90:12).",
+  "scripture_refs": [
+    {
+      "ref": "ECC.1.2-4",
+      "relevance": "typological",
+      "reason": "Vanity of vanities — the painting's central theme of temporal transience and the cyclical passage of generations"
+    },
+    {
+      "ref": "ISA.40.6-8",
+      "relevance": "typological",
+      "reason": "All flesh is grass and its beauty like the flower of the field — the withering of youth and monuments alike before the passage of time"
+    },
+    {
+      "ref": "PSA.90.12",
+      "relevance": "allusion",
+      "reason": "Teach us to number our days — the moral lesson implicit in every vanitas allegory"
+    },
+    {
+      "ref": "1CH.29.15",
+      "relevance": "allusion",
+      "reason": "Our days on the earth are like a shadow, and there is no abiding — the winged flight of time depicted in the painting"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "contemplative",
+    "melancholic",
+    "dramatic",
+    "philosophical"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060083",
+    "title": "Allegory of Time",
+    "artist": "Heinrich Schonfeld",
+    "model": "claude-opus-4-6"
+  }
+}

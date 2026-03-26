@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Archangel Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Holy Spirit (as dove)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "diptych",
+    "archangel-gabriel",
+    "virgin-mary",
+    "dove",
+    "holy-spirit",
+    "niche",
+    "sculptural-painting",
+    "exterior-panels",
+    "triptych-wings",
+    "lily-scepter"
+  ],
+  "symbols": [
+    "dove descending — the Holy Spirit overshadowing Mary at the moment of the Incarnation",
+    "arched stone niches — the sacred enclosed space of the Annunciation, Mary as the temple of God",
+    "angel's raised scepter or lily — purity and the heavenly authority of the angelic messenger",
+    "Mary's open book — the Word of God which Mary pondered, and the prophecies now being fulfilled",
+    "grisaille technique simulating stone — the figures as living icons, evoking sculptural permanence and timelessness",
+    "diptych format separating angel and Virgin — the threshold moment between heaven and earth, divine proposal and human response"
+  ],
+  "description": "A diptych of two arched panels painted entirely in grisaille (monochrome grey-brown tones) to simulate stone sculpture. In the left panel, the Virgin Mary sits within a deep arched niche, her head gently inclined downward, one hand resting on a book in her lap. A small dove descends from above toward her. In the right panel, the Archangel Gabriel stands in an identical niche, body turned dynamically toward the left panel, robes billowing, one hand raised holding a staff or scepter, the other gesturing in greeting.",
+  "theological_description": "The Annunciation is the pivotal moment of salvation history -- the instant when the eternal Word of God took flesh in the womb of a young woman from Nazareth. Luke 1:26-38 records the angel Gabriel's greeting ('Hail, full of grace, the Lord is with you'), Mary's troubled questioning, the angel's explanation of the overshadowing of the Holy Spirit, and Mary's fiat: 'Let it be to me according to your word.' The diptych format, with angel and Virgin in separate panels, brilliantly captures the dialogical nature of the event: God proposes, and creation must respond freely. The grisaille technique, simulating carved stone statuary, lends the figures a monumental, eternal quality -- these are not mere historical actors but archetypes frozen in the most consequential conversation in history. The dove of the Holy Spirit bridging the gap between heaven and the Virgin's niche makes visible the invisible mystery of the Incarnation: 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you' (Luke 1:35). Mary's book alludes to the prophecy of Isaiah 7:14 that she herself now fulfills: 'Behold, a virgin shall conceive.' The closed altarpiece bearing this image means that the Annunciation greets the viewer as the first truth before all others are revealed -- fittingly, since without the Incarnation there is no gospel to proclaim.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation narrative: Gabriel's greeting, Mary's question, the promise of the Holy Spirit, and her fiat."
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son -- the prophecy fulfilled at the Annunciation."
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us -- the theological reality the Annunciation initiates."
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "When the fullness of time had come, God sent forth his Son, born of woman."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "contemplative",
+    "sacred",
+    "monumental"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060866",
+    "title": "The Conversion of Saint Paul",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

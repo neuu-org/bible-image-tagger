@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Saint Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome in Penitence in the Wilderness",
+  "tags": [
+    "saint-jerome",
+    "penitence",
+    "wilderness",
+    "church-father",
+    "hermit",
+    "skull",
+    "crucifix",
+    "desert-father",
+    "asceticism",
+    "repentance",
+    "bible-translator"
+  ],
+  "symbols": [
+    "skull beside Jerome — memento mori, the constant contemplation of death that drives the penitent to seek eternal life",
+    "crucifix or cross — the object of Jerome's devotion, the suffering Christ to whom the penitent turns",
+    "wilderness rocks and gnarled trees — the harsh desert of ascetic withdrawal, stripping away worldly comfort to seek God",
+    "aged, emaciated body — the mortification of the flesh through fasting and penance, the body disciplined to serve the spirit",
+    "outstretched arms — prayer, supplication, and self-offering before God"
+  ],
+  "description": "Titian's painting depicts the aged Saint Jerome kneeling in penitence in a rocky, wooded wilderness. The saint is shown with a gaunt, muscular body, his skin weathered and darkened by exposure. He kneels before a crucifix or devotional object, his arms extended in prayer. A human skull rests nearby as a memento mori. The landscape is dominated by craggy rocks, twisted tree trunks, and dense foliage, creating a claustrophobic wilderness setting.",
+  "theological_description": "Saint Jerome (c. 347-420), the great translator of the Bible into Latin (the Vulgate), spent years as a hermit in the Syrian desert before undertaking his monumental scholarly work. Titian's depiction captures the penitential dimension of Jerome's spirituality — the conviction that deep encounter with God requires the stripping away of worldly attachments. Jerome's wilderness sojourn directly echoes the biblical pattern of desert encounters with God: Moses at Sinai, Elijah at Horeb, John the Baptist in the Judean wilderness, and Christ's own forty-day temptation. The skull that accompanies Jerome visualizes Ecclesiastes' wisdom: 'Remember your Creator in the days of your youth, before the evil days come' (Ecclesiastes 12:1). Jerome himself wrote extensively about the spiritual combat of the desert, describing how in the wilderness he was assailed by temptations even as he sought to purify himself through fasting and prayer. As the translator who gave the Western church its standard Bible text, Jerome embodies the Psalmist's devotion: 'Your word is a lamp to my feet and a light to my path' (Psalm 119:105). The penitential posture reflects the call of Joel 2:12-13: 'Return to me with all your heart, with fasting, with weeping, and with mourning; rend your hearts and not your garments.'",
+  "scripture_refs": [
+    {
+      "ref": "PSA.119.105",
+      "relevance": "typological",
+      "reason": "Your word is a lamp to my feet — Jerome as the great translator of Scripture devoted his life to making God's word accessible"
+    },
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "typological",
+      "reason": "Jesus led into the wilderness — Jerome's desert penitence follows the pattern of Christ's wilderness experience"
+    },
+    {
+      "ref": "ECC.12.1-7",
+      "relevance": "allusion",
+      "reason": "Remember your Creator before the evil days come — the skull as memento mori reflects Ecclesiastes' meditation on mortality"
+    },
+    {
+      "ref": "JOL.2.12-13",
+      "relevance": "allusion",
+      "reason": "Return to me with all your heart, with fasting and weeping — Jerome's penitential posture embodies the prophetic call to repentance"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitential",
+    "austere",
+    "contemplative",
+    "somber"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060101",
+    "title": "Saint Jerome in Penitence",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Mourners",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Lamentation over the dead Christ",
+  "tags": [
+    "lamentation",
+    "entombment",
+    "dead-christ",
+    "mourning",
+    "grief",
+    "hands-raised",
+    "passion-of-christ",
+    "darkness",
+    "close-up",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "raised hands of the mourners — the universal gesture of grief and lamentation, echoing the wailing of Jeremiah's Lamentations",
+    "darkness pressing in — the spiritual darkness of Holy Saturday, when Christ lay in the tomb",
+    "crowded, intertwined figures — the communal nature of grief and the Church's shared sorrow at the Passion",
+    "partial visibility of the body below — Christ's body being prepared for burial, the nadir of the Incarnation"
+  ],
+  "description": "A dark, intensely dramatic close-up detail showing a cluster of mourning figures in extreme emotional distress. The composition is dominated by raised hands, anguished faces, and bodies pressing together in a tight, almost suffocating arrangement. The figures are rendered in deep purples, dark reds, and blacks with dramatic highlighting that picks out individual faces, hands, and the contours of drapery. At least four or five heads and multiple raised arms are visible, the mouths open in cries of grief. Below the mourners, a partially visible reclining form suggests the body of the deceased.",
+  "theological_description": "This detail from an Entombment or Lamentation scene plunges the viewer into the raw, unmediated grief of those who witnessed Christ's death and handled His lifeless body. The raised hands and open mouths recall the ancient Near Eastern mourning practices described throughout Scripture: 'Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow' (Lamentations 1:12). The composition strips away all distance and decorum, forcing the viewer into the company of the mourners -- to stand with Mary, John, and the faithful women at the foot of the cross and then at the tomb. The theological weight of this moment is immense: the eternal Word through whom all things were made (John 1:3) now lies dead, handled by human hands. This is the scandal of the Incarnation at its most extreme: God has entered so deeply into human experience that He has tasted death itself. The darkness of the scene visually embodies the 'darkness over all the land' (Mark 15:33) and anticipates the silence of Holy Saturday, when the Church waits in the tomb with its Lord. Yet Christian theology reads this nadir as the threshold of triumph: it is precisely by descending into the depths that Christ will 'destroy the one who has the power of death, that is, the devil' (Hebrews 2:14).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "The burial of Jesus -- Joseph of Arimathea and Nicodemus preparing the body, the direct narrative context."
+    },
+    {
+      "ref": "LAM.1.12",
+      "relevance": "typological",
+      "reason": "Is it nothing to you, all you who pass by? -- the universal cry of the mourners applied to the Passion."
+    },
+    {
+      "ref": "MRK.15.33",
+      "relevance": "primary",
+      "reason": "Darkness over the whole land from the sixth to the ninth hour -- the darkness pervading the scene."
+    },
+    {
+      "ref": "HEB.2.14",
+      "relevance": "allusion",
+      "reason": "Through death He destroyed the one who has the power of death -- the paradox of salvation through the nadir depicted."
+    },
+    {
+      "ref": "MAT.27.59-60",
+      "relevance": "primary",
+      "reason": "Joseph took the body and wrapped it in a clean linen shroud -- the handling of Christ's body by mourners."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "claustrophobic",
+    "dark",
+    "grief-stricken"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0061040",
+    "title": "The Penitent Magdalene",
+    "artist": "Jose de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

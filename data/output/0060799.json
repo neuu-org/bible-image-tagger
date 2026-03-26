@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Lucy",
+      "type": "PERSON"
+    },
+    {
+      "name": "Augustine",
+      "type": "PERSON"
+    },
+    {
+      "name": "angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saints Lucy and Augustine in paired devotional panels",
+  "tags": [
+    "saint-lucy",
+    "saint-augustine",
+    "paired-panels",
+    "arched-panels",
+    "martyr",
+    "bishop",
+    "church-father",
+    "eyes-on-plate",
+    "palm-branch",
+    "mitre",
+    "crozier",
+    "putti",
+    "devotional-painting",
+    "inscription",
+    "ecclesiastical-vestments"
+  ],
+  "symbols": [
+    "eyes on a plate — Saint Lucy's attribute, referencing her name (lux, light) and the legend of her blinding during martyrdom",
+    "palm branch — the universal symbol of martyrdom and victory over death through faith",
+    "bishop's mitre and crozier — Augustine's episcopal authority as Bishop of Hippo",
+    "book held by putto — the Word of God and Augustine's voluminous theological writings",
+    "putti above each figure — the heavenly court acknowledging the saints' glory",
+    "inscriptions 'S. LUCIA' and 'S. AVGVSTINE' — identification and invocation of the saints for intercession"
+  ],
+  "description": "Two arched devotional panels displayed side by side. The left panel depicts Saint Lucy (identified by the inscription 'S. LUCIA' at the base), a young woman in a pink-red dress and green-gold outer garment, holding a plate with two eyes in her right hand and a palm branch in her left. A winged putto hovers above her. The right panel shows Saint Augustine (inscribed 'S. AVGVSTINE'), an elderly bearded man in elaborate gold-and-red episcopal vestments with a tall mitre, holding a crozier. A putto above him holds an open book. Both figures stand against muted sky backgrounds with clouds.",
+  "theological_description": "This pair of devotional panels presents two beloved saints of the Catholic Church: Saint Lucy of Syracuse (d. 304) and Saint Augustine of Hippo (354-430). Lucy, a Sicilian virgin martyr killed during the Diocletian persecution, is one of the most venerated early martyrs. Her name derives from the Latin lux (light), and she became the patron saint of sight and the blind. The eyes on her plate, though based on later legend, connect to Jesus' teaching in Matthew 6:22-23: 'The eye is the lamp of the body. If your eye is healthy, your whole body will be full of light.' Her palm branch signals the martyrs' ultimate victory, as described in Revelation 7:9: the great multitude before the throne holding palm branches. Augustine, paired with Lucy, represents the intellectual tradition of the Church -- the Doctor of Grace whose theology of sin, redemption, and divine sovereignty shaped Western Christianity. His mitre and crozier signify the pastoral office described in 1 Peter 5:2-4: 'Shepherd the flock of God that is among you.' The pairing of virgin martyr and learned bishop reflects the Church's celebration of diverse paths to holiness -- the heroic witness of blood and the lifelong labor of teaching.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.6.22-23",
+      "relevance": "typological",
+      "reason": "Lucy's attribute of eyes on a plate connects to Jesus' teaching about the eye as the lamp of the body."
+    },
+    {
+      "ref": "REV.7.9",
+      "relevance": "typological",
+      "reason": "Lucy's palm branch echoes the vision of the great multitude of martyrs before God's throne, holding palm branches."
+    },
+    {
+      "ref": "1PE.5.2-4",
+      "relevance": "typological",
+      "reason": "Augustine's episcopal vestments and crozier embody Peter's exhortation to shepherd the flock of God."
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "allusion",
+      "reason": "Both saints exemplify Paul's declaration of having fought the good fight and kept the faith, now awaiting the crown of righteousness."
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Lucy's martyrdom fulfills Christ's exhortation: 'Be faithful unto death, and I will give you the crown of life.'"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "serene",
+    "reverential"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060799",
+    "title": "St. Francis",
+    "artist": "Jose de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

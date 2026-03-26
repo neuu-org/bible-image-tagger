@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "The Penitent Mary Magdalene in the wilderness",
+  "tags": [
+    "penitent-magdalene",
+    "mary-magdalene",
+    "cave",
+    "skull",
+    "crucifix",
+    "wilderness",
+    "repentance",
+    "golden-robe",
+    "prayer",
+    "reclining-figure",
+    "rocky-landscape",
+    "seashore",
+    "solitude",
+    "asceticism"
+  ],
+  "symbols": [
+    "skull — memento mori, the renunciation of worldly vanity and beauty",
+    "crucifix planted in rock — the cross as the anchor and focus of Magdalene's devotion",
+    "cave or rocky shelter — the legendary grotto at Sainte-Baume where Magdalene spent her final years in penance",
+    "golden-yellow cloak — the remnant of former worldly beauty now consecrated to penitential life",
+    "reclining posture with clasped hands — contemplative prayer and the surrender of the body to spiritual discipline",
+    "distant sea and open landscape — the vast emptiness renounced for the sake of intimacy with God"
+  ],
+  "description": "A horizontal composition depicting a semi-nude young woman with blonde hair reclining at the mouth of a rocky cave. She wears a golden-yellow drape over her lower body and legs, her bare shoulders and upper body visible. Her hands are clasped together in prayer as she gazes devotionally toward a crucifix propped against the rocks to her left. A human skull rests on the ground near the lower right corner. The landscape beyond the cave opens to a distant body of water under a moody sky with patches of blue. Large, dark boulders frame the scene, and sparse vegetation clings to the rocks above.",
+  "theological_description": "This painting follows the well-established iconographic tradition of the Penitent Magdalene in the wilderness, based on the medieval legend recorded in The Golden Legend that after the Ascension, Mary Magdalene sailed to Provence and withdrew to a cave where she spent thirty years in solitary penance and contemplation, sustained by angels. The crucifix toward which she gazes provides the theological center: her entire penitential existence is oriented toward the cross of the one who forgave her sins. Luke 7:47-48 records Jesus' declaration over the sinful woman (identified with Magdalene in Western tradition): 'Her sins, which are many, are forgiven -- for she loved much.' The skull memento mori reflects Ecclesiastes 12:1-7, the meditation on mortality that renders all earthly pleasures meaningless. Magdalene's transition from sinner to contemplative embodies the journey described in 2 Corinthians 5:17: 'If anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.' Her solitary cave existence also resonates with the Desert Fathers' theology of hesychia (stillness), finding its scriptural root in Psalm 46:10: 'Be still, and know that I am God.' The horizontal format, with its expansive emptiness, visually enacts the kenosis -- the self-emptying -- that characterizes authentic Christian discipleship (Philippians 2:7).",
+  "scripture_refs": [
+    {"ref": "LUK.7.47-48", "relevance": "primary", "reason": "Jesus' forgiveness of the sinful woman's many sins because she loved much is the theological origin of Magdalene's penitential devotion."},
+    {"ref": "2CO.5.17", "relevance": "typological", "reason": "Magdalene's radical transformation from sinner to contemplative embodies Paul's declaration of new creation in Christ."},
+    {"ref": "PSA.46.10", "relevance": "allusion", "reason": "The solitary stillness of the cave setting enacts the Psalmist's command to be still and know God."},
+    {"ref": "ECC.12.1-7", "relevance": "allusion", "reason": "The skull and the renunciation of beauty reflect Ecclesiastes' meditation on mortality and the vanity of earthly things."},
+    {"ref": "JHN.20.11-18", "relevance": "allusion", "reason": "The Magdalene who first encountered the Risen Lord now devotes her remaining life to contemplation of him through the crucifix."},
+    {"ref": "PHP.2.7", "relevance": "allusion", "reason": "The vast emptiness and Magdalene's self-emptying visually enact the kenosis at the heart of Christian discipleship."}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "penitential", "serene", "austere"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060856",
+    "title": "The Sacrifice of Isaac",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

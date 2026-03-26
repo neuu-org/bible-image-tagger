@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "Anthony of Padua", "type": "PERSON"},
+    {"name": "Jesus", "type": "DEITY"}
+  ],
+  "event": "Saint Anthony of Padua holding the Christ Child",
+  "tags": [
+    "saint-anthony-of-padua",
+    "christ-child",
+    "franciscan",
+    "brown-habit",
+    "tonsure",
+    "open-book",
+    "lilies",
+    "globe",
+    "barefoot",
+    "devotion",
+    "landscape-background",
+    "infant-jesus",
+    "vision"
+  ],
+  "symbols": [
+    "Christ Child seated on a book — the Word of God incarnate resting upon Scripture, Anthony's famed preaching",
+    "Franciscan brown habit — poverty, humility, and membership in the Order of Friars Minor",
+    "open book or cloth — Anthony's legendary eloquence and mastery of Scripture",
+    "globe held by the Christ Child — Christ's sovereignty over all creation",
+    "barefoot friar — evangelical poverty following the example of Christ and Francis",
+    "landscape with small figures in background — the worldly realm from which Anthony withdrew into contemplative union"
+  ],
+  "description": "A full-length portrait of a young tonsured Franciscan friar standing against a landscape background. He wears a grey-brown Franciscan habit with a knotted cord belt and is barefoot. In his left arm he cradles the Christ Child, a plump infant seated on a red and gold cloth draped over what appears to be a book. The Child holds a dark globe and gazes outward. The friar has a gentle, youthful face and looks directly at the viewer. Behind him, a pastoral landscape with trees extends into the distance, where small figures can be seen. The sky is partly cloudy with warm golden light.",
+  "theological_description": "Saint Anthony of Padua (1195-1231), a Portuguese Franciscan friar, is one of the most beloved saints in Catholic devotion. His signature attribute in art is the Christ Child appearing to him in a mystical vision, an event that became the defining image of his sanctity. The vision represents the intimate union between the contemplative soul and the incarnate Word -- Anthony's profound theological learning and fiery preaching were animated by a personal, tender encounter with Christ. The Christ Child holding a globe signifies the Pantocrator -- the ruler of all things -- paradoxically appearing as a helpless infant, echoing the kenotic mystery of the Incarnation (Philippians 2:6-8). The book beneath the Child connects Anthony's intellectual mastery of Scripture with the living presence of the Word made flesh: the written word of God becomes, in contemplative prayer, the living Word Himself. Anthony's Franciscan habit testifies to his embrace of Lady Poverty following Saint Francis, while his barefoot stance recalls the apostolic mission where Jesus sent the disciples without provisions (Luke 10:4). The image affirms that true theological knowledge is not merely academic but relational -- a holding of Christ close to the heart.",
+  "scripture_refs": [
+    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh and dwelt among us -- the Christ Child as the incarnate Word held by the contemplative friar."},
+    {"ref": "PHP.2.6-8", "relevance": "typological", "reason": "Christ emptied Himself, taking the form of a servant -- the Creator of all (globe) appearing as a vulnerable infant."},
+    {"ref": "MAT.18.3", "relevance": "allusion", "reason": "Unless you become like children you cannot enter the kingdom -- Anthony's childlike devotion mirroring the Child he holds."},
+    {"ref": "LUK.10.4", "relevance": "allusion", "reason": "Carry no purse, no bag, no sandals -- the apostolic poverty embodied in Anthony's barefoot Franciscan life."},
+    {"ref": "PSA.119.103", "relevance": "allusion", "reason": "How sweet are your words to my taste -- the book beneath the Child symbolizing Anthony's delight in Scripture."}
+  ],
+  "scene_type": "portrait",
+  "mood": ["tender", "devotional", "serene"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0061266",
+    "title": "Entry into the Ark",
+    "artist": "Giovanni Benedetto Castiglione",
+    "model": "claude-opus-4-6"
+  }
+}

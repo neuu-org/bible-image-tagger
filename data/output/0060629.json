@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Mary", "type": "PERSON"}
+  ],
+  "event": "The Assumption or Glorification of the Virgin Mary",
+  "tags": [
+    "virgin-mary",
+    "mandorla",
+    "glorification",
+    "assumption",
+    "standing-figure",
+    "ethereal",
+    "radiant-aura",
+    "rocky-landscape",
+    "golden-light",
+    "devotional-image",
+    "heavenly-apparition"
+  ],
+  "symbols": [
+    "mandorla of dark foliage or feathers — the boundary between earthly and heavenly realms, the sacred enclosure of divine presence",
+    "golden atmospheric glow — the glory of God surrounding the Blessed Virgin, recalling the 'woman clothed with the sun' (Revelation 12:1)",
+    "standing posture with hands joined — prayerful receptivity and the Virgin's fiat: 'Let it be to me according to your word' (Luke 1:38)",
+    "rocky, dark landscape below — the fallen world from which Mary is taken up into glory",
+    "luminous pale figure — purity and the grace of the Immaculate Conception"
+  ],
+  "description": "A luminous female figure stands upright within a large oval mandorla formed of dark, dense material resembling foliage or feathered texture. She is depicted in a pale, almost spectral manner with her hands clasped before her chest. The background radiates a warm golden tone above, while the lower portion of the composition is filled with dark, craggy rocks and mysterious vegetal forms in deep browns and purples. A small reddish form appears near the base. The overall effect is visionary and otherworldly, with the central figure glowing against the encircling darkness.",
+  "theological_description": "This visionary image evokes the glorification of the Virgin Mary, presenting her as an apparitional figure enveloped in a sacred mandorla -- the almond-shaped aureole traditionally reserved for figures of supreme holiness in Christian art. The composition resonates with the 'woman clothed with the sun' of Revelation 12:1, standing radiant amid cosmic darkness. The dark, organic mandorla surrounding her may also recall the burning bush of Exodus 3:2, which patristic writers such as Gregory of Nyssa and Ephrem the Syrian interpreted as a type of Mary -- the bush that burned with divine presence yet was not consumed, just as Mary bore the divine Word without losing her virginity. The golden atmosphere surrounding the figure suggests the Shekinah glory, the luminous presence of God. Her prayerful posture embodies the Magnificat (Luke 1:46-55), the great canticle in which Mary proclaims that the Mighty One has done great things for her. The painting captures the mystery of the Assumption or Dormition: Mary's translation from the earthly to the heavenly realm, body and soul united with her glorified Son.",
+  "scripture_refs": [
+    {"ref": "REV.12.1", "relevance": "typological", "reason": "The radiant woman surrounded by luminous glory within a mandorla evokes the apocalyptic vision of the woman clothed with the sun."},
+    {"ref": "LUK.1.38", "relevance": "allusion", "reason": "Mary's prayerful, receptive posture with joined hands embodies her fiat at the Annunciation."},
+    {"ref": "LUK.1.46-55", "relevance": "allusion", "reason": "The glorified Virgin evokes the Magnificat's proclamation that God has done great things for his lowly handmaid."},
+    {"ref": "EXO.3.2", "relevance": "typological", "reason": "The organic mandorla surrounding the luminous figure recalls patristic typology of the burning bush as a type of Mary's virginal motherhood."},
+    {"ref": "SNG.4.12", "relevance": "allusion", "reason": "The enclosed figure within the mandorla resonates with the 'enclosed garden' of the Song of Songs, a Marian symbol in Christian tradition."}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["mystical", "ethereal", "luminous", "contemplative"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060629",
+    "title": "Death of the Virgin",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

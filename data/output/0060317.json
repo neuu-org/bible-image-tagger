@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "James",
+      "type": "PERSON"
+    },
+    {
+      "name": "John",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Agony in the Garden of Gethsemane",
+  "tags": [
+    "agony-in-the-garden",
+    "gethsemane",
+    "passion-of-christ",
+    "prayer",
+    "sleeping-disciples",
+    "angel-comforting",
+    "predella-panel",
+    "olive-garden",
+    "vigil",
+    "submission-to-gods-will"
+  ],
+  "symbols": [
+    "kneeling Christ in prayer — total submission to the Father's will, even unto death",
+    "sleeping disciples — human frailty and the inability of the flesh to keep watch with the spirit",
+    "angel appearing from the left — divine strengthening sent by the Father (Luke 22:43)",
+    "mountainous landscape — the Mount of Olives, site of prophetic significance from Zechariah 14:4",
+    "separation between Christ and the disciples — the loneliness of the Savior who must face the cup alone"
+  ],
+  "description": "A horizontal predella panel depicting the Agony in the Garden. On the left, Christ kneels in prayer on a grassy hillock, his hands clasped and body inclined upward toward a small angelic figure descending from the upper left corner. In the middle ground, a rolling green landscape stretches toward distant blue mountains and spired buildings. On the right side of the panel, three disciples — Peter, James, and John — are shown seated and slumped in sleep among the rocks, their colorful robes of rose, blue, and tawny gold contrasting with the muted greens of the terrain.",
+  "theological_description": "The Agony in the Garden is one of the most theologically dense moments of the Passion narrative. Jesus withdraws from his disciples to pray, asking the Father to 'let this cup pass from me; yet not what I want but what you want' (Matthew 26:39). The scene captures the full weight of Christ's human nature — his dread, sorrow, and anguish — alongside his divine obedience. Luke alone records that 'an angel from heaven appeared to him and gave him strength' (Luke 22:43), a detail Botticini includes at the left. The sleeping disciples embody Jesus' admonition: 'the spirit indeed is willing, but the flesh is weak' (Matthew 26:41). Patristic commentators such as John Chrysostom saw in this scene the proof that Christ truly assumed a human will capable of shrinking from suffering, making his voluntary acceptance of the cross an authentic moral act rather than mere divine inevitability. The cup itself — a symbol of divine wrath in the prophets (Isaiah 51:17; Jeremiah 25:15) — reveals that what Christ faced was not merely physical torment but the full burden of human sin imputed to the sinless one (2 Corinthians 5:21). The garden setting itself echoes Eden: where Adam fell through disobedience in a garden, the New Adam begins his redemptive suffering through obedience in another garden.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.36-46",
+      "relevance": "primary",
+      "reason": "Matthew's account of Jesus praying in Gethsemane while the three disciples sleep, the direct narrative source for this scene."
+    },
+    {
+      "ref": "LUK.22.43-44",
+      "relevance": "primary",
+      "reason": "Luke's unique detail of the angel strengthening Jesus, depicted at the left of the panel."
+    },
+    {
+      "ref": "MRK.14.32-42",
+      "relevance": "primary",
+      "reason": "Mark's parallel account emphasizing Jesus' distress and the disciples' failure to stay awake."
+    },
+    {
+      "ref": "ISA.51.17",
+      "relevance": "typological",
+      "reason": "The cup of the Lord's wrath that Jerusalem was made to drink, prefiguring the cup Christ accepts in Gethsemane."
+    },
+    {
+      "ref": "2CO.5.21",
+      "relevance": "typological",
+      "reason": "God made him who had no sin to be sin for us — the theological weight behind the cup Christ must drink."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "contemplative",
+    "solemn",
+    "lonely"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060317",
+    "title": "Agony in The garden",
+    "artist": "Francesco Botticini",
+    "model": "claude-opus-4-6"
+  }
+}

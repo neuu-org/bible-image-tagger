@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Matthew",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Matthew Reading",
+  "tags": [
+    "saint-matthew",
+    "evangelist",
+    "reading",
+    "book",
+    "candlelight",
+    "apostle",
+    "gospel-writer",
+    "scripture",
+    "elderly-man"
+  ],
+  "symbols": [
+    "open book — the Gospel of Matthew, the written Word of God transmitted through human authorship under divine inspiration",
+    "bald head catching the light — wisdom and age, the illumination of the mind by the Holy Spirit",
+    "deep surrounding darkness — the darkness of a world into which the light of the Gospel shines (John 1:5)",
+    "single light source — divine revelation as the sole source of true knowledge, echoing 'Your word is a lamp to my feet' (Psalm 119:105)",
+    "intent gaze upon the text — contemplative reading of Scripture, the model of lectio divina"
+  ],
+  "description": "An elderly bald man, identified as Saint Matthew the Evangelist, is shown in near-total darkness, hunched over an open book that he holds up to read. The only illumination appears to come from a hidden candle or single light source that catches the top of his bald head in a warm golden glow and lights the pages of the book. His face is largely in shadow, with only the forehead and bridge of the nose catching reflected light from the pages. He wears a dark, heavy garment.",
+  "theological_description": "Georges de La Tour's depiction of Saint Matthew places the apostle and evangelist in the act of reading — or perhaps composing — his Gospel. Matthew, traditionally identified as the tax collector Levi called by Jesus (Matthew 9:9), became the author of the first Gospel in the canonical order, the Gospel that most systematically presents Jesus as the fulfillment of Old Testament prophecy. The extreme darkness surrounding the figure and the single source of light create a visual metaphor for the Johannine prologue: 'The light shines in the darkness, and the darkness has not overcome it' (John 1:5). The open book, illuminated while all else lies in shadow, embodies the Reformation principle of sola scriptura and the older patristic conviction that Scripture is the lamp of the Church. Jerome wrote that 'ignorance of Scripture is ignorance of Christ,' and La Tour's image makes this tangible: Matthew's entire being is oriented toward the sacred text. The candlelight tradition in La Tour's oeuvre also evokes Christ's own words: 'You are the light of the world... let your light shine before others' (Matthew 5:14-16) — the evangelist becoming himself a vessel of light through his Gospel.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.9.9",
+      "relevance": "primary",
+      "reason": "The calling of Matthew the tax collector, the identity of the saint depicted."
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "The light shines in the darkness — visually embodied in the single light source against the surrounding blackness."
+    },
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "Your word is a lamp to my feet and a light to my path — the illuminated book as symbol of Scripture's guiding light."
+    },
+    {
+      "ref": "MAT.5.14-16",
+      "relevance": "allusion",
+      "reason": "You are the light of the world — Matthew the evangelist as bearer of the Gospel light."
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "typological",
+      "reason": "All Scripture is God-breathed — the divine inspiration behind the text Matthew reads or composes."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "intimate",
+    "meditative",
+    "hushed"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060376",
+    "title": "St. Matthew",
+    "artist": "Georges de la Tour",
+    "model": "claude-opus-4-6"
+  }
+}

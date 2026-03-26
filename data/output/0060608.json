@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Serpent",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Adam and Eve with the Serpent in the Garden of Eden",
+  "tags": [
+    "adam-and-eve",
+    "fall-of-man",
+    "garden-of-eden",
+    "serpent",
+    "temptation",
+    "tree-of-knowledge",
+    "original-sin",
+    "nakedness",
+    "disobedience"
+  ],
+  "symbols": [
+    "serpent between Adam and Eve — the tempter, Satan working through the cunning creature to deceive humanity",
+    "tree of knowledge — the locus of the test of obedience, the boundary between creaturely freedom and divine command",
+    "nakedness of both figures — the original innocence before the Fall, and the vulnerability that shame will soon bring",
+    "dark, oppressive background — the spiritual darkness that the Fall introduces into creation, the loss of Edenic light",
+    "yellow flower at Adam's feet — a remnant of Eden's beauty, the goodness of creation not yet fully corrupted"
+  ],
+  "description": "An expressionist painting of Adam and Eve standing nude on either side of a dark tree trunk, behind which a serpent with a distinctly animal-like head peers out between them. Adam stands on the left, tall and gaunt, his skin rendered in pale grayish tones, his expression dour and uncertain. His left hand is raised with two fingers pointed upward. Eve stands on the right, shorter and rounder, with blonde hair, her eyes closed or averted, her posture leaning slightly away. The serpent between them has a dark elongated head with a visible red eye.",
+  "theological_description": "Max Beckmann's 'Adam and Eve' presents the primal couple at the decisive moment of human history — the temptation in the Garden of Eden. Genesis 2-3 records how God placed Adam and Eve in paradise with one prohibition: 'You must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die' (Genesis 2:17). The serpent, 'more crafty than any of the wild animals the Lord God had made' (Genesis 3:1), positioned between the two figures, embodies the intrusion of deception into the created order. Beckmann's expressionist distortion of the human forms — Adam gaunt and anxious, Eve sensual but averted — captures the psychological reality of temptation: the fracturing of human wholeness before the act of disobedience has even been completed. The dark, claustrophobic background strips Eden of its paradisiacal beauty, suggesting that Beckmann views the Fall not as a past event but as a present condition — the alienation and anxiety that characterize fallen existence. Paul's theology of the Fall in Romans 5:12 — 'sin entered the world through one man, and death through sin' — finds visual expression in the somber, death-haunted palette. Yet the same passage offers hope: 'just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous' (Romans 5:19).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The temptation of Adam and Eve by the serpent and the eating of the forbidden fruit — the scene depicted."
+    },
+    {
+      "ref": "GEN.2.17",
+      "relevance": "primary",
+      "reason": "God's prohibition against eating from the tree of knowledge, the divine command at the center of the drama."
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The protoevangelium: the offspring of the woman will crush the serpent's head — the first promise of redemption within the Fall narrative."
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "typological",
+      "reason": "Sin entered the world through one man, and death through sin — Paul's theology of the Fall as universal human condition."
+    },
+    {
+      "ref": "ROM.5.19",
+      "relevance": "typological",
+      "reason": "Through one man's disobedience many were made sinners; through one man's obedience many will be made righteous — the Adam-Christ typology."
+    },
+    {
+      "ref": "REV.12.9",
+      "relevance": "allusion",
+      "reason": "That ancient serpent called the devil — the identification of the Eden serpent with Satan in apocalyptic revelation."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "foreboding",
+    "oppressive",
+    "unsettling"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0060608",
+    "title": "Adam and Eve",
+    "artist": "Max Beckmann",
+    "model": "claude-opus-4-6"
+  }
+}

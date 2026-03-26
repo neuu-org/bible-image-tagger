@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Holy Spirit (as dove)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Baptism of Christ in the Jordan",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "john-the-baptist",
+    "dove",
+    "holy-spirit",
+    "angels",
+    "putti",
+    "divine-light",
+    "river",
+    "theophany",
+    "trinitarian-event",
+    "landscape-setting"
+  ],
+  "symbols": [
+    "dove descending amid light rays — the Holy Spirit descending upon Jesus at His baptism",
+    "putti surrounding the dove — the heavenly host witnessing the theophany",
+    "river water — purification, the Jordan as threshold between wilderness and promised land",
+    "angel holding red garment — Christ's future Passion, the cloak of suffering He will assume",
+    "divine light breaking through clouds — the voice of the Father: 'This is my beloved Son'",
+    "lush landscape with waterfalls — the renewal of creation inaugurated by Christ's baptism"
+  ],
+  "description": "A large arched-top painting depicting the Baptism of Christ in a lush landscape. At the center-left, a muscular, semi-nude Christ stands knee-deep in the waters of the Jordan, while John the Baptist, dressed in animal skins, pours water over His head. Above, a brilliant shaft of divine light breaks through the clouds, where a white dove descends surrounded by winged putti. To the right, an angel with large dark wings holds a red cloak, preparing to receive Christ as He emerges from the water. A group of richly dressed onlookers, including turbaned figures, watches from the right bank.",
+  "theological_description": "The Baptism of Christ in the Jordan is the supreme theophany of the New Testament and the inaugural event of Jesus' public ministry. All four Gospels record it, and the Synoptics specify the three elements visible in this painting: the Spirit descending as a dove, the heavens opening, and the Father's voice declaring 'This is my beloved Son, with whom I am well pleased' (Matthew 3:17). This is the revelation of the Trinity -- Father, Son, and Holy Spirit simultaneously manifest -- which is why the Baptism has always held a central place in Christian theology and liturgy. John the Baptist's role fulfills his own testimony: 'I am not the Christ, but I have been sent before him' (John 3:28); he is the last and greatest of the prophets, the friend of the bridegroom. The angel holding the red cloak is a liturgical addition drawn from Byzantine iconographic tradition, anticipating Christ's Passion -- the garment of suffering He will put on. The waters of the Jordan recall Israel's crossing under Joshua (the same name as Jesus in Hebrew), and Christ's entry into the water sanctifies all water for baptism, as the Church Fathers taught. The lush landscape suggests the renewal of creation: where Adam's sin had cursed the ground, Christ's descent into the waters begins the cosmic restoration that will culminate in the new heavens and new earth.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "Matthew's account of Jesus' baptism by John, the dove, and the Father's voice -- the direct event depicted."
+    },
+    {
+      "ref": "MRK.1.9-11",
+      "relevance": "primary",
+      "reason": "Mark's account of the baptism, the heavens torn open, and the Spirit descending like a dove."
+    },
+    {
+      "ref": "JHN.1.29-34",
+      "relevance": "primary",
+      "reason": "John's testimony: 'I saw the Spirit descend from heaven like a dove, and it remained on him.'"
+    },
+    {
+      "ref": "ISA.42.1",
+      "relevance": "typological",
+      "reason": "Behold my servant, in whom my soul delights; I have put my Spirit upon him -- the Servant Song fulfilled at the baptism."
+    },
+    {
+      "ref": "JOS.3.14-17",
+      "relevance": "typological",
+      "reason": "Israel crossing the Jordan under Joshua (Jesus), prefiguring Christ sanctifying the Jordan waters."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "luminous",
+    "sacred",
+    "awe"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060928",
+    "title": "The Garden of Paradise",
+    "artist": "Master of the Upper Rhine",
+    "model": "claude-opus-4-6"
+  }
+}

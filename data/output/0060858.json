@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Preaching Saint",
+      "type": "PERSON"
+    },
+    {
+      "name": "Congregation",
+      "type": "GROUP"
+    }
+  ],
+  "event": "A saint preaching from a pulpit",
+  "tags": [
+    "preaching",
+    "pulpit",
+    "halo",
+    "congregation",
+    "predella-panel",
+    "medieval-church",
+    "sermon",
+    "kneeling-figures",
+    "red-garments",
+    "gold-background"
+  ],
+  "symbols": [
+    "golden halo — sanctity and divine favor bestowed upon the preacher",
+    "elevated pulpit — the authority of sacred teaching and the proclamation of the Word",
+    "kneeling listener — humility and receptiveness before the Word of God",
+    "red garments of the audience — civic authority and the intersection of temporal power with spiritual instruction",
+    "open architectural setting — the public nature of the gospel proclamation"
+  ],
+  "description": "A small panel painting in a late-medieval Italian style with a gold ground. On the left, a haloed figure in a dark robe stands on an elevated wooden pulpit, one hand raised in a gesture of teaching or blessing, the other holding a round object, possibly a host or symbolic disc. A crowd of men, women, and children gathers to the right, several dressed in bright red tunics typical of Italian civic dress. One figure kneels in the foreground. The architectural backdrop includes simple buildings with arched openings and a sloping roof structure over the crowd.",
+  "theological_description": "This predella panel captures the quintessential act of Christian ministry: the public proclamation of the Word. The elevated pulpit recalls the biblical injunction to proclaim the gospel from the housetops (Matthew 10:27) and the Nehemiah scene where Ezra read the Law from a wooden platform before the assembled people (Nehemiah 8:4). The saint's halo marks him as one set apart by God for this ministry, while the attentive crowd below embodies the faithful response described in Romans 10:17: 'Faith comes from hearing, and hearing through the word of Christ.' The kneeling figure in the foreground demonstrates the proper posture of the soul before divine truth -- humility and openness. The presence of civic officials in red among the listeners reflects the medieval understanding that all earthly authority is accountable to the Word of God, and that preaching is not merely a private devotional exercise but a public act that shapes the common life.",
+  "scripture_refs": [
+    {
+      "ref": "ROM.10.14-17",
+      "relevance": "primary",
+      "reason": "How shall they hear without a preacher? Faith comes through hearing the Word -- the central act depicted."
+    },
+    {
+      "ref": "NEH.8.4-6",
+      "relevance": "typological",
+      "reason": "Ezra reading the Law from a raised wooden platform before the people, prefiguring Christian preaching from the pulpit."
+    },
+    {
+      "ref": "MAT.10.27",
+      "relevance": "allusion",
+      "reason": "What I tell you in the dark, speak in the light; what is whispered, proclaim from the housetops."
+    },
+    {
+      "ref": "2TI.4.2",
+      "relevance": "allusion",
+      "reason": "Preach the word; be ready in season and out of season -- the saint's public ministry of proclamation."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "instructive",
+    "attentive"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060858",
+    "title": "Baptism of Constantine",
+    "artist": "Attributed to Gianfrancesco Penni",
+    "model": "claude-opus-4-6"
+  }
+}

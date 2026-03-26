@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Crowd of onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Baptism of Christ in the Jordan River",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "john-the-baptist",
+    "immersion",
+    "crowd",
+    "river-landscape",
+    "mountains",
+    "classical-landscape",
+    "undressing",
+    "witnesses",
+    "blue-robe",
+    "sacrament",
+    "trees"
+  ],
+  "symbols": [
+    "river Jordan — the boundary between the old life and the new, the waters of purification and renewal",
+    "John the Baptist's gesture — pointing to or baptizing Christ, his role as forerunner fulfilled",
+    "crowd undressing and waiting — the universality of the call to repentance and baptism",
+    "mountainous landscape — the wilderness of Judea where John preached",
+    "figure approaching from the background — possibly representing those still journeying toward Christ"
+  ],
+  "description": "A classical landscape depicting the Baptism of Christ at the Jordan River. In the foreground, a large group of figures gathers on the riverbank. At the right, a muscular figure in a blue robe and animal skin -- John the Baptist -- stands prominently, gesturing toward the center. A white-clad figure stands in or near the water at center, being baptized. Around them, men, women, and children in various states of dress and undress prepare for baptism or watch the proceedings. Some figures point toward the central event.",
+  "theological_description": "The Baptism of Christ is one of the pivotal moments in the Gospels, marking the inauguration of Jesus's public ministry and revealing the Trinity. All four Gospels record that Jesus came from Galilee to the Jordan to be baptized by John. When He emerged from the water, the heavens opened, the Spirit descended like a dove, and the Father's voice declared, 'This is my beloved Son, with whom I am well pleased' (Matthew 3:16-17). This classical composition emphasizes the public, communal nature of the event -- John had been preaching a baptism of repentance, and crowds came from all over Judea. Jesus's submission to baptism, though He was without sin, is understood theologically as His identification with sinful humanity and His consecration for the redemptive mission that would culminate at the cross. Paul interprets baptism as participation in Christ's death and resurrection (Romans 6:3-4), and the Church has understood the baptism in the Jordan as the sanctification of all water for sacramental use. The classical landscape idiom, favored by Poussin and his followers, presents the event with monumental dignity, situating the sacred history within an idealized natural order that itself bears witness to its Creator.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "The account of Jesus's baptism by John, the Spirit's descent, and the Father's voice -- the central event depicted."
+    },
+    {
+      "ref": "MRK.1.4-5",
+      "relevance": "primary",
+      "reason": "John appeared in the wilderness preaching a baptism of repentance, and all the country of Judea came to him -- the crowds in the scene."
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold, the Lamb of God who takes away the sin of the world -- John's identification of Jesus at the Jordan."
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "typological",
+      "reason": "Baptized into Christ's death, raised to walk in newness of life -- the sacramental theology underlying the depicted event."
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "A voice crying in the wilderness: prepare the way of the Lord -- the prophecy fulfilled in John's ministry at the Jordan."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "revelatory",
+    "sacred",
+    "communal"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0061251",
+    "title": "View of the Old Town of Vilna",
+    "artist": "Mstislav Dobuzhinsky",
+    "model": "claude-opus-4-6"
+  }
+}

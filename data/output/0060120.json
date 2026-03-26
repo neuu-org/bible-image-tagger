@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-jesus",
+    "incarnation",
+    "motherhood",
+    "tenderness",
+    "devotional-image",
+    "halo",
+    "leonardesque",
+    "maternal-love"
+  ],
+  "symbols": [
+    "halo on the Virgin — holiness and her unique role as Theotokos, the God-bearer",
+    "infant Christ seated on her lap — the divine Logos made flesh, God dwelling among humanity in utter vulnerability",
+    "Mary's downcast, tender gaze — contemplative love and the Magnificat's humility, 'He has looked on the humble estate of his servant'",
+    "ceramic bowl on the table — domestic intimacy, the ordinariness of the household in which God chose to dwell",
+    "orange-red drapery — warmth, love, and the blood of sacrifice prefigured even in infancy"
+  ],
+  "description": "A half-length devotional painting showing the Virgin Mary seated with the Infant Jesus on her lap. Mary wears a blue-green gown with her reddish-brown hair falling softly over her shoulders, a faint halo encircling her head. She gazes downward with a gentle, contemplative expression, one hand delicately touching or guiding the child's hand. The Christ child sits facing slightly away, a plump and naturalistic infant with curly reddish hair, looking to the side with a serious expression.",
+  "theological_description": "Giovanni Antonio Boltraffio, a close pupil of Leonardo da Vinci, renders the Madonna and Child with the master's characteristic sfumato tenderness but with a distinct psychological intimacy. The painting distills the mystery of the Incarnation to its most personal dimension: a mother holding her infant son. Yet this is no ordinary domestic scene — the faint halo identifies the woman as the one whom all generations shall call blessed (Luke 1:48), and the child is Emmanuel, God-with-us (Matthew 1:23). The Virgin's contemplative downward gaze recalls Luke's description of Mary pondering all these things in her heart (Luke 2:19), aware that the child in her arms is both her son and her Lord. The naturalistic rendering of the Christ child — plump, restless, utterly human — affirms the full reality of the Incarnation against all docetic tendencies: this God truly took on human flesh, nursed at a human breast, and grew in wisdom and stature (Luke 2:52). The simple bowl on the table grounds the scene in domestic reality — God chose to enter the world not through palaces but through the humble household of a young woman in Nazareth.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus and Mary's maternal care — the intimate bond depicted in the painting"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasured up all these things, pondering them in her heart — her contemplative downward gaze"
+    },
+    {
+      "ref": "MAT.1.23",
+      "relevance": "allusion",
+      "reason": "They shall call his name Emmanuel, God with us — the theological meaning of God as a human infant"
+    },
+    {
+      "ref": "LUK.1.46-48",
+      "relevance": "allusion",
+      "reason": "The Magnificat — Mary's humble estate exalted, all generations calling her blessed"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "God sent forth his Son, born of a woman — the Incarnation through Mary as the foundation of the image"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "contemplative",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060120",
+    "title": "Madonna and Child",
+    "artist": "Giovanni Antonio Boltraffio",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Penitence of Mary Magdalene",
+  "tags": [
+    "penitent-magdalene",
+    "mary-magdalene",
+    "repentance",
+    "weeping",
+    "tears",
+    "handkerchief",
+    "contrition",
+    "devotion",
+    "forgiveness",
+    "half-length-portrait"
+  ],
+  "symbols": [
+    "downcast eyes — humility and contrition before God, the refusal to lift one's gaze in awareness of sin",
+    "white cloth or handkerchief — the wiping of tears, recalling the woman who washed Jesus' feet with her tears and dried them",
+    "red mantle — passionate love redirected from worldly desire toward Christ, the ardor of penitent devotion",
+    "veil over the hair — modesty and the covering of what was once an instrument of vanity and seduction",
+    "landscape glimpsed behind — the natural world as a place of retreat and contemplation, echoing desert spirituality"
+  ],
+  "description": "A close-up half-length portrait of a young woman with downcast eyes and a gentle, sorrowful expression. She wears a translucent reddish-brown veil over her hair and a deep red mantle draped over a white undergown. Her hands are raised to her chest, delicately holding a white cloth or handkerchief. A single tear is visible on her left cheek. Behind her, a softly rendered green landscape with trees and distant buildings provides atmospheric depth.",
+  "theological_description": "The Penitent Magdalene is one of the most beloved subjects in Christian devotional art, representing the transformative power of repentance and divine forgiveness. The traditional identification conflates the unnamed sinful woman of Luke 7:36-50, who washed Jesus' feet with her tears and dried them with her hair, with Mary Magdalene, from whom seven demons were cast out (Luke 8:2). Whether or not these are the same person historically, the composite figure became the archetype of the repentant sinner in Western theology. Augustine and Gregory the Great emphasized that Mary Magdalene's tears of contrition were more precious than any offering, because 'where sin increased, grace abounded all the more' (Romans 5:20). Her downcast eyes recall the tax collector in Jesus' parable who 'would not even look up to heaven, but beat his breast and said, God, have mercy on me, a sinner' (Luke 18:13). The handkerchief she holds connects to the tradition of her tears — tears that became a symbol of the sacrament of penance itself in medieval theology. She stands as proof that no past is beyond the reach of Christ's mercy, and that love born of forgiveness exceeds the love of those who believe they have little to be forgiven (Luke 7:47).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.37-50",
+      "relevance": "primary",
+      "reason": "The sinful woman who washed Jesus' feet with tears and dried them with her hair, traditionally identified with the Magdalene."
+    },
+    {
+      "ref": "LUK.8.2",
+      "relevance": "primary",
+      "reason": "Mary called Magdalene, from whom seven demons had gone out, the named figure behind the penitent tradition."
+    },
+    {
+      "ref": "ROM.5.20",
+      "relevance": "typological",
+      "reason": "Where sin increased, grace abounded all the more — the theological principle embodied in the Magdalene's conversion."
+    },
+    {
+      "ref": "LUK.18.13",
+      "relevance": "allusion",
+      "reason": "The tax collector who would not lift his eyes to heaven, paralleled in the Magdalene's downcast gaze of contrition."
+    },
+    {
+      "ref": "PSA.51.17",
+      "relevance": "typological",
+      "reason": "A broken and contrite heart, O God, you will not despise — the Psalm of penitence that underlies all Magdalene imagery."
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitent",
+    "tender",
+    "sorrowful",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060329",
+    "title": "Penitent Magdalene",
+    "artist": "Quentin Matsys",
+    "model": "claude-opus-4-6"
+  }
+}

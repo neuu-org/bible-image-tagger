@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "painted-crucifix",
+    "gold-ground",
+    "halo",
+    "loincloth",
+    "medallion-portraits",
+    "liturgical-object",
+    "shaped-cross",
+    "blood-of-christ",
+    "corpus-christi",
+    "devotional-panel",
+    "mourning-virgin",
+    "beloved-disciple"
+  ],
+  "symbols": [
+    "shaped painted crucifix — a liturgical devotional object suspended above the altar, making Christ's sacrifice present to the worshipping community",
+    "gold ground — the heavenly, eternal realm; the uncreated light of God's glory surrounding the sacrificial act",
+    "Christ's bowed head — the moment of death: 'He bowed his head and gave up his spirit' (John 19:30)",
+    "Mary in the left medallion — the Mother of Sorrows standing at the foot of the cross (John 19:25)",
+    "John in the right medallion — the beloved disciple entrusted with Mary's care (John 19:26-27)",
+    "bust portrait at top — likely Christ Pantocrator or a saint, affirming the divine identity of the crucified one",
+    "blood flowing from wounds — the atoning blood of the New Covenant (Matthew 26:28)"
+  ],
+  "description": "A large painted crucifix in the Italian medieval tradition, its shaped wooden form cut to follow the outline of the cross with trefoil or polylobed terminals at each arm-end. Christ is depicted with a halo, his body slightly curved, hanging from the cross against a gold background. He wears a translucent white loincloth and his head bows to the right. At the ends of the horizontal crossbar, small medallion portraits show the mourning Virgin Mary on the left and Saint John the Evangelist on the right, both with halos.",
+  "theological_description": "The Italian painted crucifix (croce dipinta) was the primary liturgical image of medieval Italian churches, suspended above the altar screen to make visible the central mystery of Christian faith: the sacrificial death of Christ. This example follows the Christus patiens tradition -- the suffering, dead Christ with bowed head -- which replaced the earlier Christus triumphans type in the thirteenth century under the influence of Franciscan devotion. The gold ground signifies the heavenly realm, asserting that this historical event of crucifixion is simultaneously an eternal, cosmic reality. The presence of Mary and John at the terminals of the cross-arms fulfills the Johannine scene (John 19:25-27) in which Jesus entrusts them to each other, establishing the community of the Church at the foot of the cross. Paul's theology of the cross as the power of God (1 Corinthians 1:18, 23-24) is embodied in the paradox of this image: the humiliated, dead figure is simultaneously the Lord of glory. The cross as Tree of Life -- a patristic theme developed by Irenaeus, Justin Martyr, and others -- finds expression in the flourishing polylobed terminals, suggesting that from death comes life, from the wood of the cross springs the fruit of salvation (Revelation 22:2).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25-30",
+      "relevance": "primary",
+      "reason": "The scene depicts the crucified Christ with bowed head, flanked by Mary and John, directly illustrating the Johannine Passion narrative."
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "typological",
+      "reason": "The painted crucifix as liturgical object embodies Paul's proclamation that the word of the cross is the power of God to those who are being saved."
+    },
+    {
+      "ref": "MAT.26.28",
+      "relevance": "typological",
+      "reason": "The blood flowing from Christ's wounds signifies the blood of the New Covenant poured out for the forgiveness of sins."
+    },
+    {
+      "ref": "REV.22.2",
+      "relevance": "typological",
+      "reason": "The flourishing terminal shapes of the cross evoke the Tree of Life, a patristic reading of the cross as the source of salvation."
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "The monumental crucifix embodies Paul's declaration: 'Far be it from me to boast except in the cross of our Lord Jesus Christ.'"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "devotional",
+    "sacred",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060673",
+    "title": "Still Life with Parrot and Fruit",
+    "artist": "Jan Davidsz de Heem",
+    "model": "claude-opus-4-6"
+  }
+}

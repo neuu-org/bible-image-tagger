@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Albert of Brandenburg",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Cardinal Albert of Brandenburg Kneeling before the Crucified Christ",
+  "tags": [
+    "crucifixion",
+    "cardinal",
+    "donor-portrait",
+    "devotion",
+    "passion-of-christ",
+    "cross",
+    "kneeling",
+    "prayer",
+    "red-robes",
+    "reformation-era"
+  ],
+  "symbols": [
+    "crucifix towering above the kneeling cardinal — the absolute supremacy of Christ's sacrifice over all earthly rank and ecclesiastical office",
+    "cardinal's red robes — both his ecclesiastical office and, symbolically, readiness for martyrdom; here they also signify Christ's shed blood",
+    "dark, stormy sky — the supernatural darkness at the crucifixion (Matthew 27:45), cosmic mourning at the death of God's Son",
+    "barren hill of Golgotha — the place of the skull, stripped of life, where death itself is defeated",
+    "clasped hands of the cardinal — prayerful dependence upon the merits of Christ's cross alone for salvation"
+  ],
+  "description": "A vertical composition depicting the crucified Christ on a tall wooden cross against a dark, ominous sky. Christ's body is lean and pale, his head drooping to one side, wearing only a white loincloth that billows slightly. At the foot of the cross, a large figure in voluminous red cardinal's robes kneels in prayer, hands clasped, gazing up at the crucified Savior. The cardinal's corpulent form and tonsured head are rendered with unflinching realism.",
+  "theological_description": "This donor painting by Lucas Cranach the Elder places Cardinal Albert of Brandenburg — Archbishop-Elector of Mainz and a central figure in the indulgence controversy that sparked the Reformation — in direct, solitary contemplation of the crucified Christ. The theological significance is profound and layered. The image presents the crucifixion not as a historical narrative but as a present devotional reality: the cardinal kneels before the cross as though it were erected for him personally, embodying the Pauline conviction that Christ 'loved me and gave himself for me' (Galatians 2:20). The isolation of the scene — no thieves, no soldiers, no mourners — strips the crucifixion to its essential soteriological meaning: the encounter between sinful humanity and the atoning Savior. The great disproportion between the massive, earthly bulk of the cardinal and the elevated, emaciated body of Christ visualizes the theology of the cross: God's power made perfect in weakness (2 Corinthians 12:9). Cranach, who was also Luther's close friend, painted this for a patron on the opposite side of the Reformation divide, yet the image itself transcends confessional boundaries — it is a meditation on the sufficiency of the cross, the heart of the Gospel proclaimed in Isaiah 53:5: 'he was pierced for our transgressions, he was crushed for our iniquities.'",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The crucifixion of Jesus at Golgotha, the foundational event depicted in this painting."
+    },
+    {
+      "ref": "MAT.27.45",
+      "relevance": "primary",
+      "reason": "Darkness over the land from the sixth to the ninth hour, reflected in the stormy, blackened sky."
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "typological",
+      "reason": "The Son of God who loved me and gave himself for me — the personal appropriation of the cross embodied by the kneeling cardinal."
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "He was pierced for our transgressions — the Suffering Servant prophecy fulfilled on the cross."
+    },
+    {
+      "ref": "2CO.12.9",
+      "relevance": "allusion",
+      "reason": "My power is made perfect in weakness — the visual contrast between the powerful cardinal and the fragile crucified Christ."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "devotional",
+    "austere",
+    "penitent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060355",
+    "title": "Albert, Cardinal Elector of Mainz at the foot of the Cross",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

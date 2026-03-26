@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Augustine",
+      "type": "PERSON"
+    },
+    {
+      "name": "angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Triumph or Glory of Saint Augustine",
+  "tags": [
+    "saint-augustine",
+    "bishop",
+    "mitre",
+    "crozier",
+    "church-father",
+    "triumph",
+    "angels",
+    "putti",
+    "clouds",
+    "classical-columns",
+    "episcopal-vestments",
+    "heavenly-glory",
+    "triumphant-ascent",
+    "heresy-defeated",
+    "dramatic-sky"
+  ],
+  "symbols": [
+    "bishop's mitre and crozier — Augustine's episcopal authority as Bishop of Hippo and Doctor of the Church",
+    "upraised arm — triumphal gesture, the victory of orthodox doctrine over heresy",
+    "angels and putti in attendance — the heavenly host celebrating Augustine's triumph of faith",
+    "classical columns in ruins — the fall of pagan philosophy and the triumph of Christian theology",
+    "billowing clouds — the heavenly realm into which Augustine's teaching ascends",
+    "dark figure beneath — a personification of heresy (Pelagianism, Manichaeism, or Donatism) vanquished by Augustine's theology"
+  ],
+  "description": "A dynamic, dramatically composed painting showing a bishop in full episcopal vestments -- a white and gold chasuble, red cope, and ornate mitre -- ascending on clouds with his right arm raised triumphantly and his left hand holding a tall crozier. He is surrounded by winged putti and angels who support him and gesture upward. Behind and above, broken classical columns and architectural fragments suggest a ruined pagan temple. A dark winged figure -- possibly representing heresy or the devil -- appears at the lower right, being driven downward.",
+  "theological_description": "This painting glorifies Saint Augustine of Hippo (354-430), one of the most influential theologians in the history of Christianity. The triumphant composition likely depicts Augustine's victory over heresy -- he spent decades combating Manichaeism, Donatism, and Pelagianism through his writings and pastoral authority. The dark figure being driven downward may personify heresy itself, recalling Augustine's systematic refutation of Pelagius' denial of the necessity of grace. Augustine's theology of grace -- that salvation is entirely a gift of God, not the product of human effort -- became foundational for Western Christianity and is rooted in Paul's letter to the Ephesians: 'By grace you have been saved through faith. And this is not your own doing; it is the gift of God' (Ephesians 2:8-9). The ruined classical columns suggest the supersession of pagan philosophy by Christian truth, echoing Augustine's own intellectual journey from Cicero and the Neoplatonists to the Gospel. His Confessions, one of the most important works in Western literature, records this conversion with the famous words 'Late have I loved you, beauty so ancient and so new.' The composition reflects the theology of Romans 8:37: 'In all these things we are more than conquerors through him who loved us.'",
+  "scripture_refs": [
+    {
+      "ref": "EPH.2.8-9",
+      "relevance": "typological",
+      "reason": "Augustine's theology of grace, for which he is glorified here, is grounded in Paul's teaching that salvation is by grace through faith, not by works."
+    },
+    {
+      "ref": "ROM.8.37",
+      "relevance": "typological",
+      "reason": "Augustine as 'more than a conqueror' through Christ, triumphing over heresy and error by the power of divine truth."
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "allusion",
+      "reason": "The triumphant bishop ascending in glory embodies Paul's declaration: 'I have fought the good fight, I have finished the race, I have kept the faith.'"
+    },
+    {
+      "ref": "JAS.4.6",
+      "relevance": "allusion",
+      "reason": "God opposes the proud but gives grace to the humble -- the core of Augustine's anti-Pelagian theology visualized in the defeat of the dark figure."
+    },
+    {
+      "ref": "1CO.1.19-20",
+      "relevance": "allusion",
+      "reason": "The ruined pagan columns evoke Paul's proclamation that God destroys the wisdom of the wise and the cleverness of the clever."
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "triumphant",
+    "dramatic",
+    "glorious",
+    "majestic"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060758",
+    "title": "Fete champetre with Turkish Musicians",
+    "artist": "Jean-Baptiste Vanmour",
+    "model": "claude-opus-4-6"
+  }
+}

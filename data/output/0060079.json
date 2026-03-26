@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna and Child Enthroned in a Floral Wreath",
+  "tags": [
+    "madonna-and-child",
+    "floral-wreath",
+    "incarnation",
+    "virgin-mary",
+    "infant-jesus",
+    "angels",
+    "flowers",
+    "devotional-image",
+    "garland",
+    "motherhood",
+    "botanical-painting"
+  ],
+  "symbols": [
+    "wreath of diverse flowers encircling mother and child — creation's beauty offered in homage to the Creator incarnate, and the garden of paradise restored through Mary",
+    "roses among the flowers — the traditional Marian symbol, the rose without thorns signifying Mary's sinlessness",
+    "lilies visible in the garland — purity of the Virgin, the lily of the valley from Song of Solomon",
+    "sleeping or resting Christ child — the divine Logos at rest in human flesh, prefiguring the peace He brings",
+    "two angels flanking Mary — heavenly attendants witnessing and venerating the mystery of the Incarnation"
+  ],
+  "description": "A sumptuous garland painting in the Flemish tradition, featuring a dense oval wreath of meticulously rendered flowers encircling a central devotional image of the Virgin Mary with the Infant Jesus and two small angels. The floral wreath is composed of an extraordinary variety of blooms — roses, tulips, lilies, irises, carnations, morning glories, poppies, daffodils, and many others — rendered in vivid reds, whites, yellows, pinks, and blues against a deep black background.",
+  "theological_description": "Jan Brueghel the Elder's garland painting belongs to a rich tradition of Counter-Reformation devotional art in which the beauty of creation literally surrounds and glorifies the central mystery of the Christian faith: the Incarnation. The floral wreath is far more than decorative — it is a theological statement. Each flower carries symbolic weight in the Marian tradition: roses signify Mary's love and her title as 'Mystical Rose'; lilies denote her purity; irises suggest her sorrow at the Passion to come. The sheer abundance and variety of blooms evoke the restored Garden of Eden — for in Catholic theology, Mary is the New Eve through whom the curse is reversed and paradise reopened. Isaiah's prophecy finds visual fulfillment here: 'The desert shall rejoice and blossom as the rose... they shall see the glory of the Lord' (Isaiah 35:1-2). The two angels attending the Virgin recall the angelic annunciation (Luke 1:26-38) and the perpetual heavenly worship surrounding the mystery of God-made-flesh. The sleeping child, serene in his mother's arms, embodies the peace of Philippians 4:7 — the peace that surpasses understanding, given to the world through the vulnerability of divine infancy.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation — the angels attending Mary recall Gabriel's visit and the beginning of the Incarnation"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus and Mary wrapping the infant — the tender maternal scene at the heart of the painting"
+    },
+    {
+      "ref": "ISA.35.1-2",
+      "relevance": "typological",
+      "reason": "The desert blossoming as a rose and seeing the glory of the Lord — the abundant flowers glorifying the incarnate God"
+    },
+    {
+      "ref": "SNG.2.1-2",
+      "relevance": "allusion",
+      "reason": "The rose of Sharon and lily of the valleys — traditional Marian imagery reflected in the garland's flowers"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "When the fullness of time had come, God sent forth His Son, born of a woman — the theological foundation of the Madonna and Child"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional",
+    "opulent",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060079",
+    "title": "Wreath with Virgin and Child and Two Angels",
+    "artist": "Jan Brueghel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

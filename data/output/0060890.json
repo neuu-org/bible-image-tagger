@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "abstract-expressionism",
+    "cross",
+    "passion-of-christ",
+    "suffering",
+    "red",
+    "sacrifice",
+    "atonement",
+    "heavy-impasto",
+    "figure-on-cross"
+  ],
+  "symbols": [
+    "vertical red-orange form — the crucified body of Christ, consumed and transfigured by suffering",
+    "surrounding darkness — the supernatural darkness that fell over the land during the crucifixion (Matthew 27:45)",
+    "fiery coloring — the sacrificial fire of divine love burning in Christ's self-offering",
+    "chaotic, thick paint surface — the cosmic upheaval at the moment of Christ's death",
+    "isolation of the central figure — Christ's solitude on the cross, forsaken by all"
+  ],
+  "description": "A densely layered abstract-expressionist painting dominated by a central vertical form in fiery red and orange, rising against a dark background of deep greens, blues, and blacks applied in heavy impasto. The central form suggests a human figure with arms extended, evoking a crucified body. The surrounding paint is churned and agitated, creating a sense of violent energy and turbulence. Small flashes of yellow and blue emerge from the darkness. The overall effect is one of primal intensity, as though the figure is simultaneously consumed by and radiating an inner fire.",
+  "theological_description": "This expressionist crucifixion strips away all narrative detail to confront the viewer with the raw theological core of Calvary: the intersection of absolute suffering and absolute love. The fiery central figure recalls the paradox of Hebrews 12:29 -- 'our God is a consuming fire' -- yet here the fire consumes not the sinner but the sinless One who takes the sinner's place. The isolation of the figure in darkness evokes the cry of dereliction: 'My God, my God, why have you forsaken me?' (Matthew 27:46). The heavy impasto and tortured surface become a visual analogue of Isaiah 53:5: 'He was wounded for our transgressions, he was crushed for our iniquities.' The red that dominates the composition speaks simultaneously of blood, sacrifice, and the divine love that motivated the Incarnation and Passion. By removing all historical specificity -- no thieves, no soldiers, no mourning women -- the artist universalizes the event, presenting the cross not as a first-century execution but as the eternal axis around which all of creation turns. The darkness pressing in from every side recalls the three hours of supernatural darkness, while the incandescent body at the center insists that even at the nadir of abandonment, the light shines in the darkness and the darkness has not overcome it (John 1:5).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.45-46",
+      "relevance": "primary",
+      "reason": "The darkness over the land and Christ's cry of dereliction, both evoked by the painting's dark palette and isolated central figure."
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "He was wounded for our transgressions -- the suffering servant prefiguring the crucified Christ."
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "The light shines in the darkness -- the incandescent figure persisting against the surrounding blackness."
+    },
+    {
+      "ref": "HEB.12.29",
+      "relevance": "allusion",
+      "reason": "Our God is a consuming fire -- the fiery quality of the crucified figure."
+    },
+    {
+      "ref": "JHN.3.16",
+      "relevance": "allusion",
+      "reason": "God so loved the world that he gave his only Son -- the divine love expressed through sacrificial self-giving."
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "anguished",
+    "intense",
+    "transcendent",
+    "dark"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0060890",
+    "title": "Christ the Redeemer",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

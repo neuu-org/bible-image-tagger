@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Benedict",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Scene from the life of Saint Benedict of Nursia",
+  "tags": [
+    "saint-benedict",
+    "monastic-life",
+    "cloister",
+    "architectural-setting",
+    "columns",
+    "arches",
+    "beggar",
+    "monks",
+    "charity",
+    "benedictine",
+    "renaissance-fresco",
+    "inscription-panel"
+  ],
+  "symbols": [
+    "classical architectural colonnade — the ordered life of the monastery, the Rule of Saint Benedict as a structure for holiness",
+    "monastic habit — consecrated life devoted to prayer, work, and obedience (ora et labora)",
+    "beggar or supplicant figure — Christ present in the poor and afflicted, per Matthew 25:35-40",
+    "inscribed panel at base — the didactic function of the fresco cycle, teaching the faithful through the saint's example",
+    "open courtyard — the cloister as an image of paradise, the enclosed garden of contemplative life"
+  ],
+  "description": "A Renaissance fresco depicting a scene from the life of Saint Benedict, set within an elaborate architectural space of classical columns, arched loggias, and tiled floors. At left, a ragged figure sits on the ground, possibly a beggar or a supplicant. In the center, a figure in a light-colored monastic habit stands prominently, likely Benedict himself. Other figures in robes and habits stand or move through the space. A Latin inscription panel appears at the base of the composition.",
+  "theological_description": "Saint Benedict of Nursia (c. 480-547) is the father of Western monasticism, whose Rule became the foundational document for communal religious life in Europe. This fresco, part of a narrative cycle depicting episodes from his life as recorded in the Dialogues of Pope Gregory the Great (Book II), presents the saint within the architectural order that mirrors his spiritual legacy. Benedict's Rule emphasized stability, obedience, and conversion of life -- virtues visually expressed in the orderly colonnade and cloister setting. The presence of a poor or afflicted figure recalls Christ's identification with the vulnerable in Matthew 25:35-40: 'I was hungry and you gave me food, I was a stranger and you welcomed me.' Chapter 53 of the Rule of Saint Benedict instructs that 'all guests who arrive should be received as Christ,' making hospitality a central monastic virtue. The architectural setting itself functions as a symbol of the Church as a spiritual edifice built on the foundation of the apostles (Ephesians 2:20-22), with the monastery as a microcosm of the heavenly Jerusalem.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.35-40",
+      "relevance": "typological",
+      "reason": "Benedict's encounter with the poor figure embodies Christ's teaching that service to the least is service to him."
+    },
+    {
+      "ref": "EPH.2.20-22",
+      "relevance": "allusion",
+      "reason": "The ordered architectural setting of the monastery evokes Paul's image of the Church as a holy temple built on the apostolic foundation."
+    },
+    {
+      "ref": "PSA.133.1",
+      "relevance": "allusion",
+      "reason": "The communal monastic scene illustrates the Psalmist's praise: 'How good and pleasant it is when brothers dwell together in unity.'"
+    },
+    {
+      "ref": "ACT.2.44-47",
+      "relevance": "typological",
+      "reason": "Benedictine cenobitic life takes its inspiration from the early Jerusalem community who held all things in common."
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "orderly",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060677",
+    "title": "Road to Calvary",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

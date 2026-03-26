@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Angel musicians", "type": "GROUP"}
+  ],
+  "event": "Angels making music in heavenly praise",
+  "tags": [
+    "angel-musicians",
+    "gold-halos",
+    "trumpets",
+    "shawm",
+    "heavenly-praise",
+    "altarpiece-detail",
+    "red-robes",
+    "winged-angels",
+    "celestial-music",
+    "worship",
+    "musical-instruments",
+    "medieval-panel"
+  ],
+  "symbols": [
+    "gold halos — divine sanctity and heavenly origin of the angelic beings",
+    "trumpets and shawm — instruments of heavenly praise, echoing the Psalmist's call to praise God with trumpet sound (Psalm 150:3)",
+    "red and crimson robes — the splendor and majesty of the heavenly court",
+    "wings — the angelic nature and capacity to move between heaven and earth as divine messengers"
+  ],
+  "description": "A detail from a medieval altarpiece showing four winged angels with large gold halos playing musical instruments. The two foreground angels, one in a dark reddish-brown belted robe and the other in a pink-and-white striped dress, play wind instruments -- a straight trumpet and a bagpipe-like shawm. Behind them, partially visible at the top, two more angels in red garments play a lute and another stringed instrument. The figures are set against a dark background, with rich gilding on the halos.",
+  "theological_description": "Angel musicians are a beloved motif in medieval and Renaissance altarpieces, typically surrounding the enthroned Madonna and Child or accompanying scenes of heavenly glory. Their presence visualizes the ceaseless worship described in the book of Revelation, where the heavenly host praises God unceasingly (Revelation 4:8). The Psalter's final hymn, Psalm 150, commands that God be praised with trumpet, lute, harp, strings, and pipe -- every instrument enlisted in divine worship. These angels embody that exhortation. In medieval theology, angelic music was understood as a reflection of the musica mundana, the cosmic harmony established by God at creation. The variety of instruments reflects the diversity of creation united in a single purpose: the glorification of the Creator. The gold halos and rich vestments indicate their participation in the liturgy of heaven, a liturgy that the earthly Church mirrors in its own worship.",
+  "scripture_refs": [
+    {"ref": "PSA.150.3-5", "relevance": "primary", "reason": "The psalm commands praise with trumpet, lute, harp, strings, pipe, and cymbals -- directly depicted in these angel musicians."},
+    {"ref": "REV.5.11-12", "relevance": "typological", "reason": "The myriads of angels around the throne singing praise to the Lamb, which this heavenly concert visualizes."},
+    {"ref": "REV.4.8", "relevance": "allusion", "reason": "The ceaseless worship of the living creatures before God's throne, which angel musicians symbolize in art."},
+    {"ref": "2CHR.5.13", "relevance": "allusion", "reason": "The trumpeters and singers joined in unison to praise the Lord at the Temple dedication, a foretaste of heavenly worship."}
+  ],
+  "scene_type": "liturgical",
+  "mood": ["joyful", "majestic", "devotional"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0061072",
+    "title": "The Sermon",
+    "artist": "Eyvind Earle",
+    "model": "claude-opus-4-6"
+  }
+}

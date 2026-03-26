@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Saint John Nepomuk",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Veneration of Saint John Nepomuk",
+  "tags": [
+    "roadside-shrine",
+    "saint-statue",
+    "patron-of-confession",
+    "martyr",
+    "baroque-sculpture",
+    "devotional-monument",
+    "pillar-saint",
+    "coat-of-arms",
+    "putti",
+    "veneration"
+  ],
+  "symbols": [
+    "halo of stars around the saint's head — the legendary five stars that appeared over the Vltava when Nepomuk's body was cast into the river, signifying sanctity and martyrdom",
+    "crucifix held by the saint — fidelity to Christ and to the seal of confession unto death",
+    "angels flanking the pedestal — heavenly witnesses to the saint's faithfulness and intercessors between heaven and earth",
+    "tall stone column elevating the figure — the saint raised above the world as a model of virtue, mediating between the terrestrial and the celestial",
+    "flowers and candles at the base — ongoing popular devotion and the living faith of the community"
+  ],
+  "description": "A monumental Baroque roadside pillar statue of Saint John Nepomuk, carved in light-colored stone, stands on an elaborate multi-tiered pedestal in an outdoor setting. The saint is positioned at the very top, holding a crucifix and surrounded by a starry halo. Below him, two winged putti flank a relief panel. The large rectangular base bears an ornamental coat of arms carved in relief. Bare winter trees frame the monument against a grey, overcast sky. Small floral offerings and devotional objects are placed at the foot of the monument, with benches set on either side.",
+  "theological_description": "Saint John Nepomuk, the 14th-century Bohemian priest martyred for refusing to divulge the queen's confession to King Wenceslaus IV, became one of the most popular saints of Central European Baroque piety. Though not a biblical figure, the cult of Nepomuk resonates with scriptural themes of faithfulness unto death and the sanctity of the priestly office. His martyrdom by drowning in the Vltava River finds typological echoes in the biblical motif of water as both death and purification. The five stars of his legend recall the apocalyptic imagery of Revelation, where stars symbolize angels and divine messengers. As patron saint of confessors, bridges, and those in danger of drowning, Nepomuk embodies James 5:16 and the sacramental seal. Pinzel's sculptural rendering, with its dramatic Baroque energy, elevates the saint heavenward in a visual sermon on the cost of priestly integrity.",
+  "scripture_refs": [
+    {
+      "ref": "JAS.5.16",
+      "relevance": "typological",
+      "reason": "Confession of sins to one another — Nepomuk's martyrdom was rooted in defending the sanctity of sacramental confession"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and I will give you the crown of life — Nepomuk chose death over betrayal of priestly duty"
+    },
+    {
+      "ref": "MAT.16.19",
+      "relevance": "allusion",
+      "reason": "The power of binding and loosing given to the Church — the theological foundation of the confessional seal Nepomuk died to protect"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "devotional",
+    "solemn",
+    "wintry",
+    "reverent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0060014",
+    "title": "Roadside figure of St. John Nepomuk",
+    "artist": "Johann Georg Pinzel",
+    "model": "claude-opus-4-6"
+  }
+}
