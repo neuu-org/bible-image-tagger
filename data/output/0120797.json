@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Samaritan Woman",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Jesus and the Samaritan Woman at the Well",
+  "tags": [
+    "samaritan-woman",
+    "well",
+    "stained-glass-window",
+    "gothic-tracery",
+    "palm-tree",
+    "water-jar",
+    "seated-christ",
+    "church-window",
+    "living-water",
+    "encounter"
+  ],
+  "symbols": [
+    "well — the source of physical water that Jesus transforms into a metaphor for eternal life",
+    "water jar — the earthly need that leads to encounter with divine provision",
+    "palm tree — the setting in Samaria, the land between Judea and Galilee",
+    "Christ seated at the well — the weary traveler who is also the source of living water"
+  ],
+  "description": "A tall Gothic stained glass window depicting the encounter between Jesus and the Samaritan woman at Jacob's well. The main scene in the center lancets shows a white-robed Jesus seated beside a well, speaking with a woman who holds or stands near a water vessel. A palm tree rises between them. The scene is set in a landscape with rocks and vegetation. Above in the tracery, smaller scenes and decorative elements fill the pointed arches. Below the main scene, additional smaller panels show related figures. The window glows with rich blues, reds, greens, and golden tones.",
+  "theological_description": "This stained glass window depicts the encounter between Jesus and the Samaritan woman at Jacob's well, one of the longest personal conversations recorded in the Gospels (John 4:1-42). Jesus, wearied from his journey, sits by the well and asks the woman for a drink — scandalizing her, because 'Jews do not associate with Samaritans' (John 4:9). Jesus then reveals himself as the source of a water far greater than Jacob's: 'Everyone who drinks this water will be thirsty again, but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life' (John 4:13-14). The conversation deepens as Jesus demonstrates supernatural knowledge of the woman's life, and she gradually comes to recognize him — first as 'a Jew,' then 'Sir,' then 'a prophet,' and finally, implicitly, the Messiah (John 4:25-26). This encounter breaks every social barrier: gender, ethnicity, religion, and moral status. The woman becomes the first evangelist in John's Gospel: 'Come, see a man who told me everything I ever did. Could this be the Messiah?' (John 4:29).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.4.7-14",
+      "relevance": "primary",
+      "reason": "Jesus speaking with the Samaritan woman at the well and offering living water"
+    },
+    {
+      "ref": "JHN.4.25-26",
+      "relevance": "primary",
+      "reason": "Jesus revealing himself as the Messiah to the Samaritan woman"
+    },
+    {
+      "ref": "JHN.4.29",
+      "relevance": "allusion",
+      "reason": "The woman's evangelistic response — inviting her town to come and see Jesus"
+    },
+    {
+      "ref": "JHN.7.37-38",
+      "relevance": "typological",
+      "reason": "Jesus's later declaration at the feast: rivers of living water flowing from the believer"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "luminous",
+    "revelatory",
+    "sacred",
+    "peaceful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120797",
+    "title": "Jesus and the Samaritan woman. Eglise Saint-Sulpice de Fougeres",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

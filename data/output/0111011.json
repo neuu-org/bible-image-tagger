@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Angel of the Lord",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Balaam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Balaam's Donkey",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Balaam and the Angel",
+  "tags": [
+    "balaam",
+    "angel-with-sword",
+    "donkey",
+    "blocked-path",
+    "divine-confrontation",
+    "narrow-road",
+    "rocky-passage",
+    "wings",
+    "drawn-sword",
+    "kneeling-donkey",
+    "prophetic-narrative",
+    "disobedience",
+    "divine-warning"
+  ],
+  "symbols": [
+    "angel blocking the path — God opposing those who go against his will",
+    "drawn sword — divine judgment ready to be executed",
+    "donkey that sees the angel — the irrational animal perceiving what the prophet cannot",
+    "narrow rocky path — the constrained road that allows no deviation from God's will",
+    "Balaam falling — the proud prophet humbled before divine authority"
+  ],
+  "description": "A monochrome illustration showing an angel standing in a narrow rocky passage, wings spread wide, wearing a short tunic with a strap and holding a sword. Before the angel, a donkey has collapsed to the ground, and its rider (Balaam) tumbles or crouches beside the animal, looking up at the angelic figure. The rocky walls of the passage rise on either side. The angel's expression is stern and confrontational. The illustration has a dramatic, engraved quality with fine cross-hatching and strong contrasts.",
+  "theological_description": "The story of Balaam and his donkey is one of the most remarkable episodes in the Torah. Balaam, a non-Israelite prophet, was hired by King Balak of Moab to curse Israel. Though God initially told Balaam not to go, Balaam persisted and was given permission to journey — but God was angry (Numbers 22:22). Three times the donkey saw the angel of the Lord blocking the path with a drawn sword and turned aside, and three times Balaam struck the animal. Then God opened the donkey's mouth and it spoke: 'What have I done to you, that you have struck me these three times?' (Numbers 22:28). Finally God opened Balaam's eyes and he saw the angel, who declared: 'The donkey saw me and turned aside. If she had not turned aside, I would certainly have killed you' (Numbers 22:33). The episode is rich in theological irony: the professional seer is blind to divine reality while his beast perceives it clearly. It demonstrates that God uses any means — even the mouth of a donkey — to communicate his will, and that prophetic gift does not guarantee prophetic obedience. Peter later used Balaam as a warning: 'a dumb donkey spoke with a human voice and restrained the prophet's madness' (2 Peter 2:16).",
+  "scripture_refs": [
+    {
+      "ref": "NUM.22.22-35",
+      "relevance": "primary",
+      "reason": "The full account of the angel blocking the road, the donkey's vision, and Balaam's confrontation"
+    },
+    {
+      "ref": "NUM.22.28",
+      "relevance": "primary",
+      "reason": "God opening the donkey's mouth to speak — the miraculous rebuke of the disobedient prophet"
+    },
+    {
+      "ref": "2PE.2.15-16",
+      "relevance": "typological",
+      "reason": "Peter using Balaam as a warning about false prophets motivated by greed"
+    },
+    {
+      "ref": "REV.2.14",
+      "relevance": "allusion",
+      "reason": "The teaching of Balaam who led Israel astray — the lasting legacy of prophetic corruption"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "confrontational",
+    "dramatic",
+    "humbling",
+    "tense"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0111011",
+    "title": "Balaam and the Ass, as in Numbers",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

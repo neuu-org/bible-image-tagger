@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome in a Rocky Landscape",
+  "tags": [
+    "saint-jerome",
+    "rocky-landscape",
+    "hermit",
+    "cave",
+    "towering-rocks",
+    "wilderness",
+    "ascetic",
+    "dramatic-cliffs",
+    "distant-village",
+    "stormy-sky",
+    "solitude"
+  ],
+  "symbols": [
+    "towering rock formations — the grandeur and severity of the wilderness retreat",
+    "small figure at the base — human insignificance before the vastness of creation and God",
+    "cave shelter — the hermit's dwelling, stripped of worldly comfort",
+    "distant village — the world Jerome has left behind for contemplative solitude"
+  ],
+  "description": "A dramatic landscape dominated by towering white and grey rock formations that rise steeply against a dark, stormy sky. At the lower right, a tiny figure of a hermit (Jerome) sits in a rocky grotto or cave entrance, barely visible against the immense scale of the cliffs. In the middle distance, nestled among the rocks, a small village with houses and a church is visible. Green vegetation clings to the rocks and fills the valleys between the formations. The landscape extends into a vast panorama with distant green fields and more cliffs.",
+  "theological_description": "Saint Jerome (c. 347-420), the great biblical translator who produced the Latin Vulgate, is frequently depicted as a hermit in the wilderness, reflecting his years of ascetic retreat in the Syrian desert. While post-biblical, Jerome's dedication to Scripture has direct biblical resonance. His translation work embodied the conviction that 'all Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness' (2 Timothy 3:16). The vast rocky landscape in which the tiny figure meditates evokes the biblical wilderness tradition — Moses at Sinai, Elijah at Horeb, Jesus in the Judean desert. The Psalmist's words find visual expression: 'I lift up my eyes to the mountains — where does my help come from? My help comes from the Lord, the Maker of heaven and earth' (Psalm 121:1-2). Jerome's solitary retreat into such forbidding terrain reflects his famous declaration: 'Ignorance of Scripture is ignorance of Christ.' The cave dwelling echoes Elijah's cave on Mount Horeb (1 Kings 19:9), where God spoke not in earthquake or fire but in a still small voice.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.121.1-2",
+      "relevance": "allusion",
+      "reason": "Lifting eyes to the mountains for help from the Lord — the vast rocky landscape as setting for divine encounter"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed — Jerome's life was dedicated to translating and studying the Word"
+    },
+    {
+      "ref": "1KI.19.9-12",
+      "relevance": "typological",
+      "reason": "Elijah in the cave on Mount Horeb — Jerome's cave retreat echoes this biblical pattern"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "sublime",
+    "austere",
+    "contemplative",
+    "vast"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0120748",
+    "title": "St. Jerome in Rocky Landscape",
+    "artist": "Joachim Patinir",
+    "model": "claude-opus-4-6"
+  }
+}

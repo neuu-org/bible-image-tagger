@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Annunciation — illuminated manuscript page",
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "floral-border",
+    "gothic-architecture",
+    "kneeling-angel",
+    "lily-scepter",
+    "blue-robe",
+    "heraldic-shields",
+    "medieval-miniature"
+  ],
+  "symbols": [
+    "kneeling Gabriel — heavenly reverence before the chosen vessel of the Incarnation",
+    "lily or golden scepter — purity and the divine message",
+    "Mary in blue — purity, fidelity, and the heavenly Queen",
+    "Gothic architecture — the Church as the setting for divine encounter",
+    "elaborate floral border — the beauty and abundance of creation celebrating this moment",
+    "heraldic shields — royal patronage and the connection between earthly and heavenly kingdoms"
+  ],
+  "description": "A richly illuminated manuscript page showing the Annunciation within a Gothic architectural setting. On the left, the Angel Gabriel kneels in golden robes, extending a golden lily or scepter toward Mary. On the right, the Virgin Mary stands in a blue robe, one hand raised in acceptance. Both figures are framed by Gothic arches with ornate tracery. The entire page is surrounded by an extraordinarily elaborate floral border with intertwined vines, flowers, birds, angels, and figures. At the bottom, heraldic shields with fleur-de-lis and royal arms are visible. Latin text fills the lower center.",
+  "theological_description": "This exquisite illuminated manuscript page frames the Annunciation within the full splendor of medieval devotional art. Every element — the gold, the flowers, the angels in the margins — celebrates the moment when heaven and earth converged in Mary's womb. Gabriel's kneeling posture expresses the angel's own awe at the mystery he announces: 'The Holy Spirit will come on you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God' (Luke 1:35). Mary's blue robe signifies both her purity and her heavenly destiny as Theotokos. The Gothic architecture frames the scene as liturgical — the Annunciation is not merely a historical event but an eternally present mystery celebrated in every recitation of the Angelus and every proclamation of the Incarnation. The elaborate border teeming with life expresses creation's participation in the joy of this moment — all of nature celebrates the arrival of the Word through whom 'all things were made' (John 1:3). The heraldic arms at the bottom connect the earthly patron to the heavenly scene, expressing the medieval conviction that all legitimate authority derives from and serves the Kingdom of God.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation — Gabriel's appearance to Mary — is the direct subject of the illumination"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit overshadowing Mary and the child being called Son of God"
+    },
+    {
+      "ref": "JHN.1.3",
+      "relevance": "allusion",
+      "reason": "All things made through the Word — creation's exuberance in the border celebrates the Incarnation"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The virgin conceiving Emmanuel — the ancient prophecy fulfilled"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "resplendent",
+    "reverent",
+    "joyful",
+    "ornate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130674",
+    "title": "Annunciation",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

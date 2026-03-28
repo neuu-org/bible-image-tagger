@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ (Dead)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Two Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Dead Christ supported by two angels",
+  "tags": [
+    "dead-christ",
+    "angels-supporting",
+    "pieta-variant",
+    "crown-of-thorns",
+    "wound-in-side",
+    "blood",
+    "white-loincloth",
+    "dark-wings",
+    "red-robes",
+    "stone-slab",
+    "lamentation",
+    "passion",
+    "death-of-christ",
+    "sorrowful-angels"
+  ],
+  "symbols": [
+    "dead body of Christ — the completed sacrifice, the price of redemption fully paid",
+    "wound in the side with flowing blood — the piercing of John 19:34, source of sacramental life",
+    "crown of thorns — the mockery of Christ's kingship that becomes his true crown of glory",
+    "angels supporting the body — heaven mourning and honoring the sacrificed Lamb of God",
+    "dark wings of angels — grief and solemnity of the cosmic event",
+    "red robes of angels — the blood of the Passion reflected in angelic mourning",
+    "stone slab — the altar of sacrifice and the tomb where Christ was laid",
+    "white loincloth — purity of the sinless victim"
+  ],
+  "description": "A somber painting showing the dead body of Christ seated on a stone slab, supported by two angels. Christ's head falls to one side, eyes closed, wearing a crown of thorns. His bare torso shows a wound in the side from which blood flows. He is draped in a white loincloth. The two angels, one on each side, wear red robes and have dark wings. They support Christ's body with tender, sorrowful expressions, their heads inclined toward him. The background is entirely dark, focusing all attention on the luminous pale body and the grieving angelic figures.",
+  "theological_description": "The Dead Christ Supported by Angels is a devotional image type (imago pietatis) that invites theological meditation on the completed sacrifice of the cross. Christ's body, bearing the visible wound in the side (John 19:34), the crown of thorns (Matthew 27:29), and the pallor of death, presents the full reality of the Incarnation's ultimate cost: the eternal Son of God truly died. The angels' sorrowful support expresses the cosmic dimension of this death — even heavenly beings mourn, for 'things into which angels long to look' (1 Peter 1:12). The wound in the side, from which blood and water flowed (John 19:34), became a central symbol of sacramental theology: the Church Fathers saw in it the birth of the Church, as Eve was taken from Adam's side. The stone slab functions simultaneously as tomb and altar, connecting Christ's death to the Eucharistic sacrifice. Isaiah 53:8-9 prophesied that the Servant would be 'cut off out of the land of the living' and 'they made his grave with the wicked' — yet this death is not defeat but the very means of salvation: 'by his wounds we are healed' (Isaiah 53:5).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.33-34",
+      "relevance": "primary",
+      "reason": "The soldier pierced Christ's side and blood and water flowed out — the wound prominently depicted"
+    },
+    {
+      "ref": "MAT.27.57-60",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea taking Christ's body and laying it in the tomb"
+    },
+    {
+      "ref": "ISA.53.5-9",
+      "relevance": "typological",
+      "reason": "The Suffering Servant wounded for our transgressions, cut off from the land of the living"
+    },
+    {
+      "ref": "1PE.1.12",
+      "relevance": "allusion",
+      "reason": "Things into which angels long to look — the angels mourning over the mystery of Christ's death"
+    },
+    {
+      "ref": "HEB.9.12",
+      "relevance": "allusion",
+      "reason": "Through his own blood he entered once for all into the holy places, securing eternal redemption"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "tender",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100421",
+    "title": "Cristo Muerto Sostenido Por Dos Ángeles",
+    "artist": "Francesco Ribalta",
+    "model": "claude-opus-4-6"
+  }
+}

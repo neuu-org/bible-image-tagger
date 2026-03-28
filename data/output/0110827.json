@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Sermon of Saint John the Baptist",
+  "tags": [
+    "john-the-baptist",
+    "preaching",
+    "large-crowd",
+    "wilderness-sermon",
+    "diverse-audience",
+    "forest-clearing",
+    "turbans",
+    "medieval-dress",
+    "repentance",
+    "baptism-of-repentance",
+    "pointing-figure",
+    "river-landscape",
+    "oak-trees",
+    "multitude-listening"
+  ],
+  "symbols": [
+    "John preaching in the wilderness — the voice crying in the wilderness, preparing the way of the Lord",
+    "enormous diverse crowd — the universal call to repentance before the coming of the Messiah",
+    "forest trees framing the scene — the wilderness setting of John's ministry",
+    "figure in light at right edge — possibly Christ arriving, whom John will identify as the Lamb of God",
+    "distant city on hill — Jerusalem and the world that will receive or reject the message"
+  ],
+  "description": "A panoramic landscape scene showing an enormous crowd gathered in a forest clearing to hear a preacher. The crowd fills nearly the entire canvas — hundreds of figures in varied, colorful dress including turbans, robes, and medieval European clothing. At center-left, a figure stands elevated among the trees, gesturing to the crowd. Two massive oak trees frame the scene on either side. At the right edge, a figure in light-colored garments stands apart. A distant landscape with a city on a hill is visible through the trees at right.",
+  "theological_description": "Bruegel's monumental rendering of John the Baptist's sermon captures the scale and urgency of the forerunner's ministry. John emerged from the wilderness preaching a 'baptism of repentance for the forgiveness of sins' (Mark 1:4), and 'the whole Judean countryside and all the people of Jerusalem went out to him' (Mark 1:5). The enormous, diverse crowd reflects this mass response — Pharisees and tax collectors, soldiers and commoners all came to hear the prophet. Bruegel characteristically dresses his biblical figures in contemporary Flemish and Near Eastern clothing, insisting that John's call to repentance is not ancient history but a present demand. The figure in white at the right edge — standing apart, unrecognized by the crowd — may represent Christ, of whom John would say: 'Among you stands one you do not know' (John 1:26). The wilderness setting fulfills Isaiah's prophecy: 'A voice of one calling in the wilderness, prepare the way for the Lord' (Isaiah 40:3). The oaks provide shade for the hearers just as the word provides shelter for the soul, while the distant city reminds viewers that this wilderness message will soon invade the corridors of power.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.3.3-14",
+      "relevance": "primary",
+      "reason": "John's preaching of repentance and his specific instructions to crowds, tax collectors, and soldiers"
+    },
+    {
+      "ref": "MRK.1.4-5",
+      "relevance": "primary",
+      "reason": "John appeared baptizing in the wilderness and all Judea came out to him"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "A voice crying in the wilderness: prepare the way of the Lord — the prophetic fulfillment of John's ministry"
+    },
+    {
+      "ref": "JHN.1.26",
+      "relevance": "allusion",
+      "reason": "Among you stands one you do not know — the unrecognized Christ possibly depicted at the edge"
+    },
+    {
+      "ref": "MAT.3.7-10",
+      "relevance": "primary",
+      "reason": "John's fierce warning to the Pharisees: bear fruit worthy of repentance"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "urgent",
+    "crowded",
+    "prophetic",
+    "anticipatory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110827",
+    "title": "The Sermon of St. John the Baptist",
+    "artist": "Pieter Bruegel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

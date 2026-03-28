@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Penitent Mary Magdalene",
+  "tags": [
+    "mary-magdalene",
+    "penitent",
+    "reclining-figure",
+    "wilderness",
+    "angel-above",
+    "halo",
+    "long-hair",
+    "skull",
+    "latin-inscription",
+    "devotional-print",
+    "upward-gesture",
+    "landscape-setting",
+    "contemplation"
+  ],
+  "symbols": [
+    "reclining penitent figure — Mary Magdalene's withdrawal into contemplative life",
+    "skull nearby — memento mori, meditation on death and the transience of worldly beauty",
+    "angel above — divine presence and the angelic comfort sustaining the penitent",
+    "halo — sanctity achieved through repentance",
+    "wilderness setting — the desert retreat of ascetic penitence",
+    "upward-reaching hand — aspiration toward heaven and the divine"
+  ],
+  "description": "An engraving showing a reclining woman with long hair and a halo in a wilderness setting, one hand reaching upward. She reclines among rocks and vegetation. Above her, a winged angel or putti descends from clouds. A skull and other objects are visible nearby. The landscape shows trees and a distant horizon. Below the image, Latin text identifies the subject as 'S. Maria Magdalene' with additional inscription. The style is classical, detailed engraving with careful crosshatching.",
+  "theological_description": "This devotional print of the penitent Magdalene draws on the rich Western tradition that identified Mary Magdalene with the sinful woman who washed Christ's feet (Luke 7:37-38) and portrays her later life as a desert hermit devoted to prayer and penitence. The Latin inscription beneath — describing her love of Christ, her role as exemplar of penitence — establishes the image as a moral lesson. The Magdalene's journey from sin to sainthood embodies the core gospel promise: that no one is beyond the reach of divine grace. Her reclining posture among rocks suggests the cave of Sainte-Baume where tradition holds she spent her final years in contemplation. The angel's presence confirms that her penitence is accepted — heaven itself attends to those who truly repent. The skull she contemplates recalls the vanity of the worldly life she left behind. As the first witness of the resurrection (John 20:11-18), the Magdalene occupies a unique position in salvation history: the one from whom seven demons were cast out (Luke 8:2) became the one entrusted with the most important message in human history: 'He is risen.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.37-50",
+      "relevance": "typological",
+      "reason": "The sinful woman who washed Christ's feet with tears — the traditional identification with Mary Magdalene"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "typological",
+      "reason": "Mary Magdalene at the empty tomb, commissioned as the apostle to the apostles"
+    },
+    {
+      "ref": "LUK.8.2",
+      "relevance": "typological",
+      "reason": "Mary from whom seven demons had gone out — the dramatic conversion undergirding her penitent tradition"
+    },
+    {
+      "ref": "LUK.15.7",
+      "relevance": "typological",
+      "reason": "More joy in heaven over one sinner who repents — the Magdalene as the supreme embodiment of this teaching"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "penitential",
+    "serene",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0110861",
+    "title": "Nativity",
+    "artist": "Giovanni Battista Piranesi",
+    "model": "claude-opus-4-6"
+  }
+}

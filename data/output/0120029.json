@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Woman caught in adultery",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pharisees and Accusers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd of onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ and the Woman Taken in Adultery",
+  "tags": [
+    "pericope-adulterae",
+    "woman-caught-in-adultery",
+    "pharisees",
+    "accusers",
+    "mercy",
+    "forgiveness",
+    "temple-court",
+    "judgment",
+    "crowd",
+    "ancient-architecture",
+    "confrontation",
+    "stone-steps"
+  ],
+  "symbols": [
+    "standing figure of Christ confronting the accusers — divine authority over human judgment",
+    "woman crouching or seated on the ground — vulnerability and shame before condemnation",
+    "accusers gathered in a group — collective self-righteousness",
+    "temple architecture — the setting where the Law was taught yet mercy was demonstrated"
+  ],
+  "description": "A sepia-toned drawing depicting a scene in an ancient architectural setting with steps and stone structures. A central standing figure in robes addresses a group of people gathered at right, many wearing draped garments and head coverings. At the left side, several figures sit or crouch on the ground near the base of the stone structure. The composition divides the accusers standing at right from the humbled figures at left, with the central standing figure mediating between them.",
+  "theological_description": "This scene depicts the Pericope Adulterae (John 7:53-8:11), in which the scribes and Pharisees bring a woman caught in adultery before Jesus, testing whether he will uphold Moses's command to stone her. Jesus, rather than answering directly, stoops and writes on the ground, then delivers the devastating challenge: 'Let him who is without sin among you be the first to throw a stone at her.' One by one the accusers depart, convicted by their own consciences, until only Jesus and the woman remain. His words — 'Neither do I condemn you; go, and from now on sin no more' — encapsulate the tension between divine justice and divine mercy that lies at the heart of the Gospel. Christ does not abolish the Law but fulfills it through grace: the one truly without sin chooses not to condemn but to redeem. This episode reveals that God's holiness does not delight in the destruction of the sinner but in repentance and transformation (Ezekiel 33:11).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.8.1-11",
+      "relevance": "primary",
+      "reason": "The direct narrative depicted: Jesus confronts the accusers of the woman caught in adultery in the temple courts"
+    },
+    {
+      "ref": "ROM.3.23-24",
+      "relevance": "allusion",
+      "reason": "All have sinned — the accusers' departure acknowledges their own guilt before God"
+    },
+    {
+      "ref": "EZK.33.11",
+      "relevance": "typological",
+      "reason": "God takes no pleasure in the death of the wicked but desires repentance, embodied in Christ's merciful response"
+    },
+    {
+      "ref": "ROM.8.1",
+      "relevance": "allusion",
+      "reason": "There is now no condemnation for those who are in Christ Jesus — fulfilled in his words to the woman"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "contemplative",
+    "merciful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120029",
+    "title": "Christ and the Sinner",
+    "artist": "Vasily Polenov",
+    "model": "claude-opus-4-6"
+  }
+}

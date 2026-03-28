@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldier",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "calvary",
+    "twilight-sky",
+    "mourners-at-foot",
+    "inri",
+    "roman-soldier",
+    "spears",
+    "fainting-virgin",
+    "sunset",
+    "wounds-of-christ",
+    "loincloth",
+    "dramatic-lighting",
+    "redemptive-death",
+    "golgotha"
+  ],
+  "symbols": [
+    "Christ on the cross — the atoning sacrifice of the Son of God for the sins of the world",
+    "twilight sky — the three hours of darkness that covered the land during the crucifixion",
+    "INRI inscription — Jesus of Nazareth, King of the Jews",
+    "fainting Virgin Mary — the mother's agony fulfilling Simeon's prophecy",
+    "Mary Magdalene in red clinging to the cross — the devotion of the repentant sinner",
+    "Roman soldier — the empire that executed Christ and would later be converted by his gospel",
+    "spears in background — the instruments of Roman power impotent before the cross"
+  ],
+  "description": "A powerful crucifixion scene showing Christ hanging on a tall wooden cross against a dramatic twilight sky of deep blue and orange. His head is bowed, wearing a halo of light. Below at the foot of the cross, a woman in red (Mary Magdalene) kneels in grief. The Virgin Mary lies on the ground in a faint, supported by another figure. A man in a turban and rich robes (possibly Joseph of Arimathea or Nicodemus) bends over the fallen Virgin. A Roman soldier with spears stands at left in silhouette.",
+  "theological_description": "Carl Bloch's Crucifixion captures the climactic moment of salvation history with both historical realism and theological depth. Christ hangs between heaven and earth, fulfilling his role as mediator between God and humanity. The dramatic twilight recalls the Synoptic account: 'From noon on, darkness came over the whole land until three in the afternoon' (Matthew 27:45) — a cosmic sign that creation itself mourned the death of its Creator. At the foot of the cross, the small group of faithful mourners represents those who remained when all others had fled. The fainting Virgin, overwhelmed by the sword that pierces her soul (Luke 2:35), embodies the deepest human grief. Mary Magdalene, clinging to the cross, demonstrates the devotion that would make her the first witness of the resurrection. The Roman soldier at left, representative of the empire that crucified Christ, stands in unwitting testimony — it was a Roman centurion who confessed, 'Truly this man was God's Son!' (Matthew 27:54). The entire scene centers on the paradox of the cross: what appears to be utter defeat is in fact the moment of ultimate victory. 'When I am lifted up from the earth, I will draw all people to myself' (John 12:32).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.45-54",
+      "relevance": "primary",
+      "reason": "The darkness over the land, Christ's death, and the centurion's confession"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary, Mary Magdalene, and the beloved disciple at the foot of the cross"
+    },
+    {
+      "ref": "JHN.12.32",
+      "relevance": "typological",
+      "reason": "When I am lifted up from the earth, I will draw all people to myself — the crucifixion as the hour of glory"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "He was pierced for our transgressions — the prophetic fulfillment visible in Christ's wounds"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "A sword will pierce through your own soul — the fainting Virgin's agony"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "dramatic",
+    "sorrowful",
+    "transcendent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110608",
+    "title": "The Crucifixion",
+    "artist": "Carl Bloch",
+    "model": "claude-opus-4-6"
+  }
+}

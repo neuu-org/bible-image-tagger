@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Dominic",
+      "type": "PERSON"
+    },
+    {
+      "name": "Putti/Cherubs",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Virgin of the Rosary presenting the rosary to Saint Dominic",
+  "tags": [
+    "rosary-madonna",
+    "virgin-and-child",
+    "saint-dominic",
+    "rosary",
+    "rosary-mysteries",
+    "dominican-habit",
+    "putti",
+    "blue-mantle",
+    "red-robe",
+    "kneeling-saint",
+    "heavenly-apparition",
+    "medallions",
+    "devotional-image",
+    "palm-fronds",
+    "book"
+  ],
+  "symbols": [
+    "rosary — the prayer of meditation on the mysteries of Christ's life through Mary's intercession",
+    "medallion scenes at base — the mysteries of the rosary depicting events from the lives of Christ and Mary",
+    "Dominican black and white habit — the order traditionally credited with promoting the rosary",
+    "kneeling posture — devotion, humility, and receptivity to divine gifts",
+    "Virgin enthroned on clouds — heavenly queenship and intercessory role",
+    "infant Christ — the Incarnation at the center of rosary devotion",
+    "putti with book — angelic participation in the transmission of sacred prayer",
+    "palm fronds — victory and triumph of faith"
+  ],
+  "description": "A tall devotional painting divided into two registers. In the upper portion, the Virgin Mary appears enthroned on clouds wearing a red robe and blue mantle, holding the infant Jesus who reaches toward a kneeling figure in a Dominican black and white habit. Two putti below read from an open book. In the lower register, arranged in a decorative pattern, are numerous small oval and round medallions containing miniature painted scenes, flanked by palm fronds. The overall composition creates a visual meditation program, with the heavenly vision above and the narrative mysteries below.",
+  "theological_description": "The Rosary Madonna presents a visual theology of meditation on the mysteries of salvation history through the prayer of the rosary. The upper scene shows the Virgin and Child appearing to a Dominican saint, traditionally understood as the transmission of the rosary devotion. The medallion scenes below depict the Joyful, Sorrowful, and Glorious mysteries — from the Annunciation (Luke 1:26-38) through the Crucifixion (John 19:17-30) to the Coronation of Mary. This structure embodies the theology of contemplative prayer: by meditating on the key events of Christ's life — Incarnation, Passion, and Glorification — the believer enters more deeply into the mystery of salvation. Mary's role as intercessor is grounded in her presence at key moments: the Incarnation, Cana (John 2:1-5), the Cross (John 19:25), and Pentecost (Acts 1:14). The infant Christ reaching toward the kneeling saint through Mary's mediation visually expresses the conviction that devotion to Mary always leads to deeper union with Christ.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "typological",
+      "reason": "The Annunciation — the first Joyful Mystery of the rosary, depicted among the medallion scenes"
+    },
+    {
+      "ref": "LUK.2.1-20",
+      "relevance": "typological",
+      "reason": "The Nativity — among the Joyful Mysteries depicted in the medallions"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "typological",
+      "reason": "Mary at the foot of the cross — a Sorrowful Mystery and the foundation of her intercessory role"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary pondered all these things in her heart — the biblical model for the contemplative prayer the rosary embodies"
+    },
+    {
+      "ref": "ACT.1.14",
+      "relevance": "allusion",
+      "reason": "Mary praying with the apostles before Pentecost — her role in the prayer life of the Church"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "contemplative",
+    "reverent",
+    "instructive"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0100386",
+    "title": "Rosary Madonna",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

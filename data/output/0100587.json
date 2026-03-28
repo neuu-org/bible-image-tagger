@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Christ in agony on the cross",
+  "tags": [
+    "crucifixion",
+    "christ-on-cross",
+    "elongated-figure",
+    "dark-sky",
+    "cityscape-below",
+    "crown-of-thorns",
+    "inri",
+    "white-loincloth",
+    "solitary-cross",
+    "dramatic-clouds",
+    "mannerist",
+    "upward-gaze",
+    "outstretched-arms",
+    "calvary"
+  ],
+  "symbols": [
+    "solitary towering cross — Christ's isolation in bearing the sin of the world",
+    "elongated body — the stretching, straining agony of crucifixion and the spiritual reaching between heaven and earth",
+    "dark stormy sky — the darkness that covered the land during the crucifixion",
+    "city below — Jerusalem, the holy city that rejected and crucified its Messiah",
+    "INRI inscription — Jesus of Nazareth, King of the Jews, the ironic truth proclaimed even in mockery",
+    "upward gaze — Christ's prayer to the Father even in extremity",
+    "white loincloth — purity of the sinless sacrifice"
+  ],
+  "description": "A striking painting of Christ crucified on a tall solitary cross, his elongated body glowing pale against a dramatically dark, turbulent sky. The figure of Christ is rendered in El Greco's characteristic elongated, mannerist style, his head tilted upward and to the right, eyes gazing heavenward. He wears only a white loincloth, with a crown of thorns and an INRI plaque above. Below the cross, a small cityscape of Toledo or Jerusalem is visible with buildings and figures. The sky is deeply dark with swirling clouds that create an apocalyptic atmosphere.",
+  "theological_description": "El Greco's Christ in Agony on the Cross presents the crucifixion as a cosmic event — the solitary cross towering between earth and heaven, the tortured body serving as the bridge between humanity and God. The dramatic darkness echoes all three Synoptic accounts: 'From the sixth hour there was darkness over all the land until the ninth hour' (Matthew 27:45). El Greco's characteristic elongation of the figure creates a visual theology of the Incarnation: Christ stretched between divinity and humanity, bearing in his body the full weight of both natures. The upward gaze may capture Christ's cry to the Father — either the agonized 'My God, my God, why have you forsaken me?' (Matthew 27:46, quoting Psalm 22:1) or the final surrender 'Father, into your hands I commit my spirit' (Luke 23:46). The city below represents Jerusalem, which Jesus wept over (Luke 19:41-44), the holy city that would not recognize its visitation. Paul's theology of the cross pervades the image: 'He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness' (1 Peter 2:24). The towering height of the cross above the world below visually expresses Jesus's own words: 'And I, when I am lifted up from the earth, will draw all people to myself' (John 12:32).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The crucifixion at Golgotha — the event depicted"
+    },
+    {
+      "ref": "MAT.27.45-46",
+      "relevance": "primary",
+      "reason": "Darkness over the land and Christ's cry of dereliction — the apocalyptic atmosphere"
+    },
+    {
+      "ref": "JHN.12.32",
+      "relevance": "primary",
+      "reason": "When I am lifted up I will draw all to myself — the elevated, towering cross"
+    },
+    {
+      "ref": "PSA.22.1",
+      "relevance": "typological",
+      "reason": "My God, my God, why have you forsaken me — the messianic psalm Christ quoted from the cross"
+    },
+    {
+      "ref": "1PE.2.24",
+      "relevance": "allusion",
+      "reason": "He bore our sins in his body on the tree — the theology of substitutionary atonement"
+    },
+    {
+      "ref": "LUK.23.46",
+      "relevance": "primary",
+      "reason": "Father, into your hands I commit my spirit — Christ's final surrender captured in the upward gaze"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonized",
+    "transcendent",
+    "apocalyptic",
+    "sublime"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100587",
+    "title": "Christ in Agony on the Cross",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

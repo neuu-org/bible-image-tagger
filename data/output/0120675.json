@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Prophetess Anna",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Circumcision (or Presentation) of Christ in the Temple",
+  "tags": [
+    "circumcision-of-christ",
+    "presentation-in-the-temple",
+    "simeon",
+    "infant-jesus",
+    "temple-interior",
+    "marble-columns",
+    "ornate-architecture",
+    "ritual",
+    "old-testament-law",
+    "prophetess-anna",
+    "joseph"
+  ],
+  "symbols": [
+    "Simeon holding the infant — the Old Covenant receiving the fulfillment of its hopes",
+    "ornate Temple architecture — the glory of Israel's worship reaching its climax",
+    "marble columns and gilded decorations — the sacred space where God meets his people",
+    "Joseph standing at the margin — the faithful guardian observing the mystery",
+    "Anna present — the prophetess who recognized redemption in Jerusalem"
+  ],
+  "description": "A tall vertical composition set within an elaborate architectural interior with marble columns, gilded arches, and decorative reliefs. At the center, an elderly bearded man in dark priestly garments (Simeon) holds the infant Christ, who is partly wrapped in cloth. To the right, a woman in blue (Mary) stands with another veiled woman. To the left, a man in a golden robe (Joseph) stands with a small child. The architectural setting is extraordinarily ornate with carved reliefs in the lunettes above showing Old Testament scenes. The overall effect is of the grandest sacred space imaginable.",
+  "theological_description": "This painting depicts the Presentation of Christ in the Temple as recorded in Luke 2:22-38. Following the Law of Moses (Leviticus 12:2-8), Mary and Joseph brought the infant Jesus to the Temple in Jerusalem for the rites of purification and the redemption of the firstborn. There the aged Simeon, who had been promised by the Holy Spirit that he would not die before seeing the Messiah (Luke 2:26), took the child in his arms and pronounced the Nunc Dimittis: 'Sovereign Lord, as you have promised, you may now dismiss your servant in peace. For my eyes have seen your salvation, which you have prepared in the sight of all nations: a light for revelation to the Gentiles, and the glory of your people Israel' (Luke 2:29-32). This moment represents the meeting of the Old and New Covenants — the aged prophet of the old order holding in his arms the fulfillment of everything Israel had hoped for. The prophetess Anna also 'gave thanks to God and spoke about the child to all who were looking forward to the redemption of Jerusalem' (Luke 2:38). Malachi's prophecy finds its fulfillment: 'The Lord you are seeking will come to his temple' (Malachi 3:1).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.22-32",
+      "relevance": "primary",
+      "reason": "The Presentation in the Temple and Simeon's canticle — the direct narrative depicted"
+    },
+    {
+      "ref": "LUK.2.36-38",
+      "relevance": "primary",
+      "reason": "The prophetess Anna recognizing the child — she appears among the figures"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord suddenly coming to his Temple — fulfilled when the infant Christ enters"
+    },
+    {
+      "ref": "LEV.12.2-8",
+      "relevance": "allusion",
+      "reason": "The Law requiring purification after childbirth — the legal context for the Temple visit"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "majestic",
+    "reverent",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120675",
+    "title": "The Circumcision of Christ",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

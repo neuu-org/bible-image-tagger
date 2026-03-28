@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Two Thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Mourning Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Crucifixion at Golgotha with the two thieves",
+  "tags": [
+    "crucifixion",
+    "three-crosses",
+    "golgotha",
+    "hebrew-inscription",
+    "two-thieves",
+    "mourners",
+    "dark-sky",
+    "red-background",
+    "symbolist",
+    "dramatic-atmosphere",
+    "passion",
+    "fainting-figure",
+    "stark-composition"
+  ],
+  "symbols": [
+    "three crosses — Christ crucified between two thieves, judgment and mercy meeting at Calvary",
+    "central cross with inscription — Christ identified as king even in death",
+    "Hebrew/multilingual inscription — the proclamation of Christ's identity in all languages",
+    "red-tinted sky — blood, judgment, and the cosmic upheaval at Christ's death",
+    "mourning figures in dark robes — the grief of those who loved Christ witnessing his death",
+    "dark oppressive atmosphere — the power of darkness reigning during the crucifixion"
+  ],
+  "description": "A symbolist painting of the Crucifixion showing three figures on crosses against a dark, reddish-brown sky. Christ hangs on the central cross with an inscription board bearing text in what appears to be Hebrew. Two thieves are crucified on either side, their bodies contorted. To the left, a group of mourning figures in dark robes huddle together, one appearing to faint or collapse while supported by others in red. The atmosphere is deeply oppressive, with the entire scene bathed in dark reds and browns.",
+  "theological_description": "Franz Stuck's Crucifixion presents Calvary through a symbolist lens that emphasizes the cosmic horror of the event. The trilingual inscription (John 19:19-20 records it was written in Hebrew, Latin, and Greek) identifies Jesus as King of the Jews — a declaration Pilate insisted upon despite protests, making worldly power unwittingly proclaim divine truth. The two thieves flanking Christ fulfill Isaiah 53:12: 'He was numbered with the transgressors.' Luke 23:39-43 records their contrasting responses — one mocking, one repenting — making the cross simultaneously a place of judgment and salvation. The blood-red atmosphere captures the cosmic dimension of the crucifixion: darkness covered the land (Matthew 27:45), the temple veil was torn (Matthew 27:51), and creation itself convulsed at the death of its Creator. The mourning figures embody the grief described in Zechariah 12:10: 'They shall look on me, the one they have pierced, and they shall mourn for him, as one mourns for an only child.' The raw, expressionist treatment strips away Renaissance idealization to confront the viewer with the brutal reality that the Son of God was tortured to death.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-22",
+      "relevance": "primary",
+      "reason": "The crucifixion and the multilingual inscription — the text visible on the cross"
+    },
+    {
+      "ref": "LUK.23.33-43",
+      "relevance": "primary",
+      "reason": "Crucifixion between two criminals — the three crosses depicted"
+    },
+    {
+      "ref": "ISA.53.12",
+      "relevance": "typological",
+      "reason": "He was numbered with the transgressors — the prophetic basis for crucifixion between thieves"
+    },
+    {
+      "ref": "MAT.27.45-51",
+      "relevance": "primary",
+      "reason": "Darkness over the land and cosmic signs at Christ's death — the apocalyptic atmosphere"
+    },
+    {
+      "ref": "ZEC.12.10",
+      "relevance": "typological",
+      "reason": "They shall look on the one they pierced and mourn — the mourning figures at the left"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "oppressive",
+    "anguished",
+    "raw",
+    "apocalyptic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100712",
+    "title": "Crucifixion",
+    "artist": "Franz Stuck",
+    "model": "claude-opus-4-6"
+  }
+}

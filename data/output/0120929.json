@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Anne (or Mary Magdalene)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family",
+  "tags": [
+    "holy-family",
+    "joseph",
+    "virgin-mary",
+    "christ-child",
+    "family-group",
+    "red-veil",
+    "swaddled-infant",
+    "intimate-grouping",
+    "el-greco-style",
+    "elongated-figures"
+  ],
+  "symbols": [
+    "family gathered around the child — the domestic context of the Incarnation",
+    "Mary holding the child tenderly — maternal love as the vessel of the divine",
+    "Joseph's weathered face — the aging guardian's humble devotion",
+    "red veil of the third woman — the passion and devotion of the extended holy family"
+  ],
+  "description": "A tightly composed group of four figures. At center, a young woman (Mary) in a light garment holds a nude infant (Christ) who reaches outward. To the left, an elderly bearded man (Joseph) looks on, partially visible. To the right, a woman in a red veil or hood gazes down at the child. The figures are arranged in a close, intimate cluster with El Greco's characteristic elongated proportions and flickering, spiritual light. The background is dark with stormy clouds. The palette features muted greens, warm flesh tones, and the vivid red of the veil.",
+  "theological_description": "El Greco's Holy Family presents the Incarnation as a mystery lived within the bonds of human kinship. The infant Christ, held by Mary, is the center around whom the entire family gathers — embodying the truth that 'the Word became flesh and dwelt among us' (John 1:14). Joseph's presence affirms the Davidic lineage essential to messianic identity: 'He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David' (Luke 1:32). The elongated, spiritualized figures characteristic of El Greco suggest that ordinary family life has been transfigured by the divine presence within it. The Holy Family sanctifies domesticity — God chose not to enter the world through spectacular theophany but through the intimacy of pregnancy, birth, nursing, and parental care. Paul's reflection applies: 'When the set time had fully come, God sent his Son, born of a woman, born under the law, to redeem those under the law' (Galatians 4:4-5).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word becoming flesh and dwelling among us — the Incarnation lived within this family"
+    },
+    {
+      "ref": "LUK.1.32",
+      "relevance": "allusion",
+      "reason": "The Son of the Most High given the throne of David — Joseph's role in Davidic lineage"
+    },
+    {
+      "ref": "GAL.4.4-5",
+      "relevance": "allusion",
+      "reason": "God sending his Son born of a woman — the Incarnation in its domestic reality"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intimate",
+    "spiritual",
+    "tender",
+    "mystical"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120929",
+    "title": "Holy Family",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donkey",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "holy-family",
+    "donkey",
+    "journey",
+    "landscape",
+    "escape-to-safety",
+    "walled-city",
+    "shepherds",
+    "trees",
+    "angel"
+  ],
+  "symbols": [
+    "donkey bearing Mary and Child — the humble means of divine escape",
+    "Joseph leading — the faithful guardian fulfilling the angel's command",
+    "walled city in background — Bethlehem or Egypt, the origin and destination of the flight",
+    "pastoral landscape — God's providence providing safe passage",
+    "angel (if visible) — divine guidance on the journey"
+  ],
+  "description": "A lunette-format painting showing the Holy Family's flight into Egypt. In the lower center, Mary in blue rides a donkey while holding the infant Jesus, led by Joseph on foot. A figure walks ahead of them. The scene is set in a lush landscape with tall trees on either side, a walled hilltop town in the middle distance, and a broad river or lake visible to the left. A shepherd with sheep appears on the right hillside, and a small winged figure (angel) flies in the upper right. The palette is warm with greens, blues, and golden evening light.",
+  "theological_description": "The Flight into Egypt (Matthew 2:13-15) demonstrates the providential care of God for the vulnerable Christ Child amid the murderous designs of King Herod. An angel warned Joseph in a dream: 'Get up, take the child and his mother and escape to Egypt. Stay there until I tell you, for Herod is going to search for the child to kill him' (Matthew 2:13). Joseph's immediate obedience — rising in the night and departing — models the response of faith to divine instruction. Matthew sees in this event the fulfillment of Hosea's prophecy: 'Out of Egypt I called my son' (Hosea 11:1; Matthew 2:15), linking Christ's experience to Israel's own exodus. The Holy Family's journey as refugees fleeing political violence reveals the paradox of the Incarnation: the omnipotent God who sustains the universe chooses to experience human vulnerability, displacement, and danger. This flight also typologically reverses the pattern — while Israel went down to Egypt in bondage, Christ goes down to Egypt and returns as the new and greater Moses who will lead the ultimate exodus from sin and death.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The angel warning Joseph to flee to Egypt with the child — the direct narrative depicted"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "primary",
+      "reason": "Out of Egypt I called my son — the prophecy fulfilled by Christ's sojourn in Egypt"
+    },
+    {
+      "ref": "MAT.2.16",
+      "relevance": "primary",
+      "reason": "Herod's massacre of the innocents — the threat that prompted the flight"
+    },
+    {
+      "ref": "PSA.91.11",
+      "relevance": "allusion",
+      "reason": "God commanding His angels to guard the child in all His ways — the angelic guidance of the journey"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "peaceful",
+    "pastoral",
+    "protective",
+    "journeying"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130647",
+    "title": "The Flight into Egypt",
+    "artist": "Annibale Carracci",
+    "model": "claude-opus-4-6"
+  }
+}

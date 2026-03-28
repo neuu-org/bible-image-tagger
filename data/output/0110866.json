@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Demon",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Seated Demon",
+  "tags": [
+    "demon",
+    "seated-figure",
+    "muscular-torso",
+    "brooding",
+    "twilight-landscape",
+    "blue-drapery",
+    "dark-complexion",
+    "crystalline-forms",
+    "flowers",
+    "melancholy",
+    "fallen-being",
+    "supernatural-figure",
+    "powerful-body",
+    "contemplative-pose"
+  ],
+  "symbols": [
+    "massive muscular figure seated — power restrained, strength without purpose",
+    "brooding downward gaze — the melancholy of the fallen, separated from divine glory",
+    "twilight landscape — the liminal space between light and darkness, between heaven and hell",
+    "crystalline fractured forms — the broken beauty of a fallen world",
+    "flowers at his feet — beauty persisting even in the domain of the fallen",
+    "blue drapery — a vestige of heavenly origin now associated with sorrow"
+  ],
+  "description": "A massive, muscular male figure with dark skin and dark curly hair sits in a brooding pose, knees drawn up, arms clasped around them, gazing downward with a melancholy expression. He wears blue drapery around his lower body. The background features a dramatic twilight landscape with warm orange-red light at the horizon to the left, and crystalline, fragmented rocky or floral forms to the right. Small flowers appear at the base. The figure's powerful musculature contrasts with his posture of dejection and introspection. The overall palette combines warm sunset tones with cool blues and purples.",
+  "theological_description": "Vrubel's Seated Demon draws on the Romantic tradition of the fallen angel as a figure of tragic beauty — powerful yet defeated, magnificent yet exiled. While based on Lermontov's literary poem rather than directly on Scripture, the image resonates with the biblical tradition of the fall from grace. Isaiah's taunt against the king of Babylon became the archetype of the angelic fall: 'How you have fallen from heaven, morning star, son of the dawn!' (Isaiah 14:12). The demon's brooding posture — immense power folded in upon itself — captures the theological essence of damnation: the self-imprisoned will that refuses to serve, choosing solitary misery over communal worship. The twilight setting suggests the boundary between the light the demon once inhabited and the darkness to which he is consigned. The crystalline forms and flowers surrounding him may represent the beauty of creation that the fallen being can still perceive but no longer participate in — the aesthetics of exile. Yet this Romantic empathy for the fallen should not obscure the biblical warning: the 'angel of light' disguise (2 Corinthians 11:14) is precisely what makes evil seductive.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.14.12-15",
+      "relevance": "typological",
+      "reason": "How you have fallen from heaven, morning star — the prophetic passage traditionally applied to the fallen angel"
+    },
+    {
+      "ref": "EZK.28.12-17",
+      "relevance": "typological",
+      "reason": "The king of Tyre passage describing a being of perfect beauty cast down for pride — applied to the fall of Satan"
+    },
+    {
+      "ref": "2CO.11.14",
+      "relevance": "allusion",
+      "reason": "Satan disguises himself as an angel of light — the seductive beauty of the demon figure"
+    },
+    {
+      "ref": "REV.12.9",
+      "relevance": "allusion",
+      "reason": "The great dragon was hurled down — the cosmic exile of the fallen angel"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "melancholy",
+    "brooding",
+    "powerful",
+    "tragic"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0110866",
+    "title": "Seated Demon",
+    "artist": "Mikhail Vrubel",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna of the Fir Tree",
+  "tags": [
+    "madonna-and-child",
+    "gold-halo",
+    "fir-branches",
+    "dark-blue-veil",
+    "pink-garment",
+    "nursing-infant",
+    "evergreen-tree",
+    "devotional-painting",
+    "gentle-expression",
+    "mother-and-child",
+    "green-background",
+    "tender-embrace",
+    "serene-gaze"
+  ],
+  "symbols": [
+    "gold halo — sanctity and divine favor upon the Virgin",
+    "fir branches — the evergreen as symbol of eternal life and the Tree of Life",
+    "dark blue veil — the heavenly mantle of the Mother of God",
+    "infant in white wrapping — the incarnate God in swaddling clothes",
+    "Mary's gentle downward gaze — the contemplative mother pondering the divine mystery"
+  ],
+  "description": "A close-up devotional painting of the Virgin Mary holding the infant Jesus against a dark green background of fir branches. Mary has a large circular gold halo, a dark blue veil over her head, and wears a pink-red garment with decorative edging. She looks downward with a gentle, serene expression. The infant, wrapped in pale cloth, rests in her arms, gazing at the viewer. The fir branches frame the figures on both sides, creating a natural bower. The style combines elements of medieval icon painting with a softer, more naturalistic treatment of the faces.",
+  "theological_description": "This intimate Madonna positions the Virgin and Child within a bower of evergreen fir branches, transforming a simple devotional image into a meditation on eternal life. The fir tree, which remains green throughout winter, has long served as a symbol of eternal life and the persistence of hope through the darkest seasons. Its presence here evokes the Tree of Life in Eden (Genesis 2:9), access to which was lost through the fall but restored through the Incarnation. The Christ child in Mary's arms is himself the true Tree of Life, as the early Church Fathers taught — the one whose cross becomes the tree from which humanity may eat and live forever (Revelation 22:2). Mary's contemplative gaze and the infant's direct address to the viewer create a devotional dynamic: the mother ponders while the child reaches out to the world. The gold halo and the stylistic blend of icon tradition with naturalism suggest that this scene exists simultaneously in the historical moment of the Incarnation and in the timeless realm of devotional encounter.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.2.9",
+      "relevance": "typological",
+      "reason": "The Tree of Life in Eden — the fir tree evoking the evergreen promise of eternal life restored in Christ"
+    },
+    {
+      "ref": "REV.22.2",
+      "relevance": "typological",
+      "reason": "The tree of life bearing fruit in the New Jerusalem — Christ as the fulfillment of the Tree of Life promise"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasured all these things in her heart — her contemplative gaze upon the Christ child"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the foundational prophecy of the Madonna and Child"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "devotional",
+    "tender",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110812",
+    "title": "Madonna of the Fir Tree",
+    "artist": "Marianne Stokes",
+    "model": "claude-opus-4-6"
+  }
+}

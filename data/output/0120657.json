@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "King of Israel",
+      "type": "PERSON"
+    },
+    {
+      "name": "Starving people of Samaria",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers and attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Famine in Samaria during the Siege by Ben-Hadad",
+  "tags": [
+    "famine",
+    "samaria",
+    "siege",
+    "starvation",
+    "king-of-israel",
+    "suffering",
+    "spears",
+    "warriors",
+    "desperate-plea",
+    "old-testament"
+  ],
+  "symbols": [
+    "starving figures reaching up to the king — the desperate cry of the people to their ruler",
+    "king on the city wall — royal authority confronted with the limits of human power",
+    "soldiers with spears — military might rendered useless against the invisible enemy of famine",
+    "emaciated bodies — the devastating physical consequences of prolonged siege"
+  ],
+  "description": "A black-and-white engraving showing a scene on city walls. At the upper center, a king in robes and crown stands on the ramparts, attended by soldiers bearing tall spears and weapons. Below him, emaciated and desperate figures — men, women, and children — reach upward in supplication, their bodies gaunt from starvation. Some collapse on the ground. The soldiers stand rigid and imposing above, while the suffering masses writhe below. Text at the bottom identifies the scene as 'The Famine in Samaria' with a reference to 2 Kings 6:26-30.",
+  "theological_description": "This engraving depicts the devastating famine in Samaria during the siege by Ben-Hadad king of Aram, as recorded in 2 Kings 6:24-30. The siege was so severe that 'a donkey's head sold for eighty shekels of silver' (2 Kings 6:25) and desperate acts of cannibalism occurred. When a woman cried out to the king for help, he tore his robes in anguish, revealing sackcloth underneath — he was already in mourning for his people (2 Kings 6:30). This crisis came because Israel had persistently turned from God, yet it became the occasion for one of Elisha's most dramatic prophecies: 'About this time tomorrow, a seah of the finest flour will sell for a shekel... at the gate of Samaria' (2 Kings 7:1) — a promise of miraculous abundance that seemed impossible. God's deliverance came through the most unlikely means: four lepers discovered the abandoned Aramean camp, which God had caused the army to flee by the sound of phantom chariots (2 Kings 7:6-7). The famine and its resolution together proclaim that human extremity is God's opportunity, and that no situation is beyond divine rescue.",
+  "scripture_refs": [
+    {
+      "ref": "2KI.6.24-30",
+      "relevance": "primary",
+      "reason": "The siege of Samaria by Ben-Hadad and the resulting famine — the direct event depicted"
+    },
+    {
+      "ref": "2KI.7.1",
+      "relevance": "primary",
+      "reason": "Elisha's prophecy of miraculous deliverance from the famine within one day"
+    },
+    {
+      "ref": "2KI.7.6-7",
+      "relevance": "allusion",
+      "reason": "God causing the Aramean army to flee — the divine deliverance that ended the famine"
+    },
+    {
+      "ref": "DEU.28.52-57",
+      "relevance": "typological",
+      "reason": "The covenant curse of siege and famine for disobedience — partially fulfilled in Samaria's suffering"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "desperate",
+    "anguished",
+    "grim",
+    "oppressive"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0120657",
+    "title": "A Famine in Samaria",
+    "artist": "Gustave Dore",
+    "model": "claude-opus-4-6"
+  }
+}

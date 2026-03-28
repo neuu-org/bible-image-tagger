@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Martyrdom of Saint Sebastian bound to a tree",
+  "tags": [
+    "saint-sebastian",
+    "martyrdom",
+    "bound-to-tree",
+    "upward-gaze",
+    "bare-torso",
+    "sepia-drawing",
+    "oval-format",
+    "muscular-figure",
+    "cross-necklace",
+    "foliage",
+    "figures-in-background",
+    "romantic-style"
+  ],
+  "symbols": [
+    "arms bound above to tree — willing submission to martyrdom, echoing Christ's crucifixion posture",
+    "upward gaze — heavenly aspiration and trust in divine deliverance",
+    "small cross necklace — Christian identity for which the martyr suffers",
+    "tree — the instrument of execution, recalling the tree/cross of Christ",
+    "foliage — the natural world witnessing the saint's sacrifice"
+  ],
+  "description": "A sepia-toned drawing in an oval format showing a young man with bare torso and arms raised above his head, bound to a tree. He gazes upward with an expression of yearning or ecstasy. A small cross hangs from his neck. His lower body is wrapped in draped cloth. The surrounding setting includes tree branches and foliage. In the background, small figures are faintly visible. The drawing is rendered in warm brown tones with delicate modeling. Cyrillic text at the bottom identifies the work and date (1856).",
+  "theological_description": "Saint Sebastian's martyrdom, though post-biblical, embodies the scriptural theology of faithful witness unto death. His bound posture with upward gaze follows the pattern established by Christ himself on the cross and by Stephen, the first martyr, who 'gazed into heaven and saw the glory of God' (Acts 7:55). The small cross at Sebastian's neck identifies him as one for whom Christ's cross is both identity and destiny. Paul expressed this theology: 'I have been crucified with Christ. It is no longer I who live, but Christ who lives in me' (Galatians 2:20). Sebastian's military background as a Roman Praetorian Guard makes him a literal embodiment of Paul's image of the soldier of Christ: 'Share in suffering as a good soldier of Christ Jesus' (2 Timothy 2:3). His willingness to suffer reflects Jesus's teaching: 'Whoever would save his life will lose it, but whoever loses his life for my sake will find it' (Matthew 16:25).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.7.55-56",
+      "relevance": "typological",
+      "reason": "Stephen's upward gaze at martyrdom — the pattern Sebastian's upward gaze follows"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "allusion",
+      "reason": "Crucified with Christ — the identification with Christ's suffering that martyrdom embodies"
+    },
+    {
+      "ref": "2TI.2.3",
+      "relevance": "allusion",
+      "reason": "Share in suffering as a good soldier of Christ — Sebastian the soldier-martyr"
+    },
+    {
+      "ref": "MAT.16.25",
+      "relevance": "allusion",
+      "reason": "Whoever loses his life for my sake will find it — the theology of martyrdom"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "romantic",
+    "devotional",
+    "anguished"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0101030",
+    "title": "St. Sebastian",
+    "artist": "Taras Shevchenko",
+    "model": "claude-opus-4-6"
+  }
+}

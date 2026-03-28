@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Putti/Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Communion of the Apostles — Jesus distributing the Eucharist",
+  "tags": [
+    "communion-of-apostles",
+    "eucharist",
+    "last-supper",
+    "jesus-distributing-bread",
+    "kneeling-apostles",
+    "red-curtain",
+    "putti",
+    "architectural-setting",
+    "sacrament",
+    "institution-of-communion"
+  ],
+  "symbols": [
+    "Christ distributing bread — the institution of the Eucharist",
+    "kneeling apostles — reception of the sacrament in humility",
+    "red curtain — the blood of the new covenant and the veil of the temple",
+    "putti above — heaven witnessing the institution of the sacred mystery",
+    "architectural arches — the Church as the setting for sacramental worship"
+  ],
+  "description": "A large painting showing Christ in a red robe standing on the right, extending His hand to give communion to the apostles who approach and kneel before Him in various postures of reverence. The scene is set in a grand architectural space with arches and columns. A heavy red curtain is draped on the left. In the upper right, putti and winged angels float in a cloud-filled sky. The apostles are rendered in earth tones, their expressions earnest and devout. The composition divides between the dark, enclosed architectural space on the left and the open heavenly realm on the right.",
+  "theological_description": "The Communion of the Apostles depicts the moment when Christ distributes the bread of the Eucharist to His disciples, instituting the sacrament that would become the central act of Christian worship. 'Take and eat; this is my body' (Matthew 26:26) — these words transform ordinary bread into the vehicle of Christ's real presence. The kneeling posture of the apostles expresses the proper response to receiving the body of Christ: humble, reverent receptivity. The architectural setting transforms the Upper Room into the Church itself, suggesting that every Eucharistic celebration re-presents this original institution. The putti above confirm that heaven looks down upon this sacred moment with wonder — 'things into which angels long to look' (1 Peter 1:12). The red curtain evokes both the blood of the new covenant ('This cup is the new covenant in my blood,' Luke 22:20) and the temple veil that would be torn at Christ's death (Matthew 27:51), opening access to God's presence. Paul's words define the ongoing significance: 'For whenever you eat this bread and drink this cup, you proclaim the Lord's death until he comes' (1 Corinthians 11:26).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "primary",
+      "reason": "Jesus taking bread and saying 'This is my body' — the direct event of Eucharistic institution"
+    },
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "Do this in remembrance of me — the command to continue the Eucharistic celebration"
+    },
+    {
+      "ref": "1CO.11.26",
+      "relevance": "typological",
+      "reason": "Proclaiming the Lord's death until He comes — the ongoing meaning of the Eucharist"
+    },
+    {
+      "ref": "1PE.1.12",
+      "relevance": "allusion",
+      "reason": "Things into which angels long to look — the putti witnessing the sacred mystery"
+    },
+    {
+      "ref": "JHN.6.51",
+      "relevance": "typological",
+      "reason": "I am the living bread that came down from heaven — the theological foundation of the Eucharist"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "reverent",
+    "solemn",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130847",
+    "title": "Communion of the Apostles",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

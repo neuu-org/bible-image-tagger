@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of the Virgin Mary",
+  "tags": [
+    "virgin-mary",
+    "seated-figure",
+    "blue-mantle",
+    "red-dress",
+    "head-covering",
+    "contemplative",
+    "halo",
+    "long-flowing-robes",
+    "hands-clasped",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "blue mantle over red dress — the traditional Marian colors of heavenly grace and human love",
+    "hands clasped in lap — quiet contemplation and acceptance of divine will",
+    "gentle halo — sanctity and divine favor",
+    "seated posture with downcast gaze — the handmaid of the Lord in humble meditation",
+    "warm reddish background — the warmth of divine love surrounding the Mother of God"
+  ],
+  "description": "A three-quarter length portrait of a young woman seated, wearing a blue-purple mantle over a red dress, with a pink or rose-colored head covering. Her hands rest clasped in her lap, and her gaze is gently downcast in a contemplative expression. A faint halo surrounds her head. The background is warm with reddish-brown tones and suggestions of flowering branches at the upper left. The figure is rendered with Pre-Raphaelite attention to drapery and gentle, idealized features. The overall effect is of quiet, luminous devotion.",
+  "theological_description": "This contemplative portrait of the Virgin Mary captures the quality Luke describes when he writes that 'Mary treasured up all these things and pondered them in her heart' (Luke 2:19). The quiet, inward-looking pose suggests the disposition of one who lived at the intersection of the ordinary and the miraculous — a young woman chosen to bear the Son of God, who responded with 'I am the Lord's servant. May your word to me be fulfilled' (Luke 1:38). The blue mantle, traditional symbol of heavenly grace, draped over the red dress of human nature, visually expresses the mystery of the Incarnation itself: heaven enveloping earth, divinity clothed in humanity. Mary's lowered gaze and clasped hands suggest the Magnificat's central paradox: 'He has been mindful of the humble state of his servant. From now on all generations will call me blessed' (Luke 1:48). She is the model of contemplative faith — one who receives the Word not merely with the mind but with the whole self, as the physical vessel through whom the Word became flesh (John 1:14).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasuring and pondering things in her heart — the contemplative posture depicted"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Mary's fiat as handmaid of the Lord — the disposition of humble acceptance visible in the portrait"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations calling Mary blessed — the devotional portrait honoring her"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word becoming flesh — Mary as the vessel of the Incarnation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "serene",
+    "luminous",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0121073",
+    "title": "The Virgin",
+    "artist": "Edward Burne-Jones",
+    "model": "claude-opus-4-6"
+  }
+}

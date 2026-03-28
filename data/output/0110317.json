@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with Infant John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "infant-jesus",
+    "infant-john-baptist",
+    "grapes",
+    "red-drapery",
+    "green-mantle",
+    "golden-hair",
+    "dark-background",
+    "sleeping-child",
+    "eucharistic-symbolism",
+    "maternal-gaze",
+    "devotional-panel",
+    "half-length",
+    "tender-intimacy"
+  ],
+  "symbols": [
+    "grapes held by the Christ child — the Eucharistic wine, Christ's blood shed for salvation",
+    "sleeping infant at lower left (John) — the precursor resting in the shadow of the one he will proclaim",
+    "red drapery — the blood of Christ's future Passion",
+    "Mary's downward gaze — the contemplative mother who knows her son's destiny",
+    "green mantle — hope and the living promise of redemption"
+  ],
+  "description": "A half-length portrait of a young woman with long golden-red hair wearing a green mantle, holding a plump infant on her lap. The infant holds a bunch of dark grapes and brings one to his mouth. Below at lower left, a second smaller child appears to sleep with head resting near the first child. The background is dark and plain. The woman gazes downward at the children with a gentle, contemplative expression. Red drapery is visible beneath the infant.",
+  "theological_description": "This intimate devotional image encodes profound Eucharistic theology within its tender domestic scene. The Christ child holding grapes — and eating them — prefigures his later declaration at the Last Supper: 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins' (Matthew 26:28). The grape is one of the most ancient Christological symbols: Jesus proclaimed himself 'the true vine' (John 15:1), and the crushing of grapes into wine became the central image of his Passion. The sleeping infant John the Baptist, the herald who would one day cry 'Behold the Lamb of God who takes away the sin of the world' (John 1:29), rests unknowing beside the very Lamb he will proclaim. Mary's knowing gaze reflects her role as the one who 'treasured all these things in her heart' (Luke 2:19), contemplating the mystery of a child born to die, whose blood — symbolized in the grapes he innocently eats — would become the wine of the new covenant.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.15.1",
+      "relevance": "typological",
+      "reason": "I am the true vine — the Christ child holding grapes prefigures this Eucharistic self-identification"
+    },
+    {
+      "ref": "MAT.26.28",
+      "relevance": "typological",
+      "reason": "This is my blood of the covenant — the grapes anticipate the wine of the Last Supper"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God — the sleeping Baptist who will one day declare the Lamb's identity"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things in her heart — her contemplative gaze upon the Christ child"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "contemplative",
+    "intimate",
+    "poignant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110317",
+    "title": "Madonna and Child",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Two Thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourning Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Crucifixion of Christ at Calvary",
+  "tags": [
+    "crucifixion",
+    "calvary",
+    "golgotha",
+    "three-crosses",
+    "two-thieves",
+    "virgin-mary",
+    "mourners",
+    "roman-soldiers",
+    "horsemen",
+    "triptych-central-panel",
+    "crowd-scene",
+    "medieval-setting",
+    "passion-narrative",
+    "fainting-virgin",
+    "skull-at-base"
+  ],
+  "symbols": [
+    "central cross elevated above the two thieves — Christ's unique role as Savior distinct from common criminals",
+    "three crosses — Christ crucified between two thieves, judgment and mercy meeting",
+    "fainting or mourning Virgin — the sword piercing Mary's soul as Simeon prophesied",
+    "soldiers on horseback — Roman imperial authority executing God's redemptive plan",
+    "skull at base of cross — Golgotha, the place of the skull, and Adam's death reversed by Christ's death",
+    "crowd of onlookers — humanity as witness to the central event of salvation history"
+  ],
+  "description": "A large medieval triptych central panel depicting the Crucifixion of Christ. Christ hangs on the central cross, which towers above two flanking crosses bearing the two thieves. Below, a crowded scene unfolds with multiple groups of figures. To the left, the Virgin Mary appears to be collapsing in grief, supported by other women. Roman soldiers on horseback and on foot occupy the right and center of the scene. A large crowd of onlookers fills the foreground, dressed in medieval attire. The landscape shows a hilly terrain with a pale sky.",
+  "theological_description": "The Calvary triptych presents the crucifixion as the cosmic event at the center of salvation history. Christ on the central cross, flanked by two thieves, fulfills Isaiah 53:12: 'He was numbered with the transgressors.' Luke 23:39-43 records that one thief mocked while the other repented, receiving Christ's promise of paradise — making Calvary simultaneously a place of judgment and mercy. The fainting Virgin embodies Simeon's prophecy of Luke 2:35 and fulfills John 19:25-27, where Mary stands at the foot of the cross as the new Eve beside the new Adam. The Roman soldiers represent the worldly powers unwittingly executing the divine plan — as Peter preached at Pentecost, Christ was 'delivered up according to the definite plan and foreknowledge of God' (Acts 2:23). The dense crowd of witnesses reflects the cosmic significance of the event: the cross is not a private tragedy but the public revelation of God's love. The skull at the cross's base alludes to the tradition that Golgotha was the burial place of Adam, reinforcing Paul's Adam-Christ typology in Romans 5:18-19: as one trespass led to condemnation for all, so one act of righteousness leads to justification and life for all.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.33-46",
+      "relevance": "primary",
+      "reason": "Luke's account of the crucifixion at Calvary with the two thieves"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary standing at the foot of the cross, visually depicted in the mourning Virgin"
+    },
+    {
+      "ref": "ISA.53.12",
+      "relevance": "typological",
+      "reason": "He was numbered with the transgressors — the prophetic basis for crucifixion between two thieves"
+    },
+    {
+      "ref": "LUK.23.39-43",
+      "relevance": "primary",
+      "reason": "The dialogue between Christ and the two thieves, one mocking and one repenting"
+    },
+    {
+      "ref": "ROM.5.18-19",
+      "relevance": "typological",
+      "reason": "The Adam-Christ typology — as one trespass brought condemnation, one act of righteousness brings life"
+    },
+    {
+      "ref": "ACT.2.23",
+      "relevance": "allusion",
+      "reason": "Christ delivered up according to God's definite plan, even through the hands of lawless men"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "sorrowful",
+    "dramatic",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100266",
+    "title": "Calvary Triptych (central panel)",
+    "artist": "Justus van Gent",
+    "model": "claude-opus-4-6"
+  }
+}

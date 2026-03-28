@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints on side panels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Triptych of the Passion of Christ — Crucifixion",
+  "tags": [
+    "crucifixion",
+    "passion",
+    "golgotha",
+    "virgin-mary",
+    "saint-john",
+    "skull-at-base",
+    "latin-inscriptions",
+    "inri",
+    "crown-of-thorns",
+    "side-panels",
+    "gold-frame",
+    "mourning",
+    "landscape-background",
+    "wounded-saints"
+  ],
+  "symbols": [
+    "central cross with Christ — the atoning sacrifice at the heart of salvation",
+    "skull at base of cross — Golgotha (place of the skull) and Adam's death reversed",
+    "mourning Virgin — the Mother of Sorrows at the foot of the cross",
+    "Saint John in red — the beloved disciple who witnessed the crucifixion",
+    "INRI inscription — Jesus of Nazareth, King of the Jews",
+    "Latin inscriptions on side panels — Scripture references framing the Passion theologically",
+    "wounded figures on side panels — saints who share in Christ's sufferings",
+    "triptych form — the liturgical framing of the Passion for devotional meditation"
+  ],
+  "description": "A gilded triptych with the Crucifixion as the central panel. Christ hangs on the cross against a dark sky with a hilly landscape behind, wearing a crown of thorns and the INRI sign above. The Virgin Mary in a dark blue mantle stands mourning at the left of the cross, while a figure in red robes (Saint John) kneels at the right. A skull sits at the base of the cross. The left wing panel shows a half-clothed male figure with another robed figure, with Latin text in gold lettering. The right wing panel shows another semi-nude wounded figure, also with Latin inscriptions.",
+  "theological_description": "This Passion triptych presents the Crucifixion as the central event of Christian faith, framed by Latin scriptural inscriptions that provide theological commentary. The central panel captures the moment described in John 19:25-27, with Mary and the beloved disciple at the foot of the cross. The skull at the base of the cross reflects the ancient tradition that Golgotha was where Adam was buried, linking Christ's death to the reversal of the Fall — 'as in Adam all die, so also in Christ shall all be made alive' (1 Corinthians 15:22). The Latin inscriptions on the side panels appear to reference Isaiah ('a planta pedis' — from the sole of the foot, citing Isaiah 1:6 about the wounded state of sinful Israel) and Lamentations ('attendite et videte si est dolor sicut dolor meus' — behold and see if there is any sorrow like my sorrow, Lamentations 1:12). These Old Testament texts were traditionally applied to Christ's Passion, reading the Suffering Servant and the mourning of Jerusalem as prophetic anticipations of Calvary. The triptych format itself serves a liturgical function, opening and closing with the liturgical calendar to reveal the mystery of redemption at appointed times.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "John's account of the Crucifixion at Golgotha, with Mary and the beloved disciple present"
+    },
+    {
+      "ref": "ISA.1.6",
+      "relevance": "primary",
+      "reason": "From the sole of the foot to the head there is no soundness — the Latin inscription on the left panel"
+    },
+    {
+      "ref": "LAM.1.12",
+      "relevance": "primary",
+      "reason": "Is there any sorrow like my sorrow — the Latin inscription on the right panel applied to Christ"
+    },
+    {
+      "ref": "1CO.15.22",
+      "relevance": "typological",
+      "reason": "As in Adam all die, so in Christ all are made alive — the skull of Adam at the base of the cross"
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant despised and pierced — the prophetic framework for the crucifixion"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "sorrowful",
+    "devotional",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100501",
+    "title": "Tríptico da Paixão de Cristo",
+    "artist": "Cristovao de Figueiredo",
+    "model": "claude-opus-4-6"
+  }
+}

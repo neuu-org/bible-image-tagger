@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elijah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "James",
+      "type": "PERSON"
+    },
+    {
+      "name": "John",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Transfiguration of Christ",
+  "tags": [
+    "transfiguration",
+    "mount-tabor",
+    "white-robes",
+    "moses-and-elijah",
+    "three-disciples",
+    "divine-glory",
+    "mountain",
+    "landscape",
+    "awestruck-disciples",
+    "raised-hands",
+    "pastoral-landscape",
+    "theophany",
+    "revelation-of-glory"
+  ],
+  "symbols": [
+    "Christ in radiant white — the divine glory shining through his human nature",
+    "Moses at left — the Law witnessing to Christ's identity",
+    "Elijah at right — the Prophets witnessing to Christ's identity",
+    "three disciples below — the inner circle chosen to witness the preview of resurrection glory",
+    "mountain setting — the place of divine revelation, echoing Sinai and Horeb",
+    "fence/barrier in foreground — the separation between the ordinary world and the place of transfiguration"
+  ],
+  "description": "A landscape composition showing three standing figures on a hilltop. The central figure wears brilliant white robes and stands with arms raised, flanked by two figures in colored robes (pink and rose) who gesture toward him. Below on the hillside, three disciples sit or recline in poses of awe and bewilderment. The landscape is pastoral with green hills, mountains in the distance, trees, and a fenced meadow in the foreground. The sky is partly cloudy. The scene combines the supernatural event with a naturalistic Italian landscape setting.",
+  "theological_description": "The Transfiguration reveals Christ's divine glory to his three closest disciples — Peter, James, and John — on the mountain. 'His face shone like the sun, and his clothes became as white as the light' (Matthew 17:2). Moses and Elijah appear beside him, representing the Law and the Prophets, both of whom testify that Jesus is the fulfillment of all God's promises. Peter's impulse to build three tents reveals his desire to remain in this moment of glory, but the voice from the cloud corrects him: 'This is my beloved Son, with whom I am well pleased; listen to him' (Matthew 17:5). Bellini's setting of this event in a pastoral landscape domesticates the terror while preserving the mystery — the glory of God breaks through within the ordinary world. The Transfiguration serves multiple theological purposes: it previews the resurrection glory, confirms Christ's identity before the Passion, and establishes the continuity between Old Testament revelation and its New Testament fulfillment. Peter later recalled this event as evidence for the truth of the gospel: 'We were eyewitnesses of his majesty' (2 Peter 1:16).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.17.1-8",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Transfiguration — Jesus's face shining, Moses and Elijah appearing, the voice from the cloud"
+    },
+    {
+      "ref": "MRK.9.2-8",
+      "relevance": "primary",
+      "reason": "Mark's account adding that Jesus's clothes became dazzling white"
+    },
+    {
+      "ref": "LUK.9.28-36",
+      "relevance": "primary",
+      "reason": "Luke's account noting that Moses and Elijah spoke of Jesus's 'departure' (exodus) to be accomplished in Jerusalem"
+    },
+    {
+      "ref": "2PE.1.16-18",
+      "relevance": "typological",
+      "reason": "Peter's later testimony: 'We were eyewitnesses of his majesty on the holy mountain'"
+    },
+    {
+      "ref": "EXO.34.29",
+      "relevance": "typological",
+      "reason": "Moses's face shining after speaking with God on Sinai — Christ's transfiguration surpasses this"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "glorious",
+    "awe-filled",
+    "serene",
+    "transcendent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110712",
+    "title": "Transfiguration of Christ",
+    "artist": "Giovanni Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

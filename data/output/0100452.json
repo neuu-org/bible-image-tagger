@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait head of Saint John the Baptist",
+  "tags": [
+    "john-the-baptist",
+    "head-portrait",
+    "golden-halo",
+    "curly-hair",
+    "thick-beard",
+    "greek-inscription",
+    "icon-style",
+    "frontal-gaze",
+    "intense-eyes",
+    "forerunner",
+    "prophet",
+    "byzantine-influence"
+  ],
+  "symbols": [
+    "large golden halo — sanctity and prophetic authority",
+    "wild curly hair and thick beard — the ascetic life in the wilderness",
+    "Greek inscription (IOANNIS O AGIOS) — identifying John the Holy, the sacred tradition of naming",
+    "frontal intense gaze — the penetrating prophetic vision that saw and announced the Messiah",
+    "blue outline around halo — heavenly glory surrounding the greatest born of women"
+  ],
+  "description": "A watercolor portrait depicting the head of a man with wild, curly reddish-brown hair and a thick, elaborately curled beard. He has intense, penetrating eyes that gaze directly at the viewer from a frontal position. A large golden circular halo surrounds his head, outlined in blue. Greek text appears on either side of the head reading what appears to be 'IOANNIS O AGIOS' (John the Holy). The style combines Byzantine icon conventions with a more naturalistic watercolor technique. The portrait is rendered in warm browns, golds, and touches of blue.",
+  "theological_description": "John the Baptist occupies a unique position in salvation history as the last and greatest of the Old Testament prophets and the immediate forerunner of Christ. Jesus himself declared, 'Among those born of women there has arisen no one greater than John the Baptist' (Matthew 11:11). This iconic head portrait, with its wild hair and beard, evokes John's ascetic life in the wilderness where he wore camel's hair and ate locusts and wild honey (Matthew 3:4). His intense, penetrating gaze embodies the prophetic vision that recognized Jesus at the Jordan and proclaimed, 'Behold, the Lamb of God, who takes away the sin of the world!' (John 1:29). The frontal presentation in icon-like format reflects John's role as the voice crying in the wilderness (Isaiah 40:3; Matthew 3:3), who addresses every viewer with the urgent call to repentance. John bridges the testaments: he is the Elijah who was to come (Matthew 11:14; Malachi 4:5), the final prophet before the messianic age. His wild appearance signals his separation from the corruptions of civilization, living in prophetic purity to prepare the way of the Lord.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.1-4",
+      "relevance": "primary",
+      "reason": "John's appearance and wilderness ministry — his wild hair and beard reflecting his ascetic life"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God — the prophetic proclamation embodied in John's intense gaze"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "primary",
+      "reason": "Among those born of women none is greater than John — the honor reflected in his iconic portrayal"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness: prepare the way of the Lord — John's prophetic identity"
+    },
+    {
+      "ref": "MAL.4.5",
+      "relevance": "typological",
+      "reason": "Behold, I will send you Elijah the prophet — John as the Elijah who was to come"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intense",
+    "prophetic",
+    "austere"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100452",
+    "title": "Head of St. John the Baptist",
+    "artist": "Mikhail Vrubel",
+    "model": "claude-opus-4-6"
+  }
+}

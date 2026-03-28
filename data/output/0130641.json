@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioners and archers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Martyrdom of Saint Sebastian",
+  "tags": [
+    "saint-sebastian",
+    "martyrdom",
+    "arrows",
+    "tied-to-tree",
+    "archers",
+    "execution",
+    "roman-soldiers",
+    "bare-chested",
+    "christian-martyr",
+    "crossbow",
+    "bound-figure"
+  ],
+  "symbols": [
+    "arrows piercing the body — suffering for the faith and participation in Christ's Passion",
+    "tree to which Sebastian is bound — echoing the cross, the instrument of Christ's sacrifice",
+    "Sebastian's upward or resigned gaze — trust in God amid suffering",
+    "soldiers and archers — the power of the Roman state arrayed against the faithful",
+    "nudity — vulnerability and the stripping away of worldly protection"
+  ],
+  "description": "A large altarpiece panel showing Saint Sebastian tied to a large tree, nearly nude save for a white loincloth, his body pierced by multiple arrows. Around him, several figures participate in the execution — an armored soldier with a crossbow kneels in the foreground, while others with bows stand to the sides. Elderly onlookers observe from behind. The setting includes a town with buildings and hills in the background under a blue sky. The style is late Gothic with rich, detailed rendering of the armored figures and decorative elements.",
+  "theological_description": "The martyrdom of Saint Sebastian, a Roman soldier who was secretly a Christian and condemned to death by arrows for his faith, embodies the theology of faithful witness unto death. Sebastian's willingness to endure this horrific execution rather than renounce Christ echoes the Lord's own words: 'Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell' (Matthew 10:28). His bound body pierced with arrows has been read as a type of Christ on the cross — the innocent suffering at the hands of the state. The early Church understood martyrdom as the most perfect imitation of Christ, fulfilling Paul's aspiration: 'I want to know Christ — yes, to know the power of his resurrection and participation in his sufferings, becoming like him in his death' (Philippians 3:10). According to tradition, Sebastian survived this first execution and returned to confront the emperor, demonstrating that persecution cannot silence the Gospel. His story testifies to the truth of Revelation 2:10: 'Be faithful, even to the point of death, and I will give you life as your victor's crown.'",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.28",
+      "relevance": "typological",
+      "reason": "Not fearing those who kill the body — the theological foundation of Sebastian's courage"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "typological",
+      "reason": "Sharing in Christ's sufferings and becoming like Him in death — Sebastian's martyrdom as imitatio Christi"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Being faithful unto death to receive the crown of life — the promise sustaining the martyr"
+    },
+    {
+      "ref": "REV.12.11",
+      "relevance": "typological",
+      "reason": "Overcoming by the blood of the Lamb and not loving one's life unto death"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "dramatic",
+    "reverent",
+    "intense"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0130641",
+    "title": "Das Martyrium Des Hl. Sebastian (Sebastiansaltar)",
+    "artist": "Hans Holbein the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Visitation — Mary visits her cousin Elizabeth",
+  "tags": [
+    "visitation",
+    "mary-and-elizabeth",
+    "embrace",
+    "pregnancy",
+    "preparatory-sketch",
+    "grid-lines",
+    "four-women",
+    "meeting",
+    "greeting",
+    "joyful-encounter",
+    "maternal-bond"
+  ],
+  "symbols": [
+    "embrace of Mary and Elizabeth — the meeting of the Old and New Covenants",
+    "attendant women — witnesses to the sacred encounter",
+    "pregnant figures — the hidden presence of Christ and John the Baptist",
+    "grid lines on the drawing — the careful planning of a monumental composition"
+  ],
+  "description": "A preparatory drawing in chalk or charcoal showing four women in flowing robes. The two central figures embrace, their faces close together in an intimate greeting. One appears younger (Mary) and the other older (Elizabeth), both with covered heads. Two additional women stand behind them, observing the meeting. The drawing features a grid of preparatory lines used for transferring the composition to a larger format. The figures are rendered with graceful, elongated proportions and fluid drapery.",
+  "theological_description": "The Visitation of Mary to Elizabeth (Luke 1:39-56) is one of the most theologically rich encounters in the Gospels. When Mary, newly pregnant with Jesus through the Holy Spirit, greets Elizabeth, the unborn John the Baptist leaps in Elizabeth's womb — the first act of prophetic recognition of Christ (Luke 1:41). Elizabeth, filled with the Holy Spirit, cries out: 'Blessed are you among women, and blessed is the fruit of your womb! And why is this granted to me that the mother of my Lord should come to me?' (Luke 1:42-43). This meeting embodies the convergence of Old and New Covenants: Elizabeth, the wife of a Levitical priest, carries the last prophet; Mary, a young virgin of David's line, carries the Messiah. Their embrace symbolizes the fulfillment of all prophetic expectation. Mary's response — the Magnificat (Luke 1:46-55) — is the great canticle of God's justice and mercy, echoing Hannah's prayer (1 Samuel 2:1-10) and proclaiming that God has scattered the proud, lifted the humble, and remembered His promise to Abraham forever.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation narrative — Mary visiting Elizabeth and the baby leaping in the womb — is the direct subject"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat, Mary's great song of praise, is spoken during this visit"
+    },
+    {
+      "ref": "LUK.1.41",
+      "relevance": "primary",
+      "reason": "John the Baptist leaping in Elizabeth's womb at the sound of Mary's greeting"
+    },
+    {
+      "ref": "1SA.2.1-10",
+      "relevance": "typological",
+      "reason": "Hannah's prayer is the Old Testament archetype of the Magnificat — God lifting up the lowly"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "intimate",
+    "tender",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130267",
+    "title": "Visitation",
+    "artist": "Jacopo Pontormo",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Thomas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Incredulity of Saint Thomas",
+  "tags": [
+    "doubting-thomas",
+    "risen-christ",
+    "wound-in-side",
+    "touching-wounds",
+    "post-resurrection",
+    "apostles-gathered",
+    "architectural-setting",
+    "angels-above",
+    "proof-of-resurrection",
+    "faith-and-doubt",
+    "mannerist-composition",
+    "dramatic-gesture"
+  ],
+  "symbols": [
+    "Christ showing his wound — the risen Lord bearing the marks of the Passion as proof of resurrection",
+    "Thomas reaching toward the wound — doubt transformed into faith through direct encounter",
+    "gathered apostles — the community of believers witnessing the proof of resurrection",
+    "angels above — heavenly witnesses to the pivotal moment of faith",
+    "architectural frame — the upper room setting of the post-resurrection appearances"
+  ],
+  "description": "A large vertical composition showing the risen Christ standing among the apostles in an architectural setting with columns and arches. Christ, wearing only a white cloth draped over one shoulder, exposes his wounded side. Thomas, kneeling beside him, reaches toward the wound. Other apostles crowd around in various postures of awe and amazement. Above, two angels or allegorical figures are seated on the architectural elements. The background shows figures ascending stairs. The composition is dynamic and crowded, with dramatic gestures and emotional expressions throughout.",
+  "theological_description": "The encounter between the risen Christ and the doubting Thomas is one of the most theologically charged moments in the post-resurrection narratives. Thomas, absent when Jesus first appeared to the disciples, declared: 'Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe' (John 20:25). A week later, Jesus appeared and directly addressed Thomas's doubt: 'Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe' (John 20:27). Thomas's response — 'My Lord and my God!' (John 20:28) — is the highest Christological confession in the Gospels, explicitly acknowledging Jesus's divinity. Jesus's reply introduces a blessing that extends to all future believers: 'Blessed are those who have not seen and yet have believed' (John 20:29). The scene thus bridges the gap between eyewitness faith and the faith of those who believe through testimony. The wounds Christ displays are not healed but glorified — they remain as permanent evidence that the risen Lord is the same person who was crucified, affirming the bodily reality of the resurrection.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.20.24-29",
+      "relevance": "primary",
+      "reason": "The full account of Thomas's doubt, Christ's invitation to touch his wounds, and Thomas's confession 'My Lord and my God'"
+    },
+    {
+      "ref": "JHN.20.29",
+      "relevance": "primary",
+      "reason": "Blessed are those who have not seen and yet believe — Christ's blessing on future believers"
+    },
+    {
+      "ref": "LUK.24.36-40",
+      "relevance": "primary",
+      "reason": "The risen Jesus showing his hands and side to the disciples as proof of bodily resurrection"
+    },
+    {
+      "ref": "1PE.1.8",
+      "relevance": "typological",
+      "reason": "Though you have not seen him, you love him — the faith of those who believe without seeing"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "awestruck",
+    "revelatory",
+    "worshipful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110721",
+    "title": "The Incredulity of St. Thomas",
+    "artist": "Giorgio Vasari",
+    "model": "claude-opus-4-6"
+  }
+}

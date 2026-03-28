@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simon of Cyrene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ Carrying the Cross to Calvary",
+  "tags": [
+    "way-of-the-cross",
+    "carrying-the-cross",
+    "via-dolorosa",
+    "passion-narrative",
+    "altarpiece-wing",
+    "jerusalem-gate",
+    "medieval-city",
+    "procession",
+    "soldiers",
+    "crowd",
+    "simon-of-cyrene",
+    "suffering",
+    "vertical-composition",
+    "city-walls",
+    "calvary-road"
+  ],
+  "symbols": [
+    "Christ bearing the cross — the weight of human sin carried to Golgotha",
+    "narrow vertical format — the constrained, pressing journey through the streets",
+    "city gate and walls — leaving Jerusalem for the place of execution outside the camp",
+    "Simon of Cyrene assisting — the call to share in Christ's sufferings",
+    "pressing crowd — humanity simultaneously complicit in and witness to the Passion",
+    "dog in foreground — the mundane world continuing amid the cosmic event"
+  ],
+  "description": "A tall, narrow altarpiece wing depicting Christ carrying a large wooden cross through a crowded medieval city street. Christ bends under the weight of the cross, assisted by another man. Roman soldiers and a dense crowd of onlookers fill the narrow street, pressing in from all sides. Above, an elaborate medieval cityscape with fortified walls, towers, and buildings extends into the distance. The composition forces the eye upward through the city gate and along the winding road. A small dog appears in the lower foreground.",
+  "theological_description": "This altarpiece wing depicts the Via Dolorosa — Christ's journey from Pilate's judgment hall to Golgotha, bearing the instrument of his own execution. The narrow, vertical format intensifies the sense of constriction and suffering, as Christ is pressed by the crowd through the narrow streets. Simon of Cyrene, compelled by the soldiers to carry the cross, becomes an involuntary image of discipleship — Jesus taught that 'whoever does not carry their cross and follow me cannot be my disciple' (Luke 14:27). The city gate through which the procession passes fulfills the typology of Hebrews 13:12: 'Jesus also suffered outside the city gate in order to sanctify the people through his own blood.' The medieval setting, characteristic of Memling's work, makes the biblical event immediate to the contemporary viewer — the Passion is not a distant historical event but a present reality. The crowd that fills the composition represents all humanity, simultaneously responsible for Christ's death and summoned to witness it. The journey to Calvary is the liturgical Via Crucis, inviting every viewer to walk alongside Christ and discover in his suffering the pattern of redemptive love.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.26-31",
+      "relevance": "primary",
+      "reason": "Simon of Cyrene compelled to carry the cross, and Jesus's words to the weeping women of Jerusalem"
+    },
+    {
+      "ref": "JHN.19.17",
+      "relevance": "primary",
+      "reason": "Jesus carrying his own cross to the Place of the Skull — John's account emphasizing Christ's voluntary bearing"
+    },
+    {
+      "ref": "HEB.13.12",
+      "relevance": "typological",
+      "reason": "Jesus suffered outside the city gate — the theological significance of the procession through Jerusalem's walls"
+    },
+    {
+      "ref": "LUK.14.27",
+      "relevance": "typological",
+      "reason": "Whoever does not carry their cross and follow me cannot be my disciple — Simon of Cyrene as image of discipleship"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "He was oppressed and afflicted yet did not open his mouth — Christ's silent endurance on the road to Calvary"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "oppressive",
+    "sorrowful",
+    "crowded",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110132",
+    "title": "Passion (Greverade) Altarpiece (left wing)",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "name": "James the Less (James son of Alphaeus)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of the Apostle James the Minor",
+  "tags": [
+    "apostle-james-the-less",
+    "portrait",
+    "book",
+    "dark-background",
+    "bearded-man",
+    "fullers-club",
+    "apostolic-attribute",
+    "half-length-portrait",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "book held in hand — the apostolic teaching and witness to the Gospel",
+    "club or staff — traditional attribute of James the Less, instrument of his martyrdom",
+    "dark background — the obscurity and mystery surrounding this lesser-known apostle",
+    "dramatic lighting on face — divine illumination amid worldly darkness"
+  ],
+  "description": "A half-length portrait of a bearded man emerging from a deeply dark background. He wears a dark garment with a red cloth draped over one arm. In one hand he holds a closed book, and in the other he grasps what appears to be a staff or club. His face is illuminated from the left, revealing a mature bearded countenance with a serious, contemplative expression. The rest of the figure recedes into near-total darkness.",
+  "theological_description": "This portrait depicts James the Less (James son of Alphaeus), one of the twelve apostles listed in all four New Testament catalogs (Matthew 10:3, Mark 3:18, Luke 6:15, Acts 1:13). Distinguished from James the son of Zebedee by the designation 'the Less' or 'the Minor' — possibly referring to his younger age or shorter stature — he is among the more enigmatic of the Twelve. Tradition identifies him with 'James the brother of the Lord' mentioned by Paul (Galatians 1:19), who became a pillar of the Jerusalem church (Acts 15:13) and authored the Epistle of James. The book he holds symbolizes his contribution to the apostolic witness, while the club alludes to his traditional martyrdom. His letter's insistence that 'faith without works is dead' (James 2:26) became a vital corrective within Christian theology, affirming that genuine faith necessarily produces the fruit of righteous living.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.3",
+      "relevance": "primary",
+      "reason": "James the son of Alphaeus listed among the Twelve — the identity of the figure depicted"
+    },
+    {
+      "ref": "ACT.1.13",
+      "relevance": "primary",
+      "reason": "James the son of Alphaeus present among the apostles in the upper room after the Ascension"
+    },
+    {
+      "ref": "JAS.2.26",
+      "relevance": "allusion",
+      "reason": "The book held by James alludes to his epistle's teaching that faith without works is dead"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "mysterious",
+    "contemplative"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0120063",
+    "title": "Apostle James the Minor",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

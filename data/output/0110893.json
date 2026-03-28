@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna of the Star",
+  "tags": [
+    "madonna-and-child",
+    "gothic-tabernacle",
+    "gold-background",
+    "angels",
+    "star-roundels",
+    "ornate-frame",
+    "gothic-pinnacle",
+    "twisted-columns",
+    "standing-madonna",
+    "devotional-altarpiece",
+    "celestial-medallions",
+    "blue-mantle",
+    "red-seraph-above"
+  ],
+  "symbols": [
+    "star-decorated roundels — celestial symbols surrounding the Mother and Child",
+    "Gothic tabernacle frame — the architectural setting of sacred devotion",
+    "standing Madonna with child — the Theotokos presenting God incarnate to the world",
+    "red seraph above — the highest angelic order adoring the divine mystery",
+    "flanking angels — the heavenly court attending the Mother of God",
+    "gold background — the timeless, heavenly realm"
+  ],
+  "description": "A Gothic tabernacle altarpiece with an elaborate gilded frame featuring a pointed pinnacle, spiral columns, and decorative roundels. Within the central panel, the Virgin Mary stands in a blue mantle holding the infant Jesus. She is flanked by angels in niches. Circular medallions with star or flower motifs adorn the columns. Above in the pinnacle, a red seraph or cherub appears in a blue mandorla. The entire piece is richly gilded, with intricate carved Gothic tracery throughout. The style is distinctly medieval Italian panel painting.",
+  "theological_description": "Fra Angelico's tabernacle altarpiece presents the Madonna and Child within an architectural framework that transforms the devotional image into a miniature church. The Gothic tabernacle evokes the Ark of the Covenant — the holy vessel that contained the presence of God — and tradition has long identified Mary as the New Ark, carrying within her body the Word made flesh. The star motifs that decorate the frame recall the Star of the Sea (Stella Maris), one of Mary's most ancient titles, and echo the star that guided the Magi to Bethlehem. The seraph in the pinnacle above — the highest order of angels who perpetually cry 'Holy, holy, holy' (Isaiah 6:3) — indicates that the mystery housed within this tabernacle is the same holiness that fills the heavenly temple. The flanking angels serve as an honor guard for the divine presence. Fra Angelico, himself a Dominican friar, understood painting as a form of prayer; this altarpiece is not merely an art object but a vehicle for contemplative encounter with the sacred.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you — Mary as the tabernacle of the incarnate God"
+    },
+    {
+      "ref": "ISA.6.2-3",
+      "relevance": "typological",
+      "reason": "The seraphim crying Holy, holy, holy — the seraph in the pinnacle declaring the holiness of the mystery"
+    },
+    {
+      "ref": "MAT.2.2",
+      "relevance": "allusion",
+      "reason": "We saw his star — the star motifs connecting to the Epiphany narrative"
+    },
+    {
+      "ref": "EXO.25.10-22",
+      "relevance": "typological",
+      "reason": "The Ark of the Covenant — Mary as the new Ark containing the divine presence"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "sacred",
+    "luminous",
+    "devotional",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110893",
+    "title": "Madonna of the Star",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

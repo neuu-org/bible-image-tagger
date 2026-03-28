@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Hemorrhaging Woman",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ healing the woman with the issue of blood",
+  "tags": [
+    "healing-miracle",
+    "hemorrhaging-woman",
+    "touching-garment",
+    "kneeling-woman",
+    "crowd",
+    "disciples",
+    "halo",
+    "town-background",
+    "red-roofs",
+    "icon-style",
+    "gold-background",
+    "compassion",
+    "faith-healing",
+    "octagonal-panel"
+  ],
+  "symbols": [
+    "woman kneeling and touching Christ's garment — faith reaching out for healing",
+    "halo on Christ — divine identity and healing power",
+    "crowd pressing around — the multitude amid which individual faith is recognized",
+    "Christ's turned gaze toward the woman — divine awareness of the touch of faith",
+    "town in background — the setting of everyday life where miracles occur"
+  ],
+  "description": "An icon-style painting on an octagonal panel depicting Christ surrounded by disciples and onlookers in a town setting with buildings featuring red roofs. Christ, identifiable by his halo and central position, turns toward a figure kneeling before him who appears to be touching the hem of his garment. The disciples stand behind Christ in colorful robes — reds, blues, and earth tones. Additional figures observe from the right side. The background features stylized architecture with white and red buildings.",
+  "theological_description": "The healing of the hemorrhaging woman is recorded in all three Synoptic Gospels (Matthew 9:20-22, Mark 5:25-34, Luke 8:43-48). A woman who had suffered bleeding for twelve years, spending all she had on physicians to no avail, approached Jesus in the pressing crowd and touched the fringe of his garment, believing that this alone would heal her. Immediately her bleeding stopped. Jesus, perceiving that 'power had gone out from him' (Mark 5:30), asked 'Who touched my garments?' — distinguishing the touch of faith from the press of the crowd. When the trembling woman confessed, Jesus said, 'Daughter, your faith has made you well; go in peace' (Mark 5:34). The theological significance is manifold: the woman was ritually unclean under Levitical law (Leviticus 15:25-27), and her touch should have made Jesus unclean — but instead, his holiness flowed outward, cleansing her. This reversal prefigures the New Covenant in which Christ does not become contaminated by sinners but rather purifies them through contact with himself. Her twelve years of suffering mirror the twelve-year-old daughter of Jairus whom Jesus raises in the immediately following narrative, weaving together themes of faith, healing, and resurrection.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.5.25-34",
+      "relevance": "primary",
+      "reason": "Mark's detailed account of the hemorrhaging woman touching Christ's garment and being healed"
+    },
+    {
+      "ref": "MAT.9.20-22",
+      "relevance": "primary",
+      "reason": "Matthew's account: your faith has made you well"
+    },
+    {
+      "ref": "LUK.8.43-48",
+      "relevance": "primary",
+      "reason": "Luke's account emphasizing the power that went out from Christ"
+    },
+    {
+      "ref": "LEV.15.25-27",
+      "relevance": "typological",
+      "reason": "The Levitical impurity laws regarding blood discharge — the legal context that makes the healing theologically revolutionary"
+    },
+    {
+      "ref": "ISA.53.4",
+      "relevance": "typological",
+      "reason": "He has borne our griefs and carried our sorrows — Christ's healing ministry as fulfillment of the Servant prophecy"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "hopeful",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100509",
+    "title": "Christ Healing the Hemorrhaging Woman",
+    "artist": "Ivan Rutkovych",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "name": "Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Mosaic Maquette for Mardasson Memorial Crypt",
+  "tags": [
+    "mosaic-design",
+    "maquette",
+    "semicircular-composition",
+    "ihs-monogram",
+    "nativity-elements",
+    "modernist-design",
+    "bold-colors",
+    "blue-yellow-red",
+    "altar-area",
+    "liturgical-space",
+    "abstract-figures",
+    "rosary-beads",
+    "memorial-art"
+  ],
+  "symbols": [
+    "IHS monogram — the sacred name of Jesus (Iesus Hominum Salvator)",
+    "open book — the Gospel or Sacred Scripture",
+    "rosary beads — devotional prayer",
+    "figures flanking — the faithful assembled in worship"
+  ],
+  "description": "A semicircular (lunette) design for a mosaic, rendered in bold, flat areas of color in Fernand Leger's characteristic modernist style. The composition shows stylized figures at left and right flanking a central area with columns. Above, abstract organic forms in blue, yellow, red, pink, and green fill the arched space. A central element shows an IHS monogram on an open book, surrounded by what appears to be rosary beads. The figures are simplified to geometric shapes with heavy outlines. The overall effect is a modern liturgical design for a sacred memorial space.",
+  "theological_description": "Leger's maquette for the Mardasson Memorial crypt combines modernist aesthetics with traditional Christian symbolism. The IHS monogram — a Christogram derived from the first three letters of Jesus's name in Greek — centers the composition on Christ as the foundation of the memorial. The open book suggests the Scriptures that proclaim hope in the face of death. The rosary beads that encircle the monogram represent the Marian devotional tradition of intercessory prayer for the dead. As a memorial design, this work participates in the long Christian tradition of praying for the faithful departed and affirming that those who die in Christ are not lost but held in the communion of saints. The bold, contemporary style insists that the ancient faith speaks to the modern world — even in the aftermath of war's devastation, the name of Jesus remains the center of hope.",
+  "scripture_refs": [
+    {
+      "ref": "PHP.2.10",
+      "relevance": "allusion",
+      "reason": "At the name of Jesus every knee should bow — the IHS monogram proclaiming the divine name"
+    },
+    {
+      "ref": "JHN.11.25-26",
+      "relevance": "allusion",
+      "reason": "I am the resurrection and the life — the theological hope underlying a memorial to the dead"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "bold",
+    "modern",
+    "sacred",
+    "memorial"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0111031",
+    "title": "Maquette pour a mosaic of the crypt of the memorial at high Mardasson",
+    "artist": "Fernand Leger",
+    "model": "claude-opus-4-6"
+  }
+}

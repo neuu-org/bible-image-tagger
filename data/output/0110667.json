@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Ignatius of Loyola",
+      "type": "PERSON"
+    },
+    {
+      "name": "Francis Xavier",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Ignatius of Loyola and Francis Xavier at the University of Paris",
+  "tags": [
+    "ignatius-loyola",
+    "francis-xavier",
+    "university-scene",
+    "jesuit-founders",
+    "gothic-window",
+    "scholar-cell",
+    "monk-robes",
+    "books",
+    "light-through-window",
+    "contemplation",
+    "friendship",
+    "vocation",
+    "monastic-interior"
+  ],
+  "symbols": [
+    "light through gothic window — divine illumination entering the space of study and discernment",
+    "books on table — the scholarly life that becomes a vehicle for spiritual conversion",
+    "two figures together — the friendship that founded the Society of Jesus",
+    "monastic cell — the simplicity and poverty that characterized Ignatian spirituality"
+  ],
+  "description": "A muted watercolor or drawing showing two figures in dark monastic robes inside a sparse stone room. One stands near a large pointed Gothic window through which warm light streams, while the other sits on a small stool beside him. A simple wooden table with books is visible at left. The room is austere with bare stone walls. The light from the window illuminates the standing figure and creates a warm glow. Through the window, Gothic architectural elements of a university or church are visible. The scene is quiet and contemplative.",
+  "theological_description": "This scene depicts a pivotal moment in the history of Christian spirituality: the encounter between Ignatius of Loyola and Francis Xavier at the University of Paris, where Ignatius would repeatedly challenge Francis with the words of Jesus: 'What does it profit a man if he gains the whole world but suffers the loss of his soul?' (Matthew 16:26). This question, drawn directly from Christ's teaching, became the catalyst for Xavier's conversion from worldly academic ambition to missionary zeal. The austere cell and streaming light symbolize the Ignatian principle of finding God in all things — even the most ordinary setting can become the place of divine encounter. The friendship between these two men would give birth to the Society of Jesus, one of the most influential religious orders in Christian history. The scene embodies the power of personal encounter and persistent spiritual challenge, echoing Paul's counsel to Timothy to 'preach the word; be prepared in season and out of season' (2 Timothy 4:2).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.26",
+      "relevance": "typological",
+      "reason": "What does it profit a man to gain the whole world but lose his soul — the exact words Ignatius used to challenge Xavier"
+    },
+    {
+      "ref": "MAT.28.19-20",
+      "relevance": "typological",
+      "reason": "Go and make disciples of all nations — the Great Commission that Xavier would fulfill as a missionary"
+    },
+    {
+      "ref": "2TI.4.2",
+      "relevance": "allusion",
+      "reason": "Preach the word in season and out — Ignatius's persistent spiritual challenge to his friend"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "quiet",
+    "luminous",
+    "purposeful"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0110667",
+    "title": "The Life of St. Ignatius Loyola. Plate 4",
+    "artist": "Carlos Saenz de Tejada",
+    "model": "claude-opus-4-6"
+  }
+}

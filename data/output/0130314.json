@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples and mourners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Deposition — Christ's body taken down from the cross",
+  "tags": [
+    "deposition",
+    "descent-from-the-cross",
+    "crucifixion-aftermath",
+    "ladders",
+    "mourning",
+    "dead-christ",
+    "mannerist-composition",
+    "swirling-figures",
+    "grief",
+    "burial-preparation",
+    "passion-of-christ"
+  ],
+  "symbols": [
+    "cross with ladders — the instrument of death now used for the act of mercy in removing Christ's body",
+    "limp body of Christ — the reality of His death and the cost of redemption",
+    "swooning figures below — shared human grief at the death of the Son of God",
+    "red garments — the blood of the Passion",
+    "multiple figures working together — the community of love surrounding Christ even in death"
+  ],
+  "description": "A large arched altarpiece in a Mannerist style showing the dramatic moment of Christ's body being lowered from the cross. The composition spirals with elongated, twisting figures arranged vertically. At the top, men on ladders struggle to lower Christ's pale, limp body. Below, a cluster of grieving figures receives the body — women in flowing robes, including a figure in red who swoons backward. The colors are vivid with pinks, reds, yellows, and greens. The emotional intensity is heightened by the compressed, interlocking arrangement of bodies.",
+  "theological_description": "The Deposition — the lowering of Christ's body from the cross — is the moment between crucifixion and burial, charged with profound theological significance. The dead Christ fulfills His own prophecy: 'The Son of Man must suffer many things and be rejected by the elders, the chief priests and the teachers of the law, and he must be killed and after three days rise again' (Mark 8:31). Joseph of Arimathea's courageous act of claiming the body from Pilate (Mark 15:43) and Nicodemus's provision of burial spices (John 19:39) represent the faithful remnant who honor Christ even in apparent defeat. The Virgin Mary's grief beneath the cross fulfills Simeon's prophecy that 'a sword will pierce your own soul too' (Luke 2:35). The physical handling of Christ's broken body underscores the full reality of the Incarnation — God truly took on flesh that could suffer and die (Hebrews 2:14). Yet this moment of deepest sorrow is paradoxically the threshold of resurrection hope, for the grain of wheat that falls into the earth and dies will bear much fruit (John 12:24).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.42-46",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea taking down the body of Jesus from the cross — the direct event depicted"
+    },
+    {
+      "ref": "JHN.19.38-40",
+      "relevance": "primary",
+      "reason": "Joseph and Nicodemus preparing Christ's body for burial after the crucifixion"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul — fulfilled in her grief at the cross"
+    },
+    {
+      "ref": "HEB.2.14",
+      "relevance": "allusion",
+      "reason": "Christ shared in flesh and blood so that through death He might destroy the power of death"
+    },
+    {
+      "ref": "JHN.12.24",
+      "relevance": "typological",
+      "reason": "The grain of wheat falling to earth and dying to bear fruit — death as the threshold of resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "chaotic",
+    "sorrowful",
+    "urgent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130314",
+    "title": "Deposition",
+    "artist": "Rosso Fiorentino",
+    "model": "claude-opus-4-6"
+  }
+}

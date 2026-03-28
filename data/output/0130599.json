@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion of Jesus Christ",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "gold-background",
+    "mourning-figures",
+    "virgin-mary",
+    "mary-magdalene",
+    "john-the-evangelist",
+    "haloes",
+    "sacrificial-death",
+    "atonement",
+    "gothic-panel"
+  ],
+  "symbols": [
+    "cross — the instrument of salvation and the means of atonement",
+    "gold background — the divine, eternal realm in which the sacrifice occurs",
+    "Mary in blue — the Mother of Sorrows witnessing her Son's death",
+    "Mary Magdalene in red at the foot of the cross — passionate grief and devotion",
+    "John in pink-red — the beloved disciple faithfully present",
+    "haloes — the sanctity of all present at the cross",
+    "Christ's outstretched arms — embrace of all humanity in redemptive love"
+  ],
+  "description": "A Gothic panel painting showing Christ crucified on a wooden cross against a gold background. Christ wears a white loincloth and a halo, his body thin and pale with arms outstretched. At the top of the cross, a dark wreath or pelican motif is visible. Three haloed figures stand below: to the left, the Virgin Mary in a dark blue mantle with a grief-stricken posture; at the foot of the cross, Mary Magdalene in a bright orange-red robe kneels embracing the base; to the right, Saint John the Evangelist in a red-pink robe stands with hands clasped.",
+  "theological_description": "The Crucifixion is the central event of Christian theology — the moment when God's justice and mercy converge in the sacrificial death of His Son. 'God demonstrates his own love for us in this: While we were still sinners, Christ died for us' (Romans 5:8). The gold background transforms the historical execution into a cosmic, eternal event — this is not merely a death but the sacrifice 'once for all' (Hebrews 10:10) that reconciles God and humanity. Mary's presence fulfills Simeon's prophecy that a sword would pierce her soul (Luke 2:35), while John's faithfulness at the cross leads to Jesus's final act of filial love: 'Woman, here is your son... Here is your mother' (John 19:26-27). Mary Magdalene, embracing the foot of the cross, embodies the truth that those who have been forgiven much love much (Luke 7:47). Christ's outstretched arms on the cross paradoxically express the most expansive embrace in history — as He declared: 'And I, when I am lifted up from the earth, will draw all people to myself' (John 12:32). The crucifixion fulfills Isaiah's Suffering Servant prophecy: 'He was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him' (Isaiah 53:5).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary, John, and Mary Magdalene at the foot of the cross — the three figures directly depicted"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "primary",
+      "reason": "He was pierced for our transgressions — the Suffering Servant prophecy fulfilled on the cross"
+    },
+    {
+      "ref": "ROM.5.8",
+      "relevance": "typological",
+      "reason": "God demonstrating His love through Christ dying for sinners — the theological core of the crucifixion"
+    },
+    {
+      "ref": "HEB.10.10",
+      "relevance": "typological",
+      "reason": "Sanctified through the offering of the body of Jesus Christ once for all"
+    },
+    {
+      "ref": "JHN.12.32",
+      "relevance": "allusion",
+      "reason": "Christ lifted up drawing all people to Himself — His arms outstretched on the cross"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "The sword piercing Mary's soul — fulfilled in her grief at the crucifixion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "sacred",
+    "solemn",
+    "transcendent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130599",
+    "title": "Crucifixion",
+    "artist": "Masaccio",
+    "model": "claude-opus-4-6"
+  }
+}

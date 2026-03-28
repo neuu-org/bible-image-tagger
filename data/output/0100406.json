@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Lazarus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary of Bethany",
+      "type": "PERSON"
+    },
+    {
+      "name": "Martha of Bethany",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples and Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Raising of Lazarus from the Dead",
+  "tags": [
+    "raising-of-lazarus",
+    "resurrection-miracle",
+    "tomb",
+    "burial-wrappings",
+    "crowd-scene",
+    "commanding-gesture",
+    "rocky-cave",
+    "kneeling-women",
+    "astonishment",
+    "unwrapping",
+    "landscape-background",
+    "miracle-of-jesus",
+    "death-defeated",
+    "onlookers"
+  ],
+  "symbols": [
+    "open tomb — death conquered by the power of the Word",
+    "Lazarus emerging in burial wrappings — the dead man restored to life at Christ's command",
+    "Christ's commanding gesture — divine authority over death itself",
+    "kneeling women — faith, grief transformed into wonder",
+    "crowd reactions — astonishment and belief in response to the miracle",
+    "rocky cave — the tomb as place of death that becomes a theater of divine power"
+  ],
+  "description": "A narrative painting depicting a dramatic scene at a rocky tomb opening. Christ stands at the left, extending his hand in a commanding gesture toward a man sitting upright in the tomb, partially wrapped in burial cloth. Women kneel at Christ's feet in attitudes of supplication and wonder. A crowd of onlookers gathers around, many with expressions of astonishment, some covering their noses. The setting includes a rocky hillside with a cave-like tomb entrance and a landscape with mountains and a castle visible in the background under a blue sky.",
+  "theological_description": "The Raising of Lazarus (John 11:1-44) is the climactic sign in the Gospel of John, the seventh and greatest miracle that prefigures Christ's own resurrection. When Jesus declares 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live' (John 11:25), he is not merely promising future resurrection but claiming to be the very source of life itself. The command 'Lazarus, come out!' (John 11:43) demonstrates the creative power of the divine Word — the same Word that spoke creation into being (Genesis 1; John 1:1-3). Martha's confession 'I believe that you are the Christ, the Son of God' (John 11:27) represents the faith response the miracle demands. The unwinding of burial cloths anticipates the linen wrappings left behind in Jesus's own empty tomb (John 20:6-7). Theologically, Lazarus's raising is a sign pointing beyond itself: it provokes the plot to kill Jesus (John 11:53), meaning that Christ's gift of life to Lazarus directly leads to his own death — the ultimate exchange at the heart of the Gospel. Ezekiel's vision of dry bones coming to life (Ezekiel 37:1-14) finds its christological fulfillment here: the God who promised to open graves and raise his people does so in the person of Jesus.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.11.1-44",
+      "relevance": "primary",
+      "reason": "The full account of the raising of Lazarus — the event directly depicted"
+    },
+    {
+      "ref": "JHN.11.25-26",
+      "relevance": "primary",
+      "reason": "Jesus's declaration: I am the resurrection and the life — the theological center of the scene"
+    },
+    {
+      "ref": "JHN.11.43-44",
+      "relevance": "primary",
+      "reason": "Jesus calls Lazarus out of the tomb — the specific moment depicted"
+    },
+    {
+      "ref": "EZK.37.1-14",
+      "relevance": "typological",
+      "reason": "The valley of dry bones — God opening graves and raising the dead, fulfilled in Christ's power over death"
+    },
+    {
+      "ref": "JHN.11.53",
+      "relevance": "allusion",
+      "reason": "The miracle provokes the plot to kill Jesus — life given to Lazarus leads to death for Christ"
+    },
+    {
+      "ref": "ROM.6.4-5",
+      "relevance": "typological",
+      "reason": "United with Christ in death and resurrection — Lazarus as a sign of the believer's future resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe-filled",
+    "dramatic",
+    "triumphant",
+    "wonder"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100406",
+    "title": "The Raising of Lazarus",
+    "artist": "Palma Vecchio",
+    "model": "claude-opus-4-6"
+  }
+}

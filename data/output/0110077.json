@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome in the Desert",
+  "tags": [
+    "saint-jerome",
+    "desert-hermit",
+    "penitence",
+    "wilderness",
+    "rocky-landscape",
+    "reading",
+    "book",
+    "solitude",
+    "asceticism",
+    "barefoot",
+    "distant-town",
+    "crucifix",
+    "contemplation",
+    "monastery-in-distance",
+    "barren-cliffs"
+  ],
+  "symbols": [
+    "open book — Scripture study and Jerome's monumental translation work",
+    "rocky desert wilderness — ascetic withdrawal and penitential life",
+    "bare feet and exposed skin — voluntary poverty and mortification",
+    "distant town — the civilized world Jerome renounced for the desert",
+    "tall bare cliffs — the severity and grandeur of the contemplative life",
+    "crucifix (implied) — the cross as the center of Jerome's devotion"
+  ],
+  "description": "An elderly bearded man sits barefoot on rocky ground at the base of towering cliff faces, reading from an open book resting on his knee. He wears only a loose garment leaving his torso partially bare. The rocky landscape is dramatic and austere, with tall layered cliff formations rising behind him. In the middle distance, a winding path leads to a distant town with domed buildings. Small trees and sparse vegetation grow from the rock crevices. The scene conveys profound solitude and contemplative withdrawal.",
+  "theological_description": "Saint Jerome's voluntary exile in the Syrian desert (374-379 AD) represents the ancient Christian tradition of anachoresis — withdrawal from the world for intense prayer, Scripture study, and penitence. Jerome, the greatest biblical scholar of the early Church and translator of the Latin Vulgate, described his desert experience as a battle against temptation and a school of spiritual discipline. The open book in his hands represents his lifelong devotion to Sacred Scripture, about which he famously declared, 'Ignorance of the Scriptures is ignorance of Christ.' His ascetic posture among the bare rocks echoes the pattern of biblical figures who encountered God in the wilderness — Moses at Sinai, Elijah at Horeb, and John the Baptist in the Judean desert. The distant town visible from his hermitage symbolizes the tension between active and contemplative life that defined much of Jerome's career. Though Jerome's life is post-biblical, his work of translating and commenting on Scripture places him in direct continuity with the biblical tradition of prophets, sages, and apostles who mediated God's word to God's people.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "Jerome's devotion to Scripture as a lamp and light mirrors the psalmist's love for God's word"
+    },
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "typological",
+      "reason": "Christ's forty days in the wilderness as the archetype for all Christian desert asceticism"
+    },
+    {
+      "ref": "1KI.19.4-8",
+      "relevance": "typological",
+      "reason": "Elijah's wilderness retreat to Horeb parallels Jerome's desert withdrawal for spiritual renewal"
+    },
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed and useful — the conviction that drove Jerome's translation work"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solitary",
+    "contemplative",
+    "austere",
+    "serene"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0110077",
+    "title": "St. Jerome in the Desert",
+    "artist": "Giovanni Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Mordecai",
+      "type": "PERSON"
+    },
+    {
+      "name": "Haman",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Triumph of Mordecai — Haman leading Mordecai through the city on horseback",
+  "tags": [
+    "mordecai",
+    "haman",
+    "triumph",
+    "white-horse",
+    "royal-robes",
+    "crown",
+    "humiliation-of-haman",
+    "city-gate",
+    "procession",
+    "book-of-esther",
+    "divine-reversal",
+    "onlookers",
+    "golden-cloak"
+  ],
+  "symbols": [
+    "Mordecai on the king's horse in royal robes — divine reversal: the persecuted one exalted",
+    "Haman leading the horse — the enemy forced to honor the one he planned to destroy",
+    "white horse — royal dignity and honor bestowed by the king",
+    "royal crown and robes — the outward signs of favor that Haman coveted for himself",
+    "city gate and onlookers — public vindication before the very people who witnessed the plot",
+    "golden/rich garments — the glory that comes from God's providential reversal"
+  ],
+  "description": "A painting depicting a triumphant procession through a city. A man in elaborate white and gold royal robes and a crown rides a white horse, while another man in rich but darker clothing leads the horse on foot. Onlookers gather at the left near a doorway, watching the procession with interest. The scene is set in an urban environment with buildings and architectural elements visible. The man on horseback appears dignified and composed, while the man leading the horse appears reluctant or humiliated. The palette features warm golden tones and rich, dark colors.",
+  "theological_description": "The Triumph of Mordecai (Esther 6:7-11) is one of Scripture's most dramatic reversals. Haman, who had built a gallows to hang Mordecai and plotted to annihilate the Jewish people, is compelled by the king to lead Mordecai through the streets on the royal horse, proclaiming: 'Thus shall it be done to the man whom the king delights to honor' (Esther 6:11) — the very honor Haman had imagined for himself. This reversal illustrates a foundational biblical principle: 'Pride goes before destruction, and a haughty spirit before a fall' (Proverbs 16:18). The Book of Esther, though it never mentions God by name, is saturated with divine providence — the hidden hand of God working through seemingly coincidental events (the king's insomnia, the reading of the chronicles) to deliver his people. Mordecai's triumph prefigures the greater reversals of the Gospel: 'He has brought down the mighty from their thrones and exalted those of humble estate' (Luke 1:52). The narrative culminates in the establishment of Purim, celebrating God's deliverance of his people from destruction — a pattern that runs from the Exodus through the cross to the eschaton.",
+  "scripture_refs": [
+    {
+      "ref": "EST.6.7-11",
+      "relevance": "primary",
+      "reason": "Haman forced to lead Mordecai on the king's horse — the event directly depicted"
+    },
+    {
+      "ref": "EST.6.1-6",
+      "relevance": "primary",
+      "reason": "The providential sequence: the king's insomnia leads to Mordecai's honor"
+    },
+    {
+      "ref": "PRO.16.18",
+      "relevance": "typological",
+      "reason": "Pride goes before destruction — the principle embodied in Haman's humiliation"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "typological",
+      "reason": "He has brought down the mighty and exalted the humble — the divine reversal pattern"
+    },
+    {
+      "ref": "EST.9.1",
+      "relevance": "allusion",
+      "reason": "The day the enemies hoped to gain mastery became the day the Jews mastered them — the complete reversal"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "ironic",
+    "vindicated",
+    "dramatic"
+  ],
+  "period": "Exile",
+  "_meta": {
+    "key": "0100980",
+    "title": "The Triumph of Mordechai",
+    "artist": "Pieter Lastman",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Young Tobias",
+      "type": "PERSON"
+    },
+    {
+      "name": "Old Tobit",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna (Tobit's wife)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Tobias receives his father Tobit's blessing before departing on his journey",
+  "tags": [
+    "tobias",
+    "tobit",
+    "fathers-blessing",
+    "departure",
+    "staff",
+    "elderly-father",
+    "young-man",
+    "weeping-mother",
+    "farewell",
+    "golden-robes",
+    "walking-staff",
+    "olive-branch",
+    "doorway",
+    "family-scene"
+  ],
+  "symbols": [
+    "father's hand on son's shoulder — the patriarchal blessing and commission",
+    "walking staff — the journey ahead and God's providential guidance",
+    "olive branch — peace and divine favor accompanying the traveler",
+    "weeping mother — maternal grief and anxiety at a child's departure",
+    "doorway/threshold — the boundary between the safety of home and the unknown journey",
+    "youthful beauty of Tobias — innocence setting out into a world of danger under God's protection"
+  ],
+  "description": "A classical academic painting showing three figures at a doorway. A handsome young man in golden-yellow robes stands at the left, holding a walking staff and looking back with a serene expression. An elderly bearded man in a dark purple robe places his hand on the young man's shoulder in a gesture of blessing, while raising his other arm. Behind them, a woman in white head covering turns away, appearing to weep into her hands. An olive branch is visible above the young man. The painting has the polished, idealized finish characteristic of Bouguereau's academic style.",
+  "theological_description": "This scene from the Book of Tobit (Tobit 5:17-22) depicts the moment when the elderly, blind Tobit blesses his son Tobias before sending him on the dangerous journey to Media to recover a deposit of money. Tobit's blessing echoes the patriarchal blessing tradition that runs through Scripture — Abraham blessing Isaac, Isaac blessing Jacob, Jacob blessing his sons (Genesis 27-28; 48-49). The weeping mother Anna mirrors the anxiety of parents throughout Scripture who entrust their children to God's providence. Tobit's instruction to his son before departure constitutes one of the great wisdom passages of the deuterocanonical literature, including: 'Remember the Lord our God all your days... Do not be afraid, my son, because we have become poor. You have great wealth if you fear God' (Tobit 4:5, 21). Unknown to the family, the angel Raphael will accompany Tobias, embodying Psalm 91:11: 'He will command his angels concerning you to guard you in all your ways.' The scene thus illustrates the theology of divine providence — that God's protection operates even when invisible to human eyes.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.91.11",
+      "relevance": "typological",
+      "reason": "He will command his angels to guard you — Raphael's hidden accompaniment of Tobias"
+    },
+    {
+      "ref": "GEN.28.1-4",
+      "relevance": "typological",
+      "reason": "Isaac blessing Jacob before his journey — the patriarchal blessing pattern Tobit follows"
+    },
+    {
+      "ref": "PRO.3.5-6",
+      "relevance": "allusion",
+      "reason": "Trust in the Lord with all your heart — the wisdom tradition undergirding Tobit's instruction to his son"
+    },
+    {
+      "ref": "GEN.24.7",
+      "relevance": "typological",
+      "reason": "Abraham sending his servant on a journey with confidence that God will send his angel — the pattern of divinely guided journeys"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "bittersweet",
+    "solemn",
+    "hopeful"
+  ],
+  "period": "Exile",
+  "_meta": {
+    "key": "0100620",
+    "title": "Tobias Receives his Father's Blessing",
+    "artist": "William-Adolphe Bouguereau",
+    "model": "claude-opus-4-6"
+  }
+}

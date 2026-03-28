@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna the Prophetess",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Presentation of Christ in the Temple",
+  "tags": [
+    "presentation-in-the-temple",
+    "simeon",
+    "anna",
+    "nunc-dimittis",
+    "temple-interior",
+    "altar",
+    "white-cloth",
+    "high-priest",
+    "mitre",
+    "infant-jesus",
+    "purification-ritual",
+    "candlemas",
+    "columns",
+    "bystanders"
+  ],
+  "symbols": [
+    "elderly Simeon receiving the child — the Old Covenant meeting the New in the person of Christ",
+    "temple setting — the place where God's presence dwells, now receiving God incarnate",
+    "white altar cloth — the purity of the sacrificial offering",
+    "Anna in dark garments — the prophetess who recognizes the Redeemer",
+    "Mary presenting the child — the obedient fulfillment of the Mosaic Law"
+  ],
+  "description": "A temple interior with tall columns and arched vaulting. In the foreground, an elderly man in priestly vestments and mitre receives or blesses an infant held by a kneeling woman in dark robes. Other figures gather around a cloth-covered altar — an elderly woman in dark garments, a bearded man, and several onlookers. The architectural space is grand and sacred, with high ceilings and classical columns. The scene captures a formal religious ceremony with the infant at its center.",
+  "theological_description": "The Presentation of Christ in the Temple fulfills the Mosaic law requiring every firstborn male to be consecrated to the Lord (Exodus 13:2) and the mother's purification offering (Leviticus 12:2-8). But this act of legal obedience becomes the occasion for one of the most profound prophetic recognitions in Scripture. The elderly Simeon, who had been promised by the Holy Spirit that he would not die before seeing the Messiah (Luke 2:26), takes the infant in his arms and proclaims the Nunc Dimittis: 'Master, now you are dismissing your servant in peace, for my eyes have seen your salvation, which you have prepared in the presence of all peoples, a light for revelation to the Gentiles and for glory to your people Israel' (Luke 2:29-32). Simeon also delivers the searing prophecy to Mary: 'This child is destined for the falling and the rising of many in Israel... and a sword will pierce your own soul too' (Luke 2:34-35). The prophetess Anna confirms the recognition, speaking 'about the child to all who were looking for the redemption of Jerusalem' (Luke 2:38). The scene thus represents the meeting of the old dispensation and the new — the aged saints of Israel recognizing in a forty-day-old infant the fulfillment of all their hopes.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.22-38",
+      "relevance": "primary",
+      "reason": "The full account of the Presentation, Simeon's prophecy, and Anna's testimony"
+    },
+    {
+      "ref": "LUK.2.29-32",
+      "relevance": "primary",
+      "reason": "The Nunc Dimittis — Simeon's canticle recognizing Christ as a light to the nations"
+    },
+    {
+      "ref": "LUK.2.34-35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy of division and the sword that will pierce Mary's soul"
+    },
+    {
+      "ref": "EXO.13.2",
+      "relevance": "typological",
+      "reason": "Consecrate to me every firstborn — the Mosaic law fulfilled in Christ's presentation"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord whom you seek will suddenly come to his temple — fulfilled in the infant's arrival"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "prophetic",
+    "solemn",
+    "hopeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110892",
+    "title": "The Presentation of Christ in the Temple",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

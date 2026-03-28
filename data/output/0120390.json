@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "King Saul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saul's armor-bearer",
+      "type": "PERSON"
+    },
+    {
+      "name": "Philistine army",
+      "type": "GROUP"
+    },
+    {
+      "name": "Israelite army",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Suicide of King Saul at the Battle of Mount Gilboa",
+  "tags": [
+    "saul",
+    "suicide",
+    "battle",
+    "mount-gilboa",
+    "philistines",
+    "defeat",
+    "vast-army",
+    "mountainous-landscape",
+    "castle",
+    "warfare",
+    "panoramic-battle",
+    "fallen-king"
+  ],
+  "symbols": [
+    "massive armies filling the landscape — the overwhelming force of judgment upon a disobedient king",
+    "mountain fortress — the last refuge that cannot save from divine decree",
+    "small figures against vast landscape — the insignificance of human power before God's sovereignty",
+    "sword turned upon oneself — the final consequence of a life lived in rebellion against God"
+  ],
+  "description": "A vast panoramic landscape showing an enormous battle scene. Thousands of tiny soldiers fill a valley and hillside between forested mountains and a castle perched on a rocky cliff at upper right. In the lower left foreground, a small group of armored figures on a rocky outcrop appears to depict the final moments of Saul — one figure falls upon his sword. The massive scale of the battle dwarfs the individual tragedy in the foreground. Dense forests of coniferous trees cover the mountainsides, and the sky shows a muted sunset glow.",
+  "theological_description": "The suicide of King Saul at the Battle of Mount Gilboa marks the tragic end of Israel's first monarchy. First Samuel records that 'the Philistines pressed hard after Saul and his sons, and they killed his sons Jonathan, Abinadab and Malki-Shua. The fighting grew fierce around Saul... He said to his armor-bearer, Draw your sword and run me through... But his armor-bearer was terrified and would not do it. So Saul took his own sword and fell on it' (1 Samuel 31:2-4). Saul's downfall was the culmination of a long pattern of disobedience. God had rejected him as king for failing to obey the prophetic word (1 Samuel 15:23): 'Because you have rejected the word of the Lord, he has rejected you as king.' Saul's consultation with the medium at Endor on the eve of battle (1 Samuel 28:7-19) represented his final abandonment of God. His death opened the way for David, the man after God's own heart (1 Samuel 13:14), to assume the throne. The vast scale of the battle emphasizes that Saul's personal tragedy had national consequences — his disobedience brought defeat upon all Israel. David's lament captures the pathos: 'How the mighty have fallen!' (2 Samuel 1:19).",
+  "scripture_refs": [
+    {
+      "ref": "1SA.31.2-6",
+      "relevance": "primary",
+      "reason": "The death of Saul and his sons at the Battle of Mount Gilboa — the direct narrative depicted"
+    },
+    {
+      "ref": "1SA.15.23",
+      "relevance": "primary",
+      "reason": "Saul's rejection by God for disobedience — the theological cause of the defeat shown here"
+    },
+    {
+      "ref": "2SA.1.19-27",
+      "relevance": "allusion",
+      "reason": "David's lament over Saul and Jonathan — the emotional aftermath of this catastrophe"
+    },
+    {
+      "ref": "1SA.28.7-19",
+      "relevance": "allusion",
+      "reason": "Saul's consultation with the medium at Endor, where Samuel's spirit foretold this defeat"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tragic",
+    "vast",
+    "devastating",
+    "somber"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0120390",
+    "title": "The Suicide of Saul",
+    "artist": "Pieter Bruegel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

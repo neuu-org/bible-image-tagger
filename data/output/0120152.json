@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Saint George",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Princess",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Dragon",
+      "type": "OTHER"
+    },
+    {
+      "name": "God the Father (in heavenly glory)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint George Slaying the Dragon",
+  "tags": [
+    "saint-george",
+    "dragon",
+    "princess",
+    "white-horse",
+    "lance",
+    "slaying",
+    "heavenly-glory",
+    "rescue",
+    "good-versus-evil",
+    "landscape",
+    "castle",
+    "divine-radiance"
+  ],
+  "symbols": [
+    "dragon — Satan and the forces of evil, conquered by faith and divine power",
+    "white horse — purity and righteous warfare",
+    "lance piercing the dragon — the triumph of good over evil",
+    "princess kneeling in prayer — the Church or the faithful delivered from the serpent's threat",
+    "divine radiance breaking through clouds — God's providential intervention in the battle against evil",
+    "castle in the background — the earthly kingdom threatened by evil and defended by saintly courage"
+  ],
+  "description": "A dramatic landscape composition with a mounted knight on a white horse charging from the left, thrusting a lance downward into a large fallen dragon. The dragon lies defeated on the ground with its dark scaly body and long tail. In the lower right foreground, a young woman in a pink and blue dress kneels, looking back over her shoulder. Above, the sky parts to reveal a brilliant divine radiance with a figure or form visible within a rainbow-like halo. A castle and rocky cliffs fill the middle-ground background. Trees frame both sides of the composition.",
+  "theological_description": "The legend of Saint George and the Dragon, while not directly biblical, is deeply rooted in Christian typology of spiritual warfare. The image of a saint on horseback defeating a dragon draws directly from Revelation's vision of Michael and his angels warring against 'that ancient serpent called the devil, or Satan' (Revelation 12:7-9). The dragon of the legend is a visual incarnation of the serpent who first appears in Genesis 3 and whose final defeat is prophesied in Revelation 20:2. George, as a Christian soldier-martyr, embodies Paul's exhortation to 'put on the full armor of God, so that you can take your stand against the devil's schemes' (Ephesians 6:11). The princess awaiting rescue represents the Church — the bride of Christ (Revelation 21:2) — threatened by the devouring dragon of Revelation 12 who seeks to destroy her. The divine radiance breaking through the clouds signals that this is not merely human combat but spiritual warfare empowered from above. The scene is ultimately a visual parable of the protoevangelium: the seed of the woman crushing the head of the serpent (Genesis 3:15).",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.7-9",
+      "relevance": "typological",
+      "reason": "Michael and his angels fighting the dragon — George as a typological figure of the angelic warrior against Satan"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The protoevangelium — the seed of the woman crushing the serpent's head, visually enacted in the lance piercing the dragon"
+    },
+    {
+      "ref": "EPH.6.11-13",
+      "relevance": "allusion",
+      "reason": "The armor of God for spiritual warfare — George embodies the Christian soldier armed by divine power"
+    },
+    {
+      "ref": "REV.20.2",
+      "relevance": "allusion",
+      "reason": "The binding and defeat of the ancient dragon, that serpent who is the devil and Satan"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "heroic",
+    "dramatic",
+    "triumphant",
+    "luminous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0120152",
+    "title": "Saint George and the Dragon",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

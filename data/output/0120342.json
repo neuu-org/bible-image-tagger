@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Shepherds and Magi",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Mystical Nativity",
+  "tags": [
+    "nativity",
+    "christmas",
+    "angels-dancing",
+    "manger",
+    "ox-and-donkey",
+    "shepherds",
+    "adoration",
+    "heavenly-host",
+    "olive-branches",
+    "embracing-figures",
+    "golden-heaven",
+    "mystical-vision",
+    "stable"
+  ],
+  "symbols": [
+    "angels dancing in a ring in heaven — the heavenly rejoicing at the birth of the Savior",
+    "olive branches held by angels — peace brought to earth through the Incarnation",
+    "stable and manger — the humility of God's entrance into the world",
+    "ox and donkey — traditional witnesses of the Nativity, from Isaiah's prophecy that the ox knows its owner",
+    "embracing figures at the bottom — reconciliation between heaven and earth through Christ's birth",
+    "golden dome of heaven above — the opened heavens pouring glory upon the earth"
+  ],
+  "description": "A three-tiered mystical composition. At the top, a golden heaven with angels in flowing robes of white, red, pink, and dark green dance in a circle, holding olive branches. In the middle register, a wooden stable shelters the Nativity scene: Mary in a large blue cloak kneels before the infant Christ Child, flanked by an ox and donkey, with angels and worshippers around. On the rooftop of the stable, three more angels embrace and dance. At the bottom, three pairs of human figures and angels embrace each other, while small demons flee into cracks in the ground.",
+  "theological_description": "Botticelli's Mystical Nativity is one of the most theologically complex Nativity paintings ever created. The central scene follows Luke's Gospel: 'She gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger' (Luke 2:7). The angelic host dancing above fulfills the announcement to the shepherds: 'Suddenly a great company of the heavenly host appeared with the angel, praising God and saying, Glory to God in the highest heaven, and on earth peace to those on whom his favor rests' (Luke 2:13-14). The olive branches the angels carry symbolize the peace prophesied by Isaiah: 'For to us a child is born, to us a son is given... and he will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace' (Isaiah 9:6). The embracing figures at the base represent the cosmic reconciliation that the Incarnation accomplishes — the healing of the breach between God and humanity, as Paul later proclaimed: 'God was reconciling the world to himself in Christ' (2 Corinthians 5:19). The fleeing demons signify the defeat of evil inaugurated by Christ's birth — the protoevangelium of Genesis 3:15 beginning its fulfillment. Botticelli's vision integrates the Nativity with eschatological hope, suggesting that Christmas is not merely a historical event but the beginning of the world's final redemption.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7-14",
+      "relevance": "primary",
+      "reason": "The Nativity and the angelic host praising God — the central subject of the painting"
+    },
+    {
+      "ref": "ISA.9.6",
+      "relevance": "primary",
+      "reason": "The Prince of Peace — the olive branches of the dancing angels proclaim peace on earth"
+    },
+    {
+      "ref": "2CO.5.19",
+      "relevance": "typological",
+      "reason": "God reconciling the world to himself in Christ — the embracing figures at the base embody this"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The seed of the woman crushing the serpent — demons flee at the base of the composition"
+    },
+    {
+      "ref": "REV.12.7-9",
+      "relevance": "allusion",
+      "reason": "The defeat and expulsion of Satan — the demons driven underground by the Incarnation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "mystical",
+    "joyful",
+    "triumphant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120342",
+    "title": "The Mystical Nativity",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with the Infant Saint John the Baptist",
+  "tags": [
+    "holy-family",
+    "virgin-and-child",
+    "infant-john-baptist",
+    "joseph",
+    "family-group",
+    "embracing-children",
+    "warm-tones",
+    "dark-background",
+    "intimate-composition",
+    "golden-light",
+    "maternal-tenderness",
+    "mannerist-style"
+  ],
+  "symbols": [
+    "Virgin embracing both children — the mother of the Savior who also shelters the precursor",
+    "two infants together — Christ and his forerunner John, linked from before birth",
+    "elderly Joseph in shadow — the guardian of the Holy Family watching from the margins",
+    "warm golden light — the divine warmth of the incarnation within the family"
+  ],
+  "description": "An intimate composition showing a woman holding two children in a close embrace. The woman has dark hair and a gentle expression, looking directly at the viewer while holding a toddler who clasps her neck. A second, smaller figure of an elderly bearded man appears at lower left. The palette is warm with golden-brown tones, rendered with loose, fluid brushwork. The dark background concentrates attention on the luminous figures. The overall mood is one of familial warmth and tender proximity.",
+  "theological_description": "The Holy Family with the infant John the Baptist brings together the two families whose destinies were intertwined from the Annunciation onward. When Mary visited Elizabeth, the infant John leaped in his mother's womb at the presence of the unborn Christ (Luke 1:41-44). This painting envisions a later encounter between the two children, with the young John drawn to the Christ child in the same instinctive recognition. The Virgin Mary, holding both children, embodies the Church as mother — sheltering both the Savior and his forerunner, the one who is the Way and the one who prepares the way. Joseph, the quiet guardian, fulfills his God-given role as protector of the holy family. The intimate scale and warm tones emphasize that the Incarnation is not an abstract theological event but a lived reality within a human family — God entering the world through the ordinary bonds of kinship, affection, and domestic life.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-44",
+      "relevance": "primary",
+      "reason": "Mary's visit to Elizabeth when the infant John leaped — the origin of the relationship between the two families"
+    },
+    {
+      "ref": "MAT.1.20-21",
+      "relevance": "primary",
+      "reason": "The angel instructing Joseph to take Mary as his wife — Joseph's role as guardian of the Holy Family"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John declaring 'Behold the Lamb of God' — the young Baptist's closeness to Christ foreshadows his later testimony"
+    },
+    {
+      "ref": "LUK.2.40",
+      "relevance": "allusion",
+      "reason": "The child grew and became strong — the domestic setting of Jesus's childhood"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "warm",
+    "intimate",
+    "tender",
+    "familial"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110709",
+    "title": "The Holy Family with the Infant Saint John the Baptist",
+    "artist": "Rosso Fiorentino",
+    "model": "claude-opus-4-6"
+  }
+}

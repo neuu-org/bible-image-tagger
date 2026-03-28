@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Goliath",
+      "type": "PERSON"
+    }
+  ],
+  "event": "David and Goliath",
+  "tags": [
+    "david-and-goliath",
+    "abstract",
+    "contemporary-art",
+    "red-and-yellow",
+    "minimalist",
+    "geometric-lines",
+    "gray-frame",
+    "bold-colors",
+    "abstract-interpretation",
+    "combat"
+  ],
+  "symbols": [
+    "large geometric shape — possibly the massive form of Goliath",
+    "small figure/marks — possibly David, the small combatant against the giant",
+    "red field — blood, violence, and the drama of combat",
+    "yellow field — the open battlefield or divine light",
+    "stark contrast between large and small forms — the disparity between the giant and the shepherd boy"
+  ],
+  "description": "An abstract contemporary painting with bold fields of color. The upper portion features a band of bright red, transitioning to a large field of warm yellow that fills most of the canvas. A large angular black geometric line forms a rectangular shape on the left side. Small black marks and dots appear scattered on the yellow field, with what may be a small figure rendered in minimal strokes. The painting is set within a gray painted frame or border. The overall composition is starkly minimalist with strong color contrasts.",
+  "theological_description": "This abstract interpretation of David and Goliath strips the narrative to its essential tension: the confrontation between overwhelming force and divinely empowered smallness. In 1 Samuel 17, the young shepherd David faced the Philistine champion Goliath, a warrior over nine feet tall, armed only with a sling and five smooth stones — and the name of the Lord of hosts. David's declaration captures the theology of the encounter: 'You come to me with a sword and with a spear and with a javelin, but I come to you in the name of the Lord of hosts' (1 Samuel 17:45). The abstract rendering, with its vast color fields and minimal marks, may evoke this radical asymmetry — the impossibly large versus the apparently insignificant. Yet Scripture consistently reveals that God 'chose what is weak in the world to shame the strong' (1 Corinthians 1:27). David's victory prefigures Christ's own triumph over the powers of sin and death through apparent weakness — the cross (Colossians 2:15). The bold red may suggest the bloodshed of combat, while the golden yellow recalls the divine glory that empowers the underdog.",
+  "scripture_refs": [
+    {
+      "ref": "1SA.17.1-51",
+      "relevance": "primary",
+      "reason": "The full account of David's combat with Goliath — the narrative the artwork abstractly interprets"
+    },
+    {
+      "ref": "1SA.17.45",
+      "relevance": "primary",
+      "reason": "David comes in the name of the Lord of hosts — the theological key to the victory"
+    },
+    {
+      "ref": "1CO.1.27",
+      "relevance": "typological",
+      "reason": "God chose the weak to shame the strong — the principle embodied in David's victory"
+    },
+    {
+      "ref": "PSA.144.1",
+      "relevance": "allusion",
+      "reason": "Blessed be the Lord, my rock, who trains my hands for war — David's divine equipping"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "bold",
+    "abstract",
+    "confrontational"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0100460",
+    "title": "David and Goliath",
+    "artist": "Carloluigi Colombo",
+    "model": "claude-opus-4-6"
+  }
+}

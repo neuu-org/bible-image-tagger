@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Travelers and Bedouin",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Travelers resting at the Wells of Moses in the Sinai desert",
+  "tags": [
+    "wells-of-moses",
+    "desert-oasis",
+    "palm-trees",
+    "camels",
+    "bedouin",
+    "travelers",
+    "sinai",
+    "water-source",
+    "resting-caravan",
+    "biblical-landscape",
+    "lithograph"
+  ],
+  "symbols": [
+    "wells in the desert — divine provision of water in the wilderness",
+    "palm trees — the oasis as a sign of God's sustaining grace",
+    "camels and travelers resting — the journey through the wilderness sustained by God",
+    "desert landscape — the testing ground of faith and the place of divine encounter"
+  ],
+  "description": "A lithographic landscape showing a desert oasis with palm trees surrounding a pool or well. Groups of travelers, Bedouin, and camels are scattered around the water source — some resting, some watering animals, some in conversation. The foreground shows figures seated on the ground near bundles and supplies. The middle ground features the palm-fringed water source with more travelers and camels. The background shows an arid, rolling desert landscape extending to the horizon under a pale sky. The style is documentary, characteristic of nineteenth-century Holy Land travel art.",
+  "theological_description": "The Wells of Moses (Ain Mousa) near the Sinai Peninsula are traditionally associated with the Israelites' passage through the wilderness after the Exodus. The provision of water in the desert is one of Scripture's most powerful metaphors for divine sustenance amid human need. When the Israelites thirsted at Marah, God showed Moses a piece of wood that sweetened the bitter waters (Exodus 15:23-25), and at Rephidim, Moses struck the rock and water flowed (Exodus 17:6). These events established water in the wilderness as the sign of God's faithfulness: 'He split the rocks in the wilderness and gave them water as abundant as the seas' (Psalm 78:15). The palm trees surrounding the wells recall Elim, where the Israelites found 'twelve springs and seventy palm trees, and they camped there near the water' (Exodus 15:27). Jesus Himself appropriated this wilderness water imagery when He declared: 'If anyone is thirsty, let him come to me and drink. Whoever believes in me, as Scripture has said, rivers of living water will flow from within them' (John 7:37-38).",
+  "scripture_refs": [
+    {
+      "ref": "EXO.15.27",
+      "relevance": "primary",
+      "reason": "The oasis at Elim with springs and palm trees — the direct association of this landscape"
+    },
+    {
+      "ref": "EXO.17.6",
+      "relevance": "typological",
+      "reason": "Moses striking the rock for water — the wells bearing Moses's name recall his provision"
+    },
+    {
+      "ref": "PSA.78.15",
+      "relevance": "allusion",
+      "reason": "God splitting rocks in the wilderness to give abundant water"
+    },
+    {
+      "ref": "JHN.7.37-38",
+      "relevance": "typological",
+      "reason": "Jesus offering living water — the ultimate fulfillment of wilderness water provision"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "peaceful",
+    "arid",
+    "restful",
+    "documentary"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0130838",
+    "title": "Ayn Mousa. The Wells of Moses",
+    "artist": "David Roberts",
+    "model": "claude-opus-4-6"
+  }
+}

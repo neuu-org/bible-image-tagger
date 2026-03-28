@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    }
+  ],
+  "event": "David standing in vigilant readiness before battle",
+  "tags": [
+    "david",
+    "marble-sculpture",
+    "hero",
+    "youth",
+    "courage",
+    "vigilance",
+    "muscular-form",
+    "contrapposto",
+    "sling",
+    "giant-slayer",
+    "old-testament-hero"
+  ],
+  "symbols": [
+    "sling strap over left shoulder — the humble weapon that felled Goliath",
+    "tense right hand — readiness for combat and reliance on divine strength",
+    "nude figure — heroic vulnerability and trust in God alone rather than armor",
+    "intense gaze — focused determination directed at the unseen enemy",
+    "contrapposto stance — the moment of decision between fear and faith"
+  ],
+  "description": "A monumental white marble sculpture of a young man standing in a contrapposto pose within a domed niche. The figure is nude, powerfully muscled yet youthful, with curly hair. His right hand hangs at his side gripping an object, while his left hand is raised near his left shoulder, holding the strap of a sling that runs across his back. His head is turned to the left with an intense, focused gaze. The sculpture stands on a low pedestal against a cream-colored architectural background with pilasters.",
+  "theological_description": "This iconic representation of David captures the shepherd boy at the threshold of his defining act of faith — the slaying of Goliath. The narrative in 1 Samuel 17 records how David, too young for armor and untrained in conventional warfare, faced the Philistine champion armed only with a sling and five smooth stones, declaring: 'I come to you in the name of the LORD of hosts' (1 Samuel 17:45). The sculpture's nudity — David's refusal of Saul's armor (1 Samuel 17:39) — becomes a theological statement: true strength lies not in human might but in divine empowerment. David's intense gaze toward his unseen enemy embodies the faith that sees beyond visible circumstances to God's promised deliverance. As the anointed future king of Israel (1 Samuel 16:12-13), David here prefigures Christ, the Son of David, who would defeat the ultimate enemy not through worldly power but through the apparent weakness of the cross (1 Corinthians 1:27). The taut readiness of the body expresses the Psalmist's confidence: 'The LORD is my light and my salvation — whom shall I fear?' (Psalm 27:1).",
+  "scripture_refs": [
+    {
+      "ref": "1SA.17.45",
+      "relevance": "primary",
+      "reason": "David's confrontation with Goliath in the name of the Lord is the direct subject of this sculpture"
+    },
+    {
+      "ref": "1SA.17.38-40",
+      "relevance": "primary",
+      "reason": "David's rejection of Saul's armor in favor of the sling is visually represented by the nude figure with sling"
+    },
+    {
+      "ref": "1SA.16.12-13",
+      "relevance": "primary",
+      "reason": "David's youthful beauty and divine anointing are expressed in the idealized form"
+    },
+    {
+      "ref": "PSA.27.1",
+      "relevance": "allusion",
+      "reason": "David's confident gaze embodies the Psalmist's fearless trust in the Lord as light and salvation"
+    },
+    {
+      "ref": "1CO.1.27",
+      "relevance": "typological",
+      "reason": "God choosing the weak to shame the strong — David with a sling defeats the armored giant"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "heroic",
+    "tense",
+    "determined",
+    "sublime"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0130122",
+    "title": "David",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

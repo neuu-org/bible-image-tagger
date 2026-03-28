@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Young Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joachim",
+      "type": "PERSON"
+    },
+    {
+      "name": "Cherubs",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Anne Teaching the Young Virgin Mary to Read",
+  "tags": [
+    "saint-anne",
+    "education-of-the-virgin",
+    "young-mary",
+    "reading",
+    "book",
+    "joachim",
+    "cherubs",
+    "domestic-scene",
+    "blue-dress",
+    "teaching",
+    "mother-and-daughter"
+  ],
+  "symbols": [
+    "open book — the Scriptures through which Mary learned the promises of God she would fulfill",
+    "Anne teaching — the maternal transmission of faith from generation to generation",
+    "young Mary attentive — the formation of the soul that would consent to bear the Incarnate Word",
+    "cherubs above — heaven attending the education of the future Mother of God",
+    "Joachim observing — the faithful father supporting the formation of his daughter"
+  ],
+  "description": "An interior scene showing three figures and hovering cherubs. At center, an older woman (Anne) with a white head covering sits and holds an open book, looking down at a young girl (Mary) in a blue dress who kneels before her reading or studying the text. Behind them, an elderly bearded man (Joachim) observes from a doorway. Above the group, several cherub heads float among dark clouds. The lighting focuses on the two female figures and the open book between them. The scene is intimate and domestic, with warm tones against a dark background.",
+  "theological_description": "While the Education of the Virgin is drawn from apocryphal tradition rather than canonical Scripture, it embodies a profound biblical principle: the faithful transmission of God's word from parent to child. Deuteronomy commands: 'These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home' (Deuteronomy 6:6-7). Anne teaching Mary to read the Scriptures represents the formation of the soul that would one day respond to Gabriel with the fiat that changed the world: 'I am the Lord's servant. May your word to me be fulfilled' (Luke 1:38). Mary's deep knowledge of Scripture is evident in the Magnificat (Luke 1:46-55), which weaves together themes from Hannah's prayer (1 Samuel 2:1-10), the Psalms, and the prophets. The cherubs attending this domestic scene affirm that heaven regards the education of a child in faith as a matter of cosmic significance — through this girl's formation, the Incarnation would become possible.",
+  "scripture_refs": [
+    {
+      "ref": "DEU.6.6-7",
+      "relevance": "typological",
+      "reason": "The command to teach God's word to children — the principle embodied in Anne teaching Mary"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat reveals Mary's deep scriptural formation — the fruit of the education depicted"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "allusion",
+      "reason": "Mary's fiat — the response prepared by a lifetime of formation in God's word"
+    },
+    {
+      "ref": "2TI.3.15",
+      "relevance": "typological",
+      "reason": "From infancy knowing the holy Scriptures which are able to make you wise for salvation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "intimate",
+    "reverent",
+    "nurturing"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0120932",
+    "title": "Santa Ana ensenando a leer a la Virgen",
+    "artist": "Juan Carreno de Miranda",
+    "model": "claude-opus-4-6"
+  }
+}

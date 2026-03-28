@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "An Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of an Apostle",
+  "tags": [
+    "apostle-portrait",
+    "bearded-man",
+    "dark-background",
+    "intense-gaze",
+    "brown-robes",
+    "direct-eye-contact",
+    "head-and-shoulders",
+    "strong-features",
+    "dark-hair",
+    "character-study",
+    "devotional-portrait",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "direct intense gaze — the apostle's confrontational witness to the truth",
+    "dark background — isolation emphasizing the individual's encounter with the viewer",
+    "rough brown robes — the simplicity and poverty of apostolic life"
+  ],
+  "description": "A head-and-shoulders portrait of a bearded man with dark hair and strong features, gazing directly at the viewer with intense, slightly troubled eyes. He wears dark brown or black robes over a white undergarment visible at the neck. The background is deeply dark, concentrating all light on the face and upper body. The skin is rendered with warm tones and the texture of weather-worn flesh. The expression combines intensity, weariness, and earnest directness. The painting is bold and psychologically penetrating.",
+  "theological_description": "Van Dyck's apostle study captures the human reality behind the sacred office. The apostles were not ethereal saints but working men — fishermen, tax collectors, zealots — called from ordinary life to extraordinary witness. The intense, slightly troubled gaze of this figure suggests the weight of apostolic responsibility: to proclaim a crucified Messiah to a hostile world. Paul described this burden: 'We are afflicted in every way, but not crushed; perplexed, but not driven to despair; persecuted, but not forsaken; struck down, but not destroyed' (2 Corinthians 4:8-9). The rough clothing speaks of the voluntary poverty Jesus commanded: 'Take nothing for the journey' (Mark 6:8). The direct eye contact breaks the fourth wall of historical distance, making the apostle's witness immediate and personal — this is not a figure from a distant past but a living presence who demands a response. The dark background isolates the face, stripping away all context to focus on the essential encounter between the viewer and the one who can say, 'We are witnesses of everything he did' (Acts 10:39).",
+  "scripture_refs": [
+    {
+      "ref": "2CO.4.8-9",
+      "relevance": "typological",
+      "reason": "Afflicted but not crushed, perplexed but not in despair — the apostolic burden visible in the face"
+    },
+    {
+      "ref": "ACT.10.39",
+      "relevance": "typological",
+      "reason": "We are witnesses of everything he did — the apostle as direct witness to Christ"
+    },
+    {
+      "ref": "MRK.6.8",
+      "relevance": "allusion",
+      "reason": "Take nothing for the journey — the simplicity of the apostle's rough garments"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intense",
+    "penetrating",
+    "weary",
+    "earnest"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0111143",
+    "title": "An Apostle",
+    "artist": "Anthony van Dyck",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ Handing the Keys to Saint Peter",
+  "tags": [
+    "keys-to-peter",
+    "apostles",
+    "temple",
+    "golden-dome",
+    "triumphal-arches",
+    "kneeling-peter",
+    "piazza",
+    "renaissance-architecture",
+    "commissioning",
+    "authority",
+    "church-foundation"
+  ],
+  "symbols": [
+    "keys handed to Peter — the authority to bind and loose, the foundation of the Church",
+    "Peter kneeling — humility before divine commissioning",
+    "golden-domed temple — the Church that Christ builds upon the rock of Peter's confession",
+    "triumphal arches — the victory of the Kingdom of God",
+    "apostles flanking the scene — witnesses to the transfer of authority"
+  ],
+  "description": "A grand Renaissance composition set in a vast piazza with an idealized golden-domed temple at center and two triumphal arches flanking it. In the foreground, Christ in a blue and red robe hands two keys to a kneeling Peter, who receives them with reverence. The other apostles stand on either side in richly colored robes, witnessing the event. Additional figures populate the expansive paved square behind them. The perspective lines of the pavement converge precisely on the temple entrance. The sky is blue with white clouds, and the entire scene conveys monumental order and divine authority.",
+  "theological_description": "This painting depicts the moment when Christ conferred upon Peter the authority that would define the apostolic office: 'I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven' (Matthew 16:19). This followed Peter's great confession of faith: 'You are the Messiah, the Son of the living God' (Matthew 16:16), to which Jesus responded: 'You are Peter, and on this rock I will build my church, and the gates of Hades will not overcome it' (Matthew 16:18). The two keys traditionally represent the authority to absolve and to excommunicate, to open and to shut. The idealized temple behind the scene represents the Church that Christ promised to build — not a physical structure but a spiritual community founded on apostolic authority and Peter's confession of faith. The triumphal arches recall Christ's own triumph over sin and death, the foundation upon which all ecclesiastical authority rests. This moment established the principle of apostolic succession and pastoral authority that has shaped the Church's self-understanding for two millennia.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ giving Peter the keys of the kingdom — the exact moment depicted"
+    },
+    {
+      "ref": "MAT.16.16",
+      "relevance": "primary",
+      "reason": "Peter's confession that Jesus is the Messiah — the occasion for receiving the keys"
+    },
+    {
+      "ref": "JHN.21.15-17",
+      "relevance": "allusion",
+      "reason": "Christ's threefold commission to Peter: Feed my sheep — the pastoral authority conveyed with the keys"
+    },
+    {
+      "ref": "EPH.2.20",
+      "relevance": "typological",
+      "reason": "The Church built on the foundation of the apostles and prophets with Christ as cornerstone"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "solemn",
+    "authoritative",
+    "ordered"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120919",
+    "title": "Christ Handing the Keys to St. Peter",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

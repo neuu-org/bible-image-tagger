@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint John the Evangelist with the poisoned chalice",
+  "tags": [
+    "saint-john",
+    "evangelist",
+    "chalice",
+    "poison-cup",
+    "upward-gaze",
+    "curly-hair",
+    "bare-chest",
+    "book",
+    "latin-inscription",
+    "creed-article"
+  ],
+  "symbols": [
+    "chalice — the poisoned cup John was said to have survived, and the Eucharistic cup",
+    "upward gaze — communion with the divine and prophetic vision",
+    "book — the Gospel of John and the Revelation",
+    "bare chest — youth, vulnerability, and openness to God",
+    "rocky landscape — Patmos or the wilderness of exile"
+  ],
+  "description": "An engraving showing a young man with abundant curly hair, bare-chested with a cloak draped over one shoulder, gazing upward with an expression of intense spiritual ecstasy. He holds a chalice or goblet in his left hand and touches his chest with his right. A book lies near him. The background shows a rocky landscape with dramatic clouds. The inscription above reads 'Johannes' and below reads 'IIII. PASSVS SVB PONTIO PILATO, CRVCIFIXVS, MORTVVS & SEPVLTVS' — the fourth article of the Apostles' Creed attributed to John.",
+  "theological_description": "Saint John the Evangelist is depicted here as the youthful, inspired theologian whose Gospel penetrates most deeply into the mystery of Christ's divine nature. The chalice he holds refers to the legend that John drank poison without harm — but more profoundly, it connects to Jesus's question to James and John: 'Can you drink the cup I am going to drink?' (Matthew 20:22), to which they answered yes. John's upward gaze embodies the contemplative vision that produced the most theological of the Gospels — beginning with the cosmic declaration 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1). The inscription connects John to the fourth article of the Creed — Christ's suffering under Pontius Pilate — reminding us that John was the only apostle present at the Crucifixion (John 19:26). His intimate witness of Christ's Passion qualified him to write the declaration that defines his theology: 'God is love, and whoever abides in love abides in God, and God abides in him' (1 John 4:16). The book beside him represents his literary legacy — the Gospel, three Epistles, and Revelation — through which his testimony endures.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.1",
+      "relevance": "primary",
+      "reason": "In the beginning was the Word — John's supreme theological contribution, represented by the book"
+    },
+    {
+      "ref": "JHN.19.26",
+      "relevance": "primary",
+      "reason": "John as the beloved disciple at the cross — the Creed inscription connects him to the Passion"
+    },
+    {
+      "ref": "MAT.20.22",
+      "relevance": "allusion",
+      "reason": "Can you drink the cup I drink? — the chalice John holds references this question"
+    },
+    {
+      "ref": "1JN.4.16",
+      "relevance": "allusion",
+      "reason": "God is love — the theological insight born of John's intimate witness"
+    },
+    {
+      "ref": "REV.1.9",
+      "relevance": "allusion",
+      "reason": "John on the island of Patmos — the rocky landscape may reference his exile"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "ecstatic",
+    "contemplative",
+    "inspired",
+    "devotional"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0130816",
+    "title": "St. John",
+    "artist": "Hendrick Goltzius",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Luke",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Winged figure (angel or muse)",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Luke Painting the Virgin and Child",
+  "tags": [
+    "saint-luke",
+    "painter",
+    "virgin-and-child",
+    "easel",
+    "painting-within-painting",
+    "artist-at-work",
+    "torch-bearer",
+    "patron-of-artists",
+    "canvas",
+    "classical-statue"
+  ],
+  "symbols": [
+    "Luke painting at an easel — the evangelist as the first iconographer, patron of artists",
+    "Virgin and Child posing — the living reality behind all Christian art",
+    "torch held by winged figure — divine inspiration illuminating the artist's work",
+    "classical statue in background — the dialogue between sacred and classical art traditions"
+  ],
+  "description": "A complex composition showing a man in a red cap and fine clothing seated at an easel, painting a portrait of a woman's face on a canvas. Before him, a woman in an ornate red and gold dress holds a nude infant on her lap — the Virgin and Child serving as the model. Between the painter and his subject, a winged nude figure holds a tall flaming torch, illuminating the scene. In the background, a classical statue and another male figure are visible. Scattered at the painter's feet are drawings or prints. The scene is dramatically lit with rich, dark tones.",
+  "theological_description": "The tradition that Saint Luke was an artist who painted the Virgin Mary's portrait from life is one of the most beloved legends in Christian art history. Luke, the physician and evangelist (Colossians 4:14), is the Gospel writer who provides the most detailed account of Mary's experience — the Annunciation (Luke 1:26-38), the Visitation (Luke 1:39-56), and the Nativity (Luke 2:1-20). His intimate knowledge of Mary's perspective led to the tradition that he knew her personally and painted her likeness. As an evangelist, Luke was indeed a 'portrait painter' in words — his Gospel gives us the most vivid written portrait of Christ's mother. The torch held by the angelic figure represents divine inspiration: just as Luke wrote his Gospel 'so that you may know the certainty of the things you have been taught' (Luke 1:4), so the sacred artist works by a light not his own. Every icon and sacred image descends, in tradition, from Luke's original portrait — making him the patron saint of artists and painters.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.1-4",
+      "relevance": "primary",
+      "reason": "Luke's prologue explaining his careful research — the evangelist as careful observer and recorder, here as painter"
+    },
+    {
+      "ref": "COL.4.14",
+      "relevance": "primary",
+      "reason": "Luke identified as the beloved physician — the historical identity of the painter depicted"
+    },
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "allusion",
+      "reason": "Luke's detailed account of the Annunciation to Mary — evidence of his special access to Mary's story"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "creative",
+    "reverent",
+    "dramatic",
+    "intimate"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0120652",
+    "title": "St Luke Painting the Virgin and Child",
+    "artist": "Maerten van Heemskerck",
+    "model": "claude-opus-4-6"
+  }
+}

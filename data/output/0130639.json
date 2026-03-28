@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Lazarus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Martha",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary of Bethany",
+      "type": "PERSON"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Raising of Lazarus from the dead",
+  "tags": [
+    "raising-of-lazarus",
+    "resurrection-miracle",
+    "tomb",
+    "burial-wrappings",
+    "jesus-commanding",
+    "dead-raised",
+    "mourning-sisters",
+    "gold-background",
+    "medieval-panel",
+    "haloes",
+    "miracle-of-christ"
+  ],
+  "symbols": [
+    "Lazarus in burial wrappings emerging from tomb — death conquered by Christ's word of power",
+    "Christ's commanding gesture — divine authority over death itself",
+    "sisters kneeling — faith and grief meeting divine power",
+    "open tomb — the seal of death broken by the Lord of life",
+    "gold background — the divine, eternal realm breaking into mortal reality",
+    "haloed apostles — the faithful witnesses of Christ's greatest sign"
+  ],
+  "description": "A medieval panel painting with a gold background showing Christ at the left, wearing a pink-red robe and blue mantle with a golden halo, extending His hand in a commanding gesture toward a figure wrapped entirely in white burial linens standing upright in a narrow stone tomb or niche to the right. Two women in red and blue robes kneel at Christ's feet. Behind Jesus, a group of haloed apostles look on with expressions of wonder. The composition is dense and frontal in the style of Trecento Italian painting.",
+  "theological_description": "The Raising of Lazarus is the climactic sign in John's Gospel — the seventh and greatest miracle that directly precipitates Jesus's own death and resurrection. After four days in the tomb, when Martha protested that 'there will be a bad odor' (John 11:39), Jesus declared: 'I am the resurrection and the life. The one who believes in me will live, even though they die' (John 11:25). His command — 'Lazarus, come out!' (John 11:43) — demonstrates absolute divine authority over death itself. The medieval painter captures the theological heart of the scene: Christ's word of power breaks open the sealed tomb and restores life to decomposing flesh. Martha's earlier confession of faith — 'I believe that you are the Messiah, the Son of God, who is to come into the world' (John 11:27) — represents the response that Jesus seeks from all who witness this sign. Lazarus emerging in his burial wrappings anticipates Christ's own resurrection, when Peter will find the linen wrappings lying empty (John 20:6-7). This miracle reveals that Jesus is not merely a healer of the sick but the Lord of life and death — the one through whom 'all things were made' (John 1:3) and in whom all things hold together.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.11.38-44",
+      "relevance": "primary",
+      "reason": "Jesus commanding Lazarus to come out of the tomb — the direct event depicted"
+    },
+    {
+      "ref": "JHN.11.25-26",
+      "relevance": "primary",
+      "reason": "Jesus declaring 'I am the resurrection and the life' — the theological declaration underlying this miracle"
+    },
+    {
+      "ref": "JHN.11.27",
+      "relevance": "primary",
+      "reason": "Martha's confession of faith in Jesus as the Messiah — she kneels at His feet in the scene"
+    },
+    {
+      "ref": "JHN.11.35",
+      "relevance": "allusion",
+      "reason": "Jesus wept — His human compassion preceding the exercise of divine power"
+    },
+    {
+      "ref": "JHN.5.28-29",
+      "relevance": "typological",
+      "reason": "All who are in their graves will hear His voice and come out — Lazarus as the foretaste of universal resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "miraculous",
+    "awe-inspiring",
+    "solemn",
+    "triumphant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130639",
+    "title": "The Raising of Lazarus",
+    "artist": "Luca di Tommé",
+    "model": "claude-opus-4-6"
+  }
+}

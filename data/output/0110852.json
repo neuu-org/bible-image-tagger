@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Lamb of God",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Prophets",
+      "type": "GROUP"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Mystic Lamb",
+  "tags": [
+    "adoration-of-the-lamb",
+    "ghent-altarpiece",
+    "lamb-on-altar",
+    "fountain-of-life",
+    "heavenly-jerusalem",
+    "green-meadow",
+    "saints-gathered",
+    "angels-kneeling",
+    "prophets",
+    "apostles",
+    "martyrs",
+    "dove-descending",
+    "golden-light",
+    "blood-of-the-lamb",
+    "eschatological-vision"
+  ],
+  "symbols": [
+    "Lamb on altar — Christ as the sacrificial Lamb of God, the Eucharistic offering",
+    "blood flowing into chalice — the blood of the new covenant poured out for the forgiveness of sins",
+    "fountain of life in foreground — the living water flowing from the throne of God",
+    "dove with rays above — the Holy Spirit descending upon the scene of worship",
+    "green meadow — the new creation, the paradise restored",
+    "converging groups of saints — the whole Church Triumphant gathered in worship",
+    "towers and spires of heavenly city — the New Jerusalem"
+  ],
+  "description": "A panoramic altarpiece panel showing a white lamb standing on a red-draped altar at the center of a lush green meadow. Blood flows from the lamb's chest into a golden chalice. Kneeling angels surround the altar. A dove with golden rays descends from the sky above. Four large groups of figures converge from the four corners: bishops and clergy at lower left, holy women at lower right, prophets and patriarchs at upper left, and apostles at upper right. A fountain stands in the immediate foreground.",
+  "theological_description": "Jan van Eyck's Adoration of the Mystic Lamb is one of the most theologically dense paintings in Western art, visualizing the eschatological worship described in Revelation. The Lamb standing on the altar 'as though it had been slain' (Revelation 5:6) represents Christ in his dual identity as sacrificial victim and living Lord. The blood flowing into the chalice connects the celestial vision directly to the Eucharistic liturgy — every Mass is understood as a participation in this heavenly worship. The four groups converging on the Lamb represent the entire communion of saints: Old Testament patriarchs and prophets, New Testament apostles, bishops and confessors, and holy virgins and martyrs. Together they sing the new song: 'Worthy is the Lamb that was slain to receive power and wealth and wisdom and might and honor and glory and blessing' (Revelation 5:12). The fountain of life in the foreground fulfills the vision of Revelation 22:1: 'the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb.' The green meadow is the new paradise — creation restored through the Lamb's sacrifice. The distant towers suggest the heavenly Jerusalem descending 'prepared as a bride adorned for her husband' (Revelation 21:2).",
+  "scripture_refs": [
+    {
+      "ref": "REV.5.6-14",
+      "relevance": "primary",
+      "reason": "The Lamb standing as though slain, worshipped by the whole company of heaven — the central vision depicted"
+    },
+    {
+      "ref": "REV.7.9-17",
+      "relevance": "primary",
+      "reason": "The great multitude from every nation gathered before the throne and the Lamb"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God who takes away the sin of the world — the Christological identity of the lamb"
+    },
+    {
+      "ref": "REV.22.1-2",
+      "relevance": "primary",
+      "reason": "The river of the water of life flowing from the throne — the fountain of life in the foreground"
+    },
+    {
+      "ref": "REV.21.2",
+      "relevance": "typological",
+      "reason": "The new Jerusalem descending — the distant heavenly city visible on the horizon"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "transcendent",
+    "worshipful",
+    "luminous",
+    "peaceful"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0110852",
+    "title": "The Ghent Altarpiece. Adoration of the Lamb (detail)",
+    "artist": "Jan van Eyck",
+    "model": "claude-opus-4-6"
+  }
+}

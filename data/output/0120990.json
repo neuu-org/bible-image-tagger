@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Other apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ Giving the Keys to Saint Peter",
+  "tags": [
+    "keys-to-peter",
+    "apostles",
+    "commissioning",
+    "risen-christ",
+    "kneeling-peter",
+    "golden-keys",
+    "blue-robe",
+    "raised-hand",
+    "palm-tree",
+    "mountainous-landscape",
+    "authority"
+  ],
+  "symbols": [
+    "golden keys offered to Peter — the authority to bind and loose in the kingdom of heaven",
+    "Christ's raised hand pointing upward — divine authority from which Peter's commission derives",
+    "Peter kneeling — humility before the source of all authority",
+    "apostles witnessing — the corporate witness to the transfer of pastoral authority"
+  ],
+  "description": "A monumental composition showing the risen Christ in a white and blue robe standing at left, his right hand raised pointing upward while his left extends toward a kneeling Peter who receives golden keys. Peter wears a yellow robe and looks up at Christ with reverence. Behind them, several apostles stand watching the scene with varied expressions of awe and attention. The setting is an outdoor landscape with rocky terrain, a palm tree, and distant mountains. Christ's figure is luminous with a halo-like glow.",
+  "theological_description": "Ingres depicts the moment when Jesus confers the keys of the kingdom upon Peter — the definitive act of apostolic commissioning. Matthew records Jesus's words: 'I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven' (Matthew 16:19). Christ's raised hand pointing heavenward establishes the source of this authority — it flows from the Father through the Son to the apostle. The scene may also conflate with the post-Resurrection commission in John 21, where the risen Christ three times asks Peter 'Do you love me?' and three times commands 'Feed my sheep' (John 21:15-17) — restoring Peter after his threefold denial and confirming his pastoral vocation. Peter kneeling before the risen Lord recalls Thomas's confession: 'My Lord and my God!' (John 20:28). The keys — one gold and one silver in tradition — represent the fullness of authority: the power to open what no one can shut, and shut what no one can open (cf. Revelation 3:7). This commissioning fulfills Christ's promise that the Church built on the rock of Peter's faith will prevail against the gates of death (Matthew 16:18).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ giving Peter the keys of the kingdom of heaven — the direct event depicted"
+    },
+    {
+      "ref": "JHN.21.15-17",
+      "relevance": "primary",
+      "reason": "The post-Resurrection commissioning of Peter: Feed my sheep"
+    },
+    {
+      "ref": "REV.3.7",
+      "relevance": "typological",
+      "reason": "Christ holding the key of David, opening what none can shut — the divine authority behind the keys"
+    },
+    {
+      "ref": "MAT.16.16",
+      "relevance": "allusion",
+      "reason": "Peter's confession of faith that occasioned the bestowal of the keys"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "solemn",
+    "authoritative",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120990",
+    "title": "Jesus Returning the Keys to St. Peter",
+    "artist": "Jean Auguste Dominique Ingres",
+    "model": "claude-opus-4-6"
+  }
+}

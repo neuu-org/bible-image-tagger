@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Martha",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Martha reproaching Mary Magdalene for her vanity",
+  "tags": [
+    "martha",
+    "mary-magdalene",
+    "conversion",
+    "vanity",
+    "mirror",
+    "reproach",
+    "repentance",
+    "flowers",
+    "worldly-beauty",
+    "sisterly-counsel",
+    "moral-choice",
+    "two-women"
+  ],
+  "symbols": [
+    "mirror held by Mary — vanity, self-regard, and attachment to worldly beauty",
+    "flowers — fleeting earthly pleasures and the transience of beauty",
+    "Martha's earnest gesture — moral exhortation and call to repentance",
+    "Mary's composed beauty — the allure of the world before conversion",
+    "ornate carpet or fabric — worldly luxury soon to be abandoned"
+  ],
+  "description": "Two women are shown in a dark interior. On the right, a beautiful young woman with pale skin, wearing an elegant dress with red accents, holds a small convex mirror and gazes outward with a composed, knowing expression. Flowers are visible beside her. On the left, another woman leans toward her from behind, partially visible, her face earnest and her hand reaching forward as if in persuasion or reproach. The scene is dramatically lit against a very dark background, with rich fabrics on the table before them.",
+  "theological_description": "This scene depicts the moment when Martha, the practical and devout sister, reproaches Mary (identified in Western tradition with Mary Magdalene) for her attachment to worldly vanity. The narrative draws on the composite tradition that conflated Mary of Bethany with Mary Magdalene and the sinful woman of Luke 7:36-50. Martha's reproach foreshadows Mary's eventual conversion — her turning from the mirror of self-regard to the face of Christ. This conversion narrative embodies the Pauline call to put off the old self with its desires and to be renewed in the spirit of the mind (Ephesians 4:22-24). The mirror symbolizes the apostle James's warning about those who look at themselves and immediately forget what they look like (James 1:23-24), while Mary's eventual transformation will fulfill the promise that 'where sin increased, grace abounded all the more' (Romans 5:20). The scene stands at the threshold between worldliness and holiness, between vanitas and devotion.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.10.38-42",
+      "relevance": "primary",
+      "reason": "Martha and Mary's dynamic is the direct subject — Martha's concern versus Mary's eventual devotion"
+    },
+    {
+      "ref": "LUK.7.37-38",
+      "relevance": "typological",
+      "reason": "Mary Magdalene's conversion from sinful woman to devoted follower is foreshadowed in this moment of reproach"
+    },
+    {
+      "ref": "JAS.1.23-24",
+      "relevance": "allusion",
+      "reason": "The mirror of vanity echoes James's metaphor of the one who looks at himself and forgets"
+    },
+    {
+      "ref": "EPH.4.22-24",
+      "relevance": "allusion",
+      "reason": "The call to put off the old self of worldly desire underlies Martha's reproach"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "tense",
+    "intimate",
+    "moralistic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130110",
+    "title": "Martha reproaching Mary for her vanity, also known as The Conversion of Mary Magdalene",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

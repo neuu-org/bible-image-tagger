@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Serving Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "apostles",
+    "long-table",
+    "radiant-halo",
+    "judas",
+    "bread-and-wine",
+    "dramatic-lighting",
+    "angels",
+    "serving-figures",
+    "smoke",
+    "oil-lamp",
+    "baroque-composition",
+    "diagonal-table"
+  ],
+  "symbols": [
+    "radiant halo on Christ — divine identity revealed at the institution of the Eucharist",
+    "bread and wine on the table — the body and blood of the new covenant",
+    "diagonal placement of table — Tintoretto's dramatic reorientation of sacred space",
+    "angels and smoke above — heavenly beings present at the institution of the sacrament",
+    "serving figures — the humble service that frames the most sacred meal",
+    "Judas isolated — the betrayer identified at the table",
+    "oil lamp — the light that illuminates the darkness of the night of betrayal"
+  ],
+  "description": "A dramatic Baroque painting of the Last Supper with a radically diagonal composition. The long table recedes diagonally from the lower right to the upper left, with Christ seated at its center, identified by a brilliant radiant halo. The twelve apostles are arranged along both sides of the table in animated poses of conversation, surprise, and reflection. Serving figures work in the foreground. Above the scene, ghostly angelic forms emerge from swirling smoke and light.",
+  "theological_description": "Tintoretto's Last Supper captures the institution of the Eucharist with unprecedented dramatic power. The four Gospel accounts (Matthew 26:26-29; Mark 14:22-25; Luke 22:14-20; 1 Corinthians 11:23-26) record Jesus taking bread, giving thanks, breaking it, and saying, 'This is my body, which is given for you. Do this in remembrance of me,' and likewise the cup: 'This cup is the new covenant in my blood.' The radiant light emanating from Christ's halo makes him the literal source of illumination — embodying John 8:12: 'I am the light of the world.' The dramatic diagonal composition breaks with the traditional frontal arrangement, creating a sense of the viewer being drawn into the sacred event. The angelic presences above indicate that this meal transcends the earthly: heaven and earth converge as the new covenant is established. The serving figures remind us that Jesus himself came 'not to be served but to serve' (Mark 10:45), and that he washed the disciples' feet that same night (John 13:1-17). The juxtaposition of light and darkness captures the theological tension of the evening: the greatest gift (the Eucharist) given on the darkest night (the night of betrayal).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "The institution of the Lord's Supper — the event depicted"
+    },
+    {
+      "ref": "MAT.26.26-29",
+      "relevance": "primary",
+      "reason": "This is my body, this is my blood of the covenant — the eucharistic institution"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "primary",
+      "reason": "Paul's account of the Last Supper tradition: do this in remembrance of me"
+    },
+    {
+      "ref": "JHN.13.1-17",
+      "relevance": "primary",
+      "reason": "The foot washing at the Last Supper — the service dimension of the evening"
+    },
+    {
+      "ref": "JHN.8.12",
+      "relevance": "allusion",
+      "reason": "I am the light of the world — Christ as the radiant light source in the dark room"
+    },
+    {
+      "ref": "JHN.13.30",
+      "relevance": "allusion",
+      "reason": "Judas went out and it was night — the darkness surrounding the sacred meal"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "sacred",
+    "mysterious",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0101032",
+    "title": "The Last Supper",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

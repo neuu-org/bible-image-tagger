@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family of the Oak Tree",
+  "tags": [
+    "holy-family",
+    "virgin-and-child",
+    "infant-john-baptist",
+    "joseph",
+    "oak-tree",
+    "outdoor-setting",
+    "children-playing",
+    "red-dress",
+    "blue-mantle",
+    "landscape",
+    "cross-staff",
+    "family-scene",
+    "pyramidal-composition",
+    "renaissance-painting"
+  ],
+  "symbols": [
+    "oak tree — strength, endurance, and the rootedness of the holy family in divine purpose",
+    "infant John with cross-staff — the forerunner already identified with his future mission",
+    "Mary at center — the pivot of the holy family and the Incarnation",
+    "Joseph resting on stone — the quiet guardian in contemplation",
+    "landscape extending behind — the world that the Christ child will save"
+  ],
+  "description": "A pyramidal composition set outdoors beneath a large oak tree. The Virgin Mary sits at center in a red dress and blue mantle, holding the infant Jesus on her lap. The Christ child reaches toward a small cross-staff held by the young John the Baptist, who kneels nude at left. Joseph, elderly and bearded, sits at right leaning on a stone structure, his hand on his chin in thought. A broad landscape with hills and sky extends behind them. The composition is harmonious and balanced, with the tree providing a natural canopy over the scene.",
+  "theological_description": "Raphael's Holy Family under the oak tree presents a theological meditation on the two families whose stories converge in the Incarnation narrative. The infant Christ reaching for the cross-staff held by the young Baptist introduces a note of destiny and Passion into this otherwise idyllic scene — the child who plays beneath the tree will one day hang upon a tree. John's offering of the cross to the infant Jesus anticipates his later proclamation: 'Behold the Lamb of God, who takes away the sin of the world' (John 1:29). The oak tree, symbol of strength and endurance, shelters the holy family much as divine providence sheltered the family during their flight to Egypt and their years in Nazareth. Joseph's contemplative posture reflects his role as the righteous man who received divine guidance through dreams (Matthew 1:20; 2:13) and pondered the mystery of the child entrusted to his care. Mary, centered and composed, embodies the faithful response to God's will that makes the entire drama of redemption possible.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-44",
+      "relevance": "primary",
+      "reason": "The connection between the two families — John leaping at the presence of the unborn Christ"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God — John's offering of the cross-staff foreshadows his later testimony"
+    },
+    {
+      "ref": "MAT.1.20-21",
+      "relevance": "primary",
+      "reason": "Joseph as the guardian of the Holy Family, guided by divine dreams"
+    },
+    {
+      "ref": "LUK.2.51-52",
+      "relevance": "allusion",
+      "reason": "Jesus growing in wisdom in his family — the domestic life of the Holy Family"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "harmonious",
+    "contemplative",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110794",
+    "title": "The Holy Family of the Oak Tree",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

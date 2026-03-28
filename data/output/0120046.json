@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Portrait of the Seated Christ",
+  "tags": [
+    "christ-portrait",
+    "seated-figure",
+    "staff",
+    "bearded-man",
+    "white-garment",
+    "brown-robe",
+    "contemplative-christ",
+    "walking-staff",
+    "half-length-portrait"
+  ],
+  "symbols": [
+    "staff or walking stick — Christ as pilgrim and wandering teacher",
+    "white inner garment — purity and holiness",
+    "brown outer robe — humility and earthly ministry",
+    "contemplative gaze — the inner life of the incarnate Word"
+  ],
+  "description": "A half-length portrait of a bearded man with dark curly hair pulled back, seated and holding a wooden staff or walking stick in his left hand. He wears a white inner garment with a dark brown or maroon outer robe draped over his shoulders. His expression is pensive and contemplative, his gaze directed slightly to the right. The background is muted grey-brown, focusing attention entirely on the figure.",
+  "theological_description": "This portrait depicts Jesus Christ in a moment of quiet contemplation, presenting him not in divine majesty but in the fullness of his human nature. The portrayal reflects the incarnational theology of John 1:14 — 'The Word became flesh and dwelt among us.' The simple garments and walking staff present Christ as the itinerant rabbi who had 'nowhere to lay his head' (Matthew 8:20), the humble teacher who traversed Galilee and Judea on foot. The contemplative expression suggests the deep communion between the Son and the Father that the Gospels describe in Jesus's frequent withdrawal to pray (Luke 5:16). This humanized depiction of Christ affirms the full reality of the Incarnation: truly God and truly man, bearing within himself both the infinite wisdom of the Godhead and the embodied experience of human life.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh — the portrait emphasizes Christ's full humanity as incarnate God"
+    },
+    {
+      "ref": "MAT.8.20",
+      "relevance": "allusion",
+      "reason": "The walking staff and simple garments evoke Christ's itinerant ministry with nowhere to lay his head"
+    },
+    {
+      "ref": "LUK.5.16",
+      "relevance": "allusion",
+      "reason": "The contemplative expression reflects Christ's habit of withdrawing to lonely places for prayer"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "serene",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120046",
+    "title": "Seated Christ",
+    "artist": "Vasily Polenov",
+    "model": "claude-opus-4-6"
+  }
+}

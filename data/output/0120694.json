@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "archangel-gabriel",
+    "virgin-mary",
+    "book",
+    "halo",
+    "wings",
+    "red-robe",
+    "green-dress",
+    "wooden-interior",
+    "raised-hand",
+    "reading-interrupted"
+  ],
+  "symbols": [
+    "open book in Mary's hands — Scripture being fulfilled in this very moment",
+    "Gabriel's raised hand — the divine greeting and announcement",
+    "golden halo around Mary — divine favor and sanctity",
+    "simple wooden room — the humble setting of the greatest event in salvation history",
+    "red robe of Gabriel — the love and urgency of God's message"
+  ],
+  "description": "An interior scene in a simple wooden room. On the left, an angel in a flowing red robe with white wings kneels, raising one hand in a gesture of greeting or announcement. On the right, a young woman in a dark green dress with long golden hair and a large golden halo sits, holding an open red book and raising one hand in response — perhaps surprise or acceptance. The room is plainly furnished with wooden walls and floor, and light enters from a window on the right. The composition is intimate and quiet.",
+  "theological_description": "This Northern European Annunciation by Konrad Witz presents the pivotal moment of the Incarnation with characteristic simplicity and directness. Gabriel enters Mary's humble room with the divine message: 'Greetings, you who are highly favored! The Lord is with you' (Luke 1:28). Mary, interrupted in her reading of Scripture, responds with both surprise and faith. The open book she holds suggests she was reading the very prophecies that are now being fulfilled in her — perhaps Isaiah 7:14, 'The virgin will conceive and give birth to a son.' Her golden halo marks her as the 'highly favored one,' chosen from all women for the singular role of bearing the Son of God. The simple wooden interior strips away all grandeur, placing the Incarnation in the context of ordinary domestic life — God entering the world not through temple splendor but through the quiet consent of a young woman in a plain room. 'I am the Lord's servant,' Mary responds. 'May your word to me be fulfilled' (Luke 1:38). With these words, the Word becomes flesh.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation by Gabriel to Mary — the direct narrative depicted"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive — the prophecy the open book may contain, now being fulfilled"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Mary's fiat — her hand raised in acceptance of the divine message"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "quiet",
+    "reverent",
+    "intimate",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120694",
+    "title": "Annunciation",
+    "artist": "Konrad Witz",
+    "model": "claude-opus-4-6"
+  }
+}

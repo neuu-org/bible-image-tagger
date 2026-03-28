@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldiers and crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ standing before Pontius Pilate at His trial",
+  "tags": [
+    "christ-before-pilate",
+    "trial-of-jesus",
+    "pontius-pilate",
+    "white-robe",
+    "judgment-seat",
+    "roman-architecture",
+    "soldiers",
+    "accusation",
+    "passion-narrative",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "Christ in white — innocence and purity before the unjust judge",
+    "Pilate elevated on throne — temporal authority confronting eternal truth",
+    "dark architectural setting — the darkness of injustice and the hour of evil",
+    "soldiers surrounding Christ — worldly power arrayed against the Son of God",
+    "dramatic light on Christ — divine truth shining in the darkness of human judgment"
+  ],
+  "description": "A dark, dramatically lit painting showing Christ in a white robe standing before Pontius Pilate who is seated on an elevated judgment seat in an ornate Roman interior with massive columns. Pilate wears rich garments and a turban or crown, gesturing toward Christ. Soldiers in armor and various onlookers surround the scene. The lighting focuses intensely on Christ's white-robed figure, making Him the luminous center of the dark composition. The architectural setting is grand and oppressive.",
+  "theological_description": "The trial before Pilate is the supreme confrontation between earthly power and divine truth. When Pilate asked 'Are you the king of the Jews?' Jesus answered, 'My kingdom is not of this world' (John 18:36), and declared, 'Everyone on the side of truth listens to my voice' — to which Pilate famously responded, 'What is truth?' (John 18:37-38). The dramatic light falling on Christ's white robe visually manifests His declaration: 'I am the light of the world' (John 8:12). Despite finding no guilt in Jesus (John 18:38; 19:4, 6), Pilate capitulated to political pressure and delivered Him to be crucified, fulfilling Isaiah's prophecy of the Suffering Servant who 'was oppressed and afflicted, yet he did not open his mouth' (Isaiah 53:7). The grand Roman architecture and Pilate's elevated seat represent the full might of imperial power, yet it is the bound prisoner who holds true authority — 'You would have no power over me if it were not given to you from above' (John 19:11). This scene reveals the paradox at the heart of the Gospel: God's power is made perfect in apparent weakness (2 Corinthians 12:9).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.18.33-38",
+      "relevance": "primary",
+      "reason": "Christ's dialogue with Pilate about kingship and truth — the direct scene depicted"
+    },
+    {
+      "ref": "JHN.19.11",
+      "relevance": "primary",
+      "reason": "Jesus telling Pilate his authority comes from above — the true power dynamic in the scene"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "The Suffering Servant oppressed yet silent — Christ's composure before unjust judgment"
+    },
+    {
+      "ref": "JHN.18.36",
+      "relevance": "primary",
+      "reason": "My kingdom is not of this world — the contrast between earthly and heavenly authority"
+    },
+    {
+      "ref": "2CO.12.9",
+      "relevance": "typological",
+      "reason": "God's power made perfect in weakness — the bound Christ possessing true authority"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "tense",
+    "solemn",
+    "confrontational"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130690",
+    "title": "Christ before Pilate",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

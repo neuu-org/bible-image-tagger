@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna with Angel and Infant Saint John Adoring the Christ Child",
+  "tags": [
+    "madonna-and-child",
+    "angel",
+    "infant-john-baptist",
+    "apple",
+    "praying-child",
+    "landscape",
+    "blue-mantle",
+    "red-dress",
+    "globe-orb",
+    "adoration"
+  ],
+  "symbols": [
+    "apple or fruit in Mary's hands — the fruit of redemption, reversing Eve's forbidden fruit",
+    "infant John in prayer — the forerunner worshipping the one he would later proclaim as Lamb of God",
+    "angel holding the Christ Child — heavenly care supporting the incarnate God",
+    "globe or orb — Christ's sovereignty over the world he has entered as an infant"
+  ],
+  "description": "A symmetrical composition showing the Virgin Mary standing centrally in a blue mantle over a red dress, holding a round fruit (apple). To her left, a winged angel holds the nude Christ Child, who sits on what appears to be a large white globe or orb. To her right, the infant John the Baptist sits on a rock with hands joined in prayer, gazing toward Christ. The background shows a gentle green landscape with distant mountains and trees. The style is characteristic of the Umbrian Renaissance with soft colors and balanced composition.",
+  "theological_description": "This devotional composition gathers the key figures of the Incarnation narrative in a timeless symbolic arrangement. Mary, standing as the central axis, holds an apple — an allusion to the fruit of Eden (Genesis 3:6) now redeemed through her consent to bear the Savior. The Christ Child seated on a globe proclaims his cosmic sovereignty: 'He is the image of the invisible God, the firstborn over all creation. For in him all things were created' (Colossians 1:15-16). The infant John the Baptist kneels in adoration, prefiguring his adult ministry of pointing to Jesus: 'He must become greater; I must become less' (John 3:30). The attending angel recalls Gabriel's original announcement to Mary (Luke 1:26-38) and the heavenly host that celebrated Christ's birth. Together these figures form a visual theology of the Incarnation — heaven (the angel), Old Covenant (John as last prophet), and redeemed humanity (Mary) all converging on the divine child who holds the world in his hands.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Incarnation — Mary bearing the Son of God through the Holy Spirit"
+    },
+    {
+      "ref": "COL.1.15-16",
+      "relevance": "allusion",
+      "reason": "Christ as firstborn over all creation — the globe on which the child sits"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "typological",
+      "reason": "John's future declaration of Christ's supremacy — prefigured in his infant adoration"
+    },
+    {
+      "ref": "GEN.3.6",
+      "relevance": "typological",
+      "reason": "The fruit of the Fall — Mary holds the apple as the new Eve who reverses the curse"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "serene",
+    "devotional",
+    "balanced",
+    "peaceful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120898",
+    "title": "Madonna, an Angel and Little St. John Adoring the Child",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

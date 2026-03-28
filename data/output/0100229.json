@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    },
+    {
+      "name": "Daughters of Jethro",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Scenes from the Life of Moses",
+  "tags": [
+    "moses",
+    "multiple-scenes",
+    "narrative-cycle",
+    "landscape",
+    "exodus",
+    "shepherds",
+    "well",
+    "burning-bush",
+    "sandal-removal",
+    "crowd-scene",
+    "continuous-narrative"
+  ],
+  "symbols": [
+    "burning bush — God's self-revelation to Moses and the call to deliver Israel",
+    "removed sandals — holy ground and reverent approach to God's presence",
+    "well — the meeting place where Moses defended the daughters of Jethro",
+    "staff — the instrument of divine authority given to Moses",
+    "multiple scenes in one frame — the unfolding of salvation history as continuous narrative"
+  ],
+  "description": "A wide Renaissance fresco showing multiple narrative episodes from the life of Moses arranged in a continuous landscape. The composition contains several groups of figures in classical and pastoral dress set against a richly detailed landscape with trees, hills, and architectural elements. Various episodes appear to include Moses at the burning bush removing his sandals, Moses defending the daughters of Jethro at the well, and Moses leading or addressing groups of people. The fresco is painted in the characteristic Botticelli style with graceful figures, flowing draperies, and luminous colors.",
+  "theological_description": "This Sistine Chapel fresco presents the life of Moses as a continuous visual narrative, a typological counterpart to the life of Christ depicted on the opposite wall. The multiple scenes capture pivotal moments in Moses's calling: at the burning bush (Exodus 3:1-6), God reveals his name and commissions Moses to deliver Israel, establishing the pattern of divine initiative in salvation. Moses's removal of his sandals on holy ground (Exodus 3:5) teaches the theology of sacred space and reverent approach to the divine presence. The defense of Jethro's daughters at the well (Exodus 2:15-17) prefigures Moses's role as deliverer and shepherd of God's people. In Christian typology, Moses is the great prototype of Christ: as Moses delivered Israel from Egyptian bondage, Christ delivers humanity from the bondage of sin. Deuteronomy 18:15 prophesied 'The Lord your God will raise up for you a prophet like me,' which Peter explicitly applies to Christ in Acts 3:22. The fresco's placement in the Sistine Chapel reinforces this typological reading, inviting viewers to see in Moses's story the prefiguration of the Gospel.",
+  "scripture_refs": [
+    {
+      "ref": "EXO.3.1-6",
+      "relevance": "primary",
+      "reason": "Moses at the burning bush, where God reveals himself and commissions the deliverance of Israel"
+    },
+    {
+      "ref": "EXO.2.15-21",
+      "relevance": "primary",
+      "reason": "Moses flees to Midian and defends Jethro's daughters at the well"
+    },
+    {
+      "ref": "EXO.3.5",
+      "relevance": "primary",
+      "reason": "God commands Moses to remove his sandals because he stands on holy ground"
+    },
+    {
+      "ref": "DEU.18.15",
+      "relevance": "typological",
+      "reason": "The prophecy of a prophet like Moses — the typological key linking Moses to Christ"
+    },
+    {
+      "ref": "ACT.3.22",
+      "relevance": "typological",
+      "reason": "Peter's application of the Mosaic prophecy to Jesus as the prophet God raised up"
+    },
+    {
+      "ref": "HEB.3.1-6",
+      "relevance": "typological",
+      "reason": "Christ is worthy of more glory than Moses, as the builder of the house is greater than the house"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "pastoral",
+    "epic",
+    "luminous"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0100229",
+    "title": "Scene from the Life of Moses (Scenes on the left)",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

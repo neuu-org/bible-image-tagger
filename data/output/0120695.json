@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Temple guards and soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Kiss of Judas (Betrayal in Gethsemane)",
+  "tags": [
+    "kiss-of-judas",
+    "betrayal",
+    "gethsemane",
+    "arrest-of-jesus",
+    "torches",
+    "lanterns",
+    "night-scene",
+    "crowd",
+    "swords",
+    "peter-with-sword",
+    "passion-of-christ"
+  ],
+  "symbols": [
+    "kiss — the most intimate gesture perverted into the ultimate act of betrayal",
+    "torches and lanterns — the darkness of sin requiring artificial light to find the Light of the World",
+    "swords and weapons — worldly violence arrayed against the Prince of Peace",
+    "Peter drawing a sword — human impulse to defend by force what Christ surrenders willingly"
+  ],
+  "description": "A crowded nighttime scene showing the moment of Christ's arrest. At center, Jesus in a white robe is embraced or kissed by Judas, surrounded by a pressing crowd of soldiers and temple guards carrying torches, lanterns, and weapons. The scene is chaotic with figures pushing inward from all sides. At lower left, a figure (Peter) appears to be striking or drawing a weapon. The night sky is dark with the only illumination coming from the carried torches and lanterns. The painting is shown within a gilded frame.",
+  "theological_description": "The Kiss of Judas is the moment when betrayal and redemption collide in the Garden of Gethsemane. All four Gospels record the arrest, with Matthew providing the most detailed account of the kiss: 'Going at once to Jesus, Judas said, Greetings, Rabbi! and kissed him. Jesus replied, Do what you came for, friend' (Matthew 26:49-50). The word Jesus uses — 'friend' — is devastating in its restrained sorrow. Judas had prearranged the signal: 'The one I kiss is the man; arrest him' (Matthew 26:48). The torches carried by the arresting party are deeply ironic — they come bearing flickering human light to seize the one who declared 'I am the light of the world' (John 8:12). Peter's impulsive sword-stroke, cutting off the ear of the high priest's servant (John 18:10), is rebuked by Jesus: 'Put your sword back in its place... Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels?' (Matthew 26:52-53). Christ goes willingly to his Passion, for 'how then would the Scriptures be fulfilled that say it must happen in this way?' (Matthew 26:54).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.47-50",
+      "relevance": "primary",
+      "reason": "Judas betraying Jesus with a kiss in the garden — the direct narrative depicted"
+    },
+    {
+      "ref": "JHN.18.3-6",
+      "relevance": "primary",
+      "reason": "The arresting party arriving with torches, lanterns, and weapons to seize Jesus"
+    },
+    {
+      "ref": "JHN.18.10-11",
+      "relevance": "primary",
+      "reason": "Peter drawing his sword to defend Jesus — visible in the lower portion of the painting"
+    },
+    {
+      "ref": "MAT.26.52-54",
+      "relevance": "allusion",
+      "reason": "Jesus rebuking violence and accepting arrest willingly to fulfill Scripture"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "chaotic",
+    "tense",
+    "dark",
+    "treacherous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120695",
+    "title": "Kiss of Judas",
+    "artist": "Jan Joest",
+    "model": "claude-opus-4-6"
+  }
+}

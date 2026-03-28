@@ -1,0 +1,47 @@
+{
+  "characters": [],
+  "event": "Landscape Detail from a Pieta",
+  "tags": [
+    "landscape-detail",
+    "pieta",
+    "distant-town",
+    "golden-sky",
+    "trees",
+    "twilight",
+    "atmospheric",
+    "ruins",
+    "partial-figure"
+  ],
+  "symbols": [
+    "golden twilight sky — the fading light at the hour of Christ's death",
+    "distant town — Jerusalem, the city where the crucifixion took place",
+    "dark trees against glowing sky — the somber natural world mourning the death of its Creator"
+  ],
+  "description": "A detail from a larger painting showing primarily a landscape background with a golden-brown atmospheric sky. A distant town or buildings are visible on a hilltop at right, surrounded by dark trees. The lower portion shows what appears to be wooden structures or ruins. At the very bottom left edge, the partial profile of a figure is barely visible — likely a fragment of the main composition. The overall palette is warm amber and brown tones with a moody, twilight atmosphere.",
+  "theological_description": "This landscape detail from a Pieta composition captures the somber atmosphere of the hours following Christ's death. The Gospels record that 'darkness came over the whole land' from the sixth to the ninth hour (Mark 15:33), and that at the moment of Christ's death, 'the earth shook, the rocks split' (Matthew 27:51). The golden-brown twilight visible here evokes that supernatural darkness — creation itself bearing witness to the death of its maker. The distant town on the hill suggests Jerusalem, outside whose walls 'at the place called The Skull' (Luke 23:33) the crucifixion occurred. The desolate mood of the landscape participates in the cosmic grief that Paul later described: 'the whole creation has been groaning as in the pains of childbirth' (Romans 8:22).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.33",
+      "relevance": "primary",
+      "reason": "The darkness over the land during the crucifixion — the twilight atmosphere suggests this supernatural event"
+    },
+    {
+      "ref": "MAT.27.51-52",
+      "relevance": "allusion",
+      "reason": "The earth shaking and rocks splitting at Christ's death — the disturbed landscape evokes cosmic upheaval"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "somber",
+    "melancholic",
+    "twilight"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120319",
+    "title": "Pieta (detail)",
+    "artist": "Sebastiano del Piombo",
+    "model": "claude-opus-4-6"
+  }
+}

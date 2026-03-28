@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Supper and Old Testament Prefigurations",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "apostles",
+    "bread-and-wine",
+    "passover-meal",
+    "communion-table",
+    "old-testament-typology",
+    "institution-narrative",
+    "gothic-interior",
+    "central-panel",
+    "flanking-scenes",
+    "sacrament",
+    "liturgical-setting",
+    "gathered-disciples"
+  ],
+  "symbols": [
+    "central table with bread and wine — the institution of the Eucharist",
+    "Christ at center of the table — the host and sacrifice of the sacred meal",
+    "apostles gathered around — the first recipients of the new covenant sacrament",
+    "flanking panels with Old Testament scenes — typological prefigurations of the Eucharist",
+    "Gothic architectural interior — the Church as the setting for sacramental worship",
+    "symmetrical composition — the liturgical order of the sacramental celebration"
+  ],
+  "description": "A large altarpiece with a central panel flanked by four smaller scenes. The central panel depicts Christ seated at a table with twelve apostles in a Gothic interior with vaulted ceiling and tiled floor. Christ sits at the center of the far side of the table, distributing bread or performing a blessing. The four smaller flanking panels show additional biblical scenes — at upper left a crowd scene, upper right figures at a table being served, lower left figures gathering something from the ground, and lower right a figure meeting another with attendants.",
+  "theological_description": "This altarpiece places the Last Supper at its center, surrounded by Old Testament scenes that the medieval theological tradition understood as prefigurations of the Eucharist. The central panel shows the moment when Jesus took bread, blessed it, broke it, and gave it to his disciples saying, 'This is my body, which is given for you. Do this in remembrance of me' (Luke 22:19). The flanking panels likely depict: the gathering of manna in the wilderness (Exodus 16), the meeting of Abraham and Melchizedek who brought bread and wine (Genesis 14:18), the Passover meal (Exodus 12), and Elijah fed by the angel (1 Kings 19:5-8) — all of which the Church Fathers read as anticipations of the Eucharistic sacrifice. Dirk Bouts created this altarpiece for the Confraternity of the Holy Sacrament in Leuven, making it both a theological treatise in paint and a liturgical object meant to frame the celebration of the very sacrament it depicts. The Gothic architectural setting mirrors the actual church interior, collapsing the distance between the Upper Room and the contemporary sanctuary. Christ's central position at the table establishes him as both host and victim — the one who gives the meal and the one who is the meal.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "The institution of the Lord's Supper — Jesus taking bread and wine and giving them new covenantal meaning"
+    },
+    {
+      "ref": "MAT.26.26-29",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Last Supper with the words of institution"
+    },
+    {
+      "ref": "GEN.14.18",
+      "relevance": "typological",
+      "reason": "Melchizedek bringing bread and wine to Abraham — the priestly prefiguration of the Eucharist"
+    },
+    {
+      "ref": "EXO.16.14-15",
+      "relevance": "typological",
+      "reason": "The manna from heaven as a type of the bread of life Christ offers in the Eucharist"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "typological",
+      "reason": "Paul's account of the institution narrative and the command to proclaim the Lord's death until he comes"
+    },
+    {
+      "ref": "JHN.6.51",
+      "relevance": "typological",
+      "reason": "Jesus's declaration 'I am the living bread that came down from heaven' — the Eucharistic theology underlying the altarpiece"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "sacred",
+    "reverent",
+    "liturgical"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110231",
+    "title": "Altarpiece of the Holy Sacrament",
+    "artist": "Dirk Bouts",
+    "model": "claude-opus-4-6"
+  }
+}

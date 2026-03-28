@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Saint Augustine",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ (as pilgrim)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Augustine Washing the Feet of Christ Disguised as a Pilgrim",
+  "tags": [
+    "saint-augustine",
+    "foot-washing",
+    "christ-as-pilgrim",
+    "angel",
+    "hospitality",
+    "basin",
+    "kneeling",
+    "red-robe",
+    "staff",
+    "column",
+    "hagiography",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "Augustine kneeling to wash feet — humility and service modeled on Christ's own foot washing",
+    "pilgrim revealed as Christ — the Lord present among the poor and the stranger",
+    "angel attending — divine revelation of the pilgrim's true identity",
+    "basin and water — cleansing, hospitality, and the sacramental encounter with Christ in the other",
+    "large column — the pillar of the Church, which Augustine helped to build through his theology"
+  ],
+  "description": "A tall vertical composition set in a dark interior with a massive column at center. A bearded man (Augustine) kneels at the left, washing the foot of a seated figure in a red robe who holds a staff (Christ disguised as a pilgrim). Between them, a young angel looks on with a gentle expression. In the background, shadowy figures observe. A brass basin and cloth are visible on the ground. The lighting is dramatic with strong contrasts, the three central figures illuminated against the surrounding darkness.",
+  "theological_description": "This scene from the legend of Saint Augustine echoes the profound biblical teaching that Christ is encountered in acts of hospitality toward strangers. Jesus taught: 'Whatever you did for one of the least of these brothers and sisters of mine, you did for me' (Matthew 25:40). Augustine, kneeling to wash the feet of a pilgrim who reveals himself as Christ, reenacts the Lord's own gesture at the Last Supper: 'He poured water into a basin and began to wash his disciples' feet' (John 13:5). The Epistle to the Hebrews exhorts: 'Do not forget to show hospitality to strangers, for by so doing some people have shown hospitality to angels without knowing it' (Hebrews 13:2). Augustine's own theology deeply explored the mystery of Christ's presence in the community of believers and in acts of love. His famous prayer — 'Late have I loved you, beauty so old and so new' — captures the surprise of discovering Christ where one least expected him. The angel's presence confirms the divine revelation: the humble pilgrim is the Lord of glory.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.40",
+      "relevance": "typological",
+      "reason": "Whatever you did for the least of these you did for me — Christ encountered in the stranger"
+    },
+    {
+      "ref": "JHN.13.5",
+      "relevance": "typological",
+      "reason": "Jesus washing the disciples' feet — the model for Augustine's act of humble service"
+    },
+    {
+      "ref": "HEB.13.2",
+      "relevance": "typological",
+      "reason": "Showing hospitality to strangers who prove to be angels or Christ himself"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "revelatory",
+    "humble",
+    "dramatic",
+    "sacred"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0121042",
+    "title": "St. Augustine Washing the Feet of Christ",
+    "artist": "Bernardo Strozzi",
+    "model": "claude-opus-4-6"
+  }
+}

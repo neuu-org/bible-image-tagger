@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Nicholas of Bari",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Enthroned Madonna and Child with Saint John the Baptist and Saint Nicholas",
+  "tags": [
+    "enthroned-madonna",
+    "madonna-and-child",
+    "saint-john-baptist",
+    "saint-nicholas",
+    "throne",
+    "architectural-frame",
+    "devotional-altarpiece",
+    "standing-saints",
+    "balanced-composition"
+  ],
+  "symbols": [
+    "enthroned Madonna — the Queen of Heaven exalted by God",
+    "Christ Child on her lap — the Incarnation, God dwelling with humanity",
+    "John the Baptist with cross staff — the forerunner pointing to the Lamb of God",
+    "Nicholas with book and bishop's vestments — episcopal teaching authority and pastoral care",
+    "architectural throne — the stability and permanence of the Kingdom of God"
+  ],
+  "description": "An altarpiece in an arched format showing the Virgin Mary enthroned at center on an elevated architectural throne, holding the Christ Child on her lap. She wears a blue mantle and looks down tenderly. To the left stands a young man in a red cloak — Saint John the Baptist, identifiable by his reed cross. To the right stands an elderly bearded bishop in elaborate vestments — Saint Nicholas of Bari, holding a book. The composition is symmetrically balanced with classical architecture framing the throne. An inscription is visible on the entablature above.",
+  "theological_description": "The sacra conversazione — the holy conversation between enthroned Madonna and flanking saints — represents the communion of heaven where the saints dwell in perpetual fellowship with Christ and His Mother. The Virgin enthroned fulfills the vision of Psalm 45:9: 'At your right hand is the royal bride in gold of Ophir.' John the Baptist, the last prophet of the Old Covenant, stands as the bridge between the old and new dispensations, his cross-staff pointing to Christ as the Lamb of God (John 1:29). Saint Nicholas, the great bishop of Myra renowned for his generosity and defense of orthodox faith, represents the apostolic teaching authority that continues Christ's mission in the world. Together, these figures span the full arc of salvation history: the prophetic anticipation (John), the Incarnation at center (Madonna and Child), and the apostolic continuation (Nicholas). The architectural throne emphasizes the permanence of God's Kingdom — 'Your throne, O God, will last for ever and ever' (Hebrews 1:8).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John the Baptist as the one who declares Christ the Lamb of God — his cross-staff identifies him"
+    },
+    {
+      "ref": "LUK.1.42-43",
+      "relevance": "allusion",
+      "reason": "Blessed are you among women and blessed is the fruit of your womb — Mary enthroned with the Christ Child"
+    },
+    {
+      "ref": "HEB.1.8",
+      "relevance": "allusion",
+      "reason": "Your throne, O God, will last forever — the permanence of the Kingdom symbolized by the throne"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "serene",
+    "devotional",
+    "balanced"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130659",
+    "title": "The Madonna and Child with St. John the Baptist and St. Nicholas of Bari",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Lamentation over the dead Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "pieta",
+    "virgin-mary",
+    "angel",
+    "mourning",
+    "body-of-christ",
+    "white-shroud",
+    "grief",
+    "passion-aftermath",
+    "outstretched-arms"
+  ],
+  "symbols": [
+    "dead body of Christ laid out — the reality of His death and the cost of redemption",
+    "Mary with outstretched arms — the depth of a mother's grief and the fulfillment of Simeon's prophecy",
+    "white shroud — the burial linen and the purity of the sacrificial offering",
+    "angel weeping — even heaven mourns the death of the Son of God",
+    "Christ's peaceful face — the serenity of one who has accomplished His mission"
+  ],
+  "description": "A horizontal composition showing the dead body of Christ lying on a white shroud, his torso bare and muscular, his face peaceful in death. To the left, the Virgin Mary stands with her arms raised in grief, her face anguished, wearing a grey-blue veil. To the right, a young figure (likely an angel or John) leans over Christ's body, gently holding the shroud. A winged angel hovers above on the right. The background is dark and somber. The painting is rendered with warm flesh tones against the cool whites and greys of the shroud and background.",
+  "theological_description": "The Lamentation — the moment between the Deposition from the Cross and the Entombment — is one of the most emotionally charged scenes in the Passion cycle. The dead Christ laid out before His mourning mother fulfills Simeon's prophecy to Mary: 'A sword will pierce your own soul too' (Luke 2:35). Mary's outstretched arms mirror her Son's posture on the cross, as if she shares in His suffering through the depths of her grief. The reality of Christ's death is theologically essential — He did not merely appear to die but truly died (1 Corinthians 15:3-4), entering fully into the human experience of mortality so that 'through death he might break the power of him who holds the power of death' (Hebrews 2:14). The angel's presence testifies that this death is witnessed by heaven itself — the one through whom angels were created (Colossians 1:16) now lies lifeless before them. Yet the peaceful serenity of Christ's face anticipates the coming resurrection: 'It was impossible for death to keep its hold on him' (Acts 2:24). The lamentation is not the final word; it is the pause before the greatest reversal in history.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "The sword piercing Mary's soul — her anguished grief over her dead Son"
+    },
+    {
+      "ref": "1CO.15.3-4",
+      "relevance": "primary",
+      "reason": "Christ died for our sins and was buried — the reality of His death depicted here"
+    },
+    {
+      "ref": "HEB.2.14",
+      "relevance": "typological",
+      "reason": "Through death Christ broke the power of death — the theological meaning of His true death"
+    },
+    {
+      "ref": "ACT.2.24",
+      "relevance": "typological",
+      "reason": "It was impossible for death to hold Him — the hope beyond this scene of lamentation"
+    },
+    {
+      "ref": "ISA.53.9",
+      "relevance": "allusion",
+      "reason": "He was assigned a grave — the Suffering Servant's burial prefigured in this lamentation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "tender",
+    "grief-stricken",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130741",
+    "title": "The Lamentation of Christ",
+    "artist": "Anthony van Dyck",
+    "model": "claude-opus-4-6"
+  }
+}

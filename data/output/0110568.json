@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Assumption of the Virgin",
+  "tags": [
+    "assumption",
+    "ascending-virgin",
+    "apostles-below",
+    "empty-tomb",
+    "chapel-wall",
+    "blue-mantle",
+    "heavenly-glory",
+    "marble-altar",
+    "columns",
+    "angels-attending",
+    "putti",
+    "open-sarcophagus",
+    "upward-composition",
+    "liturgical-setting"
+  ],
+  "symbols": [
+    "Virgin ascending in glory — bodily assumption into heaven",
+    "empty sarcophagus below — death could not hold the mother of God",
+    "astonished apostles — witnesses to the miraculous departure",
+    "angels and putti — the heavenly host receiving Mary",
+    "church setting with altar — the liturgical context of the doctrine"
+  ],
+  "description": "A large chapel fresco showing the Virgin Mary ascending heavenward in a blue mantle, surrounded by angels and putti in the upper portion. Below, a group of apostles gathers around an open stone sarcophagus, looking upward in astonishment and awe. The scene is painted on a chapel wall above a marble altar with decorative inlays. Massive columns frame the composition on either side. The fresco fills the entire wall from altar level to the curved ceiling, creating a dramatic sense of upward movement from the earthly zone of the apostles to the heavenly zone of Mary's assumption.",
+  "theological_description": "This chapel fresco presents the Assumption of the Virgin as understood in Catholic tradition: at the end of her earthly life, Mary was taken bodily into heaven. The empty sarcophagus below mirrors the empty tomb of Christ's resurrection — just as death could not hold the Son, neither could it hold the one who bore him. The apostles gathered around the empty tomb recall the disciples at Christ's own empty grave, creating a deliberate typological parallel between Christ's resurrection and Mary's assumption. The ascending Virgin, surrounded by the angelic host, embodies the hope of all believers: that those united to Christ in faith will share in his victory over death. Paul's declaration that 'Christ has been raised from the dead, the firstfruits of those who have fallen asleep' (1 Corinthians 15:20) finds its first fulfillment in Mary, whom tradition regards as the first of the redeemed to receive the fullness of the resurrection promise. The liturgical setting — painted above an actual altar — connects the doctrine directly to the Eucharistic celebration, where heaven and earth meet.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun — the Marian figure exalted in heavenly glory"
+    },
+    {
+      "ref": "1CO.15.20-23",
+      "relevance": "typological",
+      "reason": "Christ the firstfruits, then at his coming those who belong to him — Mary as the first to share in the resurrection"
+    },
+    {
+      "ref": "PSA.132.8",
+      "relevance": "typological",
+      "reason": "Arise, O Lord, to your resting place, you and the ark of your might — Mary as the new Ark taken up to heaven"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — the Assumption as the culmination of Mary's blessedness"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "glorious",
+    "awe-filled",
+    "triumphant",
+    "reverent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0110568",
+    "title": "Assumption of the Virgin (della Rovere chapel, Trinita dei Monti)",
+    "artist": "Daniele da Volterra",
+    "model": "claude-opus-4-6"
+  }
+}

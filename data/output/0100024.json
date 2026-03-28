@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary (Mother of Jesus)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "golgotha",
+    "cross",
+    "passion",
+    "virgin-mary",
+    "mourning",
+    "dark-palette",
+    "suffering",
+    "sacrificial-death",
+    "halo",
+    "calvary",
+    "sorrow",
+    "collapsed-figure",
+    "desolation"
+  ],
+  "symbols": [
+    "cross — the instrument of Christ's atoning death and the central symbol of Christianity",
+    "collapsed Christ beneath the cross — the crushing weight of sin and suffering borne by the Savior",
+    "mourning Mary — the Mother of Sorrows, sharing in her Son's Passion",
+    "dark, somber tones — the darkness that covered the land during the crucifixion",
+    "halo on Christ — divine identity even in the depths of humiliation",
+    "barren, rocky landscape — Golgotha, the place of the skull, desolation of Calvary"
+  ],
+  "description": "A dark, deeply somber painting depicting the crucifixion scene. Christ, wearing a halo, is shown collapsed or slumped beneath or at the foot of a large dark cross, his body draped in dark robes. To the left, a female figure in dark garments, presumably Mary, raises her clasped hands in anguish and grief, her face barely visible. The palette is overwhelmingly dark with muted earth tones, browns, and near-blacks, creating an atmosphere of profound desolation. The landscape is barren and rocky.",
+  "theological_description": "This Crucifixion scene by Nesterov emphasizes the crushing weight of sin and suffering borne by Christ, showing him not triumphant on the cross but collapsed under its burden. This visual theology draws from Isaiah 53:4-5: 'He was pierced for our transgressions, he was crushed for our iniquities.' The overwhelming darkness of the palette reflects the three hours of darkness that fell over the land (Matthew 27:45), a cosmic sign that the light of the world was being extinguished for the sake of humanity's redemption. Mary's presence evokes Simeon's prophecy that a sword would pierce her own soul (Luke 2:35), fulfilled at Calvary where she stood as witness to the ultimate sacrifice. The desolate landscape mirrors the spiritual desolation Christ endured when he cried 'My God, my God, why have you forsaken me?' (Matthew 27:46), experiencing the full alienation from the Father that sin produces. Yet within this darkness lies the paradox of the cross: what appears as utter defeat is in fact the decisive victory over sin and death, the moment when the love of God is most fully revealed (Romans 5:8).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.33-50",
+      "relevance": "primary",
+      "reason": "The crucifixion at Golgotha, including the darkness over the land and Christ's death"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary standing at the foot of the cross, directly depicted in the painting"
+    },
+    {
+      "ref": "ISA.53.4-5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant crushed for our iniquities — the theological foundation of the crucifixion"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul, fulfilled at Calvary"
+    },
+    {
+      "ref": "MAT.27.45-46",
+      "relevance": "primary",
+      "reason": "The darkness over the land and Christ's cry of dereliction"
+    },
+    {
+      "ref": "ROM.5.8",
+      "relevance": "allusion",
+      "reason": "God demonstrates his own love in that while we were still sinners, Christ died for us"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "desolate",
+    "sorrowful",
+    "somber",
+    "profound"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100024",
+    "title": "Crucifixion",
+    "artist": "Mikhaïl Nesterov",
+    "model": "claude-opus-4-6"
+  }
+}

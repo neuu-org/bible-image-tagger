@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Doge Alvise Mocenigo",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mocenigo family members",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Doge Alvise Mocenigo and family in devotion before the Madonna and Child",
+  "tags": [
+    "madonna-and-child",
+    "votive-painting",
+    "doge",
+    "venetian-nobility",
+    "devotional-portrait",
+    "enthroned-madonna",
+    "donor-portrait",
+    "family-devotion",
+    "columns",
+    "ermine-robes",
+    "intercession"
+  ],
+  "symbols": [
+    "enthroned Madonna and Child — the heavenly Queen and divine Infant as object of devotion",
+    "ermine-trimmed robes of the Doge — temporal authority humbled before divine authority",
+    "columns framing the scene — the threshold between earthly and heavenly realms",
+    "kneeling posture of family — submission and supplication before the divine",
+    "landscape beyond — the earthly domain entrusted to the Doge under divine providence"
+  ],
+  "description": "A wide-format painting showing the Madonna enthroned at center, holding the Christ Child, flanked by columns. To the left, an elderly bearded man in sumptuous ermine-trimmed crimson robes (the Doge) kneels with a younger male figure and children. To the right, a woman in elaborate dress kneels with two men in dark clerical garments. The Madonna wears blue and red robes and looks down at the assembled family. A landscape is visible through the columns behind. The composition is symmetrically arranged as a formal votive offering.",
+  "theological_description": "This votive painting represents the tradition of powerful rulers seeking the intercession and blessing of the Virgin Mary and the Christ Child. The Doge and his family present themselves before the Madonna in an act of devotion that acknowledges divine sovereignty over temporal power. This echoes the biblical pattern of rulers who humble themselves before God — as Solomon dedicated the temple and prayed for divine blessing upon his reign (1 Kings 8:22-30). The Madonna and Child at the center represent the Incarnation itself: God made flesh, accessible even to the mighty who kneel before Him. The presence of the Christ Child on Mary's lap fulfills Isaiah's prophecy of Emmanuel — 'God with us' (Isaiah 7:14) — and the family's devotion embodies the Psalmist's call: 'Worship the LORD in the splendor of his holiness; tremble before him, all the earth' (Psalm 96:9).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.46-49",
+      "relevance": "typological",
+      "reason": "Mary's Magnificat — all generations calling her blessed — is fulfilled in this act of veneration"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The Madonna and Child embody the Emmanuel prophecy — God dwelling with humanity"
+    },
+    {
+      "ref": "PSA.96.9",
+      "relevance": "allusion",
+      "reason": "Worshipping the Lord in holy splendor — the family kneels before the divine presence"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "solemn",
+    "majestic",
+    "reverent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0130212",
+    "title": "Doge Alvise Mocenigo and Family before the Madonna and Child",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

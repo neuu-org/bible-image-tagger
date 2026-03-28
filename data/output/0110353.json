@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint from a Polyptych",
+  "tags": [
+    "saint",
+    "polyptych-panel",
+    "gold-background",
+    "gothic-arch",
+    "cross",
+    "book",
+    "bearded-figure",
+    "blue-robe",
+    "gold-mantle",
+    "halo",
+    "standing-figure",
+    "devotional-panel",
+    "medieval-panel-painting",
+    "apostle"
+  ],
+  "symbols": [
+    "cross held in hand — identification with Christ's Passion and the call to bear one's cross",
+    "book — the authority of sacred teaching and apostolic tradition",
+    "gold background — the transcendent, heavenly realm in which the saint exists eternally",
+    "halo — sanctity and participation in divine glory",
+    "gold and blue robes — heavenly dignity and celestial origin of the saint's authority"
+  ],
+  "description": "A single standing male figure within a pointed Gothic arch frame against a gold background. The bearded, grey-haired man wears a blue robe under a golden-yellow mantle. He holds a large dark cross in one hand and a book in the other. His expression is solemn and direct, gazing at the viewer. The panel is painted on wood with visible aging. The figure fills the tall narrow format, standing frontally with a circular halo behind his head.",
+  "theological_description": "This polyptych panel presents a saint — likely an apostle, given the attributes of cross and book — in the hieratic tradition of medieval devotional art. The cross he bears identifies him as one who followed Christ's command: 'Whoever wants to be my disciple must deny themselves and take up their cross and follow me' (Matthew 16:24). The book signifies the apostolic teaching and the authority of the written word entrusted to the early Church. The gold background places the saint outside of earthly time and space, in the eternal glory of the heavenly kingdom. This type of polyptych panel would have flanked a central image of Christ or the Madonna, situating the individual saint within the larger company of heaven. The frontal gaze invites the viewer into a direct encounter — not with a historical figure from the past, but with a living intercessor in the communion of saints.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.24",
+      "relevance": "typological",
+      "reason": "Take up your cross and follow me — the cross the saint bears symbolizes discipleship"
+    },
+    {
+      "ref": "EPH.2.20",
+      "relevance": "allusion",
+      "reason": "Built on the foundation of the apostles — the apostolic authority represented by the book"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "Surrounded by so great a cloud of witnesses — the saint as part of the heavenly company"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "hieratic",
+    "sacred",
+    "eternal"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0110353",
+    "title": "tre santi dal polittico di san paolo",
+    "artist": "Luca di Tomme",
+    "model": "claude-opus-4-6"
+  }
+}

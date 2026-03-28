@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ (or God the Creator)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Presentation of Eve to Adam (or God Introducing Eve)",
+  "tags": [
+    "garden-of-eden",
+    "eve",
+    "creation-of-eve",
+    "christ-figure",
+    "paradise",
+    "fruit-trees",
+    "innocence",
+    "naked-figure",
+    "blessing-gesture",
+    "rabbit",
+    "pink-robe"
+  ],
+  "symbols": [
+    "Christ-like figure in robes — God as Creator presenting Eve, or Christ as the pre-incarnate Word through whom all was made",
+    "Eve's nakedness — original innocence before the Fall, without shame",
+    "garden with fruit trees — the Garden of Eden, paradise of original blessing",
+    "blessing hand gesture — divine approval and the gift of companionship",
+    "small dark creature at their feet — possibly foreshadowing the serpent's later intrusion"
+  ],
+  "description": "Two figures stand together in a lush garden setting. On the left, a robed figure in a pink garment raises one hand in a gesture of blessing or instruction, with long hair and a serene expression. On the right, a pale-skinned young woman with very long blonde hair stands naked, her eyes cast downward with a modest expression. She takes or touches the hand of the robed figure. Behind them, dark trees with round fruits (possibly oranges or apples) form a backdrop. A small dark creature (possibly a rabbit) sits at their feet on the ground.",
+  "theological_description": "This detail from Bosch's Garden of Earthly Delights depicts the moment when God presents Eve to Adam — or, as Bosch uniquely depicts it, a Christ-like figure introduces Eve into the created order. Genesis records: 'The Lord God made a woman from the rib he had taken out of the man, and he brought her to the man' (Genesis 2:22). The robed figure's resemblance to Christ reflects the theological understanding that the pre-incarnate Son — the Logos through whom all things were made (John 1:3) — was the agent of creation itself. Eve stands in primal innocence: 'Adam and his wife were both naked, and they felt no shame' (Genesis 2:25). The fruit-laden trees evoke the abundance of Eden, including the fateful tree of the knowledge of good and evil that would become the instrument of the Fall (Genesis 2:17). The blessing gesture suggests the divine mandate: 'Be fruitful and increase in number; fill the earth and subdue it' (Genesis 1:28). In Bosch's theological vision, this moment of original innocence and divine intention stands in stark contrast to the panels of earthly folly and hellish consequence that flank it.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.2.22-23",
+      "relevance": "primary",
+      "reason": "God creating Eve from Adam's rib and presenting her — the direct narrative depicted"
+    },
+    {
+      "ref": "GEN.2.25",
+      "relevance": "primary",
+      "reason": "The original innocence and nakedness without shame of the first couple in Eden"
+    },
+    {
+      "ref": "GEN.1.28",
+      "relevance": "allusion",
+      "reason": "The divine blessing and mandate to be fruitful — suggested by the blessing gesture"
+    },
+    {
+      "ref": "JHN.1.3",
+      "relevance": "typological",
+      "reason": "All things made through the Word — the Christ-like Creator figure reflects pre-incarnate Logos theology"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "innocent",
+    "edenic",
+    "mysterious",
+    "sacred"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0120323",
+    "title": "The Garden of Earthly Delights (detail)",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

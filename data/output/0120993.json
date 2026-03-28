@@ -1,0 +1,98 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Two Thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourning women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion (Calvary Triptych Central Panel)",
+  "tags": [
+    "crucifixion",
+    "calvary",
+    "three-crosses",
+    "mourning-women",
+    "roman-soldiers",
+    "horseman",
+    "titulus-inri",
+    "golgotha",
+    "landscape",
+    "good-thief",
+    "bad-thief",
+    "swooning-mary"
+  ],
+  "symbols": [
+    "central cross elevated above the others — Christ's sacrifice as the axis of redemption",
+    "two thieves flanking Christ — the choice between repentance and rejection",
+    "INRI titulus — the ironic kingship proclamation that speaks deeper truth than Pilate intended",
+    "mourning women at the foot — faithful witnesses when all others had fled",
+    "Roman soldier on horseback — worldly power complicit in and witness to divine sacrifice",
+    "landscape stretching to a distant city — Jerusalem, the city that killed the prophets"
+  ],
+  "description": "A triptych central panel in a three-lobed Gothic frame showing the Crucifixion at Golgotha. Christ hangs on the tallest central cross with the titulus 'INRI' above. On either side, the two thieves are bound to smaller crosses. At the foot of the cross, a group of mourning women including Mary swooning in grief are supported by other figures including John. On the right, a Roman soldier on a white horse and other armed figures observe the scene. A rich landscape with hills, a winding road, and a distant city fills the background under a dramatic sky.",
+  "theological_description": "The Crucifixion is the axis upon which all of Christian theology turns. This triptych panel presents the event in its full narrative scope, as described across all four Gospels. Christ is crucified between two criminals (Luke 23:33), fulfilling Isaiah's prophecy: 'He was numbered with the transgressors' (Isaiah 53:12). The two thieves represent the universal human response to Christ — one repents and receives the promise 'Today you will be with me in paradise' (Luke 23:43), while the other mocks and rejects. At the foot of the cross, the faithful women remain: 'Near the cross of Jesus stood his mother, his mother's sister, Mary the wife of Clopas, and Mary Magdalene' (John 19:25). Their presence fulfills Simeon's prophecy to Mary: 'A sword will pierce your own soul too' (Luke 2:35). The Roman soldiers represent the worldly power that unwittingly executed God's plan of salvation — 'this man was handed over to you by God's deliberate plan and foreknowledge' (Acts 2:23). The INRI inscription — 'Jesus of Nazareth, King of the Jews' (John 19:19) — was Pilate's political statement, but it proclaimed a deeper truth than he knew. Paul would summarize the scandal and glory: 'We preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles, but to those whom God has called, both Jews and Greeks, Christ the power of God and the wisdom of God' (1 Corinthians 1:23-24).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.33-43",
+      "relevance": "primary",
+      "reason": "The Crucifixion with the two thieves and Christ's promise of paradise — the full scene depicted"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary, the beloved disciple, and the women at the foot of the cross"
+    },
+    {
+      "ref": "ISA.53.12",
+      "relevance": "typological",
+      "reason": "He was numbered with the transgressors — fulfilled in the crucifixion between two criminals"
+    },
+    {
+      "ref": "JHN.19.19",
+      "relevance": "primary",
+      "reason": "The INRI titulus — Jesus of Nazareth King of the Jews — visible on the cross"
+    },
+    {
+      "ref": "1CO.1.23-24",
+      "relevance": "allusion",
+      "reason": "Christ crucified as the power and wisdom of God — the theological meaning of the scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "dramatic",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120993",
+    "title": "Calvary Triptych (Central panel)",
+    "artist": "Hugo van der Goes",
+    "model": "claude-opus-4-6"
+  }
+}

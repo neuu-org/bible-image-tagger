@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Catherine of Alexandria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna and Child with Saints",
+  "tags": [
+    "madonna-and-child",
+    "saint-catherine",
+    "saints-gathered",
+    "book",
+    "cross-in-background",
+    "outdoor-setting",
+    "devotional-painting",
+    "kneeling-saint",
+    "blue-sky",
+    "adoration"
+  ],
+  "symbols": [
+    "Virgin reading — Mary as the contemplative student of Scripture",
+    "child on her lap — the incarnate Word presented to the saints",
+    "cross behind — the Passion that underlies all Christian devotion",
+    "kneeling figure — the posture of adoration before the divine"
+  ],
+  "description": "A group composition showing the Virgin Mary seated at left, holding a book and the infant Jesus on her lap. Several saints gather around them — a kneeling bearded figure in white robes at lower right, other male figures behind, and additional figures visible in the middle ground. A large wooden cross rises in the background behind the group. The setting is outdoors with a blue sky and clouds. Mary gazes at her book while the child looks outward. The composition creates a semicircle of devotion around the central mother and child.",
+  "theological_description": "This sacra conversazione gathers the Virgin and Child with a company of saints in a composition that mirrors the liturgical assembly of the Church. The Virgin reading while holding the Christ child presents her dual role: she is both the contemplative student of God's word and the one who physically bears the Word made flesh. The saints gathered around — likely including Catherine of Alexandria with her characteristic attributes, Peter with the cross, and Andrew or another apostle — represent the communion of saints who are eternally present with Christ. The cross prominently displayed behind the group anchors the entire scene in the reality of the Passion: all Christian devotion, sanctity, and communion flows from the sacrificial love of the cross. The kneeling figure in the foreground models the proper response to encountering Christ — humble adoration and prayer.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured these things in her heart — her contemplative reading"
+    },
+    {
+      "ref": "HEB.12.1-2",
+      "relevance": "typological",
+      "reason": "Surrounded by a great cloud of witnesses, fixing our eyes on Jesus — the saints gathered around Christ"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "May I never boast except in the cross — the cross dominating the background"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "serene",
+    "contemplative",
+    "communal"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110917",
+    "title": "The Madonna and Child with Saints",
+    "artist": "Ludovico Carracci",
+    "model": "claude-opus-4-6"
+  }
+}

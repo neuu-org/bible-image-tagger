@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Crowd of humanity",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Golgotha — Expressionist crucifixion with crowd of humanity",
+  "tags": [
+    "golgotha",
+    "crucifixion",
+    "crowd",
+    "anguished-faces",
+    "dark-blue",
+    "yellow-christ",
+    "cross",
+    "distorted-figures",
+    "suffering-humanity",
+    "existential-dread",
+    "red-blood",
+    "staring-faces",
+    "modern-interpretation"
+  ],
+  "symbols": [
+    "yellow-glowing Christ on the cross — divine light persisting amid the darkness of suffering",
+    "crowd of distorted faces — all of humanity confronted by and implicated in the crucifixion",
+    "dark blue sky — cosmic darkness and the spiritual weight of the event",
+    "staring, anguished faces — the existential confrontation with suffering and death",
+    "cross towering above the crowd — the cross addressing all human experience"
+  ],
+  "description": "An expressionist painting of the Crucifixion. Christ hangs on a cross at the center-top of the composition, his body rendered in yellow-gold tones against a dark blue sky, with a streak of red. Below and filling the entire lower portion of the canvas, a dense crowd of distorted, anguished faces presses forward — men, women, and figures in dark clothing, some with wide staring eyes, some with expressions of horror, grief, or blank vacancy. The faces are rendered in Munch's characteristic expressionist style with bold outlines, distorted features, and intense emotional charge.",
+  "theological_description": "Edvard Munch's Golgotha strips the crucifixion of historical setting and presents it as a universal, existential event. The crowd is not the first-century Jerusalem crowd but all of humanity — every face distorted by suffering, guilt, fear, and the confrontation with death. This interpretation resonates deeply with Paul's theology: 'One has died for all, therefore all have died' (2 Corinthians 5:14). The glowing yellow Christ against the dark blue void embodies John 1:5: 'The light shines in the darkness, and the darkness has not overcome it.' The crowd's varied expressions — horror, anguish, emptiness, accusation — reflect the diverse human responses to the cross: 'a stumbling block to Jews and folly to Gentiles, but to those who are called... the power of God and the wisdom of God' (1 Corinthians 1:23-24). Munch's expressionist treatment captures what no realistic painting can: the psychological and spiritual impact of God dying on a cross. The anguished faces press toward the viewer, implicating every observer in both the guilt and the redemption of Calvary. As Isaiah prophesied: 'Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted' (Isaiah 53:4).",
+  "scripture_refs": [
+    {
+      "ref": "2CO.5.14",
+      "relevance": "primary",
+      "reason": "One has died for all, therefore all have died — the universal crowd representing all humanity"
+    },
+    {
+      "ref": "ISA.53.4-5",
+      "relevance": "typological",
+      "reason": "He bore our griefs and carried our sorrows — the crowd's suffering reflected in Christ's death"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "The light shines in the darkness — the golden Christ against the dark void"
+    },
+    {
+      "ref": "1CO.1.23-24",
+      "relevance": "allusion",
+      "reason": "The cross as stumbling block and power of God — the diverse human reactions in the crowd"
+    },
+    {
+      "ref": "LUK.23.33-48",
+      "relevance": "primary",
+      "reason": "The crucifixion at Golgotha — the foundational event"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "anguished",
+    "existential",
+    "haunting",
+    "confrontational"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100869",
+    "title": "Golgotha",
+    "artist": "Edvard Munch",
+    "model": "claude-opus-4-6"
+  }
+}

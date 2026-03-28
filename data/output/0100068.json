@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Flagellators",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Flagellation of Christ",
+  "tags": [
+    "flagellation",
+    "scourging",
+    "passion",
+    "bound-figure",
+    "column",
+    "nude-figure",
+    "tormentors",
+    "red-chalk-drawing",
+    "anatomical-study",
+    "suffering",
+    "humiliation",
+    "whipping",
+    "multiple-figures"
+  ],
+  "symbols": [
+    "column — the pillar to which Christ was bound during scourging",
+    "bound central figure — Christ's willing submission to suffering",
+    "nude body — the stripping and humiliation of the Incarnate God",
+    "muscular tormentors — the brute force of worldly power arrayed against the innocent",
+    "multiple viewpoints of the same figures — the relentless, encompassing nature of the violence"
+  ],
+  "description": "A red chalk anatomical study showing multiple nude male figures in dynamic poses. The central figure appears bound to a low column or pedestal, while surrounding figures are depicted in various attitudes of striking or pulling. The drawing shows multiple studies of the same figures from different angles, with strong muscular definition and Renaissance anatomical precision. The medium is warm reddish-brown chalk on light paper.",
+  "theological_description": "The Flagellation of Christ, recorded in all four Gospels, was the brutal scourging ordered by Pontius Pilate before the crucifixion. John 19:1 records simply: 'Then Pilate took Jesus and flogged him.' This economy of words belies the savage reality that this drawing captures through its emphasis on violent physicality and muscular force. The theological significance of the flagellation is profound: Isaiah 53:5 prophesied that 'by his wounds we are healed,' connecting Christ's physical suffering directly to humanity's spiritual restoration. The stripping of Christ fulfills the pattern of the Suffering Servant who was despised and rejected (Isaiah 53:3). In Pauline theology, Christ's willingness to endure such degradation demonstrates the kenosis — the self-emptying of Philippians 2:7-8, where he who existed in the form of God took the form of a servant and humbled himself to the point of death. The anatomical precision of the drawing paradoxically emphasizes the full humanity of the incarnate Word — real flesh that could be torn, real blood that could be shed.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.1",
+      "relevance": "primary",
+      "reason": "Pilate's order to have Jesus flogged, the event directly depicted"
+    },
+    {
+      "ref": "MAT.27.26",
+      "relevance": "primary",
+      "reason": "Matthew's account of Jesus being scourged before being handed over for crucifixion"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "By his wounds we are healed — the prophetic foundation connecting Christ's scourging to redemption"
+    },
+    {
+      "ref": "PHP.2.7-8",
+      "relevance": "allusion",
+      "reason": "Christ's self-emptying and humiliation, taking the form of a servant and becoming obedient unto death"
+    },
+    {
+      "ref": "1PE.2.24",
+      "relevance": "typological",
+      "reason": "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness — by his wounds you have been healed"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "intense",
+    "anguished"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100068",
+    "title": "The Flagellation of Christ",
+    "artist": "Giulio Clovio",
+    "model": "claude-opus-4-6"
+  }
+}

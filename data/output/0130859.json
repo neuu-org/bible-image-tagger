@@ -1,0 +1,66 @@
+{
+  "key": "0130859",
+  "title": "Veil of Veronica",
+  "artist": "James Tissot",
+  "description": "A standing figure holds aloft a large white cloth displaying the imprinted face of a bearded man rendered in reddish-brown tones. The cloth has fringed edges and is spread wide, partially obscuring the figure's head. The figure wears layered robes: an outer blue-gray garment over a red inner robe, with yellow visible at the hem. The background is a muted olive-brown. The face on the cloth shows closed or downcast eyes, a long nose, and a full beard, with what appear to be streaks suggesting blood or sweat.",
+  "theological_description": "The Veil of Veronica (Sudarium) is rooted in a long-standing Christian tradition, most associated with the Stations of the Cross, in which a woman named Veronica wiped the face of Jesus as He carried His cross to Calvary. According to legend, His likeness was miraculously imprinted on the cloth. While this episode does not appear in canonical Scripture, it resonates deeply with themes of compassionate witness to Christ's suffering and the idea that the divine image can be encountered through acts of mercy. The tradition connects typologically to the concept of the 'image of God' (imago Dei) and to Paul's teaching that believers are transformed into Christ's likeness (2 Corinthians 3:18). The vera icon ('true image') also anticipates the theology of icons in Eastern Christianity, where the material world becomes a vehicle for encountering the sacred. The cloth itself evokes the burial linens mentioned in the Gospel accounts of the resurrection.",
+  "characters": [
+    {
+      "name": "Veronica",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "tags": [
+    "veil-of-veronica",
+    "holy-face",
+    "sudarium",
+    "passion-of-christ",
+    "stations-of-the-cross",
+    "miraculous-image",
+    "cloth",
+    "suffering",
+    "devotion",
+    "compassion"
+  ],
+  "event": "Veronica Wipes the Face of Jesus",
+  "scene_type": "symbolic",
+  "mood": [
+    "reverent",
+    "solemn",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "scripture_refs": [
+    {
+      "reference": "Luke.23.27-28",
+      "relevance": "allusion",
+      "reason": "Women of Jerusalem mourning Jesus on the way to Calvary provide the broader scriptural context for the Veronica tradition"
+    },
+    {
+      "reference": "Isa.53.2-3",
+      "relevance": "typological",
+      "reason": "The suffering servant whose appearance was marred beyond recognition prefigures the wounded face imprinted on the veil"
+    },
+    {
+      "reference": "2Cor.3.18",
+      "relevance": "typological",
+      "reason": "Beholding the glory of the Lord and being transformed into His image connects to the theology of the vera icon"
+    },
+    {
+      "reference": "John.20.6-7",
+      "relevance": "allusion",
+      "reason": "The burial cloths found in the empty tomb echo the tradition of Christ's face being imprinted on fabric"
+    }
+  ],
+  "_meta": {
+    "key": "0130859",
+    "title": "Veil of Veronica",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  },
+  "symbols": []
+}

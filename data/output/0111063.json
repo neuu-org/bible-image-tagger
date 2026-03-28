@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint George",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Bernard",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Trinity with Saints and Patron Saints of Genoa",
+  "tags": [
+    "holy-trinity",
+    "god-the-father",
+    "dead-christ",
+    "pieta-type",
+    "sic-dilexit",
+    "libertas",
+    "virgin-mary",
+    "john-the-baptist",
+    "saint-george",
+    "knight-in-armor",
+    "monk",
+    "banner",
+    "harbor-scene",
+    "patron-saints"
+  ],
+  "symbols": [
+    "God the Father holding the dead Christ — the Throne of Grace, the Father presenting the sacrifice of the Son",
+    "SIC DILEXIT inscription — 'God so loved the world' (John 3:16)",
+    "LIBERTAS banner — freedom through divine love and sacrifice",
+    "Virgin Mary at left — the intercessory mother of the Church",
+    "John the Baptist at right with cross — the forerunner who proclaimed the Lamb",
+    "Saint George in armor — the patron saint and protector",
+    "harbor scene below — the city of Genoa under divine protection"
+  ],
+  "description": "A large arched altarpiece fresco showing God the Father at center top, an elderly bearded figure in white robes with arms outstretched, holding the dead body of Christ on his lap. A banner reading 'SIC DILEXIT' unfurls above. Below, another banner reads 'LIBERTAS'. Flanking the central group: the Virgin Mary in a blue veil at upper left, and John the Baptist with a cross-staff at upper right. At lower left, a knight in full armor (Saint George) holds a lance. At lower right, a monk in white robes kneels in prayer. A small harbor scene with ships is visible at the bottom center.",
+  "theological_description": "This altarpiece presents the theology of the Trinity through the lens of John 3:16: 'Sic dilexit' — 'God so loved the world that he gave his only begotten Son.' The Father's embrace of the dead Christ is the iconographic type known as the Throne of Grace (Gnadenstuhl), depicting the first person of the Trinity presenting the sacrificial offering of the second person. The 'LIBERTAS' banner beneath proclaims that divine love achieves human freedom — freedom from sin, death, and the powers that enslave. The flanking saints represent the Church's earthly mediation of this heavenly reality: the Virgin Mary as intercessor, John the Baptist as the prophet who first identified the Lamb of God (John 1:29), Saint George as the patron protector, and a monastic figure representing the contemplative life of prayer. The harbor scene of Genoa at the bottom grounds this cosmic theology in a specific community — this particular city, with its ships and commerce, exists under the protection of divine love. The composition thus moves from the universal (the Trinity's salvific act) to the particular (the patron saints of Genoa) to the local (the city's harbor), demonstrating that the love of God reaches from heaven to the most concrete details of human life.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.3.16",
+      "relevance": "primary",
+      "reason": "Sic dilexit — God so loved the world that he gave his only Son, the inscription's direct quotation"
+    },
+    {
+      "ref": "ROM.8.32",
+      "relevance": "typological",
+      "reason": "He who did not spare his own Son but gave him up for us all — the Father presenting the Son's sacrifice"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God — John the Baptist's identification, depicted with his cross-staff"
+    },
+    {
+      "ref": "GAL.5.1",
+      "relevance": "typological",
+      "reason": "For freedom Christ has set us free — the LIBERTAS banner proclaiming the freedom won by the cross"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "solemn",
+    "majestic",
+    "devotional",
+    "triumphant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0111063",
+    "title": "trinita con maria, giovanni battista e i santi protettori di genova giorgio e bernardo",
+    "artist": "Domenico Fiasella",
+    "model": "claude-opus-4-6"
+  }
+}

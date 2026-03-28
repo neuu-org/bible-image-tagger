@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Angel holding a scroll in a stained glass window",
+  "tags": [
+    "angel",
+    "scroll",
+    "wings",
+    "red-robe",
+    "golden-hair",
+    "church-window",
+    "diamond-shape",
+    "kneeling-angel",
+    "sacred-art"
+  ],
+  "symbols": [
+    "angel with scroll — bearer of divine messages and recorder of sacred history",
+    "wings of teal blue — heavenly origin and celestial nature",
+    "red garment — love, zeal, and the fire of the seraphim",
+    "scroll unfurled — the Word of God or the Gospel message",
+    "kneeling posture — adoration and service"
+  ],
+  "description": "A stained glass window panel in a diamond or quatrefoil shape showing a kneeling angel with teal-blue wings and golden-blonde hair, wearing a deep red robe. The angel holds or unfurls a scroll or banner. The background is deep blue with decorative borders in gold and grey. The figure is rendered in the traditional stained glass technique with lead lines and rich, translucent colors. The angel's expression is serene and upward-gazing.",
+  "theological_description": "This stained glass angel, bearing a scroll in a church window, embodies the biblical role of angels as messengers and ministers of God's word. The scroll connects to the many instances in Scripture where angels deliver divine communications — from Gabriel's annunciation to Mary (Luke 1:26-38) to the angel showing John the scroll of Revelation (Revelation 10:1-2). In the context of a church dedicated to Jesus and the Samaritan woman, this angel may point toward Christ's declaration at the well: 'The water I give them will become in them a spring of water welling up to eternal life' (John 4:14). Stained glass windows in the medieval theological imagination served as 'Bibles for the poor' — teaching Scripture through light and image. The angel, illuminated by the sun passing through the colored glass, becomes a living metaphor for the divine light entering the world through the mediation of sacred art and the proclamation of the Word.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.4.14",
+      "relevance": "allusion",
+      "reason": "The living water Christ offers — the context of the church dedicated to Jesus and the Samaritan woman"
+    },
+    {
+      "ref": "HEB.1.14",
+      "relevance": "allusion",
+      "reason": "Angels as ministering spirits — this angel serves as a bearer of the divine message"
+    },
+    {
+      "ref": "REV.10.1-2",
+      "relevance": "allusion",
+      "reason": "An angel holding a scroll — the visual pattern of the angel with the unfurled document"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "serene",
+    "luminous",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130846",
+    "title": "Jesus and the Samaritan woman. Eglise Saint-Sulpice de Fougères (detail)",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

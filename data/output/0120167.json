@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with the Infant Saint John",
+  "tags": [
+    "holy-family",
+    "terracotta-sculpture",
+    "joseph",
+    "mary",
+    "christ-child",
+    "infant-john-baptist",
+    "seated-figures",
+    "mother-and-child",
+    "family-group",
+    "figurine"
+  ],
+  "symbols": [
+    "Joseph tenderly holding the infant — the earthly father's protective role in the Incarnation",
+    "Mary gesturing toward the child — the mother presenting the Son of God to the world",
+    "two infants together — Christ and his forerunner John, whose destinies are intertwined",
+    "seated family group — the domestic reality of the Incarnation, God dwelling in ordinary family life"
+  ],
+  "description": "A terracotta sculptural group showing two adult figures seated together on a low base with two small children between them. On the left, a bearded older man holds one infant tenderly. On the right, a woman with her hair gathered up gestures with one hand. A second small child kneels or sits between the adults. The clay surface is rough and warm-toned, with an earthy patina. The composition is intimate and domestic in character.",
+  "theological_description": "The Holy Family represents the domestic context of the Incarnation — the Son of God entered the world not in isolated splendor but within the fabric of human family life. Joseph, the righteous man who accepted the angel's command to take Mary as his wife (Matthew 1:20-24), is shown in his role as protector and foster father. Mary, in whom the Word became flesh (John 1:14), presents the child with maternal tenderness. The presence of a second infant suggests the young John the Baptist, whose mother Elizabeth was Mary's kinswoman (Luke 1:36). The meeting of these two children echoes the Visitation, when the unborn John leaped in Elizabeth's womb at the sound of Mary's greeting (Luke 1:41-44). This sculptural grouping affirms that the mystery of salvation unfolded within the ordinary bonds of kinship, marriage, and parenthood — sanctifying human family life from within.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.20-24",
+      "relevance": "primary",
+      "reason": "Joseph's role as guardian of the Holy Family, accepting the divine child as his own"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "allusion",
+      "reason": "The kinship between the infant Christ and the infant John, whose meeting was first felt at the Visitation"
+    },
+    {
+      "ref": "LUK.2.51-52",
+      "relevance": "allusion",
+      "reason": "Jesus growing up in the family home at Nazareth, subject to his parents"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "peaceful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120167",
+    "title": "Holy Family",
+    "artist": "Jacopo Pontormo",
+    "model": "claude-opus-4-6"
+  }
+}

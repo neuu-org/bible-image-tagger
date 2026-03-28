@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd of listeners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint John the Baptist Preaching in the Wilderness",
+  "tags": [
+    "john-the-baptist",
+    "preaching",
+    "wilderness",
+    "crowd",
+    "cross-staff",
+    "animal-skins",
+    "halo",
+    "repentance",
+    "women-and-children",
+    "rocky-landscape",
+    "pointing-upward",
+    "dog"
+  ],
+  "symbols": [
+    "John's animal skin garment — the ascetic prophet living outside civilization's comforts",
+    "cross-topped staff — the cross John foreshadows, the one he prepares the way for",
+    "raised hand pointing upward — directing attention away from himself to the one who comes after",
+    "crowd of men, women, and children — all levels of society drawn to the call for repentance",
+    "rocky wilderness — the spiritual desert where God's voice is heard most clearly"
+  ],
+  "description": "A large Baroque composition showing John the Baptist standing at right on elevated ground, bare-chested with a red cloth and animal skin draped around him, his right hand raised in a preaching gesture and a cross-staff in his left. A golden halo surrounds his head. Before him, a diverse crowd of people — men, women carrying children, elderly figures — sits and stands in the rocky landscape, listening intently. The setting is a mountainous wilderness under a dramatic cloudy sky. A small dog sits in the foreground.",
+  "theological_description": "John the Baptist's preaching in the wilderness inaugurated the Gospel narrative. All four Gospels identify him as the fulfillment of Isaiah's prophecy: 'A voice of one calling in the wilderness, Prepare the way for the Lord, make straight paths for him' (Mark 1:3, quoting Isaiah 40:3). His message was uncompromising: 'Repent, for the kingdom of heaven has come near' (Matthew 3:2). The diverse crowd gathered before him reflects Luke's account that 'people went out to him from Jerusalem and all Judea and the whole region of the Jordan' (Matthew 3:5) — tax collectors, soldiers, and ordinary people all asking 'What should we do?' (Luke 3:10-14). John's pointed upward gesture embodies his central testimony: 'After me comes the one more powerful than I, whose sandals I am not worthy to stoop down and untie' (Mark 1:7). He described himself simply as 'the voice' (John 1:23) — not the message itself but the herald announcing it. Jesus would later declare: 'Among those born of women there has not risen anyone greater than John the Baptist' (Matthew 11:11), confirming him as the greatest and last of the Old Covenant prophets.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.1.3-7",
+      "relevance": "primary",
+      "reason": "John the Baptist preaching in the wilderness and preparing the way for Christ"
+    },
+    {
+      "ref": "MAT.3.1-6",
+      "relevance": "primary",
+      "reason": "John's wilderness preaching drawing crowds from all Judea — the scene depicted"
+    },
+    {
+      "ref": "LUK.3.10-14",
+      "relevance": "allusion",
+      "reason": "The diverse crowd asking John what they should do — the variety of listeners depicted"
+    },
+    {
+      "ref": "JHN.1.23",
+      "relevance": "allusion",
+      "reason": "John identifying himself as the voice crying in the wilderness"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Jesus's declaration of John as the greatest born of women"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "powerful",
+    "urgent",
+    "dramatic",
+    "prophetic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120984",
+    "title": "Saint John the Baptist Preaching",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

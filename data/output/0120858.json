@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint Joseph Holding the Christ Child",
+  "tags": [
+    "saint-joseph",
+    "christ-child",
+    "father-and-son",
+    "elderly-man",
+    "white-beard",
+    "tender-embrace",
+    "infant-reaching",
+    "brown-robe",
+    "landscape-background",
+    "foster-father"
+  ],
+  "symbols": [
+    "Joseph's aged face gazing at the child — the faithful guardian beholding the mystery of the Incarnation",
+    "infant touching Joseph's face — the intimacy of the divine child with his earthly protector",
+    "brown cloak — Joseph's humility and simple righteousness",
+    "landscape behind — the world into which Joseph must guide and protect the child"
+  ],
+  "description": "A warm, intimate painting of an elderly bearded man with white hair holding a plump infant. Joseph gazes down at the child with an expression of deep tenderness, while the baby reaches up to touch his face or chin. Joseph wears a brown robe or cloak, and the child is partially wrapped in fabric. Behind them, a landscape with trees and distant hills is visible. The lighting is warm and golden, focusing on the tender interaction between the old man and the infant. The brushwork is soft and the palette warm with golden-brown tones.",
+  "theological_description": "This tender portrait of Joseph with the Christ Child reveals a dimension of the Incarnation often overlooked — the role of the earthly father. Joseph, described by Matthew as 'a righteous man' (Matthew 1:19), accepted the angel's command to take Mary as his wife and to name the child Jesus (Matthew 1:20-21). In doing so, he provided the Son of God with legal lineage in the house of David, fulfilling the prophecy that the Messiah would come from David's line (2 Samuel 7:12-13). Joseph's protective role is evident throughout the infancy narratives: he obeyed the angelic warning to flee to Egypt to save the child from Herod's slaughter (Matthew 2:13-14), and later settled the family in Nazareth (Matthew 2:23). The infant reaching for Joseph's face captures the astonishing intimacy of the Incarnation — the Creator of the universe dependent on the care of a carpenter. Joseph's silence in the Gospels (he never speaks a recorded word) makes his obedient faith all the more eloquent. He embodies the righteous man who 'trusts in the Lord and does good' (Psalm 37:3).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.20-21",
+      "relevance": "primary",
+      "reason": "The angel commanding Joseph to take Mary as his wife and name the child Jesus"
+    },
+    {
+      "ref": "MAT.2.13-14",
+      "relevance": "allusion",
+      "reason": "Joseph protecting the child by fleeing to Egypt — his role as guardian"
+    },
+    {
+      "ref": "LUK.2.51",
+      "relevance": "allusion",
+      "reason": "Jesus subject to his parents in Nazareth — the domestic life this portrait captures"
+    },
+    {
+      "ref": "MAT.1.19",
+      "relevance": "primary",
+      "reason": "Joseph described as a righteous man — the character visible in his tender care"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "warm",
+    "intimate",
+    "protective"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120858",
+    "title": "Saint Joseph",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Saint Leander",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Bonaventure",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saints Leander and Bonaventure",
+  "tags": [
+    "saint-leander",
+    "saint-bonaventure",
+    "bishop",
+    "franciscan",
+    "crosier",
+    "church-model",
+    "cross-on-chest",
+    "scroll",
+    "putti",
+    "two-saints",
+    "devotional-painting",
+    "ecclesiastical-vestments",
+    "brown-robe",
+    "white-vestments"
+  ],
+  "symbols": [
+    "church model held by Leander — his role as bishop and builder of the Church in Seville",
+    "crosier (bishop's staff) — episcopal authority and pastoral care",
+    "scroll with text — the written teachings and theological contributions",
+    "cross on Bonaventure's chest — the cross as center of Franciscan spirituality",
+    "putto (angel child) — heavenly approbation of the saints' ministry"
+  ],
+  "description": "Two standing male figures depicted side by side. At left, a bearded man in dark brown-red robes holds a miniature model of a church in one hand and a scroll in the other. At right, a clean-shaven man in elaborate white and gold bishop's vestments holds a crosier (shepherd's staff) and wears a cross on his chest. A small winged putti appears at lower right. The background features architectural elements. Both figures are rendered with dignity and naturalistic detail in warm tones.",
+  "theological_description": "This painting pairs two great figures of the Church: Saint Leander, the 6th-century Archbishop of Seville who was instrumental in converting the Visigothic kingdom from Arianism to orthodox Christianity, and Saint Bonaventure, the 13th-century Franciscan theologian known as the 'Seraphic Doctor.' Leander's church model represents his literal and figurative building of the Church in Spain, while his scroll references his theological writings against heresy. Bonaventure's bishop's vestments reflect his appointment as Cardinal Bishop of Albano, while his Franciscan simplicity persists in his demeanor. Together they represent two dimensions of the Church's mission across centuries: Leander the pastor-controversialist who defended orthodoxy through direct engagement with heresy, and Bonaventure the mystical theologian who mapped the soul's journey into God. Both exemplify the Pauline call to 'guard the deposit' of faith entrusted to the Church (2 Timothy 1:14).",
+  "scripture_refs": [
+    {
+      "ref": "2TI.1.14",
+      "relevance": "typological",
+      "reason": "Guard the good deposit entrusted to you — the theological guardianship both saints exercised"
+    },
+    {
+      "ref": "EPH.4.11-12",
+      "relevance": "typological",
+      "reason": "Pastors and teachers to equip the saints — the ministerial roles these saints fulfilled"
+    },
+    {
+      "ref": "1PE.5.2",
+      "relevance": "allusion",
+      "reason": "Shepherd the flock of God — the pastoral authority symbolized by the crosier"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dignified",
+    "devotional",
+    "solemn",
+    "warm"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0110908",
+    "title": "St. Leander and St. Bonaventure",
+    "artist": "Bartolome Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

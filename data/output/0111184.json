@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with Infant Saint John",
+  "tags": [
+    "madonna-and-child",
+    "infant-john-baptist",
+    "seated-madonna",
+    "halo",
+    "draped-garments",
+    "two-infants",
+    "latin-inscription",
+    "devotional-print",
+    "marian-prayer",
+    "open-gesture",
+    "classical-composition"
+  ],
+  "symbols": [
+    "Mary enthroned — the Queen of Heaven and Seat of Wisdom",
+    "two infants — Christ and his forerunner, linked from conception",
+    "open gesture of Mary's hand — offering the child to the world",
+    "halo — sanctity and divine favor",
+    "Latin prayer below — 'O Queen of Heaven, our hope' — the devotional function of the image"
+  ],
+  "description": "An engraving showing the Virgin Mary seated with the infant Jesus on her lap and a second smaller child (the infant John the Baptist) beside her. Mary wears a veil and flowing robes, gazing outward with a serene expression. One hand extends outward in a gesture of presentation or blessing. The infants interact with each other. The composition is classical and balanced. Below the image, a Latin inscription is visible: 'O Regina del Ciel, speranza nostra...' (O Queen of Heaven, our hope). The artist's name 'Ludovico Caracci' appears at lower right.",
+  "theological_description": "This devotional print pairs the Madonna and Child with the infant Baptist, accompanied by a Marian prayer that establishes its function: 'O Regina del Ciel, speranza nostra / Volgi tu gli occhi di pietate ardenti / Noi figli d'Eva a te gridiam dolenti / E dal tuo seno il frutto al fin ne mostra' (O Queen of Heaven, our hope / Turn upon us your eyes burning with compassion / We children of Eve cry to you in sorrow / And from your womb show us at last the fruit). This prayer echoes the Salve Regina and establishes the image's Eucharistic and soteriological dimensions — Mary is asked to show the 'fruit of her womb,' Jesus, to sinful humanity. The infant John's presence anticipates his adult proclamation: 'Behold the Lamb of God' (John 1:29). Mary's open hand extends Christ to the viewer, fulfilling the prayer's request. The print functions as a visual aid to contemplative prayer, inviting the faithful to gaze upon the Virgin and receive from her the gift of her Son.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Blessed is the fruit of your womb — the prayer's reference to Mary showing the 'fruit' of her womb"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God — the infant John's future testimony prefigured by his presence"
+    },
+    {
+      "ref": "LUK.1.43",
+      "relevance": "allusion",
+      "reason": "Why am I so favored that the mother of my Lord should come to me — the relationship between the two families"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The offspring of the woman who will crush the serpent — the 'children of Eve' in the prayer looking to Mary's child for salvation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "serene",
+    "prayerful",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0111184",
+    "title": "Madonna and Child with Saint John",
+    "artist": "Ludovico Carracci",
+    "model": "claude-opus-4-6"
+  }
+}

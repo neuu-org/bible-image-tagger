@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna with Two Angels",
+  "tags": [
+    "madonna-and-child",
+    "angels",
+    "arch-shape",
+    "modernist-drawing",
+    "mother-and-child",
+    "flanking-angels",
+    "abstract-figures",
+    "blue-background",
+    "sketchy-lines"
+  ],
+  "symbols": [
+    "arched frame enclosing Madonna — the sacred niche or apse representing heavenly sanctuary",
+    "two flanking angels — the celestial court attending the Mother and Child",
+    "mother holding child — the Incarnation, God entering the world through human maternity",
+    "blue surrounding field — traditional Marian color representing heavenly purity"
+  ],
+  "description": "A modernist drawing showing a central arched form containing a simplified figure of a woman holding a child in her arms. Two angular, sketchy figures flank the arch on either side, suggesting attendant figures with wing-like forms. The background is rendered in dark blues and greys with rough, textured strokes. The lines are loose and expressive, reducing the traditional Madonna-and-Child composition to essential gestural forms. A small yellow-gold element appears in the upper left corner.",
+  "theological_description": "This modernist rendering of the Madonna with two angels distills the traditional Marian iconographic formula to its essential elements. The arched frame recalls the apse of a church, placing Mary and the Christ Child at the liturgical center of sacred space. The Incarnation — 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy, the Son of God' (Luke 1:35) — is the theological core of every Madonna image. The flanking angels echo the heavenly attendants who announced Christ's birth (Luke 2:13-14) and who surround the throne of God. Even in abstract reduction, the composition preserves the essential Christian proclamation: God has entered human history through the womb of a woman, the infinite contained within the finite, eternity embraced by time.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Annunciation and Incarnation — the theological foundation of the Madonna-and-Child image"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "The two flanking angels echo the heavenly host that attended Christ's birth"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin bearing a son named Immanuel — the prophetic archetype fulfilled in the Madonna-and-Child"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "reverent",
+    "ethereal",
+    "austere"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120072",
+    "title": "Madonna with Two Angels",
+    "artist": "Kondor Bela",
+    "model": "claude-opus-4-6"
+  }
+}

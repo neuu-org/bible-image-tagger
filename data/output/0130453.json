@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Saint Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Companion friar",
+      "type": "PERSON"
+    },
+    {
+      "name": "Seraph/Crucified Christ",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Francis receiving the stigmata on Mount La Verna",
+  "tags": [
+    "saint-francis",
+    "stigmata",
+    "mount-la-verna",
+    "seraph",
+    "crucified-vision",
+    "wounds-of-christ",
+    "kneeling-friar",
+    "mystical-vision",
+    "franciscan",
+    "divine-encounter",
+    "imitation-of-christ"
+  ],
+  "symbols": [
+    "seraphic vision in the sky — the crucified Christ appearing as a winged seraph",
+    "kneeling Francis with raised hands — reception of the wounds of Christ",
+    "mountain setting — the place of divine encounter, echoing Moses on Sinai",
+    "companion friar asleep or prostrate — the solitary nature of mystical experience",
+    "dark landscape — the world receding before the overwhelming reality of divine encounter"
+  ],
+  "description": "A dark, atmospheric painting showing Saint Francis kneeling in a rocky landscape, his hands raised toward the upper left where a luminous winged figure — a seraph bearing the form of the crucified Christ — appears among clouds. A companion friar lies or sits on the ground nearby, seemingly unaware of the vision. The landscape is mountainous and darkened, with trees and distant hills. The painting is rendered in dark earth tones with warm golden light emanating from the heavenly vision. A gilded frame surrounds the work.",
+  "theological_description": "The stigmatization of Saint Francis on Mount La Verna in 1224 represents the most dramatic instance of conformity to Christ in Christian mystical tradition. Francis, who had devoted his life to imitating the poverty and suffering of Christ, received the five wounds of the crucifixion in his own body — the marks in his hands, feet, and side. This event fulfills Paul's declaration in the most literal sense: 'I have been crucified with Christ and I no longer live, but Christ lives in me' (Galatians 2:20), and 'I bear on my body the marks of Jesus' (Galatians 6:17). The seraphic vision — Christ crucified appearing with the six wings of a seraph from Isaiah's throne vision (Isaiah 6:2) — unites the burning love of the seraphim with the suffering of the cross, revealing that divine love and sacrificial suffering are inseparable. Francis's reception of the wounds embodies the call to all believers to take up their cross and follow Christ (Matthew 16:24), and demonstrates the Pauline theology that participation in Christ's sufferings leads to participation in His glory (Romans 8:17). The companion's unawareness echoes the pattern of Moses on Sinai — divine encounters that transcend ordinary human perception.",
+  "scripture_refs": [
+    {
+      "ref": "GAL.2.20",
+      "relevance": "typological",
+      "reason": "Being crucified with Christ — Francis literally receives the wounds of the crucifixion in his own body"
+    },
+    {
+      "ref": "GAL.6.17",
+      "relevance": "typological",
+      "reason": "Bearing the marks (stigmata) of Jesus in the body — the direct theological reality depicted"
+    },
+    {
+      "ref": "MAT.16.24",
+      "relevance": "typological",
+      "reason": "Taking up one's cross to follow Christ — Francis as the supreme example of this call"
+    },
+    {
+      "ref": "ISA.6.2",
+      "relevance": "allusion",
+      "reason": "The seraphim with six wings — the vision of the crucified Christ appears in seraphic form"
+    },
+    {
+      "ref": "ROM.8.17",
+      "relevance": "typological",
+      "reason": "Sharing in Christ's sufferings to share in His glory — the theology underlying the stigmata"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "mystical",
+    "awe-inspiring",
+    "intense",
+    "sacred"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0130453",
+    "title": "St. Francis receiving the Stigmata",
+    "artist": "Giorgio Vasari",
+    "model": "claude-opus-4-6"
+  }
+}

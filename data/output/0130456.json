@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Peter standing with keys",
+  "tags": [
+    "saint-peter",
+    "apostle",
+    "elderly-bearded-man",
+    "keys",
+    "flowing-robes",
+    "chiaroscuro-drawing",
+    "standing-figure",
+    "book-or-lectern",
+    "monochrome",
+    "dignified-bearing"
+  ],
+  "symbols": [
+    "keys held in hand — the keys of the Kingdom of Heaven given to Peter by Christ",
+    "book or lectern — apostolic teaching authority and the written Word",
+    "flowing robes — apostolic dignity and authority",
+    "elderly appearance with beard — wisdom and the weight of apostolic leadership",
+    "bare foot — apostolic poverty and humility"
+  ],
+  "description": "A monochrome drawing or print showing a standing elderly bearded man in voluminous flowing robes, leaning slightly against a lectern or reading stand. He holds keys in his lowered right hand. His gaze is directed to the left in profile, his expression dignified and thoughtful. The rendering uses light and dark tones to create strong three-dimensional modeling of the figure and drapery. One bare foot is visible beneath the robes. The background is dark and plain.",
+  "theological_description": "Saint Peter, the fisherman called by Christ to become a 'fisher of men' (Matthew 4:19), stands here with the keys that define his apostolic identity. Jesus declared: 'I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven' (Matthew 16:19). This commission, given after Peter's confession of Christ as 'the Son of the living God' (Matthew 16:16), established Peter as the rock upon which Christ would build His Church (Matthew 16:18). The keys symbolize authority — not merely administrative but spiritual: the power to proclaim forgiveness and judgment, to open the Kingdom to believers through the preaching of the Gospel. Peter's elderly, dignified bearing reflects his journey from impulsive fisherman to mature shepherd of the Church, fulfilling Christ's final commission: 'Feed my sheep' (John 21:17). The book or lectern beside him represents his apostolic teaching preserved in his epistles, where he exhorts fellow elders to 'shepherd God's flock that is under your care' (1 Peter 5:2).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ giving Peter the keys of the Kingdom — the keys visible in Peter's hand are the defining attribute"
+    },
+    {
+      "ref": "MAT.16.16",
+      "relevance": "primary",
+      "reason": "Peter's confession that Jesus is the Christ, the Son of the living God"
+    },
+    {
+      "ref": "JHN.21.17",
+      "relevance": "allusion",
+      "reason": "Christ's commission to Peter to feed His sheep — Peter's pastoral authority"
+    },
+    {
+      "ref": "1PE.5.2",
+      "relevance": "allusion",
+      "reason": "Peter's exhortation to shepherd God's flock — embodied in his dignified bearing"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dignified",
+    "solemn",
+    "authoritative"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0130456",
+    "title": "Saint Pierre",
+    "artist": "Domenico Beccafumi",
+    "model": "claude-opus-4-6"
+  }
+}

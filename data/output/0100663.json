@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary (young)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant (Mary or Jesus)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Scene from the life of Saint Anne — the birth or presentation of the Virgin Mary",
+  "tags": [
+    "saint-anne",
+    "virgin-mary",
+    "birth-of-the-virgin",
+    "mother-and-daughter",
+    "infant",
+    "checkered-floor",
+    "staircase",
+    "red-robe",
+    "domestic-scene",
+    "fresco-detail",
+    "women",
+    "meeting"
+  ],
+  "symbols": [
+    "elderly woman in red greeting the younger — Anne's joy at the birth or growth of Mary",
+    "young woman with child — the continuity of salvation history through generations",
+    "staircase — ascent and spiritual progress, the steps toward God's plan",
+    "checkered floor — the ordered domestic space where sacred history unfolds",
+    "infant — the beginning of God's plan for the Incarnation through Mary"
+  ],
+  "description": "A detail from a Renaissance fresco showing two women meeting on a checkered tile floor near a staircase. An older woman in a red robe bends forward with arms outstretched in greeting toward a younger, elegant woman who holds or stands near a small child. The younger woman wears a pale-colored garment and has an elaborate hairstyle. The setting includes architectural elements with a staircase and geometric floor pattern. The painting has the refined, graceful figure style characteristic of Filippo Lippi.",
+  "theological_description": "This scene from the life of Saint Anne connects to the broader salvation narrative through Mary's family history. While the details of Anne's life come from apocryphal sources (particularly the Protoevangelium of James), the theological principle is deeply biblical: God works through ordinary family life to accomplish extraordinary redemption. The meeting of generations — grandmother, mother, and child — echoes the biblical pattern of God's faithfulness across generations. Psalm 78:4 declares, 'We will tell the next generation the praiseworthy deeds of the Lord,' and this scene embodies that intergenerational transmission of faith. The birth of Mary to Anne, after years of barrenness (according to tradition), parallels the biblical pattern of miraculous births to barren women: Sarah (Genesis 21:1-2), Hannah (1 Samuel 1:19-20), and Elizabeth (Luke 1:7, 36) — each birth preparing for the ultimate birth of Christ. Luke 1:48 records Mary's own testimony: 'All generations will call me blessed,' a blessedness that traces back to her own mother's faithfulness.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.46-49",
+      "relevance": "primary",
+      "reason": "Mary's Magnificat — the blessedness that traces through her family"
+    },
+    {
+      "ref": "1SA.1.19-20",
+      "relevance": "typological",
+      "reason": "Hannah's miraculous conception after barrenness — the biblical pattern Anne's story follows"
+    },
+    {
+      "ref": "PSA.78.4-6",
+      "relevance": "allusion",
+      "reason": "Telling the next generation God's praiseworthy deeds — the intergenerational faith depicted"
+    },
+    {
+      "ref": "LUK.1.7",
+      "relevance": "typological",
+      "reason": "Elizabeth's barrenness before bearing John — the pattern of God bringing life from barrenness"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "joyful",
+    "domestic",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100663",
+    "title": "Virgin with the Child and Scenes from the Life of St. Anne (detail)",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

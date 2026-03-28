@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Stephen",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Stephen the Deacon holding a stone",
+  "tags": [
+    "saint-stephen",
+    "first-martyr",
+    "deacon",
+    "stone",
+    "dalmatic-vestment",
+    "youthful-saint",
+    "landscape-background",
+    "standing-figure",
+    "protomartyr"
+  ],
+  "symbols": [
+    "stone held in hand — the instrument of Stephen's martyrdom by stoning",
+    "deacon's dalmatic — Stephen's office as one of the first seven deacons",
+    "youthful face — innocence and the beauty of faithful witness",
+    "city in background — Jerusalem, where Stephen was martyred",
+    "calm expression — the serenity of one who sees heaven opened"
+  ],
+  "description": "A tall, narrow altarpiece panel showing a young man (Saint Stephen) standing in a landscape, wearing an ornate brown and gold dalmatic vestment over a white alb. He holds a smooth stone in his raised left hand — the attribute of his martyrdom. His face is youthful with reddish-brown hair, gazing to the side with a serene expression. In the background, a winding path leads to a city with buildings and towers, and figures are visible in the distance. The top of the panel is arched.",
+  "theological_description": "Saint Stephen, the first Christian martyr (protomartyr), was one of the seven deacons chosen to serve the early Church (Acts 6:5). His powerful preaching and the signs he performed aroused the fury of certain synagogue members who brought him before the Sanhedrin on false charges of blasphemy (Acts 6:11-14). Stephen's defense — a sweeping survey of Israel's history of rejecting God's messengers — culminated in his accusation: 'You always resist the Holy Spirit!' (Acts 7:51). As they raged against him, Stephen 'full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God' (Acts 7:55). His death by stoning (Acts 7:58-60) echoed Christ's own Passion: like Jesus, Stephen prayed for his killers — 'Lord, do not hold this sin against them' (Acts 7:60; cf. Luke 23:34). The stone he holds is both the instrument of his death and a badge of honor — the first in the long line of those who followed the Lamb 'faithful unto death' (Revelation 2:10). Saul of Tarsus witnessed Stephen's martyrdom (Acts 7:58), and the seed planted by Stephen's blood bore fruit in Paul's conversion.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.7.55-60",
+      "relevance": "primary",
+      "reason": "Stephen's vision of heaven and his death by stoning — the stone in his hand is the direct attribute"
+    },
+    {
+      "ref": "ACT.6.5",
+      "relevance": "primary",
+      "reason": "Stephen chosen as one of the seven deacons — his vestment identifies his office"
+    },
+    {
+      "ref": "ACT.7.58",
+      "relevance": "primary",
+      "reason": "They stoned Stephen while he prayed — the foundational event of his martyrdom"
+    },
+    {
+      "ref": "LUK.23.34",
+      "relevance": "typological",
+      "reason": "Stephen's prayer for his killers echoes Christ's 'Father forgive them'"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and receive the crown of life — Stephen as the first to fulfill this call"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "dignified",
+    "youthful",
+    "sacred"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0130758",
+    "title": "St. Stephen",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

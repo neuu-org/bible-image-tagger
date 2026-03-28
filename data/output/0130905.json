@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints Paul and John the Baptist standing together",
+  "tags": [
+    "saint-paul",
+    "saint-john-baptist",
+    "two-saints",
+    "gold-background",
+    "sword",
+    "scroll",
+    "book",
+    "animal-skin",
+    "ecce-agnus-banner",
+    "haloes",
+    "standing-figures",
+    "medieval-panel"
+  ],
+  "symbols": [
+    "sword held by Paul — the instrument of his martyrdom and the 'sword of the Spirit, the word of God'",
+    "book held between them — the Scriptures, both Old and New Testament",
+    "banner reading 'Ecce Agn...' — John's declaration 'Behold the Lamb of God'",
+    "animal skin garment of John — his wilderness asceticism",
+    "gold background — the heavenly realm where the saints dwell",
+    "haloes — sanctity and divine favor"
+  ],
+  "description": "A medieval panel painting with a gold background showing two standing male saints with haloes. On the left, a bearded man in pink and blue robes holds a large red sword pointing downward — Saint Paul. Between them, a book or codex is visible. On the right, a figure with long dark hair and a beard, wearing an animal skin garment beneath a red cloak, holds a scroll or banner with partially visible Latin text reading 'ECCE A...' — Saint John the Baptist. Both figures stand frontally on a gold ground with a formal, iconic presence.",
+  "theological_description": "The pairing of Saint Paul and Saint John the Baptist unites the greatest prophet of the Old Covenant with the greatest apostle of the New. John the Baptist, the forerunner who declared 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29) — the text visible on his banner — prepared the way for Christ. Paul, the apostle to the Gentiles, proclaimed the meaning of that Lamb's sacrifice to the entire world: 'Christ, our Passover lamb, has been sacrificed' (1 Corinthians 5:7). Together they span the full arc of salvation history: John announces the Messiah's arrival; Paul proclaims the significance of His death and resurrection. Paul's sword represents both his martyrdom by beheading and his metaphorical weapon — 'the sword of the Spirit, which is the word of God' (Ephesians 6:17). The book between them is the Scripture that both serve: John fulfills the prophets, and Paul interprets the Gospel. Their joint presence declares the unity of God's redemptive purpose from beginning to end.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God — the text on John's banner, his defining prophetic declaration"
+    },
+    {
+      "ref": "EPH.6.17",
+      "relevance": "allusion",
+      "reason": "The sword of the Spirit, the word of God — Paul's sword as both martyrdom attribute and spiritual weapon"
+    },
+    {
+      "ref": "1CO.5.7",
+      "relevance": "typological",
+      "reason": "Christ our Passover lamb sacrificed — Paul's proclamation completing John's announcement"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Among those born of women none greater than John — the Baptist's supreme prophetic status"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "iconic",
+    "dignified",
+    "sacred"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0130905",
+    "title": "São Paulo E São João Baptista",
+    "artist": "Álvaro Pires de Évora",
+    "model": "claude-opus-4-6"
+  }
+}

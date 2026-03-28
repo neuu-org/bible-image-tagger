@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Paul the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Paul the Apostle",
+  "tags": [
+    "saint-paul",
+    "apostle",
+    "halo",
+    "red-cloak",
+    "blue-robe",
+    "book",
+    "raised-finger",
+    "teaching-gesture",
+    "gray-beard",
+    "upward-gaze",
+    "sword-pommel",
+    "devotional-image",
+    "half-length-portrait"
+  ],
+  "symbols": [
+    "raised index finger — teaching authority and proclamation of truth",
+    "book held in hand — the Epistles of Paul and the authority of Scripture",
+    "red cloak over blue robe — martyrdom (red) over heavenly wisdom (blue)",
+    "golden halo — sanctity and apostolic authority",
+    "sword pommel visible — Paul's instrument of martyrdom and the sword of the Spirit",
+    "upward gaze — divine inspiration and orientation toward heavenly truth"
+  ],
+  "description": "A half-length portrait of Saint Paul shown against a dark background. He has gray hair and a full gray beard, and gazes upward and to the left with an expression of inspired teaching. His right hand is raised with the index finger extended in a gesture of proclamation or instruction. His left hand holds a large brown book against his body. He wears a dark blue robe with a red cloak draped over his shoulder, and what appears to be a sword pommel is visible near the book. A golden halo encircles his head.",
+  "theological_description": "Paul the Apostle, the former persecutor Saul of Tarsus, transformed by his encounter with the risen Christ on the Damascus road (Acts 9:1-19), became the greatest theologian and missionary of the early Church. His raised teaching finger captures his defining role: the one who articulated the theology of justification by faith (Romans 3:21-26), the body of Christ (1 Corinthians 12), the cosmic lordship of Christ (Colossians 1:15-20), and the mystery of the Gospel for Gentiles (Ephesians 3:1-13). The book represents his extraordinary literary legacy — thirteen or fourteen epistles that constitute the most influential body of theological writing in history. The red cloak signifies his martyrdom under Nero in Rome, while the sword pommel alludes to his beheading and to Ephesians 6:17: 'the sword of the Spirit, which is the word of God.' Paul's upward gaze reflects his own testimony: 'I was not disobedient to the heavenly vision' (Acts 26:19). His entire life after conversion was oriented toward the heavenly call: 'I press on toward the goal for the prize of the upward call of God in Christ Jesus' (Philippians 3:14).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.9.1-19",
+      "relevance": "primary",
+      "reason": "Paul's conversion — the foundational event that made him an apostle"
+    },
+    {
+      "ref": "ROM.3.21-26",
+      "relevance": "primary",
+      "reason": "Justification by faith — the central doctrine Paul proclaimed, represented by his teaching gesture"
+    },
+    {
+      "ref": "EPH.6.17",
+      "relevance": "primary",
+      "reason": "The sword of the Spirit, the word of God — the sword attribute Paul holds"
+    },
+    {
+      "ref": "2TI.4.6-8",
+      "relevance": "primary",
+      "reason": "I have fought the good fight, finished the race — Paul anticipating his martyrdom"
+    },
+    {
+      "ref": "PHP.3.14",
+      "relevance": "allusion",
+      "reason": "Pressing toward the goal of the upward call — Paul's heavenward gaze"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "authoritative",
+    "inspired",
+    "teaching",
+    "solemn"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0101089",
+    "title": "Saint Paul",
+    "artist": "Philippe de Champaigne",
+    "model": "claude-opus-4-6"
+  }
+}

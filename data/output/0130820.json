@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Saint Philip",
+      "type": "PERSON"
+    },
+    {
+      "name": "Central saint (damaged)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint James the Great",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Triptych with Saints Philip and James the Great flanking a central figure",
+  "tags": [
+    "saint-philip",
+    "saint-james",
+    "gothic-chapel",
+    "winged-altar",
+    "damaged-painting",
+    "standing-saints",
+    "ribbed-vault",
+    "wall-paintings"
+  ],
+  "symbols": [
+    "triptych format — the Trinity and the opening of sacred mystery for worship",
+    "standing apostles — pillars of the Church and witnesses of Christ",
+    "Gothic vaulted chapel — the sacred space containing and protecting the altarpiece",
+    "faded frescoes on walls — the layered history of devotion in this space"
+  ],
+  "description": "A photograph of a small Gothic chapel interior with a ribbed vault ceiling decorated with painted floral motifs. On the altar below, a painted wooden triptych is displayed. The two wing panels show standing saints — on the left, a bearded figure with a cross staff (Saint Philip), and on the right, a bearded figure with a pilgrim's staff (Saint James the Great). The central panel is significantly damaged and faded, showing traces of a standing figure in white. Behind and around the triptych, older wall frescoes are partially visible, also heavily deteriorated.",
+  "theological_description": "This triptych presenting Saints Philip and James reflects the apostolic foundation of the Church. Philip, who brought Nathanael to Jesus saying 'Come and see' (John 1:46), and who asked Jesus 'Lord, show us the Father' (John 14:8), represents the searching faith that leads others to Christ. James the Great, brother of John and one of the three closest to Jesus (present at the Transfiguration and Gethsemane), was the first apostle to be martyred, killed by Herod Agrippa (Acts 12:2). Together, these apostles represent the twin pillars Paul describes: 'James, Cephas and John, those esteemed as pillars' (Galatians 2:9). The damaged state of the central panel speaks poignantly to the passage of time, yet the persistence of the saints on either side testifies to the enduring witness of the apostolic faith — 'built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone' (Ephesians 2:20).",
+  "scripture_refs": [
+    {
+      "ref": "EPH.2.20",
+      "relevance": "typological",
+      "reason": "Built on the foundation of the apostles — the two apostolic saints flanking the central figure"
+    },
+    {
+      "ref": "JHN.14.8",
+      "relevance": "primary",
+      "reason": "Philip asking Jesus to show them the Father — his defining moment as a searching apostle"
+    },
+    {
+      "ref": "ACT.12.2",
+      "relevance": "primary",
+      "reason": "James killed with the sword by Herod — the first apostle martyred"
+    },
+    {
+      "ref": "JHN.1.46",
+      "relevance": "allusion",
+      "reason": "Philip's invitation 'Come and see' — his evangelistic role in bringing others to Christ"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "ancient",
+    "reverent",
+    "weathered",
+    "sacred"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0130820",
+    "title": "Triptych: Inner left Wing St. Philip, St. James the Great Right",
+    "artist": "Bernhard Strigel",
+    "model": "claude-opus-4-6"
+  }
+}

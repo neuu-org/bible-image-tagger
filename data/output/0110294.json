@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Sir Galahad",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Knights",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Achievement of the Holy Grail",
+  "tags": [
+    "holy-grail",
+    "arthurian-legend",
+    "angels",
+    "red-wings",
+    "knight",
+    "chalice",
+    "quest",
+    "altar",
+    "kneeling-figures",
+    "chapel",
+    "sacred-vessel",
+    "tapestry-design",
+    "lilies",
+    "armor",
+    "mystical-vision"
+  ],
+  "symbols": [
+    "grail on altar — the sacred vessel of redemption and divine presence",
+    "kneeling knight — the pure seeker who achieves the spiritual quest",
+    "angels with red wings — heavenly guardians of the sacred mystery",
+    "lilies and flowers — purity required to approach the holy",
+    "chapel or shrine — the sacred space of revelation"
+  ],
+  "description": "A wide horizontal tapestry-like composition divided into two main areas. On the left, armored knights and red-winged angels stand among flowers and lilies, with one knight kneeling before a vision. On the right, within a stone chapel or shrine, a figure lies on an altar or table attended by angels. The scene is rendered in rich reds, golds, greens, and earth tones with a flat, decorative quality characteristic of tapestry or mural design. The background is dark, with the figures illuminated against it.",
+  "theological_description": "The Quest for the Holy Grail, though rooted in medieval romance rather than Scripture, carries profound theological resonance as an allegory of the spiritual journey toward communion with God. In the Arthurian tradition, only Sir Galahad — the knight of perfect purity — achieves the Grail, an echo of Christ's teaching that 'Blessed are the pure in heart, for they will see God' (Matthew 5:8). The Grail itself, identified in the legends with the cup of the Last Supper, connects the Arthurian quest to Eucharistic theology. The angelic attendants guarding the sacred vessel parallel the cherubim who guard the Ark of the Covenant (Exodus 25:18-20) and the holy of holies. The kneeling knight before the altar evokes the posture of worship and the spiritual discipline required to approach the divine presence. While not a biblical narrative, the Grail legend was deliberately constructed by medieval theologians and poets as a Christological allegory — the quest for the Grail is the quest for Christ himself.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.5.8",
+      "relevance": "typological",
+      "reason": "Blessed are the pure in heart, for they shall see God — the theological principle underlying Galahad's unique worthiness"
+    },
+    {
+      "ref": "MAT.26.27-28",
+      "relevance": "allusion",
+      "reason": "The cup of the Last Supper, the traditional identification of the Holy Grail in Arthurian legend"
+    },
+    {
+      "ref": "HEB.9.3-4",
+      "relevance": "typological",
+      "reason": "The holy of holies containing the sacred vessels — the Grail chapel as a new holy of holies"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "mystical",
+    "reverent",
+    "triumphant",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0110294",
+    "title": "The Achievement of the Grail",
+    "artist": "Edward Burne-Jones",
+    "model": "claude-opus-4-6"
+  }
+}

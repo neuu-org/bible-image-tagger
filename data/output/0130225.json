@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Delilah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Samson",
+      "type": "PERSON"
+    },
+    {
+      "name": "Philistine servant",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Delilah cutting Samson's hair while he sleeps",
+  "tags": [
+    "samson-and-delilah",
+    "betrayal",
+    "hair-cutting",
+    "sleeping-hero",
+    "treachery",
+    "seduction",
+    "loss-of-strength",
+    "philistine-conspiracy",
+    "old-testament-narrative",
+    "vulnerability"
+  ],
+  "symbols": [
+    "Samson's hair being cut — loss of the Nazirite vow and divine strength",
+    "sleeping Samson — vulnerability through misplaced trust",
+    "Delilah's composed gaze — calculated betrayal disguised as intimacy",
+    "servant with scissors — the Philistine conspiracy enacted through a proxy",
+    "rich garments and jewelry — the wealth Delilah received for her treachery",
+    "darkness — moral and spiritual blindness"
+  ],
+  "description": "A darkly lit scene showing a muscular man (Samson) asleep on a richly embroidered cushion, his head resting heavily. Above him, a beautiful woman (Delilah) with auburn hair adorned with pearls and wearing an elegant dress with red accents looks down with a composed, calculating expression. To the left, a young man in a red garment leans forward, cutting or handling Samson's hair. The scene is tightly composed with dramatic chiaroscuro, concentrating attention on the act of betrayal.",
+  "theological_description": "The betrayal of Samson by Delilah is one of the Old Testament's most cautionary narratives about the catastrophic consequences of spiritual compromise. Samson, a Nazirite dedicated to God from the womb (Judges 13:5), possessed supernatural strength as long as his vow remained unbroken — symbolized by his uncut hair. Delilah's persistent seduction and Samson's eventual capitulation (Judges 16:16-17) represent the gradual erosion of consecration through worldly entanglement. When his hair is cut, 'the LORD had departed from him' (Judges 16:20) — the most devastating statement in the narrative. This scene warns of the spiritual danger James describes: 'each person is tempted when they are dragged away by their own evil desire and enticed. Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death' (James 1:14-15). Samson's fall typologically anticipates every believer's vulnerability when they exchange the power of consecration for the pleasures of compromise. Yet even Samson's story ends in restoration — his hair grows back, and in his final act he calls upon the Lord once more (Judges 16:28-30), testifying that God's mercy extends even to those who have fallen furthest.",
+  "scripture_refs": [
+    {
+      "ref": "JDG.16.17-20",
+      "relevance": "primary",
+      "reason": "The direct narrative depicted — Delilah learning Samson's secret and having his hair cut, causing the Lord's departure"
+    },
+    {
+      "ref": "JDG.13.5",
+      "relevance": "primary",
+      "reason": "Samson's Nazirite vow from birth — the razor was never to touch his head"
+    },
+    {
+      "ref": "JDG.16.4-5",
+      "relevance": "primary",
+      "reason": "The Philistine lords bribing Delilah to discover the source of Samson's strength"
+    },
+    {
+      "ref": "JAS.1.14-15",
+      "relevance": "typological",
+      "reason": "Desire leading to sin leading to death — the theological pattern of Samson's downfall through seduction"
+    },
+    {
+      "ref": "PRO.5.3-5",
+      "relevance": "allusion",
+      "reason": "The seductive woman whose lips drip honey but whose end is bitter — Delilah as the archetype"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "treacherous",
+    "tense",
+    "intimate",
+    "ominous"
+  ],
+  "period": "Conquest",
+  "_meta": {
+    "key": "0130225",
+    "title": "Samson and Dalila",
+    "artist": "Jacopo Vignali",
+    "model": "claude-opus-4-6"
+  }
+}

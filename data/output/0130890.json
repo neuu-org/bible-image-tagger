@@ -1,0 +1,71 @@
+{
+  "key": "0130890",
+  "title": "Hagar and Ishmael",
+  "artist": "Gustave Dore",
+  "description": "A black-and-white engraving depicting a barren, rocky wilderness. A woman kneels in the center foreground, her hands clasped and raised in anguished prayer, her face turned upward. She wears flowing robes and a head covering. To her right, a young boy lies motionless on the stony ground, his body limp and his face turned away. Massive craggy rock formations rise steeply behind them, creating a sense of enclosure and desolation. Sparse vegetation clings to the rocks. The sky is rendered with fine crosshatched lines suggesting harsh light.",
+  "theological_description": "This scene depicts the expulsion of Hagar and Ishmael from Abraham's household as recorded in Genesis 21:8-21. After Sarah demanded that Abraham send away the slave woman and her son so Ishmael would not share in Isaac's inheritance, Abraham reluctantly complied at God's reassurance that He would also make a nation of Ishmael. Hagar wandered in the wilderness of Beersheba until their water ran out. Unable to bear watching her child die, she placed Ishmael under a bush and sat at a distance, weeping. God heard the boy's cry, and the angel of God called to Hagar from heaven, reassuring her and opening her eyes to see a well of water, saving both their lives. This episode is theologically rich on multiple levels. It reveals God's compassion for the marginalized and rejected -- a foreign slave woman cast out into the desert. The name Ishmael ('God hears') is vindicated as God literally hears the boy's distress. Paul later interprets Hagar and Sarah allegorically as representing the old and new covenants (Galatians 4:21-31). The narrative also establishes the Ishmaelite lineage, honoring God's promise to Abraham that Ishmael too would become a great nation (Genesis 17:20).",
+  "characters": [
+    {
+      "name": "Hagar",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ishmael",
+      "type": "PERSON"
+    }
+  ],
+  "tags": [
+    "hagar-and-ishmael",
+    "wilderness",
+    "expulsion",
+    "despair",
+    "divine-provision",
+    "beersheba",
+    "prayer",
+    "thirst",
+    "desolation"
+  ],
+  "event": "Hagar and Ishmael Cast into the Wilderness",
+  "scene_type": "narrative",
+  "mood": [
+    "despairing",
+    "desolate",
+    "anguished",
+    "poignant"
+  ],
+  "period": "Patriarchal",
+  "scripture_refs": [
+    {
+      "reference": "Gen.21.14-16",
+      "relevance": "primary",
+      "reason": "Hagar wanders in the wilderness of Beersheba, the water runs out, and she places Ishmael under a bush, unable to watch him die"
+    },
+    {
+      "reference": "Gen.21.17-19",
+      "relevance": "primary",
+      "reason": "God hears the boy's voice, the angel calls to Hagar from heaven, and God opens her eyes to see a well of water"
+    },
+    {
+      "reference": "Gen.21.9-13",
+      "relevance": "primary",
+      "reason": "Sarah demands the expulsion of Hagar and Ishmael; God tells Abraham to comply but promises to make Ishmael a nation"
+    },
+    {
+      "reference": "Gen.17.20",
+      "relevance": "allusion",
+      "reason": "God's earlier promise to Abraham that Ishmael would be blessed and become the father of twelve princes and a great nation"
+    },
+    {
+      "reference": "Gal.4.21-31",
+      "relevance": "typological",
+      "reason": "Paul's allegorical interpretation of Hagar and Sarah as representing the covenants of law and promise"
+    }
+  ],
+  "_meta": {
+    "key": "0130890",
+    "title": "Hagar and Ishmael",
+    "artist": "Gustave Dore",
+    "model": "claude-opus-4-6"
+  },
+  "symbols": []
+}

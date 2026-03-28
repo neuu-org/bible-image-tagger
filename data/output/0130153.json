@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Angel bearing the inscription INRI from Christ's cross",
+  "tags": [
+    "angel",
+    "inri",
+    "passion-of-christ",
+    "terracotta-sculpture",
+    "winged-figure",
+    "flowing-drapery",
+    "crucifixion-relic",
+    "heavenly-messenger",
+    "dynamic-pose",
+    "cloud-base"
+  ],
+  "symbols": [
+    "wings — angelic nature and heavenly origin",
+    "flowing drapery — divine wind and spiritual motion",
+    "INRI inscription (implied) — the titulus crucis, 'Jesus of Nazareth, King of the Jews'",
+    "cloud base — the angel descending from or ascending to heaven",
+    "dynamic twisting pose — urgency of the heavenly mission"
+  ],
+  "description": "A terracotta sculpture of a winged angel in dynamic motion, standing on a swirling cloud base. The figure wears heavily draped robes that billow and twist around the body, creating a sense of spiraling movement. One large wing is visible extending from the back. The angel's head is slightly bowed and turned, with curly hair. The arms are positioned as if once holding a tablet or scroll — the INRI inscription from Christ's cross. The warm reddish-brown of the terracotta is unglazed, showing fine surface texture.",
+  "theological_description": "This angel is one of a series created to bear the instruments of Christ's Passion along the Ponte Sant'Angelo in Rome. The INRI inscription — 'Iesus Nazarenus Rex Iudaeorum' (Jesus of Nazareth, King of the Jews) — was the titulus placed above Christ on the cross by order of Pontius Pilate (John 19:19-22). What Pilate intended as mockery became an unwitting proclamation of truth: Jesus is indeed the King. The chief priests protested the wording, but Pilate's famous reply, 'What I have written, I have written,' sealed the prophetic declaration. The angel bearing this inscription transforms an instrument of humiliation into a trophy of divine victory. Angels, who desired to look into the mystery of salvation (1 Peter 1:12), here serve as custodians of the Passion's sacred artifacts, testifying that every detail of Christ's suffering carried cosmic significance. The dynamic, wind-swept pose suggests the angel moves between heaven and earth, mediating the meaning of the cross to all who behold it.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.19-22",
+      "relevance": "primary",
+      "reason": "The INRI inscription placed on the cross by Pilate is the specific object this angel bears"
+    },
+    {
+      "ref": "PHP.2.9-11",
+      "relevance": "typological",
+      "reason": "God exalted Christ and gave Him the name above every name — the INRI becomes a proclamation of kingship"
+    },
+    {
+      "ref": "1PE.1.12",
+      "relevance": "allusion",
+      "reason": "Angels longing to look into the mystery of salvation, here serving as bearers of its instruments"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "reverent",
+    "dynamic",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130153",
+    "title": "Angel with the Inscription of I.N.R.I.",
+    "artist": "Gian Lorenzo Bernini",
+    "model": "claude-opus-4-6"
+  }
+}

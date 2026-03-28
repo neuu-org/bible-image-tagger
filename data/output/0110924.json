@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "King Hezekiah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Prophet Isaiah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Dying King Hezekiah Visited by the Prophet",
+  "tags": [
+    "hezekiah",
+    "prophet-isaiah",
+    "sickbed",
+    "deathbed-scene",
+    "royal-chamber",
+    "yellow-robes",
+    "white-garments",
+    "raised-hands",
+    "supplication",
+    "divine-intervention",
+    "healing",
+    "prayer-for-life",
+    "courtiers-weeping"
+  ],
+  "symbols": [
+    "dying king on bed — the mortal vulnerability of even the most powerful ruler",
+    "standing figure in white — the prophet as God's messenger bringing both judgment and hope",
+    "raised hands — the king's desperate prayer for healing and extended life",
+    "weeping attendants — the grief of the court at the prospect of the king's death",
+    "golden robe of the king — royal dignity maintained even in illness"
+  ],
+  "description": "A dramatic interior scene showing an elderly bearded man in rich golden robes lying on a bed, hands raised in a gesture of supplication or prayer. A younger figure in white garments stands beside him, apparently speaking or delivering a message. Other figures stand behind, some weeping or gesturing in distress. The scene is dimly lit with warm tones, creating an atmosphere of urgency and emotional tension. The composition focuses on the interaction between the prone figure and the standing messenger.",
+  "theological_description": "This scene depicts the illness of King Hezekiah and the visit of the prophet Isaiah, as recorded in 2 Kings 20 and Isaiah 38. Hezekiah, one of Judah's most faithful kings, fell mortally ill, and Isaiah delivered God's message: 'Set your house in order, for you shall die' (2 Kings 20:1). But Hezekiah turned his face to the wall and prayed to the Lord, weeping bitterly, recounting his faithful service. Before Isaiah had even left the middle court, God sent him back with a new message: 'I have heard your prayer, I have seen your tears; I will heal you... I will add fifteen years to your life' (2 Kings 20:5-6). This episode demonstrates several theological truths: the efficacy of fervent prayer, God's compassion in response to human suffering, and the reality that even divine pronouncements can be conditional — God responds to genuine repentance and intercession. Hezekiah's healing also received a sign: the shadow on the sundial retreated ten steps, demonstrating God's sovereign power over the natural order. The scene captures the pivotal moment between death sentence and reprieve, between human desperation and divine mercy.",
+  "scripture_refs": [
+    {
+      "ref": "2KI.20.1-6",
+      "relevance": "primary",
+      "reason": "Hezekiah's illness, Isaiah's visit, the king's prayer, and God's promise to add fifteen years"
+    },
+    {
+      "ref": "ISA.38.1-8",
+      "relevance": "primary",
+      "reason": "Isaiah's parallel account of Hezekiah's illness, prayer, and the sign of the retreating shadow"
+    },
+    {
+      "ref": "PSA.6.2-4",
+      "relevance": "allusion",
+      "reason": "Be merciful to me, Lord, for I am faint — the psalmist's prayer in illness echoed by Hezekiah"
+    },
+    {
+      "ref": "JAS.5.16",
+      "relevance": "typological",
+      "reason": "The prayer of a righteous person is powerful and effective — demonstrated by Hezekiah's answered prayer"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "urgent",
+    "emotional",
+    "dramatic",
+    "hopeful"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0110924",
+    "title": "Il profeta Ezechia morente",
+    "artist": "Domenico Fiasella",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Simon of Cyrene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd and Onlookers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Mounted Officers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ carrying the cross to Calvary",
+  "tags": [
+    "carrying-the-cross",
+    "via-dolorosa",
+    "way-to-calvary",
+    "fallen-christ",
+    "crown-of-thorns",
+    "blue-robe",
+    "soldiers",
+    "horsemen",
+    "crowd",
+    "spears",
+    "armor",
+    "simon-of-cyrene",
+    "hill-landscape",
+    "arched-panel",
+    "passion-narrative"
+  ],
+  "symbols": [
+    "heavy wooden cross — the burden of sin Christ bears for humanity",
+    "fallen Christ under the cross — the crushing weight of human sin",
+    "crown of thorns — mockery turned to glory, kingship through suffering",
+    "soldiers and horsemen — the worldly powers executing God's redemptive plan",
+    "pressing crowd — humanity both perpetrating and witnessing the Passion",
+    "road to Calvary — the Via Dolorosa, the way of suffering that leads to redemption",
+    "green hills beyond — Golgotha awaiting, the destination of salvific death"
+  ],
+  "description": "A large arched-top panel painting depicting Christ fallen to his knees under the weight of the heavy wooden cross during the procession to Calvary. Christ wears a blue robe and crown of thorns, his face expressing exhaustion and suffering. Around him, a dense crowd of soldiers in armor, onlookers, and mounted officers on horseback press forward. Some figures push Christ onward while others observe. The crowd is rendered in vivid detail with colorful period clothing, red caps, and gleaming armor. Spears and weapons bristle above the crowd.",
+  "theological_description": "Christ Carrying the Cross depicts the Via Dolorosa, the sorrowful way from Pilate's court to Golgotha. All four Gospels record this procession, with the Synoptics noting that Simon of Cyrene was compelled to carry the cross (Mark 15:21). John emphasizes that Jesus carried the cross 'by himself' (John 19:17), underscoring the solitary nature of his atoning work. The image of Christ fallen under the cross's weight gives visual form to Isaiah 53:4: 'Surely he has borne our griefs and carried our sorrows.' The cross is not merely wood but the accumulated weight of human sin — as Paul writes, 'He who knew no sin became sin for us' (2 Corinthians 5:21). Christ's willingness to bear this burden fulfills his own words: 'The Son of Man came not to be served but to serve, and to give his life as a ransom for many' (Mark 10:45). The pressing, hostile crowd represents humanity in its blindness, not recognizing that the one they torment is their Redeemer. Yet even here, Jesus instructs: 'If anyone would come after me, let him deny himself and take up his cross daily and follow me' (Luke 9:23) — making the cross not just Christ's burden but the pattern for every disciple's life.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17",
+      "relevance": "primary",
+      "reason": "Jesus went out bearing his own cross to Golgotha — the event directly depicted"
+    },
+    {
+      "ref": "MRK.15.21",
+      "relevance": "primary",
+      "reason": "Simon of Cyrene compelled to carry the cross — visible in the scene"
+    },
+    {
+      "ref": "ISA.53.4",
+      "relevance": "typological",
+      "reason": "He bore our griefs and carried our sorrows — the theological weight of the cross"
+    },
+    {
+      "ref": "LUK.23.26-31",
+      "relevance": "primary",
+      "reason": "Luke's account of the way to Calvary including Jesus's words to the daughters of Jerusalem"
+    },
+    {
+      "ref": "2CO.5.21",
+      "relevance": "allusion",
+      "reason": "He who knew no sin became sin for us — the invisible burden the cross represents"
+    },
+    {
+      "ref": "LUK.9.23",
+      "relevance": "allusion",
+      "reason": "Take up your cross daily and follow me — the universal application of Christ's cross-bearing"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "oppressive",
+    "sorrowful",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100522",
+    "title": "Christ Carrying the Cross",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

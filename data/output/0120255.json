@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Holy Spirit (as dove)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "virgin-mary",
+    "archangel-gabriel",
+    "holy-spirit-dove",
+    "lily",
+    "book",
+    "red-background",
+    "dark-robes",
+    "divine-message",
+    "two-women-figures"
+  ],
+  "symbols": [
+    "lily held aloft — purity of the Virgin and the virginal conception",
+    "dove descending between the figures — the Holy Spirit overshadowing Mary",
+    "open book — the Scriptures being fulfilled in this moment",
+    "red background — divine love, the fire of the Spirit, and the blood of redemption to come"
+  ],
+  "description": "Two female figures stand facing each other against a vivid red background. On the left, a woman in a dark burgundy dress holds a spray of white lilies upward in her right hand. On the right, a darker-robed figure with a head covering holds an open book and raises one hand. Between them, a white dove descends from above. The style is expressionist with bold, thick brushwork and saturated colors. A small triangular red form appears in the lower right.",
+  "theological_description": "This Annunciation presents the encounter between Gabriel and Mary in boldly expressionist terms. The angel announces to Mary: 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God' (Luke 1:35). The descending dove makes the Holy Spirit's role visible — the same Spirit that hovered over the waters at creation (Genesis 1:2) now overshadows a young woman to begin the new creation. The lily, ancient symbol of purity, affirms the virginal conception prophesied by Isaiah: 'The virgin will conceive and give birth to a son' (Isaiah 7:14). The intense red background may evoke the burning love of God that initiates the Incarnation — 'God so loved the world that he gave his one and only Son' (John 3:16). Mary's consent, her fiat — 'I am the Lord's servant; may your word to me be fulfilled' (Luke 1:38) — is the human response that unlocks the door for the divine plan of redemption.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation — Gabriel's visit to Mary and the announcement of the Incarnation"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit coming upon Mary — represented by the descending dove"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive — the prophetic foundation for the Annunciation"
+    },
+    {
+      "ref": "JHN.3.16",
+      "relevance": "allusion",
+      "reason": "God's love sending his Son — the theological motive behind the Incarnation depicted here"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intense",
+    "sacred",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120255",
+    "title": "La Anunciacion",
+    "artist": "Andres de Santa Maria",
+    "model": "claude-opus-4-6"
+  }
+}

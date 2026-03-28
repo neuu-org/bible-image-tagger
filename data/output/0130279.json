@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Last Supper — Jesus institutes the Eucharist with His apostles",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "apostles",
+    "bread-and-wine",
+    "jesus-christ",
+    "passover-meal",
+    "upper-room",
+    "institution-of-communion",
+    "halo",
+    "dramatic-light",
+    "betrayal-announcement"
+  ],
+  "symbols": [
+    "radiant halo around Christ — divine glory and the light of the world",
+    "bread on the table — the body of Christ given for humanity",
+    "cup — the blood of the new covenant",
+    "gathered twelve — the fullness of the new Israel",
+    "curtain in background — the veil between earth and heaven, soon to be torn",
+    "dramatic central light — Christ as the source of illumination amid the darkness of betrayal"
+  ],
+  "description": "A detailed engraving depicting Jesus Christ seated at the center of a long table, surrounded by His twelve apostles in a columned upper room. Christ is illuminated by a radiant halo or nimbus, creating a dramatic contrast with the darker surroundings. The apostles are arranged in animated groups on either side, some leaning toward Christ, others in gestures of surprise, discussion, or distress. Bread and cups are visible on the table. A heavy curtain hangs in the background. The scene is rendered in fine crosshatching typical of a master engraver.",
+  "theological_description": "The Last Supper is the culminating meal of Jesus's earthly ministry, at which He transforms the Passover into the sacrament of the New Covenant. Taking bread, He broke it and said, 'This is my body, which is given for you. Do this in remembrance of me.' And likewise the cup after they had eaten, saying, 'This cup that is poured out for you is the new covenant in my blood' (Luke 22:19-20). This institution of the Eucharist fulfills and surpasses the old Passover — just as the blood of the lamb on the doorposts in Egypt delivered Israel from the angel of death (Exodus 12:13), so Christ's blood shed on the cross delivers all who believe from eternal death. The dramatic lighting emanating from Christ fulfills His own declaration: 'I am the light of the world' (John 8:12). The tension among the apostles reflects the moment when Jesus announces, 'Truly I tell you, one of you will betray me' (Matthew 26:21), introducing the shadow of Judas's treachery into this sacred meal. Paul later codifies the theological significance: 'For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes' (1 Corinthians 11:26).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "primary",
+      "reason": "Jesus taking bread and cup and instituting the Eucharist — the central event depicted"
+    },
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "The institution of the new covenant in Christ's blood during the Last Supper"
+    },
+    {
+      "ref": "MAT.26.21",
+      "relevance": "primary",
+      "reason": "Jesus's announcement that one of the twelve will betray Him, causing the apostles' distress"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "typological",
+      "reason": "Paul's account of the Lord's Supper tradition and its meaning — proclaiming Christ's death until He comes"
+    },
+    {
+      "ref": "EXO.12.13",
+      "relevance": "typological",
+      "reason": "The Passover lamb's blood as the Old Covenant type of Christ's blood shed in the New Covenant"
+    },
+    {
+      "ref": "JHN.8.12",
+      "relevance": "allusion",
+      "reason": "Christ as the light of the world — visually expressed by the radiance surrounding Him"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "dramatic",
+    "sacred",
+    "tense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130279",
+    "title": "The Last Supper",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

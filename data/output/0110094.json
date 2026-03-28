@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Woman Taken in Adultery",
+      "type": "PERSON"
+    },
+    {
+      "name": "Market Vendors",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ and the Woman Taken in Adultery at the Market",
+  "tags": [
+    "market-scene",
+    "woman-taken-in-adultery",
+    "forgiveness",
+    "fruit-market",
+    "vegetables",
+    "abundance",
+    "foreground-still-life",
+    "background-narrative",
+    "daily-life",
+    "sacred-hidden-in-profane",
+    "commerce",
+    "mercy",
+    "judgment",
+    "crowd-scene",
+    "inverted-composition"
+  ],
+  "symbols": [
+    "market abundance in foreground — worldly preoccupation that obscures the sacred event",
+    "Christ and the woman in background — the sacred hidden within everyday life",
+    "fruits and vegetables — the earthly goods that distract from spiritual truth",
+    "crowd gathered around Christ — those who witness but may not comprehend divine mercy"
+  ],
+  "description": "A large market scene dominates the foreground, with vendors and shoppers surrounded by abundant displays of fruits, vegetables, poultry, and other goods. Women in colorful dress sit among baskets of produce. In the background at left, partially obscured by the market bustle, a group of figures in biblical dress gathers around a central standing figure — the narrative episode of Christ and the adulteress. The composition gives primary visual weight to the market activity, with the biblical scene pushed to the margins, creating an inverted hierarchy between sacred event and daily commerce.",
+  "theological_description": "Pieter Aertsen's characteristic 'inverted still life' composition places the market scene in the foreground while relegating the encounter between Christ and the woman taken in adultery to the background. This compositional strategy carries profound theological meaning: the sacred event of divine mercy occurs within the midst of ordinary human commerce, visible to those with eyes to see but easily overlooked by those absorbed in worldly pursuits. The gospel episode (John 8:1-11) recounts the scribes and Pharisees bringing a woman caught in adultery to Jesus, testing whether he would uphold the Mosaic law of stoning. Jesus's response — 'Let him who is without sin cast the first stone' — exposed the hypocrisy of the accusers and extended mercy to the condemned. By embedding this scene within a market, the artist suggests that Christ's mercy is present in the midst of daily life, not confined to sacred spaces. The overwhelming abundance of earthly goods in the foreground serves as a visual parable about the danger of materialism obscuring spiritual reality, echoing Christ's warning that one cannot serve both God and mammon (Matthew 6:24).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.8.1-11",
+      "relevance": "primary",
+      "reason": "The episode of Christ and the woman taken in adultery — 'Let him who is without sin cast the first stone'"
+    },
+    {
+      "ref": "MAT.6.24",
+      "relevance": "allusion",
+      "reason": "The compositional dominance of market goods over the sacred scene echoes the warning about serving God and mammon"
+    },
+    {
+      "ref": "ROM.2.1",
+      "relevance": "typological",
+      "reason": "Paul's teaching that in judging others we condemn ourselves — the theological core of Christ's response to the accusers"
+    },
+    {
+      "ref": "MAT.9.13",
+      "relevance": "allusion",
+      "reason": "Jesus's declaration 'I desire mercy, not sacrifice' — divine mercy over legalistic judgment"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "bustling",
+    "layered",
+    "contemplative",
+    "ironic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110094",
+    "title": "Market with Christ and the Woman Taken in Adultery",
+    "artist": "Pieter Aertsen",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The arrest of Christ in the Garden of Gethsemane",
+  "tags": [
+    "arrest-of-christ",
+    "betrayal-kiss",
+    "judas",
+    "garden-of-gethsemane",
+    "soldiers",
+    "armor",
+    "torchlight",
+    "night-scene",
+    "seizing-jesus",
+    "passion-narrative",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "Judas reaching toward Christ — the betrayal by one of the Twelve",
+    "soldiers in armor — worldly power arrayed against the Son of God",
+    "darkness — the hour of evil and the power of darkness",
+    "Christ's calm amid the chaos — divine composure and willing submission",
+    "hands grasping Christ — the violence of the arrest contrasted with His non-resistance"
+  ],
+  "description": "A dramatically lit night scene showing the moment of Christ's arrest. At center, Jesus in a red robe stands with composed dignity as multiple figures seize Him. A figure in dark clothing (Judas) reaches toward Christ. Armored soldiers press in from both sides, one raising a weapon. Another figure in the group appears to resist or react. The scene is rendered in intense chiaroscuro, with strong light falling on the central figures against deep darkness. The expressions convey a range of emotions from aggression to anguish.",
+  "theological_description": "The arrest of Jesus in the Garden of Gethsemane marks the beginning of the Passion proper — the hour for which Christ came into the world. When Judas arrived with the armed band, Jesus did not flee but stepped forward, asking 'Who is it you want?' and declaring 'I am he' (John 18:4-5) — words that echo the divine name itself. His willing submission to arrest fulfills His own prayer: 'Not my will, but yours be done' (Luke 22:42). The contrast between the violence of the armed mob and Christ's serene dignity expresses the theological paradox that omnipotent God allows Himself to be bound by human hands. Jesus tells Peter to put away his sword, 'for all who draw the sword will die by the sword' (Matthew 26:52), revealing that the Kingdom of God advances not through violence but through self-sacrificial love. As Jesus Himself declared: 'This is your hour — when darkness reigns' (Luke 22:53). Yet even in this darkest moment, divine sovereignty is not absent: Christ goes willingly to His death, the Lamb of God offering Himself for the sins of the world.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.47-50",
+      "relevance": "primary",
+      "reason": "Judas arriving with an armed crowd to arrest Jesus — the direct event depicted"
+    },
+    {
+      "ref": "JHN.18.4-6",
+      "relevance": "primary",
+      "reason": "Jesus stepping forward and declaring 'I am he' — His willing submission visible in His composure"
+    },
+    {
+      "ref": "LUK.22.53",
+      "relevance": "primary",
+      "reason": "Jesus declaring this to be the hour when darkness reigns — the night setting embodies this"
+    },
+    {
+      "ref": "MAT.26.52",
+      "relevance": "allusion",
+      "reason": "Jesus telling Peter to put away his sword — the disciple's resistance visible in the scene"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "He was oppressed and afflicted, yet he did not open his mouth — Christ's composure amid violent arrest"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "tense",
+    "dramatic",
+    "ominous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130467",
+    "title": "Gefangennahme Christi",
+    "artist": "Dirck van Baburen",
+    "model": "claude-opus-4-6"
+  }
+}

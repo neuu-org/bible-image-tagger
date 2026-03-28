@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Annunciation and the Visitation",
+  "tags": [
+    "annunciation",
+    "visitation",
+    "angel-gabriel",
+    "virgin-mary",
+    "elizabeth",
+    "gothic-architecture",
+    "altarpiece-wing",
+    "lily",
+    "gold-ground",
+    "blue-robes",
+    "halo",
+    "diptych-narrative",
+    "god-the-father",
+    "mountainous-landscape",
+    "medieval-city",
+    "incarnation"
+  ],
+  "symbols": [
+    "kneeling angel with lily — Gabriel's annunciation of the incarnation, the lily symbolizing Mary's purity",
+    "Mary seated reading — receptivity to God's word and contemplative devotion",
+    "elaborate Gothic architecture — the temple or house of God where the divine message is received",
+    "God the Father in roundel above — the divine origin of the angel's mission",
+    "Mary and Elizabeth embracing at right — the Visitation and mutual recognition of God's work",
+    "mountainous landscape — the hill country of Judea where Elizabeth lived",
+    "halos — sanctity of the principal figures",
+    "blue robes of Mary — heavenly origin and purity"
+  ],
+  "description": "An altarpiece wing divided into two scenes. On the left, within an elaborate Gothic architectural setting, a kneeling angel in red robes presents a lily to a seated woman in blue who holds an open book. Above in a blue roundel, a bearded figure representing God appears. On the right, set against a rocky mountainous landscape, two haloed women in blue and dark robes embrace warmly outside a building entrance. The gold-ground painting features meticulous architectural detail, rich colors, and the characteristic pointed format of a Gothic altarpiece wing.",
+  "theological_description": "This altarpiece wing presents two pivotal moments in the infancy narrative that together frame the mystery of the Incarnation. In the Annunciation (left), Gabriel brings the divine message to Mary: 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you' (Luke 1:35). Mary's open book signifies her deep familiarity with Scripture and her readiness to receive God's word — her 'fiat' ('Let it be to me according to your word') becomes the hinge of salvation history. The lily represents her purity, while the elaborate temple-like architecture suggests that Mary herself becomes the new temple where God takes up residence in human flesh. The roundel of God the Father confirms that this annunciation is a mission from the Godhead. In the Visitation (right), Mary hastens to the hill country to visit her kinswoman Elizabeth, who is pregnant with John the Baptist. At Mary's greeting, the infant John leaps in Elizabeth's womb, and Elizabeth, filled with the Holy Spirit, cries out: 'Blessed are you among women, and blessed is the fruit of your womb!' (Luke 1:42). This scene inaugurates the Magnificat and demonstrates how the presence of Christ — even in utero — provokes prophetic recognition. Together, these scenes establish the theological framework for the entire gospel: God enters human history through a woman's consent, and divine grace is communicated through embodied encounter.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation: Gabriel's message to Mary and her acceptance of the divine plan"
+    },
+    {
+      "ref": "LUK.1.39-56",
+      "relevance": "primary",
+      "reason": "The Visitation: Mary visits Elizabeth, the infant John leaps, and Mary sings the Magnificat"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The prophecy that a virgin shall conceive and bear a son, fulfilled in the Annunciation"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Elizabeth's Spirit-filled exclamation: 'Blessed are you among women, and blessed is the fruit of your womb'"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "joyful",
+    "sacred",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110108",
+    "title": "Altar of Philip the Bold, Duke of Burgundy, left wing: Annunciation and Visitation",
+    "artist": "Melchior Broederlam",
+    "model": "claude-opus-4-6"
+  }
+}

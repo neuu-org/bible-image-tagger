@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Study drawing of Saint John the Evangelist",
+  "tags": [
+    "saint-john-evangelist",
+    "preparatory-drawing",
+    "standing-figure",
+    "flowing-robes",
+    "upward-gaze",
+    "eagle-at-feet",
+    "aged-paper",
+    "grid-lines",
+    "mannerist-figure"
+  ],
+  "symbols": [
+    "eagle at feet — the traditional symbol of Saint John the Evangelist",
+    "upward gaze — the soaring theological vision of John's Gospel",
+    "flowing robes — apostolic dignity",
+    "grid lines — preparatory study for a larger composition"
+  ],
+  "description": "A preparatory drawing on aged, damaged paper showing a standing figure in voluminous flowing robes, gazing upward with one hand raised. The figure has an elongated, mannerist proportion. At the lower right, the partial form of an eagle is visible — the traditional symbol of John the Evangelist. Grid lines are faintly visible across the drawing. An inscription at the bottom reads partially. The drawing is rendered in brown ink or wash with loose, confident strokes characteristic of El Greco's style.",
+  "theological_description": "Saint John the Evangelist, the beloved disciple, is traditionally symbolized by the eagle because his Gospel soars to the highest theological heights, beginning not with the earthly genealogy or birth narrative but with the eternal Word: 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1). The eagle at John's feet in this drawing identifies him as the theologian whose vision penetrates to the divine mystery itself. His upward gaze reflects the contemplative spirituality that produced the most profound christological declarations in the New Testament: 'No one has ever seen God, but the one and only Son, who is himself God and is in closest relationship with the Father, has made him known' (John 1:18). John's intimate relationship with Christ — leaning on His breast at the Last Supper (John 13:23) — gave him unique insight into the mystery of divine love, leading to his great declaration: 'God is love' (1 John 4:8).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.1",
+      "relevance": "primary",
+      "reason": "In the beginning was the Word — John's soaring theological prologue, symbolized by the eagle"
+    },
+    {
+      "ref": "JHN.1.18",
+      "relevance": "allusion",
+      "reason": "The only Son making the Father known — John's unique theological contribution"
+    },
+    {
+      "ref": "1JN.4.8",
+      "relevance": "allusion",
+      "reason": "God is love — the summit of John's theological vision"
+    },
+    {
+      "ref": "JHN.13.23",
+      "relevance": "allusion",
+      "reason": "The beloved disciple leaning on Jesus's breast — the intimacy that informed John's theology"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "elevated",
+    "inspired"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0130883",
+    "title": "Saint John the Evangelist",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Worshippers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Worship gathering inside a cathedral",
+  "tags": [
+    "cathedral-interior",
+    "gothic-arches",
+    "stained-glass-windows",
+    "worship",
+    "congregation",
+    "vibrant-colors",
+    "sacred-space",
+    "expressionist-rendering",
+    "nave",
+    "liturgy"
+  ],
+  "symbols": [
+    "soaring arches — aspiration toward the divine and the grandeur of God's dwelling",
+    "stained glass windows — divine light filtered through sacred narrative",
+    "gathered congregation — the body of Christ assembled in worship",
+    "explosion of color — the multifaceted glory of God's creation"
+  ],
+  "description": "An expressionistic painting of a cathedral interior viewed along the nave toward the altar. Tall Gothic arches soar upward, framed by vibrant stained-glass windows rendered in bold reds, yellows, greens, and blues. A crowd of small figures fills the lower portion, gathered in the nave. The brushwork is loose and energetic, with thick impasto strokes creating a sense of movement and spiritual dynamism. The overall effect is one of overwhelming color and vertical space.",
+  "theological_description": "The cathedral as sacred space embodies the Christian conviction that God dwells among His people. The soaring Gothic arches direct the eye and the spirit heavenward, expressing the Psalmist's longing: 'One thing I ask from the LORD, this only do I seek: that I may dwell in the house of the LORD all the days of my life' (Psalm 27:4). The stained-glass windows, filtering divine light into a spectrum of colors, symbolize the many facets of God's revelation transmitted through Scripture and tradition. The gathered congregation below fulfills Christ's promise: 'For where two or three gather in my name, there am I with them' (Matthew 18:20). The expressionistic energy of the rendering suggests that worship is not static ritual but living encounter with the divine — the Spirit moving among the people as wind and fire.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.27.4",
+      "relevance": "allusion",
+      "reason": "The desire to dwell in the house of the Lord — embodied in the cathedral's beauty"
+    },
+    {
+      "ref": "MAT.18.20",
+      "relevance": "allusion",
+      "reason": "Where two or three gather in Christ's name, He is present — the gathered congregation"
+    },
+    {
+      "ref": "PSA.122.1",
+      "relevance": "allusion",
+      "reason": "Rejoicing at the invitation to go to the house of the Lord — the assembled worshippers"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "exuberant",
+    "reverent",
+    "vibrant",
+    "transcendent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0130261",
+    "title": "Cathedral",
+    "artist": "George Stefanescu",
+    "model": "claude-opus-4-6"
+  }
+}

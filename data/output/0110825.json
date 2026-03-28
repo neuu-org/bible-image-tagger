@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mourner",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Dead Christ (Lamentation)",
+  "tags": [
+    "dead-christ",
+    "foreshortened-body",
+    "lamentation",
+    "stone-slab",
+    "wounds-visible",
+    "nail-wounds-in-feet",
+    "draped-cloth",
+    "mourning-figure",
+    "radical-perspective",
+    "pierced-hands",
+    "grey-flesh",
+    "deathly-pallor",
+    "dramatic-foreshortening"
+  ],
+  "symbols": [
+    "foreshortened body viewed from feet — the viewer drawn directly into confrontation with Christ's death",
+    "visible nail wounds in feet and hands — the marks of crucifixion, the price of redemption",
+    "stone slab — the cold reality of the tomb and death",
+    "mourning figure at left — the grief of those who loved Christ",
+    "grey, lifeless flesh — the full reality of Christ's true death"
+  ],
+  "description": "A dramatically foreshortened view of the dead body of Christ lying on a stone slab, viewed from the feet. The body is rendered with unflinching realism — the grey pallor of death, the nail wounds visible in the soles of the feet and the hands, the draped white cloth covering the midsection. The figure's torso and face recede in sharp perspective. At upper left, a mourning figure with deeply lined, weeping face is visible. The entire composition is dominated by the physicality of the dead body, creating an intensely confrontational image of death.",
+  "theological_description": "Mantegna's revolutionary foreshortened Dead Christ is one of the most theologically challenging images in Christian art. By positioning the viewer at Christ's feet — the very feet that walked on water, that were anointed by the sinful woman, that were nailed to the cross — the painting demands direct confrontation with the reality of the Incarnation's ultimate consequence: God truly died. The radical foreshortening eliminates any aesthetic distance; the viewer cannot escape into contemplative remove but must stand before the cold, grey fact of death. The visible nail wounds are not ornamental but forensic — evidence of the method of execution that accomplished the world's salvation. The mourning figure at left, ravaged by grief, represents the human response to this impossible fact: the Creator of life lies lifeless. Yet within this unflinching depiction of death lies the seed of resurrection hope. The same body that lies here in deathly stillness is the body that will rise on the third day — 'Destroy this temple, and in three days I will raise it up' (John 2:19). The tomb stone becomes the altar upon which the sacrifice is completed.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "The preparation and burial of Christ's body — the moment this painting depicts"
+    },
+    {
+      "ref": "JHN.2.19-21",
+      "relevance": "typological",
+      "reason": "Destroy this temple and I will raise it in three days — he was speaking of the temple of his body"
+    },
+    {
+      "ref": "ISA.53.9",
+      "relevance": "typological",
+      "reason": "He was assigned a grave — the prophetic template for Christ's burial"
+    },
+    {
+      "ref": "1CO.15.3-4",
+      "relevance": "typological",
+      "reason": "Christ died, was buried, and was raised on the third day — the kerygmatic summary this scene partially depicts"
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "typological",
+      "reason": "Baptized into his death and buried with him — the viewer's confrontation with Christ's death as participation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "confrontational",
+    "somber",
+    "stark",
+    "grief-stricken"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110825",
+    "title": "The Dead Christ (Lamentation of Christ)",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Monks and clergy",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Burial of Saint Jerome",
+  "tags": [
+    "saint-jerome",
+    "burial",
+    "funeral-rite",
+    "monks",
+    "palm-tree",
+    "monastery-courtyard",
+    "mourning",
+    "church-father",
+    "prostrate-body",
+    "reading-liturgy",
+    "kneeling-friars"
+  ],
+  "symbols": [
+    "body laid on the ground — humility in death and return to the earth",
+    "monks reading over the body — the liturgy of the dead and the commendation of the soul",
+    "palm tree — the Holy Land where Jerome lived and translated the Scriptures",
+    "kneeling figures — grief and reverence for the great Doctor of the Church",
+    "open book — Jerome's lifework of translating the Bible into Latin"
+  ],
+  "description": "A wide-format painting showing the funeral of Saint Jerome in a courtyard or monastery setting. The body of Jerome, thin and aged, lies on the ground in the center, surrounded by groups of kneeling and standing monks, friars, and clergy. Some read from books, others pray with hands clasped. On the left, a figure in white holds a book aloft. A tall palm tree rises at the center of the composition. The background shows Mediterranean-style buildings with flat roofs and arched doorways. A few figures on horseback or on foot go about daily activities in the middle distance.",
+  "theological_description": "Saint Jerome (c. 347-420), the great Doctor of the Church who translated the Bible into Latin (the Vulgate), dedicated his life to making Scripture accessible to the faithful. His burial scene resonates with the biblical theme of the faithful servant entering rest. Jerome's lifework fulfilled the conviction of 2 Timothy 3:16: 'All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness.' The open book read over his body symbolizes both the liturgy of the dead and Jerome's own devotion to the sacred text. His death in Bethlehem, near the very cave where Christ was born, connects Jerome to the Incarnation he spent his life proclaiming through translation. The monks surrounding him embody the community of faith that preserves and transmits the Word — 'the word of the Lord endures forever' (1 Peter 1:25). Jerome himself declared: 'Ignorance of the Scriptures is ignorance of Christ,' a principle rooted in Jesus's own words: 'You diligently study the Scriptures because you think that in them you have eternal life. These are the very Scriptures that testify about me' (John 5:39).",
+  "scripture_refs": [
+    {
+      "ref": "2TI.3.16",
+      "relevance": "typological",
+      "reason": "All Scripture is God-breathed — Jerome's lifework of translating the Bible rested on this conviction"
+    },
+    {
+      "ref": "JHN.5.39",
+      "relevance": "allusion",
+      "reason": "The Scriptures testifying about Christ — Jerome's great translation project served this purpose"
+    },
+    {
+      "ref": "1PE.1.25",
+      "relevance": "allusion",
+      "reason": "The word of the Lord enduring forever — Jerome's translation preserved Scripture for centuries"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "mournful",
+    "reverent",
+    "peaceful"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0130664",
+    "title": "Burial of St. Jerome",
+    "artist": "Vittore Carpaccio",
+    "model": "claude-opus-4-6"
+  }
+}

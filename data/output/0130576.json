@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Shepherds at the Nativity",
+  "tags": [
+    "adoration-of-shepherds",
+    "nativity",
+    "christ-child",
+    "virgin-mary",
+    "joseph",
+    "shepherds",
+    "rocky-cave",
+    "kneeling-worship",
+    "landscape-background",
+    "incarnation",
+    "humble-birth"
+  ],
+  "symbols": [
+    "infant on the ground — the humility of God made flesh",
+    "rocky cave or grotto — the lowly shelter of the King of Kings",
+    "kneeling shepherds — the humble as the first recipients of the Gospel",
+    "open landscape — the wider world to which the Good News will spread",
+    "tree atop the rock — life emerging from the place of Christ's birth"
+  ],
+  "description": "An arched altarpiece showing the Adoration of the Shepherds. The Christ Child lies on the ground at center, while Mary kneels in blue robes to the left in prayer. Joseph stands or kneels nearby. Several shepherds approach from the left, some kneeling in reverence. The scene is set beneath a rocky overhang or cave, with a large tree growing from the rock above. A luminous landscape with hills, buildings, and a pale sky extends to the left in the background. The composition is vertical with warm earth tones and cool blues.",
+  "theological_description": "The Adoration of the Shepherds brings together the poverty of Christ's birth and the radical nature of God's self-revelation to the lowly. The shepherds, among the least regarded members of Jewish society, were the first to receive the angelic announcement: 'Today in the town of David a Savior has been born to you; he is the Messiah, the Lord' (Luke 2:11). Their immediate response — 'Let us go to Bethlehem and see this thing that has happened, which the Lord has told us about' (Luke 2:15) — models the obedience of faith. The rocky shelter echoes the prophecy that the Messiah would be born in humble circumstances, not in a palace. Mary's prayerful posture fulfills the Magnificat's declaration: 'He has looked on the humble estate of his servant' (Luke 1:48). The open landscape beyond the cave anticipates the universal reach of the Gospel — from this humble beginning, salvation will extend 'to the ends of the earth' (Acts 1:8). The entire scene embodies the Pauline mystery of kenosis: 'though he was rich, yet for your sake he became poor, so that you through his poverty might become rich' (2 Corinthians 8:9).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-16",
+      "relevance": "primary",
+      "reason": "The shepherds receiving the angelic announcement and coming to adore the Christ Child"
+    },
+    {
+      "ref": "LUK.2.11",
+      "relevance": "primary",
+      "reason": "A Savior born in the city of David — the core message that brought the shepherds"
+    },
+    {
+      "ref": "2CO.8.9",
+      "relevance": "typological",
+      "reason": "Christ becoming poor so that through His poverty we might become rich — the humble birth scene"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "God looking on the humble estate of His servant — Mary's prayerful presence at the manger"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "peaceful",
+    "humble",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130576",
+    "title": "Adoration of the Shepherds",
+    "artist": "Cima da Conegliano",
+    "model": "claude-opus-4-6"
+  }
+}

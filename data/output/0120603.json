@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Attending Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Man of Sorrows",
+  "tags": [
+    "man-of-sorrows",
+    "imago-pietatis",
+    "crown-of-thorns",
+    "wound-in-side",
+    "bare-chest",
+    "lilies",
+    "green-curtains",
+    "suffering-christ",
+    "devotional-image",
+    "attendant-angels"
+  ],
+  "symbols": [
+    "crown of thorns — the mock kingship that became the true crown of redemptive suffering",
+    "hand pointing to wound in side — the invitation to behold the cost of salvation",
+    "lilies — purity and resurrection hope amid the imagery of death",
+    "green curtains parted — the veil between the viewer and the sacred mystery of Christ's Passion",
+    "two attendant figures — angels or saints bearing witness to the Passion"
+  ],
+  "description": "A devotional half-length painting of Christ standing bare-chested, wearing a crown of thorns, with one hand pointing to or touching the wound in his side. His expression is sorrowful and direct, gazing out at the viewer. Two smaller figures flank him — one holding a spray of white lilies, the other standing reverently. Green curtains are drawn back on either side to frame the central figure. The background is dark, and the composition is designed for contemplative devotion, presenting Christ's suffering for direct encounter.",
+  "theological_description": "The Man of Sorrows (Vir Dolorum) is one of the most powerful devotional image types in Christian art. It derives from Isaiah's Suffering Servant prophecy: 'He was despised and rejected by mankind, a man of suffering, and familiar with pain' (Isaiah 53:3). Unlike a narrative Passion scene, this image presents Christ outside of historical time, displaying his wounds for the viewer's contemplation and spiritual participation. His gesture pointing to the wound in his side recalls Thomas's encounter with the risen Christ: 'Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe' (John 20:27). The crown of thorns — placed by soldiers in mockery (Matthew 27:29) — has become his true diadem, for 'by his wounds we are healed' (Isaiah 53:5). The lilies held by the attendant figure point beyond suffering to resurrection — Christ is simultaneously the crucified and the risen one. This dual identity is the heart of Christian proclamation: 'We preach Christ crucified' (1 Corinthians 1:23), yet also 'Christ is risen from the dead' (1 Corinthians 15:20).",
+  "scripture_refs": [
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "primary",
+      "reason": "The Man of Sorrows, familiar with suffering, by whose wounds we are healed — the direct theological subject"
+    },
+    {
+      "ref": "JHN.20.27",
+      "relevance": "primary",
+      "reason": "Christ displaying his wounds and inviting belief — the gesture of pointing to the side wound"
+    },
+    {
+      "ref": "MAT.27.29",
+      "relevance": "primary",
+      "reason": "The crown of thorns placed on Christ's head — prominently visible in the image"
+    },
+    {
+      "ref": "1CO.1.23",
+      "relevance": "allusion",
+      "reason": "Preaching Christ crucified — this devotional image is a visual proclamation of the crucified Savior"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "sorrowful",
+    "devotional",
+    "solemn",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120603",
+    "title": "The Man of Sorrows",
+    "artist": "Petrus Christus",
+    "model": "claude-opus-4-6"
+  }
+}

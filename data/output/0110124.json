@@ -1,0 +1,100 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor Figure (Adriaan Reins)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Lamentation over the Dead Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "deposition",
+    "mourning",
+    "virgin-mary",
+    "donor-portrait",
+    "cross-in-background",
+    "ladder",
+    "calvary",
+    "grief",
+    "pieta",
+    "medieval-altarpiece",
+    "devotional-panel",
+    "passion-narrative"
+  ],
+  "symbols": [
+    "dead body of Christ laid out — the completed sacrifice on the cross",
+    "Virgin Mary mourning — the sword piercing her soul as Simeon prophesied",
+    "cross and ladder in background — instruments of the Passion",
+    "donor kneeling in prayer at left — the believer's participation in Christ's suffering through devotion",
+    "female saint at right wing — intercessory presence connecting the faithful to the sacred event",
+    "landscape behind the cross — Golgotha, the place of the skull"
+  ],
+  "description": "A triptych altarpiece with a central panel flanked by two narrower wings. The central panel depicts the dead body of Christ laid on white cloth, supported by a bearded older man. A woman in dark robes (the Virgin) leans over Christ in grief, while another figure stands behind. The cross with a ladder stands in the background landscape. The left wing shows a kneeling male donor in dark robes accompanied by a male saint in armor. The right wing depicts a standing female figure with long hair beside another female saint.",
+  "theological_description": "The triptych format draws the viewer into the central mystery of the Passion: the lamentation over Christ's dead body after the descent from the cross. The central panel captures the moment between crucifixion and burial, a liminal space of grief that the Church has long contemplated. The Virgin Mary's grief fulfills Simeon's prophecy: 'a sword will pierce through your own soul also' (Luke 2:35). Joseph of Arimathea, who boldly asked Pilate for the body, represents the hidden disciple whose faith emerges precisely in the hour of apparent defeat. The donor figure kneeling at left in the wing panel embodies the late medieval devotional practice of placing oneself at the foot of the cross — a visual expression of Galatians 2:20: 'I have been crucified with Christ.' The triptych's closing wings would have hidden this scene during non-liturgical times, so that its opening became a kind of unveiling — a liturgical re-presentation of the Passion. The whole composition invites the viewer not merely to observe but to participate in the grief and hope of the cross.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea requesting the body and preparing it for burial with Nicodemus"
+    },
+    {
+      "ref": "LUK.23.50-56",
+      "relevance": "primary",
+      "reason": "Luke's account of the deposition and the women who followed to see where the body was laid"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy to Mary that a sword would pierce her soul — fulfilled in her grief at the cross"
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant despised, rejected, and pierced for our transgressions — the prophetic template for Christ's death"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "allusion",
+      "reason": "The donor's devotional posture reflects the Pauline theology of being crucified with Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "solemn",
+    "devotional",
+    "somber"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110124",
+    "title": "Triptych of Adriaan Reins",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

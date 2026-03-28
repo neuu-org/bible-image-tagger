@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Mary Magdalene in Penitent Solitude",
+  "tags": [
+    "mary-magdalene",
+    "penitent",
+    "desert",
+    "skull",
+    "long-hair",
+    "solitude",
+    "contemplation",
+    "barren-landscape",
+    "rocky-cliffs",
+    "memento-mori",
+    "ascetic"
+  ],
+  "symbols": [
+    "skull held in hand — memento mori, meditation on mortality and the vanity of earthly life",
+    "long flowing hair — traditional attribute of Magdalene, recalling the woman who anointed Jesus's feet with her tears and dried them with her hair",
+    "barren desert landscape — the stripping away of worldly attachments in pursuit of God",
+    "rocky cliffs — the harsh ascetic environment of penitential solitude",
+    "bare tree — spiritual desolation that precedes deeper union with God"
+  ],
+  "description": "A solitary female figure stands in profile in a vast, barren desert landscape. She has very long, golden blonde hair flowing down her back and wears a simple brown garment. In her left hand she holds a human skull at arm's length while her right hand is pressed to her chest. Towering rocky cliffs rise behind her on the left, and the terrain stretches out in arid desolation with a bare dead tree in the lower right. A blue sky with distant clouds fills the upper portion.",
+  "theological_description": "Mary Magdalene, from whom Jesus cast out seven demons (Luke 8:2), became one of the most devoted followers of Christ. She stood at the foot of the cross (John 19:25), was present at his burial (Mark 15:47), and was the first witness of the Resurrection — the 'apostle to the apostles' who ran to tell the disciples 'I have seen the Lord!' (John 20:18). Post-biblical tradition developed the image of Magdalene as the great penitent who withdrew to the desert for a life of contemplation and asceticism. The skull she holds is the classic memento mori — a reminder that all earthly beauty, wealth, and pleasure are passing. Her meditation on death reflects the wisdom tradition: 'It is better to go to a house of mourning than to go to a house of feasting, for death is the destiny of everyone; the living should take this to heart' (Ecclesiastes 7:2). The barren landscape mirrors the inner poverty of spirit that Jesus called blessed (Matthew 5:3) — the stripping away of all that is not God, so that God alone remains. Magdalene's story arc — from bondage to demons, through encounter with Christ, to radical devotion — is the paradigmatic narrative of Christian conversion and sanctification.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.8.2",
+      "relevance": "primary",
+      "reason": "Mary Magdalene identified as the woman from whom seven demons were cast out — the starting point of her transformation"
+    },
+    {
+      "ref": "JHN.20.16-18",
+      "relevance": "primary",
+      "reason": "Magdalene as the first witness of the Resurrection and apostle to the apostles"
+    },
+    {
+      "ref": "LUK.7.37-38",
+      "relevance": "typological",
+      "reason": "The sinful woman who anointed Jesus's feet with tears and dried them with her hair — traditionally identified with Magdalene"
+    },
+    {
+      "ref": "MAT.5.3",
+      "relevance": "allusion",
+      "reason": "Blessed are the poor in spirit — the desert solitude represents radical spiritual poverty"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "austere",
+    "melancholic",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120200",
+    "title": "Mary Magdalene in the Desert",
+    "artist": "Pierre Puvis de Chavannes",
+    "model": "claude-opus-4-6"
+  }
+}

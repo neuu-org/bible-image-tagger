@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Worshippers at Calvary",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Devotional offering at the foot of the crucified Christ",
+  "tags": [
+    "calvary",
+    "crucifixion",
+    "offertory",
+    "devotional-scene",
+    "glowing-cross",
+    "silhouetted-figures",
+    "flowers",
+    "altar",
+    "red-and-gold",
+    "worship",
+    "liturgical-offering",
+    "expressionist"
+  ],
+  "symbols": [
+    "luminous crucified Christ — the sacrificial offering that illuminates all subsequent worship",
+    "cross radiating light — the cross as the source of salvation and divine glory",
+    "dark silhouetted figures — the faithful gathered in devotion at the foot of the cross",
+    "flowers on the altar — the offertory gifts of the worshippers",
+    "red background — the blood of Christ and the fire of divine love",
+    "green and gold clouds — new life and divine glory surrounding the cross"
+  ],
+  "description": "An expressionistic painting showing a radiant golden figure of Christ crucified on a cross against a fiery red and orange background, surrounded by swirling green and gold forms suggesting clouds or heavenly glory. Below, dark silhouetted figures kneel or stand before what appears to be an altar or tomb bearing flowers and an inscription. A figure with light-colored hair is visible to the right. The entire composition glows with intense color, dominated by reds, golds, and greens in thick, textured brushwork.",
+  "theological_description": "This liturgical scene unites the sacrifice of Calvary with the ongoing worship of the faithful, expressing the Catholic and Orthodox understanding that every Eucharistic offering re-presents the one sacrifice of Christ on the cross. The luminous crucified Christ radiating golden light fulfills the prophecy of John 12:32: 'And I, when I am lifted up from the earth, will draw all people to myself.' The worshippers gathered beneath the cross embody the response of faith to this supreme act of love — as the author of Hebrews exhorts: 'Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith, who for the joy set before him endured the cross' (Hebrews 12:1-2). The flowers offered at the altar express the devotional response of gratitude, echoing the Psalmist's question: 'What shall I return to the LORD for all his goodness to me?' (Psalm 116:12). The fiery red surrounding the cross suggests both the blood of the Passion and the consuming fire of divine love that motivated it — 'For God so loved the world that he gave his one and only Son' (John 3:16).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.12.32",
+      "relevance": "primary",
+      "reason": "Christ lifted up on the cross drawing all people to Himself — the central visual and theological theme"
+    },
+    {
+      "ref": "HEB.12.1-2",
+      "relevance": "allusion",
+      "reason": "Fixing our eyes on Jesus who endured the cross — the worshippers gazing upon the crucified Christ"
+    },
+    {
+      "ref": "JHN.3.16",
+      "relevance": "allusion",
+      "reason": "God's love expressed through the gift of His Son — the fiery love surrounding the cross"
+    },
+    {
+      "ref": "PSA.116.12",
+      "relevance": "allusion",
+      "reason": "The offertory of flowers expresses the question of how to return gratitude for God's saving act"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "radiant",
+    "mystical",
+    "intense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130317",
+    "title": "The Offertory at Calvary",
+    "artist": "Maurice Denis",
+    "model": "claude-opus-4-6"
+  }
+}

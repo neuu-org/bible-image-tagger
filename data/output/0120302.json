@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Virgin and Child in a Landscape",
+  "tags": [
+    "virgin-and-child",
+    "madonna",
+    "nursing-madonna",
+    "landscape",
+    "blue-robe",
+    "tree",
+    "meadow",
+    "flowers",
+    "distant-town",
+    "river",
+    "serene-setting"
+  ],
+  "symbols": [
+    "Mary nursing the child — the Incarnation sustained by human motherhood, God nourished by creation",
+    "flowering meadow — the new Eden, paradise restored through the birth of Christ",
+    "tree sheltering them — the tree of life, echoing Eden and pointing to the cross",
+    "distant town and river — the world into which Christ has come to dwell"
+  ],
+  "description": "The Virgin Mary sits on a grassy meadow beneath a large tree, wearing a flowing blue robe and white head covering. She cradles the infant Christ at her breast, gazing down at him with tender devotion. Tiny white and yellow flowers dot the green grass around her. Behind, a lush landscape opens up with a winding river, trees, distant buildings and a castle on a rocky hill, all under a blue-green sky. The scene radiates peaceful domesticity within an idealized natural setting.",
+  "theological_description": "The Virgin nursing the Christ Child in a lush landscape presents the Incarnation in its most tender and domestic aspect. The Word who was with God from the beginning (John 1:1) is here an infant dependent on his mother's milk — the ultimate expression of divine condescension. Paul marveled at this mystery: Christ, 'being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing' (Philippians 2:6-7). The flowering meadow evokes the Song of Songs and its imagery of beloved gardens (Song of Solomon 2:12), while the sheltering tree recalls both the Tree of Life in Eden (Genesis 2:9) and the cross upon which the fruit of salvation would hang. Luke records simply that Mary 'gave birth to her firstborn, a son' and 'wrapped him in cloths' (Luke 2:7) — the ordinariness of the divine entry into the world. The serene landscape suggests not merely pastoral beauty but the re-creation of the world through the Incarnation: in this child, all things are being made new.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary giving birth and caring for the infant Jesus — the domestic scene of the Incarnation"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "allusion",
+      "reason": "The kenosis — God emptying himself to become a helpless infant nursed by his mother"
+    },
+    {
+      "ref": "GEN.2.9",
+      "relevance": "typological",
+      "reason": "The tree of life in Eden — the sheltering tree echoes paradise restored through Christ"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin bearing Immanuel — the prophetic foundation of this Madonna image"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "serene",
+    "pastoral",
+    "idyllic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120302",
+    "title": "The Virgin and Child in a Landscape",
+    "artist": "Bernard Van Orley",
+    "model": "claude-opus-4-6"
+  }
+}

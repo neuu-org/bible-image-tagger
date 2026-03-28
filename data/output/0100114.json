@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Armored Knight Saint",
+      "type": "PERSON"
+    },
+    {
+      "name": "Franciscan Friar",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child enthroned with saints",
+  "tags": [
+    "madonna-and-child",
+    "enthroned-virgin",
+    "knight-saint",
+    "franciscan",
+    "banner",
+    "red-cross",
+    "armor",
+    "brown-habit",
+    "elevated-throne",
+    "coat-of-arms",
+    "checkered-floor",
+    "landscape-background",
+    "devotional-image"
+  ],
+  "symbols": [
+    "elevated throne — the Virgin's exalted role as Queen of Heaven and Theotokos",
+    "infant Christ on Mary's lap — the Incarnation, God taking human flesh",
+    "armored knight with red-cross banner — the soldier of Christ and defender of the faith",
+    "Franciscan friar in brown habit — poverty, humility, and devotion following Saint Francis",
+    "coat of arms on throne — patronage and earthly devotion to the heavenly court",
+    "checkered floor — the ordered space of sacred encounter",
+    "landscape with castle — the earthly realm under the protection of the Madonna"
+  ],
+  "description": "A sacra conversazione composition with the Virgin Mary seated on a tall, ornate green throne, holding the infant Jesus on her lap. She wears a red robe and blue mantle. The throne is elevated above a checkered floor and bears a coat of arms. To the left stands a knight in full plate armor holding a tall banner with a red cross. To the right stands a friar in a brown Franciscan habit with hands clasped in prayer. Behind the figures, a gentle landscape with a castle and distant hills is visible under a clear sky.",
+  "theological_description": "The sacra conversazione — sacred conversation — is a devotional format showing the Madonna and Child with saints, representing the communion of the heavenly court. The enthroned Virgin with Christ embodies the theology of the Incarnation: Mary as Theotokos, the God-bearer, holding the divine Word made flesh (John 1:14). Her elevated position reflects the Magnificat's proclamation that 'all generations will call me blessed' (Luke 1:48). The armored saint bearing a cross-emblazoned banner represents the Church Militant, the faithful who wage spiritual warfare under the banner of the cross (Ephesians 6:10-17). The Franciscan friar embodies the evangelical counsels of poverty and humility, following Christ's call to 'take up your cross' (Matthew 16:24). Together, the martial and contemplative figures flanking the throne represent the two modes of Christian discipleship — the active and contemplative life — both oriented toward Christ through Mary's mediation.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation theology at the heart of every Madonna and Child image"
+    },
+    {
+      "ref": "LUK.1.46-49",
+      "relevance": "primary",
+      "reason": "The Magnificat and Mary's exaltation, reflected in her enthroned position"
+    },
+    {
+      "ref": "EPH.6.10-17",
+      "relevance": "allusion",
+      "reason": "The armor of God and spiritual warfare, represented by the armored knight saint"
+    },
+    {
+      "ref": "MAT.16.24",
+      "relevance": "allusion",
+      "reason": "Taking up the cross and following Christ, embodied by the Franciscan friar"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "serene",
+    "majestic",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100114",
+    "title": "Madonna and Child with Saints Liberale and Francis (The Castelfranco Madonna)",
+    "artist": "Giorgione",
+    "model": "claude-opus-4-6"
+  }
+}

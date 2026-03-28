@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Nicholas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sailors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint Nicholas miraculously calming a storm at sea",
+  "tags": [
+    "saint-nicholas",
+    "miracle",
+    "storm-at-sea",
+    "ship",
+    "sailors",
+    "divine-intervention",
+    "maritime-rescue",
+    "dark-clouds",
+    "medieval-vessel",
+    "saintly-intercession",
+    "tempest"
+  ],
+  "symbols": [
+    "saint appearing in the sky — divine intervention and heavenly intercession",
+    "storm-tossed ship — peril and human vulnerability before natural forces",
+    "dark clouds — divine wrath or trial",
+    "sailors clinging to the vessel — desperation and need for salvation",
+    "billowing sails — the uncontrollable forces of nature subdued by faith"
+  ],
+  "description": "A medieval sailing vessel with billowing white sails is battered by rough green seas under dark, ominous clouds. Several sailors cling to the rigging and deck in positions of distress. In the upper left, a haloed figure in red and gold robes — Saint Nicholas — appears floating among the dark clouds, extending a hand toward the ship in a gesture of blessing and intervention. The ship's hull is brown with a visible ladder and various nautical details.",
+  "theological_description": "This depiction of Saint Nicholas rescuing storm-tossed sailors resonates deeply with the biblical tradition of divine mastery over the sea. In the Old Testament, God alone commands the waters — He rebukes the Red Sea (Exodus 14:21), stills the storm for Jonah's sake (Jonah 1:15), and declares His sovereignty over the deep (Psalm 107:28-30). In the New Testament, Jesus calms the tempest on the Sea of Galilee (Mark 4:39), demonstrating divine authority over chaos. The hagiographic tradition of Saint Nicholas extends this pattern: the saint, as an intercessor filled with Christ's power, mediates divine rescue to the helpless. The scene typologically echoes the Psalmist's declaration that those who cry to the Lord in their distress are brought out of their trouble, for He stills the storm to a whisper (Psalm 107:28-29). It testifies to the theological conviction that God's saving power extends through His saints to all who call upon Him in their hour of need.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.107.28-30",
+      "relevance": "typological",
+      "reason": "Sailors crying to the Lord in distress and being delivered from the storm directly parallels this scene"
+    },
+    {
+      "ref": "MRK.4.39",
+      "relevance": "typological",
+      "reason": "Christ's calming of the storm is the archetype of all divine rescue at sea, which Nicholas's intercession extends"
+    },
+    {
+      "ref": "JON.1.15",
+      "relevance": "typological",
+      "reason": "The storm at sea and divine intervention echo Jonah's narrative of maritime peril and God's sovereign control"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "perilous",
+    "dramatic",
+    "hopeful",
+    "awe-inspiring"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0130095",
+    "title": "Quaratesi Altarpiece, St.Nicholas saves a storm tossed ship",
+    "artist": "Gentile da Fabriano",
+    "model": "claude-opus-4-6"
+  }
+}

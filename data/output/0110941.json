@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Andrew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Fishermen and Merchants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Calling of the Apostles Peter and Andrew at the Fish Market",
+  "tags": [
+    "calling-of-apostles",
+    "fish-market",
+    "peter-and-andrew",
+    "harbor-scene",
+    "ships",
+    "coastal-landscape",
+    "tower",
+    "horses",
+    "merchants",
+    "fishing-boats",
+    "seaside-town",
+    "daily-commerce",
+    "divine-call"
+  ],
+  "symbols": [
+    "fish market in foreground — the fishing trade from which Christ calls his first disciples",
+    "harbor with ships — the sea that Peter and Andrew will leave to become fishers of men",
+    "crowd of merchants and travelers — the busy world from which the apostles are called apart",
+    "tower on hill — the watchtower of the old world that the gospel will transcend"
+  ],
+  "description": "A panoramic Flemish landscape showing a bustling fish market at a harbor. In the foreground, a crowd of people gathers around fish vendors — some on horseback, others standing or crouching among baskets of fish. A fortified tower stands on a rocky hill at left. The harbor stretches into the distance at right, with sailing ships anchored offshore. Mountains and a hazy distant city are visible on the horizon. The scene is rendered with meticulous detail, combining a biblical narrative with the everyday life of a Flemish port town.",
+  "theological_description": "Jan Brueghel the Elder embeds the calling of Peter and Andrew within the busy commerce of a fish market, following the tradition of his father Pieter Bruegel in setting sacred events amid everyday life. Jesus encountered Simon Peter and Andrew 'casting a net into the sea, for they were fishermen. And he said to them, Follow me, and I will make you fishers of men' (Matthew 4:18-19). By placing this calling within a bustling market scene, the artist emphasizes that divine vocation comes not in isolation but in the midst of ordinary work. The fish — the very commodity being traded around them — would become the earliest symbol of Christ himself (ICHTHYS, the Greek word for fish, serving as an acrostic for 'Jesus Christ, Son of God, Savior'). The harbor with its ships represents the world of commerce and industry that the apostles will leave behind, while the vast seascape suggests the worldwide mission to which they are called. The juxtaposition of the sacred call with the profane marketplace insists that God's transformative word reaches people exactly where they are.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.4.18-20",
+      "relevance": "primary",
+      "reason": "Jesus calling Peter and Andrew from their fishing nets to become fishers of men"
+    },
+    {
+      "ref": "MRK.1.16-18",
+      "relevance": "primary",
+      "reason": "Mark's parallel account of the calling at the Sea of Galilee"
+    },
+    {
+      "ref": "LUK.5.1-11",
+      "relevance": "primary",
+      "reason": "Luke's expanded account including the miraculous catch of fish before the calling"
+    },
+    {
+      "ref": "JHN.1.40-42",
+      "relevance": "primary",
+      "reason": "Andrew finding his brother Simon and bringing him to Jesus — the relational nature of the call"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "bustling",
+    "atmospheric",
+    "layered",
+    "purposeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110941",
+    "title": "Fish Market (Calling the Apostles Peter and Andrew)",
+    "artist": "Jan Brueghel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

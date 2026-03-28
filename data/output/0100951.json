@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Deposition from the Cross — detail of mourning women",
+  "tags": [
+    "deposition",
+    "mourning-women",
+    "virgin-mary",
+    "grief",
+    "colorful-drapery",
+    "mannerist",
+    "pink-robe",
+    "blue-mantle",
+    "golden-dress",
+    "veil",
+    "cross-visible",
+    "supporting-figures",
+    "passion-narrative",
+    "elegant-figures"
+  ],
+  "symbols": [
+    "Virgin Mary in pink and blue — the Mother of Sorrows at the deposition",
+    "supporting women — the faithful women who accompanied Christ to Calvary",
+    "upward gaze of Mary — looking toward the cross from which her son has been taken",
+    "cross visible behind — the instrument of death now empty",
+    "rich, colorful drapery — the paradox of beauty and grief united in the Passion"
+  ],
+  "description": "A detail from a Mannerist Deposition painting showing a group of elegantly dressed women in vivid, flowing garments. At the center-right, a woman in a pink robe and blue-pink mantle (the Virgin Mary) sits or kneels, gazing upward with an expression of grief and wonder. Other women in golden-yellow and green robes lean toward her in gestures of comfort and support. The edge of a wooden cross is visible at the upper left. The figures are rendered in the characteristically elongated, graceful Mannerist style with richly saturated colors — pinks, blues, golds, and greens.",
+  "theological_description": "This detail from a Deposition scene focuses on the women who remained faithful at the cross when most of the male disciples fled. Luke 23:49 records that 'all his acquaintances and the women who had followed him from Galilee stood at a distance watching these things.' John 19:25 specifies: 'Standing by the cross of Jesus were his mother and his mother's sister, Mary the wife of Clopas, and Mary Magdalene.' The Mannerist treatment — with its elegant, colorful drapery and refined beauty — creates a tension between aesthetic grace and profound grief that mirrors the Christian paradox: the cross is simultaneously the ugliest and most beautiful event in history. Mary's upward gaze toward the empty cross echoes Simeon's prophecy: 'A sword will pierce through your own soul also' (Luke 2:35). The women supporting Mary embody the communion of believers who share one another's sorrows (Galatians 6:2: 'Bear one another's burdens'). Their faithfulness at the cross — when the powerful fled — anticipates the women's role as first witnesses of the resurrection (Matthew 28:1-10).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25",
+      "relevance": "primary",
+      "reason": "The women standing at the cross — Mary, her sister, Mary of Clopas, and Mary Magdalene"
+    },
+    {
+      "ref": "LUK.23.49",
+      "relevance": "primary",
+      "reason": "The women who followed from Galilee standing and watching"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "A sword will pierce your soul — Mary's grief at the deposition"
+    },
+    {
+      "ref": "GAL.6.2",
+      "relevance": "allusion",
+      "reason": "Bear one another's burdens — the women supporting Mary in her grief"
+    },
+    {
+      "ref": "MAT.28.1-10",
+      "relevance": "allusion",
+      "reason": "The faithful women as first witnesses of the resurrection — their loyalty at the cross rewarded"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief-stricken",
+    "elegant",
+    "tender",
+    "sorrowful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100951",
+    "title": "Deposition (detail)",
+    "artist": "Francesco de' Rossi (Francesco Salviati), \"Cecchino\"",
+    "model": "claude-opus-4-6"
+  }
+}

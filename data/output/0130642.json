@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna adoring the Christ Child with the infant Saint John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "infant-john-baptist",
+    "adoration",
+    "praying-virgin",
+    "landscape-background",
+    "halo",
+    "arched-panel",
+    "devotional-painting",
+    "grapes",
+    "incarnation"
+  ],
+  "symbols": [
+    "praying hands of Mary — adoration of the divine Infant and submission to God's will",
+    "Christ Child on the ground — the humility of the Incarnation",
+    "grapes held by the infant Baptist — the Eucharistic wine, Christ's blood to be shed",
+    "golden halo — divine sanctity",
+    "landscape with distant city — the wider world that awaits the Savior's mission"
+  ],
+  "description": "An arched panel painting with a gilded frame showing the Virgin Mary kneeling in prayer before the infant Jesus who lies on a golden cloth on the ground. Mary wears a dark blue mantle over a red and gold dress, her hands joined in prayer, gazing down at the child. A small infant figure (John the Baptist) crouches beside the Christ Child, holding or offering grapes. The background shows a pastoral landscape with green hills and a distant city. The composition is intimate and devotional.",
+  "theological_description": "This intimate devotional scene unites the key figures of the Incarnation narrative. Mary's prayerful adoration of her own child expresses the theological paradox that the Mother worships the Son who is also her God — fulfilling her own Magnificat declaration: 'My soul glorifies the Lord and my spirit rejoices in God my Savior' (Luke 1:46-47). The infant John the Baptist's presence with grapes anticipates his adult prophetic role: 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29). The grapes are a Eucharistic symbol pointing to the wine of the Last Supper and Christ's blood of the new covenant. The Christ Child lying humbly on the ground rather than enthroned expresses the kenosis of Philippians 2:7 — the eternal Word emptying Himself to take on infant vulnerability. This composition draws together past, present, and future: Mary's fiat, Christ's Incarnation, John's testimony, and the Passion yet to come, all contained in this peaceful moment of adoration.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.46-47",
+      "relevance": "primary",
+      "reason": "Mary glorifying the Lord and rejoicing in God her Savior — her prayerful adoration of the Christ Child"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John the Baptist declaring Christ the Lamb of God — anticipated by the infant Baptist's presence with grapes"
+    },
+    {
+      "ref": "PHP.2.7",
+      "relevance": "allusion",
+      "reason": "Christ emptying Himself — the humble infant lying on the ground rather than enthroned"
+    },
+    {
+      "ref": "LUK.1.76",
+      "relevance": "allusion",
+      "reason": "The child John will be called a prophet of the Most High — prefigured in this childhood meeting"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "tender",
+    "serene",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130642",
+    "title": "Madonna and Child in a Landscape with the Infant St. John the Baptist",
+    "artist": "Francesco Botticini",
+    "model": "claude-opus-4-6"
+  }
+}

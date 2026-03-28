@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Annunciation — Angel Gabriel announces to Mary she will bear the Son of God",
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "divine-message",
+    "kneeling-angel",
+    "acceptance",
+    "holy-spirit",
+    "incarnation",
+    "predella-panel",
+    "lily-absent",
+    "humble-submission"
+  ],
+  "symbols": [
+    "kneeling angel — heavenly reverence before the chosen vessel of the Incarnation",
+    "Mary's bowed posture — humble acceptance and fiat of obedience",
+    "open landscape between figures — the space traversed by the divine Word",
+    "golden garments of the angel — celestial glory and divine authority",
+    "blue mantle of Mary — purity, heaven, and fidelity"
+  ],
+  "description": "A wide predella panel showing two figures separated by an open landscape. On the left, the Angel Gabriel kneels on one knee, wearing golden-yellow robes with wings extended, reaching toward Mary with an outstretched hand. On the right, the Virgin Mary sits or kneels in a blue mantle over darker garments, her body turned slightly away in a gesture of humble surprise or acceptance. Between them, through an open archway, a serene landscape of hills and sky is visible. The floor is tiled in a geometric pattern.",
+  "theological_description": "The Annunciation is the pivotal moment in salvation history when the eternal Word prepared to take on human flesh. The Angel Gabriel's message to Mary — 'You will conceive in your womb and bear a son, and you will name him Jesus' (Luke 1:31) — inaugurates the fulfillment of all messianic prophecy. Mary's response, 'Behold, I am the servant of the Lord; let it be to me according to your word' (Luke 1:38), is the supreme act of human cooperation with divine grace. This fiat reverses Eve's disobedience: where the first woman's assent to the serpent brought death, Mary's assent to the angel brings life. The space between the two figures is charged with the mystery of the Incarnation — the Holy Spirit overshadowing Mary (Luke 1:35) to accomplish what Isaiah foretold: 'The virgin will conceive and give birth to a son, and will call him Immanuel' (Isaiah 7:14). Gabriel's kneeling posture before Mary expresses the wonder of angels at God's redemptive plan — the mystery 'into which angels long to look' (1 Peter 1:12).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation narrative — Gabriel's appearance to Mary and her fiat — is the direct subject"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The virgin conceiving and bearing a son named Emmanuel — fulfilled in this moment"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you and the power of the Most High will overshadow you"
+    },
+    {
+      "ref": "1PE.1.12",
+      "relevance": "allusion",
+      "reason": "The mystery of salvation into which angels long to look — Gabriel kneels in awe of the Incarnation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "serene",
+    "luminous",
+    "momentous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130253",
+    "title": "The Annunciation, predella panel from the Altarpiece of St Mark",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

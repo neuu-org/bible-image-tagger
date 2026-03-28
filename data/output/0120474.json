@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Holy Spirit (as golden flame)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Faithful assembly (apostles and believers)",
+      "type": "GROUP"
+    },
+    {
+      "name": "Demons fleeing",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Descent of the Holy Spirit at Pentecost",
+  "tags": [
+    "pentecost",
+    "holy-spirit",
+    "descent-of-fire",
+    "faithful-assembly",
+    "demons-fleeing",
+    "medieval-city",
+    "cathedral",
+    "kneeling-figures",
+    "golden-flame",
+    "prayer",
+    "robed-figures"
+  ],
+  "symbols": [
+    "golden flame descending from heaven — the Holy Spirit poured out upon the faithful",
+    "demons fleeing through the sky — the power of the Spirit driving away evil",
+    "kneeling robed figures — the faithful receiving the Spirit in prayer and humility",
+    "cathedral towers — the Church built upon the foundation of Pentecost",
+    "city in the background — Jerusalem (or any city) where the Spirit empowers witness"
+  ],
+  "description": "A medieval illuminated manuscript painting showing a group of robed figures — clergy and nobility in red, blue, and gold vestments — kneeling in prayer in the foreground along a riverbank. Above them, a golden flame or light descends from heaven on a thin ray. In the sky, dark winged demonic figures flee in all directions away from the descending light. Behind the kneeling group, a detailed medieval city rises with prominent cathedral towers, bridges, houses with red roofs, and a river. The sky is deep blue with the golden celestial element at top center.",
+  "theological_description": "This illumination depicts the Day of Pentecost, when the Holy Spirit descended upon the believers gathered in Jerusalem. The book of Acts records: 'Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them' (Acts 2:2-4). The golden flame descending from heaven visualizes this supernatural event. The fleeing demons represent the spiritual victory that Pentecost inaugurated — the Spirit empowering the Church for the battle against 'the spiritual forces of evil in the heavenly realms' (Ephesians 6:12). Peter, filled with the Spirit, declared that this fulfilled Joel's ancient prophecy: 'In the last days, God says, I will pour out my Spirit on all people' (Acts 2:17, quoting Joel 2:28). Pentecost is the birthday of the Church — the moment when the scattered, fearful disciples were forged into a bold community of witnesses. Jesus had promised: 'You will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth' (Acts 1:8).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.2.1-4",
+      "relevance": "primary",
+      "reason": "The descent of the Holy Spirit at Pentecost with tongues of fire — the direct event depicted"
+    },
+    {
+      "ref": "ACT.2.17",
+      "relevance": "primary",
+      "reason": "Peter's citation of Joel's prophecy about the outpouring of the Spirit in the last days"
+    },
+    {
+      "ref": "ACT.1.8",
+      "relevance": "allusion",
+      "reason": "Jesus's promise that the disciples would receive power when the Holy Spirit comes upon them"
+    },
+    {
+      "ref": "EPH.6.12",
+      "relevance": "allusion",
+      "reason": "Spiritual warfare against evil powers — the fleeing demons represent the Spirit's victory over darkness"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "sacred",
+    "dramatic",
+    "luminous"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0120474",
+    "title": "Descent of the Holy Ghost upon the Faithful",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

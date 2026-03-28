@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Armed Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Disciple (possibly Peter)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Arrest of Christ — Judas's betrayal kiss in Gethsemane",
+  "tags": [
+    "arrest-of-christ",
+    "betrayal-kiss",
+    "judas",
+    "gethsemane",
+    "night-scene",
+    "armored-soldiers",
+    "dramatic-lighting",
+    "passion-narrative",
+    "fleeing-disciple",
+    "lantern-light",
+    "compressed-figures",
+    "tension"
+  ],
+  "symbols": [
+    "Judas's kiss — the ultimate betrayal, intimacy perverted into treachery",
+    "armored soldiers — the worldly power arrayed against the innocent Christ",
+    "deep darkness — the hour of the power of darkness, as Jesus himself described it",
+    "fleeing disciple at left — the scattering of the sheep when the shepherd is struck",
+    "Christ's clasped hands — patient submission to the Father's will even in the moment of arrest",
+    "gleaming armor — the military force that cannot truly contain the divine"
+  ],
+  "description": "A dramatic Baroque painting showing a tight, compressed group of figures in a nocturnal scene. At the center, a bearded man (Judas) leans in closely toward Christ, who appears calm with downcast eyes and clasped hands. Christ wears a blue robe with a red cloak. Armored soldiers in gleaming metal press in from the right, one reaching to seize Christ. At the far left, a figure with an anguished expression recoils or flees with raised hands. The scene is lit by a single light source creating extreme chiaroscuro, with most of the background in total darkness.",
+  "theological_description": "Caravaggio's Taking of Christ captures the most intimate moment of betrayal in Scripture — the kiss by which Judas identified Jesus to the arresting party (Matthew 26:48-49). Jesus had foretold this at the Last Supper: 'One of you will betray me' (Matthew 26:21), and Judas approached with the prearranged signal: 'The one I will kiss is the man; seize him' (Matthew 26:48). The use of a kiss — an act of love and greeting — as the instrument of betrayal makes this the supreme perversion of intimacy. Jesus's calm submission amidst the violence embodies Isaiah 53:7: 'He was oppressed and afflicted, yet he did not open his mouth.' His clasped hands suggest the prayer of Gethsemane still fresh: 'Not my will, but yours, be done' (Luke 22:42). The fleeing figure at the left likely represents the disciples scattering, fulfilling Jesus's prophecy quoting Zechariah 13:7: 'Strike the shepherd, and the sheep will be scattered' (Matthew 26:31). Jesus himself identified the theological dimension of this moment: 'This is your hour, and the power of darkness' (Luke 22:53). Yet even here, the Gospel reveals that these events occur within God's sovereign plan: Christ was 'delivered up according to the definite plan and foreknowledge of God' (Acts 2:23).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.47-50",
+      "relevance": "primary",
+      "reason": "Judas's betrayal kiss and the arrest of Jesus — the event directly depicted"
+    },
+    {
+      "ref": "LUK.22.53",
+      "relevance": "primary",
+      "reason": "This is your hour and the power of darkness — the theological characterization of this nocturnal arrest"
+    },
+    {
+      "ref": "MAT.26.31",
+      "relevance": "primary",
+      "reason": "Strike the shepherd and the sheep will scatter — the fleeing disciple fulfilling prophecy"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "He did not open his mouth — Christ's calm submission before his captors"
+    },
+    {
+      "ref": "JHN.18.1-12",
+      "relevance": "primary",
+      "reason": "John's account of the arrest in the garden, including the detail of soldiers with lanterns"
+    },
+    {
+      "ref": "ACT.2.23",
+      "relevance": "allusion",
+      "reason": "Delivered according to God's definite plan — the arrest as part of sovereign divine purpose"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "dark",
+    "claustrophobic",
+    "treacherous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100698",
+    "title": "Taking of Christ",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

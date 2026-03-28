@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Beast-like figure",
+      "type": "OTHER"
+    },
+    {
+      "name": "Human figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Allegorical scene with a beast, a bird, and a human figure",
+  "tags": [
+    "allegory",
+    "beast",
+    "bird",
+    "modernist-painting",
+    "menorah",
+    "red-scales",
+    "blue-stripes",
+    "bold-colors",
+    "symbolic-figures",
+    "horned-creature",
+    "white-dove"
+  ],
+  "symbols": [
+    "red scaled beast — threat, violence, or oppressive power",
+    "white bird/dove — peace, the spirit, or hope amid danger",
+    "menorah-like forms in background — Jewish identity and faith",
+    "striped figure — humanity caught between forces of good and evil",
+    "bold colors — the intensity of the moral and spiritual conflict"
+  ],
+  "description": "A bold, expressionist painting showing a composite scene with several symbolic figures. On the left, a red-scaled beast with an open mouth and horn dominates. In the center, striped and patterned forms suggest a human or hybrid figure. A white bird is held or emerges from the upper center. On the right, a striped figure with a dark face. In the background, golden menorah-like shapes are visible against a purple-blue wash. The palette is vivid — red, blue, black, white, and gold — with thick, gestural brushwork.",
+  "theological_description": "This allegorical composition, with its beast, menorah forms, and struggle between figures, resonates with apocalyptic biblical imagery. The red-scaled beast recalls the creatures of Revelation: 'a scarlet beast that was covered with blasphemous names and had seven heads and ten horns' (Revelation 13:1; 17:3). The white dove being held aloft amid the chaos suggests the persistence of the Spirit of God even amid the worst of human experience — 'The Spirit of God was hovering over the waters' (Genesis 1:2). The menorah forms in the background anchor the scene in Jewish identity and covenant faithfulness — the seven-branched lampstand that stood in the Temple as a symbol of God's light (Exodus 25:31-37). The overall composition suggests a spiritual battleground where beastly powers contend against the divine presence. The imagery may also evoke the prophetic visions of Daniel, where terrifying beasts represent oppressive empires that ultimately fall before 'one like a son of man' who receives an everlasting kingdom (Daniel 7:13-14).",
+  "scripture_refs": [
+    {
+      "ref": "REV.13.1",
+      "relevance": "allusion",
+      "reason": "A beast rising with horns — the red scaled creature resonates with apocalyptic beast imagery"
+    },
+    {
+      "ref": "DAN.7.13-14",
+      "relevance": "typological",
+      "reason": "Beasts representing empires overthrown by the Son of Man — the cosmic struggle depicted"
+    },
+    {
+      "ref": "EXO.25.31-37",
+      "relevance": "allusion",
+      "reason": "The golden menorah — the lamp forms visible in the background connecting to Temple imagery"
+    },
+    {
+      "ref": "GEN.1.2",
+      "relevance": "allusion",
+      "reason": "The Spirit hovering over chaos — the white dove persisting amid the threatening figures"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "intense",
+    "confrontational",
+    "vivid",
+    "unsettling"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0130985",
+    "title": "Third Allegory",
+    "artist": "Ben Shahn",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Nativity — Adoration of the Christ Child in the stable",
+  "tags": [
+    "nativity",
+    "christ-child",
+    "virgin-mary",
+    "joseph",
+    "shepherds",
+    "stable",
+    "manger",
+    "ox-and-donkey",
+    "star",
+    "kneeling-adoration",
+    "wooden-shelter",
+    "angel-above",
+    "landscape-background",
+    "christmas"
+  ],
+  "symbols": [
+    "infant on the ground — the humility of the Incarnation, God laid low",
+    "kneeling Mary and Joseph — adoration of the divine made flesh",
+    "ox and donkey — creation recognizing its Creator",
+    "star in the sky — divine sign guiding the world to the Savior",
+    "wooden stable — the poverty into which the King of Kings was born",
+    "shepherds approaching — the lowly and humble as the first to receive the Good News"
+  ],
+  "description": "A wide predella-format painting depicting the Nativity. Under a simple wooden shelter open on all sides, the infant Jesus lies on the ground on a white cloth. The Virgin Mary kneels in prayer to the left, wearing a blue mantle. Joseph sits in contemplation to the right, in red robes. An ox and donkey stand behind a wooden railing at center. Shepherds approach from both sides — one kneeling on the left, another walking with a staff on the far right. A small angel hovers in the sky above, and a golden star shines. A rolling green landscape extends to distant hills under a clear sky.",
+  "theological_description": "The Nativity of Christ is the Incarnation made visible — the moment when 'the Word became flesh and made his dwelling among us' (John 1:14). The infant laid upon the bare ground rather than a royal cradle expresses the kenosis described by Paul: Christ 'emptied himself, by taking the form of a servant, being born in the likeness of men' (Philippians 2:7). Mary's prayerful adoration fulfills her own prophecy that 'all generations will call me blessed' (Luke 1:48), while Joseph's contemplative presence reflects his role as the just guardian chosen by God (Matthew 1:20). The shepherds, first recipients of the angelic announcement (Luke 2:8-12), represent God's preferential love for the humble — 'He has brought down the mighty from their thrones, and exalted those of humble estate' (Luke 1:52). The ox and donkey, drawn from Isaiah 1:3 — 'The ox knows its master, the donkey its owner's manger, but Israel does not know, my people do not understand' — offer a gentle rebuke: even beasts recognize their Creator, while many in Israel did not receive Him (John 1:11). The star fulfills Balaam's ancient prophecy: 'A star will come out of Jacob; a scepter will rise out of Israel' (Numbers 24:17).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus and His being laid in a manger — the direct narrative depicted"
+    },
+    {
+      "ref": "LUK.2.8-16",
+      "relevance": "primary",
+      "reason": "The shepherds receiving the angelic announcement and coming to adore the infant"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the theological reality of the Incarnation made visible"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "typological",
+      "reason": "Christ emptying Himself and taking the form of a servant — the humility of the stable birth"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "allusion",
+      "reason": "The ox and donkey knowing their master — the animals present at the manger"
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "The star rising out of Jacob — the star shining above the Nativity scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "peaceful",
+    "reverent",
+    "joyful",
+    "humble"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130425",
+    "title": "Pala di Corciano (Nativity)",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

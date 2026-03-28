@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Shepherds",
+  "tags": [
+    "nativity",
+    "adoration-of-shepherds",
+    "infant-jesus",
+    "manger",
+    "angels-above",
+    "divine-light",
+    "kneeling-shepherds",
+    "dog",
+    "humble-birth",
+    "heavenly-chorus",
+    "swaddling-clothes",
+    "joseph",
+    "virgin-mary",
+    "cherubim",
+    "staff"
+  ],
+  "symbols": [
+    "infant in manger straw — the incarnate God laid in an animal feeding trough, divine humility",
+    "radiant light from the child — Christ as the Light of the World illuminating the darkness",
+    "shepherds kneeling in rough garments — the poor and lowly as first recipients of the gospel",
+    "angels above in glory — the heavenly host announcing peace on earth",
+    "dog at shepherd's feet — fidelity and the pastoral life",
+    "Mary's serene gaze downward — contemplation of the mystery of incarnation",
+    "dark stable — the world in darkness before the coming of the Light"
+  ],
+  "description": "A luminous nativity scene centered on the Virgin Mary in a blue mantle presenting the radiant infant Jesus lying in straw. She gazes down serenely while Joseph sits at left. From the right, shepherds in rough garments approach — the foremost kneels with hands clasped in prayer, another stands behind with arms raised in wonder. A dog sits at the kneeling shepherd's feet. Above, angels and cherubim float in swirling clouds, draped in colorful robes, gazing down at the scene. The infant emits a gentle light that illuminates the faces of those gathered around.",
+  "theological_description": "The Adoration of the Shepherds reveals the paradox at the heart of the Incarnation: the Creator of the universe enters creation as a helpless infant, announced not to kings and scholars but to shepherds keeping watch over their flocks. Luke's account emphasizes that the angel's announcement came first to these marginalized workers — 'to you is born this day in the city of David a Savior, who is the Messiah, the Lord' (Luke 2:11). The shepherds thus become the first evangelists, for 'they made known what had been told them about this child' (Luke 2:17). The heavenly host above sings 'Glory to God in the highest, and on earth peace among those whom he favors' — the great doxology that unites heaven and earth at the moment of Christ's birth. Mary's contemplative posture — 'treasuring all these words and pondering them in her heart' (Luke 2:19) — models the believing response to divine revelation. The manger itself carries profound typological significance: the feeding trough where animals eat becomes the place where the Bread of Life is first presented to the world, anticipating the Eucharistic gift. The darkness of the stable into which the infant's light shines fulfills Isaiah's prophecy: 'The people who walked in darkness have seen a great light' (Isaiah 9:2).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The shepherds' visit to the manger after the angelic announcement — the central episode depicted"
+    },
+    {
+      "ref": "LUK.2.11",
+      "relevance": "primary",
+      "reason": "The angel's proclamation: 'To you is born this day in the city of David a Savior, who is the Messiah, the Lord'"
+    },
+    {
+      "ref": "ISA.9.2",
+      "relevance": "typological",
+      "reason": "The people who walked in darkness have seen a great light — the infant's radiance fulfilling the prophecy"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us — the theological reality the nativity scene embodies"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ emptied himself, taking the form of a servant — the divine humility of the manger birth"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "luminous",
+    "joyful",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110158",
+    "title": "The Adoration of the Shepherds",
+    "artist": "Anton Raphael Mengs",
+    "model": "claude-opus-4-6"
+  }
+}

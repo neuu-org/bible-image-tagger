@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifix",
+    "crucifixion",
+    "painted-cross",
+    "inri",
+    "halo",
+    "loincloth",
+    "church-interior",
+    "arched-niche",
+    "gold-edging",
+    "medallion-portraits",
+    "shaped-cross-terminals",
+    "liturgical-object",
+    "devotional-crucifix",
+    "medieval-painting"
+  ],
+  "symbols": [
+    "INRI inscription — Jesus of Nazareth, King of the Jews, the charge placed above the cross",
+    "crucified body — the atoning sacrifice of the Son of God",
+    "halo — the divine nature persisting even in death",
+    "Mary in left terminal — the sorrowful mother at the foot of the cross",
+    "John in right terminal — the beloved disciple who remained faithful",
+    "shaped cross terminals — the cosmic significance of the crucifixion reaching to all four corners"
+  ],
+  "description": "A large painted crucifix mounted within a white arched niche in a church. Christ hangs on the cross with arms outstretched, wearing a white loincloth, his head bowed to the right with a gold halo. The cross has decorative star-shaped terminals: the upper one bears the INRI inscription, the left terminal contains a small portrait of a mourning woman (the Virgin Mary), the right terminal contains a portrait of a young man (John). The lower terminal extends downward. The cross is edged in gold against a dark painted background with decorative patterning.",
+  "theological_description": "The painted crucifix is one of the oldest and most important forms of Christian art, placed above the altar to remind worshippers that the Eucharist is a re-presentation of Christ's sacrifice on Calvary. The INRI inscription — 'Iesus Nazarenus Rex Iudaeorum' — records Pilate's ironic placard that unknowingly proclaimed the deepest truth: the crucified man is indeed the King. The small portraits of Mary and John at the cross terminals recall Jesus's words from the cross entrusting them to each other: 'Woman, behold your son... Behold your mother' (John 19:26-27), establishing the new family of faith at the foot of the cross. Christ's bowed head signifies the moment of death: 'He bowed his head and gave up his spirit' (John 19:30). The gold halo persisting even in death affirms that the divine nature was not extinguished but continued even as the human nature suffered. The star-shaped terminals suggest that the cross reaches to the four corners of creation, fulfilling Paul's prayer that believers might comprehend 'the breadth and length and height and depth' of Christ's love (Ephesians 3:18).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-19",
+      "relevance": "primary",
+      "reason": "The crucifixion and the INRI inscription — the historical event this crucifix depicts"
+    },
+    {
+      "ref": "JHN.19.26-27",
+      "relevance": "primary",
+      "reason": "Jesus entrusting Mary to John — the two figures in the cross terminals"
+    },
+    {
+      "ref": "JHN.19.30",
+      "relevance": "primary",
+      "reason": "It is finished — Jesus bowing his head and giving up his spirit"
+    },
+    {
+      "ref": "EPH.3.18",
+      "relevance": "typological",
+      "reason": "The breadth, length, height, and depth of Christ's love — the cosmic dimensions of the cross"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "He was pierced for our transgressions — the prophetic template for the crucifixion"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "sacred",
+    "devotional",
+    "sorrowful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110520",
+    "title": "Crocifisso Di Roccalbegna",
+    "artist": "Luca di Tomme",
+    "model": "claude-opus-4-6"
+  }
+}

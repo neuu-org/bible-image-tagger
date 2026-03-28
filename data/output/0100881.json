@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Anne (or Elizabeth)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with the infant Saint John the Baptist",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "infant-jesus",
+    "infant-john-baptist",
+    "saint-anne",
+    "joseph",
+    "green-veil",
+    "halos",
+    "elderly-woman",
+    "two-infants",
+    "family-group",
+    "mannerist",
+    "warm-tones",
+    "intimate-composition"
+  ],
+  "symbols": [
+    "infant Jesus with blessing gesture — divine authority even in childhood",
+    "infant John the Baptist — the forerunner already in proximity to the one he will announce",
+    "elderly woman gazing at Christ — the recognition of the Messiah by the older generation",
+    "Mary's green veil — life, hope, and the verdure of new creation",
+    "halos on the holy figures — divine favor and sanctity",
+    "Joseph in the background — the guardian and protector of the Holy Family"
+  ],
+  "description": "A Mannerist painting showing a tightly composed group of figures. At the center, the Virgin Mary wears a green head covering and holds the infant Jesus, who is nude and raises one hand in a gesture. An elderly woman (possibly Saint Anne or Elizabeth) gazes up at the child from the lower left. Another young child (the infant John the Baptist) is visible at the lower right. A bearded male figure (Joseph) appears partially visible in the upper right background wearing a turban.",
+  "theological_description": "The Holy Family composition brings together the key figures of the Incarnation narrative in an intimate, domestic grouping that reveals the human context of salvation history. The infant Jesus, even as a child, displays the gesture of blessing, affirming his divine identity from birth — 'the child grew and became strong, filled with wisdom, and the favor of God was upon him' (Luke 2:40). The presence of the infant John the Baptist recalls the Visitation (Luke 1:39-45), when the unborn John 'leaped for joy' in Elizabeth's womb at the approach of the pregnant Mary — the forerunner recognizing his Lord even before birth. The elderly female figure gazing at Christ embodies the hope of Israel finally fulfilled: Simeon's words echo through her gaze — 'my eyes have seen your salvation' (Luke 2:30). Joseph's protective presence in the background fulfills his role as the just man entrusted with guarding the mystery of the Incarnation (Matthew 1:20-24). The intimate, compressed composition emphasizes that the most extraordinary event in cosmic history — God becoming human — took place within the ordinary bonds of family love.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.39-40",
+      "relevance": "primary",
+      "reason": "The child grew and became strong, filled with wisdom — the infant Jesus at the center"
+    },
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation — the infant John leaping before Christ, their proximity depicted here"
+    },
+    {
+      "ref": "MAT.1.20-24",
+      "relevance": "primary",
+      "reason": "Joseph's role as protector of the Holy Family, present in the background"
+    },
+    {
+      "ref": "LUK.2.30",
+      "relevance": "allusion",
+      "reason": "My eyes have seen your salvation — the elderly figure's gaze at the Christ child"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation in the context of family"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intimate",
+    "tender",
+    "warm",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100881",
+    "title": "The Holy Family",
+    "artist": "Jacopo Pontormo",
+    "model": "claude-opus-4-6"
+  }
+}

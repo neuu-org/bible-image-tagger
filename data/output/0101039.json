@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Lamb of God",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Saint John the Baptist pointing to the Lamb of God",
+  "tags": [
+    "john-the-baptist",
+    "lamb-of-god",
+    "pointing-finger",
+    "camel-skin",
+    "red-cloak",
+    "open-book",
+    "latin-inscription",
+    "cross-on-lamb",
+    "chalice",
+    "wilderness",
+    "forerunner",
+    "isenheim-altarpiece",
+    "prophetic-gesture",
+    "bearded-figure"
+  ],
+  "symbols": [
+    "pointing finger — John's defining gesture: directing all attention to Christ",
+    "Lamb of God with cross — Christ as the sacrificial lamb of atonement",
+    "chalice beneath the lamb — the blood of Christ poured out for the remission of sins",
+    "open book/scroll — the prophetic Scriptures that John fulfills and to which he witnesses",
+    "Latin inscription (Illum oportet crescere me autem minui) — He must increase, I must decrease",
+    "camel skin under red cloak — the ascetic prophet clothed also in martyrdom's red",
+    "barren wilderness — the prophet's abode, the place of encounter with God"
+  ],
+  "description": "A powerful painting from the Isenheim Altarpiece showing John the Baptist standing in full length against a barren landscape. He wears a camel-hair garment beneath a dramatic red cloak. His right hand points upward with an elongated, emphatic finger. In his left hand he holds an open book or scroll. At his feet, a white lamb bearing a small cross stands beside a golden chalice. A Latin inscription is visible to the left of his head. John has a long, unkempt beard and a wild, prophetic appearance. The painting combines meticulous detail with visionary intensity.",
+  "theological_description": "Grunewald's John the Baptist from the Isenheim Altarpiece is perhaps the most theologically precise image of the forerunner ever painted. The oversized pointing finger — John's signature gesture — embodies his entire mission: 'He must increase, but I must decrease' (John 3:30), the Latin inscription visible in the painting (Illum oportet crescere me autem minui). John exists solely to point to Christ. His proclamation 'Behold, the Lamb of God, who takes away the sin of the world!' (John 1:29) is visualized in the white lamb with cross at his feet. The chalice collecting the lamb's blood connects the Baptist's proclamation to the Eucharist and to the theology of atonement: 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins' (Matthew 26:28). The open book represents the prophetic Scriptures that converge on Christ. John's wild appearance recalls his description in Matthew 3:4 and identifies him with Elijah (2 Kings 1:8; Matthew 11:14). In the original altarpiece, John points toward the crucified Christ on the central panel, making explicit the theological connection: the lamb he announces is the one being slain on the cross.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God who takes away the sin of the world — the lamb at John's feet"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "primary",
+      "reason": "He must increase, I must decrease — the Latin inscription visible in the painting"
+    },
+    {
+      "ref": "MAT.3.1-4",
+      "relevance": "primary",
+      "reason": "John's appearance and wilderness ministry — his camel-skin garment and prophetic bearing"
+    },
+    {
+      "ref": "MAT.26.28",
+      "relevance": "typological",
+      "reason": "This is my blood of the covenant — the chalice beneath the lamb"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "Like a lamb led to slaughter — the prophetic image fulfilled in the Lamb John announces"
+    },
+    {
+      "ref": "MAL.4.5",
+      "relevance": "typological",
+      "reason": "Behold, I send you Elijah — John as the Elijah who was to come"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "prophetic",
+    "intense",
+    "visionary",
+    "authoritative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0101039",
+    "title": "St. John the Baptist (detail from the Annunciation from the Isenheim Altarpiece)",
+    "artist": "Matthias Grünewald",
+    "model": "claude-opus-4-6"
+  }
+}

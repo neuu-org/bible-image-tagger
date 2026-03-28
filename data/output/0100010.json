@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel with the Cup",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Sleeping Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Armed Mob",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Agony in the Garden of Gethsemane",
+  "tags": [
+    "gethsemane",
+    "agony-in-the-garden",
+    "mount-of-olives",
+    "cup-of-suffering",
+    "angel-ministering",
+    "torches",
+    "armed-mob",
+    "sleeping-disciples",
+    "prayer",
+    "submission-to-gods-will",
+    "night-scene",
+    "dramatic-light",
+    "betrayal-approaching",
+    "passion-narrative"
+  ],
+  "symbols": [
+    "chalice/cup — the cup of suffering and divine wrath Christ must drink",
+    "angel — divine comfort sent from heaven during Christ's agony",
+    "sleeping disciples — human weakness and inability to watch with Christ",
+    "torches of the approaching mob — the forces of darkness coming to arrest Jesus",
+    "dramatic light on Christ and angel — divine glory contrasted with the surrounding darkness",
+    "kneeling posture — submission and prayer to the Father's will",
+    "rocky hillside — the Garden of Gethsemane on the Mount of Olives"
+  ],
+  "description": "A dramatic nocturnal scene set on a rocky hillside. At the center-left, a figure in blue and white robes kneels on the ground in anguish while an angel in white with large wings descends from above, holding a golden chalice. Below and to the left, several figures lie sleeping on the ground. To the right, an armed mob approaches carrying torches and weapons, their red and brown garments illuminated by firelight. The sky behind the central figures glows with warm amber and pink light, creating a strong contrast with the darker right portion of the scene.",
+  "theological_description": "The Agony in the Garden of Gethsemane represents the decisive moment when Christ freely accepted the cup of suffering prepared by the Father. Luke 22:42-44 records Jesus praying 'Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done,' after which an angel appeared to strengthen him. The cup held by the angel symbolizes the full measure of divine judgment against sin that Christ would absorb on the cross — the wrath-bearing atonement central to Christian soteriology. The sleeping disciples (Peter, James, and John) embody the frailty of human nature: 'The spirit is willing, but the flesh is weak' (Matthew 26:41). Their slumber contrasts starkly with Christ's agonized vigilance. The approaching torch-bearing mob, led by Judas, represents the arrival of the power of darkness (Luke 22:53). The composition captures the theological tension between human dread and divine obedience, between the forces of evil converging and the solitary Savior choosing the path of redemptive suffering. Christ's acceptance of the cup here makes the cross not a tragedy but a willing sacrifice.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.39-46",
+      "relevance": "primary",
+      "reason": "Luke's account of the agony in Gethsemane, uniquely including the angel who strengthens Jesus"
+    },
+    {
+      "ref": "MAT.26.36-46",
+      "relevance": "primary",
+      "reason": "Matthew's account of Jesus praying in Gethsemane while the disciples sleep"
+    },
+    {
+      "ref": "MRK.14.32-42",
+      "relevance": "primary",
+      "reason": "Mark's parallel account of the Gethsemane prayer"
+    },
+    {
+      "ref": "JHN.18.1-3",
+      "relevance": "primary",
+      "reason": "The arrival of Judas with a band of soldiers and officials carrying torches and weapons"
+    },
+    {
+      "ref": "ISA.51.17",
+      "relevance": "typological",
+      "reason": "The cup of the Lord's wrath — the Old Testament background to the cup Christ accepts"
+    },
+    {
+      "ref": "HEB.5.7-8",
+      "relevance": "allusion",
+      "reason": "Christ offered prayers with loud cries and tears and learned obedience through suffering"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "dramatic",
+    "foreboding",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100010",
+    "title": "Christ on the Mount of Olives and the angel with the cup of suffering",
+    "artist": "Giovanni Battista Tiepolo",
+    "model": "claude-opus-4-6"
+  }
+}

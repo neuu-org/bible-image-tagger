@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Parable of the Five Loaves of Bread — Feeding of the Multitude",
+  "tags": [
+    "feeding-multitude",
+    "five-loaves",
+    "blessing-bread",
+    "mosaic-on-wood",
+    "folk-art",
+    "cyrillic-inscription",
+    "round-loaves",
+    "bearded-figure",
+    "halo",
+    "miracle",
+    "multiplication-of-bread",
+    "wooden-panel",
+    "ukrainian-art"
+  ],
+  "symbols": [
+    "five round loaves — the five barley loaves from the boy that Jesus multiplied",
+    "figure blessing the bread — Christ giving thanks before the miraculous multiplication",
+    "halo — divine identity of the one who performs the miracle",
+    "Cyrillic inscription — the Eastern Christian tradition transmitting the Gospel miracle",
+    "wooden panel with mosaic — the earthy, material medium reflecting the material miracle of bread"
+  ],
+  "description": "A folk art piece on a wooden panel, combining painting and mosaic technique. The image shows a bearded figure with a halo, depicted in a simplified, iconographic style, appearing to bless or hold bread. Below the figure, five round loaves are arranged in a circular pattern. Cyrillic text appears along the right side of the panel. The piece uses white mosaic tiles for the halo and loaves against the dark brown wood grain. The overall effect is rustic and devotional, combining Orthodox icon traditions with folk art sensibility.",
+  "theological_description": "The feeding of the five thousand is the only miracle (besides the resurrection) recorded in all four Gospels (Matthew 14:13-21; Mark 6:30-44; Luke 9:10-17; John 6:1-14), underscoring its central importance. Jesus took five barley loaves and two fish from a boy, gave thanks, and distributed them to five thousand men plus women and children, with twelve baskets of fragments remaining. John's Gospel develops the theological significance most fully: Jesus declares, 'I am the bread of life. Whoever comes to me shall not hunger' (John 6:35). The miracle is simultaneously a sign of messianic identity (the prophet Moses gave manna in the wilderness; now a greater than Moses gives bread), a eucharistic anticipation (Jesus took bread, gave thanks, and broke it — the same actions as the Last Supper), and a revelation of divine abundance (twelve baskets remaining from five loaves). The five loaves may also recall the five books of Torah, suggesting that Christ fulfills and transcends the Law. Paul connects this theology to the Eucharist: 'The bread that we break, is it not a participation in the body of Christ?' (1 Corinthians 10:16).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.6.1-14",
+      "relevance": "primary",
+      "reason": "John's account of the feeding of the five thousand with five loaves"
+    },
+    {
+      "ref": "JHN.6.35",
+      "relevance": "primary",
+      "reason": "I am the bread of life — Jesus's self-identification as the true bread from heaven"
+    },
+    {
+      "ref": "MAT.14.13-21",
+      "relevance": "primary",
+      "reason": "Matthew's account of the multiplication of loaves and fishes"
+    },
+    {
+      "ref": "EXO.16.4-15",
+      "relevance": "typological",
+      "reason": "The manna in the wilderness — the Old Testament type that Jesus fulfills and surpasses"
+    },
+    {
+      "ref": "1CO.10.16",
+      "relevance": "typological",
+      "reason": "The bread we break is a participation in the body of Christ — the eucharistic dimension of the miracle"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "devotional",
+    "rustic",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100889",
+    "title": "The Parable of the Five Loaves of Bread",
+    "artist": "Vudon Baklytsky",
+    "model": "claude-opus-4-6"
+  }
+}

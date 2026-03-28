@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Scribes and Pharisees",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels with banners",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint John the Baptist preaching to the Scribes and Pharisees",
+  "tags": [
+    "john-the-baptist",
+    "scribes",
+    "pharisees",
+    "preaching",
+    "wilderness",
+    "camel-skin",
+    "red-cloak",
+    "staff",
+    "lamb",
+    "angel-banners",
+    "latin-scrolls",
+    "river-setting",
+    "confrontation",
+    "repentance-call"
+  ],
+  "symbols": [
+    "John in camel skin with staff — the ascetic prophet of the wilderness",
+    "lamb at John's feet — the Lamb of God that John will announce",
+    "red cloak over animal skin — prophetic authority combined with ascetic poverty",
+    "Scribes and Pharisees in rich robes — the religious establishment confronted by the prophet",
+    "angels with Latin banners — heavenly endorsement of John's prophetic message",
+    "river landscape — the Jordan River where John baptized"
+  ],
+  "description": "A Baroque painting showing John the Baptist standing at the right in a wilderness setting, wearing an animal-skin garment with a red cloak draped over his shoulder. He holds a long reed staff and gestures as if speaking to a group of three men at the left, who wear elaborate robes and turbans suggestive of religious officials. A small lamb rests at John's feet. Two cherubs or angels float above the scene, each holding a banner with Latin text. The landscape includes a river in the background and trees. John has a muscular physique and long dark hair, appearing vigorous and commanding.",
+  "theological_description": "John the Baptist's confrontation with the Scribes and Pharisees is recorded in Matthew 3:7-10: 'When he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, You brood of vipers! Who warned you to flee from the wrath to come? Bear fruit in keeping with repentance.' John's preaching represents the last prophetic voice of the Old Covenant, calling Israel's religious establishment to genuine repentance before the arrival of the Messiah. The lamb at his feet anticipates his definitive proclamation in John 1:29: 'Behold, the Lamb of God, who takes away the sin of the world!' The Pharisees' elaborate dress contrasts sharply with John's austere animal skin — a visual sermon on the difference between outward religiosity and inward transformation. John stands in the prophetic tradition of Elijah (Matthew 11:14; Malachi 4:5), confronting corrupt leadership just as Elijah confronted the prophets of Baal. His message — 'the axe is laid to the root of the trees' (Matthew 3:10) — carries the urgency of imminent judgment and the need for radical repentance before the coming kingdom.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.7-10",
+      "relevance": "primary",
+      "reason": "John confronting the Pharisees and Sadducees — the event directly depicted"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God — the lamb at John's feet anticipating this proclamation"
+    },
+    {
+      "ref": "LUK.3.7-14",
+      "relevance": "primary",
+      "reason": "Luke's expanded account of John's preaching to the crowds and religious leaders"
+    },
+    {
+      "ref": "MAL.4.5",
+      "relevance": "typological",
+      "reason": "The coming of Elijah before the great day of the Lord — John as the Elijah figure"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness — John's identity as the prophetic forerunner"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "confrontational",
+    "prophetic",
+    "urgent",
+    "authoritative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100918",
+    "title": "St. John the Baptist with the Scribes and Pharisees",
+    "artist": "Bartolomé Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

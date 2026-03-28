@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Cleopas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Companion disciple",
+      "type": "PERSON"
+    },
+    {
+      "name": "Servant",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Supper at Emmaus",
+  "tags": [
+    "supper-at-emmaus",
+    "risen-christ",
+    "breaking-bread",
+    "recognition",
+    "post-resurrection",
+    "halo",
+    "table-scene",
+    "white-robe",
+    "inn",
+    "two-disciples",
+    "revelation-moment"
+  ],
+  "symbols": [
+    "Christ breaking bread — the Eucharistic act by which the risen Lord reveals himself",
+    "halo of golden light — the divine glory of the risen Christ made visible",
+    "white robe — resurrection and heavenly purity",
+    "disciples leaning forward — the moment of sudden recognition and awe",
+    "window behind showing landscape — the journey from Jerusalem to Emmaus now illuminated by encounter"
+  ],
+  "description": "An interior scene in a dimly lit room where four figures are gathered around a white-clothed table. At center, a figure in a white robe with a golden halo sits facing the viewer, hands extended over the table in a gesture of breaking bread. On the left, an older man in red leans back in astonishment. On the right, a younger figure bows forward with hands clasped. A fourth figure, a servant, stands behind observing. A window at upper right shows a glimpse of landscape. The lighting centers on Christ's figure, radiating outward from his halo.",
+  "theological_description": "The Supper at Emmaus is one of the most intimate post-Resurrection appearances of Jesus. Luke records that two disciples, walking from Jerusalem to Emmaus on the day of Resurrection, were joined by a stranger who 'explained to them what was said in all the Scriptures concerning himself' (Luke 24:27). Yet their eyes were kept from recognizing him until the decisive moment: 'When he was at the table with them, he took bread, gave thanks, broke it and began to give it to them. Then their eyes were opened and they recognized him, and he disappeared from their sight' (Luke 24:30-31). The breaking of bread — the same gesture Jesus had used at the Last Supper when he said 'This is my body given for you; do this in remembrance of me' (Luke 22:19) — becomes the revelatory act. Christ is recognized not in philosophical discourse but in the sacramental action of the shared meal. The disciples later reflected: 'Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?' (Luke 24:32). This scene establishes the pattern for all subsequent Christian worship: Christ encountered in the Word explained and the bread broken.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.24.28-32",
+      "relevance": "primary",
+      "reason": "The supper at Emmaus and the recognition of the risen Christ in the breaking of bread"
+    },
+    {
+      "ref": "LUK.24.13-27",
+      "relevance": "primary",
+      "reason": "The road to Emmaus where Jesus opened the Scriptures to the two disciples"
+    },
+    {
+      "ref": "LUK.22.19",
+      "relevance": "typological",
+      "reason": "The Last Supper institution — Christ recognized by the same gesture of breaking bread"
+    },
+    {
+      "ref": "ACT.2.42",
+      "relevance": "allusion",
+      "reason": "The early Church devoted to the breaking of bread — the pattern established at Emmaus"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "revelatory",
+    "intimate",
+    "awe-filled",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120661",
+    "title": "Supper at Emmaus",
+    "artist": "Carl Bloch",
+    "model": "claude-opus-4-6"
+  }
+}

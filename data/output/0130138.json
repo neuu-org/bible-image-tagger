@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Holy women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Resurrection of Jesus Christ from the tomb",
+  "tags": [
+    "resurrection",
+    "empty-tomb",
+    "risen-christ",
+    "roman-soldiers",
+    "angel",
+    "resurrection-banner",
+    "cross-staff",
+    "stone-slab",
+    "easter",
+    "victory-over-death",
+    "fallen-guards",
+    "glorified-body",
+    "mandorla"
+  ],
+  "symbols": [
+    "risen Christ above the tomb — victory over death and divine glory",
+    "red robe — Christ's blood shed in the Passion, now worn in triumph",
+    "cross-topped staff with banner — the standard of victory over sin and death",
+    "mandorla of golden light — divine glory and the radiance of the Risen One",
+    "fallen soldiers — the powerlessness of worldly authority against God's purposes",
+    "displaced stone slab — the seal of death broken forever",
+    "angel in white — heavenly messenger announcing the resurrection",
+    "holy women approaching — the first witnesses of the empty tomb"
+  ],
+  "description": "Christ rises triumphantly from a stone sarcophagus, wearing a flowing red robe and holding a tall cross-topped staff with a white banner. He is enveloped in a brilliant golden mandorla of light, his right hand raised in blessing. Below, Roman soldiers in full armor are scattered around the tomb in various states of collapse and astonishment. One shields his eyes from the radiance. An angel in white kneels beside the open tomb. In the distant left background, small figures of women approach the tomb. A pastoral landscape extends into the distance under a partly cloudy sky.",
+  "theological_description": "The Resurrection of Jesus Christ is the cornerstone of Christian faith — as Paul declares, 'if Christ has not been raised, your faith is futile' (1 Corinthians 15:17). This image captures the moment when Christ bursts forth from the sealed tomb, fulfilling His own prophecy that He would be raised on the third day (Matthew 16:21). The golden radiance surrounding His body manifests the glory of the new creation — the firstfruits of those who have fallen asleep (1 Corinthians 15:20). The fallen Roman guards dramatize the impotence of all earthly power before God's redemptive act; despite the chief priests' precautions to seal and guard the tomb (Matthew 27:62-66), no human authority could contain the Author of life (Acts 3:15). The cross-topped banner Christ carries transforms the instrument of shame into a standard of eternal victory, fulfilling Hosea's prophecy: 'O Death, where is your sting? O Grave, where is your victory?' (Hosea 13:14; 1 Corinthians 15:55). The angel at the tomb recalls the messenger's announcement to the women: 'He is not here; He has risen, just as He said' (Matthew 28:6). The Resurrection inaugurates the new covenant reality in which death itself is swallowed up in victory.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.1-6",
+      "relevance": "primary",
+      "reason": "The angel at the empty tomb and the women approaching are the direct narrative depicted"
+    },
+    {
+      "ref": "MAT.27.62-66",
+      "relevance": "primary",
+      "reason": "The Roman guards posted at the sealed tomb are visually prominent in the scene"
+    },
+    {
+      "ref": "1CO.15.20",
+      "relevance": "typological",
+      "reason": "Christ risen as the firstfruits of the dead — the theological core of the image"
+    },
+    {
+      "ref": "1CO.15.55",
+      "relevance": "allusion",
+      "reason": "The triumphant posture of the risen Christ embodies death's sting being swallowed in victory"
+    },
+    {
+      "ref": "ACT.3.15",
+      "relevance": "allusion",
+      "reason": "God raised the Author of life — the guards' inability to contain Him declares this truth"
+    },
+    {
+      "ref": "REV.1.18",
+      "relevance": "typological",
+      "reason": "Christ declares 'I was dead, and behold I am alive forever and ever, and I hold the keys of death and Hades'"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "glorious",
+    "awe-inspiring",
+    "radiant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130138",
+    "title": "Resurrection",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

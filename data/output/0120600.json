@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Virgin and Child with Flowers",
+  "tags": [
+    "virgin-and-child",
+    "madonna",
+    "flowers",
+    "garland",
+    "infant-reaching",
+    "blue-drapery",
+    "tender-embrace",
+    "dark-background",
+    "roses",
+    "head-covering"
+  ],
+  "symbols": [
+    "flowers held by the child — the beauty and transience of earthly life, offered to the Mother",
+    "Mary's tender gaze — maternal love as an icon of God's tenderness toward humanity",
+    "blue drapery — traditional Marian color symbolizing heavenly grace",
+    "child reaching upward — the divine nature of Christ reaching toward heaven even from his mother's arms"
+  ],
+  "description": "A warm, intimate painting of a young woman holding a plump infant against a dark background. The woman wears a white head covering and a red and golden garment with deep blue drapery. She leans her cheek tenderly toward the child, who reaches upward with one hand holding a small bouquet of flowers including roses. The child is partially draped in white cloth and sits on what appears to be a red cushion with gold tassels. The lighting is warm and focused on the two figures, creating a strong chiaroscuro effect.",
+  "theological_description": "The Virgin and Child is the most frequently depicted subject in Christian art, and each rendering reveals a facet of the Incarnation's meaning. Here the tender physical closeness between mother and child emphasizes the full humanity Christ assumed: the Word became flesh and was held, nursed, and loved by a human mother (John 1:14). The flowers the child reaches for may symbolize the beauty of creation, which Christ — as the one through whom all things were made (Colossians 1:16) — delights in even as an infant. Mary's protective embrace fulfills Simeon's prophecy that she would be intimately bound to her son's destiny (Luke 2:34-35). The Incarnation sanctified motherhood, infancy, and the ordinary bonds of human affection. As the early church father Irenaeus expressed: 'The glory of God is a human being fully alive' — and in this mother's arms, the fullest life, the Life itself (John 14:6), rests as a dependent child.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation depicted in the intimate bond of mother and divine child"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary wrapping and caring for the infant Jesus — the domestic reality of the Incarnation"
+    },
+    {
+      "ref": "COL.1.16",
+      "relevance": "allusion",
+      "reason": "All things created through Christ — the child reaching for flowers as Creator delighting in creation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "warm",
+    "intimate",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120600",
+    "title": "Virgin and Child",
+    "artist": "Elisabetta Sirani",
+    "model": "claude-opus-4-6"
+  }
+}

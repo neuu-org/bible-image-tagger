@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Virgin and Child Enthroned with Saints",
+  "tags": [
+    "virgin-and-child",
+    "enthroned-madonna",
+    "saint-jerome",
+    "female-saint",
+    "halo",
+    "columns",
+    "architectural-setting",
+    "red-robes",
+    "blue-mantle",
+    "book",
+    "barefoot",
+    "devotional-altarpiece",
+    "renaissance-composition"
+  ],
+  "symbols": [
+    "enthroned Virgin with child — Mary as the Seat of Wisdom and Throne of God",
+    "Saint Jerome with book and bare chest — the scholar-ascetic devoted to Scripture",
+    "female saint with book — learning and devotion in service of the faith",
+    "columns and architectural frame — the Church as the structured setting of the holy encounter",
+    "halos — sanctity and divine favor"
+  ],
+  "description": "A standing Virgin Mary in a blue mantle over a red dress holds the Christ child on her arm, elevated on a pedestal between two marble columns. At left, a young female saint in dark robes holds a book. At right, an elderly bearded man in a red draped robe, bare-chested, reads from a book — identifiable as Saint Jerome. The architectural setting features classical columns and a decorated entablature. An inscription appears on the pedestal base. The figures are rendered with Renaissance precision and gravity.",
+  "theological_description": "This sacra conversazione presents the Virgin and Child flanked by saints in a composition that embodies the theology of heavenly communion. The enthroned Madonna, elevated on a pedestal between columns, recalls the Old Testament Wisdom figure who declares, 'The Lord possessed me at the beginning of his work' (Proverbs 8:22), as Mary bears the incarnate Wisdom of God. Saint Jerome at right, the great translator of the Latin Vulgate Bible, represents the Church's devotion to the written Word — his open book and scholarly posture remind viewers that access to Christ comes through the Scriptures he spent his life translating. The female saint at left, possibly a virgin martyr, represents the other pillar of Christian faithfulness: not scholarship but steadfast witness unto death. Together, the saints model the two dimensions of Christian life — active study and contemplative devotion — both oriented toward the Christ who is their center. The classical architectural setting suggests that in Christ, the wisdom of the ages finds its fulfillment.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things in her heart — the contemplative mother bearing the Word made flesh"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh — the infant Christ held by Mary is the incarnate Logos"
+    },
+    {
+      "ref": "PRO.8.22-31",
+      "relevance": "typological",
+      "reason": "Wisdom present at creation — Mary as the seat of incarnate Wisdom"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed — Jerome's lifelong devotion to the sacred text"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "devotional",
+    "majestic",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110342",
+    "title": "The Virgin and Child with Saints Jerome and a Female Saint",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

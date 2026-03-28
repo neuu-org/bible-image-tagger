@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Genseric (Vandal King)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Citizens",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Sack of Rome by the Vandals in 455 AD",
+  "tags": [
+    "sack-of-rome",
+    "vandals",
+    "plunder",
+    "menorah",
+    "temple-vessels",
+    "chaos",
+    "roman-architecture",
+    "horsemen",
+    "captives",
+    "violence",
+    "historical-invasion",
+    "looting",
+    "classical-columns",
+    "fleeing-figures"
+  ],
+  "symbols": [
+    "menorah visible among plunder — the seven-branched candelabrum from the Jerusalem Temple, looted by Titus in 70 AD and now being carried off again",
+    "classical Roman architecture — the grandeur of worldly empire brought low",
+    "fleeing and captive figures — the vulnerability of civilization before violence",
+    "horsemen — the military might of the Vandal invaders",
+    "scattered treasures — the vanity of worldly wealth and power"
+  ],
+  "description": "A large-scale historical painting depicting a chaotic scene of invasion and plunder within a grand Roman architectural setting. Soldiers on horseback and on foot surge through colonnaded streets, dragging captives and carrying off treasures. Among the looted objects, a large golden seven-branched menorah is prominently visible being transported. Figures in classical Roman dress flee or are seized. The scene is filled with dramatic movement, violence, and disorder against a backdrop of imposing columns and archways.",
+  "theological_description": "Though depicting the historical sack of Rome by the Vandals in 455 AD, the painting carries profound biblical resonance through the prominent inclusion of the Temple menorah among the plunder. This menorah, originally crafted for the Tabernacle according to God's instructions in Exodus 25:31-40, had been seized from the Jerusalem Temple by the Romans under Titus in 70 AD and kept in Rome. Its reappearance here as plunder-within-plunder evokes the theology of divine judgment upon empires: just as Babylon fell after desecrating the Temple vessels (Daniel 5), and just as Rome destroyed Jerusalem, now Rome itself is sacked. This chain of judgment echoes the prophetic pattern of Habakkuk 2:8 — 'Because you have plundered many nations, all the remnant of the peoples shall plunder you.' The scene also resonates with Revelation's prophecy of the fall of Babylon the Great (Revelation 18), where the merchants of the earth weep over the destruction of a great city of commerce and power.",
+  "scripture_refs": [
+    {
+      "ref": "REV.18.1-8",
+      "relevance": "typological",
+      "reason": "The fall of Babylon the Great — Rome's sack typologically parallels the prophesied destruction of worldly empire"
+    },
+    {
+      "ref": "EXO.25.31-40",
+      "relevance": "allusion",
+      "reason": "The original divine instructions for the menorah, the sacred object visible among the plunder"
+    },
+    {
+      "ref": "DAN.5.1-30",
+      "relevance": "typological",
+      "reason": "Belshazzar's feast and Babylon's fall after desecrating Temple vessels — the same pattern of divine judgment on empire"
+    },
+    {
+      "ref": "HAB.2.8",
+      "relevance": "typological",
+      "reason": "Because you have plundered many nations, all peoples shall plunder you — the cycle of divine retribution"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "chaotic",
+    "violent",
+    "dramatic",
+    "foreboding"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0100091",
+    "title": "Genserich's Invasion of Rome",
+    "artist": "Karl Bryullov",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Philip the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of the Apostle Philip bearing a cross",
+  "tags": [
+    "apostle-philip",
+    "cross",
+    "elderly-man",
+    "gray-beard",
+    "gray-robes",
+    "half-length-portrait",
+    "devotional-image",
+    "dark-background",
+    "contemplative-gaze",
+    "hands-clasping-cross",
+    "martyrdom-attribute"
+  ],
+  "symbols": [
+    "large wooden cross — the instrument of Philip's martyrdom by crucifixion",
+    "gray/dark robes — humility and simplicity of apostolic life",
+    "elderly face with deep expression — years of faithful ministry and approaching martyrdom",
+    "hands clasping the cross — willing embrace of suffering for Christ's sake",
+    "dark background — the hostile world through which the apostle carried the Gospel"
+  ],
+  "description": "A half-length portrait of an elderly bearded man shown in three-quarter view, gazing upward and to the right with a contemplative, resolute expression. He wears dark gray robes and holds a large wooden cross against his shoulder and chest with both hands. His gray beard is long and his face is deeply lined, conveying age and spiritual gravity. The background is very dark, throwing all light onto the figure's face and hands. The painting has the characteristic rich, warm palette and bold brushwork of Rubens.",
+  "theological_description": "The Apostle Philip, one of the original twelve called by Jesus (John 1:43-46), is depicted here with the cross that tradition identifies as the instrument of his martyrdom. Philip holds a unique place in the Gospels: he was the one who brought Nathanael to Jesus with the words 'Come and see' (John 1:46), the one who calculated the cost of feeding the five thousand (John 6:5-7), and the one who pleaded 'Lord, show us the Father' — prompting Jesus's profound self-revelation: 'Whoever has seen me has seen the Father' (John 14:8-9). Philip's embrace of the cross in this portrait reflects Jesus's universal call to discipleship: 'If anyone would come after me, let him deny himself and take up his cross and follow me' (Matthew 16:24). Tradition records that Philip preached in Greece, Syria, and Phrygia before being crucified or crucified upside down. His willing bearing of the cross embodies the apostolic conviction expressed by Paul: 'Far be it from me to boast except in the cross of our Lord Jesus Christ' (Galatians 6:14).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.43-46",
+      "relevance": "primary",
+      "reason": "Jesus calls Philip, who then brings Nathanael — Philip's foundational role among the apostles"
+    },
+    {
+      "ref": "JHN.14.8-9",
+      "relevance": "primary",
+      "reason": "Philip's request to see the Father and Jesus's revelation that seeing him is seeing the Father"
+    },
+    {
+      "ref": "MAT.16.24",
+      "relevance": "allusion",
+      "reason": "Taking up the cross and following Christ — literally depicted in Philip bearing his cross"
+    },
+    {
+      "ref": "JHN.6.5-7",
+      "relevance": "primary",
+      "reason": "Jesus tests Philip at the feeding of the five thousand, revealing Philip's practical nature"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Boasting only in the cross of Christ — the apostolic embrace of the cross as glory"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "resolute",
+    "contemplative"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0100388",
+    "title": "Saint Philip",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

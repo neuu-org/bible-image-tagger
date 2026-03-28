@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Saint George",
+      "type": "PERSON"
+    },
+    {
+      "name": "Princess",
+      "type": "PERSON"
+    },
+    {
+      "name": "Dragon/Serpent",
+      "type": "OTHER"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint George slaying the dragon to rescue the princess",
+  "tags": [
+    "saint-george",
+    "dragon-slayer",
+    "white-horse",
+    "lance",
+    "red-cape",
+    "armor",
+    "princess-rescue",
+    "icon",
+    "serpent",
+    "good-versus-evil",
+    "mounted-warrior",
+    "orthodox-icon",
+    "balcony-spectators"
+  ],
+  "symbols": [
+    "white horse — purity, divine empowerment, and heavenly commission",
+    "dragon/serpent — evil, Satan, and the forces of darkness",
+    "lance piercing the dragon — the triumph of faith over evil",
+    "red cape — martyrdom and the blood of the saints",
+    "armor — the spiritual armor of God",
+    "princess — the innocent delivered from evil, the Church rescued by Christ",
+    "spectators on balcony — witnesses to God's deliverance"
+  ],
+  "description": "An Orthodox-style icon showing Saint George mounted on a white horse, wearing armor with a billowing red cape, thrusting a lance downward at a large dragon or serpent-like beast. The dragon is brown and striped, coiling beneath the horse. To the left, a princess in white stands before a tower with a balcony from which spectators observe the scene. In the upper right corner, a divine hand emerges from clouds. Below the main scene, a register shows smaller figures in a narrative sequence. The style is flat and frontal, characteristic of Orthodox iconography.",
+  "theological_description": "The legend of Saint George and the dragon, while not itself biblical, is deeply saturated with scriptural typology. George, the Christian soldier-martyr, enacts the cosmic battle described in Revelation 12:7-9, where Michael and his angels cast down the great dragon, 'that ancient serpent called the devil, or Satan, who leads the whole world astray.' The serpent George slays echoes the protoevangelium of Genesis 3:15, where God promises that the seed of the woman will crush the serpent's head. The divine hand emerging from the clouds confirms that George fights not by human might but by divine commission, recalling Zechariah's word: 'Not by might nor by power, but by my Spirit, says the LORD Almighty' (Zechariah 4:6). The white horse connects George to the rider on the white horse in Revelation 19:11, who is called Faithful and True and who judges and makes war in righteousness. The princess rescued from the dragon represents the Church — the Bride of Christ — delivered from the power of evil through the faithful witness of the saints who overcome 'by the blood of the Lamb and by the word of their testimony' (Revelation 12:11).",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.7-9",
+      "relevance": "typological",
+      "reason": "Michael and the angels casting down the dragon — George's combat directly parallels this cosmic battle"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The seed of the woman crushing the serpent's head — George's lance piercing the dragon fulfills this archetype"
+    },
+    {
+      "ref": "REV.19.11",
+      "relevance": "typological",
+      "reason": "The rider on the white horse, Faithful and True — George on his white horse echoes this apocalyptic figure"
+    },
+    {
+      "ref": "EPH.6.11-13",
+      "relevance": "allusion",
+      "reason": "Putting on the full armor of God to stand against the schemes of the devil — George's armor symbolizes spiritual warfare"
+    },
+    {
+      "ref": "REV.12.11",
+      "relevance": "allusion",
+      "reason": "Overcoming by the blood of the Lamb and the word of testimony — George as a martyr-warrior"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "heroic",
+    "triumphant",
+    "dramatic",
+    "sacred"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0130286",
+    "title": "The miracle of St. George the Serpent Fighter",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

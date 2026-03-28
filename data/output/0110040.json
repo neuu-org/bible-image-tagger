@@ -1,0 +1,98 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Malchus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Temple Guards",
+      "type": "GROUP"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Arrest of Jesus in Gethsemane",
+  "tags": [
+    "arrest-of-jesus",
+    "betrayal",
+    "kiss-of-judas",
+    "gethsemane",
+    "night-scene",
+    "torches",
+    "swords",
+    "armed-guards",
+    "passion-narrative",
+    "malchus-ear",
+    "moonlight",
+    "peter-with-sword",
+    "mob",
+    "surrender",
+    "divine-submission"
+  ],
+  "symbols": [
+    "Judas embracing Christ — betrayal disguised as intimacy",
+    "torches and lanterns — searching in darkness for the Light of the World",
+    "swords and weapons — worldly violence confronting divine peace",
+    "night sky with moon — the hour of darkness foretold by Jesus",
+    "Christ's calm expression — voluntary submission to the Father's will",
+    "Peter's drawn sword at lower left — impulsive defense Christ refuses",
+    "fallen figure (Malchus) — the violence Jesus heals and rebukes"
+  ],
+  "description": "A nocturnal scene depicting a dense crowd of armed men surrounding a central figure in blue robes. A bearded man in green embraces and reaches toward the central figure in what appears to be a kiss of identification. Soldiers in armor, men in turbans, and figures carrying torches and weapons press in from all sides. At lower left a figure in yellow crouches, appearing to have fallen. The moon is visible in the dark sky, and distant buildings with lit windows appear in the background. The faces show varied expressions of aggression, confusion, and determination.",
+  "theological_description": "The arrest of Jesus in the Garden of Gethsemane represents the hinge point of salvation history — the moment when the Son of God voluntarily submits to human custody in obedience to the Father's redemptive plan. Judas's kiss transforms the most intimate gesture of friendship into the instrument of betrayal, fulfilling the psalmist's lament: 'Even my close friend in whom I trusted, who ate my bread, has lifted his heel against me' (Psalm 41:9). The armed mob arriving with torches to seize the Light of the World embodies a deep irony — they search in darkness for the one who said 'I am the light of the world.' Jesus's calm composure amid the chaos reveals his sovereignty; John's Gospel records that when Jesus said 'I am he,' the soldiers fell to the ground (John 18:6). Peter's violent reaction with the sword represents the human instinct to fight, which Jesus corrects: 'Put your sword away. Shall I not drink the cup the Father has given me?' The entire scene demonstrates that the cross was not a defeat imposed upon Christ but a mission embraced — 'No one takes my life from me; I lay it down of my own accord' (John 10:18).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.47-56",
+      "relevance": "primary",
+      "reason": "Matthew's account of the arrest including Judas's kiss, the crowd with swords, and Jesus's rebuke"
+    },
+    {
+      "ref": "JHN.18.1-12",
+      "relevance": "primary",
+      "reason": "John's account includes the soldiers falling back at Jesus's 'I am' declaration and Peter cutting Malchus's ear"
+    },
+    {
+      "ref": "LUK.22.47-53",
+      "relevance": "primary",
+      "reason": "Luke uniquely records Jesus healing the servant's ear and declaring 'this is your hour, and the power of darkness'"
+    },
+    {
+      "ref": "PSA.41.9",
+      "relevance": "typological",
+      "reason": "The prophetic psalm about betrayal by a close friend, fulfilled in Judas's treacherous kiss"
+    },
+    {
+      "ref": "JHN.10.18",
+      "relevance": "allusion",
+      "reason": "Christ's voluntary submission — no one takes his life; he lays it down freely"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tension",
+    "betrayal",
+    "ominous",
+    "sorrow"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110040",
+    "title": "The Capture of Christ",
+    "artist": "Dirk Bouts",
+    "model": "claude-opus-4-6"
+  }
+}

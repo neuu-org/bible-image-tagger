@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Dominic",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Crucifixion of Christ with Saint Dominic kneeling in adoration",
+  "tags": [
+    "crucifixion",
+    "saint-dominic",
+    "simple-composition",
+    "inri",
+    "kneeling-saint",
+    "dominican-habit",
+    "bare-wall",
+    "monastic-cell",
+    "devotional-image",
+    "minimal-setting",
+    "contemplative",
+    "san-marco-convent",
+    "meditative"
+  ],
+  "symbols": [
+    "solitary cross against bare wall — the essential mystery of redemption stripped of all distraction",
+    "Christ's body on the cross — the atoning sacrifice at the heart of Christian faith",
+    "INRI inscription — the royal title that proclaims Christ's kingship even in death",
+    "kneeling Saint Dominic — the contemplative response to the cross, the model for monastic prayer",
+    "minimal, spare setting — the meditative stripping away of everything except Christ and the cross",
+    "decorative border — the framing of the mystery for focused contemplation"
+  ],
+  "description": "A simple, austere fresco depicting Christ crucified on a plain cross against a minimal, pale background. The composition is stripped to essentials: Christ hangs on the cross with an INRI plaque above, and at the base of the cross, a Dominican friar in a black and white habit kneels in prayer with hands clasped. The fresco is framed by a simple painted border with decorative bands in green and red at the sides. The palette is extremely restrained — pale flesh tones, the cream of the wall, the black and white of the Dominican habit.",
+  "theological_description": "Fra Angelico's cell frescoes at the Dominican convent of San Marco in Florence represent the pinnacle of visual theology in service of contemplative prayer. This Crucifixion with Saint Dominic was painted in a monastic cell where a friar would live and pray, making it a permanent meditation aid. The radical simplicity — a single cross, a single worshiper, a bare wall — embodies the Dominican ideal of stripping away all that is not essential to encounter God. Saint Dominic kneeling at the foot of the cross models the proper response to the mystery of redemption: silent, adoring contemplation. Paul declared, 'I decided to know nothing among you except Jesus Christ and him crucified' (1 Corinthians 2:2) — and this fresco is the visual equivalent of that resolve. The theological content is compressed into the barest elements: God in Christ, dying for sinners, witnessed by a single soul in prayer. Hebrews 12:2 counsels believers to fix their eyes on 'Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross' — and this fresco provides the visual means of that fixed gaze.",
+  "scripture_refs": [
+    {
+      "ref": "1CO.2.2",
+      "relevance": "primary",
+      "reason": "I decided to know nothing except Jesus Christ and him crucified — the theological program of this minimalist crucifixion"
+    },
+    {
+      "ref": "HEB.12.2",
+      "relevance": "primary",
+      "reason": "Fixing our eyes on Jesus who endured the cross — the contemplative gaze this fresco enables"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Far be it from me to boast except in the cross — the cross as the sole object of meditation"
+    },
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The crucifixion at Golgotha — the event depicted"
+    },
+    {
+      "ref": "PSA.46.10",
+      "relevance": "allusion",
+      "reason": "Be still and know that I am God — the contemplative silence the composition invites"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "contemplative",
+    "austere",
+    "peaceful",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100670",
+    "title": "Crucifixion with St. Dominic",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

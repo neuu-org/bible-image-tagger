@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna Enthroned with Child and Angels",
+  "tags": [
+    "madonna-enthroned",
+    "virgin-and-child",
+    "angels-attending",
+    "gold-halos",
+    "throne",
+    "blue-background",
+    "watercolor-study",
+    "medieval-style",
+    "frontal-composition",
+    "cimabue-study",
+    "hieratic-pose",
+    "symmetrical-angels"
+  ],
+  "symbols": [
+    "enthroned Madonna — Mary as the Seat of Wisdom and Throne of God",
+    "child on her lap — the incarnate God presented to the world",
+    "flanking angels — the heavenly host attending the divine mother and child",
+    "gold halos — sanctity and divine nature",
+    "throne — royal authority and the dignity of the Mother of God"
+  ],
+  "description": "A watercolor study depicting the Madonna enthroned with the Christ child on her lap, flanked by four angels — two on each side. The Virgin sits frontally on a simple throne, wearing a dark mantle, holding the infant who reaches toward her. The angels have gold halos and wings, standing symmetrically. The background is dark blue. The style is deliberately medieval and hieratic, with frontal poses and gold details. The watercolor technique gives the study a soft, luminous quality. An inscription at the bottom identifies it as a study.",
+  "theological_description": "This study after Cimabue's great Maestà captures one of the most important Marian image types in Christian art: the Virgin enthroned as the Theotokos, the God-bearer. The frontal, hieratic composition derives from early Byzantine prototypes and presents Mary not as a humble maiden but as the Queen of Heaven, the living throne upon which the incarnate God sits. The flanking angels represent the heavenly court that attends the mystery of the Incarnation. In Byzantine theology, icons of the enthroned Madonna are not merely artistic representations but windows into heavenly reality — the viewer is understood to be gazing through the icon into the eternal truth it depicts. The child reaching toward his mother affirms both his true divinity (attended by angels) and his true humanity (dependent on his mother's embrace). This image type encapsulates the core Christological definitions of the early ecumenical councils: Jesus Christ is true God and true man, born of the Virgin Mary.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you — the angel's declaration establishing Mary as the God-bearer"
+    },
+    {
+      "ref": "ISA.6.1-3",
+      "relevance": "typological",
+      "reason": "The Lord seated on a throne with seraphim attending — the heavenly throne echoed in the enthroned Madonna"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent his Son, born of a woman — the incarnational theology the image embodies"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "hieratic",
+    "sacred",
+    "serene",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110736",
+    "title": "Madonna Enthroned with the Child with Angels",
+    "artist": "Cimabue",
+    "model": "claude-opus-4-6"
+  }
+}

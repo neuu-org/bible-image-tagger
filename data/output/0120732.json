@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Witnesses (apostles or disciples)",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Scene from the Life of Christ (Stained Glass Detail)",
+  "tags": [
+    "life-of-christ",
+    "bearded-figures",
+    "bound-figure",
+    "rope",
+    "expressive-faces",
+    "passion-scene",
+    "church-window",
+    "close-up-detail"
+  ],
+  "symbols": [
+    "rope binding the figure — Christ bound and led to trial, submitting to human captivity",
+    "anguished faces — the emotional weight of witnessing the Passion",
+    "bearded elderly figures — the patriarchs or apostles bearing witness"
+  ],
+  "description": "A close-up detail of a stained glass window showing four male faces in various expressions of intensity and anguish. At bottom center, a bearded figure's head is tilted back, with a thick rope visible around the neck or chest area of an adjacent figure in dark blue. At upper left, an elderly bearded man in blue and red robes looks on with concern. Other faces press close together in a cramped, dramatic composition. The glass work is finely detailed with painted features and richly colored pieces in blues, reds, and earth tones.",
+  "theological_description": "This stained glass detail appears to depict a scene from Christ's Passion — possibly the binding and arrest of Jesus or his being led before the authorities. The rope visible around the central figure recalls that 'they bound him and took him away and handed him over to Pilate the governor' (Matthew 27:2). The anguished faces of the onlookers express the distress of those witnessing the unjust treatment of the innocent Christ. Isaiah had prophesied: 'He was oppressed and afflicted, yet he did not open his mouth; he was led like a lamb to the slaughter' (Isaiah 53:7). The stained glass medium itself is significant — light passing through colored glass in a church transforms ordinary sunlight into sacred narrative, just as the Passion transforms the brutality of execution into the means of salvation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.1-2",
+      "relevance": "primary",
+      "reason": "Jesus bound and led to Pilate — the rope and bound figure suggest this moment"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "The Suffering Servant led like a lamb to slaughter — the bound, submissive figure"
+    },
+    {
+      "ref": "JHN.18.12",
+      "relevance": "primary",
+      "reason": "The soldiers and officials arresting and binding Jesus"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "intense",
+    "sorrowful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120732",
+    "title": "Life of Christ. Eglise Saint-Sulpice de Fougeres (detail)",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

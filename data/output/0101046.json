@@ -1,0 +1,93 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd/Accusers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers/Guards",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ before Pilate — the trial of Jesus",
+  "tags": [
+    "christ-before-pilate",
+    "trial-of-jesus",
+    "pontius-pilate",
+    "judgment-hall",
+    "white-robe",
+    "crowd",
+    "accusers",
+    "raised-fists",
+    "arched-architecture",
+    "roman-authority",
+    "innocence-condemned",
+    "passion-narrative",
+    "seated-judge",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "Christ in white standing alone — innocence and purity before worldly judgment",
+    "Pilate seated in judgment — Roman authority that will condemn the innocent",
+    "hostile crowd with raised fists — the mob demanding crucifixion",
+    "arched Roman architecture — the seat of imperial power",
+    "Christ's calm composure — divine sovereignty even in apparent powerlessness",
+    "distance between Christ and the crowd — the isolation of the innocent one"
+  ],
+  "description": "A large-scale painting showing the trial of Jesus before Pontius Pilate in a grand architectural setting with Roman arches. Christ stands at the center-left in a white robe, calm and composed, while Pilate sits on an elevated platform to the right in a white toga. Between and around them, a crowd of accusers gestures angrily — some with raised fists, others pointing accusingly at Jesus. Soldiers and guards are scattered through the scene. The composition is dramatically lit, with Christ's white-robed figure standing out luminously against the darker crowd.",
+  "theological_description": "Christ Before Pilate depicts the pivotal moment when worldly power confronted divine truth. All four Gospels record this trial, but John's account is the most theologically rich. When Pilate asked 'Are you the King of the Jews?', Jesus responded, 'My kingdom is not of this world' (John 18:36). When Pilate asked 'What is truth?', he stood before the one who declared 'I am the way, the truth, and the life' (John 14:6). The supreme irony of the scene is that the judge is being judged: Pilate thinks he holds power over Jesus, but Jesus tells him, 'You would have no authority over me at all unless it had been given you from above' (John 19:11). Christ's calm, isolated figure in white embodies Isaiah's prophecy: 'He was oppressed and afflicted, yet he opened not his mouth' (Isaiah 53:7). The hostile crowd demanding 'Crucify him!' (Mark 15:13-14) represents the tragic rejection: 'He came to his own, and his own people did not receive him' (John 1:11). Yet this apparent miscarriage of justice is the means of salvation: 'This Jesus, delivered up according to the definite plan and foreknowledge of God' (Acts 2:23).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.18.28-40",
+      "relevance": "primary",
+      "reason": "The trial before Pilate — the event directly depicted"
+    },
+    {
+      "ref": "JHN.18.36-38",
+      "relevance": "primary",
+      "reason": "My kingdom is not of this world; What is truth? — the theological dialogue at the trial"
+    },
+    {
+      "ref": "MRK.15.1-15",
+      "relevance": "primary",
+      "reason": "Mark's account of the trial and the crowd demanding crucifixion"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "He opened not his mouth — Christ's silence and composure before his judge"
+    },
+    {
+      "ref": "JHN.19.11",
+      "relevance": "primary",
+      "reason": "You would have no authority unless given from above — divine sovereignty over the trial"
+    },
+    {
+      "ref": "ACT.2.23",
+      "relevance": "allusion",
+      "reason": "Delivered according to the definite plan of God — the trial as part of God's redemptive purpose"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "dramatic",
+    "unjust",
+    "confrontational"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0101046",
+    "title": "Christ Before Pilate",
+    "artist": "Mihaly Munkacsy",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "John the Baptist in the wilderness",
+  "tags": [
+    "john-the-baptist",
+    "wilderness",
+    "cross-staff",
+    "animal-skin",
+    "prophet",
+    "penitence",
+    "upward-gaze",
+    "bare-chested",
+    "forerunner-of-christ",
+    "ascetic-life",
+    "devotion"
+  ],
+  "symbols": [
+    "reed cross — John's prophetic testimony pointing to Christ crucified",
+    "animal skin garment — the ascetic wilderness life and prophetic poverty",
+    "hand on chest — devotion and personal conviction of the heart",
+    "upward gaze — communion with heaven and prophetic vision",
+    "wilderness setting — the place of divine encounter and preparation",
+    "bare torso — renunciation of worldly comfort and radical self-denial"
+  ],
+  "description": "A half-length portrait of a young muscular man with dark curly hair, bare-chested, wearing an animal skin draped around his lower body. He holds a tall reed cross in his right hand and places his left hand against his chest in a gesture of devotion. His gaze is directed upward toward the sky with an expression of intense spiritual longing. A dark wilderness landscape with trees and a moody sky fills the background.",
+  "theological_description": "John the Baptist stands as the last and greatest of the Old Testament prophets and the immediate forerunner of Christ. His wilderness asceticism fulfilled Isaiah's prophecy: 'A voice of one calling in the wilderness, prepare the way for the Lord' (Isaiah 40:3; Matthew 3:3). The animal skin garment identifies him with Elijah (2 Kings 1:8), whose return Malachi prophesied (Malachi 4:5), and which Jesus confirmed John fulfilled (Matthew 11:14). The reed cross he holds is his definitive prophetic testimony — 'Behold, the Lamb of God, who takes away the sin of the world!' (John 1:29). John's upward gaze expresses the prophetic posture of one whose entire being is oriented toward the divine, while his hand on his chest conveys the interior conviction that led him to declare of Jesus: 'He must increase, but I must decrease' (John 3:30). John embodies the theology of the herald — the one whose purpose is entirely fulfilled in pointing beyond himself to Another. His wilderness existence testifies that the Kingdom of God breaks in not through worldly power but through repentance and spiritual preparation.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John's central prophetic declaration — 'Behold the Lamb of God' — is symbolized by the cross he holds"
+    },
+    {
+      "ref": "MAT.3.1-4",
+      "relevance": "primary",
+      "reason": "John's wilderness preaching and clothing of camel's hair are directly depicted"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "primary",
+      "reason": "The voice crying in the wilderness to prepare the Lord's way — John's defining prophetic identity"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "allusion",
+      "reason": "John's self-effacing devotion — he must decrease that Christ may increase — shown in his humble posture"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Jesus's declaration that among those born of women none is greater than John the Baptist"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "intense",
+    "contemplative",
+    "austere"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0130252",
+    "title": "John the Baptist",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

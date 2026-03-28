@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna of the Carnation",
+  "tags": [
+    "madonna-and-child",
+    "carnation",
+    "red-flower",
+    "arched-windows",
+    "mountain-landscape",
+    "vase-of-flowers",
+    "golden-hair",
+    "blue-mantle",
+    "red-sleeves",
+    "infant-reaching",
+    "devotional-painting",
+    "renaissance-interior",
+    "brooch"
+  ],
+  "symbols": [
+    "red carnation — the flower of divine love, and in some traditions a symbol of the Passion",
+    "infant reaching for the flower — Christ accepting his future suffering with childlike innocence",
+    "arched windows with mountain landscape — the world beyond the intimate domestic scene",
+    "vase of flowers — beauty and the transience of life",
+    "Mary's serene expression — the contemplative mother offering the mystery of the Passion to her child"
+  ],
+  "description": "The Virgin Mary sits in a half-length portrait, wearing a blue mantle with a jeweled brooch over a red-sleeved garment. Her golden-brown hair is elegantly styled. She holds a red carnation in one hand while the infant Jesus, seated on a cushion on her lap, reaches for it with both hands. Behind them, twin arched windows frame a luminous mountain landscape rendered in soft, hazy blue. A small vase of flowers sits at the right. The sfumato technique softens all edges, creating an atmosphere of tenderness and mystery.",
+  "theological_description": "Leonardo's early Madonna of the Carnation presents a scene of deceptive simplicity: a mother offering a flower to her child. But the red carnation carries layers of meaning in the Christian symbolic tradition. The word 'carnation' derives from the Latin 'caro' (flesh), linking it directly to the Incarnation — God becoming flesh. The red color evokes both divine love and the blood of the Passion. The infant Christ reaching for this flower thus becomes a profound theological image: the incarnate God, in his childlike innocence, reaches toward the very suffering that defines his redemptive mission. Mary, who offers the flower with quiet grace, mirrors her role in salvation history — the one who said 'Let it be to me according to your word' (Luke 1:38), offering her Son to the world knowing the cost. The mountain landscape behind, rendered in Leonardo's characteristic atmospheric perspective, suggests the vast world that this child came to save. The intimate, domestic scale of the painting reminds viewers that the cosmic drama of redemption began in the most ordinary of settings — a mother's lap.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh (caro/carnation) — the Incarnation symbolized in the flower's name"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Let it be to me according to your word — Mary offering the flower as she offered her consent"
+    },
+    {
+      "ref": "ISA.9.6",
+      "relevance": "typological",
+      "reason": "For to us a child is born — the infant who is also Wonderful Counselor and Prince of Peace"
+    },
+    {
+      "ref": "LUK.2.34-35",
+      "relevance": "allusion",
+      "reason": "The sword that will pierce Mary's soul — the red carnation foreshadowing the Passion"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "serene",
+    "mysterious",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110995",
+    "title": "The Madonna of the Carnation",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

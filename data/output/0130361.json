@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Midwives and attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Birth of the Virgin Mary",
+  "tags": [
+    "birth-of-the-virgin",
+    "saint-anne",
+    "infant-mary",
+    "midwives",
+    "birth-scene",
+    "attendant-women",
+    "bathing-infant",
+    "bed-chamber",
+    "gold-halo",
+    "nativity-of-mary"
+  ],
+  "symbols": [
+    "newborn infant — the future Mother of God entering the world",
+    "attendant women bathing the child — the care of heaven for the chosen vessel",
+    "Saint Anne in the bed — the matriarch fulfilling God's promise of fruitfulness",
+    "haloes — sanctity and divine favor upon this holy family",
+    "basin of water — purification and the new beginning"
+  ],
+  "description": "A medieval fresco showing the interior of a bedchamber. On the right, a woman (Saint Anne) reclines on a bed with a golden halo, attended by another haloed woman behind her. In the center and left, several women in flowing robes tend to a newborn infant — one holds the baby while another reaches toward it. A woman on the far left holds white cloth. A basin sits on the floor. The setting is rendered with the flat, formal style of Trecento Italian painting, with architectural elements framing the scene.",
+  "theological_description": "The Birth of the Virgin Mary, while not recorded in canonical Scripture, is a subject deeply cherished in Christian tradition, drawn from the Protoevangelium of James. Theologically, the birth of Mary represents a pivotal moment in salvation history — the arrival of the woman through whom the Incarnation would be accomplished. The barrenness of Anne and Joachim, Mary's parents, echoes the biblical pattern of God opening the wombs of barren women to accomplish His purposes: Sarah (Genesis 21:1-2), Rebekah (Genesis 25:21), Rachel (Genesis 30:22), Hannah (1 Samuel 1:19-20), and Elizabeth (Luke 1:13). In each case, the child born through divine intervention plays a crucial role in God's plan. Mary's birth fulfills the protoevangelium — the first gospel promise — that the seed of the woman would crush the serpent's head (Genesis 3:15). The attendant women caring for the infant echo the Psalmist's testimony: 'You brought me out of the womb; you made me trust in you, even at my mother's breast' (Psalm 22:9).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The promise that the seed of the woman would crush the serpent — Mary is born as the vessel for this fulfillment"
+    },
+    {
+      "ref": "1SA.1.19-20",
+      "relevance": "typological",
+      "reason": "Hannah's barrenness reversed by God parallels the tradition of Anne's barrenness before Mary's birth"
+    },
+    {
+      "ref": "LUK.1.13",
+      "relevance": "typological",
+      "reason": "Elizabeth's barrenness ended by divine intervention — the same pattern as Anne conceiving Mary"
+    },
+    {
+      "ref": "PSA.22.9",
+      "relevance": "allusion",
+      "reason": "God bringing the child safely from the womb — divine providence over Mary's birth"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "tender",
+    "domestic",
+    "sacred"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0130361",
+    "title": "Naissance De La Vierge",
+    "artist": "Giovanni da Milano",
+    "model": "claude-opus-4-6"
+  }
+}

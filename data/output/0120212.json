@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant figures and donors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Nativity and Presentation in the Temple (Triptych Wings)",
+  "tags": [
+    "nativity",
+    "presentation-in-the-temple",
+    "virgin-mary",
+    "christ-child",
+    "simeon",
+    "gothic-interior",
+    "kneeling-madonna",
+    "swaddled-infant",
+    "donors",
+    "candles",
+    "altar"
+  ],
+  "symbols": [
+    "kneeling Madonna before the Christ Child — adoration of the incarnate God",
+    "Simeon holding the infant — the fulfillment of prophecy and the meeting of Old and New Covenants",
+    "Gothic church interior — the sacred space where salvation is celebrated",
+    "candles — the Light of the World revealed to the nations"
+  ],
+  "description": "Two panels of a triptych displayed side by side. The left panel shows the Nativity: the Virgin Mary kneels in a blue robe before the naked Christ Child lying on the ground, within an architectural setting with arches and a rose window. A figure in red stands behind. The right panel shows the Presentation in the Temple: an elderly man in red (Simeon) holds or receives the infant, surrounded by figures including a woman in white and men in dark robes, all set within a Gothic church interior with tall pointed arches and columns.",
+  "theological_description": "These two triptych wings present sequential moments from Christ's infancy. The Nativity panel depicts the moment described in Luke 2:6-7, when Mary 'gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger.' The Presentation panel illustrates Luke 2:22-35, when Mary and Joseph brought the infant Jesus to the Temple in Jerusalem according to the Law of Moses, and the aged Simeon took the child in his arms and proclaimed: 'Sovereign Lord, as you have promised, you may now dismiss your servant in peace. For my eyes have seen your salvation, which you have prepared in the sight of all nations: a light for revelation to the Gentiles, and the glory of your people Israel' (Luke 2:29-32). Together these scenes trace the arc from Incarnation to public revelation — God entering the world in humble obscurity, then being recognized by the faithful remnant of Israel. Simeon's prophecy also contains the shadow of the cross: 'A sword will pierce your own soul too' (Luke 2:35), linking the joy of Christ's birth to the sorrow of his Passion.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The Nativity — Mary giving birth and laying the infant in a manger, depicted in the left panel"
+    },
+    {
+      "ref": "LUK.2.22-32",
+      "relevance": "primary",
+      "reason": "The Presentation in the Temple and Simeon's canticle (Nunc Dimittis), depicted in the right panel"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "Simeon's prophecy that a sword will pierce Mary's soul — the shadow of the Passion over the infancy narrative"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord suddenly coming to his temple — fulfilled when the infant Christ is brought to the Temple"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "sacred",
+    "solemn",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120212",
+    "title": "Wings of a Triptych",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

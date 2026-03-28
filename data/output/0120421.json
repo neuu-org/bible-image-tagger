@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Entombment of Christ",
+  "tags": [
+    "entombment",
+    "burial-of-christ",
+    "dead-christ",
+    "white-shroud",
+    "mourning",
+    "carrying-the-body",
+    "joseph-of-arimathea",
+    "nicodemus",
+    "passion",
+    "grief",
+    "twilight-sky"
+  ],
+  "symbols": [
+    "white burial shroud — the linen cloth in which Christ's body was wrapped",
+    "limp body being carried — the full reality of Christ's death, the price of redemption",
+    "twilight sky — the darkness after the crucifixion, the world between death and resurrection",
+    "mourning women — the faithful witnesses who remained when others fled"
+  ],
+  "description": "Several figures carry the limp, pale body of Christ toward a tomb. The dead figure lies horizontally across the composition, wrapped partially in a white shroud. A bearded man supports the torso while a younger man and another figure in a vivid orange-red cloak bear the lower body. Behind, two women — one in blue and one partially visible — follow with expressions of grief. The background shows a dark, moody twilight sky. The composition has powerful diagonal movement as the body is lowered or carried forward.",
+  "theological_description": "The Entombment of Christ follows the crucifixion and precedes the Resurrection — the silent Sabbath when the body of God incarnate lay in the tomb. The Gospels record that 'Joseph of Arimathea, a prominent member of the Council, who was himself waiting for the kingdom of God, went boldly to Pilate and asked for Jesus' body' (Mark 15:43). Together with Nicodemus, who brought spices (John 19:39), they 'took Jesus' body and wrapped it, with the spices, in strips of linen' (John 19:40) and laid it in a new tomb. This moment represents the nadir of the Incarnation — the Word made flesh (John 1:14) now made corpse. Yet this apparent defeat contains the seed of victory. As Jesus himself had foretold: 'Unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds' (John 12:24). The entombment fulfills Isaiah's prophecy: 'He was assigned a grave with the wicked, and with the rich in his death' (Isaiah 53:9) — Joseph's new rock-hewn tomb being the tomb of a wealthy man. The faithful presence of the women confirms Luke's testimony that 'the women who had come with Jesus from Galilee followed Joseph and saw the tomb and how his body was laid in it' (Luke 23:55).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.43-46",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea requesting and burying the body of Jesus — the direct narrative depicted"
+    },
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph and Nicodemus burying Jesus with spices in linen wrappings"
+    },
+    {
+      "ref": "ISA.53.9",
+      "relevance": "typological",
+      "reason": "He was assigned a grave with the rich in his death — fulfilled in the burial by wealthy Joseph"
+    },
+    {
+      "ref": "JHN.12.24",
+      "relevance": "allusion",
+      "reason": "The grain of wheat falling into the ground and dying — the entombment as prelude to resurrection"
+    },
+    {
+      "ref": "LUK.23.55",
+      "relevance": "primary",
+      "reason": "The women following and witnessing the burial — the mourning women visible in the painting"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief-stricken",
+    "solemn",
+    "heavy",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0120421",
+    "title": "Entombment of Christ",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait Study of a Young Man (identified as John the Apostle)",
+  "tags": [
+    "apostle-john",
+    "head-study",
+    "portrait",
+    "young-man",
+    "intense-gaze",
+    "close-up",
+    "golden-tones",
+    "expressive-face"
+  ],
+  "symbols": [
+    "youthful face — John as the youngest of the apostles, the beloved disciple",
+    "intense upward gaze — spiritual attentiveness and receptivity to divine truth",
+    "arch-like shape behind the head — suggestion of a halo or sacred framing"
+  ],
+  "description": "A close-up portrait study of a young man's head and face, rendered in warm golden and brown tones. The figure has short dark hair, large expressive eyes gazing upward and to the side with an intense, searching expression. The face is illuminated from the left, creating strong contrasts of light and shadow. Behind the head, a curved arch-like form is faintly visible in the dark background. The brushwork is loose and expressive.",
+  "theological_description": "This portrait depicts John the Apostle, traditionally identified as the youngest of the Twelve and the 'disciple whom Jesus loved' (John 13:23). John occupied a unique place of intimacy with Christ — he reclined next to Jesus at the Last Supper, stood at the foot of the cross when others had fled (John 19:26-27), and was among the first to reach the empty tomb on Easter morning (John 20:4). The youthful face with its searching, upward gaze captures the spiritual intensity of one who would later write, 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1). John's Gospel, epistles, and the book of Revelation would become cornerstones of Christian theology, particularly his emphasis on divine love: 'God is love, and whoever abides in love abides in God, and God abides in him' (1 John 4:16). The intimate portrayal suggests the closeness to Christ that defined John's entire apostolic identity.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.13.23",
+      "relevance": "primary",
+      "reason": "John as the beloved disciple who reclined next to Jesus — the intimate relationship this portrait evokes"
+    },
+    {
+      "ref": "JHN.19.26-27",
+      "relevance": "allusion",
+      "reason": "John at the cross, entrusted with the care of Mary — his faithfulness reflected in his intense gaze"
+    },
+    {
+      "ref": "1JN.4.16",
+      "relevance": "allusion",
+      "reason": "John's theology of divine love, the spiritual depth suggested by the portrait's contemplative quality"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intense",
+    "contemplative",
+    "intimate"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0120060",
+    "title": "The head of John the Apostle",
+    "artist": "Nikolai Ge",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Paul the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Paul holding sword and book",
+  "tags": [
+    "apostle",
+    "sword-of-the-spirit",
+    "book",
+    "red-cloak",
+    "halo",
+    "radiant-crown",
+    "missionary",
+    "martyrdom",
+    "authority",
+    "standing-figure",
+    "green-brocade-background",
+    "elderly-man",
+    "long-beard",
+    "devotional-image"
+  ],
+  "symbols": [
+    "sword — instrument of Paul's martyrdom by beheading and the sword of the Spirit (Word of God)",
+    "book — the Epistles authored by Paul and the authority of Scripture",
+    "red cloak — martyrdom and the blood shed for the Gospel",
+    "radiant halo with pointed rays — divine glory and sanctity",
+    "green brocade background — eternal life and the richness of the heavenly court",
+    "solemn frontal gaze — apostolic authority and direct witness to Christ"
+  ],
+  "description": "A full-length portrait of an elderly bearded man standing solemnly against an ornate green brocade background. He wears a voluminous red cloak over a darker red garment. In his right hand he holds a large dark sword pointing downward, and in his left he clutches a small dark book. His head is crowned with a radiant golden halo composed of pointed rays. His expression is grave and authoritative, his long white beard falling over the heavy folds of cloth.",
+  "theological_description": "Paul the Apostle, the former persecutor turned greatest missionary of the early Church, is depicted with his two traditional attributes: the sword and the book. The sword recalls both his instrument of martyrdom — tradition holds he was beheaded under Nero in Rome — and the metaphor of Ephesians 6:17, the 'sword of the Spirit, which is the word of God.' The book represents his immense literary legacy: thirteen or fourteen epistles that form the theological backbone of the New Testament. Paul's red cloak symbolizes the blood of his martyrdom, while simultaneously evoking the royal garments of one who shares in the kingly office of Christ. His radiant halo signifies his sanctity and glorification. The green brocade backdrop suggests the eternal verdure of paradise where the faithful apostle now dwells. This portrait captures the paradox of Paul — a man of letters and a man of the sword, an intellectual giant who was also willing to pour out his life as a drink offering (2 Timothy 4:6).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.9.1-19",
+      "relevance": "primary",
+      "reason": "Paul's conversion on the road to Damascus, the foundational event of his apostleship"
+    },
+    {
+      "ref": "EPH.6.17",
+      "relevance": "primary",
+      "reason": "The sword of the Spirit, which is the word of God — symbolized by the sword Paul holds"
+    },
+    {
+      "ref": "2TI.4.6-8",
+      "relevance": "primary",
+      "reason": "Paul's declaration that he has fought the good fight and is ready to be poured out as a drink offering, anticipating his martyrdom"
+    },
+    {
+      "ref": "GAL.1.11-16",
+      "relevance": "allusion",
+      "reason": "Paul's testimony that his gospel came by direct revelation from Jesus Christ, grounding his apostolic authority"
+    },
+    {
+      "ref": "PHP.1.21",
+      "relevance": "allusion",
+      "reason": "To live is Christ and to die is gain — the theology undergirding Paul's serene acceptance of martyrdom"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "authoritative",
+    "reverent"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0100008",
+    "title": "St. Paul",
+    "artist": "Nuno Gonçalves",
+    "model": "claude-opus-4-6"
+  }
+}

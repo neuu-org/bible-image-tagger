@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Soldiers/Tormentors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ mocked and tormented in silence",
+  "tags": [
+    "mocking-of-christ",
+    "crowning-with-thorns",
+    "tormentors",
+    "seated-christ",
+    "halo",
+    "gray-palette",
+    "crown-of-thorns",
+    "bound-hands",
+    "soldiers",
+    "whip",
+    "humiliation",
+    "passion-narrative",
+    "patience-of-christ"
+  ],
+  "symbols": [
+    "seated Christ in silence — the patient endurance of the Lamb who is led to slaughter",
+    "crown of thorns — the mockery of kingship that paradoxically reveals true sovereignty",
+    "halo amidst mockery — divine glory persisting through human degradation",
+    "tormentors surrounding Christ — the forces of evil encircling the innocent one",
+    "whip on the ground — the instruments of torture and the violence already inflicted",
+    "gray/grisaille palette — the draining of color reflects the draining of life, the sobriety of suffering"
+  ],
+  "description": "A grisaille painting in muted gray tones showing Christ seated centrally, nearly nude, wearing a crown of thorns and a radiant halo. He appears bound, with a weary, resigned expression. Around him stand several figures in white and gray garments — soldiers and tormentors — some striking or mocking him. One figure to the left holds a staff or spear, while others crowd close. A whip or rope lies on the green floor in the foreground. The predominantly gray palette gives the scene a ghostly, haunting quality, with only Christ's halo providing any sense of light or glory.",
+  "theological_description": "This scene from the Passion depicts the mocking and abuse of Christ during his trial, as recorded in Matthew 27:27-31 and Mark 15:16-20. The soldiers 'stripped him and put a scarlet robe on him, and twisting together a crown of thorns, they put it on his head... and they knelt before him and mocked him, saying, Hail, King of the Jews!' The grisaille rendering — drained of color — powerfully conveys the theological reality of kenosis, the self-emptying of Philippians 2:6-8: Christ 'emptied himself, by taking the form of a servant, being born in human likeness.' His silence before his tormentors fulfills Isaiah 53:7: 'He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter.' The paradox is profound: the one being mocked as king is in truth the King of Kings. The crown of thorns, placed in derision, becomes the true crown — for Christ's kingship is revealed precisely through suffering. First Peter 2:23 reflects on this scene: 'When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly.'",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "primary",
+      "reason": "The soldiers mocking Christ with the crown of thorns and scarlet robe — the event depicted"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "Like a lamb led to slaughter, he opened not his mouth — Christ's silence before his tormentors"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "allusion",
+      "reason": "Christ emptied himself, taking the form of a servant — the kenosis made visible in his humiliation"
+    },
+    {
+      "ref": "1PE.2.23",
+      "relevance": "allusion",
+      "reason": "When reviled he did not revile in return — the patient endurance depicted in Christ's silence"
+    },
+    {
+      "ref": "MRK.15.16-20",
+      "relevance": "primary",
+      "reason": "Mark's account of the soldiers mocking and striking Jesus"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "somber",
+    "haunting",
+    "sorrowful",
+    "restrained"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0100543",
+    "title": "Christ in silence (Grey Passion-9)",
+    "artist": "Hans Holbein the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

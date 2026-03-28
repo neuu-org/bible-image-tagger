@@ -1,0 +1,71 @@
+{
+  "key": "0130869",
+  "title": "Sermon on the Mount",
+  "artist": "James Tissot",
+  "description": "A figure in white robes stands atop a rocky promontory on a steep hillside, right arm extended in a teaching gesture. Below, a vast multitude fills the slope and the valley floor. The crowd is dressed in earth-toned garments -- browns, blues, whites, and yellows -- with many seated or crouching on the grassy terrain. The hill descends sharply to the left, where hundreds more listeners stretch into the distance. In the background, a calm body of water (the Sea of Galilee) reflects pale light under an overcast sky, with barren hills rising on the far shore.",
+  "theological_description": "The Sermon on the Mount (Matthew 5-7) is the most comprehensive and celebrated block of Jesus' ethical teaching in the Gospels. Delivered on a hillside near the Sea of Galilee early in His public ministry, it opens with the Beatitudes, which invert worldly values by pronouncing blessing on the poor in spirit, the meek, the merciful, and the persecuted. Jesus proceeds to reinterpret the Mosaic Law, deepening its demands from external compliance to interior disposition -- addressing anger, lust, oaths, retaliation, and love of enemies. The sermon includes the Lord's Prayer, warnings against hypocrisy, teachings on anxiety and trust in God's provision, and the golden rule. It concludes with the parable of the wise and foolish builders. The mountainside setting deliberately evokes Moses receiving the Law on Sinai, positioning Jesus as the new and greater lawgiver who fulfills and transcends the Torah. Luke's parallel 'Sermon on the Plain' (Luke 6:17-49) preserves a shorter version of the same core teaching. The sermon remains foundational to Christian ethics and discipleship.",
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Crowd of Followers",
+      "type": "GROUP"
+    }
+  ],
+  "tags": [
+    "sermon-on-the-mount",
+    "beatitudes",
+    "teaching",
+    "hillside",
+    "multitude",
+    "sea-of-galilee",
+    "public-ministry",
+    "ethics",
+    "discipleship",
+    "galilee"
+  ],
+  "event": "Sermon on the Mount",
+  "scene_type": "narrative",
+  "mood": [
+    "authoritative",
+    "peaceful",
+    "awe-inspiring"
+  ],
+  "period": "Gospel",
+  "scripture_refs": [
+    {
+      "reference": "Matt.5.1-2",
+      "relevance": "primary",
+      "reason": "Opening of the Sermon on the Mount: Jesus goes up the mountain, sits down, and begins to teach the crowds"
+    },
+    {
+      "reference": "Matt.5.3-12",
+      "relevance": "primary",
+      "reason": "The Beatitudes, the foundational pronouncements that open the sermon"
+    },
+    {
+      "reference": "Matt.7.28-29",
+      "relevance": "primary",
+      "reason": "The crowds are astonished at Jesus' teaching because He taught with authority"
+    },
+    {
+      "reference": "Luke.6.17-20",
+      "relevance": "allusion",
+      "reason": "Luke's parallel Sermon on the Plain, a shorter version of the same core teaching delivered to a great multitude"
+    },
+    {
+      "reference": "Deut.18.15",
+      "relevance": "typological",
+      "reason": "Moses' prophecy of a prophet like himself whom God would raise up, fulfilled in Jesus as the new lawgiver on the mount"
+    }
+  ],
+  "_meta": {
+    "key": "0130869",
+    "title": "Sermon on the Mount",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  },
+  "symbols": []
+}

@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Lamentation of Christ at the Foot of the Cross",
+  "tags": [
+    "lamentation",
+    "pieta",
+    "dead-christ",
+    "cross",
+    "calvary",
+    "virgin-mary",
+    "john-the-apostle",
+    "grief",
+    "landscape-setting",
+    "desolate-hilltop",
+    "wounds",
+    "crown-of-thorns",
+    "passion-narrative",
+    "devotional-painting",
+    "three-mourners"
+  ],
+  "symbols": [
+    "empty cross above — the instrument of death now emptied of its victim",
+    "Christ's body on the ground — the completed sacrifice laid upon the earth",
+    "Virgin Mary supporting Christ's head — the mother cradling in death the son she cradled at birth",
+    "John the Apostle in red — the beloved disciple entrusted with Mary's care",
+    "barren landscape — the desolation of Golgotha and the spiritual wasteland of the crucifixion"
+  ],
+  "description": "A vertical composition showing the dead body of Christ laid at the foot of an empty wooden cross on a barren hilltop. The Virgin Mary in dark robes supports Christ's upper body, her face contorted with grief. A young figure in red (John) stands at right gazing down sorrowfully. Another figure, possibly Mary Magdalene, kneels at left. Christ's body is pale with visible wounds. The landscape is desolate with rocky terrain and a distant hilly horizon under an overcast sky. The cross rises starkly above the small group of mourners.",
+  "theological_description": "This intimate Lamentation reduces the mourners to the essential three — Mary, John, and a holy woman — creating a concentrated meditation on grief and redemption. The empty cross towering above the scene has completed its terrible work; Christ's body, bearing the marks of scourging, nailing, and the crown of thorns, lies on the earth from which the first Adam was formed. The Virgin Mary cradles her dead son in a deliberate inversion of the Nativity — the mother who once held the newborn infant now holds the lifeless body, completing the arc of sorrows foretold by Simeon. The beloved disciple John, to whom Jesus entrusted his mother from the cross with the words 'Behold your mother' (John 19:27), stands in silent fidelity. The barren landscape of Golgotha — the Place of the Skull — embodies the cosmic desolation that accompanied Christ's death: 'darkness came over all the land' (Matthew 27:45). Yet within this scene of utter loss lies the seed of hope: the one who is dead will not remain dead. The body they mourn is the same body that will rise on the third day.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and John at the cross — the intimate witnesses depicted in this Lamentation"
+    },
+    {
+      "ref": "MAT.27.57-60",
+      "relevance": "primary",
+      "reason": "The aftermath of the crucifixion and preparation for burial"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "A sword will pierce your own soul — Mary's grief as the fulfillment of Simeon's prophecy"
+    },
+    {
+      "ref": "ISA.53.3-4",
+      "relevance": "typological",
+      "reason": "A man of sorrows, acquainted with grief, who bore our infirmities"
+    },
+    {
+      "ref": "MAT.27.45",
+      "relevance": "allusion",
+      "reason": "Darkness over all the land — the cosmic desolation reflected in the barren landscape"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "desolate",
+    "grieving",
+    "solemn",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110446",
+    "title": "The Lamentation of Christ",
+    "artist": "Dirk Bouts",
+    "model": "claude-opus-4-6"
+  }
+}

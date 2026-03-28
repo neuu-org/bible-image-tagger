@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Study of the Head of Christ",
+  "tags": [
+    "head-of-christ",
+    "sketch",
+    "red-chalk-drawing",
+    "downcast-eyes",
+    "long-hair",
+    "gentle-expression",
+    "preparatory-study",
+    "serene-face",
+    "portrait-of-jesus",
+    "soft-features",
+    "contemplative-gaze",
+    "beard",
+    "devotional-image"
+  ],
+  "symbols": [
+    "downcast eyes — Christ's humility and sorrow at the Last Supper",
+    "soft gentle features — the meekness and gentleness of the Savior",
+    "long flowing hair — traditional iconographic attribute of Christ",
+    "red chalk medium — the warmth and humanity of the incarnate God"
+  ],
+  "description": "A red chalk drawing showing the head and upper neck of a young man with long flowing hair parted in the center, eyes cast downward, and a short beard. The expression is gentle, contemplative, and slightly sorrowful. The features are soft and idealized — delicate nose, full lips slightly parted, smooth brow. The drawing technique is loose and atmospheric, with hair rendered in flowing strokes. The warm reddish-brown tones give the study an intimate, living quality.",
+  "theological_description": "This preparatory study for the Last Supper captures the face of Christ at the moment of profound interior anguish — knowing that one of his beloved disciples will betray him, that his Passion is imminent, and that he must institute the new covenant in his blood. The downcast eyes convey the weight of what Jesus described: 'My soul is overwhelmed with sorrow to the point of death' (Matthew 26:38). Yet the gentleness of the expression also reveals the divine love that motivated the Passion: 'Having loved his own who were in the world, he loved them to the end' (John 13:1). Leonardo's study presents a Christ who is fully human in his emotional suffering yet possessed of a supernatural serenity that transcends the anguish. The softness of the features echoes Isaiah's description of the Servant: 'He will not cry out or raise his voice' (Isaiah 42:2). This is the face of one who goes voluntarily to his death, not in resignation but in the fullness of redemptive love.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.21-22",
+      "relevance": "primary",
+      "reason": "Jesus at the Last Supper announcing that one of the twelve will betray him — the probable moment this study captures"
+    },
+    {
+      "ref": "JHN.13.1",
+      "relevance": "primary",
+      "reason": "Having loved his own who were in the world, he loved them to the end — the love visible in Christ's gentle expression"
+    },
+    {
+      "ref": "ISA.42.2-3",
+      "relevance": "typological",
+      "reason": "The Servant who will not cry out or raise his voice — the quiet dignity of Christ's demeanor"
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "typological",
+      "reason": "A man of sorrows, acquainted with grief — the sorrow visible in the downcast eyes"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "gentle",
+    "sorrowful",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0110269",
+    "title": "Study of Christ for the Last Supper",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}
