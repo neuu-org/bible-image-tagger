@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "St. Francis of Assisi",
+      "type": "PERSON"
+    }
+  ],
+  "event": "St. Francis of Assisi in meditation with a skull",
+  "tags": [
+    "st-francis",
+    "meditation",
+    "skull",
+    "memento-mori",
+    "brown-habit",
+    "hood",
+    "franciscan",
+    "asceticism",
+    "dark-background"
+  ],
+  "symbols": [
+    "skull — memento mori, meditation on mortality and the transience of earthly life",
+    "brown Franciscan habit with hood — poverty, humility, and identification with the poor",
+    "upward gaze — spiritual aspiration, the contemplative soul seeking God beyond death",
+    "dark stormy background — the world's darkness from which the saint turns toward heaven"
+  ],
+  "description": "A powerful half-length portrait of St. Francis of Assisi by Zurbaran. The saint wears the coarse brown Franciscan habit with its distinctive pointed hood pulled up over his head, shadowing his face. He gazes upward and to the left with an expression of spiritual longing and intensity. His hands cradle a human skull against his chest. The background is dark and stormy with a small break of light in the clouds. The painting is rendered with Zurbaran's characteristic dramatic chiaroscuro, the rough texture of the habit contrasting with the smooth bone of the skull.",
+  "theological_description": "While St. Francis of Assisi (1181-1226) is a post-biblical figure, he is perhaps the most Christ-like saint in Christian history, and his spirituality was entirely rooted in Scripture. His radical embrace of poverty was inspired by Jesus's command in Matthew 19:21: 'If you want to be perfect, go, sell your possessions and give to the poor.' His meditation on the skull reflects Ecclesiastes 12:7, 'The dust returns to the ground it came from, and the spirit returns to God who gave it,' and Psalm 90:12, 'Teach us to number our days, that we may gain a heart of wisdom.' Francis's upward gaze amid the contemplation of death embodies the Christian hope of 2 Corinthians 4:18: 'We fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.' His famous stigmata — the wounds of Christ appearing on his body — made him a living fulfillment of Galatians 2:20: 'I have been crucified with Christ and I no longer live, but Christ lives in me.' Zurbaran's austere composition captures the Franciscan ideal of finding God through radical simplicity and detachment from the world.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.19.21",
+      "relevance": "typological",
+      "reason": "Christ's command to sell all and give to the poor — the inspiration for Francis's radical poverty"
+    },
+    {
+      "ref": "PSA.90.12",
+      "relevance": "typological",
+      "reason": "Teach us to number our days — the skull meditation embodying this wisdom prayer"
+    },
+    {
+      "ref": "2CO.4.18",
+      "relevance": "typological",
+      "reason": "Fixing eyes on the unseen and eternal — Francis's upward gaze beyond the visible skull"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "allusion",
+      "reason": "Crucified with Christ — Francis's total identification with the crucified Lord"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "austere",
+    "intense",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0190729",
+    "title": "St. Francis",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

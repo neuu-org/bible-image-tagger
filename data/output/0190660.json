@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Merchant",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pearl seller",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Parable of the Pearl of Great Price",
+  "tags": [
+    "parable",
+    "pearl-of-great-price",
+    "merchant",
+    "transaction",
+    "kingdom-of-heaven",
+    "biblical-parable",
+    "treasure"
+  ],
+  "symbols": [
+    "pearl being exchanged — the kingdom of heaven, worth selling everything to obtain",
+    "merchant examining the pearl — the seeker who recognizes the supreme value of God's kingdom",
+    "group of witnesses — those who observe the radical commitment required to possess the kingdom",
+    "bare feet and simple garments — the willingness to relinquish all worldly wealth for the one thing of ultimate value"
+  ],
+  "description": "A detailed black-and-white engraving showing a group of figures in biblical-era clothing. Two central figures face each other — one holding or examining a small object (the pearl) while the other extends his hand to offer or receive it. Both men are bearded and wear simple robes and sandals. Additional figures, including what appears to be a young person on the left and another on the right, watch the transaction. The style is precise Pre-Raphaelite draftsmanship with fine cross-hatching and careful anatomical rendering.",
+  "theological_description": "This engraving illustrates the Parable of the Pearl of Great Price from Matthew 13:45-46: 'Again, the kingdom of heaven is like a merchant looking for fine pearls. When he found one of great value, he went away and sold everything he had and bought it.' This brief but powerful parable is one of Jesus's most concentrated teachings about the nature of the kingdom of God. The merchant is not a casual finder but a deliberate seeker — someone who has spent a lifetime evaluating pearls and instantly recognizes when he has found the incomparable one. His response is total: he sells everything to acquire it. This is not depicted as sacrifice but as joyful exchange — the merchant gladly gives up lesser goods for the supreme treasure. The parable teaches that the kingdom of heaven is of such surpassing worth that obtaining it justifies the surrender of everything else, echoing Paul's testimony in Philippians 3:8: 'I consider everything a loss because of the surpassing worth of knowing Christ Jesus my Lord, for whose sake I have lost all things.' The paired parable of the Hidden Treasure (Matthew 13:44) teaches the same truth from a different angle — there, the kingdom is found by accident; here, it is found by diligent seeking.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.13.45-46",
+      "relevance": "primary",
+      "reason": "The Parable of the Pearl of Great Price — the exact scene depicted, the merchant selling all to buy the pearl"
+    },
+    {
+      "ref": "MAT.13.44",
+      "relevance": "primary",
+      "reason": "The paired Parable of the Hidden Treasure, teaching the same truth of the kingdom's surpassing value"
+    },
+    {
+      "ref": "PHP.3.8",
+      "relevance": "typological",
+      "reason": "Paul counting all things as loss for the surpassing worth of knowing Christ — the apostolic fulfillment of this parable"
+    },
+    {
+      "ref": "MAT.6.33",
+      "relevance": "allusion",
+      "reason": "Seek first the kingdom of God — the merchant's single-minded pursuit of the pearl of greatest value"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "earnest",
+    "contemplative",
+    "purposeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190660",
+    "title": "Pearl of great price",
+    "artist": "John Everett Millais",
+    "model": "claude-opus-4-6"
+  }
+}

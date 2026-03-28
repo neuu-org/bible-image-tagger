@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints and Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "The Damned",
+      "type": "GROUP"
+    },
+    {
+      "name": "The Saved",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Judgment",
+  "tags": [
+    "last-judgment",
+    "christ-in-majesty",
+    "mandorla",
+    "heaven-and-hell",
+    "separation-of-souls",
+    "angels",
+    "saints",
+    "damned",
+    "saved",
+    "resurrection-of-the-dead",
+    "gold-background",
+    "triptych-format",
+    "gates-of-hell",
+    "paradise"
+  ],
+  "symbols": [
+    "Christ enthroned in mandorla — the Judge of all humanity returned in glory",
+    "separation of right and left — the sheep and goats divided at the final reckoning",
+    "gates of hell at lower right — the destination of the unrighteous",
+    "paradise at upper left — the reward of the faithful",
+    "resurrection of the dead below — the universal raising at the Last Day"
+  ],
+  "description": "A complex multi-panel composition depicting the Last Judgment. At the top center, Christ sits enthroned in a luminous mandorla surrounded by ranks of angels, apostles, and saints against a gold background. Below, the composition divides: at center, the dead rise from their graves; to the left (Christ's right), the saved are welcomed into paradise by angels; to the right (Christ's left), the damned are driven into the fires of hell by demons. The upper register is golden and radiant; the lower right is dark with flames and tormented figures.",
+  "theological_description": "Fra Angelico's Last Judgment visualizes the eschatological culmination described in Matthew 25:31-46: 'When the Son of Man comes in his glory, and all the angels with him, he will sit on his glorious throne. All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats.' Christ in the mandorla is the returning Judge of Revelation 20:11-15, before whose great white throne the dead, 'great and small,' are judged according to their deeds. The separation into saved and damned enacts Jesus's teaching: those who fed the hungry, clothed the naked, and visited the sick are welcomed into the Father's kingdom; those who failed to show mercy are sent into eternal punishment (Matthew 25:34-46). The resurrection of the dead from their graves fulfills John 5:28-29: 'A time is coming when all who are in their graves will hear his voice and come out — those who have done what is good will rise to live, and those who have done what is evil will rise to be condemned.' The ordered, hierarchical composition reflects the theological conviction that the final judgment restores perfect justice and order to a creation marred by sin.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.31-46",
+      "relevance": "primary",
+      "reason": "The Son of Man separating sheep from goats — the direct narrative framework"
+    },
+    {
+      "ref": "REV.20.11-15",
+      "relevance": "primary",
+      "reason": "The great white throne judgment, the dead judged according to their deeds"
+    },
+    {
+      "ref": "JHN.5.28-29",
+      "relevance": "primary",
+      "reason": "All in graves will hear his voice and come out — the resurrection of the dead depicted"
+    },
+    {
+      "ref": "DAN.7.9-10",
+      "relevance": "typological",
+      "reason": "The Ancient of Days taking his seat for judgment — the Old Testament prefiguration"
+    },
+    {
+      "ref": "2CO.5.10",
+      "relevance": "allusion",
+      "reason": "We must all appear before the judgment seat of Christ — the universal scope"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awesome",
+    "solemn",
+    "terrifying",
+    "glorious"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0170921",
+    "title": "Last Judgment",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

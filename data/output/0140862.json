@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit (as dove)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Witnesses",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Baptism of Christ",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "john-the-baptist",
+    "holy-spirit-dove",
+    "angels",
+    "god-the-father",
+    "water",
+    "heavens-opening",
+    "trinity",
+    "cherub",
+    "red-robe",
+    "landscape",
+    "witnesses"
+  ],
+  "symbols": [
+    "dove descending — the Holy Spirit confirming Christ's identity and mission",
+    "heavens opening above — God breaking through to declare his Son",
+    "water of the Jordan — purification and the inauguration of Christ's public ministry",
+    "John pouring water — the last prophet of the old covenant baptizing the inaugurator of the new",
+    "angels attending — the heavenly court witnessing the Trinity revealed",
+    "cherub between heaven and earth — the mediating presence linking the divine declaration to the earthly event"
+  ],
+  "description": "A tall vertical composition showing the baptism of Christ. At center, a nearly nude Christ stands in water while John the Baptist, in a red robe, pours water over his head from the right. Above them, a white dove descends from a golden circular glory or heavens-opening, flanked by two angels in flowing robes. A small cherub head appears between the dove and the baptismal scene. Additional figures stand behind at either side as witnesses. The background shows a gentle landscape with distant hills.",
+  "theological_description": "Perugino's Baptism of Christ depicts the moment when all three persons of the Trinity are simultaneously revealed. Matthew records: 'And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and behold, a voice from heaven said, This is my beloved Son, with whom I am well pleased' (Matthew 3:16-17). This is the definitive Trinitarian theophany — the Father speaks, the Spirit descends, and the Son stands in the water. John the Baptist's role is climactic: he who had proclaimed 'I baptize you with water for repentance, but he who is coming after me is mightier than I... He will baptize you with the Holy Spirit and fire' (Matthew 3:11) now sees the fulfillment of his entire prophetic ministry. The baptism inaugurates Christ's public ministry, fulfilling Isaiah's prophecy: 'Behold my servant, whom I uphold, my chosen, in whom my soul delights; I have put my Spirit upon him' (Isaiah 42:1). Jesus submitted to baptism not because he needed repentance but to 'fulfill all righteousness' (Matthew 3:15) — identifying with sinful humanity in order to redeem it.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "The baptism of Jesus by John, the heavens opening, the dove descending, and the Father's voice"
+    },
+    {
+      "ref": "MRK.1.9-11",
+      "relevance": "primary",
+      "reason": "Mark's account of the baptism with the Spirit descending like a dove"
+    },
+    {
+      "ref": "ISA.42.1",
+      "relevance": "typological",
+      "reason": "God putting his Spirit upon his chosen servant — fulfilled in the dove descending on Christ"
+    },
+    {
+      "ref": "MAT.3.11",
+      "relevance": "primary",
+      "reason": "John's prophecy of the mightier one who will baptize with the Holy Spirit — now standing before him"
+    },
+    {
+      "ref": "JHN.1.32-34",
+      "relevance": "allusion",
+      "reason": "John's testimony that he saw the Spirit descend and remain on Jesus, confirming him as Son of God"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "revelatory",
+    "serene",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140862",
+    "title": "Altarpiece of St. Augustine - Scene Baptism of Christ",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

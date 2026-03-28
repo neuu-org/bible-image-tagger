@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gathered figures (companions, onlookers)",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Scenes from the Life of Saint Mary Magdalene",
+  "tags": [
+    "mary-magdalene",
+    "preaching",
+    "outdoor-gathering",
+    "kneeling-figure",
+    "richly-dressed-figures",
+    "landscape",
+    "trees",
+    "soldiers",
+    "distant-castle",
+    "narrative-scene",
+    "conversion",
+    "worldly-life"
+  ],
+  "symbols": [
+    "richly dressed figures — the worldly life of luxury that Magdalene will abandon for Christ",
+    "kneeling and listening postures — the conversion from worldly pursuits to spiritual devotion",
+    "pastoral landscape with distant buildings — the journey from the world to the Kingdom of God",
+    "gathering under trees — a teaching or preaching scene"
+  ],
+  "description": "A densely populated outdoor scene with numerous figures arranged in groups under trees in a landscape setting. At left, a woman in an elegant golden dress kneels. Around her, various figures in rich Renaissance clothing sit, stand, and converse — some in armor, some in elaborate dresses, some in simpler garb. A distant castle or city is visible in the background. The painting has the character of a continuous narrative, depicting multiple episodes from Magdalene's life in a single landscape. The palette is rich with reds, greens, golds, and earth tones.",
+  "theological_description": "Lucas van Leyden's painting presents scenes from the life of Mary Magdalene, one of the most significant women in the Gospels. Magdalene's transformation from a life of sin to devoted discipleship embodies the radical power of Christ's forgiveness. Luke introduces her as 'a woman in that town who lived a sinful life' who wept at Jesus's feet, washing them with tears and anointing them with perfume (Luke 7:37-38). Jesus declared to her: 'Your sins are forgiven... Your faith has saved you; go in peace' (Luke 7:48-50). She became one of Jesus's most faithful followers, among the women who 'were helping to support them out of their own means' (Luke 8:2-3). The richly dressed figures in the painting suggest the worldly milieu from which Magdalene emerged. Most profoundly, she was the first witness of the Resurrection — Jesus appeared to her at the empty tomb and commissioned her: 'Go to my brothers and tell them' (John 20:17). The early Church called her 'the apostle to the apostles.' Her story embodies Jesus's teaching: 'I tell you, her many sins have been forgiven — as her great love has shown' (Luke 7:47).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.37-50",
+      "relevance": "primary",
+      "reason": "The sinful woman anointing Jesus's feet — Magdalene's conversion and forgiveness"
+    },
+    {
+      "ref": "LUK.8.2-3",
+      "relevance": "primary",
+      "reason": "Mary Magdalene among the women who followed and supported Jesus's ministry"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "primary",
+      "reason": "Magdalene as the first witness of the Resurrection — the climax of her life story"
+    },
+    {
+      "ref": "LUK.7.47",
+      "relevance": "allusion",
+      "reason": "Great love flowing from great forgiveness — the theological heart of Magdalene's story"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "rich",
+    "narrative",
+    "colorful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150709",
+    "title": "Scenes from the Life of St. Mary Magdalene",
+    "artist": "Lucas van Leyden",
+    "model": "claude-opus-4-6"
+  }
+}

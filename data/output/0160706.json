@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Satan",
+      "type": "OTHER"
+    },
+    {
+      "name": "Serpent",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Satan discovering the Serpent (Paradise Lost illustration)",
+  "tags": [
+    "satan",
+    "serpent",
+    "paradise-lost",
+    "bat-wings",
+    "fallen-angel",
+    "barren-landscape",
+    "temptation",
+    "coiled-serpent",
+    "desolation"
+  ],
+  "symbols": [
+    "bat-winged figure — Satan, the fallen angel whose wings are a corruption of angelic beauty",
+    "coiled serpent at his feet — the instrument through which Satan will tempt Eve, the ancient serpent",
+    "barren dead tree — the spiritual death that Satan brings wherever he goes",
+    "desolate landscape — the wasteland of hell or the threshold of Eden soon to be corrupted"
+  ],
+  "description": "A monochrome engraving showing a muscular winged figure seated on a rocky outcrop in a barren landscape. The figure has large bat-like wings spread behind, one arm raised with a pointing finger. At his feet, a large serpent lies coiled on the ground. A dead, bare tree stands in the middle distance. The landscape is bleak and empty with a distant horizon line of sea or plain. The rendering is highly detailed with fine crosshatching.",
+  "theological_description": "This illustration from Milton's Paradise Lost depicts Satan encountering the serpent he will use to tempt Eve in the Garden. Though Milton's epic is literary, its theological foundation is deeply biblical. Revelation identifies 'that ancient serpent called the devil, or Satan, who leads the whole world astray' (Revelation 12:9). The scene conflates the fall of Lucifer from heaven (Isaiah 14:12-15, Ezekiel 28:12-17) with the temptation in Eden (Genesis 3:1). Satan's bat wings — the corruption of angelic pinions — visualize the theology of the fall: what was beautiful in God's creation became grotesque through pride. The serpent, 'more crafty than any of the wild animals the Lord God had made' (Genesis 3:1), will become the vehicle for the deception that brings death into the world. Yet God's response to this conspiracy is already announced in the protoevangelium: 'He will crush your head, and you will strike his heel' (Genesis 3:15).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-5",
+      "relevance": "primary",
+      "reason": "The serpent's role in tempting Eve — the instrument Satan is about to employ"
+    },
+    {
+      "ref": "REV.12.9",
+      "relevance": "primary",
+      "reason": "The identification of the ancient serpent as Satan, the devil — linking serpent and fallen angel"
+    },
+    {
+      "ref": "ISA.14.12-15",
+      "relevance": "typological",
+      "reason": "The fall of Lucifer from heaven — the background to Satan's appearance in this scene"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "allusion",
+      "reason": "The protoevangelium — the seed of the woman will crush the serpent's head"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ominous",
+    "desolate",
+    "menacing"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0160706",
+    "title": "Him, fast sleeping, soon he found In labyrinth of many a round, self-rolled",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

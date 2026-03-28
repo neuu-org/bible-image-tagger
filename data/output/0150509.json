@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Women drawing water",
+      "type": "GROUP"
+    },
+    {
+      "name": "Townspeople of Nazareth",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Scene at the Fountain of the Virgin in Nazareth",
+  "tags": [
+    "nazareth",
+    "fountain",
+    "well",
+    "water-carriers",
+    "clay-jars",
+    "holy-land",
+    "stone-arch",
+    "women-at-well",
+    "middle-eastern-dress",
+    "pilgrims",
+    "donkey",
+    "spear-bearer",
+    "daily-life",
+    "biblical-landscape"
+  ],
+  "symbols": [
+    "fountain or well — the source of life in an arid land, and the traditional site where Mary drew water",
+    "women carrying water jars — the daily life that continued in Jesus's hometown across centuries",
+    "stone arch — the ancient infrastructure connecting the present to the biblical past",
+    "Nazareth setting — the hometown of Jesus where he grew up in obscurity"
+  ],
+  "description": "A lithograph showing a busy scene at a stone fountain or well in a Middle Eastern town. A large stone arch dominates the center background. Numerous figures populate the scene — women carrying large clay water jars on their heads, men in robes and headdresses, a soldier or guard with a spear, and a donkey at right. In the foreground, a woman crouches filling a vessel. A tree with autumn-colored leaves rises above the stone wall at left. The style is documentary and detailed, capturing the daily life of the region.",
+  "theological_description": "David Roberts's lithograph documents the Fountain of the Virgin in Nazareth, traditionally identified as the spring where Mary drew water during the years the Holy Family lived in this small Galilean town. Nazareth was Jesus's hometown — 'He went to Nazareth, where he had been brought up' (Luke 4:16) — and the place of his hidden years of growth: 'And Jesus grew in wisdom and stature, and in favor with God and man' (Luke 2:52). The fountain connects to the rich biblical theology of water as life. Jesus himself would later declare at the Feast of Tabernacles: 'Let anyone who is thirsty come to me and drink. Whoever believes in me, as Scripture has said, rivers of living water will flow from within them' (John 7:37-38). The scene of women drawing water at a well also evokes the great biblical well encounters — Rebecca at the well (Genesis 24), Rachel at the well (Genesis 29), the Samaritan woman at the well (John 4). Nazareth itself was a place of little reputation — 'Can anything good come from Nazareth?' Nathanael asked (John 1:46) — yet it was chosen by God as the place where his Son would be raised, affirming that God's purposes often unfold in humble, overlooked places.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.51-52",
+      "relevance": "primary",
+      "reason": "Jesus growing up in Nazareth — the setting of this fountain scene"
+    },
+    {
+      "ref": "LUK.4.16",
+      "relevance": "primary",
+      "reason": "Nazareth identified as the place where Jesus was brought up"
+    },
+    {
+      "ref": "JHN.1.46",
+      "relevance": "allusion",
+      "reason": "Nathanael's question about Nazareth's insignificance — the humble setting depicted"
+    },
+    {
+      "ref": "JHN.7.37-38",
+      "relevance": "typological",
+      "reason": "Jesus as the source of living water — the physical fountain pointing to spiritual reality"
+    },
+    {
+      "ref": "JHN.4.7-14",
+      "relevance": "typological",
+      "reason": "The woman at the well — women drawing water as a biblical archetype"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "bustling",
+    "documentary",
+    "timeless"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150509",
+    "title": "Nazareth. The Fountain of the Virgin",
+    "artist": "David Roberts",
+    "model": "claude-opus-4-6"
+  }
+}

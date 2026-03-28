@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor figures",
+      "type": "GROUP"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion (Sforza Triptych)",
+  "tags": [
+    "crucifixion",
+    "central-cross",
+    "virgin-mary",
+    "saint-john",
+    "donor-portraits",
+    "saints",
+    "golgotha",
+    "landscape-background",
+    "mourning",
+    "passion",
+    "red-robes"
+  ],
+  "symbols": [
+    "central cross — the axis of salvation history",
+    "Mary swooning or grieving — the Mater Dolorosa at the foot of the cross",
+    "Saint John standing faithful — the beloved disciple who remained",
+    "side panels with saints and donors — the Church across time gathered at the foot of the cross",
+    "landscape stretching to horizon — the universal scope of Christ's sacrifice"
+  ],
+  "description": "A triptych with a central panel showing the crucified Christ on the cross against a landscape background with a distant city. At the foot of the cross, the Virgin Mary in dark robes stands with mourners on the left, and Saint John in red stands at the right. The left wing shows additional saints and a kneeling donor figure in a landscape setting. The right wing shows more saints and donor figures. All three panels share a continuous landscape background. The palette includes rich reds, dark blues, and earthy tones against a pale sky.",
+  "theological_description": "Van der Weyden's Sforza Triptych presents the Crucifixion as the central event around which all of Christian life and devotion revolves. John records: 'When Jesus saw his mother and the disciple whom he loved standing nearby, he said to his mother, Woman, behold, your son! Then he said to the disciple, Behold, your mother!' (John 19:26-27). Mary and John at the foot of the cross represent the Church born from Christ's sacrifice — the new family of faith. The donor figures kneeling in the side panels illustrate the timeless nature of the crucifixion — believers across all centuries join Mary and John at Calvary through faith and the liturgy. The continuous landscape connecting all three panels suggests that the cross stands at the center of creation itself, as Paul declares: 'For in him all things were created, in heaven and on earth... and in him all things hold together... making peace by the blood of his cross' (Colossians 1:16-20). The distant city of Jerusalem reminds viewers that Jesus 'suffered outside the gate in order to sanctify the people through his own blood' (Hebrews 13:12).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and the beloved disciple at the cross — Jesus entrusting them to each other, forming the new family of faith"
+    },
+    {
+      "ref": "COL.1.16-20",
+      "relevance": "primary",
+      "reason": "All things created and reconciled through the blood of the cross — the universal scope of the triptych"
+    },
+    {
+      "ref": "HEB.13.12",
+      "relevance": "allusion",
+      "reason": "Jesus suffering outside the gate — the distant Jerusalem and the cross on Golgotha"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Boasting only in the cross of Christ — the central panel making the cross the focal point of all devotion"
+    },
+    {
+      "ref": "MAT.27.45-50",
+      "relevance": "primary",
+      "reason": "The crucifixion narrative — the direct event depicted in the central panel"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "devotional",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140640",
+    "title": "Sforza Triptych",
+    "artist": "Rogier van der Weyden",
+    "model": "claude-opus-4-6"
+  }
+}

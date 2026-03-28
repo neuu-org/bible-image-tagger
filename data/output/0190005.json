@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ in Glory surrounded by angels",
+  "tags": [
+    "christ-in-glory",
+    "angels",
+    "heavenly-host",
+    "brown-ink-sketch",
+    "clouds",
+    "ascension",
+    "celestial-vision",
+    "dynamic-composition"
+  ],
+  "symbols": [
+    "central elevated figure — Christ enthroned above all creation in divine majesty",
+    "swirling angels and clouds — the ceaseless worship of the heavenly host around God's throne",
+    "radiant energy from center — the uncreated light of divine glory"
+  ],
+  "description": "A brown ink and wash sketch on aged paper depicting a dynamic heavenly scene. A central figure, presumably Christ, is elevated amid swirling clouds and surrounded by multiple angelic figures in various poses of adoration and flight. The composition spirals upward with energetic, loose brushwork characteristic of a preparatory study. Several putti and larger angels cluster around the central figure in a burst of movement and light.",
+  "theological_description": "This preparatory sketch captures the theological vision of Christ reigning in glory amid the heavenly court, a theme rooted in multiple scriptural passages. The ascending composition reflects the theology of Philippians 2:9-11 where God exalted Christ to the highest place and gave Him the name above every name. The encircling angels recall the vision of Revelation 5:11-12 where myriads of angels surround the throne crying 'Worthy is the Lamb.' The dynamic energy of the composition captures the ceaseless worship described in Isaiah 6:2-3, where seraphim call to one another 'Holy, holy, holy is the Lord of hosts.' The sketch's luminous center, from which all movement radiates, embodies the Johannine declaration that Christ is the light of the world (John 8:12) and the Pauline teaching that in Him all things hold together (Colossians 1:17).",
+  "scripture_refs": [
+    {
+      "ref": "PHP.2.9-11",
+      "relevance": "primary",
+      "reason": "Christ exalted to the highest place with every knee bowing before Him corresponds to the elevated central figure"
+    },
+    {
+      "ref": "REV.5.11-12",
+      "relevance": "primary",
+      "reason": "Myriads of angels surrounding the throne in worship matches the encircling angelic figures"
+    },
+    {
+      "ref": "ISA.6.2-3",
+      "relevance": "typological",
+      "reason": "The seraphim's ceaseless worship of the holy God prefigures the angelic adoration shown here"
+    },
+    {
+      "ref": "COL.1.17",
+      "relevance": "allusion",
+      "reason": "The radiating composition with Christ at center reflects the theological truth that in Him all things hold together"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "glorious",
+    "dynamic",
+    "transcendent"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0190005",
+    "title": "Christ in Glory with the Angels",
+    "artist": "Giovanni Battista Gaulli",
+    "model": "claude-opus-4-6"
+  }
+}

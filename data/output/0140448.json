@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Sebastian (Sculpture)",
+  "tags": [
+    "saint-sebastian",
+    "bronze",
+    "nude-male",
+    "contrapposto",
+    "tree-stump",
+    "martyrdom",
+    "muscular-figure",
+    "curly-hair",
+    "classical-form",
+    "bound-figure",
+    "renaissance-sculpture"
+  ],
+  "symbols": [
+    "nude bound body — vulnerability and the stripping of worldly identity in martyrdom",
+    "tree stump — the post to which Sebastian was tied for execution by arrows",
+    "upward tilted head — the martyr's gaze toward heaven and eternal reward",
+    "muscular idealized form — the strength of faith persisting through physical suffering",
+    "contrapposto stance — the classical beauty of the human body created in God's image"
+  ],
+  "description": "A bronze sculpture of a nude young man with curly hair standing in a contrapposto pose. His left arm reaches behind his head while his right arm rests near a tree stump beside him. His head is tilted upward and to the side with an expression of pain or ecstasy. The figure is muscular and idealized, rendered in dark patinated bronze on a circular base. The tree stump serves as a structural support. The sculpture is photographed against a plain light gray background.",
+  "theological_description": "Vittoria's bronze Saint Sebastian depicts the early Christian martyr in the tradition of Renaissance idealization. Sebastian, a Roman soldier and secret Christian, was condemned to death by Emperor Diocletian and tied to a stake to be shot by archers. While not a biblical figure, Sebastian's martyrdom embodies the New Testament call to faithfulness unto death. His upward gaze, combining agony and transcendence, illustrates Paul's conviction: 'For to me to live is Christ, and to die is gain' (Philippians 1:21). The idealized beauty of the body, even in suffering, affirms the Christian understanding that the human form is made in the image of God (Genesis 1:27) and destined for resurrection glory. Stephen, the first Christian martyr, 'gazed into heaven and saw the glory of God' as he was killed (Acts 7:55-56) — Sebastian's upturned face captures this same heavenward vision. The Revelation promise echoes: 'Be faithful unto death, and I will give you the crown of life' (Revelation 2:10).",
+  "scripture_refs": [
+    {
+      "ref": "REV.2.10",
+      "relevance": "primary",
+      "reason": "The promise of the crown of life to those faithful unto death — Sebastian's martyrdom embodies this call"
+    },
+    {
+      "ref": "PHP.1.21",
+      "relevance": "primary",
+      "reason": "To live is Christ and to die is gain — the ecstatic expression combining suffering and transcendence"
+    },
+    {
+      "ref": "ACT.7.55-56",
+      "relevance": "typological",
+      "reason": "Stephen gazing into heaven at his martyrdom — the pattern of the heavenward-gazing martyr Sebastian follows"
+    },
+    {
+      "ref": "GEN.1.27",
+      "relevance": "allusion",
+      "reason": "Humanity made in God's image — the idealized beauty of the human form even in suffering"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "heroic",
+    "agonized",
+    "transcendent"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0140448",
+    "title": "San Sebastiano",
+    "artist": "Alessandro Vittoria",
+    "model": "claude-opus-4-6"
+  }
+}

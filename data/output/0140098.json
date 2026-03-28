@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Two Thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd at Golgotha",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "three-crosses",
+    "golgotha",
+    "crowd",
+    "modern-interpretation",
+    "dark-sky",
+    "urban-setting",
+    "figure-atop-cross",
+    "thieves",
+    "passion",
+    "agony",
+    "public-execution",
+    "earthy-tones",
+    "expressionist-crucifixion"
+  ],
+  "symbols": [
+    "central cross — the axis of salvation around which all human destiny turns",
+    "three crosses — Christ numbered with transgressors as Isaiah foretold",
+    "dense crowd pressing in — humanity both complicit in and witnessing the sacrifice",
+    "dark brooding sky — cosmic darkness that fell over the land at the sixth hour",
+    "urban buildings in background — the crucifixion transplanted to a modern city, universalizing the event",
+    "figure climbing atop the cross — the active work of execution, the deliberate human choice to kill the innocent"
+  ],
+  "description": "A dark, expressionistic rendering of the crucifixion showing three crosses with figures nailed to them, the central cross being the most prominent. A figure appears to be climbing or working atop the central cross. A dense crowd of people presses in around the base of the crosses, rendered in rough, earthy tones of brown, orange, white, and gray. The background shows dark urban buildings or structures against a brooding, smoky sky. The overall palette is somber with muted earth tones and heavy shadows.",
+  "theological_description": "Spencer's Crucifixion strips away the traditional grandeur of Renaissance depictions and presents the execution of Christ as a raw, crowded, almost modern event — emphasizing the brutal reality that a real man was killed by real people. This approach echoes the Gospel accounts' matter-of-fact reporting: 'And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left' (Luke 23:33). The dense crowd recalls Peter's Pentecost sermon that would later indict the people of Jerusalem: 'This Jesus... you crucified and killed by the hands of lawless men' (Acts 2:23). The modern urban setting suggests what the Epistle to the Hebrews affirms — that Christ suffered 'outside the gate' (Hebrews 13:12), outside the bounds of respectable society, in the margins where real suffering happens. The figure working atop the cross is a haunting reminder that the crucifixion required human hands, human decisions, human complicity. Yet theologically, this worst act of human evil was simultaneously the highest act of divine love: 'God shows his love for us in that while we were still sinners, Christ died for us' (Romans 5:8).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.33",
+      "relevance": "primary",
+      "reason": "The crucifixion at Calvary with two criminals is the direct scene rendered in this modern interpretation"
+    },
+    {
+      "ref": "ACT.2.23",
+      "relevance": "primary",
+      "reason": "Peter's indictment that the crowd crucified Jesus by the hands of lawless men is embodied in the pressing crowd"
+    },
+    {
+      "ref": "ROM.5.8",
+      "relevance": "allusion",
+      "reason": "God's love demonstrated through Christ dying for sinners — the paradox of divine love within brutal execution"
+    },
+    {
+      "ref": "HEB.13.12",
+      "relevance": "allusion",
+      "reason": "Christ suffering outside the gate is suggested by the urban setting placing the crucifixion amid ordinary life"
+    },
+    {
+      "ref": "MRK.15.33",
+      "relevance": "primary",
+      "reason": "The darkness over the whole land from the sixth to the ninth hour reflected in the brooding dark sky"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grim",
+    "oppressive",
+    "raw",
+    "sorrowful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140098",
+    "title": "Crucifixion",
+    "artist": "Robert Spencer",
+    "model": "claude-opus-4-6"
+  }
+}

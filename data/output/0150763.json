@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Andrew",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion of Saint Andrew on the X-Shaped Cross",
+  "tags": [
+    "saint-andrew",
+    "x-shaped-cross",
+    "saltire-cross",
+    "crucifixion",
+    "martyrdom",
+    "gold-background",
+    "halo",
+    "icon-style",
+    "letters-sapr",
+    "white-loincloth",
+    "bearded-figure",
+    "outstretched-arms",
+    "apostle"
+  ],
+  "symbols": [
+    "X-shaped cross (saltire) — the distinctive cross of Andrew's martyrdom, now a national symbol of Scotland",
+    "golden background — divine glory and the heavenly realm of the saints",
+    "halo — Andrew's sanctity as apostle and martyr",
+    "outstretched arms on the cross — sharing in Christ's crucifixion",
+    "letters S A P R — likely abbreviation for Sanctus Andreas Patronus Russiae (Saint Andrew Patron of Russia)"
+  ],
+  "description": "An icon-style painting showing a bearded, elderly man with a golden halo, crucified on a large X-shaped (saltire) cross. He wears only a white loincloth. His arms are bound to the upper arms of the X, hands raised with fingers in a blessing gesture. The cross is dark brown with golden borders, and the letters S, A, P, R appear in the four quadrants formed by the X. The background is bright gold. A decorative patterned border frames the entire composition. The style is iconic and stylized rather than naturalistic.",
+  "theological_description": "Vasilyev's icon depicts the martyrdom of Saint Andrew, the first-called apostle (Protokletos), who according to tradition was crucified on an X-shaped cross (crux decussata) at Patras in Greece. Andrew was the first disciple to follow Jesus, originally a disciple of John the Baptist who heard John declare, 'Look, the Lamb of God!' (John 1:36). Andrew immediately found his brother Simon Peter and told him, 'We have found the Messiah' (John 1:41) — making him the first evangelist. According to tradition, Andrew requested crucifixion on an X-shaped cross because he felt unworthy to die on the same type of cross as his Lord. This echoes Peter's similar sentiment (though tradition records Peter was crucified upside down). Andrew's martyrdom fulfills Jesus's prophecy to Peter about the apostolic destiny: 'When you are old you will stretch out your hands, and someone else will dress you and lead you where you do not want to go' (John 21:18). His crucifixion embodies Paul's conviction: 'I want to know Christ — yes, to know the power of his resurrection and participation in his sufferings, becoming like him in his death' (Philippians 3:10). The golden background affirms that this death, though brutal, opens into eternal glory.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.35-42",
+      "relevance": "primary",
+      "reason": "Andrew as the first disciple called — hearing John the Baptist and following Jesus"
+    },
+    {
+      "ref": "JHN.1.41",
+      "relevance": "primary",
+      "reason": "Andrew telling Peter 'We have found the Messiah' — the first act of Christian evangelism"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "typological",
+      "reason": "Sharing in Christ's sufferings and becoming like him in death — Andrew's crucifixion"
+    },
+    {
+      "ref": "JHN.21.18-19",
+      "relevance": "allusion",
+      "reason": "Jesus's prophecy of the apostles stretching out their hands — fulfilled in Andrew's martyrdom"
+    },
+    {
+      "ref": "MAT.4.18-20",
+      "relevance": "primary",
+      "reason": "The calling of Andrew and Peter as the first disciples by the Sea of Galilee"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "triumphant",
+    "sacred"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150763",
+    "title": "Saint Andrew",
+    "artist": "Konstantin Vasilyev",
+    "model": "claude-opus-4-6"
+  }
+}

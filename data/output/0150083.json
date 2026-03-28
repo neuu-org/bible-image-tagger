@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The High Priestly Prayer (Christ's Farewell to the Apostles)",
+  "tags": [
+    "high-priestly-prayer",
+    "farewell-discourse",
+    "jesus-and-apostles",
+    "white-robes",
+    "arched-setting",
+    "unity",
+    "prayer",
+    "clasped-hands",
+    "blessing",
+    "solemn-gathering",
+    "last-supper-context",
+    "spiritual-communion",
+    "twelve-disciples"
+  ],
+  "symbols": [
+    "white robes on all figures — purity, holiness, and the unity of Christ with his disciples",
+    "arched architectural frame — the sacred, liturgical space of Christ's final prayer",
+    "Christ at center with outstretched arms — the mediator between God and man, the great High Priest",
+    "apostles flanking Christ symmetrically — the ordered community of the Church founded on the apostles",
+    "clasped and folded hands — prayer, devotion, and the weight of the coming Passion"
+  ],
+  "description": "A frieze-like composition set within an arched architectural frame. At center stands a bearded figure in white robes with arms extended outward, palms open. Flanking him on either side are groups of men, also in white or light-colored robes, their hands clasped in prayer, folded, or held together. The figures are arranged symmetrically, six on each side. Their expressions are solemn and contemplative. The background is a muted grey-blue with an arched niche behind the central figure. The overall palette is restrained — whites, greys, and soft earth tones.",
+  "theological_description": "Burnand's painting captures what is known as the High Priestly Prayer of Jesus, recorded in John 17 — the most intimate and extended prayer of Christ preserved in Scripture. Spoken on the night before His crucifixion, after the Last Supper, Jesus prays for Himself, for His disciples, and for all future believers. The central petition is for unity: 'that all of them may be one, Father, just as you are in me and I am in you' (John 17:21). The visual symmetry and uniform white robes powerfully embody this theology of oneness. Christ stands as the great High Priest of the new covenant (Hebrews 4:14-16), interceding before the Father not with the blood of bulls and goats but with His own imminent sacrifice. His outstretched arms anticipate the cross — the posture of both prayer and crucifixion. The solemn, contemplative mood of the apostles reflects the gravity of what Jesus reveals: 'I am not praying for the world, but for those you have given me' (John 17:9). This is the moment of consecration: 'Sanctify them by the truth; your word is truth' (John 17:17). The painting captures the threshold between the intimacy of the Upper Room and the agony of Gethsemane, the last moment of gathered peace before the Passion shatters the community — only for the Resurrection to reconstitute it forever.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.17.1-26",
+      "relevance": "primary",
+      "reason": "The High Priestly Prayer of Jesus — the entire chapter is the direct subject of this painting"
+    },
+    {
+      "ref": "JHN.17.21",
+      "relevance": "primary",
+      "reason": "The prayer for unity among believers is visually expressed in the symmetrical, uniformly robed figures"
+    },
+    {
+      "ref": "HEB.4.14-16",
+      "relevance": "typological",
+      "reason": "Christ as the great High Priest who intercedes for his people is the theological framework of the scene"
+    },
+    {
+      "ref": "JHN.17.17",
+      "relevance": "primary",
+      "reason": "The prayer for sanctification through truth — 'Sanctify them by the truth; your word is truth'"
+    },
+    {
+      "ref": "JHN.13.1",
+      "relevance": "allusion",
+      "reason": "The context of the Last Supper evening when Jesus showed the full extent of his love to his disciples"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "reverent",
+    "contemplative",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150083",
+    "title": "Das Hohepriesterliche Gebet",
+    "artist": "Eugène Burnand",
+    "model": "claude-opus-4-6"
+  }
+}

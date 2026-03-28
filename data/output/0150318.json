@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Study of Saint John the Evangelist",
+  "tags": [
+    "saint-john",
+    "evangelist",
+    "figure-study",
+    "seated-figure",
+    "cross-body-strap",
+    "muscular-figure",
+    "classical-urn",
+    "mannerist",
+    "draped-cloth",
+    "curly-hair",
+    "contemplative-pose"
+  ],
+  "symbols": [
+    "chalice or urn beside the figure — John's traditional attribute, the poisoned chalice he survived",
+    "cross-body strap — the apostolic mission and readiness for service",
+    "muscular, idealized body — the Renaissance celebration of the human form as divine creation"
+  ],
+  "description": "A chalk and charcoal drawing on paper depicting a muscular seated male figure with curly hair, viewed in three-quarter angle. He wears a cross-body strap and minimal draped cloth around his waist. His body is rendered with careful anatomical attention in the Mannerist style. Beside him at right stands a classical urn or chalice on a draped surface. The figure's expression is contemplative, head slightly turned. The drawing is executed in soft grey-green tones with delicate modeling.",
+  "theological_description": "This figure study by Salviati depicts Saint John the Evangelist, the 'beloved disciple' who leaned on Jesus's breast at the Last Supper (John 13:23) and to whom Jesus entrusted his mother from the cross (John 19:26-27). The chalice or urn beside him is John's traditional iconographic attribute, derived from the legend that he was given a cup of poisoned wine but survived by blessing it — a story connected to Jesus's words: 'Can you drink the cup I drink?' (Mark 10:38). John is unique among the apostles as the author of the most theological of the Gospels, three epistles, and the Book of Revelation. His Gospel opens with the majestic prologue, 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1). The Mannerist rendering of his idealized form reflects the Renaissance understanding of the human body as the crowning work of divine creation, made in the image of God (Genesis 1:27).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.13.23",
+      "relevance": "primary",
+      "reason": "John as the beloved disciple who reclined on Jesus's breast at the Last Supper"
+    },
+    {
+      "ref": "MRK.10.38-39",
+      "relevance": "typological",
+      "reason": "Jesus asking if the disciples can drink his cup — the basis for John's attribute of the poisoned chalice"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "allusion",
+      "reason": "John as the evangelist who proclaimed the Word made flesh"
+    },
+    {
+      "ref": "JHN.19.26-27",
+      "relevance": "allusion",
+      "reason": "Jesus entrusting his mother to the beloved disciple from the cross"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "classical",
+    "refined"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150318",
+    "title": "Saint John the Evangelist",
+    "artist": "Francesco de' Rossi (Francesco Salviati)",
+    "model": "claude-opus-4-6"
+  }
+}

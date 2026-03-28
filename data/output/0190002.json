@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "St. Agabus",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of the Prophet Agabus holding a model church",
+  "tags": [
+    "prophet",
+    "church-model",
+    "white-robes",
+    "dominican-habit",
+    "patron-saint",
+    "clouded-sky",
+    "half-length-portrait"
+  ],
+  "symbols": [
+    "model church held in hands — the prophet's role in building and sustaining the early Christian community",
+    "white habit — purity of prophetic calling and devotion to God",
+    "clouded sky — the liminal space between heaven and earth from which prophetic revelation comes"
+  ],
+  "description": "A half-length portrait of a bearded man wearing a white religious habit with a dark scapular underneath. He gazes upward and to the left with an expression of contemplation. In his left hand he holds a detailed architectural model of a church with a bell tower. The background is a blue sky with scattered clouds.",
+  "theological_description": "Agabus was a first-century Jewish Christian prophet mentioned twice in the Acts of the Apostles. In Acts 11:28 he foretold a great famine that would spread over the entire Roman world, which came to pass under Claudius. In Acts 21:10-11 he dramatically took Paul's belt and bound his own hands and feet, prophesying that the Jews in Jerusalem would bind the owner of the belt and hand him over to the Gentiles. The church model he holds signifies the prophetic ministry's purpose: to edify and build up the Body of Christ, as Paul writes in 1 Corinthians 14:3 that prophecy is for strengthening, encouraging, and comforting the church. Agabus stands as a bridge between Old Testament prophetic tradition and the charismatic gifts of the New Testament church, demonstrating the continuity of the Spirit's work in guiding and warning God's people.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.11.27-28",
+      "relevance": "primary",
+      "reason": "Agabus prophesied a severe famine over the entire Roman world, his first recorded prophecy in Acts"
+    },
+    {
+      "ref": "ACT.21.10-11",
+      "relevance": "primary",
+      "reason": "Agabus prophesied Paul's arrest in Jerusalem using the symbolic act of binding his own hands"
+    },
+    {
+      "ref": "1CO.14.3",
+      "relevance": "typological",
+      "reason": "The church model symbolizes the prophetic gift's purpose of edifying and building up the church"
+    },
+    {
+      "ref": "EPH.2.20",
+      "relevance": "allusion",
+      "reason": "The church built on the foundation of apostles and prophets, with Christ as the cornerstone"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "solemn",
+    "devotional"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0190002",
+    "title": "St. Agabus standing in front of a clouded sky. Patron saint of prophets and fortune tellers.",
+    "artist": "Juan Bautista Maíno",
+    "model": "claude-opus-4-6"
+  }
+}

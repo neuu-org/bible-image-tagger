@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "High Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Suitors and Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Marriage of the Virgin",
+  "tags": [
+    "marriage-of-the-virgin",
+    "betrothal",
+    "ring-exchange",
+    "high-priest",
+    "temple",
+    "classical-temple",
+    "suitors",
+    "broken-rod",
+    "flowering-staff",
+    "arched-composition"
+  ],
+  "symbols": [
+    "ring placed on Mary's hand — the sacred covenant of marriage",
+    "high priest joining the couple — divine authority sanctifying the union",
+    "grand temple behind — the House of God as the setting for this providential marriage",
+    "rejected suitors breaking their rods — God's choice of Joseph over all others to guard the Holy Family",
+    "flowering staff tradition — Joseph's rod that bloomed, signifying God's selection"
+  ],
+  "description": "A large arched composition with a grand classical temple with domes and arches dominating the background. In the foreground, a high priest in elaborate green and gold robes joins the hands of a young man in golden garments and a young woman in a pink dress. The priest places or blesses a ring. To the left, young men in colorful attire stand watching — one appears to break a rod across his knee. To the right, a group of young women in pastel robes attend the bride. Small figures populate the open plaza around the temple. The sky is blue with mountains in the distance.",
+  "theological_description": "Perugino's Marriage of the Virgin, drawn from the Protoevangelium of James, shows the betrothal of Mary and Joseph before the Temple. The apocryphal tradition holds that Mary's suitors brought rods to the Temple, and only Joseph's flowered — a sign of divine election. The rejected suitor breaking his rod visualizes human disappointment at God's inscrutable choices. The grand temple dominates the composition, establishing that this marriage is not merely human but divinely orchestrated — the preparation for the Incarnation. Matthew records that Joseph was 'a righteous man' (Matthew 1:19) chosen to protect the virgin mother and her divine Son. The betrothal fulfills the prophetic preparation: 'The Lord himself will give you a sign: The virgin will conceive and give birth to a son' (Isaiah 7:14). This seemingly ordinary wedding is the providential prelude to the greatest event in human history.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "primary",
+      "reason": "Joseph's betrothal to Mary and the angelic revelation about the virgin conception"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin will conceive — the prophecy that this marriage will fulfill"
+    },
+    {
+      "ref": "LUK.1.27",
+      "relevance": "primary",
+      "reason": "A virgin pledged to be married to a man named Joseph of the house of David"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ceremonial",
+    "grand",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160797",
+    "title": "Marriage of the Virgin",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

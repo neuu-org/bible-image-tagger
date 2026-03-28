@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Wedding Guests",
+      "type": "GROUP"
+    },
+    {
+      "name": "Musicians",
+      "type": "GROUP"
+    },
+    {
+      "name": "Servants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Wedding Feast at Cana",
+  "tags": [
+    "wedding-at-cana",
+    "water-into-wine",
+    "first-miracle",
+    "grand-banquet",
+    "classical-architecture",
+    "musicians",
+    "massive-crowd",
+    "water-jars",
+    "columned-hall",
+    "feast"
+  ],
+  "symbols": [
+    "vast banquet hall — the messianic feast, the kingdom of God as an overflowing celebration",
+    "musicians at center foreground — the joy of the wedding feast that anticipates heavenly celebration",
+    "water jars being filled — the old covenant transformed into the new, purification water becoming finest wine",
+    "Christ at center of the upper table — the true host of every feast, the giver of all good gifts"
+  ],
+  "description": "An enormous, densely populated composition set within a grand classical architectural space with massive columns, balustrades, and a bell tower visible at center background. Over a hundred figures fill the scene. Christ, identifiable by a halo, sits at the center of the upper table with Mary beside him. Below, musicians play various instruments in the foreground. Servants pour wine from large vessels. Guests feast, converse, and gesture animatedly at tables on multiple levels. The architecture is palatial with statues atop the columns. The sky is bright blue with dramatic clouds.",
+  "theological_description": "Veronese's monumental Wedding Feast at Cana is the grandest visualization of Christ's first sign (John 2:1-11). The sheer scale — over 130 figures in a palatial setting — transforms a village wedding into the messianic banquet prophesied by Isaiah: 'On this mountain the Lord Almighty will prepare a feast of rich food for all peoples, a banquet of aged wine' (Isaiah 25:6). Jesus sits at the center, the one who transforms the ordinary into the extraordinary. When the wine ran out, Mary interceded and Jesus turned water into wine of surpassing quality — the headwaiter marveled: 'You have saved the best till now' (John 2:10). This is the pattern of God's economy: the best is always yet to come. The miracle reveals Jesus's glory (John 2:11) and prefigures the Eucharist, where wine becomes the blood of the New Covenant. The wedding feast also points forward to the Marriage Supper of the Lamb (Revelation 19:7-9), when Christ the Bridegroom celebrates eternally with his Church.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.2.1-11",
+      "relevance": "primary",
+      "reason": "The Wedding at Cana — Jesus's first sign, turning water to wine, revealing his glory"
+    },
+    {
+      "ref": "ISA.25.6",
+      "relevance": "typological",
+      "reason": "The messianic banquet of rich food and aged wine — prefigured in this lavish feast"
+    },
+    {
+      "ref": "REV.19.7-9",
+      "relevance": "typological",
+      "reason": "The Marriage Supper of the Lamb — the eschatological fulfillment of the wedding feast"
+    },
+    {
+      "ref": "MAT.26.29",
+      "relevance": "allusion",
+      "reason": "Christ drinking new wine in his Father's kingdom — the Eucharistic foretaste at Cana"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "festive",
+    "magnificent",
+    "joyful",
+    "abundant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160992",
+    "title": "The Wedding Feast at Cana",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

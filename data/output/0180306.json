@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "archangel-gabriel",
+    "virgin-mary",
+    "gothic-church-interior",
+    "blue-robe",
+    "kneeling-angel",
+    "book-of-hours",
+    "gothic-architecture",
+    "ribbed-vaults",
+    "altar",
+    "canopy",
+    "latin-inscription",
+    "gold-wings",
+    "prayer-book"
+  ],
+  "symbols": [
+    "angel kneeling before Mary — the heavenly messenger delivering God's invitation with reverence for the chosen vessel",
+    "Gothic church interior — the sacred space where heaven and earth meet, the womb of the Church prefiguring Mary's womb",
+    "open book before Mary — Scripture and prayer that prepared her heart for the divine encounter",
+    "blue robe of Mary — heavenly purity and the grace that covers the Mother of God",
+    "altar with green canopy in the background — the liturgical center where sacrifice will be offered, foreshadowing the Eucharist"
+  ],
+  "description": "A medieval illuminated manuscript miniature set within an arched frame, depicting the interior of a Gothic church with soaring ribbed vaults, slender columns, and stained glass windows. In the foreground, a young woman in a deep blue robe sits on the floor at left, turned toward a kneeling winged angel in white robes at right. The angel's golden wings are spread. Between them on the floor lies an open red book. In the background, the church interior recedes to an altar with a green canopy or baldachin. The architecture is rendered with remarkable detail and perspective.",
+  "theological_description": "The Annunciation is one of the pivotal moments in salvation history, narrated in Luke 1:26-38. The archangel Gabriel is sent by God to the virgin Mary in Nazareth to announce that she will conceive and bear a son, Jesus, who will be called the Son of the Most High and will reign on David's throne forever. Mary's response — 'Behold, I am the servant of the Lord; let it be to me according to your word' (Luke 1:38) — is the supreme human act of faith and obedience, the yes that opens the door to the Incarnation. Fouquet sets this cosmic encounter within a Gothic cathedral, a profound theological choice: the church building becomes an image of Mary herself, the living temple in whom the Word will take flesh. Just as the Temple in Jerusalem was the dwelling place of God's presence (1 Kings 8:10-11), so Mary's body will become the true temple of the Most High, overshadowed by the Holy Spirit (Luke 1:35). The open book before Mary reflects the tradition that she was reading Isaiah's prophecy — 'Behold, the virgin shall conceive and bear a son' (Isaiah 7:14) — at the very moment of the angel's arrival. The Latin inscription at the bottom likely contains the angelic salutation: 'Hail, full of grace, the Lord is with you' (Luke 1:28). The altar visible in the background foreshadows the sacrifice to which this Incarnation will lead — the child conceived in this moment will offer himself on the cross.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation narrative — Gabriel's visit to Mary and her fiat — is the direct event depicted"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The prophecy that a virgin shall conceive and bear a son, which the open book before Mary may represent"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you and the power of the Most High will overshadow you — the mechanism of the Incarnation announced in this scene"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh — the Annunciation is the moment this mystery begins"
+    },
+    {
+      "ref": "1KI.8.10-11",
+      "relevance": "typological",
+      "reason": "The Gothic church setting evokes the Temple where God's glory dwelt, typologically fulfilled in Mary as the new Ark"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "reverent",
+    "luminous",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180306",
+    "title": "The Annunciation",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

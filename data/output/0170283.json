@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Holy Women", "type": "GROUP"},
+    {"name": "Apostle or Disciple", "type": "PERSON"}
+  ],
+  "event": "Christ Taking Leave of His Mother",
+  "tags": [
+    "christ-farewell",
+    "virgin-mary",
+    "embrace",
+    "green-robe",
+    "holy-women",
+    "white-veils",
+    "farewell",
+    "landscape-path",
+    "trees",
+    "sorrow",
+    "approaching-passion",
+    "departure"
+  ],
+  "symbols": [
+    "Christ embracing Mary — the last tender moment before the Passion, the human cost of divine obedience",
+    "path leading away through trees — the road to Jerusalem and the cross",
+    "weeping women — the sorrow of those who sense what is coming",
+    "green robe of Christ — life and hope even on the eve of death",
+    "lone figure watching from the path — the disciple who will accompany Christ on the way to the cross"
+  ],
+  "description": "Christ stands at center in a large green robe over a brown tunic, his head bowed and arms clasped around himself in a gesture of emotional containment or farewell. At right, a group of women — the Virgin Mary in a white veil and blue-red garments, flanked by two others in green, red, and yellow — stand close together, one supporting Mary, their faces showing grief. At left, a path leads between tall trees into a landscape with hills and distant snow-capped mountains. A solitary male figure in blue and red robes stands among the trees, watching. The mood is one of heavy, restrained emotion.",
+  "theological_description": "This scene, though not narrated verbatim in the Gospels, was a beloved devotional subject that imagines Christ's farewell to his mother before going to Jerusalem to face the Passion. The theological weight rests on Luke's account that Jesus 'resolutely set out for Jerusalem' (Luke 9:51), knowing what awaited him there. The scene humanizes the divine resolve by showing its emotional cost — the Son of God bidding farewell to the woman who bore him, nursed him, and would stand at the foot of his cross (John 19:25-27). Mary's grief anticipates Simeon's prophecy that 'a sword will pierce your own soul too' (Luke 2:35). Christ's inward posture — arms clasped, head bowed — captures the tension between his human love for his mother and his obedience to the Father's will, the same tension expressed in Gethsemane: 'Not my will, but yours be done' (Luke 22:42). The path leading through trees toward distant mountains symbolizes the road to Calvary that Christ must walk alone. This farewell scene invites meditation on the full humanity of Christ — that he who was God incarnate experienced the agony of leaving those he loved in order to save a world that would crucify him.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.9.51",
+      "relevance": "primary",
+      "reason": "Jesus resolutely set out for Jerusalem — the departure toward the Passion that this farewell depicts"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "typological",
+      "reason": "Mary at the foot of the cross — the reunion after this farewell, in the context of suffering"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "A sword will pierce your own soul — the sorrow visible on Mary's face at this parting"
+    },
+    {
+      "ref": "LUK.22.42",
+      "relevance": "allusion",
+      "reason": "Not my will but yours — Christ's obedient resolve to face the cross despite human anguish"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "tender", "restrained", "poignant"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170283",
+    "title": "Christ Taking Leave of His Mother",
+    "artist": "Bernhard Strigel",
+    "model": "claude-opus-4-6"
+  }
+}

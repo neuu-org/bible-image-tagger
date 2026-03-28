@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Tobias",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sarah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Wedding Guests",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Wedding of Tobias and Sarah",
+  "tags": [
+    "wedding-of-tobias-and-sarah",
+    "book-of-tobit",
+    "marriage-feast",
+    "celebration",
+    "music",
+    "dancing",
+    "canopy",
+    "dog",
+    "festive-scene",
+    "bride-and-groom"
+  ],
+  "symbols": [
+    "wedding feast — the sacred covenant of marriage blessed by God",
+    "gathered company celebrating — the community witnessing and blessing the union",
+    "dog at center — the faithful dog that accompanied Tobias on his journey (Tobit 6:2)",
+    "canopy and drapery — the marriage bower, God's protective covering over the couple"
+  ],
+  "description": "A lively interior scene of a wedding celebration. Many figures are gathered in a dimly lit room with draped fabrics and a canopy. At center, a couple appears to be at the focus of the celebration. Around them, guests dance, play music, and feast. A dog is visible at center. An elderly figure writes or reads at a table to the right. The atmosphere is bustling and festive, with warm candlelit tones. Figures are dressed in 17th-century Dutch clothing. The palette is warm browns and golds with accents of white, red, and blue.",
+  "theological_description": "The Book of Tobit narrates the marriage of young Tobias to Sarah, a woman whose seven previous husbands had been killed by the demon Asmodeus on their wedding nights (Tobit 3:8). Guided by the angel Raphael in disguise, Tobias prays on the wedding night and the demon is driven away (Tobit 8:2-3). Their marriage prayer is one of the most beautiful in Scripture: 'Blessed are you, O God of our ancestors... You made Adam, and for him you made his wife Eve as a helper and support. From the two of them the human race has sprung' (Tobit 8:5-6). This story teaches that marriage is under divine protection and that prayer overcomes the forces of evil. The wedding feast echoes the broader biblical theme of marriage as a sign of God's covenant love — from the Garden of Eden (Genesis 2:24) to the Marriage Supper of the Lamb (Revelation 19:9).",
+  "scripture_refs": [
+    {
+      "ref": "TOB.8.4-8",
+      "relevance": "primary",
+      "reason": "Tobias and Sarah's wedding night prayer that drives away the demon and consecrates their marriage"
+    },
+    {
+      "ref": "GEN.2.24",
+      "relevance": "typological",
+      "reason": "A man shall leave his father and mother and be united to his wife — the foundational marriage text"
+    },
+    {
+      "ref": "REV.19.9",
+      "relevance": "allusion",
+      "reason": "Blessed are those invited to the marriage supper of the Lamb — the eschatological wedding feast"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "festive",
+    "joyful",
+    "warm"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0160750",
+    "title": "Wedding of Tobias and Sarah",
+    "artist": "Jan Steen",
+    "model": "claude-opus-4-6"
+  }
+}

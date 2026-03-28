@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Holy Family with the Sleeping Christ Child",
+  "tags": [
+    "holy-family",
+    "sleeping-jesus",
+    "virgin-mary",
+    "joseph",
+    "angel",
+    "cradle",
+    "tender-gaze",
+    "dark-background",
+    "red-drapery",
+    "infancy-narrative",
+    "maternal-care"
+  ],
+  "symbols": [
+    "sleeping Christ Child — the vulnerability of God incarnate, foreshadowing death and entombment",
+    "cradle or stone ledge — anticipation of the manger and the tomb",
+    "angel kneeling in adoration — heavenly worship of the incarnate Word",
+    "Mary's watchful gaze — the Mother's protective love and contemplative pondering",
+    "Joseph in shadow — the quiet guardian of the Holy Family"
+  ],
+  "description": "A dark, intimate composition showing the infant Jesus asleep, lying on a draped surface or cradle at center. The Virgin Mary leans over him from behind, her face softly lit, gazing down with tenderness. At upper left, the elderly Joseph watches from shadow, his face partially illuminated. At lower right, a young angel in a red robe kneels beside the cradle, one hand touching the child's foot. Another youthful face peers over Mary's shoulder from behind. The lighting is dramatic chiaroscuro, with the child's pale body as the brightest element against deep shadows.",
+  "theological_description": "Procaccini's Holy Family with the sleeping Christ Child meditates on the mystery of the Incarnation through the intimacy of a domestic scene. The sleeping infant God echoes Luke 2:7 — Mary 'wrapped him in cloths and placed him in a manger' — while foreshadowing the entombment, when his body would again be wrapped in linen and laid in a place of rest (Luke 23:53). The angel's adoring presence recalls the heavenly host who proclaimed Christ's birth to the shepherds (Luke 2:13-14), now continuing their worship in quieter form. Mary's contemplative gaze reflects Luke 2:19: she 'treasured up all these things and pondered them in her heart.' Joseph's watchful presence in shadow embodies his role as the righteous protector appointed by God through angelic instruction (Matthew 1:20-21). The profound theological paradox is that the one through whom all things were made (John 1:3) now lies helpless and sleeping, dependent on human care — the fullness of the kenosis, God emptied into infant flesh.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary wrapped her firstborn in cloths and laid him in a manger — the infant Jesus at rest"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasured these things and pondered them in her heart — her contemplative gaze over the sleeping child"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "typological",
+      "reason": "The angelic host praising God at the birth — the angel kneeling in continued adoration"
+    },
+    {
+      "ref": "MAT.1.20-21",
+      "relevance": "allusion",
+      "reason": "Joseph's divinely appointed role as guardian of the child and his mother"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intimate",
+    "tender",
+    "reverent",
+    "hushed"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170304",
+    "title": "Sacra famiglia (Gesù dormiente)",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

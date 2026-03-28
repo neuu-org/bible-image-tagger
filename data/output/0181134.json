@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child with Grapes",
+  "tags": [
+    "madonna-and-child",
+    "grapes",
+    "grapevine",
+    "mountain-landscape",
+    "german-renaissance",
+    "blonde-madonna",
+    "smiling-infant",
+    "dark-dress",
+    "vine-arbor",
+    "waterfall",
+    "eucharistic-symbolism",
+    "northern-landscape"
+  ],
+  "symbols": [
+    "grapes held by the Christ Child — the Eucharistic wine, the blood of the new covenant that will be shed for many",
+    "grapevine over the arbor — Christ as the true vine (John 15:1), the source of all spiritual life",
+    "mountain landscape — the grandeur of God's creation forming the backdrop to the Incarnation",
+    "smiling infant — the joy of the Incarnation, God delighting to dwell among humanity"
+  ],
+  "description": "A painting depicting the Virgin Mary with long blonde hair, seated outdoors beneath a wooden arbor covered with grapevines heavy with green and purple clusters. She wears a dark blue-green dress and holds the nude Christ Child on her lap. The infant smiles and holds a small cluster of grapes in one hand. Behind them, a dramatic Northern European landscape unfolds — dense forests, a rocky mountain peak, and a small waterfall. The style is characteristic of the German Renaissance, with meticulous detail in the vegetation, landscape, and the vine leaves overhead.",
+  "theological_description": "Cranach's Madonna beneath the grapevine is rich with Eucharistic symbolism. The infant Christ holding grapes foreshadows his own words at the Last Supper: 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins' (Matthew 26:28). The grapevine arbor overhead visually enacts Christ's declaration in John 15:1: 'I am the true vine, and my Father is the vinegrower.' The entire Johannine metaphor is present: Christ is the vine, the Father tends it, and the disciples are the branches who must abide in him to bear fruit. The grapes that the child holds so innocently will one day become the blood poured out on Calvary. Isaiah's Song of the Vineyard (Isaiah 5:1-7) stands behind this imagery — God planted a vineyard (Israel) and expected good grapes, but the fullest fruit of the divine vineyard is the incarnate Son himself. The Northern landscape — with its mountain, waterfall, and deep forests — is not mere decoration but an affirmation of Psalm 19:1: 'The heavens declare the glory of God, and the sky above proclaims his handiwork.' The smiling child amid this abundance of nature and vine captures the theology of Incarnation as divine joy: God taking delight in dwelling with humanity.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.15.1-5",
+      "relevance": "primary",
+      "reason": "I am the true vine — the grapevine arbor and the grapes in Christ's hand directly evoke this teaching"
+    },
+    {
+      "ref": "MAT.26.27-28",
+      "relevance": "primary",
+      "reason": "This is my blood of the covenant — the grapes foreshadow the Eucharistic wine"
+    },
+    {
+      "ref": "ISA.5.1-7",
+      "relevance": "typological",
+      "reason": "The Song of the Vineyard — God's vineyard producing its ultimate fruit in the incarnate Son"
+    },
+    {
+      "ref": "PSA.104.14-15",
+      "relevance": "allusion",
+      "reason": "Wine that gladdens the human heart — the vine as God's gift of joy"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "joyful",
+    "pastoral",
+    "abundant",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0181134",
+    "title": "Madonna and Child",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

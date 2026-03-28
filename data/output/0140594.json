@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Victory figure (allegorical)",
+      "type": "OTHER"
+    },
+    {
+      "name": "Putti",
+      "type": "GROUP"
+    }
+  ],
+  "event": "David's Triumph over Goliath",
+  "tags": [
+    "david",
+    "triumph",
+    "goliath",
+    "victory",
+    "winged-figure",
+    "laurel-wreath",
+    "putti",
+    "trophy-of-arms",
+    "giant-head",
+    "armor",
+    "shepherd-boy",
+    "allegorical-victory",
+    "classical-composition",
+    "blue-drapery",
+    "staff"
+  ],
+  "symbols": [
+    "winged Victory crowning David — divine favor and heavenly vindication of the humble warrior",
+    "laurel wreath — triumph and the honor bestowed on the faithful servant of God",
+    "Goliath's armor as trophy — the weapons of the mighty rendered powerless before God's chosen",
+    "putti with torches — celebration and the light of divine victory",
+    "David's simple garments versus Goliath's armor — faith triumphing over worldly might",
+    "David's staff — the shepherd's instrument that recalls his humble origins"
+  ],
+  "description": "A muscular young man (David) stands at center holding a staff, wearing simple garments with a brown drape. Beside him, a large winged figure (Victory/angel) in blue drapery holds a laurel wreath above David's head. Two small putti are at the left, one holding a torch. At the right, Goliath's massive armor, shield, and helmet are displayed as a trophy. The head of the giant is not prominently visible but is implied in the trophy pile. The composition is classical and heroic with warm, dramatic lighting.",
+  "theological_description": "Poussin's David's Triumph captures the aftermath of one of Scripture's most celebrated victories. After the young shepherd David slew the Philistine giant Goliath with a single stone from his sling, 'the women came out of all the cities of Israel, singing and dancing, to meet King Saul, with tambourines, with songs of joy, and with musical instruments. And the women sang to one another as they celebrated: Saul has struck down his thousands, and David his ten thousands' (1 Samuel 18:6-7). The Victory figure crowning David with a laurel wreath allegorizes divine favor — for David had declared to Goliath: 'You come to me with a sword and with a spear and with a javelin, but I come to you in the name of the Lord of hosts, the God of the armies of Israel... that all the earth may know that there is a God in Israel' (1 Samuel 17:45-46). The contrast between David's simple garments and Goliath's massive armor illustrates the principle Paul would later articulate: 'God chose what is weak in the world to shame the strong' (1 Corinthians 1:27). David's triumph prefigures Christ's own victory over death and the powers of darkness — the humble one who conquers through apparent weakness.",
+  "scripture_refs": [
+    {
+      "ref": "1SA.17.45-50",
+      "relevance": "primary",
+      "reason": "David's victory over Goliath in the name of the Lord — the triumph being celebrated in the painting"
+    },
+    {
+      "ref": "1SA.18.6-7",
+      "relevance": "primary",
+      "reason": "The women of Israel singing and celebrating David's triumph — the scene of victory and honor depicted"
+    },
+    {
+      "ref": "1CO.1.27",
+      "relevance": "typological",
+      "reason": "God choosing the weak to shame the strong — David's humble means triumphing over Goliath's weaponry"
+    },
+    {
+      "ref": "PSA.144.1",
+      "relevance": "allusion",
+      "reason": "Blessed be the Lord who trains my hands for war — David's martial prowess attributed to divine empowerment"
+    },
+    {
+      "ref": "COL.2.15",
+      "relevance": "typological",
+      "reason": "Christ disarming the rulers and authorities, triumphing over them — David's triumph as a type of Christ's victory"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "triumphant",
+    "heroic",
+    "celebratory",
+    "classical"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0140594",
+    "title": "David's triumph",
+    "artist": "Nicolas Poussin",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Saint Justina",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioner",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd of onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Martyrdom of Saint Justina",
+  "tags": [
+    "saint-justina",
+    "martyrdom",
+    "execution",
+    "kneeling-figure",
+    "horse",
+    "crowd",
+    "roman-column",
+    "dramatic-scene",
+    "persecution",
+    "sword",
+    "classical-architecture",
+    "venetian-painting"
+  ],
+  "symbols": [
+    "kneeling saint before the executioner — faithful witness unto death",
+    "horse and crowd — the public spectacle of Christian martyrdom under Roman persecution",
+    "classical columns — the Roman imperial authority under which Christians were persecuted",
+    "dramatic sky — cosmic significance of the martyrdom"
+  ],
+  "description": "A wide, dramatic composition depicting a martyrdom scene. At center, a figure kneels on the ground before a crowd. A horse and rider are prominent in the middle ground. Numerous figures crowd the scene — soldiers, onlookers, officials. Classical architectural elements including a large column are visible at right. The setting appears to be a public square or execution ground. The palette is rich and warm with Venetian colorism. The sky is dramatic with clouds and light.",
+  "theological_description": "Veronese's painting depicts the martyrdom of Saint Justina of Padua, traditionally dated to the persecution under Emperor Maximian (c. 304 AD). Justina was a young Christian woman who refused to renounce her faith and was executed by the sword. Her martyrdom connects to the broader biblical witness of faithful endurance under persecution. Jesus warned his followers: 'You will be handed over to be persecuted and put to death, and you will be hated by all nations because of me' (Matthew 24:9). Yet he also promised: 'Whoever loses their life for my sake will find it' (Matthew 16:25). The public nature of the execution — before a crowd in a classical setting — reflects the spectacle that Roman persecution made of Christian deaths, yet paradoxically these deaths became the 'seed of the Church' (Tertullian). Paul wrote from his own imprisonment: 'For to me, to live is Christ and to die is gain' (Philippians 1:21). The Book of Revelation celebrates the martyrs: 'They triumphed over him by the blood of the Lamb and by the word of their testimony; they did not love their lives so much as to shrink from death' (Revelation 12:11).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.24.9",
+      "relevance": "primary",
+      "reason": "Jesus's prophecy of persecution and death for his followers — fulfilled in Justina's martyrdom"
+    },
+    {
+      "ref": "MAT.16.25",
+      "relevance": "primary",
+      "reason": "Losing one's life for Christ's sake to find it — the paradox of martyrdom"
+    },
+    {
+      "ref": "REV.12.11",
+      "relevance": "typological",
+      "reason": "Overcoming by the blood of the Lamb and not loving their lives unto death"
+    },
+    {
+      "ref": "PHP.1.21",
+      "relevance": "allusion",
+      "reason": "To live is Christ and to die is gain — the martyr's conviction"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "solemn",
+    "tumultuous"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150767",
+    "title": "Martyrdom of Saint Justina",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

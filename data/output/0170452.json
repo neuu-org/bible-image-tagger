@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Catherine of Alexandria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Franciscan Saint",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Mystical Marriage of Saint Catherine",
+  "tags": [
+    "mystical-marriage",
+    "saint-catherine",
+    "virgin-and-child",
+    "ring",
+    "infant-jesus",
+    "joseph",
+    "franciscan-monk",
+    "angels-above",
+    "cherub",
+    "red-curtain",
+    "landscape-background",
+    "devotional-group"
+  ],
+  "symbols": [
+    "ring placed on Catherine's finger — the mystical betrothal of the saint to Christ, total devotion",
+    "infant Jesus performing the marriage — Christ as divine bridegroom even from infancy",
+    "Franciscan saint kneeling — religious devotion and the monastic ideal of espousal to Christ",
+    "angels above — heavenly witnesses to the mystical union",
+    "red curtain — the royal and sacrificial canopy over the sacred event"
+  ],
+  "description": "A group of figures gathered in a landscape setting. At center, the Virgin Mary in a pink-red dress holds the infant Jesus, who reaches toward a young woman (Saint Catherine) kneeling at right in a white and gold gown, appearing to place or receive a ring. Joseph stands behind Mary at upper left in a grey-blue and red robe. A Franciscan friar kneels at lower left in a brown habit. Above, two cherubs or angels descend from golden-orange clouds. A red curtain drapes at the upper left. The background shows a lush green landscape with trees.",
+  "theological_description": "The Mystical Marriage of Saint Catherine depicts the legendary vision in which the infant Christ, held by his mother, places a ring on the finger of Saint Catherine of Alexandria (or Siena), signifying her total spiritual consecration to him. While post-biblical, this devotional theme is deeply rooted in the scriptural metaphor of Christ as the Bridegroom of the Church and of the individual soul. Paul writes: 'I promised you to one husband, to Christ, so that I might present you as a pure virgin to him' (2 Corinthians 11:2). The Song of Solomon's bridal mysticism — 'My beloved is mine and I am his' (Song of Solomon 2:16) — provides the Old Testament foundation. Revelation 19:7-9 describes the eschatological marriage supper of the Lamb. Catherine's acceptance of the ring embodies the radical self-gift of consecrated life: leaving all to follow Christ (Matthew 19:29). The presence of Mary as intermediary reflects her role at Cana (John 2:1-5), where she facilitated the first sign at a wedding — itself a foreshadowing of the messianic banquet.",
+  "scripture_refs": [
+    {
+      "ref": "2CO.11.2",
+      "relevance": "typological",
+      "reason": "I promised you to one husband, to Christ, as a pure virgin — the theological basis of mystical marriage"
+    },
+    {
+      "ref": "SNG.2.16",
+      "relevance": "typological",
+      "reason": "My beloved is mine and I am his — the bridal mysticism underlying the scene"
+    },
+    {
+      "ref": "REV.19.7-9",
+      "relevance": "typological",
+      "reason": "The marriage supper of the Lamb — the eschatological wedding that Catherine's espousal anticipates"
+    },
+    {
+      "ref": "MAT.19.29",
+      "relevance": "allusion",
+      "reason": "Everyone who has left everything for my sake will receive a hundredfold — the consecrated life"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "tender",
+    "mystical",
+    "serene"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0170452",
+    "title": "The Mystical Marriage of Saint Catherine",
+    "artist": "Otto van Veen",
+    "model": "claude-opus-4-6"
+  }
+}

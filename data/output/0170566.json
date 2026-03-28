@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Church Father (orator)", "type": "PERSON"},
+    {"name": "Emperor Constantine", "type": "PERSON"},
+    {"name": "Bishops and clergy", "type": "GROUP"}
+  ],
+  "event": "The First Ecumenical Council of Nicaea",
+  "tags": [
+    "council-of-nicaea",
+    "ecumenical-council",
+    "constantine",
+    "bishops",
+    "church-debate",
+    "throne",
+    "ecclesial-vestments",
+    "early-church",
+    "oration",
+    "arched-interior",
+    "gold-robes",
+    "creed-formulation"
+  ],
+  "symbols": [
+    "orator with raised hand — the defense of orthodox doctrine against heresy",
+    "emperor on throne — the intersection of imperial and ecclesiastical authority",
+    "gathered bishops — the universal Church deliberating on the nature of Christ",
+    "arched interior — the sacred space of conciliar deliberation"
+  ],
+  "description": "An interior scene under stone arches showing a Church council in session. At center-left, a bearded cleric in white and gold vestments stands with his right hand raised in an oratorical gesture, addressing the assembly. At right, a figure in imperial robes and crown (Constantine) sits elevated on a throne. Around them, rows of bishops and clergy in varied ecclesiastical vestments — white, gold, dark — sit and stand, some holding books, listening intently. The architectural setting features Romanesque arches and columns. The palette is warm with golds, whites, and deep reds.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "narrative",
+  "mood": ["solemn", "authoritative", "deliberative"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0170566",
+    "title": "First Ecumenical Council of Nicaea",
+    "artist": "Vasily Surikov",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Saint Cosmas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Damian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Executioners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saints Cosmas and Damian Salvaged (Rescued from Execution)",
+  "tags": [
+    "saints-cosmas-and-damian",
+    "martyrdom-rescue",
+    "miraculous-deliverance",
+    "executioners",
+    "haloed-saints",
+    "medieval-city",
+    "divine-intervention",
+    "white-dome-building"
+  ],
+  "symbols": [
+    "haloed saints surviving execution — divine protection of those chosen by God",
+    "executioners confounded — the futility of persecuting those under God's care",
+    "city with dome — the world that persecutes the saints yet cannot prevail against God's purposes"
+  ],
+  "description": "A scene showing a group of haloed figures at the lower left being confronted or rescued near a walled medieval city. At center, figures in colorful robes gesture and react dramatically. Executioners or persecutors stand on an elevated platform or wall above. A white domed building and cypress tree are visible in the city. In the background, other scenes of persecution or rescue play out on distant hills and in the water. The palette includes vivid blues, reds, greens, and gold halos.",
+  "theological_description": "This panel from Fra Angelico's predella depicts an episode from the lives of Saints Cosmas and Damian, the physician-martyrs who survived multiple attempted executions before finally being beheaded. Their miraculous deliverance from fire, water, and crucifixion echoes the biblical pattern of divine rescue — Daniel in the lion's den (Daniel 6:22), the three youths in the fiery furnace (Daniel 3:25-27), and Peter freed from prison (Acts 12:7-10). The repeated failure of their persecutors demonstrates that 'if God is for us, who can be against us?' (Romans 8:31). Their ultimate martyrdom affirms that God's protection does not always mean physical survival but always means spiritual victory — 'in all these things we are more than conquerors through him who loved us' (Romans 8:37). The saints' steadfastness under persecution fulfills Christ's promise: 'In this world you will have trouble. But take heart! I have overcome the world' (John 16:33).",
+  "scripture_refs": [
+    {
+      "ref": "ROM.8.31",
+      "relevance": "primary",
+      "reason": "If God is for us, who can be against us — the saints surviving multiple execution attempts"
+    },
+    {
+      "ref": "DAN.3.25-27",
+      "relevance": "typological",
+      "reason": "The three youths surviving the fiery furnace — the pattern of miraculous deliverance from persecution"
+    },
+    {
+      "ref": "JHN.16.33",
+      "relevance": "allusion",
+      "reason": "In the world you will have trouble but Christ has overcome — the saints' ultimate victory"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "miraculous",
+    "tense"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160609",
+    "title": "Saint Cosmas and Saint Damian Salvaged",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

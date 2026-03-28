@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "King Ahasuerus (Xerxes)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Queen Esther",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Esther Before King Ahasuerus",
+  "tags": [
+    "esther",
+    "ahasuerus",
+    "persian-king",
+    "throne",
+    "scepter",
+    "crown",
+    "green-robe",
+    "purple-cloak",
+    "audience",
+    "petition",
+    "courage",
+    "jewish-queen",
+    "folk-art-style",
+    "pink-background"
+  ],
+  "symbols": [
+    "king on throne extending scepter — royal favor granting Esther the right to speak and live",
+    "Esther approaching boldly — courage and faith risking death to save her people",
+    "crown and royal garments — the power structures within which God works providentially"
+  ],
+  "description": "A folk-art style painting on a pink background showing two figures. At left, a figure in grey-blue and purple robes sits on a green throne, wearing a red crown and extending a golden scepter. At right, a figure in a green robe and purple headscarf approaches, reaching toward the scepter with one hand. Both figures are rendered in a bold, simplified style with expressive faces and gestural lines. The overall aesthetic is naive and colorful.",
+  "theological_description": "This painting depicts the pivotal moment from the Book of Esther when Queen Esther approaches King Ahasuerus (Xerxes) uninvited — an act that could have meant her death, since anyone who approached the king without being summoned faced execution unless the king extended his golden scepter (Esther 4:11). Esther undertook this risk to plead for the salvation of the Jewish people from Haman's genocidal plot. Her cousin Mordecai had challenged her with the famous words: 'Who knows but that you have come to your royal position for such a time as this?' (Esther 4:14). Esther prepared herself with three days of fasting and prayer, then approached the king saying, 'If I perish, I perish' (Esther 4:16). The king extended the scepter — the gesture depicted here — granting her audience and ultimately leading to the deliverance of the Jewish people. Though the Book of Esther never mentions God by name, divine providence permeates every turn of the narrative. Esther's courage becomes a model of faithful action: trusting that God has placed her in a position of influence for a redemptive purpose. The story culminates in the reversal of evil — Haman hanged on the gallows he built for Mordecai — affirming the Proverbs' wisdom: 'Whoever digs a pit will fall into it' (Proverbs 26:27).",
+  "scripture_refs": [
+    {
+      "ref": "EST.5.1-3",
+      "relevance": "primary",
+      "reason": "Esther approaching the king and the king extending his scepter — the precise moment depicted"
+    },
+    {
+      "ref": "EST.4.14",
+      "relevance": "primary",
+      "reason": "Mordecai's challenge: 'For such a time as this' — the motivation behind Esther's courageous act"
+    },
+    {
+      "ref": "EST.4.16",
+      "relevance": "primary",
+      "reason": "Esther's resolve: 'If I perish, I perish' — the faith behind her approach to the king"
+    },
+    {
+      "ref": "PRO.26.27",
+      "relevance": "allusion",
+      "reason": "The reversal of evil — the broader narrative outcome of Esther's petition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "courageous",
+    "hopeful"
+  ],
+  "period": "Exile",
+  "_meta": {
+    "key": "0150505",
+    "title": "Esther and Ahaseurus",
+    "artist": "Jean David",
+    "model": "claude-opus-4-6"
+  }
+}

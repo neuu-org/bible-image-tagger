@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Roch",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Charles Borromeo",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Apparition of Christ to Saint Roch and Saint Charles Borromeo",
+  "tags": [
+    "apparition-of-christ",
+    "saint-roch",
+    "saint-charles-borromeo",
+    "risen-christ",
+    "angels",
+    "heavenly-vision",
+    "arms-raised",
+    "red-vestments",
+    "plague-saints",
+    "clouds-of-glory",
+    "dark-composition",
+    "kneeling",
+    "intercession"
+  ],
+  "symbols": [
+    "risen Christ appearing above — divine presence revealed to the faithful in their suffering",
+    "angels flanking Christ — the heavenly court attending the glorified Lord",
+    "Saint Roch with exposed wound — the patron of plague victims bearing his own affliction before Christ",
+    "Saint Charles in red vestments — the Cardinal Archbishop who served plague victims at personal risk",
+    "dark clouds and shadows — the suffering and pestilence through which these saints ministered"
+  ],
+  "description": "A vertical composition showing Christ appearing in the upper portion, arms raised, bathed in golden light and surrounded by clouds and angels. Below him, two saints gaze upward. At the left, a younger figure in pilgrim or simple garments (Saint Roch) kneels and looks upward. At the right, a figure in red ecclesiastical vestments (Saint Charles Borromeo) clasps his hands in prayer. Dark angels or figures frame the scene on either side. The overall palette is dark with dramatic light emanating from the Christ figure above.",
+  "theological_description": "Procaccini's painting depicts the risen Christ appearing to two great plague saints — Saint Roch, the medieval pilgrim who cared for plague victims and contracted the disease himself, and Saint Charles Borromeo, the 16th-century Archbishop of Milan who heroically ministered during the devastating plague of 1576. While neither saint is a biblical figure, their encounter with the risen Christ illustrates the New Testament promise of divine presence in suffering. Jesus declared: 'I was sick and you visited me... Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me' (Matthew 25:36, 40). Their ministry to the plague-stricken embodied Christ's command of self-sacrificial love: 'Greater love has no one than this, that someone lay down his life for his friends' (John 15:13). The apparition of Christ to these suffering servants fulfills his promise: 'Behold, I am with you always, to the end of the age' (Matthew 28:20). Paul's testimony resonates: 'I want to know Christ and the power of his resurrection and the fellowship of sharing in his sufferings' (Philippians 3:10).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.36-40",
+      "relevance": "primary",
+      "reason": "Christ identifying with the sick — both saints ministered to plague victims and now see Christ himself"
+    },
+    {
+      "ref": "JHN.15.13",
+      "relevance": "primary",
+      "reason": "The greatest love being to lay down one's life — both saints risked death serving the afflicted"
+    },
+    {
+      "ref": "MAT.28.20",
+      "relevance": "primary",
+      "reason": "Christ's promise to be present always — fulfilled in his apparition to these suffering servants"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "allusion",
+      "reason": "Knowing Christ through the fellowship of his sufferings — the saints' afflictions united them to the risen Lord"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "reverent",
+    "luminous",
+    "solemn"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0140543",
+    "title": "Apparition Du Christ A Saint Roch Et Saint Charles Borromee",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

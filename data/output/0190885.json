@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Two putti (angels)",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Sacra Conversazione — Madonna with Saints Francis and Jerome",
+  "tags": [
+    "madonna-and-child",
+    "st-francis",
+    "st-jerome",
+    "putti",
+    "balustrade",
+    "enthroned-madonna",
+    "mannerist",
+    "devotional"
+  ],
+  "symbols": [
+    "Madonna enthroned with Child — the Incarnation, God made accessible through the Virgin Mother",
+    "St. Jerome bare-chested — the ascetic scholar devoted to Scripture",
+    "St. Francis in brown habit — radical poverty and Christ-like humility",
+    "putti at the base — angelic joy at the mystery of the Incarnation",
+    "balustrade behind — the boundary between sacred and profane space"
+  ],
+  "description": "A Mannerist painting depicting a Sacra Conversazione (Holy Conversation). The Virgin Mary sits enthroned at center holding the infant Jesus who grasps a small crucifix. She wears a red dress under a dark mantle. On the left, an elderly, gaunt, bare-chested figure (St. Jerome) gestures toward the Madonna. On the right, a bald man in a brown Franciscan habit (St. Francis) extends his hand toward the Child. Two plump winged putti sit playfully at the base of the throne. A stone balustrade runs across the background.",
+  "theological_description": "The Sacra Conversazione is a devotional format that presents the Madonna and Child flanked by saints across different historical periods, united in the timeless reality of heavenly communion. Here, St. Jerome (c. 347-420), the great translator of the Bible, and St. Francis (1181-1226), the radical follower of Gospel poverty, flank the Virgin and Child. Though both are post-biblical figures, they represent the two essential modes of Christian devotion: intellectual engagement with Scripture and radical embodied imitation of Christ. The infant Jesus holding a crucifix is a profound theological detail — even as a child, Christ is identified with the cross, His salvific destiny inseparable from His identity. This connects to Revelation 13:8, the Lamb slain from the foundation of the world. Jerome's gaunt asceticism and devotion to the Word reflects 2 Timothy 3:16, while Francis's outreached hand toward the Christ Child embodies Matthew 18:3, 'Unless you become like little children, you will never enter the kingdom of heaven.' The putti at the base represent the joy of the angelic realm at the mystery of the Incarnation (Luke 2:13-14).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit overshadowing Mary — the Incarnation visible in the Madonna holding the divine Child"
+    },
+    {
+      "ref": "REV.13.8",
+      "relevance": "typological",
+      "reason": "The Lamb slain from the foundation of the world — the infant Christ already holding the crucifix"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed — Jerome's lifelong devotion to the sacred text"
+    },
+    {
+      "ref": "MAT.18.3",
+      "relevance": "allusion",
+      "reason": "Becoming like children to enter the kingdom — Francis's childlike approach to the Christ Child"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "serene",
+    "formal",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190885",
+    "title": "Madonna with St. Francis and St. Jerome",
+    "artist": "Jacopo Pontormo",
+    "model": "claude-opus-4-6"
+  }
+}

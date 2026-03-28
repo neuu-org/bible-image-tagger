@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child in a garland of flowers",
+  "tags": [
+    "madonna-and-child",
+    "flower-garland",
+    "cartouche",
+    "roses",
+    "tulips",
+    "lilies",
+    "floral-frame",
+    "virgin-mary",
+    "infant-jesus"
+  ],
+  "symbols": [
+    "roses — the Virgin Mary as the 'Mystical Rose,' love and the blood of martyrdom",
+    "lilies and white flowers — Mary's purity and virginal motherhood",
+    "tulips — the fleeting beauty of earthly life contrasted with eternal divine beauty",
+    "garland encircling the Madonna — creation offering its most beautiful tribute to the Mother of God",
+    "infant reaching upward — the divine Child's active engagement with the world"
+  ],
+  "description": "A collaborative Flemish painting combining a central Madonna and Child image within a carved stone cartouche, surrounded by a lavish garland of flowers. The Virgin Mary in a red robe tenderly holds the infant Jesus who reaches upward with one arm. The stone frame is richly ornamented with scrollwork. The surrounding flower garland includes pink and white roses, red and striped tulips, white narcissus, orange marigolds, and various other blooms arranged in lush profusion against a dark background.",
+  "theological_description": "This collaborative painting — flowers by Seghers, figures by another master — embodies the Flemish tradition of surrounding sacred images with lavish floral garlands, a genre that carries rich theological meaning. The flowers serve as creation's tribute to the Incarnation: the natural world offering its most exquisite beauty to honor the Mother of God and the divine Child. The rose, associated with Mary since the medieval period, symbolizes her title as the 'Mystical Rose' of the Litany of Loreto. The white lilies recall the angel Gabriel's greeting and Mary's purity (Luke 1:28). The variety and abundance of blooms reflect Psalm 104:24: 'How many are your works, Lord! In wisdom you made them all; the earth is full of your creatures.' The cartouche framing suggests an altarpiece or devotional shrine, connecting the painting to the liturgical veneration of Mary. The infant Christ's lively gesture amid the flowers echoes the Song of Solomon 2:1, 'I am the rose of Sharon, a lily of the valleys,' traditionally applied to Christ as the most beautiful of all creation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "The angel's greeting to Mary 'full of grace' — the theological foundation for Marian devotion expressed in the garland tribute"
+    },
+    {
+      "ref": "SNG.2.1",
+      "relevance": "typological",
+      "reason": "Christ as the rose of Sharon and lily of the valleys — the flowers surrounding Him echo this identification"
+    },
+    {
+      "ref": "PSA.104.24",
+      "relevance": "allusion",
+      "reason": "The abundance and variety of God's creation offering beauty to honor the Creator made flesh"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent His Son born of woman — the Incarnation at the center, surrounded by creation's beauty"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "lush",
+    "tender",
+    "beautiful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190604",
+    "title": "Madonna with child in a cartouche framed by a garland of flowers",
+    "artist": "Daniel Seghers",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Donatian (Bishop)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Canon Joris van der Paele",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint George",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child Enthroned with Saints and Donor",
+  "tags": [
+    "madonna-and-child",
+    "donor-portrait",
+    "enthroned-virgin",
+    "bishop-saint",
+    "saint-george",
+    "armor",
+    "mitre",
+    "kneeling-donor",
+    "eyeglasses",
+    "ornate-carpet",
+    "rich-textiles",
+    "throne",
+    "parrot"
+  ],
+  "symbols": [
+    "enthroned Virgin — Mary as Queen of Heaven, the Seat of Wisdom",
+    "infant Christ holding object — divine authority even in infancy",
+    "bishop with staff and mitre — the teaching authority of the Church under Mary's patronage",
+    "knight in armor — the Church Militant defending the faith",
+    "kneeling donor with glasses and book — devotion, learning, and the patron's pious offering",
+    "ornate carpet and rich textiles — the beauty and richness of the heavenly court made visible"
+  ],
+  "description": "A richly detailed interior scene with the Virgin Mary enthroned at center, wearing a voluminous red mantle, holding the infant Jesus on her lap. To the left, a bishop in a blue and gold cope and mitre holds a cross-staff and a large wheel with candles. To the right, an elderly man in white robes (the canon donor) kneels in prayer, wearing eyeglasses and holding a book. Behind the donor, a knight in full plate armor (Saint George) removes his helmet in a gesture of presentation. The setting is an ornate Romanesque interior with columns and arches.",
+  "theological_description": "Van Eyck's masterpiece presents the Virgin and Child in a sacra conversazione — a holy conversation uniting heaven and earth, the saints and the living faithful. Mary enthroned with the Christ child embodies the prophecy of Isaiah: 'Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel' (Isaiah 7:14). The bishop saint (traditionally identified as Saint Donatian) represents the apostolic succession and teaching office that Christ established: 'Go therefore and make disciples of all nations' (Matthew 28:19). Saint George in armor represents the spiritual warfare to which all Christians are called: 'Put on the whole armor of God' (Ephesians 6:11). The kneeling Canon van der Paele, elderly and frail, embodies the faithful believer who approaches the throne of grace with confidence (Hebrews 4:16). The extraordinary realism of every surface — the carpet, the textiles, the stone, the light — reflects the Flemish theological conviction that the material world, precisely because God became flesh (John 1:14), is worthy of the most careful attention. Every detail of creation speaks of the Creator.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The virgin bearing a son called Immanuel — Mary enthroned with the incarnate God"
+    },
+    {
+      "ref": "EPH.6.11",
+      "relevance": "typological",
+      "reason": "The armor of God — Saint George in plate armor representing the Church Militant"
+    },
+    {
+      "ref": "HEB.4.16",
+      "relevance": "primary",
+      "reason": "Approaching the throne of grace with confidence — the donor kneeling before the enthroned Virgin and Child"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word made flesh — the extraordinary material realism reflecting the theological dignity of the Incarnation"
+    },
+    {
+      "ref": "MAT.28.19",
+      "relevance": "allusion",
+      "reason": "The Great Commission — the bishop saint representing the apostolic teaching office"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "majestic",
+    "reverent",
+    "resplendent",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140559",
+    "title": "Madonna and Child with Canon Joris van der Paele",
+    "artist": "Jan van Eyck",
+    "model": "claude-opus-4-6"
+  }
+}

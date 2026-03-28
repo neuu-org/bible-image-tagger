@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna the Prophetess",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and Donors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Presentation of Jesus in the Temple",
+  "tags": [
+    "presentation-in-the-temple",
+    "simeon",
+    "infant-jesus",
+    "temple",
+    "purification",
+    "nunc-dimittis",
+    "anna-prophetess",
+    "gothic-interior",
+    "altar",
+    "candles",
+    "elderly-priest",
+    "rose-window",
+    "columns",
+    "donor-portraits",
+    "red-robes"
+  ],
+  "symbols": [
+    "Simeon holding the infant — the Old Covenant receiving and recognizing the New",
+    "temple interior — the holy place where God's promise of a Messiah is fulfilled",
+    "elderly figures — the long wait of Israel for consolation now ended",
+    "Mary presenting the child — obedience to the Law of Moses and the offering of her firstborn",
+    "rose window — divine light illuminating the moment of recognition"
+  ],
+  "description": "Inside a Gothic church interior with tall columns and a rose window, an elderly bald man in rich red and pink robes (Simeon) holds a nude infant (Jesus) at center. An elderly woman in dark robes (Anna) stands behind. To the left, a woman in white head covering (Mary) and a man in red stand as witnesses. Additional figures in dark clothing flank the scene on both sides. The architectural setting is grand, with soaring columns and tiled floor creating depth.",
+  "theological_description": "Memling's Presentation in the Temple depicts the fulfillment of the Mosaic Law recorded in Luke 2:22-38. 'When the time came for their purification according to the Law of Moses, they brought him up to Jerusalem to present him to the Lord, as it is written in the Law of the Lord: Every firstborn male shall be called holy to the Lord' (Luke 2:22-23, cf. Exodus 13:2). In the temple, the aged Simeon, to whom the Holy Spirit had revealed that he would not see death before seeing the Lord's Christ, took the child in his arms and proclaimed the Nunc Dimittis: 'Lord, now you are letting your servant depart in peace, according to your word; for my eyes have seen your salvation that you have prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to your people Israel' (Luke 2:29-32). Simeon also prophesied to Mary: 'A sword will pierce through your own soul also' (Luke 2:35). The prophetess Anna, who 'did not depart from the temple, worshiping with fasting and prayer night and day,' gave thanks and 'spoke of him to all who were waiting for the redemption of Jerusalem' (Luke 2:37-38). This scene marks the meeting of the Old and New Covenants — the faithful remnant of Israel recognizing their long-awaited Messiah.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.22-35",
+      "relevance": "primary",
+      "reason": "The Presentation in the Temple — Mary and Joseph bringing Jesus, Simeon's prophecy and the Nunc Dimittis"
+    },
+    {
+      "ref": "LUK.2.36-38",
+      "relevance": "primary",
+      "reason": "Anna the prophetess recognizing the child and speaking of redemption — she is depicted in the scene"
+    },
+    {
+      "ref": "EXO.13.2",
+      "relevance": "primary",
+      "reason": "The law of consecrating every firstborn male to the Lord — the legal basis for the Presentation"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord suddenly coming to his temple — fulfilled when the infant Christ enters the Jerusalem temple"
+    },
+    {
+      "ref": "ISA.49.6",
+      "relevance": "allusion",
+      "reason": "The servant as a light to the nations — echoed in Simeon's prophecy of a light for revelation to the Gentiles"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "reverent",
+    "fulfilling",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140430",
+    "title": "Presentation in the Temple",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

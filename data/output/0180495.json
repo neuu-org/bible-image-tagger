@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ (Dead)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Lamentation over the Dead Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "pieta",
+    "mourning",
+    "body-of-christ",
+    "grief",
+    "deposition",
+    "holy-women",
+    "linen-shroud",
+    "rocky-landscape",
+    "calvary",
+    "outstretched-body",
+    "weeping-figures",
+    "pale-body"
+  ],
+  "symbols": [
+    "lifeless body of Christ laid out — the completed sacrifice, the price of redemption fully paid",
+    "mourning women surrounding the body — the faithful witnesses who remained when others fled",
+    "Mary Magdalene at Christ's feet — the devoted disciple who anointed his feet in life now mourning them in death",
+    "Virgin Mary supporting the body — the mother's grief, the sword that Simeon prophesied would pierce her soul",
+    "rocky landscape of Calvary — the place of the skull where the sacrifice was completed"
+  ],
+  "description": "A horizontal composition depicting the body of Christ after the deposition from the cross. The pale, lifeless body is laid out diagonally across the lower half of the painting, partially covered by a white linen shroud. Several figures surround the body in various postures of grief: an elderly bearded man at the far left supports the upper body; a woman in dark blue garments (the Virgin Mary) stands at center with arms outstretched and face contorted in grief; another woman in lighter robes bends over the body.",
+  "theological_description": "The Lamentation depicts the agonizing interval between Christ's death on the cross and his burial — a moment of raw grief that is also the threshold of hope. The body of Jesus, taken down from the cross, lies among those who loved him most. The Virgin Mary's anguished posture fulfills Simeon's prophecy at the Presentation: 'A sword will pierce through your own soul also' (Luke 2:35). Mary Magdalene, who anointed Jesus's feet with perfume and tears during his life (Luke 7:37-38), now weeps over those same feet in death. Joseph of Arimathea, the secret disciple who boldly asked Pilate for the body (Mark 15:43), supports the weight of the lifeless God-man. The theological gravity of this scene is immeasurable: this is the body through which God reconciled the world to himself (2 Corinthians 5:19), the body that will be raised in glory on the third day. The pale flesh and evident death wounds confirm the full reality of Christ's sacrifice — he did not merely appear to die but truly tasted death for everyone (Hebrews 2:9). Isaiah's prophecy finds its visual fulfillment: 'He was despised and rejected by men, a man of sorrows and acquainted with grief' (Isaiah 53:3). Yet within this scene of desolation, the linen shroud that wraps the body will soon be found folded in the empty tomb (John 20:6-7), transforming this lamentation into the prelude of the greatest joy the world has known.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.50-53",
+      "relevance": "primary",
+      "reason": "The taking down of the body and preparation for burial by Joseph of Arimathea"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul, fulfilled in her grief at the Lamentation"
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "primary",
+      "reason": "The Man of Sorrows, despised and rejected, acquainted with grief — visually embodied in the dead Christ"
+    },
+    {
+      "ref": "HEB.2.9",
+      "relevance": "typological",
+      "reason": "Jesus tasting death for everyone — the full reality of his death confirmed by the lifeless body"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "allusion",
+      "reason": "The faithful women who stood at the cross now tend to the body they witnessed being crucified"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "somber",
+    "anguished",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180495",
+    "title": "Lamentation over the Dead Christ",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "name": "Saint Cecilia",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Cecilia",
+  "tags": [
+    "saint-cecilia",
+    "patron-of-music",
+    "martyr",
+    "palm-branch",
+    "halo",
+    "red-robe",
+    "golden-mantle",
+    "musical-instrument",
+    "virginal-beauty"
+  ],
+  "symbols": [
+    "palm branch — the victory of the martyr, the reward of those who give their lives for Christ",
+    "musical instrument (partially visible) — Cecilia as patroness of sacred music, the soul singing to God",
+    "halo — sanctity and divine favor upon the virgin martyr",
+    "red robe — the blood of martyrdom, love for Christ unto death",
+    "golden mantle — the glory that crowns the faithful witness"
+  ],
+  "description": "A half-length portrait of a young woman with brown braided hair, shown at a slight angle against a dark background. She wears a red robe with a golden-ochre mantle draped over one arm. A thin circular halo encircles her head. She holds a green palm branch and what appears to be a small musical instrument or book in her hands. Her expression is serene and direct, meeting the viewer's gaze. The lighting is warm, illuminating her face and hands from the left.",
+  "theological_description": "Saint Cecilia, a Roman noblewoman martyred in the 2nd or 3rd century, became the patron saint of music based on the tradition that she 'sang in her heart to the Lord' even at her wedding to the pagan Valerian. Her life embodies the Pauline exhortation: 'Sing and make music from your heart to the Lord' (Ephesians 5:19). Cecilia converted her husband and his brother to Christianity before all three were martyred. The palm branch she holds is the universal symbol of martyrdom in Christian iconography, drawn from Revelation: 'They were wearing white robes and were holding palm branches in their hands... These are they who have come out of the great tribulation' (Revelation 7:9, 14). Her serene expression reflects the peace that surpasses understanding (Philippians 4:7) — the inner harmony of a soul attuned to God even in the face of death.",
+  "scripture_refs": [
+    {
+      "ref": "EPH.5.19",
+      "relevance": "primary",
+      "reason": "Singing and making music in your heart to the Lord — Cecilia as patroness of sacred music"
+    },
+    {
+      "ref": "REV.7.9-14",
+      "relevance": "primary",
+      "reason": "The martyrs holding palm branches before the throne — the palm Cecilia holds"
+    },
+    {
+      "ref": "PHP.4.7",
+      "relevance": "allusion",
+      "reason": "The peace that surpasses understanding — Cecilia's serene expression amid martyrdom"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "noble",
+    "devotional"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160956",
+    "title": "St. Cecilia",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

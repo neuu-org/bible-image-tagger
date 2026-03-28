@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "King Solomon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Visitation of the Virgin to Saint Elizabeth",
+  "tags": [
+    "visitation",
+    "virgin-mary",
+    "saint-elizabeth",
+    "king-solomon",
+    "preparatory-drawing",
+    "niche-figure",
+    "crown",
+    "halo",
+    "kneeling",
+    "embrace",
+    "architectural-setting",
+    "scroll-inscription",
+    "attendant-figures"
+  ],
+  "symbols": [
+    "Elizabeth kneeling before Mary — recognition of the mother of the Lord and the Messiah she carries",
+    "Mary's halo — sanctity of the Theotokos bearing the incarnate Word",
+    "Solomon in a niche at left — the wisest king of Israel as typological ancestor of Christ, who is greater than Solomon",
+    "scroll with inscription on Solomon — the prophetic and wisdom tradition that prepares for the Messiah",
+    "architectural niche — the permanence and authority of the Old Testament figures who foreshadow the New"
+  ],
+  "description": "A pen-and-ink preparatory drawing on cream-colored paper divided into two sections. On the left, within a rounded niche, stands a bearded figure wearing a crown and royal robes, holding a scroll with an inscription — labeled 'Salomone' (Solomon) beneath. On the right, the main scene shows two women meeting: one standing with a halo, the other kneeling before her in greeting. Behind them, additional figures attend — one carries a child, another holds a dish or basin. An architectural doorway frames the right side of the composition.",
+  "theological_description": "This preparatory drawing depicts the Visitation — the moment when the pregnant Virgin Mary visits her kinswoman Elizabeth, as narrated in Luke 1:39-56. Elizabeth, filled with the Holy Spirit, cries out, 'Blessed are you among women, and blessed is the fruit of your womb! And why is this granted to me that the mother of my Lord should come to me?' (Luke 1:42-43). Elizabeth's kneeling posture captures her humility and the prophetic recognition that the child in Mary's womb is the Lord. Mary's visit prompts the Magnificat, the great hymn of praise and social reversal (Luke 1:46-55). The inclusion of King Solomon in a separate niche at left establishes a typological connection: Solomon, the son of David who built the first Temple and was renowned for wisdom, is a type of Christ who is 'greater than Solomon' (Matthew 12:42). Solomon's presence in the genealogy of Jesus (Matthew 1:6) and his role as the archetypal wise king point forward to the eternal kingdom established through the child Mary carries. The juxtaposition of Old Testament king and New Testament mystery — Solomon's wisdom and Mary's obedience — demonstrates the continuity of God's redemptive plan across the testaments.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation of Mary to Elizabeth is the direct event depicted in the right portion of the drawing"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat was spoken by Mary during this very visit, making it integral to the scene"
+    },
+    {
+      "ref": "MAT.12.42",
+      "relevance": "typological",
+      "reason": "Solomon in the niche at left is the type of the one greater than Solomon whom Mary carries"
+    },
+    {
+      "ref": "1KI.3.12",
+      "relevance": "allusion",
+      "reason": "Solomon's God-given wisdom, the reason for his iconic status, points to the wisdom incarnate in Christ"
+    },
+    {
+      "ref": "MAT.1.6",
+      "relevance": "allusion",
+      "reason": "Solomon's place in the genealogy of Jesus connects the Old Testament king to the child of the Visitation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "joyful",
+    "scholarly"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180148",
+    "title": "The Visitation of the Virgin to Saint Elizabeth; King Solomon in a Niche at Left",
+    "artist": "Carlo Urbino",
+    "model": "claude-opus-4-6"
+  }
+}

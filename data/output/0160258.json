@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony Abbot",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Anthony the Great",
+  "tags": [
+    "saint-anthony",
+    "desert-father",
+    "brown-habit",
+    "white-beard",
+    "halo",
+    "ascetic",
+    "upward-gaze",
+    "monasticism",
+    "contemplation"
+  ],
+  "symbols": [
+    "brown monastic habit — the poverty and simplicity of the desert ascetic life",
+    "long white beard — wisdom gained through years of prayer and fasting in the wilderness",
+    "upward gaze — the soul lifted toward God in contemplation, seeking the things above",
+    "subtle halo — divine favor upon the father of monasticism"
+  ],
+  "description": "A half-length portrait of an elderly man shown in profile, gazing upward to the right. He has a long white beard and receding white hair. He wears a heavy brown hooded cloak or monastic habit. A faint halo surrounds his head against a dark teal-blue background. The rendering is loose and expressive, with warm earth tones dominating the figure against the cool background.",
+  "theological_description": "This portrait of Anthony the Great, the father of Christian monasticism, captures the saint in the posture of contemplation — eyes lifted toward heaven. Anthony withdrew to the Egyptian desert around 270 AD, taking literally Christ's counsel: 'If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven' (Matthew 19:21). His decades of solitary combat against demonic temptation, recorded by Athanasius, became the foundational text of ascetic theology. The upward gaze expresses Paul's exhortation: 'Set your minds on things above, not on earthly things' (Colossians 3:2). Anthony's brown habit signals the radical poverty he embraced — owning nothing, dependent entirely on God's providence. His aged face testifies to a life spent in what the Desert Fathers called theoria — the direct contemplation of God that transforms the human person into the divine likeness (2 Corinthians 3:18).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.19.21",
+      "relevance": "primary",
+      "reason": "Christ's call to sell everything and follow him — the verse that launched Anthony into the desert"
+    },
+    {
+      "ref": "COL.3.1-2",
+      "relevance": "allusion",
+      "reason": "Set your minds on things above — reflected in Anthony's upward contemplative gaze"
+    },
+    {
+      "ref": "2CO.3.18",
+      "relevance": "allusion",
+      "reason": "Being transformed into the divine likeness through contemplation — the goal of Anthony's ascetic life"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "reverent",
+    "austere"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160258",
+    "title": "St. Anthony Abbot",
+    "artist": "Diego Vel\u00e1zquez",
+    "model": "claude-opus-4-6"
+  }
+}

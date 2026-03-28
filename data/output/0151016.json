@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child Reading",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "christ-child",
+    "open-book",
+    "reading",
+    "halo",
+    "dark-curtain",
+    "landscape-background",
+    "mannerist",
+    "arched-frame",
+    "elegant-hands",
+    "devotional"
+  ],
+  "symbols": [
+    "open book — Scripture that foretells Christ's mission, and the wisdom Mary passes to her son",
+    "Mary's halo — her sanctity as the God-bearer",
+    "curtain behind them — the veil between the sacred and the earthly",
+    "landscape visible beyond — the world into which Christ will go"
+  ],
+  "description": "An arched panel showing a young woman with a subtle halo, seated with a curly-haired child. They share an open book — Mary appears to be reading or pointing at the text while the child looks toward the viewer with a knowing expression. A dark curtain hangs behind them, with a landscape visible through an opening at the left. The palette is warm and muted — earth tones, soft reds, and golden-brown. The style is Mannerist with elongated features and elegant hand gestures. Closed books sit on a ledge in the foreground.",
+  "theological_description": "Parmigianino's Madonna and Child shows Mary and Jesus sharing a book — a scene that connects to the rich tradition of Mary as the first teacher of the incarnate Word. The open book represents the Scriptures that prophesied Christ's coming and mission. Luke records that after the finding in the temple, Jesus returned to Nazareth and 'was obedient to them' (Luke 2:51), growing in a household steeped in the Law and the Prophets. Mary, who sang the Magnificat (Luke 1:46-55) — a song saturated with Old Testament references — would have been Christ's first instructor in the sacred texts. The irony is profound: the one who is himself the Word of God (John 1:1) learns to read the words of God from his human mother. The child's gaze toward the viewer breaks the devotional intimacy to engage the observer, inviting participation in the mystery. Isaiah's prophecy finds resonance: 'The Spirit of the Lord is on me, because he has anointed me to proclaim good news' (Isaiah 61:1) — the very passage Jesus would later read in the Nazareth synagogue (Luke 4:18). The closed books in the foreground suggest the fullness of Scripture that Christ will open and fulfill.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.51-52",
+      "relevance": "primary",
+      "reason": "Jesus growing in wisdom in Nazareth — Mary as his teacher depicted reading with him"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "typological",
+      "reason": "The Word of God learning to read the word of God — the paradox of the Incarnation"
+    },
+    {
+      "ref": "LUK.4.16-21",
+      "relevance": "allusion",
+      "reason": "Jesus reading Isaiah in the Nazareth synagogue — prefigured by childhood learning"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "Mary's Magnificat reveals her deep knowledge of Scripture — she teaches what she knows"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intimate",
+    "contemplative",
+    "elegant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0151016",
+    "title": "Madonna and Child",
+    "artist": "Parmigianino",
+    "model": "claude-opus-4-6"
+  }
+}

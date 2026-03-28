@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Young Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Joachim",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Education of the Virgin",
+  "tags": [
+    "education-of-the-virgin",
+    "young-mary",
+    "saint-anne",
+    "saint-joachim",
+    "reading-lesson",
+    "open-book",
+    "angels-above",
+    "putti",
+    "dark-background",
+    "classical-architecture",
+    "warm-light",
+    "devotional-scene",
+    "mother-teaching-daughter"
+  ],
+  "symbols": [
+    "open book before the young Mary — Scripture being transmitted to the one who will bear the Word made flesh",
+    "Saint Anne teaching — the maternal transmission of faith, preparing the vessel of the Incarnation",
+    "angels descending from above — heaven attending to this pivotal moment in salvation history",
+    "Joachim watching — the paternal presence guarding the household of faith",
+    "classical column — the stability and order of the faithful household"
+  ],
+  "description": "A tall, vertical Baroque composition set against a dark background with classical architectural elements. At center, a young girl sits and reads from a large open book, her face illuminated with gentle light. Behind her, an older woman in brown and blue robes (Saint Anne) stands, guiding the girl's reading with one hand. To the upper right, an elderly bearded man (Saint Joachim) leans forward, observing. Above the scene, two winged angels hover amid clouds and warm golden light, looking down at the reading lesson. Additional putti and angelic figures fill the upper portion of the composition.",
+  "theological_description": "The Education of the Virgin depicts the young Mary being taught to read Scripture by her mother Anne, a scene drawn from apocryphal tradition but rich in theological significance. The child who will one day respond to Gabriel with 'Let it be to me according to your word' (Luke 1:38) is here being formed in the very Scriptures she will fulfill. Mary's Magnificat (Luke 1:46-55) reveals a woman steeped in the Hebrew Bible — her song echoes Hannah's prayer (1 Samuel 2:1-10), the Psalms, and the prophets. This formation did not happen in a vacuum; it required a household of faith that transmitted God's word to the next generation, fulfilling the Deuteronomic command: 'You shall teach them diligently to your children' (Deuteronomy 6:7). The angels hovering above signal that this is no ordinary education — heaven watches with anticipation as the one who will bear the Messiah absorbs the words that foretell his coming. Isaiah 7:14, 'Behold, the virgin shall conceive,' was among the scrolls that shaped Mary's understanding, preparing her heart for the moment when the prophecy would be fulfilled in her own body. Tiepolo's composition places the book at the literal and figurative center of the scene, affirming the Reformed and Catholic consensus that Scripture is the indispensable foundation of the life of faith.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "Mary's Magnificat reveals her deep knowledge of Scripture, the fruit of the education depicted here"
+    },
+    {
+      "ref": "DEU.6.6-7",
+      "relevance": "primary",
+      "reason": "The command to teach God's words diligently to children is enacted by Anne teaching Mary"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "typological",
+      "reason": "Mary's obedient response to Gabriel was prepared by her formation in Scripture shown in this scene"
+    },
+    {
+      "ref": "2TI.3.15",
+      "relevance": "allusion",
+      "reason": "From childhood you have been acquainted with the sacred writings — Paul's words to Timothy parallel Mary's scriptural formation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "tender",
+    "luminous"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0180670",
+    "title": "The Education of the Virgin",
+    "artist": "Giovanni Battista Tiepolo",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome Reading in the Wilderness",
+  "tags": [
+    "saint-jerome",
+    "reading",
+    "wilderness",
+    "rocky-landscape",
+    "open-book",
+    "hermit",
+    "bare-chested",
+    "white-loincloth",
+    "ruined-buildings",
+    "rabbit",
+    "distant-city",
+    "cave",
+    "ascetic",
+    "church-father",
+    "scholar"
+  ],
+  "symbols": [
+    "open book — Jerome's lifelong devotion to Sacred Scripture and his translation of the Vulgate",
+    "rocky wilderness — the desert of ascetic withdrawal where Jerome pursued holiness and scholarship",
+    "ruined buildings in the distance — the passing of worldly civilizations contrasted with the eternal Word",
+    "rabbit amid the rocks — the harmless creatures of the wilderness coexisting with the holy hermit",
+    "bare-chested, minimal clothing — Jerome's radical asceticism and voluntary poverty"
+  ],
+  "description": "A richly detailed landscape painting showing an elderly, bald, bare-chested man in a white loincloth sitting among layered rock formations at lower right, absorbed in reading a large open book. The rocky landscape is intricately carved with ledges and caves. In the middle ground, a white rabbit sits among the stones. Beyond the rocks, a panoramic landscape opens up with ruined classical buildings, a bridge, towers, and a distant city near water. Trees grow from the rock crevices. The sky is pale blue.",
+  "theological_description": "Bellini's painting of Saint Jerome reading in the wilderness presents the great Church Father (c. 347-420) in his traditional role as the devoted scholar of Scripture. Jerome spent years as a hermit in the Syrian desert before settling in Bethlehem, where he produced the Vulgate — the Latin translation of the Bible that served the Western Church for over a thousand years. His immersion in the biblical text amid the wilderness recalls the prophetic tradition of withdrawal for divine encounter: Moses on Sinai (Exodus 34:28), Elijah at Horeb (1 Kings 19:8), and Jesus in the wilderness (Matthew 4:1-2). Jerome himself wrote that 'ignorance of the Scriptures is ignorance of Christ,' and the open book before him represents his consuming passion for the Word of God. The Psalmist's declaration resonates here: 'I meditate on your precepts and consider your ways. I delight in your decrees; I will not neglect your word' (Psalm 119:15-16). The elaborate landscape — with ruins, cities, and the ongoing life of nature — creates a contrast between the transient works of human civilization and the eternal Word that Jerome studies. As Isaiah proclaimed: 'The grass withers and the flowers fall, but the word of our God endures forever' (Isaiah 40:8).",
+  "scripture_refs": [
+    {
+      "ref": "PSA.119.15-16",
+      "relevance": "primary",
+      "reason": "Meditation on God's precepts and delight in his Word — Jerome's posture of scriptural devotion"
+    },
+    {
+      "ref": "ISA.40.8",
+      "relevance": "allusion",
+      "reason": "The enduring Word of God amid passing civilizations — the ruins contrasted with Jerome's eternal text"
+    },
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "typological",
+      "reason": "Jesus in the wilderness — the pattern of withdrawal for spiritual focus that Jerome followed"
+    },
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "allusion",
+      "reason": "All Scripture as God-breathed and useful — the conviction driving Jerome's translation work"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "serene",
+    "scholarly",
+    "austere"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150523",
+    "title": "Saint Jerome Reading",
+    "artist": "Giovanni Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

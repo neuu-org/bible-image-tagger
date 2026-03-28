@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Magi (Three Wise Men)",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "three-kings",
+    "gifts",
+    "kneeling-king",
+    "gold-frankincense-myrrh",
+    "virgin-and-child",
+    "stable-ruins",
+    "landscape",
+    "retinue-in-background",
+    "african-king",
+    "richly-dressed",
+    "early-netherlandish"
+  ],
+  "symbols": [
+    "elderly king kneeling — worldly power prostrate before divine humility",
+    "three kings of different ages and ethnicities — the universality of Christ's kingship",
+    "gifts in ornate vessels — gold for kingship, frankincense for divinity, myrrh for death",
+    "ruined architecture — the old order giving way to the new",
+    "retinue in the background landscape — the nations journeying toward the light"
+  ],
+  "description": "A richly detailed Adoration scene set before ruined arches with a deep landscape beyond. The Virgin Mary sits at the right holding the infant Jesus, wearing a dark blue mantle and white veil. Joseph stands behind her in a red cloak. The eldest Magus kneels before the child in an ornate red and gold brocade robe, offering a golden vessel. Behind him, a second king in dark blue holds a gift, and a third king (African) in armor stands at the far left with another vessel.",
+  "theological_description": "Geertgen tot Sint Jans's Adoration of the Magi presents the Epiphany — the manifestation of Christ to the Gentile world. Matthew records: 'Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem, saying, Where is he who has been born king of the Jews? For we have seen his star when it rose and have come to worship him' (Matthew 2:1-2). Finding the child, 'they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh' (Matthew 2:11). The three kings of different ages and ethnicities embody the universal scope of Isaiah's prophecy: 'Nations shall come to your light, and kings to the brightness of your rising... They shall bring gold and frankincense, and shall proclaim the praise of the Lord' (Isaiah 60:3, 6). The African Magus particularly emphasizes the fulfillment of Psalm 68:31: 'Cush shall hasten to stretch out her hands to God.' The ruined architecture behind the scene symbolizes the old order that Christ's coming transforms — as Paul declares, 'If anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come' (2 Corinthians 5:17).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-11",
+      "relevance": "primary",
+      "reason": "The Magi following the star, finding the child, and presenting gifts — the direct narrative depicted"
+    },
+    {
+      "ref": "ISA.60.3-6",
+      "relevance": "primary",
+      "reason": "Nations coming to the light bearing gold and frankincense — the prophetic fulfillment in the Magi's journey"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish and Sheba bringing gifts, all kings falling before the Messiah"
+    },
+    {
+      "ref": "PSA.68.31",
+      "relevance": "allusion",
+      "reason": "Cush stretching out hands to God — the African Magus representing this fulfillment"
+    },
+    {
+      "ref": "2CO.5.17",
+      "relevance": "allusion",
+      "reason": "The old passing away and the new coming — the ruined architecture giving way to the new covenant"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "majestic",
+    "detailed",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0141267",
+    "title": "Adoration of the Magi",
+    "artist": "Geertgen tot Sint Jans",
+    "model": "claude-opus-4-6"
+  }
+}

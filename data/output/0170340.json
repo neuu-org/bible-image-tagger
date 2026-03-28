@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Donor figure",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint (left wing)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint (right wing)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna of Humility enthroned with angels, saints, and a donor",
+  "tags": [
+    "madonna-of-humility",
+    "gold-background",
+    "angels",
+    "donor-portrait",
+    "virgin-and-child",
+    "enthroned",
+    "red-robe",
+    "green-mantle",
+    "flanking-saints",
+    "gothic-frame",
+    "kneeling-donor"
+  ],
+  "symbols": [
+    "Madonna seated low (humility) — Mary's virtue of humility exalted",
+    "gold background — the heavenly realm, divine glory",
+    "angels attending — the heavenly court surrounding the Mother and Child",
+    "donor kneeling — the faithful petitioner seeking Mary's intercession",
+    "triptych format — the liturgical and devotional framework of Christian worship"
+  ],
+  "description": "A small triptych altarpiece with a triangular pediment. In the central panel, the Virgin Mary sits on a low cushion or the ground, wearing a dark green mantle over a red dress, holding the nude infant Jesus who reaches up toward her face. Two small angels stand behind them, and a draped canopy hangs above. A small kneeling figure in red (the donor) prays at the lower right. The left wing shows a standing male saint in a pink robe holding a scroll or attribute. The right wing shows a standing female saint in dark armor-like vestments holding a flag or standard. Both wings have gold backgrounds.",
+  "theological_description": "This triptych presents the Madonna of Humility — a devotional type where Mary sits not on an elevated throne but on the ground or a low cushion, emphasizing the virtue of humility that made her receptive to God's call. Luke 1:48 provides the scriptural basis: 'He has looked with favor on the lowliness of his servant.' The Magnificat (Luke 1:52) proclaims that God 'has brought down the powerful from their thrones and lifted up the lowly,' and Mary herself is the first exemplar of this divine reversal. The infant Christ reaching toward his mother visualizes the tender human relationship within the mystery of the Incarnation (John 1:14). The kneeling donor represents the believer's approach to God through Marian devotion, while the flanking saints on the wing panels embody the communion of saints (Hebrews 12:1) — the great cloud of witnesses who surround the faithful. The gold backgrounds signify the heavenly realm where this sacred encounter takes place.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.48",
+      "relevance": "primary",
+      "reason": "He has looked with favor on the lowliness of his servant — the theological basis for the Madonna of Humility"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat, in which Mary proclaims God's reversal of the proud and exaltation of the humble"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word became flesh — the Incarnation visible in the infant Christ with his mother"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses — the flanking saints forming the communion of saints"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "tender",
+    "golden",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170340",
+    "title": "Madonna of Humility with Angels and Donor",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

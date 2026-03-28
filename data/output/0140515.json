@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Christ (in gable)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Assumption of the Virgin",
+  "tags": [
+    "assumption",
+    "virgin-mary",
+    "gold-ground",
+    "gothic-altarpiece",
+    "mandorla",
+    "angels",
+    "red-winged-angels",
+    "christ-above",
+    "hands-in-prayer",
+    "pointed-gable",
+    "medieval-panel",
+    "heavenly-ascent",
+    "trefoil-ornament"
+  ],
+  "symbols": [
+    "mandorla surrounding Mary — the almond-shaped glory signifying the intersection of heaven and earth",
+    "angels lifting and surrounding — the heavenly host receiving the Mother of God into glory",
+    "Christ in the gable above — the Son receiving his mother into the heavenly kingdom",
+    "gold ground — the eternal, timeless realm of divine glory",
+    "Mary's praying hands — perpetual intercession and the posture of the glorified saint",
+    "red-winged angels — seraphic beings of divine love attending the Assumption"
+  ],
+  "description": "A Gothic pointed-panel altarpiece with gold ground. At the center, within a blue and red mandorla, the Virgin Mary stands or is carried upward with her hands folded in prayer, dressed in a white and gold garment. She is surrounded by numerous angels with red wings in concentric circles. At the top, in a pointed gable, a half-figure of Christ appears with arms extended. The panel is framed by ornate Gothic architectural elements including pinnacles, trefoils, and small roundels containing additional figures. The overall palette is dominated by gold, red, and blue.",
+  "theological_description": "Luca di Tomme's Assumption presents the Virgin Mary being taken bodily into heaven, a belief rooted in early Christian tradition and formally defined in Catholic doctrine. While the Assumption is not explicitly narrated in Scripture, its theological foundations draw from multiple biblical sources. The 'woman clothed with the sun' of Revelation 12:1 has been interpreted as a vision of the glorified Mary. Psalm 132:8 — 'Arise, O Lord, to your resting place, you and the ark of your might' — has been read typologically, with Mary as the Ark of the New Covenant. Paul's teaching on resurrection provides the broader framework: 'But each in his own order: Christ the firstfruits, then at his coming those who belong to Christ' (1 Corinthians 15:23). Mary, as the first and most perfect disciple, is the firstfruits of the redeemed. Christ receiving her in the gable above illustrates the promise: 'Father, I desire that they also, whom you have given me, may be with me where I am, to see my glory' (John 17:24). The concentric rings of angels echo Isaiah's vision of the seraphim surrounding the throne of God (Isaiah 6:1-3), now welcoming the Queen of Heaven into eternal glory.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman clothed with the sun — the glorified woman taken up into heavenly splendor"
+    },
+    {
+      "ref": "PSA.132.8",
+      "relevance": "typological",
+      "reason": "The Ark of the Lord arising to its resting place — Mary as the Ark of the New Covenant assumed into heaven"
+    },
+    {
+      "ref": "1CO.15.23",
+      "relevance": "typological",
+      "reason": "Christ the firstfruits and those who belong to Christ raised in order — Mary as first of the redeemed"
+    },
+    {
+      "ref": "JHN.17.24",
+      "relevance": "allusion",
+      "reason": "Christ's prayer that those given to him may be where he is — Christ above receiving Mary"
+    },
+    {
+      "ref": "ISA.6.1-3",
+      "relevance": "allusion",
+      "reason": "Seraphim surrounding the divine throne — the red-winged angels in concentric glory"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "glorious",
+    "celestial",
+    "triumphant",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140515",
+    "title": "The Assumption of The Virgin",
+    "artist": "Luca di Tomme",
+    "model": "claude-opus-4-6"
+  }
+}

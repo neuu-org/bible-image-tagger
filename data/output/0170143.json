@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saintly Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Sebastian tended by pious women after his martyrdom",
+  "tags": [
+    "saint-sebastian",
+    "martyrdom",
+    "arrows",
+    "bound-to-post",
+    "wounded-body",
+    "women-tending",
+    "compassion",
+    "twilight-landscape",
+    "angel",
+    "suffering",
+    "post-biblical-saint"
+  ],
+  "symbols": [
+    "arrows piercing the body — the instruments of martyrdom and the penetrating cost of faithfulness",
+    "wooden post — the stake of execution echoing the cross of Christ",
+    "women tending the wounds — Christian charity and the ministry of compassion to the suffering",
+    "angel descending — divine comfort and heavenly vindication of the martyr",
+    "twilight sky — the liminal passage between earthly suffering and heavenly glory"
+  ],
+  "description": "A dark, moody landscape with a wounded male figure — Saint Sebastian — slumped against a tall wooden post or tree trunk at center right. His nearly nude body bears visible arrow wounds. Two or three female figures lean over him, tending to his wounds with cloths. A small luminous winged figure (angel) appears at the lower left, glowing white against the dark water or ground. The landscape behind is somber with silhouetted trees against a dusky sky. The palette is dominated by deep browns, ochres, and muted greens.",
+  "theological_description": "Saint Sebastian, a Roman soldier martyred under Diocletian (c. 288 AD), was tied to a stake and shot with arrows, yet survived and was nursed back to health by Saint Irene of Rome and her companions — the scene depicted here. Although post-biblical, Sebastian's martyrdom deeply resonates with scriptural themes. His willingness to suffer for faith echoes Hebrews 11:35-38, the catalogue of those who endured torture rather than deny God. The women tending his wounds embody the ministry of compassion that Jesus identified with service to himself: 'I was sick and you looked after me' (Matthew 25:36). The arrows that pierced his flesh but did not kill him were read by the Church Fathers as a sign that faith can endure even the most violent assault — paralleling Paul's declaration that nothing can separate us from the love of God (Romans 8:35-39). Sebastian's survival and subsequent return to confront the emperor with his faith became an icon of resurrection hope and defiant witness.",
+  "scripture_refs": [
+    {
+      "ref": "HEB.11.35-38",
+      "relevance": "typological",
+      "reason": "The catalogue of faithful martyrs who endured torture and suffering — Sebastian stands in this tradition"
+    },
+    {
+      "ref": "MAT.25.36",
+      "relevance": "typological",
+      "reason": "The women tending Sebastian's wounds fulfill Christ's teaching: I was sick and you looked after me"
+    },
+    {
+      "ref": "ROM.8.35-39",
+      "relevance": "allusion",
+      "reason": "Neither death nor persecution nor sword can separate from Christ's love — Sebastian's survival testifies to this"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and I will give you the crown of life — the martyr's promise"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "somber",
+    "compassionate",
+    "twilight",
+    "tender"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0170143",
+    "title": "Saint Sebastian being Tended by Saintly Women",
+    "artist": "Gustave Moreau",
+    "model": "claude-opus-4-6"
+  }
+}

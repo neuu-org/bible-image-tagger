@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint John on the Island of Patmos",
+  "tags": [
+    "saint-john",
+    "patmos",
+    "exile",
+    "island",
+    "rocky-shore",
+    "writing",
+    "contemplation",
+    "blue-robe",
+    "red-mantle",
+    "halo",
+    "quill-pen",
+    "sea",
+    "desolate-landscape",
+    "book-of-revelation",
+    "visionary"
+  ],
+  "symbols": [
+    "rocky desolate island — the exile and isolation of Patmos where John received his visions",
+    "pen and writing materials — the recording of the Apocalypse, the Book of Revelation",
+    "vast empty sea — the separation from the churches and the vastness of the divine mystery",
+    "John's contemplative posture — the visionary absorbed in divine revelation",
+    "halo — John's sanctity as apostle, evangelist, and prophet"
+  ],
+  "description": "A wide, horizontal composition showing an elderly bearded man seated on rocky ground at the edge of a desolate island. He wears a blue robe and red mantle, with a gold halo behind his head. He leans forward in deep thought, his hand raised to his chin, pen in hand. Behind him, large dark angular rocks rise sharply. Before him stretches a calm, empty sea meeting a pale horizon. The landscape is barren and austere, with no vegetation or other figures.",
+  "theological_description": "Botticelli depicts Saint John the Evangelist in exile on the island of Patmos, where according to Revelation 1:9, he was banished 'because of the word of God and the testimony of Jesus.' It was on this barren Aegean island that John received the apocalyptic visions that became the Book of Revelation. The image captures the moment of prophetic reception — John sits in contemplative solitude, pen ready, as the Spirit of God prepares to unveil 'what must soon take place' (Revelation 1:1). John records that he was 'in the Spirit on the Lord's day' (Revelation 1:10) when he heard a voice like a trumpet commanding him to write. The desolate rocky landscape mirrors the severity and grandeur of the visions themselves — a book filled with cosmic conflict, divine judgment, and ultimate triumph. The empty sea before John recalls the prophetic declaration that in the new creation 'there was no longer any sea' (Revelation 21:1) — the barrier of exile will be abolished. John's Gospel begins with 'In the beginning was the Word' (John 1:1), and here at the end of the biblical canon, the same beloved disciple records the Word's final revelation. His solitude on Patmos echoes Moses alone on Sinai receiving the Law, Elijah alone at Horeb hearing God's still small voice (1 Kings 19:12), and the prophetic pattern of withdrawal before revelation.",
+  "scripture_refs": [
+    {
+      "ref": "REV.1.9-11",
+      "relevance": "primary",
+      "reason": "John's exile on Patmos and the divine command to write what he sees — the direct subject of the painting"
+    },
+    {
+      "ref": "REV.1.1-3",
+      "relevance": "primary",
+      "reason": "The opening of Revelation describing the revelation of Jesus Christ given to John"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "allusion",
+      "reason": "John as the evangelist who testified to the eternal Word from the beginning"
+    },
+    {
+      "ref": "REV.21.1",
+      "relevance": "typological",
+      "reason": "The sea before John will be abolished in the new creation he is about to envision"
+    },
+    {
+      "ref": "1KI.19.11-12",
+      "relevance": "typological",
+      "reason": "Elijah's solitary encounter with God at Horeb prefigures John's solitary reception of divine revelation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "austere",
+    "visionary",
+    "solitary"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0150166",
+    "title": "St John on Patmos",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

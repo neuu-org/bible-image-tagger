@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Communicants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Sacrament of Communion (Holy Eucharist)",
+  "tags": [
+    "communion",
+    "eucharist",
+    "sacrament",
+    "priest",
+    "chalice",
+    "kneeling-communicants",
+    "surplice",
+    "altar-server",
+    "liturgical-rite",
+    "dark-interior"
+  ],
+  "symbols": [
+    "chalice held by priest — the blood of Christ in the New Covenant, poured out for the remission of sins",
+    "kneeling communicants — the posture of humility and reverence before the Real Presence",
+    "white surplice — the purity of the priestly office, mediating between God and the faithful",
+    "young altar servers — the continuity of the faith passed from generation to generation"
+  ],
+  "description": "A dimly lit interior scene showing a priest in a white surplice over dark vestments standing at center, holding a chalice in one hand and administering communion to kneeling figures before him. Several adults and elderly people kneel with hands clasped in prayer, receiving the sacrament. Behind the priest, two young altar servers in light robes attend. Additional figures are visible in the dark background. The lighting is dramatic, focusing on the priest's surplice and the faces of the communicants.",
+  "theological_description": "This scene of the Eucharistic rite depicts the sacrament Christ instituted at the Last Supper: 'This is my body, which is given for you. Do this in remembrance of me' (Luke 22:19). The priest, acting in persona Christi, distributes the chalice to the faithful who kneel in humble reception. Paul warns that the Eucharist is no casual meal: 'Whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord' (1 Corinthians 11:27). The kneeling posture of the communicants reflects the gravity of the encounter — receiving the body and blood of Christ is participation in his death and resurrection. The intimate, dimly lit setting mirrors the Upper Room where the sacrament was first celebrated. The presence of young servers and elderly communicants together embodies the trans-generational nature of the Church, fulfilling Christ's promise: 'I am with you always, to the very end of the age' (Matthew 28:20).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist — 'This is my body given for you; do this in remembrance of me'"
+    },
+    {
+      "ref": "1CO.11.23-27",
+      "relevance": "primary",
+      "reason": "Paul's teaching on the proper reception of the Lord's Supper"
+    },
+    {
+      "ref": "MAT.28.20",
+      "relevance": "allusion",
+      "reason": "Christ's ongoing presence with the Church through the sacraments until the end of the age"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "reverent",
+    "solemn",
+    "intimate"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160386",
+    "title": "The Seven Sacraments - Communion",
+    "artist": "Giuseppe Maria Crespi",
+    "model": "claude-opus-4-6"
+  }
+}

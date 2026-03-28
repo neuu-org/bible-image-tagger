@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Nativity of Christ",
+  "tags": [
+    "nativity",
+    "birth-of-christ",
+    "manger",
+    "angels-adoring",
+    "radiant-infant",
+    "virgin-mary",
+    "joseph",
+    "donkey",
+    "shepherds-arriving",
+    "night-scene",
+    "divine-light",
+    "musical-angels"
+  ],
+  "symbols": [
+    "radiant infant — the Light of the World born into darkness, 'the people walking in darkness have seen a great light'",
+    "angels kneeling in adoration — heaven worshipping the incarnate God",
+    "Mary gazing down — the mother contemplating the mystery of her divine Son",
+    "Joseph standing apart — the faithful guardian watching over the Holy Family",
+    "donkey — the humble animal of the stable, creation present at its Creator's birth",
+    "dark night setting — the world in spiritual darkness into which the Light has come"
+  ],
+  "description": "A night scene inside a stone stable. At center, a radiant infant lies on a low platform or manger, glowing with golden light that illuminates the surrounding figures. The Virgin Mary in a dark blue robe and white veil kneels to the left, gazing down at the child. Joseph in a red robe stands at the far left. Several angels in richly colored robes kneel around the child — one playing a musical instrument. A donkey peeks through a window. More angels gather at the upper right. Shepherds appear at the upper left, arriving through an archway.",
+  "theological_description": "Gerard David's Nativity centers the supernatural light on the infant Christ himself — not an external star but the child's own radiance makes visible the Johannine theology: 'In him was life, and that life was the light of all mankind. The light shines in the darkness, and the darkness has not overcome it' (John 1:4-5). The night setting amplifies this: into the world's deepest darkness, God sends his most brilliant light. The angels kneeling around the child enact the scene described in Luke 2:13-14 and fulfill the theology of Hebrews: 'When God brings his firstborn into the world, he says, \"Let all God's angels worship him\"' (Hebrews 1:6). Mary's contemplative gaze embodies Luke's observation that she 'treasured up all these things and pondered them in her heart' (Luke 2:19). The arriving shepherds represent the lowly first called to witness salvation — 'I bring you good news that will cause great joy for all the people' (Luke 2:10).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-14",
+      "relevance": "primary",
+      "reason": "The birth of Jesus, the manger, the angelic host, and the shepherds' announcement"
+    },
+    {
+      "ref": "JHN.1.4-5",
+      "relevance": "primary",
+      "reason": "The light shining in darkness — the infant Christ as the literal light source in the painting"
+    },
+    {
+      "ref": "HEB.1.6",
+      "relevance": "typological",
+      "reason": "Let all God's angels worship him — the angels kneeling before the newborn Christ"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary pondering these things in her heart — her contemplative gaze at the child"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "radiant",
+    "reverent",
+    "intimate",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160632",
+    "title": "The Nativity",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

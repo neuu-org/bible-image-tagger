@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "King David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Other Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "David Imagines Christ Elevated Above All Other Beings",
+  "tags": [
+    "david",
+    "christ-exalted",
+    "gold-background",
+    "heavenly-throne",
+    "crowned-king",
+    "blue-heavens",
+    "medieval-miniature",
+    "adoration",
+    "latin-text",
+    "book-of-hours",
+    "hands-raised-in-prayer",
+    "diverse-figures"
+  ],
+  "symbols": [
+    "Christ elevated above all — the supreme lordship over all creation",
+    "David in royal crown looking up — the prophet-king foreseeing his descendant's exaltation",
+    "blue concentric circles — the heavenly spheres above which Christ is enthroned",
+    "gold diaper pattern — the eternal glory of the divine realm",
+    "diverse figures below — all peoples of the earth acknowledging Christ's supremacy"
+  ],
+  "description": "An illuminated manuscript miniature with gold patterned background. At the top, Christ sits in glory atop concentric blue circles representing the heavens, with hands raised in blessing. Below at the left, a crowned king in a pink robe (David) gazes upward with hands raised in prayer. At the right, two or three figures in white garments also look upward. Latin text appears at the top of the page. The style is characteristic of 15th-century French manuscript illumination with rich gold, blue, and pink coloring.",
+  "theological_description": "This Limbourg brothers miniature illustrates David's prophetic vision of Christ exalted above all creation. The image draws on multiple Davidic psalms that the New Testament applies to Christ. Psalm 110:1 — 'The Lord says to my Lord: Sit at my right hand, until I make your enemies your footstool' — is the most frequently quoted Old Testament verse in the New Testament, cited by Jesus himself (Matthew 22:44) and by Peter at Pentecost (Acts 2:34-35). Psalm 8:5-6, which David wrote, is applied to Christ in Hebrews: 'You have crowned him with glory and honor, putting everything in subjection under his feet' (Hebrews 2:7-8). Paul proclaims the fulfillment: 'God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth' (Philippians 2:9-10). The diverse figures below looking upward embody the universal scope of this exaltation — 'every tribe and language and people and nation' (Revelation 5:9) will acknowledge Christ's lordship. David, the anointed king and prophet, saw in vision what would come through his lineage — the eternal King whose throne God established forever (2 Samuel 7:13).",
+  "scripture_refs": [
+    {
+      "ref": "PSA.110.1",
+      "relevance": "primary",
+      "reason": "The Lord says to my Lord, Sit at my right hand — David's vision of Christ's exaltation"
+    },
+    {
+      "ref": "PHP.2.9-11",
+      "relevance": "primary",
+      "reason": "God exalting Christ above every name, every knee bowing — the scene of universal adoration depicted"
+    },
+    {
+      "ref": "HEB.2.7-8",
+      "relevance": "primary",
+      "reason": "Crowned with glory and honor, everything subjected under his feet — Christ elevated above all"
+    },
+    {
+      "ref": "2SA.7.12-13",
+      "relevance": "typological",
+      "reason": "God establishing the throne of David's descendant forever — David foreseeing Christ's eternal reign"
+    },
+    {
+      "ref": "REV.5.9",
+      "relevance": "allusion",
+      "reason": "Every tribe and people acknowledging Christ — the diverse figures below worshipping"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "exalted",
+    "prophetic",
+    "glorious",
+    "devotional"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0141074",
+    "title": "David Imagines Christ Elevated Above All Other Beings",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

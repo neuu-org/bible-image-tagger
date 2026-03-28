@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Executioners and Persecutors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Martyrdom of the Twelve Apostles",
+  "tags": [
+    "martyrdom-of-apostles",
+    "twelve-apostles",
+    "multiple-scenes",
+    "violence",
+    "swords",
+    "clubs",
+    "gold-background",
+    "six-panels",
+    "persecution"
+  ],
+  "symbols": [
+    "diverse instruments of death — each apostle's unique martyrdom, the many forms of persecution",
+    "gold background — the heavenly reward behind every earthly suffering",
+    "haloed victims amid violence — sanctity persisting through brutal assault",
+    "altar structure — the altarpiece setting transforms these deaths into acts of worship, sacrifices offered to God"
+  ],
+  "description": "A six-panel altarpiece wing showing scenes of apostolic martyrdom. Each panel depicts a different apostle being tortured or killed by various means — beheading, beating with clubs, stabbing, flaying. The figures are shown in vivid medieval dress against gold backgrounds. Executioners in colorful garments attack the haloed apostles who submit or pray. The scenes are violent and dynamic, packed with figures in motion. The panels are arranged in a 2x3 grid, each self-contained but forming a unified program of martyrdom.",
+  "theological_description": "This altarpiece wing depicts the collective martyrdom of the apostles, fulfilling Christ's prediction: 'They will hand you over to be persecuted and put to death, and you will be hated by all nations because of me' (Matthew 24:9). Tradition records that nearly all the apostles died violent deaths — Peter crucified upside down, Paul beheaded, Andrew crucified on an X-shaped cross, Bartholomew flayed, and so on. Their willingness to die testifies to the reality of the Resurrection — men do not die for what they know to be false. Paul embraced this vocation: 'I consider my life worth nothing to me; my only aim is to finish the race and complete the task the Lord Jesus has given me' (Acts 20:24). The altarpiece format places these deaths in the context of worship — the apostles' blood, like Christ's, is a sacrifice offered on the altar. Jesus promised: 'You will indeed drink from my cup' (Matthew 20:23), and the apostles drank it willingly.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.24.9",
+      "relevance": "primary",
+      "reason": "You will be handed over to be persecuted and put to death — fulfilled in the apostles' martyrdoms"
+    },
+    {
+      "ref": "ACT.20.24",
+      "relevance": "primary",
+      "reason": "Paul considering his life worth nothing to finish the task — the apostolic willingness to die"
+    },
+    {
+      "ref": "MAT.20.22-23",
+      "relevance": "typological",
+      "reason": "You will drink from my cup — the apostles sharing in Christ's suffering"
+    },
+    {
+      "ref": "REV.6.9-11",
+      "relevance": "allusion",
+      "reason": "The souls of the martyrs under the altar — the altarpiece setting sanctifying their deaths"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "solemn",
+    "heroic"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0160971",
+    "title": "Martyrdom of the Twelve Apostles (Altarpiece for the Church of the Holy Apostles in Cologne, right wing)",
+    "artist": "Stefan Lochner",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "name": "Biblical figure (possibly a patriarch, king, or prophet)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Life of Christ — stained glass detail of an elderly figure in contemplation",
+  "tags": [
+    "elderly-man",
+    "red-turban",
+    "blue-robe",
+    "contemplation",
+    "hand-to-chin",
+    "church-window",
+    "medieval-glass",
+    "life-of-christ-cycle"
+  ],
+  "symbols": [
+    "hand to chin in thought — deep contemplation, possibly a prophet meditating on the mystery of Christ",
+    "red headdress — authority or priestly status",
+    "golden crown or ornament visible — royal or sacerdotal dignity"
+  ],
+  "description": "A close-up detail from a stained glass window in the church of Saint-Sulpice de Fougeres, showing the face and upper body of an elderly bearded man. He wears a blue robe and a red turban or headdress, with what appears to be a golden crown visible at the upper right edge. His expression is deeply thoughtful, with his hand raised to his chin in a gesture of contemplation or concern. The face is rendered with remarkable realism for stained glass, with deep wrinkles, a flowing beard, and a penetrating gaze.",
+  "theological_description": "This stained glass detail, from a cycle depicting the Life of Christ, likely represents a figure from the Passion narrative — perhaps Nicodemus, Joseph of Arimathea, or a high priest contemplating the events surrounding Christ's trial and death. The thoughtful gesture suggests a man weighing momentous decisions or pondering divine mysteries. If a member of the Sanhedrin, the figure may embody the theological crisis described in John 11:49-52, where Caiaphas inadvertently prophesied that Jesus would die for the nation. If Nicodemus, the contemplative posture recalls his nighttime visit to Jesus (John 3:1-2) and his defense of Jesus before the council (John 7:50-51). The stained glass medium itself carries theological meaning: as light passes through colored glass to create images, so divine truth is transmitted through material creation — an incarnational theology expressed in the very medium of the church window.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.3.1-2",
+      "relevance": "primary",
+      "reason": "Nicodemus coming to Jesus by night to ponder His teachings — the contemplative figure possibly representing this seeker"
+    },
+    {
+      "ref": "JHN.7.50-51",
+      "relevance": "typological",
+      "reason": "Nicodemus defending Jesus before the council — a righteous man weighing truth amid opposition"
+    },
+    {
+      "ref": "LUK.2.25-32",
+      "relevance": "allusion",
+      "reason": "Simeon waiting for the consolation of Israel — an elderly figure contemplating God's plan"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "solemn",
+    "intense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190926",
+    "title": "Life of Christ. Eglise Saint-Sulpice de Fougères (detail)",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

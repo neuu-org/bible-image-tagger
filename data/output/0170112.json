@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Judith",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holofernes",
+      "type": "PERSON"
+    },
+    {
+      "name": "Abra (maidservant)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Judith with the severed head of Holofernes",
+  "tags": [
+    "judith",
+    "holofernes",
+    "severed-head",
+    "sword",
+    "maidservant",
+    "red-dress",
+    "jeweled-necklace",
+    "victorious-heroine",
+    "platter",
+    "old-testament-apocrypha",
+    "female-courage"
+  ],
+  "symbols": [
+    "sword held aloft — divine justice executed through an unlikely instrument",
+    "severed head of Holofernes — the defeat of tyrannical power by faith and courage",
+    "Judith's elegant attire — the beauty she used as a weapon to save her people",
+    "maidservant with the bag — faithful service and complicity in God's deliverance"
+  ],
+  "description": "A richly dressed woman stands at center in an elaborate red dress with gold embroidery, wearing pearl and jewel necklaces. She holds a sword in her raised right hand and in her left grasps the severed head of a bearded man by its hair. Behind her at right, an older woman in a white headdress — her maidservant — holds a cloth or bag, receiving the head. The background is dark, focusing attention on Judith's composed, almost serene expression and her ornate clothing.",
+  "theological_description": "This painting depicts the climactic moment from the deuterocanonical Book of Judith (Judith 13:6-10). Judith, a beautiful and devout Israelite widow, entered the camp of the Assyrian general Holofernes, who was besieging her city of Bethulia. After gaining his trust, she decapitated him with his own sword while he lay in a drunken stupor, and carried his head back to her people in a bag held by her maidservant Abra. The beheading threw the Assyrian army into panic and delivered Israel. Judith's act was understood as God working salvation through the weak and unexpected — a woman defeating the mightiest army — echoing the pattern of Jael killing Sisera (Judges 4:21) and David slaying Goliath (1 Samuel 17). Her prayer before the deed invokes the God who 'crushes wars' and is 'Lord of the lowly, helper of the oppressed' (Judith 9:11). In Christian tradition, Judith became a type of the Virgin Mary crushing the serpent's head, and more broadly a figure of the Church triumphing over evil through faith rather than worldly power.",
+  "scripture_refs": [
+    {
+      "ref": "JDT.13.6-10",
+      "relevance": "primary",
+      "reason": "Judith prays and then strikes Holofernes twice on the neck, cutting off his head — the event depicted"
+    },
+    {
+      "ref": "JDT.13.15",
+      "relevance": "primary",
+      "reason": "Judith reveals the head to her people as proof of God's deliverance"
+    },
+    {
+      "ref": "JDG.4.21",
+      "relevance": "typological",
+      "reason": "Jael killing Sisera with a tent peg — a parallel of a woman defeating an enemy commander"
+    },
+    {
+      "ref": "1SA.17.50-51",
+      "relevance": "typological",
+      "reason": "David beheading Goliath — God's deliverance through an unlikely champion, parallel to Judith"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "composed",
+    "dramatic"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0170112",
+    "title": "Judith with the Head of Holofernes",
+    "artist": "Lavinia Fontana",
+    "model": "claude-opus-4-6"
+  }
+}

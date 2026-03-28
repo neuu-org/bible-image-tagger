@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Job",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Job's Suffering on the Ash Heap",
+  "tags": [
+    "job",
+    "suffering",
+    "ash-heap",
+    "boils",
+    "affliction",
+    "despair",
+    "gazing-heavenward",
+    "emaciated-body",
+    "long-white-beard",
+    "naked",
+    "patience",
+    "lament",
+    "old-testament-wisdom"
+  ],
+  "symbols": [
+    "ash heap — utter desolation, mourning, and the lowest point of human misery",
+    "emaciated naked body — total loss of health, wealth, and worldly dignity",
+    "upward gaze — persistent faith and appeal to God even amid unbearable suffering",
+    "open palms — helplessness, surrender, and the posture of one who has nothing left to offer",
+    "long white beard — wisdom earned through age and now tested through affliction",
+    "dark background — spiritual darkness and the hiddenness of God's purposes"
+  ],
+  "description": "An elderly man with a long white beard and emaciated, pale body sits on the ground in near-total nudity, covered only by a thin cloth around his waist. His skin appears afflicted and discolored. He gazes upward with an expression of anguished appeal, his mouth slightly open. His hands rest open on his knees in a gesture of helpless surrender. The background is dark and indistinct, isolating the figure in his solitary suffering.",
+  "theological_description": "Bonnat's Job is one of the most viscerally powerful depictions of the patriarch's suffering. The Book of Job records that after Satan received permission to afflict Job, 'he smote Job with sore boils from the sole of his foot unto his crown' (Job 2:7). Job sat among the ashes (Job 2:8), scraping his skin, while his wife urged him to 'curse God and die' (Job 2:9). Yet Job refused: 'Shall we receive good at the hand of God, and shall we not receive evil?' (Job 2:10). The upward gaze captures the heart of Job's struggle — he will not look away from God, even when God seems to have become his adversary. This is the man who cries, 'Though he slay me, yet will I trust in him' (Job 13:15), and who in his darkest hour dares to proclaim, 'I know that my Redeemer lives, and that in the end he will stand upon the earth' (Job 19:25). The emaciated body prefigures the Suffering Servant of Isaiah 53 and ultimately Christ himself, stripped and broken for the sins of the world. Job's unjust suffering and eventual vindication became a cornerstone of biblical theodicy — affirming that human suffering, however incomprehensible, exists within the sovereign purposes of a God who ultimately answers from the whirlwind (Job 38:1).",
+  "scripture_refs": [
+    {
+      "ref": "JOB.2.7-10",
+      "relevance": "primary",
+      "reason": "The direct narrative of Job afflicted with boils sitting among the ashes, which is the scene depicted"
+    },
+    {
+      "ref": "JOB.13.15",
+      "relevance": "primary",
+      "reason": "Job's defiant trust in God despite suffering is captured in the upward heavenward gaze"
+    },
+    {
+      "ref": "JOB.19.25-26",
+      "relevance": "primary",
+      "reason": "Job's proclamation of faith in a living Redeemer even from the ash heap of despair"
+    },
+    {
+      "ref": "ISA.53.3-4",
+      "relevance": "typological",
+      "reason": "Job's innocent suffering prefigures the Suffering Servant who was despised, rejected, and acquainted with grief"
+    },
+    {
+      "ref": "JOB.38.1-4",
+      "relevance": "allusion",
+      "reason": "The upward gaze anticipates God's eventual answer from the whirlwind, vindicating Job's persistence"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "desolate",
+    "defiant",
+    "solemn"
+  ],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0140011",
+    "title": "Job",
+    "artist": "Leon Bonnat",
+    "model": "claude-opus-4-6"
+  }
+}

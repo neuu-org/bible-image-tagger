@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "long-table",
+    "twelve-apostles",
+    "bread-and-wine",
+    "expressionist",
+    "dark-figures",
+    "blue-background",
+    "pink-table",
+    "central-christ-figure",
+    "modern-interpretation",
+    "rough-brushwork"
+  ],
+  "symbols": [
+    "long table with bread and cup — the eucharistic institution, Christ's body and blood",
+    "central tall figure — Christ presiding over the final Passover meal",
+    "dark-outlined figures surrounding the table — the twelve apostles, including the betrayer",
+    "cup at center — the New Covenant in Christ's blood"
+  ],
+  "description": "A bold, expressionist interpretation of the Last Supper. A large pink-toned triangular table extends from the foreground to a vanishing point where a tall, dark central figure (Christ) stands. Around the table, roughly rendered dark figures with angular faces sit or stand — the twelve apostles. The background is deep blue. On the table surface, a few objects are visible — a circular form (plate or bread) and a cup. The style is raw and gestural, with thick dark outlines, scratchy brushwork, and a limited palette of blue, pink, black, and white. The faces are mask-like and haunting.",
+  "theological_description": "Holosiy's expressionist Last Supper strips the narrative to its emotional and theological essence. The scene depicts the final Passover meal (Matthew 26:17-30, Mark 14:12-26, Luke 22:7-23, John 13:1-30) at which Jesus instituted the Eucharist: 'This is my body given for you; do this in remembrance of me' (Luke 22:19). The rough, almost brutal rendering captures the tension of that night — one of the twelve would betray him (John 13:21). The towering central figure of Christ dominates the composition as the host and the sacrifice simultaneously. The dark, angular faces of the apostles evoke the confusion, fear, and sorrow that Jesus predicted: 'You will all fall away' (Mark 14:27). The cup at the center of the table is the 'new covenant in my blood' (Luke 22:20), the foundation of Christian worship across all centuries. The expressionist distortion strips away historical costuming to reveal the timeless, cosmic weight of what occurred at this meal: God offering himself as food for the world.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist — this is my body, this is my blood of the new covenant"
+    },
+    {
+      "ref": "MAT.26.20-29",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Last Supper with the twelve apostles"
+    },
+    {
+      "ref": "JHN.13.21",
+      "relevance": "primary",
+      "reason": "Jesus troubled in spirit declaring one of you will betray me — the tension at the table"
+    },
+    {
+      "ref": "MRK.14.27",
+      "relevance": "allusion",
+      "reason": "You will all fall away — the dark mood of impending abandonment"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["haunting", "raw", "tense", "stark"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170691",
+    "title": "Last supper",
+    "artist": "Oleg Holosiy",
+    "model": "claude-opus-4-6"
+  }
+}

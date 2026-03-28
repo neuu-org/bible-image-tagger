@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "St. Jerome in penitence",
+  "tags": [
+    "st-jerome",
+    "penitence",
+    "church-father",
+    "red-cloak",
+    "aged-ascetic",
+    "skull",
+    "book",
+    "desert-hermit",
+    "contemplation"
+  ],
+  "symbols": [
+    "skull beneath his hand — memento mori, meditation on death and the transience of earthly life",
+    "red cloak — Jerome's cardinal dignity in later tradition, or the passion of penitential devotion",
+    "emaciated body — the ascetic discipline of fasting and self-denial in pursuit of holiness",
+    "book or manuscript — Jerome's monumental work of translating the Bible into Latin (the Vulgate)"
+  ],
+  "description": "A painting of St. Jerome depicted as an elderly, gaunt man with a long white beard and bald head, seated in a rocky setting. He wears a voluminous red cloak draped over his thin, bare-chested body. His right hand rests on or near a human skull placed on a stone ledge, while he gazes downward in contemplation. The background suggests a cave or rocky wilderness. The figure is powerfully lit from the left, highlighting his aged, ascetic physique against the shadowed background.",
+  "theological_description": "St. Jerome (c. 347-420 AD) was one of the greatest Church Fathers, best known for translating the Bible into Latin (the Vulgate), which remained the standard text of Western Christianity for over a millennium. While a post-biblical figure, Jerome's life was consumed by Scripture. He famously declared 'Ignorance of Scripture is ignorance of Christ,' echoing the principle of 2 Timothy 3:16-17 that all Scripture is God-breathed and profitable. His penitential posture in the wilderness reflects the biblical tradition of desert spirituality — Moses on Sinai, Elijah at Horeb, Jesus's forty days in the wilderness (Matthew 4:1-2). The skull he contemplates embodies Ecclesiastes 12:7: 'The dust returns to the ground it came from, and the spirit returns to God who gave it.' Jerome's gaunt asceticism reflects Paul's discipline in 1 Corinthians 9:27: 'I discipline my body and keep it under control.' His lifelong devotion to the sacred text fulfills the psalmist's prayer: 'Open my eyes that I may see wonderful things in your law' (Psalm 119:18).",
+  "scripture_refs": [
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "typological",
+      "reason": "All Scripture is God-breathed — the conviction that drove Jerome's monumental translation work"
+    },
+    {
+      "ref": "ECC.12.7",
+      "relevance": "typological",
+      "reason": "Dust returns to the ground — the skull meditation on mortality rooted in Ecclesiastes"
+    },
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "typological",
+      "reason": "Jesus's wilderness retreat as the model for Jerome's desert asceticism and penitence"
+    },
+    {
+      "ref": "PSA.119.18",
+      "relevance": "allusion",
+      "reason": "Open my eyes to see wonderful things in your law — Jerome's lifelong devotion to understanding Scripture"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitent",
+    "contemplative",
+    "somber",
+    "austere"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0190600",
+    "title": "St. Jerome",
+    "artist": "Orazio Gentileschi",
+    "model": "claude-opus-4-6"
+  }
+}

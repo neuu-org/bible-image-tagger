@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony of Padua",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint Anthony of Padua with the Infant Christ",
+  "tags": [
+    "saint-anthony-of-padua",
+    "infant-christ",
+    "lily",
+    "open-book",
+    "franciscan-habit",
+    "brown-robe",
+    "child-blessing",
+    "devotional-vision",
+    "tonsure",
+    "halo",
+    "dark-background",
+    "purity",
+    "contemplation"
+  ],
+  "symbols": [
+    "white lily — purity, chastity, and the saint's devotion to Christ",
+    "open book — Scripture and theological learning for which Anthony was renowned",
+    "infant Christ seated on the book — the living Word enthroned upon the written Word",
+    "child raising hand in blessing — divine authority even in the form of an infant",
+    "Franciscan brown habit — poverty, humility, and the Franciscan way of life",
+    "dark background — the mystical intimacy of the saint's private vision"
+  ],
+  "description": "A man in a brown Franciscan habit with a tonsure and faint halo holds a plump, fair-haired infant on his lap. The child sits atop an open book and raises one hand in a gesture of blessing. A white lily on a stem rests against the book. The background is entirely dark, focusing all attention on the tender interaction between the robed figure and the child. The man gazes down at the infant with gentle devotion.",
+  "theological_description": "Guercino's painting depicts the beloved vision of Saint Anthony of Padua, the 13th-century Franciscan friar and Doctor of the Church, to whom the infant Christ reportedly appeared. While Anthony is not a biblical figure, his vision directly illustrates the theological truth Jesus proclaimed: 'Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven' (Matthew 18:3). The infant Christ seated on the open book embodies the Johannine theology of the Word: 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1) — here the living Word literally rests upon the written word of Scripture. The lily, Anthony's traditional attribute, echoes Jesus's teaching: 'Consider the lilies of the field, how they grow: they neither toil nor spin, yet I tell you, even Solomon in all his glory was not arrayed like one of these' (Matthew 6:28-29). The intimate, private nature of the vision reflects the promise: 'Blessed are the pure in heart, for they shall see God' (Matthew 5:8). Anthony's combination of profound learning and childlike devotion embodies the paradox of Christian wisdom.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.18.3",
+      "relevance": "primary",
+      "reason": "Jesus's teaching to become like children to enter the kingdom — embodied in the infant Christ appearing to the devout saint"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "typological",
+      "reason": "The Word of God — the infant Christ seated upon the open book is the living Word atop the written Word"
+    },
+    {
+      "ref": "MAT.5.8",
+      "relevance": "primary",
+      "reason": "The pure in heart seeing God — Anthony's vision of the Christ child as reward for his pure devotion"
+    },
+    {
+      "ref": "MAT.6.28-29",
+      "relevance": "allusion",
+      "reason": "The lilies of the field — Anthony's lily symbolizes the trust and purity Jesus commended"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140299",
+    "title": "St Anthony of Padua with the Infant Christ",
+    "artist": "Guercino",
+    "model": "claude-opus-4-6"
+  }
+}

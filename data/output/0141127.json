@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Saint Cecilia",
+      "type": "PERSON"
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Augustine",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels with instruments",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Ecstasy of Saint Cecilia",
+  "tags": [
+    "saint-cecilia",
+    "patron-of-music",
+    "organ-pipes",
+    "musical-instruments",
+    "saints",
+    "heavenly-choir",
+    "angels-singing",
+    "ecstasy",
+    "upward-gaze",
+    "broken-instruments-on-ground",
+    "sword",
+    "ointment-jar",
+    "bishop-crozier"
+  ],
+  "symbols": [
+    "Cecilia gazing heavenward — earthly music surpassed by heavenly music",
+    "broken instruments on the ground — earthly art abandoned for divine inspiration",
+    "organ pipes in her hands — her patronage of sacred music",
+    "angels singing above — the heavenly choir that Cecilia hears in ecstasy",
+    "sword of Paul — martyrdom and the word of God",
+    "ointment jar of Magdalene — repentance and devotion"
+  ],
+  "description": "Five full-length saints stand in a landscape. At center, a woman (Saint Cecilia) gazes upward in ecstasy, holding a small portative organ with pipes pointing downward. She wears a golden brocade dress. To her left, a bearded man in red and green (Saint Paul) holds a sword and leans on one hand in thought. A younger woman (possibly John the Evangelist or another saint) stands beside him. To Cecilia's right, an elderly bald man with a bishop's crozier (Saint Augustine) and a blonde woman holding an ointment jar (Mary Magdalene) stand. Musical instruments lie broken on the ground at their feet.",
+  "theological_description": "Raphael's Ecstasy of Saint Cecilia depicts the patron saint of music rapt in heavenly vision, surrounded by four great saints. Cecilia, according to tradition, heard heavenly music at her wedding and vowed her virginity to God. While she is not a biblical figure, the painting illustrates the biblical reality of heavenly worship. The Psalmist commands: 'Praise the Lord! Praise God in his sanctuary; praise him in his mighty heavens! Praise him with trumpet sound; praise him with lute and harp!' (Psalm 150:1-3). The angels singing above embody the heavenly liturgy John saw: 'And I heard a voice from heaven like the roar of many waters... and the voice I heard was like the sound of harpists playing on their harps' (Revelation 14:2). Paul stands with his sword, embodying his own words: 'the word of God is living and active, sharper than any two-edged sword' (Hebrews 4:12). Mary Magdalene with her ointment jar recalls her anointing of Jesus (John 12:3). The broken earthly instruments at Cecilia's feet suggest Paul's teaching: 'For now we see in a mirror dimly, but then face to face' (1 Corinthians 13:12) — earthly beauty is but a shadow of heavenly glory.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.150.1-6",
+      "relevance": "primary",
+      "reason": "Praise God with musical instruments — Cecilia as patron of sacred music and the heavenly choir above"
+    },
+    {
+      "ref": "REV.14.2-3",
+      "relevance": "primary",
+      "reason": "The sound of harpists in heaven — the angelic choir that Cecilia hears in ecstasy"
+    },
+    {
+      "ref": "HEB.4.12",
+      "relevance": "allusion",
+      "reason": "The word of God as a two-edged sword — Paul's sword as his attribute"
+    },
+    {
+      "ref": "JHN.12.3",
+      "relevance": "allusion",
+      "reason": "Mary anointing Jesus with costly ointment — Magdalene's jar identifying her"
+    },
+    {
+      "ref": "1CO.13.12",
+      "relevance": "typological",
+      "reason": "Seeing dimly now but then face to face — earthly music abandoned for heavenly reality"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "ecstatic",
+    "sublime",
+    "harmonious",
+    "transcendent"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0141127",
+    "title": "St. Cecilia with Sts. Paul, John Evangelists, Augustine and Mary Magdalene",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

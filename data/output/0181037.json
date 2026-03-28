@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Chancellor Rolin",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Virgin of the Chancellor Rolin",
+  "tags": [
+    "madonna-and-child",
+    "chancellor-rolin",
+    "donor-portrait",
+    "prayer",
+    "crown-held-by-angel",
+    "open-arcade",
+    "river-landscape",
+    "tiled-floor",
+    "rich-brocade",
+    "kneeling-donor",
+    "detailed-landscape",
+    "columns",
+    "miniature-figures-in-distance",
+    "burgundian-court"
+  ],
+  "symbols": [
+    "kneeling chancellor before the Virgin — the devotion of earthly power before heavenly grace",
+    "angel holding crown over Mary — the Queen of Heaven crowned by the heavenly court",
+    "open arcade with river landscape — the world of human affairs visible beyond the sacred encounter",
+    "Christ Child with orb — the Salvator Mundi, ruler of the cosmos, presented as an infant",
+    "rich brocade robe of Rolin — worldly wealth brought into the presence of divine humility"
+  ],
+  "description": "A small but extraordinarily detailed painting showing an interior scene framed by three arched openings that look out onto a panoramic river landscape. At left, a middle-aged man in a magnificent gold brocade robe kneels in prayer, his hands clasped before a prayer book on a lectern. At right, the Virgin Mary in a red robe sits holding the infant Christ on her knee. A small angel with multicolored wings hovers above Mary, holding a jeweled crown over her head. The Christ Child holds a small orb and raises one hand in blessing. The floor is elaborately patterned with colored tiles.",
+  "theological_description": "Van Eyck's masterpiece places the Chancellor of Burgundy in direct, unmediated encounter with the Madonna and Child — a bold devotional statement. Rolin kneels in the posture of prayer, presenting himself before the source of all grace. The Christ Child's gesture of blessing and his orb (the Salvator Mundi globe) establish his identity as ruler of the cosmos: 'All authority in heaven and on earth has been given to me' (Matthew 28:18). The angel crowning Mary reflects Revelation 12:1, the Woman crowned with stars, and the tradition of Mary as Regina Coeli — Queen of Heaven. The panoramic landscape visible through the arches serves a profound theological purpose: it displays the entire created world — the world God so loved (John 3:16) — viewed from the vantage point of the sacred encounter. The meticulous detail of every brick, leaf, and distant figure affirms that God's care extends to the smallest elements of creation: 'Even the hairs of your head are all numbered' (Matthew 10:30). The tiled floor, with its intricate pattern, suggests the ordered beauty of creation itself. Rolin's rich brocade does not contrast with the sacred scene but is integrated into it — all wealth, power, and human achievement find their proper orientation when brought before the throne of grace (Hebrews 4:16).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.18",
+      "relevance": "primary",
+      "reason": "All authority given to Christ, symbolized by the orb held by the infant Salvator Mundi"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The Woman crowned — the angel holding the crown over Mary reflects the heavenly Queen imagery"
+    },
+    {
+      "ref": "JHN.3.16",
+      "relevance": "typological",
+      "reason": "The panoramic world visible through the arches is the world God so loved that he gave his Son"
+    },
+    {
+      "ref": "HEB.4.16",
+      "relevance": "allusion",
+      "reason": "Drawing near to the throne of grace with confidence, embodied by Rolin's bold approach to the Madonna"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "majestic",
+    "luminous",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0181037",
+    "title": "The Virgin of the Chancellor Rolin",
+    "artist": "Jan van Eyck",
+    "model": "claude-opus-4-6"
+  }
+}

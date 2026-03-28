@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child (Madonna of Humility)",
+  "tags": [
+    "madonna-and-child",
+    "madonna-of-humility",
+    "gold-background",
+    "dark-blue-mantle",
+    "halo",
+    "patterned-textile",
+    "hands-in-prayer",
+    "infant-on-cushion",
+    "devotional-icon"
+  ],
+  "symbols": [
+    "Mary's raised hands in prayer — adoration of her own divine Son, the handmaid worshipping the Lord",
+    "child on a golden cushion — the divine infant presented on a throne of glory",
+    "dark blue mantle — heavenly identity and purity of the Virgin",
+    "gold patterned background — the eternal realm of heaven, the uncreated light of God",
+    "haloes — the sanctity of mother and child, divine favor made visible"
+  ],
+  "description": "A devotional panel showing the Virgin Mary in a deep blue mantle over a red dress, seated with her hands raised in prayer before the infant Jesus who lies on a golden cushion in her lap. Both have circular golden haloes. Mary's head is tilted slightly toward the child, her eyes downcast in contemplation. The child lies with arms spread, gazing outward. The background is a richly patterned gold textile with floral rosette motifs. The style is formal and hieratic with flat gold backgrounds and detailed patterning.",
+  "theological_description": "Gentile da Fabriano's Madonna of Humility shows Mary seated on the ground (the 'humility' of the title derives from the Latin humilis, 'lowly'), elevating her child on a precious cushion while she herself takes the lowest position. This visual theology reflects Mary's own canticle: 'He has looked with favor on the lowliness of his servant' (Luke 1:48). Her prayer hands before her own child enact the mystery — the mother worships the Son she bore, for he is 'the image of the invisible God, the firstborn over all creation' (Colossians 1:15). The child's outward gaze and open arms prefigure the crucifixion — arms spread to embrace the world. The gold background signifies that this domestic scene participates in the eternal: 'The Word was with God, and the Word was God' (John 1:1), and now the Word lies in his mother's lap.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.46-48",
+      "relevance": "primary",
+      "reason": "The Magnificat — Mary's humility and God's favor on his lowly handmaid"
+    },
+    {
+      "ref": "COL.1.15",
+      "relevance": "primary",
+      "reason": "The image of the invisible God — the divine infant Mary adores"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "allusion",
+      "reason": "The Word was God — the eternal divine nature of the child on Mary's lap"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "serene",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0161080",
+    "title": "Madonna",
+    "artist": "Gentile da Fabriano",
+    "model": "claude-opus-4-6"
+  }
+}

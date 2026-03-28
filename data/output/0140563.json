@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Our Lady in a Garland of Roses",
+  "tags": [
+    "virgin-mary",
+    "garland-of-roses",
+    "flowers",
+    "blue-mantle",
+    "red-dress",
+    "hands-on-chest",
+    "stars-around-head",
+    "devotional-portrait",
+    "floral-wreath",
+    "roses",
+    "piety",
+    "downcast-eyes",
+    "golden-halo",
+    "contemplation"
+  ],
+  "symbols": [
+    "garland of roses — the rosary, Mary's beauty, and the mystical rose of paradise",
+    "red roses — the blood of Christ and the sorrow of the Mater Dolorosa",
+    "white roses — purity and the immaculate nature of the Virgin",
+    "pink roses — grace and the gentleness of divine love",
+    "stars around her head — the twelve stars of the woman in Revelation 12",
+    "blue mantle — heavenly grace enveloping the Mother of God",
+    "hands crossed on chest — acceptance, humility, and the posture of the Annunciation",
+    "downcast eyes — the humility of the handmaid of the Lord"
+  ],
+  "description": "A half-length portrait of the Virgin Mary surrounded by a large oval garland of roses in various colors — red, white, pink, and blush. She wears a red dress beneath a blue mantle and a golden-edged veil. Her hands are crossed over her chest in a gesture of devotion. Her eyes are modestly downcast. Small star-like points of light circle her head like a crown. The background within the garland is dark, making the figure and flowers luminous by contrast.",
+  "theological_description": "Sassoferrato's Our Lady in a Garland of Roses presents the Virgin Mary as the 'Mystical Rose' of Catholic devotion — a title drawn from the Litany of Loreto. The floral wreath surrounding her connects to the Song of Solomon's imagery: 'I am a rose of Sharon, a lily of the valleys' (Song of Solomon 2:1), which Marian theology has applied to the Blessed Virgin. The stars around her head directly evoke Revelation 12:1 — 'a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.' Her hands crossed on her chest recall the moment of the Annunciation when Mary responded to Gabriel: 'Behold, I am the servant of the Lord; let it be to me according to your word' (Luke 1:38). The roses themselves carry rich symbolism — red for the sorrows of the Passion through which a sword pierced her own soul (Luke 2:35), white for her immaculate purity, and pink for the grace with which she was filled. Isaiah's prophecy resonates: 'The desert shall rejoice and blossom like the rose... it shall blossom abundantly and rejoice with joy and singing' (Isaiah 35:1-2). Mary is the garden enclosed (Song of Solomon 4:12), the flowering of Israel's long hope.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman with a crown of twelve stars — the star-crown around Mary's head directly references this vision"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Mary's fiat — her hands crossed on her chest recall the posture of humble acceptance"
+    },
+    {
+      "ref": "SNG.2.1",
+      "relevance": "typological",
+      "reason": "The rose of Sharon — the floral wreath surrounding Mary draws on this Song of Solomon imagery"
+    },
+    {
+      "ref": "ISA.35.1-2",
+      "relevance": "allusion",
+      "reason": "The desert blossoming like a rose — the abundance of roses signifying the flowering of salvation"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "The sword piercing Mary's soul — the red roses symbolizing her sorrows through the Passion"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "serene",
+    "beautiful",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140563",
+    "title": "Our Lady in a garland of roses",
+    "artist": "Sassoferrato",
+    "model": "claude-opus-4-6"
+  }
+}

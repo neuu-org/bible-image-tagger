@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Evangelist (left, likely Mark or Matthew)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Evangelist (right, likely John or Luke)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Two putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Christ with the Four Evangelists",
+  "tags": [
+    "christ-enthroned",
+    "evangelists",
+    "risen-christ",
+    "white-robe",
+    "staff",
+    "blessing-hand",
+    "globe",
+    "putti",
+    "architectural-niche",
+    "bearded-figures",
+    "books",
+    "gospel-writers",
+    "divine-authority"
+  ],
+  "symbols": [
+    "Christ elevated at center with raised hand — divine authority and blessing over the Gospel writers",
+    "staff or scepter — Christ's kingly authority over all creation",
+    "globe held by putti — Christ's universal dominion over the world",
+    "two evangelists flanking Christ — the fourfold Gospel witness to Christ's life, death, and resurrection",
+    "architectural niche — the sacred space of revelation and authority"
+  ],
+  "description": "A tall panel showing a central standing figure of Christ in a white robe with bare chest visible, right hand raised in blessing and left hand holding a tall staff. He stands elevated on a pedestal within an architectural niche. Flanking him are two bearded older men in dark robes — one at left with a book, one at right also with a book or scroll. Below Christ, two small putti support a globe or orb. The composition is symmetrical and formal, with warm earth tones and dramatic lighting on the central figure.",
+  "theological_description": "Fra Bartolomeo presents the Risen Christ standing in triumph, flanked by two of the four Evangelists — the authors of the canonical Gospels that testify to his life, teaching, death, and resurrection. Christ's bare chest reveals the body that was crucified and raised, while his elevated position and blessing gesture declare his authority: 'All authority in heaven and on earth has been given to me' (Matthew 28:18). The globe beneath him, held by angelic putti, affirms that 'the earth is the Lord's, and everything in it' (Psalm 24:1). The Evangelists with their books represent the fourfold Gospel witness — the inspired written testimony through which the world comes to know Christ. As John concludes his Gospel: 'These are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name' (John 20:31). The staff or scepter fulfills the messianic prophecy: 'The scepter will not depart from Judah... until he to whom it belongs shall come' (Genesis 49:10). Christ stands as the living Word who authorized and empowers the written Word — the one of whom all four Gospels testify.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.18",
+      "relevance": "primary",
+      "reason": "All authority given to Christ — his elevated, commanding posture with hand raised in blessing"
+    },
+    {
+      "ref": "JHN.20.31",
+      "relevance": "primary",
+      "reason": "The purpose of the Gospels — the Evangelists with their books flanking Christ as witnesses"
+    },
+    {
+      "ref": "PSA.24.1",
+      "relevance": "allusion",
+      "reason": "The earth is the Lord's — represented by the globe held beneath Christ"
+    },
+    {
+      "ref": "GEN.49.10",
+      "relevance": "typological",
+      "reason": "The scepter of Judah fulfilled in Christ holding the staff of authority"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed — the Evangelists as channels of inspired testimony"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "majestic",
+    "authoritative",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150347",
+    "title": "Christ with the Four Evangelists",
+    "artist": "Fra Bartolomeo",
+    "model": "claude-opus-4-6"
+  }
+}

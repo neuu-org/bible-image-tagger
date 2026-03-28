@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-jesus",
+    "gold-halos",
+    "pointed-arch-panel",
+    "blue-mantle",
+    "red-robe",
+    "early-renaissance"
+  ],
+  "symbols": [
+    "gold halos — divine sanctity radiating from mother and child",
+    "blue mantle over red robe — Mary's heavenly grace (blue) covering her earthly humanity (red)",
+    "sleeping or nursing infant — the vulnerability of the incarnate God, fully dependent on human care",
+    "pointed arch shape — the altarpiece or shrine context, marking the image as sacred"
+  ],
+  "description": "An Early Renaissance lunette-shaped panel painting depicting the Virgin Mary holding the infant Jesus. Mary wears a dark blue mantle over a red robe with a white veil, her head bowed gently toward the child. She has a large gold leaf halo. The Christ Child, also with a gold halo, reclines in her arms in a restful pose, appearing to sleep or nurse. The background is a simple blue field with some paint loss and weathering visible on the panel surface. The pointed arch shape suggests the painting served as the top portion of an altarpiece.",
+  "theological_description": "Filippo Lippi's Madonna and Child presents the core mystery of the Incarnation with characteristic tenderness and intimacy. Mary's downward gaze toward her sleeping child embodies the contemplative love described in Luke 2:19 — she 'treasured all these things, pondering them in her heart.' The sleeping infant perfectly captures the paradox of Philippians 2:6-7: the one who was in the form of God emptied Himself, taking the form of a servant. Here, the Creator of the universe sleeps in a creature's arms, the Almighty made utterly dependent. The blue and red of Mary's garments carry traditional theological meaning: blue for heaven and red for humanity, her body being the meeting point of the two. The pointed arch panel shape connects the image to its liturgical function — placed above an altar where the same Christ present as an infant in the painting is present sacramentally in the Eucharist. The gold halos affirm what faith declares: this is no ordinary mother and child, but the Theotokos (God-bearer) holding the Word through whom all things were made (John 1:3).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasuring and pondering all things in her heart — her contemplative gaze at the child"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "primary",
+      "reason": "Christ emptying Himself and taking the form of a servant — the vulnerability of the sleeping divine infant"
+    },
+    {
+      "ref": "JHN.1.3",
+      "relevance": "typological",
+      "reason": "Through Him all things were made — the cosmic Creator held as a helpless baby"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent His Son born of woman — the Incarnation visible in Mary holding the divine Child"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "peaceful",
+    "devotional",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190719",
+    "title": "Madonna and Child",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

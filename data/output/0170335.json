@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph of Arimathea or Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Deposition from the Cross (Entombment)",
+  "tags": [
+    "deposition",
+    "descent-from-the-cross",
+    "dead-christ",
+    "mourning",
+    "pale-body",
+    "grief-stricken-faces",
+    "swirling-drapery",
+    "pastel-colors",
+    "arched-composition",
+    "mannerist",
+    "floating-figures",
+    "entombment"
+  ],
+  "symbols": [
+    "dead body of Christ carried aloft — the weight of human sin borne in lifeless flesh",
+    "Virgin Mary swooning — the sword that pierced her soul (Luke 2:35)",
+    "swirling pastel draperies — the emotional turbulence of grief given visual form",
+    "weightless, floating composition — the spiritual dimension between death and resurrection",
+    "crouching figure below — the humility and devastation of those who loved him"
+  ],
+  "description": "An arched-top composition filled with interconnected figures in a swirling, weightless arrangement. At center, the pale, lifeless body of Christ is being lowered or carried, supported by multiple hands. His limbs hang loosely, head tilted. Surrounding him are grief-stricken figures in flowing draperies of pink, blue, green, gold, and white — the Virgin Mary in dark blue at upper center appears to swoon, supported by women. A crouching youth in the foreground looks out at the viewer. The figures seem to float in an ambiguous space without a clear ground plane.",
+  "theological_description": "Pontormo's Deposition is one of the most emotionally intense visualizations of the moment after Christ's death. The Gospels record that Joseph of Arimathea asked Pilate for the body (Matthew 27:57-58), and together with Nicodemus, wrapped it in linen with spices and laid it in a new tomb (John 19:38-42). The painting captures the liminal moment between the cross and the tomb — Christ's body suspended among the grieving, as if the whole community of mourners exists in a space between death and the hope of resurrection. The Virgin Mary's collapse fulfills Simeon's prophecy: 'A sword will pierce your own soul too' (Luke 2:35). The swirling, weightless composition suggests that ordinary physical laws have been disrupted — when the Creator of the universe dies, reality itself is shaken. Matthew 27:51-52 records that at the moment of Christ's death 'the earth shook, the rocks split, and the tombs broke open.' The tenderness with which the mourners handle the body reflects the theological reality that this broken flesh is the very body of God — 'in him all the fullness of the Deity lives in bodily form' (Colossians 2:9). The viewer at the bottom who looks outward draws the beholder into the scene, making every generation a witness to the cost of redemption.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.57-60",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea takes the body of Jesus, wraps it in linen, and lays it in the tomb"
+    },
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph and Nicodemus prepare the body with spices and linen for burial"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "The sword piercing Mary's soul — her collapse in grief at the sight of her dead son"
+    },
+    {
+      "ref": "MAT.27.51-52",
+      "relevance": "allusion",
+      "reason": "The earth shook and rocks split at Christ's death — the disrupted physics of the floating composition"
+    },
+    {
+      "ref": "COL.2.9",
+      "relevance": "allusion",
+      "reason": "In Christ all the fullness of the Deity lives in bodily form — the sacred body tenderly handled"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "ethereal",
+    "luminous",
+    "grief-stricken"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170335",
+    "title": "Deposition from the Cross",
+    "artist": "Jacopo Pontormo",
+    "model": "claude-opus-4-6"
+  }
+}

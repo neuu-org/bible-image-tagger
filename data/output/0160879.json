@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Peter the Apostle",
+  "tags": [
+    "saint-peter",
+    "apostle",
+    "keys",
+    "gray-beard",
+    "red-robe",
+    "bare-chest",
+    "close-up-portrait",
+    "hands-holding-keys",
+    "contemplative"
+  ],
+  "symbols": [
+    "keys in Peter's hands — the keys of the kingdom of heaven given by Christ",
+    "red robe — the blood of martyrdom, Peter crucified upside down in Rome",
+    "aged weathered face — the years of labor, suffering, and leadership in the early Church",
+    "downward gaze at the keys — the weight of apostolic responsibility"
+  ],
+  "description": "A powerful close-up portrait of an elderly man with deeply lined face, gray curly hair, and a long white beard. He is bare-chested on one side, with a red robe draped over one shoulder. His large, rough hands hold a set of keys close to his chest, examining them with a downward, contemplative gaze. The lighting is dramatic, falling from the left to illuminate the weathered skin and muscular arms. The background is dark brown.",
+  "theological_description": "Jordaens presents Saint Peter not as a triumphant prince of the Church but as a weathered, aged fisherman bearing the weight of an impossible commission. The keys he examines are those Christ gave him: 'I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven' (Matthew 16:19). Peter's contemplative expression may reflect his own awareness of inadequacy — this is the man who denied Christ three times (Luke 22:54-62), yet was restored and given the charge to 'feed my lambs' (John 21:15-17). His bare chest and rough hands mark him as a working man, not a scholar — God choosing the foolish things of the world to shame the wise (1 Corinthians 1:27). The keys are not symbols of power wielded from above but of service rendered from below — the fisherman-turned-shepherd who would ultimately follow his Master to crucifixion (John 21:18-19).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ giving Peter the keys of the kingdom — the keys he holds and examines"
+    },
+    {
+      "ref": "JHN.21.15-17",
+      "relevance": "primary",
+      "reason": "Peter's restoration — Feed my sheep — the pastoral burden visible in his expression"
+    },
+    {
+      "ref": "LUK.22.61-62",
+      "relevance": "allusion",
+      "reason": "Peter's denial and bitter weeping — the sorrow possibly reflected in his downward gaze"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "weighty",
+    "intimate"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0160879",
+    "title": "Saint Peter",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Roman Soldiers (guards at the tomb)",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Resurrection of Christ",
+  "tags": [
+    "resurrection",
+    "risen-christ",
+    "tomb",
+    "fallen-soldiers",
+    "white-robes",
+    "mountain",
+    "victory-banner",
+    "angels",
+    "bright-light",
+    "scattered-guards",
+    "latin-inscription",
+    "glory"
+  ],
+  "symbols": [
+    "Christ standing atop a mountain or rock — the victorious Lord risen above death",
+    "fallen soldiers — the power of the world overcome by resurrection glory",
+    "white robes — purity, glory, and the transfigured body of the risen Lord",
+    "bright halo or mandorla — divine radiance, the light of the world conquering darkness",
+    "angels in the sky — the heavenly host witnessing the supreme victory"
+  ],
+  "description": "A tall vertical composition with Christ standing triumphantly atop a rocky mountain or tomb in the center, wearing white and gold flowing robes, one arm raised, radiating bright light from a large halo or mandorla. Angels or symbolic figures appear in the upper corners amid clouds. Below, Roman soldiers tumble, sprawl, and fall in disarray around the base of the mountain, their weapons scattered, their bodies twisted in shock and terror. The composition is vivid and dynamic with bold colors — white, gold, red, blue, green. A Latin inscription runs along the borders.",
+  "theological_description": "Ratgeb's Resurrection captures the central event of Christian faith: 'He is not here; he has risen!' (Luke 24:6). The risen Christ standing in glory atop the mountain transforms Calvary's hill of death into the pinnacle of victory. Matthew 28:2-4 records that at the Resurrection 'there was a violent earthquake, for an angel of the Lord came down from heaven... His appearance was like lightning... The guards were so afraid of him that they shook and became like dead men.' The fallen soldiers visualize this terror — the instruments of Rome's power rendered helpless before the power of God. Christ's radiant form fulfills the promise of Philippians 3:21: the Lord 'will transform our lowly bodies so that they will be like his glorious body.' The Resurrection is not merely the resuscitation of a corpse but the inauguration of a new creation — Christ as 'the firstfruits of those who have fallen asleep' (1 Corinthians 15:20). Paul declares: 'If Christ has not been raised, your faith is futile' (1 Corinthians 15:17), making this moment the foundation on which all Christian hope rests. The victory depicted here is cosmic: 'Death has been swallowed up in victory. Where, O death, is your sting?' (1 Corinthians 15:54-55).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.1-7",
+      "relevance": "primary",
+      "reason": "The angel at the empty tomb, the earthquake, the terrified guards — the Resurrection narrative"
+    },
+    {
+      "ref": "1CO.15.20",
+      "relevance": "primary",
+      "reason": "Christ has been raised from the dead, the firstfruits of those who have fallen asleep"
+    },
+    {
+      "ref": "1CO.15.54-55",
+      "relevance": "primary",
+      "reason": "Death swallowed up in victory — the triumphant risen Christ"
+    },
+    {
+      "ref": "PHP.3.21",
+      "relevance": "typological",
+      "reason": "The glorious body of the risen Lord — Christ's radiant, transformed appearance"
+    },
+    {
+      "ref": "ROM.6.9",
+      "relevance": "allusion",
+      "reason": "Christ being raised from the dead will never die again — death no longer has dominion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "radiant",
+    "overwhelming",
+    "glorious"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170805",
+    "title": "Resurrection of Christ",
+    "artist": "Jerg Ratgeb",
+    "model": "claude-opus-4-6"
+  }
+}

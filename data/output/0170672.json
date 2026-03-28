@@ -1,0 +1,57 @@
+{
+  "characters": [
+    {"name": "Peter (denying)", "type": "PERSON"},
+    {"name": "Bystanders", "type": "GROUP"}
+  ],
+  "event": "The Denial of Peter (detail)",
+  "tags": [
+    "denial-of-peter",
+    "playing-cards",
+    "blue-shirt",
+    "brown-hat",
+    "gesticulating",
+    "tavern-scene",
+    "accusation",
+    "surprised-expression",
+    "genre-scene",
+    "card-players"
+  ],
+  "symbols": [
+    "raised hand in denial — Peter's emphatic rejection of association with Christ",
+    "playing cards — the worldly, profane setting in which Peter's faith collapses",
+    "accusing bystanders — the pressure of human fear that overcomes faithfulness"
+  ],
+  "description": "A detail showing a young man in a blue shirt and wide-brimmed brown hat seated at center, one hand raised in a gesture of emphatic denial or protest, holding playing cards in the other. His face shows surprise or alarm. Behind him, several other figures crowd close — one appearing to confront or question him, another observing. The figures are dressed in 17th-century Dutch clothing. The composition is tightly cropped, focusing on the central figure's animated gesture and expression.",
+  "theological_description": "This detail from Molenaer's Denial of Peter transposes the Gospel narrative into a contemporary Dutch genre setting. Peter's denial is recorded in all four Gospels (Matthew 26:69-75, Mark 14:66-72, Luke 22:54-62, John 18:15-27). After Jesus's arrest, Peter followed at a distance and sat among those warming themselves by a fire. When challenged by servants and bystanders who recognized him as one of Jesus's followers, Peter denied it three times: 'I don't know the man!' Setting the denial in a card-playing tavern intensifies the theological point: Peter collapses not under formal persecution but under casual social pressure — the very thing Jesus warned about when he said 'whoever denies me before others, I will also deny before my Father' (Matthew 10:33). Yet Peter's denial is not the end of his story. Luke records that 'the Lord turned and looked straight at Peter,' and Peter 'went outside and wept bitterly' (Luke 22:61-62). After the Resurrection, Jesus would restore Peter with the threefold question 'Do you love me?' (John 21:15-17) — three affirmations to match three denials. The scene thus becomes a meditation on human weakness, the fragility of faith under pressure, and the possibility of restoration through grace.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.54-62",
+      "relevance": "primary",
+      "reason": "Peter's three denials and his bitter weeping when the rooster crowed"
+    },
+    {
+      "ref": "MAT.26.69-75",
+      "relevance": "primary",
+      "reason": "Matthew's account of Peter denying Jesus before the servants"
+    },
+    {
+      "ref": "MAT.10.33",
+      "relevance": "typological",
+      "reason": "Whoever denies me before others — the warning Peter violated"
+    },
+    {
+      "ref": "JHN.21.15-17",
+      "relevance": "allusion",
+      "reason": "Jesus's threefold restoration of Peter — the redemptive sequel to this denial"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["agitated", "tense", "confrontational"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170672",
+    "title": "The Denying of Peter (detail)",
+    "artist": "Jan Miense Molenaer",
+    "model": "claude-opus-4-6"
+  }
+}

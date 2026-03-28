@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simon of Cyrene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldiers and crowd",
+      "type": "GROUP"
+    },
+    {
+      "name": "Veronica (woman with cloth)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Christ Carrying the Cross",
+  "tags": [
+    "carrying-the-cross",
+    "via-dolorosa",
+    "way-of-the-cross",
+    "passion-of-christ",
+    "crown-of-thorns",
+    "blue-robe",
+    "dense-crowd",
+    "grotesque-faces",
+    "soldiers",
+    "ladders",
+    "calvary",
+    "simon-of-cyrene",
+    "veronica",
+    "medieval-faces",
+    "suffering"
+  ],
+  "symbols": [
+    "massive wooden cross — the instrument of salvation and the weight of the world's sin",
+    "Christ bent under the cross — the Suffering Servant crushed for our iniquities",
+    "grotesque, distorted faces — the ugliness of sin and the cruelty of humanity",
+    "ladders carried in the procession — anticipating the crucifixion that will follow",
+    "dense pressing crowd — humanity both complicit in and witness to the Passion"
+  ],
+  "description": "A tall, narrow panel densely packed with figures. At center, a figure in a blue robe bends under the weight of a massive wooden cross, wearing a crown of thorns. The cross extends diagonally across the entire composition. Surrounding Christ, a chaotic crowd of figures presses in — many with exaggerated, grotesque, or menacing facial expressions typical of Bosch's style. Soldiers in helmets, figures carrying ladders, and onlookers fill every available space. At lower right, a kneeling figure holds a book. The composition is claustrophobic, with no background visible through the crush of bodies.",
+  "theological_description": "Bosch's Christ Carrying the Cross presents the Via Dolorosa with nightmarish intensity. The grotesque, distorted faces of the crowd surrounding Jesus are Bosch's hallmark — a visual theology of sin's disfiguring power. While Christ's face maintains dignity and sorrow under the crown of thorns, the faces around him are twisted into masks of cruelty, mockery, and indifference. This visual contrast embodies Isaiah's prophecy: 'He had no beauty or majesty to attract us to him, nothing in his appearance that we should desire him. He was despised and rejected by mankind' (Isaiah 53:2-3). The Synoptic Gospels record that 'they compelled a passerby, Simon of Cyrene, to carry the cross' (Mark 15:21). The ladders carried in the procession anticipate the mechanics of crucifixion — a grim practical detail that underscores the calculated cruelty of Roman execution. Luke adds that 'a large number of people followed him, including women who mourned and wailed for him' (Luke 23:27). Bosch's claustrophobic composition — the cross pinned among the pressing bodies — conveys the crushing weight not merely of wood but of human sin. Paul later interpreted this: 'God made him who had no sin to be sin for us, so that in him we might become the righteousness of God' (2 Corinthians 5:21).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.21",
+      "relevance": "primary",
+      "reason": "Simon of Cyrene compelled to carry the cross — part of the procession depicted"
+    },
+    {
+      "ref": "ISA.53.2-3",
+      "relevance": "primary",
+      "reason": "Despised and rejected — Christ's dignity amid the grotesque cruelty surrounding him"
+    },
+    {
+      "ref": "LUK.23.26-28",
+      "relevance": "primary",
+      "reason": "The crowd following Jesus to Calvary — the dense press of figures"
+    },
+    {
+      "ref": "2CO.5.21",
+      "relevance": "typological",
+      "reason": "Made to be sin for us — the crushing weight Christ bears for humanity"
+    },
+    {
+      "ref": "JHN.19.17",
+      "relevance": "primary",
+      "reason": "Jesus went out carrying his own cross to Golgotha"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "claustrophobic",
+    "anguished",
+    "grotesque",
+    "oppressive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150872",
+    "title": "Christ Carrying the Cross",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

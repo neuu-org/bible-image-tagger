@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Cherubim",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Ascension of Christ",
+  "tags": [
+    "ascension",
+    "risen-christ",
+    "angels-with-instruments",
+    "apostles-gazing-upward",
+    "virgin-mary",
+    "cherubim",
+    "red-mantle",
+    "cloud-of-glory",
+    "musical-angels",
+    "heavenly-host",
+    "hands-raised"
+  ],
+  "symbols": [
+    "Christ ascending with arms raised — the triumphant return to the Father after completing the work of redemption",
+    "red mantle — the blood of the Passion now glorified, royalty and victory",
+    "angels playing instruments — the heavenly court celebrating the King's return",
+    "cherubim supporting Christ — the throne-bearers of God carrying the Son back to glory",
+    "Mary at center below — the Church gazing heavenward, awaiting the promised return",
+    "apostles looking up — the witnesses commissioned to continue Christ's work until he comes again"
+  ],
+  "description": "A two-tiered vertical composition. In the upper half, a muscular figure in a flowing red mantle rises into the sky, arms raised, supported by numerous putti and cherubim on clouds. Angels with musical instruments — harps, lutes, and horns — surround him. In the lower half, a group of about fourteen figures stands on the ground looking upward. A woman in a dark blue-green robe stands at center with hands clasped in prayer. The other figures wear colorful robes in red, green, gold, and orange. The landscape behind shows green hills under a blue sky.",
+  "theological_description": "Perugino depicts the Ascension as recorded by Luke: 'He was taken up before their very eyes, and a cloud hid him from their sight' (Acts 1:9). The risen Christ, bearing the marks of his Passion but now clothed in glory, returns to the Father's right hand (Mark 16:19). The musical angels echo the psalmist: 'God has ascended amid shouts of joy, the Lord amid the sounding of trumpets' (Psalm 47:5). The apostles below, gazing upward with Mary, embody the pivotal moment between Christ's physical presence and the age of the Church. Two realities are established here: Christ's present reign at God's right hand (Ephesians 1:20-21) and his promised return 'in the same way you have seen him go into heaven' (Acts 1:11). Mary's prayerful stance at the center of the apostolic community prefigures the gathering in the Upper Room where they awaited the Holy Spirit at Pentecost (Acts 1:14).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.1.9-11",
+      "relevance": "primary",
+      "reason": "The Ascension narrative — Christ taken up while the apostles watch, and the angel's promise of return"
+    },
+    {
+      "ref": "MRK.16.19",
+      "relevance": "primary",
+      "reason": "The Lord Jesus was taken up into heaven and sat at the right hand of God"
+    },
+    {
+      "ref": "PSA.47.5",
+      "relevance": "typological",
+      "reason": "God ascends amid shouts of joy and trumpet sound — the musical angels enact this"
+    },
+    {
+      "ref": "EPH.1.20-21",
+      "relevance": "allusion",
+      "reason": "God seated Christ at his right hand, far above all rule and authority"
+    },
+    {
+      "ref": "ACT.1.14",
+      "relevance": "allusion",
+      "reason": "Mary and the apostles gathered in prayer after the Ascension, awaiting the Spirit"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "joyful",
+    "majestic",
+    "awestruck"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160446",
+    "title": "The Ascension of Christ",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

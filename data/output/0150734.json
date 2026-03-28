@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Apparition of Christ to the Virgin Mary after the Resurrection",
+  "tags": [
+    "risen-christ",
+    "apparition",
+    "virgin-mary",
+    "resurrection",
+    "bare-chested",
+    "banner-staff",
+    "kneeling",
+    "reaching-out",
+    "blue-mantle",
+    "red-dress",
+    "devotional",
+    "post-resurrection",
+    "reunion"
+  ],
+  "symbols": [
+    "risen Christ with bare chest — the glorified body bearing the marks of crucifixion",
+    "banner or staff — the standard of victory over death",
+    "Mary kneeling and reaching — maternal love meeting the risen Son",
+    "Christ's restraining gesture — the new relationship between the earthly and the glorified"
+  ],
+  "description": "A tall composition showing a bare-chested young man with dark hair standing at left, holding a tall staff or banner with a white cloth. He looks down with a gentle expression. At right, a woman in a blue mantle over a red dress kneels, reaching up toward him with one hand. The background is dark with a suggestion of a stone slab or tomb at right. The lighting is dramatic, illuminating the two figures against the shadowy background. The palette is rich in blues, reds, and warm flesh tones.",
+  "theological_description": "Guercino depicts the post-Resurrection apparition of Christ to the Virgin Mary — a tradition not explicitly recorded in the canonical Gospels but held by the Church since the early centuries. The theological reasoning is that Jesus, who honored his mother from the cross by entrusting her to John (John 19:26-27), would certainly have appeared to her after rising from the dead. The risen Christ holds the banner of victory — the traditional attribute of the Resurrection in Western art — declaring: 'I am the Living One; I was dead, and now look, I am alive for ever and ever!' (Revelation 1:18). His bare chest reveals the body that was crucified, now glorified — 'he showed them his hands and side' (John 20:20). Mary's kneeling posture of reverent joy embodies the transformation from the sorrow at the cross (John 19:25) to the vindication of Easter. This scene connects to the promise Jesus made before his Passion: 'You will grieve, but your grief will turn to joy' (John 16:20). The encounter affirms the bodily reality of the Resurrection — the same body that Mary bore, nursed, and raised is now raised imperishable: 'It is sown a natural body, it is raised a spiritual body' (1 Corinthians 15:44).",
+  "scripture_refs": [
+    {
+      "ref": "REV.1.18",
+      "relevance": "primary",
+      "reason": "Christ alive forevermore — the risen Lord appearing in victory"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "allusion",
+      "reason": "Mary at the cross — the sorrow now transformed by the Resurrection appearance"
+    },
+    {
+      "ref": "JHN.16.20",
+      "relevance": "typological",
+      "reason": "Grief turned to joy — the promise fulfilled in Mary seeing her risen Son"
+    },
+    {
+      "ref": "1CO.15.44",
+      "relevance": "allusion",
+      "reason": "The natural body raised a spiritual body — Christ's glorified physical presence"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "triumphant",
+    "reverent",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150734",
+    "title": "Apparition of Christ to the Virgin 1630",
+    "artist": "Guercino",
+    "model": "claude-opus-4-6"
+  }
+}

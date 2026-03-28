@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Jesus Christ (crucified)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Virgin with Divine Infant and Crucifixion — diptych meditation",
+  "tags": [
+    "madonna-and-child",
+    "crucifixion",
+    "modernist",
+    "muted-palette",
+    "incarnation-and-passion",
+    "abstract-figuration",
+    "theological-juxtaposition"
+  ],
+  "symbols": [
+    "Madonna and Child on the left — the Incarnation, the beginning of Christ's earthly life",
+    "Crucifixion on the right — the Passion, the culmination of Christ's saving work",
+    "juxtaposition of birth and death — the arc of redemption from manger to cross"
+  ],
+  "description": "A horizontal modernist painting divided into two panels or sections. The left portion shows ghostly, translucent figures suggesting the Virgin Mary holding the infant Jesus, with a small tree or plant visible through a dark opening. The right portion depicts an abstracted Crucifixion scene with elongated vertical forms suggesting the cross and the body of Christ. The entire composition is rendered in muted earth tones — browns, greys, ochres, and dark blues — with a deliberately weathered, fresco-like surface texture.",
+  "theological_description": "This modernist diptych juxtaposes the two defining moments of Christ's earthly existence: the Incarnation (Madonna and Child) and the Crucifixion. This theological pairing is ancient in Christian art and thought — the one who was born in a manger was born to die on a cross. As Hebrews 10:5 expresses it: 'A body you prepared for me... I have come to do your will, O God.' The muted, almost spectral quality of the figures suggests the mystery that transcends visual representation. The left panel's Madonna and Child embodies John 1:14, 'The Word became flesh and dwelt among us,' while the right panel's Crucifixion embodies Philippians 2:8, 'He humbled Himself by becoming obedient to death — even death on a cross.' The deliberate deterioration of the painted surface may speak to the passage of time through which these events continue to resonate, or to 2 Corinthians 4:7, the treasure held in jars of clay. The theological arc from left to right traces the entire Gospel: God became human so that through His death, humanity might share in divine life.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation depicted in the left panel's Madonna and Child"
+    },
+    {
+      "ref": "PHP.2.8",
+      "relevance": "primary",
+      "reason": "Obedient to death on a cross — the Crucifixion in the right panel"
+    },
+    {
+      "ref": "HEB.10.5",
+      "relevance": "typological",
+      "reason": "A body prepared for sacrifice — linking the birth (body given) to the death (body offered)"
+    },
+    {
+      "ref": "LUK.2.34-35",
+      "relevance": "allusion",
+      "reason": "Simeon's prophecy connecting the infant's destiny to suffering — the theological link between the two panels"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "contemplative",
+    "mysterious",
+    "somber",
+    "ethereal"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190815",
+    "title": "Virgin with Divine Infant - Crucifixion",
+    "artist": "Konstantinos Parthenis",
+    "model": "claude-opus-4-6"
+  }
+}

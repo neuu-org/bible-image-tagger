@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony",
+      "type": "PERSON"
+    },
+    {
+      "name": "Demons",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Temptation of Saint Anthony",
+  "tags": [
+    "temptation",
+    "saint-anthony",
+    "demons",
+    "monsters",
+    "hellfire",
+    "burning-city",
+    "grotesque-creatures",
+    "spiritual-warfare",
+    "desert-father",
+    "fantastical-landscape",
+    "surreal-imagery",
+    "hybrid-creatures",
+    "torment",
+    "resistance-to-evil"
+  ],
+  "symbols": [
+    "demons and grotesque creatures — the manifold temptations and assaults of evil upon the faithful soul",
+    "burning city in the background — the destruction wrought by sin and the fires of hell",
+    "Saint Anthony amid the chaos — steadfast faith enduring under the worst spiritual assault",
+    "triptych format — the liturgical and devotional framework containing the vision of spiritual combat",
+    "hybrid monstrous forms — the perversion and distortion that sin works upon God's creation",
+    "water and frozen landscapes — the spiritual desolation and frozen despair that temptation brings"
+  ],
+  "description": "A triptych painting divided into three panels. The central panel shows a robed figure (Saint Anthony) seated amid a chaotic scene of grotesque hybrid creatures, demons, and bizarre figures near a ruined building with fires burning in the background. The left panel depicts the saint being carried through the air by winged demons above a desolate landscape with more monstrous figures. The right panel shows a tranquil waterscape in the upper portion contrasting with demonic figures below.",
+  "theological_description": "Bosch's Temptation of Saint Anthony is one of the most powerful visualizations of spiritual warfare in Western art. Saint Anthony the Great (c. 251-356), the father of Christian monasticism, withdrew into the Egyptian desert where, according to Athanasius's Life of Anthony, he endured relentless demonic assaults. While Anthony is not a biblical figure, his experience directly enacts the spiritual realities described in Scripture. Paul warns: 'For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places' (Ephesians 6:12). Anthony's steadfastness amid the demonic onslaught illustrates James's promise: 'Resist the devil, and he will flee from you' (James 4:7). The burning city recalls Sodom's destruction and the apocalyptic fires of Revelation. Christ himself was tempted by Satan in the wilderness (Matthew 4:1-11), establishing the pattern that every follower must endure. Peter's warning resonates throughout these panels: 'Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. Resist him, firm in your faith' (1 Peter 5:8-9). Anthony's survival through faith became the model for all subsequent Christian asceticism.",
+  "scripture_refs": [
+    {
+      "ref": "EPH.6.12",
+      "relevance": "primary",
+      "reason": "The warfare against spiritual forces of evil in heavenly places is visually realized in the swarming demonic assault"
+    },
+    {
+      "ref": "JAS.4.7",
+      "relevance": "primary",
+      "reason": "The promise that resisting the devil causes him to flee — Anthony's steadfast posture amid the chaos embodies this"
+    },
+    {
+      "ref": "MAT.4.1-11",
+      "relevance": "typological",
+      "reason": "Christ's temptation in the wilderness establishes the pattern of spiritual combat that Anthony reenacts"
+    },
+    {
+      "ref": "1PE.5.8-9",
+      "relevance": "primary",
+      "reason": "Peter's warning about the devil prowling like a lion is literalized in the monstrous creatures attacking the saint"
+    },
+    {
+      "ref": "REV.9.1-11",
+      "relevance": "allusion",
+      "reason": "The locust-like demonic creatures from the abyss in Revelation parallel Bosch's hybrid monstrous forms"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "nightmarish",
+    "chaotic",
+    "terrifying",
+    "surreal"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0140148",
+    "title": "Triptych: The Temptation of St. Anthony",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

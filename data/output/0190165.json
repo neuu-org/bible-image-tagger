@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Irene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant woman",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "St. Sebastian tended by the holy women after his martyrdom",
+  "tags": [
+    "st-sebastian",
+    "martyrdom",
+    "arrows",
+    "holy-women",
+    "angel",
+    "wounded-saint",
+    "compassion",
+    "dark-background"
+  ],
+  "symbols": [
+    "arrows piercing the body — the wounds of martyrdom endured for faith in Christ",
+    "women tending the wounded saint — Christian charity and the ministry of compassion",
+    "angel hovering above — divine approval and heavenly comfort for those who suffer for the faith",
+    "bare torso against dark background — the vulnerability of the martyr and the darkness of persecution"
+  ],
+  "description": "A dramatic tenebrist painting showing St. Sebastian lying nearly nude on the ground, his pale body pierced by arrows, with one arm extended upward. Two women attend to him: one in dark clothing kneels at the lower left gently touching his hand, while another in red and dark garments stands behind gazing down with grief. Above them, a small angel or putto emerges from the darkness. The stark contrast between the illuminated body and the pitch-black background creates an intense chiaroscuro effect.",
+  "theological_description": "While St. Sebastian is a post-biblical martyr (traditionally dated to the Diocletian persecution, c. 288 AD), this scene resonates deeply with biblical themes of suffering for faith. Sebastian, a Roman soldier secretly Christian, was ordered shot with arrows when his faith was discovered, yet survived and was nursed back to health by St. Irene. The image of the wounded yet living martyr echoes Paul's testimony in 2 Corinthians 4:8-9: 'We are hard pressed on every side, but not crushed; struck down, but not destroyed.' The women's tender care embodies the command of Romans 12:15 to weep with those who weep and Galatians 6:2 to bear one another's burdens. The angel's presence affirms Psalm 34:18 that the Lord is near to the brokenhearted. Sebastian's survival of his first martyrdom became a powerful symbol of the resilience of faith that death itself cannot extinguish, fulfilling Christ's promise in John 16:33: 'In this world you will have trouble, but take heart — I have overcome the world.'",
+  "scripture_refs": [
+    {
+      "ref": "2CO.4.8-9",
+      "relevance": "typological",
+      "reason": "Struck down but not destroyed — Sebastian's survival of the arrows embodies Paul's testimony of resilient faith"
+    },
+    {
+      "ref": "PSA.34.18",
+      "relevance": "typological",
+      "reason": "The Lord is near to the brokenhearted, symbolized by the angel hovering over the wounded martyr"
+    },
+    {
+      "ref": "ROM.12.15",
+      "relevance": "allusion",
+      "reason": "The holy women weeping with the wounded saint fulfill the command to mourn with those who mourn"
+    },
+    {
+      "ref": "JHN.16.33",
+      "relevance": "allusion",
+      "reason": "Christ's promise of tribulation in this world but ultimate victory undergirds the martyr's endurance"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "compassionate",
+    "somber",
+    "tender"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0190165",
+    "title": "St. Sebastian Tended by the Holy Women",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

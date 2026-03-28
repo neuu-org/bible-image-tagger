@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Three Magi",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "three-wise-men",
+    "gifts-of-gold-frankincense-myrrh",
+    "infant-jesus",
+    "virgin-and-child",
+    "kneeling-king",
+    "golden-chalice",
+    "turban",
+    "reverence",
+    "gentile-worship"
+  ],
+  "symbols": [
+    "kneeling king offering gold — kingship recognized; the wealth of nations bowing before the King of Kings",
+    "frankincense — acknowledgment of Christ's divinity, the priestly offering",
+    "myrrh — prophetic foreshadowing of Christ's suffering and burial",
+    "three kings of different ages and races — the universality of Christ's kingship over all peoples",
+    "child on mother's lap receiving homage — divine authority clothed in infant vulnerability"
+  ],
+  "description": "A richly colored scene showing the Virgin Mary in a blue mantle seated at left, holding the infant Jesus on her lap. An elderly king in elaborate golden brocade robes kneels before the child, offering a golden vessel. Behind him, a second bearded king holds a golden chalice. A third king, a dark-skinned man in a white turban and blue garments, stands at right holding a golden container. Joseph stands behind Mary. A young attendant holds a golden object at the lower right. The setting is a dark interior with an arched stone opening.",
+  "theological_description": "The Adoration of the Magi fulfills the prophecy of Isaiah 60:3 — 'Nations shall come to your light, and kings to the brightness of your rising.' These Gentile astrologers, guided by the star to Bethlehem, represent the first fruits of the nations worshipping the Jewish Messiah. Their three gifts carry layered typological significance established in patristic tradition: gold for Christ's kingship, frankincense for his divinity, and myrrh for his mortality and burial (Matthew 2:11). The magi's diversity in age and ethnicity expresses the Pauline vision that in Christ 'there is neither Jew nor Gentile' (Galatians 3:28) — the universal scope of redemption. Their kneeling posture fulfills Psalm 72:11: 'All kings shall fall down before him; all nations shall serve him.' The infant Christ receiving their homage while seated on his mother's lap is a deliberate inversion of worldly power — the Creator of the universe acclaimed by earthly rulers in a humble stable.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The narrative of the Magi following the star to worship the newborn King and present gifts"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations coming to the light and kings bringing gold and frankincense — fulfilled in the Magi's visit"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "All kings falling before the Messiah and all nations serving him"
+    },
+    {
+      "ref": "GAL.3.28",
+      "relevance": "allusion",
+      "reason": "The multi-ethnic Magi prefigure the unity of all peoples in Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "majestic",
+    "warm",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160168",
+    "title": "The Adoration of the Magi",
+    "artist": "Matthias Stom",
+    "model": "claude-opus-4-6"
+  }
+}

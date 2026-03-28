@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Venetian crowd",
+      "type": "GROUP"
+    },
+    {
+      "name": "Kneeling figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Miracle of the Cross at the Bridge of San Lorenzo",
+  "tags": [
+    "miracle",
+    "relic-of-the-cross",
+    "venetian-procession",
+    "crowd-scene",
+    "kneeling-devotion",
+    "renaissance-dress",
+    "staircase",
+    "civic-ceremony"
+  ],
+  "symbols": [
+    "kneeling figure in pale robes — devotion and veneration before a holy relic",
+    "large crowd ascending stairs — the communal witness to miraculous events",
+    "richly dressed Venetians — the intersection of civic power and religious devotion"
+  ],
+  "description": "A detail from a large narrative painting showing a dense crowd of Venetian citizens in rich Renaissance attire gathered on and around a staircase. Dozens of figures in elaborate gowns, caps, and robes fill the upper portion. At the bottom right, a figure in pale blue-grey robes kneels in devotion. The scene is set within an architectural interior with arched windows visible in the background. The crowd includes both men and women in varied postures of attention and reverence.",
+  "theological_description": "This detail depicts a miracle associated with a relic of the True Cross in Venice, part of Gentile Bellini's cycle for the Scuola Grande di San Giovanni Evangelista. While the specific miracle is a post-biblical event, the veneration of the Cross connects to the central salvific act of Christianity. The theology of the Cross as an instrument of salvation finds its origin in Galatians 6:14, where Paul declares he will boast in nothing except the cross of our Lord Jesus Christ. The communal gathering to witness a miracle echoes the pattern seen throughout Acts, where signs and wonders drew crowds and confirmed the faith (Acts 5:12-16). The kneeling figure embodies the posture of Philippians 2:10, that at the name of Jesus every knee should bow.",
+  "scripture_refs": [
+    {
+      "ref": "GAL.6.14",
+      "relevance": "typological",
+      "reason": "Paul's boast in the cross of Christ provides the theological foundation for veneration of Cross relics"
+    },
+    {
+      "ref": "ACT.5.12-16",
+      "relevance": "allusion",
+      "reason": "Crowds gathering to witness signs and wonders mirrors the Venetian crowd witnessing the miracle of the Cross"
+    },
+    {
+      "ref": "PHP.2.10",
+      "relevance": "allusion",
+      "reason": "The kneeling figure embodies the universal call to bow before the name of Jesus"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "ceremonial",
+    "crowded"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0190009",
+    "title": "Miracle of the Cross at the Bridge of San Lorenzo (detail)",
+    "artist": "Gentile Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels and putti",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Kneeling figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Vision of Saint Francis of Assisi",
+  "tags": [
+    "saint-francis",
+    "vision",
+    "christ-and-mary",
+    "angels",
+    "putti",
+    "prostrate-friar",
+    "heavenly-apparition",
+    "clouds",
+    "franciscan-habit",
+    "divine-revelation",
+    "kneeling-figures",
+    "colonial-art",
+    "glory"
+  ],
+  "symbols": [
+    "Christ and Mary appearing together — the dual intercession of the Redeemer and his mother",
+    "Saint Francis prostrate on the ground — total surrender and humility before the divine vision",
+    "angels and putti surrounding the vision — the heavenly court attending the revelation",
+    "clouds of glory — the boundary between earthly and heavenly realms"
+  ],
+  "description": "A Baroque colonial painting depicting a heavenly vision. In the upper portion, two standing figures — one in white with bare chest (Christ) and one in blue and green (Mary) — appear amid clouds and golden light. Angels and putti surround them in the clouds, some playing instruments. Below, a brown-robed friar (Francis) lies prostrate on the ground in adoration. Other kneeling figures are partially visible at the lower edges. Architectural elements (a column) frame the right side. The palette is warm with golds, blues, and earth tones.",
+  "theological_description": "Campeche's painting depicts one of the mystical visions of Saint Francis of Assisi (1181-1226), the founder of the Franciscan Order. Francis, renowned for his radical imitation of Christ's poverty and humility, received numerous divine visions during his life, most famously the stigmata — the wounds of Christ appearing on his own body (reflected in Galatians 6:17: 'I bear on my body the marks of Jesus'). The vision of Christ and Mary appearing together reflects the Catholic devotional tradition of dual intercession. Christ stands as the one mediator between God and humanity (1 Timothy 2:5), while Mary's presence affirms her role in the economy of salvation. Francis's prostrate posture mirrors the biblical pattern of human response to theophany — Moses hiding his face before the burning bush (Exodus 3:6), Isaiah crying 'Woe to me!' in the temple (Isaiah 6:5), and the disciples falling on their faces at the Transfiguration (Matthew 17:6). Francis's entire life was a response to Christ's call: 'If anyone would come after me, let him deny himself and take up his cross and follow me' (Matthew 16:24). His radical poverty embodied the apostolic pattern described in Acts: believers who 'had everything in common' and 'gave to anyone who had need' (Acts 2:44-45).",
+  "scripture_refs": [
+    {
+      "ref": "GAL.6.17",
+      "relevance": "primary",
+      "reason": "Bearing the marks of Jesus — Francis's stigmata and his radical identification with Christ's suffering"
+    },
+    {
+      "ref": "MAT.17.6",
+      "relevance": "typological",
+      "reason": "The disciples falling on their faces at the divine revelation — mirrored in Francis's prostration"
+    },
+    {
+      "ref": "MAT.16.24",
+      "relevance": "allusion",
+      "reason": "Taking up the cross to follow Christ — the foundational call Francis answered"
+    },
+    {
+      "ref": "ISA.6.5",
+      "relevance": "typological",
+      "reason": "The human response of unworthiness before divine glory — Francis prostrate before the vision"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "reverent",
+    "luminous"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150644",
+    "title": "La Visión de San Fransisco",
+    "artist": "José Campeche",
+    "model": "claude-opus-4-6"
+  }
+}

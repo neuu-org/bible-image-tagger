@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {"name": "Sarah", "type": "PERSON"},
+    {"name": "Hagar", "type": "PERSON"},
+    {"name": "Abraham", "type": "PERSON"}
+  ],
+  "event": "Sarah brings Hagar to Abraham",
+  "tags": [
+    "sarah",
+    "hagar",
+    "abraham",
+    "patriarch",
+    "offering-of-handmaid",
+    "candlelight",
+    "elderly-man",
+    "young-woman",
+    "older-woman",
+    "red-robe",
+    "oil-lamp",
+    "bed-chamber",
+    "night-scene"
+  ],
+  "symbols": [
+    "oil lamp — the intimate, private nature of this domestic decision made under cover of night",
+    "Sarah's gesture presenting Hagar — the desperate attempt to fulfill God's promise through human means",
+    "Abraham's aged bare torso — his advanced age underscoring the seeming impossibility of God's promise",
+    "dark curtain — the hidden, private dimension of a decision that would have vast consequences"
+  ],
+  "description": "A candlelit night scene with three figures. At right, an elderly bare-chested man (Abraham) reclines in bed, his white beard and aged body illuminated by a hanging oil lamp above. At left, an older woman in a blue-green robe and headcovering (Sarah) gestures toward a younger woman (Hagar) in a red garment, presenting her to Abraham. Hagar stands between them, her body partially turned. The warm lamplight creates dramatic chiaroscuro, picking out faces and hands against deep shadows. A dark curtain hangs at the right edge.",
+  "theological_description": "This scene depicts the pivotal moment in Genesis 16:1-4 when Sarah, barren and despairing of ever bearing the promised heir, offers her Egyptian maidservant Hagar to Abraham as a surrogate. The narrative is freighted with theological tension: God had promised Abraham descendants as numerous as the stars (Genesis 15:5), yet Sarah remained childless. Her decision to use Hagar represents the archetypal human attempt to fulfill divine promises through human expedience rather than patient faith. The consequences were profound and lasting — Ishmael, born of this union, became the father of nations, but the resulting jealousy and conflict between Sarah and Hagar (Genesis 16:4-6, 21:9-10) became a source of enduring strife. Paul later used the Sarah-Hagar narrative allegorically in Galatians 4:22-31, interpreting Hagar as the covenant of law and bondage (Mount Sinai) and Sarah as the covenant of promise and freedom. The painting captures the moment of human impatience intersecting with divine sovereignty — God would ultimately fulfill his promise through Sarah herself (Genesis 21:1-3), but not before this detour revealed the painful consequences of trying to help God along.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.16.1-4",
+      "relevance": "primary",
+      "reason": "Sarah, being barren, gives Hagar to Abraham as wife — the exact scene depicted"
+    },
+    {
+      "ref": "GEN.15.4-5",
+      "relevance": "primary",
+      "reason": "God's promise of innumerable descendants to Abraham — the unfulfilled promise that drove Sarah's decision"
+    },
+    {
+      "ref": "GAL.4.22-26",
+      "relevance": "typological",
+      "reason": "Paul's allegory of Hagar and Sarah representing the two covenants — law and promise"
+    },
+    {
+      "ref": "GEN.21.1-3",
+      "relevance": "allusion",
+      "reason": "God's eventual fulfillment of the promise through Sarah and Isaac — the divine plan that made this surrogate arrangement unnecessary"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["intimate", "tense", "dramatic", "candlelit"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0170150",
+    "title": "Sarah brings Hagar to Abraham",
+    "artist": "Matthias Stom",
+    "model": "claude-opus-4-6"
+  }
+}

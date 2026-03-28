@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Saint Ursula", "type": "PERSON"},
+    {"name": "Companions of Ursula", "type": "GROUP"}
+  ],
+  "event": "The Departure of Saint Ursula from Basle",
+  "tags": [
+    "saint-ursula",
+    "ship",
+    "departure",
+    "harbor",
+    "companions",
+    "medieval-city",
+    "sailing-vessel",
+    "gothic-panel",
+    "pilgrims",
+    "reliquary-panel",
+    "crowded-boat",
+    "medieval-dress"
+  ],
+  "symbols": [
+    "ship departing — the journey of faith, the Church as a vessel carrying souls",
+    "crowded vessel of companions — the community of the faithful on pilgrimage",
+    "harbor city — the departure from safety into the unknown, trusting in God"
+  ],
+  "description": "A Gothic arched panel showing a busy harbor scene. A large sailing vessel dominates the center, packed with numerous figures — women in white headscarves and men in varied dress. Saint Ursula stands or sits prominently among them. The ship has a tall mast with furled sails and rigging. In the background, a medieval city with towers, walls, and churches rises along the waterfront. Additional figures crowd the dock and a smaller boat in the foreground. The painting is richly detailed with the meticulous precision of early Netherlandish art. The water is calm and green-blue.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "narrative",
+  "mood": ["bustling", "ceremonial", "detailed"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0170681",
+    "title": "The Departure of Saint Ursula from Basle, panel from The Reliquary of St. Ursula",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

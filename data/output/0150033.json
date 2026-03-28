@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Mark",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saracen (shipwrecked man)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Drowning sailors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "St. Mark Rescuing a Saracen from Shipwreck",
+  "tags": [
+    "saint-mark",
+    "shipwreck",
+    "miraculous-rescue",
+    "stormy-sea",
+    "divine-intervention",
+    "drowning",
+    "turbulent-waves",
+    "heavenly-descent",
+    "ship",
+    "salvation-from-peril",
+    "broken-vessel",
+    "dark-clouds"
+  ],
+  "symbols": [
+    "stormy sea — the chaos and peril of life without divine aid",
+    "Saint Mark descending from above — heavenly intercession breaking into mortal danger",
+    "shipwreck — the fragility of human endeavors against the forces of nature and fate",
+    "outstretched arms — the act of salvation mirroring Christ's saving gesture",
+    "dark roiling clouds — divine power manifest in the elemental fury"
+  ],
+  "description": "A dramatically lit scene of a violent shipwreck at sea. In the upper right, a muscular figure descends from the sky amid swirling clouds, reaching down toward a drowning man in the turbulent waters below. The sea churns with massive dark waves. In the background at left, a ship is breaking apart. Several figures struggle in the water, their bodies caught between the waves. The palette is dominated by deep greens, browns, and flashes of light breaking through the storm clouds.",
+  "theological_description": "This painting depicts one of the posthumous miracles attributed to Saint Mark the Evangelist, the author of the second Gospel. While not a biblical event per se, the scene reflects the broader theological tradition of saintly intercession. Mark, who tradition holds was martyred in Alexandria, is shown intervening from heaven to rescue a Saracen sailor from drowning — a powerful image of grace extended even to those outside the faith community. The miracle echoes Christ's own power over the sea demonstrated when He calmed the storm on the Sea of Galilee (Mark 4:35-41) and walked on water to rescue the disciples (Matthew 14:22-33). Mark's Gospel itself records Jesus's authority over the chaotic waters, and here the Evangelist participates in that same divine authority. The scene also resonates with Psalm 107:23-30, which describes those who go down to the sea in ships and cry out to the Lord in their distress, and He brings them out of their trouble. The extension of rescue to a Saracen — a non-Christian — reflects the universality of God's mercy proclaimed throughout Scripture: 'The Lord is good to all; he has compassion on all he has made' (Psalm 145:9).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.4.35-41",
+      "relevance": "typological",
+      "reason": "Jesus calming the storm on the Sea of Galilee prefigures Mark's own miraculous power over the sea"
+    },
+    {
+      "ref": "MAT.14.22-33",
+      "relevance": "typological",
+      "reason": "Christ walking on water and rescuing Peter from drowning parallels Mark's rescue of the drowning Saracen"
+    },
+    {
+      "ref": "PSA.107.23-30",
+      "relevance": "allusion",
+      "reason": "The psalm describes God rescuing seafarers from storm and distress, directly reflected in this miraculous rescue"
+    },
+    {
+      "ref": "PSA.145.9",
+      "relevance": "allusion",
+      "reason": "God's compassion extending to all creation is embodied in the rescue of a non-Christian sailor"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "turbulent",
+    "miraculous"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150033",
+    "title": "St Mark Rescuing a Saracen from Shipwreck",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

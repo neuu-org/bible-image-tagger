@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Listeners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Jesus Teaching by the Pool of Siloam",
+  "tags": [
+    "jesus-teaching",
+    "pool-of-siloam",
+    "stone-wall",
+    "water-channel",
+    "jerusalem",
+    "middle-eastern-setting",
+    "white-robe",
+    "turban",
+    "seated-listeners",
+    "arch-tunnel",
+    "ancient-stonework",
+    "quiet-conversation"
+  ],
+  "symbols": [
+    "water flowing from the tunnel — the living water that Jesus offers, springing up to eternal life",
+    "Jesus standing while others sit — the teacher's authority and the posture of proclamation",
+    "ancient stone wall — the endurance of Jerusalem and the weight of salvation history",
+    "tunnel opening with water — the hidden source, the mystery of God's provision flowing from unseen depths"
+  ],
+  "description": "A landscape-oriented painting depicting a scene beside an ancient stone wall in Jerusalem. At center, a figure in a white robe and head covering stands before a large stone wall, gesturing in conversation. To the left, two or three seated figures in brown and white robes listen attentively. To the right of the standing figure, a dark arched tunnel or channel opens in the stone wall, with water flowing out from it into a pool or channel in the foreground. The stonework is rendered with careful attention to the weathered, massive blocks.",
+  "theological_description": "Polenov's painting, titled 'What People Think About Me,' likely depicts a moment from Jesus's Jerusalem ministry where he engages in intimate dialogue about his identity. The setting by a water source in Jerusalem evokes the Pool of Siloam or the Pool of Bethesda, both sites of significant encounters in the Gospels. At the Pool of Siloam, Jesus sent the man born blind to wash and receive his sight (John 9:7), and John notes that Siloam means 'Sent' — identifying Jesus himself as the one sent by the Father. The water flowing from the stone tunnel visually embodies Jesus's proclamation at the Feast of Tabernacles: 'If anyone thirsts, let him come to me and drink. Whoever believes in me, as the Scripture has said, out of his heart will flow rivers of living water' (John 7:37-38). The intimate teaching setting, with just a few listeners by the ancient wall, recalls the many quiet conversations Jesus had in Jerusalem — with Nicodemus (John 3), with the disciples on the Mount of Olives, and with various questioners about his identity. The question 'What do people think about me?' directly echoes Jesus's question to his disciples at Caesarea Philippi: 'Who do people say that I am?' (Mark 8:27), the pivotal moment that led to Peter's confession: 'You are the Christ' (Mark 8:29).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.8.27-29",
+      "relevance": "primary",
+      "reason": "Jesus's question about what people think of him is the direct subject suggested by the painting's title"
+    },
+    {
+      "ref": "JHN.7.37-38",
+      "relevance": "primary",
+      "reason": "The water flowing from the tunnel embodies Jesus's proclamation of living water at the Jerusalem feast"
+    },
+    {
+      "ref": "JHN.9.7",
+      "relevance": "typological",
+      "reason": "The Pool of Siloam setting connects to Jesus sending the blind man to wash and receive sight"
+    },
+    {
+      "ref": "JHN.4.14",
+      "relevance": "allusion",
+      "reason": "The water springing up to eternal life that Jesus offers, symbolized by the flowing water in the scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "intimate",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180466",
+    "title": "What People Think about Me",
+    "artist": "Vasily Polenov",
+    "model": "claude-opus-4-6"
+  }
+}

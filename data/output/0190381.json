@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Angel (Cherubim with flaming sword)",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Expulsion from Paradise",
+  "tags": [
+    "expulsion-from-eden",
+    "adam-and-eve",
+    "angel-with-sword",
+    "paradise-lost",
+    "fall-of-man",
+    "flaming-sword",
+    "nakedness",
+    "shame",
+    "dark-atmosphere"
+  ],
+  "symbols": [
+    "flaming sword held by the angel — the cherubim and flaming sword guarding the way to the tree of life",
+    "angel with halo — divine authority executing God's judgment upon disobedience",
+    "nude figures departing — the loss of innocence, the shame of sin exposed",
+    "darkness beyond the gate — the fallen world of toil, suffering, and death awaiting humanity",
+    "Adam and Eve's bowed posture — the weight of guilt and the sorrow of separation from God"
+  ],
+  "description": "A dramatic painting showing three figures. On the left, a muscular nude male figure with a golden halo stands holding a long staff or sword, his arm outstretched in a commanding gesture of expulsion. On the right, two nude figures — a man and a woman — walk away from the viewer into deep darkness, their heads bowed in shame and sorrow. The man hunches forward while the woman follows behind. The stark contrast between the lit angel figure and the dark void into which the couple departs creates a powerful sense of banishment and loss.",
+  "theological_description": "Franz Stuck's powerful depiction of the Expulsion from Eden captures the devastating moment of Genesis 3:23-24, when the Lord God drove Adam and Eve from the Garden and placed cherubim with a flaming sword to guard the way to the tree of life. This is the hinge moment of all biblical theology — the Fall that necessitates the entire arc of redemption history. Before the expulsion, God had warned in Genesis 2:17 that eating from the forbidden tree would bring death, and now that death — spiritual separation from God and eventual physical decay — has entered the human experience. The angel's commanding posture embodies the justice of God that cannot overlook sin, while the couple's departing nakedness fulfills Genesis 3:7 where their eyes were opened and they knew they were naked. Yet even in judgment, grace was present: God clothed them with garments of skin (Genesis 3:21), the first sacrifice foreshadowing the Lamb of God. The darkness into which they walk represents the fallen world described in Romans 5:12, where through one man sin entered the world, and death through sin. But this very darkness calls forth the promise of Genesis 3:15, the protoevangelium: the seed of the woman would crush the serpent's head — the first whisper of the Gospel amid humanity's darkest hour.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.23-24",
+      "relevance": "primary",
+      "reason": "God drove out the man and placed cherubim with a flaming sword to guard Eden — the exact scene depicted"
+    },
+    {
+      "ref": "GEN.3.7",
+      "relevance": "primary",
+      "reason": "Their eyes were opened and they knew they were naked — the shame visible in the departing figures"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The protoevangelium promising that the seed of the woman would crush the serpent — hope amid the expulsion"
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "typological",
+      "reason": "Through one man sin entered the world, and death through sin — the theological meaning of the expulsion"
+    },
+    {
+      "ref": "GEN.3.21",
+      "relevance": "allusion",
+      "reason": "God's grace in clothing Adam and Eve before expulsion — sacrifice present even in judgment"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "somber",
+    "dramatic",
+    "anguished",
+    "powerful"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0190381",
+    "title": "The lost Paradise",
+    "artist": "Franz Stuck",
+    "model": "claude-opus-4-6"
+  }
+}

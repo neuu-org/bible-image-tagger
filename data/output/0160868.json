@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Bishop Saint (St. Nicholas or St. Martin)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldier Saint (St. Ursus)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Solothurn Madonna (Virgin and Child with Saints)",
+  "tags": [
+    "madonna-and-child",
+    "enthroned-virgin",
+    "bishop-saint",
+    "soldier-saint",
+    "armor",
+    "red-banner",
+    "crown",
+    "crosier",
+    "arched-composition"
+  ],
+  "symbols": [
+    "crowned Virgin enthroned — Mary as Queen of Heaven, honored above all saints",
+    "bishop with crosier — the pastoral authority of the Church protecting the faithful",
+    "knight in armor with red banner — the Church Militant, faith defended by spiritual warfare",
+    "Christ child on Mary's lap — God incarnate, the source of all authority held by the flanking saints"
+  ],
+  "description": "An arched panel showing the Virgin Mary seated centrally, crowned and wearing a deep blue-green mantle over a red dress. She holds the infant Jesus on her lap. To her left, a bishop in ornate vestments with a tall mitre holds a golden crosier. To her right, a figure in full plate armor holds a red and white banner (Swiss cross). The background shows a large arched window with a blue sky. The composition is symmetrical and formal.",
+  "theological_description": "The Solothurn Madonna presents the enthroned Virgin and Child flanked by the patron saints of the Swiss city of Solothurn. The arrangement is a sacra conversazione — a holy conversation across time in which saints from different eras attend the Madonna. Mary's crown identifies her as Queen of Heaven, a title rooted in Revelation's 'woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head' (Revelation 12:1). The bishop represents the teaching and pastoral authority of the Church, exercising the commission Christ gave to 'feed my sheep' (John 21:17). The armored saint embodies the Church Militant — Paul's exhortation to 'put on the full armor of God' (Ephesians 6:11). At the center of all earthly and heavenly authority sits the child Christ, 'for in him all the fullness of the Deity lives in bodily form' (Colossians 2:9).",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The crowned woman — the vision behind Mary's title as Queen of Heaven"
+    },
+    {
+      "ref": "EPH.6.11",
+      "relevance": "typological",
+      "reason": "Put on the full armor of God — the soldier saint embodying spiritual warfare"
+    },
+    {
+      "ref": "JHN.21.17",
+      "relevance": "allusion",
+      "reason": "Feed my sheep — the bishop's pastoral authority derived from Christ's commission"
+    },
+    {
+      "ref": "COL.2.9",
+      "relevance": "allusion",
+      "reason": "The fullness of deity in bodily form — the infant Christ at the center of the composition"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "majestic",
+    "formal",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160868",
+    "title": "The Solothurn Madonna",
+    "artist": "Hans Holbein the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

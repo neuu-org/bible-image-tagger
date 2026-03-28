@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna with Child and two angels",
+  "tags": [
+    "virgin-and-child",
+    "madonna",
+    "two-angels",
+    "halo",
+    "blue-mantle",
+    "pink-dress",
+    "transparent-veil",
+    "cypress-trees",
+    "landscape-background",
+    "tender-gaze",
+    "infant-reaching",
+    "curly-haired-angels"
+  ],
+  "symbols": [
+    "Mary with downcast eyes — humility and contemplative pondering of the mystery of the Incarnation",
+    "infant reaching toward Mary — the divine Son's human dependence and filial love",
+    "angels supporting the child — the heavenly host attending the incarnate God",
+    "cypress trees in background — mourning and eternity, foreshadowing the Passion",
+    "transparent veil — Mary's purity and the delicate boundary between heaven and earth"
+  ],
+  "description": "A half-length composition of the Virgin Mary in a blue mantle over a pink-red dress, with a delicate transparent veil over her hair and a golden halo. She looks down with a gentle, contemplative expression. The infant Jesus, nude with a golden halo, is held before her by two young curly-haired angels at left. The child reaches up toward Mary's face. Behind the figures, a landscape is visible with cypress trees, an arched structure, and distant hills under a pale sky. The style is characteristic of Florentine Renaissance painting with soft modeling and idealized features.",
+  "theological_description": "Botticelli's Madonna with two angels presents the Incarnation as a scene of tender intimacy attended by heavenly beings. The angels who support the Christ Child recall the Gospel accounts of angelic involvement in Christ's life — from the announcement of his birth (Luke 1:26-38) to the ministry of angels in the wilderness (Matthew 4:11). Mary's contemplative downward gaze embodies Luke 2:19: she 'treasured up all these things and pondered them in her heart.' The infant's gesture of reaching toward his mother visualizes the full humanity of the divine Son — the one who 'upholds the universe by the word of his power' (Hebrews 1:3) now reaches for a mother's embrace. The cypress trees in the background, traditional symbols of mourning and eternity, inject a note of foreshadowing: this tender infant will become the Man of Sorrows. The transparent veil over Mary's hair suggests her unique status as one 'full of grace' (Luke 1:28), existing at the threshold between the human and divine orders.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasured all these things and pondered them — her contemplative gaze"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "Hail, full of grace, the Lord is with you — Mary's unique sanctity"
+    },
+    {
+      "ref": "HEB.1.3",
+      "relevance": "allusion",
+      "reason": "The Son who sustains all things now reaches for his mother — the paradox of Incarnation"
+    },
+    {
+      "ref": "HEB.1.6",
+      "relevance": "allusion",
+      "reason": "Let all God's angels worship him — the angels attending and supporting the Christ Child"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "serene",
+    "devotional",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170494",
+    "title": "Madonna with two angels",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

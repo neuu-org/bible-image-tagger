@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony",
+      "type": "PERSON"
+    },
+    {
+      "name": "Demons",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Temptation of Saint Anthony",
+  "tags": [
+    "temptation",
+    "saint-anthony",
+    "demons",
+    "grotesque-creatures",
+    "hermit",
+    "monk-robes",
+    "skull",
+    "open-book",
+    "cave",
+    "woman-temptress",
+    "goblet",
+    "bats",
+    "spiritual-warfare",
+    "desert-father"
+  ],
+  "symbols": [
+    "demons surrounding the saint — the spiritual assault upon the devout soul through temptation",
+    "woman holding a goblet — the temptation of the flesh and worldly pleasure",
+    "skull on the table — memento mori, the saint's meditation on death and eternity",
+    "open book — Scripture or prayer as the saint's spiritual weapon against demonic attack",
+    "cave setting — the hermit's withdrawal from the world into ascetic solitude",
+    "bat-like creatures — the darkness and chaos of demonic forces"
+  ],
+  "description": "A dark interior, likely a cave or grotto, where an elderly bearded monk in a dark habit kneels at a stone table. On the table lie a skull and open books. Behind him, a woman in a white headdress holds up a glass goblet, leaning over him seductively. To his left, several grotesque demonic figures with distorted animal-like bodies crouch and clamber — one with a red cap, another skeletal and emaciated. Dark winged creatures (bats or demons) swoop through the upper portion of the cave. The monk's expression is one of strained resistance, his hands pressed together or gripping his book.",
+  "theological_description": "The Temptation of Saint Anthony depicts the legendary spiritual trials of Anthony the Great (c. 251-356 AD), the Egyptian desert father whose life, recorded by Athanasius, became paradigmatic for Christian asceticism. While Anthony himself is post-biblical, his struggle directly embodies the spiritual warfare described throughout Scripture. The demonic assault mirrors Ephesians 6:12: 'For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world.' The temptress with the goblet recalls the seductive woman of Proverbs 7 and the broader biblical warning against the lust of the flesh (1 John 2:16). Anthony's resistance through prayer and Scripture echoes Jesus's own temptation in the wilderness, where Christ defeated Satan by the word of God (Matthew 4:1-11). The skull as memento mori reflects Ecclesiastes' meditation on the vanity of earthly life. James 4:7 encapsulates the theology of this scene: 'Resist the devil, and he will flee from you.' Anthony's steadfastness under demonic siege became the model for monastic spirituality and the Christian understanding that sanctification involves persistent combat against the powers of darkness.",
+  "scripture_refs": [
+    {
+      "ref": "EPH.6.12",
+      "relevance": "typological",
+      "reason": "The struggle against spiritual forces of evil in the heavenly realms — the direct theological framework for Anthony's demonic assault"
+    },
+    {
+      "ref": "MAT.4.1-11",
+      "relevance": "typological",
+      "reason": "Christ's temptation in the wilderness is the prototype for Anthony's desert trial"
+    },
+    {
+      "ref": "JAS.4.7",
+      "relevance": "typological",
+      "reason": "Resist the devil and he will flee — Anthony's steadfast resistance embodies this promise"
+    },
+    {
+      "ref": "1JN.2.16",
+      "relevance": "allusion",
+      "reason": "The lust of the flesh, the lust of the eyes, and the pride of life — the categories of temptation represented by the demonic figures"
+    },
+    {
+      "ref": "1PE.5.8",
+      "relevance": "allusion",
+      "reason": "The devil prowls around like a roaring lion seeking someone to devour — the aggressive demonic attack on the saint"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "menacing",
+    "tense",
+    "dark",
+    "resolute"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0170084",
+    "title": "The Temptation of St. Anthony",
+    "artist": "David Teniers the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Saint Bernardino of Siena",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Bernardino of Siena",
+  "tags": [
+    "saint-bernardino",
+    "franciscan",
+    "brown-habit",
+    "monstrance",
+    "ihs-monogram",
+    "radiant-sun-disc",
+    "bishop-mitre",
+    "gaunt-figure",
+    "beard",
+    "preacher",
+    "holy-name-of-jesus",
+    "dramatic-sky"
+  ],
+  "symbols": [
+    "IHS monogram in radiant disc — the Holy Name of Jesus that Bernardino popularized in his preaching",
+    "Franciscan brown habit with rope belt — his membership in the Order of Friars Minor",
+    "bishop's mitre at his feet — his refusal of episcopal office out of humility",
+    "gaunt, ascetic figure — his life of fasting and self-denial",
+    "dramatic sky — divine presence attending the saint's witness"
+  ],
+  "description": "A tall, narrow panel depicting a gaunt, bearded man in a brown Franciscan habit with a rope belt. He stands upright, holding a radiant disc or monstrance in his right hand that displays the letters IHS surrounded by rays of light. At his feet lies a white bishop's mitre. The background shows a dramatic cloudy sky with dark and golden tones. The figure's face is thin and ascetic, gazing upward or slightly to the side. The composition is framed within a pointed arch shape at top.",
+  "theological_description": "El Greco's portrait of Saint Bernardino of Siena (1380-1444) shows the great Franciscan preacher who became famous for promoting devotion to the Holy Name of Jesus. The radiant IHS monogram he holds — an abbreviation of the Greek name of Jesus — became his hallmark as he preached across Italy, urging people to revere the Name above all names. This connects directly to Paul's Christological hymn in Philippians: 'God exalted him to the highest place and gave him the name that is above every name, that at the name of Jesus every knee should bow' (Philippians 2:9-10). The bishop's mitre at his feet testifies that Bernardino three times refused appointment as bishop, choosing the poverty and simplicity of the Franciscan rule — embodying Jesus's teaching that 'whoever wants to become great among you must be your servant' (Matthew 20:26). His Franciscan habit connects him to the tradition of Saint Francis of Assisi, who sought to follow Christ in radical poverty. Bernardino's preaching ministry echoes the biblical commission: 'How beautiful are the feet of those who bring good news!' (Romans 10:15). His devotion to the Name of Jesus fulfills the promise: 'Whatever you ask in my name, this I will do' (John 14:13).",
+  "scripture_refs": [
+    {
+      "ref": "PHP.2.9-10",
+      "relevance": "primary",
+      "reason": "The Name above every name — the direct theological foundation for Bernardino's devotion to the Holy Name"
+    },
+    {
+      "ref": "ACT.4.12",
+      "relevance": "primary",
+      "reason": "Salvation in no other name — the apostolic proclamation that Bernardino championed"
+    },
+    {
+      "ref": "MAT.20.26",
+      "relevance": "allusion",
+      "reason": "Greatness through servanthood — Bernardino's refusal of the bishopric symbolized by the mitre at his feet"
+    },
+    {
+      "ref": "ROM.10.15",
+      "relevance": "allusion",
+      "reason": "The beauty of those who bring good news — Bernardino as an itinerant preacher of the Gospel"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "austere",
+    "devotional",
+    "intense"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150328",
+    "title": "St. Bernardino of Siena",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

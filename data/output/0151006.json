@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony the Hermit",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Cornelius (bishop)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor (kneeling figure)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints Anthony the Hermit, Cornelius, and Mary Magdalene with a Donor",
+  "tags": [
+    "saints",
+    "anthony-the-hermit",
+    "cornelius",
+    "mary-magdalene",
+    "donor-portrait",
+    "tau-staff",
+    "bishops-mitre",
+    "ointment-jar",
+    "red-vestments",
+    "green-dress",
+    "kneeling-donor",
+    "halos",
+    "dark-background",
+    "gothic-painting"
+  ],
+  "symbols": [
+    "tau-shaped staff — Saint Anthony the Hermit's traditional attribute",
+    "bishop in red with mitre — Saint Cornelius, pope and martyr, in episcopal regalia",
+    "ointment jar held by Magdalene — her traditional attribute recalling the anointing of Jesus",
+    "kneeling donor — the patron who commissioned the painting, seeking the saints' intercession",
+    "golden halos — the sanctity of the three heavenly intercessors"
+  ],
+  "description": "Three standing haloed figures against a dark background with a small kneeling figure at their feet. At left, an elderly bearded man in a brown habit holds a tall tau-shaped staff — Saint Anthony. At center, a figure in elaborate red episcopal vestments and a pointed mitre holds a small object — Saint Cornelius. At right, a young woman in a green dress and white veil holds a small jar — Mary Magdalene. Between them at the bottom, a small kneeling figure in dark clothing (the donor) prays. The style is late Gothic with rich colors and careful detail.",
+  "theological_description": "Lochner's painting presents three saints with a kneeling donor, a common devotional format in which the patron seeks heavenly intercession. Saint Anthony the Hermit (c. 251-356), the father of Christian monasticism, withdrew to the Egyptian desert to battle spiritual forces — his life exemplifying Paul's exhortation: 'Put on the full armor of God, so that you can take your stand against the devil's schemes' (Ephesians 6:11). Saint Cornelius, Pope and martyr (d. 253), led the Church during the Decian persecution and upheld the readmission of lapsed Christians — embodying the pastoral mercy of Christ the Good Shepherd. Mary Magdalene, holding her ointment jar, represents the penitent sinner who found forgiveness at Jesus's feet: 'Her many sins have been forgiven — as her great love has shown' (Luke 7:47). She became the first witness of the Resurrection (John 20:11-18). Together these three saints represent the monastic, episcopal, and penitent dimensions of the Christian life — withdrawal and spiritual warfare, leadership and mercy, repentance and devoted love. The kneeling donor places himself under their spiritual protection, embodying the communion of saints: the living and the dead united in Christ.",
+  "scripture_refs": [
+    {
+      "ref": "EPH.6.11",
+      "relevance": "allusion",
+      "reason": "Spiritual armor against the devil — Anthony's legendary battles with demons in the desert"
+    },
+    {
+      "ref": "LUK.7.47",
+      "relevance": "primary",
+      "reason": "Great love from great forgiveness — Mary Magdalene's story embodied in her presence"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "allusion",
+      "reason": "Magdalene as first witness of the Resurrection — her honored status among the saints"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses surrounding the faithful — the donor seeking saintly intercession"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "solemn",
+    "reverent"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0151006",
+    "title": "Sts Anthony the Hermit, Cornelius and Mary Magdalen with a Donor",
+    "artist": "Stefan Lochner",
+    "model": "claude-opus-4-6"
+  }
+}

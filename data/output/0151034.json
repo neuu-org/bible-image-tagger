@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Gospel of the Childhood — The Holy Family on a Journey",
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "infant-jesus",
+    "joseph",
+    "halo",
+    "journey",
+    "wooden-structure",
+    "waterside",
+    "line-drawing",
+    "illustration",
+    "birds-in-sky",
+    "sparse-landscape",
+    "gospel-of-childhood",
+    "flight-into-egypt"
+  ],
+  "symbols": [
+    "halo on Mary and child — their sacred identity",
+    "journey along the water — pilgrimage and the flight through danger",
+    "wooden structure (possibly boat or cart) — the humble means of the Holy Family's travel",
+    "birds in the distant sky — freedom and divine provision"
+  ],
+  "description": "A pen-and-ink illustration showing a haloed woman holding a haloed infant, standing beside a man near a wooden structure (possibly a boat or framework) at the edge of water. The landscape is spare — a flat expanse with distant birds in the sky. The style is delicate line drawing with cross-hatching, in a Symbolist or Art Nouveau manner. The figures are rendered with flowing, elegant lines. The composition is vertical with the figures at center-right.",
+  "theological_description": "Schwabe's illustration for 'The Gospel of the Childhood of Our Lord Jesus Christ' depicts the Holy Family — likely during the Flight into Egypt or another journey of the infancy narrative. Matthew records that an angel warned Joseph in a dream: 'Get up, take the child and his mother and escape to Egypt' (Matthew 2:13), and 'he took the child and his mother during the night and left for Egypt' (Matthew 2:14). The spare, open landscape and proximity to water suggest the long journey from Bethlehem through the wilderness to Egypt. The haloed mother and child at the center of the composition affirm the divine mission: this fragile family unit carries the hope of the world. Luke records that even in childhood, 'the child grew and became strong; he was filled with wisdom, and the grace of God was on him' (Luke 2:40). The Symbolist style, with its ethereal line quality, captures the otherworldly dimension of these events — ordinary people on an ordinary journey, yet the child in the mother's arms is 'Immanuel — God with us' (Matthew 1:23).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The Flight into Egypt — the Holy Family's journey to safety"
+    },
+    {
+      "ref": "LUK.2.40",
+      "relevance": "allusion",
+      "reason": "The child growing in wisdom — the childhood of Jesus depicted"
+    },
+    {
+      "ref": "MAT.1.23",
+      "relevance": "allusion",
+      "reason": "Immanuel, God with us — the divine child carried on a human journey"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son — the prophetic connection to the journey"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ethereal",
+    "quiet",
+    "pilgrimage"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0151034",
+    "title": "The Gospel of the Childhood of Our Lord Jesus Christ",
+    "artist": "Carlos Schwabe",
+    "model": "claude-opus-4-6"
+  }
+}

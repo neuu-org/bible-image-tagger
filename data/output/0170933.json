@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Concert of Angels making music",
+  "tags": [
+    "concert-of-angels",
+    "angel-musicians",
+    "harp",
+    "singing",
+    "flowing-robes",
+    "golden-tones",
+    "heavenly-music",
+    "elongated-figures",
+    "ecstatic-worship",
+    "mannerist"
+  ],
+  "symbols": [
+    "angels playing instruments — the ceaseless worship of heaven, the music of the celestial court",
+    "harp — the instrument of praise associated with David and the psalms",
+    "ecstatic expressions and gestures — the overwhelming joy of beholding the divine presence"
+  ],
+  "description": "A horizontal composition showing a group of four or five angels in swirling, richly colored robes — red, green, gold, and blue. The central angel plays a large harp, while others sing or gesture ecstatically with raised arms and upturned faces. The figures are elongated and flame-like in the mannerist style, their bodies twisting with dynamic energy. The background is dark and indistinct, focusing all attention on the luminous, passionately engaged musicians. The brushwork is loose and expressive with thick impasto in the drapery.",
+  "theological_description": "El Greco's Concert of Angels visualizes the heavenly worship that pervades Scripture. The psalms repeatedly call upon celestial beings to praise God with instruments: 'Praise him with the sounding of the trumpet, praise him with the harp and lyre' (Psalm 150:3). The angelic musicians embody the ceaseless worship described in Revelation 4:8: the living creatures 'day and night they never stop saying: Holy, holy, holy is the Lord God Almighty.' Isaiah 6:1-3 records the seraphim calling to one another in antiphonal praise: 'Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory.' The ecstatic, elongated forms of El Greco's angels suggest beings so consumed by divine glory that their very bodies are transformed by worship — stretched heavenward, aflame with devotion. The harp at center recalls David's musicianship (1 Samuel 16:23) and the harps of the elders in Revelation 5:8, who sing a new song before the Lamb. Music in the biblical tradition is not entertainment but the proper response of creation to its Creator.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.150.3-6",
+      "relevance": "typological",
+      "reason": "Praise him with harp and lyre, with trumpet and strings — the command to worship with instruments"
+    },
+    {
+      "ref": "REV.4.8",
+      "relevance": "typological",
+      "reason": "Day and night they never stop saying Holy, holy, holy — the ceaseless heavenly worship"
+    },
+    {
+      "ref": "ISA.6.1-3",
+      "relevance": "typological",
+      "reason": "Seraphim calling Holy, holy, holy — the angelic praise that the concert embodies"
+    },
+    {
+      "ref": "REV.5.8-9",
+      "relevance": "allusion",
+      "reason": "The elders with harps singing a new song before the Lamb"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "ecstatic",
+    "luminous",
+    "rapturous",
+    "dynamic"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0170933",
+    "title": "Concert of Angels",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

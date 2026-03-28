@@ -1,0 +1,93 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Women Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Shepherds",
+  "tags": [
+    "adoration-of-the-shepherds",
+    "nativity",
+    "infant-jesus",
+    "virgin-mary",
+    "shepherds",
+    "angels-and-cherubim",
+    "stable",
+    "swaddling-clothes",
+    "kneeling",
+    "divine-light",
+    "blue-sky",
+    "hillside",
+    "women-attendants",
+    "christmas",
+    "worship"
+  ],
+  "symbols": [
+    "radiant infant on the ground — the Light of the World laid low in humility",
+    "shepherds kneeling — the poor and humble as first witnesses of salvation",
+    "angels above in the sky — the heavenly host proclaiming glory to God",
+    "Mary in prayer — the contemplative mother pondering all things in her heart",
+    "open stable — the exposed, vulnerable nature of God's entrance into the world",
+    "women attendants — the community of faith gathering at the incarnation"
+  ],
+  "description": "A nativity scene with the infant Jesus lying on the ground at center, emitting a soft glow. The Virgin Mary kneels at the left in a blue and red garment with hands in prayer. Several women stand behind and beside her. From the right, shepherds approach and kneel, one bare-chested, others in rough garments. A man points toward the child. Above, in a bright sky with clouds, several angels and cherubim float, looking down at the scene. The background shows a hilly landscape stretching to the horizon. The composition is vertical with the heavenly realm above and the earthly nativity below.",
+  "theological_description": "Bronzino's Adoration of the Shepherds presents the Nativity with Mannerist elegance while remaining faithful to Luke's account. 'And there were shepherds out in the field, keeping watch over their flock by night. And an angel of the Lord appeared to them... and the angel said to them, Fear not, for behold, I bring you good news of great joy... For unto you is born this day in the city of David a Savior, who is Christ the Lord. And this will be a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger' (Luke 2:8-12). The shepherds 'went with haste and found Mary and Joseph, and the baby lying in a manger' (Luke 2:16). The vertical composition — angels above, the infant below — visualizes the theological truth of the Incarnation: heaven descending to earth, the Most High becoming the most low. The infant lying on the bare ground (rather than in a manger, as in some artistic traditions) emphasizes the radical humility of the Word made flesh. Paul captures this mystery: 'Though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men' (Philippians 2:6-7). Mary's prayerful posture reflects Luke's note that she 'treasured up all these things, pondering them in her heart' (Luke 2:19).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-16",
+      "relevance": "primary",
+      "reason": "The shepherds' angelic announcement and their journey to find the Christ child — the direct scene depicted"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasuring and pondering these things in her heart — her contemplative prayer posture"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "typological",
+      "reason": "Christ's self-emptying, taking the form of a servant — the infant lying on the bare ground in radical humility"
+    },
+    {
+      "ref": "ISA.9.6",
+      "relevance": "allusion",
+      "reason": "Unto us a child is born, unto us a son is given — the prophetic fulfillment in the nativity"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "primary",
+      "reason": "The heavenly host praising God — the angels and cherubim floating above the stable"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "luminous",
+    "joyful",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140627",
+    "title": "Adoration of the Shepherds",
+    "artist": "Agnolo Bronzino",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Thomas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint James the Greater",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Study of the Heads of Saints Thomas and James the Greater",
+  "tags": [
+    "saint-thomas",
+    "saint-james-the-greater",
+    "apostles",
+    "head-study",
+    "drawing",
+    "chalk",
+    "last-supper-study",
+    "bearded-men",
+    "profile",
+    "three-quarter-view",
+    "expressive-faces",
+    "renaissance-drawing"
+  ],
+  "symbols": [
+    "two apostolic heads in close proximity — the community of disciples sharing in Christ's mission",
+    "Thomas's intense gaze — the apostle known for questioning and seeking visible proof",
+    "James's downward look — contemplation and the weight of apostolic calling"
+  ],
+  "description": "A chalk and charcoal drawing on paper showing two male heads in close proximity. The left face is shown in near-profile, looking to the left with an intense expression, dark curly hair, and a short beard. The right face looks slightly downward in three-quarter view, with longer wavy hair, a beard, and a more contemplative expression. He wears a garment with a round clasp or brooch at the neck. The drawing is warm-toned in red and brown chalks with soft modeling. It has the quality of a preparatory study.",
+  "theological_description": "Leonardo da Vinci's preparatory study for the Last Supper captures the heads of two apostles — Thomas and James the Greater — in a moment of intense emotional reaction to Jesus's announcement: 'One of you will betray me' (Matthew 26:21). Thomas, shown in sharp profile with a penetrating gaze, is the apostle who would later demand physical proof of the resurrection: 'Unless I see the nail marks in his hands... I will not believe' (John 20:25). Yet when confronted with the risen Christ, Thomas uttered the most complete confession of faith in the Gospels: 'My Lord and my God!' (John 20:28). James the Greater, son of Zebedee and brother of John, was among Jesus's innermost circle — present at the Transfiguration (Mark 9:2), at the raising of Jairus's daughter (Mark 5:37), and in Gethsemane (Mark 14:33). He would become the first apostle to be martyred, killed by Herod Agrippa I (Acts 12:2). Leonardo captures in these faces the full human response to divine revelation — questioning, contemplation, alarm, and devotion — the very emotions that the announcement of betrayal would provoke among those who had left everything to follow Jesus.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.21-22",
+      "relevance": "primary",
+      "reason": "Jesus's announcement of betrayal at the Last Supper — the moment these apostolic reactions capture"
+    },
+    {
+      "ref": "JHN.20.25-28",
+      "relevance": "allusion",
+      "reason": "Thomas's journey from doubt to the supreme confession 'My Lord and my God'"
+    },
+    {
+      "ref": "ACT.12.2",
+      "relevance": "allusion",
+      "reason": "James the Greater martyred by Herod — the first apostle to die for the faith"
+    },
+    {
+      "ref": "MRK.9.2",
+      "relevance": "allusion",
+      "reason": "James as part of Jesus's inner circle at the Transfiguration"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intense",
+    "contemplative",
+    "expressive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150537",
+    "title": "Heads of Sts Thomas and James the Greater",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

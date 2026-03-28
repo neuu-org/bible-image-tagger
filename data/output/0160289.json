@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Noah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Animals",
+      "type": "GROUP"
+    },
+    {
+      "name": "People in the Flood",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Great Flood",
+  "tags": [
+    "flood",
+    "noahs-ark",
+    "deluge",
+    "indigenous-art",
+    "animals",
+    "boat",
+    "rising-waters",
+    "owl",
+    "divine-judgment",
+    "swirling-water",
+    "colorful-figures"
+  ],
+  "symbols": [
+    "boat amid the flood — the ark of salvation, the only refuge from divine judgment",
+    "large owl at center — wisdom and watchfulness amid catastrophe, the all-seeing eye of God",
+    "swirling blue waters — the destructive power of God's judgment upon a sinful world",
+    "figures struggling in the water — humanity overtaken by the consequences of wickedness",
+    "animals of many kinds — God's preservation of creation through the covenant with Noah"
+  ],
+  "description": "A colorful print in an indigenous Inuit art style depicting a flood scene. At center, a large owl with orange and red feathers dominates the composition. Around and below it, human figures in red and pink garments struggle in swirling blue-and-white patterned water. A yellow boat or kayak is visible at the top with figures aboard. Various animals — birds, fish, seals, and other creatures — are scattered throughout the turbulent waters. The style uses bold outlines, flat color areas, and decorative patterning throughout.",
+  "theological_description": "This Inuit interpretation of the Flood brings a fresh cultural lens to the Genesis narrative. God saw that 'every inclination of the thoughts of the human heart was only evil all the time' and determined to destroy the earth with a flood (Genesis 6:5-7). Yet in the midst of judgment, grace appears: Noah found favor in God's eyes (Genesis 6:8) and was commanded to build an ark to preserve his family and representatives of every living creature (Genesis 6:19-20). The indigenous artistic tradition powerfully captures the chaos of the deluge — the swirling waters, the animals, the struggling human forms. The boat carrying survivors at the top embodies the ark as a type of salvation. Peter later draws the typological connection: 'In it only a few people, eight in all, were saved through water, and this water symbolizes baptism that now saves you' (1 Peter 3:20-21). The Flood is simultaneously judgment and mercy — destruction of evil and preservation of the faithful remnant through which God's covenant with creation continues.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.6.5-8",
+      "relevance": "primary",
+      "reason": "God's decision to send the Flood because of humanity's wickedness, and Noah finding favor"
+    },
+    {
+      "ref": "GEN.7.17-24",
+      "relevance": "primary",
+      "reason": "The floodwaters rising and covering the earth — the catastrophe depicted in the image"
+    },
+    {
+      "ref": "1PE.3.20-21",
+      "relevance": "typological",
+      "reason": "The Flood as a type of baptism — salvation through water for the faithful few"
+    },
+    {
+      "ref": "GEN.9.8-11",
+      "relevance": "allusion",
+      "reason": "God's covenant with Noah and all living creatures never to destroy the earth by flood again"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "chaotic",
+    "vibrant",
+    "overwhelming"
+  ],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0160289",
+    "title": "The Flood",
+    "artist": "Ruth Annaqtuusi Tulurialik",
+    "model": "claude-opus-4-6"
+  }
+}

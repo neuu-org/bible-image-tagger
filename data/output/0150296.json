@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Patriarch of Venice",
+      "type": "PERSON"
+    },
+    {
+      "name": "Venetian clergy and nobles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Venetian citizens",
+      "type": "GROUP"
+    },
+    {
+      "name": "Gondoliers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Miracle of the Relic of the True Cross at the Rialto Bridge",
+  "tags": [
+    "true-cross",
+    "relic",
+    "miracle",
+    "venice",
+    "rialto-bridge",
+    "grand-canal",
+    "gondolas",
+    "procession",
+    "venetian-architecture",
+    "crowd",
+    "clergy",
+    "red-robes",
+    "balcony",
+    "canal",
+    "healing-miracle"
+  ],
+  "symbols": [
+    "relic of the True Cross — the instrument of Christ's Passion venerated as a channel of divine power",
+    "Grand Canal and Rialto Bridge — Venice as a site of divine intervention in civic life",
+    "clergy on the balcony — the Church mediating sacred power to the faithful",
+    "large crowd — the communal faith of the Venetian republic witnessing the miraculous"
+  ],
+  "description": "A densely populated scene of Venice showing the Grand Canal with the old wooden Rialto Bridge at center-right. On the left, a multi-story building with a covered balcony or loggia holds a group of clergy and dignitaries in white and ornate vestments. Below and around the canal, hundreds of figures crowd the banks — many in red robes, others in various colored garments. Gondolas and boats fill the canal with figures standing and gesturing. The Venetian skyline with its distinctive chimneys and architecture fills the background under a pale sky.",
+  "theological_description": "Carpaccio's painting depicts one of the miracles attributed to the relic of the True Cross owned by the Scuola Grande di San Giovanni Evangelista in Venice. While not a direct biblical narrative, the scene connects to the deep theological tradition surrounding the cross of Christ. The True Cross — the actual wood on which Jesus was crucified — was the supreme relic of Christendom, believed to be a conduit of divine healing power. This connects to the biblical witness that 'by his wounds we are healed' (Isaiah 53:5) and Paul's declaration that 'the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God' (1 Corinthians 1:18). The public, civic nature of the miracle — witnessed by clergy, nobles, and commoners alike — reflects the medieval understanding that sacred power operated visibly in the material world. The healing miracle attributed to the relic echoes the healings performed through objects associated with the apostles in Acts, such as Paul's handkerchiefs healing the sick (Acts 19:11-12) and Peter's shadow bringing healing (Acts 5:15).",
+  "scripture_refs": [
+    {
+      "ref": "1CO.1.18",
+      "relevance": "primary",
+      "reason": "The power of the cross — the theological foundation for veneration of the True Cross relic"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "Healing through Christ's wounds — the belief that the cross itself channels healing power"
+    },
+    {
+      "ref": "ACT.19.11-12",
+      "relevance": "allusion",
+      "reason": "God performing miracles through material objects associated with the apostles parallels relics of the cross"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Paul's boast in the cross of Christ — the cross as the central symbol of Christian faith on public display"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "festive",
+    "crowded",
+    "miraculous",
+    "civic"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150296",
+    "title": "The Miracle of the Relic of the True Cross on the Rialto Bridge",
+    "artist": "Vittore Carpaccio",
+    "model": "claude-opus-4-6"
+  }
+}

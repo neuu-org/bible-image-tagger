@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {"name": "Salome", "type": "PERSON"},
+    {"name": "Musicians", "type": "GROUP"}
+  ],
+  "event": "Salome dancing",
+  "tags": [
+    "salome",
+    "dance",
+    "oriental-setting",
+    "colorful-costume",
+    "jeweled-headdress",
+    "palace-interior",
+    "musicians",
+    "ornate-columns",
+    "mosaic-floor",
+    "sensual-dance",
+    "chandelier",
+    "veils"
+  ],
+  "symbols": [
+    "Salome's seductive dance — the power of sensuality to manipulate political authority",
+    "ornate palace — the decadent court of Herod Antipas",
+    "musicians — the festive atmosphere concealing the deadly request to come"
+  ],
+  "description": "A richly colored scene of a woman (Salome) dancing in an ornate palace interior. She wears an elaborate costume of pink, green, and gold with flowing veils and a jeweled headdress with feathers. Her body is in dynamic motion, arms raised, one leg lifted. She dances on a geometric mosaic floor. Behind her at right, musicians sit playing instruments. Large ornamental columns frame the scene. A chandelier hangs above. The palette is saturated and vibrant — pinks, greens, blues, golds, and deep reds. The atmosphere is exotic and theatrical.",
+  "theological_description": "Salome's dance before Herod Antipas is recorded in Matthew 14:6-11 and Mark 6:21-28. At Herod's birthday banquet, the daughter of Herodias danced and pleased Herod so much that he rashly promised her whatever she wished. Prompted by her mother Herodias, who harbored a grudge against John the Baptist for condemning her unlawful marriage to Herod (Mark 6:17-18), Salome requested the head of John the Baptist on a platter. Though Herod was distressed, 'because of his oaths and his dinner guests, he did not want to refuse her' (Mark 6:26). The dance that leads to the execution of the greatest prophet (Matthew 11:11) embodies the lethal intersection of sensuality, political vanity, and vengeful spite. John had spoken truth to power — 'It is not lawful for you to have your brother's wife' (Mark 6:18) — and paid with his life. Jesus later identified John as the Elijah who was to come (Matthew 11:14), making his martyrdom a prefiguration of Christ's own death at the hands of cowardly political authority.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.21-28",
+      "relevance": "primary",
+      "reason": "The daughter of Herodias danced and pleased Herod, leading to John's beheading"
+    },
+    {
+      "ref": "MAT.14.6-11",
+      "relevance": "primary",
+      "reason": "Matthew's account of Salome's dance and the execution of John the Baptist"
+    },
+    {
+      "ref": "MRK.6.17-18",
+      "relevance": "primary",
+      "reason": "John had told Herod it was unlawful to have his brother's wife — the reason for Herodias's grudge"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Among those born of women there has not risen anyone greater than John — the prophet killed through this dance"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["sensual", "opulent", "ominous", "theatrical"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170932",
+    "title": "Salom\u00e9",
+    "artist": "Rupert Bunny",
+    "model": "claude-opus-4-6"
+  }
+}

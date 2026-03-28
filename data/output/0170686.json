@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Bishop Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with Angels and a Bishop Saint",
+  "tags": [
+    "madonna-and-child",
+    "halo",
+    "bishop",
+    "mitre",
+    "angels",
+    "blue-robe",
+    "green-mantle",
+    "arched-frame",
+    "mosaic-border",
+    "gold-background"
+  ],
+  "symbols": [
+    "Mary standing with the Child — the Theotokos presenting God incarnate to the world",
+    "bishop kneeling or praying — the Church's leadership in adoration of Christ",
+    "angels attending — the heavenly court honoring the incarnate God",
+    "gold background — the glory of heaven"
+  ],
+  "description": "An arched fresco with a decorative mosaic border. The Virgin Mary stands at center in a blue robe and green mantle, with a golden halo, holding or standing beside the Christ Child who stands on a surface at her right. The child has a small halo. To the right, a bishop saint in liturgical vestments and a tall mitre kneels or stands with hands raised in prayer or adoration. Angels are visible in the upper portions. The fresco shows signs of age and wear, with faded areas and losses. The background retains traces of gold. The overall composition is formal and devotional.",
+  "theological_description": "This cathedral fresco by Gentile da Fabriano presents the Madonna and Child in a formal devotional arrangement with a bishop saint, visualizing the Church's relationship to Christ through Mary. The standing Virgin with the Christ Child embodies the Incarnation — 'The Word became flesh' (John 1:14). The bishop kneeling in adoration represents the teaching authority of the Church offering worship to its Lord. The angels attending the scene recall Hebrews 1:6: 'Let all God's angels worship him.' Mary's central position reflects her role as Theotokos and the one through whom God entered human history, as Elizabeth proclaimed: 'Blessed are you among women, and blessed is the fruit of your womb' (Luke 1:42). The cathedral setting of the fresco itself makes the theological point that every church building is oriented toward the reality this image depicts: God present among his people.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation depicted in the Christ Child with Mary"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Blessed are you among women — Mary's exalted status as Mother of God"
+    },
+    {
+      "ref": "HEB.1.6",
+      "relevance": "allusion",
+      "reason": "Let all God's angels worship him — the angelic adoration of Christ"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "formal",
+    "ancient",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170686",
+    "title": "Madonna and Child with Angels",
+    "artist": "Gentile da Fabriano",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "King Edwin of Northumbria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bishop Paulinus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and courtiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Baptism of King Edwin of Northumbria",
+  "tags": [
+    "baptism",
+    "king-edwin",
+    "northumbria",
+    "paulinus",
+    "font",
+    "anglo-saxon",
+    "conversion",
+    "royal-baptism",
+    "bishop",
+    "golden-robe",
+    "cross",
+    "incense",
+    "historical-event",
+    "christianization",
+    "court-scene"
+  ],
+  "symbols": [
+    "baptismal font — the sacrament of entry into the Christian faith",
+    "bishop in white — the Church's ministry of bringing the Gospel to new peoples",
+    "king in royal garments — the conversion of rulers bringing entire nations to faith",
+    "incense bearer — the liturgical worship accompanying the sacred rite"
+  ],
+  "description": "A wide frieze-like composition with text reading 'THE BAPTISM OF EDWIN' across the top. At center-left, a figure in white (the bishop) stands beside a rectangular stone font, gesturing toward a tall figure in ornate golden-patterned robes (the king). A young altar server carries a censer. To the right, women and children observe, including a woman in a blue veil. At the far left, robed courtiers or clergy watch. The scene takes place in an interior with arched windows. The style has the quality of a Pre-Raphaelite historical cartoon.",
+  "theological_description": "Ford Madox Brown's painting depicts the baptism of Edwin, King of Northumbria, by Bishop Paulinus in 627 AD — a pivotal moment in the Christianization of England. Edwin's conversion followed the pattern established in Acts when entire households came to faith: 'Believe in the Lord Jesus, and you will be saved — you and your household' (Acts 16:31). The baptismal scene fulfills Christ's Great Commission: 'Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit' (Matthew 28:19). The Venerable Bede records that Paulinus's preaching and the king's conversion led to mass baptisms throughout Northumbria. This historical event connects to the broader biblical narrative of God calling rulers to faith — from Nebuchadnezzar's acknowledgment of God (Daniel 4:34-37) to the Ethiopian eunuch's baptism by Philip (Acts 8:36-38). The baptism of a king carries special theological weight: it demonstrates that all earthly authority is subject to the authority of Christ, before whom 'every knee should bow' (Philippians 2:10).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.19",
+      "relevance": "primary",
+      "reason": "The Great Commission to baptize all nations — fulfilled in the evangelization of Anglo-Saxon England"
+    },
+    {
+      "ref": "ACT.16.31",
+      "relevance": "typological",
+      "reason": "Household conversion — a king's baptism bringing an entire kingdom to faith"
+    },
+    {
+      "ref": "ACT.8.36-38",
+      "relevance": "allusion",
+      "reason": "The pattern of instruction followed by baptism — Paulinus teaching Edwin before baptizing him"
+    },
+    {
+      "ref": "PHP.2.10",
+      "relevance": "allusion",
+      "reason": "Every knee bowing — the king of Northumbria submitting to Christ in baptism"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ceremonial",
+    "solemn",
+    "historic"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150972",
+    "title": "Cartoon for the Baptism of Edwin (c.585-633) King of Northumbria and Deira",
+    "artist": "Ford Madox Brown",
+    "model": "claude-opus-4-6"
+  }
+}

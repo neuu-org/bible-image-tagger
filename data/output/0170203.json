@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman Soldiers", "type": "GROUP"},
+    {"name": "Onlookers", "type": "GROUP"}
+  ],
+  "event": "Christ being nailed to the Cross",
+  "tags": [
+    "nailing-to-the-cross",
+    "crucifixion-preparation",
+    "christ-on-the-ground",
+    "roman-soldiers",
+    "hammer-and-nails",
+    "blue-garment-discarded",
+    "calvary",
+    "suffering",
+    "stretched-on-cross",
+    "executioners",
+    "digging-hole",
+    "passion-of-christ"
+  ],
+  "symbols": [
+    "Christ stretched on the cross beam — the sacrificial Lamb laid upon the altar of wood",
+    "nails and hammer — the instruments of the Passion, human violence serving divine purpose",
+    "discarded blue garment — the stripping of dignity, fulfilling the prophecy of divided garments",
+    "soldiers laboring to erect the cross — the world's unwitting participation in God's salvific plan",
+    "hole being dug — preparation for the cross to be raised, the earth receiving the tree of redemption"
+  ],
+  "description": "A horizontal composition showing Christ lying on the ground upon the wooden cross beam, his arms outstretched. A soldier at the lower right hammers a nail through his wrist or hand, while another figure at left holds tools. Additional workers dig a hole in the ground to receive the base of the cross. Christ's face is turned with an expression of agony. A crumpled blue garment lies on the ground beside him. Several onlookers stand around the edges — some in armor, others in colorful robes. In the background, additional figures and a distant landscape are visible under a blue sky.",
+  "theological_description": "Gerard David depicts the harrowing moment when Christ is nailed to the cross before it is raised — a detail not explicitly narrated in the Gospels but understood from the accounts of crucifixion (Matthew 27:35, Mark 15:24, Luke 23:33, John 19:18). The scene makes viscerally present what the Gospel accounts state with restrained brevity: 'There they crucified him.' The nailing fulfills Psalm 22:16: 'They pierced my hands and my feet,' the messianic psalm that Jesus himself quoted from the cross. Christ's prone position on the ground, helpless beneath the hammer, visualizes the ultimate depth of the kenosis described in Philippians 2:8 — 'he humbled himself by becoming obedient to death, even death on a cross.' The discarded blue garment corresponds to John 19:23-24, where the soldiers divided his clothes and cast lots for his seamless tunic, fulfilling Psalm 22:18. The soldiers who labor to nail and erect the cross are, theologically, instruments of a divine plan they cannot comprehend — as Peter would later preach: 'This man was handed over to you by God's deliberate plan and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross' (Acts 2:23). The ground being dug to receive the cross transforms Calvary's hilltop into the place where the tree of death becomes the tree of life.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.33",
+      "relevance": "primary",
+      "reason": "When they came to the place called the Skull, they crucified him there — the event depicted"
+    },
+    {
+      "ref": "PSA.22.16",
+      "relevance": "primary",
+      "reason": "They pierced my hands and my feet — the nailing of Christ to the cross fulfills this psalm"
+    },
+    {
+      "ref": "JHN.19.23-24",
+      "relevance": "primary",
+      "reason": "The soldiers took his clothes and divided them — the discarded garment on the ground"
+    },
+    {
+      "ref": "PHP.2.8",
+      "relevance": "typological",
+      "reason": "He humbled himself to death on a cross — the ultimate self-emptying made visible in Christ's prostrate form"
+    },
+    {
+      "ref": "ACT.2.23",
+      "relevance": "allusion",
+      "reason": "Handed over by God's deliberate plan, put to death by nailing to the cross — the soldiers as unwitting agents of divine purpose"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["brutal", "anguished", "solemn", "unflinching"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170203",
+    "title": "\u0425\u0440\u0438\u0441\u0442\u043e\u0441 \u0440\u043e\u0437\u0456\u043f'\u044f\u0442\u0438\u0439 \u043d\u0430 \u0445\u0440\u0435\u0441\u0442\u0456",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

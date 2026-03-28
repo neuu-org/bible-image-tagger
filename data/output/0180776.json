@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Newborn Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Newborn (Saint Anne and the Virgin in Linen)",
+  "tags": [
+    "newborn",
+    "saint-anne",
+    "infant-mary",
+    "candlelight",
+    "swaddled-baby",
+    "mother-and-child",
+    "nocturnal-scene",
+    "single-candle",
+    "headscarf",
+    "tender-gaze",
+    "intimate-scene",
+    "warm-light",
+    "dark-background"
+  ],
+  "symbols": [
+    "single candle illuminating the scene — the light of faith in a dark world, the newborn as a beacon of hope",
+    "swaddled infant — the vulnerability and preciousness of new life, particularly the life that will bear the Savior",
+    "mother gazing down tenderly — maternal love and the careful nurture of the one chosen by God",
+    "darkness surrounding the candle — the darkness into which the light of salvation enters"
+  ],
+  "description": "A nocturnal scene lit by a single candle, depicting a woman in a dark dress and decorative headscarf looking down at a tightly swaddled newborn infant she holds in her arms. The candle, held between the woman and the child, casts a warm, golden light on both faces, leaving the rest of the composition in deep shadow. The woman's expression is one of quiet wonder and tenderness. The infant's face is peaceful, eyes closed. The lighting creates a powerful chiaroscuro effect, with only the faces, the woman's hands, and the candle flame visible against the surrounding darkness.",
+  "theological_description": "This intimate candlelit scene, traditionally identified as Saint Anne with the newborn Virgin Mary, transforms a humble domestic moment into a meditation on the hidden beginnings of salvation. The birth of Mary — the one who will be greeted as 'full of grace' (Luke 1:28) and who will bear the Son of God — begins here in obscurity, illuminated only by a single candle. The theological resonance is profound: just as the light of this one candle pushes back the surrounding darkness, so the birth of Mary initiates the chain of events that will bring 'the light that shines in the darkness, and the darkness has not overcome it' (John 1:5). The candle between mother and child becomes a visual metaphor for the transmission of faith from generation to generation, fulfilling the vision of Simeon who would later call the child Mary bears 'a light for revelation to the Gentiles, and for glory to your people Israel' (Luke 2:32). Georges de La Tour's signature use of candlelight — reducing the visible world to a tiny sphere of warmth amid vast darkness — captures the theological reality that God's greatest works begin in the smallest, most hidden places. The swaddled infant echoes the prophecy of Isaiah 9:2: 'The people who walked in darkness have seen a great light.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "The newborn who will become the one greeted as full of grace by Gabriel"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "typological",
+      "reason": "The light shining in the darkness, visually embodied by the single candle illuminating the scene"
+    },
+    {
+      "ref": "LUK.2.32",
+      "relevance": "typological",
+      "reason": "A light for revelation to the Gentiles — the child Mary will bear, foreshadowed by this candle over Mary's own birth"
+    },
+    {
+      "ref": "ISA.9.2",
+      "relevance": "allusion",
+      "reason": "The people in darkness seeing a great light — the single flame in the darkness anticipates messianic illumination"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intimate",
+    "tender",
+    "luminous",
+    "hushed"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0180776",
+    "title": "The Newborn, also called St. Anne and the Virgin in Linen",
+    "artist": "Georges de la Tour",
+    "model": "claude-opus-4-6"
+  }
+}

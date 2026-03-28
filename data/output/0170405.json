@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Matthew",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Matthew the Apostle",
+  "tags": [
+    "saint-matthew",
+    "apostle",
+    "halberd",
+    "green-mantle",
+    "half-length-portrait",
+    "bearded-man",
+    "martyrs-attribute",
+    "dark-background",
+    "muscular-figure"
+  ],
+  "symbols": [
+    "halberd or axe — the instrument of Matthew's martyrdom, his willingness to die for the faith",
+    "green mantle — life and apostolic mission",
+    "upward gaze — the apostle looking toward heaven, the source of his calling"
+  ],
+  "description": "A half-length portrait of a muscular, bearded man viewed from a slightly low angle. He wears a dark green mantle draped over one shoulder, leaving part of his chest bare. He holds a halberd or large axe-like weapon vertically with his right hand — his martyrdom attribute. His head is turned to the right, looking slightly upward with an intense, contemplative expression. His curly dark hair frames a strong-featured face. The background is dark and plain, focusing attention entirely on the figure.",
+  "theological_description": "Saint Matthew (also called Levi), one of the twelve apostles, was a tax collector whom Jesus called with the simple words 'Follow me' (Matthew 9:9). His immediate response — he 'got up and followed him' — became the model of radical discipleship. Matthew is credited with authoring the first Gospel, which presents Jesus as the fulfillment of the Old Testament promises to Israel. The halberd he holds refers to the tradition of his martyrdom — the instrument by which he gave his life for the faith he had proclaimed. His story embodies the transformative power of Christ's call: a despised tax collector (Matthew 10:3) became an evangelist whose Gospel would shape Christian faith for millennia. As Jesus told the Pharisees who questioned his association with such sinners: 'It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners' (Mark 2:17).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.9.9",
+      "relevance": "primary",
+      "reason": "Jesus saw Matthew at the tax booth and said 'Follow me,' and he got up and followed — his calling"
+    },
+    {
+      "ref": "MAT.10.2-4",
+      "relevance": "primary",
+      "reason": "Matthew listed among the twelve apostles chosen by Jesus"
+    },
+    {
+      "ref": "MRK.2.14-17",
+      "relevance": "primary",
+      "reason": "The calling of Levi and Jesus's defense of eating with sinners — Matthew's transformative encounter"
+    },
+    {
+      "ref": "REV.21.14",
+      "relevance": "allusion",
+      "reason": "The twelve foundations of the heavenly Jerusalem inscribed with the names of the twelve apostles"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intense",
+    "dignified",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170405",
+    "title": "Saint Matthew the Apostle",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "name": "Saint Cosmas",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Cosmas",
+  "tags": [
+    "saint-cosmas",
+    "physician-saint",
+    "halo",
+    "red-cap",
+    "gold-background",
+    "profile-portrait",
+    "early-christian-martyr",
+    "medical-saints"
+  ],
+  "symbols": [
+    "ornate golden halo — sanctity and divine favor upon the holy healer",
+    "red cap and hood — the physician's attire, identifying Cosmas as one of the healing saints",
+    "gold background — the light of eternity, the heavenly realm where the saints dwell"
+  ],
+  "description": "A profile portrait of a young clean-shaven man facing right, shown from the shoulders up. He wears a distinctive red hooded cap or coif over a blue-and-white patterned head covering. Behind his head is an elaborate golden halo with decorative punched patterns radiating outward. The background is a warm gold. The rendering is delicate and precise, with soft modeling of the face.",
+  "theological_description": "Saint Cosmas, together with his twin brother Damian, belongs to the group known as the Anargyroi — 'the unmercenary ones' — physicians who healed without accepting payment, following Christ's command: 'Freely you have received; freely give' (Matthew 10:8). Their lives of gratuitous healing enacted the ministry of Jesus himself, who 'went about doing good and healing all who were oppressed by the devil' (Acts 10:38). Martyred during the Diocletian persecution (c. 303 AD), they became patron saints of physicians and surgeons. Their witness embodies James's teaching that 'faith without works is dead' (James 2:26) — their medical skill was exercised as an expression of Christian love, making the healing ministry of Christ tangible in the world.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.8",
+      "relevance": "primary",
+      "reason": "Freely you have received, freely give — the basis for Cosmas and Damian's unmercenary healing"
+    },
+    {
+      "ref": "ACT.10.38",
+      "relevance": "typological",
+      "reason": "Jesus went about doing good and healing all — the model for the physician saints"
+    },
+    {
+      "ref": "JAS.2.26",
+      "relevance": "allusion",
+      "reason": "Faith without works is dead — Cosmas embodied faith through healing action"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "reverent",
+    "gentle"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160260",
+    "title": "Saint Cosmas",
+    "artist": "\u00c1lvaro Pires de \u00c9vora",
+    "model": "claude-opus-4-6"
+  }
+}

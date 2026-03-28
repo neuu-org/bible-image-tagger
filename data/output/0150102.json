@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Visitation of Mary to Elizabeth",
+  "tags": [
+    "visitation",
+    "virgin-mary",
+    "elizabeth",
+    "gold-halos",
+    "blue-mantle",
+    "green-robe",
+    "rocky-landscape",
+    "meeting",
+    "embrace",
+    "pregnancy",
+    "medieval-painting",
+    "hill-country",
+    "magnificat"
+  ],
+  "symbols": [
+    "gold halos — the sanctity of both women chosen for divine purposes",
+    "Mary's deep blue mantle — her purity and heavenly calling as Theotokos",
+    "Elizabeth's green and red garments — life, fertility, and the fulfillment of long-awaited promise",
+    "rocky mountainous landscape — the hill country of Judea where Elizabeth lived",
+    "outstretched hands meeting — the encounter between the Old and New Covenants"
+  ],
+  "description": "A tall, narrow panel depicting two women meeting against a backdrop of barren, rocky cliffs. The younger woman at left wears a deep blue mantle over a dark dress, her hands extended in greeting. She has a gold halo. The older woman at right, also haloed, wears a green mantle over a red gown with a white head covering. She reaches toward the younger woman. Both figures stand in a narrow space between towering rock formations, with sparse vegetation visible above.",
+  "theological_description": "This panel from the Altar of Philip the Bold depicts the Visitation — the momentous meeting between Mary, newly pregnant with Jesus, and her elderly cousin Elizabeth, pregnant with John the Baptist (Luke 1:39-56). When Mary arrived in the hill country of Judea and greeted Elizabeth, the baby in Elizabeth's womb leaped for joy, and Elizabeth was filled with the Holy Spirit. She proclaimed the first Marian blessing: 'Blessed are you among women, and blessed is the fruit of your womb!' (Luke 1:42). This is a meeting of two miraculous pregnancies — one virginal, one in old age — both testifying to the truth that 'nothing is impossible with God' (Luke 1:37). The encounter between the two unborn children is profoundly theological: John, the last and greatest prophet of the Old Covenant, recognizes and leaps before Jesus, the inaugurator of the New Covenant, while both are still in the womb. Elizabeth's Spirit-filled recognition of Mary as 'the mother of my Lord' (Luke 1:43) is one of the earliest confessions of Christ's divine identity. Mary responds with the Magnificat (Luke 1:46-55), the great canticle that echoes Hannah's song (1 Samuel 2:1-10) and proclaims God's revolutionary justice: scattering the proud, lifting the humble, filling the hungry, and remembering His mercy to Abraham's descendants forever.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The direct narrative of Mary's visit to Elizabeth in the hill country and Elizabeth's Spirit-filled greeting"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat — Mary's song of praise spoken during this visit"
+    },
+    {
+      "ref": "LUK.1.36-37",
+      "relevance": "primary",
+      "reason": "The angel's announcement to Mary that Elizabeth has conceived in old age, prompting the visit"
+    },
+    {
+      "ref": "1SA.2.1-10",
+      "relevance": "typological",
+      "reason": "Hannah's song of praise prefigures the Magnificat that Mary speaks at this encounter"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "reverent",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150102",
+    "title": "The Visitation (from Altar of Philip the Bold)",
+    "artist": "Melchior Broederlam",
+    "model": "claude-opus-4-6"
+  }
+}

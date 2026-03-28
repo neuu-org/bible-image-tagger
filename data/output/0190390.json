@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus or Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Kneeling saint",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bishop or prophet figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Pieta — The Dead Christ supported by the Virgin and Saints",
+  "tags": [
+    "pieta",
+    "dead-christ",
+    "lamentation",
+    "virgin-mary",
+    "st-john",
+    "sarcophagus",
+    "lunette-panel",
+    "gold-background",
+    "halos",
+    "passion"
+  ],
+  "symbols": [
+    "dead Christ standing in the sarcophagus — the Man of Sorrows, death endured but not final",
+    "Mary embracing her son — the mother's grief, fulfilling Simeon's prophecy that a sword would pierce her heart",
+    "sarcophagus as altar — the body of Christ offered upon the altar of sacrifice",
+    "saints flanking the scene — the Church bearing witness to the redemptive Passion"
+  ],
+  "description": "A lunette-shaped panel painting with a decorative gold-patterned background showing the dead Christ standing upright in a stone sarcophagus, supported by the Virgin Mary in dark robes who embraces Him from the left and St. John the Evangelist in blue who supports Him from the right. Christ's head is bowed, eyes closed, with wounds visible. A tall cross or staff rises behind the sarcophagus. Two additional figures flank the central group at the edges: a kneeling figure on the far left and a robed figure (possibly a bishop or Old Testament prophet) on the far right in dark green vestments.",
+  "theological_description": "This Pieta by Gentile Bellini presents the 'Imago Pietatis' — the devotional image of the dead Christ supported by mourners — a subject that combines narrative from the Passion with liturgical meditation on the Eucharist. The dead Christ standing in a sarcophagus that resembles an altar evokes the theological truth that the body broken on Calvary is the same body offered in the Eucharist. Mary's intimate embrace of her dead son fulfills Simeon's prophecy in Luke 2:35 that a sword would pierce her own soul. John the Evangelist's presence recalls Jesus's words from the cross in John 19:26-27, entrusting Mary to John's care. The image meditates on the mystery of Isaiah 53:5: 'He was pierced for our transgressions, crushed for our iniquities; the punishment that brought us peace was upon Him.' The flanking figures — likely donor-patron saints — represent the Church across time, united in contemplation of the Passion that redeemed the world. The gold background affirms that even in death, Christ remains surrounded by divine glory.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.53.5",
+      "relevance": "primary",
+      "reason": "Christ pierced for transgressions — the theological meaning of the wounds visible on the dead body"
+    },
+    {
+      "ref": "JHN.19.26-27",
+      "relevance": "primary",
+      "reason": "Jesus entrusting Mary to John at the cross — both figures support His body in this Pieta"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul, fulfilled in her grief over her dead son"
+    },
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "The burial of Jesus, the moment between death and resurrection depicted here"
+    },
+    {
+      "ref": "1CO.11.26",
+      "relevance": "allusion",
+      "reason": "The sarcophagus-as-altar connects the Passion to the Eucharistic proclamation of the Lord's death"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "grief",
+    "solemn",
+    "devotional",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190390",
+    "title": "Pietà",
+    "artist": "Gentile Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

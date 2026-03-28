@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome Writing in His Study",
+  "tags": [
+    "saint-jerome",
+    "church-father",
+    "writing",
+    "scholar",
+    "red-robe",
+    "books",
+    "desk",
+    "quill-pen",
+    "bald-head",
+    "beard",
+    "lion",
+    "dark-interior",
+    "scripture-translation",
+    "contemplation"
+  ],
+  "symbols": [
+    "open books and writing implements — Jerome's monumental work of translating the Bible into Latin (the Vulgate)",
+    "red cardinal's robe — his status as a Doctor of the Church (an anachronistic but traditional attribute)",
+    "lion resting at his feet — the legendary lion from whose paw Jerome removed a thorn, symbolizing tamed ferocity through holiness",
+    "dark interior — the ascetic solitude of the scholar devoted to sacred study",
+    "pen in hand — the transmission of God's Word to future generations"
+  ],
+  "description": "A tall, narrow composition depicting an elderly bald man with a long beard, wearing a voluminous red robe over dark garments. He sits at a wooden desk, hunched forward in concentration, writing with a pen in his right hand while his left steadies an open book. Several other books lie on the desk. The background is very dark, focusing all attention on the illuminated figure. At the bottom of the painting, a lion rests at the scholar's feet, partially visible in the shadows.",
+  "theological_description": "This portrait of Saint Jerome (c. 347-420) depicts the great Church Father in his most iconic activity: the translation and study of Sacred Scripture. Jerome's supreme achievement was the Vulgate — the Latin translation of the Bible from Hebrew and Greek originals — which became the standard text of Western Christianity for over a millennium. His devotion to the original languages of Scripture embodied the conviction that 'ignorance of the Scriptures is ignorance of Christ,' as he famously wrote in his Commentary on Isaiah. The image of Jerome writing connects to the broader biblical theme of the transmission of God's Word. As the psalmist declared, 'Your word is a lamp for my feet, a light on my path' (Psalm 119:105), and Jerome dedicated his life to ensuring that lamp would shine in the language of the Western world. His ascetic, solitary posture recalls the prophetic tradition of those set apart for God's purposes — Jeremiah called before birth (Jeremiah 1:5), Paul sequestered in Arabia (Galatians 1:17). The lion at his feet, from the medieval legend, serves as a symbol of the wildness of the world tamed by holiness, echoing Isaiah's vision of the peaceable kingdom where the lion lies down with the lamb (Isaiah 11:6-7). Jerome's work fulfilled the Great Commission's mandate to bring the Gospel to all nations (Matthew 28:19-20) by making Scripture accessible to the Latin-speaking world.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "Jerome's lifework of translating Scripture embodies the psalm's celebration of God's Word as a guiding light"
+    },
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "allusion",
+      "reason": "The doctrine that all Scripture is God-breathed and useful for instruction undergirds Jerome's devotion to accurate translation"
+    },
+    {
+      "ref": "ISA.11.6-7",
+      "relevance": "typological",
+      "reason": "The lion resting peacefully at Jerome's feet echoes the peaceable kingdom prophecy"
+    },
+    {
+      "ref": "MAT.28.19-20",
+      "relevance": "allusion",
+      "reason": "Jerome's translation work served the Great Commission by making Scripture accessible to the Latin-speaking world"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "austere",
+    "studious"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150079",
+    "title": "San Jerónimo",
+    "artist": "Francesco Ribalta",
+    "model": "claude-opus-4-6"
+  }
+}

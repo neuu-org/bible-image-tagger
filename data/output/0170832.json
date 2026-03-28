@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {"name": "Pharaoh", "type": "PERSON"},
+    {"name": "Moses", "type": "PERSON"},
+    {"name": "Israelites", "type": "GROUP"},
+    {"name": "Egyptians", "type": "GROUP"}
+  ],
+  "event": "Pharaoh ordering the Israelites to leave Egypt",
+  "tags": [
+    "exodus",
+    "pharaoh",
+    "moses",
+    "egyptian-palace",
+    "hieroglyphics",
+    "israelites-departing",
+    "egyptian-columns",
+    "cattle",
+    "ancient-egypt",
+    "palace-interior",
+    "watercolor-sketch",
+    "liberation"
+  ],
+  "symbols": [
+    "Pharaoh gesturing toward the exit — the reluctant release of God's people after the plagues",
+    "Moses standing before Pharaoh — the prophet who confronted worldly power with divine authority",
+    "Israelites with their possessions — the people finally freed from bondage",
+    "Egyptian temple architecture — the power structure that held Israel captive"
+  ],
+  "description": "A watercolor sketch showing the interior of an Egyptian palace or temple with massive columns decorated with hieroglyphics and painted relief carvings. At center, two prominent figures appear to be in conversation — one in Egyptian royal attire (Pharaoh), another in simpler robes (Moses). Around them, groups of people in white garments mill about with cattle, possessions, and bundles, preparing to depart. The scene is rendered in muted blue, grey, brown, and white tones with loose, sketchy brushwork. Elaborate Egyptian wall paintings and architectural details frame the scene.",
+  "theological_description": "Ivanov depicts the momentous scene from Exodus 12:31-33, when Pharaoh, after the devastating tenth plague (the death of the firstborn), summoned Moses and Aaron during the night and said: 'Up! Leave my people, you and the Israelites! Go, worship the LORD as you have requested. Take your flocks and herds... and go.' The Egyptians urged the people to hurry and leave, 'for we shall all be dead.' This moment is the culmination of God's mighty acts of liberation — the ten plagues that demonstrated his sovereignty over Egypt's gods and Pharaoh's pride. God had declared to Moses at the burning bush: 'I have indeed seen the misery of my people in Egypt... I have come down to rescue them' (Exodus 3:7-8). The Exodus becomes the foundational salvation event of the Old Testament, commemorated annually in Passover (Exodus 12:14) and invoked throughout Scripture as the paradigm of divine deliverance. In the New Testament, Christ's death and resurrection are understood as the new Exodus — liberation from the bondage of sin and death (Luke 9:31, where Jesus's death is literally called his 'exodus').",
+  "scripture_refs": [
+    {
+      "ref": "EXO.12.31-33",
+      "relevance": "primary",
+      "reason": "Pharaoh summoning Moses at night and commanding the Israelites to leave Egypt"
+    },
+    {
+      "ref": "EXO.3.7-8",
+      "relevance": "primary",
+      "reason": "God's original promise to rescue his people from Egypt — now fulfilled"
+    },
+    {
+      "ref": "EXO.12.14",
+      "relevance": "typological",
+      "reason": "The Passover as an annual commemoration of this deliverance"
+    },
+    {
+      "ref": "LUK.9.31",
+      "relevance": "allusion",
+      "reason": "Jesus's death described as his 'exodus' — the new Exodus in Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["momentous", "urgent", "liberating"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0170832",
+    "title": "Pharaoh asked Moses to bring jewish people out of Egypt",
+    "artist": "Alexander Ivanov",
+    "model": "claude-opus-4-6"
+  }
+}

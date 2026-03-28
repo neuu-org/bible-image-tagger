@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Jesus Christ (Crucified)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Bishop Saint",
+      "type": "PERSON"
+    },
+    {
+      "name": "Dominican Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Throne of Grace (Trinity with Crucifixion) flanked by Saints",
+  "tags": [
+    "throne-of-grace",
+    "trinity",
+    "crucifixion",
+    "god-the-father",
+    "crucifix",
+    "gold-background",
+    "bishop-mitre",
+    "crozier",
+    "dominican-habit",
+    "open-book",
+    "red-cope",
+    "arched-panel",
+    "halo"
+  ],
+  "symbols": [
+    "God the Father holding the crucified Christ — the Throne of Grace (Gnadenstuhl) image of the Trinity, showing the Father presenting the sacrifice of the Son",
+    "crucified Christ — the redemptive sacrifice at the heart of Christian faith",
+    "bishop with mitre and crozier — ecclesiastical authority and apostolic succession affirming the truth of the Trinity",
+    "Dominican friar with open book — the preaching order devoted to doctrinal truth and the study of Scripture",
+    "gold background — the divine light and heavenly realm"
+  ],
+  "description": "A lunette (semi-circular arched panel) with a gold background. At center, a bearded figure in dark robes sits on a throne and holds before him a crucifix bearing the body of Christ with a halo. This central group represents the Throne of Grace or Gnadenstuhl Trinity composition. On the left stands a bearded bishop in a red cope and white mitre, holding a crozier in one hand and raising the other. On the right stands a tonsured figure in a black Dominican habit, holding an open book. All figures have halos.",
+  "theological_description": "This lunette presents the Throne of Grace (Gnadenstuhl), one of the most important iconographic formulas for the Trinity in Western art. God the Father, enthroned and majestic, holds before him the crucified Son, visually enacting the heart of the Gospel: 'For God so loved the world, that he gave his only Son' (John 3:16). The image makes visible the otherwise invisible mystery of the Father's active participation in the sacrifice of Calvary — it was the Father's will and love that sent the Son to the cross (Romans 8:32, 'He who did not spare his own Son but gave him up for us all'). The crucifix held by the Father is not merely a symbol but a theological statement: the cross is not tragedy inflicted upon God but sacrifice offered by God. The flanking saints — a bishop and a Dominican friar — represent the Church's teaching authority and intellectual tradition that safeguard and proclaim this Trinitarian mystery. Hebrews 4:16 provides the devotional heart of the image: 'Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need.' The throne is one of grace precisely because the Father holds forth the price of mercy — the broken body of his Son.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.3.16",
+      "relevance": "primary",
+      "reason": "God giving his only Son is the core theological statement made visible in the Father holding the crucified Christ"
+    },
+    {
+      "ref": "ROM.8.32",
+      "relevance": "primary",
+      "reason": "The Father who did not spare his own Son but gave him up for us all is directly depicted"
+    },
+    {
+      "ref": "HEB.4.16",
+      "relevance": "primary",
+      "reason": "The Throne of Grace from which mercy flows is the specific iconographic type of this image"
+    },
+    {
+      "ref": "2CO.5.19",
+      "relevance": "typological",
+      "reason": "God was in Christ reconciling the world to himself — the unity of Father and Son in the redemptive act"
+    },
+    {
+      "ref": "ISA.53.10",
+      "relevance": "allusion",
+      "reason": "It was the will of the Lord to crush him — the Father's sovereign purpose behind the Son's suffering"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "solemn",
+    "sacred",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180396",
+    "title": "Trittico della Nativita (detail)",
+    "artist": "Gentile Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

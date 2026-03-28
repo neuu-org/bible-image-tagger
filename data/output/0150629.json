@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "The Good Samaritan",
+      "type": "PERSON"
+    },
+    {
+      "name": "The wounded traveler",
+      "type": "PERSON"
+    },
+    {
+      "name": "The priest (in background)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Good Samaritan",
+  "tags": [
+    "good-samaritan",
+    "parable",
+    "wounded-man",
+    "tending-wounds",
+    "red-cloak",
+    "horse",
+    "dog",
+    "roadside",
+    "priest-passing-by",
+    "compassion",
+    "mercy",
+    "oil-and-wine",
+    "jericho-road",
+    "ornate-frame"
+  ],
+  "symbols": [
+    "Samaritan binding wounds — radical compassion crossing ethnic and religious boundaries",
+    "horse standing ready — the Samaritan's resources put at the service of the suffering",
+    "priest walking away in the background — religious duty without mercy, the Law without love",
+    "dog beside the wounded man — loyalty and faithfulness attending the scene of mercy",
+    "roadside setting — the dangerous Jericho road where violence and compassion intersect"
+  ],
+  "description": "A dramatic painting showing a man in a red cloak kneeling beside a half-naked wounded man, tending to his injuries. The Samaritan leans over the injured man, who is semi-reclined on the ground. A white horse with a red saddle cloth stands behind them at right. A small dog is visible near the wounded man. In the background at upper left, a robed figure (the priest) walks away on a path. The landscape includes rocky terrain and trees under a cloudy sky. Below the main scene, an ornate Baroque cartouche or decorative frame element is visible.",
+  "theological_description": "Hogarth depicts the Parable of the Good Samaritan (Luke 10:25-37) at the moment of merciful action. The Samaritan has dismounted and is tending to the wounds of the robbery victim — pouring oil and wine on his injuries and binding them (Luke 10:34). In the background, the priest who 'passed by on the other side' (Luke 10:31) is visible retreating — a devastating visual contrast between religious profession and actual compassion. Jesus told this parable to answer the question 'Who is my neighbor?' and shattered every ethnic, religious, and social barrier in the answer. The Samaritan — despised by Jews as a heretic and outsider — becomes the exemplar of God's love. Jesus's conclusion, 'Go and do likewise' (Luke 10:37), makes mercy the defining mark of discipleship. The early Church Fathers read the parable christologically: the wounded man is fallen humanity, the priest and Levite represent the inability of the Law to save, and the Samaritan is Christ himself — the despised one (Isaiah 53:3) who alone brings healing. The oil and wine poured on wounds were understood as the sacraments — baptism and Eucharist — through which Christ heals the human soul. James echoes this priority of mercy: 'Faith without deeds is dead' (James 2:26).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.10.30-37",
+      "relevance": "primary",
+      "reason": "The Parable of the Good Samaritan — the direct subject of the painting"
+    },
+    {
+      "ref": "LUK.10.33-34",
+      "relevance": "primary",
+      "reason": "The Samaritan having compassion, binding wounds, and pouring oil and wine — the specific moment shown"
+    },
+    {
+      "ref": "LUK.10.31",
+      "relevance": "primary",
+      "reason": "The priest passing by on the other side — visible in the background walking away"
+    },
+    {
+      "ref": "JAS.2.26",
+      "relevance": "allusion",
+      "reason": "Faith without deeds is dead — the Samaritan's actions versus the priest's empty religion"
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "typological",
+      "reason": "The despised one who brings salvation — the Samaritan as a type of Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "dramatic",
+    "urgent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150629",
+    "title": "The Good Samaritan",
+    "artist": "William Hogarth",
+    "model": "claude-opus-4-6"
+  }
+}

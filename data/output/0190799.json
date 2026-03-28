@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Holy Spirit (as dove)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Dominic",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels and saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Holy Trinity with the Madonna and St. Dominic in Glory",
+  "tags": [
+    "holy-trinity",
+    "virgin-mary",
+    "st-dominic",
+    "heavenly-glory",
+    "gilded-frame",
+    "angels",
+    "clouds",
+    "baroque-ceiling",
+    "divine-light"
+  ],
+  "symbols": [
+    "Trinity above — the three persons of the Godhead united in glory",
+    "Virgin Mary in blue and red — the Mother of God interceding before the Trinity",
+    "St. Dominic — the founder of the Order of Preachers devoted to proclaiming divine truth",
+    "angels in clouds — the heavenly court worshipping the Triune God",
+    "radiant light at apex — the unapproachable divine light from which all grace flows"
+  ],
+  "description": "A tall, narrow Baroque ceiling painting within an ornate gilded frame with carved floral finials. The composition ascends in swirling layers of clouds and figures toward a radiant burst of light at the top. At the apex, the Holy Trinity is suggested by divine figures amid brilliant light. Below, the Virgin Mary in flowing robes is prominent among the figures, along with St. Dominic in his Dominican habit. Numerous angels, putti, and saints fill the composition in dynamic poses, some ascending, others in worship.",
+  "theological_description": "Solimena's ceiling painting presents a vision of heavenly glory centered on the Holy Trinity, with the Virgin Mary and St. Dominic as intercessors. The Trinity is the foundational doctrine of Christianity — one God in three persons — affirmed at Christ's baptism (Matthew 28:19) and throughout the New Testament. The ascending composition from earth through saints and angels to the divine light embodies the theology of access to God described in Ephesians 2:18: 'Through Him we both have access to the Father by one Spirit.' The Virgin Mary's presence near the Trinity reflects Luke 1:28, her unique role as the one 'full of grace,' and her position as the human being closest to the divine mystery of the Incarnation. St. Dominic, while post-biblical, founded an order devoted to preaching the truth of the Gospel, fulfilling 2 Timothy 4:2: 'Preach the word; be prepared in season and out of season.' The radiant light at the apex embodies 1 John 1:5: 'God is light; in Him there is no darkness at all.' The entire composition represents the communion of saints described in Hebrews 12:22-24, the heavenly Jerusalem with its innumerable company of angels and the spirits of the righteous made perfect.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.19",
+      "relevance": "primary",
+      "reason": "Baptizing in the name of the Father, Son, and Holy Spirit — the Trinitarian formula visualized in the apex"
+    },
+    {
+      "ref": "EPH.2.18",
+      "relevance": "typological",
+      "reason": "Access to the Father through the Son by the Spirit — the ascending movement toward the divine light"
+    },
+    {
+      "ref": "HEB.12.22-24",
+      "relevance": "primary",
+      "reason": "The heavenly Jerusalem, innumerable angels, spirits of the righteous — the celestial assembly depicted"
+    },
+    {
+      "ref": "1JN.1.5",
+      "relevance": "allusion",
+      "reason": "God is light — the radiant apex of the composition embodying divine glory"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "glorious",
+    "ecstatic",
+    "transcendent",
+    "majestic"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0190799",
+    "title": "The Trinity, the Madonna and St. Dominic",
+    "artist": "Francesco Solimena",
+    "model": "claude-opus-4-6"
+  }
+}

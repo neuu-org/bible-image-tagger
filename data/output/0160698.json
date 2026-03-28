@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Holy Spirit (as dove)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "archangel-gabriel",
+    "virgin-mary",
+    "holy-spirit-dove",
+    "god-the-father",
+    "golden-ray",
+    "peacock",
+    "garden-setting",
+    "lectern",
+    "red-curtain",
+    "latin-inscription"
+  ],
+  "symbols": [
+    "golden ray from God to Mary — the divine power overshadowing the Virgin to conceive the Son",
+    "dove descending along the ray — the Holy Spirit as agent of the Incarnation",
+    "Gabriel's large wings — the archangel as messenger of the most consequential news in history",
+    "peacock in the garden — immortality and the incorruptible beauty of God's plan",
+    "red curtain at Mary's chamber — the veil of the Temple, the threshold between divine and human",
+    "book at the lectern — Mary reading Scripture, the handmaid prepared by the Word for the Word"
+  ],
+  "description": "A two-part composition divided by an arched column. On the left, a winged angel with large colorful wings kneels in a garden, gesturing toward the right. A peacock stands near the angel. Golden rays descend from the upper left where a small figure of God the Father appears in a cloud, with a dove flying along the ray. On the right, under an ornate arched interior, a woman in a red dress and blue head covering sits at a lectern with an open book, her hand raised in response. A red curtain is draped behind her. A Latin inscription runs along the bottom.",
+  "theological_description": "Carpaccio's Annunciation presents the full Trinitarian scope of the event. God the Father sends forth his Word (the golden ray), the Holy Spirit (the dove) overshadows Mary, and the result will be the incarnation of God the Son. Luke records Gabriel's message: 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you. So the holy one to be born will be called the Son of God' (Luke 1:35). Mary's response — the fiat of Luke 1:38 — is the hinge on which salvation history turns. The architectural division separating angel and Virgin emphasizes the threshold being crossed: the infinite gap between Creator and creature is bridged by the Incarnation. The peacock, an ancient Christian symbol of immortality and resurrection, signals that this moment inaugurates eternal life for humanity. Mary at her lectern recalls the tradition that she was studying Isaiah 7:14 when Gabriel arrived — the one reading the prophecy becomes its fulfillment.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation narrative — Gabriel's visit and Mary's consent"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive — the prophecy Mary may have been reading when Gabriel appeared"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word became flesh — the divine ray becoming incarnate in Mary's womb"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "luminous",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160698",
+    "title": "The Annunciation",
+    "artist": "Vittore Carpaccio",
+    "model": "claude-opus-4-6"
+  }
+}

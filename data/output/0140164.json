@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Serpent",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Fall of Man (The Temptation in Eden)",
+  "tags": [
+    "fall-of-man",
+    "garden-of-eden",
+    "adam-and-eve",
+    "forbidden-fruit",
+    "serpent",
+    "tree-of-knowledge",
+    "temptation",
+    "original-sin",
+    "nakedness",
+    "paradise",
+    "lush-garden",
+    "fruit",
+    "human-form-serpent",
+    "blue-sky",
+    "green-landscape"
+  ],
+  "symbols": [
+    "tree of knowledge at center — the divine boundary between obedience and rebellion",
+    "forbidden fruit — the allure of autonomy apart from God and the knowledge of good and evil",
+    "serpent with human features — Satan's cunning disguise and deceptive intelligence",
+    "nakedness of Adam and Eve — primordial innocence about to be lost",
+    "lush garden landscape — the paradisal perfection of creation before the Fall",
+    "Eve reaching for the fruit — the moment of decision that would alter all human history",
+    "Adam receiving fruit — complicity in the transgression and the universality of sin"
+  ],
+  "description": "Three figures stand before a fruit-laden tree in a lush green garden. At left, a naked man (Adam) stands with one hand raised, holding or receiving a fruit. At center, a naked woman (Eve) reaches up to pluck fruit from the tree with her right hand while holding another fruit in her left. At right, a figure with a human upper body and a serpentine or lizard-like lower body (the Serpent) offers fruit to Eve. The tree is heavy with golden-orange fruits. The background shows a verdant landscape with tall trees, rolling hills, and a blue sky.",
+  "theological_description": "Van der Goes's Fall of Man captures the pivotal moment of human history — the transgression in Eden. Genesis 3:1-6 records the serpent's deception: 'Did God actually say, You shall not eat of any tree in the garden?' The serpent promised, 'You will be like God, knowing good and evil.' Eve 'saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate' (Genesis 3:6). The painting captures exactly this moment — Eve reaching for the fruit while the serpent (depicted with a human torso to emphasize its rational cunning) tempts from the side, and Adam stands ready to receive. This single act of disobedience brought death into the world: 'For as in Adam all die, so also in Christ shall all be made alive' (1 Corinthians 15:22). Paul's theology of the Fall is essential: 'Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned' (Romans 5:12). Yet even in judgment God announced the protoevangelium — the first gospel promise — that the seed of the woman would crush the serpent's head (Genesis 3:15), pointing forward to Christ's ultimate victory over sin and death.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The direct narrative of the serpent's temptation, Eve eating the forbidden fruit, and giving it to Adam"
+    },
+    {
+      "ref": "GEN.2.16-17",
+      "relevance": "primary",
+      "reason": "God's original command not to eat from the tree of knowledge of good and evil, under penalty of death"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "primary",
+      "reason": "The protoevangelium — the promise that the woman's seed would crush the serpent's head"
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "typological",
+      "reason": "Paul's theology that through one man sin entered the world, and death through sin"
+    },
+    {
+      "ref": "1CO.15.22",
+      "relevance": "typological",
+      "reason": "As in Adam all die, so in Christ all shall be made alive — the Fall as the counterpoint to redemption"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "fateful",
+    "serene",
+    "ominous",
+    "paradisal"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0140164",
+    "title": "The Fall of Man",
+    "artist": "Hugo van der Goes",
+    "model": "claude-opus-4-6"
+  }
+}

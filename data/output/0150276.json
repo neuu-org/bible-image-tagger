@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Angel Raphael",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Tobit",
+      "type": "PERSON"
+    },
+    {
+      "name": "Tobias",
+      "type": "PERSON"
+    },
+    {
+      "name": "Family of Tobit",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Angel Raphael Departing from the Family of Tobit",
+  "tags": [
+    "angel-raphael",
+    "tobit",
+    "tobias",
+    "angelic-departure",
+    "prostrate-figures",
+    "ascending-angel",
+    "divine-revelation",
+    "dramatic-sky",
+    "kneeling",
+    "farewell",
+    "gratitude",
+    "apocryphal-narrative"
+  ],
+  "symbols": [
+    "angel ascending into the sky — the divine messenger returning to God after completing his mission",
+    "prostrate family — the awe and worship evoked by the revelation of the angel's true identity",
+    "dramatic luminous sky — the heavenly realm opening to receive the angel back",
+    "architectural entrance at right — the household of Tobit, site of healing and blessing"
+  ],
+  "description": "A black-and-white engraving showing a luminous angel ascending into a dramatic sky at upper left, wings spread wide, trailing light. Below, several figures are prostrate or kneeling on the ground in attitudes of awe and worship. The landscape is vast and open, with an architectural structure (a doorway or entrance) visible at right. The sky is rendered with sweeping curved lines suggesting divine radiance. The figures on the ground are small compared to the vast landscape, emphasizing their humility before the departing heavenly being.",
+  "theological_description": "Dore's engraving depicts the dramatic climax of the Book of Tobit, a deuterocanonical text. After the angel Raphael has accompanied young Tobias on his journey, helped him catch the fish whose organs would heal his father's blindness, and arranged his marriage to Sarah, the angel reveals his true identity: 'I am Raphael, one of the seven holy angels who present the prayers of the saints and enter into the presence of the glory of the Holy One' (Tobit 12:15). He commands the family to praise God, then ascends to heaven. The prostrate family embodies the biblical response to theophany — the same awe that seized Isaiah in the temple (Isaiah 6:5), Daniel before the angel (Daniel 10:9), and the disciples at the Transfiguration (Matthew 17:6). Raphael's role as a healer (his name means 'God heals') connects to the broader biblical theme of divine healing and providence. His declaration that he was sent by God to test and heal Tobit (Tobit 12:14) affirms that behind apparent suffering lies divine purpose. The scene resonates with the broader canonical theme of angelic visitation — from the angels who visited Abraham (Genesis 18) to the angel who appeared to Manoah (Judges 13:20), who also ascended in flame while the observers fell prostrate.",
+  "scripture_refs": [
+    {
+      "ref": "TOB.12.15-22",
+      "relevance": "primary",
+      "reason": "Raphael's self-revelation and departure — the direct narrative depicted in the engraving"
+    },
+    {
+      "ref": "ISA.6.5",
+      "relevance": "typological",
+      "reason": "The human response of awe and unworthiness before a heavenly being parallels the prostrate family"
+    },
+    {
+      "ref": "JDG.13.20",
+      "relevance": "typological",
+      "reason": "The angel of the Lord ascending before Manoah, who fell on his face, closely parallels this scene"
+    },
+    {
+      "ref": "GEN.18.1-2",
+      "relevance": "allusion",
+      "reason": "Angelic visitors in human form visiting a household — a pattern fulfilled in Raphael's visit to Tobit"
+    },
+    {
+      "ref": "HEB.13.2",
+      "relevance": "allusion",
+      "reason": "Entertaining angels unawares — Tobit's family hosted Raphael without knowing his angelic identity"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe-struck",
+    "luminous",
+    "transcendent"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0150276",
+    "title": "The Angel Raphael and the Family of Tobit",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

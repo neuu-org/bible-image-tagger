@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Cherubim (putti)",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with the Infant John the Baptist and Angels in a lush garden",
+  "tags": [
+    "holy-family",
+    "infant-john-the-baptist",
+    "angels",
+    "cherubim",
+    "putti",
+    "lush-garden",
+    "blue-robe",
+    "white-rabbit",
+    "garlands",
+    "musical-angels",
+    "paradise-garden",
+    "arched-composition"
+  ],
+  "symbols": [
+    "lush garden setting — the restored paradise, the new Eden brought about by the Incarnation",
+    "cherubim descending with garlands — heavenly celebration of the birth of the Savior",
+    "infant Baptist with the Christ Child — the forerunner greeting the Messiah",
+    "white rabbit — purity and innocence",
+    "angel in ornate garment — the heavenly court attending the Holy Family"
+  ],
+  "description": "An arched-top composition set in a luxuriant garden. At center, the Virgin Mary in a blue robe sits on the ground, holding the infant Jesus in her lap. The infant John the Baptist kneels beside them, touching or playing with Jesus. A large angel in an ornate brocade garment kneels at left, while Joseph stands at far right in red. Above, numerous cherubim (putti) tumble through the air, descending with garlands and flowers from the tree canopy. The garden is richly detailed with green foliage, flowers, and a small white rabbit in the lower left.",
+  "theological_description": "Elsheimer's Holy Family in a paradise garden visualizes the theological truth that the Incarnation restores what was lost in Eden. The lush, abundant garden with playful cherubim, flowers, and animals recalls the original paradise of Genesis 2:8-9, now renewed by the presence of the new Adam (1 Corinthians 15:45). The infant Baptist's encounter with Jesus extends the Visitation narrative (Luke 1:41-44), where John leapt in Elizabeth's womb at the presence of the Lord. The descending putti with garlands echo the angelic rejoicing at Christ's birth (Luke 2:13-14). Mary seated on the ground amid such abundance embodies the Madonna of Humility — the lowly handmaid exalted (Luke 1:48). The entire scene breathes the messianic peace of Isaiah 11:6-9, where creation is harmonious under the Messiah's reign. Joseph's watchful presence fulfills his divinely appointed role as guardian (Matthew 1:20-24). The white rabbit, a traditional symbol of purity and fertility, reinforces the theme of new creation and abundant life brought by Christ.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "John leaping at the presence of Christ — the infant Baptist's encounter with Jesus"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "primary",
+      "reason": "The heavenly host praising God — the descending cherubim with garlands"
+    },
+    {
+      "ref": "1CO.15.45",
+      "relevance": "typological",
+      "reason": "Christ as the last Adam — the garden setting evoking restored paradise"
+    },
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "allusion",
+      "reason": "The peaceable kingdom where creation is harmonious — the idyllic garden scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "paradisiacal",
+    "joyful",
+    "lush",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170582",
+    "title": "The Holy Family with the Infant John the Baptist and Angels",
+    "artist": "Adam Elsheimer",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Adam and Eve in the Garden",
+  "tags": [
+    "adam-and-eve",
+    "garden-of-eden",
+    "modernist",
+    "two-figures",
+    "flowers",
+    "abstract-forms",
+    "bold-outlines",
+    "serpent-like-forms",
+    "fruit",
+    "apple",
+    "heart",
+    "tubular-shapes",
+    "creation",
+    "primordial-couple"
+  ],
+  "symbols": [
+    "two nude figures — the first man and woman created by God in primal innocence",
+    "flowers and botanical forms — the abundance and beauty of Eden before the Fall",
+    "bold black outlines — the stark, elemental nature of the Genesis narrative",
+    "heart shape on one figure — the bond of love between the first couple and their Creator",
+    "serpentine tubular forms — possible allusion to the serpent lurking in paradise"
+  ],
+  "description": "A modernist composition showing two large human figures rendered with bold black outlines and flat areas of color. The figures stand side by side, their bodies simplified into rounded, tubular forms. Between and around them are colorful botanical elements — flowers, leaves, and abstract organic shapes in blues, reds, yellows, and greens. One figure appears to hold a staff or branch. A small heart shape is visible on one figure's chest. The background includes cloud-like dark blue forms and vertical striped elements. The overall style is strongly geometric and boldly graphic.",
+  "theological_description": "Leger's Adam and Eve strips the Genesis narrative to its most elemental forms — two human bodies amid abundant vegetation, rendered in the bold, industrial aesthetic of modernity. Genesis records: 'So God created man in his own image, in the image of God he created him; male and female he created them' (Genesis 1:27). The robust, almost mechanical quality of the figures may paradoxically emphasize their created nature — they are fashioned, formed, made by a Creator. The lush botanical forms surrounding them recall Eden: 'And out of the ground the Lord God made to spring up every tree that is pleasant to the sight and good for food' (Genesis 2:9). The heart visible on one figure's body may symbolize the intimate relational bond that God intended from the beginning: 'Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh. And the man and his wife were both naked and were not ashamed' (Genesis 2:24-25). Leger's modernist approach insists that this ancient story remains immediate and urgent — the questions of human identity, relationship, and purpose that Genesis poses are not archaic but perpetually contemporary.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.1.27",
+      "relevance": "primary",
+      "reason": "God creating humankind male and female in his own image — the two figures represent the primordial couple"
+    },
+    {
+      "ref": "GEN.2.8-9",
+      "relevance": "primary",
+      "reason": "God planting a garden in Eden with every beautiful tree — the lush botanical forms surrounding the figures"
+    },
+    {
+      "ref": "GEN.2.24-25",
+      "relevance": "primary",
+      "reason": "The unity of man and woman, naked and unashamed — the innocent togetherness of the two figures"
+    },
+    {
+      "ref": "GEN.2.7",
+      "relevance": "allusion",
+      "reason": "God forming man from dust — the crafted, formed quality of the figures suggests their created nature"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "bold",
+    "primordial",
+    "vibrant"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0140260",
+    "title": "Adam and Eve",
+    "artist": "Fernand Leger",
+    "model": "claude-opus-4-6"
+  }
+}

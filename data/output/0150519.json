@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Saint James the Less",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint James the Less (Jacobus)",
+  "tags": [
+    "saint-james-the-less",
+    "apostle",
+    "curly-hair",
+    "beard",
+    "book",
+    "rocky-setting",
+    "latin-inscription",
+    "creed-article",
+    "communion-of-saints",
+    "contemplative-reading"
+  ],
+  "symbols": [
+    "open book — the apostolic teaching and the spreading of the Gospel",
+    "rocky landscape — the wilderness of ascetic devotion and apostolic hardship",
+    "Latin inscription referencing the Creed — James's attributed article of the Apostles' Creed"
+  ],
+  "description": "An engraving depicting a bearded man with long curly hair, shown from the chest up in three-quarter view, looking downward at a book or manuscript he holds. He wears layered robes with a clasp at the collar. Behind him, rocky formations suggest a wilderness or cave setting. At the top is inscribed 'Jacobus' and at the bottom 'IX. SANCTAM ECCLESIAM CATHOLICAM SANCTORUM COMMUNIONEM' — the ninth article of the Apostles' Creed. The monogram 'HG' appears at lower left.",
+  "theological_description": "Goltzius's engraving depicts Saint James the Less (also called James son of Alphaeus), one of the Twelve Apostles. The Latin inscription attributes to him the ninth article of the Apostles' Creed: 'Sanctam Ecclesiam Catholicam, Sanctorum Communionem' — 'The Holy Catholic Church, the Communion of Saints.' This tradition, which assigns each article of the Creed to a different apostle, reflects the belief that the Twelve collectively formulated the foundational confession of Christian faith. James the Less is mentioned among the Twelve in all four apostolic lists (Matthew 10:3, Mark 3:18, Luke 6:15, Acts 1:13). He is often identified with James the brother of the Lord who led the Jerusalem church (Galatians 1:19) and presided at the Council of Jerusalem (Acts 15:13-21), though scholarly opinion varies. The article of the Creed attributed to him — the communion of saints — affirms that all believers, living and dead, are united in one body. Paul expressed this truth: 'For we were all baptized by one Spirit so as to form one body' (1 Corinthians 12:13). The concept of the Church as a holy communion reflects Jesus's own prayer: 'That all of them may be one' (John 17:21).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.3",
+      "relevance": "primary",
+      "reason": "James son of Alphaeus listed among the Twelve Apostles"
+    },
+    {
+      "ref": "ACT.15.13-21",
+      "relevance": "allusion",
+      "reason": "James presiding at the Council of Jerusalem, exercising apostolic authority in the early Church"
+    },
+    {
+      "ref": "1CO.12.13",
+      "relevance": "typological",
+      "reason": "One body baptized by one Spirit — the communion of saints that James's Creed article affirms"
+    },
+    {
+      "ref": "GAL.1.19",
+      "relevance": "allusion",
+      "reason": "James the Lord's brother as a pillar of the early Church"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "scholarly",
+    "devout"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150519",
+    "title": "St. James the Less",
+    "artist": "Hendrick Goltzius",
+    "model": "claude-opus-4-6"
+  }
+}

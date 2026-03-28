@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Rest on the Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "rest-on-the-flight",
+    "holy-family",
+    "virgin-and-child",
+    "angel",
+    "donkey",
+    "latin-inscription",
+    "landscape",
+    "tree"
+  ],
+  "symbols": [
+    "resting mother and child — the vulnerability of the Incarnate God as a refugee fleeing persecution",
+    "donkey in the background — the humble beast of burden carrying the holy family to safety",
+    "angel watching over — divine protection guiding the flight from Herod's violence",
+    "tree providing shade — God's providential shelter for the persecuted"
+  ],
+  "description": "A monochrome engraving showing a woman seated beneath a large tree in a landscape, cradling a sleeping infant in her lap. A winged angel figure leans over her from behind the tree, gazing at the child. In the right background, a donkey stands partially hidden. The landscape extends to distant hills and sky. Below the image, a Latin inscription from Matthew 2 is visible. The composition is tender and restful, with soft chiaroscuro modeling.",
+  "theological_description": "This engraving depicts the Rest on the Flight into Egypt, an episode between Matthew 2:14 and 2:15. Joseph, warned by an angel in a dream, took the child and his mother by night and fled to Egypt to escape Herod's massacre of the innocents (Matthew 2:13-15). The scene fulfills the prophecy of Hosea 11:1: 'Out of Egypt I called my son.' The Latin inscription below confirms the Matthean source. The resting Madonna and child, watched over by an angel, presents the paradox of divine omnipotence clothed in infant vulnerability — the Creator of the universe as a refugee child. God's providence operates through ordinary means: a donkey, a road, a tree's shade, a mother's arms. This flight also typologically recapitulates Israel's sojourn in and exodus from Egypt, establishing Jesus as the new Israel who will relive and redeem his people's history.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The flight into Egypt — Joseph warned by an angel to flee Herod's persecution"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son — fulfilled in Jesus's return from Egypt"
+    },
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "primary",
+      "reason": "Herod's massacre of the innocents, the violence from which the Holy Family flees"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "peaceful",
+    "protective"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160387",
+    "title": "Jesus praying on the Mount of Olives",
+    "artist": "Giovanni Battista Piranesi",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Judith",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holofernes (severed head)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Judith with the head of Holofernes",
+  "tags": [
+    "judith",
+    "holofernes",
+    "severed-head",
+    "sword",
+    "oval-composition",
+    "military-camp",
+    "heroine",
+    "triumph",
+    "old-testament-apocrypha"
+  ],
+  "symbols": [
+    "severed head held aloft — the defeat of tyranny by God's chosen instrument",
+    "sword in opposite hand — the weapon of divine justice wielded by an unlikely warrior",
+    "military camp in background — the Assyrian army that would be routed by this single act of courage",
+    "oval border with inscriptions — the commemorative framing of a heroic deed worthy of remembrance"
+  ],
+  "description": "An oval-format engraving depicting Judith as a powerful full-length standing figure. She holds a sword in her right hand and the severed head of Holofernes by the hair in her left hand, lifting it triumphantly. She wears flowing classical drapery that billows dramatically around her statuesque form. Her expression is resolute and upward-gazing. The background shows a military encampment with tents on the left and distant hills and figures on the right. An oval border contains inscribed text. The engraving is executed with masterful precision in Goltzius's characteristic virtuosic line work.",
+  "theological_description": "Judith's beheading of the Assyrian general Holofernes is one of the most dramatic episodes in the deuterocanonical books (Judith 13:6-10). When the Assyrian army besieged the Israelite city of Bethulia and cut off its water supply, the beautiful widow Judith entered the enemy camp, gained Holofernes's trust, and beheaded him in his drunken sleep. Her act of courage liberated Israel and routed the Assyrian army. While from the Apocrypha, the narrative resonates deeply with canonical themes. Judith embodies the pattern seen in Judges 4-5 where God delivered Israel through the hand of a woman (Deborah and Jael), demonstrating that the Lord saves not by sword and spear (1 Samuel 17:47). Her song of thanksgiving (Judith 16) echoes Hannah's prayer and Mary's Magnificat — God pulling down the mighty from their thrones. The scene also prefigures the ultimate defeat of evil: as Judith crushed the head of the oppressor, so the seed of the woman would crush the serpent's head (Genesis 3:15). Judith became a symbol of the Church Militant, triumphing over the powers of darkness through faith and courage rather than military might.",
+  "scripture_refs": [
+    {
+      "ref": "JDT.13.6-10",
+      "relevance": "primary",
+      "reason": "Judith beheading Holofernes in his tent — the exact moment this engraving commemorates"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The woman crushing the head of the enemy prefigures the protoevangelium of the seed crushing the serpent"
+    },
+    {
+      "ref": "1SA.17.47",
+      "relevance": "typological",
+      "reason": "The battle is the Lord's — God delivering through unlikely instruments, as David with Goliath"
+    },
+    {
+      "ref": "JDG.4.21",
+      "relevance": "typological",
+      "reason": "Jael killing Sisera prefigures Judith's act — both women destroying Israel's oppressor"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "heroic",
+    "powerful"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0190518",
+    "title": "Judith",
+    "artist": "Hendrick Goltzius",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Clergy Procession",
+      "type": "GROUP"
+    },
+    {
+      "name": "Congregation",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Departure of a procession from Etchmiadzin Cathedral",
+  "tags": [
+    "cathedral",
+    "armenian-church",
+    "procession",
+    "clergy",
+    "ornate-archway",
+    "liturgical-banners",
+    "vestments",
+    "crowd",
+    "sacred-architecture"
+  ],
+  "symbols": [
+    "grand cathedral archway — the gate of heaven, the threshold between earthly and divine worship",
+    "processional banners and icons — the visible signs of faith carried into the world",
+    "clergy in white vestments — the priesthood mediating between God and his people"
+  ],
+  "description": "A large crowd gathers before the ornate stone entrance of a cathedral. The massive arched doorway features intricate carved stonework in concentric arches. Clergy in white and gold vestments emerge from the dark interior, carrying processional banners and icons. The crowd, dressed in both traditional and modern clothing, presses close on either side. The golden-tan stone of the cathedral facade fills the upper portion. The scene is bustling with dozens of figures.",
+  "theological_description": "The cathedral of Etchmiadzin, the mother church of Armenian Christianity, is where tradition holds that Christ himself descended to indicate the site for the church to St. Gregory the Illuminator. The procession emerging from the cathedral doors enacts the missionary commission — the faithful, having worshipped within, are sent forth into the world. This reflects the eucharistic dismissal: the word 'Mass' derives from the Latin missio ('sending'). Christ's final command to 'go and make disciples of all nations' (Matthew 28:19) is liturgically enacted each time the congregation processes from the sanctuary into the world. The grand archway itself evokes Christ's declaration: 'I am the gate; whoever enters through me will be saved' (John 10:9).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.19-20",
+      "relevance": "primary",
+      "reason": "The Great Commission — go and make disciples — enacted in the processional departure from worship"
+    },
+    {
+      "ref": "JHN.10.9",
+      "relevance": "allusion",
+      "reason": "Christ as the gate — the grand archway through which the faithful pass"
+    },
+    {
+      "ref": "PSA.122.1",
+      "relevance": "allusion",
+      "reason": "I was glad when they said to me, let us go to the house of the Lord"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "festive",
+    "reverent",
+    "communal"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160416",
+    "title": "The Departure of the Procession from St. Etchmiadzin Cathedral",
+    "artist": "Vardges Sureniants",
+    "model": "claude-opus-4-6"
+  }
+}

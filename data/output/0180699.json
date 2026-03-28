@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Three Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Retinue of the Magi",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "three-kings",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "kneeling-king",
+    "manger",
+    "turban",
+    "rich-robes",
+    "crowded-composition",
+    "spears",
+    "exotic-retinue",
+    "camels",
+    "feathered-headdress",
+    "infant-on-straw"
+  ],
+  "symbols": [
+    "three Magi kneeling — the nations of the world paying homage to the King of Kings",
+    "gifts of gold, frankincense, and myrrh — kingship, divinity, and sacrificial death",
+    "infant on the manger — the King of the universe in the humblest of thrones",
+    "diverse retinue — the universality of Christ's kingship over all peoples and races",
+    "Mary presenting the child — the Theotokos making God accessible to the seeking nations"
+  ],
+  "description": "A large, richly composed Baroque painting depicting the Adoration of the Magi. At right, the Virgin Mary in pale blue-gray robes sits beside a manger, holding the infant Jesus who reaches out toward the visitors. Before them, three elaborately dressed kings present their gifts — the foremost, an elderly bearded man in a magnificent red and gold brocade robe, kneels and offers a golden vessel. Behind him, another king in a white turban bows reverently. A third figure approaches from behind.",
+  "theological_description": "The Adoration of the Magi, narrated in Matthew 2:1-12, is the Epiphany — the manifestation of Christ to the Gentile world. Wise men from the East, guided by a star, come to Jerusalem asking, 'Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him' (Matthew 2:2). The gifts they bring are laden with theological meaning: gold for a king, frankincense for God, and myrrh for one who will die and be buried. This scene fulfills the prophecy of Isaiah 60:3: 'Nations shall come to your light, and kings to the brightness of your rising,' and Psalm 72:10-11: 'May the kings of Tarshish and of the coastlands render him tribute... may all kings fall down before him.' The diversity of the retinue — figures from various nations and cultures — anticipates the universal scope of the Gospel: 'Go therefore and make disciples of all nations' (Matthew 28:19). Rubens fills the composition with a teeming crowd to emphasize that the Incarnation is not a private event but a cosmic one — the whole world streams toward the humble manger. The contrast between the magnificent robes of the Magi and the straw of the manger captures the central paradox of Christmas: infinite majesty clothed in infinite humility. The kings who kneel recognize what Herod could not: this child is the true King before whom every knee shall bow (Philippians 2:10).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The narrative of the Magi following the star, presenting gifts, and worshipping the child is the direct event depicted"
+    },
+    {
+      "ref": "ISA.60.3-6",
+      "relevance": "primary",
+      "reason": "Nations coming to the light and kings bringing gold and frankincense is prophetically fulfilled in this scene"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings falling down and rendering tribute to the Messiah, enacted by the kneeling Magi"
+    },
+    {
+      "ref": "PHP.2.10-11",
+      "relevance": "typological",
+      "reason": "Every knee bowing at the name of Jesus, prefigured by the kings kneeling before the infant"
+    },
+    {
+      "ref": "MAT.28.19",
+      "relevance": "allusion",
+      "reason": "The diverse nations in the retinue foreshadow the Great Commission to all peoples"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "reverent",
+    "joyful",
+    "splendid"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180699",
+    "title": "Adoration of the Magi",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

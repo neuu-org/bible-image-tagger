@@ -1,0 +1,95 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Entombment of Christ",
+  "tags": [
+    "entombment",
+    "burial-of-christ",
+    "stone-sarcophagus",
+    "linen-shroud",
+    "mourning",
+    "grief",
+    "passion-of-christ",
+    "body-of-christ",
+    "rocky-landscape",
+    "bare-trees",
+    "anointing-jar",
+    "halos",
+    "kneeling-woman",
+    "horizontal-composition"
+  ],
+  "symbols": [
+    "stone sarcophagus — the tomb hewn from rock provided by Joseph of Arimathea, receiving the body of God incarnate",
+    "linen burial cloth — the clean linen shroud in which Christ was wrapped, a sign of purity and sacrificial completion",
+    "kneeling mourning woman — devotion and grief at the foot of the dead Christ, embodying the Church's sorrow",
+    "anointing vessels — the spices and ointments prepared for burial, fulfilling Jewish custom and prefiguring resurrection hope",
+    "bare trees and rocky landscape — the desolation of creation at the death of its Creator"
+  ],
+  "description": "A horizontal predella panel depicting the entombment of Christ. At center, the pale, lifeless body of Jesus is being lowered into a stone sarcophagus by several figures. Multiple men with halos support the body from either side — one grasping under the arms, others holding the legs and midsection. The body is partially wrapped in white linen. At the far right, a woman kneels in deep grief, her head bowed and covered. At the far left, another figure looks on. The background shows a spare, rocky landscape with bare trees. In the left background, additional small figures can be seen.",
+  "theological_description": "The Entombment of Christ depicts the solemn moment described in all four Gospels when the body of Jesus was removed from the cross and placed in a new tomb. Joseph of Arimathea, a secret disciple and member of the Sanhedrin, boldly went to Pilate and asked for the body (Mark 15:43). Together with Nicodemus, who brought a mixture of myrrh and aloes (John 19:39), they wrapped the body in clean linen and laid it in Joseph's own new tomb hewn from rock (Matthew 27:59-60). This moment stands at the theological hinge between the completed sacrifice of the cross and the coming triumph of the Resurrection. Christ's burial is not merely historical detail but a creedal affirmation — 'He was buried' (1 Corinthians 15:4) — confirming the reality of his death and therefore the reality of his rising. The stone tomb becomes a womb of new creation: for three days, as Jonah was in the belly of the great fish, so the Son of Man was in the heart of the earth (Matthew 12:40). The grieving women fulfill the prophetic picture of Zechariah 12:10, 'They will look on me, the one they have pierced, and they will mourn.' Yet within this scene of desolation lies hidden the seed of the greatest reversal in history: the tomb that receives a corpse will yield the Risen Lord.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "John's account of Joseph of Arimathea and Nicodemus taking the body, wrapping it in linen with spices, and placing it in a new garden tomb"
+    },
+    {
+      "ref": "MAT.27.57-60",
+      "relevance": "primary",
+      "reason": "Matthew's account of Joseph wrapping the body in clean linen and laying it in his own new tomb hewn from rock"
+    },
+    {
+      "ref": "MRK.15.42-47",
+      "relevance": "primary",
+      "reason": "Mark's account of the burial, noting that Mary Magdalene and Mary the mother of Joses watched where the body was laid"
+    },
+    {
+      "ref": "1CO.15.3-4",
+      "relevance": "typological",
+      "reason": "Paul's creedal formula affirming 'he was buried' as essential to the gospel proclamation"
+    },
+    {
+      "ref": "MAT.12.40",
+      "relevance": "typological",
+      "reason": "Jesus's prediction that as Jonah was three days in the fish, so the Son of Man would be three days in the earth"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "solemn",
+    "reverent",
+    "somber"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180084",
+    "title": "Altar polyptych of San Bartolomeo, Bergamo, foot plate: Entombment",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

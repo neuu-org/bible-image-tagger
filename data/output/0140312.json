@@ -1,0 +1,93 @@
+{
+  "characters": [
+    {
+      "name": "The Magi (Three Wise Men)",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Queen of Sheba",
+      "type": "PERSON"
+    },
+    {
+      "name": "King Solomon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and Courtiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi and Solomon Adored by the Queen of Sheba",
+  "tags": [
+    "adoration-of-the-magi",
+    "queen-of-sheba",
+    "king-solomon",
+    "ornate-border",
+    "sculptural-framework",
+    "kneeling",
+    "gifts",
+    "throne",
+    "old-testament-typology",
+    "new-testament-fulfillment",
+    "miniature-painting",
+    "courtly-scene"
+  ],
+  "symbols": [
+    "paired scenes — typological connection between Old Testament prefiguration and New Testament fulfillment",
+    "Queen of Sheba before Solomon — the Gentile queen recognizing Israel's wisdom prefigures the Magi recognizing Christ",
+    "Magi before the Christ child — Gentile kings worshipping the true King of Kings",
+    "elaborate architectural frames — the grandeur of divine revelation unfolding through history",
+    "gifts offered in both scenes — tribute to earthly wisdom (Solomon) fulfilled in tribute to divine wisdom (Christ)"
+  ],
+  "description": "An illuminated manuscript diptych with two richly framed miniature paintings side by side. The left panel depicts the Adoration of the Magi — figures in colorful robes kneeling before Mary and the infant Jesus in an architectural setting. The right panel shows the Queen of Sheba kneeling before King Solomon on a throne, surrounded by courtiers and attendants. Both panels are set within elaborate sculptural borders featuring nude figures (caryatids), putti, decorative urns, and gilded ornamental elements in a Mannerist style.",
+  "theological_description": "Clovio's illuminated diptych presents a classic typological pairing — the Old Testament Queen of Sheba's visit to Solomon set alongside the New Testament Adoration of the Magi. The connection is ancient in Christian exegesis. The Queen of Sheba 'came to test Solomon with hard questions... and when she had seen all the wisdom of Solomon... there was no more breath in her' (1 Kings 10:1-5). Jesus himself drew the parallel: 'The queen of the South will rise up at the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon, and behold, something greater than Solomon is here' (Matthew 12:42). Just as the Gentile queen brought gold, spices, and precious stones to Solomon (1 Kings 10:10), the Magi brought gold, frankincense, and myrrh to the infant King (Matthew 2:11). Both scenes show Gentiles journeying far to offer tribute to Israel's anointed — but the Magi's homage surpasses Sheba's, for they worship not merely a wise king but the incarnate God. Isaiah's prophecy spans both: 'Nations shall come to your light, and kings to the brightness of your rising' (Isaiah 60:3). The typological pairing reveals the unity of Scripture — the Old Testament as promise, the New Testament as fulfillment.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-11",
+      "relevance": "primary",
+      "reason": "The Adoration of the Magi — the left panel directly depicts the wise men's journey and gifts"
+    },
+    {
+      "ref": "1KI.10.1-10",
+      "relevance": "primary",
+      "reason": "The Queen of Sheba visiting Solomon with gifts — the right panel depicts this Old Testament narrative"
+    },
+    {
+      "ref": "MAT.12.42",
+      "relevance": "primary",
+      "reason": "Jesus's direct comparison between the Queen of the South and himself as greater than Solomon — the theological key linking both panels"
+    },
+    {
+      "ref": "ISA.60.3-6",
+      "relevance": "typological",
+      "reason": "Nations and kings coming to the light bearing gifts — fulfilled in both the Sheba visit and the Magi's adoration"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "allusion",
+      "reason": "Kings of Sheba and Seba bringing gifts, all kings falling before the messianic ruler"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "ornate",
+    "reverent",
+    "scholarly"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140312",
+    "title": "Adoration of the Magi and Solomon Adored by the Queen of Sheba",
+    "artist": "Giulio Clovio",
+    "model": "claude-opus-4-6"
+  }
+}

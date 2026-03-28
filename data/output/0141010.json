@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "John Wycliffe",
+      "type": "PERSON"
+    },
+    {
+      "name": "John of Gaunt",
+      "type": "PERSON"
+    },
+    {
+      "name": "Listeners and Courtiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "John Wycliffe Reading His Translation of the Bible to John of Gaunt",
+  "tags": [
+    "john-wycliffe",
+    "bible-translation",
+    "john-of-gaunt",
+    "reading-aloud",
+    "medieval-england",
+    "open-book",
+    "reformer",
+    "barefoot-scholar",
+    "courtiers",
+    "gothic-architecture",
+    "vernacular-bible",
+    "long-beard",
+    "pointed-arch-frame"
+  ],
+  "symbols": [
+    "open Bible being read — the Word of God brought to the people in their own language",
+    "Wycliffe standing barefoot — the humility of the scholar-reformer before the Word",
+    "John of Gaunt listening — worldly power confronted by the authority of Scripture",
+    "medieval setting — the historical moment when Scripture began to break free from Latin exclusivity",
+    "roundel portraits in spandrels — the continuity of the biblical tradition"
+  ],
+  "description": "A Pre-Raphaelite painting within a pointed Gothic arch frame. At center, a tall, bearded man in a long brown robe and bare feet (Wycliffe) stands reading from an open book. To his left, a richly dressed nobleman (John of Gaunt) listens with one hand raised to his chin. Around them, various figures — a woman holding a child, a young man in ornate clothing, children, and others — listen attentively. The setting is a Gothic terrace with architecture and a landscape visible behind. Two roundel portraits appear in the upper spandrels.",
+  "theological_description": "Ford Madox Brown's painting depicts John Wycliffe (c. 1320-1384), the 'Morning Star of the Reformation,' reading his English translation of the Bible to John of Gaunt, Duke of Lancaster. While this is a historical rather than biblical scene, it represents one of the most consequential moments in the history of Scripture's transmission. Wycliffe believed passionately that the Bible should be accessible to all believers, not locked away in Latin. This conviction was rooted in Scripture itself: Paul wrote, 'Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom' (Colossians 3:16). Jesus declared: 'You will know the truth, and the truth will set you free' (John 8:32). Wycliffe's translation acted on the conviction that 'faith comes from hearing, and hearing through the word of Christ' (Romans 10:17) — and that hearing required a language the people could understand. His work paved the way for Tyndale, the King James Bible, and the principle that Scripture belongs to all God's people. The Psalmist's cry echoes: 'Your word is a lamp to my feet and a light to my path' (Psalm 119:105).",
+  "scripture_refs": [
+    {
+      "ref": "ROM.10.17",
+      "relevance": "primary",
+      "reason": "Faith coming from hearing the word — Wycliffe's motivation for translating Scripture into English"
+    },
+    {
+      "ref": "JHN.8.32",
+      "relevance": "primary",
+      "reason": "The truth setting free — the liberating power of Scripture in the people's own language"
+    },
+    {
+      "ref": "COL.3.16",
+      "relevance": "primary",
+      "reason": "Letting the word of Christ dwell richly — the reading of Scripture aloud to a gathered community"
+    },
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "God's word as a lamp and light — the open Bible illuminating its listeners"
+    },
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "allusion",
+      "reason": "All Scripture profitable for teaching — the universal access Wycliffe championed"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "scholarly",
+    "reverent",
+    "historical",
+    "earnest"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0141010",
+    "title": "John Wycliffe reading his translation of the Bible to John of Gaunt",
+    "artist": "Ford Madox Brown",
+    "model": "claude-opus-4-6"
+  }
+}

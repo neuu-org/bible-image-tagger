@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with the Infant Saint John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "infant-john-the-baptist",
+    "holy-family",
+    "reed-cross",
+    "blue-mantle",
+    "halo",
+    "dark-grotto",
+    "tender-embrace",
+    "devotional-portrait",
+    "bare-infant",
+    "kneeling-child",
+    "long-hair",
+    "landscape-background"
+  ],
+  "symbols": [
+    "reed cross held by infant John — prophetic foreshadowing of his role as the forerunner who will identify the Lamb of God",
+    "dark grotto setting — the hidden mystery of the Incarnation sheltered from the world",
+    "Mary's blue mantle — heavenly purity and the covering of grace",
+    "infant Jesus reaching toward John — the divine Child acknowledging the one who will prepare his way",
+    "John kneeling before Jesus — the Baptist's future submission and testimony that 'He must increase, I must decrease'"
+  ],
+  "description": "A warmly lit painting set against a dark, cave-like background. At center, a young woman with a soft halo wears a blue mantle over green and red garments, seated and holding a plump, nude infant on her lap. The child has golden curly hair and looks down toward a second, slightly older child who kneels at the left. This kneeling child has long, curly brown hair, is partially draped in an animal skin, and holds a small reed cross. In the far left background, through a rocky opening, a faint landscape with small figures is visible.",
+  "theological_description": "This intimate devotional scene brings together the three principal figures of the infancy narratives: the Virgin Mary, the Christ Child, and the young John the Baptist. The meeting of the two holy children is rooted in the Visitation narrative of Luke 1:39-45, where the unborn John leaped in Elizabeth's womb at the approach of the pregnant Mary, the first recorded act of recognition of the Messiah. Here the tradition extends that recognition into childhood. The young Baptist already carries the reed cross, the instrument of the Passion he will one day herald when he declares, 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29). His kneeling posture before the infant Christ visually enacts his future confession: 'He who comes after me ranks before me, because he was before me' (John 1:15). Mary's central position as Theotokos — the God-bearer — grounds the entire composition in the mystery of the Incarnation: the eternal Word made flesh (John 1:14), held in a human mother's arms. The dark grotto setting recalls the hiddenness of God's plan, echoing Isaiah's prophecy that a shoot would come from the stump of Jesse in humble, unexpected circumstances (Isaiah 11:1). The tenderness between the figures speaks to the full humanity of the divine child and the loving communion that characterizes the economy of salvation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The meeting of the infant Jesus and infant John reflects the Visitation when the unborn John leaped at the presence of the unborn Christ"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The reed cross held by the infant Baptist foreshadows his future proclamation of Jesus as the Lamb of God"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The infant Christ held by Mary embodies the Word made flesh dwelling among us"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "allusion",
+      "reason": "John's kneeling posture before the Christ Child visually anticipates his confession that Christ must increase and he must decrease"
+    },
+    {
+      "ref": "ISA.11.1",
+      "relevance": "typological",
+      "reason": "The humble grotto setting evokes the unexpected lowliness from which the messianic shoot of Jesse emerges"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180007",
+    "title": "Madonna and Child with the Infant Saint John the Baptist",
+    "artist": "Correggio",
+    "model": "claude-opus-4-6"
+  }
+}

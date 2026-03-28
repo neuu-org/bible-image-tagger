@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin of the Annunciation",
+  "tags": [
+    "annunciation",
+    "virgin-mary",
+    "open-book",
+    "crossed-hands",
+    "blue-veil",
+    "humility",
+    "fiat",
+    "dark-background",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "hands crossed over chest — Mary's gesture of acceptance and submission to God's will (fiat)",
+    "open book on the lectern — Scripture that Mary was reading when the angel appeared, traditionally Isaiah's prophecy",
+    "blue veil — heavenly grace covering the Virgin, the chosen vessel of the Incarnation",
+    "direct gaze at the viewer — Mary's awareness of being in the presence of the divine messenger"
+  ],
+  "description": "Antonello da Messina's iconic painting of the Virgin of the Annunciation in a half-length portrait against a dark background. Mary looks directly at the viewer with large, calm eyes, her expression composed yet deeply thoughtful. She wears a dark blue veil over her head and a dark blue garment. Her hands are crossed over her chest in a gesture of acceptance and humility. Before her on a wooden lectern sits an open book. The painting is remarkable for its psychological intensity and the direct, almost startlingly intimate gaze of the Virgin.",
+  "theological_description": "Antonello da Messina's masterpiece captures the most theologically significant moment in Mary's life — the Annunciation, when the angel Gabriel appeared and announced she would conceive and bear the Son of the Most High (Luke 1:30-33). The crossed hands over her chest embody her response in Luke 1:38: 'Behold, I am the servant of the Lord; let it be to me according to your word' — the fiat that made the Incarnation possible. The open book before her represents the tradition that Mary was reading Isaiah 7:14 ('The virgin will conceive and give birth to a son') when the angel appeared — the very prophecy being fulfilled in her. Mary's calm, direct gaze at the viewer creates an extraordinary theological effect: we the viewers are placed in the position of the angel, receiving her gaze of humble consent. This is the hinge of salvation history: all of God's promises and all of humanity's hopes converge on this young woman's free acceptance of the divine plan. As the early Church Fathers taught, just as Eve's disobedience brought death, Mary's obedience brought life. Her crossed hands echo the posture of the faithful servant, fulfilling the Magnificat's theology: 'He has looked on the humble state of His servant' (Luke 1:48).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Mary's fiat — 'let it be to me according to your word' — embodied in the gesture of crossed hands"
+    },
+    {
+      "ref": "LUK.1.28-33",
+      "relevance": "primary",
+      "reason": "Gabriel's annunciation to Mary that she will conceive and bear the Son of the Most High"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin will conceive — the prophecy traditionally being read in the open book"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "God looking on the humble state of His servant — Mary's humility visible in her posture and expression"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "serene",
+    "intimate",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190863",
+    "title": "Virgin of the Annunciation",
+    "artist": "Antonello da Messina",
+    "model": "claude-opus-4-6"
+  }
+}

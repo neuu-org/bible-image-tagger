@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Apostles Peter and Paul together",
+  "tags": [
+    "apostle-peter",
+    "apostle-paul",
+    "pillars-of-the-church",
+    "open-book",
+    "epistles",
+    "key-of-peter",
+    "dual-portrait",
+    "bearded-saints",
+    "dark-background",
+    "apostolic-authority"
+  ],
+  "symbols": [
+    "Peter's key (implied) — the authority to bind and loose given by Christ (Matthew 16:19)",
+    "Paul's open book — the Epistles through which the Gospel was transmitted to the Gentile world",
+    "the two figures together — the twin pillars of the Church, Jew and Gentile united in Christ",
+    "Peter's golden cloak — the warmth of pastoral leadership, the shepherd of Christ's flock",
+    "Paul's red mantle — the fire of apostolic zeal and eventual martyrdom"
+  ],
+  "description": "Two bearded men stand side by side in a half-length portrait against a dark background. The man on the left has gray curly hair and beard, wearing a golden-ochre cloak over a white garment, his hands clasped together at waist level. The man on the right is balding with a dark pointed beard, wearing a deep red mantle over a white shirt, his right hand resting on an open book on a ledge below. Both gaze directly at the viewer with intense, penetrating expressions. The dramatic lighting illuminates their faces and hands from the left.",
+  "theological_description": "El Greco pairs the two pillars of the apostolic Church — Peter and Paul — whose partnership and occasional tension defined early Christianity. Peter, the first called, received from Christ the keys of the kingdom (Matthew 16:18-19) and became the shepherd of the Jewish Christian community. Paul, the former persecutor transformed on the Damascus road (Acts 9:1-19), became the apostle to the Gentiles (Galatians 2:7-8). Paul himself describes the decisive meeting at the Jerusalem Council where they 'gave the right hand of fellowship' to him and Barnabas (Galatians 2:9), recognizing that the same God who worked through Peter for the circumcised worked through Paul for the uncircumcised. Paul's open book signifies the Epistles — the theological foundation of Christian doctrine. Together they represent the universality of the Gospel: to the Jew first, and also to the Greek (Romans 1:16). Tradition holds both were martyred in Rome under Nero, their blood seeding the Church they built.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ gives Peter the keys to the kingdom and authority to bind and loose"
+    },
+    {
+      "ref": "GAL.2.7-9",
+      "relevance": "primary",
+      "reason": "Peter entrusted with the Gospel to the circumcised, Paul to the uncircumcised — their complementary missions"
+    },
+    {
+      "ref": "ACT.9.1-19",
+      "relevance": "primary",
+      "reason": "Paul's conversion on the Damascus road — the foundation of his apostleship"
+    },
+    {
+      "ref": "ROM.1.16",
+      "relevance": "allusion",
+      "reason": "The Gospel as power of salvation to the Jew first and also to the Greek — embodied in this pairing"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intense",
+    "solemn",
+    "authoritative"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0160255",
+    "title": "Apostles Peter and Paul",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

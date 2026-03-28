@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit (as dove)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Crowd of onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Baptism of Christ in the Jordan River",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "john-the-baptist",
+    "holy-spirit-dove",
+    "trinitarian-theophany",
+    "water",
+    "crowd-scene",
+    "classical-landscape",
+    "poussin"
+  ],
+  "symbols": [
+    "dove descending from heaven — the Holy Spirit manifesting at Christ's baptism in bodily form",
+    "water of the Jordan — ritual purification, death and rebirth, the passage into new life",
+    "John pouring water over Christ — the baptizer acknowledging the one mightier than himself",
+    "crowd witnessing — the public inauguration of Christ's ministry before the people",
+    "tree on the hilltop — the tree of life, the new Eden inaugurated by Christ's public ministry"
+  ],
+  "description": "A classical landscape painting by Nicolas Poussin depicting the Baptism of Christ. At center-right, John the Baptist in a red garment pours water over the head of Jesus, who stands bare-chested in the shallow river with hands clasped in prayer. A white dove descends from a break in the clouds above. Multiple figures surround the scene in various postures — some undressing to be baptized, others watching, some already in the water. The setting is an idealized classical landscape with a large tree on a hill in the background, mountains in the distance, and a luminous sky.",
+  "theological_description": "Poussin's Baptism of Christ depicts the Trinitarian theophany described in all four Gospels (Matthew 3:13-17, Mark 1:9-11, Luke 3:21-22, John 1:29-34). As Jesus emerged from the water, heaven was opened, the Spirit of God descended like a dove, and a voice from heaven said, 'This is my Son, whom I love; with Him I am well pleased.' This moment is the public inauguration of Jesus's messianic ministry and the clearest revelation of the Trinity in the Gospels: the Father speaks from heaven, the Son stands in the water, the Spirit descends as a dove. John had been preparing the way as Isaiah prophesied (Isaiah 40:3), and now recognized Jesus as 'the Lamb of God who takes away the sin of the world' (John 1:29). Christ's submission to baptism, though He had no sin to repent of, fulfilled what He told the reluctant John: 'It is proper for us to fulfill all righteousness' (Matthew 3:15). Paul later interpreted baptism as participation in Christ's death and resurrection (Romans 6:3-4), making this Jordan scene the prototype of all Christian baptism. The diverse crowd witnessing the event reflects the universality of the Gospel invitation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "The baptism of Jesus by John, the heavens opening, the Spirit descending, and the Father's voice — the exact event depicted"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John's declaration of Jesus as the Lamb of God — the theological identification occurring at this event"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness to prepare the way of the Lord — John's baptizing ministry"
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "typological",
+      "reason": "Baptism as participation in Christ's death and resurrection — the sacramental meaning inaugurated here"
+    },
+    {
+      "ref": "LUK.3.21-22",
+      "relevance": "primary",
+      "reason": "Luke's account specifying the Holy Spirit descended in bodily form like a dove — the dove visible in the painting"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "serene",
+    "luminous",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190580",
+    "title": "The Baptism of Christ",
+    "artist": "Nicolas Poussin",
+    "model": "claude-opus-4-6"
+  }
+}

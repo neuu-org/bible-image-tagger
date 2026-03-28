@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ (Dead)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Entombment of Christ",
+  "tags": [
+    "entombment",
+    "dead-christ",
+    "mourning",
+    "body-on-ground",
+    "grief",
+    "linen-shroud",
+    "kneeling-figures",
+    "barren-landscape",
+    "warm-tones",
+    "golden-palette",
+    "weeping-women",
+    "passion-of-christ"
+  ],
+  "symbols": [
+    "body of Christ laid on the ground — the completed sacrifice resting before burial",
+    "mourning women — the faithful witnesses who stayed when the disciples fled",
+    "kneeling figure at Christ's feet — devoted grief and love for the dead Savior",
+    "barren hillscape — the desolation of Golgotha and the emptiness of a world without its Lord",
+    "linen cloth — the burial shroud preparing the body for the tomb"
+  ],
+  "description": "A horizontal painting in warm golden-brown tones showing the body of Christ laid out on the ground in the foreground, pale and lifeless. Several figures surround the body in attitudes of grief: a woman bends over Christ's torso, another kneels at his feet with bowed head, and additional standing figures look on in sorrow. The background shows a bare, hilly landscape under a muted sky. The palette is dominated by warm ochre, gold, and brown tones, giving the entire scene a somber, subdued atmosphere. The figures wear robes in reds, blues, and earth tones.",
+  "theological_description": "The Entombment marks the solemn interval between Christ's death and resurrection. The body that hung on the cross is now received by those who loved him most. John 19:38-42 records how Joseph of Arimathea and Nicodemus took the body, wrapped it in linen with spices, and laid it in a new garden tomb. The women who had followed Jesus from Galilee — Mary Magdalene and the other Mary — watched where the body was laid (Mark 15:47), already planning to return after the Sabbath with more spices. This scene of devastating grief is also a scene of profound faith: those who tend the dead body still show it reverence and love, not yet knowing that on the third day this same body will be raised in glory. Paul's creedal summary is enacted here: 'Christ died for our sins in accordance with the Scriptures, he was buried, and he was raised on the third day' (1 Corinthians 15:3-4). The burial confirms the reality of the death; without genuine death, there can be no genuine resurrection. Isaiah 53:9 prophesied: 'They made his grave with the wicked and with a rich man in his death.' Every gesture of care lavished on the dead Christ is an act of worship — the worship of a God who descended even into the grave for the sake of his beloved.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "The burial narrative with Joseph, Nicodemus, linen, and spices"
+    },
+    {
+      "ref": "MRK.15.46-47",
+      "relevance": "primary",
+      "reason": "Joseph wrapping the body in linen and the women watching where the body was laid"
+    },
+    {
+      "ref": "1CO.15.3-4",
+      "relevance": "typological",
+      "reason": "The creedal formula that Christ was buried, confirming the reality of his death before the resurrection"
+    },
+    {
+      "ref": "ISA.53.9",
+      "relevance": "typological",
+      "reason": "The prophecy that the Servant's grave would be with the rich in his death"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "solemn",
+    "mournful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180748",
+    "title": "Entombment",
+    "artist": "Carl Wenig",
+    "model": "claude-opus-4-6"
+  }
+}

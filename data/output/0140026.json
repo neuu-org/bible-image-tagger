@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Roman Archers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers and Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Martyrdom of Saint Sebastian",
+  "tags": [
+    "saint-sebastian",
+    "martyrdom",
+    "arrows",
+    "tied-to-tree",
+    "roman-soldiers",
+    "archers",
+    "angel-with-crown",
+    "persecution",
+    "early-church",
+    "faithful-unto-death",
+    "naked-torso",
+    "crown-of-martyrdom",
+    "tree",
+    "bow-and-arrow"
+  ],
+  "symbols": [
+    "arrows piercing the body — the instruments of martyrdom and the attacks of the world upon faith",
+    "angel descending with crown — divine reward and the crown of life promised to the faithful",
+    "tree to which Sebastian is tied — echoes of the cross and the tree of life",
+    "near-nudity of the saint — vulnerability, innocence, and stripping away of worldly identity",
+    "upward gaze of the martyr — unwavering focus on heavenly reward amid earthly torment",
+    "archers drawing bows — the hostility of imperial Rome toward Christian faith"
+  ],
+  "description": "A muscular young man is tied to a tree at the left of the composition, his torso exposed and his body pierced by arrows. He gazes upward toward a winged angel descending from the upper right, who carries what appears to be a palm or crown. To the right, a group of soldiers and archers in colorful garments draw bows and aim at the bound figure. Additional figures crowd the middle ground amid a wooded landscape. The sky above is dramatic with golden light breaking through clouds.",
+  "theological_description": "The Martyrdom of Saint Sebastian depicts one of the most celebrated of early Christian martyrs. According to tradition, Sebastian was a Roman soldier and secret Christian who was sentenced to death by Emperor Diocletian. Tied to a stake, he was shot with arrows but survived, only to be beaten to death later. While Sebastian is not a biblical figure, his martyrdom powerfully illustrates New Testament teachings about faithful witness unto death. Jesus warned his disciples: 'They will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name's sake' (Matthew 24:9). The angel descending with the crown fulfills the promise of Revelation 2:10: 'Be faithful unto death, and I will give you the crown of life.' Sebastian's bound, arrow-pierced body has long been seen as a type of Christ's own passion — the innocent one suffering at the hands of worldly power. Paul's testimony resonates here: 'I have fought the good fight, I have finished the race, I have kept the faith. Henceforth there is laid up for me the crown of righteousness' (2 Timothy 4:7-8). The scene testifies to the blood of the martyrs as the seed of the Church.",
+  "scripture_refs": [
+    {
+      "ref": "REV.2.10",
+      "relevance": "primary",
+      "reason": "The promise of the crown of life to those faithful unto death is visually depicted by the angel bearing a crown to the dying martyr"
+    },
+    {
+      "ref": "MAT.24.9",
+      "relevance": "primary",
+      "reason": "Jesus's prophecy that his followers would be hated and put to death is fulfilled in Sebastian's execution"
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "allusion",
+      "reason": "Paul's declaration of having fought the good fight and awaiting the crown of righteousness parallels Sebastian's faithful martyrdom"
+    },
+    {
+      "ref": "ROM.8.36-37",
+      "relevance": "allusion",
+      "reason": "Paul's quotation that believers are killed all day long as sheep for slaughter yet are more than conquerors through Christ"
+    },
+    {
+      "ref": "ACT.7.59-60",
+      "relevance": "typological",
+      "reason": "Stephen's martyrdom — the first Christian martyr gazing heavenward as he dies — establishes the pattern Sebastian follows"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "heroic",
+    "transcendent",
+    "dramatic"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0140026",
+    "title": "Martyrdom of Saint Sebastian",
+    "artist": "Hans von Aachen",
+    "model": "claude-opus-4-6"
+  }
+}

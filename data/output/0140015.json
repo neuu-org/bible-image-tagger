@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Cherubim",
+      "type": "GROUP"
+    },
+    {
+      "name": "Prophets/Patriarchs",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Immaculate Conception of the Virgin Mary",
+  "tags": [
+    "immaculate-conception",
+    "virgin-mary",
+    "assumption",
+    "angels",
+    "cherubim",
+    "clouds",
+    "heavenly-glory",
+    "blue-mantle",
+    "radiant-light",
+    "golden-sunburst",
+    "globe",
+    "celestial-dome",
+    "church-ceiling",
+    "arms-outstretched",
+    "divine-purity"
+  ],
+  "symbols": [
+    "Mary standing on clouds — exaltation above the earthly realm and sinless purity",
+    "blue mantle — heavenly grace and the traditional color of the Virgin",
+    "golden sunburst beneath — the woman clothed with the sun from Revelation 12",
+    "globe at base — Mary's role as Queen of Heaven interceding for the whole world",
+    "surrounding angels and cherubim — the heavenly court attending the immaculate one",
+    "radiant golden light — divine glory and the absence of original sin",
+    "arched architectural framing — the vault of heaven as the setting for this mystery"
+  ],
+  "description": "A large ceiling or apse painting within an ornate architectural frame. At the center, a woman in a white dress and blue mantle stands atop billowing clouds with arms outstretched, bathed in golden light. She is surrounded by numerous angels and cherubim in varying postures of adoration and flight. In the lower spandrels, larger seated figures appear to represent prophets or patriarchs. Below the central scene, a golden sunburst radiates from a globe. The entire composition is set within an arched, gilded architectural framework.",
+  "theological_description": "Costanzi's Immaculate Conception presents the Catholic doctrine that Mary was preserved from original sin from the moment of her conception — a belief rooted in the angel Gabriel's salutation, 'Hail, full of grace, the Lord is with thee: blessed art thou among women' (Luke 1:28). The iconography draws heavily from Revelation 12:1 — 'a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars' — which Marian theology has long interpreted as a vision of the glorified Virgin. The blue mantle recalls the heavenly origin of her grace, while the golden radiance signifies that she was, from the first instant of her existence, filled with sanctifying grace. The surrounding angels represent the heavenly host that attends the one chosen to bear the Son of God. The prophets in the spandrels may represent those who foretold the coming of the Messiah through a virgin (Isaiah 7:14). The globe and sunburst below suggest the cosmic scope of the Incarnation that her sinless nature made possible. Genesis 3:15 stands behind this imagery — the promise that the woman's seed would crush the serpent's head — making Mary the New Eve whose obedience reversed the disobedience of the first mother.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "Gabriel's greeting 'full of grace' is the scriptural foundation for the doctrine of the Immaculate Conception depicted here"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman clothed with the sun is the direct iconographic source for the radiant, cloud-borne Virgin"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The protoevangelium — enmity between the woman and the serpent — underlies the theology of Mary's preservation from sin"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "allusion",
+      "reason": "The virgin who shall conceive is prophetically anticipated in the flanking figures and the exaltation of Mary's purity"
+    },
+    {
+      "ref": "LUK.1.48-49",
+      "relevance": "primary",
+      "reason": "Mary's declaration that all generations shall call her blessed and that the Mighty One has done great things for her"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "glorious",
+    "celestial",
+    "radiant",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140015",
+    "title": "The Immaculate Conception",
+    "artist": "Placido Costanzi",
+    "model": "claude-opus-4-6"
+  }
+}

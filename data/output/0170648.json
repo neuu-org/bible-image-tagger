@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna teaching the Christ Child to write or read",
+  "tags": [
+    "madonna-and-child",
+    "writing-child",
+    "open-book",
+    "halo",
+    "dark-mantle",
+    "red-dress",
+    "seated-madonna",
+    "child-on-stool",
+    "landscape-background",
+    "palm-trees",
+    "teaching",
+    "education-of-christ"
+  ],
+  "symbols": [
+    "child writing in a book — the Word of God learning human letters, the divine condescension",
+    "Mary guiding the child — the mother instructing God incarnate in human knowledge",
+    "open book — Scripture, wisdom, and the divine Word taking written form",
+    "halo on Mary — her sanctity as the Mother of God",
+    "palm trees — the Holy Land, suggesting the setting of Nazareth"
+  ],
+  "description": "The Virgin Mary sits at right, wearing a dark blue-black mantle over a red dress, with a golden halo. She holds an open book in her lap. The Christ Child stands on a small wooden stool at left, leaning over the book and appearing to write or point at text, wearing a pink-red garment with a dark necklace or collar. Behind them, a detailed landscape unfolds with palm trees, rocky hills, distant buildings, and riders on horseback. The scene is set outdoors with a warm, luminous sky.",
+  "theological_description": "Pinturicchio's Madonna with Writing Child depicts a tender domestic scene from the hidden years of Jesus's childhood in Nazareth — the period Luke 2:51-52 summarizes: 'He went down to Nazareth and was obedient to them... And Jesus grew in wisdom and stature, and in favor with God and man.' The image of the Word of God (John 1:1) learning to read and write human letters is a profound meditation on the Incarnation: the one who inscribed the Law on tablets of stone (Exodus 31:18) now learns the alphabet from his mother. Mary as teacher fulfills her role in the human formation of the Messiah — the child who at age twelve would astonish the teachers in the Temple with his understanding (Luke 2:46-47). The open book anticipates Christ's adult ministry of teaching and his use of Scripture, as when he read from Isaiah in the synagogue at Nazareth: 'The Spirit of the Lord is on me' (Luke 4:18). The scene visualizes the kenosis at its most intimate: God learning from a creature.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.51-52",
+      "relevance": "primary",
+      "reason": "Jesus grew in wisdom and stature — the hidden years of childhood education depicted"
+    },
+    {
+      "ref": "LUK.2.46-47",
+      "relevance": "typological",
+      "reason": "The twelve-year-old Jesus astounding teachers in the Temple — the fruit of this early education"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "allusion",
+      "reason": "The Word was with God — the divine Word now learning human words"
+    },
+    {
+      "ref": "LUK.4.16-18",
+      "relevance": "allusion",
+      "reason": "Jesus reading from the scroll of Isaiah in the synagogue — the adult use of literacy learned in childhood"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "domestic",
+    "contemplative",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170648",
+    "title": "Madonna with Writing Child",
+    "artist": "Pinturicchio",
+    "model": "claude-opus-4-6"
+  }
+}

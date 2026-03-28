@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna with Child (sculpture)",
+  "tags": [
+    "madonna-and-child",
+    "virgin-and-child",
+    "polychrome-sculpture",
+    "standing-madonna",
+    "veil",
+    "tender-embrace",
+    "devotional-statue"
+  ],
+  "symbols": [
+    "Mary holding the child — the Theotokos, the God-bearer, through whom the divine entered the world",
+    "child's alert gaze — the Word made flesh, fully conscious and present even in infancy",
+    "Mary's gentle tilt of head — maternal tenderness and the sorrow that accompanies knowing the child's destiny"
+  ],
+  "description": "A polychrome wooden sculpture approximately three feet tall showing a standing woman in flowing robes and a veil, holding a small child on her left arm. The child reaches toward the viewer with an alert expression. The woman's head tilts slightly downward and to the side in a gesture of tender affection. Traces of original paint remain — blue, pink, and cream on the drapery. The sculpture has a slight sway to the body typical of Gothic devotional statuary.",
+  "theological_description": "The standing Madonna with Child is perhaps the most ubiquitous image in Christian art, expressing the central mystery of the Incarnation. Mary carries the one of whom Isaiah prophesied: 'The virgin will conceive and give birth to a son, and will call him Immanuel' — God with us (Isaiah 7:14, Matthew 1:23). The child's outward gaze toward the viewer transforms this from private maternal scene to salvific encounter — Christ looks out upon the world he came to save. Paul captures the mystery: 'When the set time had fully come, God sent his Son, born of a woman' (Galatians 4:4). The statue's devotional function invites the faithful to contemplate the paradox that the infinite God was contained in the arms of a young mother, sustained by her milk, dependent on her care.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.7.14",
+      "relevance": "primary",
+      "reason": "The virgin shall conceive and bear a son, Immanuel — the prophecy embodied in this image"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent his Son, born of a woman — the Incarnation depicted in sculptural form"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things in her heart — the contemplative maternal gaze"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160501",
+    "title": "Madonna with Child",
+    "artist": "Filippo Brunelleschi",
+    "model": "claude-opus-4-6"
+  }
+}

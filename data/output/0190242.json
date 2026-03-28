@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with the boy Saint John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "infant-jesus",
+    "young-john-the-baptist",
+    "virgin-mary",
+    "devotional",
+    "gold-frame",
+    "landscape-background",
+    "maternal-tenderness"
+  ],
+  "symbols": [
+    "Madonna holding the Child — the Incarnation, God made flesh through the Virgin Mother",
+    "young John the Baptist — the forerunner recognizing the Lamb of God even in childhood",
+    "landscape in background — the earthly world into which God descended"
+  ],
+  "description": "A painting shown within an ornate gilded frame with carved floral and scroll motifs. The composition depicts the Virgin Mary in a salmon-pink and golden robe seated in a three-quarter pose, tenderly holding the infant Jesus who stands on her lap leaning against her. A second small child, the young John the Baptist, appears at the lower left reaching toward the Christ Child. The background shows a dark landscape with a distant evening sky. The painting has a warm, intimate character with soft modeling of the figures.",
+  "theological_description": "This intimate devotional painting depicts the Virgin Mary with the infant Jesus and the young John the Baptist, a subject combining the theology of the Incarnation with the Baptist's role as forerunner. The encounter between the two children echoes the earlier meeting in Luke 1:41-44, when the unborn John leaped in Elizabeth's womb at the approach of the pregnant Mary, recognizing the presence of the Lord. John's reaching toward Christ in childhood foreshadows his adult declaration in John 1:29, 'Behold the Lamb of God who takes away the sin of the world.' Mary's tender embrace of the divine Child incarnates the mystery of Galatians 4:4, 'When the fullness of time had come, God sent forth His Son, born of woman.' The maternal intimacy conveys the full reality of the Incarnation — the infinite God truly became a vulnerable infant dependent on human care, entering fully into the human condition to redeem it from within.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The young Baptist's recognition of Christ echoes the fetal John leaping at Mary's greeting to Elizabeth"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John the Baptist's childhood encounter with Jesus foreshadows his adult proclamation of the Lamb of God"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent His Son born of woman — the Incarnation made visible in Mary holding the divine Child"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "allusion",
+      "reason": "Mary caring for the infant Jesus reflects the nativity account of the Word made flesh"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "peaceful",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190242",
+    "title": "Madonna and Child with the Boy Saint John the Baptist",
+    "artist": "Ludovico Carracci",
+    "model": "claude-opus-4-6"
+  }
+}

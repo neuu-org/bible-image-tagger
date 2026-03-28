@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Female Saint (Catherine or Mary Magdalene)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Virgin and Child with a Female Saint and the Young John the Baptist",
+  "tags": [
+    "virgin-and-child",
+    "young-john-the-baptist",
+    "lamb",
+    "female-saint",
+    "landscape-background",
+    "nursing-infant",
+    "red-dress",
+    "devotional-scene"
+  ],
+  "symbols": [
+    "infant at Mary's breast — the Incarnate Word sustained by human motherhood",
+    "young John the Baptist with lamb — the Forerunner and the Lamb of God he will one day proclaim",
+    "lamb — Christ as the Lamb of God who takes away the sin of the world",
+    "kneeling female saint — devoted veneration of the Christ child",
+    "lush green landscape — the new Eden brought about by the Incarnation"
+  ],
+  "description": "In a lush green landscape with rocky cliffs and distant blue mountains, four figures form an intimate group. A woman in a white veil and dark dress sits at center, looking down tenderly. Before her, a woman in a red dress leans forward, embracing or nursing an infant in dark garments. To the right, a young boy stands beside a small white lamb, looking toward the group. The landscape behind is verdant with dense trees. Warm afternoon light falls on the figures.",
+  "theological_description": "This sacra conversazione — a holy conversation among saints across time — brings together Mary, the Christ child, a female saint, and the young John the Baptist. The lamb beside the Baptist child prefigures his adult proclamation: 'Behold, the Lamb of God, who takes away the sin of the world!' (John 1:29). The intimate domestic setting masks cosmic significance — this infant is 'the image of the invisible God, the firstborn over all creation' (Colossians 1:15). The kneeling saint models the devotion that all believers owe to Christ. The lush landscape evokes Eden restored — through this child, the curse of Genesis 3 will be reversed and creation renewed. Mary's centrality reflects her unique role as Theotokos — the God-bearer — through whom the divine entered the material world.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God — the young Baptist with the lamb prefigures this proclamation"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "typological",
+      "reason": "The Baptist leaping in the womb at the presence of Christ — the childhood intimacy depicted"
+    },
+    {
+      "ref": "COL.1.15",
+      "relevance": "allusion",
+      "reason": "The image of the invisible God — the infant Christ as the visible face of the unseen Father"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "pastoral",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160453",
+    "title": "Virgin and Child with Saint and Saint John",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

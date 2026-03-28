@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ahimelech",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "David receives the consecrated bread from the priest Ahimelech",
+  "tags": [
+    "david",
+    "ahimelech",
+    "showbread",
+    "consecrated-bread",
+    "sanctuary",
+    "nob",
+    "priestly-offering",
+    "ceiling-panel",
+    "baroque-frame"
+  ],
+  "symbols": [
+    "consecrated bread offered by the priest — the showbread of the Presence, holy bread given to the hungry fugitive",
+    "David kneeling before the priest — humility of the anointed king seeking God's provision in desperation",
+    "sanctuary setting — the tabernacle at Nob where sacred things served human need",
+    "golden vessels — the sacred objects of worship, the holiness of God's house"
+  ],
+  "description": "A ceiling panel painting set within an ornate white and gold cartouche frame. The scene depicts a kneeling figure in rich red-purple robes (David) receiving bread from a standing bearded figure wearing a crown or priestly headdress (Ahimelech) on steps before a curtained sanctuary. Several attendants and soldiers watch from the left side. Golden vessels and ritual objects are visible at the right. The palette is dark and dramatic with rich warm tones typical of Venetian Baroque painting.",
+  "theological_description": "This ceiling panel depicts the episode from 1 Samuel 21:1-6 when David, fleeing from King Saul, came to the priest Ahimelech at Nob and asked for bread. Having no ordinary bread, Ahimelech gave David the consecrated bread of the Presence — the showbread that had been removed from before the Lord and replaced with fresh bread. This seemingly minor narrative episode gained enormous theological significance when Jesus cited it in Mark 2:25-26 to defend His disciples for plucking grain on the Sabbath. Jesus's argument was revolutionary: human need can take precedence over ceremonial law because the Sabbath was made for man, not man for the Sabbath (Mark 2:27). The event thus became a key text in the theology of grace over legalism. The showbread itself carried deep symbolism — twelve loaves representing the twelve tribes, placed perpetually before God (Leviticus 24:5-9) — and its consumption by David prefigures the Eucharist, where the Bread of the Presence becomes available to all who hunger. Tragically, Ahimelech's kindness cost him his life when Saul had him and 85 priests killed for aiding David (1 Samuel 22:18-19).",
+  "scripture_refs": [
+    {
+      "ref": "1SA.21.1-6",
+      "relevance": "primary",
+      "reason": "David receiving the consecrated showbread from Ahimelech at Nob is the exact scene depicted"
+    },
+    {
+      "ref": "MRK.2.25-26",
+      "relevance": "typological",
+      "reason": "Jesus cited this episode to teach that human need supersedes ceremonial law, giving it Christological significance"
+    },
+    {
+      "ref": "LEV.24.5-9",
+      "relevance": "primary",
+      "reason": "The regulations for the showbread that Ahimelech set aside to feed David"
+    },
+    {
+      "ref": "1SA.22.18-19",
+      "relevance": "allusion",
+      "reason": "The tragic consequence of Ahimelech's generosity — Saul's massacre of the priests at Nob"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "reverent",
+    "urgent"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0190338",
+    "title": "David riceve dal sacerdote Achimelec i pani offerti nel santuario",
+    "artist": "Palma il Giovane",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Dominic",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna Enthroned with the Child, Saints Francis and Dominic, and Angels",
+  "tags": [
+    "madonna-enthroned",
+    "virgin-and-child",
+    "saint-francis",
+    "saint-dominic",
+    "angels",
+    "gold-ground",
+    "medieval-panel",
+    "throne",
+    "halo",
+    "dark-mantle",
+    "franciscan-habit",
+    "dominican-habit",
+    "gabled-panel",
+    "byzantine-influence"
+  ],
+  "symbols": [
+    "enthroned Madonna — the Theotokos as Queen of Heaven and Seat of Wisdom",
+    "gold background — the eternal, timeless realm of divine glory",
+    "Saint Francis — voluntary poverty and conformity to Christ crucified",
+    "Saint Dominic — preaching the Word and defending the faith through truth",
+    "angels flanking — the heavenly court attending the Mother of God",
+    "Christ child holding scroll or book — the Word of God incarnate"
+  ],
+  "description": "A gabled panel painting with gold ground showing the Virgin Mary enthroned at center in a dark blue-black mantle, holding the infant Jesus on her left arm. The child holds what appears to be a small scroll or book and makes a gesture of blessing. Two angels lean in from behind the throne. At the lower left, a smaller figure in a brown Franciscan habit (Saint Francis) stands with a halo. At the lower right, a figure in a black and white Dominican habit (Saint Dominic) stands holding a lily. The style is Byzantine-influenced with rigid formality, gold halos, and a gold background.",
+  "theological_description": "Cimabue's Madonna Enthroned is one of the foundational works of Italian painting, presenting the Theotokos (God-bearer) in majestic Byzantine solemnity. Mary enthroned with the Christ child embodies the theological truth that 'the Word became flesh and dwelt among us' (John 1:14) — God entering the world through a human mother. The gold ground represents the eternal realm: 'Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God' (Psalm 90:2). Saint Francis, bearing the stigmata and wearing his simple habit, represents the imitation of Christ in radical poverty — 'though he was rich, yet for your sake he became poor' (2 Corinthians 8:9). Saint Dominic, founder of the Order of Preachers, embodies the ministry of the Word: 'How are they to hear without someone preaching? And how are they to preach unless they are sent?' (Romans 10:14-15). The two great mendicant founders flanking the throne represent the active and contemplative dimensions of the Church's response to the Incarnation — Francis living the Gospel through poverty and love, Dominic proclaiming it through word and truth.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh — the incarnate Christ held by his mother on the throne"
+    },
+    {
+      "ref": "2CO.8.9",
+      "relevance": "typological",
+      "reason": "Christ becoming poor for our sake — Saint Francis embracing poverty in imitation"
+    },
+    {
+      "ref": "ROM.10.14-15",
+      "relevance": "typological",
+      "reason": "The necessity of preaching — Saint Dominic as founder of the Order of Preachers"
+    },
+    {
+      "ref": "PSA.90.2",
+      "relevance": "allusion",
+      "reason": "God's eternity from everlasting to everlasting — the gold ground signifying timeless divine glory"
+    },
+    {
+      "ref": "LUK.1.43",
+      "relevance": "allusion",
+      "reason": "Elizabeth's cry 'the mother of my Lord' — Mary enthroned as Theotokos"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "majestic",
+    "hieratic",
+    "sacred",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140813",
+    "title": "Madonna Enthroned with the Child, St. Francis, St. Domenico and two Angels",
+    "artist": "Cimabue",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "name": "Saint Symphorien",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Study for the Martyrdom of Saint Symphorien",
+  "tags": [
+    "saint-symphorien",
+    "martyrdom",
+    "study",
+    "oil-sketch",
+    "elderly-head",
+    "raised-arm",
+    "classical-architecture",
+    "column",
+    "dramatic-gesture",
+    "preparatory-study",
+    "bearded-figure"
+  ],
+  "symbols": [
+    "raised arm — defiance or supplication in the face of martyrdom",
+    "classical architecture — the Roman setting of early Christian persecution",
+    "elderly bearded face — the wisdom and dignity of the martyr facing death"
+  ],
+  "description": "An oil study showing a close-up of an elderly bearded man's head and a raised arm reaching upward. The head is powerfully modeled with strong light and shadow. A classical column or architectural element is visible behind the figure. Red drapery or blood appears at the lower edge. The background includes blue sky visible through the architecture. The brushwork is loose and energetic, typical of a preparatory sketch for a larger composition.",
+  "theological_description": "Ingres's preparatory study for his painting of the Martyrdom of Saint Symphorien captures a figure from the crowd — possibly Symphorien's father or an onlooker — in a moment of intense emotion. Symphorien was a young Christian in Autun, Gaul, who was martyred around 178 AD for refusing to worship pagan idols. When commanded to honor the goddess Cybele, he reportedly responded by declaring the idol should be destroyed, leading to his execution. His martyrdom fulfills the first commandment: 'You shall have no other gods before me' (Exodus 20:3) and Christ's warning: 'You will be handed over to be persecuted and put to death' (Matthew 24:9). The raised arm in the study suggests either the mother's encouragement (tradition records she called from the city walls urging him to stand firm) or a gesture of protest. This connects to the testimony of the faithful who 'were tortured, refusing to accept release, so that they might rise again to a better life' (Hebrews 11:35).",
+  "scripture_refs": [
+    {
+      "ref": "EXO.20.3",
+      "relevance": "primary",
+      "reason": "No other gods — Symphorien's refusal to worship pagan idols"
+    },
+    {
+      "ref": "MAT.24.9",
+      "relevance": "primary",
+      "reason": "Persecution and death for Christ's sake — the martyrdom context"
+    },
+    {
+      "ref": "HEB.11.35",
+      "relevance": "allusion",
+      "reason": "Refusing release to obtain a better resurrection — the martyr's conviction"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intense",
+    "dramatic",
+    "anguished"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150953",
+    "title": "Study for the Martyrdom of St. Symphorien",
+    "artist": "Jean Auguste Dominique Ingres",
+    "model": "claude-opus-4-6"
+  }
+}

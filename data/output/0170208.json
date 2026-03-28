@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Haman",
+      "type": "PERSON"
+    },
+    {
+      "name": "King Ahasuerus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Esther",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Punishment of Haman",
+  "tags": [
+    "punishment-of-haman",
+    "cruciform-pose",
+    "pendentive",
+    "muscular-figure",
+    "bound-to-stake",
+    "king-ahasuerus",
+    "queen-esther",
+    "banquet-scene",
+    "divine-justice",
+    "old-testament"
+  ],
+  "symbols": [
+    "Haman hung on a stake in cruciform pose — divine justice reversing the wicked plot; prefiguration of the Cross",
+    "Ahasuerus at banquet — the royal authority that reverses injustice when truth is revealed",
+    "Esther at banquet — the intercessor who risks her life to save her people"
+  ],
+  "description": "A triangular pendentive fresco from the Sistine Chapel ceiling. At center, a powerful muscular male figure (Haman) is bound to a wooden stake or cross-like structure, his body twisted in agony, arms spread. To the left, a seated figure (King Ahasuerus) reclines at a banquet table. To the right, another group includes a reclining figure (Esther) on a bed or couch with attendants. The composition fills the triangular spandrel shape with dramatic foreshortening and monumental anatomy characteristic of Michelangelo's ceiling work.",
+  "theological_description": "Michelangelo's pendentive depicts the punishment of Haman from the Book of Esther (Esther 7:9-10). Haman, the chief minister of the Persian King Ahasuerus, had plotted to exterminate all Jews in the empire. Queen Esther, herself secretly Jewish, risked her life to reveal the plot at a banquet (Esther 7:3-6). The king ordered Haman to be hanged on the very gallows Haman had prepared for Mordecai (Esther 7:10) — a supreme instance of divine irony and justice. Michelangelo deliberately renders Haman in a cruciform pose, which the Church Fathers (including the Pseudo-Chrysostom and Rabanus Maurus) interpreted as a typological prefiguration of the Crucifixion: the wicked are destroyed by the very instrument that becomes, in Christ, the means of salvation. The three scenes — Esther's banquet plea, Haman's execution, and the king's judgment — compress the narrative into a single visual field, emphasizing the swift reversal that occurs when hidden evil is exposed before righteous authority. The broader theological lesson is that of Proverbs 26:27: 'Whoever digs a pit will fall into it' — God's providential governance ensures that the schemes of the wicked recoil upon their own heads.",
+  "scripture_refs": [
+    {
+      "ref": "EST.7.9-10",
+      "relevance": "primary",
+      "reason": "Haman hanged on the gallows he had prepared for Mordecai — the punishment depicted at center"
+    },
+    {
+      "ref": "EST.7.1-6",
+      "relevance": "primary",
+      "reason": "Esther's banquet where she reveals Haman's plot to the king — the flanking scenes"
+    },
+    {
+      "ref": "EST.5.14",
+      "relevance": "primary",
+      "reason": "Haman had the gallows built to hang Mordecai — the ironic reversal"
+    },
+    {
+      "ref": "PRV.26.27",
+      "relevance": "typological",
+      "reason": "Whoever digs a pit will fall into it — the theological principle of divine justice reversing evil"
+    },
+    {
+      "ref": "PSA.7.15-16",
+      "relevance": "allusion",
+      "reason": "He who digs a hole and scoops it out falls into the pit he has made — the wicked trapped by their own devices"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "agonized",
+    "just",
+    "monumental"
+  ],
+  "period": "Exile",
+  "_meta": {
+    "key": "0170208",
+    "title": "Sistine Chapel Ceiling: The Punishment of Haman",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

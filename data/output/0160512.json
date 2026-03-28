@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Virgin and Child in a floral garland",
+  "tags": [
+    "virgin-and-child",
+    "floral-garland",
+    "roses",
+    "tulips",
+    "lilies",
+    "carnations",
+    "stone-cartouche",
+    "devotional-image",
+    "dark-background",
+    "flower-wreath"
+  ],
+  "symbols": [
+    "roses — Mary as the Mystical Rose, love and the blood of the Passion",
+    "lilies — purity and virginity of the Blessed Mother",
+    "tulips — the fleeting beauty of earthly life (vanitas), contrasted with the eternal Child",
+    "garland encircling the Madonna — creation offering its beauty to the Creator incarnate",
+    "stone cartouche — the enduring framework of faith that holds the sacred image"
+  ],
+  "description": "A central oval image of a woman in a red dress holding a nude infant, set within an ornate stone cartouche. Surrounding the cartouche is a lavish garland of flowers — red and pink roses, white lilies, tulips with red and white stripes, carnations, and various smaller blossoms — arranged against a very dark background. The flowers are rendered with botanical precision and rich color. The Madonna and Child in the center medallion are warmly lit against a dark interior.",
+  "theological_description": "The garland Madonna tradition combines the Incarnation with the beauty of creation as an act of devotion. The flowers surrounding the Virgin and Child are not merely decorative but theological — each species carries Marian or christological significance. The lily is Mary's traditional symbol of purity (Luke 1:28, 'full of grace'). The roses evoke the Marian title 'Mystical Rose' and also the blood of the Passion. The garland itself enacts the logic of Romans 1:20: 'Since the creation of the world God's invisible qualities — his eternal power and divine nature — have been clearly seen, being understood from what has been made.' Creation, in all its ephemeral beauty, frames and points toward the eternal truth at its center — God become a child in his mother's arms. The contrast between the perishable flowers and the eternal Christ echoes Isaiah: 'The grass withers and the flowers fall, but the word of our God endures forever' (Isaiah 40:8).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "Hail, full of grace — Mary's purity symbolized by the lilies in the garland"
+    },
+    {
+      "ref": "ROM.1.20",
+      "relevance": "typological",
+      "reason": "God's invisible qualities seen through creation — the flowers pointing to the divine Child at center"
+    },
+    {
+      "ref": "ISA.40.8",
+      "relevance": "allusion",
+      "reason": "Flowers fade but God's word endures — the transient garland framing the eternal Word"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "devotional",
+    "lush",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160512",
+    "title": "The Virgin and Child, in a Sculpted Cartouche, Surrounded by Garlands of Roses, Tulips, Carnations, Lillies and Other Flowers",
+    "artist": "Jan van Kessel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

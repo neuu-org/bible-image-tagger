@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "name": "Female Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "A Female Saint (Fresco Fragment)",
+  "tags": [
+    "female-saint",
+    "fresco-fragment",
+    "halo",
+    "hands-on-chest",
+    "damaged-painting",
+    "veil",
+    "contemplative",
+    "trecento",
+    "devotional-figure",
+    "fragmentary"
+  ],
+  "symbols": [
+    "halo — sanctity and the light of grace shining through the saint",
+    "hands crossed on chest — devotion, acceptance, and prayerful surrender",
+    "veil — modesty and the consecrated life",
+    "fragmentary condition — the fragility and endurance of sacred art through time"
+  ],
+  "description": "A fragmentary fresco showing the upper body of a female figure with a large fan-shaped or shell-shaped halo behind her head. She wears a veil and has her hands crossed or placed on her chest in a gesture of devotion. Her face is rendered with delicate features and a slightly downcast gaze. The fresco is heavily damaged and fragmentary, with large areas of plaster missing, leaving only the central portion of the figure against a pale, deteriorated background. The painting style is characteristic of 14th-century Italian fresco.",
+  "theological_description": "Lorenzetti's fragmentary fresco of an unidentified female saint preserves a moment of devotional art from medieval Italy. While the specific saint cannot be identified due to the fragment's condition, the posture of hands on chest and downcast eyes evokes Mary's response at the Annunciation: 'Behold, I am the servant of the Lord; let it be to me according to your word' (Luke 1:38). This posture of humble acceptance became the model for all female sanctity in the Christian tradition. The halo signifies the saint's participation in divine glory: 'The righteous will shine like the sun in the kingdom of their Father' (Matthew 13:43). Paul encourages all believers toward this sanctity: 'Be imitators of God, as beloved children. And walk in love, as Christ loved us' (Ephesians 5:1-2). The fragmentary condition of the fresco itself carries theological weight — the saints' witness endures even when the material form crumbles, testifying to the imperishable nature of faith itself (1 Peter 1:4).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Mary's posture of humble acceptance — the saint's hands on chest echo the fiat of the Annunciation"
+    },
+    {
+      "ref": "MAT.13.43",
+      "relevance": "allusion",
+      "reason": "The righteous shining like the sun — the halo signifying participation in divine glory"
+    },
+    {
+      "ref": "EPH.5.1-2",
+      "relevance": "allusion",
+      "reason": "Walking in love as imitators of God — the devotional posture of the saint"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "fragile",
+    "devotional"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0141079",
+    "title": "A Female Saint",
+    "artist": "Pietro Lorenzetti",
+    "model": "claude-opus-4-6"
+  }
+}

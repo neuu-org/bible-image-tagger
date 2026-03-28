@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Lazarus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary of Bethany",
+      "type": "PERSON"
+    },
+    {
+      "name": "Martha",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jewish Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Resurrection of Lazarus",
+  "tags": [
+    "resurrection-of-lazarus",
+    "raising-the-dead",
+    "tomb",
+    "grave-cloths",
+    "miracle",
+    "weeping-women",
+    "kneeling",
+    "medieval-city",
+    "haloed-figures",
+    "astonishment"
+  ],
+  "symbols": [
+    "Lazarus rising from the tomb — the power of Christ over death, prefiguring his own Resurrection",
+    "grave cloths still on the body — the boundary between death and life being crossed",
+    "kneeling woman — Mary or Martha at Jesus's feet, faith rewarded by the miracle",
+    "onlookers' amazement — the witnesses whose belief was tested and confirmed",
+    "city and fortress behind — Bethany near Jerusalem, the world where death still reigns but is now challenged"
+  ],
+  "description": "A crowded scene before a medieval city with towers and a gate. At center, a figure in dark robes (Christ) stands with one hand raised toward a man emerging from a stone tomb at left. The risen man, pale and partially wrapped in white grave cloths, sits upright in the open sarcophagus. A woman in green robes kneels at Jesus's feet. A woman in white holds a cloth to her nose. Other figures — some with halos, some richly dressed — react with gestures of amazement, prayer, and discussion. The background shows a walled city, green hills, and blue mountains.",
+  "theological_description": "The raising of Lazarus (John 11:1-44) is the culmination of Jesus's signs in the Fourth Gospel and the immediate provocation for his arrest and crucifixion. Jesus declares to Martha: 'I am the resurrection and the life. The one who believes in me will live, even though they die' (John 11:25). This is not merely a miracle but a theophanic self-revelation — Jesus claims to be the very principle of resurrection itself. Lazarus dead four days (John 11:39) demonstrates that this is no mere resuscitation but a foretaste of the eschatological resurrection. Martha's earlier complaint — 'Lord, if you had been here, my brother would not have died' (John 11:21) — gives way to the most powerful single command in the Gospels: 'Lazarus, come out!' (John 11:43). The woman holding a cloth to her nose references Martha's warning about the stench of decomposition (John 11:39). This miracle seals Jesus's fate — the Sanhedrin decides he must die (John 11:53) — making the giver of life the target of death.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.11.1-44",
+      "relevance": "primary",
+      "reason": "The complete narrative of the raising of Lazarus from the dead"
+    },
+    {
+      "ref": "JHN.11.25-26",
+      "relevance": "primary",
+      "reason": "Jesus's declaration: I am the resurrection and the life"
+    },
+    {
+      "ref": "JHN.11.53",
+      "relevance": "allusion",
+      "reason": "This miracle provokes the plot to kill Jesus — life given leads to life taken"
+    },
+    {
+      "ref": "EZK.37.12-14",
+      "relevance": "typological",
+      "reason": "God opening graves and raising the dead — Ezekiel's vision fulfilled in Christ's power"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "astonished",
+    "dramatic",
+    "solemn",
+    "hopeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160576",
+    "title": "Resurrection of Lazarus",
+    "artist": "Geertgen tot Sint Jans",
+    "model": "claude-opus-4-6"
+  }
+}

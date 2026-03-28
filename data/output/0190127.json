@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "passover-meal",
+    "bread-and-wine",
+    "apostles",
+    "upper-room",
+    "betrayal-prophecy",
+    "institution-of-communion",
+    "architectural-interior"
+  ],
+  "symbols": [
+    "bread on the table — the body of Christ broken for the world, the institution of the Eucharist",
+    "wine vessel — the blood of the new covenant poured out for the forgiveness of sins",
+    "Christ at center with open hands — the divine host offering Himself as the sacrificial meal",
+    "arched architectural setting — the upper room in Jerusalem where the new covenant was inaugurated",
+    "dog beneath the table — a traditional symbol of fidelity, or the unworthy who receive crumbs"
+  ],
+  "description": "A monumental painting of the Last Supper set within a grand architectural interior with arched columns and vaulted ceilings. Through an opening on the left, a domed building is visible against an evening sky. Christ sits at the center of a long white-clothed table, wearing a blue garment over red, with both hands gesturing expressively. The twelve apostles are arranged around the table in animated poses — some leaning forward, some gesturing, others in conversation. The table holds bread, a red glass vessel of wine, and other dishes. A small dog rests beneath the table in the foreground.",
+  "theological_description": "Titian's Last Supper depicts the most sacred meal in Christian history, the Passover dinner at which Jesus instituted the Eucharist on the night before His crucifixion. As recorded in the Synoptic Gospels (Matthew 26:26-28, Mark 14:22-24, Luke 22:19-20), Jesus took bread, gave thanks, broke it, and said 'This is my body given for you; do this in remembrance of me.' Then He took the cup, saying 'This cup is the new covenant in my blood, which is poured out for you.' The theological weight of this moment cannot be overstated: Jesus deliberately reinterprets the Passover — the meal commemorating Israel's deliverance from Egypt — as pointing to His own sacrificial death, the ultimate Passover Lamb whose blood would deliver humanity from sin and death. The figure with his back turned in yellowish garments likely represents Judas, whose betrayal Jesus predicted at this very meal (John 13:21-26). Christ's open-handed gesture communicates both the self-offering of the divine Host and the grief of knowing one of His own would betray Him. Paul later reflects on the theological meaning of this meal in 1 Corinthians 11:23-26, declaring that whenever believers eat this bread and drink this cup, they proclaim the Lord's death until He comes.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "primary",
+      "reason": "Jesus instituting the Eucharist by identifying the bread as His body and wine as His blood of the new covenant"
+    },
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "Luke's account of the institution of the Lord's Supper with the command to do this in remembrance"
+    },
+    {
+      "ref": "JHN.13.21-26",
+      "relevance": "primary",
+      "reason": "Jesus's prediction of betrayal at the supper, likely reflected in the animated reactions of the apostles"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "typological",
+      "reason": "Paul's theological interpretation of the Last Supper as proclamation of the Lord's death until He comes"
+    },
+    {
+      "ref": "EXO.12.11-14",
+      "relevance": "typological",
+      "reason": "The original Passover meal that Jesus reinterprets, fulfilling the typology of the sacrificial lamb"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "dramatic",
+    "sacred",
+    "tense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190127",
+    "title": "Last Supper",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

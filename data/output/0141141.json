@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Ukrainian Madonna",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Attendant Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Ukrainian Madonna Enthroned",
+  "tags": [
+    "ukrainian-madonna",
+    "enthroned-virgin",
+    "infant-christ",
+    "gothic-shrine",
+    "red-palette",
+    "expressionist",
+    "folk-art-influenced",
+    "attendant-figures",
+    "pointed-arch",
+    "ornamental-throne",
+    "eastern-european",
+    "devotional"
+  ],
+  "symbols": [
+    "Madonna enthroned in shrine — the Mother of God as the dwelling place of the divine",
+    "red palette — love, sacrifice, and the blood of Christ",
+    "pointed Gothic shrine — the church as the setting for Marian devotion",
+    "attendant figures — the faithful community gathered around the Mother and Child"
+  ],
+  "description": "An expressionist painting of a Madonna and Child enthroned within a Gothic pointed-arch shrine or niche. The Virgin wears a red head covering and robes, holding the infant Christ. Two figures flank her on either side within the shrine. The entire composition is dominated by warm reds, pinks, and earthy tones, with loose, expressive brushwork. The architectural setting is suggested rather than precisely rendered. The background includes indistinct landscape elements. The style blends folk-art influences with modernist expressionism.",
+  "theological_description": "Novakivskyi's Ukrainian Madonna presents the Mother of God in the tradition of Eastern European Marian devotion, where the icon of the Theotokos holds central place in spiritual life. The enthroned Madonna embodies the theological truth proclaimed by Elizabeth: 'And why is this granted to me that the mother of my Lord should come to me?' (Luke 1:43). The expressionist red palette may evoke both the love of the Incarnation and the suffering to come — Mary would stand at the cross where 'a sword will pierce through your own soul also' (Luke 2:35). Ukrainian Marian devotion is deeply rooted in the Byzantine tradition that honors Mary as Theotokos (God-bearer), affirming the full divinity and humanity of Christ. The shrine setting reflects the practice of venerating icons as windows into the heavenly realm — what Paul describes as 'the things that are unseen' which 'are eternal' (2 Corinthians 4:18). Mary's centrality in Ukrainian spirituality echoes her own prophecy: 'From now on all generations will call me blessed' (Luke 1:48).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.43",
+      "relevance": "primary",
+      "reason": "The mother of my Lord — the Theotokos enthroned as the God-bearer"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "primary",
+      "reason": "All generations calling Mary blessed — the enduring Marian devotion across cultures"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "The sword piercing Mary's soul — the red palette hinting at suffering within the devotional image"
+    },
+    {
+      "ref": "2CO.4.18",
+      "relevance": "allusion",
+      "reason": "The unseen things that are eternal — the icon as a window into heavenly reality"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "warm",
+    "folk",
+    "expressive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0141141",
+    "title": "Ukrainian Madonna",
+    "artist": "Oleksa Novakivskyi",
+    "model": "claude-opus-4-6"
+  }
+}

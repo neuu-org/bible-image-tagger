@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints (in medallions)",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Interior of Hagia Sophia of Kyiv with Mosaic of Archangel Gabriel",
+  "tags": [
+    "hagia-sophia-kyiv",
+    "archangel-gabriel",
+    "byzantine",
+    "church-interior",
+    "icon",
+    "medallion-saints",
+    "gold-background",
+    "arch",
+    "pillar",
+    "orthodox-church",
+    "sacred-architecture",
+    "watercolor-study"
+  ],
+  "symbols": [
+    "Archangel Gabriel mosaic — the divine messenger who announced the Incarnation",
+    "gold mosaic ground — the uncreated light and divine glory of the heavenly realm",
+    "saints in medallions — the communion of saints watching over the faithful",
+    "church interior architecture — sacred space as the dwelling place of God on earth"
+  ],
+  "description": "A watercolor painting depicting the interior of a cathedral, focusing on a pillar and arch decorated with mosaics. The pillar features a large mosaic of the Archangel Gabriel in white and gold robes against a gold background, with circular medallion portraits of saints above. Decorative scrollwork borders the mosaic panels in gold and green. Through the arch, the dimly lit interior of the church is visible with another small window. The painting captures the warm golden tones of Byzantine mosaic art.",
+  "theological_description": "Khymych's watercolor study captures the interior of the Hagia Sophia Cathedral in Kyiv, one of the oldest surviving Orthodox churches (founded 1037), with its magnificent Byzantine mosaics. The prominent mosaic of Archangel Gabriel connects directly to Scripture: Gabriel is the angel sent by God to announce the most momentous event in salvation history — the Incarnation. Luke records: 'In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth, to a virgin betrothed to a man whose name was Joseph... And the angel said to her, Do not be afraid, Mary, for you have found favor with God. And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus' (Luke 1:26-31). Gabriel also appeared to Zechariah to announce John the Baptist's birth (Luke 1:11-20) and to Daniel to reveal eschatological visions (Daniel 8:16, 9:21). The gold background of the mosaic represents the uncreated light of God — the divine glory that 'dwells in unapproachable light' (1 Timothy 6:16). The sacred architecture itself embodies the promise: 'Where two or three are gathered in my name, there am I among them' (Matthew 18:20).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-31",
+      "relevance": "primary",
+      "reason": "Gabriel's Annunciation to Mary — the archangel depicted in the mosaic is the messenger of the Incarnation"
+    },
+    {
+      "ref": "LUK.1.11-20",
+      "relevance": "primary",
+      "reason": "Gabriel's appearance to Zechariah announcing John's birth — his earlier prophetic mission"
+    },
+    {
+      "ref": "DAN.9.21",
+      "relevance": "allusion",
+      "reason": "Gabriel appearing to Daniel with revelation — his role as God's chief messenger"
+    },
+    {
+      "ref": "1TI.6.16",
+      "relevance": "allusion",
+      "reason": "God dwelling in unapproachable light — the gold mosaic ground representing divine glory"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "sacred",
+    "golden",
+    "reverent"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0140872",
+    "title": "Sophia of Kyiv. Interior with mosaic Archangel Gabriel",
+    "artist": "Yuriy Khymych",
+    "model": "claude-opus-4-6"
+  }
+}

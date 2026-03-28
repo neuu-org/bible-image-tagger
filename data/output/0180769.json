@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "God the Father with Putti (in heaven)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Adoration of the Child with Angel",
+  "tags": [
+    "adoration-of-the-child",
+    "nativity",
+    "virgin-mary",
+    "angel",
+    "infant-jesus",
+    "tondo",
+    "circular-painting",
+    "praying-madonna",
+    "swaddled-infant",
+    "landscape-background",
+    "putti-in-heaven",
+    "god-the-father",
+    "kneeling-angel",
+    "dark-mantle"
+  ],
+  "symbols": [
+    "infant on the ground — the humility of the Incarnation, God laid low on the bare earth",
+    "Mary praying over the child — adoration of the divine mystery she has brought into the world",
+    "angel kneeling in reverence — even heaven bows before the incarnate Word",
+    "God the Father with putti above — the heavenly realm witnessing and blessing the birth of the Son",
+    "landscape with single tree — the tree of life renewed by the birth of the Savior"
+  ],
+  "description": "A circular (tondo) painting depicting the Adoration of the Christ Child. At center, a nude infant lies on the ground on a cloth, arms slightly raised. To the right, the Virgin Mary in a dark blue-black mantle kneels in prayer, her hands clasped and head bowed in reverence over the child. To the left, a winged angel in golden-tan robes kneels, reaching gently toward the infant. Behind the figures, a Renaissance landscape stretches into the distance with a prominent single tree, rolling hills, and distant buildings.",
+  "theological_description": "This tondo presents the Nativity not as a crowded manger scene but as a moment of hushed adoration. The infant lies on the bare ground — a visual tradition emphasizing Christ's humility and the poverty of the Incarnation, recalling that 'there was no place for them in the inn' (Luke 2:7). Mary's posture of prayer over her own child captures the unique paradox of her role: she is both mother and worshipper, both the source of his human nature and the first to adore his divine nature. The angel kneeling in worship fulfills the declaration of Hebrews 1:6: 'Let all God's angels worship him.' When God brings the firstborn into the world, the angels are commanded to bow. Above, God the Father looks down from heaven, completing the Trinitarian dimension of the Nativity: the Father sends, the Son is born, and the scene implies the Holy Spirit who overshadowed Mary (Luke 1:35). This is the moment prophesied by Isaiah: 'For to us a child is born, to us a son is given' (Isaiah 9:6). The single prominent tree in the landscape background recalls the tree of life in Eden — the birth of Christ inaugurates the restoration of paradise lost.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus and the humble circumstances of his arrival into the world"
+    },
+    {
+      "ref": "HEB.1.6",
+      "relevance": "primary",
+      "reason": "Let all God's angels worship him — the kneeling angel enacts this command at the Nativity"
+    },
+    {
+      "ref": "ISA.9.6",
+      "relevance": "primary",
+      "reason": "For to us a child is born, a son is given — the prophetic fulfillment in the infant on the ground"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "allusion",
+      "reason": "The Holy Spirit overshadowing Mary and the Most High's power — God the Father above completes the Trinitarian frame"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ emptying himself and taking the form of a servant, born in human likeness, laid on the bare earth"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "tender",
+    "sacred",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180769",
+    "title": "Adoration of the Child with Angel",
+    "artist": "Mariotto Albertinelli",
+    "model": "claude-opus-4-6"
+  }
+}

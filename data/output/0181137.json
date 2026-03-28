@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Holy Family with a Garland of Flowers and Fruits",
+  "tags": [
+    "holy-family",
+    "floral-garland",
+    "fruit-garland",
+    "madonna-and-child",
+    "putti",
+    "garden-setting",
+    "collaborative-painting",
+    "flowers",
+    "grapes",
+    "roses",
+    "lilies",
+    "woodland-background",
+    "abundant-nature",
+    "devotional-image"
+  ],
+  "symbols": [
+    "garland of flowers surrounding the holy family — the beauty and abundance of creation honoring its Creator",
+    "roses — the love and suffering of the Passion, Mary as the Mystical Rose",
+    "lilies — the purity of the Virgin and the innocence of the Christ Child",
+    "grapes and fruits — the Eucharistic vine and the fruitfulness of the Incarnation",
+    "putti playing around the Madonna — the joyful heavenly host celebrating the divine mystery"
+  ],
+  "description": "A richly composed painting featuring a central scene of the Virgin Mary seated in a woodland garden with the Christ Child and several playful putti, all framed by an elaborate garland of flowers and fruits that arches over and around the entire composition. The garland contains a spectacular abundance of roses, lilies, tulips, grapes, pears, and other blooms and fruits, rendered with botanical precision. At the top, additional putti hover, some supporting the garland. The central figures are set in a soft, dark woodland landscape with trees and golden light filtering through.",
+  "theological_description": "This collaborative work — combining Brueghel's spectacular floral virtuosity with a central devotional scene — presents the Incarnation as the event that gives meaning to all created beauty. The extravagant garland of flowers and fruits is not mere decoration but a theological statement: all creation exists to glorify the one who made it, and finds its highest purpose in honoring the Creator incarnate. Paul declared that 'in him all things hold together' (Colossians 1:17), and this painting visualizes that cohesion — roses, lilies, grapes, and every fruit of the earth oriented toward the child on Mary's lap. The specific flowers carry symbolic weight: lilies signify Mary's purity (Song of Songs 2:2, 'As a lily among brambles, so is my love'), roses evoke both the love of the Song of Songs and the blood of the Passion, and grapes point to the Eucharistic vine (John 15:1). The Song of Songs 2:12 declares, 'The flowers appear on the earth, the time of singing has come' — and indeed the Incarnation is the great springtime of salvation when all creation bursts into flower. The putti playing amid the garland represent the angels who rejoiced at the birth of Christ (Luke 2:13-14), and their playfulness suggests the delight that God's creation takes in its redeemed state.",
+  "scripture_refs": [
+    {
+      "ref": "COL.1.16-17",
+      "relevance": "primary",
+      "reason": "All things created through him and for him, and in him all things hold together — creation oriented toward Christ"
+    },
+    {
+      "ref": "SNG.2.1-2",
+      "relevance": "typological",
+      "reason": "The rose of Sharon and the lily — the flowers of the garland echoing the Song's imagery of the beloved"
+    },
+    {
+      "ref": "JHN.15.1",
+      "relevance": "typological",
+      "reason": "The grapes in the garland point to Christ as the true vine"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "The putti celebrating around the holy family echo the angelic host praising God at the Nativity"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "abundant",
+    "joyful",
+    "lush",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0181137",
+    "title": "Holy Family with a Garland of Flowers and Fruits",
+    "artist": "Jan Brueghel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

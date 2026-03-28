@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Lazarus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary or Martha",
+      "type": "PERSON"
+    },
+    {
+      "name": "Witnesses",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Raising of Lazarus",
+  "tags": [
+    "raising-of-lazarus",
+    "resurrection-miracle",
+    "tomb",
+    "dark-scene",
+    "emerging-hand",
+    "jesus-commanding",
+    "kneeling-woman",
+    "astonished-witnesses",
+    "burial-wrappings",
+    "dramatic-lighting"
+  ],
+  "symbols": [
+    "Christ standing with authority — the Lord of life commanding death to release its captive",
+    "hand emerging from the tomb — life breaking through the darkness of death",
+    "kneeling woman in white — faith prostrate before divine power",
+    "deep darkness — the domain of death and the tomb that Christ conquers",
+    "witnesses in shadow — the stunned onlookers between faith and disbelief"
+  ],
+  "description": "A profoundly dark composition with dramatic chiaroscuro. At left, Jesus stands in a simple dark robe, his head tilted upward with eyes closed or raised, his hands at his sides — a posture of commanding authority and prayer. At center-right, a woman in white (Mary or Martha) kneels with arms raised in supplication or astonishment. Behind her, several shadowed figures watch. In the lower left corner, a hand emerges from darkness — Lazarus rising from the tomb. The scene is almost entirely engulfed in darkness, with light falling primarily on Christ's face and the kneeling woman's white garments.",
+  "theological_description": "Lievens captures the climactic moment of John 11:38-44, when Jesus stood before the tomb of Lazarus, who had been dead four days, and cried out with a loud voice: 'Lazarus, come out!' The dead man came forth, still bound in burial wrappings. This miracle is the seventh and greatest of the signs in John's Gospel, demonstrating Jesus's authority over death itself and confirming his declaration: 'I am the resurrection and the life. The one who believes in me will live, even though they die' (John 11:25). The dark tonality of the painting reflects the gravity of the scene — Jesus was 'deeply moved in spirit and troubled' (John 11:33), and he wept (John 11:35), the shortest verse in Scripture and one of the most theologically dense. The hand emerging from the tomb is the visible proof of the power that Jesus would soon exercise upon himself in his own resurrection. Martha's initial protest — 'Lord, by this time there will be a bad odor, for he has been there four days' (John 11:39) — highlights the impossible nature of what Christ accomplished. This miracle directly precipitated the plot to kill Jesus (John 11:45-53): by raising one man from the dead, he sealed his own death, which would in turn become the means of resurrection for all.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.11.38-44",
+      "relevance": "primary",
+      "reason": "Jesus commands Lazarus to come out of the tomb, and the dead man emerges — the scene depicted"
+    },
+    {
+      "ref": "JHN.11.25-26",
+      "relevance": "primary",
+      "reason": "I am the resurrection and the life — Christ's self-revelation that precedes this miracle"
+    },
+    {
+      "ref": "JHN.11.33-35",
+      "relevance": "primary",
+      "reason": "Jesus deeply moved and weeping — the emotional depth visible in his posture"
+    },
+    {
+      "ref": "JHN.11.45-53",
+      "relevance": "typological",
+      "reason": "This miracle led to the plot to kill Jesus — life-giving power precipitating his own death"
+    },
+    {
+      "ref": "ROM.6.4-5",
+      "relevance": "allusion",
+      "reason": "United with Christ in his death and resurrection — Lazarus as a foretaste of the general resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe-filled",
+    "dark",
+    "solemn",
+    "miraculous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170463",
+    "title": "The Raising of Lazarus",
+    "artist": "Jan Lievens",
+    "model": "claude-opus-4-6"
+  }
+}

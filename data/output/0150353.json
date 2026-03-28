@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Virgin and Child with Infant Saint John in a Garland of Roses",
+  "tags": [
+    "madonna-and-child",
+    "flower-garland",
+    "roses",
+    "sculpted-cartouche",
+    "insects",
+    "butterflies",
+    "red-admirals",
+    "pink-roses",
+    "white-roses",
+    "dark-background",
+    "devotional",
+    "botanical",
+    "infant-john-the-baptist",
+    "floral-wreath"
+  ],
+  "symbols": [
+    "garland of roses — Mary as the 'Mystical Rose,' beauty and love surrounding the divine mystery",
+    "white roses — Mary's purity and virginity",
+    "red roses — the blood of Christ's Passion and martyrdom",
+    "butterflies and insects — the transience of earthly life and the resurrection of the soul",
+    "sculpted cartouche framing the holy figures — the sacred set apart within created beauty"
+  ],
+  "description": "At the center of the composition, within an oval sculpted stone cartouche, a woman in a green-blue dress holds an infant while another small child reaches toward them. Surrounding this central medallion is a lavish garland of roses — pink, white, red, and yellow — interspersed with green leaves. Several insects are visible among the flowers: red admiral butterflies, wasps, and ladybirds. The background is deep black, making the flowers and central scene glow with rich color. The botanical rendering is meticulously detailed.",
+  "theological_description": "This collaboration between Seghers (flowers) and another artist (central figures) represents a distinctive genre of Flemish devotional art: the flower garland surrounding a sacred image. The Virgin Mary holding the Christ child within a wreath of roses carries deep Marian symbolism. In the Litany of Loreto, Mary is invoked as 'Rosa Mystica' — the Mystical Rose. The Song of Solomon declares 'I am a rose of Sharon, a lily of the valleys' (Song of Solomon 2:1), a verse applied to both Christ and Mary in Christian interpretation. The white roses speak of Mary's purity — 'Behold, the virgin shall conceive' (Isaiah 7:14) — while the red roses anticipate the Passion, when Simeon's prophecy would be fulfilled: 'A sword will pierce your own soul too' (Luke 2:35). The infant John the Baptist reaching toward Jesus echoes the Visitation, when John leaped in Elizabeth's womb (Luke 1:41). The insects among the flowers, particularly the butterflies, serve as symbols of resurrection — the caterpillar's transformation into a winged creature paralleling Christ's passage through death to glorified life. The entire composition becomes a visual meditation on the Incarnation surrounded by the beauty of creation, affirming that 'the Word became flesh' (John 1:14) within the garden of God's good world.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh — the central mystery depicted within the garland of creation's beauty"
+    },
+    {
+      "ref": "SNG.2.1",
+      "relevance": "typological",
+      "reason": "The Rose of Sharon — applied to Mary and Christ, surrounding the central sacred image"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "allusion",
+      "reason": "The virgin who conceives — Mary's purity symbolized by the white roses"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "The sword that will pierce Mary's soul — foreshadowed in the red roses of Passion"
+    },
+    {
+      "ref": "LUK.1.41",
+      "relevance": "allusion",
+      "reason": "The infant John recognizing Jesus — echoed in the infant Baptist reaching toward the Christ child"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "devotional",
+    "lush",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150353",
+    "title": "A garland of roses, with Red Admirals, wasps, ladybirds and other insects, with the Virgin and Child with the Infant Saint John the Baptist in a sculpted cartouche",
+    "artist": "Daniel Seghers",
+    "model": "claude-opus-4-6"
+  }
+}

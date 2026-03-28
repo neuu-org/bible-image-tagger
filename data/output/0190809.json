@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jonathan",
+      "type": "PERSON"
+    },
+    {
+      "name": "Goliath (severed head)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "David and Jonathan with the head of Goliath",
+  "tags": [
+    "david",
+    "jonathan",
+    "goliath",
+    "severed-head",
+    "friendship",
+    "covenant-bond",
+    "shepherd-boy",
+    "prince",
+    "sling",
+    "landscape"
+  ],
+  "symbols": [
+    "severed head of Goliath on the ground — the defeated enemy, God's victory through the young shepherd",
+    "David and Jonathan standing together — the covenant friendship deeper than blood ties",
+    "staff and weapons — the shepherd's simple tools contrasted with the warrior prince's armor",
+    "hilltop castle in background — the royal court to which David is ascending through God's favor"
+  ],
+  "description": "A Renaissance painting showing two young men standing side by side in a pastoral landscape. On the left, a youth in golden-brown armor holds a long staff — David, the shepherd turned warrior. On the right, a young man in a red cloak with ornate garments — Jonathan, the prince. At their feet on the ground lies the massive severed head of the giant Goliath, bearded and fierce even in death. A castle or fortress sits atop a hill in the background under a clear sky.",
+  "theological_description": "Cima da Conegliano's painting brings together two pivotal narrative threads from 1 Samuel: David's victory over Goliath and the beginning of his covenant friendship with Jonathan. After David defeated the Philistine champion with a sling and stone (1 Samuel 17:49-51), Jonathan, Saul's son, was immediately bound to David in love: 'Jonathan became one in spirit with David, and he loved him as himself' (1 Samuel 18:1). Jonathan stripped off his own robe, tunic, sword, bow, and belt and gave them to David (1 Samuel 18:4) — an act of extraordinary self-giving by a prince to a shepherd boy, symbolically transferring his own claim to the throne. The David-Jonathan friendship became the Bible's supreme example of covenant loyalty (hesed), as Jonathan chose faithfulness to David over loyalty to his own father Saul and his own dynastic interest. Their covenant embodies Proverbs 18:24: 'There is a friend who sticks closer than a brother.' David's victory over Goliath through simple trust in God, rather than armor and sword, demonstrated the principle of 1 Samuel 17:47: 'The battle is the Lord's.' The juxtaposition of the giant's head with the two youthful friends captures both triumph and tenderness.",
+  "scripture_refs": [
+    {
+      "ref": "1SA.18.1-4",
+      "relevance": "primary",
+      "reason": "Jonathan's soul knit to David's, their covenant of friendship — the bond depicted between the two figures"
+    },
+    {
+      "ref": "1SA.17.49-51",
+      "relevance": "primary",
+      "reason": "David defeating Goliath and cutting off his head — the severed head at their feet"
+    },
+    {
+      "ref": "1SA.17.47",
+      "relevance": "primary",
+      "reason": "The battle is the Lord's — David's victory through faith rather than military might"
+    },
+    {
+      "ref": "PRO.18.24",
+      "relevance": "typological",
+      "reason": "A friend who sticks closer than a brother — the David-Jonathan friendship as the Bible's supreme example"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "tender",
+    "youthful",
+    "peaceful"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0190809",
+    "title": "David and Jonathan",
+    "artist": "Cima da Conegliano",
+    "model": "claude-opus-4-6"
+  }
+}

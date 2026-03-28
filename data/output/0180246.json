@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Rest on the Flight into Egypt with Saint John the Baptist",
+  "tags": [
+    "rest-on-the-flight",
+    "holy-family",
+    "flight-into-egypt",
+    "madonna-and-child",
+    "saint-joseph",
+    "infant-john-the-baptist",
+    "palm-tree",
+    "reed-cross",
+    "landscape-background",
+    "ruined-architecture",
+    "blue-mantle",
+    "red-robe",
+    "pastoral-setting",
+    "seated-figures"
+  ],
+  "symbols": [
+    "palm tree — shelter and provision in the wilderness, recalling the palms of the oasis in the flight tradition",
+    "reed cross held by infant John — prophetic foreshadowing of the Passion and John's role as forerunner",
+    "ruined architecture in the background — the passing of the old pagan order before the new covenant",
+    "Mary's blue mantle — heavenly purity and the grace covering the Mother of God",
+    "Joseph's protective position — the guardian and foster-father fulfilling his role as protector of the holy family"
+  ],
+  "description": "A Renaissance painting depicting a family group resting outdoors in a lush landscape. At center, a young woman in a crimson dress and deep blue mantle sits holding a nude infant on her lap. To her left, an elderly bearded man in a red robe rests beside her, his face weathered and contemplative. At right, a young child with curly hair, partially draped and holding a small reed cross, approaches the infant.",
+  "theological_description": "This scene combines two devotional traditions: the Rest on the Flight into Egypt and the meeting of the infant Christ with the young John the Baptist. The Flight into Egypt is narrated in Matthew 2:13-15, where an angel warns Joseph in a dream to take the child and his mother and flee to Egypt to escape Herod's massacre. The tradition of a restful pause during this journey became a beloved subject, emphasizing God's tender provision for the holy family in their exile. Joseph's protective presence fulfills the angel's commission, while Mary's serene composure reflects her trust in divine providence. The inclusion of the infant Baptist, holding his characteristic reed cross, draws on the apocryphal tradition that the holy family encountered John and Elizabeth during their journey. The reed cross in the child's hand is a powerful prophetic symbol: this is the one who will grow to declare 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29). The ruined architecture in the background carries typological weight — the crumbling pagan world giving way to the new creation inaugurated by the child on Mary's lap. The palm tree echoes the Song of Songs (Song 7:7-8) and the palms of triumph, while also recalling the apocryphal Gospel of Pseudo-Matthew where a palm bowed down to provide fruit for Mary during the flight.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The Flight into Egypt commanded by the angel is the direct narrative context for this rest scene"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The infant Baptist with reed cross foreshadows his future proclamation of Jesus as the Lamb of God"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son — the prophetic fulfillment Matthew cites for the holy family's sojourn"
+    },
+    {
+      "ref": "LUK.1.80",
+      "relevance": "allusion",
+      "reason": "The child John growing and becoming strong in spirit, shown here already oriented toward Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "tender",
+    "pastoral",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180246",
+    "title": "The Rest on the Flight into Egypt with St. John the Baptist",
+    "artist": "Fra Bartolomeo",
+    "model": "claude-opus-4-6"
+  }
+}

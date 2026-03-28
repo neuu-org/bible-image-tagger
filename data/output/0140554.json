@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Shepherds",
+  "tags": [
+    "adoration-of-the-shepherds",
+    "nativity",
+    "manger",
+    "infant-jesus",
+    "virgin-mary",
+    "shepherds",
+    "angels-above",
+    "cherubim",
+    "stable",
+    "night-scene",
+    "divine-light",
+    "kneeling",
+    "blue-mantle",
+    "staff",
+    "worship"
+  ],
+  "symbols": [
+    "radiant infant — the Light of the World born into darkness, illuminating all who come near",
+    "shepherds kneeling — the humble and lowly as first recipients of the gospel",
+    "angels in the sky — the heavenly host announcing peace on earth",
+    "Mary's blue mantle — heavenly grace covering the Mother of God",
+    "night setting — the darkness into which the true Light has come",
+    "stable and manger — the humility of the Incarnation"
+  ],
+  "description": "A nocturnal nativity scene with dramatic lighting. The infant Jesus lies in a manger at center, radiating a supernatural light that illuminates the surrounding figures. The Virgin Mary sits at the left in a blue mantle, gazing down at the child. Around them, a group of shepherds in rough clothing crowd in from the right, kneeling and leaning forward to see the child. Some hold staffs. Above the stable roof, a group of angels and cherubim float in the night sky amid clouds and divine light. The lighting is strongly chiaroscuro, with the infant as the primary light source.",
+  "theological_description": "Reni's Adoration of the Shepherds captures the moment Luke records: 'And there were shepherds out in the field, keeping watch over their flock by night. And an angel of the Lord appeared to them, and the glory of the Lord shone around them... the angel said to them, Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord' (Luke 2:8-11). The shepherds rushed to Bethlehem and 'found Mary and Joseph, and the baby lying in a manger' (Luke 2:16). The infant as the source of light in the darkness is a masterly visualization of John's prologue: 'The light shines in the darkness, and the darkness has not overcome it... The true light, which gives light to everyone, was coming into the world' (John 1:5, 9). The shepherds as the first to receive the good news fulfills the pattern of God's preferential option for the humble — echoing Mary's own song: 'He has put down the mighty from their thrones and exalted those of humble estate' (Luke 1:52). The angels above sing the Gloria: 'Glory to God in the highest, and on earth peace among those with whom he is pleased' (Luke 2:14).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-16",
+      "relevance": "primary",
+      "reason": "The shepherds receiving the angelic announcement and finding the child in the manger — the direct scene depicted"
+    },
+    {
+      "ref": "LUK.2.14",
+      "relevance": "primary",
+      "reason": "The angelic Gloria — the angels above the stable sing the first Christmas hymn"
+    },
+    {
+      "ref": "JHN.1.5-9",
+      "relevance": "primary",
+      "reason": "The true light coming into the world shining in darkness — the infant as the radiant light source"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "typological",
+      "reason": "God exalting the humble — shepherds, lowest of social classes, as the first to worship the Messiah"
+    },
+    {
+      "ref": "ISA.9.2",
+      "relevance": "allusion",
+      "reason": "The people walking in darkness seeing a great light — fulfilled in the radiance of the Christ child"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "luminous",
+    "hushed",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140554",
+    "title": "Adoration of the Shepherds",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

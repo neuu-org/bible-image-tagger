@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Saint Helena",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Helena",
+  "tags": [
+    "saint-helena",
+    "standing-figure",
+    "halo",
+    "red-brown-dress",
+    "book",
+    "cross-attribute",
+    "architectural-niche",
+    "barefoot",
+    "polyptych-panel",
+    "elegant-pose",
+    "draped-garment"
+  ],
+  "symbols": [
+    "book held in her arm — the faith and learning of Helena, mother of Emperor Constantine",
+    "halo — her sanctity as the discoverer of the True Cross",
+    "architectural niche — her honored place in the communion of saints",
+    "barefoot stance — humility despite imperial status"
+  ],
+  "description": "A tall, narrow panel from a polyptych showing a young woman standing in an architectural niche with a draped canopy above. She wears a deep red-brown dress with flowing drapery. A subtle halo glows behind her head. She holds a closed book in her left arm and gestures with her right hand. She stands barefoot on a dark floor. Her expression is serene and gentle. The palette is warm, dominated by earth tones and deep reds.",
+  "theological_description": "Perugino's panel depicts Saint Helena (c. 246-330), mother of Emperor Constantine the Great. Helena is venerated for her pilgrimage to the Holy Land around 326-328 AD, during which tradition holds she discovered the True Cross — the actual cross on which Jesus was crucified. Her finding of the cross connects to the central proclamation of the Christian faith: 'May I never boast except in the cross of our Lord Jesus Christ' (Galatians 6:14). Helena's journey was motivated by the same impulse that drives all Christian pilgrimage — the desire to draw near to the places where God acted in history. Her discovery of the cross affirms the material reality of the Incarnation and the Atonement: God entered real history, suffered on real wood, and was buried in a real tomb. Paul declared: 'For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God' (1 Corinthians 1:18). Helena, though empress, traveled as a humble pilgrim — her barefoot depiction here reflecting the pattern of rulers who bow before the cross. Her legacy connects to the broader theme that God uses unlikely agents — a woman in an age of male dominance, an elderly pilgrim — to preserve and reveal the instruments of salvation.",
+  "scripture_refs": [
+    {
+      "ref": "GAL.6.14",
+      "relevance": "primary",
+      "reason": "Boasting only in the cross of Christ — Helena's devotion to finding the True Cross"
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "primary",
+      "reason": "The message of the cross as the power of God — the theological significance of Helena's discovery"
+    },
+    {
+      "ref": "PHP.2.8",
+      "relevance": "allusion",
+      "reason": "Christ's obedience to death on a cross — the cross Helena sought was the instrument of this obedience"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "dignified",
+    "devotional"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150657",
+    "title": "Polyptych Annunziata (St. Helena)",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

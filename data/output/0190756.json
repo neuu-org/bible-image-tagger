@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "The Righteous",
+      "type": "GROUP"
+    },
+    {
+      "name": "The Damned",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Judgment",
+  "tags": [
+    "last-judgment",
+    "christ-enthroned",
+    "angels",
+    "heaven-and-hell",
+    "resurrection-of-the-dead",
+    "weighing-of-souls",
+    "eschatology",
+    "separation-of-righteous-and-wicked",
+    "book-of-life"
+  ],
+  "symbols": [
+    "Christ enthroned above with open book — the Judge of all the earth, holding the book of life",
+    "angel weighing souls at center — the divine judgment separating the righteous from the wicked",
+    "righteous in white on the left — the redeemed clothed in the white robes of Revelation",
+    "damned in flames on the right — the eternal punishment described in Matthew 25:41",
+    "divided composition — the great separation of sheep and goats at the end of the age"
+  ],
+  "description": "A monumental black-and-white reproduction of Viktor Vasnetsov's Last Judgment fresco. Christ is enthroned at the top center on clouds, holding an open book, with arms outstretched. Below Him, a large angel with wings outspread stands at center, apparently weighing souls. The composition is divided into two halves: on the left, groups of righteous souls in white garments process toward heaven, while on the right, tormented figures are surrounded by flames and demonic forces. The upper register shows ranks of saints and apostles flanking Christ.",
+  "theological_description": "Vasnetsov's Last Judgment is a comprehensive visualization of the eschatological climax described principally in Matthew 25:31-46, Revelation 20:11-15, and 2 Corinthians 5:10. Christ sits enthroned as the Son of Man who 'comes in His glory, and all the angels with Him' (Matthew 25:31). The open book in His hands is the Book of Life from Revelation 20:12 — 'The dead were judged according to what they had done as recorded in the books.' The central angel weighing souls draws on Daniel 5:27, 'You have been weighed on the scales and found wanting,' applied to the final reckoning of every human life. The division between the blessed and the damned fulfills Christ's parable of the sheep and goats: 'Come, you who are blessed by my Father' and 'Depart from me, you who are cursed' (Matthew 25:34, 41). The resurrection of bodies from the earth illustrates Daniel 12:2: 'Multitudes who sleep in the dust of the earth will awake — some to everlasting life, others to shame and everlasting contempt.' This is the moment toward which all of salvation history tends — when every deed is revealed, every secret exposed, and the eternal destiny of every soul is determined by the righteous Judge.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.31-46",
+      "relevance": "primary",
+      "reason": "The Son of Man separating the sheep from the goats — the central scene of this Last Judgment"
+    },
+    {
+      "ref": "REV.20.11-15",
+      "relevance": "primary",
+      "reason": "The great white throne judgment, the Book of Life opened, the dead judged according to their deeds"
+    },
+    {
+      "ref": "DAN.12.2",
+      "relevance": "primary",
+      "reason": "The resurrection to everlasting life or shame — the dead rising from the earth in the lower register"
+    },
+    {
+      "ref": "2CO.5.10",
+      "relevance": "typological",
+      "reason": "We must all appear before the judgment seat of Christ — every soul receiving what is due"
+    },
+    {
+      "ref": "REV.21.27",
+      "relevance": "allusion",
+      "reason": "Only those written in the Lamb's Book of Life may enter — the book Christ holds determines destiny"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "awe",
+    "terror",
+    "majestic",
+    "solemn"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0190756",
+    "title": "Last Judgment",
+    "artist": "Viktor Vasnetsov",
+    "model": "claude-opus-4-6"
+  }
+}

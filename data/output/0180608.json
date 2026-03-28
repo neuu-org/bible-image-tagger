@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Infant Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Saint Joachim",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Nativity of the Virgin Mary",
+  "tags": [
+    "nativity-of-the-virgin",
+    "saint-anne",
+    "birth-scene",
+    "attendant-women",
+    "swaddled-infant",
+    "bedchamber",
+    "classical-architecture",
+    "monochrome-study",
+    "preparatory-sketch",
+    "washing-basin",
+    "newborn",
+    "reclining-mother",
+    "flowers"
+  ],
+  "symbols": [
+    "newborn infant — the birth of the one who will become the Mother of God, the beginning of the final preparation for the Incarnation",
+    "attendant women caring for the child — the community of women who nurture the vessel of salvation",
+    "reclining mother on the bed — Saint Anne recovering from childbirth, the grandmother of Jesus",
+    "flowers brought as gifts — the joy and blessing of this birth",
+    "architectural setting — the domestic world into which God's plan quietly enters"
+  ],
+  "description": "A monochrome (black-and-white or grisaille) preparatory study or sketch for a painting. The composition shows a domestic interior with classical architectural elements — columns, a mantelpiece, and stepped platform. At right, a woman reclines on a bed or couch, attended by a figure behind her. At center, a standing woman holds or presents a swaddled infant. Around them, other women are engaged in various tasks — one kneels at left near a washing basin, another holds flowers or a basket. The scene is one of a birth attended by women.",
+  "theological_description": "The Nativity of the Virgin Mary, though not narrated in canonical Scripture, is celebrated as a major feast in Christian tradition because it marks the beginning of salvation's final chapter. The birth of Mary is the immediate preparation for the Incarnation — without this birth, there would be no 'Hail, full of grace' (Luke 1:28), no Magnificat, no manger in Bethlehem. Mary's parents, Joachim and Anne (known from the Protoevangelium of James), are types of the faithful remnant of Israel who longed for God's redemption. Mary's birth fulfills the trajectory of miraculous births in Scripture — Sarah, Hannah, Elizabeth — where God opens barren wombs to advance his saving plan. Just as Samuel's birth answered Hannah's prayer and led to Israel's renewal (1 Samuel 1), and as Isaac's birth fulfilled the impossible promise to Abraham (Genesis 21:1-2), so the birth of Mary sets in motion the ultimate fulfillment: the birth of the Messiah. The domestic scene with attendant women grounds this cosmic event in ordinary human experience, affirming that God works through the everyday realities of birth, family, and community. Rubens's choice to depict this scene with such tender realism underscores the theology: the extraordinary begins in the ordinary.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "The angel's greeting to Mary presupposes her birth — this scene depicts the beginning of the one who would receive the Annunciation"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "typological",
+      "reason": "The Magnificat, Mary's great hymn, is the fruit of the life that begins with this birth"
+    },
+    {
+      "ref": "1SA.1.19-20",
+      "relevance": "typological",
+      "reason": "Hannah's miraculous birth of Samuel parallels the tradition of Mary's birth to the previously barren Anne"
+    },
+    {
+      "ref": "GEN.21.1-2",
+      "relevance": "typological",
+      "reason": "The pattern of miraculous births advancing God's plan, from Sarah to Anne"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "domestic",
+    "joyful"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0180608",
+    "title": "The Nativity of the Virgin Mary",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

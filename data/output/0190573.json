@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Saul / Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant / soldier",
+      "type": "PERSON"
+    },
+    {
+      "name": "Horse",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Conversion of Saint Paul on the road to Damascus",
+  "tags": [
+    "conversion-of-paul",
+    "road-to-damascus",
+    "fallen-from-horse",
+    "divine-light",
+    "blinding-vision",
+    "dramatic-tenebrism",
+    "transformation",
+    "armor",
+    "divine-encounter"
+  ],
+  "symbols": [
+    "Saul fallen on the ground — the proud persecutor struck down by divine power, humbled before the risen Christ",
+    "horse towering above — the instrument of Saul's militant journey now halted by God's intervention",
+    "brilliant light from above — the heavenly glory of the risen Christ appearing to Saul",
+    "outstretched arms — surrender and astonishment at the overwhelming divine encounter",
+    "armor and weapons — the tools of persecution that will be transformed into instruments of the Gospel"
+  ],
+  "description": "Caravaggio's dramatic painting of the Conversion of Saint Paul. Saul lies on the ground, fallen from his horse, with arms outstretched and eyes closed or blinded, his muscular bare-chested body illuminated by a powerful light from above. He wears partial armor and red cloth. A large horse dominates the upper portion of the canvas, being steadied by an elderly bearded attendant or soldier. The attendant peers down at the fallen figure.",
+  "theological_description": "Caravaggio's Conversion of Saint Paul captures the transformative moment described in Acts 9:3-6 when Saul of Tarsus, the zealous persecutor of the early Church, was struck to the ground by a blinding light on the road to Damascus and heard the voice of the risen Jesus saying, 'Saul, Saul, why do you persecute me?' This is arguably the most consequential conversion in Christian history, transforming Christianity's greatest enemy into its greatest apostle. Caravaggio's radical composition — showing the event from the horse's belly level with Saul splayed on the ground — emphasizes the totality of Saul's overthrow. The divine light that blinds Saul fulfills 2 Corinthians 4:6: 'For God, who said, \"Let light shine out of darkness,\" made His light shine in our hearts to give us the light of the knowledge of God's glory displayed in the face of Christ.' Paul himself would later describe this as a revelation of God's Son (Galatians 1:15-16) and the last resurrection appearance of Christ (1 Corinthians 15:8). The attendant's incomprehension reflects Acts 9:7 — those traveling with Saul heard the sound but saw no one. This moment inaugurated the apostle who would write that 'by the grace of God I am what I am' (1 Corinthians 15:10), the theology of grace born from the experience of being loved by the very Christ he persecuted.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.9.3-6",
+      "relevance": "primary",
+      "reason": "Saul's encounter with the risen Christ on the Damascus road — the blinding light and the voice from heaven"
+    },
+    {
+      "ref": "ACT.22.6-10",
+      "relevance": "primary",
+      "reason": "Paul's own retelling of his conversion, including the great light from heaven and falling to the ground"
+    },
+    {
+      "ref": "2CO.4.6",
+      "relevance": "typological",
+      "reason": "God making light shine out of darkness — the divine illumination that transformed Paul, visible in the dramatic light"
+    },
+    {
+      "ref": "GAL.1.15-16",
+      "relevance": "primary",
+      "reason": "God revealing His Son in Paul — the theological meaning of the Damascus road encounter"
+    },
+    {
+      "ref": "1CO.15.10",
+      "relevance": "allusion",
+      "reason": "By the grace of God I am what I am — the theology of grace born from this moment of conversion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "overwhelming",
+    "transformative",
+    "dark"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0190573",
+    "title": "Conversion of Saint Paul",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Pilgrims and worshippers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Church of the Holy Sepulchre — pilgrims worshipping at Christ's tomb",
+  "tags": [
+    "holy-sepulchre",
+    "jerusalem",
+    "pilgrims",
+    "rotunda",
+    "tomb-of-christ",
+    "domed-interior",
+    "crusader-architecture",
+    "worship"
+  ],
+  "symbols": [
+    "edicule at center — the small structure housing the tomb where Christ's body was laid and from which He rose",
+    "great dome above — the heavenly vault covering the site of resurrection, where earth meets heaven",
+    "kneeling pilgrims — the devotion of believers drawn across centuries to the place of Christ's victory over death",
+    "candles and light — the light of the Resurrection illuminating the darkness of the tomb"
+  ],
+  "description": "A detailed black-and-white engraving by Gustave Dore depicting the interior of the Church of the Holy Sepulchre in Jerusalem. The vast rotunda is shown with its great dome supported by columns, with dramatic light filtering down from above. At the center stands the edicule — the small ornate structure housing the traditional tomb of Christ. Groups of pilgrims in various period dress kneel, pray, and process around the sacred shrine. The architectural detail is rendered with precise cross-hatching, showing the grand scale of the space with its multiple levels of arched galleries.",
+  "theological_description": "The Church of the Holy Sepulchre in Jerusalem is Christianity's most sacred site, built over the traditional locations of both Christ's crucifixion and burial. The edicule at its center marks the tomb described in the Gospels where Joseph of Arimathea laid the body of Jesus (Matthew 27:59-60) and from which He rose on the third day. The empty tomb is the physical evidence of the central claim of Christianity: 'He is not here; He has risen, just as He said' (Matthew 28:6). The angel's invitation to 'come and see the place where He lay' (Matthew 28:6) has been answered by millions of pilgrims across two millennia, as this engraving depicts. Paul declared in 1 Corinthians 15:14 that if Christ has not been raised, faith is in vain — this site is where that non-negotiable truth was first manifested. The great dome arching over the tomb symbolizes the cosmic significance of the Resurrection: in this small chamber, death was defeated, the powers of darkness were overthrown, and the new creation began. The gathering of pilgrims from many nations echoes the prophetic vision of Isaiah 2:2-3 that all nations would stream to the Lord's holy place.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.59-60",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea placing Jesus's body in his own new tomb — the site this church commemorates"
+    },
+    {
+      "ref": "MAT.28.5-6",
+      "relevance": "primary",
+      "reason": "The angel's announcement at the empty tomb: He is not here, He has risen — the event this church enshrines"
+    },
+    {
+      "ref": "1CO.15.14",
+      "relevance": "typological",
+      "reason": "If Christ has not been raised, faith is in vain — the theological significance of the empty tomb pilgrims venerate"
+    },
+    {
+      "ref": "ISA.2.2-3",
+      "relevance": "allusion",
+      "reason": "Nations streaming to the Lord's holy place, fulfilled in the perpetual pilgrimage to this site"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "awe",
+    "sacred",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190468",
+    "title": "The Holy Sepulcher",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

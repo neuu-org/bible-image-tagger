@@ -1,0 +1,57 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Crucifixion (abstract composition)",
+  "tags": [
+    "crucifixion",
+    "abstract",
+    "cross-form",
+    "blue-and-yellow",
+    "vertical-figure",
+    "passion-of-christ",
+    "geometric-forms",
+    "somber-palette"
+  ],
+  "symbols": [
+    "elongated vertical form — the body of Christ stretched upon the cross, the axis between heaven and earth",
+    "deep blue surrounding — the cosmic darkness at the sixth hour, 'darkness came over the whole land' (Mark 15:33)",
+    "pale yellow-green figure — the light of the world dimming in death, yet still radiating",
+    "cross shape formed by intersecting planes — the instrument of death transfigured into the sign of salvation"
+  ],
+  "description": "An abstract composition dominated by large geometric planes of deep blue, teal, pale yellow-green, mauve, and brown. A vertical elongated pale form at center suggests a figure on a cross, with horizontal elements extending from the upper portion forming a cross shape. The forms are rendered in broad, flat areas of color with rough, textured edges. The overall tone is dark and somber, with the central pale form providing the only lightness against the surrounding deep blues.",
+  "theological_description": "This abstract interpretation of the Crucifixion strips the event to its essential theological form — the vertical and horizontal axes of the cross. The pale, luminous figure at center, reduced to its most elemental shape, embodies the mystery of Christ 'lifted up from the earth' to draw all people to himself (John 12:32). The dominant deep blue evokes the cosmic darkness that fell over the land from the sixth to the ninth hour (Mark 15:33) — creation itself recoiling from the death of its Creator. The abstraction paradoxically reveals what representational art can obscure: the Crucifixion is not merely a historical execution but a cosmic event, the intersection of divine and human, vertical (God reaching down) and horizontal (arms extended to embrace all). Paul's proclamation that 'we preach Christ crucified' (1 Corinthians 1:23) finds visual expression in this reduction to essential form.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.12.32",
+      "relevance": "primary",
+      "reason": "Christ lifted up from the earth to draw all to himself — the vertical form of the crucified figure"
+    },
+    {
+      "ref": "MRK.15.33-34",
+      "relevance": "primary",
+      "reason": "Darkness over the land at the Crucifixion — the deep blue surrounding the figure"
+    },
+    {
+      "ref": "1CO.1.23",
+      "relevance": "allusion",
+      "reason": "We preach Christ crucified — the cross reduced to its essential proclamatory form"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "somber",
+    "mysterious",
+    "stark"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160380",
+    "title": "Composition (Crucifixion)",
+    "artist": "Hryhorii Havrylenko",
+    "model": "claude-opus-4-6"
+  }
+}

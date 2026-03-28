@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {"name": "Travelers or pilgrims", "type": "GROUP"}
+  ],
+  "event": "The Rock of Moses in the Sinai desert",
+  "tags": [
+    "rock-of-moses",
+    "sinai",
+    "desert",
+    "massive-boulder",
+    "mountain-landscape",
+    "travelers",
+    "bedouin",
+    "pilgrims",
+    "holy-land",
+    "red-cliffs",
+    "arid-wilderness",
+    "lithograph"
+  ],
+  "symbols": [
+    "massive rock — the rock that Moses struck to bring forth water in the wilderness",
+    "towering cliffs — the awesome terrain of God's encounter with Israel at Sinai",
+    "small figures at the base — human insignificance before the grandeur of the sacred landscape"
+  ],
+  "description": "A vertical composition showing a massive, rounded boulder in the foreground with towering red-orange sandstone cliffs rising dramatically behind it. A small group of figures — travelers or Bedouin in traditional dress — sit and stand at the base of the rock, dwarfed by its scale. The cliffs behind are striated and jagged, reaching upward into a hazy, pale yellow sky. The landscape is entirely arid and barren. The coloring is warm — ochres, sandy yellows, russet reds — rendered in the style of a hand-tinted lithograph.",
+  "theological_description": "David Roberts's painting identifies this formation as the Rock of Moses, traditionally associated with the miraculous provision of water in the wilderness. Exodus 17:1-7 records that at Rephidim, when the Israelites quarreled with Moses over the lack of water, God commanded Moses: 'Strike the rock, and water will come out of it for the people to drink' (Exodus 17:6). Moses did so and named the place Massah and Meribah ('testing and quarreling'). A second incident at Meribah (Numbers 20:7-12) proved fateful: God told Moses to speak to the rock, but Moses struck it twice in anger, and God declared he would not enter the Promised Land. Paul later gave this rock a Christological interpretation: 'They drank from the spiritual rock that accompanied them, and that rock was Christ' (1 Corinthians 10:4). The rock that gives water in the desert became one of the most potent types of Christ — the source of living water (John 7:37-38) that sustains the pilgrim people of God through their wilderness journey. The towering Sinai cliffs evoke the awesome holiness of the place where God revealed himself to Moses and gave the Law.",
+  "scripture_refs": [
+    {
+      "ref": "EXO.17.1-7",
+      "relevance": "primary",
+      "reason": "Moses striking the rock at Horeb and water flowing out for the people"
+    },
+    {
+      "ref": "NUM.20.7-12",
+      "relevance": "primary",
+      "reason": "The second incident at Meribah where Moses struck the rock instead of speaking to it"
+    },
+    {
+      "ref": "1CO.10.4",
+      "relevance": "typological",
+      "reason": "That rock was Christ — Paul's Christological reading of the wilderness rock"
+    },
+    {
+      "ref": "JHN.7.37-38",
+      "relevance": "allusion",
+      "reason": "Rivers of living water flowing from Christ — the spiritual fulfillment of the rock's water"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": ["awe-inspiring", "vast", "sacred", "desolate"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0171043",
+    "title": "The Rock of Moses",
+    "artist": "David Roberts",
+    "model": "claude-opus-4-6"
+  }
+}

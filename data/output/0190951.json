@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "St. Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "St. Clare of Assisi",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna in Glory between Saint Francis and Saint Clare",
+  "tags": [
+    "madonna-in-glory",
+    "virgin-mary",
+    "infant-jesus",
+    "st-francis",
+    "st-clare",
+    "gold-background",
+    "enthroned-madonna",
+    "franciscan-saints",
+    "gothic-panel"
+  ],
+  "symbols": [
+    "Madonna enthroned on clouds — the Queen of Heaven elevated above earthly saints",
+    "gold background — the uncreated light of divine glory",
+    "St. Francis in brown habit — radical poverty and imitation of Christ",
+    "St. Clare in dark habit — the feminine Franciscan vocation of contemplative prayer and poverty",
+    "infant Christ on Mary's lap — the Incarnation, God made accessible through the Virgin"
+  ],
+  "description": "A Gothic panel painting with a gold background and gilded frame depicting the Madonna enthroned in glory holding the infant Jesus on her lap. She wears a dark blue mantle over a red dress with an ornate gold halo. The Christ Child sits frontally with a blessing gesture. Below and flanking the Madonna, two smaller figures stand in adoration: on the left, St. Francis in a brown Franciscan habit, and on the right, St. Clare in a dark Franciscan nun's habit with hands raised in prayer. Both saints have gold halos.",
+  "theological_description": "This panel presents the Madonna and Child enthroned in heavenly glory, flanked by the two founders of the Franciscan family: St. Francis (1181-1226) and St. Clare (1194-1253). While both saints are post-biblical, the composition expresses the biblical theology of the heavenly communion of saints. The enthroned Madonna reflects Revelation 12:1, the woman clothed with the sun, and her elevation above the saints embodies Luke 1:48: 'All generations will call me blessed.' Francis and Clare devoted their lives to following the Gospel literally — Francis inspired by Matthew 19:21 ('sell your possessions and give to the poor') and Clare by the same radical call to poverty. Their small scale relative to the Madonna visually communicates the proper theological hierarchy: all saintly devotion is directed toward and through the Mother of God to Christ Himself. The infant Christ's blessing gesture affirms that all holiness flows from Him. The gold background declares the eternal realm where time-bound saints (Francis, Clare) and the timeless mystery of the Incarnation (Madonna and Child) coexist in the glory of God.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.48",
+      "relevance": "primary",
+      "reason": "All generations will call me blessed — the Madonna elevated in glory above the venerating saints"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun — the Madonna's heavenly enthronement"
+    },
+    {
+      "ref": "MAT.19.21",
+      "relevance": "allusion",
+      "reason": "Sell your possessions and follow me — the foundational text for Francis and Clare's radical poverty"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses — Francis and Clare among the saints surrounding the throne of grace"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "hieratic",
+    "serene",
+    "golden"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190951",
+    "title": "Madonna in Gloria between Saint Francis and Santa Chiara Gentile da Fabriano",
+    "artist": "Gentile da Fabriano",
+    "model": "claude-opus-4-6"
+  }
+}

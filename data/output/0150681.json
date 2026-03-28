@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family",
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "infant-jesus",
+    "joseph",
+    "pink-dress",
+    "blue-mantle",
+    "golden-robe",
+    "white-headscarf",
+    "oval-frame",
+    "dark-background",
+    "ornate-gilded-frame",
+    "red-cushion",
+    "blue-cloth",
+    "tender-gaze"
+  ],
+  "symbols": [
+    "Mary holding the child — the Theotokos, God-bearer, presenting Christ to the world",
+    "Joseph gazing at the child — the faithful guardian appointed by God to protect the Messiah",
+    "blue mantle — Mary's purity and heavenly calling",
+    "ornate golden frame — the preciousness and veneration of the Holy Family",
+    "dark background — the sacred mystery from which the incarnate light emerges"
+  ],
+  "description": "An oval composition within an ornate gilded frame showing three figures against a black background. At center, a young woman in a pink dress, blue mantle, and white head covering holds a nude infant on her lap. The child reaches up toward her. At right, an elderly bearded man in a golden-tan robe looks toward the child with gentle expression. The infant sits on a blue cloth draped over a red patterned cushion. The palette is rich — pink, blue, gold, and warm flesh tones against the deep black background.",
+  "theological_description": "Sassoferrato presents the Holy Family in intimate devotional close-up. Mary holds the Christ child with tender maternal care while Joseph, the righteous guardian, gazes upon the divine son entrusted to his protection. This domestic scene embodies the mystery of the Incarnation — the eternal God as a human infant, dependent on a human mother and foster father. Matthew records that Joseph, 'being a righteous man,' accepted his divinely appointed role when the angel explained: 'What is conceived in her is from the Holy Spirit' (Matthew 1:20). The child reaching toward Mary captures the genuine human bond between mother and son — the Word who 'became flesh and dwelt among us' (John 1:14) experienced real human love and attachment. Luke records that 'the child grew and became strong; he was filled with wisdom, and the grace of God was on him' (Luke 2:40). Joseph's presence affirms that Jesus was raised in a household of faith and obedience — Joseph, the descendant of David (Matthew 1:1-16), provided the legal lineage through which Jesus claimed the messianic throne. The Holy Family becomes the model for all Christian families: centered on the presence of Christ, guided by faith, and sustained by love.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh — the Incarnation mystery at the heart of every Holy Family image"
+    },
+    {
+      "ref": "MAT.1.20-21",
+      "relevance": "primary",
+      "reason": "The angel's instruction to Joseph to accept Mary and the child conceived by the Holy Spirit"
+    },
+    {
+      "ref": "LUK.2.40",
+      "relevance": "allusion",
+      "reason": "The child growing in wisdom and grace within the Holy Family"
+    },
+    {
+      "ref": "MAT.1.1-16",
+      "relevance": "allusion",
+      "reason": "Joseph's Davidic lineage providing the messianic legal claim"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional",
+    "intimate",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150681",
+    "title": "The Holy Family",
+    "artist": "Sassoferrato",
+    "model": "claude-opus-4-6"
+  }
+}

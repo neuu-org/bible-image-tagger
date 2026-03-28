@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "King Herod Antipas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Courtiers and Soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint John Reproaching Herod",
+  "tags": [
+    "john-the-baptist",
+    "herod-antipas",
+    "confrontation",
+    "prophetic-rebuke",
+    "red-robe",
+    "animal-skin",
+    "reed-cross",
+    "dark-background",
+    "dramatic-lighting",
+    "bare-torso",
+    "courtiers",
+    "gesture-of-accusation",
+    "tension"
+  ],
+  "symbols": [
+    "John in animal skins confronting Herod in rich robes — the prophet of God against worldly power, asceticism versus luxury",
+    "accusatory gesture — the prophetic ministry of calling the powerful to repentance",
+    "Herod's red robe — royal authority stained by moral corruption",
+    "dark background — the moral darkness surrounding Herod's court",
+    "reed cross staff — John's identity as the forerunner of Christ"
+  ],
+  "description": "A dark, dramatically lit scene showing a confrontation between two principal figures. At right, a lean, muscular man with wild hair and bare torso, wearing an animal skin, holds a reed cross and extends his hand in an accusatory gesture. At center-left, a bearded man in a rich red robe sits at a table, surrounded by several other figures — courtiers, soldiers, and attendants — who react with various expressions of surprise and discomfort. The lighting is stark and focused, illuminating the central figures while the background remains in deep shadow.",
+  "theological_description": "This painting depicts the moment when John the Baptist confronted King Herod Antipas over his unlawful marriage to Herodias, his brother Philip's wife. Mark 6:18 records: 'For John had been saying to Herod, \"It is not lawful for you to have your brother's wife.\"' This confrontation stands in the great tradition of Hebrew prophets speaking truth to power: Nathan confronting David over Bathsheba (2 Samuel 12:1-7), Elijah confronting Ahab over Naboth's vineyard (1 Kings 21:17-24). John embodied the prophetic courage that fears God more than man, fulfilling his role as the voice crying in the wilderness who came to prepare the way of the Lord (Isaiah 40:3, Mark 1:3). The consequences of this rebuke were severe: Herodias nursed a grudge and eventually arranged John's execution through her daughter's dance and the demand for his head on a platter (Mark 6:19-28). Jesus later called John 'more than a prophet' and declared that 'among those born of women there has arisen no one greater than John the Baptist' (Matthew 11:9-11). John's fearless rebuke of Herod demonstrates that the prophetic voice cannot be silenced by earthly power, and that the cost of faithfulness may be life itself — a principle Jesus would embody on the cross.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.17-18",
+      "relevance": "primary",
+      "reason": "John telling Herod it is not lawful to have his brother's wife is the direct event depicted"
+    },
+    {
+      "ref": "MAT.14.3-4",
+      "relevance": "primary",
+      "reason": "Matthew's parallel account of John's imprisonment for reproaching Herod about Herodias"
+    },
+    {
+      "ref": "2SA.12.1-7",
+      "relevance": "typological",
+      "reason": "Nathan confronting King David provides the Old Testament precedent for a prophet rebuking a king's sexual sin"
+    },
+    {
+      "ref": "MAT.11.9-11",
+      "relevance": "allusion",
+      "reason": "Jesus's testimony that John is more than a prophet and the greatest born of women"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "allusion",
+      "reason": "John as the voice crying in the wilderness, his prophetic identity that compelled this confrontation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "dramatic",
+    "confrontational"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180675",
+    "title": "Saint John Reproaching Herod",
+    "artist": "Mattia Preti",
+    "model": "claude-opus-4-6"
+  }
+}

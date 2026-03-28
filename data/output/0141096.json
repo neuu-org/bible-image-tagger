@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "jesus",
+    "apostles",
+    "table",
+    "bread-and-wine",
+    "institution-of-eucharist",
+    "halo",
+    "john-leaning-on-jesus",
+    "judas",
+    "dramatic-lighting",
+    "passover-meal",
+    "upper-room",
+    "drapery",
+    "betrayal"
+  ],
+  "symbols": [
+    "table with bread and wine — the institution of the Eucharist, the new covenant in Christ's blood",
+    "Christ at center with halo — the divine host of the sacred meal",
+    "John leaning on Jesus — the beloved disciple's intimate closeness to the Lord",
+    "gathered disciples — the foundation of the Church receiving the first communion",
+    "dramatic lighting on Christ — the Light of the World illuminating the last meal"
+  ],
+  "description": "Christ sits at the center of a long table surrounded by his twelve apostles. He has a golden halo and wears dark robes with a red undergarment. One young disciple (John) leans against Jesus's chest. The other apostles are arranged on both sides, some in animated conversation, some in contemplation. The table holds bread, wine, and dishes. The scene is dramatically lit, with Christ as the focal point of illumination. Fabric drapes hang in the background. The palette is rich with deep reds, earth tones, and golden highlights.",
+  "theological_description": "West's Last Supper depicts the institution of the Eucharist on the night before Christ's crucifixion. Luke records: 'And he took bread, and when he had given thanks, he broke it and gave it to them, saying, This is my body, which is given for you. Do this in remembrance of me. And likewise the cup after they had eaten, saying, This cup that is poured out for you is the new covenant in my blood' (Luke 22:19-20). John, the beloved disciple, leans on Jesus's breast — 'One of his disciples, whom Jesus loved, was reclining at table at Jesus's side' (John 13:23). This intimate detail becomes the occasion for Peter to ask John to discover who would betray Jesus. The Last Supper simultaneously looks backward to the Passover — 'Christ, our Passover lamb, has been sacrificed' (1 Corinthians 5:7) — and forward to the cross and the eschatological feast, as Jesus declared: 'I tell you I will not drink again of this fruit of the vine until that day when I drink it new with you in my Father's kingdom' (Matthew 26:29). Paul transmitted this tradition: 'For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes' (1 Corinthians 11:26).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist — 'This is my body... this cup is the new covenant in my blood'"
+    },
+    {
+      "ref": "JHN.13.23-26",
+      "relevance": "primary",
+      "reason": "The beloved disciple leaning on Jesus's breast — depicted in John reclining against Christ"
+    },
+    {
+      "ref": "MAT.26.26-29",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Last Supper with the promise of future fulfillment in the kingdom"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "typological",
+      "reason": "Paul's transmission of the Eucharistic tradition — proclaiming the Lord's death until he comes"
+    },
+    {
+      "ref": "1CO.5.7",
+      "relevance": "allusion",
+      "reason": "Christ our Passover lamb sacrificed — the Last Supper as the new Passover"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "intimate",
+    "sacred",
+    "foreboding"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0141096",
+    "title": "Last Supper",
+    "artist": "Benjamin West",
+    "model": "claude-opus-4-6"
+  }
+}

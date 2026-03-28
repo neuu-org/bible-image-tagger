@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary with Christ Child (Vision)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint John on the Island of Patmos",
+  "tags": [
+    "saint-john",
+    "patmos",
+    "apocalyptic-vision",
+    "writing",
+    "virgin-and-child-vision",
+    "island",
+    "cloud-apparition",
+    "red-robe",
+    "golden-halo",
+    "eagle",
+    "quill-pen",
+    "rocky-landscape",
+    "book-of-revelation",
+    "seated-evangelist"
+  ],
+  "symbols": [
+    "John writing on Patmos — the recording of divine revelation, the authorship of the Apocalypse",
+    "vision of the Virgin and Child in clouds — the Woman clothed with the sun from Revelation 12",
+    "eagle at his feet — the traditional symbol of the Evangelist John, soaring vision and theological height",
+    "island setting — exile for the faith, Patmos where John was banished for the testimony of Jesus",
+    "quill pen and book — the instrument of inspired Scripture"
+  ],
+  "description": "A painting showing a young man with a golden halo seated on rocky ground on an island, wearing a flowing red robe. He holds a quill pen and appears to be writing, looking up at a vision in the sky to the left. In the clouds, a woman in blue robes holding an infant appears — a vision of the Virgin Mary and Christ Child, rendered within a luminous cloud formation. A dark eagle or bird sits at the evangelist's feet. The landscape behind shows water, distant mountains, and green foliage. The scene combines the earthly island setting with the heavenly vision above.",
+  "theological_description": "This painting depicts the Apostle John in exile on the island of Patmos, where he received the visions recorded in the Book of Revelation. Revelation 1:9 states, 'I, John, your brother and partner in the tribulation... was on the island called Patmos on account of the word of God and the testimony of Jesus.' The vision of the Woman and Child in the clouds corresponds to Revelation 12:1-5: 'A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars. She was pregnant and... she gave birth to a male child, one who is to rule all the nations with a rod of iron.' In Christian tradition, this Woman has been interpreted both as Mary and as the Church. The eagle at John's feet is his evangelist symbol, derived from the vision of the four living creatures (Revelation 4:7, Ezekiel 1:10), with the eagle representing the soaring theological vision of John's Gospel and Apocalypse. John's act of writing fulfills the divine command: 'Write what you see in a book and send it to the seven churches' (Revelation 1:11). The juxtaposition of the exiled apostle on barren rock and the glorious heavenly vision captures the essential dynamic of Revelation: present suffering illuminated by future glory, earthly tribulation reframed by heavenly reality.",
+  "scripture_refs": [
+    {
+      "ref": "REV.1.9-11",
+      "relevance": "primary",
+      "reason": "John on Patmos receiving the command to write what he sees, the direct setting depicted"
+    },
+    {
+      "ref": "REV.12.1-5",
+      "relevance": "primary",
+      "reason": "The vision of the Woman clothed with the sun giving birth to the male child, shown in the cloud apparition"
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "typological",
+      "reason": "The four living creatures including the eagle, which became John's evangelist symbol shown at his feet"
+    },
+    {
+      "ref": "JHN.21.24",
+      "relevance": "allusion",
+      "reason": "The beloved disciple who bears witness and wrote these things, connecting John's identity as writer"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "visionary",
+    "contemplative",
+    "luminous"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0180645",
+    "title": "St John on Patmos",
+    "artist": "Hans Baldung",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jonathan",
+      "type": "PERSON"
+    }
+  ],
+  "event": "David and Jonathan's Farewell",
+  "tags": [
+    "david",
+    "jonathan",
+    "farewell",
+    "friendship",
+    "covenant",
+    "embrace",
+    "stream",
+    "dark-forest",
+    "moonlight",
+    "two-figures",
+    "parting",
+    "loyalty",
+    "old-testament"
+  ],
+  "symbols": [
+    "two figures embracing in a dark wood — the depth and secrecy of their covenant of friendship",
+    "stream of water — the boundary between safety and danger, between parting and reunion",
+    "dense dark forest — the peril surrounding David as Saul seeks his life",
+    "moonlit clearing — divine providence illuminating the moment of faithful covenant"
+  ],
+  "description": "A black-and-white engraving showing two robed figures standing close together beside a small stream in a densely wooded landscape. One figure appears to embrace or lean toward the other. The trees are massive and dark, forming a canopy overhead. A soft light filters through the foliage, illuminating the two figures. The atmosphere is intimate and secretive. Text at the bottom identifies the scene as 'David and Jonathan' with a biblical reference.",
+  "theological_description": "Dore's engraving captures the deeply moving farewell between David and Jonathan as recorded in 1 Samuel 20. Jonathan, the son of King Saul, had formed a covenant of love with David — 'Jonathan became one in spirit with David, and he loved him as himself' (1 Samuel 18:1). When Jonathan confirmed that his father Saul intended to kill David, the two met secretly to say goodbye: 'David got up from the south side of the stone and bowed down before Jonathan three times, with his face to the ground. Then they kissed each other and wept together — but David wept the most' (1 Samuel 20:41). Jonathan's parting words form one of the most beautiful covenantal blessings in Scripture: 'Go in peace, for we have sworn friendship with each other in the name of the Lord, saying, \"The Lord is witness between you and me, and between your descendants and my descendants forever\"' (1 Samuel 20:42). Their friendship is one of the great biblical models of selfless love — Jonathan, the crown prince, willingly accepted that David rather than he would be king, declaring: 'You will be king over Israel, and I will be second to you' (1 Samuel 23:17). This self-sacrificing love prefigures the greatest love of all: 'Greater love has no one than this: to lay down one's life for one's friends' (John 15:13).",
+  "scripture_refs": [
+    {
+      "ref": "1SA.20.41-42",
+      "relevance": "primary",
+      "reason": "David and Jonathan's tearful farewell and covenant blessing — the scene depicted"
+    },
+    {
+      "ref": "1SA.18.1-4",
+      "relevance": "primary",
+      "reason": "The covenant of friendship between David and Jonathan"
+    },
+    {
+      "ref": "1SA.23.17",
+      "relevance": "allusion",
+      "reason": "Jonathan's selfless acceptance that David will be king"
+    },
+    {
+      "ref": "JHN.15.13",
+      "relevance": "typological",
+      "reason": "The greatest love — laying down one's life for friends — prefigured in Jonathan's sacrifice"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intimate",
+    "sorrowful",
+    "tender",
+    "solemn"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0150792",
+    "title": "David and Jonathan",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

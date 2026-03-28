@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Jesus Christ with the Apostles (sculptural relief)",
+  "tags": [
+    "christ-and-apostles",
+    "wood-relief",
+    "gilded-sculpture",
+    "group-scene",
+    "golden-drapery",
+    "teaching",
+    "apostolic-gathering",
+    "carved-panel"
+  ],
+  "symbols": [
+    "Christ at center among the apostles — the Good Shepherd amid his flock",
+    "golden drapery cascading — the glory of the heavenly realm manifest in earthly gathering",
+    "tightly grouped figures — the unity of the apostolic community, one body in Christ"
+  ],
+  "description": "A relief sculpture or carved panel showing a dense group of robed figures in dynamic, flowing drapery. The figures are rendered in golden and white tones, appearing to be gilded wood. They are closely packed together in animated poses, some looking up, some in conversation. A golden curtain or canopy appears at the upper left. The overall effect is of swirling movement and rich textile surfaces. The frame is dark wood with gilded edges.",
+  "theological_description": "This sculptural relief of Christ among his apostles captures the unity of the early Church. Jesus prayed for this unity at the Last Supper: 'That all of them may be one, Father, just as you are in me and I am in you' (John 17:21). The tightly compressed figures, their bodies almost merging in the flowing drapery, visualize Paul's teaching: 'The body is a unit, though it is made up of many parts; and though all its parts are many, they form one body. So it is with Christ' (1 Corinthians 12:12). The three-dimensional relief, carved to be placed in a church, would have served as a reminder to the worshipping congregation that they stand in continuity with this apostolic fellowship. Christ's commission to this group — 'Go and make disciples of all nations' (Matthew 28:19) — launched the worldwide mission of the Church.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.17.21",
+      "relevance": "primary",
+      "reason": "Christ's prayer for the unity of his followers — the tightly grouped apostolic community"
+    },
+    {
+      "ref": "1CO.12.12",
+      "relevance": "typological",
+      "reason": "One body with many members — the apostles united in Christ"
+    },
+    {
+      "ref": "MAT.28.19",
+      "relevance": "allusion",
+      "reason": "The Great Commission to this gathered group of apostles"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dynamic",
+    "unified",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160832",
+    "title": "Jesus Christ with apostles",
+    "artist": "Johann Georg Pinzel",
+    "model": "claude-opus-4-6"
+  }
+}

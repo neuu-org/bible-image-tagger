@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bishop Saint",
+      "type": "PERSON"
+    },
+    {
+      "name": "Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Detail from Coronation of Mary with saints",
+  "tags": [
+    "coronation-of-mary",
+    "virgin-mary",
+    "saints",
+    "bishop-mitre",
+    "open-book",
+    "red-robes",
+    "seated-figures",
+    "heavenly-clouds",
+    "cherubim",
+    "devotional-group"
+  ],
+  "symbols": [
+    "bishop's mitre and book — teaching authority of the Church and sacred Scripture",
+    "Mary's red and gold robes — queenship and glory",
+    "clouds and cherubim above — the heavenly realm",
+    "books held by the saints — sacred learning and apostolic witness"
+  ],
+  "description": "A detail showing four figures in a semi-circular grouping. At left, a young woman (the Virgin Mary) in a red robe with golden-yellow mantle looks upward, holding a small cross or object. At center, two male figures — one bald (possibly Saint Paul), the other wearing a bishop's mitre — share an open book. The bishop wears a dark green chasuble. At right, another young woman in pink and mauve robes looks toward the central group, holding a book. Above them, clouds part to reveal cherubim and golden light. The palette is rich with warm reds, golds, greens, and soft pinks.",
+  "theological_description": "This detail from the Coronation of the Virgin shows Mary in glory among the communion of saints. The Coronation of Mary — though not narrated in Scripture directly — is theologically grounded in the Church's reading of Revelation 12:1 (the woman clothed with the sun, with a crown of twelve stars) and Psalm 45:9 (the queen standing at the right hand in gold of Ophir). The gathering of saints around Mary reflects the heavenly assembly described in Hebrews 12:22-23: 'You have come to Mount Zion, to the city of the living God, the heavenly Jerusalem... to the spirits of the righteous made perfect.' The bishop with his open book represents the teaching authority of the Church, grounded in apostolic succession, while the saints holding books reflect the centrality of sacred Scripture in the life of the blessed.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun and crowned with stars — the Marian interpretation underlying the Coronation theme"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen at your right hand in gold of Ophir — traditionally applied to Mary's heavenly coronation"
+    },
+    {
+      "ref": "HEB.12.22-23",
+      "relevance": "allusion",
+      "reason": "The heavenly assembly of angels and the spirits of the righteous — the communion of saints depicted"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "glorious",
+    "devotional",
+    "warm",
+    "celestial"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0170263",
+    "title": "Coronation of Mary (detail)",
+    "artist": "Domenico Beccafumi",
+    "model": "claude-opus-4-6"
+  }
+}

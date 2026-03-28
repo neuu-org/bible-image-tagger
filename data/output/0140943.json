@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Two Apostles or Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Two Saints (from the Spedale della Misericordia polyptych)",
+  "tags": [
+    "saints",
+    "apostles",
+    "gold-ground",
+    "gothic-panel",
+    "pointed-arches",
+    "robed-figures",
+    "halos",
+    "book",
+    "bearded-men",
+    "medieval-painting",
+    "polyptych-panel",
+    "red-and-pink-robes",
+    "standing-figures"
+  ],
+  "symbols": [
+    "book held by one saint — the Scripture or Gospel they proclaim",
+    "gold background — the eternal realm of divine glory",
+    "halos — sanctity and the light of God shining through the faithful",
+    "Gothic arched frames — the church architecture that houses and honors the saints"
+  ],
+  "description": "A Gothic polyptych panel showing two bearded male saints standing in separate pointed-arch niches against a gold ground. The figure at the left wears a salmon-pink robe and holds an object in his hand. The figure at the right wears a mauve-pink robe and holds a book. Both have golden halos. Small roundel portraits appear in the gable above each arch. The frames are ornately carved with twisted columns and Gothic tracery. The style is Trecento Italian with flat, frontal figures and rich gold leaf.",
+  "theological_description": "Giovanni da Milano's panel from the Spedale della Misericordia presents two standing saints in the hieratic tradition of Italian Gothic art. While their specific identities are uncertain, they likely represent apostles or evangelists — the foundational witnesses of the faith. Paul writes of the Church being 'built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone' (Ephesians 2:20). The book held by one figure represents the sacred text they transmitted — 'All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness' (2 Timothy 3:16). The gold ground represents the eternal glory into which these saints have entered: 'The righteous will shine like the sun in the kingdom of their Father' (Matthew 13:43). Their placement in a hospital chapel (Spedale della Misericordia) connects to Jesus's identification of caring for the sick as service to himself: 'I was sick and you visited me' (Matthew 25:36).",
+  "scripture_refs": [
+    {
+      "ref": "EPH.2.20",
+      "relevance": "primary",
+      "reason": "The Church built on the foundation of apostles and prophets — the saints as pillars of faith"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "primary",
+      "reason": "All Scripture breathed out by God — the book held by the saint representing sacred text"
+    },
+    {
+      "ref": "MAT.13.43",
+      "relevance": "allusion",
+      "reason": "The righteous shining like the sun — the golden halos and gold ground signifying eternal glory"
+    },
+    {
+      "ref": "MAT.25.36",
+      "relevance": "allusion",
+      "reason": "Visiting the sick as service to Christ — the hospital chapel context of these panels"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "hieratic",
+    "sacred",
+    "solemn"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0140943",
+    "title": "Da Spedale Della Misericordia",
+    "artist": "Giovanni da Milano",
+    "model": "claude-opus-4-6"
+  }
+}

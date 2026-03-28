@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "jesus",
+    "apostles",
+    "table",
+    "apse-painting",
+    "church-mural",
+    "halo",
+    "eucharist",
+    "passover",
+    "upper-room",
+    "gold-cross",
+    "candles",
+    "semicircular-composition",
+    "dark-palette"
+  ],
+  "symbols": [
+    "Christ with halo at center — the divine host of the sacred meal",
+    "gathered apostles — the foundation of the Church receiving the first communion",
+    "table and meal — the Eucharistic feast instituted on the night of betrayal",
+    "gold cross below — the liturgical connection between the painting and the altar",
+    "apse setting — the painting placed where the Eucharist is celebrated, linking image to sacrament"
+  ],
+  "description": "A church apse mural depicting the Last Supper in a semicircular lunette above an altar. Christ sits at center with a golden halo, surrounded by the twelve apostles arranged around a long table. The figures are rendered in dark, somber tones. One apostle (likely John) leans against Jesus. Judas may be identifiable among the group. The painting fills the curved wall above the altar space. A gold ornamental cross with candles is visible in the foreground below the mural. Decorative border patterns frame the lower edge of the composition.",
+  "theological_description": "Kotarbinski's Last Supper in an apse setting directly connects the biblical narrative to the ongoing Eucharistic worship that takes place beneath it. The placement of the Last Supper above the altar is a deliberate theological statement — every celebration of the Eucharist is a participation in this original meal. Jesus declared: 'This is my body, which is given for you. Do this in remembrance of me' (Luke 22:19). Paul taught: 'For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes' (1 Corinthians 11:26). The semicircular arrangement of apostles around Christ recalls his promise: 'Where two or three are gathered in my name, there am I among them' (Matthew 18:20). The apse placement also connects to the Last Supper's institution of the new covenant: 'This cup is the new covenant in my blood' (Luke 22:20), replacing the old covenant sacrifices with the once-for-all offering of Christ. John leans on Jesus's breast, 'the disciple whom Jesus loved' (John 13:23), capturing the intimacy at the heart of the Eucharistic mystery. The gold cross below ties the supper to the cross — for the meal anticipates the sacrifice that will follow the next day.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist — the body given and the new covenant in blood"
+    },
+    {
+      "ref": "1CO.11.26",
+      "relevance": "primary",
+      "reason": "Proclaiming the Lord's death until he comes — the liturgical connection of apse placement"
+    },
+    {
+      "ref": "JHN.13.23",
+      "relevance": "primary",
+      "reason": "The beloved disciple reclining on Jesus — visible in the composition"
+    },
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "primary",
+      "reason": "Matthew's account of the bread and wine as Christ's body and blood of the new covenant"
+    },
+    {
+      "ref": "MAT.18.20",
+      "relevance": "allusion",
+      "reason": "Christ present where two or three gather — the apse making Christ present at every liturgy"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "sacred",
+    "dark",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0141323",
+    "title": "Last Supper",
+    "artist": "Wilhelm Kotarbinski",
+    "model": "claude-opus-4-6"
+  }
+}

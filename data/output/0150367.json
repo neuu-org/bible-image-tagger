@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Mothers of Bethlehem",
+      "type": "GROUP"
+    },
+    {
+      "name": "Slain infants",
+      "type": "GROUP"
+    },
+    {
+      "name": "Young attendant",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Massacre of the Innocents",
+  "tags": [
+    "massacre-of-the-innocents",
+    "bethlehem",
+    "herod",
+    "grief",
+    "mourning-mothers",
+    "dead-children",
+    "lamentation",
+    "golden-chalice",
+    "dark-hair",
+    "jeweled-necklace",
+    "soldiers-in-background",
+    "anguish",
+    "innocence-destroyed"
+  ],
+  "symbols": [
+    "dead children in mothers' arms — the ultimate price of Herod's jealousy and the world's violence against innocence",
+    "mothers' anguished faces — Rachel weeping for her children, refusing to be comforted",
+    "soldiers visible in the background — the machinery of state violence against the defenseless",
+    "golden chalice — possibly the offering for the dead, or the bitter cup of suffering"
+  ],
+  "description": "A close-up, emotionally intense composition focusing on two grieving mothers and their dead children. In the center, a beautiful dark-haired woman in a yellow and green garment bends over a lifeless golden-haired child draped across her lap, her face contorted with grief. Behind her, an older woman in a dark hood holds another limp infant, her eyes wide with horror. At left, a younger figure in a blue garment kneels, reaching toward a golden vessel on the ground. In the far background at left, distant figures on horseback suggest the soldiers carrying out the massacre.",
+  "theological_description": "Navez's painting depicts the Massacre of the Innocents, recorded in Matthew 2:16-18. When King Herod learned from the Magi that a new king had been born in Bethlehem, he ordered the killing of all male children under two years old. Matthew explicitly connects this atrocity to Jeremiah's prophecy: 'A voice is heard in Ramah, weeping and great mourning, Rachel weeping for her children and refusing to be comforted, because they are no more' (Jeremiah 31:15, cited in Matthew 2:17-18). The painting focuses not on the violence itself but on its aftermath — the devastating grief of mothers holding their murdered children. These innocent children have been regarded since the earliest centuries of Christianity as the first martyrs, those who died not for their own faith but because of Christ's existence. Their death reveals the pattern that runs throughout Scripture: the forces of darkness strike at the seed of promise. Pharaoh ordered the killing of Hebrew boys (Exodus 1:22), and now Herod repeats the pattern against the newborn King. Yet God's redemptive plan cannot be thwarted — just as Moses survived Pharaoh's decree, Jesus survives Herod's through the flight into Egypt. The weeping mothers of Bethlehem join the great cloud of witnesses whose suffering, though agonizing, is taken up into God's larger story of redemption.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "primary",
+      "reason": "The Massacre of the Innocents ordered by Herod — the direct biblical event depicted"
+    },
+    {
+      "ref": "JER.31.15",
+      "relevance": "primary",
+      "reason": "Rachel weeping for her children — the prophecy Matthew cites as fulfilled in the massacre"
+    },
+    {
+      "ref": "EXO.1.22",
+      "relevance": "typological",
+      "reason": "Pharaoh's decree to kill Hebrew boys prefigures Herod's massacre — the pattern of attacking the promised deliverer"
+    },
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The flight into Egypt that saved Jesus while these children perished"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "grief-stricken",
+    "tragic",
+    "haunting"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150367",
+    "title": "The massacre of the innocents",
+    "artist": "François-Joseph Navez",
+    "model": "claude-opus-4-6"
+  }
+}

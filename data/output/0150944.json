@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "jesus",
+    "apostles",
+    "upper-room",
+    "table",
+    "warm-light",
+    "lamplight",
+    "bread",
+    "wine",
+    "intimate-gathering",
+    "middle-eastern-setting",
+    "night-scene",
+    "columns",
+    "clay-vessels"
+  ],
+  "symbols": [
+    "gathered figures around a table — the institution of the Eucharist and the new covenant",
+    "warm lamplight in darkness — the Light of the World gathered with his disciples on the last night",
+    "bread and wine on the table — the body and blood of Christ given for the world",
+    "intimate, enclosed space — the sacred privacy of the Upper Room"
+  ],
+  "description": "A warmly lit interior scene showing a group of figures seated around a table in what appears to be a Middle Eastern room. The scene is viewed from outside, through an archway or opening, with a wooden column dividing the composition. The figures are bathed in warm golden lamplight from hanging oil lamps. The atmosphere is intimate and domestic. Clay vessels are visible. The palette is almost entirely warm browns, oranges, and golden tones against dark shadows. A cooler blue tone appears at the left exterior. The style is impressionistic and atmospheric.",
+  "theological_description": "Polenov's atmospheric rendering of the Last Supper presents the scene with historical realism — Jesus and his disciples gathered in a Middle Eastern room on the night before his crucifixion. The warm lamplight creates an intimate, domestic atmosphere that emphasizes the humanity of the moment: a group of friends sharing a final meal. Yet this meal would transform human history. 'While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, \"Take and eat; this is my body.\" Then he took a cup, and when he had given thanks, he gave it to them, saying, \"Drink from it, all of you. This is my blood of the covenant, which is poured out for many for the forgiveness of sins\"' (Matthew 26:26-28). The Passover meal is transformed into the Eucharist — the new covenant sealed not with the blood of lambs but with Christ's own blood. Luke records that Jesus said, 'Do this in remembrance of me' (Luke 22:19), instituting the central act of Christian worship. The intimacy of the lamplight setting recalls that this was also the night of Judas's betrayal — 'As soon as Judas had taken the bread, he went out. And it was night' (John 13:30). The darkness outside the room represents the world of sin and death that Jesus is about to enter voluntarily for the sake of those he loves.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist — the bread and wine as Christ's body and blood"
+    },
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "Do this in remembrance of me — the institution of the new covenant meal"
+    },
+    {
+      "ref": "JHN.13.30",
+      "relevance": "allusion",
+      "reason": "Judas going out into the night — the darkness outside contrasting with the warm interior"
+    },
+    {
+      "ref": "MRK.14.22-25",
+      "relevance": "primary",
+      "reason": "Mark's account of the Last Supper and the blood of the covenant"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "allusion",
+      "reason": "Paul's account of the tradition received from the Lord about the Last Supper"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intimate",
+    "warm",
+    "solemn",
+    "atmospheric"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150944",
+    "title": "Lord's Supper",
+    "artist": "Vasily Polenov",
+    "model": "claude-opus-4-6"
+  }
+}

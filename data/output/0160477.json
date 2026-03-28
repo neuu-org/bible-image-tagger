@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Wedding Guests",
+      "type": "GROUP"
+    },
+    {
+      "name": "Servants",
+      "type": "GROUP"
+    },
+    {
+      "name": "Musicians",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Marriage at Cana",
+  "tags": [
+    "wedding-at-cana",
+    "water-into-wine",
+    "first-miracle",
+    "banquet",
+    "classical-columns",
+    "grand-hall",
+    "feast-tables",
+    "musicians",
+    "water-jars",
+    "green-drapery",
+    "dog"
+  ],
+  "symbols": [
+    "water jars at center — the six stone jars that will hold the new wine, the old order transformed",
+    "grand columned hall — the messianic banquet, the kingdom of God as a feast",
+    "musicians playing — the joy of the wedding feast, foretaste of eschatological celebration",
+    "green draped canopy — the marriage bower, God's blessing on human union"
+  ],
+  "description": "A grand architectural setting with tall Corinthian columns and a canopy of green drapery. Dozens of guests are seated at long white-cloth-covered tables arranged in a U-shape. At center foreground, water jars and vessels stand on the floor near a small table with a candelabra. A servant bends forward pouring from a vessel. Musicians with a large stringed instrument (cello or viol) play at the right. Classical white buildings are visible through the columns against a blue sky. A small dog appears in the lower right.",
+  "theological_description": "The Wedding at Cana (John 2:1-11) is Christ's first miracle — the 'beginning of signs' through which 'he revealed his glory, and his disciples believed in him' (John 2:11). When the wine runs out, Mary intercedes: 'They have no wine' (John 2:3). Jesus orders the servants to fill six stone water jars and the water becomes the finest wine. This sign operates on multiple theological levels: the transformation of water to wine signifies the old covenant yielding to the new — the water of Jewish purification rites becomes the wine of the messianic age. The abundant, superior wine fulfills the prophetic vision of the messianic banquet: 'On this mountain the Lord Almighty will prepare a feast of rich food for all peoples, a banquet of aged wine' (Isaiah 25:6). The wedding setting itself points to Christ as the Bridegroom of the Church (Ephesians 5:25-27), and the feast anticipates the Marriage Supper of the Lamb (Revelation 19:9).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.2.1-11",
+      "relevance": "primary",
+      "reason": "The Wedding at Cana — Christ's first sign, turning water into wine"
+    },
+    {
+      "ref": "ISA.25.6",
+      "relevance": "typological",
+      "reason": "The messianic banquet of rich food and aged wine — fulfilled in the abundance at Cana"
+    },
+    {
+      "ref": "REV.19.9",
+      "relevance": "typological",
+      "reason": "The Marriage Supper of the Lamb — the wedding feast as eschatological foretaste"
+    },
+    {
+      "ref": "EPH.5.25-27",
+      "relevance": "allusion",
+      "reason": "Christ as Bridegroom of the Church — the wedding context of his first miracle"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "festive",
+    "grand",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160477",
+    "title": "The Marriage in Cana",
+    "artist": "Heinrich Schonfeld",
+    "model": "claude-opus-4-6"
+  }
+}

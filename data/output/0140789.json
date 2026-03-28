@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Brother Juniper",
+      "type": "PERSON"
+    },
+    {
+      "name": "Beggar",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Brother Juniper and the Beggar",
+  "tags": [
+    "brother-juniper",
+    "beggar",
+    "charity",
+    "franciscan",
+    "giving",
+    "poverty",
+    "dark-robe",
+    "kneeling-beggar",
+    "rosary",
+    "ruined-building",
+    "mountainous-landscape",
+    "compassion",
+    "almsgiving"
+  ],
+  "symbols": [
+    "friar giving to beggar — radical Franciscan poverty and charity toward the least",
+    "rosary in the friar's hand — the life of prayer that motivates acts of mercy",
+    "ruined buildings — the impermanence of worldly possessions",
+    "mountainous landscape — the wilderness setting of ascetic life",
+    "beggar kneeling — the poor as the recipients of God's mercy through the faithful"
+  ],
+  "description": "A Franciscan friar in a dark habit stands at the left, holding what appears to be a rosary and extending something to a half-naked beggar who kneels before him at the right. The beggar reaches up gratefully with clasped hands. Behind them, ruined architectural structures stand against a dramatic mountainous landscape with a pale, cloudy sky. The scene is rendered in warm earth tones with strong chiaroscuro. Text inscriptions appear at the bottom of the painting.",
+  "theological_description": "Murillo's painting depicts Brother Juniper, one of Saint Francis's earliest companions, legendary for his extreme generosity — he would give away his own clothing to beggars, leaving himself nearly naked. While Juniper is not a biblical figure, his radical charity directly enacts Christ's teachings. Jesus commanded: 'Give to the one who begs from you, and do not refuse the one who would borrow from you' (Matthew 5:42). More specifically, Jesus told the rich young ruler: 'If you would be perfect, go, sell what you possess and give to the poor, and you will have treasure in heaven' (Matthew 19:21). Juniper took this literally. His radical generosity embodies the early church's practice: 'There was not a needy person among them, for as many as were owners of lands or houses sold them... and it was distributed to each as any had need' (Acts 4:34-35). Jesus promised that such charity has eternal significance: 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me' (Matthew 25:40). In the beggar's outstretched hands, Juniper sees the hands of Christ.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.35-40",
+      "relevance": "primary",
+      "reason": "Christ identifying with the needy — serving the beggar is serving Christ himself"
+    },
+    {
+      "ref": "MAT.19.21",
+      "relevance": "primary",
+      "reason": "Selling possessions and giving to the poor — Juniper's radical dispossession"
+    },
+    {
+      "ref": "MAT.5.42",
+      "relevance": "primary",
+      "reason": "Give to the one who begs — the direct commandment enacted in the scene"
+    },
+    {
+      "ref": "ACT.4.34-35",
+      "relevance": "typological",
+      "reason": "The early church sharing so that none had need — the Franciscan ideal of communal poverty"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "humble",
+    "tender",
+    "austere"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0140789",
+    "title": "Brother Juniper and the Beggar",
+    "artist": "Bartolome Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

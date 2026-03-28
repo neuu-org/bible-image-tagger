@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Adam and Eve (suggested by title)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Adam and Eve expelled from Paradise",
+  "tags": [
+    "expulsion-from-paradise",
+    "angel-in-sky",
+    "fiery-figure",
+    "flat-landscape",
+    "expressionist",
+    "turbulent-sky",
+    "fall-of-man",
+    "swirling-colors",
+    "barren-land"
+  ],
+  "symbols": [
+    "fiery angelic figure in the sky — the cherubim with flaming sword driving the first couple from Eden",
+    "barren landscape below — the cursed ground to which humanity is exiled after the Fall",
+    "turbulent sky — the disruption of cosmic harmony caused by sin"
+  ],
+  "description": "An expressionist landscape with a turbulent, luminous sky occupying the upper two-thirds. In the upper left, a fiery, swirling figure — part angel, part flame — streaks across the sky in tones of orange, red, gold, and pink against blue and white clouds. Below, a flat, dark landscape stretches to the horizon with scattered trees and a stream or path. The palette is agitated with thick, impasto brushwork. The figures on the ground are barely discernible amid the dark earth tones, dwarfed by the cosmic drama above.",
+  "theological_description": "Ensor's expressionist rendering of the Expulsion from Paradise captures the cosmic violence of Genesis 3:23-24: 'The LORD God banished him from the Garden of Eden to work the ground from which he had been taken. After he drove the man out, he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.' The fiery angelic figure dominating the sky embodies this cherubim with its flaming sword — not merely a guardian but a manifestation of divine wrath against sin. The barren, dark landscape below represents the cursed ground of Genesis 3:17-19: 'Cursed is the ground because of you; through painful toil you will eat food from it all the days of your life.' The expressionist distortion conveys the emotional and spiritual devastation of exile from God's presence — what was once perfect communion is shattered by disobedience. Yet Christian theology reads this expulsion as the beginning of salvation history: the same God who drove Adam out would eventually send his Son to reopen the way to the tree of life (Revelation 22:2, 14).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.23-24",
+      "relevance": "primary",
+      "reason": "God banished Adam from Eden and placed cherubim with a flaming sword — the event depicted"
+    },
+    {
+      "ref": "GEN.3.17-19",
+      "relevance": "primary",
+      "reason": "The curse on the ground — the barren landscape to which humanity is exiled"
+    },
+    {
+      "ref": "REV.22.2",
+      "relevance": "typological",
+      "reason": "The tree of life in the new Jerusalem — the eschatological reversal of the expulsion"
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "allusion",
+      "reason": "Through one man sin entered the world — the theological consequence of the Fall"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "turbulent",
+    "desolate",
+    "cosmic"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0170764",
+    "title": "Adam and Eve Expelled from Paradise",
+    "artist": "James Ensor",
+    "model": "claude-opus-4-6"
+  }
+}

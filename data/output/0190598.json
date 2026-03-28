@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles and Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Assumption of the Virgin",
+  "tags": [
+    "assumption-of-the-virgin",
+    "heavenly-glory",
+    "ascending-figure",
+    "divine-light",
+    "angels",
+    "saints",
+    "illusionistic-dome",
+    "correggio"
+  ],
+  "symbols": [
+    "central burst of golden light — the divine glory of heaven into which the Virgin is received",
+    "ascending figure — Mary's bodily assumption into heavenly glory",
+    "swirling clouds of angels and saints — the heavenly host welcoming the Mother of God",
+    "foreshortened bodies spiraling upward — the upward pull of divine love drawing all creation toward God"
+  ],
+  "description": "A detail from Correggio's famous illusionistic dome fresco showing a vast swirling composition of figures ascending toward a central burst of brilliant golden-white light. Dozens of figures — angels, saints, and apostles — tumble and spiral on clouds in dramatic foreshortening. A single figure appears to ascend or descend through the luminous center. The composition creates a dizzying vortex effect, with the muscular, dynamic figures painted in rich flesh tones creating concentric rings of movement around the blinding central radiance.",
+  "theological_description": "Correggio's breathtaking dome fresco in Parma Cathedral depicts the Assumption of the Virgin Mary into heaven, a belief rooted in early Church tradition and connected to scriptural themes. While the bodily Assumption is not explicitly narrated in Scripture, it draws on multiple biblical foundations. Revelation 12:1 describes 'a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head,' traditionally interpreted as Mary assumed into heavenly glory. The Assumption is seen as the fulfillment of Psalm 132:8: 'Arise, Lord, to your resting place, you and the ark of your might' — Mary being the Ark of the New Covenant who bore Christ within her. The swirling vortex of the composition visualizes the theology of 1 Corinthians 15:54: 'Death has been swallowed up in victory.' Mary's assumption is understood as the first fruit of the resurrection promise — what Christ accomplished for all believers is first realized in His mother. The overwhelming golden light at the center embodies 1 Timothy 6:16, God dwelling in unapproachable light, toward which all the saints are drawn.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman clothed with the sun — traditionally interpreted as Mary assumed into heavenly glory"
+    },
+    {
+      "ref": "1CO.15.54",
+      "relevance": "typological",
+      "reason": "Death swallowed up in victory — the Assumption as the first fulfillment of the resurrection promise"
+    },
+    {
+      "ref": "PSA.132.8",
+      "relevance": "typological",
+      "reason": "Arise Lord to your resting place, you and the ark of your might — Mary as the Ark assumed into heaven"
+    },
+    {
+      "ref": "1TI.6.16",
+      "relevance": "allusion",
+      "reason": "God dwelling in unapproachable light — the blinding central radiance toward which the Virgin ascends"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "ecstatic",
+    "glorious",
+    "overwhelming",
+    "transcendent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190598",
+    "title": "The Assumption of the Virgin (detail)",
+    "artist": "Correggio",
+    "model": "claude-opus-4-6"
+  }
+}

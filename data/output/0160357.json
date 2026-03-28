@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Simon of Cyrene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ Bearing His Cross (Via Dolorosa)",
+  "tags": [
+    "carrying-the-cross",
+    "via-dolorosa",
+    "way-of-the-cross",
+    "passion-of-christ",
+    "roman-soldiers",
+    "spears",
+    "simon-of-cyrene",
+    "crowd",
+    "suffering",
+    "calvary"
+  ],
+  "symbols": [
+    "the cross — the instrument of death that becomes the means of salvation",
+    "Christ fallen beneath the cross — the weight of the world's sin upon the sinless one",
+    "soldiers with spears — worldly power executing divine providence",
+    "dense crowd — humanity both witness to and complicit in Christ's suffering"
+  ],
+  "description": "A detailed monochrome engraving showing a crowded procession scene. At center, a figure struggles under the weight of a massive diagonal cross beam, bent low toward the ground. Soldiers in armor with spears and helmets surround the figure, pushing and pulling. A dense crowd of men, women, and children fills the composition. Mounted horsemen are visible in the background. The scene is highly detailed with dynamic movement and many overlapping figures pressing forward from left to right.",
+  "theological_description": "This engraving depicts Christ's procession to Golgotha, the Via Dolorosa. The Synoptic Gospels record the soldiers compelling Simon of Cyrene to carry the cross (Mark 15:21), while John's Gospel says Jesus carried it himself (John 19:17). The crushing weight of the cross is both literal and typological — Isaiah prophesied: 'the Lord has laid on him the iniquity of us all' (Isaiah 53:6). The dense crowd pressing in from all sides makes visible the universal scope of Christ's redemptive act — he dies not privately but publicly, before all humanity. Christ's collapse under the wood prefigures his invitation: 'Come to me, all you who are weary and burdened, and I will give you rest' (Matthew 11:28). The paradox of the Passion is that the one crushed beneath the cross is the same one through whom all things were made (John 1:3).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.20-22",
+      "relevance": "primary",
+      "reason": "Jesus led out to be crucified, Simon of Cyrene compelled to carry the cross"
+    },
+    {
+      "ref": "JHN.19.17",
+      "relevance": "primary",
+      "reason": "Jesus bearing his own cross to Golgotha"
+    },
+    {
+      "ref": "ISA.53.6",
+      "relevance": "typological",
+      "reason": "The Lord laid on him the iniquity of us all — the theological meaning of the cross's weight"
+    },
+    {
+      "ref": "MAT.11.28",
+      "relevance": "allusion",
+      "reason": "Come to me all who are burdened — Christ who bears all burdens is himself burdened"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "chaotic",
+    "oppressive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160357",
+    "title": "Christ bearing his cross",
+    "artist": "Martin Schongauer",
+    "model": "claude-opus-4-6"
+  }
+}

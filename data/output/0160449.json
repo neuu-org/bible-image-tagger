@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Penitent Mary Magdalene",
+  "tags": [
+    "mary-magdalene",
+    "penitent",
+    "long-hair",
+    "upward-gaze",
+    "tears",
+    "skull",
+    "open-book",
+    "repentance",
+    "wilderness",
+    "bare-shoulders"
+  ],
+  "symbols": [
+    "upward gaze with tears — the penitent soul crying out to God for mercy and forgiveness",
+    "long unbound hair — Magdalene's traditional attribute, recalling the woman who washed Jesus's feet with her tears and dried them with her hair",
+    "skull — memento mori, meditation on death and the vanity of former worldly life",
+    "open book — Scripture and devotion, the word of God that transforms the sinner",
+    "bare shoulders and disheveled garments — the renunciation of worldly vanity and luxury"
+  ],
+  "description": "A half-length figure of a woman with long, flowing reddish-brown hair looks upward with tear-filled eyes, her right hand pressed to her chest. She wears a loose white garment that has slipped from her shoulders, revealing her upper chest. Before her on a rocky surface lie a skull and an open book. Behind, a dark landscape with a bare tree extends to a blue sky. The figure is warmly lit from the left, her skin and hair glowing against the dark background.",
+  "theological_description": "Titian's Penitent Magdalene depicts the woman whom tradition identifies as the sinful woman of Luke 7:37-38 who washed Jesus's feet with her tears. Whether or not this identification is exegetically certain, the Magdalene became the supreme icon of Christian repentance — the sinner transformed by encounter with Christ. Her upward gaze and tears embody the psalmist's cry: 'A broken and contrite heart, O God, you will not despise' (Psalm 51:17). Jesus himself defended her against Simon the Pharisee: 'Her many sins have been forgiven — as her great love has shown' (Luke 7:47). The skull is the memento mori that anchors her meditation — the vanity of the worldly life she abandoned. The Magdalene's journey from sin to sanctity demonstrates Paul's teaching that 'where sin increased, grace increased all the more' (Romans 5:20). She was the first witness of the Resurrection (John 20:11-18), chosen to announce the risen Christ — the 'apostle to the apostles.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.37-47",
+      "relevance": "primary",
+      "reason": "The sinful woman who washed Jesus's feet with tears and dried them with her hair — the traditional identification of Magdalene"
+    },
+    {
+      "ref": "PSA.51.17",
+      "relevance": "primary",
+      "reason": "A broken and contrite heart God will not despise — the essence of Magdalene's penitence"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "typological",
+      "reason": "Mary Magdalene as the first witness of the Resurrection — from penitent to apostle"
+    },
+    {
+      "ref": "ROM.5.20",
+      "relevance": "allusion",
+      "reason": "Where sin increased, grace increased all the more — Magdalene's transformation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitent",
+    "tender",
+    "sorrowful",
+    "hopeful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160449",
+    "title": "Penitent St. Mary Magdalene",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

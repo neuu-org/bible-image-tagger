@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Feast of the Passover (Last Supper)",
+  "tags": [
+    "last-supper",
+    "passover",
+    "passover-meal",
+    "unleavened-bread",
+    "pascal-lamb",
+    "table-setting",
+    "medieval-interior",
+    "red-robes",
+    "standing-figures",
+    "serving-dish",
+    "jewish-headwear",
+    "institution-of-eucharist",
+    "communion"
+  ],
+  "symbols": [
+    "table with bread and lamb — the Passover meal that Jesus transforms into the Eucharistic feast",
+    "figures gathered around the table — the apostolic community at the moment of the new covenant's institution",
+    "unleavened bread on the table — the bread that Jesus will identify as his body",
+    "central dish or platter — the Passover lamb that prefigures Christ as the Lamb of God"
+  ],
+  "description": "A medieval panel painting depicting a group of men gathered around a table in an interior setting. The table is set with a central platter containing what appears to be a lamb, along with round loaves of bread and small cups or vessels. Several figures in red robes stand around the table, while others are seated. The figures have varied headwear including medieval caps and what appear to be Jewish-style pointed hats. One central figure appears to be speaking or gesturing over the food. The interior shows medieval architectural details.",
+  "theological_description": "This painting from the Winged Altar in St. Peter's, Leuven, depicts the Last Supper as a Passover meal, rooting the Eucharist firmly in its Jewish liturgical context. The Passover lamb on the table recalls Exodus 12:1-14, where God commanded the Israelites to sacrifice a lamb and mark their doorposts with its blood so that the angel of death would pass over their homes. Jesus chose this most sacred of Jewish feasts to institute the new covenant: 'This is my body, which is given for you. Do this in remembrance of me' (Luke 22:19). Paul makes the connection explicit: 'Christ, our Passover lamb, has been sacrificed' (1 Corinthians 5:7). The unleavened bread on the table links the ancient commandment of Exodus 12:8 ('They shall eat the flesh that night, roasted on the fire, with unleavened bread') to the new sacramental reality where bread becomes the body of Christ. Jesus gathered his disciples for this meal knowing it was his last: 'I have earnestly desired to eat this Passover with you before I suffer' (Luke 22:15). The meal is simultaneously a remembrance of Israel's deliverance from Egypt and the institution of a new deliverance — from sin and death through the body and blood of Christ. Every subsequent Eucharist reenacts this moment when the old covenant meal was transformed into the new.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist at the Last Supper Passover meal, the direct event depicted"
+    },
+    {
+      "ref": "EXO.12.1-14",
+      "relevance": "primary",
+      "reason": "The original Passover commandment — lamb, unleavened bread, bitter herbs — visible on the table"
+    },
+    {
+      "ref": "1CO.5.7",
+      "relevance": "typological",
+      "reason": "Christ our Passover lamb has been sacrificed — the lamb on the table is both the old symbol and the new reality"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "primary",
+      "reason": "Paul's account of the institution of the Lord's Supper received from the Lord himself"
+    },
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "primary",
+      "reason": "Jesus taking bread, breaking it, and declaring it his body — the bread visible on the table"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "sacred",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0181163",
+    "title": "The Feast of the Passover - from the Winged altar in St. Peter in Leuven",
+    "artist": "Dirk Bouts",
+    "model": "claude-opus-4-6"
+  }
+}

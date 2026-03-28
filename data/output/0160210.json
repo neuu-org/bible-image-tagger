@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female Temptress",
+      "type": "OTHER"
+    },
+    {
+      "name": "Demonic Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Temptation of Saint Anthony",
+  "tags": [
+    "temptation-of-saint-anthony",
+    "demonic-assault",
+    "desert-father",
+    "lust",
+    "crucified-figure",
+    "open-book",
+    "spiritual-warfare",
+    "skulls",
+    "pig",
+    "monastic-struggle",
+    "carnal-temptation"
+  ],
+  "symbols": [
+    "nude woman on the cross — lust disguised as the sacred, the devil perverting the form of the crucifixion",
+    "brown-robed monk recoiling — the ascetic's horror at temptation invading his devotion",
+    "open book — Scripture or prayer interrupted by demonic assault",
+    "skulls and cherubs — death and mockery of innocence, the wages of sin",
+    "pig at lower right — traditional attribute of St. Anthony and symbol of carnal desire",
+    "red drapery — passion and blood, the sensual world encroaching upon the holy"
+  ],
+  "description": "A robed monk in brown habit kneels at lower left, recoiling in horror from a vision before him. At center, a nude female figure is fastened to a large wooden cross, her red hair flowing, with a sign reading 'EROS' above. A demonic winged figure hovers to the left. Floating skulls and small grotesque heads appear in the upper left. A large open illustrated book lies on a pedestal before the cross. At right, a pale dog or pig sits on stone steps beside scattered books. The color palette mixes muted earth tones with vivid red drapery and a pale blue sky.",
+  "theological_description": "The Temptation of St. Anthony is one of the most enduring themes in Christian art, drawn from Athanasius's Life of Anthony. The Desert Father's battle against demonic temptation became the archetype of spiritual warfare. Here, the perversion is particularly pointed: a seductive figure usurps the place of Christ on the cross, replacing divine love (agape) with carnal desire (eros). This inverts the meaning of the crucifixion — where Christ offered his body for humanity's salvation, the demon offers the body for humanity's damnation. Paul warned of this spiritual battle: 'For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world' (Ephesians 6:12). Anthony's resistance — modeled on Christ's own temptation in the wilderness (Matthew 4:1-11) — demonstrates that faith and prayer can overcome even the most insidious demonic assault. James promises: 'Resist the devil, and he will flee from you' (James 4:7).",
+  "scripture_refs": [
+    {
+      "ref": "EPH.6.11-12",
+      "relevance": "primary",
+      "reason": "Spiritual warfare against powers of darkness — the core theme of Anthony's temptation"
+    },
+    {
+      "ref": "MAT.4.1-11",
+      "relevance": "typological",
+      "reason": "Christ's temptation in the wilderness is the prototype for Anthony's desert struggle"
+    },
+    {
+      "ref": "JAS.4.7",
+      "relevance": "allusion",
+      "reason": "Resist the devil and he will flee — Anthony's perseverance in the face of temptation"
+    },
+    {
+      "ref": "1PE.5.8",
+      "relevance": "allusion",
+      "reason": "The devil prowls like a roaring lion seeking whom to devour"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "disturbing",
+    "grotesque",
+    "anguished",
+    "provocative"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160210",
+    "title": "The Temptation of St. Anthony",
+    "artist": "Felicien Rops",
+    "model": "claude-opus-4-6"
+  }
+}

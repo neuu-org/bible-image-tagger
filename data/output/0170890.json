@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "Mater Dolorosa — the Sorrowful Mother",
+  "tags": [
+    "mater-dolorosa",
+    "sorrowful-mother",
+    "dark-veil",
+    "praying-hands",
+    "downcast-eyes",
+    "half-length-portrait",
+    "dark-background",
+    "grief",
+    "devotional-image",
+    "red-garment-beneath",
+    "gilt-frame"
+  ],
+  "symbols": [
+    "dark veil covering Mary — mourning and the shadow of the Passion",
+    "hands clasped in prayer — intercession and sorrowful submission to God's will",
+    "downcast eyes — grief held in contemplative silence",
+    "red garment glimpsed beneath the veil — the blood of Christ's Passion, Mary's co-suffering"
+  ],
+  "description": "A half-length portrait of the Virgin Mary against a very dark background. She wears a voluminous dark blue-black veil and mantle that covers her head and shoulders. Beneath, a hint of a red garment is visible at the neckline. Her hands are clasped together in prayer at her chest. Her face is youthful and pale, with large dark eyes looking slightly downward and to one side with an expression of deep, restrained sorrow. The painting is displayed in an ornate carved gilt frame. The overall tone is somber and intimate, the figure emerging softly from darkness.",
+  "theological_description": "Sassoferrato's Mater Dolorosa (Mother of Sorrows) is a devotional image meditating on Mary's grief at the suffering and death of her Son. The theological foundation is Simeon's prophecy at the Presentation: 'A sword will pierce your own soul too' (Luke 2:35). The tradition of the Seven Sorrows of Mary traces her grief from the flight into Egypt through the Crucifixion. At Calvary, she stood at the foot of the cross (John 19:25), witnessing the torture and death of the one she had cradled as an infant. Her clasped hands express both prayer and the acceptance of suffering — the same disposition she showed at the Annunciation: 'I am the Lord's servant; may your word to me be fulfilled' (Luke 1:38). The dark veil of mourning all but consumes her, yet her face remains visible — a visual metaphor for faith persisting through the darkest night. Mary's sorrow is not mere maternal grief but a participation in the mystery of redemption: she who gave Christ his human flesh now watches that flesh destroyed on the cross, fulfilling the divine plan that 'God so loved the world that he gave his one and only Son' (John 3:16).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "A sword will pierce your own soul — the prophecy of Mary's grief that this image embodies"
+    },
+    {
+      "ref": "JHN.19.25",
+      "relevance": "primary",
+      "reason": "Mary standing near the cross of Jesus — the moment of deepest sorrow"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "typological",
+      "reason": "I am the Lord's servant — Mary's acceptance that extends through suffering"
+    },
+    {
+      "ref": "JHN.3.16",
+      "relevance": "allusion",
+      "reason": "God gave his only Son — Mary's grief mirrors the Father's costly gift"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": ["sorrowful", "contemplative", "devotional", "somber"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170890",
+    "title": "Mater Dolorosa",
+    "artist": "Sassoferrato",
+    "model": "claude-opus-4-6"
+  }
+}

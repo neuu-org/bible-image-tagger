@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin, Jesus and Saint John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "infant-john-the-baptist",
+    "golden-halo",
+    "enthroned-virgin",
+    "marble-throne",
+    "arched-niche",
+    "embrace-of-children",
+    "lamb-skin",
+    "mosaic-floor",
+    "devotional-portrait",
+    "white-robe",
+    "gilded-medallion",
+    "bare-infants",
+    "classical-architecture"
+  ],
+  "symbols": [
+    "golden halo around Mary — her sanctity and unique role as Theotokos, the God-bearer",
+    "marble throne within an arched niche — the Seat of Wisdom, Mary as throne of the incarnate God",
+    "two children embracing — the intimate bond between Christ and his forerunner, destiny intertwined",
+    "lamb skin worn by infant John — identifying him as the one who will point to the Lamb of God",
+    "gilded medallion on the throne base — sacred decoration marking this as a devotional object"
+  ],
+  "description": "A vertical composition showing a young woman with a large golden halo seated on a white marble throne set within a classical arched niche. She wears a white robe and holds two infants on her lap. The two children embrace each other — the one on the left wears a rough animal skin and has slightly darker, curly hair, while the one on the right is nude. The woman gazes down at them with a tender, serene expression. The throne is flanked by decorated marble columns with ornamental capitals, and the base features a gilded circular medallion with a decorative motif.",
+  "theological_description": "This devotional image presents the Virgin Mary enthroned as the Sedes Sapientiae — the Seat of Wisdom — holding both the Christ Child and the infant John the Baptist. The embrace of the two children captures the intimate connection established before birth when the unborn John leaped in Elizabeth's womb at the sound of Mary's greeting (Luke 1:41-44). John, identifiable by the lamb skin he wears — the garment of the wilderness prophet (Matthew 3:4) and the symbol of the Lamb to whom he will one day point — presses close to Jesus in an act of recognition and love. The enthroned Mary, elevated within an architectural niche reminiscent of an apse, presents the theological reality of the Incarnation in its most accessible form: God made visible, tangible, and embraceable as a human child. The marble throne echoes the throne of Solomon (1 Kings 10:18-20), the greatest of Israel's kings, while Mary as the new Ark of the Covenant surpasses the old by containing not tablets of stone but the living Word of God. The golden halo marks her unique blessedness: 'Blessed are you among women, and blessed is the fruit of your womb' (Luke 1:42). The children's embrace prefigures the entire Gospel dynamic: the forerunner and the Messiah, the voice crying in the wilderness and the Word made flesh, joined in the single redemptive purpose of God.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The embrace of the two infants reflects the recognition that began when the unborn John leaped at the presence of the unborn Christ"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Elizabeth's blessing of Mary as the most blessed among women, embodied in her enthroned, haloed majesty"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The lamb skin on infant John foreshadows his proclamation of Jesus as the Lamb of God"
+    },
+    {
+      "ref": "MAT.3.4",
+      "relevance": "allusion",
+      "reason": "John's animal skin garment identifies him as the future wilderness prophet"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "allusion",
+      "reason": "The children's intimate embrace visualizes the bond between the one who must increase and the one who must decrease"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional",
+    "serene",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180370",
+    "title": "The Virgin, Jesus and Saint John Baptist",
+    "artist": "William-Adolphe Bouguereau",
+    "model": "claude-opus-4-6"
+  }
+}

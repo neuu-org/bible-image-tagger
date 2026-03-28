@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Holy Family with Saint John the Baptist",
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "infant-jesus",
+    "joseph",
+    "infant-john-the-baptist",
+    "red-dress",
+    "dark-background",
+    "blessing-gesture",
+    "ecce-agnus-dei-scroll",
+    "devotional"
+  ],
+  "symbols": [
+    "Christ child's raised hand — the gesture of blessing, divine authority even in infancy",
+    "scroll held by infant John reading 'Ecce Agnus Dei' — 'Behold the Lamb of God'",
+    "dark background with emerged figures — the divine light entering a world of darkness",
+    "Mary's red dress — love and the blood of the future Passion"
+  ],
+  "description": "A dark Baroque painting showing four figures emerging from a very dark background. A woman in a red dress holds a nude infant who raises one hand in blessing. Behind them, an older bearded man is barely visible in the shadows. At lower right, a curly-haired child holds a scroll or banner. The lighting is dramatically chiaroscuro — the figures are warmly lit against near-total darkness. The palette is limited to flesh tones, red, and deep brown-black.",
+  "theological_description": "Strozzi's Holy Family with the infant Baptist presents the central figures of the Gospel narrative in intimate Baroque chiaroscuro. The Christ child's raised hand in blessing affirms his divine authority even as an infant — the one who 'existed before all things, and in him all things hold together' (Colossians 1:17). The infant John the Baptist holds a scroll inscribed 'Ecce Agnus Dei' — 'Behold, the Lamb of God' (John 1:29), the proclamation he will make as an adult at the Jordan River. Even in childhood, John is oriented toward Christ, fulfilling his destiny as the forerunner. Joseph's presence in the shadows reflects his role as the quiet, faithful guardian — 'a righteous man' (Matthew 1:19) who protected the Holy Family. Mary's red dress and warm glow suggest both maternal love and the sacrificial blood of the Passion to come. The dramatic chiaroscuro embodies the theological reality proclaimed in John's Gospel: 'The light shines in the darkness, and the darkness has not overcome it' (John 1:5). This small family unit, emerging from darkness into light, is the vessel through which God enters human history.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Ecce Agnus Dei — the inscription on John's scroll, his future proclamation"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "The light shining in darkness — the chiaroscuro presentation of the holy figures"
+    },
+    {
+      "ref": "COL.1.17",
+      "relevance": "allusion",
+      "reason": "Christ existing before all things — the blessing hand of the divine infant"
+    },
+    {
+      "ref": "MAT.1.19-20",
+      "relevance": "allusion",
+      "reason": "Joseph the righteous guardian — present in the shadows, faithful protector"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intimate",
+    "dark",
+    "devotional",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150892",
+    "title": "Holy Family with St. John the Baptist",
+    "artist": "Bernardo Strozzi",
+    "model": "claude-opus-4-6"
+  }
+}

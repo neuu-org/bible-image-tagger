@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ (Crucified)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mourning Figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "christ-on-cross",
+    "red-background",
+    "white-loincloth",
+    "outstretched-arms",
+    "expressionist",
+    "fiery-tones",
+    "mourning-figure",
+    "inri-plaque",
+    "loose-brushwork",
+    "warm-palette",
+    "devotional"
+  ],
+  "symbols": [
+    "cross against fiery red — the blood sacrifice and the divine love that burns like fire",
+    "outstretched arms of Christ — the universal embrace of redemption, arms open to all humanity",
+    "white loincloth — the purity of the sinless sacrifice",
+    "red and orange background — the consuming fire of divine judgment and love merged in the cross",
+    "solitary mourning figure — the faithful witness at the foot of the cross"
+  ],
+  "description": "An expressionist painting of the Crucifixion, rendered with loose, painterly brushwork. Christ hangs on a dark cross against a vivid red-orange background that saturates the entire composition with fiery warmth. His body is pale, rendered in yellow-white and ochre tones, with arms stretched wide. A white loincloth hangs at his waist. Above his head, a small plaque (INRI) is visible. At the lower left, a smaller, darker figure stands or kneels at the base of the cross — a mourning witness.",
+  "theological_description": "Redon's expressionist Crucifixion strips the scene to its essential elements: the cross, the body, and the overwhelming red that engulfs everything. The fiery background may evoke multiple theological realities simultaneously: the wrath of God poured out upon the sin-bearer (Romans 3:25), the consuming fire of divine love (Hebrews 12:29), and the blood of the new covenant shed for many (Mark 14:24). The cross stands at the center of the painting as it stands at the center of the Christian faith — Paul resolved to know nothing 'except Jesus Christ and him crucified' (1 Corinthians 2:2). The pale body against the blazing red creates a visual theology of substitution: the innocent one absorbing the fire of judgment on behalf of the guilty. Christ's outstretched arms span the width of the canvas, embodying the universal reach of his atoning work — 'And I, when I am lifted up from the earth, will draw all people to myself' (John 12:32). The solitary figure at the base of the cross represents all who stand before the crucified Christ in grief, wonder, and worship. The expressionist treatment, dissolving realistic detail into pure color and emotion, captures what mere representation cannot: the overwhelming, reality-altering power of what happened on Calvary.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The crucifixion of Jesus at Golgotha, the foundational event depicted"
+    },
+    {
+      "ref": "JHN.12.32",
+      "relevance": "primary",
+      "reason": "When I am lifted up I will draw all people to myself — Christ's outstretched arms embody this universal reach"
+    },
+    {
+      "ref": "1CO.2.2",
+      "relevance": "typological",
+      "reason": "Knowing nothing except Christ crucified — the painting strips everything away to focus on the cross alone"
+    },
+    {
+      "ref": "MRK.14.24",
+      "relevance": "allusion",
+      "reason": "The blood of the covenant poured out for many, evoked by the all-encompassing red"
+    },
+    {
+      "ref": "HEB.12.29",
+      "relevance": "allusion",
+      "reason": "Our God is a consuming fire — the fiery red background surrounding the sacrifice"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intense",
+    "fiery",
+    "solemn",
+    "transcendent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180823",
+    "title": "The Crucifixion",
+    "artist": "Odilon Redon",
+    "model": "claude-opus-4-6"
+  }
+}

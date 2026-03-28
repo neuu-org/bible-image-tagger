@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene or John",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea or Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Descent from the Cross (Lamentation)",
+  "tags": [
+    "descent-from-the-cross",
+    "lamentation",
+    "dead-christ",
+    "deposition",
+    "pieta",
+    "mourning",
+    "shroud",
+    "virgin-mary",
+    "angels-weeping",
+    "body-of-christ",
+    "grief",
+    "nails",
+    "burial-preparation",
+    "passion"
+  ],
+  "symbols": [
+    "lifeless body of Christ on white cloth — the sacrificial Lamb laid upon the altar of burial",
+    "nails beside the body — instruments of the Passion and proofs of the crucifixion",
+    "white burial shroud — the linen cloth in which the body was wrapped for burial",
+    "weeping angels above — heaven itself mourning the death of the Son of God",
+    "Mary's clasped hands — the Mater Dolorosa, the sword piercing her soul as Simeon foretold",
+    "dark overwhelming shadows — the cosmic darkness of Holy Saturday between death and resurrection"
+  ],
+  "description": "The dead body of Christ lies stretched out on a white cloth in the lower half of the composition, pale and lifeless, with nail wounds visible. A woman in a dark veil and brown garments (Mary) stands behind the body with clasped hands and a grief-stricken expression. Another figure kneels at Christ's head, cradling it tenderly. A bearded man stands in shadow at the upper right. Two small winged angels hover above in the darkness, looking down mournfully. The scene is enveloped in deep shadow with dramatic light falling on Christ's body and the mourning figures.",
+  "theological_description": "Ribera's Descent from the Cross captures the moment after Christ's body was taken down from the cross — the threshold between death and burial. John records: 'After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, asked Pilate that he might take away the body of Jesus, and Pilate gave him permission... Nicodemus also came, bringing a mixture of myrrh and aloes' (John 19:38-39). The lifeless body stretched on the linen fulfills Isaiah's prophecy of the Suffering Servant: 'He was cut off out of the land of the living, stricken for the transgression of my people... they made his grave with the wicked' (Isaiah 53:8-9). Mary's anguished presence confirms Simeon's prophecy: 'A sword will pierce through your own soul also' (Luke 2:35). The weeping angels recall the cosmic scope of this death — this is not merely a criminal's execution but, as Paul writes, 'God was in Christ reconciling the world to himself' (2 Corinthians 5:19). The overwhelming darkness evokes the three hours of darkness over the land (Mark 15:33) and the harrowing silence of Holy Saturday. Yet within this desolation lies the seed of resurrection — this body will not see corruption (Psalm 16:10), for on the third day it will rise.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-40",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea and Nicodemus taking down and preparing Jesus's body for burial — the direct scene depicted"
+    },
+    {
+      "ref": "ISA.53.8-9",
+      "relevance": "primary",
+      "reason": "The Suffering Servant cut off from the land of the living — fulfilled in Christ's death and burial preparation"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul — fulfilled in her grief at the cross and deposition"
+    },
+    {
+      "ref": "MRK.15.33",
+      "relevance": "allusion",
+      "reason": "The darkness over the whole land — the overwhelming shadows surrounding the scene"
+    },
+    {
+      "ref": "PSA.16.10",
+      "relevance": "typological",
+      "reason": "The promise that God will not let his Holy One see corruption — hope within the despair of the deposition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief-stricken",
+    "somber",
+    "solemn",
+    "dark"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140435",
+    "title": "Descent from the Cross",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

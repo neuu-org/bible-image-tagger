@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Apostles and Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Martyrs",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Christ Glorified in the Court of Heaven",
+  "tags": [
+    "court-of-heaven",
+    "communion-of-saints",
+    "gold-background",
+    "halos",
+    "apostles",
+    "martyrs",
+    "bishops",
+    "monks",
+    "holy-women",
+    "ranks-of-saints",
+    "enthroned-christ",
+    "heavenly-assembly",
+    "hierarchical-composition"
+  ],
+  "symbols": [
+    "Christ at center above all — the exalted Lord to whom every knee bows",
+    "ranks of saints in ordered rows — the communion of saints, the heavenly Church triumphant",
+    "gold background — the radiance of divine glory pervading heaven",
+    "varied garments and attributes — the diversity of vocations united in worship",
+    "halos on every figure — the shared sanctity of all who are redeemed"
+  ],
+  "description": "A wide, horizontal composition showing dozens of haloed figures arranged in dense, orderly rows against a gold background. At center top, Christ stands or is enthroned, distinguished by a cruciform halo. The Virgin Mary stands nearby. Below and around them, ranks of saints fill the panel — apostles in robes, bishops in mitres, monks in dark habits, martyrs with palms, holy women in veils, and kings with crowns. Each figure has a golden halo. The garments range from white and blue to red, green, brown, and black, creating a rich tapestry of color.",
+  "theological_description": "Fra Angelico's Christ Glorified in the Court of Heaven visualizes the heavenly worship described in Revelation 7:9: 'A great multitude that no one could count, from every nation, tribe, people and language, standing before the throne and before the Lamb.' Christ at the center is the exalted Lord of Philippians 2:9-11, given 'the name that is above every name,' before whom every knee bows. The orderly ranks of saints — apostles, martyrs, bishops, monastics, virgins, and holy women — represent the Church Triumphant, those who have 'come out of the great tribulation' and 'washed their robes in the blood of the Lamb' (Revelation 7:14). This is the 'great cloud of witnesses' of Hebrews 12:1 that surrounds the faithful on earth. The gold background signifies the divine light in which there is no darkness (1 John 1:5), the heavenly Jerusalem that 'does not need the sun or the moon to shine on it, for the glory of God gives it light' (Revelation 21:23). The communion of saints depicted here is the eschatological fulfillment of Christ's prayer 'that they may all be one' (John 17:21).",
+  "scripture_refs": [
+    {
+      "ref": "REV.7.9-10",
+      "relevance": "primary",
+      "reason": "A great multitude from every nation standing before the throne and the Lamb — the scene depicted"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "primary",
+      "reason": "The great cloud of witnesses surrounding us — the communion of saints in heaven"
+    },
+    {
+      "ref": "REV.7.14",
+      "relevance": "primary",
+      "reason": "Those who have washed their robes in the blood of the Lamb — the redeemed saints"
+    },
+    {
+      "ref": "PHP.2.9-11",
+      "relevance": "typological",
+      "reason": "Every knee bowing at the name of Jesus — Christ exalted at the center of the heavenly court"
+    },
+    {
+      "ref": "REV.21.23",
+      "relevance": "allusion",
+      "reason": "The glory of God illuminates the heavenly city — the gold background signifying divine light"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "glorious",
+    "orderly",
+    "radiant",
+    "triumphant"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0170387",
+    "title": "Christ Glorified in the Court of Heaven",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

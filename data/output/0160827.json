@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary of Bethany",
+      "type": "PERSON"
+    },
+    {
+      "name": "Martha",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ in the House of Mary and Martha",
+  "tags": [
+    "mary-and-martha",
+    "house-of-bethany",
+    "teaching",
+    "listening-at-feet",
+    "serving",
+    "domestic-scene",
+    "contemplation-vs-action",
+    "red-tablecloth"
+  ],
+  "symbols": [
+    "Mary seated at Jesus's feet — the contemplative life, choosing 'the better part' that will not be taken away",
+    "Martha standing and serving — the active life of service, anxious about many things",
+    "Jesus gesturing in teaching — the Word made flesh speaking the words of eternal life",
+    "interior domestic space — the ordinary home transformed by Christ's presence into sacred ground"
+  ],
+  "description": "An interior scene with figures gathered around a table covered with a red cloth. At center, a figure in a light garment gestures while teaching, turning toward a woman seated at his feet on the lower right, who looks up attentively in a blue and gold dress. Another woman stands to the left near the table, appearing to manage household tasks. Other figures — older men — sit or lean at the table in discussion. Through a window or doorway in the background, more figures are visible in an outdoor courtyard. The lighting is warm and focuses on the central teaching moment.",
+  "theological_description": "Luke records that Martha 'was distracted by all the preparations that had to be made,' while Mary 'sat at the Lord's feet listening to what he said' (Luke 10:39-40). When Martha complained, Jesus replied: 'Martha, Martha, you are worried and upset about many things, but few things are needed — or indeed only one. Mary has chosen what is better, and it will not be taken away from her' (Luke 10:41-42). This episode has been foundational for the Christian distinction between the contemplative and active lives. Jesus does not condemn Martha's service but reorders priorities — the Word of God takes precedence over even the most generous hospitality. This teaching echoes Deuteronomy: 'Man does not live on bread alone but on every word that comes from the mouth of the Lord' (Deuteronomy 8:3). The scene in Bethany anticipates Jesus's later declaration: 'My food is to do the will of him who sent me' (John 4:34).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.10.38-42",
+      "relevance": "primary",
+      "reason": "The narrative of Jesus in the home of Mary and Martha — the direct scene depicted"
+    },
+    {
+      "ref": "DEU.8.3",
+      "relevance": "typological",
+      "reason": "Man does not live by bread alone but by every word of God — Mary choosing the word over service"
+    },
+    {
+      "ref": "JHN.4.34",
+      "relevance": "allusion",
+      "reason": "Jesus's food is to do the Father's will — spiritual nourishment over physical provision"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intimate",
+    "warm",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160827",
+    "title": "Christ with Mary and Martha",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

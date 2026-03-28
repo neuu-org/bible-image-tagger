@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "King (possibly Solomon or David)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Courtiers and Counselors",
+      "type": "GROUP"
+    },
+    {
+      "name": "Petitioners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Psalm 127 — The King with His Court",
+  "tags": [
+    "psalm-127",
+    "king-enthroned",
+    "book-of-hours",
+    "medieval-miniature",
+    "crown",
+    "royal-court",
+    "classical-architecture",
+    "petitioners-kneeling",
+    "gold-and-blue-robes",
+    "arched-hall",
+    "counselors",
+    "throne-room"
+  ],
+  "symbols": [
+    "enthroned king — the divinely blessed ruler whose household and city are built by the Lord",
+    "courtiers surrounding the throne — the blessed household and the sons who are 'like arrows in the hand of a warrior'",
+    "kneeling petitioners — those who seek justice and blessing from the rightful king",
+    "classical architectural setting — the city and house that the Lord builds and watches over",
+    "crown and royal robes — the authority conferred by God upon the faithful ruler"
+  ],
+  "description": "A medieval illuminated manuscript miniature depicting a royal court scene within a classical architectural setting with arches and columns. At center, a king in a blue crown and golden-yellow robes sits on a throne, gesturing toward those around him. Standing beside him are courtiers or counselors in pink, yellow, and red garments with various headgear. Before the throne, several figures in blue robes kneel or sit on the floor, appearing to petition or listen to the king. The setting includes elaborate architectural details with an arched niche containing a small statue behind the throne.",
+  "theological_description": "This illuminated miniature accompanies Psalm 127 (numbered CXXVII), which declares: 'Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays awake in vain' (Psalm 127:1). The psalm continues with the blessings of family: 'Behold, children are a heritage from the Lord, the fruit of the womb a reward. Like arrows in the hand of a warrior are the children of one's youth. Blessed is the man who fills his quiver with them!' (Psalm 127:3-5). The king enthroned amid his court and counselors visualizes the blessed household and kingdom that God builds. The architectural grandeur of the setting represents the 'house' — both literal and dynastic — that only God can establish. In the Davidic context, this psalm speaks to the promise made to David that God would build him a house (a dynasty) and establish his kingdom forever (2 Samuel 7:11-13). The petitioners before the throne recall the psalm's final verse: those blessed with a full quiver will not be put to shame 'when they speak with enemies in the gate' (Psalm 127:5). The entire scene affirms the central conviction of wisdom literature: true prosperity, security, and blessing come not from human effort alone but from the Lord's sovereign provision.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.127.1-5",
+      "relevance": "primary",
+      "reason": "The psalm directly illustrated — the Lord building the house and blessing the household"
+    },
+    {
+      "ref": "2SA.7.11-13",
+      "relevance": "typological",
+      "reason": "God's promise to build David a house and establish his kingdom, the Davidic context of the psalm"
+    },
+    {
+      "ref": "PSA.128.1-4",
+      "relevance": "allusion",
+      "reason": "The companion psalm of domestic blessing — the fruitful vine and olive shoots around the table"
+    },
+    {
+      "ref": "PRO.24.3",
+      "relevance": "allusion",
+      "reason": "By wisdom a house is built — the wisdom tradition affirming divine blessing on the household"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "regal",
+    "ordered",
+    "prosperous"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0180856",
+    "title": "Psalm CXXVII",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

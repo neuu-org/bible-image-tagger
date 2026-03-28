@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Salome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Head of John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioner's hand",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Salome with the Head of Saint John the Baptist",
+  "tags": [
+    "salome",
+    "john-the-baptist",
+    "severed-head",
+    "silver-platter",
+    "beheading",
+    "young-woman",
+    "executioner",
+    "necklace",
+    "elegant-dress",
+    "closed-eyes",
+    "auburn-hair",
+    "herod",
+    "gruesome",
+    "martyrdom"
+  ],
+  "symbols": [
+    "severed head on a platter — the price of prophetic truth-telling, the prophet silenced by power",
+    "Salome's composed expression — the chilling detachment of one who serves as an instrument of revenge",
+    "executioner's hand gripping the hair — the brutal reality of state-sanctioned murder",
+    "silver platter — the perverse fulfillment of Herod's rash promise"
+  ],
+  "description": "A close-up composition showing a young woman with auburn hair and an ornate necklace, holding a silver platter. On the platter rests the severed head of a bearded man with curly auburn hair, eyes closed. A muscular hand from the right grips the head's hair. The woman's expression is calm, almost serene, with slightly downcast eyes. The painting is tightly cropped, focusing on the three elements: Salome's face, the platter, and the severed head. Rich colors include the red of her striped sleeve and the metallic sheen of the dish.",
+  "theological_description": "Solario's painting presents the horrifying aftermath of John the Baptist's beheading with unflinching realism. The narrative, recorded in Mark 6:17-29 and Matthew 14:1-12, tells how Herod Antipas imprisoned John for condemning his marriage to Herodias, his brother's wife. At a banquet, Herodias's daughter danced and pleased Herod, who swore to give her whatever she asked. Prompted by her vengeful mother, she demanded: 'I want you to give me right now the head of John the Baptist on a platter' (Mark 6:25). The executioner's hand in the painting makes viscerally real the mechanics of this murder. Salome's composed expression intensifies the horror — she is an instrument of her mother's hatred for the man who spoke the truth. John's death is the paradigmatic cost of prophetic faithfulness. He came 'in the spirit and power of Elijah' (Luke 1:17) to 'prepare the way for the Lord' (Mark 1:3), and like many prophets before him, was killed for his witness. Jesus himself mourned John and honored him: 'Among those born of women there has not risen anyone greater than John the Baptist' (Matthew 11:11). The severed head of the forerunner foreshadows the crucifixion of the one he announced — both killed by the collaboration of political weakness and personal malice.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.25-28",
+      "relevance": "primary",
+      "reason": "Salome's demand and the execution — the head brought on a platter as depicted"
+    },
+    {
+      "ref": "MAT.14.8-11",
+      "relevance": "primary",
+      "reason": "Matthew's account of the beheading and delivery of the head on a platter"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Jesus's testimony to John's greatness — the significance of the prophet killed"
+    },
+    {
+      "ref": "MRK.6.18",
+      "relevance": "primary",
+      "reason": "John's denunciation of Herod's marriage — the cause of his imprisonment and death"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grim",
+    "chilling",
+    "unflinching"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0151057",
+    "title": "Salome with the head of St. John the Baptist",
+    "artist": "Andrea Solario",
+    "model": "claude-opus-4-6"
+  }
+}

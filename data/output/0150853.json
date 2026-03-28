@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Salome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Head of John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Salome with the Head of Saint John the Baptist",
+  "tags": [
+    "salome",
+    "john-the-baptist",
+    "severed-head",
+    "platter",
+    "red-brick-wall",
+    "prison",
+    "execution",
+    "young-woman",
+    "dark-hair",
+    "beheading",
+    "herod",
+    "consequence-of-dance",
+    "grim-trophy"
+  ],
+  "symbols": [
+    "severed head on a platter — the cost of speaking truth to power, the prophet silenced",
+    "prison bars visible at left — the imprisonment that preceded the execution",
+    "red wall — the blood and violence surrounding the death of the prophet",
+    "Salome carrying the head — the instrument of Herodias's revenge against the truth-teller"
+  ],
+  "description": "A horizontal panel showing a young woman with dark hair, wearing a green dress with bared shoulders, walking from left to right. She carries a wide shallow platter or basin containing the severed head of a bearded man. Behind her, a red brick fortification wall rises, with prison bars or a dark opening visible at far left. A distant landscape is visible at right. The woman's expression is composed, almost detached. The style is early Renaissance with clear outlines and careful detail.",
+  "theological_description": "Botticelli depicts the gruesome aftermath of the beheading of John the Baptist as recorded in Mark 6:17-29 and Matthew 14:1-12. Herod Antipas had imprisoned John for denouncing his marriage to Herodias, his brother's wife — John had declared, 'It is not lawful for you to have your brother's wife' (Mark 6:18). At Herod's birthday feast, Herodias's daughter (traditionally named Salome) danced and pleased Herod so much that he rashly promised her anything she wished. Prompted by her mother, she demanded: 'Give me here on a platter the head of John the Baptist' (Matthew 14:8). Herod, bound by his oath before the guests, ordered the execution. The head was brought on a platter and given to the girl, who brought it to her mother. John's death is a paradigm of the cost of prophetic truth-telling. He was the last and greatest of the Old Testament prophets, of whom Jesus said: 'Among those born of women there has not risen anyone greater than John the Baptist' (Matthew 11:11). His martyrdom prefigures Christ's own — the innocent killed by the collusion of political power and personal vengeance. John came 'in the spirit and power of Elijah' (Luke 1:17), and like Elijah who confronted Ahab and Jezebel, he confronted Herod and Herodias — and paid with his life.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.17-29",
+      "relevance": "primary",
+      "reason": "The imprisonment and beheading of John the Baptist — the full narrative behind the scene"
+    },
+    {
+      "ref": "MAT.14.8-11",
+      "relevance": "primary",
+      "reason": "Salome's request for John's head on a platter — the specific moment depicted"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Jesus's testimony that John was the greatest born of women — the significance of the prophet killed"
+    },
+    {
+      "ref": "MRK.6.18",
+      "relevance": "primary",
+      "reason": "John's courageous denunciation of Herod's unlawful marriage — the cause of his death"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grim",
+    "haunting",
+    "somber"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150853",
+    "title": "Salome with the Head of St John the Baptist",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

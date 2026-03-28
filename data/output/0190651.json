@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna of the Book — the Virgin reading Scripture with the Christ Child",
+  "tags": [
+    "madonna-and-child",
+    "book-of-hours",
+    "virgin-mary",
+    "infant-jesus",
+    "open-book",
+    "halo",
+    "devotional",
+    "botticelli",
+    "window-landscape"
+  ],
+  "symbols": [
+    "open book — Scripture or the Book of Hours, Mary meditating on God's Word and the prophecies fulfilled in her Son",
+    "Christ Child gazing upward at Mary — the divine Son in filial love, the Word made flesh contemplating His mother",
+    "golden halos — the sanctity of mother and child, divine light marking their sacred identities",
+    "bowl of cherries or fruit — possible reference to the fruits of paradise or the sweetness of divine grace",
+    "window opening to landscape — the world beyond the intimate domestic space, the world Christ came to save"
+  ],
+  "description": "Botticelli's celebrated Madonna of the Book shows the Virgin Mary seated at a desk or table, reading from an open illuminated manuscript. She wears a dark blue mantle over a red dress with a blue-grey head covering, and has a delicate golden halo. The infant Jesus sits on her lap, looking up at her with one hand reaching toward the book and the other holding what appear to be nails. A small bowl of fruit or cherries and a glass vessel sit on the desk behind the book. A window or opening at the upper right reveals a landscape.",
+  "theological_description": "Botticelli's Madonna of the Book presents Mary as the contemplative reader of Scripture, the woman who 'treasured all these things, pondering them in her heart' (Luke 2:19). The open book before her represents the divine Word that found its ultimate expression in the Child on her lap — the Word made flesh (John 1:14). A poignant detail enriches the theological reading: the infant Christ holds what appear to be nails, a prefiguration of the Passion instruments, suggesting that even in this tender domestic moment, the shadow of the Cross falls. This connects to Simeon's prophecy in Luke 2:34-35 that a sword would pierce Mary's own soul. The intimate scene of mother and child with Scripture embodies the theology of the Incarnation at its most personal — God entering not only human history but human domesticity, the infinite Creator becoming a child who can sit on a mother's lap. Mary's reading fulfills the Beatitude of Luke 11:28: 'Blessed rather are those who hear the word of God and keep it' — she who both heard and bore the Word.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasuring and pondering all things in her heart — embodied in her contemplative reading"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the written Word in the book and the living Word on Mary's lap"
+    },
+    {
+      "ref": "LUK.2.34-35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy of the sword piercing Mary's soul — the nails in Christ's hands foreshadow the Passion"
+    },
+    {
+      "ref": "LUK.11.28",
+      "relevance": "allusion",
+      "reason": "Blessed are those who hear the word of God and keep it — Mary as the model hearer and bearer of the Word"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "contemplative",
+    "intimate",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190651",
+    "title": "Madonna of the Book",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

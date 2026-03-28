@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourning disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Burial of Christ",
+  "tags": [
+    "burial-of-christ",
+    "entombment",
+    "rock-tomb",
+    "linen-shroud",
+    "mourners",
+    "passion",
+    "joseph-of-arimathea",
+    "grief",
+    "cave-entrance"
+  ],
+  "symbols": [
+    "white burial linens — the clean linen shroud provided by Joseph of Arimathea for the King of Kings",
+    "rock-hewn tomb — the new tomb in which no one had yet been laid, fulfilling Isaiah's prophecy",
+    "mourners gathered around the body — faithful love persisting through the darkest hour",
+    "cave entrance — the threshold between death and resurrection, the womb of new creation"
+  ],
+  "description": "Carl Bloch's deeply moving painting of the Burial of Christ shows the dead body of Jesus laid out on a white linen cloth on a stone slab within a rock-hewn tomb. His body is pale and limp, bearing the marks of crucifixion. A group of mourners surrounds the body: Joseph of Arimathea and Nicodemus assist in positioning the body, while women including the Virgin Mary in a dark veil and Mary Magdalene grieve nearby. A figure at the far right stands at the cave entrance. The lighting comes from outside the tomb, illuminating the body and faces of the mourners against the dark stone interior.",
+  "theological_description": "Carl Bloch's Burial of Christ presents the solemn moment described in Matthew 27:57-60, Mark 15:42-46, Luke 23:50-53, and John 19:38-42. Joseph of Arimathea, a secret disciple, boldly asked Pilate for the body and, together with Nicodemus who brought seventy-five pounds of myrrh and aloes, wrapped it in clean linen and placed it in Joseph's own new tomb hewn from rock. This burial fulfilled Isaiah 53:9: 'He was assigned a grave with the wicked, and with the rich in his death, though He had done no violence.' The presence of the faithful mourners — those who remained when the disciples scattered — embodies the steadfast love described in Song of Solomon 8:6: 'Love is as strong as death.' The tomb itself becomes theologically significant: it is both an ending and a beginning. As Jesus Himself had taught in John 12:24, 'Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit.' The Sabbath rest that followed the burial parallels God's rest on the seventh day of creation (Genesis 2:2) — Christ resting in the tomb before rising to inaugurate the new creation on the first day of the week.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.57-60",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea wrapping the body in clean linen and laying it in his new tomb — the exact scene"
+    },
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph and Nicodemus preparing the body with spices and linen in the garden tomb"
+    },
+    {
+      "ref": "ISA.53.9",
+      "relevance": "primary",
+      "reason": "Assigned a grave with the rich in His death — fulfilled in Joseph of Arimathea's new tomb"
+    },
+    {
+      "ref": "JHN.12.24",
+      "relevance": "typological",
+      "reason": "The grain of wheat falling into the earth and dying to bear fruit — the burial as divine planting"
+    },
+    {
+      "ref": "GEN.2.2",
+      "relevance": "typological",
+      "reason": "God resting on the seventh day — Christ resting in the tomb on the Sabbath before the new creation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "reverent",
+    "somber",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190689",
+    "title": "The Burial of Christ",
+    "artist": "Carl Bloch",
+    "model": "claude-opus-4-6"
+  }
+}

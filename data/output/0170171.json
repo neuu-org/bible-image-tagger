@@ -1,0 +1,104 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Two Thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd at Calvary",
+      "type": "GROUP"
+    },
+    {
+      "name": "Mounted Horsemen",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "three-crosses",
+    "calvary",
+    "golgotha",
+    "roman-soldiers",
+    "spear",
+    "sponge-on-reed",
+    "mourning-virgin",
+    "blue-sky",
+    "crowd",
+    "horsemen",
+    "armor",
+    "inri-inscription",
+    "medieval-illumination",
+    "latin-text",
+    "soldiers-gambling"
+  ],
+  "symbols": [
+    "central cross raised highest — Christ exalted between two criminals, the Lamb of God lifted up",
+    "two thieves flanking Christ — the universal choice between repentance and rejection",
+    "spear and sponge — the instruments of the Passion, fulfilling prophecy",
+    "Virgin Mary in blue — the Mother of Sorrows at the foot of the cross",
+    "soldiers casting lots — the degradation of dividing the seamless garment",
+    "INRI inscription — Pilate's unwitting proclamation of Christ's kingship",
+    "bright blue sky — the clarity of heaven over the darkest moment in history"
+  ],
+  "description": "A richly detailed medieval illumination depicting the Crucifixion. Three crosses stand tall against a vivid blue sky, Christ at center on the tallest cross with INRI inscribed above. Two thieves hang on either side. Below, a dense crowd of figures fills the foreground: Roman soldiers in armor with spears, one raising a sponge on a reed toward Christ, another with a lance. The Virgin Mary stands at left in blue robes, bent in grief. Mounted horsemen in elaborate armor occupy the right side. Soldiers at the bottom appear to be casting lots for garments.",
+  "theological_description": "Fouquet's Crucifixion illumination presents the central event of Christian salvation history. The three crosses on Calvary are recorded in all four Gospels (Matthew 27:38, Mark 15:27, Luke 23:33, John 19:18). Christ is lifted up between two criminals, fulfilling his own prophecy: 'When I am lifted up from the earth, I will draw all people to myself' (John 12:32). The spear thrust and sponge of vinegar correspond to John 19:29-34, where soldiers offered sour wine and then pierced his side, fulfilling the prophecy 'they will look on the one they have pierced' (Zechariah 12:10). The soldiers casting lots for his garments at the foot of the cross fulfill Psalm 22:18: 'They divide my clothes among them and cast lots for my garment.' Mary's presence at the cross is recorded in John 19:25-27, where Jesus entrusts her to the beloved disciple. The INRI inscription — Jesus of Nazareth, King of the Jews — written in three languages (John 19:19-20), was Pilate's political statement that became an inadvertent proclamation of cosmic truth. The two thieves represent the universal human response to the crucified Christ: one repents and receives paradise (Luke 23:42-43), while the other mocks and perishes. Every detail of this scene converges on the atoning sacrifice described in Isaiah 53 and interpreted by Paul as the means by which God reconciled the world to himself (2 Corinthians 5:19).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "John's detailed account of the Crucifixion including the inscription, soldiers, vinegar, and Christ's final words"
+    },
+    {
+      "ref": "LUK.23.33-43",
+      "relevance": "primary",
+      "reason": "Luke's account including the two criminals and the repentant thief receiving the promise of paradise"
+    },
+    {
+      "ref": "PSA.22.18",
+      "relevance": "primary",
+      "reason": "They divide my garments among them and cast lots for my clothing — fulfilled by the soldiers at the cross's foot"
+    },
+    {
+      "ref": "ZEC.12.10",
+      "relevance": "typological",
+      "reason": "They will look on the one they have pierced — fulfilled by the lance thrust and the crowd gazing at the crucified"
+    },
+    {
+      "ref": "ISA.53.5-7",
+      "relevance": "primary",
+      "reason": "He was pierced for our transgressions, crushed for our iniquities — the theological meaning of the Crucifixion"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary standing at the foot of the cross, entrusted by Jesus to the beloved disciple"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "anguished",
+    "majestic",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170171",
+    "title": "The Crucifixion",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

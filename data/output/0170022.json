@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "The Ascension of Christ",
+  "tags": [
+    "ascension",
+    "risen-christ",
+    "white-robes",
+    "heavenly-glory",
+    "apostles-gazing-upward",
+    "angels-in-clouds",
+    "cherubim",
+    "mandorla",
+    "outstretched-arms",
+    "golden-sky",
+    "virgin-mary-central",
+    "red-and-blue-garments"
+  ],
+  "symbols": [
+    "Christ ascending with arms raised — the victorious return to the Father after completing the work of redemption",
+    "angels flanking Christ — the heavenly host attending the exalted Son",
+    "apostles gazing upward — the Church witnessing the departure of its Lord and awaiting the promised Spirit",
+    "Virgin Mary at center among the apostles — the Mother of God as the heart of the nascent Church",
+    "clouds and golden light — the glory of heaven receiving the incarnate Word",
+    "white robe of Christ — purity, resurrection, and divine glory"
+  ],
+  "description": "A two-tiered composition. In the upper register, Christ ascends in a white robe with arms raised, surrounded by a host of angels and cherubim set against golden clouds and a bright sky. Two angels in flowing robes stand on clouds flanking him. In the lower register, a group of approximately twelve apostles and the Virgin Mary stand or kneel on the ground, heads tilted upward in wonder and awe. Mary stands at center in blue and red garments with hands clasped in prayer. The apostles wear varied colored robes and display gestures of amazement.",
+  "theological_description": "Perugino depicts the Ascension of Christ as recorded in Acts 1:9-11 and Luke 24:50-51. Forty days after the Resurrection, Jesus led his disciples out and was taken up into heaven while they watched. The composition's strict vertical axis — Christ above, the Church below — visualizes the theological reality that the Ascension completes the arc of the Incarnation: the Word who descended from the Father now returns in glorified human flesh. Christ's raised arms echo the posture of blessing described in Luke 24:50, while the upward gaze of the apostles corresponds to Acts 1:10, where two angels then appear saying 'This same Jesus will come back in the same way you have seen him go.' The Virgin Mary's central position among the apostles reflects her role in the early Church as described in Acts 1:14, united in prayer awaiting the descent of the Holy Spirit at Pentecost. The Ascension is theologically pivotal: it inaugurates Christ's heavenly session at the right hand of the Father (Hebrews 1:3), his ongoing intercession as High Priest (Hebrews 7:25), and opens the way for the sending of the Paraclete (John 16:7). The cloud that receives him is both the Shekinah glory of God's presence and the promise of his return in glory (Revelation 1:7).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.1.9-11",
+      "relevance": "primary",
+      "reason": "The direct narrative of Jesus being taken up while the disciples watched, and the angels promising his return"
+    },
+    {
+      "ref": "LUK.24.50-51",
+      "relevance": "primary",
+      "reason": "Luke's account of Jesus blessing the disciples and being carried up into heaven"
+    },
+    {
+      "ref": "ACT.1.14",
+      "relevance": "primary",
+      "reason": "Mary among the apostles in united prayer after the Ascension, reflected in her central position"
+    },
+    {
+      "ref": "HEB.1.3",
+      "relevance": "typological",
+      "reason": "Christ sat down at the right hand of the Majesty on high after purification of sins — the destination of the Ascension"
+    },
+    {
+      "ref": "JHN.16.7",
+      "relevance": "allusion",
+      "reason": "Jesus told the disciples it was to their advantage that he go away, for then the Advocate would come"
+    },
+    {
+      "ref": "REV.1.7",
+      "relevance": "allusion",
+      "reason": "He is coming with the clouds, and every eye will see him — the eschatological counterpart to the Ascension"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["glorious", "awe-filled", "transcendent", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170022",
+    "title": "The Ascension of Christ",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

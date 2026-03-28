@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Matthew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel (Matthew's symbol)",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Matthew the Evangelist",
+  "tags": [
+    "saint-matthew",
+    "evangelist",
+    "writing",
+    "pen",
+    "long-beard",
+    "angel",
+    "tondo",
+    "circular-format",
+    "dark-background",
+    "gospel-writer",
+    "inspired-writing",
+    "warm-tones"
+  ],
+  "symbols": [
+    "pen in hand — Matthew writing his Gospel, the inspired record of Christ's life",
+    "angel beside him — Matthew's traditional evangelist symbol, the winged man or angel",
+    "circular (tondo) format — completeness and eternity",
+    "dramatic chiaroscuro — the divine light of inspiration amid human darkness"
+  ],
+  "description": "A circular (tondo) painting showing an elderly bearded man in warm-toned robes, holding a pen in his right hand, turned slightly to the right. Behind him and slightly below, a younger face (the angel) is barely visible in the deep shadow. The lighting is dramatic chiaroscuro — strong light falls on the old man's face and flowing white beard from the upper left, while most of the background is deep black. The brushwork is loose and expressive, with warm reds, golds, and deep browns. The format is a perfect circle against a black field.",
+  "theological_description": "Titian's tondo presents Saint Matthew the Evangelist with his traditional symbolic companion, the angel (or winged man), one of the four living creatures from Ezekiel 1:10 and Revelation 4:7 that were assigned to the four Evangelists. Matthew received the angel or human figure because his Gospel begins with the human genealogy of Jesus (Matthew 1:1-17), emphasizing Christ's humanity and descent from Abraham and David. Matthew's pen captures the moment of inspired composition — he writes under divine guidance: 'All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness' (2 Timothy 3:16). Matthew, originally a tax collector called by Jesus from his booth with the simple command 'Follow me' (Matthew 9:9), became the author of the Gospel that most extensively records Jesus's teaching, including the Sermon on the Mount (Matthew 5-7). His Gospel was placed first in the New Testament canon because it most fully connects the Old and New Testaments, repeatedly demonstrating how Jesus fulfilled the prophets: 'All this took place to fulfill what the Lord had said through the prophet' (Matthew 1:22). The dramatic lighting captures the mystery of inspiration — human hands writing divine truth.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.9.9",
+      "relevance": "primary",
+      "reason": "The calling of Matthew the tax collector — the author whose portrait is depicted"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "allusion",
+      "reason": "All Scripture God-breathed — Matthew writing under divine inspiration with the angel present"
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "typological",
+      "reason": "The four living creatures — the source of Matthew's angelic evangelist symbol"
+    },
+    {
+      "ref": "MAT.1.1",
+      "relevance": "primary",
+      "reason": "The genealogy of Jesus — the opening of Matthew's Gospel, the reason for his human/angel symbol"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "inspired",
+    "contemplative",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0151067",
+    "title": "St Matthew",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

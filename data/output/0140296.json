@@ -1,0 +1,103 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Zechariah",
+      "type": "PERSON"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Holy Family with Saints",
+  "tags": [
+    "holy-family",
+    "virgin-and-child",
+    "infant-john-baptist",
+    "saint-elizabeth",
+    "saint-joseph",
+    "god-the-father",
+    "angels",
+    "clouds-of-glory",
+    "architectural-setting",
+    "landscape-window",
+    "two-infants",
+    "blessing",
+    "halos"
+  ],
+  "symbols": [
+    "two infants together — Jesus and John the Baptist whose destinies are intertwined from before birth",
+    "God the Father above in clouds — divine providence overseeing the Incarnation from heaven",
+    "angels attending — the heavenly court witnessing the mysteries of salvation on earth",
+    "open window to landscape — the wider world that these children will transform",
+    "Mary's red and blue garments — the union of divine grace (blue) and sacrificial love (red)",
+    "elderly figures flanking — the Old Covenant generation witnessing the dawn of the New"
+  ],
+  "description": "A richly composed painting showing the Virgin Mary seated at center right, holding the infant Jesus on her lap. Another infant (John the Baptist) stands before Jesus at center, with an elderly woman (Elizabeth) and an elderly man behind him at the left. Another older male figure (Joseph) sits at the far right. Above the main scene, God the Father appears in a heavenly opening surrounded by clouds and angels playing instruments. An arched opening behind the figures reveals a distant landscape with buildings and mountains.",
+  "theological_description": "Tisi's Holy Family with Saints presents a sacra conversazione that unites the two families whose children would transform history. Luke records that Mary visited Elizabeth, and 'when Elizabeth heard the greeting of Mary, the baby leaped in her womb' (Luke 1:41) — the unborn John recognizing the unborn Christ. The two infants depicted together fulfills this connection: John, the last and greatest of the prophets (Matthew 11:11), would prepare the way for Jesus, declaring: 'He must increase, but I must decrease' (John 3:30). The elderly Elizabeth and Zechariah represent the faithful remnant of Israel who 'were both righteous before God, walking blamelessly in all the commandments' (Luke 1:6). God the Father appearing above in glory affirms the divine nature of what is unfolding below — this is not merely a family gathering but the intersection of heaven and earth. The angels with instruments echo the heavenly praise that accompanied Christ's birth (Luke 2:13-14). Joseph's presence completes the picture of faithful guardianship. The open window to the wider landscape suggests the scope of the salvation being prepared: 'A light for revelation to the Gentiles, and for glory to your people Israel' (Luke 2:32).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation — Mary's visit to Elizabeth and the leaping of John in the womb — the two families united"
+    },
+    {
+      "ref": "LUK.1.5-6",
+      "relevance": "primary",
+      "reason": "Zechariah and Elizabeth described as righteous, representing the faithful old-covenant figures in the scene"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "typological",
+      "reason": "Jesus's declaration that John is the greatest born of women — the two infants' intertwined destinies"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "The heavenly host praising God — the angels with instruments above the scene"
+    },
+    {
+      "ref": "LUK.2.32",
+      "relevance": "allusion",
+      "reason": "Simeon's prophecy of Christ as a light to the Gentiles — the open landscape window suggesting universal scope"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "celestial",
+    "familial",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140296",
+    "title": "The Holy Family with Saints",
+    "artist": "Benvenuto Tisi",
+    "model": "claude-opus-4-6"
+  }
+}

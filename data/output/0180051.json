@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels (Putti)",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Assumption of Mary Magdalene",
+  "tags": [
+    "assumption",
+    "mary-magdalene",
+    "ascending-to-heaven",
+    "putti",
+    "cherubs",
+    "clouds",
+    "open-book",
+    "long-flowing-hair",
+    "ecstatic-gaze",
+    "heavenly-light",
+    "blue-sky",
+    "dramatic-clouds",
+    "golden-drapery",
+    "bare-feet",
+    "hands-on-chest"
+  ],
+  "symbols": [
+    "Mary Magdalene borne upward by angels — the penitent sinner exalted by grace, carried to heavenly glory",
+    "flowing unbound hair — traditional iconographic attribute of the Magdalene, recalling the woman who dried Jesus's feet with her hair",
+    "open book below — Scripture or contemplative life left behind as she enters eternal glory",
+    "hands clasped to chest — devotion, penitence, and rapturous love for God",
+    "putti surrounding her — the heavenly host celebrating the reception of a redeemed soul",
+    "heavenly light from above — the divine radiance welcoming her into paradise"
+  ],
+  "description": "A dramatic Baroque composition showing a woman with long, flowing golden-brown hair ascending through a turbulent sky filled with billowing clouds. She wears loosely draped golden and blue garments, her hands pressed to her chest in an expression of ecstatic devotion, her gaze directed upward toward a burst of heavenly light in the upper left. Multiple winged putti surround her, some supporting her body from below, others hovering above with musical instruments. At the bottom of the composition, an open book rests on what appears to be rocky ground, left behind as the figure rises.",
+  "theological_description": "The Assumption of Mary Magdalene depicts a tradition from medieval hagiography — particularly the Golden Legend — in which the penitent saint, after years of contemplative life in a cave at Sainte-Baume, was carried daily by angels to heaven to hear celestial music before being returned to earth. This image captures her final assumption into glory. While not a canonical biblical event, the Magdalene's story is deeply scriptural. She is the woman from whom Jesus cast out seven demons (Luke 8:2), the one who stood at the foot of the cross (John 19:25), and, most significantly, the first witness of the Resurrection, commissioned by the risen Christ himself to announce the good news to the apostles (John 20:11-18), earning her the title Apostola Apostolorum — Apostle to the Apostles. Her assumption by angels reflects the broader biblical theme of God exalting the humble and lifting up those who have been cast down (Luke 1:52, James 4:10). The open book left below suggests that Scripture, once the means of knowing God, gives way to direct vision — the beatific sight that Paul anticipates: 'For now we see in a mirror dimly, but then face to face' (1 Corinthians 13:12). The Magdalene's ecstatic upward gaze embodies the fulfillment of her love for Christ, which first compelled her to the empty tomb at dawn.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "primary",
+      "reason": "Mary Magdalene as the first witness of the Resurrection is the foundational scriptural identity of the figure depicted"
+    },
+    {
+      "ref": "LUK.8.2",
+      "relevance": "primary",
+      "reason": "Mary Magdalene identified as the woman from whom seven demons were cast out, establishing her as a figure of radical transformation"
+    },
+    {
+      "ref": "LUK.7.37-38",
+      "relevance": "typological",
+      "reason": "The unbound hair recalls the tradition identifying the Magdalene with the sinful woman who washed Jesus's feet with her hair"
+    },
+    {
+      "ref": "1CO.13.12",
+      "relevance": "allusion",
+      "reason": "The ecstatic upward gaze toward heavenly light embodies the transition from knowing God dimly to seeing face to face"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "allusion",
+      "reason": "The exaltation of a penitent sinner to heavenly glory enacts the Magnificat's theme of God lifting up the lowly"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "luminous",
+    "triumphant",
+    "transcendent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180051",
+    "title": "Assumption of Mary Magdalene",
+    "artist": "Jose Antolinez",
+    "model": "claude-opus-4-6"
+  }
+}

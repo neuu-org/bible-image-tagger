@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels and Putti",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints Below",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna della Vallicella (Madonna Venerated by Angels and Saints)",
+  "tags": [
+    "madonna-and-child",
+    "madonna-della-vallicella",
+    "oval-frame",
+    "putti",
+    "cherubs",
+    "clouds",
+    "heavenly-glory",
+    "saints-below",
+    "adoring-angels",
+    "gilded-frame",
+    "red-robed-saint",
+    "purple-robed-saint",
+    "upward-gaze",
+    "heavenly-apparition"
+  ],
+  "symbols": [
+    "Madonna and Child in an oval frame amid clouds — the heavenly icon revealed to the faithful below",
+    "host of putti surrounding the icon — the angelic court attending the Mother of God",
+    "saints gazing upward — the Church on earth venerating the heavenly Queen",
+    "clouds separating upper and lower registers — the boundary between heaven and earth, bridged by devotion",
+    "gilded oval frame — the precious setting of the sacred image, the window into heaven"
+  ],
+  "description": "A tall, vertical Baroque composition divided into two registers. In the upper portion, an oval frame surrounded by gilded light contains an image of the Virgin Mary with the Christ Child, both looking outward. This central icon is encircled by a host of winged putti and cherubs who float amid billowing clouds, some supporting the frame, others gazing adoringly at the Madonna. Light radiates from behind the oval. In the lower register, several full-sized figures — saints in rich red and purple robes — look upward in attitudes of adoration and supplication, some with arms outstretched.",
+  "theological_description": "Rubens's Madonna della Vallicella presents a vision of the heavenly court centered on the Theotokos and her divine Son. The composition embodies the theology of heavenly intercession: the saints below gaze upward in prayer, the angels attend the Madonna, and she in turn holds the Christ Child who is the source of all grace. This vertical hierarchy of devotion reflects the communion of saints described in Hebrews 12:1: 'Since we are surrounded by so great a cloud of witnesses.' The Madonna in the oval frame evokes the miraculous icon tradition — a heavenly reality breaking through into the material world. Mary's role as intercessor is grounded in her intercession at Cana (John 2:3-5), where she brought the people's needs before Jesus. The putti surrounding her recall the angelic worship of heaven described in Revelation 4-5, while the saints below represent the Church Militant looking toward the Church Triumphant. The entire composition is a visual theology of mediation: Christ, the one mediator between God and humanity (1 Timothy 2:5), is held by Mary who is surrounded by angels and venerated by saints — the full economy of grace flowing from the Incarnation.",
+  "scripture_refs": [
+    {
+      "ref": "HEB.12.1",
+      "relevance": "primary",
+      "reason": "The great cloud of witnesses surrounding the faithful, embodied by the saints and angels in the composition"
+    },
+    {
+      "ref": "JHN.2.3-5",
+      "relevance": "typological",
+      "reason": "Mary's intercessory role at Cana is the scriptural foundation for the veneration directed toward her"
+    },
+    {
+      "ref": "REV.4.8-11",
+      "relevance": "typological",
+      "reason": "The heavenly worship of angels surrounding the throne, paralleled by the putti surrounding the Madonna"
+    },
+    {
+      "ref": "1TI.2.5",
+      "relevance": "allusion",
+      "reason": "Christ as the one mediator, held by Mary at the center of the entire devotional structure"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "glorious",
+    "devotional",
+    "majestic",
+    "rapturous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180853",
+    "title": "Madonna della Vallicella",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

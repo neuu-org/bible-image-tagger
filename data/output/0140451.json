@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Saint Philip Neri",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Ecstasy of Saint Philip Neri",
+  "tags": [
+    "saint-philip-neri",
+    "ecstasy",
+    "mystical-vision",
+    "virgin-and-child",
+    "red-vestments",
+    "priestly-garments",
+    "kneeling",
+    "arms-outstretched",
+    "heavenly-apparition",
+    "lily",
+    "dark-background",
+    "divine-encounter",
+    "rapture"
+  ],
+  "symbols": [
+    "red priestly vestments — the liturgical office and sacrificial love of the priesthood",
+    "outstretched arms — ecstatic surrender to divine encounter and total self-offering",
+    "Virgin and Child appearing above — the heavenly vision granted to the pure of heart",
+    "lily at lower corner — purity and chastity",
+    "upturned face with closed eyes — complete absorption in divine contemplation",
+    "dark background — the mystical darkness in which God reveals himself to the soul"
+  ],
+  "description": "An elderly man in elaborate red and gold priestly vestments kneels with arms outstretched and face turned upward in ecstasy. His eyes appear half-closed and his expression conveys rapturous spiritual transport. Above him in the upper left, the Virgin Mary holding the infant Jesus appears in a soft cloud of light, flanked by angel faces. A white lily rests at the lower left corner. The background is dark, focusing attention on the richly vested priest and the heavenly apparition.",
+  "theological_description": "Reni's painting depicts the mystical ecstasy of Saint Philip Neri (1515-1595), the Apostle of Rome, known for his joyful spirituality and intense prayer experiences during which his heart was said to physically enlarge with divine love. While Philip Neri is not a biblical figure, his ecstatic experience illustrates biblical realities of divine encounter. Paul wrote of being 'caught up to the third heaven' and hearing 'things that cannot be told, which man may not utter' (2 Corinthians 12:2-4). The apparition of the Virgin and Child connects to Jesus's promise: 'Blessed are the pure in heart, for they shall see God' (Matthew 5:8). Philip's outstretched arms recall the psalmist: 'I stretch out my hands to you; my soul thirsts for you like a parched land' (Psalm 143:6). His red vestments mark him as a priest, one who stands before God on behalf of the people — like Hebrews describes Christ himself as 'a great high priest who has passed through the heavens' (Hebrews 4:14). The mystical tradition insists that the God who revealed himself to Moses in the burning bush (Exodus 3) continues to grant direct encounters to those who seek him with their whole heart.",
+  "scripture_refs": [
+    {
+      "ref": "2CO.12.2-4",
+      "relevance": "primary",
+      "reason": "Paul's experience of being caught up to the third heaven — the paradigm for Christian mystical ecstasy"
+    },
+    {
+      "ref": "MAT.5.8",
+      "relevance": "primary",
+      "reason": "The pure in heart seeing God — Philip Neri's vision of the Virgin and Child as fruit of purity"
+    },
+    {
+      "ref": "PSA.143.6",
+      "relevance": "primary",
+      "reason": "Stretching out hands to God with a thirsting soul — the saint's outstretched arms in rapture"
+    },
+    {
+      "ref": "HEB.4.14",
+      "relevance": "allusion",
+      "reason": "The great high priest — Philip in priestly vestments standing in the presence of the divine"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "mystical",
+    "rapturous",
+    "luminous"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0140451",
+    "title": "St Filippo Neri in Ecstasy",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

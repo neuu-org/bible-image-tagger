@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation — Angel Gabriel bearing the greeting",
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "ave-gratia-plena",
+    "latin-scroll",
+    "wings",
+    "divine-messenger",
+    "curly-hair",
+    "white-robe"
+  ],
+  "symbols": [
+    "scroll reading AVE GRATIA PLENA — the angelic salutation 'Hail, full of grace,' announcing the Incarnation",
+    "wings — the angel's celestial nature as a messenger sent from God's presence",
+    "white garment — purity and the heavenly origin of the divine message",
+    "upward gaze in profile — the angel looking toward the object of his message, the Virgin Mary"
+  ],
+  "description": "A detail painting showing a young angel in three-quarter view from behind, turning to the right in profile. The angel has abundant curly auburn hair, large dark wings, and wears a loose white garment belted at the waist with a coral-red sash. With both hands the angel holds aloft a curving scroll or banner bearing the Latin inscription 'AVE GRATIA PLENA' (Hail, full of grace). The background is dark, and the painting focuses closely on the angel's upper body with luminous flesh tones and masterful fabric rendering.",
+  "theological_description": "This detail from Titian's Annunciation captures the Angel Gabriel at the moment described in Luke 1:28, bearing the words that changed human history: 'Ave gratia plena' — 'Hail, full of grace, the Lord is with you.' The Annunciation is the pivotal moment when heaven's plan of salvation was offered to human freedom, and Mary's consent (Luke 1:38, 'Let it be to me according to your word') made the Incarnation possible. Gabriel had appeared previously in Scripture — to Daniel to explain the vision of the end times (Daniel 8:16, 9:21) and to Zechariah to announce the birth of John the Baptist (Luke 1:19). But this mission surpassed all others: Gabriel was sent to announce that the Holy Spirit would overshadow Mary and the child born would be called the Son of the Most High (Luke 1:35). The Latin inscription on the scroll — the opening words of the Ave Maria — became the most repeated prayer in Christendom, a perpetual echo of this angelic greeting that inaugurated the new creation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "The angel's greeting 'Hail, full of grace' is inscribed on the scroll he carries — the exact words depicted"
+    },
+    {
+      "ref": "LUK.1.26-27",
+      "relevance": "primary",
+      "reason": "God sent the angel Gabriel to Nazareth to a virgin pledged to be married to Joseph"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The content of Gabriel's message — the Holy Spirit will come upon you, the child will be called Son of God"
+    },
+    {
+      "ref": "DAN.9.21",
+      "relevance": "typological",
+      "reason": "Gabriel's earlier mission to Daniel foreshadows his supreme mission to announce the Incarnation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "luminous",
+    "expectant",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190264",
+    "title": "Angel",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

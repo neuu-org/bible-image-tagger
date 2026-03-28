@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Crowd greeting Jesus",
+      "type": "GROUP"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Triumphal Entry of Christ into Jerusalem",
+  "tags": [
+    "triumphal-entry",
+    "palm-sunday",
+    "donkey",
+    "jerusalem-walls",
+    "city-gate",
+    "crowd-welcoming",
+    "white-robes",
+    "olive-trees",
+    "rocky-path",
+    "ancient-city",
+    "fortress-tower",
+    "waving-garments"
+  ],
+  "symbols": [
+    "donkey — the humble mount of a king of peace, fulfilling Zechariah's prophecy",
+    "city walls and gate — Jerusalem, the holy city about to reject and crucify its Messiah",
+    "welcoming crowd — the brief acclamation that would turn to cries of crucifixion within days",
+    "white robe of Christ — purity and messianic authority",
+    "olive trees along the path — the Mount of Olives from which the procession descends"
+  ],
+  "description": "A panoramic landscape depicting Christ riding a white donkey along a rocky path approaching the massive fortified walls and gate of Jerusalem. Jesus wears white robes and is accompanied by a second donkey. The ancient city rises on the right with tall stone towers, crenellated walls, and domed buildings visible beyond. A large crowd gathers near the gate, some waving garments or branches. Additional figures are scattered along the hillside path. Olive trees dot the rolling terrain. The sky is overcast with soft light breaking through clouds.",
+  "theological_description": "Gerome's historically grounded depiction shows the Triumphal Entry as recorded in all four Gospels (Matthew 21:1-11, Mark 11:1-11, Luke 19:28-40, John 12:12-19). Jesus rides a donkey toward Jerusalem's gate, fulfilling Zechariah 9:9: 'Rejoice greatly, Daughter Zion! See, your king comes to you, righteous and having salvation, lowly and riding on a donkey.' The choice of a donkey rather than a war horse proclaims that this Messiah comes not as a military conqueror but as the Prince of Peace (Isaiah 9:6). The crowd's welcome — laying garments on the road and waving branches — echoes the acclamation 'Hosanna to the Son of David! Blessed is he who comes in the name of the Lord!' (Matthew 21:9, quoting Psalm 118:25-26). Yet this scene is laden with dramatic irony: Luke 19:41-44 records that as Jesus drew near and saw the city, he wept over it, knowing it would not recognize the time of its visitation. Within days, the same city's inhabitants would demand his crucifixion (Matthew 27:22-23). The imposing walls and tower underscore Jerusalem as the place where prophets are killed (Luke 13:34), the holy city that paradoxically becomes the instrument of its own Messiah's death — and through that death, the means of universal salvation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.21.1-11",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Triumphal Entry, the crowd's Hosanna acclamation, and the city stirred by Jesus's arrival"
+    },
+    {
+      "ref": "ZEC.9.9",
+      "relevance": "primary",
+      "reason": "The messianic prophecy of the king coming on a donkey, fulfilled visually by Christ's humble mount"
+    },
+    {
+      "ref": "JHN.12.12-15",
+      "relevance": "primary",
+      "reason": "John's account of the great crowd going out to meet Jesus with palm branches"
+    },
+    {
+      "ref": "LUK.19.41-44",
+      "relevance": "typological",
+      "reason": "Jesus weeping over Jerusalem as he approached — the hidden sorrow beneath the triumphal scene"
+    },
+    {
+      "ref": "PSA.118.25-26",
+      "relevance": "allusion",
+      "reason": "The psalm quoted by the crowd: 'Blessed is he who comes in the name of the Lord'"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "solemn",
+    "anticipatory",
+    "bittersweet"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170076",
+    "title": "Entry of the Christ in Jerusalem",
+    "artist": "Jean-Leon Gerome",
+    "model": "claude-opus-4-6"
+  }
+}

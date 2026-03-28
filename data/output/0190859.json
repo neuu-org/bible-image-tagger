@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "St. James the Less (Apostle)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of the Apostle St. James the Less",
+  "tags": [
+    "apostle",
+    "st-james-the-less",
+    "book",
+    "half-length-portrait",
+    "white-robe",
+    "blue-cloak",
+    "elongated-figure",
+    "dark-background"
+  ],
+  "symbols": [
+    "large book — the Gospel or epistle, the apostolic authority to teach and preserve divine truth",
+    "expressive hands — the apostle's role as teacher and bearer of the sacred Word",
+    "upward gaze — spiritual vision directed toward heaven and divine revelation",
+    "white garment — purity and the righteousness of the saints"
+  ],
+  "description": "An El Greco portrait of the Apostle James the Less shown in half-length against a dark background. The figure has a lean face with a short beard and dark hair, gazing upward and to the left with an expression of spiritual intensity. He wears a white garment under a blue-grey cloak draped over his shoulder. His hands hold a large brown leather-bound book. The figure is rendered with El Greco's characteristic elongation, luminous flesh tones, and fluid, expressive brushwork. The palette is restrained — whites, blues, and browns against the dark ground.",
+  "theological_description": "James the Less (also called James son of Alphaeus) was one of the twelve apostles listed in Matthew 10:3, Mark 3:18, Luke 6:15, and Acts 1:13. He is traditionally identified with James the brother of the Lord who became the leader of the Jerusalem church (Acts 15:13, Galatians 1:19) and the author of the Epistle of James, though scholarly opinion varies on this identification. The book he holds signifies his apostolic authority and, if identified with the epistle's author, his teaching that 'faith without works is dead' (James 2:26). El Greco's characteristically elongated, flame-like figure suggests the spiritual transformation described in 2 Corinthians 3:18: 'We all, who with unveiled faces contemplate the Lord's glory, are being transformed into His image with ever-increasing glory.' The apostle's intense upward gaze captures the reality of one who walked with Christ and witnessed the Resurrection, commissioned to go and make disciples of all nations (Matthew 28:19). James the Less is traditionally associated with the early Jerusalem church where he presided over the apostolic council that opened the Gospel to the Gentiles (Acts 15:13-21).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.3",
+      "relevance": "primary",
+      "reason": "James son of Alphaeus listed among the twelve apostles chosen by Christ"
+    },
+    {
+      "ref": "ACT.15.13-21",
+      "relevance": "primary",
+      "reason": "James's leadership at the Jerusalem council, the pivotal decision opening the Gospel to Gentiles"
+    },
+    {
+      "ref": "JAS.2.26",
+      "relevance": "typological",
+      "reason": "Faith without works is dead — the book he holds may represent the epistle bearing his name"
+    },
+    {
+      "ref": "GAL.1.19",
+      "relevance": "allusion",
+      "reason": "Paul identifying James the Lord's brother as a pillar of the Jerusalem church"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intense",
+    "spiritual",
+    "contemplative",
+    "luminous"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0190859",
+    "title": "Apostle St. James the Less",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant woman",
+      "type": "PERSON"
+    },
+    {
+      "name": "Departing figure (possibly a servant)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Visitation of Mary to Elizabeth",
+  "tags": [
+    "visitation",
+    "virgin-mary",
+    "elizabeth",
+    "embrace",
+    "gold-halos",
+    "blue-mantle",
+    "dark-blue-dress",
+    "doorway",
+    "hill-country",
+    "distant-city",
+    "attendant",
+    "medieval-architecture",
+    "meeting",
+    "pregnancy"
+  ],
+  "symbols": [
+    "embrace between Mary and Elizabeth — the meeting of the Old and New Covenants, the prophet and the Messiah",
+    "gold halos — the sanctity of both women chosen for unique roles in salvation history",
+    "doorway of the house — the threshold of the new era that these pregnancies inaugurate",
+    "distant landscape and city — the wider world that will be transformed by these events",
+    "Mary's blue mantle — her purity and heavenly calling"
+  ],
+  "description": "A horizontal panel depicting two haloed women embracing at the doorway of a building at right. The younger woman wears a long blue mantle over a red dress; the older woman wears a dark blue dress with a white head covering. They clasp each other warmly. Behind them, a third woman stands in the doorway watching. At far left, another figure walks away along a path. The background shows a hilly landscape with a distant city. The architecture is rendered in a simplified medieval style with arched doorways. Trees appear above the building.",
+  "theological_description": "Fra Angelico depicts the Visitation — the joyful meeting between Mary and her cousin Elizabeth as recorded in Luke 1:39-56. Mary, having just received the angel Gabriel's announcement that she would conceive the Son of God, hurried to the hill country of Judea to visit Elizabeth, who was six months pregnant with John the Baptist. The embrace at the doorway captures the moment when 'Elizabeth was filled with the Holy Spirit' and proclaimed: 'Blessed are you among women, and blessed is the fruit of your womb! But why am I so favored, that the mother of my Lord should come to me?' (Luke 1:42-43). This is a meeting of two miraculous pregnancies — one virginal, one in advanced age — both testifying that 'nothing will be impossible with God' (Luke 1:37). The unborn John leaped in recognition of the unborn Jesus (Luke 1:44), the last prophet of the old order saluting the inaugurator of the new. Mary's response was the Magnificat (Luke 1:46-55), the great song of praise that celebrates God's reversal of worldly hierarchies and his faithfulness to the promise made to Abraham. Fra Angelico's serene, luminous style conveys the sacred joy of this encounter — two women, in the simplicity of domestic life, standing at the hinge point of all human history.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation narrative — Mary's journey and Elizabeth's Spirit-filled greeting"
+    },
+    {
+      "ref": "LUK.1.42-43",
+      "relevance": "primary",
+      "reason": "Elizabeth's blessing: 'Blessed are you among women... the mother of my Lord'"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat sung by Mary during this visit"
+    },
+    {
+      "ref": "LUK.1.37",
+      "relevance": "allusion",
+      "reason": "Nothing is impossible with God — both pregnancies testifying to divine power"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "serene",
+    "sacred",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150654",
+    "title": "Visitation",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

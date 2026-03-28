@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Lamb of God",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Portrait of Saint John the Baptist with the Lamb",
+  "tags": [
+    "john-the-baptist",
+    "lamb-of-god",
+    "agnus-dei",
+    "cross-staff",
+    "halo",
+    "camel-hair-garment",
+    "baptism-scene-background",
+    "scroll-banner",
+    "pointing-upward"
+  ],
+  "symbols": [
+    "lamb at his feet — the Agnus Dei, the Lamb of God that John proclaimed Jesus to be",
+    "cross-topped staff with scroll reading ECCE AGNUS DEI — Behold the Lamb of God, John's defining proclamation",
+    "camel-hair garment — John's ascetic wilderness life, fulfilling the prophetic tradition",
+    "finger pointing upward — directing attention away from himself toward heaven and Christ",
+    "baptism scene in background — John's ministry of baptizing in the Jordan, preparing the way for the Messiah"
+  ],
+  "description": "A full-length portrait of John the Baptist standing barefoot in a rocky landscape. He wears a rough camel-hair garment belted at the waist, with a radiant golden halo around his head. His right hand points upward while his left holds a tall cross-topped staff from which a scroll or banner unfurls with the inscription 'ECCE AGNUS DEI' (Behold the Lamb of God). A small white lamb stands at his feet on the left. In the background to the right, a luminous scene shows the baptism of Christ in the Jordan with a radiant dove descending from heaven.",
+  "theological_description": "This portrait of John the Baptist presents the forerunner of Christ with all his traditional attributes, each rooted in Scripture. The camel-hair garment fulfills Mark 1:6 and Matthew 3:4, connecting John to the prophetic tradition of Elijah (2 Kings 1:8). His declaration 'Ecce Agnus Dei' on the scroll banner comes from John 1:29: 'Behold the Lamb of God who takes away the sin of the world' — the single most important Christological identification in the Gospels, linking Jesus to the Passover lamb of Exodus 12 and the suffering servant of Isaiah 53:7 who was led like a lamb to the slaughter. The finger pointing upward embodies John's self-effacing theology expressed in John 3:30: 'He must increase, but I must decrease.' The baptism scene in the background depicts the moment in Matthew 3:16-17 when the heavens opened and the Spirit descended like a dove. John stands as the hinge between the Old and New Testaments — the last and greatest of the prophets (Matthew 11:11) whose entire purpose was to prepare the way of the Lord (Isaiah 40:3).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God — the inscription on the scroll and John's defining proclamation"
+    },
+    {
+      "ref": "MAT.3.4",
+      "relevance": "primary",
+      "reason": "John's camel-hair clothing and leather belt — the garment depicted in the painting"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "primary",
+      "reason": "He must increase, I must decrease — the upward-pointing finger directing attention to Christ"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness, prepare the way of the Lord — John's prophetic identity"
+    },
+    {
+      "ref": "MAT.3.16-17",
+      "relevance": "primary",
+      "reason": "The baptism of Christ with the descending dove — the background scene"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "prophetic",
+    "solemn",
+    "authoritative",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190791",
+    "title": "San Juan Bautista",
+    "artist": "Francesco Ribalta",
+    "model": "claude-opus-4-6"
+  }
+}

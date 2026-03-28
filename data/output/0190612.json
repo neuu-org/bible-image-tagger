@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "name": "Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joachim",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Meeting of Anne and Joachim at the Golden Gate",
+  "tags": [
+    "meeting-at-the-golden-gate",
+    "anne-and-joachim",
+    "fresco-detail",
+    "embrace",
+    "parents-of-mary",
+    "golden-gate",
+    "apocryphal-scene",
+    "tender-greeting"
+  ],
+  "symbols": [
+    "embrace at the gate — the loving reunion after the angel's promise of a child, traditionally interpreted as the moment of Mary's conception",
+    "golden-red garments — warmth and love, the fulfillment of long-awaited promise"
+  ],
+  "description": "A fresco detail showing two figures in an intimate moment. A woman with blonde hair wearing a red robe over a white blouse turns in profile to greet a smaller figure — possibly a child or another person — who approaches from behind in golden-yellow garments. The setting suggests an architectural space with a purple-dark background. The fresco shows some cracking and weathering. The warm colors and gentle interaction create a tender, affectionate scene characteristic of Beccafumi's Sienese Mannerism.",
+  "theological_description": "The Meeting at the Golden Gate depicts the apocryphal story from the Protoevangelium of James, in which Joachim and Anne, the parents of the Virgin Mary, met at the Golden Gate of Jerusalem after both had received angelic announcements that they would conceive a child despite their advanced age. While not from canonical Scripture, this narrative was widely depicted in Christian art and carries echoes of biblical themes. The story parallels the canonical accounts of aged, barren couples who conceived by divine intervention: Abraham and Sarah (Genesis 18:10-14), Manoah and his wife (Judges 13:2-3), and most directly, Zechariah and Elizabeth (Luke 1:7-13), whose son John the Baptist would prepare the way for Mary's son Jesus. The embrace at the gate embodies the theology of divine faithfulness — God fulfilling His promises to those who wait in faith (Isaiah 40:31). This scene was understood as the beginning of the chain of events leading to the Incarnation: through Joachim and Anne came Mary, through Mary came Christ.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.7-13",
+      "relevance": "typological",
+      "reason": "Zechariah and Elizabeth conceiving in old age parallels the apocryphal story of Joachim and Anne"
+    },
+    {
+      "ref": "GEN.18.10-14",
+      "relevance": "typological",
+      "reason": "Abraham and Sarah's miraculous conception in old age, the archetype for all such divine interventions"
+    },
+    {
+      "ref": "ISA.40.31",
+      "relevance": "allusion",
+      "reason": "Those who wait on the Lord shall renew their strength — the elderly couple's faith rewarded"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "joyful",
+    "intimate"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0190612",
+    "title": "The Meeting of Anne and Joachin at the Golden Gate (detail)",
+    "artist": "Domenico Beccafumi",
+    "model": "claude-opus-4-6"
+  }
+}

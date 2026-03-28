@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Nativity of Christ",
+  "tags": [
+    "nativity",
+    "birth-of-christ",
+    "manger",
+    "holy-family",
+    "infant-jesus",
+    "stable",
+    "ox-and-donkey",
+    "kneeling-adoration",
+    "gold-background",
+    "angels-above",
+    "swaddling-clothes",
+    "incarnation",
+    "humble-birth"
+  ],
+  "symbols": [
+    "naked infant on the ground — the vulnerability of God incarnate, the Word made flesh laid low",
+    "manger and stable — the humility of the Incarnation, no room at the inn",
+    "ox and donkey — Isaiah's prophecy that the ox knows its owner (Isaiah 1:3), creation recognizing its Creator",
+    "angels singing above — the heavenly host announcing glory to God in the highest",
+    "Mary kneeling in prayer — the handmaid of the Lord adoring the fruit of her womb",
+    "Joseph with halo — the just man entrusted with guarding the Holy Family",
+    "wooden shelter — prefiguration of the cross, wood framing both birth and death"
+  ],
+  "description": "An arched panel showing a simple wooden stable with a thatched roof. At center, a naked infant lies on the bare ground, radiating light. To the left, a woman in a dark blue robe kneels in prayer with hands clasped. To the right, an elderly bearded man in purple robes kneels in adoration. An ox and donkey peer over a stone manger behind the child. Above the stable roof, five small angels in bright robes sing and celebrate. The gold background illuminates the entire scene.",
+  "theological_description": "Fra Angelico's Nativity presents the supreme mystery of the Incarnation — 'the Word became flesh and dwelt among us' (John 1:14). The infant Christ lies directly on the earth, a visual theology drawn from the Revelations of St. Bridget, emphasizing that the Creator of all entered creation in utter poverty and vulnerability. Luke's Gospel records that Mary 'wrapped him in swaddling clothes and laid him in a manger, because there was no room for them in the inn' (Luke 2:7). The ox and donkey, though not in the Gospel accounts, derive from Isaiah 1:3 and have been understood since the earliest patristic commentary as dumb beasts recognizing what Israel failed to see — their Lord and Master. The angels above echo the heavenly chorus of Luke 2:13-14: 'Glory to God in the highest, and on earth peace.' Joseph's presence fulfills Matthew's account of the just man who obeyed the angel and took Mary as his wife (Matthew 1:24). This humble scene is the hinge of salvation history — God enters the world not in a palace but a stable, establishing that divine power is made perfect in weakness (2 Corinthians 12:9).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus in a manger because there was no room at the inn"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "primary",
+      "reason": "The heavenly host of angels praising God at Christ's birth, visible above the stable"
+    },
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "primary",
+      "reason": "Joseph's role in the nativity narrative, his obedience to the angel's command"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word made flesh — the theological core of the Incarnation scene depicted"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "typological",
+      "reason": "The ox knows its owner — patristic source for the animals recognizing Christ at the manger"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "allusion",
+      "reason": "Christ emptying himself and taking the form of a servant, born in human likeness in utter humility"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "peaceful",
+    "joyful",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160068",
+    "title": "Nativity",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

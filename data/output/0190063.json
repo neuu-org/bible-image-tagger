@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Shepherds",
+  "tags": [
+    "nativity",
+    "adoration-of-the-shepherds",
+    "infant-jesus",
+    "virgin-mary",
+    "manger-scene",
+    "christmas",
+    "incarnation",
+    "humble-birth"
+  ],
+  "symbols": [
+    "infant Christ on red cloth — the divine Word made flesh, red foreshadowing His future Passion",
+    "Mary in blue and white — purity and heavenly grace of the Mother of God",
+    "shepherds crowding around — the lowly and outcast as first recipients of the Gospel announcement",
+    "humble setting amid ruins — the King of Kings born in poverty, God entering the broken world"
+  ],
+  "description": "A richly detailed Mannerist painting showing the Virgin Mary seated in blue and white robes with a voluminous red skirt, tenderly presenting the infant Jesus to a group of shepherds who press in from all sides. The baby lies on a white cloth. Multiple figures crowd the composition — rough-hewn shepherds with weathered faces gaze in wonder. An angel or youth is visible at the upper right. The setting appears to be a ruined stable with rocky terrain. A metal vessel sits in the foreground.",
+  "theological_description": "The Adoration of the Shepherds depicts the moment described in Luke 2:15-20 when the shepherds, having received the angelic announcement on the hills of Bethlehem, hurried to find the baby lying in a manger. This scene is theologically charged: God chose to reveal the birth of His Son first not to kings or priests but to shepherds, among the lowest social classes in first-century Palestine. This divine preference for the humble anticipates Mary's Magnificat (Luke 1:52), 'He has brought down rulers from their thrones but has lifted up the humble.' The shepherds also carry deep typological significance — David was a shepherd-boy called from the flocks to be king (1 Samuel 16:11-13), and Christ Himself would declare 'I am the good shepherd' (John 10:11). The incarnation itself, the Word becoming flesh and dwelling among us (John 1:14), is the central mystery visible in this scene: the infinite God contained in the fragile body of a newborn, adored by the poor.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.15-20",
+      "relevance": "primary",
+      "reason": "The shepherds going to Bethlehem and finding Mary, Joseph, and the baby is the exact scene depicted"
+    },
+    {
+      "ref": "LUK.2.8-14",
+      "relevance": "primary",
+      "reason": "The angelic announcement to the shepherds that preceded this adoration scene"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us — the theological truth made visible in the infant Christ"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "allusion",
+      "reason": "God lifting up the humble, fulfilled in choosing shepherds as the first to worship the newborn King"
+    },
+    {
+      "ref": "JHN.10.11",
+      "relevance": "typological",
+      "reason": "The Good Shepherd adored by literal shepherds — a rich irony of the incarnation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "wonder",
+    "intimate",
+    "reverent",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190063",
+    "title": "Adoration of the Shepherds (detail)",
+    "artist": "Joachim Wtewael",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Goliath",
+      "type": "PERSON"
+    }
+  ],
+  "event": "David with the head of Goliath",
+  "tags": [
+    "david-and-goliath",
+    "severed-head",
+    "young-hero",
+    "sword",
+    "red-cloak",
+    "bare-chest",
+    "dark-background",
+    "victory",
+    "giant-slain",
+    "half-length"
+  ],
+  "symbols": [
+    "severed head of Goliath — the defeat of overwhelming worldly power by faith",
+    "sword — the giant's own weapon turned against him, divine irony",
+    "David's youth — God's choice of the weak and unlikely to accomplish his purposes",
+    "red cloak — the warrior's mantle, the blood of victory"
+  ],
+  "description": "A half-length portrait of the young David against a dark background. He is a handsome youth with dark curly hair, bare-chested, wearing a red cloak over one shoulder. With his right hand he holds a large sword vertically, and with his left he grasps the severed head of Goliath by the hair, holding it up beside him. Goliath's head is massive with a dark beard and closed eyes, dramatically larger than David's own head. David's expression is calm and composed, looking out at the viewer with a direct, confident gaze.",
+  "theological_description": "Manfredi depicts the aftermath of one of the Old Testament's most iconic victories: David's defeat of the Philistine giant Goliath (1 Samuel 17). The young shepherd boy, armed only with a sling and five smooth stones, faced the nine-foot champion who had terrified the entire army of Israel for forty days. David's declaration before the battle is the theological key: 'You come against me with sword and spear and javelin, but I come against you in the name of the LORD Almighty, the God of the armies of Israel, whom you have defied... It is not by sword or spear that the LORD saves; for the battle is the LORD's' (1 Samuel 17:45, 47). David struck Goliath with a single stone, then used the giant's own sword to cut off his head — the supreme irony of divine victory through weakness. This event established David as the chosen king and became the paradigm for faith confronting impossible odds. The contrast between David's youthful body and Goliath's massive head visualizes Paul's later principle: 'God chose the weak things of the world to shame the strong' (1 Corinthians 1:27). In Christian typology, David prefigures Christ, who defeated the ultimate Goliath — death and Satan — through apparent weakness on the cross.",
+  "scripture_refs": [
+    {
+      "ref": "1SA.17.48-51",
+      "relevance": "primary",
+      "reason": "David struck down the Philistine with a stone and cut off his head with Goliath's own sword"
+    },
+    {
+      "ref": "1SA.17.45-47",
+      "relevance": "primary",
+      "reason": "David's declaration that the battle is the LORD's — the theological meaning of the victory"
+    },
+    {
+      "ref": "1CO.1.27",
+      "relevance": "typological",
+      "reason": "God chose the weak to shame the strong — David as the unlikely champion"
+    },
+    {
+      "ref": "1SA.16.11-13",
+      "relevance": "allusion",
+      "reason": "David the youngest son, anointed by Samuel — God's election of the overlooked"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "triumphant",
+    "composed",
+    "dramatic",
+    "powerful"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0171047",
+    "title": "David with the Head of Goliath",
+    "artist": "Bartolomeo Manfredi",
+    "model": "claude-opus-4-6"
+  }
+}

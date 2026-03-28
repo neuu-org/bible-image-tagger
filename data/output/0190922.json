@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna with Children and St. John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "young-john-the-baptist",
+    "virgin-mary",
+    "infant-jesus",
+    "reed-cross",
+    "arched-panel",
+    "landscape-background",
+    "blue-mantle"
+  ],
+  "symbols": [
+    "infant Jesus standing on a ledge — the divine Child presented to the world",
+    "young John with reed cross — the forerunner already bearing the symbol of Christ's future sacrifice",
+    "Mary in blue over red — heavenly grace (blue) and earthly love (red) united in the Mother of God",
+    "Umbrian landscape — the idyllic setting suggesting the peaceful kingdom of God"
+  ],
+  "description": "An arched panel painting by Perugino depicting the Virgin Mary standing behind a ledge, supporting the nude infant Jesus who stands before her. Mary wears a blue mantle over a red dress and gazes down with serene tenderness. To the lower right, the young John the Baptist, also depicted as a small child, holds a thin reed cross and looks devotionally toward Jesus. The background shows a soft Umbrian landscape with trees, distant mountains, and a pale blue sky. The painting has Perugino's characteristic sweetness of expression and luminous atmospheric perspective.",
+  "theological_description": "Perugino's gentle composition unites the three most significant figures of the Incarnation narrative: Mary the vessel of the Incarnation, Jesus the incarnate God, and John the Baptist who would identify Him as the Lamb of God. The young Baptist holding a reed cross creates a poignant anticipation — even in childhood innocence, the instruments of the Passion are present. This visual theology connects to Luke 1:41-44 where the unborn John leaped in recognition of Jesus, and to John 1:29 where the adult Baptist would proclaim, 'Behold the Lamb of God.' The infant Jesus standing upright on the ledge suggests both His divine dignity and His readiness to enter the world's stage. Mary's gentle maternal presence reflects her role as described in Luke 2:51, keeping all these things in her heart. The serene Umbrian landscape behind the figures evokes the peace prophesied in Isaiah 11:6-9, the peaceable kingdom where the knowledge of the Lord fills the earth.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The unborn John recognizing Jesus — the young Baptist's devotion toward the Christ Child"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John declaring Jesus the Lamb of God — foreshadowed by the child Baptist holding a cross"
+    },
+    {
+      "ref": "LUK.2.51",
+      "relevance": "allusion",
+      "reason": "Mary treasuring all things in her heart — her serene contemplative gaze"
+    },
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "allusion",
+      "reason": "The peaceable kingdom — the idyllic landscape suggesting messianic peace"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "tender",
+    "devotional",
+    "peaceful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190922",
+    "title": "Madonna with Children and St.John",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

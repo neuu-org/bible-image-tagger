@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Virgin and Child",
+  "tags": [
+    "virgin-and-child",
+    "madonna",
+    "infant-jesus",
+    "red-mantle",
+    "white-headscarf",
+    "radiant-halo",
+    "cheek-to-cheek",
+    "tender-embrace",
+    "dark-background",
+    "latin-inscription",
+    "devotional",
+    "flemish"
+  ],
+  "symbols": [
+    "cheek-to-cheek embrace — the intimacy between mother and divine child, love incarnate",
+    "radiant halo on the child — divine glory of the incarnate God",
+    "Mary's red mantle — love and the blood of the Passion",
+    "Latin inscription at bottom — Song of Solomon text connecting the image to bridal mysticism"
+  ],
+  "description": "A devotional painting of a woman in a red mantle and white head covering holding a nude infant against her cheek. The child has a radiant golden halo and reaches up to touch her face. Their faces are pressed close together in a tender, cheek-to-cheek embrace. The background is dark blue-black. A Latin inscription runs along the bottom of the panel. The style is early Flemish with careful attention to skin tones and drapery. The overall mood is deeply intimate and devotional.",
+  "theological_description": "Van der Weyden's Virgin and Child presents the Incarnation in its most tender, intimate form — the cheek-to-cheek embrace between Mary and the Christ child. The Latin inscription at the bottom references the Song of Solomon: 'His left arm is under my head, and his right arm embraces me' (Song of Solomon 2:6/8:3), connecting the maternal embrace to the bridal mysticism of the divine-human love relationship. The child's radiant halo declares his divine nature even as his human gestures — reaching for his mother's face — affirm the reality of the Incarnation: 'The Word became flesh and dwelt among us' (John 1:14). This is the God who 'made himself nothing by taking the very nature of a servant, being made in human likeness' (Philippians 2:7) — so fully human that he seeks his mother's warmth. Mary's tender response embodies her role as Theotokos and the model of all who receive Christ: 'Blessed is she who has believed that the Lord would fulfill his promises to her!' (Luke 1:45). The dark background isolates the sacred pair in a timeless, devotional space, inviting the viewer into contemplation of the mystery: God as an infant, the Creator cradled by a creature, the Almighty made vulnerable.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh — the incarnational mystery of God as a human child"
+    },
+    {
+      "ref": "SNG.2.6",
+      "relevance": "primary",
+      "reason": "The Song of Solomon text inscribed on the panel — the bridal embrace applied to Mary and Christ"
+    },
+    {
+      "ref": "PHP.2.7",
+      "relevance": "allusion",
+      "reason": "Christ taking the form of a servant, made in human likeness — genuine human dependency"
+    },
+    {
+      "ref": "LUK.1.45",
+      "relevance": "allusion",
+      "reason": "Blessed is she who believed — Mary's faith embodied in her embrace of the divine child"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150911",
+    "title": "Virgin and Child",
+    "artist": "Rogier van der Weyden",
+    "model": "claude-opus-4-6"
+  }
+}

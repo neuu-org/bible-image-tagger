@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Barthelemi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd of Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Barthelemi undergoing the ordeal of fire",
+  "tags": [
+    "ordeal-by-fire",
+    "trial-by-fire",
+    "crowd",
+    "flames",
+    "medieval-scene",
+    "tower",
+    "crusade-era",
+    "dark-atmosphere"
+  ],
+  "symbols": [
+    "fire — the ordeal of purification, God's judgment revealed through the elements",
+    "white-robed figures — the clergy or faithful witnessing divine vindication",
+    "tower in darkness — worldly authority observing the trial"
+  ],
+  "description": "A dramatic monochrome engraving showing a dense crowd gathered around a central area of bright flames and light. White-robed figures stand illuminated near the fire while a dark mass of onlookers fills the foreground and sides. A tall stone tower rises in the dark background at upper right. The scene is lit primarily by the central fire, creating strong contrasts between light and shadow. Smoke rises into a dark sky. The composition is atmospheric and heavily detailed with hundreds of small figures.",
+  "theological_description": "The ordeal by fire was a medieval practice rooted in the belief that God would protect the innocent. While not a biblical narrative, it draws on scriptural precedents: the three young Hebrews — Shadrach, Meshach, and Abednego — walked through Nebuchadnezzar's furnace unharmed because 'the God we serve is able to deliver us' (Daniel 3:17). Isaiah's promise echoes: 'When you walk through the fire, you will not be burned; the flames will not set you ablaze' (Isaiah 43:2). The medieval ordeal sought to make divine judgment visible, although the practice was eventually condemned as tempting God (Deuteronomy 6:16). The dense crowd watching represents the community's need to see justice rendered, reflecting the human desire for God to reveal right from wrong in unmistakable fashion.",
+  "scripture_refs": [
+    {
+      "ref": "DAN.3.16-27",
+      "relevance": "typological",
+      "reason": "The three youths surviving the fiery furnace — the prototype for the ordeal by fire"
+    },
+    {
+      "ref": "ISA.43.2",
+      "relevance": "typological",
+      "reason": "When you walk through fire you will not be burned — the faith behind ordeals of fire"
+    },
+    {
+      "ref": "DEU.6.16",
+      "relevance": "allusion",
+      "reason": "Do not put the Lord your God to the test — the theological tension of trial by ordeal"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "dramatic",
+    "ominous"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160629",
+    "title": "Barthelemi undergoing the Ordeal of Fire",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

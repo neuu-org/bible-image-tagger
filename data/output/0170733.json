@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simon the Pharisee",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sinful Woman (Mary Magdalene tradition)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples and guests",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ in the House of Simon the Pharisee",
+  "tags": [
+    "simon-the-pharisee",
+    "sinful-woman",
+    "anointing-of-feet",
+    "washing-with-tears",
+    "banquet-scene",
+    "pharisee-scandalized",
+    "classical-architecture",
+    "long-hair",
+    "golden-vessel",
+    "disciples-at-table",
+    "forgiveness",
+    "pink-robe"
+  ],
+  "symbols": [
+    "woman at Jesus's feet — repentant love expressed through humble service",
+    "golden vessel of ointment — the costly offering of a forgiven heart",
+    "Pharisee's raised hand — self-righteous objection to the sinner's approach",
+    "banquet table — the setting where grace confronts religious propriety",
+    "Jesus between the two — the mediator between righteousness and mercy"
+  ],
+  "description": "A classical interior with columns and architectural elements. At center-left, Jesus sits at a banquet table wearing a pink-red robe and blue garment, one hand on his chest, looking toward a Pharisee at right. At Jesus's feet, a woman with long golden-brown hair kneels, weeping and touching or anointing his feet. A golden vessel or urn sits on the floor nearby. The Pharisee (Simon) sits at the far right in elaborate robes, his hand raised in a gesture of disapproval or surprise. Other guests and disciples are seated around the table, some engaged in conversation.",
+  "theological_description": "Champaigne depicts the powerful encounter in Luke 7:36-50, when Jesus dined at the home of Simon the Pharisee and a 'sinful woman' entered unbidden. She stood behind Jesus weeping, wetting his feet with her tears, wiping them with her hair, kissing them, and anointing them with costly perfume. Simon thought to himself: 'If this man were a prophet, he would know what kind of woman this is' (Luke 7:39). Jesus responded with the parable of two debtors — the one forgiven more loves more — and then declared to the woman: 'Your sins are forgiven... Your faith has saved you; go in peace' (Luke 7:48, 50). This scene dramatizes the central Gospel tension between law-based righteousness and grace-based forgiveness. Simon represents the outwardly righteous who fail to recognize their own need for mercy, while the sinful woman embodies the truth that 'whoever has been forgiven little loves little' (Luke 7:47). Jesus's positioning between the two — the judge who is himself the source of mercy — visualizes his role as the one who came 'not to call the righteous, but sinners to repentance' (Luke 5:32). The costly ointment poured at his feet foreshadows the anointing at Bethany (John 12:3) and anticipates his burial.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.36-50",
+      "relevance": "primary",
+      "reason": "The full narrative of Christ dining at Simon's house and the sinful woman anointing his feet"
+    },
+    {
+      "ref": "LUK.7.47-48",
+      "relevance": "primary",
+      "reason": "Her many sins have been forgiven, as her great love has shown — the theological climax"
+    },
+    {
+      "ref": "LUK.5.32",
+      "relevance": "typological",
+      "reason": "I have not come to call the righteous but sinners to repentance — the principle enacted"
+    },
+    {
+      "ref": "JHN.12.3",
+      "relevance": "allusion",
+      "reason": "Mary anointing Jesus's feet with costly perfume at Bethany — a parallel anointing narrative"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "tender",
+    "confrontational",
+    "grace-filled"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170733",
+    "title": "Christ in the House of Simon the Pharisee",
+    "artist": "Philippe de Champaigne",
+    "model": "claude-opus-4-6"
+  }
+}

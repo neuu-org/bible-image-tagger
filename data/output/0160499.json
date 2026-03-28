@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "The Three Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd of Followers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "infant-jesus",
+    "virgin-and-child",
+    "gifts",
+    "kneeling-king",
+    "turban",
+    "large-crowd",
+    "rocky-landscape",
+    "gentile-worship"
+  ],
+  "symbols": [
+    "kneeling elder king — the wisdom of the world bowing before the wisdom of God",
+    "gifts offered — gold, frankincense, and myrrh; kingship, divinity, and death",
+    "large crowd behind the Magi — the multitude of Gentile nations who will come to Christ's light",
+    "cave or rocky outcrop — the humble setting of the birth contrasted with the royal visitors"
+  ],
+  "description": "A large outdoor scene with Mary seated at center right in a red robe and white veil, holding the infant Jesus on her lap. An elderly bald man kneels before them, reaching toward the child. Joseph stands behind Mary with hands raised in wonder. To the left, a figure in Eastern dress with a turban holds a vessel. Behind them, a large crowd of richly dressed figures stretches back into a hilly landscape with trees and a distant city. The composition is dense with figures, warm earth tones, and reds dominating.",
+  "theological_description": "This Adoration of the Magi by Benvenuto Tisi presents the Epiphany — the manifestation of Christ to the Gentile world. Matthew records that 'Magi from the east came to Jerusalem' asking 'Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him' (Matthew 2:1-2). The enormous crowd behind the Magi anticipates the universal scope of Christ's kingdom — what begins with three visitors will become a multitude no one can count, 'from every nation, tribe, people and language' (Revelation 7:9). The elderly king's kneeling posture fulfills Isaiah's prophecy: 'Nations will come to your light, and kings to the brightness of your dawn' (Isaiah 60:3). Joseph's astonished gesture reflects the wonder of a man who has been told by an angel that this child is 'from the Holy Spirit' (Matthew 1:20). The scene bridges the Jewish and Gentile worlds — Christ born in Israel but worshipped by the nations.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Magi from the East coming to worship the newborn King with gifts"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations and kings coming to the brightness of Christ's dawn, bearing gold and incense"
+    },
+    {
+      "ref": "REV.7.9",
+      "relevance": "allusion",
+      "reason": "The great multitude from every nation — prefigured by the crowd behind the Magi"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "grand",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160499",
+    "title": "Adoration of the Magi",
+    "artist": "Benvenuto Tisi",
+    "model": "claude-opus-4-6"
+  }
+}

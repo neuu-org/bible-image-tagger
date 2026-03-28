@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ (Crucified)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Crucifixion and Lamentation (Stained Glass)",
+  "tags": [
+    "crucifixion",
+    "lamentation",
+    "cross",
+    "mourning",
+    "noli-me-tangere",
+    "mountain-landscape",
+    "haloed-figures",
+    "putti",
+    "dead-christ",
+    "mary-magdalene",
+    "jerusalem-in-background",
+    "colored-glass",
+    "medieval-window"
+  ],
+  "symbols": [
+    "cross on the hill — the instrument of salvation planted at the center of the world's redemption",
+    "mourning figures holding the body — the Church gathered around the sacrifice of its Lord",
+    "stained glass medium — the light of divine truth illuminating the faithful through sacred imagery",
+    "Jerusalem in the background — the holy city where prophecy was fulfilled",
+    "angels in the upper register — heaven mourning and witnessing the death of the Son of God"
+  ],
+  "description": "A stained glass window divided into panels, depicting scenes from the Passion. In the upper portion, putti or small angels fly amid branches against a blue sky, with a mountainous landscape and the empty cross visible. In the lower left, a scene appears to show the risen Christ encountering a kneeling woman (possibly Noli me tangere or a donor figure). In the lower right, the larger scene shows the Lamentation: the body of Christ is held across the laps and arms of several haloed figures — the Virgin Mary, Saint John, and other mourners — in a dense, emotional grouping.",
+  "theological_description": "This stained glass window from a family chapel presents a multi-scene meditation on the Passion. The cross stands empty against the sky — its work accomplished — while below, the faithful receive the body of their Lord. The Lamentation scene gathers those whom John 19:25-27 places at the cross: 'Standing by the cross of Jesus were his mother, and his mother's sister, Mary the wife of Clopas, and Mary Magdalene.' Jesus commended his mother to the beloved disciple: 'Woman, behold your son... Behold your mother' (John 19:26-27). The stained glass medium is itself theologically significant: as light passes through colored glass to create images visible from within the church, so divine truth passes through the saints and Scriptures to illuminate the faithful. The empty cross and the dead Christ together affirm the creedal truth: 'He was crucified, died, and was buried.' The window invites the viewer to contemplate Isaiah 53:5: 'He was pierced for our transgressions, he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.'",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "The faithful at the cross — Mary, the beloved disciple, and the women — are the figures holding Christ's body"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "primary",
+      "reason": "He was pierced for our transgressions — the theological meaning of the wounds visible on the dead Christ"
+    },
+    {
+      "ref": "LUK.23.44-46",
+      "relevance": "primary",
+      "reason": "The death of Jesus on the cross is the culminating event that the window memorializes"
+    },
+    {
+      "ref": "JHN.20.17",
+      "relevance": "typological",
+      "reason": "The lower left scene may depict the Noli me tangere, the risen Christ appearing to Mary Magdalene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "sacred",
+    "solemn",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180731",
+    "title": "The stained glass windows in the home Hofer Family Chapel",
+    "artist": "Hans Baldung",
+    "model": "claude-opus-4-6"
+  }
+}

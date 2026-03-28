@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin Mary and St. John the Evangelist at the foot of the Cross",
+  "tags": [
+    "virgin-mary",
+    "st-john-evangelist",
+    "cross",
+    "calvary",
+    "gold-background",
+    "gothic-panel",
+    "pointed-arch",
+    "passion",
+    "mourning",
+    "devotional"
+  ],
+  "symbols": [
+    "large central cross — the instrument of Christ's sacrifice, the axis of salvation",
+    "Mary on the left in dark blue — the Mater Dolorosa, the Mother of Sorrows at Calvary",
+    "John on the right in red and gold — the beloved disciple entrusted with Mary's care",
+    "gold background — the eternal divine presence even at the darkest moment of the Passion",
+    "twisted column base of the cross — the ornamental rendering of the sacred relic"
+  ],
+  "description": "A tall Gothic panel painting with a pointed arch top and gold background. A large dark cross dominates the center of the composition, mounted on an ornate twisted column base. On the left, the Virgin Mary stands in a dark blue mantle over a white veil, her hands raised in prayer and grief. On the right, St. John the Evangelist stands in red and golden robes, looking up toward the cross with an expression of sorrow. Both figures have elaborate circular gold halos. The gold background is decorated with tooled patterns.",
+  "theological_description": "This Gothic panel depicts the two faithful witnesses who remained at the foot of the cross when the other disciples fled: the Virgin Mary and the beloved disciple John. Their presence is recorded in John 19:25-27, where Jesus looked down from the cross and said to His mother, 'Woman, here is your son,' and to the disciple, 'Here is your mother.' From that time on, John took Mary into his home. This exchange is one of the most theologically significant moments in the Passion: even in His agony, Jesus provided for His mother's care, fulfilling the commandment to honor one's parents (Exodus 20:12). But the words also carry deeper meaning — Jesus established a new family of faith, entrusting His mother to the Church represented by the beloved disciple. Mary's presence at Calvary fulfills Simeon's prophecy in Luke 2:35 that a sword would pierce her own soul. The empty cross without the corpus suggests the event has been completed — Christ has been removed for burial — and the two figures stand as eternal witnesses to what transpired. The gold background declares that even in death, the glory of God suffuses the scene.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Jesus entrusting Mary to John and John to Mary at the cross — the exact relationship depicted"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul, fulfilled at the cross"
+    },
+    {
+      "ref": "EXO.20.12",
+      "relevance": "typological",
+      "reason": "Honor your father and mother — Christ fulfilling the commandment even from the cross"
+    },
+    {
+      "ref": "JHN.19.30",
+      "relevance": "allusion",
+      "reason": "It is finished — the completed work of salvation to which the empty cross testifies"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "grief",
+    "solemn",
+    "sacred",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190853",
+    "title": "A Virgem Maria e S. João Evangelista",
+    "artist": "Álvaro Pires de Évora",
+    "model": "claude-opus-4-6"
+  }
+}

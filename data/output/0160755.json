@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Archers (Executioners)",
+      "type": "GROUP"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Martyrdom of Saint Sebastian",
+  "tags": [
+    "saint-sebastian",
+    "martyrdom",
+    "arrows",
+    "archers",
+    "tied-to-column",
+    "god-the-father-above",
+    "classical-architecture",
+    "arches",
+    "landscape-background",
+    "putti"
+  ],
+  "symbols": [
+    "arrows piercing the body — the instruments of martyrdom, the world's assault on faith",
+    "Sebastian tied to a column — Christ-like suffering, bound and exposed to violence",
+    "God the Father enthroned above — divine witness and approval of the martyr's sacrifice",
+    "classical arches framing the scene — the Roman world within which the early Christians were persecuted",
+    "serene expression amid suffering — inner peace that transcends physical torment"
+  ],
+  "description": "A large arched composition with architectural framing. At center, a nearly nude young man stands tied to a classical column, his body pierced by several arrows. His expression is remarkably calm and his gaze is lifted upward. On either side, two archers in colorful tunics draw their bows. Above, in the triangular pediment, God the Father sits enthroned within a golden mandorla flanked by cherubim. Classical arches and ornate columns frame the scene on both sides. A green landscape with hills is visible through the arches.",
+  "theological_description": "Saint Sebastian, a Roman soldier secretly Christian, was sentenced to death by arrows under the Emperor Diocletian (c. 288 AD). Perugino sets the martyrdom within classical architecture, emphasizing that the Roman world — at the height of its power and beauty — could not extinguish the faith it sought to destroy. Sebastian's calm, almost transcendent expression reflects Stephen's vision at his martyrdom: 'Look, I see heaven open' (Acts 7:56). The arrows become instruments of grace rather than mere suffering — 'we are more than conquerors through him who loved us' (Romans 8:37). God the Father enthroned above confirms that the martyr's death is not abandonment but coronation. Christ himself promised: 'Be faithful, even to the point of death, and I will give you life as your victor's crown' (Revelation 2:10). Sebastian survived this first execution and returned to confront the Emperor — his survival becoming a symbol of faith's resilience under persecution.",
+  "scripture_refs": [
+    {
+      "ref": "REV.2.10",
+      "relevance": "primary",
+      "reason": "Be faithful unto death and receive the crown of life — the theology of martyrdom"
+    },
+    {
+      "ref": "ROM.8.37",
+      "relevance": "primary",
+      "reason": "More than conquerors through Christ — Sebastian's transcendence of physical suffering"
+    },
+    {
+      "ref": "ACT.7.55-56",
+      "relevance": "typological",
+      "reason": "Stephen seeing heaven open at his martyrdom — parallel to Sebastian's upward gaze"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "triumphant",
+    "solemn"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160755",
+    "title": "Martyrdom of St. Sebastian",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

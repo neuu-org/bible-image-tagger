@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Crucified thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd at Calvary",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion at Calvary",
+  "tags": [
+    "crucifixion",
+    "calvary",
+    "golgotha",
+    "crosses",
+    "crowd",
+    "dark-sky",
+    "passion",
+    "panoramic-view",
+    "desolate-landscape"
+  ],
+  "symbols": [
+    "three crosses on the hilltop — Christ crucified between two thieves, the central cross bearing the Savior of the world",
+    "dark stormy sky — the darkness that covered the land during the crucifixion, nature mourning its Creator",
+    "vast crowd — all humanity present at the event that determined their eternal destiny",
+    "barren hill — Golgotha, the Place of the Skull, where death was conquered by death"
+  ],
+  "description": "A panoramic landscape painting showing the Crucifixion at Calvary from a wide, distant perspective. Three crosses stand on a barren hilltop in the center-right distance, with a large crowd gathered around and along the path leading to the execution site. The sky is dark and stormy with a greenish-grey cast. Scraggly trees appear on the left and right edges. Red banners or standards are visible among the crowd. The overall tone is somber and desolate, with the vast landscape dwarfing the human figures and emphasizing the cosmic scope of the event.",
+  "theological_description": "Ilya Repin's panoramic Crucifixion presents Calvary from a distance that emphasizes the cosmic scale of the event. The three crosses on the hill fulfill the Gospel accounts (Luke 23:33) that Jesus was crucified at the place called the Skull between two criminals. The dark sky corresponds to the Synoptic testimony that darkness came over the whole land from the sixth hour to the ninth hour (Matthew 27:45), a supernatural sign that creation itself groaned at the death of its Creator. The vast crowd stretching across the landscape fulfills Isaiah 53:12, that He was numbered with the transgressors, dying as a public spectacle before the watching world. The barren, desolate hillscape visually expresses 2 Corinthians 5:21: 'God made Him who had no sin to be sin for us, so that in Him we might become the righteousness of God.' The wide perspective invites the viewer to consider the Crucifixion not as a private tragedy but as the axis of all history — the moment when, as Colossians 2:14-15 declares, God cancelled the charge of our legal indebtedness and, having disarmed the powers and authorities, made a public spectacle of them, triumphing over them by the cross.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.33",
+      "relevance": "primary",
+      "reason": "They crucified Him there along with the criminals, one on His right, the other on His left"
+    },
+    {
+      "ref": "MAT.27.45",
+      "relevance": "primary",
+      "reason": "Darkness came over the whole land from the sixth to the ninth hour — the dark sky depicted"
+    },
+    {
+      "ref": "ISA.53.12",
+      "relevance": "typological",
+      "reason": "He was numbered with the transgressors — Christ crucified publicly amid the crowd"
+    },
+    {
+      "ref": "COL.2.14-15",
+      "relevance": "typological",
+      "reason": "The cross as the instrument of cosmic triumph over the powers of darkness"
+    },
+    {
+      "ref": "2CO.5.21",
+      "relevance": "allusion",
+      "reason": "God made Him who had no sin to be sin — the desolation of the landscape mirrors the weight of the world's sin"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "desolate",
+    "somber",
+    "vast",
+    "ominous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190551",
+    "title": "Calvary (Crucifixion)",
+    "artist": "Ilya Repin",
+    "model": "claude-opus-4-6"
+  }
+}

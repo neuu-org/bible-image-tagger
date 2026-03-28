@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with the Infant Saint John",
+  "tags": [
+    "holy-family",
+    "virgin-and-child",
+    "infant-john-baptist",
+    "saint-joseph",
+    "swaddling-cloth",
+    "domestic-scene",
+    "red-dress",
+    "blue-mantle",
+    "carpenter",
+    "two-infants",
+    "maternal-tenderness"
+  ],
+  "symbols": [
+    "white cloth held by Mary — the swaddling clothes and foreshadowing of burial linens",
+    "infant John touching Jesus — the Baptist's role as precursor recognizing the Messiah from infancy",
+    "Joseph standing in background — the guardian and protector watching over the sacred family",
+    "Mary's red and blue garments — the union of human love (red) and heavenly grace (blue)",
+    "simple domestic setting — the Incarnation dwelling in ordinary human life"
+  ],
+  "description": "A domestic interior with a woman in a red dress and blue mantle seated at left, holding a nude infant on her lap while draping a white cloth. A slightly older child stands beside them, reaching toward the infant. Behind them, a bearded man in dark clothing stands leaning on what appears to be a wooden structure or workbench. The lighting is dramatic, illuminating the mother and children from the left while the background remains in deep shadow.",
+  "theological_description": "Ribera's Holy Family presents the intimate domestic life of the sacred household in Nazareth. Mary holds the infant Jesus while the young John the Baptist, traditionally depicted as a childhood companion in art, reaches toward the Christ child — a visual echo of the moment when, still in Elizabeth's womb, John 'leaped for joy' at the presence of the unborn Savior (Luke 1:44). The white cloth Mary holds around the child recalls both the swaddling clothes of his birth (Luke 2:7) and prophetically points to the linen shroud of his burial (John 19:40). Joseph stands as the faithful guardian in the background, the righteous man to whom the angel said, 'Do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit' (Matthew 1:20). The humble, darkened domestic setting reflects the hidden years at Nazareth — the Word made flesh dwelling in obscurity, for 'the child grew and became strong, filled with wisdom. And the favor of God was upon him' (Luke 2:40). The tender ordinariness of the scene embodies the scandal of the Incarnation: the God of the universe as a helpless infant in a working-class home.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "The infant Jesus wrapped in swaddling clothes — Mary holds the white cloth around the child"
+    },
+    {
+      "ref": "LUK.1.44",
+      "relevance": "primary",
+      "reason": "John leaping for joy at the presence of Christ — the young Baptist reaching toward Jesus"
+    },
+    {
+      "ref": "MAT.1.20",
+      "relevance": "primary",
+      "reason": "Joseph's role as guardian of the Holy Family, standing protectively in the background"
+    },
+    {
+      "ref": "LUK.2.40",
+      "relevance": "allusion",
+      "reason": "The child growing in wisdom and favor — the domestic setting of Jesus's early years in Nazareth"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word made flesh dwelling among us — the Incarnation in ordinary domestic life"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "intimate",
+    "warm",
+    "domestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140368",
+    "title": "The Holy Family",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Allegorical Figures (Faith, Hope, Charity)",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Stories of Saint Jerome — allegorical virtues",
+  "tags": [
+    "saint-jerome",
+    "theological-virtues",
+    "faith",
+    "hope",
+    "charity",
+    "cross",
+    "chalice",
+    "infant",
+    "cartouche",
+    "fresco-medallion",
+    "cloud-throne"
+  ],
+  "symbols": [
+    "cross held by central figure — Faith, the virtue by which we believe in God",
+    "chalice — the Eucharistic cup, symbol of Faith or Hope in salvation",
+    "woman with child — Charity (Caritas), the greatest of the theological virtues (1 Corinthians 13:13)",
+    "ornate cartouche frame — the decorative setting placing these virtues within the sacred architecture of the church"
+  ],
+  "description": "An ornate gilded cartouche frame surrounds a fresco medallion showing three female figures seated on clouds. The central figure holds a large golden cross and a chalice. To the left, a woman holds two small children. To the right, a woman gazes upward with hands clasped in prayer. A cherub face crowns the cartouche above. The composition is set within an architectural surround of scrollwork and gilded moldings.",
+  "theological_description": "This medallion from the Stories of St. Jerome cycle depicts the three theological virtues — Faith, Hope, and Charity — which Paul identifies as the enduring gifts: 'And now these three remain: faith, hope and love. But the greatest of these is love' (1 Corinthians 13:13). The cross and chalice identify Faith, the foundational virtue through which we receive salvation (Ephesians 2:8). The upward-gazing figure represents Hope, 'the anchor of the soul' (Hebrews 6:19). The woman with children embodies Charity, the self-giving love that mirrors God's own nature (1 John 4:8). Their placement in a Hieronymian context reflects Jerome's conviction that theological study must be animated by these virtues — knowledge without love is empty. These virtues are 'infused' by God, distinguishing them from natural moral virtues, and together they orient the Christian life toward its heavenly end.",
+  "scripture_refs": [
+    {
+      "ref": "1CO.13.13",
+      "relevance": "primary",
+      "reason": "The three theological virtues — faith, hope, and love — are the direct subject of the fresco"
+    },
+    {
+      "ref": "EPH.2.8",
+      "relevance": "allusion",
+      "reason": "Salvation through faith, represented by the figure holding the cross"
+    },
+    {
+      "ref": "HEB.6.19",
+      "relevance": "allusion",
+      "reason": "Hope as the anchor of the soul, represented by the upward-gazing figure"
+    },
+    {
+      "ref": "1JN.4.8",
+      "relevance": "allusion",
+      "reason": "God is love — Charity as the supreme virtue reflecting the divine nature"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "serene",
+    "devotional",
+    "luminous"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160192",
+    "title": "Stories of St. Jerome",
+    "artist": "Alessandro Allori",
+    "model": "claude-opus-4-6"
+  }
+}

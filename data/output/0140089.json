@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Two Thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Mourners and Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "three-crosses",
+    "golgotha",
+    "roman-soldiers",
+    "two-thieves",
+    "banners",
+    "cityscape-background",
+    "horses",
+    "crowd",
+    "passion-of-christ",
+    "death-of-christ",
+    "good-friday",
+    "columns",
+    "heraldic-shields"
+  ],
+  "symbols": [
+    "central cross elevated above the others — Christ's supreme sacrifice set apart from the criminals",
+    "three crosses — Christ crucified between two thieves fulfilling the prophecy of being numbered with transgressors",
+    "banners and heraldic shields — Roman imperial authority that executed the King of Kings",
+    "city in the background — Jerusalem, the holy city that rejected its Messiah",
+    "crowded scene at the foot — humanity gathered as witnesses to the pivotal event of salvation history",
+    "columns framing the scene — the threshold between the old covenant and the new"
+  ],
+  "description": "A wide panoramic crucifixion scene with three crosses set against a cityscape background. Christ hangs on the central and tallest cross, flanked by two thieves on shorter crosses. At the base, a large crowd of soldiers on horseback and on foot, mourners, and officials gather. Banners and heraldic standards are raised on either side. Ornate columns frame the left and right edges. The background shows a detailed city with towers and buildings under a pale sky.",
+  "theological_description": "Provoost's Crucifixion presents the central event of Christian faith in sweeping, public grandeur. All four Gospels record the crucifixion (Matthew 27:33-56, Mark 15:22-41, Luke 23:33-49, John 19:17-37), and this painting captures its crowded, civic nature — this was a public execution that became the hinge of cosmic history. The three crosses fulfill Isaiah's prophecy: 'He was numbered with the transgressors' (Isaiah 53:12), while Luke records the exchange between Jesus and the penitent thief: 'Today you will be with me in paradise' (Luke 23:43). The city of Jerusalem visible behind the crosses recalls Jesus's lament: 'O Jerusalem, Jerusalem, the city that kills the prophets' (Matthew 23:37). The Roman standards and soldiers represent the imperial power that Pilate wielded yet that was ultimately subordinate to divine purpose — as Jesus told Pilate, 'You would have no authority over me at all unless it had been given you from above' (John 19:11). The public, crowded nature of the scene fulfills Jesus's own prediction: 'And I, when I am lifted up from the earth, will draw all people to myself' (John 12:32). In this single moment, the curtain of the temple was torn, the earth shook, and the centurion confessed: 'Truly this was the Son of God' (Matthew 27:54).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "John's account of the crucifixion at Golgotha with Jesus between two others is the direct scene depicted"
+    },
+    {
+      "ref": "MAT.27.33-54",
+      "relevance": "primary",
+      "reason": "Matthew's full crucifixion narrative including the crowd, soldiers, and the centurion's confession"
+    },
+    {
+      "ref": "LUK.23.33-43",
+      "relevance": "primary",
+      "reason": "Luke's account of the crucifixion between two criminals and the dialogue with the penitent thief"
+    },
+    {
+      "ref": "ISA.53.12",
+      "relevance": "typological",
+      "reason": "The Suffering Servant numbered with transgressors is fulfilled in Christ crucified between two thieves"
+    },
+    {
+      "ref": "JHN.12.32",
+      "relevance": "allusion",
+      "reason": "Christ lifted up from the earth drawing all people to himself — depicted in the crowd gathered at the crosses"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "monumental",
+    "grievous",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140089",
+    "title": "Crucifixion",
+    "artist": "Jan Provoost",
+    "model": "claude-opus-4-6"
+  }
+}

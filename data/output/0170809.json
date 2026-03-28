@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Adoration of the Shepherds",
+  "tags": [
+    "adoration-of-the-shepherds",
+    "nativity",
+    "infant-jesus",
+    "manger",
+    "stable",
+    "joseph",
+    "angels-above",
+    "kneeling-shepherds",
+    "swaddling-clothes",
+    "night-scene",
+    "divine-light",
+    "palm-trees"
+  ],
+  "symbols": [
+    "infant in swaddling clothes — the vulnerable God, the fulfillment of the sign given to the shepherds",
+    "light emanating from the child — Christ as the Light of the World",
+    "shepherds kneeling — the humble and lowly as the first worshippers of the Messiah",
+    "angels above — the heavenly host who announced the birth",
+    "Joseph watching — the silent guardian appointed by God"
+  ],
+  "description": "A vertical night scene in a stable. The Virgin Mary sits at center, her face softly illuminated, holding the swaddled infant Jesus who glows with divine light. Joseph stands at left in a yellow mantle, looking down. Two or three shepherds approach from the right, one kneeling with arms outstretched in wonder, another pointing upward. Above, three angels hover among clouds, one reaching downward. The stable roof is visible at the top. A palm tree is glimpsed in the dark background landscape.",
+  "theological_description": "Mengs depicts the Adoration of the Shepherds as recorded in Luke 2:8-20. An angel appeared to shepherds keeping watch over their flocks by night and announced: 'Today in the town of David a Savior has been born to you; he is the Messiah, the Lord. This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger' (Luke 2:11-12). The shepherds — among the lowest social ranks in first-century Palestine — were chosen as the first witnesses of the Incarnation, fulfilling the pattern that 'God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong' (1 Corinthians 1:27). The divine light radiating from the infant Christ visualizes John 1:9: 'The true light that gives light to everyone was coming into the world.' The angels above recall the multitude of the heavenly host praising God: 'Glory to God in the highest heaven, and on earth peace to those on whom his favor rests' (Luke 2:14). Mary's serene presence echoes Luke 2:19: she 'treasured up all these things and pondered them in her heart.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The angel's announcement to the shepherds and their visit to the manger — the scene depicted"
+    },
+    {
+      "ref": "LUK.2.11-12",
+      "relevance": "primary",
+      "reason": "The sign of the Savior wrapped in cloths and lying in a manger"
+    },
+    {
+      "ref": "LUK.2.14",
+      "relevance": "primary",
+      "reason": "Glory to God in the highest — the angels above singing praise"
+    },
+    {
+      "ref": "JHN.1.9",
+      "relevance": "typological",
+      "reason": "The true light coming into the world — Christ as the light source illuminating the scene"
+    },
+    {
+      "ref": "1CO.1.27",
+      "relevance": "allusion",
+      "reason": "God chose the weak to shame the strong — humble shepherds as the first witnesses"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "luminous",
+    "intimate",
+    "awe-filled"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170809",
+    "title": "The Adoration of the Shepherds",
+    "artist": "Anton Raphael Mengs",
+    "model": "claude-opus-4-6"
+  }
+}

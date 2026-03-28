@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Virgin and Child — engraving after Guercino",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-jesus",
+    "half-figure",
+    "tender-embrace",
+    "seated-madonna",
+    "line-drawing"
+  ],
+  "symbols": [
+    "Mary holding the child — the Incarnation, God dwelling in human flesh through the Virgin Mother",
+    "infant's lively gesture — the fully human, fully divine Child engaged with the world He came to save"
+  ],
+  "description": "A fine line engraving after a painting by Guercino, reproduced by Piranesi, showing the Virgin Mary in a half-figure composition holding the infant Jesus in her arms. Mary wears a veil and flowing robes, looking down at the child with a gentle, slightly sorrowful expression. The nude infant sits on her lap with one arm extended. The engraving is executed with delicate hatching to suggest the soft modeling of Guercino's original, with a light, airy quality. Collector stamps and inscriptions appear at the edges of the print.",
+  "theological_description": "This engraving reproduces Guercino's tender vision of the Madonna and Child, a subject that encapsulates the central mystery of Christianity: the Incarnation. Mary's slightly sorrowful expression suggests she already intuits the suffering her son will endure, fulfilling Simeon's prophecy in Luke 2:34-35 that a sword would pierce her own soul. The intimate simplicity of the composition — just mother and child — strips the Incarnation to its most essential truth: the infinite God chose to become a helpless infant, dependent on human love. As John 1:14 declares, 'The Word became flesh and made His dwelling among us.' The engraving medium, with its reduction to pure line and tone, perhaps best communicates the theology of divine condescension — God's glory stripped to its simplest, most accessible form. Mary's posture of protective tenderness embodies the vessel chosen to bear the salvation of the world.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the theological truth visible in the divine infant held by His mother"
+    },
+    {
+      "ref": "LUK.2.34-35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy of sorrow — suggested by Mary's pensive, slightly sorrowful expression"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent His Son born of woman — the Incarnation through Mary"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "contemplative",
+    "gentle"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190736",
+    "title": "The Virgin and Child in half-figure in her arms, from Guercino",
+    "artist": "Giovanni Battista Piranesi",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Adam and Eve (after the Fall)",
+  "tags": [
+    "adam-and-eve",
+    "fall-of-man",
+    "forbidden-fruit",
+    "apple",
+    "fig-leaves",
+    "nude-figures",
+    "diptych-panels",
+    "arched-niches",
+    "original-sin",
+    "first-parents"
+  ],
+  "symbols": [
+    "apple/fruit in hand — the forbidden fruit of the Tree of Knowledge, the instrument of the Fall",
+    "fig leaves at the waist — the first covering after the loss of innocence, shame entering the world",
+    "separate panels — the division between man and woman introduced by sin",
+    "dark arched niches — the confinement of a world now fallen from the freedom of Eden"
+  ],
+  "description": "Two narrow vertical panels showing two nude standing figures, each within a dark arched niche. On the left, a man with short dark hair holds a round reddish fruit (apple) in his right hand and covers himself with fig leaves in his left. On the right, a woman with long golden hair holds a similar fruit in her right hand and also covers herself with fig leaves. Both face forward with neutral expressions. Their bodies are pale against the very dark backgrounds. The style is detailed and naturalistic.",
+  "theological_description": "Memling's Adam and Eve, likely wings of a triptych, present the first parents after partaking of the forbidden fruit. Genesis records: 'She took some and ate it. She also gave some to her husband, who was with her, and he ate it. Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves' (Genesis 3:6-7). The fruit still in hand captures the moment of transgression — the deed done but its full consequences still unfolding. The fig leaves testify to the entrance of shame into a world created 'very good' (Genesis 1:31). Their placement in separate panels suggests the rupture sin introduces between human beings — the unity of 'one flesh' (Genesis 2:24) fractured by disobedience. Paul draws the universal conclusion: 'Sin entered the world through one man, and death through sin, and in this way death came to all people' (Romans 5:12). Yet the 'Second Adam' will reverse what the first Adam lost (1 Corinthians 15:22).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.6-7",
+      "relevance": "primary",
+      "reason": "Adam and Eve eating the forbidden fruit and covering themselves — the exact moment depicted"
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "primary",
+      "reason": "Sin entered the world through one man — the theological significance of the Fall"
+    },
+    {
+      "ref": "1CO.15.22",
+      "relevance": "typological",
+      "reason": "In Adam all die, in Christ all will be made alive — the Fall as prelude to redemption"
+    },
+    {
+      "ref": "GEN.2.25",
+      "relevance": "allusion",
+      "reason": "They were both naked and felt no shame — the innocence lost, now covered by fig leaves"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "somber",
+    "stark",
+    "ashamed"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0160765",
+    "title": "Adam and Eve",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

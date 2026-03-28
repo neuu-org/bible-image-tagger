@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "calvary",
+    "crown-of-thorns",
+    "inri",
+    "mourning-virgin",
+    "john-the-evangelist",
+    "holy-women",
+    "mary-magdalene",
+    "red-angels",
+    "embracing-the-cross",
+    "blue-robe",
+    "red-robe",
+    "grief"
+  ],
+  "symbols": [
+    "Christ on the cross — the atoning sacrifice for the sin of the world",
+    "crown of thorns — the mockery of earthly kingship that becomes true heavenly sovereignty",
+    "Mary embracing the foot of the cross — the Mother's grief and solidarity with her son's suffering",
+    "John in red — the beloved disciple entrusted with Mary's care",
+    "red angels above — celestial beings sharing in the anguish of the Passion",
+    "Mary Magdalene kneeling — the penitent follower in devoted sorrow"
+  ],
+  "description": "Christ hangs on a tall wooden cross at center, his emaciated body pale, head bowed under a crown of thorns, with INRI inscribed above. At the foot of the cross, a woman in a dark blue robe (the Virgin Mary) embraces the cross shaft, her face pressed against it in grief. Another woman supports her from behind. At left, a woman in a green robe and white turban stands weeping. At right, John the Evangelist in a red robe stands with his head bowed. In the lower right, Mary Magdalene kneels in a red dress with her hands clasped in prayer.",
+  "theological_description": "Campin's Crucifixion presents the central act of Christian redemption. John 19:25-27 records the intimate scene at the foot of the cross: 'Near the cross of Jesus stood his mother, his mother's sister, Mary the wife of Clopas, and Mary Magdalene. When Jesus saw his mother there, and the disciple whom he loved standing nearby, he said to her, \"Woman, here is your son,\" and to the disciple, \"Here is your mother.\"' Mary's embrace of the cross shaft embodies Simeon's prophecy fulfilled: 'A sword will pierce your own soul' (Luke 2:35). The red angelic figures above express the cosmic grief at the death of the Creator — even the heavenly host is anguished. Christ's emaciated body makes visible Isaiah 52:14: 'His appearance was so disfigured beyond that of any human being.' The Crucifixion accomplishes what Paul proclaims in 2 Corinthians 5:21: 'God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.' Every figure present responds to the cross differently — Mary with maternal agony, John with sorrowful faithfulness, the Magdalene with penitential devotion — modeling the range of human encounter with the crucified Lord.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "The women and John at the foot of the cross, Jesus entrusting Mary to the beloved disciple"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "A sword will pierce your own soul — Mary's anguish at the cross"
+    },
+    {
+      "ref": "ISA.52.14",
+      "relevance": "typological",
+      "reason": "His appearance disfigured beyond human semblance — Christ's emaciated body"
+    },
+    {
+      "ref": "2CO.5.21",
+      "relevance": "allusion",
+      "reason": "God made him who had no sin to be sin for us — the theological meaning of the Crucifixion"
+    },
+    {
+      "ref": "MRK.15.40-41",
+      "relevance": "primary",
+      "reason": "The women who watched from a distance, including Mary Magdalene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief-stricken",
+    "solemn",
+    "anguished",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170817",
+    "title": "Crucifixion",
+    "artist": "Robert Campin",
+    "model": "claude-opus-4-6"
+  }
+}

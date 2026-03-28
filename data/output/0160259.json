@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Piet\u00e0 (Lamentation over the Dead Christ)",
+  "tags": [
+    "pieta",
+    "lamentation",
+    "dead-christ",
+    "virgin-mary",
+    "deposition",
+    "passion-of-christ",
+    "open-landscape",
+    "wound-marks",
+    "grief",
+    "maternal-sorrow",
+    "blue-drapery"
+  ],
+  "symbols": [
+    "Christ's lifeless body on Mary's lap — the Incarnate Word returned to the mother who bore him, the cost of redemption",
+    "Mary's sorrowful gaze — Simeon's prophecy fulfilled: 'a sword will pierce your own soul' (Luke 2:35)",
+    "open landscape with distant city — Jerusalem, the city that kills the prophets, visible beyond the scene of death",
+    "bare tree at left — the tree of the cross, the new Tree of Life stripped bare",
+    "Christ's wound marks — the price paid for human sin, the marks of sacrificial love"
+  ],
+  "description": "In an open landscape, a woman in a purple robe and white head covering sits on the ground, cradling the limp body of a dead man across her lap. The man is nearly nude, with a loincloth, and bears visible marks on his hands and side. His head falls back, eyes closed. The woman gazes down at him with an expression of restrained grief. Behind them, a broad green landscape extends to distant towns and pale blue mountains under a clear sky. A bare tree stands at the left edge.",
+  "theological_description": "Bellini's Piet\u00e0 presents the most intimate moment of the Passion — the dead Christ held by his grieving mother. This scene, not explicitly described in the Gospels but deeply embedded in Christian devotion, follows the deposition from the cross (John 19:38-40). Mary, who said 'yes' to God at the Annunciation (Luke 1:38), now holds the lifeless result of that 'yes.' Simeon's prophecy at the Presentation finds its piercing fulfillment: 'a sword will pierce your own soul also' (Luke 2:35). The serene landscape behind the grief creates a deliberate tension — creation continues its course while its Creator lies dead, fulfilling Isaiah's word: 'He was cut off from the land of the living; for the transgression of my people he was stricken' (Isaiah 53:8). Yet the open sky and bright horizon hint at what lies beyond this death — the Resurrection. The visible wound in Christ's side (John 19:34) from which flowed blood and water is the sacramental fountain from which the Church is born. This is the paradox of the cross: 'It is finished' (John 19:30) is not defeat but the completion of salvation.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-40",
+      "relevance": "primary",
+      "reason": "The deposition from the cross and preparation of Christ's body — the narrative moment preceding this scene"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul — fulfilled in her grief over the dead Christ"
+    },
+    {
+      "ref": "ISA.53.8",
+      "relevance": "typological",
+      "reason": "The Suffering Servant cut off from the land of the living for the transgression of the people"
+    },
+    {
+      "ref": "JHN.19.30",
+      "relevance": "allusion",
+      "reason": "'It is finished' — the completion of Christ's redemptive work visible in his lifeless body"
+    },
+    {
+      "ref": "JHN.19.34",
+      "relevance": "allusion",
+      "reason": "The wound in Christ's side from which flowed blood and water — visible in the painting"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "tender",
+    "serene",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160259",
+    "title": "Pieta",
+    "artist": "Giovanni Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

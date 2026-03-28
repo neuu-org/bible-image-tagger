@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Saint Theobald",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Louis IX",
+      "type": "PERSON"
+    },
+    {
+      "name": "Marguerite of Provence",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint Theobald offering lilies to Saint Louis and Marguerite of Provence",
+  "tags": [
+    "saint-theobald",
+    "saint-louis",
+    "lilies",
+    "offering",
+    "cross",
+    "royal-saints",
+    "outdoor-scene",
+    "basket-of-flowers",
+    "twilight"
+  ],
+  "symbols": [
+    "lilies — purity, holiness, and the virtue of the saints being honored",
+    "large wooden cross — the centrality of Christ's sacrifice in the lives of the holy",
+    "flower offering — the gifts of grace and virtue exchanged between saints across time"
+  ],
+  "description": "An outdoor scene at twilight with a large wooden cross standing at center right. A man in black and white clerical robes holds a basket of white lilies and roses, offering them to a richly dressed couple — a man in golden robes and a woman in a golden dress. Other figures in colorful garments stand to the left, and additional figures are visible in the background. A tree arches overhead and a distant church and landscape are visible in the darkening sky. The composition is formal and ceremonial.",
+  "theological_description": "This scene of saintly interchange depicts the communion of saints — the belief that the holy dead and the living faithful share a bond of love and intercession across time. The lilies offered are the traditional symbol of purity and the virtue of charity. Saint Louis IX, the only canonized French king, was renowned for his devotion to justice and care for the poor, modeling the Proverbs teaching: 'By justice a king gives a country stability' (Proverbs 29:4). The large cross dominating the scene reminds all present that sanctity is grounded in Christ's sacrifice. Paul's vision of the Church as one body united in love (1 Corinthians 12:12-27) extends beyond the grave — the saints in glory and the faithful on earth are one communion, one fellowship.",
+  "scripture_refs": [
+    {
+      "ref": "PRO.29.4",
+      "relevance": "primary",
+      "reason": "By justice a king gives stability — Saint Louis as the just monarch"
+    },
+    {
+      "ref": "1CO.12.12-13",
+      "relevance": "allusion",
+      "reason": "The one body of Christ uniting all members — the communion of saints across time"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses surrounding the faithful — saints encouraging one another"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ceremonial",
+    "reverent",
+    "serene"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160532",
+    "title": "Saint Theobald offering an eleven branched lilium to Saint Louis and Marguerite of Provence",
+    "artist": "Joseph-Marie Vien",
+    "model": "claude-opus-4-6"
+  }
+}

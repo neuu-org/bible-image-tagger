@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Blessed Bernardo Tolomeo",
+      "type": "PERSON"
+    },
+    {
+      "name": "Plague victims",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angel or death figure",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Blessed Bernardo Tolomeo's Intercession for the End of the Plague in Siena",
+  "tags": [
+    "plague",
+    "intercession",
+    "blessed-bernardo-tolomeo",
+    "white-habit",
+    "sick-and-dying",
+    "angel-of-death",
+    "dark-scene",
+    "suffering",
+    "prayer",
+    "disease",
+    "medieval-city",
+    "dead-bodies",
+    "divine-intervention"
+  ],
+  "symbols": [
+    "kneeling monk in white — the intercessor praying for divine mercy amid disaster",
+    "angel or death figure above — divine judgment or the angelic minister of plague",
+    "plague victims strewn about — the devastation of pestilence and human mortality",
+    "dark city in background — the city under the shadow of death"
+  ],
+  "description": "A dark, dramatic painting depicting a plague scene. In the center, a figure in a white monastic habit kneels in prayer amid numerous sick and dying figures. Bodies lie on the ground in various states of distress. Above, a dark winged figure hovers against the sky. In the background, a city with walls and towers is visible under a gloomy sky. The palette is predominantly dark — browns, blacks, and muted flesh tones — with the white habit of the central figure providing the main point of light.",
+  "theological_description": "Crespi depicts the Blessed Bernardo Tolomeo (1272-1348), founder of the Olivetan Order, who ministered to plague victims in Siena during the Black Death and himself died of the plague. His selfless service embodies Christ's teaching: 'Greater love has no one than this: to lay down one's life for one's friends' (John 15:13). The plague was widely understood in medieval theology through the lens of biblical precedent — the plagues of Egypt (Exodus 7-12), the pestilence sent upon Israel after David's census (2 Samuel 24:15), and the apocalyptic horseman of Revelation: 'They were given power over a fourth of the earth to kill by sword, famine and plague' (Revelation 6:8). Bernardo's intercession mirrors Moses standing between the living and the dead to stop a plague (Numbers 16:48) and Abraham interceding for Sodom (Genesis 18:23-32). His willingness to enter the midst of contagion rather than flee reflects the Good Shepherd who 'lays down his life for the sheep' (John 10:11), in contrast to the hired hand who 'abandons the sheep and runs away' (John 10:12-13). The scene affirms that even in catastrophic suffering, the faithful presence of one who prays can be a channel of divine mercy.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.15.13",
+      "relevance": "primary",
+      "reason": "Laying down one's life — Bernardo died serving plague victims"
+    },
+    {
+      "ref": "NUM.16.48",
+      "relevance": "typological",
+      "reason": "Standing between the living and the dead to stop a plague — Bernardo's intercessory role"
+    },
+    {
+      "ref": "REV.6.8",
+      "relevance": "allusion",
+      "reason": "Death and plague riding over the earth — the devastation depicted in the scene"
+    },
+    {
+      "ref": "JHN.10.11",
+      "relevance": "typological",
+      "reason": "The Good Shepherd laying down his life — Bernardo refusing to abandon the afflicted"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dark",
+    "desperate",
+    "heroic",
+    "somber"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150942",
+    "title": "The Blessed Bernardo Tolomeo's Intercession for the End of the Plague in Siena",
+    "artist": "Giuseppe Maria Crespi",
+    "model": "claude-opus-4-6"
+  }
+}

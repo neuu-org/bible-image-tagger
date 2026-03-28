@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ (Dead)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mourning Women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Deposition from the Cross",
+  "tags": [
+    "deposition",
+    "dead-christ",
+    "mourning",
+    "dark-painting",
+    "body-on-ground",
+    "weeping-women",
+    "green-headscarf",
+    "extreme-darkness",
+    "grief",
+    "passion-of-christ",
+    "somber-palette",
+    "kneeling-figures"
+  ],
+  "symbols": [
+    "lifeless body in deep shadow — the full weight of death, the light of the world extinguished",
+    "mourning women in anguish — the faithful who remained with Christ through death",
+    "pervasive darkness — the cosmic darkness that covered the land during the crucifixion",
+    "figures barely visible in the gloom — the obscurity and desolation of the moment between death and resurrection"
+  ],
+  "description": "An extremely dark painting, nearly monochromatic in deep greens and blacks. The body of Christ lies on the ground in the lower portion of the composition, barely visible in the deep shadow. Two figures — women in dark garments — lean over the body in postures of intense grief. One wears a green or teal headscarf and has her head thrown back in a cry of anguish. The other bends low over the body. In the far upper right, faint figures with what appear to be flowers or offerings are barely discernible.",
+  "theological_description": "This extraordinarily dark deposition captures the theological weight of Christ's death through its near-total absence of light. The Synoptic Gospels record that 'from the sixth hour there was darkness over all the land until the ninth hour' (Matthew 27:45). Ribot's painting extends that supernatural darkness into the aftermath of the death, plunging the mourners and the dead Christ into a gloom that is both physical and spiritual. The Light of the World (John 8:12) has been extinguished; the darkness that could not overcome the light (John 1:5) seems for this terrible moment to have prevailed. The women's grief — one figure throwing her head back in an almost animal cry of pain — embodies the prophetic word of Zechariah 12:10: 'They shall mourn for him, as one mourns for an only child, and weep bitterly over him, as one weeps over a firstborn.' The near-invisibility of the body in the darkness speaks to the hiddenness of God in the hour of death — what Luther called the Deus absconditus, the hidden God whose purposes are most mysterious when they seem most absent. Yet this very darkness is the womb of resurrection; the seed falls into the ground and dies before it bears much fruit (John 12:24).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.45",
+      "relevance": "primary",
+      "reason": "The supernatural darkness covering the land during Christ's death, which pervades the entire painting"
+    },
+    {
+      "ref": "ZEC.12.10",
+      "relevance": "primary",
+      "reason": "Mourning for him as for an only child — the anguished grief of the women over the dead Christ"
+    },
+    {
+      "ref": "JHN.8.12",
+      "relevance": "typological",
+      "reason": "The Light of the World now dead, the extreme darkness visualizing the absence of the one who is light"
+    },
+    {
+      "ref": "JHN.12.24",
+      "relevance": "allusion",
+      "reason": "The grain of wheat falling into the earth and dying — this darkness precedes the harvest of resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "desolate",
+    "anguished",
+    "dark",
+    "somber"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180810",
+    "title": "The Deposition from the Cross",
+    "artist": "Theodule Ribot",
+    "model": "claude-opus-4-6"
+  }
+}

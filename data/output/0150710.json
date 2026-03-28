@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary (as devotional statue)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Two putti at base",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna and Child — Richly Adorned Devotional Statue",
+  "tags": [
+    "madonna-and-child",
+    "devotional-statue",
+    "ornate-vestments",
+    "jewels",
+    "crown",
+    "candles",
+    "colonial-art",
+    "sacred-image",
+    "brocade",
+    "gold-embroidery",
+    "putti",
+    "dark-background",
+    "veneration",
+    "spanish-colonial"
+  ],
+  "symbols": [
+    "elaborate jeweled vestments — the devotion of the faithful adorning the sacred image",
+    "crown — Mary as Queen of Heaven",
+    "candles flanking the statue — the light of faith and devotion",
+    "putti at the base — angelic attendants worshipping the incarnate God and his mother",
+    "rich brocade and embroidery — the preciousness of the Incarnation mystery"
+  ],
+  "description": "A painting depicting an ornately dressed devotional statue of the Madonna and Child. The figure of Mary wears an elaborate dark brocade robe covered in jewels, flowers, and gold embroidery. A large ornate crown sits atop her head within an arched canopy. She holds the Christ child, who is also richly dressed. At the base, two small putti or cherubs are visible. Tall candlesticks with candles flank the figure on either side. The background is completely dark, making the richly adorned figure glow. The style is Spanish colonial devotional art.",
+  "theological_description": "Yepes's painting documents a richly adorned devotional statue of the Madonna and Child, typical of Spanish colonial sacred art. The elaborate vestments and jewels reflect centuries of devotional offering — the faithful adorning the sacred image as an act of worship. This tradition connects to the biblical precedent of offering the finest materials for sacred purposes: the Israelites brought 'gold, silver and bronze... fine linen... precious stones' for the tabernacle (Exodus 35:5-9). The crowned Madonna reflects the theology of Mary as Queen of Heaven, connected to the vision in Revelation of 'a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head' (Revelation 12:1). The Christ child in her arms proclaims the Incarnation: 'The Word became flesh and dwelt among us' (John 1:14). The flanking candles recall Jesus's declaration, 'I am the light of the world' (John 8:12). The putti represent the angelic host that attended Christ's birth, when 'a great company of the heavenly host appeared with the angel, praising God' (Luke 2:13).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh — the Incarnation proclaimed in every Madonna and Child image"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The crowned woman of Revelation — the theological basis for Mary's crown"
+    },
+    {
+      "ref": "EXO.35.5-9",
+      "relevance": "allusion",
+      "reason": "Offering precious materials for sacred purposes — the tradition of adorning sacred images"
+    },
+    {
+      "ref": "LUK.2.13",
+      "relevance": "allusion",
+      "reason": "The heavenly host attending Christ's birth — the putti at the base"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "ornate",
+    "reverent",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150710",
+    "title": "Madonna and Child",
+    "artist": "Tomás Yepes",
+    "model": "claude-opus-4-6"
+  }
+}

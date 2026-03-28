@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Attendant figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Jesus beneath the winepress — the Mystic Winepress",
+  "tags": [
+    "mystic-winepress",
+    "wine-of-wrath",
+    "passion-allegory",
+    "scroll-banners",
+    "latin-inscriptions",
+    "chalice",
+    "blood-of-christ"
+  ],
+  "symbols": [
+    "scroll banners with Latin text — prophetic and liturgical inscriptions connecting the image to Scripture",
+    "chalice or cup — the Eucharistic chalice receiving the blood of Christ, the cup of the new covenant",
+    "aged bearded figure with halo — a prophet or patriarch holding the scriptural word that foretold Christ's suffering",
+    "red robes — the blood of the Passion, the garments dipped in wine of Isaiah's prophecy"
+  ],
+  "description": "A medieval fresco fragment showing a central bearded figure with a large radiant halo wearing red robes, holding a scroll or book. Scroll banners with Latin inscriptions curl around the composition. To the left, a smaller figure in lighter garments holds what appears to be a chalice. The fresco is partially damaged with areas of plaster loss. The style is late medieval with gold-leaf halos and flat decorative backgrounds. Additional figures or architectural elements appear at the edges of the surviving fragment.",
+  "theological_description": "The Mystic Winepress is a profound allegorical subject that interprets Christ's Passion through the metaphor of Isaiah 63:1-3, where the Lord comes from Edom with garments stained crimson, declaring 'I have trodden the winepress alone; from the nations no one was with me.' Medieval theology combined this with Revelation 14:19-20 and 19:15, where Christ treads the winepress of God's wrath. In this allegory, Christ Himself is both the one who treads and the grape that is crushed — His blood flowing like wine for the salvation of the world. The Latin inscriptions on the scrolls connect Old Testament prophecy to New Testament fulfillment. The chalice receiving the pressed wine becomes the Eucharistic cup of Luke 22:20: 'This cup is the new covenant in my blood.' The image synthesizes sacrificial atonement, prophetic fulfillment, and sacramental theology into a single visual meditation on how the violence of the Cross produces the wine of eternal life.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.63.1-3",
+      "relevance": "primary",
+      "reason": "The Lord treading the winepress alone with garments stained red is the foundational text for this allegory"
+    },
+    {
+      "ref": "REV.14.19-20",
+      "relevance": "primary",
+      "reason": "The angel gathering the vintage of the earth and throwing it into the great winepress of God's wrath"
+    },
+    {
+      "ref": "LUK.22.20",
+      "relevance": "typological",
+      "reason": "The cup of the new covenant in Christ's blood — the Eucharistic meaning of the winepress imagery"
+    },
+    {
+      "ref": "REV.19.15",
+      "relevance": "primary",
+      "reason": "Christ treading the winepress of the fury of the wrath of God Almighty"
+    },
+    {
+      "ref": "JHN.15.1",
+      "relevance": "allusion",
+      "reason": "Christ as the true vine connects the winepress metaphor to His self-identification with the fruit of the vine"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "solemn",
+    "mystical",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190172",
+    "title": "Jesus beneath the winepress",
+    "artist": "Ambrogio Bergognone",
+    "model": "claude-opus-4-6"
+  }
+}

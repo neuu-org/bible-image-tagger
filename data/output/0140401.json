@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "San Salvador de Horta",
+      "type": "PERSON"
+    },
+    {
+      "name": "Inquisitor of Aragon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers and Sick People",
+      "type": "GROUP"
+    }
+  ],
+  "event": "San Salvador de Horta and the Inquisitor of Aragon",
+  "tags": [
+    "san-salvador-de-horta",
+    "inquisitor",
+    "franciscan",
+    "kneeling-friar",
+    "healing",
+    "miracle",
+    "spanish-inquisition",
+    "sick-and-poor",
+    "brown-robe",
+    "humility",
+    "authority-and-holiness",
+    "crowd",
+    "classical-architecture"
+  ],
+  "symbols": [
+    "kneeling friar before authority figure — humility before worldly power while possessing spiritual power",
+    "sick and poor in the background — the ministry of healing and compassion",
+    "Franciscan habit — voluntary poverty and identification with the least",
+    "Inquisitor's rich garments — the contrast between worldly religious authority and genuine holiness"
+  ],
+  "description": "A scene set before a classical architectural backdrop showing a Franciscan friar in a brown habit kneeling before a richly dressed man in a large hat and brown cloak (the Inquisitor). The Inquisitor gestures with open hands while looking down at the kneeling friar. To the left, a group of poor and sick people, including an elderly woman, sit or kneel near columns. Other figures stand in the middle ground and background. Text inscriptions appear at the bottom of the painting.",
+  "theological_description": "Murillo's painting depicts the encounter between the humble Franciscan lay brother Salvador de Horta and the Inquisitor of Aragon, who came to investigate the friar's miraculous healings. While not a biblical narrative, this scene powerfully illustrates New Testament principles. Salvador's humility before the Inquisitor embodies Jesus's teaching: 'Whoever humbles himself like this child is the greatest in the kingdom of heaven' (Matthew 18:4). The sick and poor gathered around the friar recall Christ's own ministry: 'The blind receive their sight and the lame walk, lepers are cleansed and the deaf hear' (Matthew 11:5). The tension between institutional religious authority and genuine charismatic holiness echoes the Pharisees' confrontation with Jesus's healing ministry. James wrote: 'Is anyone among you sick? Let him call for the elders of the church, and let them pray over him' (James 5:14). Salvador's life of prayer and miraculous healing demonstrates Paul's teaching that 'to each is given the manifestation of the Spirit for the common good... to another gifts of healing by the one Spirit' (1 Corinthians 12:7-9).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.11.5",
+      "relevance": "primary",
+      "reason": "The blind receiving sight and the lame walking — Salvador's healing ministry mirrors Christ's own signs"
+    },
+    {
+      "ref": "MAT.18.4",
+      "relevance": "primary",
+      "reason": "Humbling oneself like a child — the friar kneeling before the Inquisitor despite possessing spiritual gifts"
+    },
+    {
+      "ref": "1CO.12.7-9",
+      "relevance": "typological",
+      "reason": "Gifts of healing given by the Spirit for the common good — the theological basis for Salvador's miraculous ministry"
+    },
+    {
+      "ref": "JAS.5.14-15",
+      "relevance": "allusion",
+      "reason": "The prayer of faith saving the sick — Salvador's ministry of healing through prayer"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "humble",
+    "tense",
+    "compassionate"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0140401",
+    "title": "San Salvador de Horta, and inquisitor of Aragon",
+    "artist": "Bartolome Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

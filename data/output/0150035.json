@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Rest on the Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "holy-family",
+    "rest-on-the-journey",
+    "virgin-mary",
+    "infant-jesus",
+    "joseph",
+    "angels",
+    "cherubs",
+    "palm-trees",
+    "red-drapery",
+    "travel-basket",
+    "pastoral-landscape",
+    "divine-protection",
+    "nocturnal-scene"
+  ],
+  "symbols": [
+    "palm trees — the land of Egypt and the shelter provided to the Holy Family in exile",
+    "angels hovering above — divine protection and providence guiding the flight",
+    "red drapery — royalty and the blood of the future Passion foreshadowed even in infancy",
+    "resting posture — a moment of peace amid the urgency of flight from Herod's threat",
+    "basket and provisions — the humble earthly needs of the incarnate God"
+  ],
+  "description": "A nocturnal landscape scene with a lush setting of palm trees and foliage. At right, a young woman in blue sits near red drapery, gazing toward the infant lying on the ground before her. At left, an older bearded man reclines, sleeping or resting, beside a woven basket. Above in the clouds, several cherubs and an angel hover, bathed in golden light that illuminates the center of the composition. The background shows a distant landscape with hints of architecture and a dusky sky.",
+  "theological_description": "Boucher's pastoral interpretation of the Rest on the Flight into Egypt depicts the Holy Family's sojourn after the angel warned Joseph in a dream to flee from Herod's murderous decree (Matthew 2:13-15). The scene captures a tender interlude in what was a desperate escape — the infant Messiah, whose birth the heavens celebrated, is now a refugee. Matthew explicitly connects this event to the fulfillment of Hosea 11:1: 'Out of Egypt I called my son,' drawing a typological parallel between Israel's exodus and Christ's own journey. The angels hovering protectively above affirm that even in flight and apparent vulnerability, the child remains under divine guardianship. Joseph's exhausted sleep recalls his role as the faithful guardian who received divine instruction through dreams. Mary's watchful gaze over the sleeping child embodies her role as Theotokos, the God-bearer, who 'treasured all these things in her heart' (Luke 2:51). The luxuriant landscape transforms the wilderness of exile into a place of provision, echoing how God sustained Israel in the desert. This moment of rest anticipates the greater rest that Christ would offer: 'Come to me, all you who are weary and burdened, and I will give you rest' (Matthew 11:28).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The direct biblical narrative of the angel's warning and the flight of the Holy Family into Egypt"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "primary",
+      "reason": "Matthew cites this prophecy as fulfilled by Christ's sojourn in Egypt: 'Out of Egypt I called my son'"
+    },
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "allusion",
+      "reason": "The Massacre of the Innocents is the threat from which the Holy Family flees, giving urgency to the scene"
+    },
+    {
+      "ref": "LUK.2.51",
+      "relevance": "allusion",
+      "reason": "Mary's contemplative watchfulness over the child reflects her treasuring of these events in her heart"
+    },
+    {
+      "ref": "MAT.11.28",
+      "relevance": "typological",
+      "reason": "The rest of the Holy Family prefigures the spiritual rest Christ would later offer all who come to him"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "tender",
+    "pastoral"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150035",
+    "title": "The Rest on the Flight into Egypt",
+    "artist": "Francois Boucher",
+    "model": "claude-opus-4-6"
+  }
+}

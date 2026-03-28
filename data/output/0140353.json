@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Samuel",
+      "type": "PERSON"
+    },
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesse's Family",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Samuel Anoints David as King",
+  "tags": [
+    "anointing",
+    "samuel",
+    "david",
+    "oil",
+    "kneeling",
+    "prophet",
+    "king",
+    "chosen-one",
+    "jesse",
+    "bethlehem",
+    "youngest-son",
+    "shepherd-boy",
+    "brothers",
+    "red-chalk-drawing",
+    "old-testament"
+  ],
+  "symbols": [
+    "anointing oil being poured — the Holy Spirit's empowerment and divine election",
+    "David kneeling — humble submission to God's sovereign choice",
+    "Samuel standing with authority — the prophetic office as channel of divine will",
+    "brothers watching — the overlooked youngest chosen over the eldest, God's reversal of human expectations",
+    "youthful David — God looks at the heart, not outward appearance"
+  ],
+  "description": "A red chalk and wash drawing depicting a scene with multiple figures. At center, an elderly robed figure (Samuel) stands pouring oil or making a gesture of blessing over a younger figure (David) who kneels before him. Several other figures stand watching on either side — family members and onlookers. The setting appears to be near an architectural structure with columns visible at the right. The drawing style is loose and preparatory, with warm reddish tones throughout.",
+  "theological_description": "Ivanov's drawing captures one of the most pivotal moments in Old Testament history — the anointing of David. God sent Samuel to the house of Jesse in Bethlehem: 'I have provided for myself a king among his sons' (1 Samuel 16:1). When Samuel saw Jesse's eldest son Eliab, he thought, 'Surely the Lord's anointed is before him,' but God corrected him: 'Do not look on his appearance or on the height of his stature, because I have rejected him. For the Lord sees not as man sees: man looks on the outward appearance, but the Lord looks on the heart' (1 Samuel 16:6-7). Seven sons passed before Samuel, none chosen. Only when the youngest — David, the ruddy shepherd boy tending flocks — was summoned did the Lord say, 'Arise, anoint him, for this is he.' Then 'Samuel took the horn of oil and anointed him in the midst of his brothers. And the Spirit of the Lord rushed upon David from that day forward' (1 Samuel 16:12-13). This anointing establishes the Davidic covenant that would culminate in Christ — the ultimate Anointed One (Messiah/Christos). The angel Gabriel would tell Mary: 'The Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever' (Luke 1:32-33).",
+  "scripture_refs": [
+    {
+      "ref": "1SA.16.1-13",
+      "relevance": "primary",
+      "reason": "The direct narrative of Samuel anointing David as king among his brothers at Bethlehem"
+    },
+    {
+      "ref": "1SA.16.7",
+      "relevance": "primary",
+      "reason": "God's declaration that he looks at the heart, not outward appearance — the theological key to David's election"
+    },
+    {
+      "ref": "LUK.1.32-33",
+      "relevance": "typological",
+      "reason": "The angel's promise that Jesus would receive the throne of David — David's anointing prefigures Christ's kingship"
+    },
+    {
+      "ref": "ACT.13.22",
+      "relevance": "allusion",
+      "reason": "Paul's testimony that God found David a man after his own heart — the inner quality Samuel's anointing recognized"
+    },
+    {
+      "ref": "2SA.7.12-16",
+      "relevance": "typological",
+      "reason": "The Davidic covenant promising an eternal throne — the anointing scene inaugurates this covenant line"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "revelatory",
+    "momentous"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0140353",
+    "title": "Samuel anoints David to the kingdom",
+    "artist": "Alexander Ivanov",
+    "model": "claude-opus-4-6"
+  }
+}

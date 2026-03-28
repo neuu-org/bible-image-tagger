@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "thatched-cottage",
+    "rural-setting",
+    "humble-dwelling",
+    "angel-on-roof",
+    "lily",
+    "birds",
+    "golden-halo",
+    "peasant-woman",
+    "courtyard",
+    "divine-messenger",
+    "incarnation"
+  ],
+  "symbols": [
+    "angel descending to humble cottage — heaven breaking into the most ordinary place on earth",
+    "Mary as peasant woman — the lowliness of the handmaid chosen to bear the Son of God",
+    "thatched-roof dwelling — the radical humility of the setting for the greatest event in history",
+    "lily held by the angel — purity and the virginal conception",
+    "golden halo — divine glory attending the angelic messenger",
+    "birds in flight — the Holy Spirit and the freedom of God's action"
+  ],
+  "description": "A painting showing a rural scene with thatched-roof cottages and a courtyard. A woman in a simple white dress (Mary) walks or stands in the courtyard near a doorway. Above on the thatched roof, an angel in flowing robes with large wings and a golden halo appears, holding what seems to be a lily. Small birds fly around the scene. The setting is a humble peasant dwelling, very different from the typical grand architectural settings of Annunciation paintings. The light is warm and atmospheric, with a soft glow around the angel.",
+  "theological_description": "Merson's Annunciation radically relocates the pivotal moment of salvation history to a humble peasant setting, emphasizing the shocking ordinariness of God's entrance into the world. Luke records: 'In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth, to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin's name was Mary' (Luke 1:26-27). The angel declared: 'Do not be afraid, Mary, for you have found favor with God. And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus. He will be great and will be called the Son of the Most High' (Luke 1:30-32). Mary's response was the fiat that changed history: 'Behold, I am the servant of the Lord; let it be to me according to your word' (Luke 1:38). Merson's choice to set this in a rustic cottage rather than a palatial chamber emphasizes the Magnificat's theology: 'He has regarded the humble estate of his servant... he has scattered the proud in the thoughts of their hearts; he has brought down the mighty from their thrones and exalted those of humble estate' (Luke 1:48, 51-52). The angel appearing on the rooftop echoes the divine surprise — God comes from above to the most unexpected places.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation — Gabriel's appearance to Mary, the announcement of the Incarnation, and Mary's fiat"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "primary",
+      "reason": "God regarding the humble estate of his servant — the peasant setting emphasizes Mary's lowliness"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin conceiving and bearing a son called Immanuel — the prophetic fulfillment in the Annunciation"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit overshadowing Mary — the divine presence descending upon the humble dwelling"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "hushed",
+    "luminous",
+    "humble",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0141086",
+    "title": "The Annunciation",
+    "artist": "Luc-Olivier Merson",
+    "model": "claude-opus-4-6"
+  }
+}

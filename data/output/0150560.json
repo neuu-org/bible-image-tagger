@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Saint Pierre Pascal",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel with crown",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Portrait of St. Pierre Pascal, Bishop of Jaen",
+  "tags": [
+    "saint-pierre-pascal",
+    "bishop",
+    "white-vestments",
+    "book",
+    "angel",
+    "crown-of-martyrdom",
+    "bishops-mitre",
+    "rosary",
+    "mercedarian-order",
+    "writing",
+    "quill-pen",
+    "dark-background",
+    "martyr-bishop"
+  ],
+  "symbols": [
+    "angel offering a crown — the crown of martyrdom and heavenly reward",
+    "book and pen — the bishop's teaching office and theological writings",
+    "bishop's mitre on the table — his episcopal dignity set aside in humility",
+    "white vestments — the Mercedarian order's garb and purity of witness",
+    "rosary at his belt — devotional prayer life"
+  ],
+  "description": "A full-length portrait of an elderly bearded man in white Mercedarian vestments standing against a dark background. He holds an open book in his left hand and appears to write with his right. Above him at upper left, an angel in a red garment descends, offering a leafy crown. At lower left, a table holds a white bishop's mitre and a dark object (possibly a book or hat). The figure has a serene, upward-gazing expression. A rosary hangs from his belt.",
+  "theological_description": "Zurbaran's portrait depicts Saint Pierre Pascal (Pedro Pascual, c. 1227-1300), a Mercedarian friar who became Bishop of Jaen and was martyred by the Moors in Granada. The angel offering a crown connects to the biblical promise of martyrs' reward: 'Be faithful, even to the point of death, and I will give you life as your victor's crown' (Revelation 2:10). Pierre Pascal devoted himself to ransoming Christian captives from Muslim captivity — a mission rooted in Christ's own declaration: 'I have come to set the captives free' (Luke 4:18, citing Isaiah 61:1). His book and pen identify him as a theologian and writer who used the Word to defend the faith. The bishop's mitre set aside recalls Jesus's teaching on servant leadership: 'The greatest among you will be your servant' (Matthew 23:11). His white Mercedarian habit symbolizes the order's mission of mercy — 'Blessed are the merciful, for they will be shown mercy' (Matthew 5:7). Pierre Pascal ultimately gave his life for the faith, joining the great company of martyrs who 'did not love their lives so much as to shrink from death' (Revelation 12:11).",
+  "scripture_refs": [
+    {
+      "ref": "REV.2.10",
+      "relevance": "primary",
+      "reason": "The crown of life promised to those faithful unto death — the angel bearing the martyr's crown"
+    },
+    {
+      "ref": "LUK.4.18",
+      "relevance": "typological",
+      "reason": "Setting captives free — the Mercedarian mission of ransoming prisoners that Pierre Pascal embodied"
+    },
+    {
+      "ref": "MAT.23.11",
+      "relevance": "allusion",
+      "reason": "The greatest as servant — the bishop's mitre set aside in humility"
+    },
+    {
+      "ref": "REV.12.11",
+      "relevance": "allusion",
+      "reason": "Those who overcame by not loving their lives unto death — Pierre Pascal's martyrdom"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "devotional",
+    "dignified"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150560",
+    "title": "St. Pierre Pascal, Bishop of Jaen",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

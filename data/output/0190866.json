@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin Mary kneeling in prayer behind St. Peter",
+  "tags": [
+    "st-peter",
+    "virgin-mary",
+    "kneeling-prayer",
+    "keys",
+    "silverpoint-drawing",
+    "devotional",
+    "intercession",
+    "medieval-drawing"
+  ],
+  "symbols": [
+    "Peter looking upward — the apostle gazing toward heaven, the rock on which the Church is built",
+    "Mary kneeling behind with raised hands — the intercessory prayer of the Mother of God",
+    "flowing drapery — the spiritual movement of prayer ascending to heaven"
+  ],
+  "description": "A medieval silverpoint or graphite drawing showing two figures. On the left, St. Peter stands in voluminous robes looking upward, his body slightly turned. On the right and behind him, the Virgin Mary kneels in a flowing veil and mantle with both hands raised in prayer, her gaze directed upward. The drawing is executed with fine, delicate lines creating subtle tonal gradations in the drapery. The composition emphasizes the flowing, monumental quality of the garments. The style is characteristic of Rogier van der Weyden's precise Northern European draftsmanship.",
+  "theological_description": "This drawing presents two of the most important figures in the early Church in postures of prayer and devotion. St. Peter, identified by Jesus as the rock on which He would build His Church (Matthew 16:18) and given the keys of the kingdom of heaven (Matthew 16:19), stands as the foundation of apostolic authority. The Virgin Mary kneeling behind him in prayer embodies the intercessory role she held from the earliest days of the Church — she was present with the apostles in the upper room praying after the Ascension (Acts 1:14). The juxtaposition of Peter standing and Mary kneeling creates a theological dialogue between apostolic authority and contemplative prayer, the two pillars of the Church's life. Mary's raised hands recall the ancient orant prayer posture described in 1 Timothy 2:8: 'I want the men everywhere to pray, lifting up holy hands.' Their joint devotion reflects the unity of the early community described in Acts 2:42: 'They devoted themselves to the apostles' teaching and to fellowship, to the breaking of bread and to prayer.'",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Peter as the rock of the Church and holder of the keys — his foundational apostolic identity"
+    },
+    {
+      "ref": "ACT.1.14",
+      "relevance": "primary",
+      "reason": "Mary present with the apostles in constant prayer after the Ascension — their shared devotion depicted"
+    },
+    {
+      "ref": "1TI.2.8",
+      "relevance": "typological",
+      "reason": "Lifting holy hands in prayer — Mary's raised hands in the orant posture"
+    },
+    {
+      "ref": "ACT.2.42",
+      "relevance": "allusion",
+      "reason": "The early Church devoted to prayer — the unity of apostolic authority and contemplative devotion"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "reverent",
+    "contemplative",
+    "serene"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0190866",
+    "title": "The Virgin kneeling and praying behind St. Peter",
+    "artist": "Rogier van der Weyden",
+    "model": "claude-opus-4-6"
+  }
+}

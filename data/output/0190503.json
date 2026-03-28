@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph of Arimathea or Nicodemus",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Burial of Christ",
+  "tags": [
+    "burial-of-christ",
+    "entombment",
+    "passion",
+    "dead-christ",
+    "mourners",
+    "angels",
+    "linen-shroud",
+    "lamentation",
+    "rocky-tomb"
+  ],
+  "symbols": [
+    "dead body of Christ being lowered — the humiliation of the Son of God descending even into death",
+    "white burial linens — the shroud that would be left behind when death was conquered",
+    "angel supporting the body — heavenly beings ministering even at the nadir of the Passion",
+    "weeping women — faithful love that remained when the disciples fled",
+    "rocky cave — the borrowed tomb of Joseph of Arimathea, the womb of resurrection"
+  ],
+  "description": "A dramatic painting by Goya depicting the burial of Christ. The dead body of Jesus, muscular and pale, is being lowered or supported by an angel with visible wings and by another figure (possibly Joseph of Arimathea). Mary Magdalene kneels at His feet, wrapping them in white linen cloth. Behind the group, the Virgin Mary in a dark veil and another figure look on in grief. The scene is set against a dark rocky backdrop suggesting the interior of the tomb. A book or object rests on the ground beside Magdalene.",
+  "theological_description": "Goya's Burial of Christ depicts the solemn event described in all four Gospels (Matthew 27:57-60, Mark 15:42-46, Luke 23:50-53, John 19:38-42) when Joseph of Arimathea and Nicodemus took the body of Jesus, wrapped it in clean linen, and placed it in a new tomb cut out of rock. This moment between Crucifixion and Resurrection represents the full reality of Christ's death — He did not merely appear to die but truly descended into the depths of human mortality. The Apostles' Creed affirms 'He descended into hell,' and this burial proves the completeness of His self-emptying. Mary Magdalene's presence at the burial is specifically noted in Matthew 27:61 and Mark 15:47, her faithfulness extending beyond the cross to the tomb. The angel's presence affirms that even in death, Christ was attended by heavenly beings, as Psalm 16:10 prophesied: 'You will not abandon my soul to Sheol, nor let your Holy One see corruption.' The burial is not an ending but a planting — as Jesus Himself said in John 12:24, 'Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit.'",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph and Nicodemus taking the body, wrapping it in linen with spices, and placing it in a new tomb"
+    },
+    {
+      "ref": "MAT.27.59-60",
+      "relevance": "primary",
+      "reason": "Joseph wrapping the body in clean linen and placing it in his own new tomb cut in rock"
+    },
+    {
+      "ref": "PSA.16.10",
+      "relevance": "typological",
+      "reason": "God will not abandon His Holy One to the grave or let Him see decay — the burial as prelude to resurrection"
+    },
+    {
+      "ref": "JHN.12.24",
+      "relevance": "typological",
+      "reason": "The grain of wheat falling into the earth and dying to bear much fruit — the burial as divine planting"
+    },
+    {
+      "ref": "MAT.27.61",
+      "relevance": "primary",
+      "reason": "Mary Magdalene present at the burial, watching where the body was laid"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "solemn",
+    "tender",
+    "dark"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190503",
+    "title": "The Burial of Christ",
+    "artist": "Francisco Goya",
+    "model": "claude-opus-4-6"
+  }
+}

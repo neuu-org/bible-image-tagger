@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Shepherds",
+  "tags": [
+    "adoration-of-the-shepherds",
+    "nativity",
+    "infant-jesus",
+    "virgin-mary",
+    "joseph",
+    "shepherds",
+    "swaddled-child",
+    "manger",
+    "humble-birth",
+    "glass-vessel"
+  ],
+  "symbols": [
+    "swaddled infant — the Word made flesh, wrapped in cloths as the angel foretold to the shepherds",
+    "Mary gazing tenderly at the child — maternal devotion and the fulfillment of the Incarnation",
+    "aged Joseph watching over — the faithful guardian of the holy family",
+    "shepherds pressing in to see — the lowly as first recipients of the good news",
+    "glass vessel in foreground — purity and transparency, possibly a Eucharistic allusion"
+  ],
+  "description": "A richly colored Flemish painting depicting the Adoration of the Shepherds. At center, the Virgin Mary in a dark blue-green veil and white headcovering holds the tightly swaddled infant Jesus, gazing at him tenderly. An elderly Joseph with white hair and beard looks over her shoulder from behind. From the left, several shepherds crowd in to see the child — one young man in a red tunic bows his head reverently, while others in rustic clothing and hats peer over his shoulder. A young man on the far right looks on solemnly. A glass vessel sits in the lower left foreground.",
+  "theological_description": "Jacob Jordaens's Adoration of the Shepherds captures the intimate moment described in Luke 2:16-17 when the shepherds found Mary, Joseph, and the baby lying in the manger, and after seeing Him they spread the word about this child. The Flemish naturalism brings earthy humanity to the scene — these are real working people encountering the divine in the most unexpected of settings. The theological core of the Nativity is the scandal of the Incarnation: the Creator of the universe has become a helpless infant dependent on human care. As Philippians 2:6-7 declares, Christ Jesus, being in very nature God, did not consider equality with God something to be grasped but emptied Himself, taking the form of a servant, being made in human likeness. The shepherds' wonder at the swaddled baby fulfills the angel's sign in Luke 2:12: 'You will find a baby wrapped in cloths and lying in a manger.' Their presence as first witnesses fulfills the Magnificat's promise that God has filled the hungry with good things while sending the rich away empty (Luke 1:53).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.16-17",
+      "relevance": "primary",
+      "reason": "The shepherds finding Mary, Joseph, and the baby and then spreading the word — the exact scene depicted"
+    },
+    {
+      "ref": "LUK.2.12",
+      "relevance": "primary",
+      "reason": "The angel's sign: a baby wrapped in cloths — the swaddled infant seen here"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "typological",
+      "reason": "Christ emptying Himself and taking the form of a servant, made in human likeness — the theological meaning of the helpless infant"
+    },
+    {
+      "ref": "LUK.1.53",
+      "relevance": "allusion",
+      "reason": "God filling the hungry with good things — the lowly shepherds blessed to see what kings longed to see"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "reverent",
+    "intimate",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190497",
+    "title": "Adoration of the Shepherds",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

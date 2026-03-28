@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Jesus (sleeping)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Holy Family with the Infant Saint John",
+  "tags": [
+    "holy-family",
+    "sleeping-infant-jesus",
+    "virgin-mary",
+    "saint-joseph",
+    "infant-john-baptist",
+    "tondo",
+    "circular-format",
+    "reed-cross",
+    "maternal-tenderness",
+    "sleeping-child",
+    "dark-background",
+    "red-dress",
+    "intimate-scene"
+  ],
+  "symbols": [
+    "sleeping Christ child — peaceful vulnerability and the innocence of the incarnate God",
+    "Mary watching over the child — the protective love of the Mother of God",
+    "infant John with reed cross — the forerunner already bearing the sign of the cross he will proclaim",
+    "Joseph in the shadows — the faithful guardian keeping watch",
+    "circular tondo format — eternity and the perfection of divine love"
+  ],
+  "description": "A circular (tondo) painting showing a tender domestic scene. At center, the infant Jesus sleeps peacefully on cloth, his body softly illuminated. The Virgin Mary in a red dress leans over him with a protective, contemplative gaze. Behind her at the right, an elderly bearded man (Joseph) watches from the shadows. At the lower right, a young child (the infant John the Baptist) holds a thin reed cross and gazes at the sleeping Jesus. The background is dark and atmospheric with faint landscape elements. The mood is intimate and hushed.",
+  "theological_description": "Murillo's tondo presents the Holy Family in a moment of tender intimacy — the sleeping Christ child watched over by his mother, guardian, and forerunner. The sleeping infant embodies the mystery of the Incarnation at its most vulnerable: the omnipotent God who 'neither slumbers nor sleeps' (Psalm 121:4) has taken on flesh that requires rest. Mary's watchful gaze fulfills her maternal vocation — 'his mother treasured up all these things in her heart' (Luke 2:51). The infant John holding a reed cross is profoundly prophetic — this child will grow to announce: 'Behold, the Lamb of God, who takes away the sin of the world!' (John 1:29). The cross in John's hand points forward to Calvary, casting a shadow over even this peaceful moment. Joseph's quiet presence in the background reflects his role throughout the Gospel narratives — the righteous man (Matthew 1:19) who protects the holy family in silence and obedience. The sleeping child also evokes the prophetic sleep of death and resurrection — the one who would declare, 'I lay down my life that I may take it up again' (John 10:17).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.51",
+      "relevance": "primary",
+      "reason": "Mary treasuring things in her heart — her watchful, contemplative gaze over the sleeping child"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John declaring the Lamb of God — the infant Baptist holds the cross foreshadowing this proclamation"
+    },
+    {
+      "ref": "MAT.1.19-24",
+      "relevance": "primary",
+      "reason": "Joseph the righteous guardian — his quiet protective presence in the background"
+    },
+    {
+      "ref": "JHN.10.17-18",
+      "relevance": "typological",
+      "reason": "Christ laying down his life voluntarily — the sleeping child prefiguring the death and resurrection"
+    },
+    {
+      "ref": "PSA.121.4",
+      "relevance": "allusion",
+      "reason": "The keeper of Israel who neither slumbers nor sleeps — the paradox of the sleeping incarnate God"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "hushed",
+    "intimate",
+    "protective"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140942",
+    "title": "Holy Family with the Infant Saint John",
+    "artist": "Bartolome Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

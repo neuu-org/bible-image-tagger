@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "bread-and-wine",
+    "chalice",
+    "passover-meal",
+    "twelve-apostles",
+    "betrayal",
+    "communion",
+    "upper-room",
+    "new-covenant",
+    "institution-of-eucharist",
+    "red-cloak",
+    "ornate-interior"
+  ],
+  "symbols": [
+    "bread — the body of Christ broken for the remission of sins",
+    "chalice of wine — the blood of the New Covenant poured out for many",
+    "Christ at center — the host and sacrificial Lamb presiding over his own memorial feast",
+    "red pitcher in foreground — blood of the covenant, the outpouring of sacrificial life",
+    "richly decorated interior — the sanctity of the Upper Room as the first church",
+    "Judas turning away — the betrayer who ate bread with Christ yet sold him for silver"
+  ],
+  "description": "Thirteen men are gathered around a rectangular table covered with a white cloth in an ornate interior. The central figure wears a red cloak and holds a golden chalice in one hand and bread in the other. The twelve surrounding figures display varied gestures of surprise, prayer, and conversation. A large red ceramic pitcher sits on the floor in the lower left. The background features marble columns, a decorative green tapestry, and arched windows revealing a distant landscape.",
+  "theological_description": "This depiction of the Last Supper captures the institution of the Eucharist as recorded in the Synoptic Gospels. Christ, centrally enthroned among his apostles, holds the bread and cup — the elements he designated as his body and blood of the New Covenant (Matthew 26:26-28). The varied reactions of the disciples likely reflect the dual moment when Jesus both announces his betrayal ('one of you will betray me,' Matthew 26:21) and institutes the sacred meal. The Passover context is critical: as the original Passover lamb's blood delivered Israel from the angel of death (Exodus 12:13), so Christ the true Paschal Lamb offers his blood for the deliverance of all humanity (1 Corinthians 5:7). Paul received this tradition and transmitted it as of first importance — 'Do this in remembrance of me' (1 Corinthians 11:23-25). The ornate setting elevates the Upper Room to a proto-sanctuary, the birthplace of Christian liturgy where the sacrifice of the cross is anticipated and made present in sign.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.26-29",
+      "relevance": "primary",
+      "reason": "Matthew's account of the institution of the Eucharist at the Last Supper, with Jesus breaking bread and sharing the cup"
+    },
+    {
+      "ref": "LUK.22.14-20",
+      "relevance": "primary",
+      "reason": "Luke's narrative of the Last Supper including the words of institution over bread and wine"
+    },
+    {
+      "ref": "JHN.13.21-26",
+      "relevance": "primary",
+      "reason": "Jesus announces his betrayal at the supper, reflected in the apostles' varied reactions"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "typological",
+      "reason": "Paul's transmission of the Last Supper tradition — 'do this in remembrance of me'"
+    },
+    {
+      "ref": "EXO.12.11-14",
+      "relevance": "typological",
+      "reason": "The original Passover meal typologically fulfilled in Christ's institution of the new covenant meal"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "sacred",
+    "dramatic",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160054",
+    "title": "The Last Supper",
+    "artist": "Maarten de Vos",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Soldiers and mockers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Mocking of Christ",
+  "tags": [
+    "mocking-of-christ",
+    "crown-of-thorns",
+    "passion",
+    "soldiers",
+    "humiliation",
+    "reed-scepter",
+    "seated-christ",
+    "laughing-faces",
+    "raised-staff",
+    "bare-chest",
+    "blue-robe",
+    "dark-setting",
+    "cruelty",
+    "suffering-servant"
+  ],
+  "symbols": [
+    "crown of thorns — the mockery of Christ's kingship turned into real suffering",
+    "reed scepter — the false scepter mocking the true King of Kings",
+    "laughing, jeering faces — the cruelty of humanity toward the innocent",
+    "seated Christ with bowed head — patient endurance under undeserved suffering",
+    "raised staff about to strike — the violence of human sin against divine love"
+  ],
+  "description": "A dramatically lit scene showing a seated figure of Christ, bare-chested with a crown of thorns on his head, wearing a blue cloak. He sits passively, head slightly bowed. Around him, four or five figures mock and abuse him — one kneels at left with a laughing expression, another raises a staff to strike from behind, others lean in with mocking or cruel expressions. The lighting is strongly chiaroscuro, with Christ's body illuminated against the dark background. The faces of the mockers range from laughing to menacing.",
+  "theological_description": "Van Honthorst's painting depicts the Mocking of Christ, recorded in all four Gospels as part of the Passion narrative. After his arrest and before Pilate, Jesus was handed over to the soldiers who 'stripped him and put a scarlet robe on him, and then twisted together a crown of thorns and set it on his head. They put a staff in his right hand. Then they knelt in front of him and mocked him. \"Hail, king of the Jews!\" they said. They spit on him, and took the staff and struck him on the head again and again' (Matthew 27:28-30). The scene is a devastating fulfillment of Isaiah's prophecy: 'He was despised and rejected by mankind, a man of suffering, and familiar with pain... he did not open his mouth' (Isaiah 53:3, 7). The irony is profound — the soldiers mock him as king, unknowingly proclaiming the truth. He is the King of Kings, and their reed scepter parodies the real authority given to him: 'All authority in heaven and on earth has been given to me' (Matthew 28:18). Christ's patient endurance becomes the supreme example of the teaching Peter later gave: 'When they hurled their insults at him, he did not retaliate; when he suffered, he made no threats. Instead, he entrusted himself to him who judges justly' (1 Peter 2:23). The chiaroscuro lighting embodies the spiritual reality: the Light of the World surrounded by darkness, yet the darkness cannot overcome it (John 1:5).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "primary",
+      "reason": "The soldiers mocking Christ with crown of thorns, reed scepter, and blows — the scene depicted"
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "primary",
+      "reason": "Despised and rejected, a man of suffering — Christ's patient endurance of mockery"
+    },
+    {
+      "ref": "1PE.2.23",
+      "relevance": "primary",
+      "reason": "When insulted, he did not retaliate — Christ's patient response to the mockers"
+    },
+    {
+      "ref": "MRK.15.16-20",
+      "relevance": "primary",
+      "reason": "Mark's account of the soldiers mocking Jesus in the Praetorium"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "allusion",
+      "reason": "The light shining in darkness — Christ illuminated amid the dark cruelty surrounding him"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "cruel",
+    "sorrowful",
+    "dark",
+    "intense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150850",
+    "title": "The Mocking of Christ",
+    "artist": "Gerard van Honthorst",
+    "model": "claude-opus-4-6"
+  }
+}

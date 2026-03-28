@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Virgin and Child surrounded by a garland of flowers",
+  "tags": [
+    "virgin-and-child",
+    "flower-garland",
+    "roses",
+    "lilies",
+    "tulips",
+    "oval-frame",
+    "floral-wreath",
+    "madonna",
+    "red-robe",
+    "blue-mantle",
+    "devotional-image",
+    "botanical-abundance"
+  ],
+  "symbols": [
+    "garland of flowers — the beauty and abundance of creation honoring its Creator",
+    "roses — Mary's love and the blood of Christ's Passion",
+    "white lilies — purity and the virginity of Mary",
+    "Virgin holding the Child — the Incarnation, God made flesh through Mary",
+    "oval frame of flowers — the paradise garden (hortus conclusus) surrounding the Mother and Son"
+  ],
+  "description": "At center, within a painted oval, the Virgin Mary in a red dress and blue mantle holds the infant Jesus, who reaches toward her. They are set against a dark background. Surrounding this central image is a lavish garland of flowers — roses in red, pink, and white, lilies, tulips, irises, and other blossoms — forming a thick oval wreath. The flowers are rendered with meticulous botanical detail against a dark brown background. The garland is abundant and varied, with blooms at every stage from bud to full flower.",
+  "theological_description": "This collaborative work unites the devotional image of the Madonna and Child with a sumptuous floral garland, a genre that carries deep theological resonance. The flowers surrounding Mary and Jesus evoke the Song of Solomon's imagery of the beloved as a garden enclosed (Song of Solomon 4:12) — the hortus conclusus that became a symbol of Mary's perpetual virginity. The white lilies signify Mary's purity (as in the Annunciation tradition drawn from Luke 1:28, 'full of grace'), while the red roses point to Christ's Passion and Mary's co-suffering. The abundance and variety of flowers celebrate the goodness of creation (Genesis 1:31) now glorifying its Creator held in human arms. The theological heart remains the Incarnation: 'The Word became flesh' (John 1:14), here shown as a tender infant cradled by his mother, surrounded by the beauty of the world he made.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation at the center of the composition"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Blessed are you among women and blessed is the fruit of your womb — Mary honored with creation's beauty"
+    },
+    {
+      "ref": "SNG.4.12",
+      "relevance": "typological",
+      "reason": "A garden enclosed is my sister, my bride — the hortus conclusus symbolism of the floral garland"
+    },
+    {
+      "ref": "SNG.2.1-2",
+      "relevance": "allusion",
+      "reason": "I am a rose of Sharon, a lily of the valleys — the floral imagery associated with the beloved"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "lush",
+    "celebratory",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170325",
+    "title": "The Virgin and Child in a Garland of Flowers",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

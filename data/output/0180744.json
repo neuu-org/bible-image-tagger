@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Saint Matthias",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Matthias the Apostle",
+  "tags": [
+    "saint-matthias",
+    "apostle",
+    "halberd",
+    "elderly-man",
+    "bearded",
+    "open-book",
+    "rocky-landscape",
+    "latin-inscription",
+    "creed-article",
+    "black-and-white",
+    "half-length-portrait"
+  ],
+  "symbols": [
+    "halberd or axe — the traditional instrument of Matthias's martyrdom",
+    "open book — the Scriptures and apostolic teaching he was chosen to proclaim",
+    "Latin inscription 'Et vitam aeternam Amen' — the twelfth article of the Apostles' Creed, assigned to Matthias as the twelfth apostle",
+    "rocky wilderness setting — the ascetic life and missionary journeys of the apostle"
+  ],
+  "description": "A black-and-white engraving depicting a half-length portrait of an elderly, bald, bearded man in heavy draped robes. He holds a halberd or battle-axe upright in his right hand and rests his left hand near an open book on a ledge before him. The background shows a rocky landscape or cave. Above the image, the name 'Matthias' is inscribed in cursive script. Below, the Roman numeral 'XII.' and the Latin text 'ET VITAM AETERNAM AMEN' appear, along with a decorative flourish and the number 13. The engraving technique is highly detailed with fine cross-hatching for shading.",
+  "theological_description": "Saint Matthias was chosen by lot to replace Judas Iscariot as the twelfth apostle, as narrated in Acts 1:21-26. After Jesus's ascension, Peter declared that one who had accompanied them throughout Jesus's ministry must be selected to fill the vacant apostolic office. Two candidates were put forward — Joseph called Barsabbas and Matthias — and the lot fell on Matthias. The selection criteria Peter established were significant: the replacement must have been 'with us during all the time that the Lord Jesus went in and out among us, beginning from the baptism of John until the day when he was taken up from us' and must 'become with us a witness to his resurrection' (Acts 1:21-22). The Latin inscription 'Et vitam aeternam Amen' — 'And life everlasting, Amen' — is the twelfth and final article of the Apostles' Creed, traditionally assigned to Matthias as the twelfth apostle in the medieval practice of attributing each creed article to one apostle. This is fitting: the apostle chosen to complete the number of the Twelve is given the creed's concluding affirmation of eternal life — the ultimate hope of the resurrection to which all apostolic witness points (1 Corinthians 15:20-22).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.1.21-26",
+      "relevance": "primary",
+      "reason": "The selection of Matthias by lot to replace Judas as the twelfth apostle"
+    },
+    {
+      "ref": "ACT.1.15-20",
+      "relevance": "primary",
+      "reason": "Peter's speech explaining the need to replace Judas and the criteria for selection"
+    },
+    {
+      "ref": "1CO.15.20-22",
+      "relevance": "typological",
+      "reason": "The resurrection hope affirmed by the creed article 'life everlasting' inscribed beneath the portrait"
+    },
+    {
+      "ref": "JHN.15.16",
+      "relevance": "allusion",
+      "reason": "Jesus chose the apostles and appointed them to bear fruit — Matthias's selection continues this divine appointment"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "authoritative",
+    "scholarly"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0180744",
+    "title": "St. Matthias",
+    "artist": "Hendrick Goltzius",
+    "model": "claude-opus-4-6"
+  }
+}

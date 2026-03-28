@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Magi (Three Wise Men)",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd of onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "nativity",
+    "manger",
+    "stable",
+    "gifts",
+    "kneeling-king",
+    "crowded-scene",
+    "winter-landscape",
+    "bare-trees",
+    "thatched-roof",
+    "turbans",
+    "exotic-visitors",
+    "treasure-chest"
+  ],
+  "symbols": [
+    "Magi kneeling before the infant — the nations of the world paying homage to the King of Kings",
+    "gifts offered — gold for kingship, frankincense for divinity, myrrh for burial",
+    "humble stable amid a crowd — God entering the world unnoticed by many, recognized by few",
+    "bare winter trees — the cold world into which the Light has come",
+    "thatched shelter — the poverty and lowliness of the Incarnation"
+  ],
+  "description": "A densely populated scene set before a dilapidated wooden stable with a thatched roof. At center left, the Virgin Mary sits holding the infant Jesus, who is being adored by richly dressed Magi kneeling before him. One king in a pink-red robe bows deeply. Surrounding them is a vast crowd of figures — soldiers, onlookers, attendants — in varied costumes including turbans, hoods, and European dress. The background shows a wintry Flemish village with bare trees, thatched houses, a ruined tower, and a frozen waterway stretching to the horizon. Joseph stands quietly near the shelter.",
+  "theological_description": "Brueghel's Adoration of the Magi visualizes Matthew 2:1-12, where wise men from the East follow a star to find the newborn King of the Jews. The Magi's journey represents the fulfillment of Isaiah 60:3: 'Nations will come to your light, and kings to the brightness of your dawn.' Their gifts — gold, frankincense, and myrrh — were understood by the Church Fathers as prophetic declarations of Christ's identity: gold acknowledging his kingship, frankincense his divinity, and myrrh his mortal suffering and burial. The overwhelming crowd surrounding the humble stable captures the paradox of the Incarnation: God enters the world in the most vulnerable form possible — a baby in a manger — yet his arrival draws all peoples. The Flemish winter setting, with its bare trees and frozen ground, emphasizes that Christ came into a cold and spiritually barren world. The sheer density of humanity pressing around the manger anticipates the universal scope of salvation: 'every knee should bow, in heaven and on earth' (Philippians 2:10). Yet amid the crush, many seem unaware of the significance of what is happening at the center — a visual parable of how the world received its Savior: 'He was in the world, and though the world was made through him, the world did not recognize him' (John 1:10).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Magi from the East come to worship the newborn Jesus and present gifts — the direct narrative depicted"
+    },
+    {
+      "ref": "ISA.60.3",
+      "relevance": "primary",
+      "reason": "Nations will come to your light and kings to the brightness of your dawn — fulfilled by the Magi's pilgrimage"
+    },
+    {
+      "ref": "JHN.1.10-11",
+      "relevance": "typological",
+      "reason": "He was in the world but the world did not recognize him — reflected in the oblivious crowd around the humble manger"
+    },
+    {
+      "ref": "PHP.2.10",
+      "relevance": "allusion",
+      "reason": "Every knee shall bow — prefigured by the Magi kneeling before the infant Christ"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "The kings of Tarshish and distant shores will bring tribute; all kings will bow before him"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "bustling",
+    "reverent",
+    "wintry",
+    "festive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170175",
+    "title": "Adoration of the Magi",
+    "artist": "Pieter Brueghel the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

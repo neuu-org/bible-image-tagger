@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "John the Evangelist writing — ceiling fresco detail",
+  "tags": [
+    "st-john-evangelist",
+    "gospel-writer",
+    "open-book",
+    "halo",
+    "eagle",
+    "gilded-decoration",
+    "evangelist-symbol",
+    "chapel-ceiling"
+  ],
+  "symbols": [
+    "open book held before him — the Gospel of John, the most theological of the four Gospels",
+    "eagle (partially visible) — the traditional symbol of John, representing the soaring heights of his theology",
+    "halo — the sanctity of the apostle and evangelist",
+    "elaborate gilded ceiling decoration — the glory of heaven framing the divine Word"
+  ],
+  "description": "A ceiling fresco detail from the Cappella di Sant'Aquilino in the Basilica di San Lorenzo Maggiore in Milan, showing St. John the Evangelist seated and holding an open book. The youthful figure wears colorful robes — red, green, and golden yellow — and has a circular halo. He turns slightly to read or display the book. The fresco is set within an elaborate architectural framework of gilded stucco ornament with grotesque motifs and decorative panels. Below the main figure, in a lunette section, additional painted figures appear.",
+  "theological_description": "This ceiling fresco presents St. John the Evangelist, the beloved disciple who authored the Fourth Gospel, three epistles, and the Book of Revelation. John's Gospel opens with the most exalted Christological declaration in Scripture: 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1). The open book he holds represents this unique contribution to Christian theology — while the Synoptic Gospels emphasize Christ's earthly ministry, John's Gospel reveals the cosmic and eternal dimensions of the Incarnation. John's placement on a chapel ceiling is liturgically significant: his theological vision literally oversees the worship below, as his Gospel provides the theological framework for understanding the Eucharist (John 6:53-56) and the indwelling of the Spirit (John 14:16-17). His youthful appearance reflects the tradition that John was the youngest of the apostles and the only one who did not die a martyr's death, living to extreme old age in Ephesus. His Gospel's purpose is stated in John 20:31: 'These are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in His name.'",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.1",
+      "relevance": "primary",
+      "reason": "In the beginning was the Word — the opening of John's Gospel, the book he holds"
+    },
+    {
+      "ref": "JHN.20.31",
+      "relevance": "primary",
+      "reason": "The purpose of John's Gospel: written that you may believe and have life — the book's theological mission"
+    },
+    {
+      "ref": "JHN.13.23",
+      "relevance": "allusion",
+      "reason": "The disciple whom Jesus loved — John's unique intimacy with Christ qualifying his theological witness"
+    },
+    {
+      "ref": "REV.1.1-2",
+      "relevance": "typological",
+      "reason": "The revelation given to John — his role as visionary and prophetic author"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "luminous",
+    "sacred",
+    "majestic",
+    "contemplative"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0190959",
+    "title": "John the Evangelist. Detail from the Ceiling of the Altar Chapel in the Cappella Di Sant'aquilino in the Basilica Di San Lorenzo Maggiore in Milan",
+    "artist": "Carlo Urbino",
+    "model": "claude-opus-4-6"
+  }
+}

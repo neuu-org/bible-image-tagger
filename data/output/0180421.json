@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Saint Cosmas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Damian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Companions of the Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Roman Officials",
+      "type": "GROUP"
+    },
+    {
+      "name": "Executioners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saints Cosmas and Damian Condemned to Death by Fire",
+  "tags": [
+    "saints-cosmas-and-damian",
+    "martyrdom",
+    "fire",
+    "execution",
+    "roman-persecution",
+    "bonfire",
+    "halos",
+    "prayer-in-flames",
+    "spectators",
+    "city-walls",
+    "balcony",
+    "red-robed-judge",
+    "condemned-saints",
+    "early-christian-martyrs"
+  ],
+  "symbols": [
+    "fire surrounding the saints without consuming them — divine protection of the faithful, echoing the three youths in the fiery furnace",
+    "halos on the saints amid the flames — sanctity enduring through persecution and the glory of martyrdom",
+    "praying posture in the fire — faith and trust in God maintained even unto death",
+    "red-robed judge on the balcony — the earthly authority that condemns the righteous, standing in opposition to divine justice",
+    "executioners thrown back by the fire — the flames turning against the persecutors, a sign of divine intervention"
+  ],
+  "description": "A medieval panel painting depicting a scene of martyrdom. In the center foreground, several figures with golden halos stand within a blazing bonfire, their hands clasped in prayer, apparently unharmed by the flames. Around them, executioners and attendants are shown being thrown back or struck down by the fire, some falling dramatically. Above, on a crenellated city wall or balcony, a group of spectators and officials watch the scene — a central figure in red robes appears to be a judge or governor. The setting is a walled courtyard or public square.",
+  "theological_description": "This scene from the martyrdom of Saints Cosmas and Damian — twin physician brothers who offered their medical services free of charge for the sake of Christ — directly parallels one of the great Old Testament narratives of divine deliverance. When the Roman prefect ordered them burned alive, tradition records that the flames refused to touch them and instead turned back upon the executioners. This miraculous preservation echoes the story of Shadrach, Meshach, and Abednego in the fiery furnace (Daniel 3:19-27), where Nebuchadnezzar cast three faithful Jews into a furnace heated seven times hotter than usual, yet they walked unharmed amid the flames with a fourth figure 'like a son of the gods.' The theological principle is identical: the God who calls his servants to faithfulness also has the power to deliver them through the fire. Isaiah 43:2 expresses this promise: 'When you walk through fire you shall not be burned, and the flame shall not consume you.' The saints' praying posture amid the conflagration embodies the radical trust proclaimed in Daniel 3:17-18: 'Our God whom we serve is able to deliver us... but if not, be it known to you, O king, that we will not serve your gods.' The executioners' destruction by the redirected flames recalls Psalm 7:15-16: 'He who digs a pit will fall into it, and his mischief returns upon his own head.'",
+  "scripture_refs": [
+    {
+      "ref": "DAN.3.19-27",
+      "relevance": "typological",
+      "reason": "The three youths in the fiery furnace is the direct biblical parallel — saints standing unharmed in fire while their persecutors are consumed"
+    },
+    {
+      "ref": "ISA.43.2",
+      "relevance": "typological",
+      "reason": "The promise that when walking through fire the faithful shall not be burned is visually enacted"
+    },
+    {
+      "ref": "DAN.3.17-18",
+      "relevance": "typological",
+      "reason": "The saints' praying posture in the flames embodies the radical trust that God can deliver but faithfulness endures regardless"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and I will give you the crown of life — the haloed saints remain faithful through the ordeal of fire"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "miraculous",
+    "intense"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0180421",
+    "title": "Saint Cosmas and Saint Damian Condamned",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Catherine of Alexandria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with Saint Catherine, Saint Sebastian, and a Donor",
+  "tags": [
+    "holy-family",
+    "saint-catherine",
+    "saint-sebastian",
+    "donor-portrait",
+    "virgin-and-child",
+    "arrows",
+    "bare-chested",
+    "white-veil",
+    "landscape-background",
+    "venetian-painting"
+  ],
+  "symbols": [
+    "Saint Sebastian's arrows — the marks of martyrdom endured for faith",
+    "Saint Catherine with a book — learning and the defense of faith",
+    "Holy Family at center — the Incarnation as the axis of the sacred conversation",
+    "donor figure — the patron seeking intercessory connection with the sacred"
+  ],
+  "description": "A horizontal composition showing six figures in a sacra conversazione arrangement. At center-left, the Virgin Mary in a white veil holds the nude infant Jesus, who reaches across toward a female saint (Catherine) who leans in with a book. Behind Mary, an elderly Joseph is partially visible. At far right, the young Saint Sebastian stands bare-chested, arrows visible in his body, a white cloth wrapped around his hips. Another figure appears between Catherine and Sebastian. A landscape with a blue sky and distant hills is visible in the background.",
+  "theological_description": "Sebastiano del Piombo's sacra conversazione — a 'holy conversation' — unites the Holy Family with post-biblical saints across time, visualizing the communion of saints. The infant Christ reaching toward Saint Catherine embodies the theological truth that all holiness flows from him: 'Apart from me you can do nothing' (John 15:5). Saint Sebastian, pierced by arrows yet standing, witnesses to the faithfulness described in Revelation 2:10: 'Be faithful, even to the point of death, and I will give you life as your victor's crown.' The Virgin Mary holding the child grounds the scene in the Incarnation — the moment when the eternal entered time (Galatians 4:4). Joseph's quiet presence continues his biblical role as the righteous guardian (Matthew 1:19). The sacra conversazione format itself expresses the belief that the Church transcends time: the saints of different centuries commune together in Christ, forming the 'one body' of 1 Corinthians 12:12-13.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.15.5",
+      "relevance": "primary",
+      "reason": "Apart from me you can do nothing — all sanctity flowing from the Christ Child at center"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent his Son, born of a woman — the Incarnation at the heart of the composition"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "typological",
+      "reason": "Be faithful unto death — Sebastian's martyrdom witness"
+    },
+    {
+      "ref": "1CO.12.12-13",
+      "relevance": "allusion",
+      "reason": "One body, many members — the communion of saints across centuries"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "contemplative",
+    "devotional",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170839",
+    "title": "The Holy Family with St. Catherine, St. Sebastian and a Donor",
+    "artist": "Sebastiano del Piombo",
+    "model": "claude-opus-4-6"
+  }
+}

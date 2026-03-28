@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Woman caught in adultery",
+      "type": "PERSON"
+    },
+    {
+      "name": "Accusers (Pharisees and crowd)",
+      "type": "GROUP"
+    },
+    {
+      "name": "Small child",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Jesus and the Woman Caught in Adultery",
+  "tags": [
+    "woman-caught-in-adultery",
+    "forgiveness",
+    "mercy",
+    "judgment",
+    "accusers",
+    "pharisees",
+    "kneeling-woman",
+    "white-robe",
+    "stone-throwing",
+    "raised-fist",
+    "bare-trees",
+    "stone-wall",
+    "compassion",
+    "condemnation",
+    "grace"
+  ],
+  "symbols": [
+    "woman kneeling in shame — the sinner exposed before the crowd and before divine mercy",
+    "Jesus standing apart in white — the sinless judge who chooses grace over condemnation",
+    "man with raised fist holding a stone — the self-righteous accuser ready to execute the Law",
+    "bare trees — the spiritual barrenness of legalism without mercy",
+    "small child — innocence present amid the scene of judgment and accusation"
+  ],
+  "description": "A muted, pale-toned painting depicting a group of figures outdoors near a stone wall. At right, a figure in a long white robe stands calmly, facing left. In the center foreground, a woman kneels on the ground, hunched over in distress, her pink garment falling from her shoulders. At left, a group of men stand together — one raises his fist high, holding what appears to be a stone. Others look on with stern or conflicted expressions. A small child stands near the center. Bare trees rise behind the wall against a grey sky.",
+  "theological_description": "Jarnefelt's painting depicts the episode of the woman caught in adultery from John 7:53-8:11 (the Pericope Adulterae). The scribes and Pharisees brought a woman caught in the act of adultery to Jesus, testing him: the Law of Moses commanded stoning, but would Jesus contradict it? Jesus famously bent down and wrote on the ground, then declared: 'Let any one of you who is without sin be the first to throw a stone at her' (John 8:7). One by one, beginning with the oldest, the accusers departed. Left alone with the woman, Jesus asked, 'Woman, where are they? Has no one condemned you?' She replied, 'No one, sir.' Jesus said, 'Then neither do I condemn you. Go now and leave your life of sin' (John 8:10-11). This scene captures the tension between Law and Grace that Paul would later articulate: 'For the law was given through Moses; grace and truth came through Jesus Christ' (John 1:17). The raised fist clutching a stone embodies the letter of the Law that kills, while Christ's calm presence embodies the Spirit that gives life (2 Corinthians 3:6). Jesus does not abolish justice but transcends it with mercy. The woman's kneeling posture of shame is transformed by Christ's words into a posture of liberation — she is freed not from accountability but from condemnation. As Paul triumphantly declares: 'There is therefore now no condemnation for those who are in Christ Jesus' (Romans 8:1).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.8.1-11",
+      "relevance": "primary",
+      "reason": "The direct narrative of Jesus and the woman caught in adultery — the scene depicted"
+    },
+    {
+      "ref": "JHN.8.7",
+      "relevance": "primary",
+      "reason": "Jesus's challenge to the accusers: 'Let any one of you who is without sin be the first to throw a stone'"
+    },
+    {
+      "ref": "ROM.8.1",
+      "relevance": "typological",
+      "reason": "No condemnation for those in Christ — the theological fruit of Jesus's mercy to the woman"
+    },
+    {
+      "ref": "2CO.3.6",
+      "relevance": "allusion",
+      "reason": "The letter kills but the Spirit gives life — the contrast between the stone-wielding Law and Christ's grace"
+    },
+    {
+      "ref": "JHN.1.17",
+      "relevance": "allusion",
+      "reason": "Grace and truth came through Jesus Christ — embodied in his response to the adulteress"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "compassionate",
+    "solemn",
+    "redemptive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150241",
+    "title": "Jeesus ja langennut nainen",
+    "artist": "Eero Järnefelt",
+    "model": "claude-opus-4-6"
+  }
+}

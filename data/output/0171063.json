@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel at the Tomb",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Holy Women (Myrrh-bearers)",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Resurrection of Christ and Women at the Tomb",
+  "tags": [
+    "resurrection",
+    "risen-christ",
+    "empty-tomb",
+    "angel-at-tomb",
+    "holy-women",
+    "myrrh-bearers",
+    "cross-standard",
+    "white-robes",
+    "arched-composition",
+    "sarcophagus",
+    "mandorla"
+  ],
+  "symbols": [
+    "risen Christ above the tomb — victory over death, the cornerstone of Christian faith",
+    "cross held as a standard — the instrument of death transformed into a banner of triumph",
+    "angel seated at the tomb — the heavenly messenger announcing the Resurrection",
+    "holy women approaching — the first witnesses to the empty tomb",
+    "empty sarcophagus — death's domain vacated, the grave conquered"
+  ],
+  "description": "An arched fresco showing two events simultaneously. Above, the risen Christ stands in a luminous mandorla, wearing white robes and holding a cross-standard with a red banner, floating above the stone sarcophagus. Below, an angel in white sits at the edge of the open tomb, gesturing toward the women. Three or four holy women in dark and muted robes approach from the right, their postures expressing awe and wonder. The setting is a rocky cave or tomb interior. The fresco is painted in soft, subdued colors typical of Fra Angelico — pale pinks, blues, whites, and earth tones.",
+  "theological_description": "Fra Angelico combines two Gospel moments in one composition: the Resurrection itself and the women's discovery of the empty tomb. Matthew 28:5-6 records the angel's words: 'Do not be afraid, for I know that you are looking for Jesus, who was crucified. He is not here; he has risen, just as he said.' The women — Mary Magdalene, Mary the mother of James, and Salome (Mark 16:1) — came at dawn with spices to anoint the body, only to find the stone rolled away and an angel seated where Christ had lain. The risen Christ holding the cross as a victory banner fulfills Colossians 2:15: 'Having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross.' The empty tomb is the physical evidence of what Paul proclaimed: 'Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep' (1 Corinthians 15:20). That women were the first witnesses to the Resurrection was remarkable in a culture where women's testimony was not legally valid — God chose the marginalized to proclaim the most important news in history. Fra Angelico's serene composition, painted in a monastic cell at San Marco, was intended as an aid to contemplative prayer on this central mystery.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.1-7",
+      "relevance": "primary",
+      "reason": "The angel at the tomb telling the women that Christ has risen"
+    },
+    {
+      "ref": "MRK.16.1-6",
+      "relevance": "primary",
+      "reason": "The women coming with spices and finding the stone rolled away and the angel's announcement"
+    },
+    {
+      "ref": "1CO.15.20",
+      "relevance": "primary",
+      "reason": "Christ raised as the firstfruits of the dead — the theological reality depicted"
+    },
+    {
+      "ref": "COL.2.15",
+      "relevance": "typological",
+      "reason": "Triumphing over powers by the cross — the cross held as a victory standard"
+    },
+    {
+      "ref": "JHN.20.1-2",
+      "relevance": "primary",
+      "reason": "Mary Magdalene finding the stone removed from the tomb"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "radiant",
+    "awe-filled",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0171063",
+    "title": "Resurrection of Christ and Women at the Tomb",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Lion",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Saint Jerome in the Wilderness",
+  "tags": [
+    "saint-jerome",
+    "penitent-hermit",
+    "lion",
+    "skull",
+    "wilderness",
+    "red-mantle",
+    "church-father",
+    "desert-meditation",
+    "memento-mori",
+    "ascetic"
+  ],
+  "symbols": [
+    "skull — memento mori, the contemplation of death that drives the ascetic to repentance and holiness",
+    "lion at his feet — the legendary tame lion of Jerome, representing nature subdued by sanctity",
+    "red mantle — the cardinal's color traditionally associated with Jerome, and the blood of scholarly martyrdom",
+    "wilderness setting — the desert as a place of encounter with God, away from worldly distraction",
+    "bare emaciated body — the mortification of the flesh in pursuit of spiritual knowledge"
+  ],
+  "description": "An elderly man with white hair and a long beard sits in a dark wooded setting. He is bare-chested, lean and muscular, draped in a red cloth from the waist down. His left hand reaches toward a skull resting on a rocky ledge before him. At his feet, a large lion lies sleeping peacefully. The background is dark forest with a few lighter areas suggesting sky through the trees. The scene is dimly lit with warm light falling on the saint's body.",
+  "theological_description": "Jerome (c. 347-420), the translator of the Vulgate Bible, is depicted in his penitential retreat in the Syrian desert, where he withdrew to conquer his passions through fasting and study. His engagement with the skull embodies the Preacher's wisdom: 'Vanity of vanities, all is vanity' (Ecclesiastes 1:2). Jerome took literally Paul's exhortation: 'I strike a blow to my body and make it my slave so that after I have preached to others, I myself will not be disqualified for the prize' (1 Corinthians 9:27). The sleeping lion, from the legend of Jerome extracting a thorn from its paw, symbolizes the taming of nature by grace. Jerome's supreme contribution — translating Scripture into the common tongue — reflects his conviction that 'ignorance of the Scriptures is ignorance of Christ.' His desert asceticism was not escapism but preparation for the great work of making God's Word accessible, fulfilling the prophetic commission: 'Write down the revelation and make it plain on tablets so that a herald may run with it' (Habakkuk 2:2).",
+  "scripture_refs": [
+    {
+      "ref": "ECC.1.2",
+      "relevance": "primary",
+      "reason": "Vanity of vanities — the memento mori skull reflects Jerome's meditation on earthly transience"
+    },
+    {
+      "ref": "1CO.9.27",
+      "relevance": "primary",
+      "reason": "Disciplining the body — Jerome's asceticism in the wilderness as preparation for his scholarly vocation"
+    },
+    {
+      "ref": "HAB.2.2",
+      "relevance": "allusion",
+      "reason": "Write down the revelation plainly — Jerome's life work of translating Scripture"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "austere",
+    "somber"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160400",
+    "title": "St Jerome",
+    "artist": "Anthony van Dyck",
+    "model": "claude-opus-4-6"
+  }
+}

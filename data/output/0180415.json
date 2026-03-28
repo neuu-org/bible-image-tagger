@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Angel with Chalice",
+  "tags": [
+    "angel",
+    "golden-halo",
+    "large-wings",
+    "chalice",
+    "gold-background",
+    "blue-robes",
+    "decorative-scrollwork",
+    "floral-ornament",
+    "multicolored-feathers",
+    "profile-view",
+    "art-nouveau-influence",
+    "laurel-wreath",
+    "flowing-drapery"
+  ],
+  "symbols": [
+    "chalice held aloft — the cup of salvation, the Eucharistic vessel of Christ's blood",
+    "golden halo — heavenly sanctity and divine commission",
+    "large ornate wings with multicolored feathers — the splendor and majesty of the heavenly host",
+    "floral scrollwork below — the beauty and abundance of creation celebrating the angelic presence",
+    "gold background — the eternal, uncreated light of the divine realm"
+  ],
+  "description": "A decorative painting on a gold background, divided by faint panel lines, showing a single angel in profile view facing left. The angel has youthful, androgynous features, a golden halo, and wears flowing blue and gray robes. One arm is raised holding a small chalice or cup. Behind the figure, large wings extend with meticulously detailed feathers in layers of blue, gray, red, and gold. Below the angel, elaborate decorative scrollwork of stylized flowers and curving botanical forms in red, green, and gold fills the lower portion of the composition.",
+  "theological_description": "This angel bearing a chalice evokes one of the most powerful images in Scripture: the cup that figures in both salvation and suffering. In Psalm 116:13, the psalmist declares, 'I will lift up the cup of salvation and call on the name of the Lord.' At the Last Supper, Jesus took the cup and said, 'This cup is the new covenant in my blood' (Luke 22:20). In Gethsemane, he prayed, 'Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done' — and Luke 22:43 records that 'there appeared to him an angel from heaven, strengthening him.' The angel with chalice may thus represent either the ministering angel of Gethsemane or, more broadly, the heavenly bearer of the Eucharistic mystery. The magnificent wings and gold background affirm the angel's origin in the court of heaven, while the chalice connects the celestial realm to the sacramental life of the Church on earth. Angels as liturgical ministers appear throughout Revelation, where heavenly worship is described with censers, bowls, and other vessels of offering (Revelation 5:8, 8:3-4).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.42-43",
+      "relevance": "primary",
+      "reason": "The angel from heaven strengthening Jesus during his agony, closely associated with the cup of suffering"
+    },
+    {
+      "ref": "LUK.22.20",
+      "relevance": "primary",
+      "reason": "The cup of the new covenant in Christ's blood, which the chalice directly symbolizes"
+    },
+    {
+      "ref": "PSA.116.13",
+      "relevance": "typological",
+      "reason": "The cup of salvation lifted in thanksgiving to the Lord"
+    },
+    {
+      "ref": "REV.5.8",
+      "relevance": "allusion",
+      "reason": "Heavenly beings holding golden bowls in the liturgy of heaven parallel the angel bearing a sacred vessel"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "majestic",
+    "devotional",
+    "ornate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180415",
+    "title": "Angel",
+    "artist": "Jan Matejko",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {"name": "Isaac", "type": "PERSON"},
+    {"name": "Jacob", "type": "PERSON"},
+    {"name": "Rebekah", "type": "PERSON"}
+  ],
+  "event": "Isaac Blessing Jacob",
+  "tags": [
+    "isaac-blessing-jacob",
+    "deception",
+    "patriarchal-blessing",
+    "elderly-blind-man",
+    "goatskin-disguise",
+    "platter-of-food",
+    "bed-scene",
+    "curtain",
+    "muscular-figures",
+    "rebekah-scheming",
+    "red-hair"
+  ],
+  "symbols": [
+    "blind Isaac reaching out — the irrevocable nature of the patriarchal blessing, given in darkness",
+    "Jacob presenting food — the deception of a father to obtain the birthright blessing",
+    "Rebekah reclining and watching — the mother who orchestrated the deceit to fulfill God's oracle",
+    "platter of meat — the savory food prepared to mimic Esau's game",
+    "curtain — the veiling of truth, the hidden machinations of human schemes within divine providence"
+  ],
+  "description": "A dramatic scene with three figures in an interior. At center, a powerfully built, bare-chested elderly man (Isaac) sits up in bed with arms outstretched, his face showing blindness or strain. He pulls back a dark curtain with one hand. At left, a younger figure with curly red hair (Jacob) kneels or sits, presenting a platter with cooked meat on a table. At right, an elderly woman (Rebekah) in a white headcovering and red robe reclines, watching the scene. The figures are rendered with exaggerated musculature and dramatic poses. A landscape is glimpsed through an opening at upper left.",
+  "theological_description": "Van Hemessen depicts the pivotal scene of Genesis 27:1-29, where Jacob, coached by his mother Rebekah, deceives his blind father Isaac into bestowing the firstborn's blessing upon him instead of his elder brother Esau. Isaac, near death and blind, had asked Esau to hunt game and prepare a meal before receiving the blessing. Rebekah, overhearing, dressed Jacob in Esau's garments and covered his smooth hands with goatskins to mimic his hairy brother (Genesis 27:15-16). The deception succeeded, and Isaac pronounced the irrevocable blessing: 'May God give you heaven's dew and earth's richness' (Genesis 27:28). This episode is theologically complex: the deception was morally wrong, yet it fulfilled the oracle given before the twins' birth: 'the older will serve the younger' (Genesis 25:23). God's sovereign purposes work through flawed human agency. Paul cites this very story in Romans 9:10-13 to illustrate divine election: 'before the twins were born or had done anything good or bad, in order that God's purpose in election might stand.' Jacob, whose name means 'supplanter,' would later be renamed Israel and become the father of the twelve tribes.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.27.1-29",
+      "relevance": "primary",
+      "reason": "The full narrative of Jacob's deception and Isaac's blessing — the scene depicted"
+    },
+    {
+      "ref": "GEN.25.23",
+      "relevance": "primary",
+      "reason": "The oracle before birth: the older will serve the younger — the divine plan behind the deception"
+    },
+    {
+      "ref": "ROM.9.10-13",
+      "relevance": "typological",
+      "reason": "Paul's use of Jacob and Esau to illustrate divine election apart from human merit"
+    },
+    {
+      "ref": "HEB.11.20",
+      "relevance": "allusion",
+      "reason": "By faith Isaac blessed Jacob and Esau concerning things to come — the faith dimension of the blessing"
+    },
+    {
+      "ref": "HEB.12.16-17",
+      "relevance": "allusion",
+      "reason": "Esau who sold his birthright and later found no place of repentance — the irreversibility of the blessing"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["tense", "dramatic", "conspiratorial"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0170525",
+    "title": "Isaac Blessing Jacob",
+    "artist": "Jan van Hemessen",
+    "model": "claude-opus-4-6"
+  }
+}

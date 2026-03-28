@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Holy Spirit (as dove)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "archangel-gabriel",
+    "virgin-mary",
+    "holy-spirit-dove",
+    "circular-composition",
+    "lectern",
+    "divine-message",
+    "incarnation",
+    "fiat",
+    "outstretched-hand"
+  ],
+  "symbols": [
+    "dove descending — the Holy Spirit overshadowing Mary, the agent of the Incarnation",
+    "Gabriel's outstretched hand — the divine messenger delivering God's plan of salvation",
+    "Mary's gesture of acceptance — the fiat, 'Let it be done to me according to your word'",
+    "book or lectern — Mary meditating on Scripture when the angel arrives, the handmaid prepared by prayer",
+    "circular frame — eternity and the divine perfection of God's plan"
+  ],
+  "description": "A circular (tondo) composition showing two figures in a dark interior. On the left, a young woman in a red dress and blue mantle sits beside a lectern, her hand raised to her chest in a gesture of modest acceptance. On the right, a winged angel in white and brown robes kneels, extending one hand toward her. Above them, a white dove descends in a burst of light, sending golden rays downward. The background is dark, focusing attention on the illuminated figures.",
+  "theological_description": "The Annunciation is the pivotal moment when heaven's plan intersects with human freedom. Gabriel declares to Mary: 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you' (Luke 1:35). Mary's fiat — 'Let it be done to me according to your word' (Luke 1:38) — is the human consent that enables the Incarnation. The dove of the Holy Spirit descending upon Mary fulfills the creative action of God's Spirit that hovered over the waters at Creation (Genesis 1:2), now brooding over the Virgin to bring forth a new creation. The tondo format, with its circular perfection, mirrors the eternal counsel of God that predetermined this moment before the foundation of the world (Ephesians 1:4-5). Mary at her lectern evokes the tradition that she was reading Isaiah's prophecy ('Behold, a virgin shall conceive,' Isaiah 7:14) when Gabriel arrived — Scripture meeting its fulfillment in real time. This scene is the hinge between Old and New Testaments, promise and fulfillment, prophecy and incarnation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation narrative — Gabriel's visit to Mary and her acceptance of God's plan"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The prophecy that a virgin shall conceive and bear a son, fulfilled in Mary"
+    },
+    {
+      "ref": "GEN.1.2",
+      "relevance": "typological",
+      "reason": "The Spirit hovering over the waters at Creation parallels the Spirit overshadowing Mary for the new creation"
+    },
+    {
+      "ref": "EPH.1.4-5",
+      "relevance": "allusion",
+      "reason": "God's eternal plan of redemption predestined before the foundation of the world, enacted at the Annunciation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "mysterious",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160158",
+    "title": "The Annunciation",
+    "artist": "Giorgio Vasari",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Amos",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Prophet Amos",
+  "tags": [
+    "prophet-amos",
+    "old-testament-prophet",
+    "shepherd-prophet",
+    "staff",
+    "solitary-figure",
+    "wilderness",
+    "robed-figure",
+    "hooded",
+    "walking",
+    "prophetic-calling",
+    "desolate-landscape",
+    "black-and-white"
+  ],
+  "symbols": [
+    "staff — the shepherd's instrument identifying Amos as the herdsman called to prophesy",
+    "solitary figure in wilderness — prophetic isolation and the lonely burden of God's word",
+    "heavy robes and hood — the weight of prophetic office and sober authority",
+    "barren landscape — the spiritual desolation Amos condemns in Israel's complacent prosperity",
+    "forward stride — the urgency of prophetic mission and the unstoppable word of God"
+  ],
+  "description": "A black-and-white engraving depicting a solitary robed and hooded figure striding through a barren, rocky landscape. The figure holds a long staff in one hand and is draped in heavy garments. He walks with purpose across open terrain under a vast, striated sky. The landscape is empty and austere, with no other figures visible. Text beneath the image identifies the figure as Amos.",
+  "theological_description": "Dore's engraving captures the prophet Amos in his solitary prophetic calling. Amos was unique among the prophets — not a professional prophet or a prophet's son, but 'a herdsman and a dresser of sycamore figs' whom the Lord took from following the flock and commanded: 'Go, prophesy to my people Israel' (Amos 7:14-15). The staff he carries identifies him as a shepherd, fulfilling this biographical detail. His solitary stride through the wilderness embodies the lonely burden of delivering God's word of judgment against a complacent and prosperous nation. Amos pronounced the famous words: 'The Lord roars from Zion and thunders from Jerusalem' (Amos 1:2), delivering oracles of judgment against the nations before turning the full force of divine wrath upon Israel itself for its social injustice: 'But let justice roll down like waters, and righteousness like an ever-flowing stream' (Amos 5:24). Amos's call from humble origins to fearless prophetic witness prefigures the New Testament pattern in which God chooses the lowly to confound the mighty (1 Corinthians 1:27). His uncompromising message of justice for the poor and oppressed resonates through the prophetic tradition and into Jesus's own proclamation of good news to the poor (Luke 4:18).",
+  "scripture_refs": [
+    {
+      "ref": "AMO.7.14-15",
+      "relevance": "primary",
+      "reason": "Amos's self-identification as a shepherd and fig-dresser called by God is depicted in the staff-bearing, robed figure"
+    },
+    {
+      "ref": "AMO.1.1-2",
+      "relevance": "primary",
+      "reason": "The opening of Amos identifying him as a shepherd of Tekoa and his thunderous prophetic declaration"
+    },
+    {
+      "ref": "AMO.5.24",
+      "relevance": "primary",
+      "reason": "The famous call for justice to roll down like waters — the heart of Amos's prophetic message"
+    },
+    {
+      "ref": "1CO.1.27",
+      "relevance": "typological",
+      "reason": "God choosing the humble and lowly to confound the powerful, as in Amos the shepherd becoming a prophet to kings"
+    },
+    {
+      "ref": "LUK.4.18",
+      "relevance": "allusion",
+      "reason": "Jesus's proclamation of good news to the poor continues the prophetic tradition Amos initiated"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "austere",
+    "resolute",
+    "solitary",
+    "prophetic"
+  ],
+  "period": "Prophetic",
+  "_meta": {
+    "key": "0140125",
+    "title": "The Prophet Amos",
+    "artist": "Gustave Dore",
+    "model": "claude-opus-4-6"
+  }
+}

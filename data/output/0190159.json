@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldier",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Ecce Homo — Christ presented to the people by Pilate",
+  "tags": [
+    "ecce-homo",
+    "christ-before-pilate",
+    "passion",
+    "crown-of-thorns",
+    "roman-soldier",
+    "half-length-figures",
+    "suffering-servant",
+    "presentation-to-the-crowd"
+  ],
+  "symbols": [
+    "crown of thorns — the mockery of Christ's kingship turned into an emblem of redemptive suffering",
+    "cloth draped over Christ — the stripping and re-clothing of the Savior in His humiliation",
+    "soldier in armor — the worldly power that condemned the innocent King of Kings",
+    "Pilate's turban — the foreign authority through which God's salvific plan was accomplished"
+  ],
+  "description": "An engraving after Guercino showing three half-length figures behind a ledge. At center, a bare-chested Christ wearing a crown of thorns holds a draped cloth around His shoulders, gazing downward with an expression of suffering. To the left, a soldier in Roman armor with a plumed helmet holds a weapon and looks on. To the right, an elderly bearded figure in flowing robes and a turban, representing Pilate, gestures toward Christ. The composition is rendered in fine cross-hatching typical of Piranesi's engraving technique.",
+  "theological_description": "This engraving depicts the moment recorded in John 19:4-5 when Pontius Pilate brought Jesus out wearing the crown of thorns and purple robe and said to the crowd, 'Behold the man!' (Ecce Homo). This scene is one of the most theologically dense moments in the Passion narrative. Pilate intended the words as a dismissive gesture — presenting a beaten, humiliated prisoner to show He was no threat. Yet unwittingly, Pilate proclaimed a profound Christological truth: behold the Man, the Second Adam, the true representative of humanity who stands bearing the sins of the world. Christ's humiliation fulfills the Suffering Servant prophecy of Isaiah 53:3: 'He was despised and rejected by men, a man of sorrows and acquainted with grief.' The juxtaposition of the armed soldier and the unarmed Christ illustrates the paradox of 2 Corinthians 13:4: 'He was crucified in weakness, yet He lives by God's power.' In this moment of deepest degradation, the sovereign plan of God to redeem humanity through the Lamb who was slain was being accomplished.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.4-5",
+      "relevance": "primary",
+      "reason": "Pilate presenting Jesus to the crowd saying 'Behold the man' is the exact moment depicted"
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "primary",
+      "reason": "The despised and rejected Suffering Servant, a man of sorrows, fulfilled in Christ's humiliation before Pilate"
+    },
+    {
+      "ref": "MAT.27.27-29",
+      "relevance": "primary",
+      "reason": "The soldiers' mockery — stripping, robing, crowning with thorns — that preceded this presentation"
+    },
+    {
+      "ref": "2CO.13.4",
+      "relevance": "typological",
+      "reason": "Christ crucified in weakness yet living by God's power — the paradox visible in the unarmed Christ beside the armed soldier"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "anguished"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190159",
+    "title": "Christ presented to the people by Pilate, and a soldier, by Guercino",
+    "artist": "Giovanni Battista Piranesi",
+    "model": "claude-opus-4-6"
+  }
+}

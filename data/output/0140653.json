@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint George",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint John the Baptist (as child)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Putti/Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna with Saint George (Sacra Conversazione)",
+  "tags": [
+    "madonna-and-child",
+    "saint-george",
+    "armor",
+    "red-cape",
+    "putti",
+    "enthroned-virgin",
+    "classical-architecture",
+    "fruit-garland",
+    "child-john-baptist",
+    "lamb",
+    "ornate-throne",
+    "arch",
+    "landscape-background"
+  ],
+  "symbols": [
+    "Mary enthroned with the child — the Seat of Wisdom and Queen of Heaven",
+    "Saint George in armor — the defender of the faith and conqueror of evil",
+    "infant John the Baptist — the forerunner recognizing Christ even in childhood",
+    "putti playing below — heavenly joy and innocence surrounding the holy gathering",
+    "fruit garland above — abundance and the fruits of salvation",
+    "classical architecture — the grandeur and order of the heavenly court"
+  ],
+  "description": "The Virgin Mary sits enthroned at center beneath an ornate classical arch decorated with a fruit garland. She holds the infant Jesus who reaches toward a figure below. To the left, a muscular male figure (possibly a saint) gestures upward. To the right, a young knight in armor and a red cape (Saint George) stands holding a banner or staff. Below the throne, playful putti and a small child (possibly the infant John the Baptist) are grouped. The background shows a landscape through the arch. The composition is warm and richly colored.",
+  "theological_description": "Correggio's Madonna with Saint George is a sacra conversazione — a devotional gathering of the Virgin and Child with saints across time. Mary enthroned with the Christ child embodies the theological truth of the Incarnation: 'The Word became flesh and dwelt among us, and we have seen his glory' (John 1:14). Saint George, the legendary dragon-slayer and patron of soldiers, represents the spiritual warfare Paul describes: 'Put on the whole armor of God, that you may be able to stand against the schemes of the devil' (Ephesians 6:11). The infant John the Baptist's presence recalls the connection between the two families — when Mary visited Elizabeth, 'the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit' (Luke 1:41). The playful putti embody the heavenly joy that Jesus said belongs to children: 'Let the little children come to me and do not hinder them, for to such belongs the kingdom of heaven' (Matthew 19:14). The abundant fruit garland over the throne echoes Jesus's promise: 'I came that they may have life and have it abundantly' (John 10:10). The entire composition presents the Church as a community gathered around the incarnate Lord.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh dwelling among us — the enthroned Christ child as the visible presence of God"
+    },
+    {
+      "ref": "EPH.6.11",
+      "relevance": "typological",
+      "reason": "The armor of God — Saint George in full armor representing the Church Militant"
+    },
+    {
+      "ref": "LUK.1.41",
+      "relevance": "primary",
+      "reason": "The infant John leaping in recognition of Christ — the child Baptist present before the Christ child"
+    },
+    {
+      "ref": "MAT.19.14",
+      "relevance": "allusion",
+      "reason": "Let the children come to me — the joyful putti gathered around the throne of Christ"
+    },
+    {
+      "ref": "JHN.10.10",
+      "relevance": "allusion",
+      "reason": "Christ bringing abundant life — the fruit garland symbolizing the abundance of salvation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "majestic",
+    "joyful",
+    "warm",
+    "harmonious"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140653",
+    "title": "Madonna with St. George",
+    "artist": "Correggio",
+    "model": "claude-opus-4-6"
+  }
+}

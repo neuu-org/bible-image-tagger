@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Mary, John and Baby Jesus",
+  "tags": [
+    "madonna-and-child",
+    "infant-john-the-baptist",
+    "red-dress",
+    "draped-curtain",
+    "two-infants-playing",
+    "reed-cross",
+    "enthroned-madonna",
+    "golden-key",
+    "arched-panel",
+    "classical-architecture",
+    "devotional-scene"
+  ],
+  "symbols": [
+    "reed cross held by infant John — the forerunner's future proclamation of the Lamb of God",
+    "two children interacting — the intimate bond between the Messiah and his herald",
+    "Mary seated above — the Theotokos presiding over the meeting of Christ and his forerunner",
+    "golden key near the children — the keys of the kingdom, authority given through Christ",
+    "draped curtain — the veil between the sacred and ordinary, lifted to reveal the holy family"
+  ],
+  "description": "A tall, arched panel painting depicting the Virgin Mary seated on an elevated platform or throne beneath a draped brown curtain. She wears a rich red dress and looks down at two young children playing at her feet. One child, nude and fair-haired, reaches toward the other, who holds a small reed cross — identifying him as the infant John the Baptist. Near the children on the floor, a golden key or similar object is visible. The architectural setting includes classical columns or pilasters flanking the scene, with a glimpse of landscape through an opening at the left.",
+  "theological_description": "This devotional image brings together the Virgin Mary with the two children whose destinies are inseparably linked: the infant Jesus and the infant John the Baptist. Their playful interaction at Mary's feet embodies the connection forged before birth when the unborn John leaped in Elizabeth's womb at the approach of the pregnant Mary (Luke 1:41-44). The reed cross in young John's hand identifies him unmistakably as the forerunner who will one day stand at the Jordan and declare, 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29). Mary's elevated, enthroned position reflects her unique role as Theotokos — the God-bearer — who brought the Word into the world. The golden key near the children may allude to the keys of the kingdom that Jesus will give to Peter (Matthew 16:19), or more broadly to the authority of Christ who 'has the key of David, who opens and no one will shut' (Revelation 3:7). The entire composition speaks to the providential ordering of salvation history: God preparing his forerunner and his Messiah together, under the watchful care of the blessed mother.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The prenatal recognition between Jesus and John, extended here into their infancy"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The reed cross in John's hand foreshadows his proclamation of Jesus as the Lamb of God"
+    },
+    {
+      "ref": "MAT.16.19",
+      "relevance": "allusion",
+      "reason": "The golden key may allude to the keys of the kingdom given through Christ's authority"
+    },
+    {
+      "ref": "LUK.1.42-43",
+      "relevance": "primary",
+      "reason": "Elizabeth's blessing of Mary and the fruit of her womb, embodied in the enthroned Madonna"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "devotional",
+    "elegant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0180783",
+    "title": "Mary, John and baby Jesus",
+    "artist": "Rudolf Ernst",
+    "model": "claude-opus-4-6"
+  }
+}

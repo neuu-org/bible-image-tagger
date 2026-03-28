@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor figure",
+      "type": "PERSON"
+    },
+    {
+      "name": "Witnesses",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Baptism of Christ",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "john-the-baptist",
+    "water",
+    "baptismal-bowl",
+    "halo",
+    "animal-skin-garment",
+    "kneeling-donor",
+    "arched-composition",
+    "river-landscape",
+    "distant-mountains",
+    "trees"
+  ],
+  "symbols": [
+    "water of the Jordan — purification, the beginning of Christ's public ministry",
+    "bowl poured over Christ's head — the baptismal act initiating the New Covenant",
+    "John's animal-skin garment — the wilderness prophet, last of the Old Testament order",
+    "halo on John — the sanctity of the forerunner",
+    "donor kneeling in prayer — the faithful believer participating in the sacrament through devotion"
+  ],
+  "description": "An arched-top composition showing Christ standing in the shallow waters of the Jordan River at center, bare-chested with a white cloth around his waist, hands clasped in prayer. John the Baptist stands on the riverbank at right, wearing an animal skin and a red or rose-colored mantle, pouring water from a shallow bowl over Christ's head. John has a golden halo. A small kneeling figure in dark clothing (a donor) prays at the lower right. In the background left, a group of seated or standing figures watch from the hillside.",
+  "theological_description": "The Baptism of Christ in the Jordan River, recorded in all four Gospels (Matthew 3:13-17, Mark 1:9-11, Luke 3:21-22, John 1:29-34), marks the inauguration of Jesus's public ministry. When Jesus came to John to be baptized, John protested: 'I need to be baptized by you, and do you come to me?' (Matthew 3:14). Jesus insisted it was necessary 'to fulfill all righteousness' — the sinless one identifying with sinful humanity. At the moment of baptism, the heavens opened, the Spirit descended like a dove, and the Father's voice declared: 'This is my Son, whom I love; with him I am well pleased' (Matthew 3:17) — a Trinitarian theophany. John's role as the forerunner fulfills Malachi 3:1 and Isaiah 40:3, the voice crying in the wilderness to prepare the way of the Lord. The water of baptism becomes in Christian theology the sacrament of entry into the death and resurrection of Christ (Romans 6:3-4). John's animal skin and austere appearance mark him as the last prophet of the old order, while Christ stepping into the water inaugurates the new. The donor figure kneeling in prayer represents the believer's participation in this foundational event through faith and sacramental life.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "Matthew's full account of Jesus's baptism by John, the opened heavens, and the Father's voice"
+    },
+    {
+      "ref": "MRK.1.9-11",
+      "relevance": "primary",
+      "reason": "Mark's account of the baptism with the Spirit descending like a dove"
+    },
+    {
+      "ref": "JHN.1.29-34",
+      "relevance": "primary",
+      "reason": "John's testimony identifying Jesus as the Lamb of God who takes away the sin of the world"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "A voice of one calling in the wilderness: prepare the way for the Lord — John the Baptist's mission"
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "allusion",
+      "reason": "Baptism into Christ's death and resurrection — the sacramental theology founded on this event"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "serene",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170190",
+    "title": "Baptism of Christ",
+    "artist": "Benvenuto Tisi",
+    "model": "claude-opus-4-6"
+  }
+}

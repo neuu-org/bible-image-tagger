@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Saint Lawrence",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Lawrence",
+  "tags": [
+    "saint-lawrence",
+    "deacon",
+    "gridiron",
+    "ornate-vestments",
+    "dalmatic",
+    "gold-embroidery",
+    "upward-gaze",
+    "landscape-background",
+    "martyr",
+    "early-church",
+    "book-or-gospel",
+    "roman-persecution"
+  ],
+  "symbols": [
+    "gridiron — the instrument of Lawrence's martyrdom by being roasted alive",
+    "ornate dalmatic — the liturgical vestment of the deacon's office",
+    "upward gaze — trust in God amid approaching death",
+    "book or Gospel text on the dalmatic — Lawrence's role as keeper of the Church's treasures and scriptures"
+  ],
+  "description": "A full-length portrait of a young man in elaborate ecclesiastical vestments — a richly embroidered dalmatic in dark red and gold over a white alb. He holds a large gridiron (a metal grate) in his left hand and touches his chest with his right. His face is youthful with a tonsured head, gazing upward with an expression of devotion. Behind him, a landscape opens with trees at left and a castle or fortified structure at right under a golden sky. The composition is set within an arched frame at the top.",
+  "theological_description": "Zurbaran's portrait depicts Saint Lawrence (d. 258 AD), one of the most venerated martyrs of the early Church. Lawrence was a deacon of Rome under Pope Sixtus II. When the Roman prefect demanded that Lawrence hand over the Church's treasures, Lawrence gathered the poor, the crippled, the blind, and the sick and presented them, declaring: 'These are the true treasures of the Church.' For this defiance, he was sentenced to be roasted alive on a gridiron — the instrument he holds here. His famous quip during martyrdom, 'Turn me over, I'm done on this side,' became legendary for its courage in the face of death. Lawrence's identification of the poor as the Church's treasure directly echoes Christ's teaching: 'Whatever you did for one of the least of these brothers and sisters of mine, you did for me' (Matthew 25:40). As a deacon, Lawrence fulfilled the role established in Acts 6:1-6, where the apostles appointed seven men to 'wait on tables' and care for the community's material needs. His martyrdom embodies Paul's conviction: 'For to me, to live is Christ and to die is gain' (Philippians 1:21). The upward gaze expresses the faith described in Hebrews: 'fixing our eyes on Jesus, the pioneer and perfecter of faith, who for the joy set before him endured the cross' (Hebrews 12:2).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.40",
+      "relevance": "primary",
+      "reason": "Whatever you did for the least of these — Lawrence presenting the poor as the Church's true treasures"
+    },
+    {
+      "ref": "ACT.6.1-6",
+      "relevance": "primary",
+      "reason": "The institution of the diaconate — Lawrence's office as deacon of Rome"
+    },
+    {
+      "ref": "PHP.1.21",
+      "relevance": "allusion",
+      "reason": "To live is Christ and to die is gain — Lawrence's courage in martyrdom"
+    },
+    {
+      "ref": "HEB.12.2",
+      "relevance": "allusion",
+      "reason": "Fixing eyes on Jesus and enduring — Lawrence's upward gaze of trust during suffering"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dignified",
+    "devotional",
+    "courageous"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150989",
+    "title": "St. Lawrence",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

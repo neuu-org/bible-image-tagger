@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with Mary Magdalene and the Infant Saint John",
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "infant-jesus",
+    "joseph",
+    "mary-magdalene",
+    "infant-john-the-baptist",
+    "red-dress",
+    "ointment-jar",
+    "pastoral-landscape",
+    "sleeping-child",
+    "venetian-painting",
+    "golden-hair",
+    "white-headscarf",
+    "countryside"
+  ],
+  "symbols": [
+    "ointment jar held by Magdalene — her traditional attribute, recalling the anointing of Jesus's feet",
+    "infant John approaching the Christ child — the forerunner recognizing the Messiah even in infancy",
+    "Mary's red dress — her love and the future blood of the Passion",
+    "Joseph at the periphery — the faithful guardian and protector of the Holy Family",
+    "pastoral landscape — the peaceable setting of the incarnate God dwelling among his people"
+  ],
+  "description": "A richly colored painting showing a group of figures in a pastoral landscape. At center, a woman in a red dress and white headscarf holds a sleeping infant. Beside her, a young woman with long golden hair holds a small jar or vessel. At far left, an elderly bearded man sits observing. At lower right, a nude toddler with curly hair reaches toward the sleeping infant. Behind the figures, a landscape opens up with distant buildings and hills under a cloudy sky with lush trees overhead.",
+  "theological_description": "Palma Vecchio presents the Holy Family in an expanded devotional grouping that brings together key figures of the Gospel narrative. Mary cradles the sleeping Christ child while Joseph watches from the side — the faithful earthly father who protected the divine child. Mary Magdalene, identifiable by her golden hair and ointment jar, represents the devoted follower who would anoint Jesus for burial (Mark 14:3-9) and become the first witness of the Resurrection (John 20:1-18). Her presence beside the infant Christ creates a profound temporal compression: the woman who will anoint the dead body already attends the living child. The infant John the Baptist reaching toward Jesus echoes the Visitation, when the unborn John leaped in Elizabeth's womb at Mary's greeting (Luke 1:41-44). John's entire vocation is captured in this gesture of reaching toward Christ — 'He must become greater; I must become less' (John 3:30). The peaceful Venetian landscape embodies the incarnational theology that God entered fully into the beauty and ordinariness of created life. The gathering of these figures anticipates the community of faith that would form around Jesus — from the cradle to the cross to the empty tomb.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.16",
+      "relevance": "primary",
+      "reason": "The Holy Family with the infant Jesus — the incarnation scene at the heart of the composition"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "typological",
+      "reason": "The infant John's recognition of Jesus echoes his leaping in Elizabeth's womb at the Visitation"
+    },
+    {
+      "ref": "MRK.14.3-9",
+      "relevance": "allusion",
+      "reason": "Mary Magdalene's ointment jar anticipates her anointing of Jesus for burial"
+    },
+    {
+      "ref": "JHN.20.1-18",
+      "relevance": "allusion",
+      "reason": "Magdalene's presence foreshadows her role as first witness of the Resurrection"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "allusion",
+      "reason": "The infant John reaching toward Christ embodies his later testimony: He must increase, I must decrease"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "pastoral",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150288",
+    "title": "The Holy Family with Mary Magdalene and the infant saint John",
+    "artist": "Palma Vecchio",
+    "model": "claude-opus-4-6"
+  }
+}

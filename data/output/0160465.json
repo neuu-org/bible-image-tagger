@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Jesus Christ (Dead)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Donor (Kneeling Man)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel Playing Organ",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Trinity (Throne of Grace) with Donor and Angel Musician",
+  "tags": [
+    "trinity",
+    "throne-of-grace",
+    "dead-christ",
+    "god-the-father",
+    "pieta",
+    "donor-portrait",
+    "angel-organist",
+    "globe",
+    "red-mantle",
+    "golden-throne"
+  ],
+  "symbols": [
+    "God the Father holding the dead Christ — the Throne of Grace, the Trinity united in the act of redemption",
+    "globe at the base of the throne — divine sovereignty over all creation",
+    "red mantle of the Father — the divine love that gave the Son for the salvation of the world",
+    "angel playing the organ — heavenly worship accompanying the mystery of redemption",
+    "kneeling donor — the faithful believer participating in the mystery through prayer"
+  ],
+  "description": "A diptych or two-panel altarpiece. The left panel shows a majestic figure in a red mantle and golden crown seated on an ornate throne, holding the limp body of a dead man wearing only a loincloth. A globe rests at the base of the throne, and architectural elements frame the scene against a pink and blue sky. The right panel shows a richly dressed interior of a church with an organ. A young man in blue robes kneels in prayer at center while a winged angel in green plays the organ. Music sheets are open on the stand.",
+  "theological_description": "The left panel presents the Gnadenstuhl or Throne of Grace — the most compact Trinitarian image in Western art. God the Father holds the crucified Son, presenting him to the viewer as the means of salvation. This iconography makes visible the theology of John 3:16: 'God so loved the world that he gave his one and only Son.' The absent but implied Holy Spirit (sometimes shown as a dove between Father and Son) completes the Trinitarian mystery. The dead Christ in the Father's arms is the 'Lamb slain from the foundation of the world' (Revelation 13:8). The globe beneath signifies that this sacrifice is cosmic in scope — for all creation. The right panel pairs earthly devotion with heavenly music — the donor's prayer joined to angelic worship, illustrating that liturgy on earth participates in the eternal worship of heaven (Hebrews 12:22-24). Together, the panels teach that through Christ's sacrifice, access to the Father is opened for all who believe (Ephesians 2:18).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.3.16",
+      "relevance": "primary",
+      "reason": "God so loved the world that he gave his only Son — the Father holding the dead Christ"
+    },
+    {
+      "ref": "REV.13.8",
+      "relevance": "typological",
+      "reason": "The Lamb slain from the foundation of the world — the eternal scope of the sacrifice depicted"
+    },
+    {
+      "ref": "HEB.12.22-24",
+      "relevance": "allusion",
+      "reason": "Earthly worship joining the heavenly assembly — the donor praying alongside angelic music"
+    },
+    {
+      "ref": "EPH.2.18",
+      "relevance": "allusion",
+      "reason": "Through Christ we have access to the Father — the entire altarpiece's theological program"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "majestic",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160465",
+    "title": "The Trinity Altar Panels (detail)",
+    "artist": "Hugo van der Goes",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Two Thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Beloved",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ on the Cross Between the Two Thieves",
+  "tags": [
+    "crucifixion",
+    "three-crosses",
+    "two-thieves",
+    "calvary",
+    "golgotha",
+    "roman-soldiers",
+    "horseman",
+    "mourning-women",
+    "dark-sky",
+    "spear",
+    "passion-of-christ"
+  ],
+  "symbols": [
+    "three crosses — Christ between the penitent and impenitent thieves, judgment and mercy at the same hour",
+    "dark sky — the supernatural darkness at the sixth hour, creation mourning its Creator's death",
+    "soldier with spear — the lance that will pierce Christ's side, releasing blood and water",
+    "mourning women at the foot — the faithful remnant who did not flee",
+    "horseman — Roman authority executing divine providence unwittingly"
+  ],
+  "description": "A dramatic composition showing three crosses against a dark turbulent sky. Christ hangs on the central cross, his pale body illuminated, while the two thieves writhe on crosses to either side. Roman soldiers on horseback and on foot crowd the base of the crosses. One soldier reaches up with a spear. At the lower right, women in dark robes — including one in a dark blue mantle — grieve at the foot of the cross. A young figure in red stands beside them. The dramatic lighting isolates Christ's body against the brooding sky while the surrounding figures are in deeper shadow.",
+  "theological_description": "Rubens's monumental Crucifixion presents the central event of Christian faith in all its brutal glory. The three crosses fulfill Luke's account: 'Two other men, both criminals, were also led out with him to be executed' (Luke 23:32). The penitent thief's plea — 'Jesus, remember me when you come into your kingdom' — and Christ's response — 'Today you will be with me in paradise' (Luke 23:42-43) — demonstrate that grace is available even at the last moment. The dark sky recalls Mark's account: 'At noon, darkness came over the whole land until three in the afternoon' (Mark 15:33). Mary and John at the foot of the cross fulfill Jesus's final act of filial care: 'Woman, here is your son... Here is your mother' (John 19:26-27). The soldier with the spear anticipates the moment when 'one of the soldiers pierced Jesus's side with a spear, bringing a sudden flow of blood and water' (John 19:34) — understood by the Church Fathers as the birth of the sacraments.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.32-43",
+      "relevance": "primary",
+      "reason": "Christ crucified between two criminals, the penitent thief promised paradise"
+    },
+    {
+      "ref": "MRK.15.33-34",
+      "relevance": "primary",
+      "reason": "Darkness over the land and Christ's cry of dereliction"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and John at the cross — Jesus entrusting his mother to the beloved disciple"
+    },
+    {
+      "ref": "JHN.19.34",
+      "relevance": "allusion",
+      "reason": "The soldier piercing Christ's side — blood and water flowing as sacramental signs"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "dramatic",
+    "somber",
+    "turbulent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160934",
+    "title": "Christ on the Cross Between the Two Thieves",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

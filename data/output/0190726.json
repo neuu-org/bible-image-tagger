@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Samaritan Woman (Woman at the Well)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Christ and the Samaritan Woman at the Well",
+  "tags": [
+    "woman-at-the-well",
+    "samaritan-woman",
+    "jacobs-well",
+    "living-water",
+    "well",
+    "bucket-and-rope",
+    "dialogue",
+    "encounter",
+    "water-vessel"
+  ],
+  "symbols": [
+    "well with rope and bucket — Jacob's well at Sychar, the place where Jesus offered living water",
+    "water vessel on the ground — the earthly water that cannot satisfy, contrasted with Christ's living water",
+    "Jesus seated and speaking — the divine Teacher breaking social conventions to reach the outcast",
+    "woman drawing water — the daily labor that becomes the occasion for a life-changing encounter with God"
+  ],
+  "description": "A painting depicting Jesus Christ seated at a well on the left, wearing a red robe with a luminous halo around His head, gesturing with one hand as He speaks. Opposite Him, a young woman in a golden-yellow skirt and white blouse holds the rope of the well pulley with one hand and a bucket with the other, looking at Jesus with interest. The well mechanism with its wooden frame and pulley is centered between them. A golden water vessel sits on the ground. The background shows a dramatic cloudy sky and a distant landscape with buildings. Figures can be glimpsed in the far background at the left.",
+  "theological_description": "This painting depicts one of the longest and most theologically rich conversations in the Gospels, recorded in John 4:4-26. Jesus, traveling through Samaria, sat at Jacob's well near Sychar and asked a Samaritan woman for a drink — an act that shattered multiple social barriers: Jews did not associate with Samaritans, rabbis did not speak with women in public, and this woman was an outcast even among her own people. Jesus transformed the conversation from physical thirst to spiritual revelation: 'Everyone who drinks this water will be thirsty again, but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life' (John 4:13-14). The dialogue progressed to one of the most explicit Christological revelations in the Gospels: when the woman said she knew the Messiah was coming, Jesus replied 'I, the one speaking to you — I am he' (John 4:26). The well itself carries patriarchal significance — Jacob dug it (John 4:12), connecting this encounter to the covenant history. The woman became the first evangelist to the Samaritans, foreshadowing the Gospel's expansion beyond Jewish boundaries in Acts 1:8.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.4.7-14",
+      "relevance": "primary",
+      "reason": "Jesus asking the Samaritan woman for water and offering living water in return — the exact encounter depicted"
+    },
+    {
+      "ref": "JHN.4.25-26",
+      "relevance": "primary",
+      "reason": "Jesus's self-revelation as the Messiah to the Samaritan woman — the climax of the conversation"
+    },
+    {
+      "ref": "JHN.7.37-38",
+      "relevance": "typological",
+      "reason": "Jesus's later public declaration: 'Let anyone who is thirsty come to me and drink' — expanding the well metaphor"
+    },
+    {
+      "ref": "ACT.1.8",
+      "relevance": "typological",
+      "reason": "The Gospel reaching Samaria, foreshadowed by this woman becoming the first Samaritan evangelist"
+    },
+    {
+      "ref": "ISA.55.1",
+      "relevance": "allusion",
+      "reason": "Come all you who are thirsty, come to the waters — the prophetic invitation fulfilled at the well"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intimate",
+    "revelatory",
+    "warm",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190726",
+    "title": "Cristo e la Samaritana",
+    "artist": "Domenico Fiasella",
+    "model": "claude-opus-4-6"
+  }
+}

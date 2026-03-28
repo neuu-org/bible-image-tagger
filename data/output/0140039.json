@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Magi (Three Wise Men)",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and Retinue",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "nativity",
+    "wise-men",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "kneeling",
+    "procession",
+    "stable",
+    "horses",
+    "richly-dressed-kings",
+    "crowded-scene",
+    "rock-formation",
+    "infant-christ",
+    "homage",
+    "pilgrimage"
+  ],
+  "symbols": [
+    "Magi kneeling before the child — Gentile nations recognizing the King of Kings",
+    "rich garments and crowns — worldly power bowing before divine humility",
+    "gifts offered — gold for kingship, frankincense for divinity, myrrh for suffering and death",
+    "humble stable setting — the paradox of the Lord of creation born in poverty",
+    "large retinue and procession — the magnitude of the journey and the universality of Christ's call",
+    "rocky landscape — the rugged terrain of Judea and the arduous pilgrimage of faith"
+  ],
+  "description": "A wide panoramic composition depicting a large crowd of richly dressed figures converging on a humble structure at the right where a woman holds an infant on her lap. In the foreground, an elderly king kneels before the child, offering a gift. Behind him, other lavishly robed figures approach bearing gifts, accompanied by attendants, horses, and a large retinue stretching far into the left background. The setting includes rough stone columns, a rocky hillside, and architectural ruins. The scene is teeming with figures in vibrant reds, blues, greens, and golds.",
+  "theological_description": "Botticelli's Adoration of the Magi captures the Epiphany — the manifestation of Christ to the Gentile world. Matthew 2:1-12 records that wise men from the East came to Jerusalem asking, 'Where is he that is born King of the Jews? For we have seen his star in the east, and are come to worship him.' Following the star to Bethlehem, 'they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh' (Matthew 2:11). This scene fulfills Isaiah's prophecy: 'Nations shall come to your light, and kings to the brightness of your rising... They shall bring gold and frankincense, and shall proclaim the praise of the Lord' (Isaiah 60:3, 6). The Magi's journey from distant lands embodies Psalm 72:10-11: 'The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts. Yea, all kings shall fall down before him: all nations shall serve him.' The contrast between the majestic procession and the humble stable setting encapsulates the kenotic mystery of the Incarnation — the eternal Word made flesh (John 1:14) dwelling among the lowly, yet drawing all nations to worship.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The direct narrative of the Magi's journey, star-following, and adoration with gifts of gold, frankincense, and myrrh"
+    },
+    {
+      "ref": "ISA.60.3-6",
+      "relevance": "primary",
+      "reason": "The prophecy of nations and kings coming to the light bearing gold and frankincense is fulfilled in the Magi's pilgrimage"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "The messianic psalm prophesying that all kings shall fall before him and all nations serve him"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word made flesh dwelling among us — the humble setting contrasts with the glory the Magi recognize"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "allusion",
+      "reason": "Bethlehem as the prophesied birthplace of the ruler of Israel, the destination of the Magi's journey"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "majestic",
+    "joyful",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140039",
+    "title": "Adoration of the Magi",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

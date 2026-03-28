@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Saint Bartholomew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioner",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Martyrdom of Saint Bartholomew (Flaying)",
+  "tags": [
+    "saint-bartholomew",
+    "martyrdom",
+    "flaying",
+    "agony",
+    "apostle",
+    "executioner",
+    "outstretched-arms",
+    "bare-torso",
+    "dark-background",
+    "suffering"
+  ],
+  "symbols": [
+    "outstretched arms looking heavenward — the martyr's final appeal to God and surrender to divine will",
+    "bare emaciated body — the flesh stripped away, the mortal frame offered as sacrifice",
+    "executioner at work — the agent of persecution, worldly power destroying the witness of faith",
+    "dark background — the spiritual darkness of the world that persecutes the righteous"
+  ],
+  "description": "A dramatic scene showing a large elderly man with a white beard lying on the ground with arms outstretched, his bare torso exposed. His face is contorted in agony, eyes and mouth open wide, looking upward. At his left side, a figure in a red cloak bends over him, apparently working at his skin with a tool. In the dark background, several shadowy figures watch. The lighting is stark, falling dramatically on the saint's pale flesh against the deep darkness around him.",
+  "theological_description": "Tradition holds that the Apostle Bartholomew was martyred by being flayed alive in Armenia. This gruesome death became his identifying attribute in Christian art. Bartholomew's willingness to endure such suffering reflects Jesus's warning to his disciples: 'They will hand you over to be persecuted and put to death, and you will be hated by all nations because of me' (Matthew 24:9). The apostle's upward gaze amid agony mirrors Stephen's vision at his own martyrdom: 'I see heaven open and the Son of Man standing at the right hand of God' (Acts 7:56). Paul articulated the theology of apostolic suffering: 'I want to know Christ — yes, to know the power of his resurrection and participation in his sufferings, becoming like him in his death' (Philippians 3:10). Bartholomew's flayed body, stripped of its covering, becomes a paradoxical image of the soul laid bare before God — 'Nothing in all creation is hidden from God's sight' (Hebrews 4:13).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.24.9",
+      "relevance": "primary",
+      "reason": "Jesus's prediction that his followers would be persecuted and killed for his name"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "primary",
+      "reason": "Participation in Christ's sufferings — the apostle's martyrdom conforms him to Christ's death"
+    },
+    {
+      "ref": "ACT.7.55-56",
+      "relevance": "typological",
+      "reason": "Stephen seeing heaven opened at his martyrdom — Bartholomew's upward gaze parallels this"
+    },
+    {
+      "ref": "HEB.4.13",
+      "relevance": "allusion",
+      "reason": "Nothing hidden from God — the flayed body as ultimate transparency before the divine"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "brutal",
+    "solemn"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0160712",
+    "title": "St. Bartholomew almost in agony",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

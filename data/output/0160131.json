@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Elderly Man",
+      "type": "PERSON"
+    },
+    {
+      "name": "Women in Black",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Evening prayer on a country road",
+  "tags": [
+    "prayer",
+    "evening",
+    "angelus",
+    "country-road",
+    "old-tree",
+    "white-horse",
+    "sunset",
+    "rural-piety",
+    "devotion",
+    "twilight"
+  ],
+  "symbols": [
+    "gnarled old tree — the endurance of faith through the seasons of life",
+    "bowed heads at sunset — the Angelus, pausing from labor to honor the Incarnation",
+    "twilight sky — the threshold between earthly toil and heavenly rest"
+  ],
+  "description": "An elderly man with a walking stick and a white horse stands on a country path beside a massive gnarled tree. Before him, two figures in dark clothing — a woman and a small child — stand with heads bowed in prayer. A dark dog sits nearby. The sky behind is a soft pink and purple sunset, with low hills on the horizon. The palette is earthy browns, muted greens, and warm twilight tones.",
+  "theological_description": "This scene of roadside prayer at dusk evokes the tradition of the Angelus — the thrice-daily prayer commemorating the Annunciation and the mystery of the Incarnation. The humble rural setting, with travelers pausing on their journey, recalls Jesus's teaching that prayer is not confined to the Temple but can arise from any place and any heart (Matthew 6:6). The old man, women, and child represent the communion of generations united in faith. The twilight moment suggests Psalm 141:2 — 'Let my prayer be set before you like incense, the lifting up of my hands like the evening sacrifice.' Their stillness amid the vastness of nature embodies the trust of those who cast their cares upon the Lord (1 Peter 5:7).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28-38",
+      "relevance": "primary",
+      "reason": "The Angelus prayer commemorates the Annunciation — the angel's greeting to Mary and her fiat"
+    },
+    {
+      "ref": "PSA.141.2",
+      "relevance": "allusion",
+      "reason": "Evening prayer rising like incense before the Lord"
+    },
+    {
+      "ref": "MAT.6.6",
+      "relevance": "allusion",
+      "reason": "Prayer offered sincerely in humble circumstances rather than public display"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "serene",
+    "melancholic"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160131",
+    "title": "The Hail Mary",
+    "artist": "Cristiano Banti",
+    "model": "claude-opus-4-6"
+  }
+}

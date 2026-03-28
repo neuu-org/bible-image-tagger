@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna Enthroned with Saints",
+  "tags": [
+    "madonna-enthroned",
+    "saints",
+    "angel-with-palm",
+    "infant-christ",
+    "classical-architecture",
+    "throne",
+    "canopy",
+    "pedestal",
+    "bishop-saint",
+    "franciscan-saint",
+    "child-figure",
+    "red-and-gold"
+  ],
+  "symbols": [
+    "enthroned Madonna — Mary as Queen of Heaven and Seat of Wisdom",
+    "ornate canopy and throne — the heavenly court and regal dignity of the Mother of God",
+    "angel with palm branch — victory over death and the martyrdom of the saints",
+    "saints gathered around — the communion of saints across time united around Christ",
+    "child on pedestal — the Christ child accessible to all who approach"
+  ],
+  "description": "A tall arched altarpiece showing the Virgin Mary enthroned high on a pedestal beneath an ornate golden canopy, holding the infant Jesus. An elderly bearded saint with a staff stands behind her. Below, several saints are grouped around the base of the throne: a figure in a dark Franciscan habit at the left, an angel holding a palm branch, a small nude child figure (possibly the infant John the Baptist) standing on the pedestal, a bishop or elder in red robes, and a female saint at the far left. Grand classical columns frame the composition.",
+  "theological_description": "Veronese's Madonna Enthroned with Saints presents the classic sacra conversazione — the holy conversation uniting the Virgin and Child with saints from across Christian history. The elevated throne reflects Isaiah's vision: 'I saw the Lord sitting upon a throne, high and lifted up' (Isaiah 6:1), while Mary's queenly position echoes Psalm 45:9: 'At your right hand stands the queen in gold of Ophir.' The gathering of saints around the throne embodies the vision of Hebrews: 'Since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight... and let us run with endurance the race that is set before us' (Hebrews 12:1). The angel with the palm branch signifies victory: 'After this I looked, and behold, a great multitude... standing before the throne... clothed in white robes, with palm branches in their hands' (Revelation 7:9). The infant Christ, despite his smallness, is the theological center — the one through whom 'all things were created, in heaven and on earth' (Colossians 1:16). This composition affirms that the Church is not merely an institution but a living communion spanning heaven and earth.",
+  "scripture_refs": [
+    {
+      "ref": "HEB.12.1",
+      "relevance": "primary",
+      "reason": "The great cloud of witnesses — the saints gathered around the throne represent the communion of saints"
+    },
+    {
+      "ref": "REV.7.9",
+      "relevance": "primary",
+      "reason": "The multitude before the throne with palm branches — the angel with palm and the gathered saints"
+    },
+    {
+      "ref": "COL.1.16",
+      "relevance": "allusion",
+      "reason": "All things created through and for Christ — the infant at the theological center of the composition"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen standing at God's right hand in gold — Mary enthroned beneath the golden canopy"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "majestic",
+    "solemn",
+    "devotional",
+    "grand"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140693",
+    "title": "Madonna Enthroned with Saints",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

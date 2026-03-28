@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anne of France",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Anne of France presented by St. John the Evangelist",
+  "tags": [
+    "donor-portrait",
+    "st-john-evangelist",
+    "chalice",
+    "serpent-in-cup",
+    "triptych-wing",
+    "royal-patron",
+    "devotional-presentation"
+  ],
+  "symbols": [
+    "chalice with serpent — the traditional attribute of St. John the Evangelist, referencing the legend of poisoned wine rendered harmless",
+    "John's red cloak over green robe — the apostle's dual identity as beloved disciple and visionary of Revelation",
+    "donor kneeling below — the faithful seeking the intercession and protection of the apostle-saint"
+  ],
+  "description": "A Northern Renaissance panel painting forming the right wing of a triptych. St. John the Evangelist stands in the upper portion, a young bearded man with long hair wearing a red cloak over a green robe, holding a golden chalice from which a small serpent emerges. Below and to the right, a woman dressed in black with a white headdress (Anne of France) kneels in prayer with hands clasped. A landscape with a castle tower and green hills is visible in the background. The painting has the meticulous detail characteristic of the Northern Renaissance.",
+  "theological_description": "This triptych wing presents St. John the Evangelist as the patron saint of Anne of France, Duchess of Bourbon. John was the beloved disciple who reclined on Jesus's breast at the Last Supper (John 13:23), stood at the foot of the cross when others fled (John 19:26), and was entrusted with the care of the Virgin Mary. Church tradition holds that John was the author of the Fourth Gospel, three epistles, and the Book of Revelation. His attribute — the chalice with a serpent — derives from the legend that he was offered poisoned wine but rendered it harmless by blessing it, fulfilling Mark 16:18: 'They will pick up serpents with their hands, and if they drink any deadly poison, it will not hurt them.' The donor portrait format reflects the medieval theology of saintly intercession: the faithful commend themselves to the prayers of the saints, believing in the communion described in Hebrews 12:1, the great cloud of witnesses surrounding the living. John's Gospel provided the foundational Christological language of Christianity: 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.13.23",
+      "relevance": "primary",
+      "reason": "The beloved disciple reclining at Jesus's side — John's unique intimacy with Christ"
+    },
+    {
+      "ref": "JHN.19.26-27",
+      "relevance": "primary",
+      "reason": "Jesus entrusting Mary to John at the cross, establishing John's special role in the Church"
+    },
+    {
+      "ref": "MRK.16.18",
+      "relevance": "typological",
+      "reason": "The promise that deadly poison will not harm believers — the origin of John's chalice-with-serpent attribute"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "allusion",
+      "reason": "John's Gospel opening — the theological foundation he gave to Christianity"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "solemn",
+    "reverent"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0190558",
+    "title": "Anne of France, Lady of Beaujeu, Duchess of Bourbon, presented by St. John the Evangelist, right hand wing of a triptych",
+    "artist": "Jean Hey",
+    "model": "claude-opus-4-6"
+  }
+}

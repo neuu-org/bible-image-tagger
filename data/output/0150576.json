@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with John the Baptist and the Lamb",
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "infant-jesus",
+    "joseph",
+    "infant-john-the-baptist",
+    "lamb",
+    "cross-staff",
+    "pastoral-landscape",
+    "fruit-tree",
+    "bird",
+    "pink-dress",
+    "blue-mantle",
+    "peaceful-scene"
+  ],
+  "symbols": [
+    "lamb led by the infant John — 'Behold the Lamb of God' — John's future identification of Jesus",
+    "small cross carried by infant John — the instrument of salvation that John will announce",
+    "fruit tree overhead — the Tree of Life, abundance, and the garden of paradise restored",
+    "bird in flight — the Holy Spirit or the freedom of the soul",
+    "pastoral landscape — the peaceable kingdom where the divine family dwells"
+  ],
+  "description": "A pastoral scene set beneath a large fruit-bearing tree. At center, a young woman in a pink dress and blue mantle sits, supporting a nude infant on her lap. Behind her, an elderly bearded man looks on. At lower left, a small curly-haired child carries a thin cross-staff and leads a white lamb by a string. A bird flies in the sky at left. The background opens to a lush green Flemish landscape with distant mountains and a town. The overall palette is warm and verdant.",
+  "theological_description": "Brueghel the Younger's Holy Family with John the Baptist and the Lamb presents a rich devotional scene saturated with theological meaning. The infant John the Baptist carrying a small cross and leading a lamb directly anticipates his adult proclamation: 'Look, the Lamb of God, who takes away the sin of the world!' (John 1:29). Even as a child, John is shown oriented toward Christ — fulfilling his prenatal recognition when he leaped in Elizabeth's womb (Luke 1:41). The lamb is both John's prophetic attribute and a symbol of Christ himself — 'He was led like a lamb to the slaughter' (Isaiah 53:7). Mary's central position holding the Christ child affirms the Incarnation: 'The Word became flesh and dwelt among us' (John 1:14). Joseph's watchful presence recalls his role as the divinely appointed guardian who received angelic instruction in dreams (Matthew 1:20, 2:13). The fruit tree over the family evokes the Tree of Life in Eden (Genesis 2:9) — through this child, paradise lost will be paradise restored. The lush, peaceful landscape embodies Isaiah's vision of the messianic age: 'The wolf will live with the lamb... and a little child will lead them' (Isaiah 11:6).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "The Lamb of God — the infant John leading a lamb prefigures his adult proclamation"
+    },
+    {
+      "ref": "LUK.1.41",
+      "relevance": "allusion",
+      "reason": "John's prenatal recognition of Jesus, here depicted as childhood companionship"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "Led like a lamb to the slaughter — the lamb symbolizing Christ's sacrificial destiny"
+    },
+    {
+      "ref": "ISA.11.6",
+      "relevance": "allusion",
+      "reason": "A little child leading them in the peaceable kingdom — the pastoral harmony of the scene"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word made flesh — the incarnate Christ held in his mother's arms"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "idyllic",
+    "peaceful",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150576",
+    "title": "The Holy Family with John the Baptist and the Lamb",
+    "artist": "Jan Brueghel the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

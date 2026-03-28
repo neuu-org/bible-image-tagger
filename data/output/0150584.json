@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Christ Pantocrator",
+      "type": "DEITY"
+    },
+    {
+      "name": "Figures (saints or apostles)",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ Pantocrator (Ruler of All)",
+  "tags": [
+    "pantocrator",
+    "christ",
+    "halo",
+    "gold-tones",
+    "abstract",
+    "semi-abstract",
+    "icon-inspired",
+    "fiery-palette",
+    "modern-sacred-art",
+    "red-and-gold",
+    "blessing-gesture",
+    "book",
+    "enthroned",
+    "divine-majesty"
+  ],
+  "symbols": [
+    "halo around central figure — the divine glory of Christ as Pantocrator",
+    "fiery red and gold palette — divine energy, the consuming fire of God's presence",
+    "enthroned central figure — Christ as ruler and judge of all creation",
+    "surrounding figures — the faithful gathered around the divine presence",
+    "abstract, dissolving forms — the mystery of the divine that transcends material representation"
+  ],
+  "description": "A semi-abstract painting in warm reds, oranges, golds, and whites. A central figure with a golden halo is discernible, seated or enthroned, rendered in loose, fiery brushstrokes that dissolve into the surrounding space. To the right, a cluster of additional figures appears, also rendered in warm tones with hints of golden halos. The background is pale cream-white, making the warm-toned figures glow like flames. The style merges iconic tradition with modern expressionist abstraction.",
+  "theological_description": "Tamas's Pantocrator draws on the ancient Byzantine iconographic tradition of Christ as 'Ruler of All' (Pantocrator) — a title expressing Christ's cosmic sovereignty over all creation. The Pantocrator icon, found in the dome of every Orthodox church, depicts Christ as described in Revelation: 'I am the Alpha and the Omega... who is, and who was, and who is to come, the Almighty' (Revelation 1:8). The fiery palette recalls the theophanic tradition — God appearing as fire to Moses in the burning bush (Exodus 3:2), as a pillar of fire to Israel (Exodus 13:21), and in Hebrews' declaration that 'our God is a consuming fire' (Hebrews 12:29). The semi-abstract style captures what icons have always attempted: not a photographic likeness but a window into the divine reality. The surrounding figures recall the heavenly liturgy of Revelation where 'the four living creatures and the twenty-four elders fell down before the Lamb' (Revelation 5:8). Paul's Christological hymn declares that Christ is 'the image of the invisible God, the firstborn over all creation. For in him all things were created' (Colossians 1:15-16) — this cosmic authority is what Pantocrator imagery proclaims.",
+  "scripture_refs": [
+    {
+      "ref": "REV.1.8",
+      "relevance": "primary",
+      "reason": "Christ as Alpha and Omega, the Almighty — the theological foundation of the Pantocrator image"
+    },
+    {
+      "ref": "COL.1.15-16",
+      "relevance": "primary",
+      "reason": "Christ as image of the invisible God and ruler over all creation"
+    },
+    {
+      "ref": "HEB.12.29",
+      "relevance": "allusion",
+      "reason": "God as consuming fire — the fiery palette expressing divine majesty"
+    },
+    {
+      "ref": "REV.5.8",
+      "relevance": "allusion",
+      "reason": "The heavenly court worshipping before the enthroned Christ — the surrounding figures"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "transcendent",
+    "fiery",
+    "majestic"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0150584",
+    "title": "Pantocrator",
+    "artist": "Ervin Tamas",
+    "model": "claude-opus-4-6"
+  }
+}

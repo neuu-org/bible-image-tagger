@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers (possibly Pharisees or disciples)",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ and Mary Magdalene — the penitent Magdalene at Jesus's feet",
+  "tags": [
+    "mary-magdalene",
+    "jesus-christ",
+    "penitent-woman",
+    "forgiveness",
+    "anointing",
+    "kneeling",
+    "long-hair",
+    "compassion"
+  ],
+  "symbols": [
+    "Mary Magdalene prostrate at Christ's feet — the posture of repentance and gratitude for forgiveness",
+    "flowing loose hair — traditionally associated with the sinful woman who wiped Jesus's feet with her hair",
+    "Christ's gesture toward her — divine mercy and acceptance of the penitent sinner",
+    "onlookers observing — the Pharisees or disciples who questioned Jesus's acceptance of sinners"
+  ],
+  "description": "A Rubens painting showing the risen or living Christ standing on the right in a red cloak over bare torso, gesturing compassionately toward Mary Magdalene who kneels at His feet, her long golden hair flowing down her back and her body prostrate in devotion. Several figures observe the scene from behind — an older bearded man and others with varied expressions of curiosity or skepticism. The composition uses Rubens's characteristic warm flesh tones and dynamic brushwork. The scene is set outdoors with a suggestion of a wooden cross or tree in the background.",
+  "theological_description": "This painting depicts the encounter between Christ and Mary Magdalene, likely conflating the scene of Luke 7:36-50 (the sinful woman who anointed Jesus's feet at Simon the Pharisee's house) with the tradition identifying that woman as Mary Magdalene. In Luke's account, a woman known as a sinner came to Jesus during a meal at a Pharisee's house, wet His feet with her tears, wiped them with her hair, kissed them, and anointed them with perfume. When the Pharisee objected, Jesus told the parable of the two debtors and declared, 'Her many sins have been forgiven — as her great love has shown' (Luke 7:47). This scene is foundational to the Christian theology of grace: forgiveness is not earned by moral achievement but received through faith and love. Jesus's words to her, 'Your faith has saved you; go in peace' (Luke 7:50), established the pattern for all Gospel encounters — the most broken and despised find acceptance from the one whom the self-righteous reject. The Pharisees' skepticism in the background embodies the perpetual scandal of grace: that God loves sinners freely and lavishly, as Paul would later articulate in Romans 5:8, 'While we were still sinners, Christ died for us.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.37-50",
+      "relevance": "primary",
+      "reason": "The sinful woman anointing Jesus's feet with tears and perfume, wiping them with her hair — the scene depicted"
+    },
+    {
+      "ref": "JHN.20.16-17",
+      "relevance": "primary",
+      "reason": "The risen Christ's encounter with Mary Magdalene — an alternative reading of this scene"
+    },
+    {
+      "ref": "ROM.5.8",
+      "relevance": "typological",
+      "reason": "While we were still sinners Christ died for us — the scandalous grace visible in Christ's acceptance"
+    },
+    {
+      "ref": "LUK.15.7",
+      "relevance": "allusion",
+      "reason": "More rejoicing in heaven over one sinner who repents — the joy of Magdalene's transformation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "tender",
+    "emotional",
+    "redemptive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0190883",
+    "title": "Christ and Mary Magdalene",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

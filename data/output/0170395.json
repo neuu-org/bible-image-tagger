@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with Saint Elizabeth and the Infant John the Baptist",
+  "tags": [
+    "holy-family",
+    "saint-elizabeth",
+    "infant-john-the-baptist",
+    "virgin-mary",
+    "joseph",
+    "infant-jesus",
+    "two-infants",
+    "classical-landscape",
+    "blue-robe",
+    "orange-mantle",
+    "maternal-scene",
+    "architectural-ruins"
+  ],
+  "symbols": [
+    "two infants together — the Forerunner and the Messiah, the old covenant greeting the new",
+    "Elizabeth elderly with young John — the miraculous birth to the barren",
+    "Mary holding Jesus — the Incarnation, God dwelling among his people",
+    "Joseph standing behind — the silent, faithful guardian",
+    "classical ruins — the old order passing away before the new"
+  ],
+  "description": "A classical composition showing five figures grouped together outdoors. At right, the Virgin Mary in a blue robe sits holding the infant Jesus, who reaches across toward the left. At center, the infant John the Baptist kneels or stands, looking up at Jesus. Saint Elizabeth, elderly with a white head covering, sits at left holding or supporting the young John. Behind them, Joseph stands in an orange-yellow mantle, looking down at the scene. In the background, classical architectural ruins and a distant landscape are visible under a clouded sky.",
+  "theological_description": "Poussin depicts the meeting of the two holy families — a scene extrapolated from Luke 1:39-45, the Visitation, where Mary visits Elizabeth and the infant John leaps in Elizabeth's womb at the presence of the Lord. The painting imagines a later encounter when both children are born. The infant Baptist's reverent posture toward Jesus anticipates his adult testimony: 'Look, the Lamb of God, who takes away the sin of the world!' (John 1:29) and his humble declaration: 'He must increase; I must decrease' (John 3:30). Elizabeth's aged body holding the child born to her beyond natural possibility recalls the angel's words: 'Nothing will be impossible with God' (Luke 1:37). The two infants together embody the transition from the old covenant to the new — John as the last prophet of the old order (Matthew 11:13), Jesus as the inaugurator of the kingdom. Joseph's quiet presence reflects his consistent scriptural role as the righteous guardian (Matthew 1:19). Mary's serene composure echoes Luke 1:46-47: 'My soul magnifies the Lord.'",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation — the encounter between Mary and Elizabeth that this scene extends"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John's future testimony identifying Jesus as the Lamb of God — prefigured in the infant Baptist's reverence"
+    },
+    {
+      "ref": "LUK.1.36-37",
+      "relevance": "primary",
+      "reason": "Elizabeth conceiving in old age — nothing is impossible with God"
+    },
+    {
+      "ref": "MAT.11.11-13",
+      "relevance": "allusion",
+      "reason": "John as the greatest born of women yet least in the kingdom — the transition between covenants"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "classical",
+    "familial",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170395",
+    "title": "The Holy Family with St. Elizabeth and John the Baptist",
+    "artist": "Nicolas Poussin",
+    "model": "claude-opus-4-6"
+  }
+}

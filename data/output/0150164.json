@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "The Good Samaritan",
+      "type": "PERSON"
+    },
+    {
+      "name": "The wounded traveler",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Good Samaritan Tending the Wounded Man",
+  "tags": [
+    "good-samaritan",
+    "parable",
+    "compassion",
+    "wounded-man",
+    "tending-wounds",
+    "fruit-tree",
+    "rural-landscape",
+    "red-roofed-house",
+    "road",
+    "expressionist",
+    "thick-brushwork",
+    "mercy",
+    "neighbor"
+  ],
+  "symbols": [
+    "the Samaritan tending the wounded man — radical compassion crossing social and ethnic boundaries",
+    "the road — the dangerous journey of life where mercy is needed",
+    "fruit tree — provision and life in the midst of suffering",
+    "distant figures on the road — possibly the priest and Levite who passed by"
+  ],
+  "description": "An expressionist painting with thick, heavy brushwork and bold colors. In the foreground, a large dark figure bends over a prone reddish figure lying on the ground, tending to him. Behind them, a large tree with red fruits dominates the middle ground. A house with a red roof stands at upper right. Two small distant figures are visible on a path in the background. The landscape is rendered in earthy browns, greens, yellows, and reds with vigorous, textured strokes.",
+  "theological_description": "Modersohn-Becker's expressionist rendering of the Parable of the Good Samaritan (Luke 10:25-37) strips the story to its emotional essence. Jesus told this parable in response to a lawyer's question, 'Who is my neighbor?' A man traveling from Jerusalem to Jericho was attacked by robbers and left half dead. A priest and a Levite — the religious establishment — passed by on the other side. But a Samaritan, despised as a heretic and foreigner by Jews, stopped, was moved with compassion, bandaged the man's wounds, and took him to an inn for care. The parable radically redefines 'neighbor' not as someone of your own tribe, but as anyone who shows mercy. Jesus concludes: 'Go and do likewise' (Luke 10:37). The thick, earthy palette conveys the visceral physicality of mercy — the willingness to touch broken flesh, to enter into another's suffering. Theologically, the parable has been read typologically since the early Church Fathers: the wounded man represents fallen humanity, the priest and Levite represent the Law's inability to save, and the Samaritan represents Christ himself, the despised one who alone brings healing. As Paul writes, 'While we were still sinners, Christ died for us' (Romans 5:8).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.10.25-37",
+      "relevance": "primary",
+      "reason": "The Parable of the Good Samaritan — the direct subject of the painting"
+    },
+    {
+      "ref": "LUK.10.33-34",
+      "relevance": "primary",
+      "reason": "The Samaritan seeing the wounded man, having compassion, and binding his wounds — the specific moment depicted"
+    },
+    {
+      "ref": "ROM.5.8",
+      "relevance": "typological",
+      "reason": "The Samaritan as a type of Christ who enters into human suffering while we were still helpless"
+    },
+    {
+      "ref": "MIC.6.8",
+      "relevance": "allusion",
+      "reason": "The prophetic call to 'love mercy' is embodied in the Samaritan's compassionate action"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "earthy",
+    "urgent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0150164",
+    "title": "The Good Samaritan",
+    "artist": "Paula Modersohn-Becker",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Saint Lucy",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gravediggers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Bishop",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourners",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Burial of Saint Lucy",
+  "tags": [
+    "burial-of-saint-lucy",
+    "martyrdom",
+    "gravediggers",
+    "bishop",
+    "dark-interior",
+    "dead-body",
+    "mourners",
+    "soldiers",
+    "dramatic-lighting",
+    "early-christian-martyr"
+  ],
+  "symbols": [
+    "massive gravediggers dominating the composition — the brute reality of death and burial that cannot diminish sanctity",
+    "tiny body of the saint on the ground — the fragility of the martyred body, powerful in its very weakness",
+    "bishop blessing — the Church's authority to sanctify even death",
+    "vast empty wall above — the overwhelming scale of mortality against which faith persists"
+  ],
+  "description": "A cavernous dark interior with enormous bare walls rising to an arch at upper left. In the lower portion, a group of figures gathers around a small body lying on the ground. Two massive muscular men, gravediggers, dominate the foreground — one with a spade, bending forward. Behind them, a figure in red (a bishop or clergy) raises his hand in blessing. Other mourners and armored soldiers stand in a loose group. The body on the ground is tiny compared to the standing figures. The vast empty wall above dwarfs the entire scene.",
+  "theological_description": "Caravaggio's Burial of Saint Lucy depicts the interment of the Syracusan virgin martyr killed during the Diocletian persecution (c. 304 AD). Lucy, whose name means 'light,' refused to renounce her faith and was executed. The composition's radical innovation — the enormous gravediggers dwarfing the saint's body — makes a profound theological statement: death appears to triumph, but the body being buried is the seed of the Church. Christ promised: 'Unless a grain of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many crops' (John 12:24). The bishop's blessing consecrates the burial ground, transforming a place of death into a site of future veneration. Lucy's martyrdom fulfills the pattern established by Christ himself: 'Whoever loses their life for my sake will find it' (Matthew 16:25). The vast emptiness above the scene suggests both the weight of death and the infinite space of heaven into which the martyred soul ascends.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.12.24",
+      "relevance": "primary",
+      "reason": "Unless a grain of wheat dies it remains alone — the martyr's death as seed of the Church"
+    },
+    {
+      "ref": "MAT.16.25",
+      "relevance": "primary",
+      "reason": "Whoever loses their life for Christ's sake will find it — the theology of martyrdom"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and I will give you the crown of life — the martyr's reward"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "somber",
+    "stark",
+    "mournful"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0160507",
+    "title": "Burial of Saint Lucy",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

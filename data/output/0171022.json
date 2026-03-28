@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {"name": "Israelite women and children", "type": "GROUP"},
+    {"name": "Israelite men", "type": "GROUP"}
+  ],
+  "event": "A scene of the Exodus with women and children resting",
+  "tags": [
+    "exodus",
+    "resting-figures",
+    "women-and-children",
+    "nursing-mother",
+    "travelers",
+    "wilderness",
+    "dog",
+    "walking-staff",
+    "grisaille-drawing",
+    "trees",
+    "encampment",
+    "weary-travelers"
+  ],
+  "symbols": [
+    "resting women and children — the vulnerable and weary amid the Exodus journey",
+    "nursing mother — life sustained even in the wilderness of wandering",
+    "walking staffs — the pilgrimage through the desert toward the Promised Land",
+    "distant crowd — the vast multitude of Israel on the move"
+  ],
+  "description": "A grey-toned (grisaille) drawing showing a foreground group of women, children, and men resting under trees. A central woman nurses an infant while others sit or recline around her. A man at right leans on a walking staff. A dog sits nearby. In the middle ground and background, a large crowd of figures moves through a landscape with trees and distant buildings. The drawing is rendered in grey wash and white heightening on toned paper, with a watermark or stamp visible. The mood is one of exhaustion and brief respite during a long journey.",
+  "theological_description": "Van Noort depicts a moment of rest during the Exodus, the great migration of Israel from Egypt to the Promised Land. The Book of Exodus and Numbers record the arduous forty-year journey through the wilderness with the entire community — men, women, children, and livestock (Exodus 12:37-38). The nursing mother at center recalls God's tender provision for his people even in the desert: 'Can a mother forget the baby at her breast? Though she may forget, I will not forget you' (Isaiah 49:15). The weariness of the travelers reflects the repeated complaints of the Israelites during the journey (Exodus 16:2-3, Numbers 11:4-6), yet also God's faithfulness in sustaining them: 'During the forty years that I led you through the wilderness, your clothes did not wear out, nor did the sandals on your feet' (Deuteronomy 29:5). The vast crowd in the background evokes the multitude who left Egypt — about 600,000 men on foot besides women and children (Exodus 12:37). This scene of rest amid the journey becomes a type of the pilgrim Church resting in hope during its earthly sojourn toward the heavenly promised land (Hebrews 4:9-11).",
+  "scripture_refs": [
+    {
+      "ref": "EXO.12.37-38",
+      "relevance": "primary",
+      "reason": "The Israelites set out with about 600,000 men plus women, children, and livestock"
+    },
+    {
+      "ref": "DEU.29.5",
+      "relevance": "primary",
+      "reason": "God sustained the people through forty years of wilderness wandering"
+    },
+    {
+      "ref": "ISA.49.15",
+      "relevance": "typological",
+      "reason": "A mother nursing her child — God's unforgetting care for his people"
+    },
+    {
+      "ref": "HEB.4.9-11",
+      "relevance": "allusion",
+      "reason": "A Sabbath rest remains for the people of God — the journey toward ultimate rest"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": ["weary", "tender", "restful", "melancholic"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0171022",
+    "title": "A Scene of Exodus with Women and Children Resting",
+    "artist": "Adam van Noort",
+    "model": "claude-opus-4-6"
+  }
+}

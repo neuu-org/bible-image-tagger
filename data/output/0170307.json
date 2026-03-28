@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "High Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and onlookers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Purification of the Virgin (Presentation at the Temple)",
+  "tags": [
+    "purification",
+    "presentation-at-the-temple",
+    "virgin-mary",
+    "temple-steps",
+    "high-priest",
+    "gothic-architecture",
+    "blue-robe",
+    "white-veil",
+    "candles",
+    "crowd",
+    "book-of-hours",
+    "golden-details"
+  ],
+  "symbols": [
+    "temple steps — Mary's ascent to fulfill the Law, the threshold between old and new covenants",
+    "high priest at the top — the Levitical order receiving the one who bears the new High Priest",
+    "Mary in white veil — ritual purity and obedience to the Mosaic law",
+    "Gothic temple architecture — the Church as the new temple",
+    "gathered crowd — Israel witnessing the fulfillment of the Law"
+  ],
+  "description": "A richly detailed illuminated manuscript page showing the Purification of the Virgin at the Temple. A grand Gothic-style temple dominates the center with ornate arched colonnades and stairs. At the top of the steps, a high priest in ceremonial robes receives or blesses figures ascending toward him. Mary, in a white veil and blue-gold robe, ascends the broad stone stairs at center. Below, a crowd of onlookers in varied colored garments watches from the left. At the lower right, a figure in white robes (possibly Simeon or another priest) stands apart.",
+  "theological_description": "The Limbourg Brothers depict the Presentation of Christ at the Temple / Purification of the Virgin, as narrated in Luke 2:22-38. According to the Mosaic Law (Leviticus 12:2-8), a woman was to present herself for purification forty days after giving birth to a male child. Simultaneously, every firstborn male was to be consecrated to the Lord (Exodus 13:2, 12). Mary and Joseph brought Jesus to the Temple in Jerusalem to fulfill both requirements, offering 'a pair of doves or two young pigeons' — the sacrifice of the poor (Luke 2:24, Leviticus 12:8). At the Temple, the aged Simeon, moved by the Holy Spirit, recognized the infant as the promised Messiah and proclaimed: 'My eyes have seen your salvation, which you have prepared in the sight of all nations: a light for revelation to the Gentiles, and the glory of your people Israel' (Luke 2:30-32). This event reveals the paradox of God submitting to his own Law: the Creator presenting himself as a redeemed firstborn, the sinless mother undergoing purification. It also marks the moment when the old covenant recognizes the new — Simeon, representing faithful Israel, acknowledges that the long-awaited consolation has arrived.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.22-24",
+      "relevance": "primary",
+      "reason": "Mary and Joseph bring Jesus to the Temple for purification and the presentation of the firstborn"
+    },
+    {
+      "ref": "LUK.2.25-32",
+      "relevance": "primary",
+      "reason": "Simeon receives the child and proclaims the Nunc Dimittis — a light for the Gentiles"
+    },
+    {
+      "ref": "LEV.12.2-8",
+      "relevance": "primary",
+      "reason": "The Mosaic law of purification after childbirth that Mary fulfills"
+    },
+    {
+      "ref": "EXO.13.2",
+      "relevance": "primary",
+      "reason": "Consecration of every firstborn male to the Lord — the law fulfilled by presenting Jesus"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord whom you seek will suddenly come to his temple — fulfilled when the infant Christ enters"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ceremonial",
+    "reverent",
+    "luminous",
+    "orderly"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170307",
+    "title": "The Purification of the Virgin",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

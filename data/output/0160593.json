@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "High Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants and Onlookers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Putti",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Marriage of the Virgin",
+  "tags": [
+    "marriage-of-the-virgin",
+    "betrothal",
+    "temple",
+    "high-priest",
+    "classical-columns",
+    "putti-above",
+    "ring-exchange",
+    "wedding",
+    "holy-family"
+  ],
+  "symbols": [
+    "ring exchange before the priest — the sacrament of marriage sanctified before God",
+    "temple columns — the sacred space where human covenant reflects divine covenant",
+    "putti descending — heaven blessing the union from which the Messiah will come",
+    "staff in Joseph's hand — the flowering rod tradition, God's selection of the guardian of the Holy Family"
+  ],
+  "description": "A classical temple interior with tall columns framing the scene. At center, a priest in elaborate robes joins the hands of a woman in a blue veil and a man in a golden robe. The woman extends her hand while the man places a ring on her finger. Other figures in colorful garments stand to either side as witnesses. Above, three small putti fly among the columns, scattering flowers. The architecture is grand with a vaulted perspective extending deep into the background. The palette is warm with blue, gold, red, and green.",
+  "theological_description": "The Marriage of the Virgin, a scene drawn from apocryphal tradition (the Protoevangelium of James), depicts the betrothal of Mary to Joseph. Though not in the canonical Gospels, it is theologically significant as the providential preparation for the Incarnation. Matthew records that 'before they came together, she was found to be pregnant through the Holy Spirit' (Matthew 1:18), and Joseph, 'a righteous man' (Matthew 1:19), became the guardian of both mother and child. The temple setting sanctifies the union — this marriage is the vessel through which God enters the world. The ring exchange symbolizes the covenant faithfulness that mirrors God's own fidelity to Israel: 'I will betroth you to me forever; I will betroth you in righteousness and justice, in love and compassion' (Hosea 2:19). The heavenly putti confirm that this seemingly ordinary human ceremony is the hinge of salvation history.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.18-20",
+      "relevance": "primary",
+      "reason": "The betrothal of Mary and Joseph, before the angelic announcement of the virgin conception"
+    },
+    {
+      "ref": "HOS.2.19",
+      "relevance": "typological",
+      "reason": "God's betrothal to his people in faithfulness — reflected in Mary and Joseph's holy marriage"
+    },
+    {
+      "ref": "LUK.1.27",
+      "relevance": "primary",
+      "reason": "A virgin pledged to be married to a man named Joseph — the canonical basis"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ceremonial",
+    "joyful",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160593",
+    "title": "The Marriage of the Virgin",
+    "artist": "Jacques Stella",
+    "model": "claude-opus-4-6"
+  }
+}

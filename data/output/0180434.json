@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Singing Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Singing Angels from the Ghent Altarpiece",
+  "tags": [
+    "ghent-altarpiece",
+    "singing-angels",
+    "choir",
+    "music-stand",
+    "brocade-robes",
+    "ornate-vestments",
+    "open-hymnal",
+    "jeweled-crowns",
+    "curly-hair",
+    "choral-singing",
+    "arched-panel",
+    "polyptych-detail",
+    "devotional-music"
+  ],
+  "symbols": [
+    "singing angels — the heavenly choir that eternally praises God, the celestial liturgy of worship",
+    "open hymnal on the music stand — the ordered worship of heaven, music as the language of divine praise",
+    "rich brocade vestments — the splendor and beauty of heavenly liturgy surpassing all earthly worship",
+    "multiple voices gathered together — the communion of the heavenly host united in a single song of adoration"
+  ],
+  "description": "A tall, narrow arched panel showing a group of approximately eight angels crowded together, singing from a large open book or hymnal placed on an ornate wooden music stand. The angels have youthful, androgynous faces with elaborate curly hair, and wear sumptuous vestments — the foremost figure is dressed in a magnificent red and gold brocade robe with intricate patterns. Others wear green, dark, and richly colored garments. Their mouths are open in song, and several look down at the book with expressions of intense concentration. The music stand is decorated with a carved figure in a niche.",
+  "theological_description": "This panel from the Ghent Altarpiece presents the angelic choir — a vision of the heavenly worship that pervades Scripture from beginning to end. Isaiah 6:3 records the seraphim crying one to another, 'Holy, holy, holy is the Lord of hosts; the whole earth is full of his glory.' Revelation 5:11-12 describes 'myriads of myriads and thousands of thousands' of angels singing 'Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing.' The Psalms repeatedly call upon the heavenly host to praise: 'Praise him, all his angels; praise him, all his hosts!' (Psalm 148:2). Van Eyck's meticulous realism — the individually characterized faces, the sumptuous vestments, the musical concentration — asserts that heavenly worship is not abstract but concrete, beautiful, and ordered. The rich brocade worn by the lead angel suggests the priestly vestments described in Exodus 28, connecting heavenly and earthly liturgy. The open hymnal affirms that worship is both spontaneous and ordered, both ecstatic and disciplined. This panel stands within the larger program of the Ghent Altarpiece as a depiction of the Adoration of the Lamb (Revelation 5), the ultimate act of worship toward which all creation moves.",
+  "scripture_refs": [
+    {
+      "ref": "REV.5.11-12",
+      "relevance": "primary",
+      "reason": "Myriads of angels singing praise to the Lamb is the primary biblical vision of the angelic choir depicted"
+    },
+    {
+      "ref": "ISA.6.2-3",
+      "relevance": "primary",
+      "reason": "The seraphim singing Holy, holy, holy is the foundational Old Testament image of angelic worship"
+    },
+    {
+      "ref": "PSA.148.1-2",
+      "relevance": "primary",
+      "reason": "The command to praise God from the heavens and for all angels to praise him"
+    },
+    {
+      "ref": "REV.4.8",
+      "relevance": "typological",
+      "reason": "The four living creatures who never cease singing day and night reflect the unending nature of heavenly worship"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "rapturous",
+    "devotional",
+    "splendid",
+    "harmonious"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0180434",
+    "title": "The Ghent Altar (detail)",
+    "artist": "Jan van Eyck",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint John the Baptist in the Wilderness",
+  "tags": [
+    "john-the-baptist",
+    "wilderness",
+    "camel-skin",
+    "halo",
+    "staff",
+    "pointing-gesture",
+    "standing-figure",
+    "landscape",
+    "prophet",
+    "forerunner",
+    "ascetic",
+    "long-hair",
+    "pink-mantle",
+    "green-garment"
+  ],
+  "symbols": [
+    "pointing finger — John's role as the one who points to Christ: 'Behold the Lamb of God'",
+    "staff or reed cross — the prophetic authority and the cross John proclaimed was coming",
+    "animal-skin garment — the ascetic wilderness life and identification with Elijah",
+    "halo — sanctity and John's unique role as the greatest born of women",
+    "wilderness landscape — the desert of preparation where John preached repentance"
+  ],
+  "description": "A full-length standing figure of a young man with long flowing hair and a golden halo. He wears a green undergarment partially covered by a pink-mauve mantle, suggestive of camel skin or rough fabric. He holds a tall thin staff or reed cross in one hand and raises the other in a pointing gesture. The figure stands in a rocky landscape with sparse trees visible in the background. The panel painting shows some wear and aging, with cracking visible across the surface.",
+  "theological_description": "Botticini's John the Baptist presents the forerunner of Christ in the wilderness where he was called to preach. Luke records: 'The word of God came to John the son of Zechariah in the wilderness. And he went into all the region around the Jordan, proclaiming a baptism of repentance for the forgiveness of sins' (Luke 3:2-3). Matthew describes his appearance: 'John wore a garment of camel's hair and a leather belt around his waist, and his food was locusts and wild honey' (Matthew 3:4), identifying him with Elijah (2 Kings 1:8). The pointing gesture is John's defining act — directing all attention away from himself toward Christ: 'The next day he saw Jesus coming toward him, and said, Behold, the Lamb of God, who takes away the sin of the world!' (John 1:29). John understood his role perfectly: 'He must increase, but I must decrease' (John 3:30). Jesus declared him the greatest of the prophets: 'Among those born of women there has arisen no one greater than John the Baptist' (Matthew 11:11). John fulfilled the prophecy of Isaiah: 'The voice of one crying in the wilderness: Prepare the way of the Lord, make his paths straight' (Isaiah 40:3, Matthew 3:3).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John's declaration 'Behold the Lamb of God' — his pointing gesture directs all to Christ"
+    },
+    {
+      "ref": "MAT.3.1-4",
+      "relevance": "primary",
+      "reason": "John preaching in the wilderness wearing camel's hair — the setting and appearance depicted"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "primary",
+      "reason": "The voice crying in the wilderness to prepare the Lord's way — John's prophetic identity"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "The greatest born of women — John's unique sanctity represented by his halo"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "allusion",
+      "reason": "He must increase, I must decrease — John's role as pointer rather than destination"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "prophetic",
+    "austere",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140729",
+    "title": "John the Baptist",
+    "artist": "Francesco Botticini",
+    "model": "claude-opus-4-6"
+  }
+}

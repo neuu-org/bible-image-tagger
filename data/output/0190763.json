@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints and apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Naval combatants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Battle of Lepanto with heavenly intercession",
+  "tags": [
+    "battle-of-lepanto",
+    "naval-battle",
+    "heavenly-intercession",
+    "virgin-mary",
+    "saints",
+    "angels",
+    "warships",
+    "divine-intervention",
+    "two-registers"
+  ],
+  "symbols": [
+    "heavenly figures above the battle — divine intercession determining the outcome of earthly warfare",
+    "Virgin Mary among the saints — the belief that Mary's intercession secured the Christian victory",
+    "ships in combat below — the clash between Christendom and the Ottoman fleet in 1571",
+    "clouds separating heaven and earth — the thin veil between the visible and invisible realms"
+  ],
+  "description": "Paolo Veronese's painting of the Battle of Lepanto is divided into two registers. The upper portion shows a heavenly scene on clouds with the Virgin Mary at center in a white robe, surrounded by saints in colorful garments and angels, all gazing down at the battle below and interceding before heaven. The lower register depicts the massive naval battle with dozens of galleys engaged in close combat, with masts, sails, and banners visible across a wide seascape. The composition links the earthly conflict directly to heavenly causation, presenting the Christian victory as divinely ordained.",
+  "theological_description": "Veronese's Battle of Lepanto (1571) presents the decisive naval victory of the Holy League over the Ottoman fleet as a direct result of heavenly intercession, particularly that of the Virgin Mary. While depicting a post-biblical historical event, the painting embodies biblical theology of divine sovereignty over earthly affairs. The two-register composition — heaven above, earth below — reflects the worldview of Ephesians 6:12: 'Our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world.' The saints interceding from heaven echo Hebrews 12:1, the 'great cloud of witnesses' surrounding believers. The concept of God directing the outcome of battles for His people has deep Old Testament roots: Exodus 15:3, 'The Lord is a warrior; the Lord is His name,' and 2 Chronicles 20:15, 'The battle is not yours, but God's.' The painting also reflects the theology of Psalm 46:9: 'He makes wars cease to the ends of the earth.' The Virgin's central position among the intercessors connects to the Catholic theology of Mary as advocate, rooted in her intercession at the wedding at Cana (John 2:3-5).",
+  "scripture_refs": [
+    {
+      "ref": "EPH.6.12",
+      "relevance": "typological",
+      "reason": "The struggle against spiritual powers in heavenly places — the painting's two-register cosmos"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "typological",
+      "reason": "The great cloud of witnesses surrounding believers — the saints interceding from above the battle"
+    },
+    {
+      "ref": "2CH.20.15",
+      "relevance": "typological",
+      "reason": "The battle is not yours but God's — divine sovereignty determining the outcome of the naval clash"
+    },
+    {
+      "ref": "JHN.2.3-5",
+      "relevance": "allusion",
+      "reason": "Mary's intercession at Cana as the foundation for her intercessory role depicted here"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "triumphant",
+    "epic",
+    "sacred"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0190763",
+    "title": "Battle of Lepanto",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

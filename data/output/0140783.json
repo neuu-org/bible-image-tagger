@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony of Padua",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Crowd of Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Miracle of Saint Anthony (The Healing of the Newborn)",
+  "tags": [
+    "saint-anthony",
+    "miracle",
+    "healing",
+    "infant",
+    "crowd",
+    "franciscan-habit",
+    "classical-statue",
+    "architectural-setting",
+    "group-scene",
+    "astonishment",
+    "holding-child",
+    "witnesses"
+  ],
+  "symbols": [
+    "saint holding or blessing the child — the miraculous power of faith acting through the saint",
+    "astonished crowd — the witnesses to divine power working through humble instruments",
+    "Franciscan habit — poverty and humility as the setting for miracles",
+    "classical statue in background — the pagan world overshadowed by Christian miracle"
+  ],
+  "description": "A fresco depicting a crowd scene in an architectural setting. At center, a figure in a Franciscan brown habit (Saint Anthony) holds or interacts with a small child or infant, surrounded by a group of men and women in colorful Renaissance clothing who react with gestures of astonishment and wonder. A classical statue is visible on a pedestal in the upper left background. Trees and landscape elements are visible to the right. The scene has the warm tones typical of Italian fresco painting.",
+  "theological_description": "Titian's fresco depicts one of the miracles attributed to Saint Anthony of Padua — traditionally identified as the miracle of the speaking infant, in which a newborn testified to its father's innocence. While Anthony is not a biblical figure, his miraculous ministry directly illustrates the New Testament teaching that signs and wonders accompany those who believe. Jesus promised: 'Truly, truly, I say to you, whoever believes in me will also do the works that I do; and greater works than these will he do, because I am going to the Father' (John 14:12). The astonished crowd mirrors the reaction to Jesus's own miracles: 'And amazement seized them all, and they glorified God and were filled with awe, saying, We have seen extraordinary things today' (Luke 5:26). Anthony's power to heal through faith embodies the apostolic commission: 'And these signs will accompany those who believe: in my name they will cast out demons... they will lay their hands on the sick, and they will recover' (Mark 16:17-18). The miracle points beyond the saint to Christ himself, the ultimate source of all healing power.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.14.12",
+      "relevance": "primary",
+      "reason": "Believers doing the works of Christ and greater — the saint performing miracles in Christ's name"
+    },
+    {
+      "ref": "LUK.5.26",
+      "relevance": "primary",
+      "reason": "The crowd's amazement at extraordinary things — the astonished witnesses in the fresco"
+    },
+    {
+      "ref": "MRK.16.17-18",
+      "relevance": "typological",
+      "reason": "Signs accompanying believers including healing the sick — the apostolic commission continued through the saints"
+    },
+    {
+      "ref": "ACT.3.6-8",
+      "relevance": "typological",
+      "reason": "Peter healing in the name of Jesus Christ — the pattern of apostolic miracle that Anthony continues"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "wondrous",
+    "astonished",
+    "dramatic"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0140783",
+    "title": "Saint Anthony",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

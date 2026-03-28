@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Saint Dorothy",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Agnes",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Kunigunde",
+      "type": "PERSON"
+    },
+    {
+      "name": "Young child with flowers",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints Dorothea, Agnes, and Kunigunde",
+  "tags": [
+    "saints",
+    "three-women",
+    "saint-dorothy",
+    "saint-agnes",
+    "saint-kunigunde",
+    "lamb",
+    "flowers",
+    "basket-of-roses",
+    "elegant-dresses",
+    "renaissance-costume",
+    "child",
+    "fur-trimmed-robe",
+    "golden-hair",
+    "outdoor-setting",
+    "tree"
+  ],
+  "symbols": [
+    "lamb held by Agnes — her attribute as the lamb of God's pure sacrifice, and a pun on her name (agnus = lamb)",
+    "basket of flowers/roses carried by the child — Saint Dorothy's attribute, the miraculous roses from paradise",
+    "three women together — the communion of virgin saints, models of faith and purity",
+    "elegant Renaissance dress — the nobility of Christian virtue"
+  ],
+  "description": "Three elegantly dressed young women stand together outdoors beneath a dark tree, with a landscape visible behind them. The woman at left has long golden hair and wears a green dress, holding what appears to be an apple. The central woman wears a blue dress with golden jewelry and holds a small white lamb. The woman at right wears a golden patterned dress with an elaborate headpiece. At their feet, a young child in a red fur-trimmed robe holds a basket of flowers and roses. The style is Northern Renaissance with meticulous detail in the fabrics and jewels.",
+  "theological_description": "Cranach's painting presents three virgin saints together as models of Christian faith, purity, and courage. Saint Agnes, holding the lamb (her iconographic attribute, derived from the Latin 'agnus'), was a Roman martyr who chose death over marriage to a pagan. Her story resonates with Revelation's praise of those 'who follow the Lamb wherever he goes' (Revelation 14:4). Saint Dorothy, whose attribute is the basket of roses and flowers carried by the child, was martyred under Diocletian. According to legend, as she was led to execution, a pagan lawyer mocked her promise to send him flowers from paradise — and miraculously, a child appeared bearing a basket of roses from heaven. This miracle echoes Jesus's promise of paradise: 'Today you will be with me in paradise' (Luke 23:43). Saint Kunigunde, wife of Emperor Henry II, was known for her piety and charitable works. Together, these three saints embody the biblical virtues praised in Proverbs 31 and the wisdom tradition: 'Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised' (Proverbs 31:30). Their communal portrayal reflects the communion of saints — the 'great cloud of witnesses' (Hebrews 12:1) who encourage the faithful in their own journey.",
+  "scripture_refs": [
+    {
+      "ref": "REV.14.4",
+      "relevance": "typological",
+      "reason": "Those who follow the Lamb — virgin saints devoted to Christ alone"
+    },
+    {
+      "ref": "LUK.23.43",
+      "relevance": "allusion",
+      "reason": "Paradise promised — Dorothy's miraculous roses from heaven"
+    },
+    {
+      "ref": "PRO.31.30",
+      "relevance": "allusion",
+      "reason": "A woman who fears the Lord is to be praised — the virtue these saints exemplify"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses — these saints encouraging the faithful"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "elegant",
+    "serene",
+    "devotional"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0150777",
+    "title": "Saints Dorothea, Agnes and Kunigunde",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

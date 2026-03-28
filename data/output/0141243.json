@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Saint Augustine",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Augustine in His Study",
+  "tags": [
+    "saint-augustine",
+    "study",
+    "writing",
+    "desk",
+    "books",
+    "bookshelf",
+    "church-father",
+    "scholar",
+    "bishop",
+    "seated-figure",
+    "green-robe",
+    "predella-panel",
+    "reading",
+    "contemplation",
+    "architectural-interior"
+  ],
+  "symbols": [
+    "books and writing desk — the life of theological scholarship and the written transmission of faith",
+    "study or cell — the contemplative life of the Church Father",
+    "Augustine seated in concentration — the labor of understanding and articulating divine truth",
+    "bookshelf behind — the accumulated wisdom of the Christian intellectual tradition"
+  ],
+  "description": "A small predella panel showing Saint Augustine seated at a writing desk in a study. He wears a dark green robe and bishop's mitre, bent over the desk in intense concentration, writing or reading. Behind him is a bookshelf with several volumes. The study is framed by plain architectural columns and walls in a simple, austere interior. The composition is horizontal and intimate, focusing entirely on the solitary scholar at work.",
+  "theological_description": "Botticelli's predella panel presents Saint Augustine of Hippo (354-430), the most influential of the Western Church Fathers, in his characteristic role as writer and thinker. Augustine's works — particularly the Confessions and The City of God — shaped Christian theology for centuries. While not a biblical figure, his intellectual labor directly served the mandate Paul gave to Timothy: 'Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth' (2 Timothy 2:15). Augustine's famous conversion came through hearing a child's voice say 'Take up and read' (Tolle Lege), leading him to Romans 13:13-14: 'Put on the Lord Jesus Christ, and make no provision for the flesh.' His theological method exemplified the scriptural principle: 'Come now, let us reason together, says the Lord' (Isaiah 1:18). The study setting embodies the Psalmist's aspiration: 'Oh how I love your law! It is my meditation all the day' (Psalm 119:97). Augustine's intellectual devotion demonstrates that loving God with all one's mind (Matthew 22:37) is itself a form of worship.",
+  "scripture_refs": [
+    {
+      "ref": "2TI.2.15",
+      "relevance": "primary",
+      "reason": "Rightly handling the word of truth — Augustine's lifework of theological scholarship"
+    },
+    {
+      "ref": "ROM.13.13-14",
+      "relevance": "primary",
+      "reason": "The text that converted Augustine — putting on the Lord Jesus Christ"
+    },
+    {
+      "ref": "PSA.119.97",
+      "relevance": "primary",
+      "reason": "Meditating on God's law all day — Augustine's scholarly devotion to Scripture"
+    },
+    {
+      "ref": "MAT.22.37",
+      "relevance": "allusion",
+      "reason": "Loving God with all the mind — intellectual pursuit as a form of devotion"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "studious",
+    "contemplative",
+    "austere",
+    "focused"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0141243",
+    "title": "St Augustine in his Study",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

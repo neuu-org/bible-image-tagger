@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Sibyls",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels/Putti",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Sibyls (Santa Maria della Pace fresco)",
+  "tags": [
+    "sibyls",
+    "santa-maria-della-pace",
+    "rome",
+    "prophetic-figures",
+    "scrolls",
+    "putti",
+    "high-renaissance",
+    "arch",
+    "seated-figures",
+    "draped-garments",
+    "classical-composition"
+  ],
+  "symbols": [
+    "sibyls with scrolls — pagan prophetesses who foretold the coming of Christ",
+    "angels holding tablets — divine revelation communicated through diverse channels",
+    "architectural setting above an arch — the threshold between the classical and Christian worlds",
+    "scrolls and books — the written prophecy pointing to Christ from outside Israel"
+  ],
+  "description": "A wide lunette fresco above an arch showing several female figures (Sibyls) in richly draped classical garments, seated and standing in dynamic poses. They hold scrolls and tablets. Putti and angelic figures weave between them, some holding additional inscribed tablets. The composition is arranged symmetrically around the central keystone of the arch below. The figures are rendered in the High Renaissance style with monumental forms and flowing drapery. The palette includes warm earth tones, blues, and reds against a sky background.",
+  "theological_description": "Raphael's Sibyls fresco in Santa Maria della Pace presents the classical prophetesses whom early Christian tradition believed had foretold aspects of Christ's coming from outside the Hebrew prophetic tradition. The Church Fathers, including Augustine and Lactantius, argued that God prepared the Gentile world for the Gospel through these figures. This concept finds biblical support in Paul's speech in Athens: 'The God who made the world and everything in it... he made from one man every nation of mankind to live on all the face of the earth... that they should seek God, and perhaps feel their way toward him and find him' (Acts 17:24-27). The sibyls' scrolls parallel the Hebrew prophets' writings — both point to Christ, fulfilling the universal scope of God's revelation. Paul argues: 'For what can be known about God is plain to them, because God has shown it to them' (Romans 1:19). The placement above a church arch suggests that all prophecy — Hebrew and Gentile — converges at the threshold of the Gospel, where 'there is neither Jew nor Greek... for you are all one in Christ Jesus' (Galatians 3:28).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.17.24-27",
+      "relevance": "primary",
+      "reason": "God making all nations to seek him — the sibyls as pagan figures groping toward divine truth"
+    },
+    {
+      "ref": "ROM.1.19-20",
+      "relevance": "primary",
+      "reason": "What can be known of God being plain to all — general revelation accessible even to pagans"
+    },
+    {
+      "ref": "GAL.3.28",
+      "relevance": "allusion",
+      "reason": "Neither Jew nor Greek in Christ — the sibyls representing Gentile participation in prophetic witness"
+    },
+    {
+      "ref": "ACT.17.28",
+      "relevance": "allusion",
+      "reason": "Paul quoting pagan poets — the precedent for finding truth in non-Israelite sources"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "monumental",
+    "prophetic",
+    "classical",
+    "grand"
+  ],
+  "period": "Prophetic",
+  "_meta": {
+    "key": "0141192",
+    "title": "The Sibyls (Santa Maria della Pace)",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Boy Jesus",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Temple Visitors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Jesus Found in the Temple",
+  "tags": [
+    "boy-jesus",
+    "temple",
+    "finding-in-the-temple",
+    "twelve-year-old-jesus",
+    "mary-and-joseph",
+    "jerusalem",
+    "concern",
+    "columns",
+    "steps",
+    "temple-courts",
+    "reunion",
+    "head-covering",
+    "seeking"
+  ],
+  "symbols": [
+    "boy Jesus between Mary and Joseph — caught between earthly family and heavenly Father's business",
+    "temple architecture — the house of God where the Son of God is most at home",
+    "Mary's gestures of concern — the anguished mother finding her lost child",
+    "temple steps behind — the ascent to wisdom and understanding",
+    "Jesus's calm posture — the divine child already conscious of his mission"
+  ],
+  "description": "A scene set in a temple courtyard with ornate columns and steps. At center, a boy of about twelve (Jesus) walks between two adults — a woman in white and gold head covering (Mary) at the left who reaches toward him with concern, and another figure (Joseph) at the right. The boy appears calm while the adults show relief and agitation. In the background, other figures ascend steps and stand near the temple columns. The setting is rendered in warm earthy tones with detailed architectural elements suggesting a grand Middle Eastern temple.",
+  "theological_description": "Tissot's painting depicts the moment when Mary and Joseph, after searching anxiously for three days, found the twelve-year-old Jesus in the Jerusalem temple. Luke records: 'After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions. And all who heard him were amazed at his understanding and his answers.' When his parents saw him, Mary said, 'Son, why have you treated us so? Behold, your father and I have been searching for you in great distress.' And Jesus replied with the first recorded words of his life: 'Why were you looking for me? Did you not know that I must be in my Father's house?' (Luke 2:46-49). This scene reveals the first glimpse of Jesus's divine self-consciousness — his awareness that the temple is his Father's house and that he has a mission that transcends even family bonds. Mary's distress fulfills Simeon's earlier prophecy that a sword would pierce her soul (Luke 2:35). Yet Luke adds: 'His mother treasured up all these things in her heart. And Jesus increased in wisdom and in stature and in favor with God and man' (Luke 2:51-52). This episode bridges the hidden years between the Nativity and the public ministry.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.41-52",
+      "relevance": "primary",
+      "reason": "The entire narrative of Jesus found in the temple at age twelve — the direct scene depicted"
+    },
+    {
+      "ref": "LUK.2.49",
+      "relevance": "primary",
+      "reason": "Jesus's first recorded words: 'I must be in my Father's house' — his divine self-awareness"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "The sword piercing Mary's soul — her anguish at losing and finding Jesus foreshadows greater sorrows"
+    },
+    {
+      "ref": "LUK.2.52",
+      "relevance": "allusion",
+      "reason": "Jesus increasing in wisdom and stature — this episode marks a turning point in his human development"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anxious",
+    "relieved",
+    "revelatory",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0140673",
+    "title": "Jesus Found in the Temple",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

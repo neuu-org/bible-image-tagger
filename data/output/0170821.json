@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Visitation of Mary to Elizabeth",
+  "tags": [
+    "visitation",
+    "mary-and-elizabeth",
+    "book-of-hours",
+    "magnificat-text",
+    "doorway",
+    "embrace",
+    "blue-robe",
+    "latin-text",
+    "decorated-initial",
+    "gothic-architecture"
+  ],
+  "symbols": [
+    "two women embracing at a doorway — the meeting of the old and new covenants",
+    "Magnificat text on the page — Mary's great hymn of praise sparked by this encounter",
+    "doorway or threshold — the liminal moment when God's promise leaps with recognition"
+  ],
+  "description": "An illuminated manuscript page from a Book of Hours. The left portion shows a miniature painting of two women meeting at the entrance of a Gothic building. One woman in a blue robe (Mary) greets another in a green or dark robe (Elizabeth), their hands touching in an embrace or handclasp. The building behind has a tiled roof and Gothic window. Above in a small upper window, a figure watches. The right portion of the page contains Latin text in black and red ink with an ornate decorated initial letter 'M' (beginning the Magnificat).",
+  "theological_description": "The Limbourg Brothers depict the Visitation, one of the most theologically rich encounters in Scripture (Luke 1:39-56). Mary, newly pregnant with Jesus after the Annunciation, travels in haste to visit her older cousin Elizabeth, who is six months pregnant with John the Baptist. Upon Mary's greeting, Elizabeth was 'filled with the Holy Spirit' and exclaimed: 'Blessed are you among women, and blessed is the fruit of your womb! But why am I so favored, that the mother of my Lord should come to me? As soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy' (Luke 1:42-44). The infant John, even in utero, recognizes the presence of the Messiah — the forerunner's first act of witness. Mary responds with the Magnificat (Luke 1:46-55), the great hymn of praise whose opening words appear on the manuscript page: 'My soul magnifies the Lord.' The Magnificat is revolutionary theology set to poetry — God has 'brought down rulers from their thrones and lifted up the humble; he has filled the hungry with good things but has sent the rich away empty' (Luke 1:52-53). This meeting of two pregnant women becomes the hinge point where the old covenant (represented by Elizabeth and John) meets the new (represented by Mary and Jesus).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "Mary visits Elizabeth, the baby leaps, Elizabeth proclaims Mary blessed — the scene depicted"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat — Mary's hymn of praise whose text appears on the manuscript page"
+    },
+    {
+      "ref": "LUK.1.42-44",
+      "relevance": "primary",
+      "reason": "Elizabeth's Spirit-filled proclamation and John leaping in the womb"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "intimate",
+    "devotional",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170821",
+    "title": "The Visitation",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Peter II Duke of Bourbon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Peter II Duke of Bourbon presented by Saint Peter (donor panel)",
+  "tags": [
+    "donor-portrait",
+    "saint-peter",
+    "patron-saint",
+    "keys-of-peter",
+    "triptych-wing",
+    "praying-donor",
+    "green-mantle",
+    "landscape-background"
+  ],
+  "symbols": [
+    "keys held by Saint Peter — the keys of the kingdom given by Christ (Matthew 16:19)",
+    "saint's hand on the donor's shoulder — patronal protection, the saint presenting the faithful to God",
+    "donor's praying hands — the posture of devotion and supplication before God",
+    "green mantle — the verdant life of the saint who guards the gates of heaven"
+  ],
+  "description": "A half-length painting showing two figures before an arched window revealing a green landscape with a river. In the foreground, a man with dark hair in a black garment kneels with hands clasped in prayer. Behind and above him, a larger bearded figure in a green mantle holds a set of golden keys in one hand while the other hand rests protectively on the kneeling man's shoulder. The bearded saint gazes outward with a dignified expression. The landscape behind shows gentle hills, trees, and a winding river.",
+  "theological_description": "This donor panel from a triptych shows Peter II Duke of Bourbon under the protection of his patron saint, the Apostle Peter. The keys in Peter's hand are his defining attribute, given by Christ himself: 'I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven' (Matthew 16:18-19). The saint's protective hand on the donor's shoulder enacts the intercessory role of the saints — presenting the faithful before God. This tradition draws on the Pauline understanding that the Church is one body where each member cares for the others (1 Corinthians 12:25-26). The donor's praying hands express the humility necessary for approaching God: 'Humble yourselves before the Lord, and he will lift you up' (James 4:10).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Christ giving Peter the keys of the kingdom — the golden keys held by the saint"
+    },
+    {
+      "ref": "JAS.4.10",
+      "relevance": "allusion",
+      "reason": "Humble yourselves before the Lord — the donor's posture of humble prayer"
+    },
+    {
+      "ref": "1CO.12.25-26",
+      "relevance": "allusion",
+      "reason": "Members of the body caring for one another — the saint's intercessory patronage"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "solemn",
+    "protective"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0160646",
+    "title": "Peter II Duke of Bourbon presented by St. Peter, left hand wing of a triptych",
+    "artist": "Jean Hey",
+    "model": "claude-opus-4-6"
+  }
+}

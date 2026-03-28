@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "virgin-and-child",
+    "madonna",
+    "infant-jesus",
+    "dark-veil",
+    "red-mantle",
+    "tender-gaze",
+    "stone-ledge",
+    "half-length",
+    "maternal-embrace",
+    "golden-curls",
+    "landscape-background"
+  ],
+  "symbols": [
+    "Virgin holding the Christ Child — the Theotokos bearing the incarnate God",
+    "dark veil over Mary's head — humility, mourning, and the foreshadowing of the Passion",
+    "red mantle — the blood of Christ's sacrifice anticipated in the mother's garment",
+    "stone parapet — the boundary between the sacred image and the viewer's world",
+    "Child gazing upward at Mary — the divine Son's human dependence and filial love"
+  ],
+  "description": "A half-length image of the Virgin Mary holding the infant Christ against her body. Mary wears a deep crimson-red mantle over a dark blue or black veil that covers her hair and falls over her shoulders. Her face is pale with a gentle, downward-looking expression of tenderness and quiet sorrow. The child has golden-red curly hair and wears a thin white garment; he looks upward toward Mary's face, one small hand resting on her arm. They stand behind a stone ledge or parapet. The background shows a pale sky with a hint of landscape at the right edge.",
+  "theological_description": "Bellini's Madonna with Child presents the central mystery of the Incarnation: the eternal Word made flesh (John 1:14), held in the arms of his human mother. Mary's contemplative, slightly sorrowful gaze foreshadows the prophecy of Simeon: 'A sword will pierce your own soul too' (Luke 2:35). The intimate physical bond between mother and child visualizes the full humanity Christ assumed — the God who nursed at a woman's breast, as Isaiah poetically anticipates (Isaiah 49:15). The stone parapet, a convention of Venetian devotional painting, functions as a symbolic altar upon which the child is presented, prefiguring the eucharistic offering of Christ's body. Mary's role as Theotokos — God-bearer — affirmed at Ephesus in 431 AD, is the theological heart of every Madonna image: she who was 'blessed among women' (Luke 1:42) carried within her womb the one whom the heavens cannot contain. The child's upward gaze at his mother captures the paradox of divine condescension: the Creator of all things looks to a creature for sustenance and love.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation made visible in the infant held by Mary"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy of a sword piercing Mary's soul, reflected in her pensive, sorrowful expression"
+    },
+    {
+      "ref": "LUK.1.42-43",
+      "relevance": "primary",
+      "reason": "Elizabeth's declaration: blessed are you among women, and blessed is the fruit of your womb"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent his Son, born of a woman — the theological reality of divine birth through Mary"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "contemplative",
+    "devotional",
+    "melancholic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0170086",
+    "title": "Madonna with Child",
+    "artist": "Giovanni Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

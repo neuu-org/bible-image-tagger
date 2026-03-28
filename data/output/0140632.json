@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Christ (Man of Sorrows)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Gregory",
+      "type": "PERSON"
+    },
+    {
+      "name": "Clergy and Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Mass of Saint Gregory",
+  "tags": [
+    "mass-of-saint-gregory",
+    "eucharist",
+    "man-of-sorrows",
+    "altar",
+    "candles",
+    "chalice",
+    "instruments-of-the-passion",
+    "arma-christi",
+    "liturgy",
+    "priest",
+    "kneeling",
+    "vision",
+    "real-presence",
+    "triptych-panel"
+  ],
+  "symbols": [
+    "Christ appearing on the altar — the Real Presence in the Eucharist made visible",
+    "instruments of the Passion surrounding Christ — the arma Christi as witnesses to the sacrifice",
+    "altar with candles and chalice — the liturgical setting of the Mass",
+    "Gregory kneeling — the celebrant's faith rewarded with a vision of what the sacrament truly contains",
+    "Man of Sorrows posture — Christ's perpetual offering of himself for the sins of the world"
+  ],
+  "description": "A tall, narrow panel painting showing Christ as the Man of Sorrows appearing above an altar during Mass. Christ stands in a luminous arched niche, wearing a white loincloth, with instruments of the Passion (crosses, ladder, spear, nails) arranged in the space around him. Below, a priest in white vestments kneels at the altar which holds candles and a chalice. Other clergy and attendants kneel on either side, including a figure in a dark habit and a figure in a red cap. The composition is vertically divided by the altar line, with the miraculous vision above and the earthly Mass below.",
+  "theological_description": "Bosch's Mass of Saint Gregory depicts the famous medieval legend in which Pope Gregory the Great, while celebrating the Eucharist, was granted a vision of Christ as the Man of Sorrows appearing on the altar — confirming the doctrine of the Real Presence. While the legend itself is post-biblical, it directly illustrates Jesus's own words at the Last Supper: 'This is my body, which is given for you. Do this in remembrance of me' (Luke 22:19). The instruments of the Passion surrounding Christ — the cross, nails, spear, crown of thorns — echo Isaiah's prophecy: 'He was pierced for our transgressions; he was crushed for our iniquities' (Isaiah 53:5). The Eucharistic theology visualized here reflects Paul's teaching: 'For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes' (1 Corinthians 11:26). The Man of Sorrows posture draws from Isaiah 53:3: 'He was despised and rejected by men, a man of sorrows and acquainted with grief.' The vision affirms that every celebration of the Eucharist makes present the once-for-all sacrifice of Calvary — as Hebrews teaches, Christ 'entered once for all into the holy places... by means of his own blood, thus securing an eternal redemption' (Hebrews 9:12).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist — 'This is my body given for you' — the theological heart of the Mass depicted"
+    },
+    {
+      "ref": "1CO.11.26",
+      "relevance": "primary",
+      "reason": "Proclaiming the Lord's death in the Eucharist — the Mass as ongoing memorial of the sacrifice"
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "primary",
+      "reason": "The Man of Sorrows pierced for transgressions — Christ's posture and the surrounding arma Christi"
+    },
+    {
+      "ref": "HEB.9.12",
+      "relevance": "typological",
+      "reason": "Christ entering the holy place with his own blood — the vision reveals the eternal sacrifice present in the liturgy"
+    },
+    {
+      "ref": "JHN.6.53-56",
+      "relevance": "allusion",
+      "reason": "Unless you eat the flesh of the Son of Man — the Eucharistic discourse underlying the Real Presence vision"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "mystical",
+    "solemn",
+    "reverent",
+    "sacred"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0140632",
+    "title": "The Legend of the Mass of St. Gregory",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

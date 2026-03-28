@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "name": "Thomas",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Thomas the Apostle",
+  "tags": [
+    "saint-thomas",
+    "apostle",
+    "doubting-thomas",
+    "spear",
+    "halo",
+    "profile-view",
+    "brown-cloak",
+    "dark-background",
+    "contemplative"
+  ],
+  "symbols": [
+    "spear or lance — Thomas's traditional attribute, the instrument of his martyrdom in India",
+    "thin golden halo — sanctity achieved through faith that overcame doubt",
+    "profile turned away — the apostle who initially turned from belief but was brought back by encounter with the risen Christ",
+    "open hand — the hand that would touch Christ's wounds and proclaim 'My Lord and my God'"
+  ],
+  "description": "A half-length portrait of a young dark-haired man shown in three-quarter profile, looking to the right. He wears a brown tunic over a white draped robe. In his right hand he holds a tall wooden staff or spear vertically. A thin golden halo circles his head. His left hand is extended with palm open. The background is dark gray with a diagonal line of light dividing the space. The figure is lit from the left, illuminating his face and the white drapery.",
+  "theological_description": "Thomas, known as Didymus ('the Twin'), is forever associated with doubt and its resolution. When told of the Resurrection, he declared: 'Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe' (John 20:25). A week later, Jesus appeared and invited Thomas to touch his wounds. Thomas's response — 'My Lord and my God!' (John 20:28) — is the highest christological confession in the Fourth Gospel, explicitly declaring Jesus's divinity. Christ's response establishes the paradigm for all subsequent Christian faith: 'Because you have seen me, you have believed; blessed are those who have not seen and yet have believed' (John 20:29). Tradition holds that Thomas carried the Gospel to India, where he was martyred by a spear — the attribute he holds here. His journey from skepticism to the boldest confession of faith makes him the patron of all who struggle to believe.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.20.24-29",
+      "relevance": "primary",
+      "reason": "Thomas's doubt and confession — 'My Lord and my God' — the defining episode of his life"
+    },
+    {
+      "ref": "JHN.11.16",
+      "relevance": "allusion",
+      "reason": "Thomas saying 'Let us also go, that we may die with him' — his earlier courage"
+    },
+    {
+      "ref": "JHN.14.5",
+      "relevance": "allusion",
+      "reason": "Thomas asking 'Lord, we don't know where you are going' — his honest questioning"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "solemn",
+    "resolute"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0160715",
+    "title": "St. Thomas",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

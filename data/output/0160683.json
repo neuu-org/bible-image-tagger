@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Salome (Daughter of Herodias)",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Baptist (Head)",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Daughter of Herodias with the Head of John the Baptist",
+  "tags": [
+    "salome",
+    "daughter-of-herodias",
+    "head-of-john-the-baptist",
+    "severed-head",
+    "platter",
+    "blue-dress",
+    "braided-hair",
+    "martyrdom",
+    "dark-background",
+    "landscape-window"
+  ],
+  "symbols": [
+    "severed head on a platter — the cost of speaking truth to power, the prophet's ultimate sacrifice",
+    "Salome's calm expression — the cold indifference of sin to the consequences of its demands",
+    "window with landscape behind — the wider world indifferent to the murder of the righteous",
+    "blue dress — a mockery of purity, beauty concealing deadly purpose"
+  ],
+  "description": "A half-length portrait of a young woman with golden-brown braided hair, wearing a vivid blue dress with white sleeves. She turns toward the viewer with a composed, serene expression. In her arms she holds, resting on a ledge, the severed head of a bearded man with closed eyes lying on what appears to be a cloth or platter. Behind her to the right, an opening reveals a landscape with blue mountains and a sunset sky. The left background is dark.",
+  "theological_description": "This painting depicts Salome (identified in the Gospels only as 'the daughter of Herodias') carrying the head of John the Baptist after his execution by Herod Antipas. The Baptist was imprisoned for condemning Herod's unlawful marriage to Herodias (Mark 6:17-18). When Salome's dance pleased Herod, he swore to give her whatever she asked. Prompted by her mother, she demanded: 'I want you to give me right now the head of John the Baptist on a platter' (Mark 6:25). The calm beauty of Salome holding the prophet's head creates a deliberate moral dissonance — the banality of evil masquerading as pleasure. John's death for speaking truth to power follows the pattern of all the prophets persecuted for righteousness: 'Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven' (Matthew 5:10). Jesus himself identified John as 'more than a prophet' and the greatest born of women (Matthew 11:9-11).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.17-28",
+      "relevance": "primary",
+      "reason": "The complete narrative of John the Baptist's imprisonment and beheading at Herod's feast"
+    },
+    {
+      "ref": "MAT.14.6-11",
+      "relevance": "primary",
+      "reason": "Matthew's parallel account of Salome's dance and the Baptist's execution"
+    },
+    {
+      "ref": "MAT.5.10",
+      "relevance": "allusion",
+      "reason": "Blessed are those persecuted for righteousness — John martyred for speaking truth"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Among those born of women there has not risen anyone greater than John the Baptist"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "disturbing",
+    "serene",
+    "cold"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0160683",
+    "title": "The Daughter of Herodias",
+    "artist": "Sebastiano del Piombo",
+    "model": "claude-opus-4-6"
+  }
+}
