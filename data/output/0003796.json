@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Stephen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Poor and Needy",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint Stephen Distributing Alms",
+  "tags": [
+    "saint-stephen",
+    "almsgiving",
+    "deacon",
+    "charity",
+    "early-church",
+    "poor",
+    "acts-of-mercy"
+  ],
+  "symbols": [
+    "Stephen giving to the poor — the diaconal ministry of caring for widows and the needy",
+    "haloed figure of Stephen — his sanctity as the first Christian martyr",
+    "city architecture in background — Jerusalem, the setting of the early Church",
+    "recipients including women and children — the vulnerable whom the deacons served"
+  ],
+  "description": "A fresco showing a haloed young man in a deacon's vestment (Stephen) distributing alms to a group of people outside a walled city. He stands at the left, offering something to women and children who approach from the right. One woman holds a child, another reaches out. Behind Stephen, additional figures observe. The background features a fortified city with towers and pink buildings. The fresco is set within an arched architectural frame and shows characteristic early Renaissance coloring.",
+  "theological_description": "Saint Stephen, the first of the seven deacons chosen in Acts 6:1-6, was appointed specifically to ensure that Hellenistic widows received fair distribution of food. This scene shows the practical ministry that preceded his great speech before the Sanhedrin (ACT.7) and his martyrdom as the first Christian to die for the faith (ACT.7.54-60). Stephen's service embodies Christ's own teaching: 'It is more blessed to give than to receive' (ACT.20.35). The diaconate was created precisely because the apostles needed to devote themselves to prayer and the ministry of the Word while others served tables — showing that both spiritual and material ministry are essential to the Church. Stephen was described as 'full of grace and power' (ACT.6.8), and his charitable work was inseparable from his powerful witness. His almsgiving fulfills the pattern established in Acts 4:34-35, where the early community shared so that none had need.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.6.1-6",
+      "relevance": "primary",
+      "reason": "The appointment of Stephen as deacon to serve the Hellenistic widows"
+    },
+    {
+      "ref": "ACT.6.8",
+      "relevance": "primary",
+      "reason": "Stephen full of grace and power, performing the ministry depicted"
+    },
+    {
+      "ref": "ACT.4.34-35",
+      "relevance": "primary",
+      "reason": "The early Church sharing possessions so none were in need"
+    },
+    {
+      "ref": "ACT.20.35",
+      "relevance": "allusion",
+      "reason": "It is more blessed to give than to receive — the principle behind Stephen's ministry"
+    },
+    {
+      "ref": "MAT.25.35-40",
+      "relevance": "typological",
+      "reason": "Whatever you did for the least of these, you did for me — the christological basis of charity"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "dignified",
+    "charitable"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0003796",
+    "title": "St. Stephen Distributing Alms",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Holy Family with Saint Anne",
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "infant-jesus",
+    "saint-anne",
+    "joseph",
+    "nursing-madonna",
+    "maternal",
+    "devotional",
+    "family"
+  ],
+  "symbols": [
+    "nursing infant — the full humanity of Christ, God made flesh needing sustenance",
+    "Mary at center — her role as Theotokos, Mother of God",
+    "Saint Anne's protective embrace — the generational lineage of the Messiah",
+    "Joseph's contemplative gesture — the silent, faithful guardian of the Holy Family",
+    "blue sky with clouds — divine presence and heavenly favor"
+  ],
+  "description": "Four figures are grouped tightly together against a blue sky with white clouds. At center, a young woman in a red mantle over a blue dress holds a nude infant at her breast, nursing him. To the left, an older woman in a dark red robe and white veil reaches toward the child with a protective, tender gesture. To the right, a bearded man in a golden-yellow mantle rests his chin on his hand in a pensive pose. The infant reaches toward the older woman. The colors are intense and saturated with El Greco's characteristic elongated forms.",
+  "theological_description": "El Greco depicts the extended Holy Family: Mary nursing the infant Jesus, with her mother Anne and husband Joseph. The nursing Madonna emphasizes the full reality of the Incarnation — the eternal Word truly became flesh and depended on His mother for nourishment. Saint Anne's presence highlights the generational chain of grace: God prepared Mary through her mother's lineage to become the vessel of the Incarnation. The Protoevangelium tradition celebrates Anne and Joachim as Mary's parents. Joseph's thoughtful posture reflects his role as the righteous, contemplative guardian described in Matthew 1:19-24. The intimate family grouping echoes the domestic theology that the Holy Family became the model for Christian family life. Luke records that Jesus 'went down with them and came to Nazareth and was submissive to them' (Luke 2:51), affirming the sanctity of family bonds.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.51",
+      "relevance": "primary",
+      "reason": "Jesus was submissive to His parents in Nazareth — the Holy Family's domestic life"
+    },
+    {
+      "ref": "MAT.1.19-24",
+      "relevance": "primary",
+      "reason": "Joseph the righteous man who took Mary as his wife and protected the child"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "God sent forth His Son, born of a woman — the Incarnation through Mary's flesh"
+    },
+    {
+      "ref": "LUK.1.42-43",
+      "relevance": "allusion",
+      "reason": "Blessed is the fruit of your womb — the blessedness of Mary and her child"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011795",
+    "title": "Holy Family with St. Anne",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

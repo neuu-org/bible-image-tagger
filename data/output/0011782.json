@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Judith",
+      "type": "PERSON"
+    },
+    {
+      "name": "Maidservant",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Judith with the Head of Holofernes",
+  "tags": [
+    "judith",
+    "holofernes",
+    "sword",
+    "tent",
+    "maidservant",
+    "curtains",
+    "heroine",
+    "decapitation",
+    "old-testament-apocrypha",
+    "deliverance"
+  ],
+  "symbols": [
+    "sword held by Judith — the instrument of divine deliverance through human agency",
+    "ornate tent with pink curtains — Holofernes' luxurious military tent where the deed was done",
+    "maidservant with bag — the servant who carried the severed head back to Bethulia",
+    "Judith's composed stance — courage and righteous determination in the face of danger"
+  ],
+  "description": "Two female figures stand within an elaborate tent framed by pink satin curtains pulled back by cords. The taller woman at center wears a blue draped gown and holds a short sword, gazing calmly at the viewer. Her hair is braided and adorned. To her left and slightly behind, a shorter figure in a yellow tunic and white turban holds what appears to be a bag or sack. The tent interior features ornate gold patterning along the top edge. Beyond the tent, a dark landscape is faintly visible.",
+  "theological_description": "Judith is the heroine of the deuterocanonical Book of Judith, in which she saves the Israelite city of Bethulia from the Assyrian general Holofernes. The beautiful widow enters the enemy camp, gains Holofernes' trust, and when he is drunk, decapitates him with his own sword (Jdt 13:6-8). Mantegna depicts the aftermath: Judith with the sword and her maidservant carrying the head in a bag. The story parallels other biblical narratives of God using unexpected agents — particularly women — to deliver Israel: Jael who killed Sisera with a tent peg (Judg 4:21), and Esther who saved her people from Haman's genocide. Judith's prayer before the deed echoes throughout: 'Give to me, a widow, the strong hand to do what I plan' (Jdt 9:9). The narrative affirms that God's power is made perfect in weakness and that deliverance comes not through military might but through faith and courage.",
+  "scripture_refs": [
+    {
+      "ref": "JDT.13.6-8",
+      "relevance": "primary",
+      "reason": "Judith takes Holofernes' sword and strikes his neck twice, cutting off his head"
+    },
+    {
+      "ref": "JDT.9.9",
+      "relevance": "primary",
+      "reason": "Judith's prayer for strength to carry out her plan of deliverance"
+    },
+    {
+      "ref": "JDG.4.21",
+      "relevance": "typological",
+      "reason": "Jael kills Sisera — a parallel story of a woman delivering Israel from a general"
+    },
+    {
+      "ref": "JDT.13.15",
+      "relevance": "allusion",
+      "reason": "Judith displays the head and declares God struck Holofernes by the hand of a woman"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "tense",
+    "dignified"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0011782",
+    "title": "Judith",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

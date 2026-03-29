@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Birth of Christ (Oberried Altarpiece)",
+  "tags": [
+    "nativity",
+    "birth-of-christ",
+    "angels",
+    "shepherds",
+    "manger",
+    "adoration"
+  ],
+  "symbols": [
+    "radiant infant — the Light of the World",
+    "angels worshiping — heavenly hosts celebrating the Incarnation",
+    "rustic stable — God entering the humblest place"
+  ],
+  "description": "The right interior wing of the Oberried Altarpiece showing the Nativity. The Virgin Mary kneels before the Christ Child who lies radiant on the ground. Angels worship above. Shepherds approach. The setting combines Northern Renaissance realism with sacred luminosity.",
+  "theological_description": "The Nativity is the fullest expression of divine kenosis: 'Though he was in the form of God, [he] did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men' (PHP.2.6-7). The angels who worship echo the heavenly announcement: 'Glory to God in the highest, and on earth peace among those with whom he is pleased' (LUK.2.14).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.1-14",
+      "relevance": "primary",
+      "reason": "The birth of Christ and the angelic announcement"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "typological",
+      "reason": "Christ emptying himself, taking the form of a servant"
+    },
+    {
+      "ref": "ISA.9.6",
+      "relevance": "typological",
+      "reason": "Unto us a child is born, unto us a son is given"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "luminous",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011512",
+    "title": "Oberried Altarpiece, right interior wing - The Birth of Christ",
+    "artist": "Hans Holbein the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Twelve Apostles", "type": "GROUP"}
+  ],
+  "event": "Ordaining of the Twelve Apostles",
+  "tags": [
+    "ordaining",
+    "twelve-apostles",
+    "commissioning",
+    "hillside",
+    "sea-of-galilee",
+    "calling",
+    "authority-given",
+    "apostolic-mission",
+    "gathering",
+    "discipleship"
+  ],
+  "symbols": [
+    "hilltop gathering — the mountain of commissioning, echoing Sinai's covenant",
+    "Sea of Galilee in background — the region of Christ's primary ministry",
+    "outstretched gesture of Christ — the conferral of apostolic authority",
+    "twelve assembled men — the reconstituted twelve tribes of Israel",
+    "barren rocky terrain — the difficult path of apostolic mission"
+  ],
+  "description": "On a rocky hilltop overlooking a vast body of water, a figure in white robes stands at the left with arms raised in a commissioning gesture. Around him, approximately twelve men in various robes and head coverings are gathered, some standing, some kneeling or seated on the rocky ground. The landscape stretches out behind them with brown, arid hills descending to the shore of a large lake or sea. The palette is muted earth tones with a hazy, pale sky.",
+  "theological_description": "The ordaining or appointing of the Twelve Apostles is recorded in all three Synoptic Gospels. Mark states that Jesus 'went up on the mountain and called to him those whom he desired, and they came to him. And he appointed twelve whom he also named apostles so that they might be with him and he might send them out to preach and have authority to cast out demons' (MRK.3.13-15). Luke adds that Jesus spent the whole night in prayer before making this selection (LUK.6.12-13). The number twelve is deliberately symbolic, reconstituting the twelve tribes of Israel under a new covenant — Jesus tells them they will 'sit on twelve thrones, judging the twelve tribes of Israel' (MAT.19.28). The hilltop setting recalls Moses receiving the covenant on Sinai; here a new Moses constitutes a new people. The apostles are not merely disciples but apostoloi — sent ones, bearing Christ's own authority. This commissioning is the foundation of the Church's apostolic succession and mission.",
+  "scripture_refs": [
+    {"ref": "MRK.3.13-19", "relevance": "primary", "reason": "Jesus appointing the twelve apostles on the mountain"},
+    {"ref": "LUK.6.12-16", "relevance": "primary", "reason": "Jesus praying all night before choosing the twelve"},
+    {"ref": "MAT.10.1-4", "relevance": "primary", "reason": "Jesus giving the twelve authority over unclean spirits and disease"},
+    {"ref": "MAT.19.28", "relevance": "typological", "reason": "The twelve thrones judging the twelve tribes, the eschatological significance of the number"},
+    {"ref": "JHN.15.16", "relevance": "allusion", "reason": "You did not choose me, but I chose you and appointed you"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemnity", "authority", "purpose", "gravity"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002326",
+    "title": "Ordaining of the Twelve Apostles",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

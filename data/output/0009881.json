@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Peter", "type": "PERSON"},
+    {"name": "Disciples", "type": "GROUP"}
+  ],
+  "event": "The Miraculous Draught of Fishes",
+  "tags": [
+    "miraculous-catch",
+    "fishing",
+    "sea-of-galilee",
+    "peter",
+    "calling-of-disciples",
+    "net",
+    "boat",
+    "lakeside",
+    "abundance"
+  ],
+  "symbols": [
+    "Christ standing by the shore speaking — the divine Word commanding nature and calling disciples",
+    "Peter kneeling in the boat — the fisherman overwhelmed by the miracle, confessing his unworthiness",
+    "fishing net with catch — the abundant provision of God and the future apostolic mission",
+    "young fishermen — the disciples called from ordinary labor to extraordinary purpose"
+  ],
+  "description": "A serene lakeside scene showing Christ in flowing blue-gray robes standing at the shore, gesturing toward a group of fishermen in and around a small boat. A bearded man (Peter) kneels in the boat amid fishing nets, looking up at Christ. Two or three younger men in simple tunics stand near the boat. The lake stretches calmly behind them with distant shores and buildings visible. The palette is cool and harmonious with blues, grays, and earth tones, creating a peaceful, luminous atmosphere.",
+  "theological_description": "This painting depicts the moment from Luke 5:1-11 when Jesus, after commanding a miraculous catch of fish, calls Simon Peter and his companions to become fishers of men. After a fruitless night of fishing, Jesus instructs Peter to 'put out into the deep and let down your nets' (LUK.5.4). The resulting catch is so enormous that Peter falls at Jesus's knees: 'Depart from me, for I am a sinful man, O Lord' (LUK.5.8). Jesus responds: 'Do not be afraid; from now on you will be catching men' (LUK.5.10). The miracle serves as both a sign of Christ's divine authority over nature and a prophetic symbol of the apostolic mission. The abundance of fish foreshadows the ingathering of souls into the Kingdom through the Church's preaching. Peter's confession of sinfulness before accepting the call establishes the pattern that apostolic ministry begins not with human merit but with divine grace: 'By the grace of God I am what I am' (1CO.15.10).",
+  "scripture_refs": [
+    {"ref": "LUK.5.1-11", "relevance": "primary", "reason": "The miraculous catch and calling of Peter, the direct subject"},
+    {"ref": "LUK.5.8", "relevance": "primary", "reason": "Peter's confession of sinfulness before the miraculous catch"},
+    {"ref": "LUK.5.10", "relevance": "primary", "reason": "From now on you will be catching men — the apostolic commission"},
+    {"ref": "JHN.21.1-14", "relevance": "typological", "reason": "The post-Resurrection miraculous catch, echoing and fulfilling this scene"},
+    {"ref": "1CO.15.10", "relevance": "allusion", "reason": "By God's grace I am what I am — apostolic calling rooted in grace, not merit"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["serene", "awe-struck", "luminous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009881",
+    "title": "The Miraculous Draught",
+    "artist": "Henri-Pierre Picou",
+    "model": "claude-opus-4-6"
+  }
+}

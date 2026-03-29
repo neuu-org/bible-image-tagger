@@ -1,0 +1,36 @@
+{
+  "characters": [],
+  "event": "Fragment of a Crucifixion — abstract expressionist interpretation",
+  "tags": [
+    "crucifixion",
+    "abstract",
+    "cross-beam",
+    "screaming-figure",
+    "distortion",
+    "anguish",
+    "modern-art",
+    "expressionist"
+  ],
+  "symbols": [
+    "Horizontal beam — the cross reduced to its essential geometric form",
+    "Screaming distorted figure — the agony of crucifixion expressed through modern artistic language",
+    "Small distant figures and vehicles — the indifferent world carrying on below the suffering"
+  ],
+  "description": "A disturbing abstract composition shows a distorted, screaming figure beneath a horizontal brown beam against a raw burlap-colored background. The figure is rendered in grays and whites with open mouth and writhing form, suggestive of extreme anguish. Above the beam, a pale amorphous mass perches. In the distant background at the base, tiny silhouetted figures, vehicles, and a wire fence are barely visible, suggesting an everyday landscape far removed from the horror in the foreground.",
+  "theological_description": "While this modern work does not directly illustrate a biblical text, its title and imagery unmistakably evoke the Crucifixion through a lens of existential horror. The screaming figure beneath the crossbeam recalls the raw physicality of crucifixion death — the suffocation, the muscle spasms, the unbearable pain. The indifferent pedestrians and cars in the background speak to a world that continues unmoved while suffering occurs — an echo of the crowds at Golgotha who 'stood by, watching' (LUK.23.35). The psalmist's cry becomes visceral: 'My God, my God, why have you forsaken me?... I am poured out like water, and all my bones are out of joint' (PSA.22.1,14). The abstraction strips away the comforting distance of traditional religious art, confronting the viewer with the raw fact of innocent suffering.",
+  "scripture_refs": [
+    {"ref": "PSA.22.1", "relevance": "typological", "reason": "My God, my God, why have you forsaken me — the cry of dereliction expressed in the screaming figure"},
+    {"ref": "PSA.22.14", "relevance": "typological", "reason": "I am poured out like water, all my bones are out of joint — the distorted body of the crucified"},
+    {"ref": "LUK.23.35", "relevance": "allusion", "reason": "The people stood by watching — the indifferent tiny figures in the background"},
+    {"ref": "ISA.52.14", "relevance": "typological", "reason": "His appearance was so marred, beyond human semblance — the distorted figure evoking the disfigured Servant"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["horrific", "anguished", "alienating"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001945",
+    "title": "Fragment of a Crucifixion",
+    "artist": "Francis Bacon",
+    "model": "claude-opus-4-6"
+  }
+}

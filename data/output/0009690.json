@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "James the Greater", "type": "PERSON"}
+  ],
+  "event": "Portrait of Saint James the Greater",
+  "tags": [
+    "saint-james",
+    "apostle",
+    "pilgrim-staff",
+    "book",
+    "halo",
+    "bust-portrait",
+    "bearded-man",
+    "devotional"
+  ],
+  "symbols": [
+    "pilgrim staff — James's traditional attribute, connecting him to the Camino de Santiago pilgrimage",
+    "book — the Gospel that James preached",
+    "halo — sanctity as one of the Twelve Apostles",
+    "upward gaze — spiritual aspiration and devotion"
+  ],
+  "description": "A close-up bust portrait of an elderly bearded man looking upward and to the left. He holds a tall dark staff or pilgrim's rod in his right hand and a book in his left. He wears a dark brown or gray garment with a reddish collar. A faint halo or nimbus appears behind his head. The background is dark. The painting is rendered in rich, warm tones with strong chiaroscuro, characteristic of Caravaggist style.",
+  "theological_description": "James the Greater, son of Zebedee and brother of John, was one of the inner circle of three apostles (with Peter and John) who witnessed the Transfiguration (MAT.17.1-8) and the Agony in the Garden (MAT.26.37). He was the first apostle to be martyred, executed by Herod Agrippa I around 44 AD: 'He killed James the brother of John with the sword' (ACT.12.2). Jesus had prophesied this martyrdom when James and John asked to sit at his right and left in glory: 'The cup that I drink you will drink, and with the baptism with which I am baptized, you will be baptized' (MRK.10.39). James's willingness to follow Christ to death exemplifies the apostolic witness that 'to live is Christ, and to die is gain' (PHP.1.21). The pilgrim staff refers to the tradition that James preached in Spain, and his shrine at Santiago de Compostela became one of the great pilgrimage destinations of Christendom.",
+  "scripture_refs": [
+    {"ref": "ACT.12.1-2", "relevance": "primary", "reason": "James killed by Herod with the sword, the first apostolic martyrdom"},
+    {"ref": "MRK.10.35-40", "relevance": "primary", "reason": "Jesus prophesying that James would share his cup of suffering"},
+    {"ref": "MAT.17.1-8", "relevance": "primary", "reason": "James as one of the three witnesses of the Transfiguration"},
+    {"ref": "MAT.4.21-22", "relevance": "primary", "reason": "The calling of James and John, leaving their nets to follow Jesus"},
+    {"ref": "PHP.1.21", "relevance": "allusion", "reason": "To live is Christ and to die is gain, embodied in James's martyrdom"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "devout", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009690",
+    "title": "Saint James the Greater",
+    "artist": "Dirck van Baburen",
+    "model": "claude-opus-4-6"
+  }
+}

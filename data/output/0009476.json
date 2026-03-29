@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Saint Christopher",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint Christopher Carrying the Christ Child Across the River",
+  "tags": [
+    "saint-christopher",
+    "christ-child",
+    "river-crossing",
+    "carrying",
+    "avant-garde",
+    "cubist-style",
+    "red-palette",
+    "burden",
+    "faith"
+  ],
+  "symbols": [
+    "large figure carrying a smaller figure — Christopher bearing the weight of Christ, who bears the weight of the world",
+    "river or water implied — the perilous crossing, symbolizing the journey of faith through tribulation",
+    "buildings in background — the worldly realm that Christopher traverses",
+    "red dominant palette — the passion and sacrifice inherent in bearing Christ"
+  ],
+  "description": "An avant-garde painting in bold reds, oranges, and warm tones, rendered in a semi-cubist or expressionist style. A large muscular figure bends forward carrying a smaller figure (a child) on his back or shoulders. The setting includes angular buildings and architectural forms. The figures are rendered with strong geometric simplification and thick outlines. A river or body of water appears at the bottom in blue tones. The overall composition is dynamic with interlocking angular planes.",
+  "theological_description": "The legend of Saint Christopher tells of a giant who carried travelers across a dangerous river. One night he carried a small child who grew impossibly heavy — revealed to be the Christ Child bearing the weight of the world. Christopher's name means 'Christ-bearer,' and his story became one of the most popular in medieval hagiography. Though not a biblical narrative, the legend draws on the theological truth that bearing Christ is both the lightest and heaviest of burdens: 'Take my yoke upon you... for my yoke is easy, and my burden is light' (MAT.11.29-30), yet the cost of discipleship requires carrying one's cross (LUK.14.27). The river crossing evokes baptismal symbolism and the Israelites' crossing of the Jordan into the Promised Land (JOS.3). Christopher's discovery that the child he carries is the Lord of all creation reflects the pattern of encountering Christ in the least expected form: 'Whatever you did for one of the least of these, you did for me' (MAT.25.40).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.11.29-30",
+      "relevance": "typological",
+      "reason": "Christ's yoke is easy yet bearing him proves heavier than the world, as Christopher discovers"
+    },
+    {
+      "ref": "LUK.14.27",
+      "relevance": "allusion",
+      "reason": "Whoever does not carry their cross cannot be Christ's disciple"
+    },
+    {
+      "ref": "MAT.25.40",
+      "relevance": "typological",
+      "reason": "Encountering Christ in the humble and small, as Christopher found Christ in the child"
+    },
+    {
+      "ref": "JOS.3.14-17",
+      "relevance": "typological",
+      "reason": "Crossing the Jordan into the Promised Land, paralleled by Christopher's river crossing"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intense",
+    "laborious",
+    "bold"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009476",
+    "title": "Monk Christopher with Christ near the river",
+    "artist": "Jury Annenkov",
+    "model": "claude-opus-4-6"
+  }
+}

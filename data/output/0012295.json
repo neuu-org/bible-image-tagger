@@ -1,0 +1,29 @@
+{
+  "characters": [
+    {"name": "Paul Gauguin", "type": "PERSON"},
+    {"name": "Emile Bernard", "type": "PERSON"}
+  ],
+  "event": "Self-Portrait with Portrait of Emile Bernard (Les Miserables)",
+  "tags": [
+    "self-portrait",
+    "double-portrait",
+    "flowers",
+    "orange-background",
+    "post-impressionist",
+    "artist",
+    "profile"
+  ],
+  "symbols": [],
+  "description": "A painting on a vivid orange background. At left, a man's face is shown in three-quarter view, with dark hair and strong features, gazing directly at the viewer. At upper right, a smaller profile portrait of another bearded man in green appears against the orange background. White and blue flowers are scattered across the orange field between and around the portraits. An inscription at lower right reads 'les miserables' with a signature.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "portrait",
+  "mood": ["introspective", "bold", "unconventional"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012295",
+    "title": "Self-Portrait with Portrait of Émile Bernard (Les misérables)",
+    "artist": "Paul Gauguin",
+    "model": "claude-opus-4-6"
+  }
+}

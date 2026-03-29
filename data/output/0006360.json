@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Tormentors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Mockery of Christ",
+  "tags": [
+    "mockery-of-christ",
+    "passion",
+    "tormentors",
+    "bound-christ",
+    "torch",
+    "dog",
+    "dark-scene",
+    "humiliation",
+    "night-scene",
+    "violence"
+  ],
+  "symbols": [
+    "Christ bound and pale — the Suffering Servant, despised and rejected, submitting to abuse",
+    "tormentors with mocking gestures — the cruelty of sin given visible form in Christ's abusers",
+    "torch or flame at left — the torchlight of the arrest and night trial",
+    "dog in foreground — contempt and degradation, Christ treated as less than human",
+    "darkness surrounding the scene — the spiritual darkness of the hour of evil's apparent triumph"
+  ],
+  "description": "A dark interior scene showing Christ, pale and partially unclothed, bound and seated, being mocked and abused by several figures. A woman at left holds a torch, while grotesque male figures grab at Christ and make mocking gestures. One figure kneels before Him in exaggerated obeisance. A small dog stands in the right foreground. The lighting is dramatic, with the torch providing the only illumination against the deep darkness. The figures' faces are rendered with exaggerated, caricatured expressions contrasting with Christ's passive, suffering demeanor.",
+  "theological_description": "The mockery of Christ stands as the supreme instance of ironic truth in Scripture. Those who mock Him as prophet, king, and Messiah unknowingly proclaim exactly what He is. The soldiers who placed a reed in His hand as a scepter (MAT.27.29) did not know they mocked the true King of Kings. Those who blindfolded Him and said 'Prophesy! Who struck you?' (LUK.22.64) did not realize they were fulfilling the very prophecies they ridiculed. Isaiah saw this scene centuries before: 'He was despised and rejected by men; a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not' (ISA.53.3). The darkness of the scene reflects Jesus's own words at His arrest: 'This is your hour, and the power of darkness' (LUK.22.53). Yet the mockery reveals more about the mockers than about the victim — Christ's composed suffering under abuse demonstrates the divine love that endures all things, that 'when he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly' (1PE.2.23).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.63-65",
+      "relevance": "primary",
+      "reason": "The men who held Jesus mocking Him and beating Him"
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "typological",
+      "reason": "Despised and rejected by men, a man of sorrows — the Suffering Servant mocked"
+    },
+    {
+      "ref": "1PE.2.23",
+      "relevance": "typological",
+      "reason": "When reviled He did not revile in return — Christ's composure under mockery"
+    },
+    {
+      "ref": "LUK.22.53",
+      "relevance": "primary",
+      "reason": "This is your hour and the power of darkness — the nocturnal setting of the abuse"
+    },
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "primary",
+      "reason": "The soldiers mocking Christ with a robe, crown of thorns, and reed scepter"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dark",
+    "cruel",
+    "menacing",
+    "anguished"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006360",
+    "title": "The mockery of Christ",
+    "artist": "David Rijckaert III",
+    "model": "claude-opus-4-6"
+  }
+}

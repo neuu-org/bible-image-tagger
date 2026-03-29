@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Louis XIV as a child",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anne of Austria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Virgin Mary Gives the Crown and Sceptre to Louis XIV",
+  "tags": [
+    "virgin-mary",
+    "louis-xiv",
+    "crown",
+    "sceptre",
+    "divine-right",
+    "royal-devotion",
+    "donor-portrait",
+    "marian-patronage",
+    "putti"
+  ],
+  "symbols": [
+    "crown and sceptre from the Virgin — royal authority received as a divine gift through Mary's intercession",
+    "kneeling king — earthly power submitted to heavenly authority",
+    "Christ Child on Mary's lap — the ultimate source of all authority",
+    "Anne of Austria standing behind — the queen mother who dedicated France to the Virgin",
+    "putti in clouds — heavenly court witnessing the sacred investiture"
+  ],
+  "description": "A two-register composition. In the upper left, the Virgin Mary in a pink and blue robe sits on clouds holding the Christ Child, who extends a crown toward a kneeling figure below. Putti hover among the clouds above. In the lower right, a young boy in an ornate blue and gold fleur-de-lis robe kneels on a richly patterned carpet, receiving the crown. Behind him stands a woman in black with a white collar, holding a book. A second small child in white kneels beside them. A red curtain drapes at the upper right.",
+  "theological_description": "This votive painting expresses the theology of divine right monarchy mediated through Marian devotion. Anne of Austria, regent for the young Louis XIV, consecrated France to the Virgin Mary in 1638 — a vow fulfilled when Louis was born after 23 years of childless marriage. The Virgin's bestowal of crown and sceptre affirms that royal authority is not self-generated but received from God through the intercession of His Mother. The Christ Child as the actual source of the crown reflects Proverbs 8:15-16: 'By me kings reign and rulers decree what is just.' This painting thus serves as both political theology and personal devotion, declaring that the Most Christian King of France rules as the Virgin's vassal and Christ's servant. The theology, while specific to French royal piety, draws on the universal biblical principle that all authority comes from God (Romans 13:1).",
+  "scripture_refs": [
+    {
+      "ref": "ROM.13.1",
+      "relevance": "primary",
+      "reason": "All authority comes from God — the theological basis for depicting divine bestowal of royal power"
+    },
+    {
+      "ref": "PRO.8.15-16",
+      "relevance": "primary",
+      "reason": "By me kings reign and rulers make just decrees — Christ as the source of royal authority"
+    },
+    {
+      "ref": "PSA.2.6-7",
+      "relevance": "typological",
+      "reason": "I have set my king on Zion — God's installation of the anointed ruler"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "allusion",
+      "reason": "He has put down the mighty from their thrones and exalted the lowly — Mary's Magnificat declaring God's sovereignty over rulers"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "regal",
+    "devotional",
+    "solemn"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007550",
+    "title": "The Virgin Mary Gives The Crown And Sceptre To Louis XIV",
+    "artist": "Philippe de Champaigne",
+    "model": "claude-opus-4-6"
+  }
+}

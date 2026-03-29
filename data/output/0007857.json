@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "three-kings",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "star",
+    "ruined-architecture",
+    "kneeling-king",
+    "african-magus"
+  ],
+  "symbols": [
+    "kneeling elderly king — worldly power bowing before divine infancy",
+    "gifts of gold — kingship offered to the King of Kings",
+    "ruined classical architecture — the old order crumbling as the new kingdom is born",
+    "star in the sky — the celestial sign that guided the Gentile seekers to Christ",
+    "dark-skinned Magus — the universality of Christ's kingship extending to all nations",
+    "globe held by the African Magus — the whole world brought as offering to the newborn King"
+  ],
+  "description": "A richly detailed scene of the Adoration of the Magi set amid elaborate ruined classical architecture with crumbling columns, broken walls, and overgrown vegetation. At the left, the Virgin Mary in a blue mantle holds the Christ Child on her lap. Before them, an elderly king in a rich dark robe kneels, offering a golden vessel. Behind him stand two other kings — one middle-aged, the other a dark-skinned man in red holding a golden globe. A faint star shines in the dark sky above. The architectural ruins create a dramatic backdrop of decaying grandeur.",
+  "theological_description": "The Adoration of the Magi (Matthew 2:1-12) is the Epiphany — the revelation of Christ to the Gentile nations. The Magi, scholars from the East guided by a star, represent the first fruits of the universal harvest of souls that Christ's birth inaugurates. Their three gifts carry profound symbolism: gold for kingship, frankincense for divinity, and myrrh for the burial of the mortal body. The ruined classical architecture is a deliberate theological statement: the old pagan world crumbles while the new creation begins in an infant's lap. The inclusion of a dark-skinned Magus, representing Africa, fulfills the prophecy of Psalm 72:10-11 that kings from every nation would bring gifts and bow before the Messiah. The Magi's journey from East to West, following a star to find a child, inverts all worldly wisdom: the learned seek knowledge and find it not in libraries but in a manger.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The visit of the Magi from the East, guided by the star, bearing gifts — the exact scene depicted"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish and the isles bring gifts, kings of Sheba and Seba offer tribute — all kings bow before the Messiah"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light and kings to the brightness of your rising, bearing gold and frankincense"
+    },
+    {
+      "ref": "EPH.3.6",
+      "relevance": "allusion",
+      "reason": "The Gentiles are fellow heirs — the Magi as the first Gentile worshippers of Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "reverent",
+    "wondrous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007857",
+    "title": "The Adoration of the Magi",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

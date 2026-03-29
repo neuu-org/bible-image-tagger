@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "John the Apostle", "type": "PERSON"},
+    {"name": "Holy Women", "type": "GROUP"},
+    {"name": "Saints", "type": "GROUP"}
+  ],
+  "event": "Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "golgotha",
+    "passion",
+    "mourners",
+    "drawing",
+    "standing-figures",
+    "redemptive-death",
+    "atonement"
+  ],
+  "symbols": [
+    "Christ on the cross — the atoning sacrifice for the sins of the world",
+    "outstretched arms of Christ — universal embrace of redemption and the new Adam undoing the curse",
+    "mourning figures at left — the grief of the faithful, led by Mary and the women",
+    "figures at right — John the beloved disciple and companions witnessing the death of their Lord",
+    "barren landscape in background — the desolation of Golgotha, the place of the skull"
+  ],
+  "description": "A detailed pen or pencil drawing showing Christ crucified on a tall cross at center. His body hangs with arms outstretched, head bowed, wearing only a loincloth. Two pairs of standing figures flank the cross: on the left, two robed women, one leaning against the other in grief; on the right, two figures in classical drapery, one with hands clasped at the chest. Behind them, a faint landscape with buildings is sketched in the distance. The drawing is executed with fine, confident lines on a light background.",
+  "theological_description": "The Crucifixion is the central event of Christian theology, the moment when God's justice and mercy meet in the person of the incarnate Son. Christ, the sinless one, bears the sins of the world upon the cross (2CO.5.21), fulfilling the Suffering Servant prophecy of Isaiah: 'He was pierced for our transgressions, he was crushed for our iniquities' (ISA.53.5). The presence of Mary and John at the foot of the cross fulfills Jesus's words entrusting them to each other (JHN.19.26-27), understood by the Fathers as Christ establishing the new family of the Church. The four standing figures represent the faithful remnant who did not flee, echoing the Gospels' testimony that the women who had followed Jesus from Galilee stood watching from nearby (MAT.27.55-56). The cross itself becomes the new Tree of Life (REV.22.2), reversing the curse of the tree in Eden (GEN.3.17). Paul's theology of the cross as the power and wisdom of God (1CO.1.18-25) finds its visual expression in this austere composition.",
+  "scripture_refs": [
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "Mary and John standing at the cross, Jesus entrusting them to each other"},
+    {"ref": "MAT.27.33-50", "relevance": "primary", "reason": "The Crucifixion narrative at Golgotha"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "The Suffering Servant pierced for transgressions, fulfilled in Christ's crucifixion"},
+    {"ref": "2CO.5.21", "relevance": "typological", "reason": "God made him who had no sin to be sin for us"},
+    {"ref": "1CO.1.18", "relevance": "allusion", "reason": "The message of the cross is the power of God to those being saved"},
+    {"ref": "GAL.3.13", "relevance": "typological", "reason": "Christ redeemed us from the curse of the law by becoming a curse for us on the tree"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "solemn", "austere"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009148",
+    "title": "The Crucifixion of Christ with Saints",
+    "artist": "Giulio Clovio",
+    "model": "claude-opus-4-6"
+  }
+}

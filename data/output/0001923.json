@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman soldiers/tormentors", "type": "GROUP"}
+  ],
+  "event": "The Flagellation of Christ",
+  "tags": [
+    "flagellation",
+    "scourging",
+    "passion",
+    "column",
+    "whipping",
+    "soldiers",
+    "pillar",
+    "suffering",
+    "bound-christ"
+  ],
+  "symbols": [
+    "Column to which Christ is bound — the pillar of the flagellation, an instrument of the Passion",
+    "Soldiers with whips — the instruments of Roman punishment, the world's violence against the innocent",
+    "Christ's near-nakedness — His humiliation and vulnerability, stripped of dignity",
+    "Classical architecture — the Roman praetorium where the scourging took place"
+  ],
+  "description": "Christ stands bound to a green marble column in a classical columned hall with ornate architectural decoration. He is nearly nude, his body exposed and vulnerable. Several soldiers surround him, wielding whips and rods, their bodies in violent motion as they strike. The setting features richly decorated Roman architecture with colored marble columns and carved friezes above. The scene is rendered in dramatic movement and vivid color.",
+  "theological_description": "The Flagellation is one of the key moments of the Passion. After Pilate questioned Jesus and found no fault in Him, he had Him scourged (JHN.19.1) — a Roman punishment of extreme brutality. Matthew records that Pilate 'released for them Barabbas, and having scourged Jesus, delivered him to be crucified' (MAT.27.26). The flagellation fulfills Isaiah's prophecy of the Suffering Servant: 'I gave my back to those who strike, and my cheeks to those who pull out the beard; I hid not my face from disgrace and spitting' (ISA.50.6). Peter reflects theologically: 'By his wounds you have been healed' (1PE.2.24). The Church Fathers understood the scourging as Christ bearing in His body the punishment for all human sin, absorbing violence rather than returning it, and thereby breaking the cycle of retribution. Each stroke of the whip was, in patristic reading, a stripe borne on behalf of fallen humanity.",
+  "scripture_refs": [
+    {"ref": "JHN.19.1", "relevance": "primary", "reason": "Pilate took Jesus and had him flogged — the specific event depicted"},
+    {"ref": "MAT.27.26", "relevance": "primary", "reason": "Having scourged Jesus, Pilate delivered him to be crucified"},
+    {"ref": "ISA.50.6", "relevance": "typological", "reason": "I gave my back to those who strike — the Suffering Servant prophecy fulfilled in the flagellation"},
+    {"ref": "1PE.2.24", "relevance": "typological", "reason": "By his wounds you have been healed — the redemptive meaning of Christ's scourging"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "The chastisement that brought us peace was upon him — the stripes of the flagellation"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["violent", "anguished", "brutal", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001923",
+    "title": "The Flagellation of Christ",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

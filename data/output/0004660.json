@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Soldiers and mockers", "type": "GROUP"}
+  ],
+  "event": "The Mocking of Christ",
+  "tags": [
+    "mocking-of-christ",
+    "passion",
+    "blindfolded",
+    "striking",
+    "crown-of-thorns",
+    "bound-hands",
+    "tormentors",
+    "humiliation",
+    "ecce-homo",
+    "violence",
+    "rope"
+  ],
+  "symbols": [
+    "Christ blindfolded and struck — the fulfillment of Isaiah's Suffering Servant, smitten and afflicted",
+    "rope binding Christ — His voluntary submission to human cruelty for the sake of redemption",
+    "grotesque faces of tormentors — the distortion of sin contrasted with Christ's composed suffering",
+    "fists raised against Christ — the violence of humanity turned against its own Creator"
+  ],
+  "description": "Christ sits at the lower left, bound with ropes, his face turned away as he receives blows. He wears a blue robe and has a head covering. Surrounding him are at least six figures — soldiers and mockers — in various states of aggression. One pulls Christ's hair, another raises a fist, a third grips his robes. The tormentors wear turbans, hats, and varied costumes. Their faces are rendered with exaggerated, grotesque expressions contrasting with Christ's passive, composed demeanor. The background is black, concentrating all focus on the brutal scene.",
+  "theological_description": "The Mocking of Christ reveals the full depth of the kenosis — God incarnate submitting to the abuse of His own creatures. The scene fulfills Isaiah's prophecy with terrible precision: 'I gave my back to those who strike, and my cheeks to those who pull out the beard; I did not hide my face from disgrace and spitting' (ISA.50.6). The grotesque distortion of the tormentors' faces is not merely artistic expression but a theological statement: sin deforms the image of God in the perpetrators while the victim, though physically abused, retains His inner dignity and composure. Christ's silence before His abusers fulfills another Isaianic prophecy: 'like a lamb that before its shearers is silent, so he did not open his mouth' (ISA.53.7). The mocking paradoxically proclaims the truth it ridicules — those who strike the 'prophet' asking 'who hit you?' (MAT.26.68) are unknowingly interacting with the One who knows all things. The darkness surrounding the scene represents both the historical night of the arrest and the spiritual darkness of a world that does not recognize its Light (JHN.1.10).",
+  "scripture_refs": [
+    {"ref": "MAT.26.67-68", "relevance": "primary", "reason": "The mocking and striking of Jesus, spitting in His face and asking Him to prophesy"},
+    {"ref": "ISA.50.6", "relevance": "typological", "reason": "The Servant giving His back to those who strike and His cheeks to those who pull the beard"},
+    {"ref": "ISA.53.7", "relevance": "typological", "reason": "Like a lamb before its shearers is silent — Christ's composure amid abuse"},
+    {"ref": "MRK.14.65", "relevance": "primary", "reason": "Some began to spit on Him, to blindfold Him, to strike Him, saying Prophesy"},
+    {"ref": "JHN.1.10", "relevance": "allusion", "reason": "He was in the world, and the world was made through Him, yet the world did not know Him"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["brutal", "anguished", "dark", "violent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004660",
+    "title": "The Mocking of Christ",
+    "artist": "Matthias Grünewald",
+    "model": "claude-opus-4-6"
+  }
+}

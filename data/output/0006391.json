@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joan of Arc",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Vision of Christ enthroned with saints",
+  "tags": [
+    "sacred-heart",
+    "christ-enthroned",
+    "angels",
+    "joan-of-arc",
+    "glorified-christ",
+    "divine-majesty",
+    "radiance",
+    "heavenly-throne",
+    "devotion",
+    "liturgical-art"
+  ],
+  "symbols": [
+    "Sacred Heart on Christ's chest — the burning love of God for humanity, the devotion to Christ's redeeming love",
+    "outstretched arms of Christ — universal embrace of redemption, echoing the posture of the Crucifixion",
+    "crown of thorns as halo — Christ's suffering transformed into glory",
+    "angels flanking the throne — the heavenly court attending the King of Kings",
+    "radiant light emanating from Christ — divine glory, the uncreated light of the Godhead"
+  ],
+  "description": "A large-scale composition centered on a standing figure of Christ in a white robe with arms spread wide. A radiant Sacred Heart glows on his chest and rays of light emanate from his entire figure. He wears a crown of thorns. Flanking him are two figures: to the left a figure in dark armor with a halo (Joan of Arc), and to the right a winged angel holding a banner. Smaller angelic figures appear at the base. The background features ornate architectural framing with inscriptions in Latin along the top. The color palette is dominated by gold, blue, and white.",
+  "theological_description": "This monumental image presents the glorified Christ displaying the Sacred Heart, a devotion rooted in the revelations to Saint Margaret Mary Alacoque but grounded in the scriptural witness to Christ's pierced side (John 19:34). The outstretched arms recall the Crucifixion posture now transformed into a gesture of universal invitation: 'Come to me, all who labor and are heavy laden' (Matt 11:28). The crown of thorns remains even in glory, signifying that the wounds of the Passion are eternally present in the Risen Body — as Thomas was invited to touch them (John 20:27). Joan of Arc, the warrior-saint, stands as a type of the Church Militant, while the angel with a banner represents the Church Triumphant. Together they flank the cosmic Christ who reigns over all history. The Latin inscriptions and architectural framing suggest a liturgical context, placing this image within the tradition of apse mosaics and altar decorations that present Christ as Pantocrator — the ruler of all — whose Sacred Heart is the font of all grace and mercy.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.34",
+      "relevance": "primary",
+      "reason": "The piercing of Christ's side from which flowed blood and water, the scriptural foundation of Sacred Heart devotion"
+    },
+    {
+      "ref": "MAT.11.28-30",
+      "relevance": "allusion",
+      "reason": "Christ's invitation with outstretched arms to all who are weary, reflected in the welcoming posture"
+    },
+    {
+      "ref": "REV.1.12-18",
+      "relevance": "typological",
+      "reason": "The glorified Christ of Revelation standing in majesty, the Alpha and Omega"
+    },
+    {
+      "ref": "JHN.20.27",
+      "relevance": "allusion",
+      "reason": "The wounds of Christ visible even in glory, as when Thomas was invited to touch them"
+    },
+    {
+      "ref": "REV.4.2-11",
+      "relevance": "typological",
+      "reason": "The heavenly throne scene with attendant beings, echoed in the angels flanking Christ"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "majestic",
+    "radiant",
+    "solemn",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0006391",
+    "title": "Joan of Arc before God",
+    "artist": "Luc-Olivier Merson",
+    "model": "claude-opus-4-6"
+  }
+}

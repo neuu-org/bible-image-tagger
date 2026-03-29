@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {"name": "Elijah", "type": "PERSON"}
+  ],
+  "event": "Saint Elijah's Story (Abstract)",
+  "tags": [
+    "elijah",
+    "abstract",
+    "chariot-of-fire",
+    "prophet",
+    "bold-colors",
+    "expressionist",
+    "fiery-ascent"
+  ],
+  "symbols": [
+    "red and yellow swirling forms — the chariot of fire and whirlwind of Elijah's ascent",
+    "golden chariot-like shape — the divine vehicle carrying Elijah to heaven",
+    "bold saturated colors — the supernatural intensity of the prophetic experience"
+  ],
+  "description": "A highly abstract expressionist composition dominated by bold reds, greens, yellows, and blues. Swirling organic forms suggest a dynamic, fiery scene. A golden curved shape at center may represent a chariot or vessel. Red and orange forms dominate the upper portion suggesting flames or a whirlwind. Green and blue forms provide contrast in the lower and outer areas. The brushwork is thick and energetic with heavy outlines. Small circular red forms are scattered throughout.",
+  "theological_description": "The story of Elijah encompasses some of the most dramatic episodes in the Old Testament. His ascent to heaven in a chariot of fire (2KI.2.11) is likely the central reference of this abstract composition, with the swirling reds and golds evoking the whirlwind and fiery chariot. Elijah was the great champion of monotheism against the Baal cult, calling down fire from heaven on Mount Carmel (1KI.18.38). His departure in the chariot of fire established the expectation that he would return before the great day of the Lord (MAL.4.5), an expectation Jesus identified as fulfilled in John the Baptist (MAT.11.14). Elijah's appearance at the Transfiguration alongside Moses (MAT.17.3) confirms his enduring significance in salvation history as the representative of the Prophets.",
+  "scripture_refs": [
+    {"ref": "2KI.2.11", "relevance": "primary", "reason": "Elijah taken up to heaven in a chariot of fire — the fiery forms in the composition"},
+    {"ref": "1KI.18.38", "relevance": "primary", "reason": "Fire of the Lord falling on the sacrifice at Carmel — the fiery imagery"},
+    {"ref": "MAL.4.5", "relevance": "typological", "reason": "The promise of Elijah's return before the day of the Lord"},
+    {"ref": "MAT.17.3", "relevance": "allusion", "reason": "Elijah appearing at the Transfiguration with Moses"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["fiery", "dynamic", "intense"],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0003912",
+    "title": "St. Elijah's Story",
+    "artist": "George Stefanescu",
+    "model": "claude-opus-4-6"
+  }
+}

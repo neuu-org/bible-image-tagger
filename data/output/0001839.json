@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Jesus beneath the winepress — the Mystical Winepress",
+  "tags": [
+    "mystical-winepress",
+    "christ",
+    "blood",
+    "passion",
+    "eucharist",
+    "latin-inscription",
+    "red-garment",
+    "suffering"
+  ],
+  "symbols": [
+    "Christ in the winepress — His body crushed like grapes, His blood poured out as wine for the salvation of the world",
+    "Red-stained garments — the blood of the Passion, fulfilling Isaiah's imagery of the one who treads the winepress",
+    "Latin inscriptions — liturgical texts connecting this image to the Eucharistic sacrifice",
+    "Chalice below — the cup of the new covenant in Christ's blood"
+  ],
+  "description": "A fresco depicts Christ in a dynamic kneeling or crouching position, wearing red-stained garments draped around his torso and legs. His body appears beneath the mechanism of a winepress. Latin inscriptions in banners surround the figure. A vessel or chalice is visible at the bottom. The palette is dominated by reds and warm tones against a pale background. The figure's pose conveys both effort and suffering.",
+  "theological_description": "The Mystical Winepress (Torcular Christi) is a powerful allegorical subject that fuses Isaiah's vision of the one who treads the winepress (ISA.63.1-3) with the Eucharistic theology of Christ's blood. Isaiah asks: 'Why is your apparel red, and your garments like his who treads in the winepress?' The divine answer: 'I have trodden the winepress alone, and from the peoples no one was with me.' The Church Fathers applied this text to Christ's Passion — He alone bore the weight of sin, His blood pressed out like wine for the redemption of the world. The image directly connects to Christ's words at the Last Supper: 'This cup is the new covenant in my blood, which is poured out for you' (LUK.22.20). The winepress becomes a visual theology of the Eucharist: Christ's suffering produces the wine of salvation. Revelation echoes this imagery: 'He treads the winepress of the fury of the wrath of God the Almighty' (REV.19.15).",
+  "scripture_refs": [
+    {
+      "ref": "ISA.63.1-3",
+      "relevance": "primary",
+      "reason": "Who is this with garments stained crimson, treading the winepress alone — the direct source of this imagery"
+    },
+    {
+      "ref": "LUK.22.20",
+      "relevance": "primary",
+      "reason": "This cup is the new covenant in my blood — the Eucharistic connection to Christ's pressed blood"
+    },
+    {
+      "ref": "REV.19.15",
+      "relevance": "typological",
+      "reason": "He treads the winepress of the fury of God — the eschatological echo of Isaiah's winepress"
+    },
+    {
+      "ref": "JHN.15.1",
+      "relevance": "typological",
+      "reason": "I am the true vine — Christ as the source of the wine of salvation"
+    },
+    {
+      "ref": "MAT.26.28",
+      "relevance": "primary",
+      "reason": "This is my blood of the covenant, poured out for many for the forgiveness of sins"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "intense",
+    "sacrificial",
+    "mystical"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001839",
+    "title": "Jesus beneath the winepress",
+    "artist": "Ambrogio Bergognone",
+    "model": "claude-opus-4-6"
+  }
+}

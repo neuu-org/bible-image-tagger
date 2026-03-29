@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Angel Bearing the Cross",
+  "tags": [
+    "angel",
+    "cross",
+    "wings",
+    "church-window",
+    "annunciation-triptych",
+    "blue-light",
+    "heavenly-messenger"
+  ],
+  "symbols": [
+    "angel holding a large cross — the angelic proclamation of Christ's redemptive sacrifice",
+    "outstretched wings — the heavenly origin and divine authority of the messenger",
+    "blue and white light — the purity and celestial nature of the angelic realm",
+    "red garments beneath white robe — the blood of Christ's sacrifice veiled in glory",
+    "arched window frame — the Church as the threshold between heaven and earth"
+  ],
+  "description": "A stained-glass church window in an arched frame depicting a frontally posed angel with large outstretched blue wings. The angel holds a prominent blue cross before its body and wears red and white robes. The figure has a dark halo or circular element behind its head. The background is predominantly light blue and yellow glass, creating a luminous celestial effect. The window is photographed from inside the church, with the dark stone wall framing it.",
+  "theological_description": "This angel bearing the cross connects the Annunciation (as part of a triptych) with the Passion, revealing that the Incarnation and the Crucifixion are one unified act of redemption. The angel who announced to Mary 'you will conceive and bear a son' (LUK.1.31) already bore the knowledge of the cross that awaited that son. This theological connection was understood by the Church Fathers: the wood of the cross was implicit in the angel's greeting. The cross held by the angel is both instrument of death and sign of victory — 'the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God' (1CO.1.18). Angels are messengers and ministers of God's salvific plan (HEB.1.14), and their bearing of the cross signifies that the entire heavenly host participates in and proclaims the mystery of redemption.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation, the context of this triptych to which the angel belongs"
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "typological",
+      "reason": "The word of the cross as the power of God, proclaimed by the angel bearing it"
+    },
+    {
+      "ref": "HEB.1.14",
+      "relevance": "allusion",
+      "reason": "Angels as ministering spirits sent to serve those who will inherit salvation"
+    },
+    {
+      "ref": "PHP.2.8",
+      "relevance": "typological",
+      "reason": "Christ humbled himself to death on a cross, the destiny announced at the Annunciation"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "solemn",
+    "luminous",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009377",
+    "title": "Angel With The Cross (the triptych The Annunciation)",
+    "artist": "Petro Kholodny (Elder)",
+    "model": "claude-opus-4-6"
+  }
+}

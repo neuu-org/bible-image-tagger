@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-jesus",
+    "cheek-to-cheek",
+    "tenderness",
+    "red-drapery",
+    "flemish",
+    "architectural-background",
+    "fruit"
+  ],
+  "symbols": [
+    "cheek-to-cheek embrace — the intimate love between Mother and divine Son",
+    "fruit held by the child — possibly an apple, the fruit of redemption reversing the Fall",
+    "red drapery — the blood of Christ's future Passion",
+    "classical architecture behind — the new temple, the Church built through the Incarnation",
+    "Mary's pearl headband — her purity and royal dignity"
+  ],
+  "description": "A half-length depiction of a young woman with golden curly hair held back by a pearl-studded headband, wearing a dark blue-green dress with gold sleeves and a voluminous red cloth draped across her lap. She tenderly holds a nude infant close, their cheeks touching. The child holds a small round fruit and reaches toward the mother's face. Behind them, classical stone columns and architectural elements are visible. The painting is rich in color and meticulous in detail, characteristic of Northern Renaissance style.",
+  "theological_description": "Mabuse's Madonna and Child emphasizes the tender, physical intimacy of the Incarnation — God made flesh, a baby pressing his cheek to his mother's. The 'cheek-to-cheek' pose derives from the Byzantine Eleousa (tenderness) icon type, expressing the deep bond between Christ and His mother while hinting at the sorrow to come. The fruit the child holds, likely an apple, recalls the fruit of the Fall (Gen 3:6) — but in Christ's hand it becomes the fruit of redemption, as the new Adam reverses what the first Adam corrupted (Rom 5:18-19). The Incarnation is the central mystery depicted: 'the Word became flesh and dwelt among us' (John 1:14). Mary's elegance reflects her dignity as Theotokos — the God-bearer. The classical architecture behind them suggests the new temple not made with hands, the dwelling of God with humanity through Christ (John 2:19-21).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation shown in intimate detail"
+    },
+    {
+      "ref": "ROM.5.18-19",
+      "relevance": "typological",
+      "reason": "As one trespass led to condemnation, one act of righteousness leads to life — the fruit of redemption"
+    },
+    {
+      "ref": "GEN.3.6",
+      "relevance": "typological",
+      "reason": "She took of its fruit and ate — the fruit reversed in Christ's hand"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "allusion",
+      "reason": "Blessed is the fruit of your womb — the blessed child held by Mary"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012096",
+    "title": "Madonna and Child",
+    "artist": "Mabuse",
+    "model": "claude-opus-4-6"
+  }
+}

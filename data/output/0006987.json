@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "God the Father", "type": "DEITY"},
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Holy Spirit", "type": "DEITY"},
+    {"name": "Duke of Mantua and Family", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "The Holy Trinity Adored by the Duke of Mantua and His Family",
+  "tags": [
+    "holy-trinity",
+    "adoration",
+    "donor-portrait",
+    "divine-glory",
+    "heavenly-court",
+    "kneeling-worship",
+    "patron-devotion",
+    "angels"
+  ],
+  "symbols": [
+    "radiant light between Father and Son — the Holy Spirit as the bond of love within the Trinity",
+    "cloud bank separating heaven and earth — the divide between divine and human realms",
+    "kneeling donors — human devotion and supplication before the triune God",
+    "angels flanking the donors — heavenly intercession and presentation of the faithful before God"
+  ],
+  "description": "A two-tiered composition divided by a horizontal band of clouds. In the upper heavenly register, a muscular bearded figure and a younger figure sit on clouds flanking a brilliant radiance at center, with winged angels and putti surrounding them. In the lower earthly register, a group of richly dressed figures kneel in prayer on a tiled floor, men on the left and women on the right, flanked by standing angels. The palette is warm with deep reds, golds, and dramatic chiaroscuro.",
+  "theological_description": "This monumental devotional image presents the central mystery of Christian faith: the Holy Trinity. God the Father and God the Son are enthroned in glory while the Holy Spirit, depicted as radiant light, proceeds between them — reflecting the Nicene Creed's affirmation that the Spirit proceeds from the Father and the Son. The division between heavenly and earthly registers underscores the transcendence of God and the mediating role of prayer and worship. The kneeling ducal family represents the ideal of Christian rulership: earthly power bowing before divine sovereignty. The angels who flank the donors serve as presenters, echoing the liturgical tradition of angels bearing the prayers of the saints to God's throne (Revelation 8:3-4). The composition embodies the Catholic theology of the communion of saints, where the Church militant on earth joins the Church triumphant in heaven in ceaseless adoration of the Trinity.",
+  "scripture_refs": [
+    {"ref": "MAT.28.19", "relevance": "primary", "reason": "The Trinitarian formula — baptizing in the name of Father, Son, and Holy Spirit — the doctrine visually expressed"},
+    {"ref": "2CO.13.14", "relevance": "primary", "reason": "The apostolic blessing invoking the grace of Christ, love of God, and fellowship of the Holy Spirit"},
+    {"ref": "REV.4.8-11", "relevance": "typological", "reason": "The heavenly throne room where all creation worships the Lord Almighty, mirrored in the composition"},
+    {"ref": "REV.8.3-4", "relevance": "allusion", "reason": "Angels offering the prayers of the saints before God's throne, represented by the flanking angels"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["majestic", "reverent", "glorious"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0006987",
+    "title": "The Trinity Adored By The Duke of Mantua And His Family",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

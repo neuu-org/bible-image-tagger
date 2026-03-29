@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Thomas", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "The Incredulity of Saint Thomas",
+  "tags": [
+    "incredulity-of-thomas",
+    "doubting-thomas",
+    "risen-christ",
+    "wounds",
+    "faith",
+    "resurrection-appearance",
+    "touching-wound",
+    "apostles",
+    "belief"
+  ],
+  "symbols": [
+    "Thomas reaching toward Christ's wound — the transition from doubt to faith through encounter with the risen body",
+    "kneeling posture — the submission of human reason to divine revelation",
+    "gathered apostles — the community of witnesses to the Resurrection",
+    "Christ's exposed side — the wound that becomes the proof of resurrection"
+  ],
+  "description": "A detail from a larger composition showing a kneeling young man in blue and orange robes (Thomas) reaching upward toward a standing figure whose side is partially exposed. Around them, several older bearded men in colorful robes watch intently. The kneeling figure looks up with an expression of awe. The scene is rendered in vivid Mannerist colors with strong muscular forms and dynamic poses on a marble floor.",
+  "theological_description": "The Incredulity of Thomas is recorded only in John's Gospel (JHN.20.24-29). Thomas, absent when the risen Christ first appeared to the disciples, declared he would not believe unless he could see and touch the wounds. Eight days later, Jesus appeared again and invited Thomas to touch his hands and side. Thomas responded with the highest christological confession in the Gospels: 'My Lord and my God!' (JHN.20.28). Jesus then pronounced the beatitude: 'Blessed are those who have not seen and yet have believed' (JHN.20.29). This episode is theologically crucial because it establishes the physical reality of the Resurrection — Christ's body is truly risen, bearing its wounds as marks of glory. Thomas's doubt is not condemned but used as the occasion for deeper faith. The Fathers saw in this moment the definitive refutation of Docetism — the heresy that Christ only appeared to have a body. The wounds prove that the Risen One is the same as the Crucified One.",
+  "scripture_refs": [
+    {"ref": "JHN.20.24-29", "relevance": "primary", "reason": "Thomas's doubt and confession: My Lord and my God"},
+    {"ref": "JHN.20.20", "relevance": "primary", "reason": "Jesus showing his hands and side to the disciples"},
+    {"ref": "LUK.24.39", "relevance": "allusion", "reason": "See my hands and feet, that it is I myself — the physical reality of the risen body"},
+    {"ref": "1JN.1.1", "relevance": "typological", "reason": "That which we have heard, seen, and touched — the apostolic witness grounded in physical encounter"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe", "revelation", "wonder", "conviction"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002881",
+    "title": "The Incredulity of St Thomas (detail)",
+    "artist": "Francesco de' Rossi (Francesco Salviati), \"Cecchino\"",
+    "model": "claude-opus-4-6"
+  }
+}

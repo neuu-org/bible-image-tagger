@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Mark",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Mark the Evangelist",
+  "tags": [
+    "saint-mark",
+    "evangelist",
+    "tondo",
+    "writing",
+    "gospel-writer",
+    "apostle",
+    "roundel"
+  ],
+  "symbols": [
+    "writing instrument and book — Mark as the author of the second Gospel",
+    "circular frame (tondo) — a celestial medallion isolating the saint in sacred space",
+    "direct gaze — the evangelist addressing the viewer with the authority of his testimony"
+  ],
+  "description": "A circular tondo painting set in a stone roundel frame showing a half-length portrait of a young bearded man with curly reddish-brown hair. He wears a red and green-gray draped garment over a light blue undergarment. He holds a writing instrument and rests his hand on what appears to be a book or tablet. He looks directly at the viewer with an alert, engaged expression. The painting fills the circular frame with warm flesh tones against a dark background.",
+  "theological_description": "Saint Mark, author of the second Gospel, is traditionally identified as John Mark who accompanied Paul and Barnabas (Acts 12:25) and later became Peter's interpreter in Rome. Mark's Gospel, the shortest and most urgent of the four, begins without a birth narrative, plunging directly into the ministry of Jesus: 'The beginning of the gospel of Jesus Christ, the Son of God' (Mark 1:1). The evangelist's direct gaze at the viewer mirrors his Gospel's narrative style — immediate, confrontational, demanding a response. Mark wrote for a community under persecution, and his portrait here conveys the earnest urgency of one who bears witness to truth at personal cost. The writing instrument identifies him as an author inspired by the Holy Spirit, transmitting apostolic testimony for all generations.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.1.1",
+      "relevance": "primary",
+      "reason": "The beginning of the gospel of Jesus Christ, the Son of God — the opening of Mark's Gospel"
+    },
+    {
+      "ref": "ACT.12.25",
+      "relevance": "allusion",
+      "reason": "Barnabas and Saul taking John Mark with them — the historical Mark in the apostolic mission"
+    },
+    {
+      "ref": "1PE.5.13",
+      "relevance": "allusion",
+      "reason": "Mark my son greets you — Peter's relationship with Mark, the traditional source of Mark's Gospel"
+    },
+    {
+      "ref": "2TI.4.11",
+      "relevance": "allusion",
+      "reason": "Get Mark and bring him with you, for he is useful to me — Paul's affirmation of Mark's ministry"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "alert",
+    "earnest",
+    "dignified"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0008011",
+    "title": "St. Mark",
+    "artist": "Agnolo Bronzino",
+    "model": "claude-opus-4-6"
+  }
+}

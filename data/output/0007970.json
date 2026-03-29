@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna with Angels",
+  "tags": [
+    "virgin-and-child",
+    "madonna",
+    "angels",
+    "gold-background",
+    "gothic-panel",
+    "devotional-icon",
+    "pointed-arch",
+    "halo"
+  ],
+  "symbols": [
+    "gold background — the timeless, heavenly realm in which the sacred figures dwell",
+    "Christ Child on Mary's arm — the Incarnation, God accessible through human motherhood",
+    "ornate halo — divine glory and sanctity",
+    "dark trees flanking — the garden enclosed, Mary as hortus conclusus",
+    "angels at the base — the heavenly court attending the Mother of God"
+  ],
+  "description": "A tall pointed Gothic panel with a gold background showing the Virgin Mary in a dark robe and veil, holding the Christ Child on her left arm. The Child wears a reddish garment and reaches toward His mother's brooch or clasp. Both figures have ornate circular halos with fine decorative patterning. Small dark trees or bushes flank the figures at either side. Two small winged angels kneel at the base. The panel has a distinctive pointed trefoil top. The palette is rich with dark reds, blacks, and abundant gold leaf.",
+  "theological_description": "This Gothic panel presents the Madonna and Child in the iconic tradition where every visual element carries theological meaning. The gold background removes the scene from earthly time, placing it in eternity. Mary's dark veil signifies her humility and the mystery that veils the divine action within her. The Christ Child reaching for His mother's brooch is a gesture of intimate affection, yet the brooch itself — a precious jewel at the center of her garment — may symbolize the pearl of great price (Matthew 13:46), the Kingdom of God that the Child Himself embodies. The flanking trees evoke the Song of Songs' garden enclosed (Song 4:12), a traditional Marian symbol of her virginal purity. The kneeling angels at the base represent the heavenly court paying homage to the one through whom God entered the world. Every element directs contemplation toward the central mystery: the infinite God held in finite human arms.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you — Mary as the dwelling of God, the mystery depicted"
+    },
+    {
+      "ref": "SNG.4.12",
+      "relevance": "typological",
+      "reason": "A garden enclosed is my sister, my bride — the trees flanking Mary as hortus conclusus"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent His Son, born of a woman — the Incarnation visible in the Child held by Mary"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things in her heart — her contemplative, inward gaze"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devotional",
+    "serene",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007970",
+    "title": "Madonna with Angels",
+    "artist": "Gentile da Fabriano",
+    "model": "claude-opus-4-6"
+  }
+}

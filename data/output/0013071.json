@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Companion Figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "A Scene from the Life of Saint Jerome",
+  "tags": [
+    "saint-jerome",
+    "red-cardinal-robe",
+    "encounter",
+    "triangular-spandrel",
+    "church-decoration",
+    "putti",
+    "gilded-frame",
+    "tree",
+    "desert-landscape"
+  ],
+  "symbols": [
+    "red cardinal’s robe — Jerome’s traditional association with the College of Cardinals",
+    "outdoor meeting — an episode from Jerome’s ascetic and scholarly life",
+    "tree in the background — the wilderness setting of Jerome’s penitence"
+  ],
+  "description": "A triangular spandrel fresco set within an ornate gilded architectural frame with putti at the base. The scene depicts two figures meeting outdoors beneath a tree. One figure wears a red robe and hat suggesting a cardinal, while the other wears lighter-colored garments and appears to kneel or bow. The landscape behind is sparse with a single prominent tree. The fresco is painted in warm tones within the architectural framework of a church ceiling.",
+  "theological_description": "Saint Jerome (c. 347–420), the great Doctor of the Church, is best known for translating the Bible into Latin (the Vulgate). His life combined rigorous scholarship with ascetic discipline, spending years as a hermit in the Syrian desert. Though Jerome lived centuries after the biblical period, his work made Scripture accessible to the Western Church for over a millennium. His motto—‘Ignorance of Scripture is ignorance of Christ’—reflects the conviction of 2 Timothy 3:16 that all Scripture is God-breathed and profitable. Jerome’s dedication to the sacred text embodies the psalmist’s declaration that God’s word is a lamp to the feet and a light to the path (Psalm 119:105).",
+  "scripture_refs": [
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "typological",
+      "reason": "All Scripture is God-breathed, the conviction that drove Jerome’s life work of translating the Bible"
+    },
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "God’s word as a lamp and light, embodied in Jerome’s devotion to Scripture"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "scholarly",
+    "austere"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0013071",
+    "title": "Stories of St. Jerome",
+    "artist": "Alessandro Allori",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "The Ecstasy of Saint Mary Magdalene",
+  "tags": [
+    "mary-magdalene",
+    "ecstasy",
+    "assumption",
+    "angels",
+    "cherubs",
+    "heavenward",
+    "penitent-saint",
+    "skull",
+    "mystical-transport",
+    "flowing-hair"
+  ],
+  "symbols": [
+    "Mary Magdalene borne aloft by angels — the elevation of the penitent soul to divine contemplation",
+    "long flowing hair — traditional attribute of the Magdalene, recalling her wiping Jesus's feet with her hair",
+    "upward gaze with hands in prayer — the soul's yearning for and union with God in mystical ecstasy",
+    "skull carried by cherubs below — memento mori and the Magdalene's legendary years of penitence in the wilderness",
+    "clouds and heavenly light — the divine realm into which the saint is transported",
+    "bare shoulders and exposed form — the stripping away of worldly vanity in the pursuit of holiness"
+  ],
+  "description": "A woman with long flowing brown hair is borne heavenward on a mass of clouds and cherubs. She gazes upward with clasped hands in prayer, wearing a dark reddish-brown garment that leaves her shoulders bare. Multiple plump cherubs support her from below. One cherub at the bottom carries a human skull. Golden heavenly light streams from the upper portion of the canvas. The palette is warm with dramatic chiaroscuro, characteristic of Baroque painting.",
+  "theological_description": "The legend of Mary Magdalene's ecstatic assumption draws from the synthesis of several New Testament figures in the Western tradition. The Magdalene is identified with the sinful woman who washed Jesus's feet with her tears and dried them with her hair (LUK.7.36-50), with Mary of Bethany who sat at Jesus's feet listening to his teaching (LUK.10.39), and with Mary Magdalene from whom seven demons were cast out (LUK.8.2). She was the first witness of the Resurrection, the 'apostle to the apostles' to whom Christ said 'Do not cling to me, for I have not yet ascended to my Father' (JHN.20.17). The mystical ecstasy depicted here reflects the tradition that the Magdalene spent her later years in penitential contemplation, being daily lifted to heaven by angels. The skull she carries recalls the vanitas tradition and her transformation from worldly life to radical devotion. Her story embodies the theology of grace: 'Her sins, which are many, are forgiven — for she loved much' (LUK.7.47).",
+  "scripture_refs": [
+    {"ref": "LUK.7.36-50", "relevance": "primary", "reason": "The sinful woman who anointed Jesus's feet, traditionally identified with the Magdalene"},
+    {"ref": "LUK.7.47", "relevance": "primary", "reason": "Her many sins are forgiven for she loved much — the key text of Magdalene theology"},
+    {"ref": "JHN.20.11-18", "relevance": "primary", "reason": "Mary Magdalene as first witness of the Resurrection, the apostle to the apostles"},
+    {"ref": "LUK.8.2", "relevance": "primary", "reason": "Mary Magdalene from whom seven demons had gone out"},
+    {"ref": "2CO.12.2-4", "relevance": "allusion", "reason": "Paul caught up to the third heaven, a parallel to the Magdalene's mystical ecstasy"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["ecstatic", "radiant", "transcendent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009170",
+    "title": "The Ecstasy of Saint Mary Magdalen",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

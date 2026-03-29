@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Satan",
+      "type": "OTHER"
+    },
+    {
+      "name": "Demons",
+      "type": "GROUP"
+    },
+    {
+      "name": "Damned Souls",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Hell and the Torment of the Damned",
+  "tags": [
+    "hell",
+    "damnation",
+    "demons",
+    "satan",
+    "fire",
+    "torment",
+    "judgment",
+    "eternal-punishment",
+    "medieval-illumination",
+    "inferno"
+  ],
+  "symbols": [
+    "central fire and pit — the lake of fire prepared for the devil and his angels",
+    "Satan as monstrous figure — the adversary of God, the ancient serpent bound in chains",
+    "demons with pitchforks and claws — the instruments of torment in the realm of the damned",
+    "naked human souls in agony — the eternal consequence of rejecting God's mercy",
+    "dark rocky landscape with flames — the desolation of existence separated from God",
+    "winged demonic creatures — the fallen angels who rebelled against God"
+  ],
+  "description": "A medieval illuminated manuscript page depicting Hell. At the center, a massive fire burns in a stone pit or furnace, with naked human bodies writhing in the flames. Surrounding the central inferno, grotesque winged demons with bestial features torment the damned using pitchforks, hooks, and claws. A large dark figure (Satan) presides at the center. The landscape is composed of dark rocky crags with flames erupting from various points. The blue background above contrasts with the fiery reds and oranges below.",
+  "theological_description": "This illumination from the Tres Riches Heures visualizes the biblical teaching on eternal judgment with graphic medieval intensity. The book of Revelation describes 'the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night forever and ever' (REV.20.10). Jesus himself spoke more about hell than any other biblical figure, warning of 'the eternal fire prepared for the devil and his angels' (MAT.25.41) and 'where their worm does not die and the fire is not quenched' (MRK.9.48). The central figure of Satan recalls Isaiah's prophecy of the fall of Lucifer: 'How you are fallen from heaven, O Day Star, son of Dawn!' (ISA.14.12). The demons tormenting the damned reflect the ultimate irony of evil: those who served Satan in life are rewarded with torment alongside him in eternity. The scene serves as a visual memento of the Last Judgment (MAT.25.31-46), where the sheep are separated from the goats and the unrepentant are consigned to eternal punishment. Medieval artists depicted hell with such vividness to serve a pastoral purpose: to call sinners to repentance while mercy was still available.",
+  "scripture_refs": [
+    {
+      "ref": "REV.20.10-15",
+      "relevance": "primary",
+      "reason": "The lake of fire, the final destination of Satan, the beast, and the unrepentant"
+    },
+    {
+      "ref": "MAT.25.41",
+      "relevance": "primary",
+      "reason": "Depart from me, you cursed, into the eternal fire prepared for the devil and his angels"
+    },
+    {
+      "ref": "MRK.9.48",
+      "relevance": "primary",
+      "reason": "Where the worm does not die and the fire is not quenched"
+    },
+    {
+      "ref": "ISA.14.12-15",
+      "relevance": "typological",
+      "reason": "The fall of Lucifer from heaven, the origin of the Satan figure depicted"
+    },
+    {
+      "ref": "MAT.25.31-46",
+      "relevance": "allusion",
+      "reason": "The Last Judgment separating sheep from goats, the context for eternal punishment"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "terrifying",
+    "horrific",
+    "agonizing"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0009544",
+    "title": "Hell",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

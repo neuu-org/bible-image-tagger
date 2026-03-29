@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Luke the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Luke the Evangelist Writing",
+  "tags": [
+    "luke-evangelist",
+    "gospel-writer",
+    "halo",
+    "writing",
+    "seated-figure",
+    "gilded-decoration",
+    "winged-ox",
+    "evangelist-symbol",
+    "basilica-interior",
+    "altar-chapel"
+  ],
+  "symbols": [
+    "halo — sanctity and divine inspiration",
+    "writing instrument and book — the authorship of the Gospel and Acts",
+    "winged ox or calf (partially visible) — the traditional symbol of Luke, representing sacrifice and priesthood",
+    "ornate gilded framework — the sacredness of the evangelist’s mission within the liturgical tradition"
+  ],
+  "description": "A ceiling fresco within an ornately gilded and decorated architectural framework. A bearded man with a golden halo sits in a dynamic pose, holding a writing instrument and a book or tablet. He wears a light-colored tunic and green drapery. Below him, a winged animal figure is partially visible. The surrounding decoration includes elaborate gold and painted borders with other saintly figures visible at the edges. The panel is set within the vaulted structure of a church ceiling.",
+  "theological_description": "Luke the Evangelist, author of the third Gospel and the Acts of the Apostles, is depicted in his role as inspired writer. His Gospel is unique in its attention to the poor, women, and outcasts, and in its detailed account of the infancy narrative, the parables of mercy, and the Ascension. Luke’s opening declaration—‘it seemed good to me also, having followed all things closely for some time past, to write an orderly account’ (Luke 1:3)—establishes his method as both careful historian and Spirit-guided theologian. His symbol, the winged ox, derives from the four living creatures of Ezekiel 1:10 and Revelation 4:7, traditionally associated with Luke because his Gospel opens with the priestly sacrifice of Zechariah in the Temple. Luke’s two-volume work traces the story of salvation from the announcement of John the Baptist’s birth to Paul’s preaching in Rome, demonstrating how the gospel moves from Jerusalem to the ends of the earth (Acts 1:8).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.1-4",
+      "relevance": "primary",
+      "reason": "Luke’s prologue describing his careful investigation and orderly account of the gospel"
+    },
+    {
+      "ref": "ACT.1.8",
+      "relevance": "allusion",
+      "reason": "Luke’s second volume traces the gospel from Jerusalem to the ends of the earth"
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "typological",
+      "reason": "The four living creatures, including the ox that is the traditional symbol of Luke"
+    },
+    {
+      "ref": "COL.4.14",
+      "relevance": "allusion",
+      "reason": "Paul’s identification of Luke as the beloved physician"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "inspired",
+    "majestic",
+    "devotional"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0013196",
+    "title": "Luke the Evangelist. Detail from the Ceiling of the Altar Chapel",
+    "artist": "Carlo Urbino",
+    "model": "claude-opus-4-6"
+  }
+}

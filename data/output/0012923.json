@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Attendant Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Death of Saint Joseph",
+  "tags": [
+    "death-of-joseph",
+    "deathbed",
+    "holy-family",
+    "good-death",
+    "patron-of-dying",
+    "heavenly-vision",
+    "angels",
+    "mourning",
+    "red-robe",
+    "putti",
+    "ascending-soul",
+    "divine-presence"
+  ],
+  "symbols": [
+    "deathbed of Joseph — the archetype of a holy and blessed death",
+    "Mary at the bedside — faithful companionship unto the end",
+    "figure in red kneeling — devotion and intercession at the hour of death",
+    "putti and God the Father above — heavenly reception of the righteous soul",
+    "dim lighting — the threshold between earthly life and eternal glory"
+  ],
+  "description": "An arched altarpiece depicting a deathbed scene. An elderly bearded man lies on a bed attended by several figures, including a woman in a blue veil and a figure in a vivid red robe kneeling in the foreground. Other attendants stand around the bed. In the upper portion, an elderly bearded figure representing God the Father appears among clouds and putti, with cherubim surrounding him in golden light. The composition is dark overall with dramatic lighting on the central figures.",
+  "theological_description": "The death of Saint Joseph, though not recorded in Scripture, became a major subject of devotion as Joseph was venerated as the patron of a holy death. According to pious tradition, Joseph died in the arms of Jesus and Mary, making his passing the most blessed death in human history after Christ’s own. This scene reflects the theological conviction that the righteous man’s death is precious in the sight of the Lord (Psalm 116:15). Joseph’s role as the earthly father and protector of the Christ child (Matthew 1:18-25) granted him a unique participation in the mystery of the Incarnation. The heavenly vision above the deathbed signals Joseph’s immediate reception into paradise, anticipating the communion of saints. His quiet, hidden life of faithful obedience made him the model of the just man described in Proverbs 4:18, whose path shines brighter and brighter unto the perfect day.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "typological",
+      "reason": "Joseph’s role as the righteous husband of Mary and guardian of the Christ child"
+    },
+    {
+      "ref": "PSA.116.15",
+      "relevance": "typological",
+      "reason": "Precious in the sight of the Lord is the death of his saints"
+    },
+    {
+      "ref": "PRO.4.18",
+      "relevance": "allusion",
+      "reason": "The path of the righteous shines brighter unto the perfect day, reflecting Joseph’s faithful life"
+    },
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "allusion",
+      "reason": "Joseph’s obedient protection of the Holy Family in the flight to Egypt"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "tender",
+    "reverent",
+    "peaceful"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012923",
+    "title": "Agonia Di San Giuseppe",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

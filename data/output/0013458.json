@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Serpent",
+      "type": "OTHER"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Temptation and Expulsion from Eden",
+  "tags": [
+    "temptation",
+    "fall-of-man",
+    "garden-of-eden",
+    "expulsion",
+    "adam-and-eve",
+    "serpent",
+    "forbidden-fruit",
+    "tree-of-knowledge",
+    "angel-with-sword",
+    "nude-figures",
+    "shame",
+    "original-sin"
+  ],
+  "symbols": [
+    "tree with serpent coiled around it — the tree of knowledge of good and evil and the tempter",
+    "fruit being taken — the act of disobedience that brought death into the world",
+    "angel with sword — divine judgment expelling humanity from paradise",
+    "contrasting body language left versus right — innocence giving way to shame and fear",
+    "barren landscape on the right — the cursed ground outside Eden"
+  ],
+  "description": "A ceiling fresco divided into two scenes by a central tree. On the left, two nude figures recline beneath a lush tree around which a serpent with a human-like torso is coiled, offering or presenting fruit. The woman reaches toward the serpent while the man also extends his hand. On the right side, the same two figures are shown being driven out by an angel with a sword, their bodies hunched and their faces expressing anguish and shame. The left landscape is verdant; the right is barren and rocky.",
+  "theological_description": "This iconic Sistine Chapel fresco combines two pivotal moments of Genesis 3 into a single composition: the Temptation and the Expulsion from Eden. The left half shows Eve taking the forbidden fruit while Adam participates in the transgression—both reaching for what God had forbidden (Genesis 3:6). The serpent, depicted with a human torso, embodies the cunning deception described in Genesis 3:1. The right half shows the devastating consequence: the angel with a flaming sword drives the first parents from paradise (Genesis 3:24). The contrast between the lush garden and the barren wasteland beyond illustrates the cosmic rupture caused by sin—the ground itself is cursed because of Adam (Genesis 3:17). This scene establishes the entire biblical drama of redemption: humanity’s fall necessitates the coming of the second Adam (Romans 5:12-19) who will undo the curse through his obedience unto death. Paul’s theology of original sin (Romans 5:12—‘through one man sin entered the world, and death through sin’) finds its visual origin in this very scene.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The serpent’s temptation, Eve taking the fruit, and Adam’s participation in the transgression"
+    },
+    {
+      "ref": "GEN.3.22-24",
+      "relevance": "primary",
+      "reason": "God expelling Adam and Eve from Eden with an angel and flaming sword guarding the way"
+    },
+    {
+      "ref": "ROM.5.12-19",
+      "relevance": "typological",
+      "reason": "Through one man sin entered the world—the fall depicted here necessitates the second Adam"
+    },
+    {
+      "ref": "GEN.3.17-19",
+      "relevance": "primary",
+      "reason": "The cursing of the ground, shown by the barren landscape on the expulsion side"
+    },
+    {
+      "ref": "REV.22.2",
+      "relevance": "typological",
+      "reason": "The tree of life in the new Jerusalem reverses the loss of the tree in Eden"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tragic",
+    "dramatic",
+    "sorrowful",
+    "ominous"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0013458",
+    "title": "Sistine Chapel Ceiling: The Temptation and Expulsion",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Mark",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Mark the Evangelist reading",
+  "tags": [
+    "saint-mark",
+    "evangelist",
+    "reading",
+    "open-book",
+    "white-beard",
+    "orange-robe",
+    "half-length",
+    "devotional",
+    "contemplative"
+  ],
+  "symbols": [
+    "open book or manuscript — the Gospel of Mark, the Word of God committed to writing",
+    "aged appearance — the wisdom and authority of the apostolic witness",
+    "golden-orange robe — the warm color associated with Mark's zealous proclamation"
+  ],
+  "description": "A close-up half-length portrait of an elderly man with white hair and a full white beard, wearing a golden-orange robe over a brown undergarment. He holds an open book or manuscript close to his face, reading intently with his head bowed and eyes focused on the text. The background is dark, throwing all attention onto the illuminated face and the page. The rendering is warm and intimate, with careful attention to the textures of aging skin and flowing hair. The brushwork is loose yet descriptive.",
+  "theological_description": "The depiction of Saint Mark absorbed in reading his own Gospel or the Scriptures embodies the patristic understanding that the sacred writers were not merely scribes but contemplatives who entered deeply into the mystery they recorded. Mark's Gospel, though the briefest, contains some of the most vivid and immediate descriptions of Christ's ministry. The tradition that Mark recorded Peter's preaching gives his Gospel a quality of eyewitness urgency. The act of reading here suggests not just composition but ongoing meditation — the same text that records the words of Christ continues to speak to those who read it with faith. As Paul wrote to Timothy: 'All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness' (2TI.3.16).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.1.1",
+      "relevance": "primary",
+      "reason": "The beginning of the Gospel of Jesus Christ — the text that Mark reads and wrote"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "typological",
+      "reason": "All Scripture is God-breathed — the divine inspiration behind the text Mark studies"
+    },
+    {
+      "ref": "1PE.5.13",
+      "relevance": "allusion",
+      "reason": "Peter's reference to Mark as his son — the apostolic connection behind the Gospel"
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "typological",
+      "reason": "The lion among the four living creatures, associated with Mark's Gospel"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "studious",
+    "warm",
+    "intimate"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0006189",
+    "title": "Saint Mark",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

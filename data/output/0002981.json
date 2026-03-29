@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Saint Cecilia", "type": "PERSON"}
+  ],
+  "event": "Saint Cecilia at the Organ",
+  "tags": [
+    "saint-cecilia",
+    "organ",
+    "music",
+    "patron-of-music",
+    "halo",
+    "martyr",
+    "golden-robe",
+    "sacred-music",
+    "devotion"
+  ],
+  "symbols": [
+    "organ or keyboard instrument — Cecilia's traditional attribute as patron saint of music",
+    "halo — her sanctity and martyrdom",
+    "downcast contemplative gaze — the inward devotion of sacred music-making",
+    "golden mantle over red dress — the glory of her sanctity covering her human nature"
+  ],
+  "description": "A young woman with auburn hair pulled back, wearing a red dress under a golden-yellow mantle with a blue lining, sits at a keyboard instrument (organ). Her fingers rest on the keys and her gaze is downcast in concentration. A soft luminous halo encircles her head. The pipe organ is partially visible at the left edge. The background is dark, focusing attention on the figure's serene, contemplative expression and the rich colors of her garments.",
+  "theological_description": "Saint Cecilia (2nd-3rd century) is one of the most venerated of the early Roman martyrs and the patron saint of music, musicians, and Church music. According to her Acts, on her wedding day she sang in her heart to God, dedicating her virginity to Christ even as she was given in marriage. This interior music became the basis for her association with sacred music. Her husband Valerian and his brother Tiburtius were converted through her witness and subsequently martyred, followed by Cecilia herself, who survived three blows of the executioner's sword before dying three days later. While not a biblical figure, Cecilia embodies the scriptural call to worship God with music: 'Sing to the Lord a new song' (PSA.96.1), and Paul's exhortation to address 'one another in psalms and hymns and spiritual songs, singing and making melody to the Lord' (EPH.5.19).",
+  "scripture_refs": [
+    {"ref": "PSA.96.1", "relevance": "allusion", "reason": "Sing to the Lord a new song — the scriptural basis for sacred music Cecilia represents"},
+    {"ref": "EPH.5.19", "relevance": "allusion", "reason": "Making melody to the Lord with your heart — Cecilia singing in her heart to God"},
+    {"ref": "PSA.150.3-4", "relevance": "allusion", "reason": "Praise him with stringed instruments and pipe — the instruments Cecilia patronizes"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplation", "serenity", "devotion", "beauty"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0002981",
+    "title": "St Cecilia",
+    "artist": "Guercino",
+    "model": "claude-opus-4-6"
+  }
+}

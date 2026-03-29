@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "High Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Circumcision of Christ",
+  "tags": [
+    "circumcision",
+    "infant-jesus",
+    "temple",
+    "high-priest",
+    "covenant",
+    "jewish-law",
+    "eighth-day",
+    "obedience-to-law",
+    "naming-of-jesus",
+    "first-blood"
+  ],
+  "symbols": [
+    "infant on white cloth — the pure Lamb of God submitted to the Law",
+    "priest with horned mitre performing rite — the authority of the Mosaic covenant",
+    "knife or instrument — the circumcision, the sign of the covenant with Abraham",
+    "Mary looking away — maternal suffering at the child's first shedding of blood",
+    "white cloth — purity and the swaddling of the newborn King"
+  ],
+  "description": "A scene inside a dimly lit interior where an elderly priest wearing a horned mitre bends over a nude infant lying on a white cloth atop a table or altar. The priest carefully performs the circumcision. A woman in a blue robe holds the infant from the left, while Mary stands at the right in pink and purple garments, looking down with a pensive expression. Another figure in golden robes stands at the far right. The palette is warm and muted, characteristic of a fresco or oil sketch.",
+  "theological_description": "The Circumcision of Christ, observed on the eighth day after his birth (LUK.2.21), marks Jesus' formal entry into the covenant of Abraham and his reception of the name given by the angel before his conception: 'You shall call his name Jesus, for he will save his people from their sins' (MAT.1.21). Theologically, the Circumcision demonstrates Christ's full submission to the Mosaic Law — Paul writes that God 'sent forth his Son, born of a woman, born under the law, to redeem those who were under the law' (GAL.4.4-5). The first shedding of Christ's blood at the circumcision prefigures the final shedding on the Cross; the Church Fathers saw a direct typological link between the blood of circumcision and the blood of the Passion. The circumcision also fulfills the Abrahamic covenant (GEN.17.10-12), placing Jesus within the chosen people while simultaneously inaugurating the new covenant in which circumcision of the heart replaces circumcision of the flesh (ROM.2.28-29).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.21",
+      "relevance": "primary",
+      "reason": "The circumcision and naming of Jesus on the eighth day"
+    },
+    {
+      "ref": "GEN.17.10-12",
+      "relevance": "typological",
+      "reason": "God's covenant with Abraham requiring circumcision on the eighth day"
+    },
+    {
+      "ref": "GAL.4.4-5",
+      "relevance": "typological",
+      "reason": "Christ born under the Law to redeem those under the Law"
+    },
+    {
+      "ref": "MAT.1.21",
+      "relevance": "primary",
+      "reason": "The name Jesus given at circumcision, meaning he will save his people"
+    },
+    {
+      "ref": "ROM.2.28-29",
+      "relevance": "typological",
+      "reason": "True circumcision is of the heart — the new covenant that Christ's submission to the old makes possible"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemnity",
+    "reverence",
+    "tenderness"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002592",
+    "title": "Circumcision",
+    "artist": "Francisco Goya",
+    "model": "claude-opus-4-6"
+  }
+}

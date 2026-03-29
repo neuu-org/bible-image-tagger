@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Disciples", "type": "GROUP"}
+  ],
+  "event": "Miraculous Haul of Fishes",
+  "tags": [
+    "miraculous-catch",
+    "fishing",
+    "boat",
+    "net",
+    "abundance",
+    "sea-of-galilee",
+    "calling-of-disciples",
+    "divine-provision",
+    "obedience",
+    "fishers-of-men"
+  ],
+  "symbols": [
+    "overflowing net of fish — divine abundance and the overflowing grace of God",
+    "boat on water — the Church navigating the world, sustained by Christ's command",
+    "shimmering fish catching light — the radiance of divine provision breaking through ordinary labor",
+    "dark water — the uncertain world from which the disciples are called to draw souls",
+    "distant vessel — the broader world beyond the immediate miracle"
+  ],
+  "description": "A wooden fishing boat sits low in dark greenish water, its hull heavy with a massive catch of fish. Several figures are bent over inside the boat, straining to manage the enormous haul. A large net trails alongside the vessel, filled with glistening, silvery fish that catch the light. The water around the boat shimmers with reflected light from the catch. In the far background, another vessel is faintly visible on the horizon. The sky is pale and hazy, suggesting early morning or dusk.",
+  "theological_description": "The miraculous catch of fish appears in two distinct Gospel moments. Luke records the first at the calling of Peter, when Jesus instructed Simon to put out into deep water and let down his nets after a fruitless night (LUK.5.4-7). The catch was so great that the nets began to break and both boats began to sink, prompting Peter to fall at Jesus' knees saying 'Depart from me, for I am a sinful man, O Lord.' Jesus responded: 'Do not be afraid; from now on you will be catching men' (LUK.5.10). John records a second miraculous catch after the Resurrection, when the risen Christ appeared at the Sea of Tiberias and directed the disciples to cast their net on the right side of the boat, yielding 153 large fish without the net tearing (JHN.21.6-11). Both episodes demonstrate Christ's lordship over nature and his power to transform futile human effort into supernatural abundance. The Church Fathers universally read the miraculous catch as an allegory of evangelism: the sea is the world, the net is the Gospel, and the fish are the souls gathered into the Kingdom.",
+  "scripture_refs": [
+    {"ref": "LUK.5.4-11", "relevance": "primary", "reason": "The first miraculous catch at the calling of Peter, James, and John"},
+    {"ref": "JHN.21.4-11", "relevance": "primary", "reason": "The post-Resurrection miraculous catch of 153 fish at the Sea of Tiberias"},
+    {"ref": "MAT.4.19", "relevance": "allusion", "reason": "Jesus calling disciples to become fishers of men, the metaphor enacted by the miracle"},
+    {"ref": "MAT.13.47-48", "relevance": "typological", "reason": "The parable of the dragnet, the Kingdom of Heaven compared to a net gathering fish of every kind"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe", "abundance", "labor", "mystery"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002207",
+    "title": "Miraculous Haul of Fishes",
+    "artist": "Henry Ossawa Tanner",
+    "model": "claude-opus-4-6"
+  }
+}

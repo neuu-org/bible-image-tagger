@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "name": "Saint Helena",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint Helena with Attendants",
+  "tags": [
+    "saint-helena",
+    "true-cross",
+    "sketch",
+    "pen-drawing",
+    "three-figures",
+    "empress",
+    "devotional"
+  ],
+  "symbols": [
+    "central elderly woman — Saint Helena, mother of Emperor Constantine, finder of the True Cross",
+    "attendant figures — companions of the empress on her pilgrimage to the Holy Land",
+    "gesture of instruction or devotion — Helena's role in identifying and recovering sacred relics"
+  ],
+  "description": "A loose pen and ink wash drawing showing three figures. The central figure is an elderly woman in flowing robes who gestures with one hand, as if in conversation or instruction. To her right stands a younger woman, and behind them a third partially sketched figure. The drawing is executed in quick, expressive strokes with brown ink and wash on yellowed paper. The figures are rendered with minimal detail but confident draughtsmanship.",
+  "theological_description": "Saint Helena (c. 250-330 AD) was the mother of Emperor Constantine the Great. According to tradition, she made a pilgrimage to the Holy Land around 326-328 AD and discovered the True Cross upon which Christ was crucified. Her journey represents the earliest expression of Christian pilgrimage and the veneration of sacred sites. While Helena is a post-biblical figure, her discovery of the Cross connects directly to the Crucifixion narrative. The Cross she sought is the instrument described in all four Gospels, upon which 'Christ redeemed us from the curse of the law by becoming a curse for us' (GAL.3.13). Helena's devotion to the Cross reflects Paul's declaration: 'Far be it from me to boast except in the cross of our Lord Jesus Christ' (GAL.6.14). Her story demonstrates how the historical events of the Passion continued to shape Christian piety in the centuries that followed.",
+  "scripture_refs": [
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Boasting only in the cross of Christ, the theological motivation behind Helena's search"
+    },
+    {
+      "ref": "GAL.3.13",
+      "relevance": "typological",
+      "reason": "Christ redeemed us by becoming a curse on the tree, the Cross that Helena sought"
+    },
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "allusion",
+      "reason": "The crucifixion at Golgotha, the historical event behind the relic Helena discovered"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "dignified"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009179",
+    "title": "Saint Helen",
+    "artist": "Adam Elsheimer",
+    "model": "claude-opus-4-6"
+  }
+}

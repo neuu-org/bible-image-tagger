@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with Saints",
+  "tags": [
+    "madonna-and-child",
+    "holy-family",
+    "cherries",
+    "infant-christ",
+    "young-baptist",
+    "joseph",
+    "red-curtain"
+  ],
+  "symbols": [
+    "cherries offered to the Christ Child — the fruits of Paradise, symbolizing the sweetness of salvation",
+    "Virgin Mary in red and blue — the traditional colors signifying her humanity (red) and heavenly nature (blue)",
+    "Christ Child standing on ledge — the active, sovereign Savior even in infancy",
+    "elderly bearded figure — Saint Joseph or another saint as guardian and witness",
+    "young child at lower right — the young John the Baptist, Christ's forerunner and kinsman"
+  ],
+  "description": "The Virgin Mary, wearing a red dress and head covering, sits centrally holding the nude Christ Child who stands on a ledge or parapet. To the left, a dark-skinned bearded figure looks toward the group. At the lower right, a young child reaches up offering what appears to be cherries to the infant Jesus. An elderly bearded man stands at the far right. A red curtain or drape hangs behind the central figures. The palette is rich with warm Venetian colors.",
+  "theological_description": "This sacra conversazione gathers key figures of the infancy narrative around the Christ Child. Mary, the Theotokos, presents her son as the center of all attention and devotion. The young Baptist's presence recalls Elizabeth's visit to Mary, when the unborn John leaped in the womb at the approach of the incarnate Lord (LUK.1.41-44). The cherries offered to Christ are a traditional symbol in Northern and Venetian art representing the fruits of Paradise — the blessings restored through the Incarnation that the first Adam lost. Joseph's quiet presence fulfills his role as guardian of the Holy Family (MAT.1.20-24), the just man who obeyed the angel's command. The intimate domestic gathering prefigures the Kingdom community that Christ will establish: 'Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these' (MRK.10.14).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The young Baptist's recognition of Christ, echoed in his childhood presence here"
+    },
+    {
+      "ref": "MAT.1.20-24",
+      "relevance": "primary",
+      "reason": "Joseph's role as protector of Mary and the Christ Child"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus and the Holy Family context"
+    },
+    {
+      "ref": "MRK.10.14",
+      "relevance": "allusion",
+      "reason": "Let the children come to me, reflected in the intimate gathering of children around Christ"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son, the Incarnation that this scene celebrates"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "intimate",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009197",
+    "title": "Madonna of the Cherries",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

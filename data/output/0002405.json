@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Peter", "type": "PERSON"},
+    {"name": "Tax Collector", "type": "PERSON"},
+    {"name": "Disciples", "type": "GROUP"}
+  ],
+  "event": "The Tribute Money",
+  "tags": [
+    "tribute-money",
+    "coin",
+    "tax",
+    "caesar",
+    "render-unto-caesar",
+    "pharisees-trap",
+    "divine-authority",
+    "temporal-and-spiritual",
+    "capernaum",
+    "coin-in-fish"
+  ],
+  "symbols": [
+    "coin being examined — the tribute or tax money at the center of the dispute",
+    "Christ's authoritative gesture — divine wisdom surpassing worldly cunning",
+    "tax collector with document — the apparatus of imperial taxation",
+    "gathered disciples — the witnesses to Christ's teaching on civil and divine obligations"
+  ],
+  "description": "A group of men gathers around a table in a dark interior. At the far right, a figure in red robes (Christ) gestures authoritatively. At center, several older men lean over a table examining coins and documents, one of them balding and seen from behind. At the far left, a figure in a wide-brimmed hat writes or records something. The scene is lit with dramatic chiaroscuro, the faces emerging from deep shadow, in the Caravaggist tradition.",
+  "theological_description": "The Tribute Money scene may refer to one of two Gospel episodes. In Matthew 22, the Pharisees and Herodians attempt to trap Jesus by asking whether it is lawful to pay taxes to Caesar. Jesus, seeing their malice, asks for a denarius and inquires whose image it bears. 'Caesar's,' they reply. 'Therefore render to Caesar the things that are Caesar's, and to God the things that are God's' (MAT.22.21). This teaching establishes the foundational Christian distinction between temporal and spiritual authority. Alternatively, the scene may depict the temple tax episode at Capernaum (MAT.17.24-27), where Jesus instructs Peter to catch a fish in whose mouth he will find a stater coin to pay the tax for both of them. In either case, Jesus demonstrates sovereignty over both spiritual and material realms. The Fathers read the coin's image as pointing to humanity made in God's image (GEN.1.27): if Caesar's image on a coin means it belongs to Caesar, then God's image on the human soul means it belongs to God.",
+  "scripture_refs": [
+    {"ref": "MAT.22.15-22", "relevance": "primary", "reason": "The Pharisees' question about paying tribute to Caesar and Jesus' definitive response"},
+    {"ref": "MAT.17.24-27", "relevance": "primary", "reason": "The temple tax episode with the coin found in the fish's mouth"},
+    {"ref": "MRK.12.13-17", "relevance": "primary", "reason": "Mark's parallel account of the tribute money question"},
+    {"ref": "ROM.13.7", "relevance": "allusion", "reason": "Pay to all what is owed — Paul's teaching extending Christ's principle of civic duty"},
+    {"ref": "GEN.1.27", "relevance": "typological", "reason": "Humanity made in God's image, the deeper meaning behind whose image is on the coin"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tension", "intrigue", "authority", "drama"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002405",
+    "title": "Tribute Money",
+    "artist": "Mattia Preti",
+    "model": "claude-opus-4-6"
+  }
+}

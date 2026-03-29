@@ -1,0 +1,60 @@
+{
+  "characters": [],
+  "event": "Cappella Ruccelai (Shrine of the Holy Sepulchre)",
+  "tags": [
+    "chapel",
+    "holy-sepulchre",
+    "marble",
+    "renaissance-architecture",
+    "latin-inscription",
+    "pilasters",
+    "corinthian-capitals",
+    "decorative-medallions",
+    "floral-inlay",
+    "sacred-architecture",
+    "reliquary"
+  ],
+  "symbols": [
+    "Latin inscription 'YHESUM QUERITIS' \u2014 'You seek Jesus,' the angel\u2019s words at the empty tomb",
+    "sepulchre form \u2014 a miniature replica of Christ\u2019s burial place in Jerusalem",
+    "decorative medallions \u2014 sacred geometry reflecting divine order",
+    "crosses atop the structure \u2014 the centrality of Christ\u2019s death and resurrection"
+  ],
+  "description": "A photograph of a small marble architectural structure inside a church. The structure resembles a miniature classical building with pilasters, Corinthian capitals, and an entablature. A Latin inscription 'YHESUM QUERITIS N' runs across the upper portion. Below, marble panels feature circular decorative medallions with floral and geometric patterns in colored stone inlay. A small barred opening or gate is visible in one panel. The top is crowned with Gothic-style crosses or finials. An additional Latin inscription appears on the lower portion.",
+  "theological_description": "This chapel, designed by Leon Battista Alberti, is a miniature replica of the Holy Sepulchre in Jerusalem\u2014the tomb where Christ\u2019s body was laid after the crucifixion (Matthew 27:59-60) and from which he rose on the third day. The prominent Latin inscription 'YHESUM QUERITIS' (\u2018You seek Jesus\u2019) echoes the angel\u2019s words to the women at the empty tomb: \u2018You seek Jesus who was crucified. He is not here, for he has risen\u2019 (Matthew 28:5-6). This inscription transforms the architectural monument into a proclamation of the resurrection. The structure serves as a material witness to the central event of Christian faith: \u2018If Christ has not been raised, your faith is in vain\u2019 (1 Corinthians 15:17). By replicating the Holy Sepulchre, the chapel brings the reality of pilgrimage to Jerusalem into the local worshiping community.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.5-6",
+      "relevance": "primary",
+      "reason": "The angel\u2019s words at the empty tomb\u2014\u2018You seek Jesus\u2019\u2014inscribed on the structure"
+    },
+    {
+      "ref": "MAT.27.59-60",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea placing Jesus\u2019 body in the new tomb, which this structure replicates"
+    },
+    {
+      "ref": "1CO.15.17",
+      "relevance": "typological",
+      "reason": "If Christ has not been raised, faith is in vain\u2014the empty tomb as proof of resurrection"
+    },
+    {
+      "ref": "MRK.16.6",
+      "relevance": "primary",
+      "reason": "He has risen, he is not here. See the place where they laid him"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "sacred",
+    "solemn",
+    "monumental"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013701",
+    "title": "Cappella Ruccelai, San Pancrazio (Florence)",
+    "artist": "Leon Battista Alberti",
+    "model": "claude-opus-4-6"
+  }
+}

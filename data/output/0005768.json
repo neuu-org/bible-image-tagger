@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "Pieta with Angels",
+  "tags": [
+    "pieta",
+    "dead-christ",
+    "angels",
+    "sarcophagus",
+    "passion",
+    "lamentation",
+    "holy-wounds",
+    "supporting-angels",
+    "bare-torso"
+  ],
+  "symbols": [
+    "dead Christ supported upright — the sacrificial victim displayed for contemplation and adoration",
+    "three angels supporting the body — the heavenly host mourning and serving even in death",
+    "stone parapet or sarcophagus — the tomb and altar, linking burial to Eucharistic sacrifice",
+    "wounds visible on Christ's body — the marks of redemptive suffering and atoning sacrifice",
+    "landscape with buildings beyond — the earthly world redeemed by this death"
+  ],
+  "description": "The dead Christ sits upright in a stone sarcophagus or on a parapet, his head tilted back and eyes closed, his bare torso showing the pallor of death. Three winged angels support him: one behind cradling his upper body, and two at either side steadying his arms and torso. The angels have dark wings and youthful, sorrowful faces. A white loin cloth drapes over Christ's lower body. Behind the figures, a gentle landscape with buildings and hills stretches into the distance under a pale sky. The palette is warm flesh tones against a green landscape.",
+  "theological_description": "This Pieta presents the dead Christ upheld by angels rather than by Mary, shifting emphasis from maternal grief to the heavenly response to Christ's sacrifice. The angels' presence affirms that the one who died on the cross is no mere man but the Lord of hosts, before whom the seraphim cry 'Holy, holy, holy' (ISA.6.3). Their mourning demonstrates that the Crucifixion affects not only humanity but the entire created order, including the angelic realm. The upright display of the dead body in the sarcophagus transforms the tomb into an altar — a visual theology that connects Christ's death to the Eucharistic offering. Patristically, Augustine and others understood the angels at the tomb (JHN.20.12) as completing a circle that began at the Incarnation, when angels announced the birth (LUK.2.13-14) and now attend the death. The wounds visible on Christ's body are the 'marks of love' that Thomas would later touch (JHN.20.27), the permanent signs of redemptive sacrifice.",
+  "scripture_refs": [
+    {"ref": "JHN.19.33-34", "relevance": "primary", "reason": "They saw that He was already dead; a soldier pierced His side with a spear"},
+    {"ref": "JHN.20.12", "relevance": "allusion", "reason": "Two angels in white sitting where the body of Jesus had lain — angels attending the dead Christ"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "He was wounded for our transgressions — the visible wounds on the dead body"},
+    {"ref": "HEB.1.6", "relevance": "allusion", "reason": "Let all God's angels worship him — the angels attending their Lord even in death"},
+    {"ref": "1PE.1.12", "relevance": "allusion", "reason": "Things into which angels long to look — the mystery of Christ's death contemplated by angels"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "tenderness", "reverent", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005768",
+    "title": "Pieta",
+    "artist": "Antonello da Messina",
+    "model": "claude-opus-4-6"
+  }
+}

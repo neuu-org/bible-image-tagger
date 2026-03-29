@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Saint Eligius",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anthony",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints Eligius and Antonio",
+  "tags": [
+    "saint-eligius",
+    "saint-anthony",
+    "two-saints",
+    "book",
+    "staff",
+    "halos",
+    "devotional",
+    "small-figures-below",
+    "panel-painting"
+  ],
+  "symbols": [
+    "open book — Scripture and learning, the Word of God",
+    "staff — the authority of a bishop or the support of the pilgrim",
+    "halos — sainthood and divine favor",
+    "small kneeling figures below — the faithful seeking the saints' intercession",
+    "contrasting old and young — different paths to holiness"
+  ],
+  "description": "Two standing male saints depicted full-length against a light background. At left, an elderly bearded man in dark robes with a halo holds an open book in both hands and leans on a walking staff. At right, a younger man with curly hair in a green tunic and red lower garment with a halo looks downward. Below both figures, very small kneeling figures in white appear at their feet, likely donor figures or the faithful seeking intercession. The painting is in a detailed late 15th-century Italian style.",
+  "theological_description": "Signorelli depicts Saints Eligius (Eloi) and Anthony standing together as models of Christian virtue. Saint Eligius (c. 588-660) was a goldsmith who became Bishop of Noyon, known for his charity to the poor and his skill at craftsmanship. Saint Anthony (either Anthony the Great or Anthony of Padua) represents either the eremitic or the Franciscan tradition. The open book represents devotion to Scripture and the teaching ministry of the saints. The small figures at their feet represent the faithful who seek their prayers, embodying the Catholic theology of intercession — the communion of saints where 'the prayer of a righteous person has great power' (Jas 5:16). The contrasting figures — one elderly with a staff and book, one young and vigorous — suggest that holiness takes many forms across different ages and vocations. Both are united in their haloed sanctity.",
+  "scripture_refs": [
+    {
+      "ref": "JAS.5.16",
+      "relevance": "primary",
+      "reason": "The prayer of a righteous person has great power — the saints as intercessors"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "Surrounded by a great cloud of witnesses — the communion of saints"
+    },
+    {
+      "ref": "MAT.25.21",
+      "relevance": "allusion",
+      "reason": "Well done, good and faithful servant — the saints honored for their faithfulness"
+    },
+    {
+      "ref": "SIR.44.1",
+      "relevance": "allusion",
+      "reason": "Let us now praise famous men — the honor given to the saints"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dignified",
+    "devotional",
+    "serene"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012635",
+    "title": "Saints Eligius and Antonio",
+    "artist": "Luca Signorelli",
+    "model": "claude-opus-4-6"
+  }
+}

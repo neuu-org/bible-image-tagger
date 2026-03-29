@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Susanna", "type": "PERSON"},
+    {"name": "Elders", "type": "GROUP"}
+  ],
+  "event": "Susanna and the Elders",
+  "tags": [
+    "susanna",
+    "elders",
+    "bathing",
+    "garden",
+    "voyeurism",
+    "innocence-threatened",
+    "virtue",
+    "false-accusation",
+    "chastity",
+    "deliverance"
+  ],
+  "symbols": [
+    "nude woman at tree — Susanna's vulnerability and innocence exposed to predatory eyes",
+    "lush garden foliage — the private garden where the elders spied on Susanna",
+    "elder's face peering from foliage — lustful voyeurism and abuse of judicial authority",
+    "blue cloth around waist — modesty partially preserved, Susanna's moral purity",
+    "water at feet — the act of bathing that occasioned the elders' ambush",
+    "tree trunk — the mastic and holm oak trees under which the elders separately claimed the encounter occurred"
+  ],
+  "description": "A young woman stands beside a large tree trunk, her upper body bare and a light blue cloth draped around her waist. Her dark hair is pinned up and she rests one hand against the tree. In the upper right, the reddened face of an elderly bearded man peers through dense red flowers and green foliage. At the lower right, a second figure in dark blue robes crouches partially hidden. The setting is a lush garden with tropical-looking vegetation and a pool of water at the woman's sandaled feet.",
+  "theological_description": "The story of Susanna and the Elders, found in the Greek additions to Daniel (DAN.13 in Catholic/Orthodox canons), is a narrative of virtue vindicated against corrupt authority. Two elders of Israel, appointed as judges, lust after the beautiful and God-fearing Susanna as she bathes in her garden. When she refuses their advances, they falsely accuse her of adultery with a young man. Condemned to death by the assembly, Susanna cries out to God, who raises up the young Daniel to cross-examine the elders separately. Their contradictory testimonies expose the lie, and they are executed under the law they sought to pervert (DEU.19.18-19). The episode prefigures themes of divine justice overturning false witness, the protection of the righteous, and the wisdom God grants to the young prophet Daniel. The Church Fathers read Susanna typologically as the faithful soul or the Church herself, besieged by worldly powers but ultimately vindicated by divine intervention.",
+  "scripture_refs": [
+    {"ref": "DAN.13.1-64", "relevance": "primary", "reason": "The deuterocanonical chapter narrating Susanna's trial and vindication by Daniel"},
+    {"ref": "DEU.19.18-19", "relevance": "typological", "reason": "The lex talionis applied to false witnesses, fulfilled when the elders receive the punishment they intended for Susanna"},
+    {"ref": "PSA.35.11-12", "relevance": "allusion", "reason": "False witnesses rising up, repaying good with evil — echoing Susanna's unjust accusation"},
+    {"ref": "DAN.1.17", "relevance": "allusion", "reason": "God granting Daniel wisdom and understanding, the same gift that enables him to save Susanna"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tension", "vulnerability", "menace", "lush"],
+  "period": "Exile",
+  "_meta": {
+    "key": "0002146",
+    "title": "Susanna and the Elders",
+    "artist": "Paul Serusier",
+    "model": "claude-opus-4-6"
+  }
+}

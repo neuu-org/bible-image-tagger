@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Mourning Woman", "type": "PERSON"}
+  ],
+  "event": "Lamentation over the Body of Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "passion",
+    "pieta",
+    "maternal-grief",
+    "crown-of-thorns",
+    "golden-halo",
+    "burial-preparation",
+    "holy-wounds",
+    "mater-dolorosa",
+    "crucifixion-aftermath"
+  ],
+  "symbols": [
+    "crown of thorns on Christ's head — the mockery of his kingship now transformed into a sign of redemptive suffering",
+    "golden radiance around Christ's head — divine glory persisting even in death",
+    "Virgin Mary collapsed in grief with dark veil — Mater Dolorosa, the sword of Simeon's prophecy piercing her soul",
+    "rocky outcrop and cave — proximity to the sepulchre where Christ will be laid",
+    "distant landscape with crosses — Golgotha receding, the Crucifixion just completed"
+  ],
+  "description": "The dead body of Christ lies stretched on the ground, his torso bare and a golden halo or radiance crowning his head along with a crown of thorns. A woman in dark blue robes and dark head covering, identified as the Virgin Mary, collapses over his body in anguish. Behind her, a younger woman with loose hair looks upward in distress while another figure in colorful robes raises her hands in lamentation. The setting is a dark, rocky outcrop with sparse vegetation, and a distant landscape with faint architectural forms is visible at left under a hazy sky.",
+  "theological_description": "The Lamentation depicts the interval between the Crucifixion and the Entombment, when the full cost of the Incarnation is made visible in Christ's lifeless body. Mary's collapse over her Son fulfills Simeon's prophecy that a sword would pierce her soul (LUK.2.35). The crown of thorns remains on Christ's head, the instrument of mockery now a diadem of redemptive suffering. The Magdalene's upward gaze suggests an appeal to heaven, echoing the cry of dereliction from the cross. Patristically, the Fathers read this scene through Isaiah's Suffering Servant: 'He was despised and rejected by men, a man of sorrows and acquainted with grief' (ISA.53.3). The rocky setting near the tomb anticipates the Resurrection, for the same stone that receives the dead Christ will yield the risen Lord. The horizontal body prefigures the altar of the Eucharistic sacrifice, connecting Calvary to the liturgical life of the Church.",
+  "scripture_refs": [
+    {"ref": "JHN.19.38-42", "relevance": "primary", "reason": "The removal of Christ's body from the cross and preparation for burial"},
+    {"ref": "LUK.23.55-56", "relevance": "primary", "reason": "The women who followed from Galilee observed the tomb and prepared spices"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "Simeon's prophecy of a sword piercing Mary's soul, fulfilled in her grief"},
+    {"ref": "ISA.53.3-5", "relevance": "typological", "reason": "The Suffering Servant, man of sorrows, wounded for our transgressions"},
+    {"ref": "MAT.27.55-56", "relevance": "primary", "reason": "The women watching from afar at the Crucifixion, now gathered close to mourn"},
+    {"ref": "PSA.22.16-18", "relevance": "typological", "reason": "Messianic psalm describing the pierced and broken Messiah"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "solemnity", "anguish", "tenderness"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005047",
+    "title": "Lamentation over the Body of Christ",
+    "artist": "Dosso Dossi",
+    "model": "claude-opus-4-6"
+  }
+}

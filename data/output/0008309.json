@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Virgin and Child with Saints",
+  "tags": [
+    "virgin-and-child",
+    "saints",
+    "tondo",
+    "books",
+    "devotional-scene"
+  ],
+  "symbols": [
+    "Christ Child on Mary's lap — the Incarnation, God made accessible",
+    "books and scrolls — Scripture and sacred learning",
+    "circular format — eternity and the completeness of the divine plan"
+  ],
+  "description": "A circular tondo composition showing the Virgin Mary seated at right holding the Christ Child on her lap. Two or three male figures — one elderly and bearded, one younger — gather at the left, one holding an open book. An angel or another figure appears behind Mary. A landscape with architecture is faintly visible in the background. The palette is soft with warm flesh tones, blues, and muted reds against a dark background. The composition is intimate and compact.",
+  "theological_description": "This sacra conversazione in tondo format gathers saints around the Virgin and Child in a timeless devotional grouping. The saints with their books represent the learned tradition of the Church, bringing Scripture and theology to bear on the central mystery of the Incarnation. The circular format suggests that the Incarnation is the center around which all sacred knowledge orbits. The intimate scale draws the viewer into a close, personal encounter with the holy figures, appropriate for private devotion.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.25-32",
+      "relevance": "primary",
+      "reason": "Simeon and other holy figures recognizing the Christ Child — saints gathered around the incarnate Lord"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word became flesh — the Incarnation that the saints contemplate"
+    },
+    {
+      "ref": "COL.2.3",
+      "relevance": "allusion",
+      "reason": "In Christ are hidden all the treasures of wisdom and knowledge — the books the saints study pointing to Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "intimate",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008309",
+    "title": "Virgin and Child with Saints",
+    "artist": "Giovanni Domenico Tiepolo",
+    "model": "claude-opus-4-6"
+  }
+}

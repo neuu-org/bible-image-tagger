@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ taking leave of his mother before the Passion",
+  "tags": [
+    "farewell",
+    "christ-and-mary",
+    "pre-passion",
+    "leave-taking",
+    "holy-women",
+    "disciples",
+    "grief",
+    "maternal-sorrow",
+    "landscape",
+    "architecture"
+  ],
+  "symbols": [
+    "Christ's extended hand toward the women — his compassionate farewell and blessing before suffering",
+    "Mary collapsed in grief — the sword that will pierce her heart, Simeon's prophecy being fulfilled",
+    "lush trees contrasted with bare branch — life and death intertwined in this moment of departure",
+    "architectural ruin — the old order about to be transformed through the Passion"
+  ],
+  "description": "A rich, colorful composition set in an outdoor scene between architecture on the left and lush green trees on the right. On the right side, Christ in a dark red robe extends his hand toward a group of women on the left. Two male figures in robes stand behind Christ. On the left, a group of women cluster around the Virgin Mary, who appears to have collapsed in grief, wearing a dark blue robe. Other women in white head coverings support her. An elaborate architectural structure with columns and a balcony fills the upper left. Mountains and a blue sky with clouds form the background.",
+  "theological_description": "Christ Taking Leave of His Mother is a devotional subject that dramatizes the moment before Christ sets out on the road to Jerusalem and his Passion. While not narrated as a single scene in the Gospels, the tradition draws on the emotional logic of the Incarnation: the Son who became flesh through Mary must now depart from her to fulfill his redemptive mission. The scene anticipates Simeon's prophecy that a sword would pierce Mary's soul (Luke 2:35). Christ's gesture of farewell combines tenderness with resolve — he goes willingly to the cross, as he declared: 'No one takes my life from me, but I lay it down of my own accord' (John 10:18). Mary's collapse embodies the cost of discipleship for those closest to Jesus. The scene also echoes Christ's words at the wedding at Cana, 'My hour has not yet come' (John 2:4) — now that hour has arrived, and the separation begins. The holy women who support Mary prefigure the same women who will stand at the foot of the cross (John 19:25).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul — fulfilled as Christ departs toward the Passion"
+    },
+    {
+      "ref": "JHN.10.17-18",
+      "relevance": "primary",
+      "reason": "Christ laying down his life of his own accord — his voluntary departure toward suffering"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "allusion",
+      "reason": "The women at the cross, prefigured in the women who gather around Mary at the leave-taking"
+    },
+    {
+      "ref": "JHN.2.4",
+      "relevance": "allusion",
+      "reason": "My hour has not yet come — now that hour arrives and the farewell must happen"
+    },
+    {
+      "ref": "MAT.26.36-46",
+      "relevance": "allusion",
+      "reason": "The Gethsemane agony that follows this departure, Christ accepting the cup of suffering"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "tender",
+    "dramatic",
+    "poignant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006617",
+    "title": "Christ Taking Leave of His Mother",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

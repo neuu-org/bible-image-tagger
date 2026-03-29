@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "Christ Enthroned as Pantocrator",
+  "tags": [
+    "pantocrator",
+    "christ-enthroned",
+    "blessing-hand",
+    "open-gospel",
+    "divine-majesty",
+    "golden-halo",
+    "throne-of-glory",
+    "angels"
+  ],
+  "symbols": [
+    "open book — the Word of God and Christ as Logos, teacher of divine truth",
+    "raised right hand in blessing — the priestly and kingly authority of Christ",
+    "golden halo with cross — divinity and the redeeming cross inseparable from Christ's glory",
+    "throne — Christ's sovereign kingship over all creation",
+    "blue and red garments — the union of divine nature (blue) and human nature (red) in Christ"
+  ],
+  "description": "A tall, narrow panel showing a frontal figure of Christ seated on a throne. He wears a red inner robe and deep blue outer mantle. His right hand is raised in a gesture of blessing with two fingers extended. His left hand holds an open book with text inscribed on its pages. A large golden cruciform halo surrounds His head. Two small winged angels appear in the upper corners. The background is dark with gold and green tones. His bare feet rest on a footstool.",
+  "theological_description": "The image of Christ Pantocrator ('Ruler of All') is one of the most ancient and theologically dense icons in Christian art. It presents Christ simultaneously as the divine Logos, eternal teacher, heavenly king, and merciful judge. The two-finger blessing gesture affirms the two natures of Christ (divine and human) as defined at the Council of Chalcedon. The open Gospel book proclaims His identity as the incarnate Word (John 1:1-14). The cruciform halo uniquely identifies Christ among all saints, declaring that His glory is inseparable from His sacrifice. The combination of red and blue garments signifies the hypostatic union. This iconic type draws from Revelation 4-5, where the enthroned One holds the scroll and receives worship from all creation. Christ is shown not merely as a historical figure but as the eternal Lord who reigns now and will return in glory to judge the living and the dead.",
+  "scripture_refs": [
+    {"ref": "REV.4.2-3", "relevance": "primary", "reason": "The vision of One seated on the heavenly throne, the theological basis for Christ enthroned"},
+    {"ref": "JHN.1.1-14", "relevance": "primary", "reason": "Christ as the Logos, the Word made flesh, holding the open Gospel book"},
+    {"ref": "MAT.25.31-34", "relevance": "allusion", "reason": "The Son of Man coming in glory to sit on His throne of judgment"},
+    {"ref": "COL.1.15-17", "relevance": "typological", "reason": "Christ as the image of the invisible God, firstborn over all creation, in whom all things hold together"},
+    {"ref": "HEB.1.3", "relevance": "allusion", "reason": "Christ as the radiance of God's glory, sustaining all things by His powerful word"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["majestic", "solemn", "transcendent"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0006927",
+    "title": "Savior",
+    "artist": "Viktor Vasnetsov",
+    "model": "claude-opus-4-6"
+  }
+}

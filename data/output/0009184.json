@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Saint Martin of Tours",
+      "type": "PERSON"
+    },
+    {
+      "name": "Possessed Man",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Bishop and Clergy",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint Martin Healing the Possessed Man",
+  "tags": [
+    "saint-martin",
+    "exorcism",
+    "healing",
+    "possessed-man",
+    "bishop",
+    "miracle",
+    "church-steps",
+    "crowd",
+    "spiritual-authority"
+  ],
+  "symbols": [
+    "bishop in vestments — ecclesiastical authority exercised in the name of Christ",
+    "possessed man contorted on the ground — the reality of spiritual bondage and demonic oppression",
+    "onlooking crowd — witnesses to the miraculous power of faith",
+    "church architecture with columns — the institutional Church as the setting for spiritual warfare",
+    "figures in rich garments — the mingling of sacred and civic authority in the saint's ministry"
+  ],
+  "description": "A large Baroque composition showing a bishop or saint in elaborate gold vestments standing elevated on church steps, gesturing authoritatively downward. Below him, several figures writhe and contort on the ground, apparently in the throes of demonic possession. A crowd of onlookers, including women, men in rich clothing, and attendants, surround the scene. The setting features classical columns and architectural elements. The palette is rich with warm gold, deep red, and dark tones, with dramatic lighting highlighting the central figures.",
+  "theological_description": "Though Saint Martin of Tours is a post-biblical figure (316-397 AD), the scene of exorcism he performs directly continues the ministry of Jesus and the apostles. Christ gave his disciples authority over unclean spirits (MAT.10.1) and declared that 'these signs will accompany those who believe: in my name they will cast out demons' (MRK.16.17). The Gospels record numerous exorcisms by Jesus, including the Gerasene demoniac (MRK.5.1-20) and the boy with the mute spirit (MRK.9.14-29). Martin, as bishop, exercises this same apostolic authority passed down through the Church. The scene reflects the ongoing spiritual warfare described by Paul: 'For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness' (EPH.6.12). The healing power operates not through the saint himself but through the name and authority of Christ, as Peter demonstrated at the Beautiful Gate: 'In the name of Jesus Christ of Nazareth, rise up and walk' (ACT.3.6).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.16.17",
+      "relevance": "primary",
+      "reason": "Those who believe will cast out demons in Jesus's name, the basis for Martin's exorcism"
+    },
+    {
+      "ref": "MAT.10.1",
+      "relevance": "primary",
+      "reason": "Jesus gave his disciples authority over unclean spirits"
+    },
+    {
+      "ref": "MRK.5.1-20",
+      "relevance": "typological",
+      "reason": "Jesus healing the Gerasene demoniac, the prototype for all subsequent exorcisms"
+    },
+    {
+      "ref": "EPH.6.12",
+      "relevance": "allusion",
+      "reason": "Spiritual warfare against cosmic powers of darkness, visualized in the possessed man"
+    },
+    {
+      "ref": "ACT.3.6",
+      "relevance": "allusion",
+      "reason": "Healing in the name of Jesus Christ, the authority Martin exercises as bishop"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "authoritative",
+    "tense"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009184",
+    "title": "Saint Martin Healing the Possessed Man",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

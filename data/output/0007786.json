@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Abraham", "type": "PERSON"},
+    {"name": "Sarah", "type": "PERSON"},
+    {"name": "Servants", "type": "GROUP"},
+    {"name": "Animals", "type": "GROUP"}
+  ],
+  "event": "Abraham's Journey to Canaan",
+  "tags": [
+    "abraham",
+    "journey-to-canaan",
+    "caravan",
+    "patriarchal-journey",
+    "donkeys",
+    "sheep",
+    "divine-calling",
+    "pilgrimage",
+    "landscape"
+  ],
+  "symbols": [
+    "beam of light from heaven — God's guiding presence directing Abraham's journey",
+    "caravan with animals and goods — the wealth and household Abraham brought from Haran",
+    "kneeling figure — Abraham's submission to God's call, pausing in worship on the journey",
+    "wide landscape beyond — the promised land stretching before the patriarch",
+    "donkeys and sheep — the nomadic life of the patriarchs, traveling with their livelihood"
+  ],
+  "description": "A wide landscape scene showing a caravan of travelers on a hillside path. At the left, a figure kneels on the ground while others on donkeys and on foot gather around, some wearing elaborate colorful clothing including a figure in a yellow outfit and broad hat on a donkey. Sheep, goats, and donkeys are part of the group. A beam of light breaks through the clouds at the upper left. A green river valley stretches into the distance at the right. Trees frame the scene on both sides.",
+  "theological_description": "Abraham's journey to Canaan (Genesis 12:1-9) is the foundational act of faith in biblical history. God's command, 'Go from your country and your kindred and your father's house to the land that I will show you,' demanded total trust in a promise with no visible evidence. Abraham obeyed, taking his wife Sarah, his nephew Lot, and all their possessions on a journey into the unknown. Hebrews 11:8 celebrates this as the paradigm of faith: 'By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going.' The beam of light from heaven in this painting represents the divine word that initiated and guided the journey. Abraham's call inaugurates the entire narrative of salvation: from this one obedient man, God will build a nation, and through that nation, bless all families of the earth.",
+  "scripture_refs": [
+    {"ref": "GEN.12.1-9", "relevance": "primary", "reason": "God's call to Abraham and his departure from Haran to Canaan — the scene depicted"},
+    {"ref": "HEB.11.8", "relevance": "primary", "reason": "By faith Abraham obeyed and went out, not knowing where he was going"},
+    {"ref": "GEN.12.2-3", "relevance": "allusion", "reason": "I will make you a great nation and in you all families of the earth shall be blessed"},
+    {"ref": "ACT.7.2-4", "relevance": "allusion", "reason": "Stephen's recounting of Abraham's call — the God of glory appeared to our father Abraham"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["adventurous", "reverent", "expectant"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0007786",
+    "title": "Abraham's Journey to Canaan",
+    "artist": "Pieter Lastman",
+    "model": "claude-opus-4-6"
+  }
+}

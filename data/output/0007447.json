@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Saint Bernard of Clairvaux", "type": "PERSON"}
+  ],
+  "event": "Christ Embracing Saint Bernard",
+  "tags": [
+    "mystical-embrace",
+    "christ-crucified",
+    "saint-bernard",
+    "cross",
+    "devotion",
+    "mystical-union",
+    "wound-of-christ",
+    "cistercian"
+  ],
+  "symbols": [
+    "Christ descending from the cross to embrace Bernard — the mystical experience of direct union with the crucified Lord",
+    "cross behind Christ — the Passion as the locus of mystical encounter",
+    "Bernard's white habit — Cistercian purity and devotion",
+    "Christ's bare, wounded body — the vulnerable God who gives Himself to those who love Him",
+    "the embrace itself — the mutual love between Christ and the contemplative soul"
+  ],
+  "description": "A powerful vertical composition showing the crucified Christ, descended or leaning from the cross, embracing a kneeling monk in a white Cistercian habit. Christ's bare torso is luminously rendered as He wraps one arm around the monk, who gazes upward with ecstatic devotion and clasps Christ's body. The cross beam is visible behind Christ. The background is very dark with small figures barely visible at the edges. The painting is dominated by the interplay of warm flesh tones and the white of the monk's robes against the deep shadow.",
+  "theological_description": "This extraordinary image depicts the mystical vision of Saint Bernard of Clairvaux, the great twelfth-century Cistercian abbot and Doctor of the Church. Bernard's theology centered on the love of Christ crucified, and his sermons on the Song of Songs developed the most intimate language of mystical union in Western Christianity. The vision of Christ descending from the cross to embrace His devoted servant expresses the core of Bernard's teaching: that contemplation of the Passion is not merely intellectual but relational — Christ actively responds to the soul that seeks Him. Bernard wrote, 'The soul that loves God desires nothing other than God.' This image scandalizes in the best sense: it shows the infinite God bending toward a finite creature in mutual affection. The wound in Christ's side, from which blood and water flowed (John 19:34), is brought close to Bernard's heart, symbolizing the flow of grace from the crucified Lord to the contemplative soul.",
+  "scripture_refs": [
+    {"ref": "SNG.2.16", "relevance": "primary", "reason": "My beloved is mine and I am his — the Song of Songs language Bernard used to describe mystical union with Christ"},
+    {"ref": "GAL.2.20", "relevance": "primary", "reason": "I have been crucified with Christ; it is no longer I who live but Christ who lives in me — the mystical embrace as participation in Christ's death"},
+    {"ref": "JHN.19.34", "relevance": "typological", "reason": "Blood and water from Christ's pierced side — the wound Bernard contemplated as the source of grace"},
+    {"ref": "PHP.3.10", "relevance": "allusion", "reason": "That I may know Him and the fellowship of His sufferings — Bernard's desire for union with the crucified Christ"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["ecstatic", "intimate", "profound"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007447",
+    "title": "Christ embracing Saint Bernard",
+    "artist": "Francesco Ribalta",
+    "model": "claude-opus-4-6"
+  }
+}

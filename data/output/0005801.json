@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Jechoniah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shealtiel",
+      "type": "PERSON"
+    },
+    {
+      "name": "Woman with Child",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Ancestors of Christ: Jechoniah and Shealtiel",
+  "tags": [
+    "ancestors-of-christ",
+    "genealogy-of-jesus",
+    "jechoniah",
+    "shealtiel",
+    "messianic-lineage",
+    "inscription"
+  ],
+  "symbols": [
+    "inscription tablet with names — the genealogical record linking these ancestors to the Messiah",
+    "seated contemplative figure at left — Jechoniah in exile, the king through whom the royal line continues",
+    "family group at right with child — Shealtiel and his family, the post-exilic continuation of David's line",
+    "lunette architectural frame — the Sistine Chapel ceiling program tracing Christ's ancestry"
+  ],
+  "description": "A Sistine Chapel lunette depicting two groups flanking a central inscribed tablet that reads 'IOSIAS / IECHONIAS / SALATHIEL.' At left, a bearded man in green and brown robes sits hunched in contemplation. At right, a family group shows a man leaning forward protectively over a woman who holds a small child. An ornate window or decorative element fills the lower center beneath the inscription tablet. The fresco is rendered in Michelangelo's characteristic bold forms and warm earth tones against a grey background.",
+  "theological_description": "This lunette from the Sistine Chapel ceiling depicts Jechoniah (Jeconiah/Jehoiachin) and Shealtiel, ancestors in the genealogy of Jesus Christ as recorded in Matthew 1:11-12. Jechoniah was the last king of Judah before the Babylonian exile — Jeremiah pronounced that none of his descendants would prosper sitting on the throne of David (JER.22.30), yet paradoxically through this very line the Messiah would come (MAT.1.12). Shealtiel, his son, represents the continuation of the Davidic line in exile, the thread of promise sustained even through judgment and deportation. The contemplative posture of the left figure may reflect the sorrow of exile, while the family at right suggests the tenacity of life and lineage continuing against all odds. Michelangelo's inclusion of these ancestors in the Sistine program affirms that every generation in Christ's genealogy, even those marked by judgment, participates in the providential plan of salvation.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.11-12",
+      "relevance": "primary",
+      "reason": "Josiah begat Jechoniah at the time of the exile; Jechoniah begat Shealtiel"
+    },
+    {
+      "ref": "1CH.3.17",
+      "relevance": "primary",
+      "reason": "The sons of Jeconiah the captive: Shealtiel his son"
+    },
+    {
+      "ref": "JER.22.24-30",
+      "relevance": "typological",
+      "reason": "The Lord's judgment on Coniah/Jeconiah, yet his line continues to the Messiah"
+    },
+    {
+      "ref": "HAG.2.23",
+      "relevance": "typological",
+      "reason": "Zerubbabel son of Shealtiel chosen as God's signet ring — the restoration of the line after exile"
+    },
+    {
+      "ref": "LUK.3.27",
+      "relevance": "allusion",
+      "reason": "Luke's genealogy also includes Shealtiel in the lineage traced back to God"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "solemn",
+    "familial"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0005801",
+    "title": "The Ancestors of Christ: Jechoniah, Shealtiel",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

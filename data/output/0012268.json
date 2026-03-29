@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Resurrection of Christ",
+  "tags": [
+    "resurrection",
+    "risen-christ",
+    "glory",
+    "angels",
+    "putti",
+    "virgin-mary",
+    "banner",
+    "triumphant",
+    "organ"
+  ],
+  "symbols": [
+    "risen Christ ascending — the triumph over death and the grave",
+    "red banner or cloth — the blood of the Passion now transformed into victory",
+    "angels and putti with garlands — the heavenly host celebrating the resurrection",
+    "Virgin Mary below — the Mother witnessing her Son's triumph",
+    "saint with instrument at left — music as worship celebrating the resurrection"
+  ],
+  "description": "A tall arched altarpiece composition. At the top, the risen Christ stands or floats in glory, partially draped in red cloth, arms outstretched, surrounded by putti who hold garlands of flowers. Below at the left, an elderly robed figure sits near what appears to be an organ or musical instrument. At the right, a woman in a dark blue mantle (the Virgin Mary) looks upward with hands raised in awe. Additional small angels float between the figures. The composition is dynamic and dramatic, with strong upward movement, in Tintoretto's characteristic energetic style.",
+  "theological_description": "Tintoretto's Resurrection of Christ captures the triumphant moment when death is defeated. The risen Christ ascending in glory fulfills His own promise: 'Destroy this temple, and in three days I will raise it up' (John 2:19). Paul proclaimed the resurrection as the foundation of Christian faith: 'If Christ has not been raised, your faith is futile' (1 Cor 15:17). The putti with garlands celebrate the cosmic victory, echoing the hymn of Revelation: 'Worthy is the Lamb who was slain' (Rev 5:12). The red cloth that drapes Christ connects His resurrection body to His Passion wounds — He is risen but still bears the marks of crucifixion. The Virgin Mary below represents the Church witnessing and worshipping the risen Lord. The figure at the organ suggests the musical praise that the resurrection inspires: 'Sing to the Lord a new song, for he has done marvelous things' (Ps 98:1). Christ's outstretched arms echo the crucifixion pose, now transformed from suffering into blessing.",
+  "scripture_refs": [
+    {
+      "ref": "1CO.15.17",
+      "relevance": "primary",
+      "reason": "If Christ has not been raised, your faith is futile — the resurrection as foundation"
+    },
+    {
+      "ref": "JHN.2.19",
+      "relevance": "primary",
+      "reason": "Destroy this temple and in three days I will raise it up"
+    },
+    {
+      "ref": "REV.5.12",
+      "relevance": "allusion",
+      "reason": "Worthy is the Lamb who was slain — the heavenly celebration"
+    },
+    {
+      "ref": "PSA.98.1",
+      "relevance": "allusion",
+      "reason": "Sing to the Lord a new song — the musical worship of the resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "glorious",
+    "exultant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012268",
+    "title": "The Resurrection of Christ",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

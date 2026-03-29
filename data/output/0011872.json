@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Multitude",
+      "type": "GROUP"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Feeding of the Multitude",
+  "tags": [
+    "feeding-of-the-five-thousand",
+    "miracle",
+    "loaves-and-fishes",
+    "multitude",
+    "trinity",
+    "dove",
+    "gold-halo",
+    "medieval",
+    "book-of-hours"
+  ],
+  "symbols": [
+    "loaves being distributed — Christ as the Bread of Life, divine provision",
+    "great crowd — the multitude fed by God's abundance from scarcity",
+    "God the Father above — the heavenly Father who provides all good things",
+    "dove descending — the Holy Spirit, linking the miracle to the divine Trinity",
+    "halo on Christ — His divine nature and authority",
+    "floral border — the illuminated manuscript tradition of adorning sacred text"
+  ],
+  "description": "An illuminated manuscript page from a medieval Book of Hours. The central miniature depicts a haloed figure in a blue robe standing among a large crowd of people on both sides. He appears to be distributing food to kneeling figures around him. Above in a semicircle at the top of the image, a crowned elderly figure (God the Father) is enthroned amid golden rays, with a white dove descending below. The background is deep blue with decorative patterning. The miniature is framed by an elaborate border of blue flowers, green foliage, and golden acorns.",
+  "theological_description": "The Limbourg brothers depict the Feeding of the Multitude, one of Christ's most significant miracles, recorded in all four Gospels. Jesus took five loaves and two fish, blessed them, and fed five thousand men besides women and children, with twelve baskets left over (Matt 14:13-21). The presence of the Trinity above — the Father enthroned and the Spirit as a dove — emphasizes that this miracle manifests divine power working through the incarnate Son. The feeding prefigures the Eucharist: Jesus would later say 'I am the bread of life; whoever comes to me shall not hunger' (John 6:35). The Old Testament background is God's provision of manna in the wilderness (Exod 16:4), and Jesus explicitly connects the two: 'My Father gives you the true bread from heaven' (John 6:32). The twelve baskets remaining signify the twelve tribes of Israel and the superabundance of divine grace. Elisha's multiplication of twenty loaves for a hundred men (2 Kgs 4:42-44) is a direct typological precursor.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.14.13-21",
+      "relevance": "primary",
+      "reason": "Jesus feeds five thousand with five loaves and two fish"
+    },
+    {
+      "ref": "JHN.6.35",
+      "relevance": "primary",
+      "reason": "I am the bread of life — Jesus connects the miracle to His identity"
+    },
+    {
+      "ref": "JHN.6.32",
+      "relevance": "typological",
+      "reason": "My Father gives you the true bread from heaven — linking to the manna"
+    },
+    {
+      "ref": "EXO.16.4",
+      "relevance": "typological",
+      "reason": "God rains bread from heaven in the wilderness — the Old Testament type"
+    },
+    {
+      "ref": "2KI.4.42-44",
+      "relevance": "typological",
+      "reason": "Elisha multiplies twenty loaves for a hundred men — prophetic precursor"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "abundant",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011872",
+    "title": "The Feeding of the Multitude",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

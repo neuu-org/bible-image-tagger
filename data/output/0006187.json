@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ weeping over Jerusalem",
+  "tags": [
+    "christ-weeping",
+    "jerusalem",
+    "lament",
+    "compassion",
+    "blue-mantle",
+    "red-robe",
+    "halo",
+    "raised-hand",
+    "prophetic-grief",
+    "half-length"
+  ],
+  "symbols": [
+    "Christ's raised hand — blessing or lamentation over the city",
+    "golden halo — the divine nature of the one who weeps",
+    "downcast gaze — compassionate grief over Jerusalem's coming destruction",
+    "blue mantle over red robe — the traditional colors of Christ's divinity (blue) and humanity (red)",
+    "distant landscape — the city of Jerusalem over which He weeps"
+  ],
+  "description": "A half-length portrait of Christ standing against a sky with a distant landscape. He wears a red inner robe and a blue mantle draped over one shoulder. A golden halo surrounds His head. His long brown hair falls past His shoulders, and He has a beard. His right hand is raised in a gesture that combines blessing and lamentation, while His left hand extends downward. His expression is one of deep sorrow and compassion, with downcast eyes. The background shows a pale sky with hints of mountains or terrain.",
+  "theological_description": "This image captures one of the most emotionally revealing moments in the Gospels: 'As he drew near and saw the city, he wept over it, saying, Would that you, even you, had known on this day the things that make for peace! But now they are hidden from your eyes' (LUK.19.41-42). The weeping of Christ is not sentimental but prophetic — He sees with divine foreknowledge the destruction that will come in 70 AD when the Temple will be razed and the people scattered. Yet His tears reveal that this judgment brings Him no satisfaction; it is the grief of a rejected lover. The prophetic precedent is Jeremiah, who wept over the same city: 'O that my head were waters, and my eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people' (JER.9.1). Christ's compassion here refutes any theology that portrays God as coldly dispensing justice — rather, He desires that none should perish (2PE.3.9). The raised hand of blessing simultaneous with the tears of grief captures the paradox of a God who offers salvation even as He announces the consequences of its rejection.",
+  "scripture_refs": [
+    {"ref": "LUK.19.41-44", "relevance": "primary", "reason": "Jesus weeping over Jerusalem and prophesying its destruction"},
+    {"ref": "MAT.23.37", "relevance": "primary", "reason": "O Jerusalem, Jerusalem — how often I would have gathered your children as a hen gathers her brood"},
+    {"ref": "JER.9.1", "relevance": "typological", "reason": "Jeremiah weeping over the daughter of his people — Christ as the greater weeping prophet"},
+    {"ref": "2PE.3.9", "relevance": "allusion", "reason": "The Lord not wishing that any should perish — the compassion behind Christ's tears"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["sorrowful", "compassionate", "prophetic", "tender"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006187",
+    "title": "Christ Weeping over Jerusalem",
+    "artist": "Ary Scheffer",
+    "model": "claude-opus-4-6"
+  }
+}

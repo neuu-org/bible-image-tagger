@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Holy Family with Saint Anne and Infant John the Baptist",
+  "tags": [
+    "holy-family",
+    "virgin-mary",
+    "infant-jesus",
+    "saint-anne",
+    "saint-joseph",
+    "infant-john-the-baptist",
+    "mannerist",
+    "devotional",
+    "blessing-gesture"
+  ],
+  "symbols": [
+    "Christ child's raised finger — a gesture of blessing or teaching, even as an infant",
+    "Saint Anne as elderly woman — the generational lineage of grace",
+    "infant John the Baptist — the forerunner recognizing Christ even in childhood",
+    "Joseph in background with staff — the silent guardian of the Holy Family",
+    "Mary at center — her central role in the Incarnation"
+  ],
+  "description": "A tightly composed group of five figures. At center, a young woman in a red dress and green head-covering holds a plump nude infant who raises one finger in a gesture. At lower left, an elderly woman with weathered features and a white head-covering gazes upward at the child, resting her chin on a staff. At lower right, a young child (the infant Baptist) peeks out from behind. Behind at right, a bearded man in a dark turban and holding a staff looks on. The composition is characteristically Mannerist with smooth, polished surfaces and cool colors.",
+  "theological_description": "Bronzino depicts the extended Holy Family: Mary, Jesus, Joseph, the elderly Saint Anne, and the young John the Baptist. The composition brings together the two branches of the family that converge in Luke's Gospel — Elizabeth (Anne's relation in tradition) and Mary, whose pregnancies are miraculously connected. The infant Christ's raised finger prefigures His teaching ministry, while the infant John gazes at his cousin in recognition, echoing the moment when the unborn John 'leaped in her womb' at Mary's greeting (Luke 1:41). Saint Anne, though not named in canonical Scripture, represents the faithful generations who prepared for the Messiah's coming. Joseph stands behind, fulfilling his role as protector — 'Joseph, son of David, do not fear to take Mary as your wife' (Matt 1:20). The multi-generational grouping visualizes the theological truth that the Incarnation did not occur in isolation but was prepared through a long history of divine faithfulness to Israel.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41",
+      "relevance": "primary",
+      "reason": "The baby leaped in her womb — John recognizing Christ, here shown as infants together"
+    },
+    {
+      "ref": "MAT.1.20",
+      "relevance": "primary",
+      "reason": "Joseph, do not fear to take Mary — Joseph's protective role in the background"
+    },
+    {
+      "ref": "LUK.2.51",
+      "relevance": "allusion",
+      "reason": "He was submissive to them — the Holy Family's domestic life"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "Born of a woman, born under the law — Christ entering a human family lineage"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "intimate",
+    "devotional",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012225",
+    "title": "Holy Family",
+    "artist": "Agnolo Bronzino",
+    "model": "claude-opus-4-6"
+  }
+}

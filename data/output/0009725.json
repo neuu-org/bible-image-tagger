@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "name": "Barbara",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Barbara",
+  "tags": [
+    "saint-barbara",
+    "female-saint",
+    "red-cloak",
+    "turban",
+    "tower",
+    "devotional-portrait",
+    "martyr"
+  ],
+  "symbols": [
+    "tower visible in background — Saint Barbara's traditional attribute, the tower where her father imprisoned her",
+    "rich red cloak — nobility and the blood of martyrdom",
+    "turban or head covering — her Eastern origin and dignity",
+    "direct gaze — the confidence of the martyr who faces death unafraid"
+  ],
+  "description": "A half-length portrait of a young woman seated against a dark background. She wears a rich red cloak over a dark bodice with a white undershirt, and an elaborate orange-copper turban or head covering with gold fringe. She leans on a surface with one arm, gazing directly at the viewer with a calm, confident expression. In the upper right corner, a small tower is visible against a blue sky. The painting features strong chiaroscuro with warm, rich colors against the dark background.",
+  "theological_description": "Saint Barbara, according to tradition, was a young Christian woman imprisoned in a tower by her pagan father Dioscorus, who sought to prevent her from embracing Christianity. When she persisted in her faith and was baptized, her father delivered her to the Roman authorities, and she was martyred around 306 AD. Though not a biblical figure, Barbara's story embodies the Gospel pattern of choosing Christ over family loyalty: 'Whoever loves father or mother more than me is not worthy of me' (MAT.10.37). The tower, her identifying attribute, became a symbol of the Church as refuge and of the soul's interior fortress of faith. Her courage reflects the promise of Christ: 'Do not fear those who kill the body but cannot kill the soul' (MAT.10.28). Barbara became patron saint of those facing sudden death, reflecting the Christian hope that 'whether we live or whether we die, we are the Lord's' (ROM.14.8).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.37",
+      "relevance": "allusion",
+      "reason": "Loving Christ more than father or mother, Barbara's choice against her father"
+    },
+    {
+      "ref": "MAT.10.28",
+      "relevance": "allusion",
+      "reason": "Do not fear those who kill the body — Barbara's fearless martyrdom"
+    },
+    {
+      "ref": "ROM.14.8",
+      "relevance": "allusion",
+      "reason": "Whether we live or die, we are the Lord's — the martyr's confidence"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "confident",
+    "dignified",
+    "serene"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009725",
+    "title": "SAINT BARBARA",
+    "artist": "Pacecco de Rosa",
+    "model": "claude-opus-4-6"
+  }
+}

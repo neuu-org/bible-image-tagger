@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Priest celebrating Mass",
+      "type": "PERSON"
+    },
+    {
+      "name": "Spanish Explorers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Indigenous People",
+      "type": "GROUP"
+    }
+  ],
+  "event": "First Mass at Limasawa",
+  "tags": [
+    "first-mass",
+    "philippines",
+    "cross",
+    "eucharist",
+    "colonialism",
+    "indigenous",
+    "spanish",
+    "altar",
+    "banner",
+    "mural"
+  ],
+  "symbols": [
+    "cross erected — the Christian faith planted in new territory",
+    "altar with Mass being celebrated — the Eucharist as the center of missionary work",
+    "red banner with coat of arms — the Spanish colonial authority",
+    "indigenous people kneeling — the encounter between Christianity and native cultures",
+    "mountains — the Philippine landscape"
+  ],
+  "description": "A wide mural depicting a historical scene on a tropical shore. At left, a priest in white vestments celebrates Mass at a makeshift altar beneath a large wooden cross. At center and right, Spanish soldiers and officials kneel or stand, one holding a large red banner. Among them, indigenous Filipino people also kneel, some bare-chested with traditional ornaments. The scene is set against a mountainous tropical landscape. The style is bold and narrative, characteristic of Filipino historical painting.",
+  "theological_description": "This mural depicts the first Catholic Mass celebrated in the Philippines on March 31, 1521, during Magellan's expedition. The erection of the cross and celebration of the Eucharist represent the arrival of Christianity in Southeast Asia. The Mass fulfills Christ's Great Commission: 'Go therefore and make disciples of all nations, baptizing them' (Matt 28:19). The cross planted on foreign soil enacts the universality of the Gospel — 'this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations' (Matt 24:14). The Eucharistic celebration at center affirms Jesus' words: 'Do this in remembrance of me' (Luke 22:19). The scene also raises complex questions about the relationship between evangelization and colonialism, between the genuine spread of the Gospel and the exercise of imperial power.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.19-20",
+      "relevance": "primary",
+      "reason": "Go and make disciples of all nations — the missionary impulse behind the Mass"
+    },
+    {
+      "ref": "MAT.24.14",
+      "relevance": "primary",
+      "reason": "This gospel will be proclaimed throughout the whole world — the global mission"
+    },
+    {
+      "ref": "LUK.22.19",
+      "relevance": "allusion",
+      "reason": "Do this in remembrance of me — the Eucharist celebrated at the altar"
+    },
+    {
+      "ref": "ACT.1.8",
+      "relevance": "allusion",
+      "reason": "You will be my witnesses to the ends of the earth — the expansion to the Philippines"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "historic",
+    "momentous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012592",
+    "title": "First Mass at Limasawa",
+    "artist": "Botong Francisco",
+    "model": "claude-opus-4-6"
+  }
+}

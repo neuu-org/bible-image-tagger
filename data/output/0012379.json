@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Bishop",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ordinand",
+      "type": "PERSON"
+    },
+    {
+      "name": "Clergy",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Seven Sacraments — Ordination",
+  "tags": [
+    "ordination",
+    "sacrament",
+    "bishop",
+    "laying-on-of-hands",
+    "clergy",
+    "vestments",
+    "holy-orders",
+    "church-interior"
+  ],
+  "symbols": [
+    "laying on of hands — the apostolic transmission of authority and the Holy Spirit",
+    "bishop's vestments — the fullness of holy orders and apostolic succession",
+    "kneeling ordinand — humility and submission to the call of God",
+    "gathered clergy — the community of the ordained witnessing and affirming",
+    "dark interior — the sacred mystery of the sacrament"
+  ],
+  "description": "A dark, tenebristic interior scene showing a religious ceremony. A bishop or senior clergyman in elaborate vestments places his hands on or near a kneeling younger man in white vestments. Several other clergy stand behind observing the rite. The lighting is dramatic, with the central figures illuminated against deep shadow. The composition is intimate and solemn, characteristic of Crespi's treatment of sacramental subjects.",
+  "theological_description": "Crespi depicts the Sacrament of Holy Orders (Ordination), one of the seven sacraments of the Catholic Church. The laying on of hands by the bishop transmits the apostolic authority that traces back to Christ's commissioning of the Twelve: 'As the Father has sent me, even so I am sending you' (John 20:21). The Acts of the Apostles records the first ordinations: 'they had appointed elders for them in every church, with prayer and fasting' (Acts 14:23), and Paul instructs Timothy 'not to neglect the gift you have, which was given you by prophecy when the council of elders laid their hands on you' (1 Tim 4:14). The sacrament is understood as a continuation of Christ's priestly ministry — 'You are a priest forever, after the order of Melchizedek' (Heb 5:6). The dark setting and concentrated light emphasize the sacredness of the moment when divine authority is conferred through human hands.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.20.21",
+      "relevance": "primary",
+      "reason": "As the Father has sent me, so I am sending you — the commissioning that ordination continues"
+    },
+    {
+      "ref": "1TI.4.14",
+      "relevance": "primary",
+      "reason": "The gift given by prophecy when the council of elders laid hands on you"
+    },
+    {
+      "ref": "ACT.14.23",
+      "relevance": "allusion",
+      "reason": "They appointed elders in every church — the apostolic practice of ordination"
+    },
+    {
+      "ref": "HEB.5.6",
+      "relevance": "typological",
+      "reason": "You are a priest forever after the order of Melchizedek — the eternal priesthood"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "sacred",
+    "intimate"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0012379",
+    "title": "The Seven Sacraments - Ordination",
+    "artist": "Giuseppe Maria Crespi",
+    "model": "claude-opus-4-6"
+  }
+}

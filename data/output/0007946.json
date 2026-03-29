@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Jesus in a Crown of Thorns",
+  "tags": [
+    "crown-of-thorns",
+    "ecce-homo",
+    "passion",
+    "suffering-christ",
+    "red-robe",
+    "reed-scepter",
+    "head-portrait",
+    "blood"
+  ],
+  "symbols": [
+    "crown of thorns — the curse of Genesis 3:18 placed on the Redeemer's head",
+    "red/purple robe — the mockery of Christ's true kingship",
+    "reed scepter — the false symbol of authority mocking the King of Kings",
+    "blood on the face — the physical cost of redemption"
+  ],
+  "description": "A small, intimate portrait showing the head and upper body of Christ wearing a crown of thorns and a reddish robe. Blood streaks His face from the thorns. He holds a reed or stick as a mock scepter. The painting is rough and textured with visible, expressive brushwork. The palette is dominated by warm reds and earth tones. The face is rendered with pathos — weary, bloodied, yet possessing quiet dignity. The overall effect is raw and emotionally powerful despite the small scale.",
+  "theological_description": "This intimate portrait of the crowned Christ strips away all narrative context to present the Ecce Homo — 'Behold the Man' (John 19:5) — in its stark reality. Pilate's words, intended to elicit pity and perhaps release, instead became the Church's eternal meditation: behold what sin has done to the Son of God. The crown of thorns gathers up the curse of Genesis 3:18 and places it on the brow of the One who came to reverse the curse. The rough, almost impressionistic rendering refuses to beautify suffering — this is real blood, real pain, real flesh. Yet in the midst of degradation, Christ's quiet dignity testifies to what Isaiah prophesied: 'By His wounds we are healed' (Isaiah 53:5). The small scale of the portrait creates an intimate, devotional encounter — the viewer stands close, as Pilate did, and must decide what to do with this suffering King.",
+  "scripture_refs": [
+    {"ref": "JHN.19.1-5", "relevance": "primary", "reason": "Pilate presenting the scourged, crowned Jesus — Ecce Homo, behold the Man"},
+    {"ref": "ISA.53.3-5", "relevance": "typological", "reason": "A man of sorrows, despised and rejected — by His wounds we are healed"},
+    {"ref": "GEN.3.18", "relevance": "typological", "reason": "Thorns and thistles the ground shall bring forth — the curse now worn as a crown by the Redeemer"},
+    {"ref": "MRK.15.17-19", "relevance": "primary", "reason": "They clothed Him in purple, twisted a crown of thorns, and struck His head with a reed"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["anguished", "intimate", "raw"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007946",
+    "title": "Jesus in a crown of thorns",
+    "artist": "Ilya Repin",
+    "model": "claude-opus-4-6"
+  }
+}

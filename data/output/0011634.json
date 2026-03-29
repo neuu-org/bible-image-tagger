@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {
+      "name": "Sabobai",
+      "type": "PERSON"
+    },
+    {
+      "name": "Benaiah",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Sabobai and Benaiah",
+  "tags": [
+    "warriors",
+    "old-testament",
+    "medieval-armor",
+    "portrait",
+    "two-figures"
+  ],
+  "symbols": [
+    "armed warriors — the mighty men of David's army"
+  ],
+  "description": "A medieval panel painting showing two armed men in period armor, likely representing the biblical warriors Sabobai and Benaiah from David's mighty men. They stand as half-length portraits in rich clothing with weapons.",
+  "theological_description": "Benaiah son of Jehoiada was one of David's mighty men, renowned for his exploits: 'He struck down two heroes of Moab. He also went down and struck down a lion in a pit on a day when snow had fallen' (2SA.23.20). These warriors represent the human courage empowered by God that characterized David's kingdom.",
+  "scripture_refs": [
+    {
+      "ref": "2SA.23.20-23",
+      "relevance": "primary",
+      "reason": "Benaiah's heroic deeds as one of David's mighty men"
+    },
+    {
+      "ref": "1CH.11.22-25",
+      "relevance": "primary",
+      "reason": "Parallel account of Benaiah's exploits"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "stern",
+    "martial"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0011634",
+    "title": "Sabobai and Benaiah",
+    "artist": "Konrad Witz",
+    "model": "claude-opus-4-6"
+  }
+}

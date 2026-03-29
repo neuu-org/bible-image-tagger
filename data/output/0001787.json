@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Peter", "type": "PERSON"},
+    {"name": "Disciples in the boat", "type": "GROUP"}
+  ],
+  "event": "Jesus Walks on Water",
+  "tags": [
+    "walking-on-water",
+    "miracle",
+    "sea-of-galilee",
+    "storm",
+    "peter",
+    "faith",
+    "luminous-christ",
+    "boat",
+    "night-scene",
+    "waves"
+  ],
+  "symbols": [
+    "Christ walking on water glowing with light — His divine power over nature and His identity as Lord of creation",
+    "Peter stepping out of the boat — faith venturing onto the impossible at Christ's command",
+    "Stormy sea — the chaos and trials of life through which Christ leads His disciples",
+    "Boat with frightened disciples — the Church tossed by the storms of the world",
+    "Light emanating from Christ — He is the Light of the World even in the darkest night"
+  ],
+  "description": "A luminous figure of Christ walks on the surface of a dark, churning sea, His body radiating a warm golden-white light that reflects off the waves. Another figure — Peter — walks toward Christ on the water, arms reaching forward. In the right foreground, a boat with several huddled disciples rides the waves, the men looking on in amazement and fear. The scene is set at night with a dark, misty atmosphere. The light from Christ's figure is the sole source of illumination, casting reflections across the turbulent water.",
+  "theological_description": "Jesus walking on the Sea of Galilee is one of the most powerful theophanic moments in the Gospels (MAT.14.22-33). The disciples, straining against contrary winds in the fourth watch of the night, see Jesus approaching on the water and are terrified. His words — 'Take heart; it is I. Do not be afraid' (MAT.14.27) — use the divine 'I AM' (ego eimi), echoing God's self-revelation to Moses (EXO.3.14). Peter's request to come to Jesus on the water is both an act of extraordinary faith and a lesson in its fragility: 'when he saw the wind, he was afraid, and beginning to sink he cried out, Lord, save me' (MAT.14.30). Jesus immediately catches him: 'O you of little faith, why did you doubt?' The scene reveals Christ's divine sovereignty over creation — 'He alone stretches out the heavens and treads on the waves of the sea' (JOB.9.8) — and His tender care for His disciples in their fear. The boat in the storm has been read by the Fathers as an image of the Church, tossed by persecutions but never abandoned by Christ.",
+  "scripture_refs": [
+    {"ref": "MAT.14.25-33", "relevance": "primary", "reason": "Jesus walks on water and Peter steps out of the boat — the specific event depicted"},
+    {"ref": "MAT.14.27", "relevance": "primary", "reason": "Take heart; it is I (ego eimi). Do not be afraid — Christ's self-revelation"},
+    {"ref": "MAT.14.30-31", "relevance": "primary", "reason": "Peter sinks and cries 'Lord save me' — Christ rescuing the disciple of little faith"},
+    {"ref": "JOB.9.8", "relevance": "typological", "reason": "He alone treads on the waves of the sea — Old Testament description of divine power over water"},
+    {"ref": "PSA.77.19", "relevance": "typological", "reason": "Your way was through the sea, your path through the great waters — God's mastery over the deep"},
+    {"ref": "MRK.6.48-51", "relevance": "primary", "reason": "Mark's parallel account: He came to them walking on the sea and meant to pass by them"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe-inspiring", "mysterious", "luminous", "dramatic"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001787",
+    "title": "Jesus walks on water",
+    "artist": "Ivan Aivazovsky",
+    "model": "claude-opus-4-6"
+  }
+}

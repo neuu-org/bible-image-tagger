@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Holy Family with Mary Magdalene",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "mary-magdalene",
+    "ointment-jar",
+    "holy-spirit-dove",
+    "incarnation",
+    "devotion",
+    "blessing-gesture",
+    "divine-motherhood"
+  ],
+  "symbols": [
+    "dove descending — the Holy Spirit overshadowing the Holy Family",
+    "ointment jar held by Magdalene — her traditional attribute, recalling the anointing at Bethany",
+    "Christ child's raised hand — gesture of blessing and divine authority even in infancy",
+    "dark green veil of Mary — her role as Mother of God shrouded in mystery",
+    "olive branch carried by dove — peace, reconciliation, and the new covenant"
+  ],
+  "description": "The Virgin Mary, wearing a dark green veil over her head and a red garment, holds the Christ Child who raises one hand in blessing. Behind them, a bearded man (Joseph) looks over Mary's shoulder. At the lower left, a woman with a shaved or closely cropped head bows in devotion, holding a small ornate vessel. In the upper right corner, a white dove carrying an olive branch descends through golden light against a dark background.",
+  "theological_description": "This devotional grouping brings together the Holy Family with Mary Magdalene, creating a theological tableau of Incarnation and redemption. The Magdalene, traditionally identified with the sinful woman who anointed Jesus' feet (LUK.7.37-38), here brings her alabaster jar to the infant Christ, collapsing the chronology to show that the purpose of the Incarnation was from the beginning the redemption of sinners. The Holy Spirit descending as a dove with an olive branch recalls both the Annunciation — 'The Holy Spirit will come upon you' (LUK.1.35) — and the dove returning to Noah with the olive branch signaling peace after judgment (GEN.8.11). The Christ child's blessing gesture indicates divine authority present even in infancy. Joseph's watchful presence fulfills his role as guardian of the mystery. The composition thus presents the entire economy of salvation in miniature: the Trinity (Father implied, Son incarnate, Spirit descending), the faithful human cooperation (Mary, Joseph), and the redeemed sinner (Magdalene).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit overshadowing Mary, represented by the descending dove"
+    },
+    {
+      "ref": "LUK.7.37-38",
+      "relevance": "primary",
+      "reason": "The sinful woman bringing an alabaster jar of ointment, traditionally identified with the Magdalene"
+    },
+    {
+      "ref": "GEN.8.11",
+      "relevance": "typological",
+      "reason": "The dove with olive branch signaling peace after judgment, a type of the new creation in Christ"
+    },
+    {
+      "ref": "JHN.12.3",
+      "relevance": "allusion",
+      "reason": "Mary of Bethany anointing Jesus with costly perfume, another tradition merged with the Magdalene"
+    },
+    {
+      "ref": "MAT.1.20",
+      "relevance": "allusion",
+      "reason": "Joseph's role as guardian of the child conceived by the Holy Spirit"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotion",
+    "tenderness",
+    "reverence",
+    "warmth"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002293",
+    "title": "Holy Family with Mary Magdalene",
+    "artist": "Ventura Salimbeni",
+    "model": "claude-opus-4-6"
+  }
+}

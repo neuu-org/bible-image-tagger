@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Virgin and Child Enthroned",
+  "tags": [
+    "madonna-and-child",
+    "crowned-virgin",
+    "christ-child",
+    "red-apple",
+    "coral-necklace",
+    "gold-background",
+    "radiance",
+    "latin-inscription",
+    "crowned-queen",
+    "divine-maternity",
+    "infant-jesus"
+  ],
+  "symbols": [
+    "crown on Mary — her queenship and royal dignity as Mother of the King",
+    "red apple held by Christ Child — the fruit of the Fall reclaimed by the new Adam",
+    "coral necklace on the infant — traditional protective amulet and symbol of Christ’s future blood",
+    "gold radiating background — divine glory and heavenly splendor",
+    "Latin inscription — theological declaration of Mary’s role in salvation"
+  ],
+  "description": "A half-length portrait of a crowned woman in a red robe against a black background with gold radiating lines. She holds a plump infant on her left arm. The child wears a white cloth and a coral necklace, and holds a round red apple in one hand. The woman has a serene, direct gaze. Latin text is inscribed along the top edge of the image.",
+  "theological_description": "This devotional image presents the Virgin Mary as Queen of Heaven holding the Christ Child, who grasps a red apple—a potent symbol of the redemption of the Fall. Where Eve took the forbidden fruit and brought death, the new Eve (Mary) brings forth the One who reclaims the fruit and restores life. The Christ Child’s willing grasp of the apple signifies his voluntary assumption of the burden of human sin. The crown on Mary’s head reflects the tradition of her heavenly coronation and her role as the Gebirah (Queen Mother) of the Davidic kingdom, prefigured in Bathsheba’s position beside Solomon’s throne (1 Kings 2:19). The coral necklace, a traditional apotropaic ornament, also prefigures Christ’s blood shed for the redemption of humanity. The Latin inscription along the top declares the theological significance of Mary’s virginal maternity.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "The angel’s announcement that Mary will bear a son who will reign on David’s throne forever"
+    },
+    {
+      "ref": "GEN.3.6",
+      "relevance": "typological",
+      "reason": "The fruit of the forbidden tree, reclaimed in the apple held by the Christ Child as the new Adam"
+    },
+    {
+      "ref": "1KI.2.19",
+      "relevance": "typological",
+      "reason": "Bathsheba enthroned as queen mother beside Solomon, prefiguring Mary’s queenship"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "allusion",
+      "reason": "The virgin shall conceive and bear a son, fulfilled in this image of virginal maternity"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "regal",
+    "devotional",
+    "serene",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013004",
+    "title": "Mary with the Child",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

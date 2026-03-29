@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Adoration of the Shepherds",
+  "tags": [
+    "adoration-of-shepherds",
+    "nativity",
+    "infant-christ",
+    "manger",
+    "shepherds",
+    "night-scene",
+    "stable"
+  ],
+  "symbols": [
+    "infant Christ as source of light — the Light of the World illuminating the darkness of the stable",
+    "shepherds kneeling — the humble and lowly who are first to receive the good news",
+    "Mary presenting the child — the Theotokos offering Christ to the world",
+    "dark stable — the humility of the Incarnation, God entering the lowest place"
+  ],
+  "description": "A dark Baroque painting with dramatic chiaroscuro showing the Nativity scene. The Virgin Mary in red and white garments holds the infant Jesus at center, the child's body radiating light that illuminates the surrounding figures. Several shepherds in rough clothing gather around, kneeling and gazing at the child. A semi-nude shepherd in the foreground reaches toward the infant. Joseph stands behind. The setting is a dark stable or grotto. The lighting emanates almost entirely from the Christ Child, creating powerful contrasts between light and shadow.",
+  "theological_description": "The Adoration of the Shepherds (LUK.2.8-20) fulfills the angelic announcement: 'Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord' (LUK.2.10-11). The shepherds, the lowliest of workers, are chosen as the first witnesses — a pattern consistent with God's preference for the humble: 'He has brought down the mighty from their thrones and exalted those of humble estate' (LUK.1.52). The light emanating from the Christ Child in this painting visualizes John's theology: 'The true light, which gives light to everyone, was coming into the world' (JHN.1.9). The darkness of the stable represents the world into which Christ entered: 'The light shines in the darkness, and the darkness has not overcome it' (JHN.1.5). The shepherds also prefigure Christ's own identity as the Good Shepherd (JHN.10.11), creating a beautiful reciprocity: shepherds worship the Shepherd of all.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The shepherds visiting the newborn Christ, the direct subject"
+    },
+    {
+      "ref": "LUK.2.10-11",
+      "relevance": "primary",
+      "reason": "The angelic announcement of the Savior's birth"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "typological",
+      "reason": "Light shining in darkness, visualized in the Christ Child illuminating the stable"
+    },
+    {
+      "ref": "JHN.1.9",
+      "relevance": "typological",
+      "reason": "The true light coming into the world"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "allusion",
+      "reason": "God exalting the humble, shown in the shepherds as first worshipers"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "intimate",
+    "luminous",
+    "humble"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011194",
+    "title": "The Adoration of the Shepherds",
+    "artist": "Mattia Preti",
+    "model": "claude-opus-4-6"
+  }
+}

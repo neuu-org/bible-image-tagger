@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Male figure in background",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Virgin and Child in a landscape",
+  "tags": [
+    "virgin-mary",
+    "christ-child",
+    "madonna-and-child",
+    "tondo",
+    "landscape",
+    "seated-madonna",
+    "red-robe",
+    "gilded-frame",
+    "devotional"
+  ],
+  "symbols": [
+    "Virgin's red robe — love, charity, and the blood of the Passion she will witness",
+    "Christ Child standing nude — the vulnerability and full humanity of the Incarnate God",
+    "circular tondo format — eternity, perfection, the unending nature of divine love",
+    "landscape with ruins — the old order passing away as the new covenant begins in Christ"
+  ],
+  "description": "A circular (tondo) painting set within an ornate gilded frame carved with flowers and fruit. The Virgin Mary sits in a landscape wearing a red robe with a dark green mantle, her head inclined in prayer. The nude Christ Child stands at her feet, holding what appears to be a small object. In the background to the right, a partially nude male figure sits near architectural ruins. The landscape includes rocky hills and a pale blue sky. The composition is intimate and devotional.",
+  "theological_description": "The Madonna and Child is the quintessential image of the Incarnation — God taking on human flesh through the Virgin's consent. Mary's prayerful posture as she gazes at her Son suggests her contemplation of the mystery she carries: the child at her feet is the Logos through whom all things were made (John 1:3), now become small and dependent. The tondo format, with its eternal circular form, reinforces the theological truth that this moment of maternal tenderness exists within the circle of God's eternal plan of salvation. The ruins in the background, a common Renaissance motif, represent the Old Covenant and the pagan world that pass away with the coming of Christ — the old has gone, the new has come (2 Cor 5:17). The Christ Child's nudity emphasizes the full reality of the Incarnation: God truly became man, vulnerable and mortal, in order to redeem humanity from within.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the central mystery the Madonna and Child makes visible"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary pondering all these things in her heart, reflected in her contemplative pose"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "When the fullness of time had come, God sent forth his Son, born of woman"
+    },
+    {
+      "ref": "2CO.5.17",
+      "relevance": "allusion",
+      "reason": "The old has passed away, the new has come — symbolized by the ruins in the background"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006581",
+    "title": "Virgin with Child",
+    "artist": "Luca Signorelli",
+    "model": "claude-opus-4-6"
+  }
+}

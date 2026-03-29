@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Tobias",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel Raphael",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Landscape with Tobias and the Angel",
+  "tags": [
+    "tobias",
+    "angel-raphael",
+    "journey",
+    "landscape",
+    "rolling-hills",
+    "bare-trees",
+    "autumn",
+    "companionship",
+    "road",
+    "polish-art"
+  ],
+  "symbols": [
+    "two travelers on a road — the journey of faith guided by divine protection",
+    "angel as companion — God's unseen providence accompanying the faithful",
+    "vast empty landscape — the loneliness of the journey and the vastness of God's creation",
+    "bare trees — the season of trial and the stripping away of worldly comforts",
+    "distant buildings — the destination and hope of arrival"
+  ],
+  "description": "A sweeping autumn landscape of rolling brown and orange plowed fields under a grey-blue cloudy sky. In the lower right, two small figures walk along a green path between the hills — one appears to have wings. Bare, leafless trees stand nearby. In the distance, a few buildings or a farmstead sit on the horizon. The palette is muted, dominated by earth tones of ochre, brown, and mauve, with the green path providing a subtle contrast. The mood is melancholic and vast.",
+  "theological_description": "Malczewski sets the deuterocanonical story of Tobias and the Angel Raphael in a Polish autumn landscape, creating a powerful meditation on divine guidance through life's journey. In the Book of Tobit, the young Tobias sets out on a journey and is accompanied by a stranger who is actually the archangel Raphael in disguise (Tob 5:4-6). Raphael guides Tobias safely, helps him catch the fish whose organs will heal his father's blindness, and arranges his marriage to Sarah. The name Raphael means 'God heals.' The vast, somewhat desolate landscape emphasizes the vulnerability of the human traveler and the hiddenness of divine help — Tobias does not know his companion is an angel until the end. This echoes Hebrews 13:2: 'Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares.' The Psalmist's confidence resonates: 'The Lord will keep your going out and your coming in from this time forth and forevermore' (Ps 121:8).",
+  "scripture_refs": [
+    {
+      "ref": "TOB.5.4-6",
+      "relevance": "primary",
+      "reason": "Tobias sets out and meets the angel Raphael disguised as a fellow traveler"
+    },
+    {
+      "ref": "TOB.12.15",
+      "relevance": "primary",
+      "reason": "Raphael reveals himself as one of the seven angels who stand before God"
+    },
+    {
+      "ref": "HEB.13.2",
+      "relevance": "typological",
+      "reason": "Some have entertained angels unawares — Tobias unknowingly walks with an angel"
+    },
+    {
+      "ref": "PSA.121.8",
+      "relevance": "allusion",
+      "reason": "The Lord will keep your going out and your coming in — divine protection on the journey"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "melancholic",
+    "contemplative",
+    "vast"
+  ],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0011942",
+    "title": "Landscape with Tobias and the Angel",
+    "artist": "Jacek Malczewski",
+    "model": "claude-opus-4-6"
+  }
+}

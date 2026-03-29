@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "Study for the Last Supper",
+  "tags": [
+    "last-supper",
+    "preparatory-study",
+    "apostles",
+    "red-chalk-drawing",
+    "table-scene",
+    "gesture-studies",
+    "eucharist"
+  ],
+  "symbols": [
+    "long table with apostles — the institution of the Eucharist at the Last Supper",
+    "varied gestures and reactions — the moment of Christ's announcement that one will betray Him",
+    "separate figure studies below — the artist's careful attention to individual psychological states"
+  ],
+  "description": "A red chalk preparatory drawing on light paper showing two rows of studies. The upper portion depicts a group of seven or eight men seated along one side of a long table, rendered in loose but expressive strokes. They are shown in various animated poses — leaning, gesturing, turning to each other. Below, separate individual and paired figure studies show men in conversation or emotional reaction, drawn with more detail. Handwritten notes appear in mirror script near some figures. The drawing is vigorous and exploratory.",
+  "theological_description": "This preparatory study captures the psychological drama at the heart of the Last Supper — the moment when Jesus announced, 'One of you will betray me' (Matthew 26:21). The varied reactions of the apostles — shock, denial, self-examination, whispered consultation — reveal that the Last Supper is not merely a ritual meal but a crisis of faith and loyalty. Each disciple must ask himself, 'Is it I, Lord?' (Matthew 26:22). The separate figure studies below demonstrate that each apostle's response is individualized: there is no generic reaction to Christ's devastating announcement. This preparatory work for the greatest depiction of the Last Supper in art history reminds us that the Eucharist was born not in serene liturgical calm but in the midst of betrayal, confusion, and impending death. Yet it is precisely in this moment of crisis that Christ institutes the sacrament of His perpetual presence.",
+  "scripture_refs": [
+    {"ref": "MAT.26.20-25", "relevance": "primary", "reason": "Jesus announcing the betrayal at the Last Supper — the dramatic moment the study captures"},
+    {"ref": "MAT.26.26-28", "relevance": "primary", "reason": "The institution of the Eucharist at the same meal — the theological significance of the event"},
+    {"ref": "JHN.13.21-30", "relevance": "allusion", "reason": "John's account of the betrayal announcement with the morsel given to Judas"},
+    {"ref": "1CO.11.23-26", "relevance": "allusion", "reason": "Paul's account of the Lord's Supper tradition — on the night He was betrayed"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "tense", "searching"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008037",
+    "title": "Study for the Last Supper",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

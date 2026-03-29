@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Two Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Road to Emmaus",
+  "tags": [
+    "road-to-emmaus",
+    "post-resurrection",
+    "landscape",
+    "walking-figures",
+    "river",
+    "trees",
+    "journey",
+    "emmaus"
+  ],
+  "symbols": [
+    "three figures walking on a road — Christ walking unrecognized with two disciples after the Resurrection",
+    "vast expansive landscape — the journey of faith through the world, guided by the hidden Christ",
+    "road winding into the distance — the pilgrim path from Jerusalem to Emmaus, a metaphor for the life of faith",
+    "inscription EVNTES IN EMAVS — the Latin identification of the Emmaus journey"
+  ],
+  "description": "A wide panoramic landscape engraving showing a vast terrain with a river, trees, rolling hills, and distant mountains. In the lower right corner, three small figures walk along a path beneath large overhanging trees. The inscription at the bottom reads 'EVNTES IN EMAVS' (Going to Emmaus). The landscape dominates the composition, with the figures appearing small within the immense natural setting. The engraving is highly detailed with fine cross-hatching typical of Flemish printmaking.",
+  "theological_description": "The Road to Emmaus (LUK.24.13-35) is one of the most theologically rich post-Resurrection narratives. Two disciples, walking away from Jerusalem in despair after the crucifixion, are joined by the risen Christ whom they fail to recognize. Jesus opens the Scriptures to them, showing 'in all the Scriptures the things concerning himself' (LUK.24.27), beginning with Moses and all the Prophets. Their eyes are opened only in the breaking of bread (LUK.24.30-31), connecting the Emmaus encounter to the Eucharist. The vast landscape in Bruegel's engraving emphasizes the hiddenness of Christ in the ordinary world — he walks beside them in the mundane journey, yet they do not perceive him. Their later testimony, 'Did not our hearts burn within us while he talked to us on the road?' (LUK.24.32), describes the experience of encountering Christ through Scripture and sacrament. The Emmaus narrative establishes the pattern for all Christian life: Christ is present but often unrecognized, revealed through the Word and the breaking of bread.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.24.13-35",
+      "relevance": "primary",
+      "reason": "The full Emmaus narrative, the direct subject identified by the inscription"
+    },
+    {
+      "ref": "LUK.24.27",
+      "relevance": "primary",
+      "reason": "Jesus opening all the Scriptures concerning himself to the two disciples"
+    },
+    {
+      "ref": "LUK.24.30-31",
+      "relevance": "primary",
+      "reason": "Their eyes opened in the breaking of bread, the Eucharistic revelation"
+    },
+    {
+      "ref": "LUK.24.32",
+      "relevance": "primary",
+      "reason": "Did not our hearts burn within us — the experience of Christ's hidden presence"
+    },
+    {
+      "ref": "MRK.16.12",
+      "relevance": "allusion",
+      "reason": "Christ appeared in another form to two of them walking in the country"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "vast",
+    "mysterious"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009590",
+    "title": "Go ye into the Emmaus",
+    "artist": "Pieter Bruegel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

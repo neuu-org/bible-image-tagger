@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Michal",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant Women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Michal Despises David",
+  "tags": [
+    "michal",
+    "david",
+    "contempt",
+    "window-scene",
+    "lattice-window",
+    "royal-women",
+    "pointing-gesture",
+    "crown",
+    "veils",
+    "palace-interior",
+    "marital-conflict",
+    "scorn"
+  ],
+  "symbols": [
+    "lattice window \u2014 the barrier between Michal\u2019s pride and David\u2019s worship",
+    "pointing gesture \u2014 accusation and contempt directed at David\u2019s dancing",
+    "crown or diadem on Michal \u2014 her royal status as Saul\u2019s daughter",
+    "attendant women \u2014 witnesses to the domestic conflict between king and queen"
+  ],
+  "description": "An interior scene viewed through a lattice window. A richly dressed woman wearing a crown or diadem leans forward with a scornful expression, pointing outward through the window with one hand while gripping the lattice with the other. Behind her, three women in veils and head coverings look on with varying expressions\u2014one appears shocked, another curious. The scene is warmly lit from the window opening. The woman\u2019s posture conveys anger and contempt.",
+  "theological_description": "This scene depicts the moment described in 2 Samuel 6:16, when Michal, daughter of Saul and wife of David, \u2018looked out of the window and saw King David leaping and dancing before the Lord, and she despised him in her heart.\u2019 David had been bringing the Ark of the Covenant into Jerusalem with uninhibited worship, dancing before the Lord with all his might (2 Samuel 6:14). Michal\u2019s contempt reveals a fundamental spiritual divide: she prioritized royal dignity over wholehearted worship of God. Her rebuke of David\u2014\u2018How the king of Israel honored himself today, uncovering himself before the eyes of his servants\u2019 maids\u2019 (2 Samuel 6:20)\u2014was met with David\u2019s declaration that he would become even more undignified for the Lord\u2019s sake. The consequence was severe: Michal had no children to the day of her death (2 Samuel 6:23). This episode teaches that pride and concern for human opinion are incompatible with genuine worship, and that God honors the humble worshiper over the proud skeptic.",
+  "scripture_refs": [
+    {
+      "ref": "2SA.6.16",
+      "relevance": "primary",
+      "reason": "Michal looking through the window and despising David as he danced before the Lord"
+    },
+    {
+      "ref": "2SA.6.20-23",
+      "relevance": "primary",
+      "reason": "Michal\u2019s rebuke of David and the consequence of her barrenness"
+    },
+    {
+      "ref": "2SA.6.14",
+      "relevance": "allusion",
+      "reason": "David dancing before the Lord with all his might, the act Michal despises"
+    },
+    {
+      "ref": "PSA.150.4",
+      "relevance": "typological",
+      "reason": "Praise the Lord with dancing\u2014the worship David practiced and Michal rejected"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemptuous",
+    "tense",
+    "dramatic"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0013412",
+    "title": "Michal Despises David",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

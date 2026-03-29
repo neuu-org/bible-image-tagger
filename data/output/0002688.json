@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint John the Baptist",
+  "tags": [
+    "john-the-baptist",
+    "preaching",
+    "wilderness",
+    "forerunner",
+    "raised-hand",
+    "prophetic-gesture",
+    "expressionist"
+  ],
+  "symbols": [
+    "raised hand — the prophetic gesture of proclamation and warning",
+    "bare torso with rough garment — the ascetic life in the wilderness",
+    "watery background — the Jordan River where John baptized"
+  ],
+  "description": "An expressionist watercolor and ink sketch of a figure with brown hair and raised right hand in a preaching or proclamation gesture. The figure has a bare torso with a rough garment around the waist, standing before a watery blue-green background. The style is loose and gestural with visible brushstrokes and line work. A smaller secondary figure is faintly visible at the lower right. The overall mood is raw and energetic.",
+  "theological_description": "John the Baptist, the last of the Old Testament prophets and the forerunner of Christ, spent his ministry in the wilderness of Judea calling Israel to repentance and baptism. His raised hand in this expressionist rendering captures the urgency of his message: 'Repent, for the kingdom of heaven is at hand' (MAT.3.2). John was 'the voice of one crying in the wilderness: Prepare the way of the Lord' (ISA.40.3; MAT.3.3). His rough garment recalls the description in Matthew: 'John wore a garment of camel's hair and a leather belt around his waist' (MAT.3.4), deliberately echoing the prophet Elijah (2KI.1.8). The loose, energetic rendering suits the prophetic intensity of John's ministry — he was not a reed shaken by the wind but a burning and shining lamp (JHN.5.35).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.1-4",
+      "relevance": "primary",
+      "reason": "John the Baptist preaching in the wilderness, his clothing and message of repentance"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness, preparing the way of the Lord"
+    },
+    {
+      "ref": "JHN.1.23",
+      "relevance": "primary",
+      "reason": "John identifying himself as the voice of Isaiah's prophecy"
+    },
+    {
+      "ref": "MAL.4.5",
+      "relevance": "typological",
+      "reason": "The sending of Elijah before the great day of the Lord, fulfilled in John"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "prophetic",
+    "urgency",
+    "raw",
+    "energy"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002688",
+    "title": "Saint John the Baptist",
+    "artist": "Maria Bozoky",
+    "model": "claude-opus-4-6"
+  }
+}

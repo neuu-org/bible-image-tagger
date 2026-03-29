@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Virgin and Child Crowned",
+  "tags": [
+    "madonna-and-child",
+    "crowned-virgin",
+    "queen-of-heaven",
+    "angels",
+    "red-dress",
+    "veil",
+    "tenderness",
+    "divine-motherhood",
+    "royal-crown"
+  ],
+  "symbols": [
+    "golden crown — Mary as Queen of Heaven and Mother of the King of Kings",
+    "Christ child touching Mary's chin — the intimate gesture of divine love within human affection",
+    "angels bearing crown — the heavenly coronation of the Virgin",
+    "red dress — Mary's humanity and her future sorrow at the Passion",
+    "transparent veil — the mystery and purity of the Virgin"
+  ],
+  "description": "A close-up portrait of the Virgin Mary and the Christ Child against a dark background. Mary wears a red dress, a transparent white veil, and an ornate golden crown being held or placed by two small angels above. She tilts her head tenderly toward the child. The Christ Child, nude from the waist up, reaches up to touch Mary's chin in an affectionate gesture. Mary's expression is gentle and contemplative. The painting is rendered with delicate precision in the Flemish tradition.",
+  "theological_description": "The crowned Virgin with Child represents Mary as both Mother of God (Theotokos) and Queen of Heaven (Regina Caeli). The crown placed by angels signifies her exaltation above all creation, a theme developed from Revelation 12:1 (the woman clothed with the sun, crowned with twelve stars) and Psalm 45:9 ('at your right hand stands the queen in gold of Ophir'). The tender gesture of the child touching his mother's chin humanizes the theological mystery — the King of the universe relates to his mother with the natural affection of any infant. This intimacy is theologically significant: it affirms the full humanity of Christ and the real human relationship between mother and divine Son. The Fathers taught that Mary's queenship derives directly from her Son's kingship: as mother of the King, she is Queen by right. The angelic coronation makes visible what the Church proclaims: Mary, assumed into heaven, reigns as intercessor for the faithful.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman crowned with twelve stars — the glorified Virgin as Queen of Heaven"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen at the right hand in gold — Mary's royal dignity"
+    },
+    {
+      "ref": "LUK.1.43",
+      "relevance": "primary",
+      "reason": "Elizabeth calling Mary the mother of my Lord — the foundation of her queenship"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — the veneration of Mary depicted in art"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tenderness",
+    "majesty",
+    "intimacy",
+    "devotion"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002776",
+    "title": "Virgin and Child",
+    "artist": "Jan Provoost",
+    "model": "claude-opus-4-6"
+  }
+}

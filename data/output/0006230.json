@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Risen Christ (study figure)", "type": "DEITY"}
+  ],
+  "event": "Anatomical study for a Resurrection figure",
+  "tags": [
+    "resurrection",
+    "anatomical-study",
+    "male-nude",
+    "drawing",
+    "rising-figure",
+    "upward-gaze",
+    "musculature",
+    "preparatory-sketch",
+    "mannerist"
+  ],
+  "symbols": [
+    "rising male figure with upward gaze — the body of the risen Christ emerging from death into glory",
+    "muscular torso — the physical reality of bodily resurrection",
+    "upward-turned head — the ascent toward the Father"
+  ],
+  "description": "A sepia-toned anatomical drawing of a male nude torso, viewed from below. The figure looks upward with his head thrown back, his arms raised. The musculature of the chest, abdomen, and arms is carefully rendered with hatched shading. The drawing appears to be a preparatory study, focusing on the physical form rather than background or context. Only the upper body and one leg are fully rendered; the rest fades into the paper. The style is characteristic of Mannerist figure studies with attention to dynamic pose and muscular tension.",
+  "theological_description": "This preparatory study for a Resurrection captures the theology of bodily resurrection through the medium of anatomical drawing. The risen Christ's body is not ethereal or ghostly but physically real — He showed Thomas His hands and side, saying 'Put your finger here, and see my hands; and put out your hand, and place it in my side' (JHN.20.27). The upward gaze of the figure embodies the Ascension dynamic — the risen body moving toward the Father. Paul's theology of the resurrection body is relevant: 'It is sown a natural body; it is raised a spiritual body' (1CO.15.44) — not immaterial but transformed, glorified flesh. The careful rendering of musculature affirms that the Resurrection is not escape from the body but its redemption.",
+  "scripture_refs": [
+    {"ref": "MAT.28.6", "relevance": "primary", "reason": "He is not here, He has risen — the Resurrection event that the study prepares to depict"},
+    {"ref": "JHN.20.27", "relevance": "primary", "reason": "The physical reality of the risen body — see my hands, put your hand in my side"},
+    {"ref": "1CO.15.44", "relevance": "typological", "reason": "Sown a natural body, raised a spiritual body — the transformed physicality of the risen Christ"},
+    {"ref": "PHI.3.21", "relevance": "allusion", "reason": "He will transform our lowly body to be like His glorious body — the glorified resurrection body"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["dynamic", "ascending", "powerful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006230",
+    "title": "Study for a \"Resurrection\"",
+    "artist": "Agnolo Bronzino",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Nativity of Jesus Christ",
+  "tags": [
+    "nativity",
+    "birth-of-jesus",
+    "manger",
+    "virgin-mary",
+    "saint-joseph",
+    "infant-jesus",
+    "stable",
+    "angels",
+    "gothic-arch",
+    "ruined-building",
+    "adoration",
+    "kneeling-mary"
+  ],
+  "symbols": [
+    "ruined stable or building — the humility of the Incarnation and the old world into which Christ is born",
+    "kneeling Mary — adoration of the divine child she has borne",
+    "Gothic arched structure — the sacred canopy over the birth of the Savior",
+    "angels above — the heavenly host announcing the birth",
+    "swaddled infant — the Word made flesh in vulnerable human form"
+  ],
+  "description": "A detailed black and white engraving depicting the Nativity scene within a ruined Gothic-arched structure. The Virgin Mary kneels at the center, adoring the newborn infant who lies before her. Saint Joseph stands or kneels nearby. Small angels hover above the scene in the upper portion. The architectural setting is a partially collapsed stone building with pointed arches and masonry details. Other figures may be visible in the background. The engraving is finely detailed with intricate cross-hatching.",
+  "theological_description": "The Nativity of Jesus Christ is the central event of salvation history—the moment when ‘the Word became flesh and dwelt among us’ (John 1:14). Luke 2:6-7 records that Mary ‘gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.’ The humble setting fulfills the pattern of divine self-emptying described in Philippians 2:6-8: Christ, though being in the form of God, did not count equality with God a thing to be grasped but emptied himself, taking the form of a servant. The ruined structure symbolizes the fallen world into which the Redeemer enters. Mary’s kneeling adoration recognizes the paradox that the child she bore is also her Lord—she who said ‘Let it be to me according to your word’ (Luke 1:38) now beholds the fulfillment of the promise. The angelic presence connects to Luke 2:13-14, the heavenly host praising God: ‘Glory to God in the highest.’ This birth in Bethlehem fulfills Micah 5:2 and inaugurates the new creation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "Mary giving birth, wrapping the child in swaddling cloths, and laying him in a manger"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us—the Incarnation this scene depicts"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ emptying himself and taking the form of a servant, born in human likeness"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "typological",
+      "reason": "The ruler of Israel will come from Bethlehem, fulfilled in this birth"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "primary",
+      "reason": "The heavenly host praising God at the birth, represented by the angels above"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "humble",
+    "joyful",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013814",
+    "title": "Birth of Jesus",
+    "artist": "Martin Schongauer",
+    "model": "claude-opus-4-6"
+  }
+}

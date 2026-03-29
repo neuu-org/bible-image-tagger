@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Virgin and Child Enthroned with Saints (Sacra Conversazione)",
+  "tags": [
+    "madonna-enthroned",
+    "christ-child",
+    "saints",
+    "angels",
+    "god-the-father",
+    "columns",
+    "arched-frame",
+    "cloudy-sky",
+    "bishop",
+    "warrior-saint",
+    "devotional"
+  ],
+  "symbols": [
+    "enthroned Virgin and Child — the Mother of God as Queen of Heaven presenting the Savior",
+    "saints flanking the throne — the communion of saints in heavenly adoration",
+    "God the Father in the lunette — the divine source of the Incarnation",
+    "architectural columns — the pillars of the Church and the temple of God",
+    "clouds beneath the throne — the heavenly realm"
+  ],
+  "description": "A large arched altarpiece divided into two registers. In the upper portion within a lunette, God the Father in a red robe sits enthroned among clouds with angels on either side. Below, the Virgin Mary in a blue and red garment sits enthroned on clouds holding the Christ Child, flanked by several standing saints. On the left, a female saint and a near-naked male figure (possibly a penitent saint), and on the right a bishop in mitre and vestments and another figure. Architectural columns frame the composition. The scene is grand and ceremonial.",
+  "theological_description": "This sacra conversazione (holy conversation) presents the Virgin Mary enthroned with the Christ Child among a gathering of saints, with God the Father presiding above. The composition embodies the theological reality of the communion of saints—the mystical body of Christ united across time and space in the worship of God. The enthroned Madonna represents the Church herself, presenting Christ to the world while surrounded by those who have been sanctified by his grace. God the Father’s presence in the lunette affirms the Trinitarian dimension of salvation: the Father sends the Son through the Virgin, and the saints are drawn into this divine life through the Holy Spirit. The various saints represent different modes of holiness—martyrdom, episcopal service, penitence—demonstrating that there are many members but one body (1 Corinthians 12:12). The altarpiece format itself declares that this heavenly reality is made present in the liturgical worship of the Church.",
+  "scripture_refs": [
+    {
+      "ref": "REV.7.9-10",
+      "relevance": "typological",
+      "reason": "The great multitude of saints standing before the throne of God in worship"
+    },
+    {
+      "ref": "1CO.12.12-14",
+      "relevance": "allusion",
+      "reason": "Many members but one body, represented by the diverse saints gathered together"
+    },
+    {
+      "ref": "EPH.2.19-22",
+      "relevance": "allusion",
+      "reason": "Fellow citizens with the saints and members of the household of God"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "typological",
+      "reason": "The great cloud of witnesses surrounding the believer, visually realized in the assembly of saints"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "majestic",
+    "devotional",
+    "serene",
+    "ceremonial"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013252",
+    "title": "Virgin and Child with Saints",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

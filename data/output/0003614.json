@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Saint Erasmus", "type": "PERSON"},
+    {"name": "Executioners", "type": "GROUP"},
+    {"name": "Angel with Crown", "type": "ANGEL"},
+    {"name": "Roman Officials", "type": "GROUP"}
+  ],
+  "event": "Martyrdom of Saint Erasmus",
+  "tags": [
+    "martyrdom",
+    "saint-erasmus",
+    "disembowelment",
+    "crown-of-martyrdom",
+    "angel",
+    "persecution",
+    "early-church",
+    "torture",
+    "palm-branch"
+  ],
+  "symbols": [
+    "angel bearing laurel wreath and palm — the crown of martyrdom and victory over death",
+    "windlass and intestines — the gruesome instrument of Erasmus's specific torture",
+    "red vestments on the ground — the priestly/episcopal office surrendered in martyrdom",
+    "Roman soldiers and officials — the imperial power persecuting the Church",
+    "open book on the ground — Scripture and the faith for which Erasmus died"
+  ],
+  "description": "A dramatic vertical composition showing the martyrdom of Saint Erasmus. The saint lies stretched on a wooden rack or table, his torso bare, while executioners wind his intestines onto a windlass. Above, a putto bearing a laurel wreath and palm branch descends from the sky. Roman soldiers on horseback and officials in armor observe from the upper left and right. A figure in white robes stands behind the scene. Red vestments and an open book lie discarded on the ground at lower right. Classical columns frame the right side. The composition is intensely physical and dramatic.",
+  "theological_description": "Saint Erasmus (also known as Saint Elmo), a bishop martyred during the Diocletian persecution (c. 303 AD), suffered one of the most horrific deaths in the martyrology — his intestines were wound out on a windlass. Though a post-biblical figure, his martyrdom embodies the New Testament call to faithful witness unto death. The angel with the palm and crown descending from heaven recalls Revelation 2:10: 'Be faithful unto death, and I will give you the crown of life.' The discarded episcopal vestments signify that earthly office is surrendered for heavenly glory. Erasmus's endurance under torture mirrors Paul's catalogue of sufferings in 2 Corinthians 11:23-27 and his declaration, 'I am being poured out as a drink offering' (2TI.4.6). The Roman imperial machinery of persecution prefigures the apocalyptic beast making war on the saints (REV.13.7).",
+  "scripture_refs": [
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and receive the crown of life — the angel brings the martyr's crown"},
+    {"ref": "2TI.4.6-8", "relevance": "allusion", "reason": "Being poured out as a drink offering — Erasmus's sacrificial death"},
+    {"ref": "REV.13.7", "relevance": "typological", "reason": "The beast making war on the saints — imperial persecution of the Church"},
+    {"ref": "ACT.7.59-60", "relevance": "typological", "reason": "Stephen's martyrdom as the archetype of all Christian martyrdom"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["violent", "dramatic", "triumphant"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003614",
+    "title": "Martyrdom of St. Erasmus",
+    "artist": "Nicolas Poussin",
+    "model": "claude-opus-4-6"
+  }
+}

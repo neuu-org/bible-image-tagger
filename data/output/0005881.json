@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Saints and Blessed", "type": "GROUP"},
+    {"name": "Philip II and Historical Figures", "type": "GROUP"},
+    {"name": "Damned Souls", "type": "GROUP"}
+  ],
+  "event": "The Adoration of the Name of Jesus",
+  "tags": [
+    "name-of-jesus",
+    "adoration",
+    "heavenly-host",
+    "angels",
+    "saints",
+    "hell-mouth",
+    "heaven-and-hell",
+    "IHS-monogram",
+    "cosmic-worship",
+    "three-realms"
+  ],
+  "symbols": [
+    "IHS monogram in heavenly light — the Holy Name of Jesus before which every knee shall bow",
+    "angels and saints worshipping above — the heavenly Church in eternal adoration",
+    "earthly figures kneeling below — the Church militant on earth venerating the Name",
+    "fiery region with tormented figures — hell and the damned who rejected the Name",
+    "three-tiered composition — heaven, earth, and hell united in acknowledging Christ's sovereignty"
+  ],
+  "description": "A sweeping vertical composition divided into three zones. At top, a heavenly realm filled with swirling angels and saints surrounds a bright IHS monogram radiating golden light. In the middle zone, earthly figures including clergy in white vestments, kings, and nobles kneel in adoration, facing the heavenly light. At lower right, a dark, fiery region shows tormented figures being consumed by flames — the mouth of hell. The composition swirls with dynamic Mannerist energy, with elongated figures and dramatic color contrasts between the golden heaven, the darker earth, and the fiery underworld.",
+  "theological_description": "El Greco's Adoration of the Name of Jesus is a visual exegesis of Philippians 2:9-11: 'God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth.' The three-tiered composition literally depicts the three realms: the heavenly host above, the earthly Church in the middle, and the underworld below, all oriented toward the IHS monogram — the sacred Name. The earthly worshippers include historical figures representing the Church militant, while the angels above represent the Church triumphant. Even the damned in hell are compelled to acknowledge Christ's lordship, though in judgment rather than in joy. This cosmic vision of universal sovereignty echoes the great christological hymn of Philippians and connects to the eschatological vision of Revelation, where every creature in heaven, on earth, under the earth, and in the sea gives praise to the Lamb (REV.5.13).",
+  "scripture_refs": [
+    {"ref": "PHP.2.9-11", "relevance": "primary", "reason": "At the name of Jesus every knee should bow, in heaven and on earth and under the earth"},
+    {"ref": "REV.5.13", "relevance": "typological", "reason": "Every creature in heaven, on earth, under the earth, and in the sea praising the Lamb"},
+    {"ref": "ISA.45.23", "relevance": "typological", "reason": "To me every knee shall bow, every tongue shall swear allegiance — the universal acknowledgment"},
+    {"ref": "ACT.4.12", "relevance": "allusion", "reason": "There is no other name under heaven given among men by which we must be saved"},
+    {"ref": "REV.20.11-15", "relevance": "allusion", "reason": "The final judgment where all are brought before the throne — the hell-mouth below"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["transcendent", "awe", "cosmic", "dramatic"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0005881",
+    "title": "The Adoration of the Name of Jesus",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

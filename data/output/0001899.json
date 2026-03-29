@@ -1,0 +1,36 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "Study for Madonna with the Yarnwinder",
+  "tags": [
+    "madonna",
+    "study",
+    "sketch",
+    "red-chalk",
+    "portrait",
+    "leonardo",
+    "preparation-drawing",
+    "gentle-expression"
+  ],
+  "symbols": [
+    "Mary's downward gaze — contemplation, humility, and the interior life of the Theotokos",
+    "Faint secondary sketches — the artist's process of preparing to depict the sacred"
+  ],
+  "description": "A red chalk drawing of a young woman's head and upper shoulders on aged paper. She gazes downward with a gentle, serene expression. Her hair is parted in the center and smoothly drawn back. The drawing is delicately modeled with subtle shading. Faint preliminary sketches of figures are visible in the upper left and lower left corners. A number is written at upper right and a circular stamp appears at the bottom.",
+  "theological_description": "This preparatory study for a Madonna image captures the contemplative interiority that characterizes Mary in the Gospels. Luke twice notes that Mary 'treasured up all these things, pondering them in her heart' (LUK.2.19, 2.51). The gentle downward gaze suggests this reflective quality — the young woman chosen to bear the Son of God, whose inner life was marked by deep meditation on the mysteries unfolding around her. Mary's response to Gabriel — 'Behold, I am the servant of the Lord; let it be to me according to your word' (LUK.1.38) — established the pattern of humble receptivity that this serene face embodies.",
+  "scripture_refs": [
+    {"ref": "LUK.2.19", "relevance": "primary", "reason": "Mary treasured all these things, pondering them in her heart — the contemplative gaze depicted"},
+    {"ref": "LUK.1.38", "relevance": "typological", "reason": "Behold the handmaid of the Lord — Mary's humble receptivity reflected in the gentle expression"},
+    {"ref": "LUK.1.28", "relevance": "allusion", "reason": "Hail, full of grace — the young woman chosen for the highest calling"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["serene", "contemplative", "gentle"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001899",
+    "title": "Study for Madonna with the Yarnwinder",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Samaritan woman",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Jesus and the Samaritan woman at the well",
+  "tags": [
+    "samaritan-woman",
+    "halo",
+    "well",
+    "living-water",
+    "encounter",
+    "foliage",
+    "church-window",
+    "hooded-figure"
+  ],
+  "symbols": [
+    "halo around Christ — divine identity revealed in the encounter",
+    "white robes — purity and the divine nature of Christ",
+    "foliage and vine leaves — the living water that nourishes like a vine, Christ as the true vine"
+  ],
+  "description": "A detail from a stained-glass church window showing the face and upper body of a bearded man with a golden halo, wearing white robes with a hood or head covering. His expression is gentle and turned slightly to the side as if speaking to someone. Green vine leaves and foliage fill the background. The lead lines of the stained glass create a characteristic grid pattern across the image. The coloring is primarily white, gold, green, and flesh tones with the typical luminous quality of backlit stained glass.",
+  "theological_description": "This stained-glass detail depicts Christ in his encounter with the Samaritan woman at Jacob's well (John 4:1-42), one of the most theologically rich dialogues in the Gospels. Jesus, weary from travel, asked a Samaritan woman for water — breaking both the ethnic barrier between Jews and Samaritans and the gender barrier of the time. In the conversation that followed, Jesus revealed himself as the source of 'living water' that becomes 'a spring of water welling up to eternal life' (John 4:14). The encounter progressed from the physical to the spiritual, from water to worship, culminating in Jesus' self-revelation: 'I who speak to you am he' — the Messiah (John 4:26). The Samaritan woman became one of the first evangelists, returning to her town to proclaim, 'Come, see a man who told me all that I ever did. Can this be the Christ?' (John 4:29). The vine leaves in the background connect to Christ's later declaration, 'I am the vine; you are the branches' (John 15:5).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.4.7-26",
+      "relevance": "primary",
+      "reason": "Jesus' dialogue with the Samaritan woman, from the request for water to messianic self-revelation"
+    },
+    {
+      "ref": "JHN.4.14",
+      "relevance": "primary",
+      "reason": "The water I give will become a spring of water welling up to eternal life"
+    },
+    {
+      "ref": "JHN.4.29",
+      "relevance": "primary",
+      "reason": "Come see a man who told me everything — the woman's evangelistic response"
+    },
+    {
+      "ref": "JHN.15.5",
+      "relevance": "allusion",
+      "reason": "I am the vine, you are the branches — connected to the vine leaves in the background"
+    },
+    {
+      "ref": "JHN.4.42",
+      "relevance": "primary",
+      "reason": "We know this is truly the Savior of the world — the Samaritans' confession of faith"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "gentle",
+    "luminous",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008988",
+    "title": "Jesus and the Samaritan woman. Eglise Saint-Sulpice de Fougères (detail)",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Saint George", "type": "PERSON"},
+    {"name": "Dragon", "type": "OTHER"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "Saint George and the Dragon",
+  "tags": [
+    "saint-george",
+    "dragon-slaying",
+    "white-horse",
+    "knight",
+    "lance",
+    "red-cloak",
+    "victory-over-evil",
+    "putti"
+  ],
+  "symbols": [
+    "white horse — purity and righteous warfare, recalling the rider on the white horse of Revelation",
+    "dragon beneath the horse — the serpent/evil conquered by the Christian warrior",
+    "red cloak — martyrdom and the blood of the faithful witness",
+    "lance piercing the dragon — the decisive blow against the forces of darkness",
+    "putti with laurel wreath — heavenly recognition and the crown of victory"
+  ],
+  "description": "A mounted knight in golden armor and a billowing red cloak rides a rearing white horse, thrusting a lance downward into a dark dragon or serpent beneath the horse's hooves. The knight wears a plumed helmet and his cape streams behind him dramatically. In the upper right, two putti descend from golden clouds, one bearing a laurel wreath. The background shows a dark forest at the left and an open landscape at the right. The composition is dynamic and vertical, filled with motion.",
+  "theological_description": "Saint George, a Roman soldier martyred under Diocletian (c. 303 AD), became the archetypal Christian knight through the legend of the dragon slaying. Though post-biblical, the scene draws deeply on scriptural imagery. The knight on the white horse evokes Revelation 19:11-16, where Christ rides a white horse in triumph over the beast. The dragon recalls the 'ancient serpent' of Revelation 12:9 — Satan himself — and the ongoing cosmic battle between good and evil. George's lance piercing the dragon echoes Genesis 3:15, the crushing of the serpent's head. Paul's exhortation to 'put on the whole armor of God' (EPH.6.11-17) finds its visual expression in George's golden armor. The scene represents the broader theological truth that faithful Christians participate in Christ's victory over the powers of darkness. The putti bearing the crown affirm Revelation 2:10: 'Be faithful unto death, and I will give you the crown of life.'",
+  "scripture_refs": [
+    {"ref": "REV.12.7-9", "relevance": "typological", "reason": "Michael and his angels fighting the dragon — the cosmic battle George's combat symbolizes"},
+    {"ref": "REV.19.11-16", "relevance": "typological", "reason": "The rider on the white horse triumphing over evil — the christological pattern behind the scene"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The seed of the woman crushing the serpent's head — the lance piercing the dragon"},
+    {"ref": "EPH.6.11-17", "relevance": "allusion", "reason": "The armor of God — George's armor as visual embodiment of spiritual warfare"},
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "The crown of life for faithfulness unto death — the wreath the putti bring"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["heroic", "dramatic", "triumphant"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003776",
+    "title": "St George and the Dragon",
+    "artist": "Anthony van Dyck",
+    "model": "claude-opus-4-6"
+  }
+}

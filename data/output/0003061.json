@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "madonna-and-child",
+    "embrace",
+    "cheek-to-cheek",
+    "tenderness",
+    "incarnation",
+    "divine-motherhood",
+    "blue-mantle",
+    "fruit",
+    "maternal-love"
+  ],
+  "symbols": [
+    "Christ child pressing cheek to Mary — the intimate love between mother and divine Son",
+    "blue mantle — Mary's heavenly queenship and fidelity",
+    "fruit (possibly apple or peach) held by child — the fruit of redemption or allusion to the fruit of Eden now redeemed",
+    "golden frame — the precious nature of the mystery enshrined"
+  ],
+  "description": "Within an ornate gilded frame, the Virgin Mary holds the Christ Child who presses his face against hers in an affectionate cheek-to-cheek embrace. Mary wears a pink dress under a blue mantle and looks down with a tender expression. The child holds a piece of fruit — possibly an apple or peach. The background is dark and plain. The painting is soft and luminous, with warm flesh tones and rich fabric colors.",
+  "theological_description": "This intimate Madonna and Child captures the Eleousa (tenderness) type of Marian iconography, where mother and child press their cheeks together in an expression of mutual love. The tenderness is both human and theological: Mary loves her child as every mother does, but she also knows — as Luke records, 'Mary treasured up all these things, pondering them in her heart' (LUK.2.19) — that this child is the Son of the Most High. The fruit the child holds may be an apple, recalling the fruit of Eden's Fall (GEN.3.6) now held harmlessly by the new Adam whose obedience reverses the curse. Alternatively, the peach or pomegranate symbolizes the sweetness of salvation and eternal life. The physical closeness affirms the core Christian claim: God did not save us from a distance but entered into the most intimate human relationships, becoming a child who could be held, nursed, and loved.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasuring and pondering all things in her heart — the contemplative gaze"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "God sent his Son, born of a woman — the Incarnation as intimate human reality"
+    },
+    {
+      "ref": "GEN.3.6",
+      "relevance": "typological",
+      "reason": "The fruit of Eden, now held by the new Adam who redeems what the first Adam lost"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin bearing a son, Emmanuel — God with us in the flesh"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tenderness",
+    "intimacy",
+    "warmth",
+    "love"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003061",
+    "title": "Madonna col bambino",
+    "artist": "Pompeo Batoni",
+    "model": "claude-opus-4-6"
+  }
+}

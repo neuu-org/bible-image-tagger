@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Young Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "High Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Presentation of the Virgin in the Temple",
+  "tags": [
+    "presentation-of-virgin",
+    "young-mary",
+    "temple-steps",
+    "high-priest",
+    "dedication",
+    "temple",
+    "childhood-of-mary"
+  ],
+  "symbols": [
+    "young Mary ascending temple steps — her consecration to God from childhood",
+    "high priest receiving her at the top — the Old Testament priesthood welcoming the future Mother of God",
+    "grand temple architecture — the sacred space where Mary is dedicated before the Incarnation",
+    "figures watching from below — the witnesses to this pivotal moment in salvation history"
+  ],
+  "description": "A large fresco showing a grand temple interior with monumental stone steps. Several figures populate the scene at various levels. At the top of the stairs, an elderly priest in elaborate garments gestures welcomingly. Figures in colorful robes ascend and descend the steps. The architecture features massive columns and classical elements. The composition creates a strong diagonal movement from lower left to upper right along the staircase. The palette includes warm yellows, blues, and earth tones with the luminous quality of fresco painting.",
+  "theological_description": "The Presentation of the Virgin in the Temple, drawn from the Protoevangelium of James, depicts the young Mary being brought to the Temple at age three by her parents Joachim and Anna to be consecrated to God. Though not a canonical biblical event, this tradition expresses the theological truth that Mary was prepared by God from the beginning for her role as Theotokos. The scene parallels the dedication of Samuel by his mother Hannah (1SA.1.24-28), who also brought her child to the Temple in fulfillment of a vow. Mary's entry into the Temple anticipates the Incarnation when God himself will dwell not in a temple made with hands but in the temple of Mary's womb. The presentation also echoes the later Presentation of Christ (LUK.2.22-38), creating a symmetry: the mother is first presented, then the Son. Mary ascending the steps represents the faithful response of Israel that culminates in her fiat: 'Let it be to me according to your word' (LUK.1.38).",
+  "scripture_refs": [
+    {
+      "ref": "1SA.1.24-28",
+      "relevance": "typological",
+      "reason": "Hannah presenting Samuel at the Temple, the Old Testament type of Mary's presentation"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "allusion",
+      "reason": "Mary's fiat, the culmination of the dedication that began in her childhood"
+    },
+    {
+      "ref": "LUK.2.22-38",
+      "relevance": "typological",
+      "reason": "The Presentation of Christ in the Temple, paralleling Mary's own presentation"
+    },
+    {
+      "ref": "PSA.45.13-15",
+      "relevance": "allusion",
+      "reason": "The king's daughter is brought to the king in robes of many colors, applied to Mary in tradition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ceremonial",
+    "reverent",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009676",
+    "title": "The Presentation of the Virgin",
+    "artist": "Daniele da Volterra",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Virgin and Child with Saints",
+  "tags": [
+    "madonna-and-child",
+    "saints",
+    "bishop",
+    "halo",
+    "devotional"
+  ],
+  "symbols": [
+    "Virgin with Child at center — Theotokos presenting Christ to the world",
+    "saints flanking — the Church gathered around the incarnate Word",
+    "bishop figure — ecclesiastical authority derived from Christ"
+  ],
+  "description": "A sacra conversazione showing the Virgin Mary seated centrally holding the Christ Child, surrounded by four male saints including a bishop in rich vestments at right and bearded figures in robes. The composition is dark with warm Baroque tones and dramatic lighting centered on the Madonna and Child.",
+  "theological_description": "The sacra conversazione (holy conversation) gathers saints from different eras around the Madonna and Child, expressing the communion of saints across time united in Christ. Mary as Theotokos presents the incarnate Word (JHN.1.14) who is the center of all devotion. The bishop figure represents the apostolic succession through which Christ's authority continues in the Church (MAT.16.18-19). The gathering fulfills the vision of Hebrews: 'You have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable angels in festal gathering, and to the assembly of the firstborn' (HEB.12.22-23).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh, the theological center of the Madonna and Child"
+    },
+    {
+      "ref": "HEB.12.22-23",
+      "relevance": "typological",
+      "reason": "The heavenly assembly of saints, visualized in the sacra conversazione"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call Mary blessed, fulfilled in the saints' devotion"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "solemn",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011216",
+    "title": "Virgin and Child with Saints",
+    "artist": "Palma il Giovane",
+    "model": "claude-opus-4-6"
+  }
+}

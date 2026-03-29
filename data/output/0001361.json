@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Job", "type": "PERSON"},
+    {"name": "Eliphaz", "type": "PERSON"},
+    {"name": "Bildad", "type": "PERSON"},
+    {"name": "Zophar", "type": "PERSON"}
+  ],
+  "event": "Job and His Friends",
+  "tags": [
+    "job",
+    "suffering",
+    "friends-of-job",
+    "affliction",
+    "ash-heap",
+    "boils",
+    "debate",
+    "theodicy",
+    "rocky-landscape",
+    "patience"
+  ],
+  "symbols": [
+    "Job's emaciated and sore-covered body — the extreme suffering of the righteous man tested by God",
+    "Three friends standing and seated — the comforters who came to mourn but ended up accusing",
+    "Barren rocky hillside — the desolation of Job's condition, stripped of all worldly blessings",
+    "Rich garments of the friends contrasted with Job's nakedness — the disparity between the comfortable counselors and the afflicted sufferer"
+  ],
+  "description": "On a barren, rocky hillside, a nearly naked emaciated man sits on the ground, his body visibly afflicted with sores. He rests his head on one hand in a posture of deep anguish. To his left, another figure crouches in shared misery. On the right, three well-dressed men in richly colored robes stand and observe, one gesturing toward the suffering man. Misty mountains and a vast landscape stretch into the distance behind them. The contrast between the afflicted figure and his well-clothed visitors is stark.",
+  "theological_description": "The Book of Job opens with a righteous man who loses everything — children, possessions, health — as part of a divine test. When his three friends Eliphaz, Bildad, and Zophar come to comfort him, they sit with him in silence for seven days (JOB.2.13) before beginning their lengthy dialogue. This scene captures the confrontation between Job's lived experience of undeserved suffering and his friends' theology of retributive justice — that suffering must be punishment for sin. Job rejects their logic while maintaining his innocence: 'Though he slay me, I will hope in him; yet I will argue my ways to his face' (JOB.13.15). The Book of Job is the Bible's most profound exploration of theodicy — the problem of evil and the suffering of the righteous. The Fathers read Job as a type of Christ: the innocent sufferer who endures without cause, whose vindication comes only from God, and whose patience becomes proverbial (JAS.5.11). Job's cry 'I know that my Redeemer lives' (JOB.19.25) has been read christologically since earliest Christianity.",
+  "scripture_refs": [
+    {"ref": "JOB.2.11-13", "relevance": "primary", "reason": "The arrival of Job's three friends to comfort him, the specific scene depicted"},
+    {"ref": "JOB.13.15", "relevance": "primary", "reason": "Job's defiant trust: though God slay him, he will hope in God"},
+    {"ref": "JOB.19.25-26", "relevance": "primary", "reason": "Job's declaration that his Redeemer lives, the christological climax of his suffering"},
+    {"ref": "JAS.5.11", "relevance": "typological", "reason": "James cites Job's patience as exemplary, connecting his endurance to God's ultimate compassion"},
+    {"ref": "JOB.1.21", "relevance": "allusion", "reason": "The Lord gave and the Lord has taken away — Job's initial response of faith to catastrophe"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguish", "solemn", "desolate", "confrontational"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0001361",
+    "title": "Job and His Friends",
+    "artist": "Ilya Repin",
+    "model": "claude-opus-4-6"
+  }
+}

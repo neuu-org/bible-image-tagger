@@ -1,0 +1,55 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Mother and Child (Madonna and Child)",
+  "tags": [
+    "madonna-and-child",
+    "mother",
+    "infant",
+    "nativity",
+    "devotional",
+    "folk-art"
+  ],
+  "symbols": [
+    "Mother holding child — the Incarnation, God made flesh nursed by a human mother"
+  ],
+  "description": "A folk-art or naive style painting of a mother holding an infant child, in warm tones. The figures are rendered with simplified forms, suggesting a devotional Madonna and Child composition.",
+  "theological_description": "The Madonna and Child theme represents the central mystery of the Incarnation: the eternal Word became flesh and was held in human arms (JHN.1.14). Mary as Theotokos bore the Son of God, fulfilling Isaiah's prophecy (ISA.7.14). The intimate bond between mother and child reveals the full humanity Christ assumed for our salvation.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation depicted"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "God sent his Son, born of a woman"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011450",
+    "title": "Mother and Child",
+    "artist": "George Stefanescu",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "Brothers of Joseph", "type": "GROUP"}
+  ],
+  "event": "Joseph and his Brothers",
+  "tags": [
+    "joseph",
+    "brothers",
+    "abstract",
+    "oval-forms",
+    "pit",
+    "geometric-shapes",
+    "old-testament",
+    "symbolic-composition",
+    "orange",
+    "blue"
+  ],
+  "symbols": [
+    "large oval shapes surrounding a central pit — the brothers encircling Joseph, casting him into the cistern",
+    "blue oval opening in the center — the pit or cistern into which Joseph was thrown",
+    "ring or rim structure — the well or cistern opening seen from above",
+    "orange-red background — the desert landscape of Dothan where the brothers encountered Joseph"
+  ],
+  "description": "An abstract geometric composition dominated by large oval or egg-shaped forms in orange and violet-blue against a two-toned background of deep blue above and burnt orange below. The ovals overlap and crowd around a central element: a flat oval ring or disc shape in cream and dark blue, resembling a well or pit opening viewed from above. The forms are rendered in flat, hard-edged color fields with minimal texture or shading.",
+  "theological_description": "This abstract interpretation of Joseph and his brothers distills the narrative to its essential geometry of encirclement and descent. The brothers' oval forms surround the central pit, evoking Genesis 37:23-24 when they stripped Joseph of his coat and cast him into the empty cistern. The blue void at center represents the pit — both the physical cistern and the abyss of betrayal by one's own kin. Joseph's story is one of the great typological narratives of Scripture: his descent into the pit prefigures Christ's descent into death, and his later exaltation in Egypt prefigures the Resurrection and glorification. The brothers' jealousy, provoked by the father's favor and Joseph's prophetic dreams, sets in motion the providential plan by which God would preserve the covenant family through famine (GEN.50.20).",
+  "scripture_refs": [
+    {"ref": "GEN.37.23-24", "relevance": "primary", "reason": "The brothers strip Joseph and cast him into an empty pit"},
+    {"ref": "GEN.37.18-20", "relevance": "primary", "reason": "The brothers conspire against Joseph when they see him coming from afar"},
+    {"ref": "GEN.50.20", "relevance": "typological", "reason": "What you meant for evil, God meant for good — the providential reversal of the brothers' betrayal"},
+    {"ref": "ACT.7.9-10", "relevance": "typological", "reason": "Stephen's speech recounting how the patriarchs sold Joseph into Egypt but God was with him"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["ominous", "stark", "tension"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0005236",
+    "title": "Joseph and his Brothers",
+    "artist": "Clarence Holbrook Carter",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Saint Benedict",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Benedict of Nursia",
+  "tags": [
+    "saint-benedict",
+    "monk",
+    "black-habit",
+    "halo",
+    "book",
+    "bundle-of-rods",
+    "founder",
+    "monastic-life",
+    "devotional",
+    "patriarch-of-monks"
+  ],
+  "symbols": [
+    "black habit — the Benedictine order, the monastic life of prayer, work, and stability",
+    "bundle of birch rods — discipline and the correction of faults, the rule of monastic life",
+    "red book — the Rule of Saint Benedict, the foundational text of Western monasticism",
+    "golden halo — sanctity and divine approval",
+    "long white beard — wisdom and the venerable age of the patriarch of Western monks"
+  ],
+  "description": "A half-length portrait of an elderly monk with a long white beard and a golden halo, wearing a black Benedictine habit with a hood. He holds a bundle of birch rods or switches in his right hand and a red-bound book in his left. His expression is stern and authoritative, with penetrating eyes. The background is dark. The painting style is precise and devotional.",
+  "theological_description": "Saint Benedict of Nursia (c. 480-547), the father of Western monasticism, established a rule of life that has shaped Christian civilization for fifteen centuries. His motto, Ora et Labora (Pray and Work), reflects the biblical integration of contemplation and action. The Rule of Saint Benedict (the red book he holds) begins with the word 'Listen' — echoing the Shema of Deuteronomy 6:4 and Christ's own words, 'He who has ears to hear, let him hear' (Matt 11:15). The bundle of rods represents the discipline that characterizes monastic formation, reflecting Proverbs 12:1: 'Whoever loves discipline loves knowledge.' Benedict's monasteries became centers of learning, agriculture, and hospitality, embodying Christ's commands to feed the hungry, welcome the stranger, and love one's neighbor (Matt 25:35-40). His emphasis on stability, conversion of life, and obedience created a framework for sanctity that has produced countless saints.",
+  "scripture_refs": [
+    {
+      "ref": "DEU.6.4-5",
+      "relevance": "allusion",
+      "reason": "Hear, O Israel — Benedict's Rule begins with 'Listen,' echoing the foundational command to attend to God's word"
+    },
+    {
+      "ref": "PRO.12.1",
+      "relevance": "allusion",
+      "reason": "Whoever loves discipline loves knowledge — the rods representing monastic formation"
+    },
+    {
+      "ref": "MAT.25.35-40",
+      "relevance": "typological",
+      "reason": "Whatever you did for the least of these — Benedictine hospitality as service to Christ in the stranger"
+    },
+    {
+      "ref": "COL.3.23",
+      "relevance": "allusion",
+      "reason": "Whatever you do, work heartily as for the Lord — the Benedictine principle of Ora et Labora"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "authoritative",
+    "stern",
+    "devout"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0008944",
+    "title": "Св. Бенедикт",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

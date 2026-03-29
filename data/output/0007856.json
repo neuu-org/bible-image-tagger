@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Joachim",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Meeting of Joachim and Anne at the Golden Gate",
+  "tags": [
+    "joachim-and-anne",
+    "golden-gate",
+    "embrace",
+    "parents-of-mary",
+    "halo",
+    "city-gate",
+    "latin-inscription"
+  ],
+  "symbols": [
+    "embrace at the gate — the moment of reunion that, according to tradition, coincides with the conception of Mary",
+    "golden halos — the sanctity of Mary's parents in Christian tradition",
+    "city gate — the Golden Gate of Jerusalem, threshold between exile and restoration",
+    "attendant women — witnesses to the miraculous reunion"
+  ],
+  "description": "A fresco showing two haloed figures embracing at the center before a cityscape. At left, a bearded man in a red and green robe clasps the hands of an elderly woman in a golden-yellow veil. Two women stand behind her, one in a dark veil and another in red. Latin text is inscribed across the top of the scene. The architectural background shows a medieval city with towers and buildings. The figures have golden halos and the colors are warm with reds, greens, and golds.",
+  "theological_description": "The Meeting at the Golden Gate depicts the reunion of Saints Joachim and Anne — the parents of the Virgin Mary — after Joachim's exile in the wilderness. According to the Protoevangelium of James, Joachim was expelled from the Temple because of his childlessness, but an angel appeared to both spouses separately, promising them a child. They met at the Golden Gate of Jerusalem, and their embrace traditionally marks the moment of Mary's Immaculate Conception. While not based on canonical Scripture, this narrative expresses the theological conviction that God prepared the way for the Incarnation through the sanctification of Mary's parents. The scene parallels the biblical pattern of barren couples to whom God grants miraculous offspring — Sarah and Abraham, Hannah and Elkanah, Elizabeth and Zechariah — showing that the greatest blessings come through divine intervention in human impossibility.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.36-37",
+      "relevance": "allusion",
+      "reason": "Nothing is impossible with God — the pattern of miraculous birth that Joachim and Anne's story follows"
+    },
+    {
+      "ref": "GEN.18.10-14",
+      "relevance": "typological",
+      "reason": "The promise to barren Sarah — the archetype of God granting children to the elderly and childless"
+    },
+    {
+      "ref": "1SA.1.19-20",
+      "relevance": "typological",
+      "reason": "Hannah's answered prayer for a child — the Old Testament type for Anne's miraculous conception of Mary"
+    },
+    {
+      "ref": "LUK.1.5-7",
+      "relevance": "allusion",
+      "reason": "Zechariah and Elizabeth, righteous and childless — the closest canonical parallel to Joachim and Anne"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "tender",
+    "reverent"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007856",
+    "title": "Rinuccini Chapel (basilica of Santa Croce)",
+    "artist": "Giovanni da Milano",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Saint Thomas Aquinas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Flavian",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints Thomas Aquinas and Flavian",
+  "tags": [
+    "saint-thomas-aquinas",
+    "saint-flavian",
+    "dominican",
+    "bishop",
+    "altar-wing",
+    "doctors-of-the-church",
+    "theologian",
+    "mitre",
+    "crozier"
+  ],
+  "symbols": [
+    "black Dominican habit — Thomas Aquinas's religious order",
+    "book held by Aquinas — his theological writings, especially the Summa Theologiae",
+    "bishop's mitre and crozier on Flavian — episcopal authority",
+    "red vestments on Flavian — his martyrdom or patriarchal dignity",
+    "architectural niche — the liturgical setting of an altarpiece"
+  ],
+  "description": "A tall, narrow altarpiece wing panel showing two standing saints beneath a classical archway. At the left, a bearded man in a black Dominican habit holds a closed book. At the right, a bishop in full red and white vestments wears a pointed mitre and holds a crozier staff. Both figures are rendered with monumentality against an architectural background of columns and arches. The panel has an arched top.",
+  "theological_description": "Saint Thomas Aquinas (1225-1274), the Angelic Doctor, is the preeminent theologian of the Catholic tradition. His Summa Theologiae remains the most comprehensive systematic theology ever written, synthesizing Aristotelian philosophy with Christian revelation. His Dominican habit marks him as a member of the Order of Preachers founded by Saint Dominic. Saint Flavian, likely the Patriarch of Constantinople (d. 449), was martyred at the infamous Robber Council of Ephesus for defending orthodox Christology against the Monophysite heresy. Together, they represent the complementary vocations of theological scholarship and episcopal witness: Aquinas through his writings, Flavian through his blood. Both defended the fullness of Christ's nature — Aquinas philosophically, Flavian at the cost of his life.",
+  "scripture_refs": [
+    {
+      "ref": "COL.2.3",
+      "relevance": "allusion",
+      "reason": "In Christ are hidden all the treasures of wisdom and knowledge — Aquinas's lifelong pursuit"
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "allusion",
+      "reason": "I have fought the good fight — Flavian's martyrdom for orthodox faith"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "allusion",
+      "reason": "The Word became flesh — the Christological truth both saints defended"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "scholarly",
+    "dignified",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0004203",
+    "title": "Altar of Recanati polyptych, the left wing: St. Thomas Aquinas and St. Flavian",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

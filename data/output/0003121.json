@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Saint Lawrence",
+      "type": "PERSON"
+    },
+    {
+      "name": "Poor and Needy",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint Lawrence Distributing the Riches of the Church",
+  "tags": [
+    "saint-lawrence",
+    "charity",
+    "almsgiving",
+    "church-treasures",
+    "deacon",
+    "silver-vessels",
+    "poor-and-needy",
+    "generosity",
+    "early-church"
+  ],
+  "symbols": [
+    "silver vessels and chalices — the material wealth of the Church entrusted to the deacon",
+    "Saint Lawrence distributing riches — the true treasure of the Church is its people, not its gold",
+    "women receiving alms — the poor as the living body of Christ to whom charity is due",
+    "ornate vestments on Lawrence — the diaconal office and its service to the marginalized"
+  ],
+  "description": "A richly dressed young man in an embroidered gold and red vestment stands at center, pouring from a silver vessel into the hands of women who lean toward him. One woman in white extends her hands eagerly while another behind her presses close. Elaborate silver ewers, platters, and vessels are arranged on the table and foreground. Several figures observe from the background. The lighting falls dramatically on the central exchange, highlighting the glinting metalwork and the intent expressions of the recipients.",
+  "theological_description": "Saint Lawrence, a third-century Roman deacon, was commanded by the prefect to surrender the Church's treasures. Instead, he gathered the poor, the sick, and the widows, and presented them saying, 'These are the treasures of the Church.' This act of defiance encapsulates Christ's teaching in Matthew 25:35-40 that service to the least is service to Christ himself. Though Lawrence is a post-biblical saint, his story is deeply rooted in the diaconal ministry established in Acts 6:1-6 and the apostolic command to care for widows. His distribution of wealth echoes the early Jerusalem community described in Acts 4:34-35, where possessions were shared so that none were in need. Lawrence's martyrdom on the gridiron made him one of the most venerated deacons in Church history.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.6.1-6",
+      "relevance": "typological",
+      "reason": "The institution of the diaconate to serve the poor, which Lawrence's ministry embodies"
+    },
+    {
+      "ref": "MAT.25.35-40",
+      "relevance": "typological",
+      "reason": "Whatever you did for the least of these, you did for me — the theological basis for Lawrence's identification of the poor as the Church's treasure"
+    },
+    {
+      "ref": "ACT.4.34-35",
+      "relevance": "allusion",
+      "reason": "The early Church sharing possessions so none were in need, prefiguring Lawrence's distribution"
+    },
+    {
+      "ref": "2CO.8.9",
+      "relevance": "allusion",
+      "reason": "Christ became poor so that through his poverty we might become rich — the paradox of sacred generosity"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "generous",
+    "urgent",
+    "compassionate"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003121",
+    "title": "St. Lawrence Distributing the Riches of the Church",
+    "artist": "Bernardo Strozzi",
+    "model": "claude-opus-4-6"
+  }
+}

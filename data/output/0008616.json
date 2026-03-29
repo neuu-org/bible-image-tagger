@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Paul", "type": "PERSON"},
+    {"name": "Shipwreck survivors", "type": "GROUP"}
+  ],
+  "event": "Saint Paul and the Shipwreck on Malta",
+  "tags": [
+    "paul",
+    "shipwreck",
+    "malta",
+    "storm",
+    "snake",
+    "bonfire",
+    "survivors",
+    "divine-protection",
+    "sea-voyage"
+  ],
+  "symbols": [
+    "bonfire on shore — warmth and survival after the shipwreck, hospitality of the Maltese",
+    "snake near the fire — the viper that bit Paul but caused no harm, proving divine protection",
+    "shipwreck debris at left — the destruction of the vessel but preservation of all souls",
+    "Paul's raised arms — prayerful thanksgiving and apostolic authority even in crisis",
+    "stormy sky — the divine providence that works through catastrophe"
+  ],
+  "description": "A dramatic scene on a stormy shore. A group of survivors from a shipwreck gathers around a bonfire on a beach. At center, a tall figure in white raises his arms in prayer or thanksgiving. Other figures in colorful classical dress attend to the injured — a woman holds a child at the left, others gesture in distress. A broken ship is visible in the turbulent sea at the far left. A snake appears near the fire at the lower right. Trees bend in the wind above. The sky is dark and threatening with a flash of light breaking through.",
+  "theological_description": "Paul's shipwreck on Malta (Acts 27-28) is one of the most vivid narratives in the New Testament, demonstrating that God's purposes cannot be thwarted by storm, sea, or serpent. During the perilous voyage to Rome, Paul received a divine assurance that all 276 souls aboard would be saved (Acts 27:22-24). When they reached Malta, a viper bit Paul's hand as he gathered wood for a fire — but he shook it off unharmed, astonishing the islanders who expected him to swell up and die. The Maltese concluded he must be a god; Paul used the opportunity to heal the sick and preach the Gospel. The entire episode illustrates Romans 8:28: 'All things work together for good for those who love God.' What appeared to be catastrophe became the occasion for the Gospel's advance — a pattern repeated throughout the history of the Church.",
+  "scripture_refs": [
+    {"ref": "ACT.27.22-26", "relevance": "primary", "reason": "Paul's divine assurance that all aboard the ship would survive the storm"},
+    {"ref": "ACT.28.1-6", "relevance": "primary", "reason": "The arrival on Malta, the bonfire, and the viper biting Paul without effect — the scene depicted"},
+    {"ref": "ACT.28.7-10", "relevance": "allusion", "reason": "Paul healing the sick on Malta — the apostolic mission continuing through shipwreck"},
+    {"ref": "ROM.8.28", "relevance": "typological", "reason": "All things work together for good — catastrophe becoming the occasion for Gospel advance"},
+    {"ref": "MRK.16.18", "relevance": "allusion", "reason": "They will pick up serpents and not be harmed — fulfilled in Paul's experience on Malta"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "turbulent", "providential"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0008616",
+    "title": "Saint paul and the shipwreck on malta",
+    "artist": "Heinrich Schonfeld",
+    "model": "claude-opus-4-6"
+  }
+}

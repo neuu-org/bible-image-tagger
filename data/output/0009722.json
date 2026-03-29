@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Arresting Party",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Jesus Christ in the Garden of Gethsemane — The Arrest",
+  "tags": [
+    "gethsemane",
+    "night-scene",
+    "arrest",
+    "torches",
+    "darkness",
+    "solitary-christ",
+    "garden",
+    "passion",
+    "light-and-darkness"
+  ],
+  "symbols": [
+    "Christ glowing in white light — the Light of the World confronting the powers of darkness",
+    "torches in the distance — the futile human attempt to illuminate what only divine light reveals",
+    "vast darkness surrounding — the 'hour and the power of darkness' that Jesus acknowledged",
+    "Christ standing alone — the isolation of the Savior facing the cross",
+    "approaching mob — the world coming to arrest the one who came to save it"
+  ],
+  "description": "An overwhelmingly dark painting where the vast majority of the canvas is near-black. At the far left, a solitary figure of Christ stands illuminated in pale, ghostly light, wearing white garments, his face and body faintly visible. At the far right, a group of figures with distant torches and lanterns approaches through the darkness, their forms barely distinguishable except for small points of firelight. The enormous void of darkness between Christ and the approaching mob creates a powerful sense of isolation and impending confrontation.",
+  "theological_description": "Repin's radical interpretation of Gethsemane reduces the scene to its essential theological tension: light versus darkness, Christ versus the world. The solitary illuminated Christ embodies John's theology: 'The light shines in the darkness, and the darkness has not overcome it' (JHN.1.5). Jesus himself declared: 'I am the light of the world. Whoever follows me will not walk in darkness' (JHN.8.12). The approaching torches are bitterly ironic — they come with human lights to arrest the true Light. Jesus acknowledged this cosmic dimension: 'This is your hour, and the power of darkness' (LUK.22.53). The vast darkness between Christ and the mob visualizes the spiritual chasm between the Kingdom of God and the kingdom of this world. In Gethsemane, Jesus had prayed 'Not my will, but yours, be done' (LUK.22.42), and now stands in perfect obedience, ready to be delivered into the hands of sinners. The painting captures the moment before the betrayal kiss, when the choice between light and darkness hangs suspended in the night air.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.39-53",
+      "relevance": "primary",
+      "reason": "Jesus in Gethsemane and the arrival of the arresting party"
+    },
+    {
+      "ref": "LUK.22.53",
+      "relevance": "primary",
+      "reason": "This is your hour and the power of darkness — the theological key to this image"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "typological",
+      "reason": "The light shines in the darkness, visualized in Christ's solitary illumination"
+    },
+    {
+      "ref": "JHN.8.12",
+      "relevance": "typological",
+      "reason": "I am the light of the world — Christ as the sole source of light in the scene"
+    },
+    {
+      "ref": "JHN.18.3-8",
+      "relevance": "primary",
+      "reason": "Judas arriving with lanterns, torches, and weapons to arrest Jesus"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dark",
+    "tense",
+    "isolated",
+    "ominous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009722",
+    "title": "Jesus Christ in the Garden of Gethsemane",
+    "artist": "Ilya Repin",
+    "model": "claude-opus-4-6"
+  }
+}

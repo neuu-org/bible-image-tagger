@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Assumption of the Virgin",
+  "tags": [
+    "assumption",
+    "virgin-mary",
+    "heavenward",
+    "angels",
+    "apostles",
+    "clouds",
+    "glory"
+  ],
+  "symbols": [
+    "Mary ascending — her bodily assumption into heavenly glory",
+    "angels bearing her upward — divine escorts to Paradise",
+    "apostles gazing up — the Church on earth witnessing heavenly realities"
+  ],
+  "description": "El Greco's Assumption of the Virgin showing Mary borne heavenward by angels in a swirling composition of elongated figures. Below, the apostles gaze upward in amazement. The painting features El Greco's characteristic mannerist elongation, dramatic color, and spiritual intensity, with rich blues, reds, and golden heavenly light.",
+  "theological_description": "Though the Assumption is not directly narrated in Scripture, it draws on the theological tradition that Mary, as the Ark of the New Covenant who bore God incarnate, was preserved from corruption. Psalm 132:8 is applied typologically: 'Arise, O LORD, and go to your resting place, you and the ark of your might.' The Assumption anticipates the general resurrection promised to all believers: 'the dead in Christ will rise' (1TH.4.16). Mary's glorification fulfills her own prophecy in the Magnificat: 'all generations will call me blessed' (LUK.1.48). Revelation's vision of 'a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars' (REV.12.1) is traditionally read as an image of the assumed Virgin.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.48",
+      "relevance": "primary",
+      "reason": "All generations will call me blessed — Mary's glorification"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun, traditionally read as the glorified Mary"
+    },
+    {
+      "ref": "1TH.4.16",
+      "relevance": "typological",
+      "reason": "The dead in Christ rising, which Mary's assumption anticipates"
+    },
+    {
+      "ref": "PSA.132.8",
+      "relevance": "typological",
+      "reason": "Arise, O LORD, you and the ark — typological basis for the Assumption"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "glorious",
+    "ecstatic",
+    "transcendent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0191040",
+    "title": "Assumption of the Virgin",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

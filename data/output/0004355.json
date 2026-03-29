@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "Christ carrying the cross to Calvary",
+  "tags": [
+    "carrying-the-cross",
+    "via-dolorosa",
+    "passion",
+    "crucifixion",
+    "wooden-cross",
+    "crown-of-thorns",
+    "halo",
+    "mater-dolorosa",
+    "rope",
+    "barefoot",
+    "road-to-calvary"
+  ],
+  "symbols": [
+    "wooden cross on Christ's shoulder — the burden of the world's sin borne by the Redeemer",
+    "crown of thorns — the mocking kingship and the curse of thorns from the Fall reversed",
+    "rope binding Christ — His voluntary submission to suffering for humanity's sake",
+    "Virgin Mary in dark robes following — Mater Dolorosa, the sword piercing her soul as Simeon foretold",
+    "bare feet — humility and the path of suffering trod by the Servant of God",
+    "golden halo — Christ's divine nature persisting even amid His deepest humiliation",
+    "city walls in background — Jerusalem, from which Christ was led outside to be crucified"
+  ],
+  "description": "Christ strides forward bearing a large wooden cross on his right shoulder, his body bent under its weight. He wears a flowing pink-red robe and has a golden halo and crown of thorns. A rope is tied around his waist. Behind him to the left, a dark-robed woman, the Virgin Mary, follows with a gesture of grief. In the background, city walls and towers of Jerusalem are visible against a pale sky. Christ walks barefoot on rocky ground.",
+  "theological_description": "The Way of the Cross, the Via Dolorosa, depicts the central mystery of Christian soteriology: the sinless one bearing the instrument of His own execution as a voluntary act of redemptive love. Christ's words echo through this image: 'If anyone would come after me, let him deny himself and take up his cross and follow me' (MAT.16.24). The pink-red garment recalls the robe placed on Christ during His mockery (MAT.27.28), while the golden halo affirms His undiminished divinity even in deepest humiliation — the kenosis of Philippians 2:6-8. Mary following behind fulfills Simeon's prophecy that a sword would pierce her soul (LUK.2.35), and she becomes the first to walk the Way of the Cross in union with her Son. The city walls of Jerusalem in the background recall that Christ suffered 'outside the gate' (HEB.13.12), bearing the reproach of humanity's sin beyond the holy city. Isaiah's prophecy finds its fulfillment: 'He was oppressed and afflicted, yet he did not open his mouth; he was led like a lamb to the slaughter' (ISA.53.7).",
+  "scripture_refs": [
+    {"ref": "JHN.19.17", "relevance": "primary", "reason": "Christ carrying His own cross to the place of crucifixion"},
+    {"ref": "MAT.16.24", "relevance": "primary", "reason": "The call to take up one's cross and follow Christ, embodied in this scene"},
+    {"ref": "ISA.53.7", "relevance": "typological", "reason": "The Suffering Servant led as a lamb to slaughter, silent before his shearers"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "The sword piercing Mary's soul, fulfilled as she follows her Son to Calvary"},
+    {"ref": "HEB.13.12", "relevance": "allusion", "reason": "Jesus suffering outside the city gate to sanctify the people through His own blood"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "solemn", "determined"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004355",
+    "title": "Christ Carrying the Cross",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

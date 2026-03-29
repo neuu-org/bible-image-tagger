@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Holy Family",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Rest on the Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "rest",
+    "nocturnal-landscape",
+    "moonlight",
+    "holy-family",
+    "campfire",
+    "donkey",
+    "starry-sky"
+  ],
+  "symbols": [
+    "moonlight on water — divine guidance illuminating the path of the fugitive Holy Family",
+    "campfire in the distance — temporary shelter and warmth during the flight from danger",
+    "starry sky — God's providence watching over the travelers by night",
+    "donkey — the humble beast of burden carrying the holy travelers"
+  ],
+  "description": "A nocturnal landscape dominated by a dark sky with stars and a bright moon reflecting on a body of water at the right. In the center foreground, a small group of figures — a woman holding a child, accompanied by a man — travel along a path near dark silhouetted trees. A campfire glows in the distance at the left, near what appears to be a donkey and other figures. The scene is overwhelmingly dark with the moon providing the primary light source, creating a peaceful yet mysterious atmosphere.",
+  "theological_description": "The Rest on the Flight into Egypt depicts the Holy Family's nocturnal journey after the angel's warning to flee Herod's murderous plot (Matthew 2:13-15). This small, intimate scene transforms a vast dark landscape into a meditation on divine providence. The God who placed the stars in the sky now guides a refugee family by their light. The moonlit path represents the narrow way of faith — barely visible, yet sufficient. The campfire suggests the temporary shelters along the journey, recalling Israel's own sojourn in Egypt and the pillar of fire that guided them. This painting captures a truth easily overlooked: the Son of God entered the world as a refugee, hunted by political power, dependent on the faith and obedience of His earthly parents. The darkness that surrounds the Holy Family is the darkness of a world that does not yet recognize its Savior.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "Joseph warned in a dream to flee to Egypt with the child — the journey depicted"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son — fulfilled in Christ's return from Egypt"
+    },
+    {
+      "ref": "PSA.121.5-6",
+      "relevance": "allusion",
+      "reason": "The Lord is your keeper, the sun shall not strike you by day nor the moon by night — divine protection on the journey"
+    },
+    {
+      "ref": "ISA.43.2",
+      "relevance": "allusion",
+      "reason": "When you pass through the waters I will be with you — God's presence in the family's flight"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "peaceful",
+    "nocturnal",
+    "protective"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008105",
+    "title": "The Rest on the Flight into Egypt",
+    "artist": "Adam Elsheimer",
+    "model": "claude-opus-4-6"
+  }
+}

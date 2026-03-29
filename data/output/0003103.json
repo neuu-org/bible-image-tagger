@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Crucified Figure", "type": "OTHER"}
+  ],
+  "event": "Surreal Crucifixion",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "desolation",
+    "surreal-landscape",
+    "decay",
+    "shrouded-figure",
+    "suffering",
+    "windswept",
+    "abandoned"
+  ],
+  "symbols": [
+    "wooden cross — the instrument of execution and redemption, here rendered as decaying ruin",
+    "shrouded, distorted figure — humanity disfigured by suffering, echoing Isaiah's Suffering Servant",
+    "windswept cloth and landscape — desolation and abandonment, the cry of forsakenness",
+    "greenish-yellow glow at base — faint light amid darkness, ambiguous hope or infernal fire",
+    "mountainous, barren terrain — Golgotha reimagined as a wasteland of existential anguish"
+  ],
+  "description": "A massive wooden cross dominates the composition, bearing a figure that is almost entirely obscured by tattered, wind-blown drapery and organic, rock-like forms. The body appears fused with the cross and the landscape, its limbs distorted and barely distinguishable. The setting is a barren, mountainous terrain shrouded in mist and gray tones. A faint greenish-yellow glow appears near the base. The overall atmosphere is one of decay, desolation, and grotesque transformation.",
+  "theological_description": "This surrealist vision of the Crucifixion strips the event of all consolation and presents it as raw, cosmic horror. The figure on the cross is no longer recognizably human, evoking Isaiah 52:14: 'his appearance was so marred, beyond human semblance.' The fusion of body, wood, and stone suggests the totality of Christ's kenosis — the self-emptying described in Philippians 2:7-8, taken to its most radical extreme. The barren wasteland recalls the darkness that fell over the land (MAT.27.45) and the cry of dereliction: 'My God, my God, why have you forsaken me?' (MAT.27.46). The decay and grotesqueness can be read through 2 Corinthians 5:21: God made him who had no sin to be sin for us, and the visual distortion embodies that theological weight. Yet the faint glow at the base hints at the paradox of the cross — that in this ultimate destruction lies the seed of redemption.",
+  "scripture_refs": [
+    {"ref": "ISA.52.14", "relevance": "primary", "reason": "The Servant's appearance marred beyond recognition, directly evoked by the distorted crucified figure"},
+    {"ref": "MAT.27.45-46", "relevance": "primary", "reason": "The darkness over the land and Christ's cry of forsakenness reflected in the desolate atmosphere"},
+    {"ref": "PHP.2.7-8", "relevance": "typological", "reason": "Christ's kenosis and self-emptying unto death on a cross, shown as total dissolution"},
+    {"ref": "2CO.5.21", "relevance": "typological", "reason": "God made him who had no sin to be sin — the grotesque transformation visualizes sin's weight"},
+    {"ref": "PSA.22.1-2", "relevance": "allusion", "reason": "The messianic psalm of abandonment underlying the atmosphere of divine forsakenness"},
+    {"ref": "GAL.3.13", "relevance": "allusion", "reason": "Christ became a curse for us, hanging on a tree — the cross as locus of curse and redemption"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["desolate", "anguished", "haunting", "bleak"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003103",
+    "title": "Untitled",
+    "artist": "Zdzislaw Beksinski",
+    "model": "claude-opus-4-6"
+  }
+}

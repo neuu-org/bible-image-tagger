@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi (detail)",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "magi",
+    "wise-men",
+    "infant-christ",
+    "gifts",
+    "procession",
+    "tondo-detail",
+    "architectural-setting"
+  ],
+  "symbols": [
+    "figures approaching the arched doorway — the Magi arriving at the place of the Incarnation",
+    "kneeling child figure — reverence and worship before the Christ child",
+    "pink-walled architecture — the house at Bethlehem where the Magi found the child"
+  ],
+  "description": "A detail from a larger tondo painting, curved at the right edge. The scene shows several figures in colorful robes gathered around a pink-walled building with an arched doorway. At center, a group of richly dressed figures converse or gesture near the entrance. A kneeling child and a nude infant or putto are visible at lower right. The figures wear garments in yellows, oranges, greens, and reds. The architectural setting features warm rose-colored walls and a thatched or wooden roof structure at left.",
+  "theological_description": "This detail from the Adoration of the Magi captures the arrival of the wise men from the East at the dwelling in Bethlehem (MAT.2.1-12). The Magi's journey represents the first recognition of Christ by the Gentile nations, fulfilling the prophecy that nations would come to the light of Israel (ISA.60.3). Their visit inaugurates the Epiphany — the manifestation of Christ to the whole world beyond the boundaries of Israel. The architectural setting recalls Matthew's specification that the Magi came to the 'house' where the child was (MAT.2.11), distinguishing this visit from the shepherds' arrival at the manger. The gathering of figures from distant lands prefigures the universal Church drawn from all nations to worship the one Lord.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-2",
+      "relevance": "primary",
+      "reason": "Wise men from the East arrive in Jerusalem seeking the newborn King"
+    },
+    {
+      "ref": "MAT.2.11",
+      "relevance": "primary",
+      "reason": "They entered the house and saw the child with Mary his mother and worshiped him"
+    },
+    {
+      "ref": "ISA.60.3",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light, and kings to the brightness of your rising"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "The kings of Tarshish and of distant shores shall bring tribute; all kings shall bow down to him"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "festive",
+    "wonder"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005235",
+    "title": "Adoration of the Magi (detail)",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Noah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Noah's family",
+      "type": "GROUP"
+    },
+    {
+      "name": "Animals",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The animals entering Noah's Ark",
+  "tags": [
+    "noahs-ark",
+    "animals",
+    "pairs",
+    "procession",
+    "flood",
+    "horses",
+    "lions",
+    "birds",
+    "elephants",
+    "salvation",
+    "divine-judgment",
+    "creation"
+  ],
+  "symbols": [
+    "pairs of animals — God's provision for the preservation of creation through judgment",
+    "the Ark in the background — the vessel of salvation, prefiguring the Church and baptism",
+    "diverse species gathered together — the peaceable kingdom restored, all creation under God's care",
+    "trees and lush landscape — the beauty of creation about to be submerged in judgment"
+  ],
+  "description": "A panoramic landscape teeming with pairs of animals processing from right to left toward an ark visible in the background. The foreground is crowded with a remarkable menagerie: lions, horses, camels, elephants, turkeys, peacocks, parrots, dogs, cats, leopards, birds of many species, and smaller creatures. Human figures are visible near the ark in the middle distance. The landscape features large trees, a pond or river to the left, and rolling green terrain under a cloudy sky. The painting is densely packed with naturalistic animal detail.",
+  "theological_description": "The entry of animals into Noah's Ark is one of the great narrative images of the Old Testament, depicting God's command that Noah bring pairs of every living creature into the Ark to preserve them through the coming Flood (Gen 6:19-20). The scene is simultaneously one of judgment and mercy: God is about to destroy a world corrupted by violence (Gen 6:11-13), yet He provides a means of salvation for Noah's family and the animal kingdom. The Ark itself became one of the most important types (prefigurations) in Christian theology — 1 Peter 3:20-21 explicitly identifies the Flood waters with baptism and the Ark with the Church, the vessel through which God saves those who enter by faith. The peaceable gathering of predator and prey also anticipates Isaiah's vision of the messianic age: 'The wolf shall dwell with the lamb' (Isa 11:6). The sheer abundance of species displayed celebrates the goodness of creation that God deemed 'very good' (Gen 1:31) and is determined to preserve even through judgment.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.6.19-20",
+      "relevance": "primary",
+      "reason": "God's command to bring two of every living creature into the Ark"
+    },
+    {
+      "ref": "GEN.7.8-9",
+      "relevance": "primary",
+      "reason": "The animals going into the Ark two by two as God commanded Noah"
+    },
+    {
+      "ref": "1PE.3.20-21",
+      "relevance": "typological",
+      "reason": "The Ark and Flood as prefiguration of baptism and the Church as vessel of salvation"
+    },
+    {
+      "ref": "GEN.1.31",
+      "relevance": "allusion",
+      "reason": "God saw that creation was very good — the abundant diversity of animals celebrating creation's goodness"
+    },
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "typological",
+      "reason": "The peaceable kingdom where predator and prey coexist — anticipated in the animals' gathering"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "abundant",
+    "wondrous",
+    "urgent",
+    "pastoral"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0006823",
+    "title": "The animals entering Noah's Ark",
+    "artist": "Jan Brueghel the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-christ",
+    "halos",
+    "incarnation",
+    "theotokos",
+    "seated-madonna",
+    "landscape-background"
+  ],
+  "symbols": [
+    "halo around Mary — her sanctity and role as the Blessed Mother",
+    "halo around the infant — the divine nature of the Christ Child",
+    "blue mantle over red dress — heaven (blue) covering earth (red), divinity overshadowing humanity",
+    "mountainous landscape — the world into which the divine has entered",
+    "child's gesture touching his own chest — self-awareness of his divine mission"
+  ],
+  "description": "The Virgin Mary sits facing the viewer, holding the infant Jesus on her left side. She wears a red dress beneath a dark blue mantle, with long reddish-brown hair falling over her shoulders. A thin golden halo encircles her head. The infant Christ, also haloed, sits nude on her lap with one hand raised to his chest. Both figures have serene, solemn expressions. Behind them, a soft landscape of blue mountains and hazy sky stretches to the horizon. The composition is balanced and frontal, with the figures dominating the picture plane.",
+  "theological_description": "The Madonna and Child is the quintessential image of the Incarnation — the moment suspended in eternity where the infinite God is contained within the finite form of a human infant. Mary's frontal, regal bearing reflects her title as Theotokos (God-bearer), affirmed at the Council of Ephesus (431). The red and blue garments carry centuries of symbolic weight: red for Christ's humanity and future Passion blood, blue for heavenly divinity — and Mary wears both, as the one in whom heaven and earth meet. The child's gesture toward his own chest may signify his self-knowledge as the one who will declare, 'I am the way, the truth, and the life' (JHN.14.6). The landscape background anchors the eternal mystery in the created world, affirming that 'the Word became flesh and dwelt among us' (JHN.1.14) — not in an abstract spiritual realm but in the hills and valleys of this earth.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the theological reality of the Incarnation depicted in the Madonna and Child"
+    },
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "Gabriel's announcement to Mary that she will bear a son who will reign forever"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent his Son, born of a woman — the Incarnation through Mary"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son, Emmanuel — God with us"
+    },
+    {
+      "ref": "JHN.14.6",
+      "relevance": "allusion",
+      "reason": "Christ's self-declaration as the way, truth, and life, possibly reflected in the child's gesture"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "majestic",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003461",
+    "title": "Madonna with Child",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

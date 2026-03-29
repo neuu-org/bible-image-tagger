@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {
+      "name": "Saint Augustine of Hippo",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Augustine",
+  "tags": [
+    "saint-augustine",
+    "church-father",
+    "bishop",
+    "book",
+    "vestments",
+    "devotional"
+  ],
+  "symbols": [
+    "bishop's vestments — Augustine's authority as Bishop of Hippo",
+    "book — his extensive theological writings including Confessions and City of God"
+  ],
+  "description": "A portrait of Saint Augustine wearing bishop's vestments, likely holding a book or crozier. The painting is in rich Venetian tones characteristic of Titian's religious works.",
+  "theological_description": "Augustine of Hippo (354-430) was the most influential theologian of the Western Church. His conversion, catalyzed by reading Romans 13:13-14, transformed him from a dissolute intellectual into the greatest Christian thinker of the early centuries. His Confessions, City of God, and treatises on grace shaped Western theology profoundly. Augustine's key insight — that the human heart is restless until it rests in God — echoes the Psalmist: 'As a deer pants for flowing streams, so pants my soul for you, O God' (PSA.42.1).",
+  "scripture_refs": [
+    {
+      "ref": "ROM.13.13-14",
+      "relevance": "primary",
+      "reason": "The text that converted Augustine"
+    },
+    {
+      "ref": "PSA.42.1",
+      "relevance": "allusion",
+      "reason": "The soul thirsting for God, Augustine's central theme"
+    },
+    {
+      "ref": "JHN.8.32",
+      "relevance": "allusion",
+      "reason": "The truth will set you free — Augustine's intellectual journey"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "dignified"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0011475",
+    "title": "St Augustine",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

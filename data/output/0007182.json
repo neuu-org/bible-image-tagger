@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Adam", "type": "PERSON"},
+    {"name": "Eve", "type": "PERSON"},
+    {"name": "Serpent", "type": "OTHER"}
+  ],
+  "event": "The Fall of Adam and Eve",
+  "tags": [
+    "adam-and-eve",
+    "forbidden-fruit",
+    "fall-of-man",
+    "serpent",
+    "garden-of-eden",
+    "temptation",
+    "original-sin",
+    "fig-leaves",
+    "apple"
+  ],
+  "symbols": [
+    "red fruit — the forbidden fruit of the tree of knowledge of good and evil",
+    "serpent in the tree — Satan as tempter, the deceiver of humanity",
+    "fig leaves — the first covering of shame after the awareness of sin",
+    "lush green foliage — the abundance of Eden before the curse",
+    "shared fruit between the two — the communal nature of the Fall, sin spreading through relationship"
+  ],
+  "description": "Two nude figures stand side by side against a dense background of dark green foliage. The man on the left holds a red fruit near his mouth with one hand and a leafy branch at his waist with the other. The woman on the right has long reddish hair and a leaf covering; she reaches toward the fruit or the man. A dark serpent is visible coiled around a tree trunk at the upper right. Both figures have pale skin and somewhat stylized, expressionless faces.",
+  "theological_description": "The Fall of Adam and Eve (Genesis 3) is the foundational event of biblical anthropology, explaining the origin of sin, death, and human alienation from God. The serpent's temptation offered the knowledge of good and evil — autonomy from God — and humanity's acceptance brought catastrophic consequences. The shared fruit between Adam and Eve illustrates the communal dimension of sin: Adam was 'with her' (Genesis 3:6) and chose complicity over resistance. The fig leaves represent the first human attempt at self-justification, covering shame with inadequate means. Yet within this scene of catastrophe lies the Protoevangelium (Genesis 3:15): God's promise that the seed of the woman would crush the serpent's head. The Church Fathers read this scene christologically: where Adam failed, Christ the New Adam would succeed; where Eve was deceived, Mary the New Eve would obey. The Fall is not the final word but the occasion for God's greater work of redemption.",
+  "scripture_refs": [
+    {"ref": "GEN.3.1-7", "relevance": "primary", "reason": "The serpent's temptation, Eve and Adam eating the forbidden fruit, the scene directly depicted"},
+    {"ref": "GEN.3.15", "relevance": "primary", "reason": "The Protoevangelium — the promise that the woman's seed will crush the serpent, embedded in the Fall narrative"},
+    {"ref": "ROM.5.12-19", "relevance": "typological", "reason": "Through one man sin entered the world — Paul's Adam-Christ typology grounding the doctrine of original sin"},
+    {"ref": "1CO.15.21-22", "relevance": "typological", "reason": "As in Adam all die, so in Christ shall all be made alive — the Fall as the counterpoint to redemption"},
+    {"ref": "REV.12.9", "relevance": "allusion", "reason": "The ancient serpent called the devil and Satan — identifying the Eden serpent with the cosmic adversary"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["ominous", "fateful", "intimate"],
+  "period": "Creation",
+  "_meta": {
+    "key": "0007182",
+    "title": "Adam and Eve",
+    "artist": "Alexander Roitburd",
+    "model": "claude-opus-4-6"
+  }
+}

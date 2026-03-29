@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint John the Evangelist",
+  "tags": [
+    "saint-john",
+    "evangelist",
+    "icon",
+    "orthodox",
+    "russian",
+    "gospel-book",
+    "halo",
+    "gold-background",
+    "contemplative",
+    "deesis"
+  ],
+  "symbols": [
+    "closed Gospel book — the Word of God that John authored and proclaimed",
+    "bowed head — deep contemplation of the divine mysteries",
+    "gold background — the uncreated divine light of Orthodox theology",
+    "flowing blue-green robes — the deep waters of John's theological vision",
+    "halo — sainthood and the reflected glory of God"
+  ],
+  "description": "A tall, narrow icon panel depicting a full-length standing figure of an elderly, bald man with a halo, holding a closed book against his chest. He is draped in flowing dark blue-green and reddish robes over a salmon-colored undergarment. His head is bowed in contemplation, and his expression is meditative. The background is gold. The figure stands on a dark ground. The style is characteristic of Russian iconography with elongated proportions and stylized drapery folds.",
+  "theological_description": "Rublev's icon depicts Saint John the Evangelist, the 'beloved disciple' who leaned on Jesus' breast at the Last Supper (John 13:23) and authored the Fourth Gospel, three epistles, and the Book of Revelation. His bowed, contemplative posture reflects the depth of mystical theology in his writings — 'In the beginning was the Word, and the Word was with God, and the Word was God' (John 1:1). The closed book he holds represents the Gospel that opens the deepest mysteries of Christ's identity. John's theological vision penetrates further than the other Evangelists: 'God is love' (1 John 4:8), 'God is light' (1 John 1:5). The gold background of the icon represents precisely this uncreated divine light that John proclaimed. His elderly appearance reflects the tradition that John was the only apostle to die of natural causes in old age, fulfilling Jesus' enigmatic statement: 'If it is my will that he remain until I come, what is that to you?' (John 21:22). This panel likely comes from a Deesis tier of an iconostasis.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.1",
+      "relevance": "primary",
+      "reason": "In the beginning was the Word — the Gospel John authored and holds"
+    },
+    {
+      "ref": "JHN.13.23",
+      "relevance": "primary",
+      "reason": "The disciple whom Jesus loved, leaning on his breast — John's unique intimacy"
+    },
+    {
+      "ref": "1JN.4.8",
+      "relevance": "allusion",
+      "reason": "God is love — the theological depth of John's contemplation"
+    },
+    {
+      "ref": "JHN.21.22",
+      "relevance": "allusion",
+      "reason": "If I will that he remain until I come — John's long life"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "hieratic",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012504",
+    "title": "Saint John the Evangelist",
+    "artist": "Andrei Rublev",
+    "model": "claude-opus-4-6"
+  }
+}

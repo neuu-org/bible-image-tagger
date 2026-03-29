@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna Casini (Virgin and Child)",
+  "tags": [
+    "madonna-and-child",
+    "gold-background",
+    "halo",
+    "blue-veil",
+    "red-robe",
+    "infant-jesus",
+    "gold-hatching",
+    "panel-painting",
+    "devotional-image",
+    "tender-gaze",
+    "child-touching-mother"
+  ],
+  "symbols": [
+    "gold background — divine glory and the heavenly realm",
+    "blue veil with gold trim — heavenly purity and queenly dignity",
+    "red robe beneath — Christ’s Passion and sacrificial love",
+    "child’s golden halo — his divine nature",
+    "child reaching toward Mary — the intimacy of the Incarnation"
+  ],
+  "description": "A half-length portrait on a gold background depicting a woman in a deep blue veil with gold edging over a red robe. She holds an infant wrapped in white and gold patterned cloth. The child has a golden halo and reaches toward his mother with one hand, touching her chest. The woman gazes downward with a solemn, tender expression. Both figures are rendered with delicate modeling against the luminous gold ground. The style is early Renaissance with a medieval gold-ground tradition.",
+  "theological_description": "This intimate Madonna and Child presents Mary as the Theotokos (God-bearer) in the devotional tradition of early Renaissance panel painting. The gold background represents the uncreated divine light—the glory that no earthly space can contain yet which becomes approachable through the Incarnation. The Christ Child’s reaching gesture toward his mother embodies the paradox of Colossians 1:15-17: the one who is the image of the invisible God, through whom all things were created, chooses to depend on a human mother’s embrace. Mary’s solemn gaze suggests her awareness of the mystery she bears—she is the ark of the new covenant carrying within her the presence of God himself. The gold-hatched cloth wrapping the child may allude to priestly vestments, foreshadowing Christ’s role as the eternal high priest (Hebrews 4:14). The simplicity of the composition draws the viewer into contemplative prayer before the central mystery of the faith.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you, and the power of the Most High will overshadow you"
+    },
+    {
+      "ref": "COL.1.15-17",
+      "relevance": "typological",
+      "reason": "The image of the invisible God, firstborn over all creation, held as an infant"
+    },
+    {
+      "ref": "HEB.4.14",
+      "relevance": "allusion",
+      "reason": "The great high priest, foreshadowed in the priestly wrapping of the child"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things and pondered them in her heart"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "tender",
+    "sacred",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013778",
+    "title": "Madonna Casini",
+    "artist": "Masaccio",
+    "model": "claude-opus-4-6"
+  }
+}

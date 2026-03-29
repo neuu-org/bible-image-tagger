@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Salvator Mundi (The Savior Blessing)",
+  "tags": [
+    "salvator-mundi",
+    "risen-christ",
+    "blessing",
+    "globe",
+    "cross-staff",
+    "cosmic-sovereignty",
+    "savior-of-the-world"
+  ],
+  "symbols": [
+    "globe under Christ's hand — sovereignty over the entire created world",
+    "cross-shaped staff — the instrument of redemption become the scepter of kingship",
+    "raised blessing hand — priestly intercession and divine authority",
+    "pink/rose garment — the Passion's blood transfigured into resurrection glory",
+    "golden halo or radiance — the divine light of the glorified Christ"
+  ],
+  "description": "A half-length portrait of Christ against a dark background with a golden radiance behind his head. He wears a rose-pink tunic and a dark gray-green mantle. His right hand is raised in a gesture of blessing with two fingers extended. His left hand rests on a blue-green globe. He holds a tall cross-shaped staff. His long dark hair falls past his shoulders and he has a neatly trimmed beard. His expression is calm, direct, and authoritative. The lighting illuminates his face and garment warmly.",
+  "theological_description": "The Salvator Mundi ('Savior of the World') presents Christ in his cosmic sovereignty as the Risen Lord who holds all creation in his hand. The globe beneath his hand visually declares Colossians 1:16-17: 'All things were created through him and for him, and in him all things hold together.' The cross-staff is the victory standard — the instrument of death transformed into the scepter of eternal kingship, fulfilling Philippians 2:9-11 where God 'highly exalted him and bestowed on him the name that is above every name.' The blessing hand extends the priestly office described in Hebrews 7:25: Christ forever interceding for those who draw near to God through him. The title Salvator Mundi itself comes from John 4:42, where the Samaritans declare, 'This is indeed the Savior of the world.' The globe also recalls Matthew 28:18: 'All authority in heaven and on earth has been given to me.'",
+  "scripture_refs": [
+    {"ref": "COL.1.16-17", "relevance": "primary", "reason": "All things created through Christ and held together in him — the globe of universal sovereignty"},
+    {"ref": "MAT.28.18", "relevance": "primary", "reason": "All authority in heaven and on earth given to Christ — the risen Lord's cosmic claim"},
+    {"ref": "PHP.2.9-11", "relevance": "primary", "reason": "God exalting Christ and giving him the name above every name — the cross-staff as victory"},
+    {"ref": "JHN.4.42", "relevance": "primary", "reason": "The Savior of the world — the direct source of the Salvator Mundi title"},
+    {"ref": "HEB.7.25", "relevance": "allusion", "reason": "Christ's perpetual intercession, represented by the blessing hand"},
+    {"ref": "REV.1.5", "relevance": "allusion", "reason": "The ruler of kings on earth who loves us and freed us from sins by his blood"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["majestic", "serene", "authoritative"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003674",
+    "title": "The Savior Blessing",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

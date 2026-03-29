@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Saint Benedict",
+      "type": "PERSON"
+    },
+    {
+      "name": "Monks",
+      "type": "GROUP"
+    },
+    {
+      "name": "Poor and Needy",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Almsgiving of Saint Benedict",
+  "tags": [
+    "saint-benedict",
+    "almsgiving",
+    "charity",
+    "monks",
+    "poor",
+    "medieval",
+    "monastery-gate",
+    "bread",
+    "halo"
+  ],
+  "symbols": [
+    "Saint Benedict with halo distributing alms — the monastic ideal of charity and service to the poor",
+    "bread or food offered — Christ's command to feed the hungry",
+    "gate of the monastery — the Church's hospitality extended to the world",
+    "poor and lame receiving — the least of these whom Christ identifies with himself"
+  ],
+  "description": "A medieval panel painting in a wooden frame showing a scene at the gate of a monastery. An elderly monk with a dark habit and halo (Saint Benedict) stands with another monk, offering bread or alms to a group of poor people including a man on crutches wearing torn clothing and a woman holding a child. Behind them, more figures gather. The architectural setting shows a brick archway and walls of a medieval monastery. The painting style is characteristic of late medieval Northern Italian art.",
+  "theological_description": "The almsgiving of Saint Benedict reflects the biblical imperative to care for the poor that runs from the Mosaic Law through the teaching of Jesus. Christ taught that service to the needy is service to himself: 'I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me' (MAT.25.35). Benedict's Rule, which shaped Western monasticism, institutionalized this teaching: 'All guests who present themselves are to be welcomed as Christ.' The scene fulfills James's practical theology: 'If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, Go in peace, be warmed and filled, without giving them the things needed for the body, what good is that?' (JAS.2.15-16). The monastic tradition understood that contemplative prayer and active charity were inseparable expressions of the same love of God.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.35-40",
+      "relevance": "primary",
+      "reason": "Whatever you did for the least of these you did for me — the theological basis for Benedict's charity"
+    },
+    {
+      "ref": "JAS.2.15-16",
+      "relevance": "primary",
+      "reason": "Faith without works is dead — feeding and clothing the poor as essential Christian duty"
+    },
+    {
+      "ref": "LUK.3.11",
+      "relevance": "allusion",
+      "reason": "Whoever has two tunics should share with him who has none, and food likewise"
+    },
+    {
+      "ref": "PRO.19.17",
+      "relevance": "allusion",
+      "reason": "Whoever is generous to the poor lends to the LORD"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "humble",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009591",
+    "title": "Elemosina Di San Benedetto",
+    "artist": "Ambrogio Bergognone",
+    "model": "claude-opus-4-6"
+  }
+}

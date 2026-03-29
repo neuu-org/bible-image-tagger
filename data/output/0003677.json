@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ (as boy)", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Joseph", "type": "PERSON"}
+  ],
+  "event": "Christ Discovered in the Temple",
+  "tags": [
+    "finding-in-temple",
+    "boy-jesus",
+    "virgin-mary",
+    "joseph",
+    "gold-background",
+    "holy-family",
+    "twelve-year-old-jesus",
+    "reunion"
+  ],
+  "symbols": [
+    "gold background — the divine and eternal realm in which the sacred narrative unfolds",
+    "boy Jesus teaching gesture — his divine wisdom manifesting even in childhood",
+    "Mary's outstretched hand — maternal anxiety and the moment of reunion",
+    "Gothic trefoil arches — the Trinity framing the Holy Family"
+  ],
+  "description": "A small panel painting with a gold background and Gothic trefoil arches at the top. Three haloed figures are arranged in a tight group. At center, a bearded man in a purple cloak (Joseph) stands behind a boy in an orange-red garment (the young Jesus), placing his hand on the child's shoulder. At the left, a woman in a blue mantle (Mary) extends her hand toward the boy with an expression of concern or gentle reproach. All three figures have gold halos. The gold leaf background fills the remaining space within the ornate frame.",
+  "theological_description": "The Finding of the Twelve-Year-Old Jesus in the Temple (LUK.2.41-52) is the only canonical account of Christ's childhood between infancy and his baptism. After three days of searching, Mary and Joseph discover Jesus among the Temple teachers, amazing them with his understanding. His response to Mary — 'Did you not know that I must be in my Father's house?' (LUK.2.49) — is the first recorded self-revelation of his divine sonship and mission. The three days of separation prefigure the three days between Crucifixion and Resurrection, and Mary's anguished search anticipates her grief at Calvary. The scene reveals the tension inherent in the Incarnation: Jesus is truly Mary's son, yet his primary allegiance is to his heavenly Father. Luke concludes that Jesus 'was submissive to them' and 'increased in wisdom and in stature' (LUK.2.51-52), affirming the genuine humanity of the divine Son.",
+  "scripture_refs": [
+    {"ref": "LUK.2.41-52", "relevance": "primary", "reason": "The complete narrative of finding Jesus in the Temple after three days"},
+    {"ref": "LUK.2.49", "relevance": "primary", "reason": "Jesus's first self-revelation: 'I must be in my Father's house'"},
+    {"ref": "LUK.2.51-52", "relevance": "primary", "reason": "Jesus subject to his parents and growing in wisdom — true humanity of the divine Son"},
+    {"ref": "LUK.2.19", "relevance": "allusion", "reason": "Mary treasuring things in her heart — her contemplation of these mysterious events"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "The sword piercing Mary's soul — the three-day separation prefiguring Calvary's grief"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tender", "anxious", "revelatory"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003677",
+    "title": "Christ Discovered in the Temple",
+    "artist": "Simone Martini",
+    "model": "claude-opus-4-6"
+  }
+}

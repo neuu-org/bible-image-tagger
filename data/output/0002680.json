@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Soldiers", "type": "GROUP"}
+  ],
+  "event": "Christ Carrying the Cross",
+  "tags": [
+    "carrying-the-cross",
+    "via-dolorosa",
+    "passion",
+    "crown-of-thorns",
+    "suffering",
+    "way-of-the-cross",
+    "calvary",
+    "heavy-burden",
+    "tormentors",
+    "stations-of-the-cross"
+  ],
+  "symbols": [
+    "wooden cross beam — the instrument of salvation carried as a burden of sin",
+    "crown of thorns — the mockery of kingship, the curse of thorns from Genesis reversed",
+    "grimacing tormentors — the brutality of fallen humanity inflicting suffering on its Savior",
+    "Christ's direct gaze — the Suffering Servant looking toward the viewer, involving them in the Passion",
+    "dark heavy robes — the weight of the world's sin laid upon the sinless one"
+  ],
+  "description": "A close-up, half-length composition showing Christ carrying a heavy wooden cross beam across his shoulders. He wears a crown of thorns pressed into his head and a dark brown robe. His face is weary but composed, looking directly toward the viewer. Behind and beside him, two or three grotesque, grimacing figures press in close, one helping to push the cross, their faces contorted and menacing. The background shows a cloudy sky. The faces are rendered with intense realism and emotional power.",
+  "theological_description": "Christ carrying the cross is the central image of the Via Dolorosa, the sorrowful way from Pilate's praetorium to Golgotha. John records that Jesus 'went out, bearing his own cross' (JHN.19.17), while the Synoptics note that Simon of Cyrene was compelled to help carry it (MAT.27.32). The image fulfills Christ's own teaching: 'If anyone would come after me, let him deny himself and take up his cross and follow me' (MAT.16.24). The cross is simultaneously the instrument of execution and the means of salvation — the tree of death that becomes the tree of life. Isaiah prophesied: 'Surely he has borne our griefs and carried our sorrows' (ISA.53.4). The grotesque tormentors surrounding Christ represent not merely the Roman soldiers but the accumulated sin of humanity that required this sacrifice. The direct gaze of Christ toward the viewer is a devotional device inviting personal participation in the Passion — not as spectator but as complicit party and redeemed beneficiary.",
+  "scripture_refs": [
+    {"ref": "JHN.19.17", "relevance": "primary", "reason": "Jesus bearing his own cross on the way to Golgotha"},
+    {"ref": "MAT.27.31-32", "relevance": "primary", "reason": "Jesus led away to be crucified, Simon of Cyrene compelled to carry the cross"},
+    {"ref": "ISA.53.4-5", "relevance": "typological", "reason": "He bore our griefs and carried our sorrows, wounded for our transgressions"},
+    {"ref": "MAT.16.24", "relevance": "allusion", "reason": "Take up your cross and follow me — the call to discipleship enacted by Christ himself"},
+    {"ref": "LUK.23.26-28", "relevance": "primary", "reason": "The way of the cross, including the weeping women of Jerusalem"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["suffering", "intensity", "anguish", "gravity"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002680",
+    "title": "Christ Carrying The Cross",
+    "artist": "Jan van Hemessen",
+    "model": "claude-opus-4-6"
+  }
+}

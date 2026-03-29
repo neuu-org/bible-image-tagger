@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Apostles", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Cherubim", "type": "ANGEL"}
+  ],
+  "event": "The Assumption of the Virgin Mary",
+  "tags": [
+    "assumption",
+    "virgin-mary",
+    "ascending",
+    "apostles",
+    "angels",
+    "clouds",
+    "heavenly-glory",
+    "blue-mantle",
+    "empty-tomb",
+    "flowers"
+  ],
+  "symbols": [
+    "Mary ascending on clouds — her bodily assumption into heaven",
+    "angels supporting her — the heavenly host escorting the Queen of Heaven",
+    "apostles looking upward in amazement — the witnesses to Mary's departure",
+    "flowers in the empty tomb — the fragrance of holiness replacing the body",
+    "blue mantle and clasped hands — Mary's prayerful posture in her final journey",
+    "golden light from above — the divine glory receiving her"
+  ],
+  "description": "A dramatic two-register composition. In the upper half, the Virgin Mary ascends heavenward on billowing clouds, wearing a blue mantle, her hands clasped in prayer. She is surrounded by angels and cherubim in golden light. In the lower half, the apostles gather around an open tomb, some looking up in astonishment, others examining flowers that have replaced the body. One apostle at center holds a white cloth. The painting is richly colored with warm golden tones above and deeper earth tones below.",
+  "theological_description": "The Assumption of Mary — her bodily taking up into heaven at the end of her earthly life — is one of the most significant Marian doctrines. While not explicitly narrated in Scripture, the tradition draws on several biblical foundations: the Ark of the Covenant being brought up to its resting place (PSA.132.8: 'Arise, O Lord, to your resting place, you and the ark of your might'), the woman clothed with the sun in Revelation 12, and the general biblical principle that the body that bore the Son of God should not see corruption. The apostles, according to tradition, gathered at Mary's dormition (falling asleep) and found her tomb empty except for flowers — mirroring Christ's own empty tomb. The scene thus recapitulates Easter: as Christ rose, so his mother is assumed. Paul's teaching provides the theological framework: 'As in Adam all die, so also in Christ shall all be made alive. But each in his own order: Christ the firstfruits, then at his coming those who belong to Christ' (1CO.15.22-23). Mary, as the first and most perfect disciple, is the first to share fully in Christ's victory over death.",
+  "scripture_refs": [
+    {"ref": "REV.12.1", "relevance": "typological", "reason": "The woman clothed with the sun, crowned with stars — the glorified Mary in heaven"},
+    {"ref": "PSA.132.8", "relevance": "typological", "reason": "Arise, O Lord, to your resting place, you and the ark of your might — Mary as the Ark assumed into heaven"},
+    {"ref": "1CO.15.22-23", "relevance": "typological", "reason": "In Christ all shall be made alive, each in their own order — Mary as first among the redeemed"},
+    {"ref": "LUK.1.28", "relevance": "allusion", "reason": "Full of grace — the one so graced would not be subject to corruption"},
+    {"ref": "SOS.2.10", "relevance": "allusion", "reason": "Arise, my love, my beautiful one, and come away — the divine invitation to Mary's heavenly rest"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["glory", "wonder", "majesty", "triumph"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0003075",
+    "title": "The Ascension of Our Lady",
+    "artist": "Giovanni Battista Gaulli",
+    "model": "claude-opus-4-6"
+  }
+}

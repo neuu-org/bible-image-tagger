@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anthony",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Triptych with John the Baptist, Saint Sebastian, and Saint Anthony",
+  "tags": [
+    "john-the-baptist",
+    "saint-sebastian",
+    "saint-anthony",
+    "gold-background",
+    "three-panels",
+    "arrow-wounds",
+    "lamb-of-god",
+    "hermit-saint",
+    "arched-niches"
+  ],
+  "symbols": [
+    "John the Baptist with lamb — the Forerunner who proclaimed Behold the Lamb of God",
+    "Saint Sebastian pierced with arrows — martyrdom and faithful endurance under persecution",
+    "Saint Anthony the hermit with staff — ascetic withdrawal and spiritual warfare in the desert",
+    "gold background in each panel — divine glory and the heavenly realm the saints have entered",
+    "arched gilded niches — the sacred space of the altarpiece sheltering each saint"
+  ],
+  "description": "A triptych of three narrow vertical panels, each set within a gilded arched niche with a scalloped golden ceiling. In the left panel, John the Baptist stands in a fur garment and red cloak, holding a cross-staff with a small lamb. In the center panel, Saint Sebastian stands nearly nude, pierced by arrows, with a halo around his head. In the right panel, an elderly bearded figure in a dark purple-brown robe and hood holds a staff, representing Saint Anthony. All three panels have gold-leaf backgrounds. The panels appear to be displayed on a wall in a museum setting.",
+  "theological_description": "This triptych assembles three pillars of sanctity representing different modes of Christian witness. John the Baptist, the Forerunner, bridges Old and New Testaments — his cry 'Behold the Lamb of God who takes away the sin of the world' (JHN.1.29) inaugurates the Gospel era. Saint Sebastian, the Roman soldier martyred under Diocletian, embodies faithful witness unto death — 'Be faithful unto death, and I will give you the crown of life' (REV.2.10). Saint Anthony the Great, father of monasticism, represents the interior battle against demonic forces in the desert, following Christ's own temptation in the wilderness (MAT.4.1-11). Together they present the fullness of Christian vocation: prophetic proclamation (Baptist), martyrial witness (Sebastian), and contemplative warfare (Anthony).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John the Baptist's declaration — Behold the Lamb of God — represented by the lamb he holds"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "typological",
+      "reason": "Be faithful unto death — Sebastian's martyrdom by arrows as witness unto death"
+    },
+    {
+      "ref": "MAT.4.1-11",
+      "relevance": "typological",
+      "reason": "Christ's temptation in the wilderness, the model for Anthony's desert spiritual warfare"
+    },
+    {
+      "ref": "MAT.3.1-3",
+      "relevance": "primary",
+      "reason": "John the Baptist as the voice crying in the wilderness, preparing the way of the Lord"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "devotional",
+    "sacred"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0004695",
+    "title": "Trittico della Natività (detail)",
+    "artist": "Gentile Bellini",
+    "model": "claude-opus-4-6"
+  }
+}

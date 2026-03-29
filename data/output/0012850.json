@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "angel-messenger",
+    "virgin-mary",
+    "divine-calling",
+    "incarnation",
+    "holy-spirit",
+    "obedience",
+    "humility",
+    "kneeling",
+    "crucifix",
+    "arched-interior",
+    "raised-hand",
+    "dark-wings",
+    "diptych-panels"
+  ],
+  "symbols": [
+    "crucifix on the wall — foreshadowing of Christ’s Passion from the moment of Incarnation",
+    "kneeling posture of Mary — humility and receptive obedience to God’s will",
+    "Gabriel’s raised hand — divine greeting and heavenly authority",
+    "dark wings of Gabriel — angelic nature and otherworldly origin",
+    "arched architectural setting — sacred space, the temple of the new covenant",
+    "light from above — the overshadowing of the Holy Spirit"
+  ],
+  "description": "A two-panel composition set within arched architectural frames. On the left panel, a woman in white robes kneels at a prayer desk, her hands raised in surprise, with a crucifix on the wall behind her. On the right panel, a winged figure in rich garments gestures toward her with a raised hand, wearing dark wings and standing in a confident pose. Above, a faint luminous presence descends between the two panels. The setting evokes a grand interior with columns and vaulted arches.",
+  "theological_description": "The Annunciation is the pivotal moment in salvation history when the angel Gabriel appears to the Virgin Mary in Nazareth to announce that she will conceive and bear the Son of the Most High (Luke 1:26-38). Mary’s kneeling posture embodies her fiat—‘Let it be to me according to your word’—which reverses Eve’s disobedience and inaugurates the new creation. The crucifix visible behind Mary foreshadows the Passion: the Incarnation and the Cross are theologically inseparable, for the Word became flesh precisely to offer himself as the atoning sacrifice. Gabriel’s gesture conveys the authoritative commission of the Most High God, while the luminous descent between the panels represents the Holy Spirit’s overshadowing power (Luke 1:35). The architectural grandeur suggests the fulfillment of messianic prophecy, as Mary herself becomes the new Ark of the Covenant, the dwelling place of God among humanity. This moment fulfills Isaiah’s prophecy that a virgin shall conceive (Isaiah 7:14) and inaugurates the fullness of time spoken of by Paul (Galatians 4:4).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The direct biblical account of the angel Gabriel appearing to Mary to announce the conception of Jesus"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The prophecy that a virgin shall conceive and bear a son called Immanuel, fulfilled in the Annunciation"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "allusion",
+      "reason": "When the fullness of time had come, God sent forth his Son, born of a woman"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you and the power of the Most High will overshadow you"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverence",
+    "awe",
+    "solemnity",
+    "grace"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012850",
+    "title": "Annunciation",
+    "artist": "Maerten van Heemskerck",
+    "model": "claude-opus-4-6"
+  }
+}

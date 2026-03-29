@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Miraculous Draught of Fishes",
+  "tags": [
+    "miraculous-catch",
+    "fishing",
+    "peter",
+    "boat",
+    "sea-of-galilee",
+    "cartoon",
+    "tapestry"
+  ],
+  "symbols": [
+    "overflowing nets — superabundant divine provision",
+    "boats on the water — the Church on its mission",
+    "Christ commanding — divine authority over nature"
+  ],
+  "description": "Raphael's famous cartoon (full-scale preparatory drawing) for a Sistine Chapel tapestry showing the Miraculous Draught of Fishes. The composition shows Christ in a boat commanding the disciples who haul in an enormous catch. The scene is rendered with monumental figures and dramatic composition designed for large-scale reproduction.",
+  "theological_description": "The Miraculous Draught (LUK.5.1-11) combines divine provision with apostolic calling. After a fruitless night, Jesus commands: 'Put out into the deep and let down your nets' (LUK.5.4). The resulting catch overwhelms the boats. Peter falls at Jesus's knees: 'Depart from me, for I am a sinful man, O Lord' (LUK.5.8). Jesus responds: 'From now on you will be catching men' (LUK.5.10). The miracle establishes the apostolic mission: human effort empowered by divine command yields an abundance beyond calculation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.5.1-11",
+      "relevance": "primary",
+      "reason": "The miraculous catch and calling of the disciples"
+    },
+    {
+      "ref": "LUK.5.10",
+      "relevance": "primary",
+      "reason": "From now on you will be catching men"
+    },
+    {
+      "ref": "JHN.21.1-14",
+      "relevance": "typological",
+      "reason": "The post-Resurrection catch, echoing this scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "awe-inspiring",
+    "abundant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011678",
+    "title": "The Miraculous Draught of Fishes (cartoon for the Sistine Chapel)",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

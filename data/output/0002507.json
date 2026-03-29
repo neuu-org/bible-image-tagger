@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Crowd", "type": "GROUP"}
+  ],
+  "event": "Sermon on the Mount",
+  "tags": [
+    "sermon-on-the-mount",
+    "teaching",
+    "crowd",
+    "beatitudes",
+    "hillside",
+    "gathered-listeners",
+    "public-ministry",
+    "new-moses",
+    "kingdom-teaching",
+    "gospel-proclamation"
+  ],
+  "symbols": [
+    "central standing figure in white — Christ as teacher and new lawgiver",
+    "seated crowd around him — the receptive hearers of the Word",
+    "hillside with trees — the mountain of teaching, echoing Sinai",
+    "outstretched hands — the authority and invitation of divine teaching",
+    "bright blue sky — the clarity and openness of Gospel truth"
+  ],
+  "description": "A figure in white robes stands at center with arms raised in a teaching gesture on a hillside. Around him, a diverse group of people sits and stands in colorful garments — pinks, greens, blues — listening attentively. Trees frame the scene on either side, and mountains are visible in the blue distance. The style is expressionist with bold outlines, rounded forms, and vivid saturated colors. The composition radiates outward from the central teaching figure.",
+  "theological_description": "The Sermon on the Mount (Matthew 5-7) is the most comprehensive block of Jesus' ethical and spiritual teaching, beginning with the Beatitudes and encompassing the Lord's Prayer, the Golden Rule, and the call to radical discipleship. Matthew presents Jesus ascending a mountain to teach, deliberately paralleling Moses receiving the Law on Sinai — Jesus is the new Moses delivering a new Torah (MAT.5.1-2). The Beatitudes overturn worldly values: blessed are the poor in spirit, the meek, those who hunger for righteousness, the peacemakers (MAT.5.3-12). Jesus declares he came not to abolish the Law but to fulfill it (MAT.5.17), then proceeds to deepen every commandment: anger is murder of the heart, lust is adultery of the heart. The sermon climaxes with the parable of the wise and foolish builders (MAT.7.24-27) and the astonished response of the crowds, 'for he was teaching them as one who had authority' (MAT.7.29). This modernist rendering emphasizes the universal reach of Christ's teaching, with the diverse, colorful crowd representing all humanity called to hear.",
+  "scripture_refs": [
+    {"ref": "MAT.5.1-12", "relevance": "primary", "reason": "The Beatitudes opening the Sermon on the Mount"},
+    {"ref": "MAT.5.17-20", "relevance": "primary", "reason": "Jesus declaring he came to fulfill the Law, not abolish it"},
+    {"ref": "MAT.6.9-13", "relevance": "primary", "reason": "The Lord's Prayer, taught within the Sermon on the Mount"},
+    {"ref": "MAT.7.24-29", "relevance": "primary", "reason": "The parable of wise and foolish builders and the crowd's astonishment at his authority"},
+    {"ref": "DEU.18.15", "relevance": "typological", "reason": "The Lord will raise up a prophet like Moses — Jesus as the new Moses teaching from the mountain"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["teaching", "openness", "authority", "peace"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002507",
+    "title": "Sermon on the Mount",
+    "artist": "Kmetty J\u00e1nos",
+    "model": "claude-opus-4-6"
+  }
+}

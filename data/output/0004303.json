@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "joseph",
+    "peasant-family",
+    "expressionist",
+    "horse",
+    "vibrant-colors",
+    "infancy-narrative",
+    "nativity",
+    "donkey",
+    "crowded-composition"
+  ],
+  "symbols": [
+    "mother holding infant — the Incarnation, God made flesh through Mary",
+    "father figure kneeling — Joseph's protective role and humble acceptance of the divine plan",
+    "horse or donkey — the journey, possibly the Flight into Egypt or the journey to Bethlehem",
+    "dense crowd of figures and faces — the world into which Christ was born, humanity receiving its Savior",
+    "red and warm tones — the fire of divine love entering creation"
+  ],
+  "description": "A densely packed composition in warm reds, oranges, and earth tones. A woman in a pink-red garment holds a nude infant outward, while a bearded man in blue-green clothing kneels below with outstretched hands. A large horse head appears at right. Numerous small figures, faces, and organic forms crowd the background in a kaleidoscopic arrangement. The style is expressionist and fragmented, with intertwining human and animal forms creating an overwhelming sense of teeming life.",
+  "theological_description": "This expressionist rendering of the Holy Family strips away the polished devotional convention to reveal the raw reality of the Incarnation — God entering a world teeming with humanity in all its chaotic fullness. The peasant setting echoes the Lukan emphasis on Christ's birth among the lowly: 'She wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn' (LUK.2.7). Joseph's kneeling posture and outstretched hands express the mystery of a human father receiving the divine Son — the same wonder that filled him when the angel declared 'that which is conceived in her is from the Holy Spirit' (MAT.1.20). The crowded, overwhelming composition suggests the fullness of time (GAL.4.4) in which God chose to become incarnate, entering not a sanitized world but one bursting with the messy vitality of creation itself.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "The humble birth of Christ in a peasant setting, wrapped in cloths with no room at the inn"
+    },
+    {
+      "ref": "MAT.1.20",
+      "relevance": "primary",
+      "reason": "Joseph receiving the divine child, told by the angel not to fear"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "The fullness of time — God sending His Son, born of a woman, into the teeming world"
+    },
+    {
+      "ref": "PHI.2.7-8",
+      "relevance": "typological",
+      "reason": "Christ emptying himself, taking the form of a servant, born in human likeness among the poor"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "overwhelming",
+    "tender",
+    "chaotic",
+    "vital"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004303",
+    "title": "A Peasant Family (The Holy Family)",
+    "artist": "Pavel Filonov",
+    "model": "claude-opus-4-6"
+  }
+}

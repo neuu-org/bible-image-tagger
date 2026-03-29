@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Roman soldiers", "type": "GROUP"},
+    {"name": "Jewish judges", "type": "GROUP"},
+    {"name": "Pontius Pilate", "type": "PERSON"}
+  ],
+  "event": "Roman soldiers and Jewish judges at the trial of Christ",
+  "tags": [
+    "trial-of-christ",
+    "roman-soldiers",
+    "jewish-judges",
+    "triptych-wing",
+    "crucifixion-context",
+    "horseback",
+    "white-horse",
+    "lances",
+    "turbans",
+    "passion-narrative"
+  ],
+  "symbols": [
+    "armed soldiers on horseback — the military power of Rome enforcing the execution of Christ",
+    "judges in robes — the religious authorities who demanded Christ's death",
+    "white horse — the mount of authority, the governor or commander overseeing the proceedings",
+    "weapons and staffs — the instruments of earthly power arrayed against the powerless Messiah"
+  ],
+  "description": "The left wing of a triptych showing a group of men — Roman soldiers and Jewish officials — gathered together. In the center, a figure sits on a white horse, dressed in rich garments. Soldiers carry lances and staffs. Several bearded men in robes and turbans stand among the military figures. The group appears to be part of a larger procession or assembly related to the Crucifixion depicted in the central panel. The costumes blend medieval European and loosely Eastern elements. The composition is tightly packed with figures against a neutral background.",
+  "theological_description": "This panel depicting the coalition of Roman and Jewish authorities assembled for Christ's trial illustrates the convergence of earthly powers against the Anointed One. The Psalmist prophesied: 'The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed' (PSA.2.2), and Peter explicitly applies this to the Passion: 'both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel, were gathered together against your holy servant Jesus' (ACT.4.27). The mixing of Roman military power and Jewish religious authority demonstrates that the condemnation of Christ was not the act of one group but the collective rejection by both secular and sacred institutions. Yet this very conspiracy, intended to destroy God's purposes, became the means of their fulfillment — 'to do whatever your hand and your plan had predestined to take place' (ACT.4.28).",
+  "scripture_refs": [
+    {"ref": "PSA.2.1-2", "relevance": "primary", "reason": "The rulers taking counsel against the Lord and His Anointed — the coalition depicted here"},
+    {"ref": "ACT.4.27-28", "relevance": "primary", "reason": "Herod, Pilate, Gentiles, and Israel gathered against Jesus — the conspiracy that fulfilled God's plan"},
+    {"ref": "JHN.19.12-16", "relevance": "primary", "reason": "The collaboration between Pilate and the Jewish leaders in condemning Christ"},
+    {"ref": "MAT.27.1-2", "relevance": "primary", "reason": "The chief priests and elders taking counsel against Jesus and delivering Him to Pilate"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["ominous", "official", "severe"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006309",
+    "title": "Roman soldiers and Jewish judges (left wing from the Triptych of the Crucifixion)",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

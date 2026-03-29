@@ -1,0 +1,54 @@
+{
+  "characters": [
+    {
+      "name": "Figures in landscape",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Detail from The Virgin of the Chancellor Rolin",
+  "tags": [
+    "landscape-detail",
+    "bridge",
+    "garden",
+    "river",
+    "flowers",
+    "medieval-city"
+  ],
+  "symbols": [
+    "walled garden with flowers — the hortus conclusus, the enclosed garden symbolizing Mary's virginity",
+    "bridge spanning river — the passage between earthly and heavenly realms",
+    "distant cityscape — the city of God or the earthly Jerusalem"
+  ],
+  "description": "A detail from a larger painting showing a lush garden terrace with flowering plants in the foreground. Beyond a low wall, two small figures stand looking out over a wide river spanned by a stone bridge with multiple arches. A medieval town with buildings and a church stretches along the far riverbank. Boats float on the water, and the landscape recedes into a hazy blue distance. The detail is exquisitely rendered with minute precision.",
+  "theological_description": "This detail from Jan van Eyck's Virgin of the Chancellor Rolin reveals the theological symbolism embedded in the landscape background. The walled garden with its carefully tended flowers evokes the hortus conclusus of the Song of Songs (SOS.4.12): 'A garden locked is my sister, my bride, a garden locked, a fountain sealed.' This image became one of the primary Marian symbols in medieval theology, representing the perpetual virginity of Mary. The bridge connecting two sides of the river suggests the mediating role of Christ and his mother between the earthly city and the heavenly Jerusalem. The entire panorama, stretching from the intimate garden to the infinite horizon, reflects the Eyckian theology of creation as a mirror of divine beauty — every flower, stone, and ripple of water participating in and reflecting the glory of God (PSA.19.1).",
+  "scripture_refs": [
+    {
+      "ref": "SOS.4.12",
+      "relevance": "typological",
+      "reason": "The enclosed garden as a symbol of Mary's virginity, visually depicted in the walled garden"
+    },
+    {
+      "ref": "PSA.19.1",
+      "relevance": "allusion",
+      "reason": "The heavens declare the glory of God — creation as revelation, rendered in every meticulous detail"
+    },
+    {
+      "ref": "REV.21.2",
+      "relevance": "allusion",
+      "reason": "The holy city descending from heaven, echoed in the idealized cityscape beyond the river"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "serene",
+    "contemplative",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002472",
+    "title": "The Virgin of the Chancellor Rolin (detail)",
+    "artist": "Jan van Eyck",
+    "model": "claude-opus-4-6"
+  }
+}

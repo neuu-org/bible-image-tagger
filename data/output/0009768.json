@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Abraham Lincoln (as Good Samaritan)", "type": "PERSON"},
+    {"name": "Injured Man", "type": "PERSON"}
+  ],
+  "event": "Abe Lincoln as the Good Samaritan",
+  "tags": [
+    "good-samaritan",
+    "abraham-lincoln",
+    "parable",
+    "winter",
+    "helping",
+    "snow",
+    "folk-art",
+    "mercy",
+    "compassion"
+  ],
+  "symbols": [
+    "Lincoln helping the fallen man — the Good Samaritan parable applied to American history",
+    "winter setting with snow — the harshness of circumstances that makes mercy all the more urgent",
+    "isolated rural setting — the lonely road between Jerusalem and Jericho, transposed to America",
+    "Lincoln's tall figure leaning down — compassion stooping to lift up the fallen"
+  ],
+  "description": "A folk-art painting showing a tall man in a black suit and hat (Abraham Lincoln) bending down to help a smaller man who has fallen in the snow near an axe and wood. The setting is a wintry rural landscape with bare trees, gray sky, and simple wooden buildings in the background. The painting is rendered in a flat, naive style with muted earth tones, browns, and whites. The artist's signature 'H. Pippin 1943' is visible in the lower right.",
+  "theological_description": "Horace Pippin transposes Jesus's Parable of the Good Samaritan (LUK.10.25-37) into an American setting, casting Abraham Lincoln in the role of the compassionate stranger. In the parable, a man lies beaten on the road; a priest and a Levite pass by, but a Samaritan — despised by the Jewish establishment — stops to help. Jesus concludes: 'Go and do likewise' (LUK.10.37). By placing Lincoln as the Samaritan, Pippin connects the biblical ethic of mercy with the American struggle for justice and emancipation. The parable answers the question 'Who is my neighbor?' with the radical claim that neighborliness is defined not by ethnic or social proximity but by compassionate action. Lincoln's bending down to help echoes Christ's own descent: 'The Son of Man came not to be served but to serve' (MRK.10.45). The cold winter setting intensifies the urgency of mercy — to pass by is to leave someone to die.",
+  "scripture_refs": [
+    {"ref": "LUK.10.25-37", "relevance": "primary", "reason": "The Parable of the Good Samaritan, directly reinterpreted in this painting"},
+    {"ref": "LUK.10.37", "relevance": "primary", "reason": "Go and do likewise — the command that Lincoln embodies"},
+    {"ref": "MRK.10.45", "relevance": "typological", "reason": "The Son of Man came to serve, the pattern of compassion Lincoln follows"},
+    {"ref": "MAT.25.40", "relevance": "allusion", "reason": "Whatever you did for the least of these, you did for me"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["compassionate", "somber", "humble"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009768",
+    "title": "Abe Lincoln, The Good Samaritan",
+    "artist": "Horace Pippin",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Bathsheba", "type": "PERSON"}
+  ],
+  "event": "Bathsheba at Her Bath",
+  "tags": [
+    "bathsheba",
+    "bathing",
+    "nude-figure",
+    "old-testament",
+    "garden",
+    "palace-architecture",
+    "temptation",
+    "beauty"
+  ],
+  "symbols": [
+    "bathing woman — Bathsheba's ritual purification that was observed by King David from his rooftop",
+    "architectural columns and palace in background — proximity to the royal palace from which David gazed",
+    "garden setting — the enclosed private space of bathing, violated by the king's gaze"
+  ],
+  "description": "A nude female figure sits upon a rocky ledge or stone seat in a lush garden setting. Her body is turned three-quarters toward the viewer, with auburn hair and a contemplative expression. She rests one hand on a stone balustrade or column base at left. Behind her, classical architectural elements including columns and a tall building are partially obscured by dense foliage. A white cloth drapes beneath her. The palette is warm and hazy with golden-brown tones.",
+  "theological_description": "Bathsheba at her bath is the inciting moment of one of the Old Testament's most consequential moral failures. According to 2 Samuel 11:2-4, David, walking on his rooftop, saw a very beautiful woman bathing, inquired about her, and sent for her. Bathsheba's beauty becomes the occasion of David's adultery and the subsequent murder of her husband Uriah the Hittite. The narrative is not about Bathsheba's culpability but about the abuse of royal power — the king who should have been at war was instead at home, and he who should have been a shepherd of Israel became a wolf. Yet from this very union, after repentance and divine judgment, would come Solomon, and through Solomon's line, the Messiah himself (MAT.1.6). God's providence transforms even the darkest chapter of David's life into the lineage of redemption.",
+  "scripture_refs": [
+    {"ref": "2SA.11.2-4", "relevance": "primary", "reason": "David sees Bathsheba bathing from his rooftop and sends for her"},
+    {"ref": "2SA.11.1", "relevance": "primary", "reason": "It was the time when kings go out to battle, but David remained in Jerusalem"},
+    {"ref": "2SA.12.13-14", "relevance": "allusion", "reason": "Nathan's rebuke and David's repentance after the sin with Bathsheba"},
+    {"ref": "MAT.1.6", "relevance": "typological", "reason": "David was the father of Solomon by the wife of Uriah — Bathsheba in the Messianic genealogy"},
+    {"ref": "PSA.51.1-4", "relevance": "allusion", "reason": "David's penitential psalm written after the prophet Nathan confronted him"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sensual", "contemplative", "foreboding"],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0005241",
+    "title": "Bathsheba",
+    "artist": "Henri Fantin-Latour",
+    "model": "claude-opus-4-6"
+  }
+}

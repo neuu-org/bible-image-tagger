@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Deposition from the Cross — Lamentation over the dead Christ",
+  "tags": [
+    "deposition",
+    "lamentation",
+    "dead-christ",
+    "pieta",
+    "passion",
+    "golgotha",
+    "three-crosses",
+    "mourning",
+    "burial-preparation",
+    "holy-women"
+  ],
+  "symbols": [
+    "dead body of Christ — the sacrificial Lamb slain for the world's redemption",
+    "three crosses in the background — Golgotha, the place of crucifixion, with the two thieves' crosses",
+    "weeping women with halos — the faithful witnesses at the death of Christ",
+    "white burial cloth — the shroud in which Christ will be laid, prefiguring the empty grave clothes"
+  ],
+  "description": "In the foreground, the dead body of Christ lies on a white cloth, his torso bare and wounds visible. Three women surround him: one in red to the left (John or Mary Magdalene) holds his upper body, the Virgin Mary in a dark blue veil clasps her hands in anguish at center, and another woman in white at the right grieves. All three have golden halos. In the background, three crosses stand on a hill with soldiers and figures descending from Golgotha. The landscape shows distant hills and sky. The palette is somber with the white burial cloth contrasting against the dark tones.",
+  "theological_description": "The Deposition and Lamentation present the moment of stillness between Crucifixion and Entombment, when the full cost of redemption is laid bare for contemplation. Christ's lifeless body, taken down from the cross, is received by those who loved him most. The Virgin Mary's grief fulfills Simeon's prophecy that a sword would pierce her soul (Luke 2:35). The three crosses visible on the hill behind recall the two criminals crucified alongside Jesus — one of whom received the promise 'Today you will be with me in paradise' (Luke 23:43), demonstrating that even at the moment of death, Christ's atoning power is active. The white burial cloth prefigures the empty grave clothes that Peter and John will find in the tomb on Easter morning (John 20:5-7), hinting that this death is not final. The scene invites the viewer to contemplate Isaiah's words: 'Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted' (Isa 53:4).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "The removal of Christ's body from the cross and preparation for burial"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy of the sword piercing Mary's soul, fulfilled in her grief"
+    },
+    {
+      "ref": "ISA.53.4-5",
+      "relevance": "typological",
+      "reason": "He has borne our griefs — the Suffering Servant's wounds visible on the dead Christ"
+    },
+    {
+      "ref": "LUK.23.43",
+      "relevance": "allusion",
+      "reason": "Today you will be with me in paradise — spoken from one of the crosses visible behind"
+    },
+    {
+      "ref": "JHN.20.5-7",
+      "relevance": "typological",
+      "reason": "The burial cloths prefiguring the empty tomb, the white shroud pointing toward resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief-stricken",
+    "solemn",
+    "tender",
+    "sorrowful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008707",
+    "title": "Cristo deposto da cruz",
+    "artist": "Cristovao de Figueiredo",
+    "model": "claude-opus-4-6"
+  }
+}

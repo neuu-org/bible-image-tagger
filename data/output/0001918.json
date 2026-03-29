@@ -1,0 +1,36 @@
+{
+  "characters": [
+    {"name": "Saint Ursula", "type": "PERSON"},
+    {"name": "Companions of Ursula", "type": "GROUP"}
+  ],
+  "event": "Saint Ursula and her companions landing at Cologne",
+  "tags": [
+    "saint-ursula",
+    "companions",
+    "cologne",
+    "ship",
+    "landing",
+    "medieval-city",
+    "cathedral",
+    "pilgrimage",
+    "reliquary",
+    "hagiography"
+  ],
+  "symbols": [
+    "Ship arriving at port — the pilgrimage of faith, the Church journeying through the world",
+    "Medieval Cologne with cathedral — the destination of the pilgrim virgins",
+    "Group of well-dressed women — the eleven thousand virgin companions of Ursula"
+  ],
+  "description": "A group of elegantly dressed women disembarks from a ship at a harbor, greeted by men on the quay. The ship's mast and rigging are visible on the left. Behind the figures, an elaborate medieval cityscape rises with towers, a city gate, and a massive Gothic cathedral under construction. The women wear rich garments in reds, blues, and whites. Workers handle cargo on the ship. The scene is set within an arched frame and rendered with meticulous detail in the Flemish manner.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "narrative",
+  "mood": ["stately", "ceremonial", "peaceful"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001918",
+    "title": "St. Ursula and her companions landing at Cologne, from the Reliquary of St. Ursula",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Crucifixion of Saint Peter",
+  "tags": [
+    "crucifixion-of-peter",
+    "inverted-cross",
+    "martyrdom",
+    "apostle-peter",
+    "executioners",
+    "upside-down",
+    "passion",
+    "self-sacrifice"
+  ],
+  "symbols": [
+    "inverted cross — Peter's request to be crucified upside down, deeming himself unworthy to die as Christ did",
+    "Peter's muscular aged body — the physical reality of apostolic suffering",
+    "executioners straining to raise the cross — the world's opposition to the Gospel",
+    "nails in Peter's feet — the literal cost of discipleship"
+  ],
+  "description": "Three laborers strain to raise a large wooden cross on which an elderly, white-haired man is nailed upside down. Peter's bare torso twists as he looks upward (toward the ground), his expression one of determined endurance. One executioner in yellow pushes from below, another in brown pulls ropes from above, and a third assists at the base. The scene is starkly lit against a very dark background, with dramatic contrasts highlighting the physical effort and Peter's vulnerable body. A blue garment lies crumpled at the lower right.",
+  "theological_description": "According to ancient tradition recorded by Eusebius and Origen, Peter requested to be crucified head downward, declaring himself unworthy to die in the same manner as his Lord. This scene fulfills Christ's own prophecy to Peter: 'When you are old, you will stretch out your hands, and another will dress you and carry you where you do not want to go' (JHN.21.18). Peter, who once denied Christ three times (JHN.18.15-27), now gives the ultimate testimony of faith. His inverted crucifixion became the supreme symbol of apostolic humility — the rock upon whom Christ built his Church (MAT.16.18) choosing the lowest posture of death. The physical brutality emphasizes that the cost of following Christ is not metaphorical: 'If anyone would come after me, let him deny himself and take up his cross and follow me' (MRK.8.34). Peter's martyrdom in Rome under Nero sealed the apostolic witness with blood.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.21.18-19",
+      "relevance": "primary",
+      "reason": "Christ's prophecy of Peter's death: stretching out his hands and being carried where he does not wish"
+    },
+    {
+      "ref": "MAT.16.18",
+      "relevance": "typological",
+      "reason": "Upon this rock I will build my Church — the rock's martyrdom seals his confession"
+    },
+    {
+      "ref": "MRK.8.34",
+      "relevance": "allusion",
+      "reason": "Take up your cross and follow me — Peter literally fulfilling Christ's call"
+    },
+    {
+      "ref": "JHN.18.15-27",
+      "relevance": "typological",
+      "reason": "Peter's earlier denial now redeemed by the ultimate confession of martyrdom"
+    },
+    {
+      "ref": "2PE.1.14",
+      "relevance": "primary",
+      "reason": "Peter's knowledge that the putting off of his body was soon, as Christ showed him"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "brutal",
+    "heroic",
+    "solemn",
+    "anguished"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0003747",
+    "title": "Crucifixion of Saint Peter",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

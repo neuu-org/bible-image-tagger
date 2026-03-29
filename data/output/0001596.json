@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Francis of Assisi",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Virgin of the Milk enthroned between Saint Peter and Saint Francis",
+  "tags": [
+    "nursing-madonna",
+    "virgin-and-child",
+    "enthroned",
+    "saint-peter",
+    "saint-francis",
+    "gold-background",
+    "halo",
+    "incarnation"
+  ],
+  "symbols": [
+    "Nursing infant — the full humanity of the Incarnation, God nourished by a human mother",
+    "Gold background — the eternal heavenly realm",
+    "Peter with book — the apostolic foundation of the Church, keeper of the keys",
+    "Francis in brown habit with book — poverty and devotion to Christ crucified",
+    "Elaborate halo and throne — Mary as Queen of Heaven, Sedes Sapientiae"
+  ],
+  "description": "The Virgin Mary sits enthroned on a red and gold cloth against a gold background, wearing a deep blue mantle over a red gown, with an ornate punched-gold halo. She holds the infant Jesus who nurses at her breast. To the left, a bearded man with a halo in yellow and green robes holds a red book — Saint Peter. To the right, a smaller tonsured figure in a dark Franciscan habit holds a red book — Saint Francis. The panel has an arched top and the gold background is decorated with incised patterns.",
+  "theological_description": "This altarpiece presents the Virgin and Child in the tradition of the Maria Lactans (Nursing Madonna), flanked by Saint Peter and Saint Francis in a Sacra Conversazione. The nursing motif affirms the full reality of the Incarnation — the eternal Word truly took human flesh and was nourished by a human mother (GAL.4.4). Peter's presence on the left represents the apostolic foundation: 'You are Peter, and on this rock I will build my church' (MAT.16.18). Francis, though not a biblical figure, embodies the radical imitation of Christ in poverty, bearing the stigmata in his body. The gold background is the visual language of eternity — these figures exist outside temporal space, in the communion of saints before the throne of God. The composition declares that the Incarnation is the center around which all Christian witness — apostolic and monastic — revolves.",
+  "scripture_refs": [
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent His Son, born of a woman — the Incarnation embodied in the nursing Madonna"
+    },
+    {
+      "ref": "MAT.16.18",
+      "relevance": "primary",
+      "reason": "You are Peter, on this rock I will build my church — Peter's presence as apostolic foundation"
+    },
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "The Annunciation promise that Mary would bear the Son of the Most High"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us — the theological heart of the nursing Madonna image"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the prophetic foundation of the Madonna and Child"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "sacred",
+    "majestic",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001596",
+    "title": "Virgem Do Leite Entre Sao Pedro E Sao Francisco",
+    "artist": "Alvaro Pires de Evora",
+    "model": "claude-opus-4-6"
+  }
+}

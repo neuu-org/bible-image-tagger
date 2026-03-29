@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "John the Apostle", "type": "PERSON"},
+    {"name": "Cherubs", "type": "ANGEL"}
+  ],
+  "event": "Pieta",
+  "tags": [
+    "pieta",
+    "dead-christ",
+    "virgin-mary",
+    "john-apostle",
+    "mourning",
+    "passion",
+    "lamentation",
+    "cherubs",
+    "mater-dolorosa"
+  ],
+  "symbols": [
+    "dead Christ across Mary's lap — the sacrificial Lamb returned to his mother, the altar of the Church",
+    "Mary's anguished expression — the sword piercing her soul as Simeon prophesied",
+    "John standing behind — the beloved disciple entrusted with Mary's care",
+    "cherubs grieving at Christ's feet — even the angels mourn the death of their Creator",
+    "wound in Christ's side — the piercing from which blood and water flowed"
+  ],
+  "description": "A dramatic Pieta composition showing the dead body of Christ lying across the lap of the Virgin Mary, who sits centrally wearing a red dress with a dark green mantle, her head tilted back and face contorted in grief. Behind her, a young figure (John) in a brown cloak looks down with sorrow. Two small cherubs or putti are positioned at Christ's head and feet, one reaching toward the body. Christ's muscular body is pale and limp, with the wound in his side visible. The background is dark, focusing all attention on the tightly grouped figures.",
+  "theological_description": "The Pieta — Mary holding the dead Christ — compresses the entire arc of the Incarnation into a single image: the mother who received the Word made flesh at the Annunciation now receives his broken body from the cross. This fulfills Simeon's prophecy to Mary at the Presentation: 'A sword will pierce through your own soul also' (LUK.2.35). The scene draws from John 19:38-42, the interval between crucifixion and entombment, though the Pieta itself is a devotional synthesis rather than a single Gospel moment. Mary as the Seat of Wisdom now becomes the seat of sorrow — she who held the infant Christ now cradles his corpse. The Church Fathers saw in this an image of the Church mourning yet trusting, holding the body of Christ in the Eucharist until his return. Paul's theology undergirds the scene: 'He was delivered over to death for our sins and was raised to life for our justification' (ROM.4.25). The Pieta pauses between death and resurrection, inviting meditation on the cost of salvation.",
+  "scripture_refs": [
+    {"ref": "LUK.2.35", "relevance": "primary", "reason": "A sword will pierce your soul — fulfilled in Mary's grief holding the dead Christ"},
+    {"ref": "JHN.19.38-42", "relevance": "primary", "reason": "The taking down and burial preparation, the narrative context of the Pieta"},
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "John present at the cross, now standing behind Mary in grief"},
+    {"ref": "ROM.4.25", "relevance": "typological", "reason": "Delivered for our sins and raised for justification — the death the Pieta contemplates"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "Wounded for our transgressions, the wounds visible on Christ's body"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief-stricken", "solemn", "tender", "dark"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009771",
+    "title": "Pieta",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

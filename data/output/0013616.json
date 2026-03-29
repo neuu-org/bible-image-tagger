@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Rest on the Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "rest",
+    "holy-family",
+    "angel-musician",
+    "virgin-mary",
+    "christ-child",
+    "saint-joseph",
+    "sheet-music",
+    "sleeping-mother-and-child",
+    "outdoor-scene",
+    "foliage"
+  ],
+  "symbols": [
+    "angel playing music — heavenly comfort and consolation during the exile",
+    "sleeping Mary and Child — divine peace and protection amid persecution",
+    "Joseph with sheet music — the faithful guardian sharing in the angelic ministry",
+    "wilderness setting — the exile away from home, the way of suffering"
+  ],
+  "description": "An outdoor scene showing three figures and an angel at rest. On the left, an elderly bearded man (Joseph) sits holding a piece of paper or sheet music. In the center, a young winged figure (angel) with dark wings stands playing a stringed instrument. On the right, a woman (Mary) sits sleeping with an infant cradled in her arms, her head tilted to the side in slumber. Dense foliage and a landscape fill the background. The scene is warmly lit and intimate.",
+  "theological_description": "The Rest on the Flight into Egypt depicts a moment during the Holy Family’s exile after the angel warned Joseph in a dream to flee from Herod’s murderous intent (Matthew 2:13-15). This episode fulfills Hosea 11:1: ‘Out of Egypt I called my son.’ The angel’s musical ministry represents the divine consolation given to those who suffer persecution for righteousness. Joseph’s attentive listening embodies his characteristic posture of receptive obedience to heavenly messengers. Mary’s peaceful sleep with the child suggests the psalm’s assurance: ‘He who keeps Israel will neither slumber nor sleep’ (Psalm 121:4)—while the human family rests, God watches over them. The scene reveals that even in exile, the presence of God transforms hardship into sacred rest. The flight into Egypt also recapitulates Israel’s journey, establishing Jesus as the new Israel who passes through Egypt and returns to the Promised Land.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The angel’s warning to Joseph and the flight of the Holy Family to Egypt"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son, fulfilled in Jesus’ return from exile"
+    },
+    {
+      "ref": "PSA.121.4",
+      "relevance": "allusion",
+      "reason": "The keeper of Israel neither slumbers nor sleeps, protecting the sleeping Holy Family"
+    },
+    {
+      "ref": "PSA.91.11",
+      "relevance": "allusion",
+      "reason": "He will command his angels concerning you to guard you in all your ways"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "peaceful",
+    "tender",
+    "contemplative",
+    "restful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013616",
+    "title": "Rest on the Flight into Egypt",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

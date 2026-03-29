@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Church Fathers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint Jerome as Doctor of the Church",
+  "tags": [
+    "saint-jerome",
+    "doctor-of-church",
+    "cardinal",
+    "church-father",
+    "scripture-scholar",
+    "books",
+    "chapel-decoration"
+  ],
+  "symbols": [
+    "open book in hand — Jerome's translation of Scripture into Latin (the Vulgate)",
+    "cardinal's hat — traditional (anachronistic) attribution of the cardinalate to Jerome",
+    "long white beard — wisdom and advanced age of the scholar-hermit",
+    "second book under arm — the breadth of Jerome's literary and exegetical output",
+    "flanking saints with halos — the communion of saints and Doctors of the Church"
+  ],
+  "description": "A ceiling fresco in a chapel pendentive shows an elderly bearded man wearing a wide-brimmed cardinal's hat and long robes. He holds an open green book in his raised right hand and tucks a second book under his left arm. His long white beard flows down his chest. The figure is framed within an ornate architectural niche with gilded decorations and grotesque motifs. Flanking him in adjacent pendentives are two other haloed saints, one holding a book. The surfaces are richly decorated with gold leaf and painted ornament.",
+  "theological_description": "Saint Jerome (c. 347-420) is venerated as a Doctor of the Church and the translator of the Vulgate, the Latin Bible that shaped Western Christianity for over a millennium. Though a post-biblical figure, Jerome's life was devoted entirely to Scripture. He famously wrote, 'Ignorance of Scripture is ignorance of Christ,' echoing the conviction that the written Word mediates the living Word. His depiction with books represents his monumental scholarly output — commentaries on nearly every book of the Bible. The cardinal's hat, though anachronistic, signals the Church's recognition of his supreme authority in biblical interpretation. Jerome's hermitic life in Bethlehem, where he labored over Hebrew, Greek, and Latin texts, embodies 2 Timothy 2:15: 'Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.'",
+  "scripture_refs": [
+    {
+      "ref": "2TI.2.15",
+      "relevance": "allusion",
+      "reason": "Rightly handling the word of truth — Jerome's life mission of accurate Scripture translation"
+    },
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "Your word is a lamp to my feet — the books Jerome holds represent the illuminating power of Scripture"
+    },
+    {
+      "ref": "ROM.15.4",
+      "relevance": "allusion",
+      "reason": "Whatever was written was written for our instruction — the theological basis for Jerome's translation work"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "scholarly",
+    "dignified",
+    "reverent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003181",
+    "title": "A Cardinal Doctor of the Church (possibly Saint Jerome). Detail from the Ceiling of the Altar Chapel in the Cappella Di Sant'aquilino in the Basilica Di San Lorenzo Maggiore in Milan",
+    "artist": "Carlo Urbino",
+    "model": "claude-opus-4-6"
+  }
+}

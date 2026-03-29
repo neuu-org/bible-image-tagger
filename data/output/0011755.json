@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "The Damned",
+      "type": "GROUP"
+    },
+    {
+      "name": "The Blessed",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Demons",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Last Judgment",
+  "tags": [
+    "last-judgment",
+    "damned",
+    "blessed",
+    "heaven",
+    "hell",
+    "angels",
+    "demons",
+    "cathedral",
+    "eschatology",
+    "chapel",
+    "gothic-window"
+  ],
+  "symbols": [
+    "division of left and right — the separation of the righteous and the wicked at judgment",
+    "angels carrying souls upward — the blessed taken to paradise",
+    "demons dragging figures downward — the damned consigned to hell",
+    "central gothic window — the architectural eye of divine vision and judgment",
+    "gold background — the glory of the heavenly court"
+  ],
+  "description": "A large chapel interior showing extensive frescoes covering the walls and ceiling around a tall gothic pointed window. The left wall depicts figures being received into paradise by angels, while the right wall shows tormented figures being dragged down by demonic creatures. Above the window, angels and celestial figures appear against a gold background. The frescoes fill every available surface, creating an immersive scene of cosmic judgment. Below the frescoes, a dark marble altar area is visible.",
+  "theological_description": "Signorelli's monumental Last Judgment frescoes in the Chapel of San Brizio at Orvieto Cathedral depict the final events of human history as prophesied in Scripture. The separation of the blessed and the damned illustrates Christ's parable of the sheep and the goats: 'He will place the sheep on his right and the goats on the left' (Matt 25:33). The right panel showing the damned consigned to hell reflects the warnings in Revelation: 'If anyone's name was not found written in the book of life, he was thrown into the lake of fire' (Rev 20:15). The left panel showing the blessed taken to paradise fulfills the promise 'Come, you who are blessed by my Father, inherit the kingdom prepared for you' (Matt 25:34). The angels serve as agents of divine justice, as in the parable of the wheat and tares where 'the reapers are angels' (Matt 13:39). The all-encompassing nature of the frescoes — covering every surface — conveys the totality of divine judgment from which nothing is hidden. Paul wrote 'we must all appear before the judgment seat of Christ' (2 Cor 5:10).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.31-46",
+      "relevance": "primary",
+      "reason": "The Son of Man separating sheep from goats, blessed from cursed"
+    },
+    {
+      "ref": "REV.20.11-15",
+      "relevance": "primary",
+      "reason": "The great white throne judgment — the dead judged according to their works"
+    },
+    {
+      "ref": "MAT.13.39-43",
+      "relevance": "allusion",
+      "reason": "Angels as reapers at the end of the age separating righteous from evil"
+    },
+    {
+      "ref": "2CO.5.10",
+      "relevance": "allusion",
+      "reason": "We must all appear before the judgment seat of Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "apocalyptic",
+    "awe-inspiring",
+    "terrifying",
+    "majestic"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0011755",
+    "title": "The Last Judgment (The right part of the composition - The Damned Consigned to Hell; the left part of the composition - The Blessed Taken into Paradise)",
+    "artist": "Luca Signorelli",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin and Child with Saint John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "young-baptist",
+    "goldfinch",
+    "incarnation",
+    "playful-infants",
+    "landscape-background",
+    "theotokos"
+  ],
+  "symbols": [
+    "goldfinch — a symbol of Christ's future Passion (legend says it got its red spot from thorns at Calvary)",
+    "young Baptist kneeling — the forerunner acknowledging the Messiah even in infancy",
+    "Mary's protective gaze — the Theotokos watching over both children",
+    "open landscape with church spire — the world the Gospel will transform"
+  ],
+  "description": "The Virgin Mary sits outdoors on grass, wearing a red dress under a dark blue-green mantle. She looks down at two nude infant boys at her feet. The infant Jesus, standing at the left, holds a small bird (goldfinch) while reaching toward his mother. The young John the Baptist kneels at the right, looking up at the Christ Child with clasped hands. A wide landscape with mountains, trees, and a distant church spire stretches behind them under a partly cloudy sky. The composition is within an arched format.",
+  "theological_description": "Raphael's composition unites the three central figures of the Incarnation's early narrative. The infant Christ holding the goldfinch — a bird traditionally associated with his future Passion — foreshadows the sacrifice that will redeem the world. The young Baptist's kneeling posture prefigures his adult declaration: 'Behold, the Lamb of God' (JHN.1.29). Mary's gentle, watchful presence embodies her role as protector and contemplator of the divine mysteries (LUK.2.19). The outdoor setting affirms that the Incarnation sanctifies the natural world — God enters creation not to escape it but to transform it. The intimate playfulness of the two children emphasizes the full humanity of Christ: the God who will bear the sins of the world first plays as a child in the grass, truly 'born of a woman, born under the law' (GAL.4.4).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The Baptist's future declaration of the Lamb, prefigured in his kneeling before the infant Christ"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasuring things in her heart — her contemplative gaze over the children"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "Born of a woman — the genuine childhood humanity of the incarnate Son"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "typological",
+      "reason": "The unborn Baptist leaping at the presence of Christ — their childhood encounter continues this pattern"
+    },
+    {
+      "ref": "ISA.11.6-8",
+      "relevance": "allusion",
+      "reason": "The peaceable kingdom where a child leads — the infant Christ amid nature and creatures"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "idyllic",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004063",
+    "title": "The Virgin and Child with Saint John the Baptist",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Apostle Matthew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Icon of Apostles Peter and Matthew",
+  "tags": [
+    "icon",
+    "apostle-peter",
+    "apostle-matthew",
+    "halos",
+    "christ-child",
+    "arched-panel",
+    "orthodox-icon",
+    "ukrainian-baroque",
+    "bearded-figures",
+    "apostolic"
+  ],
+  "symbols": [
+    "golden halos — sanctity and divine light surrounding the apostles",
+    "Christ Child between the apostles — Christ as the center of the apostolic mission",
+    "books held by the apostles — the Gospels and epistles, the written testimony of the apostolic witness",
+    "arched format — the door or window into the heavenly realm"
+  ],
+  "description": "An icon on a wooden panel with an arched top, depicting two standing bearded male figures with golden halos. The figure on the left wears a red and orange robe and holds a book, with a small Christ Child figure between them. The figure on the right wears a striped red and brown garment and also holds a book. Both figures have solemn expressions and frontal or three-quarter poses. The panel is aged with visible wear, paint loss, and darkening. The style combines Byzantine tradition with Baroque influences.",
+  "theological_description": "This icon presents the Apostles Peter and Matthew as pillars of the Church and witnesses to Christ. Peter, to whom Christ said 'You are Peter, and on this rock I will build my church' (Matt 16:18), holds the keys of authority. Matthew, the tax collector called to discipleship (Matt 9:9), became the author of the Gospel bearing his name. The Christ Child positioned between them signifies that Christ is the foundation and center of all apostolic authority — they serve not themselves but the Lord who commissioned them. The books they hold represent the apostolic deposit of faith preserved in Scripture and transmitted through the Church. Paul speaks of the apostles as the 'foundation' upon which the Church is built, 'with Christ Jesus himself as the cornerstone' (Eph 2:20). The icon's frontal presentation invites the viewer into direct encounter with these witnesses, as if they still speak: 'That which we have seen and heard we proclaim also to you' (1 John 1:3).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "primary",
+      "reason": "Peter as the rock upon which Christ builds his Church, the foundation of Petrine authority"
+    },
+    {
+      "ref": "MAT.9.9",
+      "relevance": "primary",
+      "reason": "The calling of Matthew the tax collector to apostleship"
+    },
+    {
+      "ref": "EPH.2.20",
+      "relevance": "typological",
+      "reason": "Built on the foundation of the apostles and prophets, with Christ as cornerstone"
+    },
+    {
+      "ref": "1JN.1.1-3",
+      "relevance": "allusion",
+      "reason": "That which we have seen and heard we proclaim — the apostolic witness the icon makes present"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "sacred",
+    "hieratic"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0008628",
+    "title": "Icon of Apostles Peter and Matthew",
+    "artist": "Yov Kondzelevych",
+    "model": "claude-opus-4-6"
+  }
+}

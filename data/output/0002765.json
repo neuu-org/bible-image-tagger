@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Saint Augustine",
+      "type": "PERSON"
+    },
+    {
+      "name": "Cherubim",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Saint Augustine as Doctor of the Church",
+  "tags": [
+    "saint-augustine",
+    "doctor-of-the-church",
+    "bishop",
+    "mitre",
+    "crozier",
+    "book",
+    "church-father",
+    "theologian",
+    "ornate-frame"
+  ],
+  "symbols": [
+    "bishop's mitre — Augustine's episcopal authority as Bishop of Hippo",
+    "crozier staff — the shepherd's staff of pastoral leadership",
+    "book — Augustine's prolific theological writings, including the Confessions and City of God",
+    "elaborate decorative frame — the grandeur of the Church's reverence for this Doctor",
+    "cherubim below — heavenly witnesses to Augustine's sanctity"
+  ],
+  "description": "A ceiling fresco within an ornate octagonal frame decorated with golden grotesques, angels, and architectural ornament. The central figure is a bearded man in full bishop's vestments — white robes, green cope, and a pointed mitre — holding a book in one hand and a tall crozier staff in the other. He stands on a stepped platform. The background is gray-blue. Below the main frame, cherubim heads appear among decorative elements. Small circular portraits of other figures appear in the corners.",
+  "theological_description": "Saint Augustine of Hippo (354-430) is arguably the most influential theologian in Western Christianity. His Confessions pioneered the genre of spiritual autobiography, while The City of God provided the framework for understanding the relationship between the earthly city and the heavenly city that shaped Western political theology for a millennium. Augustine's theology of grace, original sin, predestination, and the Trinity became foundational for both Catholic and Protestant traditions. His pastoral leadership as Bishop of Hippo in North Africa during the collapse of the Roman Empire demonstrated the Church's enduring presence amid worldly dissolution. The ceiling placement of this fresco in a basilica chapel indicates Augustine's exalted status as one of the four original Doctors of the Latin Church.",
+  "scripture_refs": [
+    {
+      "ref": "ROM.13.13-14",
+      "relevance": "allusion",
+      "reason": "The passage that triggered Augustine's conversion: put on the Lord Jesus Christ"
+    },
+    {
+      "ref": "PSA.42.1",
+      "relevance": "allusion",
+      "reason": "As a deer pants for flowing streams — Augustine's restless heart seeking God"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "allusion",
+      "reason": "In the beginning was the Word — the Johannine theology central to Augustine's Trinitarian thought"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "grandeur",
+    "authority",
+    "reverence"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0002765",
+    "title": "Saint Augustinus as a Doctor of the Church. Detail from the Ceiling of the Altar Chapel in the Cappella Di Sant'aquilino in the Basilica Di San Lorenzo Maggiore in Milan",
+    "artist": "Carlo Urbino",
+    "model": "claude-opus-4-6"
+  }
+}

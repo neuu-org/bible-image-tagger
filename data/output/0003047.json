@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "John the Apostle", "type": "PERSON"},
+    {"name": "Holy Women", "type": "GROUP"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Lamentation over the Dead Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "pieta",
+    "passion",
+    "mourning",
+    "wound-in-side",
+    "burial-preparation",
+    "grief",
+    "magdalene",
+    "angel-mourning"
+  ],
+  "symbols": [
+    "wound in Christ's side — the lance wound from which blood and water flowed",
+    "Virgin Mary supporting Christ — Mater Dolorosa, the sorrowing mother",
+    "Mary Magdalene at Christ's feet — her devotion continuing from life through death",
+    "winged child (angel or putto) — heavenly grief at the death of the Creator",
+    "white linen cloth — the burial shroud in which Christ will be wrapped",
+    "red robes on mourners — the blood of the Passion shared by the faithful"
+  ],
+  "description": "The dead Christ is shown seated or supported in a semi-upright position, his bare torso displaying the wound in his side. Behind him, three figures support and mourn: a woman in a dark veil (Mary), a young man with golden hair (John), and another figure in red. Below at the right, a woman with long golden hair (Magdalene) kneels, gently holding Christ's leg. At the lower left, a winged cherub or angel sits with a sorrowful expression. A white cloth is draped on a ledge at the left. The background is dark, concentrating attention on the closely grouped figures.",
+  "theological_description": "The Lamentation is the moment of stillness between the Crucifixion and the Entombment, when the faithful gather around the body of their Lord in grief. This particular composition, with Christ displayed frontally and the mourners arranged symmetrically, functions almost as a devotional icon — inviting the viewer to contemplate the cost of redemption. The wound in Christ's side recalls John's testimony: 'One of the soldiers pierced his side with a spear, and at once there came out blood and water' (JHN.19.34), which the Fathers interpreted as the sacraments of Eucharist and Baptism flowing from the side of the new Adam. Mary Magdalene at Christ's feet echoes her position throughout the Gospel — the woman who anointed his feet (LUK.7.38), who sat at his feet to listen (LUK.10.39), and who will be the first to see his feet risen (JHN.20.11-18). The angel's mourning expresses the cosmic dimension of Christ's death: even the heavenly hosts grieve.",
+  "scripture_refs": [
+    {"ref": "JHN.19.33-35", "relevance": "primary", "reason": "The piercing of Christ's side, from which blood and water flowed"},
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "Mary and John at the cross, now gathered for the Lamentation"},
+    {"ref": "LUK.23.55-56", "relevance": "primary", "reason": "The women observing and preparing to anoint the body for burial"},
+    {"ref": "ISA.53.3-5", "relevance": "typological", "reason": "The man of sorrows, wounded for our transgressions — the visible wounds on the dead Christ"},
+    {"ref": "LUK.2.35", "relevance": "allusion", "reason": "The sword through Mary's soul, fulfilled in her grief at the Lamentation"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "tenderness", "solemnity", "sorrow"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003047",
+    "title": "Lamentation over the Dead Christ",
+    "artist": "Bernardino Luini",
+    "model": "claude-opus-4-6"
+  }
+}

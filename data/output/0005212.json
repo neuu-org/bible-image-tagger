@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "Moses", "type": "PERSON"},
+    {"name": "Aaron", "type": "PERSON"},
+    {"name": "Pharaoh", "type": "PERSON"},
+    {"name": "Egyptian Court", "type": "GROUP"}
+  ],
+  "event": "Moses and Aaron Before Pharaoh with the Serpent",
+  "tags": [
+    "moses",
+    "aaron",
+    "pharaoh",
+    "serpent",
+    "rod-turned-serpent",
+    "egyptian-palace",
+    "hieroglyphics",
+    "columns",
+    "plague-sign",
+    "confrontation",
+    "exodus",
+    "divine-commission"
+  ],
+  "symbols": [
+    "serpent on the floor — Aaron's rod cast down and transformed, demonstrating God's power over Egypt's gods",
+    "massive Egyptian columns with carved figures — the might and grandeur of Pharaoh's kingdom challenged by God",
+    "hieroglyphic walls — the pagan religious system that God's signs will overcome",
+    "two robed figures standing together — Moses and Aaron united in their divine commission",
+    "Pharaoh enthroned above — the earthly power that will be humbled by the God of Israel"
+  ],
+  "description": "A monochrome engraving depicting two bearded men in flowing robes standing in an immense Egyptian palace hall. They face away from the viewer, looking toward a raised throne area where Pharaoh and his court are seated between massive columns carved with Egyptian figures and hieroglyphics. On the floor between the two men, a serpent crawls. The architecture is rendered in extraordinary detail, with towering pillars adorned with carved faces, hieroglyphic panels covering the walls, and sphinx-like figures flanking the throne. The scale of the palace dwarfs the human figures.",
+  "theological_description": "This scene depicts Exodus 7:10, when Moses and Aaron obey God's command to go before Pharaoh and demonstrate divine authority by casting down Aaron's rod, which becomes a serpent. The confrontation inaugurates the great contest between YHWH and the gods of Egypt — the plagues that will culminate in Israel's liberation. The serpent sign is significant because the cobra (uraeus) was a symbol of Pharaoh's own divine power; God turns Egypt's own symbol against it. Though Pharaoh's magicians replicate the sign, Aaron's serpent swallows theirs (EXO.7.12), foreshadowing the ultimate defeat of Egyptian power at the Red Sea. Patristically, the Fathers saw Moses as a type of Christ confronting the powers of this world, and the rod as a prefiguration of the Cross — the instrument of wood through which God's power is manifested. The grandeur of the Egyptian palace serves to heighten the contrast: all the might of empire is nothing before the sovereign word of God.",
+  "scripture_refs": [
+    {"ref": "EXO.7.10-12", "relevance": "primary", "reason": "Aaron casts his rod before Pharaoh and it becomes a serpent; the magicians replicate it but Aaron's serpent swallows theirs"},
+    {"ref": "EXO.7.1-2", "relevance": "primary", "reason": "God commissions Moses and Aaron to go before Pharaoh and demand the release of Israel"},
+    {"ref": "EXO.5.1-2", "relevance": "primary", "reason": "Moses and Aaron first approach Pharaoh: Let my people go — and Pharaoh refuses"},
+    {"ref": "EXO.12.12", "relevance": "typological", "reason": "God will execute judgment on all the gods of Egypt, the contest begun with this serpent sign"},
+    {"ref": "ROM.9.17", "relevance": "typological", "reason": "Paul's interpretation that God raised Pharaoh up to display His power through these confrontations"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe", "confrontation", "solemnity", "grandeur"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0005212",
+    "title": "Moses and Aaron Before Pharaoh",
+    "artist": "Gustave Dor\u00e9",
+    "model": "claude-opus-4-6"
+  }
+}

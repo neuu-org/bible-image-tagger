@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Saint John Chrysostom", "type": "PERSON"},
+    {"name": "Bishop or Pope", "type": "PERSON"},
+    {"name": "Woman with Child", "type": "PERSON"},
+    {"name": "Chained Prisoner", "type": "PERSON"}
+  ],
+  "event": "The Pardon of Saint John Chrysostom",
+  "tags": [
+    "saint",
+    "pardon",
+    "bishop",
+    "chained-figure",
+    "penitence",
+    "mercy",
+    "ecclesiastical-authority",
+    "supplication",
+    "church-father"
+  ],
+  "symbols": [
+    "chains on the kneeling figure — bondage of sin or political captivity awaiting pardon",
+    "red episcopal vestments — authority and blood of martyrdom in the Church",
+    "woman presenting child — intercession and appeal for mercy",
+    "columns — the structure of ecclesiastical authority and the Church"
+  ],
+  "description": "A dramatic scene set within a columned interior. At center, a bearded figure in rich red and gold episcopal vestments extends his hand in a gesture of authority or blessing. At lower left, a nearly naked elderly man kneels in chains, his body emaciated, gazing upward with an expression of supplication. At right, a woman in a white head covering holds a small child and looks toward the central figure, while a man in boots kneels beside them. The lighting creates strong chiaroscuro, with the central bishop illuminated against dark architectural shadows.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "solemn", "compassionate"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0005165",
+    "title": "The Pardon of Saint John Chysostom",
+    "artist": "Mattia Preti",
+    "model": "claude-opus-4-6"
+  }
+}

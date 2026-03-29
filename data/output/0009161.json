@@ -1,0 +1,93 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Penitent Thief",
+      "type": "PERSON"
+    },
+    {
+      "name": "Impenitent Thief",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion with the Two Thieves",
+  "tags": [
+    "crucifixion",
+    "three-crosses",
+    "golgotha",
+    "two-thieves",
+    "passion",
+    "mourning",
+    "atonement",
+    "darkened-sky",
+    "blood",
+    "inri"
+  ],
+  "symbols": [
+    "Christ on the central cross — the atoning sacrifice, lifted up between two sinners as the Mediator",
+    "two thieves flanking Christ — the division of humanity before the cross, one repentant, one scornful",
+    "darkened sky with clouds — the cosmic darkness that fell over the land during the crucifixion (MAT.27.45)",
+    "blood streaming from Christ's wounds — the blood of the New Covenant shed for the forgiveness of sins",
+    "Mary and John at the foot of the cross — the faithful remnant and the new family of the Church",
+    "INRI inscription — Jesus of Nazareth, King of the Jews, the unwitting proclamation of Christ's true kingship"
+  ],
+  "description": "Three crucified figures dominate the composition. Christ hangs on the central cross at right, his body emaciated and blood flowing from his side and feet, with an INRI placard above. The two thieves hang on crosses to the left, their bodies contorted in agony. Between the crosses in the foreground, an elderly woman in dark blue robes (Mary) leans against a younger figure in red (John), who supports her. The background shows a landscape with dark storm clouds gathering on one side and blue sky on the other. Trees frame the scene.",
+  "theological_description": "Cranach's Crucifixion places the viewer at the heart of the Passion narrative, depicting the moment described in all four Gospels when Jesus was crucified between two criminals (LUK.23.32-43). The two thieves represent the fundamental human choice before the cross: one reviles Jesus, the other confesses 'remember me when you come into your kingdom,' receiving the promise 'today you will be with me in paradise' (LUK.23.42-43). The darkened sky reflects Matthew's account that 'from the sixth hour there was darkness over all the land until the ninth hour' (MAT.27.45), a sign of cosmic mourning. Mary and John at the foot of the cross fulfill the scene in John 19:26-27, where Jesus entrusts his mother to the beloved disciple. The blood flowing from Christ's wounds is central to Reformation theology, which Cranach as Luther's close associate would have emphasized: 'without the shedding of blood there is no forgiveness of sins' (HEB.9.22). Paul's declaration that 'God was in Christ reconciling the world to himself' (2CO.5.19) finds its most visceral expression in this scene.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.32-43",
+      "relevance": "primary",
+      "reason": "The crucifixion of Jesus between two thieves, one repentant and one scornful"
+    },
+    {
+      "ref": "MAT.27.45-50",
+      "relevance": "primary",
+      "reason": "The darkness over the land and the death of Jesus on the cross"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and John at the foot of the cross, Jesus entrusting them to each other"
+    },
+    {
+      "ref": "HEB.9.22",
+      "relevance": "typological",
+      "reason": "Without the shedding of blood there is no forgiveness, central to Reformation reading of the Crucifixion"
+    },
+    {
+      "ref": "ISA.53.12",
+      "relevance": "typological",
+      "reason": "He was numbered with the transgressors, fulfilled in Christ crucified between criminals"
+    },
+    {
+      "ref": "2CO.5.19",
+      "relevance": "allusion",
+      "reason": "God was in Christ reconciling the world to himself"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "sorrowful",
+    "dramatic",
+    "redemptive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009161",
+    "title": "The Crucifixion",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

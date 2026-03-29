@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Icon of the Prophet Moses",
+  "tags": [
+    "moses",
+    "prophet",
+    "orthodox-icon",
+    "halo",
+    "frontal-portrait",
+    "gold-ground",
+    "beard"
+  ],
+  "symbols": [
+    "golden halo — the sanctity of God's chosen prophet",
+    "direct frontal gaze — the icon tradition of the saint looking through the viewer to God",
+    "dark complexion — the iconic tradition of Moses as a man weathered by desert and divine encounter"
+  ],
+  "description": "A close-up Orthodox icon showing the face and upper body of the prophet Moses. He has dark curly hair, a short beard, large intense eyes, and a golden halo against a red-brown and gold background. The style is characteristic of Byzantine-Slavic iconography with stylized features, flat perspective, and rich warm tones.",
+  "theological_description": "Moses is the central figure of the Pentateuch, the mediator through whom God gave the Law at Sinai (EXO.19-20), the leader who brought Israel out of Egypt, and the prophet with whom God spoke 'face to face, as a man speaks to his friend' (EXO.33.11). The icon tradition depicts Moses with the penetrating gaze of one who has seen God's glory — though 'no man shall see me and live' (EXO.33.20), Moses saw God's back and his face shone so brightly that he had to wear a veil (EXO.34.29-35). Deuteronomy's epitaph declares: 'There has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face' (DEU.34.10). Yet Moses himself pointed beyond his own ministry: 'The LORD your God will raise up for you a prophet like me from among your brothers' (DEU.18.15), a prophecy the New Testament applies to Christ (ACT.3.22).",
+  "scripture_refs": [
+    {
+      "ref": "EXO.33.11",
+      "relevance": "primary",
+      "reason": "God spoke to Moses face to face, the intimacy depicted in the icon's gaze"
+    },
+    {
+      "ref": "DEU.34.10",
+      "relevance": "primary",
+      "reason": "No prophet arose like Moses whom the LORD knew face to face"
+    },
+    {
+      "ref": "DEU.18.15",
+      "relevance": "typological",
+      "reason": "A prophet like Moses — the promise fulfilled in Christ"
+    },
+    {
+      "ref": "EXO.34.29-35",
+      "relevance": "allusion",
+      "reason": "Moses's face shining after speaking with God"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intense",
+    "sacred",
+    "penetrating"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0011401",
+    "title": "Moses",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

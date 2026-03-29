@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit (Dove)",
+      "type": "DEITY"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Bishop Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Altar Triptych: Baptism of Christ with Bishop Saints",
+  "tags": [
+    "baptism-of-christ",
+    "john-the-baptist",
+    "holy-spirit",
+    "dove",
+    "god-the-father",
+    "bishop-saints",
+    "trinitarian",
+    "angels",
+    "donor-figures"
+  ],
+  "symbols": [
+    "central Baptism scene — the inauguration of Christ's ministry and the revelation of the Trinity",
+    "dove descending — the Holy Spirit alighting on Jesus",
+    "God the Father above in clouds — the divine voice declaring 'This is my beloved Son'",
+    "John the Baptist kneeling — the forerunner completing his mission by baptizing the Messiah",
+    "bishop saints on wing panels — the Church's bishops as successors of the apostolic ministry",
+    "donor figures at bottom — the faithful who commissioned the altar in devotion"
+  ],
+  "description": "A large triptych altarpiece. The central panel shows the Baptism of Christ: Jesus stands in water at center, semi-nude with a white cloth, raising one finger heavenward. John the Baptist kneels at right in rough garments. Two angels in red cloaks attend at left. Above, a white dove descends from clouds where God the Father appears in glory. The left wing panel shows a bishop saint in rich vestments holding a crozier and a plate with golden objects, with a small donor figure below. The right wing shows another bishop saint in gold vestments with a crozier, also with a donor below.",
+  "theological_description": "This altar triptych places the Baptism of Christ at the center of liturgical devotion, flanked by bishop saints who represent the continuation of the ministry Christ inaugurated at the Jordan. The Baptism (MAT.3.13-17) is the foundational Trinitarian revelation: the Son stands in the water, the Spirit descends as a dove, and the Father speaks from heaven. Jesus's baptism does not cleanse him — he sanctifies the waters for all future baptisms. John recognized his unworthiness: 'I need to be baptized by you, and do you come to me?' (MAT.3.14), yet Jesus insisted on 'fulfilling all righteousness' (MAT.3.15), identifying himself with sinful humanity. The flanking bishop saints represent the apostolic succession through which the sacrament of baptism continues in the Church. The donor figures at the bottom demonstrate the connection between the historical event and the living faith community. Christ's raised finger points heavenward, directing attention to the Father whose voice confirms his identity and mission.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "The Baptism of Christ with the voice from heaven and the descending dove"
+    },
+    {
+      "ref": "MAT.3.14-15",
+      "relevance": "primary",
+      "reason": "John's protest and Jesus's insistence on fulfilling all righteousness"
+    },
+    {
+      "ref": "JHN.1.32-34",
+      "relevance": "primary",
+      "reason": "John's testimony of seeing the Spirit descend and remain on Jesus"
+    },
+    {
+      "ref": "MRK.1.10-11",
+      "relevance": "primary",
+      "reason": "The heavens torn open and the Spirit descending like a dove"
+    },
+    {
+      "ref": "ISA.42.1",
+      "relevance": "typological",
+      "reason": "Behold my servant in whom my soul delights, I have put my Spirit upon him"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "reverent",
+    "sacred",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009672",
+    "title": "Altar of St. John the Baptist",
+    "artist": "Hans Baldung",
+    "model": "claude-opus-4-6"
+  }
+}

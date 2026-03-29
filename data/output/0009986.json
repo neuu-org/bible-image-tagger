@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Jacob",
+      "type": "PERSON"
+    },
+    {
+      "name": "Rachel",
+      "type": "PERSON"
+    },
+    {
+      "name": "Laban",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Jacob's Encounter with Rachel at the Well",
+  "tags": [
+    "jacob-and-rachel",
+    "well",
+    "sheep",
+    "meeting",
+    "love",
+    "patriarchs",
+    "betrothal",
+    "pastoral"
+  ],
+  "symbols": [
+    "well with sheep — the place of divine encounter and betrothal in the patriarchal narratives",
+    "Jacob meeting Rachel — love at first sight divinely ordained",
+    "flock of sheep — the pastoral setting of the patriarchs' livelihood",
+    "landscape with trees — the fertile land of Haran where Jacob found his bride"
+  ],
+  "description": "A Renaissance fresco or panel showing an outdoor scene by a well with sheep. A young man (Jacob) stands at right in traveling garments gesturing toward two figures at left — a young woman (Rachel) accompanied by another figure. A flock of white sheep grazes nearby. The background shows a lush landscape with trees and a body of water. The palette is soft with greens, blues, and warm earth tones. The composition is horizontal and pastoral.",
+  "theological_description": "Jacob's meeting with Rachel at the well (GEN.29.1-12) is one of the great love stories of the Bible and a pivotal moment in the patriarchal narrative. Jacob, fleeing from Esau, arrives at a well in Haran and sees Rachel coming with her father Laban's sheep. He rolls the stone from the well's mouth — a feat of strength inspired by love — waters her flock, kisses her, and weeps. He agrees to serve Laban seven years for Rachel's hand, 'and they seemed to him but a few days because of the love he had for her' (GEN.29.20). The well-meeting follows the biblical betrothal-type scene established with Abraham's servant finding Rebekah (GEN.24) and later echoed when Moses meets Zipporah (EXO.2.15-21). Typologically, Jacob's love for Rachel prefigures Christ's love for the Church: 'Christ loved the church and gave himself up for her' (EPH.5.25). The long service Jacob renders for his bride parallels the long preparation through which God's covenant promises unfold across generations.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.29.1-12",
+      "relevance": "primary",
+      "reason": "Jacob's meeting with Rachel at the well, the direct subject"
+    },
+    {
+      "ref": "GEN.29.20",
+      "relevance": "primary",
+      "reason": "Seven years seemed like a few days because of his love for Rachel"
+    },
+    {
+      "ref": "EPH.5.25",
+      "relevance": "typological",
+      "reason": "Christ loved the Church and gave himself for her, prefigured in Jacob's devoted service"
+    },
+    {
+      "ref": "GEN.24.10-27",
+      "relevance": "typological",
+      "reason": "The betrothal-type scene at the well, established in the Rebekah narrative"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "pastoral",
+    "romantic",
+    "joyful"
+  ],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0009986",
+    "title": "Jacob's Encounter with Rachel",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

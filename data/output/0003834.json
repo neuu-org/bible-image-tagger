@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "name": "Righteous Men",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Judgement: Faces of Righteous Men",
+  "tags": [
+    "last-judgment",
+    "righteous",
+    "haloed-figures",
+    "cross-patterned-vestments",
+    "eschatological",
+    "saints"
+  ],
+  "symbols": [
+    "halos on the figures — the sanctity of those chosen for salvation",
+    "cross-patterned vestments — the priestly and episcopal office of the righteous",
+    "two figures standing together — the communion of saints in glory"
+  ],
+  "description": "A weathered fresco showing two standing figures in long robes. The figure at the left wears an elaborate vestment covered with a geometric cross pattern and holds a cross. The figure at the right wears a plainer reddish-brown robe. Both figures have haloes and face slightly toward each other. The fresco surface is aged with areas of flaking and discoloration, revealing the underlying plaster. The style is characteristic of medieval Russian iconographic painting.",
+  "theological_description": "This detail from Rublev's Last Judgment cycle shows the faces of the righteous — those who stand at Christ's right hand at the final assize. The Last Judgment is the culmination of salvation history, described in Matthew 25:31-46, where the Son of Man separates the sheep from the goats. The cross-patterned vestments identify one figure as a bishop or patriarch among the saved, while the haloes confirm their blessed state. Paul describes this moment in 1 Corinthians 15:52: 'In a moment, in the twinkling of an eye, at the last trumpet... the dead will be raised imperishable.' The righteous ones shown here represent those who will hear, 'Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world' (MAT.25.34). Their serene bearing reflects the peace of those whose names are written in the Lamb's Book of Life (REV.20.12).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.25.31-34",
+      "relevance": "primary",
+      "reason": "The Last Judgment: the righteous inheriting the kingdom prepared from the world's foundation"
+    },
+    {
+      "ref": "REV.20.12",
+      "relevance": "primary",
+      "reason": "The dead judged according to their deeds, the Book of Life opened"
+    },
+    {
+      "ref": "1CO.15.52",
+      "relevance": "allusion",
+      "reason": "The dead raised imperishable at the last trumpet"
+    },
+    {
+      "ref": "DAN.12.2-3",
+      "relevance": "typological",
+      "reason": "Those who sleep in the dust awakening to everlasting life, shining like stars"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "serene",
+    "eternal"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0003834",
+    "title": "The Last Judgement: Faces of righteous men",
+    "artist": "Andrei Rublev",
+    "model": "claude-opus-4-6"
+  }
+}

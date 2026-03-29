@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Dead Christ (Man of Sorrows Icon)",
+  "tags": [
+    "dead-christ",
+    "man-of-sorrows",
+    "orthodox-icon",
+    "akra-tapeinosis",
+    "passion",
+    "gold-background",
+    "bowed-head",
+    "byzantine",
+    "devotional"
+  ],
+  "symbols": [
+    "golden halo with cross — the divine glory persisting even in death",
+    "bowed head with closed eyes — the death of the incarnate God",
+    "gold background — the timeless, heavenly dimension of the icon",
+    "Greek inscription — the liturgical identity of the image in the Orthodox tradition",
+    "bare shoulders showing wounds — the physical reality of the Passion"
+  ],
+  "description": "A Byzantine Orthodox icon showing the head and upper body of the dead Christ against a gold background. His head is bowed sharply to the right with closed eyes, and a cruciform halo encircles his head. The face is gaunt with a dark beard, and the bare shoulders are visible. Greek text inscriptions appear at the upper portion. The icon is aged with crackling and wear on the gold leaf and painted surface. The palette is limited to gold, earth tones, and dark pigments.",
+  "theological_description": "This icon belongs to the type known as Akra Tapeinosis (Extreme Humiliation) or the Man of Sorrows — a devotional image showing Christ dead or suffering, intended for contemplative prayer rather than narrative illustration. The type emerged in Byzantine art as a liturgical image connected to the Holy Week services, particularly the Epitaphios (burial shroud) ceremony. It draws on Isaiah's prophecy: 'He was despised and rejected by men, a man of sorrows and acquainted with grief' (ISA.53.3). The gold background affirms that even in death, Christ remains the Son of God — his divinity is not extinguished by the Cross. The cruciform halo is distinctively Christ's, marking his unique identity. In Orthodox theology, this image serves as a window into the mystery of the Incarnation's deepest point: the immortal God experiencing death itself in order to destroy death from within (HEB.2.14). The icon invites the faithful to what the Eastern tradition calls theoria — contemplative gazing that opens the heart to divine mystery.",
+  "scripture_refs": [
+    {"ref": "ISA.53.3", "relevance": "typological", "reason": "A man of sorrows, acquainted with grief — the theological source of the Man of Sorrows image type"},
+    {"ref": "JHN.19.30", "relevance": "primary", "reason": "Jesus bowing his head and giving up his spirit — the moment this icon depicts"},
+    {"ref": "HEB.2.14", "relevance": "typological", "reason": "Through death Christ destroyed the one who holds the power of death"},
+    {"ref": "PHP.2.8", "relevance": "typological", "reason": "He humbled himself by becoming obedient to death, even death on a cross — the extreme humiliation"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["sorrow", "stillness", "devotion", "mystery"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003071",
+    "title": "Dead Christ",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

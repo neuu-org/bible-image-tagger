@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Andrew the Apostle", "type": "PERSON"},
+    {"name": "Mark the Evangelist", "type": "PERSON"},
+    {"name": "Lion of Saint Mark", "type": "OTHER"}
+  ],
+  "event": "Icon of Apostles Andrew and Mark",
+  "tags": [
+    "icon",
+    "apostle-andrew",
+    "evangelist-mark",
+    "gospel-book",
+    "lion-symbol",
+    "orthodox-icon",
+    "hagiography",
+    "scrolls",
+    "evangelists"
+  ],
+  "symbols": [
+    "Books and scrolls held by the apostles — the Gospel and apostolic writings they authored or inspired",
+    "Lion at the feet of Mark — the traditional evangelist symbol from Ezekiel's vision and Revelation",
+    "Gold background — the divine light of heaven, standard in Orthodox iconography",
+    "Arched frame — the gate of heaven, liturgical sacred space"
+  ],
+  "description": "Two standing male figures are depicted in an icon with a gold background and arched top. On the left, a bearded man in dark robes holds a scroll in one hand and raises a book in the other. On the right, a bearded man in an orange-red robe holds a dark-covered book in his left hand and raises another book with his right. At their feet between them sits a small winged lion. Both figures have halos and solemn expressions, rendered in the flattened, frontal style characteristic of Eastern Orthodox iconography.",
+  "theological_description": "This icon depicts two pillars of the early Church. Andrew, the first-called apostle (JHN.1.40-41), was Simon Peter's brother and the one who brought Peter to Jesus. Tradition holds that Andrew preached in regions around the Black Sea and was martyred on an X-shaped cross. Mark, though not one of the Twelve, was a companion of Peter and Paul (ACT.12.12, 2TI.4.11) and is traditionally credited with writing the earliest Gospel, recording Peter's eyewitness testimony of Christ's ministry. The lion at Mark's feet derives from the vision of the four living creatures in Ezekiel (EZK.1.10) and Revelation (REV.4.7), assigned to Mark because his Gospel opens with the voice crying in the wilderness — a lion's roar. Together these two figures represent the apostolic witness and the evangelical mission: Andrew who called others to 'Come and see' (JHN.1.46), and Mark who wrote down the good news so that all might believe.",
+  "scripture_refs": [
+    {"ref": "JHN.1.40-42", "relevance": "primary", "reason": "Andrew as the first-called disciple who brought his brother Peter to Jesus"},
+    {"ref": "ACT.12.12", "relevance": "primary", "reason": "Mark identified as John Mark, in whose mother's house the early Church gathered"},
+    {"ref": "MRK.1.1-3", "relevance": "primary", "reason": "The opening of Mark's Gospel, the voice crying in the wilderness — associated with the lion symbol"},
+    {"ref": "REV.4.7", "relevance": "typological", "reason": "The four living creatures around the throne, the lion assigned to Mark in Christian tradition"},
+    {"ref": "EZK.1.10", "relevance": "typological", "reason": "Ezekiel's vision of four living creatures with a lion's face, source of evangelist symbolism"},
+    {"ref": "2TI.4.11", "relevance": "allusion", "reason": "Paul requests Mark, calling him useful for ministry — affirming Mark's role in the apostolic mission"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "sacred", "hieratic"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0001346",
+    "title": "Icon of Apostles Andrew and Mark",
+    "artist": "Yov Kondzelevych",
+    "model": "claude-opus-4-6"
+  }
+}

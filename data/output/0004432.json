@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "John the Apostle", "type": "PERSON"}
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "orthodox-icon",
+    "cross",
+    "inri",
+    "virgin-mary",
+    "john-the-apostle",
+    "skull-at-base",
+    "gold-background",
+    "sun-and-moon",
+    "loincloth",
+    "chalice"
+  ],
+  "symbols": [
+    "cross with IC XC inscription — Jesus Christ, the Crucified Lord, in Greek abbreviation",
+    "skull at the base of the cross — Adam's skull, tradition holding that Golgotha was Adam's burial place, the new Adam redeeming the old",
+    "darkened sun and moon — cosmic mourning at the death of the Creator",
+    "Virgin Mary to the left — the Mother of Sorrows, Mater Dolorosa",
+    "John the Apostle to the right holding a chalice — the beloved disciple to whom Christ entrusted His mother, the Eucharistic cup",
+    "gold background — the uncreated divine light of Orthodox theology",
+    "INHI inscription at top — Jesus of Nazareth, King of the Jews"
+  ],
+  "description": "An Orthodox icon of the Crucifixion on a gold background. Christ hangs on a decorated cross with arms outstretched, wearing a white loincloth, with a halo bearing the cross motif. Above the cross are Greek-Slavonic inscriptions including IC XC. To the left stands the Virgin Mary in a dark blue maphorion, her hands raised in prayer. To the right stands Saint John in a red robe, holding what appears to be a chalice. A skull rests at the base of the cross. In the upper corners, darkened circles represent the sun and moon. The icon follows traditional Byzantine compositional conventions.",
+  "theological_description": "The Orthodox Crucifixion icon is a concentrated visual theology of redemption. The cross is planted over Adam's skull, expressing the patristic teaching that Christ, the new Adam, was crucified over the burial place of the first Adam, so that His blood might flow down to redeem the ancestor of all humanity (ROM.5.17-19). The darkened sun and moon fulfill the prophecy of Amos: 'I will make the sun go down at noon and darken the earth in broad daylight' (AMO.8.9), and echo the Synoptic account of darkness covering the land (MAT.27.45). The IC XC monogram proclaims Christ's identity even in death. Mary and John stand as the first members of the new family constituted by the Cross — 'Woman, behold your son; son, behold your mother' (JHN.19.26-27) — and represent the Church born from Christ's wounded side. The gold background is not mere decoration but the light of the age to come, the glory that transforms even the horror of Crucifixion into a portal of divine radiance.",
+  "scripture_refs": [
+    {"ref": "JHN.19.17-30", "relevance": "primary", "reason": "The Crucifixion narrative, including the inscription, Mary and John at the foot of the cross"},
+    {"ref": "JHN.19.26-27", "relevance": "primary", "reason": "Christ entrusting Mary to John and John to Mary, forming the new family of the Church"},
+    {"ref": "ROM.5.17-19", "relevance": "typological", "reason": "The new Adam's obedience undoing the old Adam's sin, symbolized by the skull beneath the cross"},
+    {"ref": "AMO.8.9", "relevance": "typological", "reason": "The sun going down at noon, prophesying the cosmic darkness at the Crucifixion"},
+    {"ref": "MAT.27.45", "relevance": "primary", "reason": "Darkness covering the land from the sixth to the ninth hour during the Crucifixion"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemn", "sacred", "sorrowful", "reverent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004432",
+    "title": "Crucifiction",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

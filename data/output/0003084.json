@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "star-of-bethlehem",
+    "gifts",
+    "camels",
+    "cave-stable",
+    "procession",
+    "kneeling-king",
+    "gentile-worship",
+    "gold-frankincense-myrrh"
+  ],
+  "symbols": [
+    "star above with angel — the Star of Bethlehem guided by divine providence",
+    "rocky cave setting — the humble grotto of the Nativity",
+    "kneeling elderly Magus — the wisdom of the world submitted to divine wisdom",
+    "camels and retinue — the long journey from the East, the nations coming to the light",
+    "gold vessels and gifts — gold, frankincense, and myrrh for king, God, and sacrifice"
+  ],
+  "description": "A large, elaborate composition set in a rocky mountainous landscape. At the right, the Virgin Mary sits holding the Christ Child in a cave-like grotto, with Joseph nearby and angels hovering above. An elderly Magus kneels before them, kissing or presenting a gift. Behind, a long procession of richly dressed figures, soldiers, camels, and horses winds up a rocky path from the left. At the upper right, angels and a bright star appear on the hillside. The scene is densely populated with figures in elaborate costumes and rendered with meticulous detail.",
+  "theological_description": "Mantegna's Adoration of the Magi presents the Epiphany as a grand cosmic event. The Magi's procession winding through the rocky landscape represents the pilgrimage of the nations toward the light of Christ. Matthew records that they followed a star from the East to Bethlehem (MAT.2.1-2), fulfilling Balaam's oracle: 'A star shall come out of Jacob' (NUM.24.17). The cave setting follows the ancient tradition, attested in the Protoevangelium of James and by Justin Martyr, that Christ was born in a cave — connecting the Nativity to the burial cave and thus linking birth to death and resurrection. The three gifts are interpreted christologically: gold for his kingship, frankincense for his divinity, and myrrh for his burial (MAT.2.11). Isaiah's prophecy is fulfilled: 'Nations shall come to your light, and kings to the brightness of your rising. They shall bring gold and frankincense' (ISA.60.3-6). The elaborate retinue emphasizes that the humble birth in a cave is simultaneously the most significant event in cosmic history.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The complete narrative of the Magi following the star and presenting gifts"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations coming to the light, bringing gold and frankincense"
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "A star out of Jacob — Balaam's prophecy fulfilled in the Star of Bethlehem"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish bringing gifts, all kings falling before him"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "allusion",
+      "reason": "Out of Bethlehem shall come a ruler — the destination of the Magi's journey"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majesty",
+    "wonder",
+    "devotion",
+    "grandeur"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003084",
+    "title": "Adoration of the Magi, central panel from the Altarpiece",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

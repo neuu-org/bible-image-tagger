@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Enthroned Madonna with Angels and Saints",
+  "tags": [
+    "enthroned-madonna",
+    "saints",
+    "angels",
+    "putti",
+    "church-interior",
+    "crowning-of-mary"
+  ],
+  "symbols": [
+    "enthroned Virgin at center — Mary as Queen of Heaven and Seat of Wisdom",
+    "angels crowning Mary — heavenly recognition of the Mother of God",
+    "gathered saints below — the communion of saints united around the Incarnation",
+    "architectural canopy — the Church as sacred space sheltering the mystery",
+    "putti at base — the joy of creation at the presence of the incarnate God"
+  ],
+  "description": "A large arched altarpiece composition. At the center, the Virgin Mary in a red robe sits enthroned on an elevated platform, holding the Christ Child. Above, angels descend carrying a crown, while putti fly among ornate architectural elements including columns and a coffered dome. Below and flanking the throne, various male saints stand in rich robes — some with bishops' mitres, others in armor or simple garments. Small putti play at the base of the throne. The composition is vertical, dense with figures, and set within an elaborate architectural framework.",
+  "theological_description": "This grand sacra conversazione gathers the heavenly and earthly Church around the enthroned Virgin and Child. The Virgin's central elevation expresses her role as Mediatrix — the point where heaven meets earth, where the divine becomes accessible through human motherhood. The crowning by angels proclaims her queenship (Revelation 12:1), while the saints below represent the Church across time — bishops, martyrs, and holy men all finding their unity in relation to Christ. The elaborate architectural setting transforms the altarpiece into a window onto the heavenly Jerusalem, where the liturgy of earth joins the liturgy of heaven. Each saint carries attributes identifying their particular witness, yet all turn toward the same center: the incarnate Word held in His mother's arms. This is the vision of Hebrews 12:22-24: the heavenly Jerusalem, angels in festal gathering, and the assembly of the firstborn.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman crowned with stars — Mary's heavenly queenship expressed in the angels crowning her"
+    },
+    {
+      "ref": "HEB.12.22-24",
+      "relevance": "typological",
+      "reason": "The heavenly Jerusalem with angels and the assembly of the firstborn — the communion of saints depicted"
+    },
+    {
+      "ref": "LUK.1.48-49",
+      "relevance": "allusion",
+      "reason": "All generations shall call me blessed — Mary's exaltation among the saints"
+    },
+    {
+      "ref": "EPH.2.19-22",
+      "relevance": "allusion",
+      "reason": "Members of God's household, built on the apostles and prophets — the Church united around Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "celebratory",
+    "devotional"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007698",
+    "title": "Altar polyptych of San Bartolomeo, Bergamo - Enthroned Madonna with Angels and Saints",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

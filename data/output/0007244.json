@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Putti", "type": "ANGEL"},
+    {"name": "Children praying", "type": "GROUP"}
+  ],
+  "event": "Prayer to Our Lady for the Pupils",
+  "tags": [
+    "virgin-mary",
+    "assumption",
+    "intercession",
+    "angels",
+    "church-building",
+    "prayer",
+    "heavenly-glory",
+    "children",
+    "banner"
+  ],
+  "symbols": [
+    "Mary with arms outstretched — maternal intercession and protection over the faithful",
+    "clouds separating heaven and earth — the boundary between the divine and human realms",
+    "angels bearing a banner — the proclamation of Mary's titles and intercessory power",
+    "church building below — the institution entrusted to Mary's protection",
+    "kneeling children — the vulnerable whom the Mother of God shelters"
+  ],
+  "description": "A tall arched composition in three registers. At the top, the Virgin Mary stands on clouds in a pink and blue mantle with arms outstretched, surrounded by winged putti heads. In the middle register, two large angels flank her, one holding an unfurled banner with text. Below, against a landscape with a blue-domed church, several children kneel in prayer looking upward. The palette is soft with pastel blues, pinks, and golds against a luminous sky.",
+  "theological_description": "This devotional image presents the Virgin Mary as Protectress and Mediatrix, interceding for the young and vulnerable. Her outstretched arms echo the ancient orant posture of prayer, presenting her as the Church's model intercessor. The presence of a specific church building below localizes this universal devotion, connecting the cosmic reality of Mary's heavenly intercession to a particular community of faith. The kneeling children represent both literal pupils entrusted to Mary's care and all the faithful who approach God through her maternal mediation. The theology of Mary as Mother of the Church (Mater Ecclesiae) finds visual expression here: she who bore Christ in her womb now bears the Church in her prayers. The ascending composition — from earthly supplication through angelic mediation to Mary's heavenly glory — maps the path of prayer itself.",
+  "scripture_refs": [
+    {"ref": "JHN.2.1-5", "relevance": "primary", "reason": "Mary's intercession at the wedding of Cana — 'Do whatever He tells you' — the model of Marian mediation"},
+    {"ref": "LUK.1.46-55", "relevance": "allusion", "reason": "The Magnificat — Mary's exaltation as the lowly handmaid whom all generations call blessed"},
+    {"ref": "REV.12.1", "relevance": "typological", "reason": "The woman clothed with the sun — Mary in heavenly glory, the basis for depicting her crowned in the sky"},
+    {"ref": "ACT.1.14", "relevance": "allusion", "reason": "Mary praying with the apostles in the upper room — her role as intercessor for the early Church"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["devotional", "protective", "hopeful"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007244",
+    "title": "Prayer to Our Lady Mother for the pupils Smolny",
+    "artist": "Alexey Venetsianov",
+    "model": "claude-opus-4-6"
+  }
+}

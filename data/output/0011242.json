@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Serpent",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Madonna and Child with St. Anne (Dei Palafrenieri)",
+  "tags": [
+    "madonna-and-child",
+    "saint-anne",
+    "serpent",
+    "crushing-serpent",
+    "protoevangelium",
+    "halo",
+    "barefoot",
+    "victory-over-evil"
+  ],
+  "symbols": [
+    "Christ Child stepping on serpent — the fulfillment of Genesis 3:15, crushing the serpent's head",
+    "Mary guiding the child's foot — the New Eve participating in the defeat of the ancient enemy",
+    "Saint Anne watching — the lineage of grace through which the Savior came",
+    "serpent — Satan, the ancient enemy defeated by Christ"
+  ],
+  "description": "A dramatic Caravaggist painting with dark background showing three figures. The Virgin Mary in a red dress holds the nude Christ Child, guiding his foot to step on a large serpent on the floor. Saint Anne, an elderly woman in a turban and gray-blue robes, stands behind watching. Both Mary and the Child have faint halos. The scene is lit from the upper left, creating strong chiaroscuro. The Christ Child's posture is dynamic, leaning forward to crush the snake beneath his foot.",
+  "theological_description": "This painting directly illustrates the Protoevangelium — the first proclamation of the Gospel in Genesis 3:15: 'I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.' The Christ Child, guided by Mary's hand, crushes the serpent (Satan), fulfilling the promise made in Eden. Mary as the New Eve participates in the victory that her obedience made possible. Saint Anne represents the faithful lineage through which the promise was transmitted across generations. Paul celebrates this victory: 'The God of peace will soon crush Satan under your feet' (ROM.16.20). The scene also connects to Revelation's identification of 'that ancient serpent, who is called the devil and Satan' (REV.12.9) defeated by the 'offspring of the woman.' Caravaggio's realistic treatment — a real child stepping on a real snake — emphasizes that the victory over evil is concrete, not merely symbolic.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.15",
+      "relevance": "primary",
+      "reason": "The protoevangelium: the offspring of the woman crushing the serpent's head"
+    },
+    {
+      "ref": "ROM.16.20",
+      "relevance": "primary",
+      "reason": "The God of peace will crush Satan under your feet"
+    },
+    {
+      "ref": "REV.12.9",
+      "relevance": "typological",
+      "reason": "The ancient serpent identified as the devil and Satan, defeated by Christ"
+    },
+    {
+      "ref": "1JN.3.8",
+      "relevance": "allusion",
+      "reason": "The Son of God appeared to destroy the works of the devil"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "triumphant",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011242",
+    "title": "Madonna and Child with St. Anne",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

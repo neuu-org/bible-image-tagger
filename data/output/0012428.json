@@ -1,0 +1,55 @@
+{
+  "characters": [],
+  "event": "View of Santa Maria della Salute, Venice",
+  "tags": [
+    "venice",
+    "church",
+    "dome",
+    "grand-canal",
+    "baroque-architecture",
+    "waterfront",
+    "veduta",
+    "dogana"
+  ],
+  "symbols": [
+    "great dome of the Salute — a votive church built in thanksgiving for deliverance from plague",
+    "cross atop the dome — Christ's lordship over the city"
+  ],
+  "description": "A detailed painting of the grand Baroque church of Santa Maria della Salute in Venice, viewed from the Grand Canal. The massive white dome dominates the composition, flanked by smaller domes and ornate scrollwork buttresses. The elaborate facade features columns, statues, and pediments. Adjacent buildings and the customs house (Dogana) are visible to the right. The sky is pale with soft clouds. The waterfront and mooring posts are visible at the base. The painting has a warm, golden tonality characteristic of 19th-century Venetian vedute.",
+  "theological_description": "The Basilica of Santa Maria della Salute ('Our Lady of Health') was built between 1631-1687 as a votive offering to the Virgin Mary for Venice's deliverance from the devastating plague of 1630. The Senate vowed that if the plague ceased, they would build a magnificent church dedicated to Mary. This act of civic devotion echoes the biblical pattern of votive offerings — Hannah's promise to dedicate Samuel to the Lord if granted a child (1 Sam 1:11), or the psalmist's pledge: 'I will pay my vows to the Lord in the presence of all his people' (Ps 116:14). The dedication to Mary as 'Salute' (health/salvation) connects to Elizabeth's greeting: 'Blessed are you among women' (Luke 1:42) and the ancient title of Mary as 'Health of the Sick.' The church's octagonal plan symbolizes the eighth day — the day of resurrection and new creation.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.116.14",
+      "relevance": "allusion",
+      "reason": "I will pay my vows to the Lord — the church built as a votive offering"
+    },
+    {
+      "ref": "1SA.1.11",
+      "relevance": "typological",
+      "reason": "Hannah's vow to God — the pattern of votive dedication fulfilled by Venice"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "allusion",
+      "reason": "Blessed are you among women — Mary as patroness of the church"
+    },
+    {
+      "ref": "PSA.107.28-30",
+      "relevance": "allusion",
+      "reason": "They cried to the Lord in their trouble and he delivered them — deliverance from plague"
+    }
+  ],
+  "scene_type": "landscape",
+  "mood": [
+    "majestic",
+    "serene",
+    "monumental"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012428",
+    "title": "View of the Church of Santa Maria della Salute, on the Grand Canal, Venice, with the Dogana beyond",
+    "artist": "David Roberts",
+    "model": "claude-opus-4-6"
+  }
+}

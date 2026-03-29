@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Putti",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Madonna and Child with Putti",
+  "tags": [
+    "madonna-and-child",
+    "putti",
+    "infant-jesus",
+    "virgin-mary",
+    "dark-background",
+    "cherubs",
+    "nursing",
+    "maternal-tenderness",
+    "sleeping-child",
+    "intimate-scene"
+  ],
+  "symbols": [
+    "sleeping or nursing Christ Child — the vulnerability of the incarnate God",
+    "putti crowding around — heavenly attendants marveling at the mystery of the Incarnation",
+    "Mary’s gentle gaze — the contemplation of the divine mystery in her arms",
+    "deep darkness surrounding — the humble, hidden nature of the Incarnation"
+  ],
+  "description": "A dark, intimate composition showing a young woman with a gentle expression holding a sleeping or nursing infant in her arms. Several small cherub-like putti cluster behind and around them, peering at the child with expressions of wonder and curiosity. The lighting is soft and focused on the woman’s face and the infant’s body. She wears a white blouse with a pink sleeve. The background is very dark, giving the scene a nocturnal, enclosed feeling.",
+  "theological_description": "This intimate scene of the Madonna nursing or cradling the Christ Child among putti reveals the extraordinary within the ordinary. The eternal Son of God, through whom all things were made (Colossians 1:16), lies as a helpless infant dependent on his mother’s care. The putti—representing angelic beings—crowd in to witness the astonishing condescension of the Incarnation: the one whom the heavens cannot contain (1 Kings 8:27) rests in a woman’s arms. Mary’s quiet attention embodies Luke 2:19—she treasures and ponders these things in her heart. The nursing motif, known as the Galaktotrophousa, emphasizes the full humanity Christ assumed: he who is the bread of life (John 6:35) was himself nourished at his mother’s breast. This paradox lies at the heart of Incarnational theology.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary gave birth to her firstborn son and wrapped him in swaddling cloths"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things, pondering them in her heart"
+    },
+    {
+      "ref": "COL.1.16-17",
+      "relevance": "typological",
+      "reason": "All things were created through him and for him—yet he lies as a helpless infant"
+    },
+    {
+      "ref": "JHN.6.35",
+      "relevance": "typological",
+      "reason": "The bread of life himself nourished at his mother’s breast"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intimate",
+    "tender",
+    "mysterious",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013426",
+    "title": "The Madonna and Child with putti",
+    "artist": "Ludovico Carracci",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Monk", "type": "PERSON"}
+  ],
+  "event": "Monk at prayer",
+  "tags": [
+    "monk",
+    "prayer",
+    "prostrate",
+    "skull",
+    "rosary",
+    "penance",
+    "asceticism",
+    "contemplation"
+  ],
+  "symbols": [
+    "skull — memento mori, meditation on death as preparation for eternity",
+    "rosary beads — the rhythm of prayer and devotion",
+    "prostrate posture — total self-abasement before God, penitential humility",
+    "white habit — purity of life sought through monastic discipline"
+  ],
+  "description": "A small ink or charcoal sketch showing a robed figure lying face down on the ground in a posture of prostrate prayer. The figure wears a light-colored habit with a hood. Near the figure's head lie a skull and a string of rosary beads. The drawing is rendered in quick, expressive strokes with areas of dark shading. The overall composition is horizontal and spare.",
+  "theological_description": "The prostrate monk in prayer embodies the most radical form of Christian humility: complete self-emptying before God. The prostration posture, used in monastic profession and ordination rites, signifies dying to self that one might live for God alone. The skull (memento mori) and rosary together represent the two poles of monastic meditation: the reality of death and the hope of salvation through prayer. This tradition draws from Psalm 119:25, 'My soul clings to the dust; give me life according to your word.' The monk who lies flat on the ground imitates Christ in Gethsemane, who 'fell on His face and prayed' (Matthew 26:39). Monastic spirituality understands that only through such radical self-abasement can the soul be raised to contemplation of God.",
+  "scripture_refs": [
+    {"ref": "MAT.26.39", "relevance": "primary", "reason": "Jesus falling on His face in prayer at Gethsemane — the archetype of prostrate prayer"},
+    {"ref": "PSA.119.25", "relevance": "allusion", "reason": "My soul clings to the dust — the prayer of one prostrate before God"},
+    {"ref": "PHP.2.8", "relevance": "typological", "reason": "Christ humbled Himself and became obedient to death — the self-emptying the monk imitates"},
+    {"ref": "ECC.12.7", "relevance": "allusion", "reason": "The dust returns to the earth — the memento mori meditation represented by the skull"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["penitential", "solemn", "austere"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007439",
+    "title": "Monk at Prayer",
+    "artist": "Eugene Delacroix",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "Head of the Virgin",
+  "tags": [
+    "virgin-mary",
+    "head-study",
+    "downcast-gaze",
+    "maternal-contemplation",
+    "veil",
+    "marian-devotion"
+  ],
+  "symbols": [
+    "downcast eyes — Mary's humility and contemplative spirit, pondering things in her heart",
+    "veil — modesty, purity, and consecration to God",
+    "gentle smile — the quiet joy of the Theotokos"
+  ],
+  "description": "A close-up study of a young woman's head and shoulders against a very dark background. She has dark hair parted in the center with a thin transparent veil. Her eyes are cast downward and slightly to the right, with a faint, gentle smile on her lips. She wears a dark garment with a hint of lighter fabric at the neckline. The lighting falls softly on the left side of her face, creating gentle shadows. The overall impression is one of quiet introspection and grace.",
+  "theological_description": "This intimate head study captures the essence of Marian contemplation. The Virgin's downcast gaze embodies Luke 2:19: 'Mary treasured up all these things, pondering them in her heart.' Her gentle smile reflects the inner joy of the Magnificat (LUK.1.46-55), where she declares that her spirit rejoices in God her Savior. The veil signifies her consecration and purity, the 'handmaid of the Lord' (LUK.1.38) who submitted wholly to God's will. Correggio's sfumato technique dissolves the boundary between light and shadow, mirroring the theological mystery of Mary herself — the created being who bore the Creator, the humble maiden exalted above all creatures. The intimacy of the portrait invites the viewer into the same contemplative silence that characterizes Mary's role in the Gospels.",
+  "scripture_refs": [
+    {"ref": "LUK.2.19", "relevance": "primary", "reason": "Mary pondering all things in her heart, directly expressed by the contemplative downcast gaze"},
+    {"ref": "LUK.1.46-55", "relevance": "primary", "reason": "The Magnificat: Mary's joyful response to God, reflected in her gentle smile"},
+    {"ref": "LUK.1.38", "relevance": "allusion", "reason": "The handmaid of the Lord — Mary's humility expressed in the modest bearing"},
+    {"ref": "LUK.1.28", "relevance": "allusion", "reason": "Full of grace — the radiant inner beauty visible in the softly lit countenance"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "serene", "tender"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003336",
+    "title": "Head of the Virgin",
+    "artist": "Correggio",
+    "model": "claude-opus-4-6"
+  }
+}

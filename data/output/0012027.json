@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "gifts",
+    "kneeling",
+    "rocky-landscape",
+    "convent",
+    "man-of-sorrows"
+  ],
+  "symbols": [
+    "kneeling Magi offering gifts — the nations bowing before the King of Kings",
+    "gold, frankincense, and myrrh — kingship, divinity, and sacrificial death",
+    "diverse attendants — the universality of Christ's kingship over all peoples",
+    "rocky landscape — the harsh journey of faith to reach the Savior",
+    "Man of Sorrows below in niche — the Passion prefigured even at the Nativity"
+  ],
+  "description": "A lunette-shaped fresco in a convent setting. At left, the Virgin Mary sits holding the infant Jesus on her lap, with Joseph standing behind. Before them, a figure kneels to present a gift. A procession of richly dressed figures including men in turbans and exotic garments extends from center to right across a rocky, mountainous landscape. Below the lunette, a small niche contains an image of the Man of Sorrows (Christ showing His wounds). The fresco is set within a whitewashed wall with a simple doorway beneath.",
+  "theological_description": "Fra Angelico's fresco of the Adoration of the Magi in the convent of San Marco illustrates the Epiphany — the manifestation of Christ to the Gentile nations. Matthew 2:1-12 records that wise men from the East followed a star to Bethlehem and 'fell down and worshipped him' and 'offered him gifts: gold and frankincense and myrrh.' The diverse company represents the fulfillment of Isaiah's prophecy: 'Nations shall come to your light, and kings to the brightness of your rising... they shall bring gold and frankincense' (Isa 60:3, 6). The gifts carry theological meaning: gold for kingship, frankincense for divinity, myrrh for the burial of the mortal body. The Man of Sorrows in the niche below creates a profound typological link — even at the moment of adoration, Christ's Passion is foreshadowed. The myrrh gift already points toward His death, as does John's Gospel: 'Nicodemus brought a mixture of myrrh and aloes' for the burial (John 19:39).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "Wise men from the East come to worship the newborn King and offer gifts"
+    },
+    {
+      "ref": "ISA.60.3",
+      "relevance": "primary",
+      "reason": "Nations shall come to your light and kings to the brightness of your rising"
+    },
+    {
+      "ref": "ISA.60.6",
+      "relevance": "primary",
+      "reason": "They shall bring gold and frankincense — the prophesied gifts"
+    },
+    {
+      "ref": "JHN.19.39",
+      "relevance": "typological",
+      "reason": "Nicodemus brings myrrh for burial — the gift of myrrh foreshadowing death"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "allusion",
+      "reason": "May the kings of Tarshish bring gifts — kings paying homage to the Messiah"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "processional",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012027",
+    "title": "Adoration of the Magi",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

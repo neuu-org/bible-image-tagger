@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Ruth", "type": "PERSON"}
+  ],
+  "event": "Ruth the Moabite gleaning in the fields of Bethlehem",
+  "tags": [
+    "ruth",
+    "gleaner",
+    "wheat",
+    "sheaves",
+    "bethlehem",
+    "moabite",
+    "loyalty",
+    "ancestor-of-christ",
+    "harvest",
+    "headscarf"
+  ],
+  "symbols": [
+    "Sheaf of wheat under Ruth's arm — the harvest of Bethlehem where she gleaned in Boaz's field",
+    "Humble clothing — Ruth's poverty as a foreign widow, dependent on the mercy of gleaning laws",
+    "Landscape of Bethlehem — the same land where David and ultimately Christ would be born",
+    "Gold armband — a hint of the nobility within her humble circumstances"
+  ],
+  "description": "A young woman stands in an open landscape, wearing a white headscarf and brown garments partially draped to reveal her shoulders. She carries a sheaf of wheat under one arm. A gold armband encircles her upper arm. She gazes directly at the viewer with a composed, dignified expression. Behind her, a hilly landscape stretches under a dramatic sky with blue and gray clouds. The painting has a Romantic sensibility with warm tones.",
+  "theological_description": "Ruth the Moabite is one of the most beloved figures in the Old Testament and one of the four women named in Christ's genealogy (MAT.1.5). After the death of her husband, Ruth refused to leave her mother-in-law Naomi, declaring: 'Where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God' (RUT.1.16). This confession of faith by a Gentile woman is one of the most beautiful in Scripture. Arriving in Bethlehem destitute, Ruth gleaned in the fields of Boaz, who showed her kindness. Through Boaz's role as kinsman-redeemer (go'el), Ruth was married into the line of David and became the great-grandmother of King David (RUT.4.17). Her story demonstrates that God's redemptive purpose extends beyond Israel to all nations, and that faithfulness and loyalty are rewarded with a place in the messianic lineage. The kinsman-redeemer theme prefigures Christ, our ultimate Redeemer.",
+  "scripture_refs": [
+    {"ref": "RUT.1.16-17", "relevance": "primary", "reason": "Ruth's declaration of loyalty: your people shall be my people, your God my God"},
+    {"ref": "RUT.2.2-3", "relevance": "primary", "reason": "Ruth gleaning in Boaz's field — the specific activity depicted with the sheaf of wheat"},
+    {"ref": "RUT.4.13-17", "relevance": "primary", "reason": "Ruth marries Boaz and bears Obed, grandfather of David — her place in the messianic line"},
+    {"ref": "MAT.1.5", "relevance": "primary", "reason": "Ruth named in Christ's genealogy — a Gentile woman in the lineage of the Messiah"},
+    {"ref": "RUT.2.12", "relevance": "allusion", "reason": "Boaz blesses Ruth: may you be rewarded by the Lord God of Israel under whose wings you have come to take refuge"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["dignified", "contemplative", "hopeful"],
+  "period": "Conquest",
+  "_meta": {
+    "key": "0001915",
+    "title": "Ruth",
+    "artist": "Francesco Hayez",
+    "model": "claude-opus-4-6"
+  }
+}

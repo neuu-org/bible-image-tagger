@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {
+      "name": "Saint Haralambos",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mercury",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Sculptural busts of St. Haralambos and Mercury",
+  "tags": [
+    "bust",
+    "saint",
+    "dual-portrait",
+    "clay-sculpture",
+    "martyrdom"
+  ],
+  "symbols": [
+    "two faces back to back — the juxtaposition of Christian sanctity and classical antiquity"
+  ],
+  "description": "A rough-textured clay or plaster sculpture showing two busts joined back to back. One face appears more weathered and draped, while the other shows a smoother classical profile. Greek letters are inscribed on the base. The sculpture is photographed in black and white against a plain background, emphasizing the raw, unfinished texture of the material.",
+  "theological_description": "The pairing of a Christian saint (Haralambos, a third-century bishop and martyr) with the pagan figure Mercury in a Janus-like double bust evokes the complex relationship between Christianity and classical antiquity. Saint Haralambos was martyred during the persecution under Septimius Severus and is venerated in Eastern Orthodoxy as a healer and protector. The juxtaposition suggests the artist's meditation on the transition from pagan to Christian civilization — the old gods giving way to the saints, yet sharing the same sculptural form and cultural memory.",
+  "scripture_refs": [
+    {
+      "ref": "HEB.11.35-38",
+      "relevance": "allusion",
+      "reason": "The catalogue of martyrs and saints who endured suffering for faith, applicable to Haralambos's martyrdom"
+    },
+    {
+      "ref": "ACT.14.11-15",
+      "relevance": "allusion",
+      "reason": "Paul and Barnabas mistaken for Mercury and Zeus at Lystra — the tension between pagan and Christian identity"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "austere",
+    "contemplative"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007020",
+    "title": "St. Haralambos and Mercury",
+    "artist": "Yannoulis Chalepas",
+    "model": "claude-opus-4-6"
+  }
+}

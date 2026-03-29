@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna and Child Enthroned with Angels",
+  "tags": [
+    "madonna-and-child",
+    "enthroned",
+    "angels",
+    "gold-background",
+    "gothic-throne",
+    "halo",
+    "lute",
+    "devotional",
+    "early-renaissance"
+  ],
+  "symbols": [
+    "enthroned Madonna — the Seat of Wisdom, the Queen of Heaven",
+    "infant Christ on her lap — God incarnate, the divine child",
+    "gold background — the uncreated light of divine glory",
+    "angels with musical instruments — heavenly worship and praise",
+    "Gothic architectural throne — the Church as the house of God",
+    "haloes — the sanctity of the heavenly figures"
+  ],
+  "description": "A tall panel painting with a gold background showing the Virgin Mary seated on an ornate Gothic throne. She wears a dark blue mantle over a red dress and holds a nude infant on her lap. The child reaches toward her with one hand. Two small angels with haloes kneel at the base of the throne — one in red and one holding a lute. Two additional angels appear at the sides behind the throne. The architectural throne features Gothic pointed arches and decorative columns. The gold background and halos create a luminous, otherworldly atmosphere.",
+  "theological_description": "Masaccio's Madonna and Child Enthroned represents a pivotal moment in the history of Christian art, bringing new three-dimensionality and humanity to the traditional Byzantine icon type. The enthroned Madonna as 'Sedes Sapientiae' (Seat of Wisdom) embodies the theology that through Mary, divine Wisdom entered the world — 'the Word became flesh' (John 1:14). The infant Christ's naturalistic, fleshy body emphasizes the reality of the Incarnation against any docetic denial. The angels playing music fulfill the Psalms' call: 'Praise him with the sound of the trumpet; praise him with the lute and harp' (Ps 150:3). The gold background represents the eternal, unchanging realm of God — 'God is light, and in him is no darkness at all' (1 John 1:5). The Gothic throne evokes the Temple as the dwelling place of God, now personified in Mary who carried God in her womb. This image invites the viewer to join the angels in adoring the mystery of God made child.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation shown in the naturalistic infant"
+    },
+    {
+      "ref": "PSA.150.3",
+      "relevance": "allusion",
+      "reason": "Praise him with lute and harp — the angel musicians at the throne"
+    },
+    {
+      "ref": "1JN.1.5",
+      "relevance": "allusion",
+      "reason": "God is light — the gold background as divine radiance"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — Mary enthroned in glory"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "majestic",
+    "devotional",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012604",
+    "title": "Maria and Child",
+    "artist": "Masaccio",
+    "model": "claude-opus-4-6"
+  }
+}

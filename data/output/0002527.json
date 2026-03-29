@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Nicholas of Myra", "type": "PERSON"},
+    {"name": "Prisoners", "type": "GROUP"},
+    {"name": "Executioner", "type": "PERSON"}
+  ],
+  "event": "Saint Nicholas Saves Three Innocent Prisoners from Execution",
+  "tags": [
+    "saint-nicholas",
+    "rescue",
+    "prisoners",
+    "execution",
+    "sword",
+    "intercession",
+    "bishop",
+    "justice",
+    "mercy",
+    "intervention"
+  ],
+  "symbols": [
+    "bishop's vestments with cross — Nicholas's episcopal authority",
+    "sword seized by Nicholas — the execution halted by righteous intervention",
+    "kneeling prisoner — the innocent condemned, rescued at the last moment",
+    "executioner in red — the instrument of unjust power",
+    "crowd of onlookers — the public nature of justice and mercy"
+  ],
+  "description": "A dramatic scene showing an elderly bearded man in bishop's vestments with a prominent cross, forcefully intervening in an execution. He grasps the executioner's sword with one hand while pushing the executioner back. A prisoner kneels on the ground, head bowed, about to be struck. The executioner is a muscular figure in red attire. Soldiers and onlookers fill the background. The setting appears to be an open square with mountains in the distance and a cloudy sky.",
+  "theological_description": "This painting depicts one of the most famous legends of Saint Nicholas of Myra (c. 270-343), the beloved bishop whose acts of charity made him the historical basis for the Santa Claus tradition. According to hagiographic sources, Nicholas arrived just in time to prevent the execution of three innocent men who had been falsely condemned by a corrupt governor. He seized the sword from the executioner's hands and freed the prisoners. While not a biblical event, Nicholas's bold intervention reflects the biblical prophetic tradition of standing for justice and defending the oppressed. His action echoes Proverbs 31:8-9: 'Open your mouth for the mute, for the rights of all who are destitute. Open your mouth, judge righteously, defend the rights of the poor and needy.' Nicholas exemplifies the episcopal calling to be a shepherd who protects the flock from wolves, as Christ commanded Peter (JHN.21.15-17).",
+  "scripture_refs": [
+    {"ref": "PRO.31.8-9", "relevance": "allusion", "reason": "Speak up for those who cannot speak, defend the rights of the destitute — Nicholas's prophetic intervention"},
+    {"ref": "ISA.1.17", "relevance": "allusion", "reason": "Learn to do good, seek justice, correct oppression, defend the fatherless"},
+    {"ref": "JHN.21.15-17", "relevance": "allusion", "reason": "Feed my sheep — the episcopal duty to protect the vulnerable that Nicholas embodies"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "righteous-anger", "urgency", "heroism"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0002527",
+    "title": "Nicholas of Myra eliminates the death of three innocent prisoners",
+    "artist": "Ilya Repin",
+    "model": "claude-opus-4-6"
+  }
+}

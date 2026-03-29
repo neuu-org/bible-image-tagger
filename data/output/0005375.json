@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Apostles", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "The Assumption of the Virgin",
+  "tags": [
+    "assumption",
+    "virgin-mary",
+    "apostles",
+    "angels",
+    "empty-tomb",
+    "ascending",
+    "heavenly-glory",
+    "clouds",
+    "columns",
+    "devotional"
+  ],
+  "symbols": [
+    "Mary ascending on clouds — bodily assumption into heavenly glory",
+    "empty stone sarcophagus — the tomb from which Mary has been taken up, echoing Christ's empty tomb",
+    "astonished apostles gazing upward — witnesses of the miraculous event",
+    "angels supporting Mary — the heavenly escort bearing her to glory",
+    "architectural columns — the boundary between earthly and heavenly realms"
+  ],
+  "description": "A dramatic vertical composition divided between earth and heaven. In the upper portion, the Virgin Mary in a blue mantle and red-pink robe ascends on billowing clouds, supported by angels, her arms raised and gaze directed heavenward. Below, a group of apostles cluster around an open stone sarcophagus, their bodies twisted in amazement as they look upward. One kneels at the front in a posture of wonder. Massive classical columns frame the scene at left. The palette moves from earthy browns below to luminous golden clouds above.",
+  "theological_description": "The Assumption of the Virgin depicts the ancient belief that Mary, at the end of her earthly life, was taken body and soul into heavenly glory. While not directly narrated in Scripture, the doctrine draws on typological readings: Mary as the new Ark of the Covenant (REV.11.19-12.1), preserved from corruption as the ark of acacia wood was preserved from decay. The empty sarcophagus deliberately parallels Christ's empty tomb, suggesting that the Mother shares in the Son's victory over death. The apostles' astonishment mirrors that of the women at the empty tomb on Easter morning. Patristically, the Fathers saw the Assumption as the logical consequence of Mary's sinless participation in the Incarnation — the vessel that bore the Author of Life could not be held by death. The image of the Woman clothed with the sun in Revelation 12 has been traditionally read as a Marian symbol of this heavenly glorification.",
+  "scripture_refs": [
+    {"ref": "REV.12.1", "relevance": "typological", "reason": "A woman clothed with the sun — traditionally read as Mary assumed into heavenly glory"},
+    {"ref": "REV.11.19", "relevance": "typological", "reason": "The ark of the covenant seen in heaven — Mary as the new Ark taken up to the heavenly temple"},
+    {"ref": "PSA.132.8", "relevance": "typological", "reason": "Arise, O LORD, to your resting place, you and the ark of your might — applied to Mary's assumption"},
+    {"ref": "1CO.15.54-55", "relevance": "allusion", "reason": "Death is swallowed up in victory — Mary's assumption as participation in Christ's triumph over death"},
+    {"ref": "LUK.1.28", "relevance": "allusion", "reason": "Full of grace — the fullness of grace that logically culminates in bodily glorification"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["triumphant", "awe", "glory", "wonder"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0005375",
+    "title": "The Assumption of the Virgin",
+    "artist": "Annibale Carracci",
+    "model": "claude-opus-4-6"
+  }
+}

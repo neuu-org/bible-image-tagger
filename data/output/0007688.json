@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Salome", "type": "PERSON"},
+    {"name": "Herodias", "type": "PERSON"},
+    {"name": "Executioner", "type": "PERSON"},
+    {"name": "John the Baptist", "type": "PERSON"}
+  ],
+  "event": "Salome with the Head of John the Baptist",
+  "tags": [
+    "salome",
+    "beheading",
+    "john-the-baptist",
+    "severed-head",
+    "platter",
+    "herodias",
+    "martyrdom",
+    "sword",
+    "execution"
+  ],
+  "symbols": [
+    "severed head on a platter — the cost of prophetic truth-telling against corrupt power",
+    "platter held by Salome — the perversion of a banquet gift into an instrument of death",
+    "sword in the executioner's hand — the violent means of silencing the prophet",
+    "Herodias observing — the instigator of the murder, hatred of righteousness driving the plot",
+    "Salome's averted gaze — perhaps involuntary revulsion at the reality of what she requested"
+  ],
+  "description": "Four half-length figures emerge from deep darkness. At the left, a young woman in a white off-shoulder garment holds a large golden platter. At center, an elderly woman in a white head covering grasps the hair of a severed bearded head, suspending it over the platter. At the right, a muscular man with a bare chest and rolled-up sleeves holds a short sword, gazing directly at the viewer. The severed head has closed eyes and a full beard. The lighting is dramatic, with the figures illuminated against an utterly black background.",
+  "theological_description": "Salome with the head of John the Baptist depicts the gruesome aftermath of the banquet at which Herod Antipas, ensnared by his own oath and his stepdaughter's dance, ordered the execution of the greatest prophet (Mark 6:17-29). The four figures represent the anatomy of sin: Herodias is the instigator, consumed by hatred for John who condemned her unlawful marriage; Salome is the instrument, manipulated by her mother; the executioner is the willing hand of violence; and John is the victim whose prophetic witness cost him everything. The scene's power lies in the contrast between the brutal reality of the severed head and the almost casual handling by those responsible. John's death prefigures Christ's own Passion: both are innocent men killed by weak rulers yielding to political pressure. The executioner's direct gaze at the viewer implicates us all — sin is never merely someone else's affair.",
+  "scripture_refs": [
+    {"ref": "MRK.6.17-29", "relevance": "primary", "reason": "The detailed account of John's beheading at Herod's banquet through Salome's request"},
+    {"ref": "MAT.14.6-12", "relevance": "primary", "reason": "Matthew's parallel account of the beheading of John the Baptist"},
+    {"ref": "MAT.11.11", "relevance": "allusion", "reason": "Among those born of women none is greater than John — the gravity of murdering the greatest prophet"},
+    {"ref": "REV.6.9-11", "relevance": "typological", "reason": "The souls under the altar who were slain for the word of God — John as foremost among the martyrs"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grim", "brutal", "haunting"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007688",
+    "title": "Salome with the Head of John the Baptist",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Rapture of Saint Joseph",
+  "tags": [
+    "saint-joseph",
+    "rapture",
+    "ecstasy",
+    "angels",
+    "ascending",
+    "lily-branch",
+    "putti",
+    "wreath",
+    "clouds",
+    "heavenly-glory"
+  ],
+  "symbols": [
+    "lily branch carried by angel — purity of Saint Joseph, his virginal guardianship of the Holy Family",
+    "wreath held by putto above — the crown of glory for the just man",
+    "ascending posture with arms outstretched — mystical rapture and transport to heavenly vision",
+    "supporting angels — the heavenly court receiving Joseph into glory",
+    "cityscape below — the earthly world left behind in ecstatic union with God"
+  ],
+  "description": "A vertical Baroque composition showing a bearded man in golden-yellow robes ascending on clouds, supported by angels. He raises his arms in ecstasy, his gaze directed upward. A large angel in blue robes supports him from below. At left, a smaller angel holds a long lily branch. Above, a putto descends carrying a floral wreath. Additional cherub heads peer from the clouds. Below the ascending group, a distant cityscape with classical buildings is visible through parting clouds. The palette is warm with golden yellows, blues, pinks, and creamy clouds.",
+  "theological_description": "The Rapture or Ecstasy of Saint Joseph depicts the foster father of Jesus transported in mystical vision or assumed into heavenly glory. Joseph is described in Scripture as a 'just man' (MAT.1.19), and his visions came through dreams — the angel appearing to him in sleep to reveal the mystery of the Incarnation (MAT.1.20), to command the flight to Egypt (MAT.2.13), and to announce the return (MAT.2.19-20). The lily of purity identifies him as the virginal guardian of Mary and Jesus. While Joseph's death and heavenly reception are not recorded in Scripture, the Church's devotional tradition honors him as the patron of a holy death, one who died in the presence of Jesus and Mary. The wreath of glory recalls Paul's language of the crown of righteousness laid up for those who love Christ's appearing (2TI.4.8).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.19-20",
+      "relevance": "primary",
+      "reason": "Joseph the just man, to whom the angel appeared in dreams revealing divine mysteries"
+    },
+    {
+      "ref": "MAT.2.13",
+      "relevance": "allusion",
+      "reason": "The angel appearing to Joseph in a dream — his visionary capacity reflected in the rapture"
+    },
+    {
+      "ref": "2TI.4.8",
+      "relevance": "typological",
+      "reason": "The crown of righteousness laid up for the faithful — the wreath held above Joseph"
+    },
+    {
+      "ref": "WIS.10.10",
+      "relevance": "allusion",
+      "reason": "Wisdom showed the righteous one the kingdom of God — Joseph's vision of heavenly glory"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "glorious",
+    "transcendent"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0005618",
+    "title": "The Rapture of Saint Joseph",
+    "artist": "Louis Licherie de Beurie",
+    "model": "claude-opus-4-6"
+  }
+}

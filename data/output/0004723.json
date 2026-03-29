@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Study of the Mandylion banner from the Moscow Kremlin",
+  "tags": [
+    "mandylion",
+    "holy-face",
+    "banner",
+    "icon",
+    "acheiropoietos",
+    "kremlin-armoury",
+    "red-cloth",
+    "stars",
+    "study-painting",
+    "not-made-by-hands"
+  ],
+  "symbols": [
+    "face of Christ on cloth — the Mandylion, the image not made by human hands (acheiropoietos)",
+    "red banner cloth — the royal and military standard bearing the sacred image",
+    "stars on the cloth — heavenly authority sanctifying the military banner",
+    "golden border — the sacred and precious nature of the relic"
+  ],
+  "description": "A painted study depicting a red cloth banner bearing the face of Christ — the Mandylion or Image Not Made by Hands. The banner is rendered at an angle, showing the cloth's folds and drape. Christ's face appears within a central rectangular frame on the fabric, depicted in an iconic Byzantine style with dark hair, beard, and large eyes against a light background. Gold-yellow stars are scattered across the red cloth. The study is painted against a plain light background and captures the fabric's texture and the way it catches light.",
+  "theological_description": "The Mandylion — the Holy Face of Christ imprinted on cloth — represents one of Christianity's oldest traditions about the nature of sacred images. According to legend, Christ pressed His face to a cloth, leaving a miraculous imprint, which was sent to King Abgar of Edessa. This 'image not made by hands' (acheiropoietos) was a decisive argument in the iconoclastic controversy: if Christ Himself authorized His own image, then icons are legitimate expressions of the Incarnation. The theological foundation is Colossians 1:15 — Christ is 'the image of the invisible God,' the original icon from which all other sacred images derive their legitimacy. The Incarnation itself is the ultimate acheiropoietos: God making Himself visible not through human artistry but through the assumption of flesh. The banner format shows how the sacred image accompanied armies into battle, reflecting the belief that Christ's presence protects those who bear His image.",
+  "scripture_refs": [
+    {"ref": "COL.1.15", "relevance": "typological", "reason": "Christ as the image of the invisible God — the theological basis for the Mandylion tradition"},
+    {"ref": "JHN.14.9", "relevance": "allusion", "reason": "Whoever has seen me has seen the Father — Christ's face as the revelation of God"},
+    {"ref": "2CO.4.6", "relevance": "allusion", "reason": "The light of the knowledge of the glory of God in the face of Jesus Christ"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["sacred", "reverent", "historical"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0004723",
+    "title": "The standard with the Mandylion kept in the Armoury of the Moscow Kremlin (Study to \"The Conquest of Siberia by Yermak\")",
+    "artist": "Vasily Surikov",
+    "model": "claude-opus-4-6"
+  }
+}

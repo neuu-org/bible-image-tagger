@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Simon the Pharisee", "type": "PERSON"},
+    {"name": "Apostles", "type": "GROUP"},
+    {"name": "Penitent Woman", "type": "PERSON"}
+  ],
+  "event": "Feast in the House of Simon the Pharisee",
+  "tags": [
+    "feast",
+    "simon-the-pharisee",
+    "banquet",
+    "last-supper-type",
+    "round-table",
+    "apostles",
+    "bread-breaking",
+    "arched-interior"
+  ],
+  "symbols": [
+    "round table with bread — the eucharistic gathering and communal fellowship",
+    "Christ at center — the Lord as host and center of every gathering",
+    "architectural arches — the Church as the house of fellowship and worship",
+    "figure behind Christ — possibly the penitent woman or a servant, the uninvited who intrudes with devotion"
+  ],
+  "description": "A vertical composition showing a group of thirteen figures gathered around a round white-clothed table in an arched architectural interior. Christ, in a red-pink garment, sits at the center with His hand raised in blessing or speech. The apostles surround Him in colorful robes — blues, greens, yellows, reds, and oranges — leaning in, conversing, and gesturing. A figure stands behind Christ. The setting features dark arched columns and a distant architectural view through a central opening. Bread and dishes are visible on the table.",
+  "theological_description": "The feast in the house of Simon the Pharisee (Luke 7:36-50) is one of the most theologically rich meal scenes in the Gospels. Jesus accepts the Pharisee's invitation to dinner, but the real drama unfolds when an uninvited sinful woman enters and anoints His feet with tears, perfume, and kisses. Simon's scandalized internal reaction ('If this man were a prophet, he would know what kind of woman this is') reveals his self-righteousness, prompting Jesus's parable of the two debtors. The scene teaches that those who know they have been forgiven much, love much. The meal setting prefigures the Eucharist — Christ as host, bread shared, and the unexpected guest whose faith exceeds that of the religious elite. This composition, with its circular table and gathered company, bridges the iconography of the Last Supper with this earlier prophetic meal.",
+  "scripture_refs": [
+    {"ref": "LUK.7.36-50", "relevance": "primary", "reason": "The feast at Simon the Pharisee's house where the sinful woman anoints Jesus's feet"},
+    {"ref": "LUK.7.47", "relevance": "primary", "reason": "Her sins, which are many, are forgiven, for she loved much — the central theological teaching"},
+    {"ref": "MAT.26.6-13", "relevance": "allusion", "reason": "The anointing at Bethany in Simon the leper's house — a parallel meal and anointing scene"},
+    {"ref": "LUK.15.1-2", "relevance": "allusion", "reason": "This man receives sinners and eats with them — the Pharisees' recurring objection to Jesus's table fellowship"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["intimate", "tense", "revelatory"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007783",
+    "title": "Feast in the House of Simon",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

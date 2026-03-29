@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Saint Anne", "type": "PERSON"},
+    {"name": "Infant Virgin Mary", "type": "PERSON"},
+    {"name": "Joachim", "type": "PERSON"},
+    {"name": "Attendants", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "The Birth of the Virgin Mary",
+  "tags": [
+    "birth-of-mary",
+    "saint-anne",
+    "joachim",
+    "nativity-of-virgin",
+    "angels",
+    "newborn",
+    "nursing",
+    "divine-providence"
+  ],
+  "symbols": [
+    "Newborn Mary nursed by Anne — the beginning of the divine plan of salvation through the one who will bear Christ",
+    "Angels descending from above — heavenly recognition that this birth is part of God's redemptive purpose",
+    "Architectural column — the temple, the religious context of the holy family's life",
+    "Red drapery — royalty and the Davidic lineage from which Mary descends"
+  ],
+  "description": "A woman in a white gown and red skirt reclines, nursing a newborn infant. An elderly bearded man stands behind her, gesturing upward. Several figures surround the mother, including a young attendant holding linens on the right. Above, angelic figures emerge from dark clouds, with golden light breaking through. A classical column is visible on the upper left, and through an archway on the right, additional women tend to the scene. The palette is warm with deep reds, golds, and dark shadows.",
+  "theological_description": "The Nativity of the Virgin, though not recorded in canonical Scripture, is celebrated in Church tradition (drawn from the Protoevangelium of James) as the event that sets in motion the immediate preparation for the Incarnation. Anne and Joachim, long barren, received Mary as a divine gift — echoing the pattern of miraculous births throughout salvation history: Sarah (GEN.21.1-3), Hannah (1SA.1.20), and Elizabeth (LUK.1.57). Mary's birth is the fulfillment of the proto-evangelium in Genesis, where God promised that the seed of the woman would crush the serpent's head (GEN.3.15). The angels overhead affirm heaven's involvement in this birth, for through this child the Theotokos will come — the vessel of the Incarnation. The Fathers of the Church, particularly John of Damascus, spoke of Mary's nativity as the dawn that precedes the Sun of Righteousness (MAL.4.2), the beginning of the end of the long night of sin.",
+  "scripture_refs": [
+    {"ref": "LUK.1.26-28", "relevance": "typological", "reason": "The Annunciation to Mary presupposes her birth — this scene shows the beginning of the life that will receive Gabriel's message"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The proto-evangelium promising the woman whose seed will crush the serpent — Mary's birth begins this fulfillment"},
+    {"ref": "GEN.21.1-3", "relevance": "typological", "reason": "Sarah's miraculous conception of Isaac parallels Anne's barrenness overcome by divine intervention"},
+    {"ref": "1SA.1.20", "relevance": "typological", "reason": "Hannah's gift of Samuel after barrenness prefigures Anne receiving Mary"},
+    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin who will bear Emmanuel — Mary's birth is the necessary precondition for the sign of Isaiah"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["joyful", "sacred", "tender"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001191",
+    "title": "Birth of the Virgin",
+    "artist": "Le Nain brothers",
+    "model": "claude-opus-4-6"
+  }
+}

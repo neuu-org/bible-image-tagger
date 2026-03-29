@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Manoah's Wife", "type": "PERSON"},
+    {"name": "Angel of the Lord", "type": "ANGEL"}
+  ],
+  "event": "The Annunciation to Manoah's Wife",
+  "tags": [
+    "annunciation",
+    "manoah-wife",
+    "angel-visitation",
+    "samson-foretold",
+    "barren-woman",
+    "divine-message",
+    "landscape"
+  ],
+  "symbols": [
+    "angel appearing to the woman alone — God's revelation to the one who will bear the deliverer",
+    "reclining woman — surprise and awe at the angelic visitation",
+    "beam of light — divine presence breaking into the ordinary world",
+    "distant landscape — the land of Israel that Samson will be called to deliver"
+  ],
+  "description": "A landscape scene with two figures. At the left, a woman in flowing pink-red drapery reclines on the ground, her upper body bare, looking up in surprise. At the right, a young angelic figure in ornate patterned clothing stands, gesturing toward her. Behind them stretches a dramatic landscape with a river, buildings, and hills under a sky with rays of light breaking through clouds. The palette is warm with golden light illuminating the distant vista.",
+  "theological_description": "The Annunciation to Manoah's wife (Judges 13:2-25) is one of the great birth announcements in the Old Testament, prefiguring the Annunciation to Mary. The Angel of the Lord appears to the barren wife of Manoah and promises a son who will be a Nazirite from the womb, set apart to begin delivering Israel from the Philistines. The pattern is consistent throughout Scripture: God chooses the barren, the forgotten, the overlooked as vessels of His greatest purposes. The angel's visitation to the woman rather than to her husband subverts patriarchal expectation and establishes a direct relationship between God and the mother of the deliverer. This scene stands in typological relationship with Luke 1:26-38: just as the angel came to an unnamed woman promising a son who would deliver Israel, so Gabriel came to Mary promising the Son who would deliver all humanity.",
+  "scripture_refs": [
+    {"ref": "JDG.13.2-7", "relevance": "primary", "reason": "The Angel of the Lord appearing to Manoah's barren wife to announce Samson's birth"},
+    {"ref": "JDG.13.24-25", "relevance": "allusion", "reason": "The birth of Samson and the Spirit of the Lord beginning to stir in him"},
+    {"ref": "LUK.1.26-38", "relevance": "typological", "reason": "The Annunciation to Mary — the New Testament fulfillment of the pattern of angelic birth announcements"},
+    {"ref": "GEN.18.10-14", "relevance": "typological", "reason": "The promise to barren Sarah — the recurring biblical pattern of God choosing the barren for miraculous births"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["wondrous", "dramatic", "luminous"],
+  "period": "Conquest",
+  "_meta": {
+    "key": "0007986",
+    "title": "The Annunciation to Manoah's Wife",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

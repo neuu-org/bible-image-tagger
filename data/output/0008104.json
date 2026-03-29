@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Biblical figures", "type": "GROUP"}
+  ],
+  "event": "Klosterneuburg Altar — enamel panels with biblical scenes",
+  "tags": [
+    "enamel-panels",
+    "typological-program",
+    "old-testament",
+    "samson",
+    "jonah",
+    "latin-inscription",
+    "altar-frontal",
+    "gold-enamel"
+  ],
+  "symbols": [
+    "multiple narrative panels — the typological reading of Scripture linking Old and New Testaments",
+    "gold and blue enamel — the precious materials offered for the adornment of God's altar",
+    "Latin inscriptions — the scriptural identifications framing each scene"
+  ],
+  "description": "A detail of a gilded altar frontal showing three enamel panels set in ornate gold frames with Latin inscriptions above, below, and between them. The left panel shows a figure in a boat on waves. The center panel depicts a muscular figure wrestling or fighting a lion. The right panel shows another narrative scene with a figure and architectural elements. The enamel work is in deep blue, green, and brown against a brilliant gold background. Latin text in dark blue bands frames each panel.",
+  "theological_description": "The Klosterneuburg Altar by Nicholas of Verdun (1181) is one of the masterpieces of medieval typological art. Its program pairs Old Testament scenes with their New Testament fulfillments, visually demonstrating the unity of Scripture. The panel showing a figure fighting a lion is likely Samson slaying the lion (Judges 14:5-6), read typologically as a prefiguration of Christ's victory over Satan. The boat scene may depict Jonah, whose three days in the whale prefigure Christ's three days in the tomb (Matthew 12:40). This systematic typological reading — where every Old Testament event points forward to Christ — embodies the hermeneutical principle stated by Augustine: 'The New Testament is hidden in the Old; the Old is made manifest in the New.'",
+  "scripture_refs": [
+    {"ref": "JDG.14.5-6", "relevance": "primary", "reason": "Samson tearing apart the lion — likely the central panel, prefiguring Christ's victory over evil"},
+    {"ref": "JON.1.17", "relevance": "primary", "reason": "Jonah swallowed by the great fish — likely the left panel, typologically linked to Christ's burial"},
+    {"ref": "MAT.12.40", "relevance": "typological", "reason": "As Jonah was three days in the whale, so the Son of Man will be three days in the earth"},
+    {"ref": "1PE.5.8", "relevance": "allusion", "reason": "Your adversary the devil prowls like a roaring lion — Samson's lion as type of Satan conquered by Christ"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["ornate", "sacred", "instructive"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0008104",
+    "title": "Klosterneuburg Altar",
+    "artist": "Nicholas of Verdun",
+    "model": "claude-opus-4-6"
+  }
+}

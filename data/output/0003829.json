@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Michael", "type": "ANGEL"},
+    {"name": "Satan", "type": "OTHER"}
+  ],
+  "event": "Saint Michael Vanquishing Satan",
+  "tags": [
+    "archangel-michael",
+    "satan",
+    "cosmic-battle",
+    "spiritual-warfare",
+    "golden-wings",
+    "demon",
+    "victory-over-evil",
+    "cross-emblem"
+  ],
+  "symbols": [
+    "golden wings of Michael — divine authority and heavenly origin",
+    "halo — the sanctity of the archangel",
+    "red cross emblem above — the sign of Christ's victory, under which Michael fights",
+    "fallen Satan beneath — the defeated adversary cast down from heaven",
+    "rocky precipice — the edge of the abyss into which Satan is thrown",
+    "trident falling from Satan's hand — the weapons of evil rendered powerless"
+  ],
+  "description": "The archangel Michael, depicted as a young warrior with enormous golden and teal wings, grapples with a monstrous demonic figure and hurls it downward from the sky. Michael wears ornate golden armor and has a radiant halo. Above him, a red cross floats in a luminous sky. The demon beneath him is a grotesque, muscular figure with greenish skin and a dragon-like head, falling headfirst toward rocky crags below. A trident tumbles from Satan's grasp. The composition is intensely vertical and dynamic, with swirling golden light and jewel-like color.",
+  "theological_description": "The War in Heaven is one of Scripture's most dramatic episodes: 'Now war arose in heaven, Michael and his angels fighting against the dragon. And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world' (REV.12.7-9). Michael, whose name means 'Who is like God?', appears in Daniel as 'one of the chief princes' who fights for Israel (DAN.10.13) and in Jude as contending with the devil over Moses's body (JDE.1.9). The red cross above Michael signifies that the archangel fights not by his own power but under the authority of Christ crucified — it is the cross that ultimately defeats Satan. The cosmic scope of the battle reflects Ephesians 6:12: the struggle 'against the cosmic powers over this present darkness.' Satan's fall fulfills Christ's declaration: 'I saw Satan fall like lightning from heaven' (LUK.10.18).",
+  "scripture_refs": [
+    {"ref": "REV.12.7-9", "relevance": "primary", "reason": "Michael and his angels fighting the dragon, who is cast down — the exact scene depicted"},
+    {"ref": "DAN.10.13", "relevance": "primary", "reason": "Michael as one of the chief princes, the great angelic warrior"},
+    {"ref": "LUK.10.18", "relevance": "primary", "reason": "Jesus declaring he saw Satan fall like lightning from heaven"},
+    {"ref": "JDE.1.9", "relevance": "allusion", "reason": "Michael contending with the devil — the archangel's role as adversary of Satan"},
+    {"ref": "EPH.6.12", "relevance": "allusion", "reason": "The struggle against cosmic powers of darkness, the spiritual warfare Michael wages"},
+    {"ref": "ISA.14.12-15", "relevance": "typological", "reason": "The fall of the morning star from heaven, traditionally read as Satan's expulsion"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["triumphant", "violent", "glorious", "dynamic"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0003829",
+    "title": "Saint Michael Vanquishing Satan",
+    "artist": "Gustave Moreau",
+    "model": "claude-opus-4-6"
+  }
+}

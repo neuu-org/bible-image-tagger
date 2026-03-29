@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Pope Gregory I (Gregory the Great)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit (Dove)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint Gregory the Great Inspired by the Holy Spirit",
+  "tags": [
+    "pope-gregory",
+    "church-father",
+    "holy-spirit",
+    "dove",
+    "inspiration",
+    "papal-tiara",
+    "books",
+    "writing",
+    "doctor-of-church"
+  ],
+  "symbols": [
+    "dove at Gregory's ear — the Holy Spirit directly inspiring his writing and teaching",
+    "papal tiara and vestments — Gregory's authority as Bishop of Rome",
+    "books and manuscripts — his extensive theological and liturgical writings",
+    "upward gaze — receptivity to divine inspiration"
+  ],
+  "description": "A half-length portrait of Pope Gregory I wearing an elaborate papal tiara and richly embroidered vestments with blue and gold decorative panels. A white dove hovers near his left ear, symbolizing the Holy Spirit's inspiration. He looks upward with an expression of spiritual receptivity, one hand raised in a gesture of receiving. Books and manuscripts are stacked on a surface before him. The background is dark, focusing attention on the illuminated figure. The painting is rendered with strong chiaroscuro and rich detail.",
+  "theological_description": "Pope Gregory I (c. 540-604), known as Gregory the Great, was one of the four original Doctors of the Latin Church. The dove whispering at his ear represents the ancient tradition that the Holy Spirit directly inspired his writings, fulfilling Jesus's promise: 'The Holy Spirit, whom the Father will send in my name, he will teach you all things' (JHN.14.26). Gregory's contributions to the Church were immense: he reformed the liturgy, established Gregorian chant, sent missionaries to England, and wrote extensively on pastoral care and biblical interpretation. His 'Moralia in Job' and 'Pastoral Rule' shaped Western Christianity for centuries. The scene reflects the broader biblical pattern of the Spirit inspiring teachers and prophets: 'No prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit' (2PE.1.21). Gregory exemplifies the ongoing work of the Spirit in guiding the Church 'into all the truth' (JHN.16.13).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.14.26",
+      "relevance": "primary",
+      "reason": "The Holy Spirit teaching all things, visualized in the dove at Gregory's ear"
+    },
+    {
+      "ref": "JHN.16.13",
+      "relevance": "primary",
+      "reason": "The Spirit guiding into all truth, the inspiration Gregory receives"
+    },
+    {
+      "ref": "2PE.1.21",
+      "relevance": "typological",
+      "reason": "Men spoke from God carried by the Holy Spirit, the pattern of Gregory's inspired writing"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed, the principle extended to Gregory's theological work"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "inspired",
+    "reverent",
+    "contemplative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009942",
+    "title": "St. Gregory",
+    "artist": "Matthias Stom",
+    "model": "claude-opus-4-6"
+  }
+}

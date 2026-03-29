@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {"name": "Pedestrians", "type": "GROUP"}
+  ],
+  "event": "View of St Paul's Cathedral from Ludgate Hill",
+  "tags": [
+    "st-pauls-cathedral",
+    "london",
+    "dome",
+    "cityscape",
+    "street-scene",
+    "horse-carriages",
+    "fog"
+  ],
+  "symbols": [
+    "cathedral dome rising above the city — the Church as a beacon of faith dominating the urban landscape"
+  ],
+  "description": "A vertical cityscape showing St Paul's Cathedral dome rising majestically above the rooftops of London. The view is from Ludgate Hill, with a busy street of horse-drawn carriages and pedestrians in the foreground. Buildings flank both sides of the narrow street, leading the eye upward to the enormous dome and its lantern. The atmosphere is hazy and golden with characteristic London fog softening the architecture. The palette is warm with amber, gray, and muted golden tones.",
+  "theological_description": "St Paul's Cathedral, dedicated to the apostle who first preached Christ to the Gentiles, rises above the commerce and bustle of London like a prayer in stone. The dome — modeled on St Peter's in Rome — crowns the city with a visible symbol of the Christian faith that shaped Western civilization. The contrast between the busy street below and the soaring dome above mirrors the tension between Martha and Mary (Luke 10:38-42): the world goes about its business while the cathedral calls the soul upward to contemplate eternal things.",
+  "scripture_refs": [
+    {"ref": "ACT.17.22-28", "relevance": "allusion", "reason": "Paul preaching in the city — the apostle to whom the cathedral is dedicated bringing the Gospel to urban centers"},
+    {"ref": "PSA.48.1-2", "relevance": "allusion", "reason": "Great is the Lord and greatly to be praised in the city of our God — the cathedral as urban praise"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["grand", "atmospheric"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0008313",
+    "title": "St Paul's from Ludgate Hill",
+    "artist": "John O'Connor",
+    "model": "claude-opus-4-6"
+  }
+}

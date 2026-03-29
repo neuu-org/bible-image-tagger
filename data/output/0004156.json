@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna the Prophetess",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Presentation of Christ in the Temple",
+  "tags": [
+    "presentation-in-the-temple",
+    "simeon",
+    "anna",
+    "nunc-dimittis",
+    "infant-jesus",
+    "temple",
+    "purification",
+    "candlemas",
+    "prophecy",
+    "meeting-of-the-lord"
+  ],
+  "symbols": [
+    "Simeon holding the infant — the old covenant receiving and blessing the new",
+    "temple setting with altar image — the sacred space where the Messiah is recognized",
+    "Anna at the right in dark veil — the prophetess who spoke of redemption to all who waited",
+    "Joseph at the left — the guardian father presenting his firstborn",
+    "candles flanking the altar — Candlemas, the feast of light associated with this event"
+  ],
+  "description": "A symmetrical composition set in a temple interior. At center, an elderly bearded man in red priestly robes (Simeon) holds the Christ Child, who reaches toward a woman in a dark blue veil (Mary) at the right. At the far left, a man in an orange-gold robe (Joseph) stands observing. Behind Simeon, a woman in a white veil stands, and a prophetess figure (Anna) is at the far right in a dark blue mantle. Behind them, an altar niche contains an image of the Madonna and flanking candles. The composition is balanced and formal.",
+  "theological_description": "The Presentation of Christ in the Temple, recorded in Luke 2:22-40, marks the moment when the infant Jesus is brought to the temple in Jerusalem forty days after his birth, in accordance with the Mosaic Law requiring the purification of the mother and the consecration of the firstborn son (EXO.13.2; LEV.12.1-8). There, the righteous and devout Simeon, to whom the Holy Spirit had revealed that he would not die before seeing the Messiah, takes the child in his arms and pronounces the Nunc Dimittis: 'Lord, now you are letting your servant depart in peace, according to your word; for my eyes have seen your salvation' (LUK.2.29-32). He also prophesies to Mary that a sword will pierce her soul (LUK.2.35). The prophetess Anna, an 84-year-old widow who never left the temple, gives thanks and speaks of the child to all who were looking for the redemption of Jerusalem (LUK.2.36-38). This event marks the meeting of Old and New Covenants: the aged representatives of Israel's hope receive in their arms the fulfillment of all the promises.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.22-32",
+      "relevance": "primary",
+      "reason": "The Presentation in the Temple and Simeon's Nunc Dimittis"
+    },
+    {
+      "ref": "LUK.2.34-35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that the child will be a sign of contradiction and a sword will pierce Mary's soul"
+    },
+    {
+      "ref": "LUK.2.36-38",
+      "relevance": "primary",
+      "reason": "The prophetess Anna recognizing and proclaiming the child"
+    },
+    {
+      "ref": "EXO.13.2",
+      "relevance": "typological",
+      "reason": "Consecrate to me every firstborn — the Law fulfilled in Christ's presentation"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord whom you seek will suddenly come to his temple — fulfilled in the Presentation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemnity",
+    "fulfillment",
+    "reverence",
+    "peace"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004156",
+    "title": "The Scene of Christ in the Temple",
+    "artist": "Fra Bartolomeo",
+    "model": "claude-opus-4-6"
+  }
+}

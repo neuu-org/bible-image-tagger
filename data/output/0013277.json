@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Saint Helena",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Finding of the True Cross",
+  "tags": [
+    "true-cross",
+    "saint-helena",
+    "discovery-of-relic",
+    "cross",
+    "crowd",
+    "white-robe",
+    "miraculous-discovery",
+    "banner",
+    "kneeling-figures",
+    "elderly-woman",
+    "pointing-gesture"
+  ],
+  "symbols": [
+    "large wooden cross \u2014 the True Cross on which Christ was crucified, recovered from burial",
+    "Saint Helena in white \u2014 purity of faith and imperial devotion to the holy relic",
+    "kneeling figures \u2014 reverence before the instrument of salvation",
+    "banner or flag \u2014 triumph and the victory of the Cross"
+  ],
+  "description": "A composition showing a large wooden cross standing upright in the center, with an elderly woman in white robes and head covering standing beside it, gesturing upward or toward the cross. A crowd of figures surrounds the scene, some kneeling in reverence, others standing and observing. The setting appears to be an outdoor hillside. A banner is visible. The lighting is warm and golden, focused on the central figure and the cross.",
+  "theological_description": "The Finding of the True Cross recounts the tradition that Saint Helena, mother of Emperor Constantine, traveled to Jerusalem around 326 AD and discovered the cross upon which Christ was crucified. According to the legend, three crosses were found buried near Golgotha, and the True Cross was identified when it miraculously healed a sick woman. Though this event is post-biblical, it reflects the deep theological significance of the Cross in Christian faith. Paul declared: \u2018Far be it from me to boast except in the cross of our Lord Jesus Christ\u2019 (Galatians 6:14). The Cross, once an instrument of shame, became the supreme symbol of divine love and redemptive power. Helena\u2019s discovery represents the Church\u2019s conviction that the material instruments of salvation retain sacred significance, rooted in the Incarnation itself\u2014God\u2019s entry into the material world to redeem it.",
+  "scripture_refs": [
+    {
+      "ref": "GAL.6.14",
+      "relevance": "typological",
+      "reason": "Boasting only in the cross of Christ, the theological foundation for venerating the True Cross"
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "typological",
+      "reason": "The word of the cross is folly to those perishing but the power of God to those being saved"
+    },
+    {
+      "ref": "COL.2.14-15",
+      "relevance": "allusion",
+      "reason": "Christ triumphing over powers and principalities through the cross"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "reverent",
+    "awe-filled"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0013277",
+    "title": "Finding the True Cross",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

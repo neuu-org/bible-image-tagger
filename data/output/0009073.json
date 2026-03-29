@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Philip the Apostle", "type": "PERSON"}
+  ],
+  "event": "Portrait of St. Philip the Apostle",
+  "tags": [
+    "apostle",
+    "saint-philip",
+    "stained-glass-design",
+    "halo",
+    "standing-figure",
+    "cross-staff",
+    "gothic-arch",
+    "chapel-window",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "golden halo — sanctity and divine election as one of the Twelve",
+    "cross-shaped staff — the instrument of Philip's martyrdom and the sign of his fidelity to Christ",
+    "book or scroll in hand — the Gospel that Philip proclaimed, particularly his encounter with the Ethiopian eunuch",
+    "right hand raised in blessing — apostolic authority to teach and baptize",
+    "Gothic arch framing — the Church as the setting within which the saints are venerated",
+    "inscription S. PHILIPPUS APOSTOLUS — liturgical identification in the tradition of the Western Church"
+  ],
+  "description": "A full-length standing figure of a bearded man wearing flowing classical robes, depicted within a pointed Gothic arch decorated with geometric and floral patterns. He has a golden halo around his head. His right hand is raised in a gesture of blessing or teaching, while his left hand holds a cross-shaped staff. At the bottom, an inscription reads 'S. PHILIPPUS APOSTOLUS.' The overall palette is monochromatic sepia with gold accents on the halo and decorative border elements.",
+  "theological_description": "Philip the Apostle was among the first called by Jesus in the Gospel of John (JHN.1.43-46), and it was Philip who brought Nathanael to Christ with the words 'Come and see.' At the feeding of the five thousand, Jesus tested Philip by asking where bread could be bought (JHN.6.5-7), revealing Philip's honest but limited human reckoning against the boundless provision of God. At the Last Supper, Philip's request 'Lord, show us the Father' drew from Jesus the profound revelation of divine unity: 'He who has seen me has seen the Father' (JHN.14.8-9). In Acts, Philip the Evangelist (often conflated with the Apostle in artistic tradition) proclaimed the Gospel to the Samaritans and baptized the Ethiopian eunuch (ACT.8.26-40), making him a bridge between Jewish and Gentile Christianity. The cross-staff he holds refers to the tradition of his martyrdom by crucifixion at Hierapolis. The Gothic chapel window design places the Apostle within the liturgical memory of the Church, where the saints serve as witnesses to the faith once delivered (HEB.12.1).",
+  "scripture_refs": [
+    {"ref": "JHN.1.43-46", "relevance": "primary", "reason": "The calling of Philip and his invitation to Nathanael to come and see Jesus"},
+    {"ref": "JHN.6.5-7", "relevance": "primary", "reason": "Jesus tests Philip at the feeding of the five thousand"},
+    {"ref": "JHN.14.8-9", "relevance": "primary", "reason": "Philip's request to see the Father and Jesus's revelation of divine unity"},
+    {"ref": "ACT.8.26-40", "relevance": "allusion", "reason": "Philip the Evangelist's mission to the Ethiopian eunuch, often associated with the Apostle in art"},
+    {"ref": "HEB.12.1", "relevance": "allusion", "reason": "The great cloud of witnesses, of which Philip stands as an exemplar in the chapel window"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "reverent", "serene"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009073",
+    "title": "Cardboard window of the Chapel of St. Ferdinand. St. Philip the Apostle",
+    "artist": "Jean Auguste Dominique Ingres",
+    "model": "claude-opus-4-6"
+  }
+}

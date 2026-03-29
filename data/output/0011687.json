@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Noli Me Tangere",
+  "tags": [
+    "noli-me-tangere",
+    "resurrection",
+    "risen-christ",
+    "mary-magdalene",
+    "garden",
+    "ointment-jar",
+    "encounter",
+    "white-robe",
+    "kneeling",
+    "dawn"
+  ],
+  "symbols": [
+    "white drapery on Christ — the glorified resurrection body, purity and triumph over death",
+    "Mary kneeling — devotion and recognition of the risen Lord",
+    "ointment jar at Mary's side — her identity as the woman who anointed Jesus",
+    "dark garden background — the garden tomb where Christ was buried and rose",
+    "Christ's gesture of withdrawal — the command 'Do not cling to me' as He ascends to the Father"
+  ],
+  "description": "A muscular, bare-chested man draped in a white cloth stands at the right, his right hand slightly extended in a gesture of withdrawal. A young woman in a yellow cloak over a lavender and teal dress kneels at his left side, reaching toward him with both hands. A small golden vessel sits on the ground near her. The background is a dark, rocky landscape with a dramatic sky.",
+  "theological_description": "This painting depicts the post-resurrection encounter between Christ and Mary Magdalene at the garden tomb, as narrated in John 20:11-18. Mary, who had come to anoint the body, discovers the tomb empty and encounters the risen Jesus, whom she initially mistakes for a gardener. When she recognizes Him and reaches out, He says 'Noli me tangere' — 'Do not cling to me, for I have not yet ascended to the Father.' The scene captures the tension between earthly attachment and heavenly glorification. Christ's exposed torso may subtly allude to His wounds, while the white cloth signals His transformed, glorified state. Mary's posture of adoration and longing reflects the disciple's desire to hold onto the familiar Jesus, while His withdrawal points to the new mode of presence He will establish through the Holy Spirit (John 14:16-18). Mary Magdalene becomes the first witness and apostle of the resurrection, commissioned to 'go and tell' the disciples.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.20.17",
+      "relevance": "primary",
+      "reason": "Jesus says to Mary 'Do not cling to me, for I have not yet ascended to the Father'"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "primary",
+      "reason": "The full narrative of Mary Magdalene at the empty tomb encountering the risen Christ"
+    },
+    {
+      "ref": "MRK.16.9",
+      "relevance": "allusion",
+      "reason": "Jesus appeared first to Mary Magdalene after rising early on the first day"
+    },
+    {
+      "ref": "JHN.14.16-18",
+      "relevance": "typological",
+      "reason": "Christ's promise of the Spirit as the new mode of presence after His ascension"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "luminous",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011687",
+    "title": "Noli Me Tangere",
+    "artist": "Anton Raphael Mengs",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Saint James", "type": "PERSON"},
+    {"name": "Hermogenes", "type": "OTHER"},
+    {"name": "Demons", "type": "OTHER"}
+  ],
+  "event": "Saint James and the Magician Hermogenes",
+  "tags": [
+    "saint-james",
+    "hermogenes",
+    "magic",
+    "demons",
+    "conversion",
+    "village-scene",
+    "apostolic-power",
+    "spiritual-warfare"
+  ],
+  "symbols": [
+    "buildings and village — the earthly stage of the spiritual contest between apostolic power and sorcery",
+    "scattered figures in conflict — the chaos demons bring versus the order Christ's authority establishes",
+    "dark figure of the magician — the power of evil overcome by apostolic faith"
+  ],
+  "description": "A village scene with a central stone building surrounded by smaller structures. Various small figures are scattered throughout the composition engaged in different activities. In the foreground, figures appear to be in conflict or distress. A dark-robed figure at the lower left gestures dramatically. Other figures interact around and inside the buildings. The landscape includes gentle hills and a large rounded mountain or mound in the background. The palette is muted earthy tones of ochre, green, and gray. The scene has the characteristic surreal quality of Bosch's work.",
+  "theological_description": "The legend of Saint James (the Greater) and the magician Hermogenes tells how the apostle's power, derived from Christ, overcame the sorcerer's demonic arts. Hermogenes sent his disciple Philetus to confound James, but Philetus was converted instead. When Hermogenes sent demons against James, the apostle commanded them in Christ's name, and they turned on their master. This narrative, from the Golden Legend, illustrates the apostolic authority Christ granted: 'I have given you authority to tread on serpents and scorpions, and over all the power of the enemy' (LUK.10.19). The contest with a magician echoes Acts 8:9-24, where Simon Magus is confounded by apostolic power, and Acts 13:6-12, where Paul strikes the sorcerer Elymas blind. These stories affirm that the power of Christ surpasses all occult forces.",
+  "scripture_refs": [
+    {"ref": "LUK.10.19", "relevance": "primary", "reason": "Authority over all the power of the enemy — James commanding demons in Christ's name"},
+    {"ref": "ACT.8.9-24", "relevance": "typological", "reason": "Simon Magus confounded by apostolic power — the pattern for James and Hermogenes"},
+    {"ref": "ACT.13.6-12", "relevance": "typological", "reason": "Paul opposing the sorcerer Elymas — another apostle-vs-magician encounter"},
+    {"ref": "MRK.16.17", "relevance": "allusion", "reason": "In my name they will cast out demons — the authority James exercises"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["chaotic", "mysterious", "tense"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0003844",
+    "title": "St. James and the Magician Hermogenes",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

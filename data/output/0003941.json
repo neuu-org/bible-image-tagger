@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Head of Christ Crowned with Thorns",
+  "tags": [
+    "crown-of-thorns",
+    "passion",
+    "head-of-christ",
+    "blood-drops",
+    "triangle",
+    "chapel-mural",
+    "suffering-servant",
+    "modernist-sacred-art"
+  ],
+  "symbols": [
+    "crown of thorns — the mockery of kingship and the curse borne for humanity",
+    "red blood drops — the price of atonement, each drop representing sin's cost",
+    "triangle enclosing the head — the Trinity, within which the suffering of Christ takes place",
+    "downward-tilted head — the weight of suffering and the moment of death",
+    "golden geometric patterns — divine glory underlying the suffering"
+  ],
+  "description": "A modernist chapel mural within an arched niche depicts the head of Christ enclosed in a large triangle. The face is rendered in spare, angular lines showing closed eyes and a downward tilt. A crown of thorns, drawn in sharp black strokes, encircles the head. Red dots representing blood drops fall from the thorns and stream down the face. The triangle is filled with golden geometric patterns at the corners. The background is bare plaster. The style is bold and linear, combining modern graphic sensibility with sacred subject matter.",
+  "theological_description": "This modernist depiction of the crowned and bleeding Christ reduces the Passion to its essential elements: thorns, blood, and suffering. The triangle — the universal symbol of the Trinity — frames the suffering Son, affirming that the Crucifixion is not merely a human tragedy but a Trinitarian event. The Father gives the Son (JHN.3.16), the Son willingly offers himself (HEB.9.14), and the Spirit sustains the offering. The red drops recall Isaiah 53:5: 'By his wounds we are healed,' each one a visible sign of the price of redemption. The crown of thorns transforms the curse of Genesis 3:18 into the instrument of salvation — Christ bearing the consequences of sin on his own brow. Cocteau's spare, almost diagrammatic style strips away all sentiment to present the raw theology of the Cross: 'He was wounded for our transgressions; he was crushed for our iniquities' (ISA.53.5).",
+  "scripture_refs": [
+    {"ref": "MAT.27.29", "relevance": "primary", "reason": "The soldiers placing the crown of thorns on Christ's head — the central image"},
+    {"ref": "ISA.53.5", "relevance": "primary", "reason": "By his wounds we are healed — the blood drops streaming from the thorns"},
+    {"ref": "JHN.19.2", "relevance": "primary", "reason": "The soldiers twisting together a crown of thorns and putting it on his head"},
+    {"ref": "GEN.3.18", "relevance": "typological", "reason": "Thorns as the curse of sin, now borne on Christ's head to reverse the curse"},
+    {"ref": "HEB.9.14", "relevance": "allusion", "reason": "Christ offering himself through the eternal Spirit — the Trinitarian triangle framing the sacrifice"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["stark", "anguished", "sacred"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003941",
+    "title": "Interieur chapelle Saint Blaise",
+    "artist": "Jean Cocteau",
+    "model": "claude-opus-4-6"
+  }
+}

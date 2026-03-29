@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony of Padua",
+      "type": "PERSON"
+    },
+    {
+      "name": "Fish",
+      "type": "GROUP"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint Anthony Preaching to the Fish",
+  "tags": [
+    "saint-anthony",
+    "preaching-to-fish",
+    "miracle",
+    "shore",
+    "franciscan",
+    "sermon",
+    "legend"
+  ],
+  "symbols": [
+    "Anthony elevated preaching — the power of sacred oratory reaching even creation",
+    "fish gathered to listen — creation responding to divine truth when humans refuse",
+    "onlookers amazed — the witnesses to this legendary miracle"
+  ],
+  "description": "A landscape scene showing Saint Anthony in a Franciscan habit standing elevated on a rock at the seashore, gesturing outward as if preaching. Below and around him, a group of people in colorful garments watches in amazement. The figure appears to be addressing the waters. A wide coastal landscape with mountains and clouds stretches behind. The palette is subdued with blues, grays, and warm earth tones.",
+  "theological_description": "According to legend, when the people of Rimini refused to hear Anthony's preaching, he went to the shore and preached to the fish, who gathered in orderly rows to listen. The story echoes Jesus's own parable about seeds falling on different soils (MAT.13.1-23) — when some hearts are hard, creation itself may be more receptive. It also recalls the biblical theme of creation praising God: 'Let the sea roar, and all that fills it; let the field exult, and everything in it!' (PSA.96.11-12). Anthony's preaching ministry continues the apostolic commission: 'Go into all the world and proclaim the gospel to the whole creation' (MRK.16.15).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.16.15",
+      "relevance": "primary",
+      "reason": "Proclaim the gospel to all creation — Anthony preaching to fish fulfills this literally"
+    },
+    {
+      "ref": "PSA.96.11-12",
+      "relevance": "typological",
+      "reason": "Creation praising God, the fish responding to sacred preaching"
+    },
+    {
+      "ref": "MAT.13.1-9",
+      "relevance": "allusion",
+      "reason": "The parable of the sower — when human hearts reject, creation receives"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "wondrous",
+    "solemn",
+    "dramatic"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0011255",
+    "title": "St Anthony Preaching to the Fish",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

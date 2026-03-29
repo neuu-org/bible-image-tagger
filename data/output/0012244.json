@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Blind Man",
+      "type": "PERSON"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ Healing the Blind Man",
+  "tags": [
+    "healing",
+    "blind-man",
+    "miracle",
+    "touch",
+    "sight-restored",
+    "disciples",
+    "classical-architecture",
+    "compassion",
+    "staff"
+  ],
+  "symbols": [
+    "Christ's hand touching the blind man's eyes — the divine touch that restores sight",
+    "blind man's staff — his dependence and helplessness before the healing",
+    "kneeling posture — faith and humility before the healer",
+    "disciples watching behind — the witnesses learning from Christ's ministry",
+    "classical columns — the threshold between the old world of blindness and the new world of sight"
+  ],
+  "description": "A scene before classical architecture with columns. At center, a young man in a blue robe reaches out to touch the eyes of a kneeling, ragged figure who holds a walking staff — a blind man. Behind Christ, two or three figures in robes observe the scene. The blind man leans forward with open mouth, as if crying out. The setting is an outdoor colonnade with a landscape visible at right. The palette is warm with earth tones and the characteristic classicism of Le Sueur.",
+  "theological_description": "Le Sueur depicts one of Christ's most significant miracles — the healing of the blind. Multiple Gospel accounts describe Jesus restoring sight: the blind man at Bethsaida (Mark 8:22-26), blind Bartimaeus (Mark 10:46-52), the man born blind (John 9:1-41), and the two blind men (Matt 9:27-31). Jesus touches the man's eyes, fulfilling the messianic prophecy of Isaiah: 'Then the eyes of the blind shall be opened' (Isa 35:5). In John's account, Jesus declares 'I am the light of the world' before restoring sight (John 9:5), giving the physical miracle profound spiritual significance. Blindness and sight become metaphors for spiritual darkness and illumination: 'For this purpose I have come into the world — to bear witness to the truth' (John 18:37). The healing also fulfills Jesus' inaugural sermon in Nazareth, where He announced He had come 'to proclaim... recovering of sight to the blind' (Luke 4:18, citing Isa 61:1).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.9.1-7",
+      "relevance": "primary",
+      "reason": "Jesus heals a man born blind — the central miracle depicted"
+    },
+    {
+      "ref": "ISA.35.5",
+      "relevance": "primary",
+      "reason": "Then the eyes of the blind shall be opened — the messianic prophecy fulfilled"
+    },
+    {
+      "ref": "LUK.4.18",
+      "relevance": "typological",
+      "reason": "He has sent me to proclaim recovery of sight to the blind"
+    },
+    {
+      "ref": "JHN.9.5",
+      "relevance": "allusion",
+      "reason": "I am the light of the world — spiritual meaning of the physical healing"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "hopeful",
+    "miraculous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012244",
+    "title": "Christ Healing the Blind Man",
+    "artist": "Eustache Le Sueur",
+    "model": "claude-opus-4-6"
+  }
+}

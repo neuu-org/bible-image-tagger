@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Apostles Peter and John the Evangelist",
+  "tags": [
+    "saint-peter",
+    "saint-john-evangelist",
+    "two-apostles",
+    "conversation",
+    "open-book",
+    "yellow-robe",
+    "blue-robe",
+    "green-garment",
+    "red-drapery",
+    "elder-and-youth",
+    "decorative-border"
+  ],
+  "symbols": [
+    "open book held by John — his authorship of the Gospel, Epistles, and Revelation",
+    "Peter’s earnest gesture — his active, impetuous leadership in the early Church",
+    "contrast of age — Peter the elder and John the youngest apostle",
+    "yellow and blue robes — traditional apostolic colors of faith and revelation"
+  ],
+  "description": "A fresco depicting two standing male figures in conversation within a decorative architectural frame with ornamental borders above. On the left, an older man with a balding head and white beard wears a blue robe over a yellow garment, gesturing with one hand toward the younger figure. On the right, a younger man with long curly hair in a green tunic and red-brown drapery holds an open book in one hand and gestures with the other. Both figures face each other in an engaged dialogue.",
+  "theological_description": "Peter and John form one of the most significant apostolic pairs in the New Testament. They are repeatedly paired together: at the Transfiguration (Mark 9:2), in the Garden of Gethsemane (Mark 14:33), running to the empty tomb on Easter morning (John 20:3-4), healing the lame man at the Beautiful Gate (Acts 3:1-10), and before the Sanhedrin (Acts 4:13). Their contrasting temperaments—Peter’s impulsive boldness and John’s contemplative depth—represent the complementary dimensions of Christian witness. Peter was given the keys of the kingdom (Matthew 16:19), while John was the beloved disciple who leaned on Jesus’ breast (John 13:23). Together they embody the fullness of apostolic authority: Peter’s pastoral leadership and John’s theological vision. The open book in John’s hand represents his written legacy—the Gospel that begins with the cosmic declaration ‘In the beginning was the Word’ (John 1:1).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.3.1-10",
+      "relevance": "primary",
+      "reason": "Peter and John together at the Beautiful Gate, the archetypal partnership"
+    },
+    {
+      "ref": "JHN.20.3-4",
+      "relevance": "allusion",
+      "reason": "Peter and John running together to the empty tomb on Easter morning"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "allusion",
+      "reason": "The opening of John’s Gospel, represented by the book in his hand"
+    },
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "allusion",
+      "reason": "Peter’s commission as the rock and holder of the keys of the kingdom"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dialogical",
+    "reverent",
+    "harmonious"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0013564",
+    "title": "The Apostles Peter and John the Evangelist",
+    "artist": "Luca Signorelli",
+    "model": "claude-opus-4-6"
+  }
+}

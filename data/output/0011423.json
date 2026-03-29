@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Nativity",
+  "tags": [
+    "nativity",
+    "birth-of-christ",
+    "manger",
+    "stable",
+    "angels",
+    "holy-family",
+    "light"
+  ],
+  "symbols": [
+    "infant radiating light — the Light of the World entering creation",
+    "manger — humility of the Incarnation",
+    "angels above — heavenly joy at the Savior's birth"
+  ],
+  "description": "A Northern Renaissance Nativity showing the Virgin Mary kneeling before the radiant infant Jesus. Joseph stands nearby. Angels hover above. The Christ Child emits supernatural light illuminating the surrounding figures. The setting is a rustic stable.",
+  "theological_description": "The Nativity (LUK.2.1-7) is the moment the eternal Word enters creation as a helpless infant. 'She laid him in a manger, because there was no place for them in the inn' (LUK.2.7). The manger becomes the first throne of the King of kings. The light from the child visualizes John's theology: 'The true light, which gives light to everyone, was coming into the world' (JHN.1.9). Paul: 'Though he was rich, yet for your sake he became poor' (2CO.8.9).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.1-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus"
+    },
+    {
+      "ref": "JHN.1.9",
+      "relevance": "typological",
+      "reason": "The true light coming into the world"
+    },
+    {
+      "ref": "2CO.8.9",
+      "relevance": "typological",
+      "reason": "Though rich he became poor for our sake"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "luminous",
+    "humble"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011423",
+    "title": "Nativity",
+    "artist": "Hans Baldung",
+    "model": "claude-opus-4-6"
+  }
+}

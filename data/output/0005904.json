@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna with the Baldachino (detail)",
+  "tags": [
+    "madonna-and-child",
+    "baldachino",
+    "enthroned-madonna",
+    "angels",
+    "saints",
+    "green-canopy",
+    "bishop",
+    "devotional"
+  ],
+  "symbols": [
+    "green canopy or baldachino — the heavenly throne over the Virgin and Child, sign of royal and sacred honor",
+    "angels holding the canopy — the heavenly court attending the Mother and Child",
+    "enthroned Virgin with Child — the Theotokos as Seat of Wisdom, the throne of the Incarnation",
+    "saints flanking the throne — the communion of saints gathered before the divine presence",
+    "bishop with mitre — the teaching authority of the Church in communion with the heavenly Queen"
+  ],
+  "description": "A detail from a larger altarpiece showing the Virgin Mary enthroned at center under a green draped canopy (baldachino) held aloft by flying angels. She holds the infant Jesus on her lap. Two large angels with colorful wings support the canopy from either side. Below and flanking the throne, saints stand in attendance: at left, an elderly figure and a veiled woman, and at right, a bishop in a white mitre and vestments. The architectural setting includes classical columns and an arched niche behind the canopy. The palette features warm reds, greens, and golden tones.",
+  "theological_description": "The Madonna with the Baldachino presents the enthroned Virgin and Child in the format of the Sacra Conversazione, where saints across different centuries are gathered in timeless communion before the divine presence. The green canopy (baldachino) signifies royal honor and the sacred space of the divine presence — echoing the canopy over the Ark of the Covenant in the Temple. The angels supporting the baldachino reflect the cherubim whose wings overshadowed the mercy seat (EXO.25.20). Mary as the throne of Christ fulfills the typology of Solomon's ivory throne (1KGS.10.18-20), now made living and maternal. The saints' presence demonstrates the doctrine of the communion of saints: those who lived in different centuries are united in the eternal present of Christ's glory.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.42-43",
+      "relevance": "allusion",
+      "reason": "Blessed are you among women — Mary enthroned in honor as the Mother of the Lord"
+    },
+    {
+      "ref": "EXO.25.20",
+      "relevance": "typological",
+      "reason": "Cherubim with outstretched wings over the mercy seat — the angels holding the canopy"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "A woman clothed with the sun — the heavenly Queen enthroned in glory"
+    },
+    {
+      "ref": "HEB.12.22-23",
+      "relevance": "allusion",
+      "reason": "The assembly of the firstborn enrolled in heaven — the saints gathered before the throne"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "majestic",
+    "reverent",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005904",
+    "title": "Madonna with the Baldachino (detail)",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

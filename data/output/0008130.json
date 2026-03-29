@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mourners", "type": "GROUP"}
+  ],
+  "event": "Lamentation over the Dead Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "pieta",
+    "mourning",
+    "deposition",
+    "passion",
+    "grief",
+    "calvary-background"
+  ],
+  "symbols": [
+    "limp body of Christ — death accomplished, the sacrifice complete",
+    "Mary swooning — the Mother of Sorrows overwhelmed by grief",
+    "mourners supporting the body — the faithful who remained at the cross",
+    "distant crosses on the hill — Calvary, the site of the crucifixion just completed"
+  ],
+  "description": "A dark, horizontal composition showing the dead body of Christ laid out in the foreground, supported by several grieving figures. A woman in red at the left swoons or bends over the body. Other figures cluster around, some with hands raised in grief, others supporting Mary or Christ's body. The scene is set against a dark landscape with faint crosses visible on a distant hill at the right. The palette is somber with deep reds, browns, and muted flesh tones against a dark sky.",
+  "theological_description": "The Lamentation is the moment between crucifixion and burial — the liminal space where grief overwhelms hope. The dead Christ lies as the sacrificial lamb whose blood has been shed for the world's redemption, though those who mourn cannot yet see beyond death to resurrection. Mary's swoon embodies the sword that Simeon prophesied would pierce her soul (Luke 2:35). The gathered mourners represent the Church in its darkest hour, clinging to the body of the one they loved and followed. The distant crosses remind the viewer of the violence just concluded. Yet theologically, this scene of apparent defeat contains the seeds of victory: the body being mourned will not see corruption (Psalm 16:10) but will rise on the third day. The Lamentation teaches that grief is not the opposite of faith but can be its most honest expression.",
+  "scripture_refs": [
+    {"ref": "JHN.19.38-42", "relevance": "primary", "reason": "The preparation of Christ's body for burial after the crucifixion"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "A sword will pierce your own soul — Mary's grief at the lamentation"},
+    {"ref": "PSA.16.10", "relevance": "typological", "reason": "You will not let your Holy One see corruption — the hope hidden within the lamentation"},
+    {"ref": "ISA.53.3-4", "relevance": "allusion", "reason": "A man of sorrows, acquainted with grief — the Suffering Servant's death mourned by the faithful"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grievous", "dark", "sorrowful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008130",
+    "title": "Lamentation over the Dead Christ",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

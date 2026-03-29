@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "John the Apostle", "type": "PERSON"}
+  ],
+  "event": "The Crucifixion",
+  "tags": [
+    "crucifixion",
+    "passion",
+    "inri",
+    "mater-dolorosa",
+    "john-the-beloved",
+    "magdalene",
+    "atoning-death",
+    "redemptive-suffering",
+    "golgotha",
+    "calvary"
+  ],
+  "symbols": [
+    "cross with INRI titulus — the instrument of atonement bearing Pilate's inscription",
+    "Christ's outstretched arms — embracing the world in sacrificial love",
+    "mourning women at left — the faithful who remain at the foot of the Cross",
+    "kneeling figure — Mary Magdalene in devotion to the crucified Lord",
+    "dark background — the three hours of darkness covering the land",
+    "white loincloth — the purity and sinlessness of the Lamb of God"
+  ],
+  "description": "Christ hangs on a large wooden cross against an almost completely dark background. The INRI inscription is visible at the top. His body is powerfully muscular, head tilted upward, arms stretched wide. At the base of the cross, three figures gather: two women stand at the left, one in dark blue and another in red robes, their faces expressing grief. A third figure kneels at the right, looking up at Christ with clasped or outstretched hands. The dramatic chiaroscuro lighting isolates the figures against the deep darkness.",
+  "theological_description": "The Crucifixion is the climax of the Gospel narrative, the hour to which all of Christ's ministry pointed. John's Gospel records that standing by the cross were his mother, his mother's sister, Mary the wife of Clopas, and Mary Magdalene (JHN.19.25). To his mother and the beloved disciple, Jesus spoke the words constituting the new family of faith: 'Woman, behold your son... Behold your mother' (JHN.19.26-27). The dramatic darkness recalls the synoptic accounts: 'From the sixth hour there was darkness over all the land until the ninth hour' (MAT.27.45). In this painting, the extreme tenebrism enacts that cosmic darkness theologically — the light of the world is dying, and creation responds with blackness. Paul interprets the Cross as the place where God 'made him to be sin who knew no sin, so that in him we might become the righteousness of God' (2CO.5.21). The upward tilt of Christ's head may suggest his cry to the Father, whether the dereliction of Psalm 22 or Luke's final committal of his spirit.",
+  "scripture_refs": [
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "The faithful at the foot of the Cross: Mary, the beloved disciple, and Mary Magdalene"},
+    {"ref": "MAT.27.45-50", "relevance": "primary", "reason": "The darkness over the land and Christ's death on the cross"},
+    {"ref": "PSA.22.1-18", "relevance": "typological", "reason": "The messianic psalm of the forsaken righteous one, fulfilled at the Crucifixion"},
+    {"ref": "ISA.53.4-6", "relevance": "typological", "reason": "The Suffering Servant bearing our griefs and wounded for our transgressions"},
+    {"ref": "2CO.5.21", "relevance": "typological", "reason": "God making Christ to be sin so that we might become the righteousness of God"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "darkness", "solemnity", "anguish"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002279",
+    "title": "Crucifixion",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Saint Margaret", "type": "PERSON"},
+    {"name": "Dragon/Serpent", "type": "OTHER"}
+  ],
+  "event": "Saint Margaret triumphing over the dragon",
+  "tags": [
+    "saint-margaret",
+    "dragon",
+    "serpent",
+    "hagiography",
+    "victory-over-evil",
+    "light",
+    "cathedral-interior",
+    "glowing-figure",
+    "mystical"
+  ],
+  "symbols": [
+    "Glowing haloed figure — the saint's holiness and divine protection radiating light into darkness",
+    "Dragon/serpent at her feet — evil subdued through faith, echoing the promise of Genesis 3:15",
+    "Dark architectural interior — the prison or lair where Margaret faced her trial",
+    "Red splashes — the blood of martyrdom or the violence of the demonic realm overcome by sanctity"
+  ],
+  "description": "A luminous female figure wearing an ornate crown or headdress and dark robes stands in a towering, shadowy cathedral-like interior. She glows with an ethereal light, her halo illuminating the surrounding darkness. At her feet, a crouching figure or creature is barely visible in the shadows. A serpentine form appears to the left. The architecture rises dramatically above, with hints of candles or lights in the upper reaches. Red tones flare on the right side. The atmosphere is deeply mystical and otherworldly.",
+  "theological_description": "Saint Margaret of Antioch is a virgin martyr of the early Church whose legend includes her miraculous triumph over a dragon in prison — the devil appearing to her in monstrous form, which she conquered through the sign of the cross. Though Margaret is not a biblical figure, her legend draws deeply on scriptural themes. The woman triumphing over the serpent recalls the proto-evangelium (GEN.3.15), where the seed of the woman crushes the serpent's head. Margaret's victory over the dragon also echoes the cosmic battle of Revelation 12, where the woman clothed with the sun is pursued by the dragon. Her radiant figure in the darkness embodies Christ's promise: 'I am the light of the world. Whoever follows me will not walk in darkness' (JHN.8.12). The martyrs' triumph through faith, not physical power, fulfills Paul's declaration: 'We are more than conquerors through him who loved us' (ROM.8.37).",
+  "scripture_refs": [
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The woman's seed crushing the serpent's head — Margaret's victory over the dragon echoes this promise"},
+    {"ref": "REV.12.1-9", "relevance": "typological", "reason": "The woman pursued by the dragon, the cosmic spiritual warfare reflected in Margaret's legend"},
+    {"ref": "ROM.8.37", "relevance": "typological", "reason": "More than conquerors through Christ — the martyr's triumph over demonic evil through faith"},
+    {"ref": "JHN.8.12", "relevance": "allusion", "reason": "The light of the world — Margaret's luminous figure radiating divine light into darkness"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["mystical", "triumphant", "ethereal", "dark"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001481",
+    "title": "Saint Margaret",
+    "artist": "Gustave Moreau",
+    "model": "claude-opus-4-6"
+  }
+}

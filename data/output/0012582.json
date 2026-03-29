@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Donor",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Sebastian Altarpiece",
+  "tags": [
+    "saint-sebastian",
+    "madonna-and-child",
+    "donor-portrait",
+    "martyr",
+    "arrows",
+    "devotional"
+  ],
+  "symbols": [
+    "arrows piercing Sebastian — the instruments of martyrdom",
+    "Madonna and Child at center — the intercession of the Mother of God",
+    "kneeling donor — the patron seeking protection through the saints",
+    "triptych format — the liturgical altar context for devotion and prayer"
+  ],
+  "description": "A small Gothic triptych altarpiece with three panels. The central panel shows the Virgin Mary seated with the Christ child, before a Gothic church structure. A kneeling donor figure in dark robes appears at her feet. The left panel contains narrative scenes in multiple registers, including what appears to be the martyrdom of Saint Sebastian. The right panel also contains multiple scenes with figures in architectural settings. The panels are framed by ornate gilded Gothic tracery. The style is late Gothic with rich color and intricate detail.",
+  "theological_description": "This altarpiece combines the veneration of Saint Sebastian with the devotion to the Virgin and Child and the patron's personal piety. Sebastian, the Roman soldier-martyr pierced with arrows, became one of the most invoked saints against plague throughout medieval Europe. The central Madonna and Child affirms the Catholic theology of intercession — the faithful approach God through the saints and especially through Mary. The donor kneeling before the Virgin embodies the prayer life of medieval Christianity, where personal devotion and institutional liturgy merged. The multi-scene panels narrate the life and martyrdom of Sebastian, following the pattern of hagiographic art. The triptych format allowed the altarpiece to be opened and closed according to the liturgical calendar, making it a living instrument of worship.",
+  "scripture_refs": [
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and I will give you the crown of life — Sebastian's martyrdom"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "allusion",
+      "reason": "Blessed are you among women — the Virgin at the center of intercession"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "typological",
+      "reason": "Surrounded by a great cloud of witnesses — the saints flanking the Madonna"
+    },
+    {
+      "ref": "1TI.2.5",
+      "relevance": "allusion",
+      "reason": "One mediator between God and men — the theology of intercession through saints"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "reverent",
+    "ornate"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012582",
+    "title": "Saint Sebastian",
+    "artist": "Bartolome Bermejo",
+    "model": "claude-opus-4-6"
+  }
+}

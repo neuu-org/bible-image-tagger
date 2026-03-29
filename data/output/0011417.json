@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "gabriel",
+    "virgin-mary",
+    "lily",
+    "white",
+    "fear",
+    "purity"
+  ],
+  "symbols": [
+    "lily — purity and the Annunciation tradition",
+    "Mary shrinking back — human awe before the divine",
+    "white garments — purity and heavenly origin"
+  ],
+  "description": "A Pre-Raphaelite Annunciation showing Mary cowering on a narrow bed against a white wall, while a barefoot angel with a flame-like halo offers her a white lily. Both figures wear white garments. The palette is predominantly white with accents of blue and gold.",
+  "theological_description": "Rossetti captures the terror of the divine encounter. Mary 'was greatly troubled at the saying' (LUK.1.29). Gabriel must reassure her: 'Do not be afraid, Mary' (LUK.1.30). The confined space emphasizes that the Incarnation enters the most ordinary human setting. Her fiat — 'let it be to me according to your word' (LUK.1.38) — is the hinge of salvation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation narrative"
+    },
+    {
+      "ref": "LUK.1.29-30",
+      "relevance": "primary",
+      "reason": "Mary troubled, Gabriel reassuring"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "awe-struck",
+    "intimate",
+    "tense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011417",
+    "title": "The Annunciation",
+    "artist": "Dante Gabriel Rossetti",
+    "model": "claude-opus-4-6"
+  }
+}

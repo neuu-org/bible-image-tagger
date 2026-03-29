@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Cherubs",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna of Justice Enthroned with the Law",
+  "tags": [
+    "madonna-and-child",
+    "enthroned",
+    "justice",
+    "law",
+    "cherubs",
+    "open-book",
+    "crown",
+    "sword",
+    "scales",
+    "allegorical"
+  ],
+  "symbols": [
+    "Virgin Mary enthroned on clouds — the Queen of Heaven, exalted as seat of divine Wisdom",
+    "Christ Child with cross-staff — the divine authority and future sacrifice of the Lamb",
+    "open book with Latin text (SUPREMA LEX ESTO) — the supreme law, connecting divine justice with Marian intercession",
+    "cherub holding the book — angelic mediation of divine law and wisdom",
+    "crown below the book — royal authority subjected to divine law",
+    "sword and scales — traditional attributes of justice, here governed by heavenly authority"
+  ],
+  "description": "The upper portion shows the Virgin Mary seated on clouds, wearing red, white, and green garments, holding the Christ Child who grasps a small cross-staff. Below them, a winged cherub holds open a large book inscribed with the Latin words 'SUPREMA LEX ESTO' (Let the supreme law prevail). Beneath the book, a crown, a sword, and other emblems of authority are arranged. The background is dark, with divine light radiating from the Madonna and Child above. The composition is vertical and monumental.",
+  "theological_description": "This allegorical composition unites the Marian theme of the Madonna and Child with the concept of divine justice. The Latin inscription 'Suprema Lex Esto' declares that God's law is supreme above all earthly authority, a theme rooted in the biblical understanding that 'the fear of the LORD is the beginning of wisdom' (PRO.9.10). Mary, as Theotokos and Seat of Wisdom, bears the Christ who is himself 'the wisdom of God and the power of God' (1CO.1.24). The crown and sword beneath the divine book signify that earthly kingship and military power are subordinate to the divine order mediated through Christ. The Magnificat (LUK.1.46-55) echoes this theme: God 'has brought down the mighty from their thrones and exalted those of humble estate.' The allegory draws on the tradition of Mary as the Ark of the New Covenant, bearing within herself the living Word who fulfills and transcends the Mosaic Law (JHN.1.17).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat, where Mary celebrates God bringing down the mighty and exalting the humble"
+    },
+    {
+      "ref": "PRO.9.10",
+      "relevance": "typological",
+      "reason": "The fear of the LORD as the beginning of wisdom, the supreme law here visualized"
+    },
+    {
+      "ref": "1CO.1.24",
+      "relevance": "typological",
+      "reason": "Christ as the wisdom and power of God, borne by Mary in the image"
+    },
+    {
+      "ref": "JHN.1.17",
+      "relevance": "allusion",
+      "reason": "Grace and truth came through Jesus Christ, fulfilling and surpassing the Law of Moses"
+    },
+    {
+      "ref": "PSA.89.14",
+      "relevance": "allusion",
+      "reason": "Righteousness and justice are the foundation of God's throne"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "majestic",
+    "solemn",
+    "authoritative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009159",
+    "title": "The Madonna of Justice",
+    "artist": "Bernardo Strozzi",
+    "model": "claude-opus-4-6"
+  }
+}

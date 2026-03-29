@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Prophet Isaiah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Paul or Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Triptych of the Entombment (closed wings showing prophets/saints)",
+  "tags": [
+    "triptych-closed",
+    "prophet",
+    "apostle",
+    "standing-figures",
+    "saw",
+    "book",
+    "martyrdom-attributes"
+  ],
+  "symbols": [
+    "saw as attribute — traditionally associated with the prophet Isaiah, martyred by being sawn in two",
+    "book in the other figure's hands — the Scriptures or epistles",
+    "stone or rock at base — the foundation of faith",
+    "dark background — the sober, contemplative exterior of a closed triptych"
+  ],
+  "description": "Two tall narrow panels forming the closed exterior of a triptych. The left panel shows a bearded elderly man in dark robes gesturing, with a large saw at his feet and an inscription below. The right panel shows another elderly figure in flowing red-orange robes reading from an open book, with stones or rocks at his feet. Both figures are painted in muted, somewhat monochromatic tones typical of triptych exteriors, though with some color. The panels have shaped tops and dark backgrounds.",
+  "theological_description": "The closed wings of an Entombment triptych display Old Testament and New Testament figures who prophesied or witnessed Christ's death and burial. The figure with the saw is traditionally identified as the prophet Isaiah, who according to Jewish tradition (referenced in HEB.11.37, 'they were sawn in two') was martyred by King Manasseh. Isaiah's prophecies of the Suffering Servant (ISA.52.13-53.12) are the most detailed Old Testament prefiguration of Christ's Passion, making him the ideal figure for the exterior of an Entombment triptych. The reading figure may be Paul or another apostle who proclaimed the theological meaning of Christ's death and burial. Together they frame the hidden interior scene — the Entombment — with its prophetic anticipation and apostolic proclamation, creating a complete theological statement about Christ's death: foretold by the prophets, accomplished on the cross, and proclaimed by the apostles.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.53.9",
+      "relevance": "primary",
+      "reason": "He made his grave with the wicked — the Suffering Servant's burial, framed by this triptych"
+    },
+    {
+      "ref": "HEB.11.37",
+      "relevance": "primary",
+      "reason": "They were sawn in two — the martyrdom tradition of Isaiah, symbolized by the saw"
+    },
+    {
+      "ref": "1CO.15.3-4",
+      "relevance": "typological",
+      "reason": "Christ died, was buried, and was raised — the Entombment that the closed panels conceal"
+    },
+    {
+      "ref": "ISA.52.13-53.12",
+      "relevance": "primary",
+      "reason": "The Suffering Servant prophecy, Isaiah's key contribution to Passion theology"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "contemplative",
+    "austere"
+  ],
+  "period": "Prophetic",
+  "_meta": {
+    "key": "0009962",
+    "title": "Triptych of the Entombment (closed)",
+    "artist": "Maerten van Heemskerck",
+    "model": "claude-opus-4-6"
+  }
+}

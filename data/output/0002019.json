@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Nicholas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Poor father",
+      "type": "PERSON"
+    },
+    {
+      "name": "Three daughters",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Saint Nicholas and the Three Gold Balls — providing dowries for three poor maidens",
+  "tags": [
+    "saint-nicholas",
+    "gold-balls",
+    "charity",
+    "secret-gift",
+    "poor-family",
+    "window",
+    "dowry",
+    "generosity",
+    "hagiography"
+  ],
+  "symbols": [
+    "Three gold balls tossed through the window — the gifts that saved the daughters from destitution",
+    "Nicholas at the window in secret — anonymous charity, giving without seeking recognition",
+    "Sleeping family — the gifts arrive unnoticed, as God's grace works unseen",
+    "Bed with red coverlet — the domestic poverty that Nicholas's generosity addresses"
+  ],
+  "description": "A scene divided between exterior and interior. On the left, a haloed figure in dark robes stands outside a window, tossing golden balls through the opening. Inside, a bedroom scene shows an elderly man in blue seated at the foot of a red-covered bed where figures sleep, while a woman in pink sits on the floor. Three golden balls arc through the air toward the bed. The painting is in a medieval style with gold background, showing signs of paint loss and wear.",
+  "theological_description": "The legend of Saint Nicholas providing dowries for three impoverished daughters is one of the most famous stories in hagiography and the origin of the tradition of gift-giving associated with his feast. Though Nicholas is not a biblical figure, his secret generosity directly embodies Jesus' teaching: 'When you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. And your Father who sees in secret will reward you' (MAT.6.3-4). Nicholas heard that a poor man was about to sell his three daughters into prostitution because he could not afford their dowries. On three successive nights, Nicholas secretly threw bags of gold through the window. This act of mercy fulfills James's declaration: 'Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction' (JAS.1.27).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.6.3-4",
+      "relevance": "typological",
+      "reason": "Give in secret — Nicholas's anonymous charity through the window embodies Christ's teaching"
+    },
+    {
+      "ref": "JAS.1.27",
+      "relevance": "typological",
+      "reason": "Pure religion is caring for orphans and widows — Nicholas rescuing the destitute family"
+    },
+    {
+      "ref": "PRO.19.17",
+      "relevance": "typological",
+      "reason": "Whoever is generous to the poor lends to the Lord — Nicholas's generosity as service to God"
+    },
+    {
+      "ref": "ACT.20.35",
+      "relevance": "allusion",
+      "reason": "It is more blessed to give than to receive — the spirit animating Nicholas's secret gifts"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "compassionate",
+    "secretive",
+    "generous"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0002019",
+    "title": "St. Nicholas and the Three Gold Balls, From the predella of the Quaratesi triptych from San Niccolo, Florence",
+    "artist": "Gentile da Fabriano",
+    "model": "claude-opus-4-6"
+  }
+}

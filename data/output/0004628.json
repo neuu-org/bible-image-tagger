@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Angel of Death", "type": "ANGEL"}
+  ],
+  "event": "The angel of death riding through a dark landscape",
+  "tags": [
+    "angel-of-death",
+    "horseman",
+    "dark-landscape",
+    "halo",
+    "lance",
+    "black-horse",
+    "glowing-orb",
+    "death",
+    "apocalyptic",
+    "night-scene"
+  ],
+  "symbols": [
+    "dark rider on black horse — the angel of death traversing the world",
+    "golden halo — divine authority even for the agent of death",
+    "lance or staff — the instrument of death's mission",
+    "glowing reddish orb — the setting sun or a symbol of life extinguished",
+    "dark barren landscape — the desolation that death brings"
+  ],
+  "description": "A dark, atmospheric painting showing a solitary mounted figure on a black horse, silhouetted against a turbulent sky. The rider bears a halo of golden light and carries a long lance or staff. The horse stands on a rocky outcrop overlooking a barren, shadowy landscape. To the lower right, a reddish-orange glowing orb rests near the ground. The sky is dramatic with swirling dark clouds pierced by shafts of light. The overall palette is dark — deep blues, blacks, and muted golds — creating a sense of foreboding.",
+  "theological_description": "The angel of death in Scripture is not an autonomous force but an agent of divine sovereignty. In Exodus, the Lord passed through Egypt and the destroyer was restrained from entering homes marked with the blood of the lamb (EXO.12.23). In 2 Samuel, David saw the angel of the Lord striking Jerusalem with pestilence, 'his hand stretched out toward Jerusalem' (2SA.24.16). The horseman imagery connects to Revelation's four horsemen, particularly the pale horse: 'Its rider's name was Death, and Hades followed him' (REV.6.8). Yet the halo on this figure affirms that death operates under divine permission, not against it. The glowing orb suggests the fading of life's light, echoing Ecclesiastes: 'before the sun and the light and the moon and the stars are darkened' (ECC.12.2). This sombre vision ultimately points to the Christian hope that death's dominion is temporary — 'The last enemy to be destroyed is death' (1CO.15.26).",
+  "scripture_refs": [
+    {"ref": "REV.6.8", "relevance": "typological", "reason": "The pale horse whose rider is Death — the apocalyptic horseman of destruction"},
+    {"ref": "EXO.12.23", "relevance": "allusion", "reason": "The destroyer passing through the land, an angel acting under divine command"},
+    {"ref": "2SA.24.16", "relevance": "allusion", "reason": "The angel of the Lord stretching out his hand over Jerusalem with pestilence"},
+    {"ref": "1CO.15.26", "relevance": "typological", "reason": "The last enemy to be destroyed is death — the ultimate defeat of what this angel represents"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["ominous", "foreboding", "dark", "solemn"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0004628",
+    "title": "The park and the angel of death",
+    "artist": "Gustave Moreau",
+    "model": "claude-opus-4-6"
+  }
+}

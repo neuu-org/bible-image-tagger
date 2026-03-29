@@ -1,0 +1,36 @@
+{
+  "characters": [
+    {"name": "Woman", "type": "PERSON"},
+    {"name": "Child", "type": "PERSON"}
+  ],
+  "event": "Biblical study — woman and child in devotional contemplation",
+  "tags": [
+    "mother-and-child",
+    "devotional-study",
+    "cross",
+    "contemplation",
+    "veil",
+    "biblical-meditation"
+  ],
+  "symbols": [
+    "cross held by the child — early instruction in the faith, the cross as the center of Christian life",
+    "veiled woman gazing upward — prayerful contemplation and trust in God",
+    "arched dark background — a sacred enclosure suggesting a chapel or niche"
+  ],
+  "description": "A half-length figure of a young woman in a white veil and dark blue-gray dress, her face turned upward with an expression of intense devotion or supplication. Her right hand is raised near her chest. On her shoulder or beside her sits a small blonde child holding a thin cross. The background is dark with an arched form, and warm golden light illuminates the figures from the left. The brushwork is loose and expressive.",
+  "theological_description": "This intimate devotional image recalls the tradition of the Virgin and Child but may also represent any faithful mother raising her child in the knowledge of Christ. The cross held by the child signifies the earliest catechesis — the instruction of the young in the central mystery of the faith. The woman's upward gaze suggests intercessory prayer, entrusting her child to God. The image resonates with Paul's commendation of Timothy's faith, 'which dwelt first in your grandmother Lois and your mother Eunice' (2 Timothy 1:5), affirming that faith is transmitted through generations by the devoted witness of parents. The cross in the child's hand also foreshadows the cost of discipleship that every Christian must eventually embrace.",
+  "scripture_refs": [
+    {"ref": "2TI.1.5", "relevance": "primary", "reason": "The sincere faith passed from grandmother to mother to child — intergenerational faith transmission"},
+    {"ref": "PRO.22.6", "relevance": "allusion", "reason": "Train up a child in the way he should go — the mother teaching faith through the cross"},
+    {"ref": "DEU.6.6-7", "relevance": "allusion", "reason": "Teaching God's words diligently to your children — the biblical mandate for family catechesis"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["devotional", "tender", "earnest"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007194",
+    "title": "Biblical study",
+    "artist": "George Elgar Hicks",
+    "model": "claude-opus-4-6"
+  }
+}

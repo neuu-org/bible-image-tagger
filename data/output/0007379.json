@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Animals", "type": "GROUP"},
+    {"name": "Children", "type": "GROUP"},
+    {"name": "Farmers", "type": "GROUP"}
+  ],
+  "event": "The Peaceable Kingdom",
+  "tags": [
+    "peaceable-kingdom",
+    "lion",
+    "ox",
+    "lamb",
+    "child",
+    "harmony",
+    "animals-together",
+    "isaianic-vision",
+    "eschatological-peace",
+    "paradise"
+  ],
+  "symbols": [
+    "lion lying with cattle — the cessation of predation in the messianic age",
+    "child among wild animals — innocence leading and taming the fierce",
+    "diverse animals gathered peacefully — the reconciliation of all creation under God's reign",
+    "distant figures by the water — possibly William Penn's treaty, linking earthly peace to the eschatological vision",
+    "lush landscape — the renewed earth of the messianic kingdom"
+  ],
+  "description": "A pastoral landscape showing a remarkable gathering of animals and children in harmony. A large lion, an ox, a bear, a leopard, and other animals stand peacefully together in the foreground. Small children sit among them, one appearing to lead or touch the lion. The scene is set beneath large trees with a distant blue mountain and body of water where a group of figures can be seen. The palette is warm with rich greens, browns, and golden tones.",
+  "theological_description": "The Peaceable Kingdom illustrates Isaiah's vision of the messianic age (Isaiah 11:6-9) when the wolf shall dwell with the lamb, the leopard lie down with the kid, and a little child shall lead them. This is one of the Bible's most powerful eschatological images: the complete reversal of the curse that set creation against itself after the Fall. In Eden, humans and animals lived in harmony; through sin, predation and violence entered the world. Isaiah prophesies that the Messiah's reign will restore this original peace. The child leading the animals fulfills the prophecy literally and also symbolizes the innocence and trust that characterize citizens of God's kingdom (Matthew 18:3). Paul echoes this vision when he writes that creation itself groans for liberation from its bondage to decay (Romans 8:19-22). The Peaceable Kingdom is not merely a future hope but a present calling: wherever Christ reigns, reconciliation begins.",
+  "scripture_refs": [
+    {"ref": "ISA.11.6-9", "relevance": "primary", "reason": "The wolf shall dwell with the lamb and the lion eat straw like the ox — the exact prophetic vision depicted"},
+    {"ref": "ISA.65.25", "relevance": "primary", "reason": "The wolf and lamb shall feed together — the renewed creation in God's new heaven and earth"},
+    {"ref": "ROM.8.19-22", "relevance": "typological", "reason": "Creation groaning for liberation — the Peaceable Kingdom as the fulfillment of creation's longing"},
+    {"ref": "GEN.1.29-30", "relevance": "typological", "reason": "The original Edenic harmony where all creatures ate plants — the paradise this scene restores"},
+    {"ref": "REV.21.4-5", "relevance": "allusion", "reason": "God making all things new, no more death or pain — the eschatological hope the Peaceable Kingdom embodies"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["peaceful", "idyllic", "hopeful"],
+  "period": "Prophetic",
+  "_meta": {
+    "key": "0007379",
+    "title": "Peaceable Kingdom",
+    "artist": "Edward Hicks",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ at the Column (Man of Sorrows)",
+  "tags": [
+    "man-of-sorrows",
+    "christ-at-column",
+    "flagellation",
+    "passion",
+    "scourge-marks",
+    "crown-of-thorns",
+    "suffering-servant",
+    "holy-wounds"
+  ],
+  "symbols": [
+    "blood drops covering the body — the price of atonement, every wound for sin",
+    "crown of thorns — the mockery of Christ's kingship and the curse of Genesis 3:18",
+    "white loincloth — the last remnant of dignity, purity amid suffering",
+    "column behind — the pillar of flagellation in the praetorium",
+    "bound hands — submission to suffering, the willing sacrifice",
+    "tiled floor — the praetorium of Pilate's judgment hall"
+  ],
+  "description": "A full-length frontal figure of Christ stands nearly nude against a black background, wearing only a white loincloth. His entire body is covered with small red drops of blood from the flagellation. A crown of thorns sits on his head with blood trickling down his face. His hands are bound before him, holding the loose end of the cloth. A radiant halo surrounds his head. His expression is mournful and resigned. He stands on a tiled floor. The figure is thin and vulnerable, shown in stark isolation.",
+  "theological_description": "This devotional image presents Christ after the flagellation — the Imago Pietatis or Man of Sorrows — stripped, scourged, and crowned with thorns, displayed for contemplation. Every drop of blood on his body speaks to Isaiah 53:5: 'By his wounds we are healed.' The flagellation fulfilled the Roman custom of scourging before crucifixion (JHN.19.1) and fulfilled the typological reading of Psalm 129:3: 'The plowers plowed upon my back; they made long their furrows.' The crown of thorns transforms the curse of Genesis 3:18 — thorns as consequence of sin — into the instrument of redemption, as Christ bears the curse on his own head (GAL.3.13). The stark isolation of the figure against darkness emphasizes the loneliness of his suffering, echoing Psalm 22:1: 'My God, my God, why have you forsaken me?' The bound hands express the voluntary nature of Christ's Passion — he who could summon twelve legions of angels (MAT.26.53) chose instead to submit.",
+  "scripture_refs": [
+    {"ref": "JHN.19.1", "relevance": "primary", "reason": "Pilate had Jesus flogged — the flagellation that produced the wounds depicted"},
+    {"ref": "ISA.53.5", "relevance": "primary", "reason": "By his wounds we are healed — every blood drop on the body speaks this verse"},
+    {"ref": "MAT.27.29", "relevance": "primary", "reason": "The crown of thorns placed on Christ's head, depicted here"},
+    {"ref": "GAL.3.13", "relevance": "typological", "reason": "Christ becoming a curse for us — the thorns of Genesis 3:18 borne on his head"},
+    {"ref": "PSA.22.1", "relevance": "allusion", "reason": "The cry of dereliction — the profound isolation of Christ depicted against the black void"},
+    {"ref": "1PE.2.24", "relevance": "primary", "reason": "He bore our sins in his body on the tree, by his wounds you have been healed"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["sorrowful", "devotional", "stark", "anguished"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003690",
+    "title": "Christ at the Column",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

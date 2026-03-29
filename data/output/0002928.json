@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Tyrolese Crucifix",
+  "tags": [
+    "crucifix",
+    "wayside-cross",
+    "tyrol",
+    "alpine",
+    "outdoor-devotion",
+    "corpus",
+    "folk-crucifix",
+    "roofed-cross",
+    "landscape"
+  ],
+  "symbols": [
+    "wayside crucifix — the presence of Christ's sacrifice planted in the landscape of daily life",
+    "small roof over cross — the sheltering of the sacred in rural devotional practice",
+    "gnarled tree beside cross — the tree of life intertwined with the tree of the cross",
+    "Alpine setting with blue sky — creation as the cathedral in which the Cross is displayed"
+  ],
+  "description": "A watercolor depicting a traditional Tyrolean wayside crucifix seen from below. A painted wooden corpus of Christ hangs on a wooden cross with a small shingled roof above it. The cross is mounted on or near a large gnarled tree with twisted bare branches. The sky is bright blue with white clouds. The rendering is loose and fluid, with transparent watercolor washes capturing the textures of wood, paint, and sky. The view is slightly upward, giving the crucifix a monumental presence.",
+  "theological_description": "Wayside crucifixes are a characteristic feature of the Alpine Catholic landscape, marking roads, fields, and mountain passes with the sign of Christ's redemptive sacrifice. They serve as constant reminders that the Cross stands at the center of created reality — not confined to churches but planted in the midst of daily life and labor. This particular crucifix, painted with the vivid sensitivity of a plein-air artist, captures the juxtaposition of the eternal sacrifice with the passing beauty of nature. The gnarled tree beside the cross evokes the patristic typology connecting the tree of the knowledge of good and evil in Eden (GEN.2.17) with the tree of the Cross — as death came through a tree, so life returns through a tree. Paul declares: 'May I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world' (GAL.6.14).",
+  "scripture_refs": [
+    {"ref": "GAL.6.14", "relevance": "allusion", "reason": "Boasting only in the cross of Christ — the devotional impulse behind wayside crucifixes"},
+    {"ref": "1CO.1.18", "relevance": "allusion", "reason": "The word of the cross is the power of God — the Cross planted in the landscape as witness"},
+    {"ref": "JHN.19.17-18", "relevance": "primary", "reason": "The crucifixion of Jesus, the event memorialized by every crucifix"},
+    {"ref": "GEN.2.17", "relevance": "typological", "reason": "The tree in Eden — death came through a tree, life returns through the tree of the Cross"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["devotion", "rustic", "serenity", "reverence"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002928",
+    "title": "Tyrolese Crucifix",
+    "artist": "John Singer Sargent",
+    "model": "claude-opus-4-6"
+  }
+}

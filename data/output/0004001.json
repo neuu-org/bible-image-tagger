@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Eve", "type": "PERSON"},
+    {"name": "Companion Figure", "type": "OTHER"}
+  ],
+  "event": "Descent of Christ to Limbo (detail, Eve)",
+  "tags": [
+    "harrowing-of-hell",
+    "eve",
+    "limbo",
+    "descent-to-underworld",
+    "liberation",
+    "two-women",
+    "detail"
+  ],
+  "symbols": [
+    "Eve's partially bare form — her vulnerability and the nakedness of Eden before the Fall",
+    "companion reaching toward her — the community of the righteous dead awaiting liberation",
+    "upward gaze — hope and anticipation of redemption"
+  ],
+  "description": "A detail showing two young women in close-up. The foreground figure (Eve) is partially nude with her shoulder bare, looking directly at the viewer with a calm, luminous expression. Her golden-brown hair is pulled back. Behind her, a second woman in a draped garment touches Eve's shoulder and gazes toward her. The color palette is warm with flesh tones and soft browns. The background is indistinct and dark.",
+  "theological_description": "This detail from Beccafumi's Descent of Christ to Limbo shows Eve among the righteous dead awaiting liberation. The Harrowing of Hell — Christ's descent to the realm of the dead between his Crucifixion and Resurrection — is affirmed in the Apostles' Creed and based on 1 Peter 3:18-20, where Christ 'went and proclaimed to the spirits in prison.' Eve, the first to fall, is among the first to be liberated by the Second Adam. Her presence in Limbo recalls the consequences of Genesis 3, while her liberation by Christ fulfills the promise of Genesis 3:15: the seed of the woman crushing the serpent. The theological significance is immense: Christ's saving work reaches backward through all of history, liberating even Adam and Eve from the domain of death. Ephesians 4:8-9 describes Christ descending 'into the lower regions of the earth' and then ascending, 'leading a host of captives.'",
+  "scripture_refs": [
+    {"ref": "1PE.3.18-20", "relevance": "primary", "reason": "Christ proclaiming to the spirits in prison — the Harrowing of Hell that liberates Eve"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The promise that the woman's seed would crush the serpent — now fulfilled for Eve herself"},
+    {"ref": "EPH.4.8-9", "relevance": "primary", "reason": "Christ descending into the lower regions and ascending with captives"},
+    {"ref": "ROM.5.18", "relevance": "typological", "reason": "As one trespass led to condemnation, one act of righteousness leads to justification — Eve's liberation"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["hopeful", "luminous", "tender"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004001",
+    "title": "Descent of Christ to Limbo (detail, Eva)",
+    "artist": "Domenico Beccafumi",
+    "model": "claude-opus-4-6"
+  }
+}

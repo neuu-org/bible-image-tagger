@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with Saints",
+  "tags": [
+    "holy-family",
+    "virgin-and-child",
+    "infant-john-baptist",
+    "saints",
+    "open-book",
+    "joseph",
+    "elizabeth"
+  ],
+  "symbols": [
+    "open book — Scripture and prophecy being fulfilled in the Christ Child",
+    "Christ Child standing on Mary's arm — divine authority even in infancy",
+    "infant John the Baptist with cross-staff — the forerunner already bearing the sign of his mission",
+    "Joseph reading — the just man meditating on God's word",
+    "gathering of holy figures — the communion of saints united around the incarnate Word"
+  ],
+  "description": "A horizontal composition showing six figures and a child arranged in a close group against a blue sky with some landscape. At center, a young woman in a dark veil holds a standing nude Christ Child. To the far left, an elderly bearded man reads an open book. Beside him, a younger figure looks on. At the right, a bearded man in a red head covering stands beside a woman in a dark veil. A small child with a thin cross-staff appears at the lower center. The figures are tightly grouped in a frieze-like arrangement.",
+  "theological_description": "The sacra conversazione ('holy conversation') gathers the Holy Family and associated saints in a timeless devotional grouping that transcends historical narrative. The Christ Child at the center is the axis around whom all figures orient. Joseph reading Scripture embodies the just man who ponders God's word (Matthew 1:19-20), while the infant John the Baptist with his cross-staff already foreshadows his role as forerunner who will proclaim the Lamb of God. The presence of Elizabeth and other saints creates a theological tableau of the community of faith gathered around the Incarnation. This composition expresses the Catholic understanding that the Incarnation is not a private event but a communal reality: Christ comes into the midst of a family, a community, a people. The saints surrounding the Holy Family represent the Church across time, all finding their identity in relation to the incarnate Word.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.41-52",
+      "relevance": "primary",
+      "reason": "The Holy Family together — the domestic life of Jesus, Mary, and Joseph"
+    },
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation — the meeting of Mary and Elizabeth with their unborn children, the families depicted together"
+    },
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "allusion",
+      "reason": "Joseph the just man, depicted reading and pondering Scripture"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God — the infant Baptist's cross-staff anticipating his proclamation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "contemplative",
+    "familial"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007221",
+    "title": "The Holy Family",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

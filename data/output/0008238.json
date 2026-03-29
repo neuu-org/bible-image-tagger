@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Yusuf (Joseph)", "type": "PERSON"},
+    {"name": "Zuleykha (Potiphar's wife)", "type": "PERSON"}
+  ],
+  "event": "Yusef and Zuleykha — Joseph fleeing Potiphar's wife",
+  "tags": [
+    "joseph-and-potiphar-wife",
+    "temptation",
+    "fleeing",
+    "persian-miniature",
+    "islamic-art",
+    "palace-interior",
+    "virtue"
+  ],
+  "symbols": [
+    "Joseph fleeing — the triumph of virtue over temptation",
+    "ornate palace interior — the wealth and luxury of the temptation",
+    "doorway — the escape route, the narrow path of righteousness",
+    "Zuleykha pursuing — the persistence of temptation against the righteous"
+  ],
+  "description": "A Persian miniature painting showing an ornate palace interior with richly decorated tile walls, arched doorways, and geometric patterns in blue, gold, and turquoise. A figure in green appears to be fleeing or moving quickly through a doorway while another figure reaches toward them from inside. The architectural detail is exquisite with multiple levels, balconies, and decorative elements. Persian calligraphic text appears at the top. The palette is vibrant with deep blues, greens, golds, and warm terracotta.",
+  "theological_description": "The story of Joseph and Potiphar's wife (Genesis 39) is shared between the Bible and the Quran (Surah 12), and Persian art celebrated it as the supreme example of virtue resisting temptation. In Genesis, Joseph's refusal is grounded in his fear of God: 'How can I do this great wickedness and sin against God?' (Genesis 39:9). He fled, leaving his garment behind — an act of radical purity that cost him his freedom but preserved his integrity. The elaborate palace setting emphasizes the power of the temptation: Joseph stood to gain everything by yielding and lost everything by refusing. Yet God used his imprisonment as the path to becoming Egypt's prime minister. Joseph's story teaches that faithfulness is not a guarantee of immediate reward but of ultimate vindication. The Church Fathers read Joseph as a type of Christ: falsely accused, unjustly imprisoned, and ultimately exalted to save many.",
+  "scripture_refs": [
+    {"ref": "GEN.39.7-12", "relevance": "primary", "reason": "Potiphar's wife attempting to seduce Joseph and his flight — the scene depicted"},
+    {"ref": "GEN.39.9", "relevance": "primary", "reason": "How can I do this great wickedness and sin against God? — Joseph's moral reasoning"},
+    {"ref": "2TI.2.22", "relevance": "allusion", "reason": "Flee youthful passions — the apostolic counsel Joseph embodied"},
+    {"ref": "GEN.50.20", "relevance": "typological", "reason": "What you meant for evil, God meant for good — Joseph's suffering leading to salvation for many"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "tense", "ornate"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0008238",
+    "title": "Yusef and Zuleykha (detail)",
+    "artist": "Kamal ud-Din Behzad",
+    "model": "claude-opus-4-6"
+  }
+}

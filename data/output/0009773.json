@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony of Padua",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Faithful below",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Charity (Glory) of Saint Anthony",
+  "tags": [
+    "saint-anthony",
+    "glory",
+    "elevation",
+    "angels",
+    "cherubs",
+    "charity",
+    "vision",
+    "devotion"
+  ],
+  "symbols": [
+    "Saint Anthony elevated by angels — divine glorification of the saint's holiness and charity",
+    "dark habit with cord — the Franciscan order's simplicity and poverty",
+    "figures below reaching upward — the faithful seeking the saint's intercession",
+    "heavenly light above — divine approval and the glory of Paradise"
+  ],
+  "description": "A tall altarpiece composition divided between heaven and earth. In the upper register, Saint Anthony in a dark Franciscan habit is lifted heavenward by angels, his arms outstretched, surrounded by cherubs. Below, a scene shows groups of people in various postures of devotion, prayer, and need. The composition features dramatic upward movement with golden light breaking through dark clouds above. The palette includes deep browns, reds, and warm golden tones, characteristic of Late Renaissance Venetian altarpieces.",
+  "theological_description": "Saint Anthony of Padua (1195-1231), a Franciscan friar renowned for his preaching and miracles, became one of the most beloved saints of the Catholic Church. Though not a biblical figure, Anthony's life embodied the Gospel pattern of radical discipleship. His preaching power echoed Jesus's commission: 'Go into all the world and proclaim the gospel to the whole creation' (MRK.16.15). The charity depicted reflects Christ's teaching: 'Sell what you possess and give to the poor, and you will have treasure in heaven' (MAT.19.21), which Francis and his followers took literally. Anthony's legendary ability to find lost things connects to Jesus's parables of the lost sheep, lost coin, and lost son (LUK.15), revealing God's persistent search for the wayward. His glorification by angels reflects the promise: 'Those who are wise shall shine like the brightness of the sky above, and those who turn many to righteousness, like the stars forever and ever' (DAN.12.3).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.19.21",
+      "relevance": "allusion",
+      "reason": "Sell what you have and give to the poor — the Franciscan ideal Anthony embodied"
+    },
+    {
+      "ref": "MRK.16.15",
+      "relevance": "allusion",
+      "reason": "Go and proclaim the gospel — Anthony's renowned preaching ministry"
+    },
+    {
+      "ref": "LUK.15.3-10",
+      "relevance": "allusion",
+      "reason": "Parables of the lost, connecting to Anthony as patron of lost things"
+    },
+    {
+      "ref": "DAN.12.3",
+      "relevance": "typological",
+      "reason": "Those who turn many to righteousness shine like stars — Anthony's glorification"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "glorious",
+    "devotional",
+    "exalted"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009773",
+    "title": "The Charity of St. Anthony",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

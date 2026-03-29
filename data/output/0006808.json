@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Jewish immigrants",
+      "type": "GROUP"
+    },
+    {
+      "name": "Polish rulers or nobles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Immigration of the Jews into Poland",
+  "tags": [
+    "jewish-immigration",
+    "poland",
+    "medieval-history",
+    "crowd-scene",
+    "church-architecture",
+    "jewish-community",
+    "refugees",
+    "historical-painting",
+    "diversity",
+    "welcome"
+  ],
+  "symbols": [
+    "church portal — the Christian nation receiving the Jewish diaspora",
+    "diverse crowd — the meeting of cultures and faiths in medieval Poland",
+    "banners and standards — the authority and governance under which Jews found refuge"
+  ],
+  "description": "A large, crowded historical painting depicting a mass of people gathered before a Romanesque church portal. The scene shows a diverse throng of medieval figures — Jews in distinctive garments and headcoverings arriving alongside Polish nobility, clergy, and common people. Banners and flags are visible. Children, elderly, and people of various social stations fill the composition. The architecture features rounded arches and stone walls. The overall palette is earthy with browns, reds, and muted tones. The scene conveys both the chaos and the significance of a major historical migration.",
+  "theological_description": "This painting depicts the historical reception of Jewish immigrants into medieval Poland, an event with deep biblical resonance. The Jewish diaspora — the scattering of God's people among the nations — was foretold by the prophets: 'I will scatter you among the nations' (Lev 26:33), yet God also promised, 'I will gather them from all the countries' (Jer 32:37). The painting captures a moment of exile and refuge, echoing the biblical pattern of displacement and divine provision that runs from Abraham's wandering to the Babylonian exile. Paul's theology in Romans 9-11 affirms that the Jewish people remain beloved of God 'for the sake of the patriarchs, for the gifts and calling of God are irrevocable' (Rom 11:28-29). The church portal looming over the scene creates a visual dialogue between synagogue and church, the two communities whose relationship defines much of post-biblical history.",
+  "scripture_refs": [
+    {
+      "ref": "LEV.26.33",
+      "relevance": "typological",
+      "reason": "I will scatter you among the nations — the prophesied diaspora enacted in the Jewish immigration"
+    },
+    {
+      "ref": "ROM.11.28-29",
+      "relevance": "typological",
+      "reason": "The irrevocable gifts and calling of God upon the Jewish people, still beloved for the patriarchs' sake"
+    },
+    {
+      "ref": "JER.29.7",
+      "relevance": "allusion",
+      "reason": "Seek the welfare of the city where I have sent you — the Jewish community finding a new home"
+    },
+    {
+      "ref": "DEU.10.19",
+      "relevance": "allusion",
+      "reason": "Love the sojourner, for you were sojourners in Egypt — the biblical mandate to welcome the stranger"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "bustling",
+    "historical",
+    "momentous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0006808",
+    "title": "Immigration of the Jews",
+    "artist": "Jan Matejko",
+    "model": "claude-opus-4-6"
+  }
+}

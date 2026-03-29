@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Pontius Pilate", "type": "PERSON"},
+    {"name": "Soldiers", "type": "GROUP"}
+  ],
+  "event": "Christ Before Pilate",
+  "tags": [
+    "ecce-homo",
+    "christ-before-pilate",
+    "trial",
+    "passion",
+    "surrealist",
+    "horseback",
+    "crucifixion-painting",
+    "visionary",
+    "judgment",
+    "skeleton"
+  ],
+  "symbols": [
+    "figure on horseback — Pilate or an authority figure presiding over the judgment",
+    "crucifixion painting within the scene — the outcome already visible within the trial",
+    "skeletal and distorted figures — the dehumanizing violence of the Passion",
+    "radiant light source — divine presence illuminating the scene of injustice",
+    "glass vessels and objects — the fragility of justice and truth under worldly power"
+  ],
+  "description": "A complex, surrealist-visionary engraving depicting a dramatic scene with multiple figures. A skeletal or emaciated figure sits on a horse at center. Around him, several figures in classical and grotesque forms crowd the space. At the right, a painting of the Crucifixion stands on an easel. Various symbolic objects — skulls, glass vessels, architectural elements — fill the composition. The scene is rendered in intricate black and white with extraordinary detail, creating a nightmarish, hallucinatory atmosphere. Beams of light radiate from the upper left.",
+  "theological_description": "This visionary depiction of Christ before Pilate collapses the entire Passion into a single surrealist tableau. The trial before Pilate (MAT.27.11-26) was the moment when temporal authority was given the opportunity to release the Truth incarnate and instead chose to hand him over to death. The painting of the Crucifixion within the scene makes explicit that the judgment's conclusion is already determined — the cross is the inevitable outcome of the world's rejection of its Creator. The skeletal and distorted figures suggest the dehumanizing effect of sin and violence on all participants in the Passion. Pilate's famous question 'What is truth?' (JHN.18.38) hovers over the scene: Truth stands before him, and he cannot recognize it. The surrealist treatment reflects the cosmic absurdity that the Church Fathers contemplated — the Creator judged by his creatures, the Righteous One condemned by the unrighteous, Life itself sentenced to death.",
+  "scripture_refs": [
+    {"ref": "MAT.27.11-26", "relevance": "primary", "reason": "Christ's trial before Pilate and the crowd's demand for crucifixion"},
+    {"ref": "JHN.18.33-38", "relevance": "primary", "reason": "Pilate's interrogation and the question 'What is truth?'"},
+    {"ref": "JHN.19.5", "relevance": "primary", "reason": "Ecce Homo — Pilate presenting the scourged Christ to the crowd"},
+    {"ref": "ISA.53.3", "relevance": "typological", "reason": "Despised and rejected by men, a man of sorrows — the distorted figures enacting this rejection"},
+    {"ref": "ACT.3.13-15", "relevance": "allusion", "reason": "You delivered over and denied the Holy and Righteous One, and asked for a murderer"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["nightmarish", "intensity", "surreal", "dark"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002995",
+    "title": "CHRIST BEFORE PILATE",
+    "artist": "Ernst Fuchs",
+    "model": "claude-opus-4-6"
+  }
+}

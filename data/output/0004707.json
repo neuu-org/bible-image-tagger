@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    },
+    {
+      "name": "Donor figures",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Baptism of Christ",
+  "tags": [
+    "baptism-of-christ",
+    "river-jordan",
+    "holy-spirit-dove",
+    "god-the-father",
+    "donor-portraits",
+    "angels",
+    "trinity",
+    "landscape",
+    "kneeling-donors"
+  ],
+  "symbols": [
+    "Christ standing in water — His baptism in the Jordan, inaugurating His public ministry",
+    "dove descending from above — the Holy Spirit descending upon Christ",
+    "God the Father in glory above — the voice from heaven declaring This is my beloved Son",
+    "John the Baptist pouring water — the Forerunner administering baptism to the Messiah",
+    "donor figures kneeling — the faithful presenting themselves before the sacramental mystery",
+    "river landscape — the Jordan, the boundary between wilderness and promised land"
+  ],
+  "description": "A three-panel triptych. The central panel shows the Baptism of Christ: Jesus stands bare-chested in a stream while John the Baptist in red robes pours water over His head. Above, God the Father appears in a golden burst of light with the Holy Spirit as a dove descending between them. The left wing shows a female donor in elaborate golden robes kneeling before a standing angel. The right wing depicts a woman in black religious garments kneeling with two smaller figures, presented by another saint. The background throughout shows a continuous verdant landscape with trees and distant hills.",
+  "theological_description": "The Baptism of Christ is one of the great Trinitarian theophanies of Scripture. The three Persons of the Trinity are simultaneously manifest: the Son in the water, the Spirit descending as a dove, and the Father speaking from heaven: 'This is my beloved Son, with whom I am well pleased' (MAT.3.17). Christ's entry into the Jordan waters inaugurates His public ministry and anticipates His descent into death — 'I have a baptism to be baptized with, and how great is my distress until it is accomplished' (LUK.12.50). The Baptist's role as agent of the baptism fulfills his prophetic office: 'I baptize you with water for repentance, but he who is coming after me is mightier than I' (MAT.3.11). Patristically, Christ's entry into the water was understood not as His purification but as the sanctification of the waters themselves — the Creator entering creation to heal it from within. The donor figures kneeling in the wings represent the Church through the ages entering into Christ's baptism through their own sacramental initiation (ROM.6.3-4).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "The Baptism of Christ by John, the descent of the Spirit, and the Father's voice from heaven"
+    },
+    {
+      "ref": "MRK.1.9-11",
+      "relevance": "primary",
+      "reason": "The heavens torn open and the Spirit descending like a dove upon Jesus"
+    },
+    {
+      "ref": "JHN.1.32-34",
+      "relevance": "primary",
+      "reason": "John's testimony that he saw the Spirit descend and remain on Jesus"
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "typological",
+      "reason": "Baptized into Christ's death, raised to walk in newness of life — the donor figures' participation"
+    },
+    {
+      "ref": "LUK.12.50",
+      "relevance": "allusion",
+      "reason": "Christ's baptism anticipating His Passion — the baptism He must undergo"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "luminous",
+    "solemn",
+    "ceremonial"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004707",
+    "title": "Triptych of Jan De Tromp",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

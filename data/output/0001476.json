@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Prodigal Son", "type": "PERSON"},
+    {"name": "Father", "type": "PERSON"},
+    {"name": "Servants", "type": "GROUP"}
+  ],
+  "event": "The Return of the Prodigal Son",
+  "tags": [
+    "prodigal-son",
+    "parable",
+    "return",
+    "embrace",
+    "father",
+    "forgiveness",
+    "kneeling",
+    "reconciliation",
+    "landscape",
+    "homecoming"
+  ],
+  "symbols": [
+    "Father embracing the kneeling son — unconditional mercy and the joy of reconciliation",
+    "Son's ragged clothing and kneeling posture — repentance, humility, and the admission of unworthiness",
+    "The house on the right — the father's dwelling, representing God's household and the Church",
+    "Distant landscape with figures and animals — the far country from which the prodigal has returned"
+  ],
+  "description": "In the foreground, an elderly man in rich blue and red robes bends to embrace a kneeling younger man in simpler clothing. To the right, servants stand at the entrance of an ornate building, observing the reunion. Behind them stretches an expansive landscape with a river, trees, distant buildings, and small figures. In the far background, additional scenes of the parable appear to be depicted. The composition is bright and detailed in a miniature painting style.",
+  "theological_description": "The Parable of the Prodigal Son (LUK.15.11-32) is perhaps the most beloved of all Jesus' parables, a masterpiece of divine pedagogy about the nature of God's mercy. The younger son demands his inheritance — effectively wishing his father dead — squanders it in a far country, and returns in abject poverty. The father, who has been watching and waiting, runs to embrace him before the son can finish his prepared speech of repentance (LUK.15.20-22). The father's response — the best robe, a ring, sandals, and a fatted calf — signifies complete restoration, not merely as a servant but as a beloved son. Jesus told this parable in response to the Pharisees' criticism of His association with sinners (LUK.15.1-2). The father in the parable represents God, whose love precedes and exceeds our repentance. Paul echoes this when he writes: 'While we were still sinners, Christ died for us' (ROM.5.8). The parable also foreshadows the Eucharistic feast — the great banquet of reconciliation.",
+  "scripture_refs": [
+    {"ref": "LUK.15.20-24", "relevance": "primary", "reason": "The father sees the son from afar, runs, and embraces him — the specific scene depicted"},
+    {"ref": "LUK.15.11-32", "relevance": "primary", "reason": "The full parable of the Prodigal Son as told by Jesus"},
+    {"ref": "LUK.15.1-2", "relevance": "primary", "reason": "The context: Pharisees grumbling that Jesus receives sinners, prompting the parable"},
+    {"ref": "ROM.5.8", "relevance": "typological", "reason": "God demonstrates His love in that while we were still sinners, Christ died for us — the father's preemptive mercy"},
+    {"ref": "EPH.2.4-5", "relevance": "typological", "reason": "God, rich in mercy, made us alive together with Christ — the restoration of the prodigal"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["joyful", "tender", "reconciling"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001476",
+    "title": "THE RETURN OF THE PRODIGAL SON",
+    "artist": "Friedrich Brentel",
+    "model": "claude-opus-4-6"
+  }
+}

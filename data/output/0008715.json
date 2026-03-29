@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Barbara",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Scene from the Barbara Altar — Saint Barbara before a tower",
+  "tags": [
+    "saint-barbara",
+    "tower",
+    "medieval-altar",
+    "martyrdom",
+    "halo",
+    "soldiers",
+    "fortified-tower",
+    "gold-background"
+  ],
+  "symbols": [
+    "tower — Saint Barbara's legendary imprisonment, her attribute in iconography",
+    "halo — sanctity and divine protection",
+    "soldiers or persecutors — the authorities who pursued Barbara for her Christian faith",
+    "gold background — the heavenly realm and divine light"
+  ],
+  "description": "A medieval altarpiece panel with a gold background depicting a scene involving a bearded figure in ornate robes and armor gesturing toward a white fortified tower. The figure has a halo faintly visible. Behind him stand other figures, possibly soldiers. The tower is prominently placed, its white walls dominating the right portion of the composition. Hills with trees and a red church or building appear in the background. The style is characteristic of late medieval Northern European painting with flat gold ground and detailed rendering of costume.",
+  "theological_description": "The Barbara Altar depicts scenes from the life and martyrdom of Saint Barbara, a virgin martyr of the early Church. According to tradition, her pagan father imprisoned her in a tower to keep her from the world, but she secretly converted to Christianity. When her father discovered her faith, he turned her over to the authorities for torture and execution. Barbara's story embodies the Christian conviction that no earthly prison can confine the soul that has found freedom in Christ: 'If the Son sets you free, you will be free indeed' (John 8:36). Her tower, intended as a prison, became her place of prayer and encounter with God — much as Paul and Silas sang hymns in prison (Acts 16:25). Barbara is traditionally invoked as patron against lightning and sudden death, connected to the prayer that one may not die without the sacraments.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.8.36",
+      "relevance": "typological",
+      "reason": "If the Son sets you free you will be free indeed — Barbara's spiritual freedom despite physical imprisonment"
+    },
+    {
+      "ref": "ACT.16.25",
+      "relevance": "allusion",
+      "reason": "Paul and Silas singing in prison — the precedent for finding God in confinement"
+    },
+    {
+      "ref": "MAT.10.28",
+      "relevance": "typological",
+      "reason": "Do not fear those who kill the body — Barbara's courage before her persecutors"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "tense",
+    "medieval"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0008715",
+    "title": "Barbara altar from the Kalanti church in Finland",
+    "artist": "Master Francke",
+    "model": "claude-opus-4-6"
+  }
+}

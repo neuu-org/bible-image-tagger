@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Disciples", "type": "GROUP"},
+    {"name": "Onlookers", "type": "GROUP"}
+  ],
+  "event": "The Ascension of Christ",
+  "tags": [
+    "ascension",
+    "risen-christ",
+    "heavenward",
+    "disciples-watching",
+    "glorification",
+    "upward-movement",
+    "departure",
+    "exaltation",
+    "promise-of-return"
+  ],
+  "symbols": [
+    "central ascending figure — Christ rising to the right hand of the Father",
+    "figures gazing upward — the disciples and witnesses of the Ascension",
+    "blue and green palette — heavenly transcendence and the merging of earth and sky",
+    "angular dynamic forms — the energy and momentum of divine ascent"
+  ],
+  "description": "An expressionist composition rendered predominantly in blue and teal tones. A central figure stands elevated with arms raised upward, appearing to ascend above a group of angular, abstracted human figures below. The surrounding figures are arranged in dynamic poses, some reaching upward, others turning to look at the ascending figure. The forms are simplified and geometric, with strong angular lines creating a sense of upward movement. The overall palette is deep blue and green with darker shadows.",
+  "theological_description": "The Ascension of Christ, recorded in Luke and Acts, marks the culmination of the post-Resurrection appearances and the transition from Christ's earthly ministry to his heavenly reign. Luke describes Jesus being taken up while blessing the disciples, and a cloud receiving him out of their sight (LUK.24.50-51; ACT.1.9-11). Two angels then appear asking why they stand looking into heaven, promising that Jesus will return in the same way. The Ascension fulfills Christ's own words: 'I am ascending to my Father and your Father, to my God and your God' (JHN.20.17). It also fulfills the Psalmist's vision: 'God has gone up with a shout, the Lord with the sound of a trumpet' (PSA.47.5). Theologically, the Ascension completes the arc of the Incarnation — the Son who descended now ascends far above all heavens to fill all things (EPH.4.10). He enters the heavenly sanctuary as the great High Priest, making perpetual intercession (HEB.9.24). The angular, modernist treatment suggests the cosmic disruption of this event: heaven and earth are reconnected through the glorified body of Christ.",
+  "scripture_refs": [
+    {"ref": "ACT.1.9-11", "relevance": "primary", "reason": "The Ascension narrative with the promise of Christ's return"},
+    {"ref": "LUK.24.50-53", "relevance": "primary", "reason": "Jesus blessing the disciples and being carried up into heaven"},
+    {"ref": "EPH.4.8-10", "relevance": "typological", "reason": "He who descended is the one who ascended far above all heavens to fill all things"},
+    {"ref": "PSA.47.5", "relevance": "typological", "reason": "God has gone up with a shout — messianic psalm of divine ascent"},
+    {"ref": "HEB.9.24", "relevance": "typological", "reason": "Christ entering heaven itself to appear in the presence of God on our behalf"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe", "transcendence", "dynamism", "wonder"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002261",
+    "title": "Ascension",
+    "artist": "Kmetty J\u00e1nos",
+    "model": "claude-opus-4-6"
+  }
+}

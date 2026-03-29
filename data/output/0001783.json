@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "Egyptian crowd", "type": "GROUP"}
+  ],
+  "event": "The Glory of Joseph — Joseph exalted in Egypt",
+  "tags": [
+    "joseph",
+    "egypt",
+    "exaltation",
+    "chariot",
+    "pharaoh",
+    "procession",
+    "crowd",
+    "egyptian-architecture",
+    "fan-bearers",
+    "vizier"
+  ],
+  "symbols": [
+    "Joseph elevated on a chariot — his exaltation from prisoner to ruler, the reversal wrought by God's providence",
+    "Egyptian crowd bowing — all Egypt submitting to Joseph's authority, given by Pharaoh",
+    "Fan-bearers and processional staffs — royal Egyptian ceremony marking Joseph's new rank",
+    "Ornate Egyptian architecture — the court of Pharaoh, the world's greatest power under Joseph's stewardship"
+  ],
+  "description": "A young man in a white Egyptian garment stands elevated on a chariot or platform, looking out over a vast crowd. Egyptian fan-bearers hold large decorative fans on either side. Bare-chested men in white linen garments carry staffs and walk in procession. Behind the central figure, ornate Egyptian architectural elements with painted decorations and hieroglyphic motifs are visible. The crowd stretches far into the background. The composition conveys a sense of grand ceremony and public exaltation.",
+  "theological_description": "Joseph's elevation to second-in-command of all Egypt is one of the Old Testament's most dramatic reversals. Sold into slavery by his brothers, falsely imprisoned, and forgotten by those he helped, Joseph was raised by God to save not only Egypt but his own family from famine. Genesis records Pharaoh's decree: 'See, I have set you over all the land of Egypt... Without your consent no one shall lift up hand or foot in all the land of Egypt' (GEN.41.41-44). The procession depicted here corresponds to Genesis 41:43: 'He made him ride in his second chariot, and they called out before him, Bow the knee!' Joseph is one of the most complete types of Christ in the Old Testament: rejected by his brothers, sold for silver, unjustly condemned, raised from the pit to the throne, and ultimately the savior of those who betrayed him. As Joseph told his brothers: 'You meant evil against me, but God meant it for good, to bring it about that many people should be kept alive' (GEN.50.20).",
+  "scripture_refs": [
+    {"ref": "GEN.41.41-44", "relevance": "primary", "reason": "Pharaoh sets Joseph over all Egypt and gives him royal authority — the exaltation depicted"},
+    {"ref": "GEN.41.43", "relevance": "primary", "reason": "Joseph rides in Pharaoh's second chariot as they cry 'Bow the knee' — the procession shown"},
+    {"ref": "GEN.50.20", "relevance": "primary", "reason": "You meant evil against me but God meant it for good — the theological meaning of Joseph's story"},
+    {"ref": "PSA.105.17-22", "relevance": "typological", "reason": "The psalmist recounts Joseph's journey from slavery to ruler of Egypt"},
+    {"ref": "PHP.2.9-11", "relevance": "typological", "reason": "God exalted Christ and gave Him the name above every name — Joseph as type of Christ's exaltation"},
+    {"ref": "ACT.7.9-10", "relevance": "allusion", "reason": "Stephen recounts Joseph's story: God was with him and gave him favor before Pharaoh"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["triumphant", "majestic", "ceremonial"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0001783",
+    "title": "The Glory of Joseph",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

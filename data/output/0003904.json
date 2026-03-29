@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Apparition of the Virgin and Child to Saint Anthony",
+  "tags": [
+    "apparition",
+    "virgin-mary",
+    "infant-christ",
+    "saint-anthony",
+    "heavenly-vision",
+    "putti",
+    "hermit",
+    "desert"
+  ],
+  "symbols": [
+    "Virgin and Child in clouds — the heavenly vision granted to the penitent saint",
+    "putti supporting the vision — angelic intermediaries between heaven and earth",
+    "Anthony reclining in wilderness — the ascetic life of renunciation rewarded with divine vision",
+    "pink ribbon held by putto — the tender bond between heaven and the faithful below"
+  ],
+  "description": "An arched composition divided between heaven and earth. In the upper portion, the Virgin Mary in red and blue robes holds the infant Christ while seated on clouds, surrounded by putti. One putto holds a pink ribbon. Below, a semi-nude elderly man (Saint Anthony) reclines on the ground beside a tree, reaching his arm upward toward the heavenly vision. A landscape stretches into the distance behind him. Books or devotional objects lie near his feet.",
+  "theological_description": "This vision of the Virgin and Child appearing to Saint Anthony reflects the Christian tradition that God rewards faithful ascetic devotion with mystical experiences. Anthony the Great (c. 251-356), the father of monasticism, withdrew into the Egyptian desert to seek God through prayer and self-denial. Though a post-biblical figure, his life was shaped by Christ's invitation to the rich young man: 'If you would be perfect, go, sell what you possess and give to the poor, and you will have treasure in heaven' (MAT.19.21). The apparition of the Virgin and Child affirms that the goal of the ascetic life is not emptiness but encounter — union with the divine. Mary's appearance recalls her role as intercessor and the one through whom God became visible in the flesh.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.19.21",
+      "relevance": "typological",
+      "reason": "Christ's call to sell all and follow — the command that inspired Anthony's desert vocation"
+    },
+    {
+      "ref": "MAT.5.8",
+      "relevance": "allusion",
+      "reason": "Blessed are the pure in heart, for they shall see God — the vision as reward of purity"
+    },
+    {
+      "ref": "2CO.12.1-4",
+      "relevance": "allusion",
+      "reason": "Paul's visions and revelations of the Lord — the pattern for Anthony's mystical experience"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "Mary full of grace — her role as bearer of divine presence in the apparition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "devotional",
+    "luminous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003904",
+    "title": "Apparition De La Vierge Et De L'enfant-jesus A Saint Antoine",
+    "artist": "Simon Vouet",
+    "model": "claude-opus-4-6"
+  }
+}

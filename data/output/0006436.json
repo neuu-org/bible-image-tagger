@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Satan",
+      "type": "OTHER"
+    },
+    {
+      "name": "Fallen Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Satan presides over the council of fallen angels in Hell",
+  "tags": [
+    "satan",
+    "pandemonium",
+    "fallen-angels",
+    "hell",
+    "paradise-lost",
+    "demonic-council",
+    "infernal-throne",
+    "rebellion",
+    "darkness",
+    "cosmic-evil"
+  ],
+  "symbols": [
+    "enthroned Satan — the prince of darkness seated in mockery of God's heavenly throne",
+    "assembled demons — the infernal parody of the angelic host, the kingdom of rebellion",
+    "dark palatial architecture — Pandemonium, the capital of Hell, a perverse imitation of the heavenly city",
+    "wings and horns of the demons — the corruption of angelic nature through pride and rebellion",
+    "smoky light and flames — the fires of judgment and the false illumination of evil"
+  ],
+  "description": "A dramatic black-and-white engraving showing a vast interior hall with towering columns and arched architecture. At the far end, a bright light or fire illuminates a throne or elevated platform where a central figure presides. Rows of dark, winged figures line the sides of the hall, their forms angular and menacing with bat-like wings and horned silhouettes. The scene conveys an immense sense of scale, with the architecture dwarfing the assembled host. The engraving technique creates deep contrasts between the bright center and the surrounding darkness.",
+  "theological_description": "This scene depicts Satan in council, drawn from the literary tradition of Milton's Paradise Lost but rooted in biblical imagery of the rebellion of the angels. The concept of Satan's council finds its scriptural basis in Job 1:6-12, where Satan appears among the sons of God, and in the apocalyptic vision of the dragon who drew a third of the stars of heaven (Rev 12:4). Isaiah's oracle against the king of Babylon was read typologically as describing Satan's fall: 'How you are fallen from heaven, O Day Star, son of Dawn! You said in your heart, I will ascend above the heights of the clouds; I will make myself like the Most High' (Isa 14:12-14). The infernal council is a theological parody of the divine council — where God's heavenly court deliberates in righteousness, Satan's assembly plots destruction. Jesus himself referenced this kingdom of darkness when he declared that 'a kingdom divided against itself cannot stand' (Mark 3:24), and Paul warned that 'our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world' (Eph 6:12).",
+  "scripture_refs": [
+    {
+      "ref": "ISA.14.12-15",
+      "relevance": "typological",
+      "reason": "The fall of the Day Star, read as describing Satan's prideful rebellion and desire to enthrone himself above God"
+    },
+    {
+      "ref": "REV.12.3-9",
+      "relevance": "typological",
+      "reason": "The great dragon cast out of heaven with his angels, the cosmic war behind this infernal assembly"
+    },
+    {
+      "ref": "JOB.1.6-12",
+      "relevance": "primary",
+      "reason": "Satan appearing before God's council and receiving permission to test Job — the biblical basis for satanic deliberation"
+    },
+    {
+      "ref": "EPH.6.12",
+      "relevance": "allusion",
+      "reason": "The spiritual warfare against principalities and powers of darkness, the reality behind this demonic assembly"
+    },
+    {
+      "ref": "EZK.28.12-17",
+      "relevance": "typological",
+      "reason": "The lament over the king of Tyre, read as describing the original glory and fall of Satan"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ominous",
+    "dark",
+    "grandiose",
+    "foreboding"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0006436",
+    "title": "Satan in Council",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

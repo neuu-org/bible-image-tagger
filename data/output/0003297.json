@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Anne (Mother of Mary)", "type": "PERSON"},
+    {"name": "Infant Mary", "type": "PERSON"},
+    {"name": "Midwives and Attendants", "type": "GROUP"}
+  ],
+  "event": "Nativity of the Virgin Mary",
+  "tags": [
+    "nativity-of-mary",
+    "birth-scene",
+    "saint-anne",
+    "infant-mary",
+    "midwives",
+    "bathing-newborn",
+    "domestic-interior",
+    "marian-cycle"
+  ],
+  "symbols": [
+    "red bedspread — royalty and the Davidic lineage from which Mary descends",
+    "bathing of the newborn — purification and the new beginning of salvation history",
+    "architectural interior with upper gallery — the household as sacred space",
+    "attendants serving Anne — the communal care surrounding the birth of the future Theotokos"
+  ],
+  "description": "A domestic interior scene depicting the birth of the Virgin Mary. In the upper portion, Anne reclines on a bed covered with a bright red spread, attended by women in blue and white. In the lower foreground, midwives bathe the newborn infant: one woman in pink holds the child while another in yellow assists, and a third in blue prepares a basin. The architectural setting includes a Gothic upper gallery where additional figures can be seen. Candles or lamps are visible in a niche. The panel has a pointed gable shape at the top.",
+  "theological_description": "The Nativity of the Virgin, though drawn from the apocryphal Protoevangelium of James rather than canonical Scripture, holds deep theological significance in the Church's understanding of salvation history. Mary's birth marks the beginning of the final preparation for the Incarnation — she is the vessel 'full of grace' (LUK.1.28) chosen before the foundation of the world. The Fathers saw in Anne's conceiving the fulfillment of the pattern of barren women in Scripture who bore children of destiny: Sarah (GEN.21.1-2), Hannah (1SA.1.20), and Elizabeth (LUK.1.57). Mary's birth is understood as the dawn before the sunrise of Christ — the 'woman clothed with the sun' (REV.12.1) entering the world. The domestic intimacy of the scene grounds the cosmic event in ordinary human experience, affirming that God works through the natural order to accomplish supernatural purposes.",
+  "scripture_refs": [
+    {"ref": "LUK.1.28", "relevance": "typological", "reason": "Mary full of grace — her birth is the beginning of the life that leads to the Annunciation"},
+    {"ref": "GEN.21.1-2", "relevance": "typological", "reason": "Sarah's miraculous conception as pattern for Anne's conceiving Mary"},
+    {"ref": "1SA.1.20", "relevance": "typological", "reason": "Hannah's bearing of Samuel after barrenness, the type for Anne bearing Mary"},
+    {"ref": "LUK.1.57", "relevance": "typological", "reason": "Elizabeth's bearing of John the Baptist, another miraculous birth in the pattern"},
+    {"ref": "REV.12.1", "relevance": "allusion", "reason": "The woman clothed with the sun — Mary's cosmic significance beginning at her birth"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["joyful", "intimate", "tender"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003297",
+    "title": "Nativity of the Virgin",
+    "artist": "Cennino Cennini",
+    "model": "claude-opus-4-6"
+  }
+}

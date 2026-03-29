@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Virgin and Child enthroned in a Gothic niche",
+  "tags": [
+    "virgin-and-child",
+    "madonna-enthroned",
+    "gothic-architecture",
+    "nursing-madonna",
+    "throne",
+    "crown",
+    "incarnation",
+    "queen-of-heaven"
+  ],
+  "symbols": [
+    "Gothic niche with tracery — the Church as the architectural dwelling of the divine presence",
+    "Crown on Mary's head — her title as Queen of Heaven, Regina Caeli",
+    "Nursing infant — the Incarnation in its most humble and human expression, God nourished by a human mother",
+    "Throne — Mary as Sedes Sapientiae, the Seat of Wisdom upon which divine Wisdom rests",
+    "Small sculpted figures in the architectural frame — saints and angels forming the heavenly court"
+  ],
+  "description": "The Virgin Mary sits enthroned within an elaborate Gothic architectural niche with pointed arches, delicate tracery, and small sculpted figures. She wears a crown and a deep blue robe over a red dress. The infant Christ, dressed in a red garment, reaches toward his mother as she holds him on her lap. The architectural frame is richly detailed with pinnacles, carved saints in niches, and ornamental stonework. The overall effect is of a devotional panel framed by a miniature cathedral facade.",
+  "theological_description": "The Virgin and Child enthroned is one of the most ancient and theologically dense subjects in Christian art. Mary as Theotokos — the God-bearer, defined at the Council of Ephesus (431 AD) — is shown here as Sedes Sapientiae, the Throne of Wisdom, upon which the Incarnate Logos rests. The nursing motif (Maria Lactans) emphasizes the full reality of the Incarnation: the eternal Word truly took flesh and was nourished by a human mother (GAL.4.4). The Gothic architectural setting transforms the image into an ecclesiological statement — Mary enthroned within the Church is the Church itself, the dwelling place of God among His people. The crown identifies Mary as the woman of Revelation 12:1, 'clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.' The entire composition fulfills the prophecy of Isaiah: 'Behold, the virgin shall conceive and bear a son' (ISA.7.14), and Luke's Magnificat: 'He who is mighty has done great things for me' (LUK.1.49).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "The Annunciation promise that Mary would bear a son who would reign on David's throne forever"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent His Son, born of a woman — the Incarnation that the nursing Madonna embodies"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the prophetic foundation of the Virgin and Child image"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The crowned woman of Revelation, associated with Mary as Queen of Heaven"
+    },
+    {
+      "ref": "LUK.1.49",
+      "relevance": "allusion",
+      "reason": "The Mighty One has done great things for me — Mary's Magnificat celebrating her role in salvation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "regal",
+    "devotional",
+    "sacred",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001432",
+    "title": "Virgin and Child",
+    "artist": "Rogier van der Weyden",
+    "model": "claude-opus-4-6"
+  }
+}

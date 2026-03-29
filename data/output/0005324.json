@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Dante", "type": "PERSON"},
+    {"name": "Virgil", "type": "PERSON"},
+    {"name": "Damned Souls", "type": "GROUP"},
+    {"name": "Demon", "type": "OTHER"}
+  ],
+  "event": "The Inferno, Canto 28 - The Sowers of Discord",
+  "tags": [
+    "inferno",
+    "dante",
+    "divine-comedy",
+    "hell",
+    "damnation",
+    "sowers-of-discord",
+    "literary-illustration",
+    "demon",
+    "bat-wings",
+    "suffering-souls",
+    "rocky-terrain"
+  ],
+  "symbols": [
+    "winged demon with sword — the executioner of divine justice in the circle of the sowers of discord",
+    "mutilated and suffering figures — the contrapasso punishment, their bodies divided as they divided others",
+    "two robed observers — Dante and Virgil witnessing the justice of hell",
+    "barren rocky landscape — the desolation of the infernal realm"
+  ],
+  "description": "A monochrome engraving depicting a scene from Dante's Inferno. Two robed figures stand at left, observing a group of naked, mutilated souls sprawled and contorted on rocky ground. Above them on a high rock, a winged demonic figure with bat-like wings holds a sword aloft. The damned souls display various wounds and disfigurements, writhing in agony. The landscape is barren and rocky, rendered in fine cross-hatching creating deep shadows and dramatic contrasts.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "narrative",
+  "mood": ["horrific", "grim", "anguished"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0005324",
+    "title": "The Inferno, Canto 28",
+    "artist": "Gustave Dor\u00e9",
+    "model": "claude-opus-4-6"
+  }
+}

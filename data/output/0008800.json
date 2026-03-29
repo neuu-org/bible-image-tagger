@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Young Saint John the Baptist",
+  "tags": [
+    "john-the-baptist",
+    "youth",
+    "profile-portrait",
+    "curly-hair",
+    "reed-cross",
+    "forerunner",
+    "lamb-of-god",
+    "devotional",
+    "renaissance-portrait"
+  ],
+  "symbols": [
+    "reed cross — the cross of Christ that John will proclaim, fashioned from the wilderness reeds of his desert life",
+    "youthful beauty — the Baptist before his public ministry, the forerunner in preparation",
+    "profile view — the one who looks forward to the coming Messiah, always pointing beyond himself"
+  ],
+  "description": "A profile portrait of a young boy with abundant golden-brown curly hair, shown from the shoulders up against a completely dark background. He faces left in pure profile. His skin is luminous and idealized. Behind his head, a thin reed cross is visible, its form partially obscured by his curls. The rendering is smooth and delicate with soft tonal transitions. The subject has an idealized, almost angelic beauty.",
+  "theological_description": "The Young Saint John the Baptist was a beloved subject in Renaissance art, depicting the forerunner of Christ in his boyhood, before his emergence from the wilderness to baptize and preach. The reed cross he carries is his defining attribute — it identifies him as the one who will point to Christ crucified, declaring 'Behold, the Lamb of God who takes away the sin of the world' (John 1:29). Luke's Gospel records that 'the child grew and became strong in spirit, and he was in the wilderness until the day of his public appearance to Israel' (Luke 1:80). The profile orientation is symbolically significant: John always faces toward Christ, never toward himself. He declared, 'He must increase, but I must decrease' (John 3:30). The youthful beauty captures the period of hidden preparation that preceded his prophetic vocation — the years of formation in which the last and greatest of the prophets was shaped by God for his brief, blazing ministry.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God — the proclamation the reed cross anticipates"
+    },
+    {
+      "ref": "LUK.1.80",
+      "relevance": "primary",
+      "reason": "The child grew and was in the wilderness — the period of life this portrait depicts"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "typological",
+      "reason": "He must increase, I must decrease — the profile orientation suggesting John's role as forerunner"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Among those born of women none greater than John — the greatness hidden in this youthful form"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "innocent",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008800",
+    "title": "The Young Saint John the Baptist",
+    "artist": "Piero di Cosimo",
+    "model": "claude-opus-4-6"
+  }
+}

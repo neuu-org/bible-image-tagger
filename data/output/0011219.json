@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "holy-family",
+    "landscape",
+    "rest-on-flight",
+    "trees",
+    "river",
+    "journey",
+    "panoramic"
+  ],
+  "symbols": [
+    "Holy Family resting in a vast landscape — the refugee family trusting God's protection",
+    "expansive landscape — the dangerous journey through a hostile world",
+    "river and distant cliffs — the passage through peril to safety"
+  ],
+  "description": "A wide panoramic landscape with the small figure of the Virgin Mary seated with the infant Christ in the middle ground, resting beside a path. Dense trees provide shade. A vast landscape stretches out behind them with rivers, rocky cliffs, villages, and distant mountains under a hazy sky. The figures are dwarfed by the immense natural setting, characteristic of Patinir's world-landscape style.",
+  "theological_description": "The Flight into Egypt (MAT.2.13-15) follows the angel's warning to Joseph: 'Rise, take the child and his mother, and flee to Egypt, and remain there until I tell you, for Herod is about to search for the child, to destroy him.' This event fulfills Hosea's prophecy: 'Out of Egypt I called my son' (HOS.11.1). The vast landscape in Patinir's rendering emphasizes the vulnerability and courage of the Holy Family — refugees fleeing political violence with only divine guidance to protect them. The journey echoes Israel's own sojourn in Egypt and exodus, establishing Jesus as the new Moses who will lead a greater liberation. The rest along the way connects to the broader biblical theme of God providing respite for his weary people: 'Come to me, all who labor and are heavy laden, and I will give you rest' (MAT.11.28).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The angel's command to flee to Egypt, the direct subject"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son, fulfilled in Jesus's return from Egypt"
+    },
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "primary",
+      "reason": "Herod's massacre of the innocents, the danger they flee"
+    },
+    {
+      "ref": "MAT.11.28",
+      "relevance": "allusion",
+      "reason": "Come to me and I will give you rest, reflected in the resting scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "vast",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011219",
+    "title": "Landscape with The Flight into Egypt",
+    "artist": "Joachim Patinir",
+    "model": "claude-opus-4-6"
+  }
+}

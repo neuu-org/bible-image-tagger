@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Archangel Michael",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna in Glory with the Child and Saints",
+  "tags": [
+    "madonna-in-glory",
+    "infant-jesus",
+    "saints",
+    "archangel-michael",
+    "angels",
+    "putti",
+    "clouds",
+    "enthroned"
+  ],
+  "symbols": [
+    "Madonna enthroned in clouds — the heavenly Queen exalted above the earthly saints",
+    "infant Christ on her lap — the divine child blessing from heaven",
+    "archangel Michael in armor — the warrior angel who defeats Satan",
+    "saints standing below — the communion of saints interceding",
+    "cherub head between realms — the link between heaven and earth",
+    "putti surrounding the Madonna — the heavenly court"
+  ],
+  "description": "A two-tiered altarpiece composition. In the upper register, the Virgin Mary sits enthroned on clouds holding the infant Jesus, surrounded by six angels or putti who attend her. Below, four standing figures are arranged against a landscape: at far left, a figure in armor with a shield (the archangel Michael), then a female saint in blue, another female saint in dark robes, and at far right an elderly bearded figure in colorful robes. A cherub head separates the heavenly and earthly zones. The landscape behind shows rolling green hills under a blue sky.",
+  "theological_description": "Perugino's altarpiece presents the Madonna and Child in heavenly glory above the communion of saints on earth, a classic Sacra Conversazione composition. Mary enthroned in the clouds fulfills the vision of Revelation 12:1 — the woman clothed with the sun. The archangel Michael at left is the warrior of God who 'fought against the dragon' (Rev 12:7), the defender of God's people. The standing saints below represent the Church on earth in communion with the heavenly Church, embodying Hebrews 12:1: 'we are surrounded by so great a cloud of witnesses.' The cherub head between the two realms represents the thin veil between heaven and earth. The serene Umbrian landscape characteristic of Perugino suggests the peace of the kingdom where 'the wolf shall dwell with the lamb' (Isa 11:6). The infant Christ's presence in heaven, blessing through His mother, affirms Paul's teaching that Christ is 'far above all rule and authority' (Eph 1:21).",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "A woman clothed with the sun — Mary enthroned in heavenly glory"
+    },
+    {
+      "ref": "REV.12.7",
+      "relevance": "primary",
+      "reason": "Michael and his angels fought against the dragon — the archangel in armor"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "Surrounded by a great cloud of witnesses — the saints below"
+    },
+    {
+      "ref": "EPH.1.21",
+      "relevance": "allusion",
+      "reason": "Far above all rule and authority — Christ enthroned in heaven"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "serene",
+    "majestic",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012302",
+    "title": "Madonna in Glory with the Child and Saints",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "gabriel",
+    "mary",
+    "orientalist",
+    "holy-land"
+  ],
+  "symbols": [
+    "angel appearing — divine message entering ordinary life",
+    "Mary at prayer — humble setting of the greatest event"
+  ],
+  "description": "A Tissot watercolor in his characteristic Orientalist style depicting the Annunciation with attention to realistic Middle Eastern domestic setting and archaeological detail, part of his exhaustive Life of Christ series.",
+  "theological_description": "Tissot emphasizes the historical reality of the Incarnation. Gabriel's message (LUK.1.26-38) occurs in a humble Galilean home. 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you' (LUK.1.35). Mary's fiat — 'let it be to me according to your word' (LUK.1.38) — is the hinge of salvation history.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit overshadowing Mary"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011442",
+    "title": "Annunciation",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint Anne with the Virgin and Child Christ — preparatory sketch",
+  "tags": [
+    "saint-anne",
+    "virgin-mary",
+    "infant-christ",
+    "sketch",
+    "red-chalk",
+    "three-generations",
+    "holy-family",
+    "study"
+  ],
+  "symbols": [
+    "Three generations — Anne, Mary, and Jesus representing the unfolding of salvation history",
+    "Mary on Anne's lap with Christ — the chain of grace from grandmother to mother to Incarnate God"
+  ],
+  "description": "A loose red chalk sketch on paper shows a group of three figures. An older woman seated behind supports a younger woman on her lap, who in turn holds a small child. The drawing is rapid and gestural, with energetic lines capturing the interrelationship of the three figures. The composition is pyramidal, with the eldest figure at the top and the child at the bottom. Faint additional studies are visible on the sheet.",
+  "theological_description": "The subject of Saint Anne with the Virgin and Child (Anna Selbdritt or Anna Metterza) presents three generations of the holy lineage that brought Christ into the world. Though Anne is not mentioned in canonical Scripture, this devotional subject affirms the principle that God works through families and generations. Paul praised Timothy's faith which 'dwelt first in your grandmother Lois and your mother Eunice' (2TI.1.5). The three figures represent the progressive unfolding of God's plan: Anne prepared Mary, Mary bore Christ, and through Christ 'all the families of the earth shall be blessed' (GEN.12.3). Michelangelo's study captures the physical intimacy of this generational connection — bodies supporting bodies, just as faith supports faith across time.",
+  "scripture_refs": [
+    {
+      "ref": "2TI.1.5",
+      "relevance": "typological",
+      "reason": "Faith passed through generations — grandmother, mother, child — the pattern of Anne, Mary, Jesus"
+    },
+    {
+      "ref": "GEN.12.3",
+      "relevance": "typological",
+      "reason": "In you all families of the earth shall be blessed — fulfilled through this generational chain"
+    },
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "The Annunciation: Mary will bear the Son of the Most High"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent His Son, born of a woman — the Incarnation through the maternal line depicted"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "intimate",
+    "studious",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002061",
+    "title": "St. Anne with Virgin and Child Christ",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

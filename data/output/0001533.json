@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with the Infant Saint John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "infant-christ",
+    "young-john-baptist",
+    "halo",
+    "garden",
+    "flowers",
+    "reed-cross",
+    "tenderness",
+    "incarnation"
+  ],
+  "symbols": [
+    "Infant Christ reaching toward Mary — the intimacy of the Incarnation, divine love expressed in human touch",
+    "Young Baptist with reed cross — the forerunner carrying the sign of the cross even in childhood",
+    "Garden with roses — the hortus conclusus, the enclosed garden symbolizing Mary's purity",
+    "Flowers blooming — new life and the paradise restored through the coming of Christ"
+  ],
+  "description": "The Virgin Mary, wearing a green mantle over a red dress, holds the nude infant Jesus who reaches up to touch her face in a tender gesture. She gazes down at him with gentle affection. To the left, the young John the Baptist with curly hair and a halo looks on, holding a thin reed cross. Behind them, a garden with trees and flowering rose bushes fills the background. An ornate marble ledge or parapet is visible in the lower foreground.",
+  "theological_description": "This intimate devotional image centers on the tender relationship between Mother and Son while including the young Baptist, who even in infancy is identified by his attribute — the reed cross that points to Christ's future Passion. The garden setting evokes the Song of Solomon's 'enclosed garden' (SNG.4.12), traditionally applied to Mary's virginity. The roses, particularly associated with Mary in medieval piety, also carry a Passion reference — red roses symbolizing Christ's blood. The infant Christ's gesture of touching His mother's face speaks to the full humanity of the Incarnation: the Word through whom all things were made (JHN.1.3) is here a baby seeking his mother's comfort. Luke records that John 'grew and became strong in spirit, and he was in the wilderness until the day of his public appearance to Israel' (LUK.1.80), but tradition imagines earlier encounters between the cousins, rooted in the Visitation account where the unborn John leaped at Mary's greeting (LUK.1.41).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The unborn John leaps at Mary's greeting — the origin of the childhood connection depicted here"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John's future declaration 'Behold the Lamb of God' — prefigured by the reed cross he holds as a child"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the infant Christ in Mary's arms is the Incarnation made visible"
+    },
+    {
+      "ref": "SNG.4.12",
+      "relevance": "typological",
+      "reason": "The enclosed garden as a symbol of Mary's purity, reflected in the garden setting"
+    },
+    {
+      "ref": "LUK.1.80",
+      "relevance": "allusion",
+      "reason": "John grew and became strong in spirit — this childhood scene precedes his wilderness years"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional",
+    "serene",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001533",
+    "title": "The Madonna and Child with the Infant Saint John the Baptist",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

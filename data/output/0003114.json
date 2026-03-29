@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Mockers and Soldiers", "type": "GROUP"}
+  ],
+  "event": "The Mocking of Christ",
+  "tags": [
+    "mocking-of-christ",
+    "passion",
+    "humiliation",
+    "crown-of-thorns",
+    "ecce-homo",
+    "bound-christ",
+    "tormentors",
+    "nocturnal-scene",
+    "candlelight"
+  ],
+  "symbols": [
+    "seated Christ, stripped and bound — the Suffering Servant humiliated before his accusers",
+    "man in blue pressing close — the world's contempt and mockery of divine innocence",
+    "candlelight illumination — truth revealed in darkness, the light shining where it is not recognized",
+    "reed or staff — the mock scepter given to ridicule Christ's kingship",
+    "dog at Christ's feet — faithfulness contrasted with human betrayal, or unclean association"
+  ],
+  "description": "A night scene lit by a single candle or torch. A nearly nude man, identified as Christ, sits on a raised stone seat, his body leaning back, looking weary and defeated. Several figures surround him: a man in blue lunges forward aggressively, another in armor stands behind, and a young figure in yellow crouches to the right. A dog sits near Christ's bare feet. The dramatic side-lighting casts deep shadows across the scene, emphasizing the tension between the tormentors and the passive, suffering figure.",
+  "theological_description": "The Mocking of Christ is the nadir of the Passion narrative, where the King of Kings is subjected to the cruelest irony: those who should worship him instead ridicule him. Matthew 27:27-31 describes the soldiers stripping Jesus, placing a scarlet robe and crown of thorns on him, and kneeling in mock homage. The dramatic candlelight evokes John 1:5 — the light shines in the darkness, and the darkness has not overcome it — yet here the light illuminates those who cannot recognize the divine presence before them. Christ's passive endurance fulfills Isaiah 53:7: 'He was oppressed and afflicted, yet he did not open his mouth.' The scene embodies the great reversal of the Kingdom: the one who appears weakest is in reality the Almighty, and those who appear powerful are spiritually blind. Augustine saw in Christ's humiliation the medicine for human pride — God stooping to the lowest point so that humanity might be lifted to the highest.",
+  "scripture_refs": [
+    {"ref": "MAT.27.27-31", "relevance": "primary", "reason": "The soldiers mocking Christ with a robe, crown of thorns, and reed scepter"},
+    {"ref": "MRK.15.16-20", "relevance": "primary", "reason": "Mark's account of the soldiers' mockery of Christ in the praetorium"},
+    {"ref": "ISA.53.3-7", "relevance": "typological", "reason": "The Suffering Servant despised, rejected, and silent before his tormentors"},
+    {"ref": "JHN.1.5", "relevance": "allusion", "reason": "The light shining in darkness, evoked by the candlelit scene where Christ goes unrecognized"},
+    {"ref": "PHP.2.6-8", "relevance": "typological", "reason": "Christ humbling himself and becoming obedient unto death, the theological ground of the mocking"},
+    {"ref": "LUK.22.63-65", "relevance": "primary", "reason": "The men holding Jesus mocked him, beat him, and blasphemed against him"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["cruel", "somber", "tense", "anguished"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003114",
+    "title": "THE MOCKERY OF CHRIST",
+    "artist": "Matthias Stom",
+    "model": "claude-opus-4-6"
+  }
+}

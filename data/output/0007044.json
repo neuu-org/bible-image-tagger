@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Travelers", "type": "GROUP"}
+  ],
+  "event": "Chapel on the seashore at sunset",
+  "tags": [
+    "chapel",
+    "seashore",
+    "cross",
+    "sunset",
+    "sailing-ships",
+    "coastal-landscape",
+    "roadside-shrine",
+    "pilgrimage"
+  ],
+  "symbols": [
+    "cross atop the chapel — Christian faith as a beacon for travelers and seafarers",
+    "vine-covered chapel — the endurance of faith rooted in the landscape over time",
+    "statue of a saint in the niche — intercessory protection for those who pass",
+    "ships in the mist — the journey of life and the perils of the sea",
+    "golden sunset light — divine glory and the hope that illuminates the path"
+  ],
+  "description": "A luminous coastal landscape at sunset. On a grassy hilltop at right stands a small stone chapel or shrine topped with a cross, its walls partly covered by climbing vines, with a statue visible in its niche. A group of figures, including one on a donkey, gathers at its base. Below, a harbor town with cypress trees and buildings is faintly visible through golden haze. Tall-masted sailing ships emerge ghostlike from the misty sea at left. The sky glows in soft yellows and lavenders.",
+  "theological_description": "Roadside chapels and wayside shrines have been integral to Christian devotional geography for centuries, marking the landscape as sacred space and offering travelers a place for prayer and protection. The cross crowning the chapel proclaims Christ's lordship over land and sea. The ships in the mist evoke the ancient Christian metaphor of the Church as a ship (navis) carrying the faithful through the storms of life toward the harbor of salvation. The gathering of pilgrims at the shrine echoes the biblical pattern of worship at holy places along the journey — from Jacob's pillar at Bethel to the Psalms of Ascent sung by pilgrims approaching Jerusalem. The golden light suffusing the scene suggests the divine presence that sanctifies ordinary places and everyday journeys.",
+  "scripture_refs": [
+    {"ref": "PSA.107.23-30", "relevance": "primary", "reason": "Those who go down to the sea in ships, whom the Lord brings to their desired haven — the seafarers and the chapel on the shore"},
+    {"ref": "GEN.28.18-19", "relevance": "typological", "reason": "Jacob setting up a pillar and naming a place holy — the archetype of the wayside shrine"},
+    {"ref": "PSA.121.1-2", "relevance": "allusion", "reason": "I lift my eyes to the hills, from where does my help come — travelers looking to the hilltop chapel"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["luminous", "peaceful", "reverent"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007044",
+    "title": "Chapel on seashore",
+    "artist": "Ivan Aivazovsky",
+    "model": "claude-opus-4-6"
+  }
+}

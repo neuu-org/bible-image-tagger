@@ -1,0 +1,17 @@
+{
+  "characters": [{"name": "Prodigal Son", "type": "PERSON"}, {"name": "Father", "type": "PERSON"}, {"name": "Servants", "type": "GROUP"}],
+  "event": "The Return of the Prodigal Son",
+  "tags": ["prodigal-son", "parable", "return", "embrace", "forgiveness", "father", "repentance"],
+  "symbols": ["father embracing son — God's unconditional love welcoming the repentant sinner", "tattered garments — the ruin of living apart from the Father", "servants bringing robe — restoration of dignity and sonship"],
+  "description": "A Baroque painting showing an elderly father embracing his returning son who kneels before him in ragged clothing. Servants attend nearby. The father's face shows overwhelming joy and compassion. The palette is warm with rich earth tones and dramatic lighting focused on the central embrace.",
+  "theological_description": "The Return of the Prodigal Son (LUK.15.11-32) is Christ's most powerful parable of divine mercy. The younger son demands his inheritance, squanders it, and returns in destitution. The father's response exceeds all expectation: he runs to meet the son, embraces him, and celebrates. 'This my son was dead, and is alive again; he was lost, and is found' (LUK.15.24). The parable reveals God's nature: not a distant judge but a Father who watches, waits, and runs. Paul echoes: 'God shows his love for us in that while we were still sinners, Christ died for us' (ROM.5.8).",
+  "scripture_refs": [
+    {"ref": "LUK.15.11-32", "relevance": "primary", "reason": "The full parable of the Prodigal Son"},
+    {"ref": "LUK.15.20-24", "relevance": "primary", "reason": "The father running, embracing, and celebrating"},
+    {"ref": "ROM.5.8", "relevance": "typological", "reason": "God's love demonstrated while we were still sinners"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["joyful", "tender", "redemptive"],
+  "period": "Gospel",
+  "_meta": {"key": "0011408", "title": "The Return of the Prodigal Son", "artist": "Bartolome Esteban Murillo", "model": "claude-opus-4-6"}
+}

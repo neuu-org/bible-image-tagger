@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pesaro Family",
+      "type": "GROUP"
+    },
+    {
+      "name": "Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Madonna of the Pesaro Family",
+  "tags": [
+    "madonna-and-child",
+    "enthroned",
+    "donors",
+    "pesaro-family",
+    "saint-peter",
+    "saint-francis",
+    "columns",
+    "banner",
+    "venetian"
+  ],
+  "symbols": [
+    "enthroned Virgin on steps — Mary exalted as Queen and intercessor",
+    "massive columns — the pillars of the Church and the grandeur of faith",
+    "red banner with coat of arms — the Pesaro family's victory and patronage",
+    "Saint Peter with keys and book — the apostolic authority of the Church",
+    "kneeling donors — the faithful seeking intercession through the saints",
+    "putti in clouds above — the heavenly realm breaking into the earthly"
+  ],
+  "description": "A monumental altarpiece set within a real marble frame. The composition is asymmetrical: the Virgin Mary sits enthroned at upper right holding the infant Christ on her lap, with massive columns rising behind her into clouds where putti hold a cross. At lower left, a man in armor kneels beside a turbaned figure, with a large red banner bearing a coat of arms behind them. Saint Peter sits on the steps between the kneeling figures and the Virgin, holding keys and a book. At lower right, a Franciscan friar and several kneeling figures in rich robes gaze upward.",
+  "theological_description": "Titian's revolutionary altarpiece for the Frari church in Venice depicts the Pesaro family presented to the Virgin and Child through the intercession of saints. The asymmetrical composition broke with tradition, placing Mary off-center to create a dynamic diagonal of devotion. Saint Peter, holding the keys of the kingdom (Matt 16:19), serves as the apostolic intermediary. The figure in armor at left is Jacopo Pesaro, who led a naval victory against the Turks, presenting his triumph as an offering to the Virgin. Saint Francis at right represents the Franciscan order. The massive columns evoke the Temple and Paul's image of the Church as 'the pillar and buttress of the truth' (1 Tim 3:15). The cross borne by angels in the clouds above connects earthly patronage to heavenly salvation. The whole composition embodies the Catholic understanding of the communion of saints as an interconnected economy of prayer and intercession.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.19",
+      "relevance": "primary",
+      "reason": "I will give you the keys of the kingdom — Saint Peter with his keys"
+    },
+    {
+      "ref": "1TI.3.15",
+      "relevance": "typological",
+      "reason": "The Church as pillar and buttress of truth — the great columns"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — Mary enthroned receiving honor"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "Surrounded by a great cloud of witnesses — saints interceding for the faithful"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "devotional",
+    "triumphant"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012015",
+    "title": "The Madonna of the Pesaro Family",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

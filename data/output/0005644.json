@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Sleeping Disciples",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Agony in the Garden of Gethsemane",
+  "tags": [
+    "gethsemane",
+    "agony-in-the-garden",
+    "prayer",
+    "sleeping-disciples",
+    "night",
+    "moonlight",
+    "olive-trees",
+    "passion",
+    "vigil"
+  ],
+  "symbols": [
+    "Christ kneeling in prayer with golden halo — the divine Son in agonized prayer before His Passion",
+    "sleeping disciples — the failure to watch and pray in the hour of trial",
+    "dark garden at night — Gethsemane, the olive press, where the weight of the world's sin is pressed upon Christ",
+    "glowing moon or halo light — the divine light persisting in the darkness of approaching betrayal",
+    "dense vegetation — the garden enclosure, the place of solitary anguish"
+  ],
+  "description": "A woodcut-style illustration with bold outlines and limited color showing Christ kneeling in prayer at upper left, illuminated by a golden halo or moonlight, His head bowed over what appears to be a rock or ledge. He wears a white robe. In the foreground, two or three disciples are slumped in sleep — one curled up in golden-yellow garments at lower right, another hunched over in dark robes at center-right. Dense, dark foliage rendered in intricate black lines fills the background, suggesting a thick garden.",
+  "theological_description": "The Agony in the Garden captures the most psychologically intense moment of Christ's Passion, when Jesus withdrew from His disciples in Gethsemane and prayed, 'Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done' (LUK.22.42). Luke alone records that His sweat became like great drops of blood falling to the ground (LUK.22.44). The sleeping disciples represent the failure of human solidarity with Christ in His suffering — He asked them to watch and pray, but they could not stay awake for one hour (MRK.14.37). The name Gethsemane means 'oil press,' and the Fathers saw in this a symbol of Christ being pressed under the weight of the world's sin, the crushing that produces the oil of salvation. This is the moment where Christ's human will is perfectly aligned with the divine will, the supreme act of obedience that reverses Adam's disobedience in another garden (ROM.5.19).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.39-46",
+      "relevance": "primary",
+      "reason": "Jesus prays on the Mount of Olives while the disciples fall asleep"
+    },
+    {
+      "ref": "MRK.14.32-42",
+      "relevance": "primary",
+      "reason": "Gethsemane — Jesus in agony tells Peter to watch and pray; the disciples sleep three times"
+    },
+    {
+      "ref": "MAT.26.36-46",
+      "relevance": "primary",
+      "reason": "My soul is very sorrowful, even to death — Christ's anguish and the cup of suffering"
+    },
+    {
+      "ref": "HEB.5.7",
+      "relevance": "typological",
+      "reason": "In the days of his flesh, Jesus offered up prayers with loud cries and tears"
+    },
+    {
+      "ref": "ROM.5.19",
+      "relevance": "typological",
+      "reason": "By one man's obedience the many will be made righteous — the obedience in Gethsemane reversing Eden"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguish",
+    "solitude",
+    "darkness",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005644",
+    "title": "The Agony in the Garden",
+    "artist": "Esther Newport",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "gabriel",
+    "mary",
+    "angels",
+    "heavenly-light",
+    "dove"
+  ],
+  "symbols": [
+    "angel kneeling — divine messenger delivering God's invitation",
+    "Mary — the chosen vessel of the Incarnation",
+    "dove — the Holy Spirit overshadowing"
+  ],
+  "description": "A Baroque Annunciation by Luca Giordano showing Gabriel approaching Mary with dynamic heavenly imagery above, likely including cherubs and divine light in Giordano's characteristic rapid, luminous style.",
+  "theological_description": "The Annunciation (LUK.1.26-38) inaugurates the Incarnation. Gabriel announces: 'you will conceive and bear a son, and you shall call his name Jesus' (LUK.1.31). Mary's fiat — 'let it be to me according to your word' (LUK.1.38) — opens the door for God to enter the world as man.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "luminous",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011599",
+    "title": "The Annunciation",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Saint Hippolytus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioners",
+      "type": "GROUP"
+    },
+    {
+      "name": "Donor figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Martyrdom of Saint Hippolytus",
+  "tags": [
+    "saint-hippolytus",
+    "martyrdom",
+    "horses",
+    "dismemberment",
+    "donor-panels",
+    "persecution",
+    "early-church-martyr",
+    "suffering-for-faith"
+  ],
+  "symbols": [
+    "horses pulling the saint apart — the gruesome martyrdom of Hippolytus, torn by horses",
+    "executioners on horseback — the agents of imperial persecution",
+    "donor figures in prayer — the faithful who commissioned this altarpiece in devotion",
+    "triptych format — the liturgical framing of martyrdom as altar sacrifice"
+  ],
+  "description": "A three-panel triptych. The central panel shows a dramatic scene of a man being torn apart by horses driven in different directions by riders, with soldiers and onlookers surrounding the scene in a hilly landscape. The left wing shows a kneeling donor figure in dark robes before a standing saint. The right wing shows a group of figures, possibly the saint's companions or additional donors. The style is late medieval Flemish with detailed landscapes, bright colors, and meticulous rendering of costumes and expressions.",
+  "theological_description": "Saint Hippolytus was an early Church Father and martyr whose death by being torn apart by horses gave him his name's association (Hippolytus = 'torn by horses,' echoing the Greek myth). Historical accounts vary, but the tradition depicted here shows him martyred under Roman persecution. While not a biblical figure, Hippolytus was a significant theologian who wrote the Apostolic Tradition, one of the earliest Church orders, and commentaries on Daniel and the Song of Songs. His martyrdom exemplifies the cost of early Christian witness, reflecting Christ's warning: 'They will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name's sake' (MAT.24.9). The triptych format places the martyrdom at the center of an altar, linking the saint's sacrifice to the Eucharistic sacrifice of Christ.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.24.9",
+      "relevance": "allusion",
+      "reason": "You will be hated and killed for my name's sake — the persecution fulfilled in Hippolytus's martyrdom"
+    },
+    {
+      "ref": "REV.6.9-11",
+      "relevance": "allusion",
+      "reason": "The souls under the altar who were slain for the word of God"
+    },
+    {
+      "ref": "2TI.4.6-8",
+      "relevance": "allusion",
+      "reason": "I have fought the good fight, I have finished the race — the martyr's crown of righteousness"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "dramatic",
+    "devotional",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003033",
+    "title": "St. Hippolytus Triptych",
+    "artist": "Dirk Bouts",
+    "model": "claude-opus-4-6"
+  }
+}

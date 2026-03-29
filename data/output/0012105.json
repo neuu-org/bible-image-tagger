@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "King Solomon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Two Mothers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Living Child",
+      "type": "PERSON"
+    },
+    {
+      "name": "Dead Child",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldier with Sword",
+      "type": "PERSON"
+    },
+    {
+      "name": "Courtiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Judgement of Solomon",
+  "tags": [
+    "judgment-of-solomon",
+    "wisdom",
+    "throne",
+    "sword",
+    "infant",
+    "two-mothers",
+    "court",
+    "justice",
+    "old-testament"
+  ],
+  "symbols": [
+    "enthroned king — Solomon exercising divine wisdom in judgment",
+    "sword raised over the child — the threat that reveals the true mother's love",
+    "living and dead infants — the matter of dispute between the two women",
+    "kneeling mother — the true mother who would rather lose her child than see it killed",
+    "courtiers watching — the public nature of royal justice and its teaching function"
+  ],
+  "description": "A detailed pen drawing showing a richly dressed young king seated on an ornate throne at center, wearing a crown and holding a scepter or book. Before him, two women dispute: one kneels desperately reaching toward a soldier who holds a sword over a living infant, while another infant lies dead on the ground. At right, a soldier holds the living baby by one leg while preparing to strike. Courtiers and attendants crowd both sides of the throne. The composition is theatrical and crowded, in the late Gothic engraving style.",
+  "theological_description": "Schongauer depicts the famous Judgment of Solomon from 1 Kings 3:16-28, one of the most celebrated stories of divine wisdom in the Old Testament. Two women came before King Solomon, each claiming the surviving baby as her own. Solomon ordered the living child cut in two, knowing the true mother would reveal herself by her willingness to surrender the child rather than see it killed. 'Give the living child to the first woman, and by no means put him to death; she is his mother' (1 Kgs 3:27). The story demonstrates the wisdom God gave Solomon in answer to his prayer: 'Give your servant an understanding mind to govern your people, that I may discern between good and evil' (1 Kgs 3:9). This judicial wisdom prefigures the greater wisdom of Christ, in whom 'are hidden all the treasures of wisdom and knowledge' (Col 2:3). Jesus himself declared 'something greater than Solomon is here' (Matt 12:42). The scene also illustrates the nature of true love — self-sacrificing rather than possessive.",
+  "scripture_refs": [
+    {
+      "ref": "1KI.3.16-28",
+      "relevance": "primary",
+      "reason": "The full narrative of Solomon's judgment between the two mothers"
+    },
+    {
+      "ref": "1KI.3.9",
+      "relevance": "primary",
+      "reason": "Solomon's prayer for wisdom to discern between good and evil"
+    },
+    {
+      "ref": "MAT.12.42",
+      "relevance": "typological",
+      "reason": "Something greater than Solomon is here — Christ as the greater wisdom"
+    },
+    {
+      "ref": "COL.2.3",
+      "relevance": "allusion",
+      "reason": "In Christ are hidden all treasures of wisdom and knowledge"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "tense",
+    "judicial"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0012105",
+    "title": "Judgement of Solomon",
+    "artist": "Martin Schongauer",
+    "model": "claude-opus-4-6"
+  }
+}

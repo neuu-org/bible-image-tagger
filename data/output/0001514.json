@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "Holy Spirit (as dove)", "type": "DEITY"},
+    {"name": "Onlookers", "type": "GROUP"}
+  ],
+  "event": "Christ Coming Up Out of the Jordan after Baptism",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "holy-spirit",
+    "dove",
+    "john-the-baptist",
+    "epiphany",
+    "trinity",
+    "emerging-from-water",
+    "divine-light"
+  ],
+  "symbols": [
+    "Dove descending from heaven — the Holy Spirit alighting upon Christ at His baptism",
+    "Light from above — the Father's voice and approval: 'This is my beloved Son'",
+    "Jordan river — the waters of baptism, the threshold between old and new life",
+    "Christ emerging from the water — the inauguration of His public ministry"
+  ],
+  "description": "Christ, draped in a white garment, rises from the water with one arm raised toward a glowing dove descending from above in a burst of heavenly light. Beside him, a muscular, barely clad figure with wild hair — John the Baptist — stands with arms upraised in witness. A crowd of figures, including men, women, and children, gathers on both sides in the darker foreground, watching the event. The contrast between the illuminated central scene and the shadowy onlookers is dramatic.",
+  "theological_description": "The Baptism of Christ in the Jordan (MAT.3.13-17, MRK.1.9-11, LUK.3.21-22) is the theophanic moment that inaugurates Jesus' public ministry. All three Persons of the Trinity are manifest: the Son stands in the water, the Spirit descends as a dove, and the Father's voice declares: 'This is my beloved Son, with whom I am well pleased' (MAT.3.17). John the Baptist, who had proclaimed 'I am not worthy to untie his sandals' (JHN.1.27), fulfills his role as the forerunner by baptizing the one who has no sin. Christ's descent into the Jordan waters sanctifies all water for baptism, and His emergence prefigures His resurrection from the tomb. Paul develops this theology: 'We were buried with him by baptism into death, in order that, just as Christ was raised from the dead... we too might walk in newness of life' (ROM.6.4). The Fathers saw in Christ's baptism the reversal of the Flood — where water once destroyed, it now saves through the one who passes through it.",
+  "scripture_refs": [
+    {"ref": "MAT.3.16-17", "relevance": "primary", "reason": "Jesus baptized, the Spirit descending as a dove, the Father's voice — the Trinitarian theophany depicted"},
+    {"ref": "MRK.1.9-11", "relevance": "primary", "reason": "Mark's account of the baptism with the heavens torn open and the Spirit descending"},
+    {"ref": "JHN.1.29-34", "relevance": "primary", "reason": "John's testimony: 'I saw the Spirit descend from heaven like a dove, and it remained on him'"},
+    {"ref": "ROM.6.4", "relevance": "typological", "reason": "Buried with Christ in baptism, raised to walk in newness of life — the theology of baptismal immersion"},
+    {"ref": "ISA.42.1", "relevance": "typological", "reason": "Behold my servant, in whom my soul delights — the Servant Song fulfilled at the baptism"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["revelatory", "sacred", "awe-inspiring", "luminous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001514",
+    "title": "Christ Coming Up Out of the Jordan",
+    "artist": "Benjamin West",
+    "model": "claude-opus-4-6"
+  }
+}

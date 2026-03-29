@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Joachim", "type": "PERSON"},
+    {"name": "Anne", "type": "PERSON"},
+    {"name": "Attendant/Shepherd", "type": "PERSON"}
+  ],
+  "event": "Meeting of Joachim and Anne at the Golden Gate",
+  "tags": [
+    "joachim-and-anne",
+    "golden-gate",
+    "embrace",
+    "meeting",
+    "annunciation-to-parents",
+    "conception-of-mary",
+    "pastoral-landscape",
+    "sheep"
+  ],
+  "symbols": [
+    "Embrace at the gate — the joyful reunion after receiving the angelic promise of Mary's conception",
+    "Golden Gate architecture — the entrance to the Temple, the threshold of salvation history",
+    "Pastoral landscape with sheep — Joachim's occupation as shepherd, his return from exile among the flocks",
+    "Young attendant figure — a witness to the sacred event"
+  ],
+  "description": "Two figures embrace near a stone architectural structure on the left — an older woman in a pink robe and a figure in golden-yellow robes. They are meeting at what appears to be a gateway. To their right, a young figure in white stands watching. In the background, a pastoral landscape extends with rolling hills, a wooden fence, grazing animals, and distant buildings. The scene is rendered as a horizontal fresco-like composition with soft colors and gentle atmosphere.",
+  "theological_description": "The Meeting at the Golden Gate is drawn from the Protoevangelium of James, not canonical Scripture. It describes how Joachim, shamed for his childlessness and exiled to tend sheep, received an angelic announcement that his wife Anne would conceive. Anne received a parallel angelic visit. They met at the Golden Gate of Jerusalem, and their embrace was understood as the moment of the Immaculate Conception of Mary. While apocryphal, this narrative fills the gap in salvation history between the Old Testament and the Annunciation. The pattern of barrenness overcome by divine intervention echoes Sarah (GEN.21.1-2), Hannah (1SA.1.19-20), and Elizabeth (LUK.1.13). The Church saw in Joachim and Anne the final link in the chain that produced the Theotokos — she through whom God would enter the world. Their faithful obedience in old age mirrors Abraham and Sarah, demonstrating that 'nothing is impossible with God' (LUK.1.37).",
+  "scripture_refs": [
+    {"ref": "LUK.1.37", "relevance": "typological", "reason": "Nothing is impossible with God — the principle governing all miraculous conceptions, including Mary's"},
+    {"ref": "GEN.21.1-2", "relevance": "typological", "reason": "Sarah conceiving Isaac in old age — the pattern of barrenness overcome that Joachim and Anne follow"},
+    {"ref": "1SA.1.19-20", "relevance": "typological", "reason": "Hannah's miraculous conception of Samuel — another barren woman granted a child destined for sacred service"},
+    {"ref": "LUK.1.13", "relevance": "typological", "reason": "The angel's announcement to Zechariah about Elizabeth's conception — the closest canonical parallel"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["joyful", "tender", "hopeful"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001536",
+    "title": "Meeting of Joachim and Anne at the Golden Gate",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

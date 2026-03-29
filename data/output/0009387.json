@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Judas Iscariot", "type": "PERSON"},
+    {"name": "Arresting Party", "type": "GROUP"}
+  ],
+  "event": "The Arrest of Christ in Gethsemane",
+  "tags": [
+    "arrest-of-christ",
+    "gethsemane",
+    "betrayal",
+    "judas-kiss",
+    "torches",
+    "soldiers",
+    "night-scene",
+    "passion",
+    "garden",
+    "lanterns"
+  ],
+  "symbols": [
+    "torches and lanterns in the darkness — the futile attempt of the world to seize the Light of the World",
+    "Judas approaching Christ — the betrayal from within, the most painful form of treachery",
+    "soldiers falling back — the divine power of Christ momentarily revealed even at his arrest",
+    "dark garden setting — Gethsemane, where the new Adam reverses the sin of the first Adam in another garden",
+    "Christ's calm demeanor — the willing surrender of the Son to the Father's will"
+  ],
+  "description": "A dramatic nighttime scene in a garden showing a group of armed men with torches and lanterns converging on a central figure (Christ) who stands calmly at right in golden-brown robes with his arm raised. Another figure (Judas) leans close to Christ in what appears to be the moment of the betrayal kiss. Several soldiers and figures in armor carry clubs and weapons, their faces illuminated by flickering torchlight. The scene is set among dark trees, with the strong contrast between torchlight and deep shadows creating a tense, dramatic atmosphere.",
+  "theological_description": "The arrest of Jesus in the Garden of Gethsemane (JHN.18.1-12; MAT.26.47-56) is the moment when Jesus freely surrenders himself to the powers of darkness for the salvation of the world. Judas, who had dipped his hand in the dish with Jesus at the Last Supper, now completes his betrayal with a kiss (MAT.26.48-49), transforming the sign of friendship into the ultimate act of treachery. When the arresting party declares they seek Jesus of Nazareth and he responds 'I am he' (ego eimi), they fall to the ground (JHN.18.6), momentarily revealing the divine identity that could at any moment halt the Passion. Yet Jesus willingly submits: 'Shall I not drink the cup that the Father has given me?' (JHN.18.11). The garden setting is theologically significant: what the first Adam lost through disobedience in Eden, the second Adam begins to recover through obedience in Gethsemane. Peter's futile sword-stroke and Jesus's rebuke — 'all who take the sword will perish by the sword' (MAT.26.52) — establish that the Kingdom comes not through violence but through the self-giving love of the cross.",
+  "scripture_refs": [
+    {"ref": "JHN.18.1-12", "relevance": "primary", "reason": "John's account of the arrest, including the 'I am he' that fells the soldiers"},
+    {"ref": "MAT.26.47-56", "relevance": "primary", "reason": "Matthew's account of Judas's betrayal kiss and the arrest"},
+    {"ref": "MAT.26.48-49", "relevance": "primary", "reason": "The kiss of betrayal — the sign Judas gave to identify Jesus"},
+    {"ref": "JHN.18.11", "relevance": "primary", "reason": "Jesus's willingness to drink the cup the Father has given"},
+    {"ref": "LUK.22.53", "relevance": "allusion", "reason": "This is your hour, and the power of darkness — the theological meaning of the nighttime arrest"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tense", "dramatic", "dark", "betraying"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009387",
+    "title": "The Capture of Christ",
+    "artist": "Anthony van Dyck",
+    "model": "claude-opus-4-6"
+  }
+}

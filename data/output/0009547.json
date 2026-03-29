@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Mourners", "type": "GROUP"}
+  ],
+  "event": "The Deposition from the Cross",
+  "tags": [
+    "deposition",
+    "descent-from-cross",
+    "dead-christ",
+    "passion",
+    "mourning",
+    "crown-of-thorns",
+    "flowers",
+    "expressionist",
+    "burial-preparation"
+  ],
+  "symbols": [
+    "dead body of Christ — the sacrificial Lamb whose life was given for the world",
+    "crown of thorns — the mockery that became a true crown, kingship through suffering",
+    "flowers scattered on the body — funeral tribute and the beauty emerging from sacrifice",
+    "mourning figures behind — the faithful who accompanied Jesus to the end",
+    "red fabric beneath Christ — the blood of the New Covenant"
+  ],
+  "description": "An expressionist painting showing the dead body of Christ lying in the foreground, viewed at close range. His body is emaciated, with a crown of thorns on his bowed head. Scattered yellow and white flowers lie across his body and a red cloth beneath him. Behind him, several figures with grieving faces look on — an elderly bearded man, a stern older woman, and a younger figure at right. The painting is rendered with bold, thick brushwork and vivid, saturated colors. The palette is warm with flesh tones, reds, and orange sky in the background, creating an intensely emotional atmosphere.",
+  "theological_description": "The Deposition captures the moment after Christ has been taken down from the cross, before burial — the silent interval between the violence of Golgotha and the hope of Easter. The dead Christ lies in full humanity, fulfilling Isaiah's prophecy: 'He had no form or majesty that we should look at him, and no beauty that we should desire him' (ISA.53.2). The crown of thorns remains, transforming the instrument of mockery into a symbol of Christ's kingship through suffering. The flowers scattered on the body anticipate the garden of the Resurrection (JHN.20.15, where Mary Magdalene mistakes the risen Christ for the gardener). The mourners embody the Church's grief, holding vigil between death and new life. Paul understood the Deposition theologically: Christ 'was buried, and he was raised on the third day' (1CO.15.4) — the burial is a necessary passage, confirming the reality of the death that makes the Resurrection authentic. The expressionist intensity of this rendering emphasizes that the Passion is not a distant historical event but a viscerally present reality for every generation of believers.",
+  "scripture_refs": [
+    {"ref": "JHN.19.38-42", "relevance": "primary", "reason": "The removal of Christ's body from the cross and preparation for burial"},
+    {"ref": "ISA.53.2-3", "relevance": "typological", "reason": "No form or majesty, a man of sorrows — the dead Christ displayed in his full vulnerability"},
+    {"ref": "1CO.15.3-4", "relevance": "primary", "reason": "Christ died, was buried, and was raised — the burial as a necessary stage of redemption"},
+    {"ref": "MAT.27.57-60", "relevance": "primary", "reason": "Joseph of Arimathea taking the body and wrapping it in clean linen"},
+    {"ref": "JHN.20.15", "relevance": "allusion", "reason": "The garden setting of the Resurrection, hinted by the flowers on the dead body"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief-stricken", "raw", "intense"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009547",
+    "title": "The Deposition",
+    "artist": "Lovis Corinth",
+    "model": "claude-opus-4-6"
+  }
+}

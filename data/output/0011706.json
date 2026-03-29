@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Angel of Sacred Music",
+  "tags": [
+    "angel",
+    "wings",
+    "scroll",
+    "banner",
+    "musical-instruments",
+    "heavenly-messenger",
+    "sacred-music",
+    "archway",
+    "landscape",
+    "celestial"
+  ],
+  "symbols": [
+    "large wings — angelic nature and heavenly origin",
+    "scroll or banner — the proclamation of divine praise and sacred song",
+    "musical instruments at feet — the tradition of sacred music as worship",
+    "upward gaze — communion with God and heavenly aspiration",
+    "archway framing — the threshold between earthly and heavenly realms"
+  ],
+  "description": "A full-length winged figure stands within a dark stone archway, wearing a rose-colored tunic and a deep green drape. Large golden-brown wings extend behind the figure. The angel gazes upward and holds a long unfurling scroll or banner across the body. At the figure's feet lie scattered musical instruments and scrolls. Through the archway behind, a soft landscape with rolling hills is visible under a pale blue sky.",
+  "theological_description": "The angel holding a banner and standing amid musical instruments evokes the biblical tradition of heavenly praise. The Psalms repeatedly call for music in worship — 'Praise him with trumpet sound; praise him with lute and harp' (Ps 150:3). Angels in Isaiah's vision cry 'Holy, holy, holy is the Lord of hosts' (Isa 6:3), and Revelation describes heavenly worship with harps and new songs (Rev 5:8-9). The scroll may represent the sacred canticles or the divine Word itself, connecting music to proclamation. The angel's upward gaze suggests that true sacred music is directed toward God, not mere human entertainment. In Christian tradition, Saint Cecilia is patroness of sacred music, and angels are understood as perpetual worshippers whose song the earthly liturgy joins.",
+  "scripture_refs": [
+    {"ref": "PSA.150.3-5", "relevance": "primary", "reason": "Praise God with musical instruments — the instruments at the angel's feet"},
+    {"ref": "ISA.6.3", "relevance": "allusion", "reason": "The seraphim sing 'Holy, holy, holy' — angelic sacred music"},
+    {"ref": "REV.5.8-9", "relevance": "allusion", "reason": "Heavenly beings with harps singing a new song before the throne"},
+    {"ref": "PSA.103.20", "relevance": "allusion", "reason": "Bless the Lord, O you his angels — angels as perpetual worshippers"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["reverent", "serene", "majestic"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0011706",
+    "title": "The sacred music",
+    "artist": "Silvestro Lega",
+    "model": "claude-opus-4-6"
+  }
+}

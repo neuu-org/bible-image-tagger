@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Saint Ursula", "type": "PERSON"},
+    {"name": "Companion Virgin", "type": "PERSON"}
+  ],
+  "event": "Saint Ursula with Companion",
+  "tags": [
+    "saint",
+    "martyr",
+    "arrow",
+    "martyrdom-attribute",
+    "halo",
+    "book",
+    "green-mantle",
+    "red-gown",
+    "virgin-saint",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "arrow held by Saint Ursula — instrument of her martyrdom, recalling her death at the hands of the Huns",
+    "book — the faith and learning she carried as a Christian princess",
+    "golden halo — sanctity and divine favor",
+    "green mantle over red gown — life and charity combined in her witness"
+  ],
+  "description": "Two female figures stand against a solid black background. The larger, foreground figure is shown in three-quarter profile facing left, wearing a white headdress with a jeweled band, a rich red gown with ornate embroidery, and a flowing green mantle. She holds a long arrow in her right hand and clasps a small dark book in her left. A thin golden halo encircles her head. Behind her, a smaller female figure with loose hair and a golden halo holds what appears to be a palm branch, wearing a red garment and gazing outward.",
+  "theological_description": "Saint Ursula, the legendary Christian princess of Britain, is depicted with her traditional attribute of the arrow, the instrument of her martyrdom at Cologne. According to the Golden Legend, she led eleven thousand virgins on a pilgrimage to Rome and was slain by Huns upon their return. While her legend is extra-biblical, the theme of faithful witness unto death resonates with the broader biblical theology of martyrdom. Her companion likely represents one of the virgin martyrs of her company. The palm branch held by the companion is the universal symbol of victory over death through faith, rooted in Revelation's vision of the white-robed multitude bearing palms (REV.7.9).",
+  "scripture_refs": [
+    {"ref": "REV.7.9", "relevance": "typological", "reason": "The great multitude in white robes with palm branches, echoed by the companion's palm of martyrdom"},
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and I will give you the crown of life — the universal call to martyrdom"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["devotional", "serene", "dignified"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0005148",
+    "title": "St. Ursula",
+    "artist": "Andrea Solario",
+    "model": "claude-opus-4-6"
+  }
+}

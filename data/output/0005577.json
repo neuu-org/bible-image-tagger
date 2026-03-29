@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "John the Evangelist", "type": "PERSON"}
+  ],
+  "event": "Dead Christ Supported by Mary and Saint John",
+  "tags": [
+    "dead-christ",
+    "pieta",
+    "lamentation",
+    "virgin-mary",
+    "john-the-evangelist",
+    "passion",
+    "entombment",
+    "sarcophagus",
+    "halos",
+    "grief"
+  ],
+  "symbols": [
+    "dead body of Christ in the sarcophagus — the sacrificial Lamb placed in the tomb",
+    "Virgin Mary supporting Christ — the Mater Dolorosa bearing the weight of redemptive sorrow",
+    "John the Evangelist in red — the beloved disciple to whom Christ entrusted His mother from the cross",
+    "stone sarcophagus — the tomb of burial, prefiguring the empty tomb of Resurrection",
+    "rocky landscape behind — Golgotha and the environs of the burial"
+  ],
+  "description": "An arched panel painting depicting the dead Christ being supported in an upright position within a stone sarcophagus. His body is pale and lifeless, head slightly tilted, with a golden halo. At left, the Virgin Mary in a blue-grey veil supports Him, her face showing deep grief. At right, a younger figure identified as Saint John the Evangelist, wearing a red robe and having a golden halo, supports Christ from the other side with a sorrowful expression. Behind them, a dark rocky landscape rises steeply. The narrow vertical format and pointed arch suggest an altarpiece panel.",
+  "theological_description": "This devotional image of the dead Christ supported by His mother and the beloved disciple distills the Passion narrative to its most intimate moment. The grouping of these three figures recalls John 19:26-27, where from the cross Jesus entrusted Mary to John and John to Mary — creating the new family of the Church at the foot of the cross. Mary's grief fulfills Simeon's prophecy (LUK.2.35) and represents the Church contemplating the cost of redemption. John, the disciple who reclined on Jesus' breast at the Last Supper (JHN.13.23), now supports the dead body of the one whose heartbeat he once heard. The sarcophagus functions both as tomb and altar — in patristic thought, the stone on which Christ's body rests prefigures the altar on which the Eucharistic sacrifice is offered. The vertical presentation of the dead Christ, upright in the tomb, is itself a paradox: the dead one appears almost to rise, foreshadowing the Resurrection.",
+  "scripture_refs": [
+    {"ref": "JHN.19.26-27", "relevance": "primary", "reason": "Jesus entrusts Mary to John and John to Mary from the cross — the three figures depicted"},
+    {"ref": "JHN.19.38-42", "relevance": "primary", "reason": "The burial of Jesus in the tomb, the sarcophagus depicted in the image"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "A sword will pierce your own soul — Mary's grief at the dead Christ"},
+    {"ref": "ISA.53.9", "relevance": "typological", "reason": "They made his grave with the wicked, but with a rich man in his death"},
+    {"ref": "JHN.13.23", "relevance": "allusion", "reason": "The beloved disciple who reclined on Jesus' breast, now supporting his dead body"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "tenderness", "solemnity", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005577",
+    "title": "Dead Christ Supported by Mary and St. John the Evangelist",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

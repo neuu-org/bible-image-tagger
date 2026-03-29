@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Saint Ercolano",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Ercolano (Herculanus) of Perugia",
+  "tags": [
+    "saint-ercolano",
+    "bishop",
+    "crosier",
+    "mitre",
+    "halo",
+    "book",
+    "polyptych-panel",
+    "episcopal-vestments",
+    "martyr-bishop",
+    "devotional"
+  ],
+  "symbols": [
+    "bishop's crosier — pastoral authority, the shepherd's staff tending the flock of God",
+    "mitre — the episcopal office and authority to teach and govern",
+    "book — the Scriptures or the teaching office of the bishop",
+    "halo — sanctity and divine approval",
+    "red cape — the blood of martyrdom"
+  ],
+  "description": "A half-length portrait of a young bishop-saint against a dark green background. He wears a white mitre (bishop's hat), a red cape over a green chasuble with ornate clasps, and holds a closed book in one hand and a golden bishop's crosier (pastoral staff) in the other. A golden halo encircles his head. His expression is calm and direct. A stone ledge or parapet runs along the bottom of the composition. The rendering is smooth and precise.",
+  "theological_description": "Saint Ercolano (Herculanus) was a bishop of Perugia who was martyred during the Gothic siege of the city in the sixth century. As a bishop-martyr, he embodies the dual call to shepherd the flock and to lay down one's life for the sheep, following the model of Christ the Good Shepherd: 'The good shepherd lays down his life for the sheep' (John 10:11). The crosier he holds symbolizes the pastoral responsibility given to Peter and through him to all bishops: 'Feed my sheep' (John 21:17). The book represents the bishop's primary duty of preserving and teaching the apostolic faith, as Paul charged Timothy: 'Guard the good deposit entrusted to you' (2 Tim 1:14). The red of his cape recalls the blood of martyrdom, the ultimate witness that gives the Greek word martyria its meaning — testimony sealed with one's life.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.10.11",
+      "relevance": "typological",
+      "reason": "The good shepherd lays down his life for the sheep — the bishop-martyr following Christ's example"
+    },
+    {
+      "ref": "JHN.21.15-17",
+      "relevance": "typological",
+      "reason": "Feed my sheep — the pastoral commission symbolized by the crosier"
+    },
+    {
+      "ref": "2TI.1.14",
+      "relevance": "allusion",
+      "reason": "Guard the good deposit — the bishop's responsibility to preserve the faith, represented by the book"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death — the bishop-martyr's ultimate fidelity"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dignified",
+    "serene",
+    "authoritative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0008623",
+    "title": "Polyptych of St. Peter (St. Ercolano)",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

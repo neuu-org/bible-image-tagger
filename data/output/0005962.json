@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant Woman",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Visitation of Mary to Elizabeth",
+  "tags": [
+    "visitation",
+    "virgin-mary",
+    "elizabeth",
+    "magnificat",
+    "embrace",
+    "halo",
+    "inscription",
+    "memorial-window"
+  ],
+  "symbols": [
+    "embrace between Mary and Elizabeth — the meeting of the Old and New Covenants, the unborn Messiah and His forerunner",
+    "Mary's halo — the sanctity of the Mother of God",
+    "Latin inscription 'Magnificat anima mea Dominum' — the opening of Mary's canticle of praise",
+    "green landscape and trees — the hill country of Judea where Elizabeth lived",
+    "basket carried by attendant — provision for the journey and service to Elizabeth"
+  ],
+  "description": "A stained-glass window depicting the Visitation. At center, two women embrace: one in a green mantle with a radiant halo (Mary) and another in a red cloak (Elizabeth). A third woman in dark robes carrying a basket stands at left. The scene is set against a landscape with green hills and trees. Below the figural scene, a Latin inscription reads 'Magnificat anima mea Dominum' and a memorial text reads 'In Memory of Marion Chichester.' The glass is richly colored in deep blues, reds, greens, and warm flesh tones with bold lead lines defining the forms.",
+  "theological_description": "The Visitation depicts Luke 1:39-56, when the newly-pregnant Mary travels to the hill country of Judea to visit her relative Elizabeth, who is carrying John the Baptist. At the sound of Mary's greeting, the infant John leaps in Elizabeth's womb, and Elizabeth, filled with the Holy Spirit, cries out, 'Blessed are you among women, and blessed is the fruit of your womb!' (LUK.1.42). This meeting is the first encounter between the Messiah and His forerunner, mediated through their mothers. Mary responds with the Magnificat — 'My soul magnifies the Lord' — inscribed at the base of this window. The Magnificat is one of the great canticles of Scripture, a revolutionary hymn declaring that God has scattered the proud, brought down the mighty, and filled the hungry with good things (LUK.1.51-53). The embrace of the two women unites the Old and New Covenants in a single gesture of joyful recognition.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "Mary visits Elizabeth; the baby leaps in Elizabeth's womb; Elizabeth's blessing"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat — My soul magnifies the Lord — inscribed on the window"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Blessed are you among women, and blessed is the fruit of your womb"
+    },
+    {
+      "ref": "LUK.1.44",
+      "relevance": "primary",
+      "reason": "The baby in my womb leaped for joy — John recognizing Christ in utero"
+    },
+    {
+      "ref": "1SA.2.1-10",
+      "relevance": "typological",
+      "reason": "Hannah's song of praise, the Old Testament model for Mary's Magnificat"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "sacred",
+    "intimate",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005962",
+    "title": "Loughrea St. Brendan's Cathedral",
+    "artist": "Sarah Purser",
+    "model": "claude-opus-4-6"
+  }
+}

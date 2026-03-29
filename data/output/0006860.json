@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Saint Rita of Cascia",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Rita of Cascia",
+  "tags": [
+    "saint-rita",
+    "nun",
+    "roses",
+    "crucifix",
+    "halo",
+    "stigmata",
+    "patron-saint",
+    "impossible-causes",
+    "rosary",
+    "devotional"
+  ],
+  "symbols": [
+    "red roses — the miraculous roses that bloomed in winter at Rita's request, symbol of divine favor",
+    "crucifix held to chest — devotion to Christ's Passion, the source of Rita's spiritual strength",
+    "thorn-wound on forehead — the stigma of the crown of thorns, Rita's mystical participation in Christ's suffering",
+    "rosary — prayer and contemplation, the monastic life of devotion",
+    "halo — sanctity and divine approval"
+  ],
+  "description": "A full-length portrait of Saint Rita of Cascia standing in a Romanesque cloister with stone arches. She wears the black Augustinian habit with a white wimple and veil. A golden halo with thorns surrounds her head, and a mark is visible on her forehead. She holds a crucifix in one arm and an abundance of red roses in the other. A rosary hangs from her waist. Large arrangements of red roses stand on either side of her on stone ledges. The painting is set in an ornate gilded frame. Her expression is serene and devout.",
+  "theological_description": "Saint Rita of Cascia (1381-1457), the patron saint of impossible causes, exemplifies the Christian mystery of participating in the sufferings of Christ. The thorn wound on her forehead — received during prayer before a crucifix — represents a mystical sharing in the crown of thorns, fulfilling Paul's declaration: 'I bear on my body the marks of Jesus' (Gal 6:17). The miraculous roses, which tradition holds bloomed out of season at her request, symbolize the paradox that God's grace flourishes precisely where nature fails — 'nothing is impossible with God' (Luke 1:37). Rita's life of patient suffering through an abusive marriage, the murder of her husband, the death of her sons, and her final years as an Augustinian nun embodies the beatitude: 'Blessed are those who mourn, for they shall be comforted' (Matt 5:4). The crucifix pressed to her heart signifies the Pauline mysticism of being 'crucified with Christ' (Gal 2:20).",
+  "scripture_refs": [
+    {
+      "ref": "GAL.6.17",
+      "relevance": "typological",
+      "reason": "I bear on my body the marks of Jesus — Rita's thorn stigmata as participation in Christ's wounds"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "typological",
+      "reason": "I have been crucified with Christ — Rita's mystical identification with the crucified Lord"
+    },
+    {
+      "ref": "LUK.1.37",
+      "relevance": "allusion",
+      "reason": "Nothing is impossible with God — Rita as patron of impossible causes, the miraculous roses blooming in winter"
+    },
+    {
+      "ref": "MAT.5.4",
+      "relevance": "allusion",
+      "reason": "Blessed are those who mourn — Rita's life of patient suffering transformed by divine consolation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "devout",
+    "serene",
+    "miraculous",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0006860",
+    "title": "St. Rita of Cascia, Patron Saint of Impossible Causes",
+    "artist": "Merci F. McCoy",
+    "model": "claude-opus-4-6"
+  }
+}

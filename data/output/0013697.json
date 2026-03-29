@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna and Child with a Bunch of Grapes",
+  "tags": [
+    "madonna-and-child",
+    "grapes",
+    "infant-jesus",
+    "virgin-mary",
+    "putti",
+    "red-robe",
+    "dark-mantle",
+    "landscape-background",
+    "eucharistic-symbol",
+    "maternal-tenderness"
+  ],
+  "symbols": [
+    "bunch of grapes held by the child — the Eucharistic wine, Christ’s blood shed for redemption",
+    "Mary’s red robe — the Passion and the blood of Christ she bore",
+    "putti holding Mary’s mantle — angelic attendants honoring the Mother of God",
+    "landscape with ruined structure — the old order passing away with the coming of Christ"
+  ],
+  "description": "A half-length portrait of a young woman with golden hair wearing a red robe and dark mantle, holding a nude infant on her lap. The child grasps a bunch of dark grapes, bringing them toward his mouth. Two small winged putti hover above, holding the edges of Mary’s mantle. In the background, a landscape with a ruined structure and distant hills is visible under a blue sky. The woman gazes tenderly at the child with a gentle, contemplative expression.",
+  "theological_description": "This Madonna and Child with grapes presents a potent Eucharistic symbolism. The Christ Child’s deliberate grasping of the grapes foreshadows his words at the Last Supper: ‘This is my blood of the covenant, which is poured out for many for the forgiveness of sins’ (Matthew 26:28). The grapes in the infant’s hand thus connect the tender scene of divine infancy with the sacrificial outpouring on the cross. Jesus declared himself ‘the true vine’ (John 15:1), and the grapes he holds are the fruit of that vine—his own life given for the world. Mary’s contemplative gaze suggests her awareness of the cost of what she beholds: the child she nurses will become the wine poured out. The ruined structure in the background may symbolize the old covenant giving way to the new, as Christ establishes the new covenant in his blood (Luke 22:20).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.27-28",
+      "relevance": "primary",
+      "reason": "This is my blood of the covenant—the grapes foreshadow the Eucharistic wine"
+    },
+    {
+      "ref": "JHN.15.1",
+      "relevance": "typological",
+      "reason": "I am the true vine—Christ as the source of the fruit the child holds"
+    },
+    {
+      "ref": "LUK.22.20",
+      "relevance": "allusion",
+      "reason": "The new covenant in my blood, established through the sacrifice the grapes foreshadow"
+    },
+    {
+      "ref": "ISA.63.2-3",
+      "relevance": "typological",
+      "reason": "The winepress of divine judgment, connecting grapes to Christ’s atoning blood"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional",
+    "contemplative",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013697",
+    "title": "Madonna and Child with a Bunch of Grapes",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Peter", "type": "PERSON"},
+    {"name": "Accusers", "type": "GROUP"},
+    {"name": "Soldiers and Bystanders", "type": "GROUP"}
+  ],
+  "event": "The Denial of Peter",
+  "tags": [
+    "denial-of-peter",
+    "accusation",
+    "fireplace",
+    "soldiers",
+    "tavern-scene",
+    "pointing-gesture",
+    "fear",
+    "betrayal"
+  ],
+  "symbols": [
+    "pointing accusers — the servants and bystanders who identified Peter as Christ's follower",
+    "Peter's defensive gesture — the denial born of fear, hands raised to ward off identification",
+    "firelight — the courtyard fire where Peter warmed himself, the setting of his triple denial",
+    "armed soldier — the presence of threatening authority that provoked Peter's cowardice"
+  ],
+  "description": "A crowded interior scene around a fireplace or hearth. At the left, a figure in armor with a plumed hat points accusingly across the room. At center and right, a cluster of men in various dress — hats, coats, boots — react with agitation. One figure at right raises his hands defensively or in protest. The scene is dramatically lit from the fire at left, casting strong shadows. The atmosphere is tense and confrontational, with figures gesticulating and arguing.",
+  "theological_description": "Peter's denial of Christ (Matthew 26:69-75; Mark 14:66-72; Luke 22:54-62; John 18:15-27) is one of the most psychologically penetrating episodes in the Gospels. The man who had declared he would die for Jesus (Matthew 26:35) crumbled under the questioning of servants and bystanders. Three times Peter denied knowing Christ, and at the rooster's crow, he remembered Jesus's prediction and wept bitterly. This scene is set not in a dramatic tribunal but in an ordinary gathering — the denials happen in casual conversation, making them more devastating. Peter's failure reveals that courage is not a matter of intention but of grace. Yet the story does not end with denial: the risen Christ restored Peter three times beside the Sea of Galilee (John 21:15-17), transforming the threefold denial into a threefold commission. Peter's story is the Gospel in miniature: failure, repentance, forgiveness, and restoration.",
+  "scripture_refs": [
+    {"ref": "MAT.26.69-75", "relevance": "primary", "reason": "Peter's three denials of Christ in the courtyard — the scene depicted"},
+    {"ref": "LUK.22.61-62", "relevance": "primary", "reason": "The Lord turned and looked at Peter, and Peter remembered and wept bitterly"},
+    {"ref": "JHN.21.15-17", "relevance": "typological", "reason": "The threefold restoration of Peter — the redemptive counterpart to the threefold denial"},
+    {"ref": "MAT.26.33-35", "relevance": "allusion", "reason": "Peter's boast that he would never deny Christ — the contrast between intention and action"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tense", "fearful", "confrontational"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007684",
+    "title": "The Denying of Peter",
+    "artist": "Jan Miense Molenaer",
+    "model": "claude-opus-4-6"
+  }
+}

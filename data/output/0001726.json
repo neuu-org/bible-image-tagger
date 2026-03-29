@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jacob", "type": "PERSON"},
+    {"name": "Laban", "type": "PERSON"},
+    {"name": "Laban's household", "type": "GROUP"}
+  ],
+  "event": "Jacob asking Laban for his daughter's hand in marriage",
+  "tags": [
+    "jacob",
+    "laban",
+    "marriage-proposal",
+    "shepherd",
+    "sheep",
+    "staff",
+    "patriarchal",
+    "negotiation",
+    "rachel",
+    "betrothal"
+  ],
+  "symbols": [
+    "Jacob with shepherd's staff and sheep — his identity as a shepherd and the flock he tended for Laban",
+    "Laban gesturing in negotiation — the cunning father-in-law whose terms will cost Jacob fourteen years of labor",
+    "Sheep at Jacob's feet — the wealth Jacob manages and the medium of exchange in the betrothal",
+    "Domestic setting — the household in Haran where Jacob served Laban"
+  ],
+  "description": "Two men stand in conversation in a pastoral setting. On the left, a younger man in a blue tunic with a shepherd's staff stands beside a small flock of sheep. He faces an older bearded man in a white garment and golden-yellow cloak who gestures toward him. Behind the older man, additional figures — a woman and child — are visible in a domestic setting near a building. A dog sits between the two men. The background shows trees and a building with an open doorway.",
+  "theological_description": "Jacob's request to marry Laban's daughter Rachel is one of the great love stories of the Old Testament. Having fled from Esau and arrived at Haran, Jacob met Rachel at the well and 'loved Rachel' (GEN.29.18). He offered to serve Laban seven years for her hand, and 'they seemed to him but a few days because of the love he had for her' (GEN.29.20). But Laban's deception — substituting Leah on the wedding night — forced Jacob to serve seven more years for Rachel. This mirrored Jacob's own deception of Isaac and Esau, demonstrating the biblical principle that 'whatever one sows, that will he also reap' (GAL.6.7). Yet through this tangled human drama, God built the twelve tribes of Israel from Jacob's children by Leah, Rachel, and their handmaids. The divine purpose works through flawed human relationships, and Jacob's patient service for love prefigures Christ's faithful pursuit of His bride, the Church (EPH.5.25).",
+  "scripture_refs": [
+    {"ref": "GEN.29.15-20", "relevance": "primary", "reason": "Jacob offers to serve Laban seven years for Rachel — the specific negotiation depicted"},
+    {"ref": "GEN.29.18", "relevance": "primary", "reason": "Jacob loved Rachel and offered seven years of service — the motivation behind the request"},
+    {"ref": "GEN.29.25-27", "relevance": "allusion", "reason": "Laban's deception with Leah, requiring Jacob to serve another seven years for Rachel"},
+    {"ref": "GAL.6.7", "relevance": "typological", "reason": "One reaps what one sows — Jacob the deceiver is himself deceived by Laban"},
+    {"ref": "EPH.5.25", "relevance": "typological", "reason": "Christ loved the Church and gave Himself for her — Jacob's faithful service prefigures Christ's love"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["earnest", "hopeful", "pastoral"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0001726",
+    "title": "Jacob asking Laban for his daughter's hand",
+    "artist": "Jean-Bernard Restout",
+    "model": "claude-opus-4-6"
+  }
+}

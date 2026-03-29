@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Demons",
+      "type": "GROUP"
+    },
+    {
+      "name": "Sinners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Mankind Beset by Devils",
+  "tags": [
+    "demons",
+    "temptation",
+    "spiritual-warfare",
+    "sin",
+    "noah-panel",
+    "tondo",
+    "damnation",
+    "fallen-humanity"
+  ],
+  "symbols": [
+    "demonic figures attacking humans — the power of sin and temptation assaulting fallen humanity",
+    "circular tondo format — the enclosed world of sin from which there is no escape without divine intervention",
+    "nude human figures — the vulnerability and shame of humanity after the Fall",
+    "upper scene of violence — the escalation of wickedness that led to the Flood judgment",
+    "lower scene with standing figure in white — possibly a righteous remnant or Christ figure contrasted with the tormented"
+  ],
+  "description": "Two circular tondo compositions stacked vertically on a dark panel. The upper circle shows a chaotic scene of demonic or monstrous figures attacking and tormenting nude human bodies in a barren landscape. The lower circle depicts a calmer scene with a standing figure in white garments next to kneeling or seated figures, with a distant landscape visible. The palette is dark and earthy with muted tones, in the characteristic style of Bosch's grisaille panels.",
+  "theological_description": "As the reverse of a Noah panel, this work depicts the state of humanity that provoked the divine judgment of the Flood. Genesis records that 'the LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually' (GEN.6.5). The demonic assault on humanity visualizes the spiritual reality behind the moral corruption: the principalities and powers that wage war against the human soul (EPH.6.12). The upper tondo shows the violence and depravity that 'filled the earth' (GEN.6.11), while the lower tondo may contrast this with a scene of righteous remnant or the aftermath of judgment. Bosch's vision connects the antediluvian corruption to the ongoing reality of spiritual warfare that the New Testament addresses: 'Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour' (1PE.5.8). Jesus himself warned that the days before his return would resemble the days of Noah (MAT.24.37-39).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.6.5-7",
+      "relevance": "primary",
+      "reason": "The wickedness of mankind before the Flood, the direct context of this Noah panel reverse"
+    },
+    {
+      "ref": "GEN.6.11-13",
+      "relevance": "primary",
+      "reason": "The earth filled with violence and corruption, prompting God's decision to send the Flood"
+    },
+    {
+      "ref": "EPH.6.12",
+      "relevance": "typological",
+      "reason": "The spiritual warfare against principalities and powers, visualized in the demonic assault"
+    },
+    {
+      "ref": "1PE.5.8",
+      "relevance": "allusion",
+      "reason": "The devil as a prowling lion seeking to devour, reflected in the tormenting demons"
+    },
+    {
+      "ref": "MAT.24.37-39",
+      "relevance": "typological",
+      "reason": "Jesus's comparison of the last days to the days of Noah"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "terrifying",
+    "chaotic",
+    "ominous"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0009139",
+    "title": "Mankind Beset by Devils (reverse of Noah panel)",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

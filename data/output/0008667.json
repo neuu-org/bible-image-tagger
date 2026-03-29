@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Pilate",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Scenes from the Passion of Christ — four-panel altarpiece",
+  "tags": [
+    "passion-cycle",
+    "gethsemane",
+    "arrest-of-christ",
+    "trial-before-pilate",
+    "flagellation",
+    "multi-panel",
+    "soldiers",
+    "torches",
+    "night-scene"
+  ],
+  "symbols": [
+    "garden at night — Gethsemane, the place of agony and betrayal",
+    "torches and weapons — the hostile forces arresting the Prince of Peace",
+    "Christ in white — innocence and purity amid the violence of the Passion",
+    "four panels — the sequential unfolding of the Passion narrative"
+  ],
+  "description": "Four panels arranged in a grid showing scenes from Christ's Passion. Upper left: a night scene in a garden with sleeping figures and dramatic fire or celestial light (Gethsemane). Upper right: a chaotic crowd scene with soldiers carrying torches and weapons, banners flying (the Arrest). Lower left: Christ in a white robe being mocked or tried in an interior with architectural details. Lower right: a crowded interior scene with many figures, possibly the trial before Pilate or the flagellation.",
+  "theological_description": "This four-panel Passion cycle by Altdorfer compresses the central drama of Christian salvation into a unified visual narrative. The sequence moves from Gethsemane — where Christ prayed 'Not my will but yours be done' (Luke 22:42) — through the arrest with its torches and swords, to the trials and abuse before the authorities. Each panel represents a station in Christ's willing journey toward the cross, fulfilling Isaiah's prophecy: 'He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter' (Isa 53:7). The night settings of the upper panels emphasize the spiritual darkness enveloping the world as its Creator is seized: 'This is your hour, and the power of darkness' (Luke 22:53). The lower panels bring the action indoors, where religious and political authority conspire to condemn the innocent one. The Passion narrative is the theological core of Christianity — the cross is not merely a tragic death but God's chosen means of reconciling the world to himself (2 Cor 5:19).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.39-46",
+      "relevance": "primary",
+      "reason": "The agony in Gethsemane — the upper left panel showing prayer and sleeping disciples"
+    },
+    {
+      "ref": "MAT.26.47-56",
+      "relevance": "primary",
+      "reason": "The arrest of Jesus with swords and clubs — the upper right panel"
+    },
+    {
+      "ref": "MAT.26.57-68",
+      "relevance": "primary",
+      "reason": "The trial before the high priest — one of the lower panels"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "Led like a lamb to slaughter — the Suffering Servant enduring the Passion"
+    },
+    {
+      "ref": "LUK.22.53",
+      "relevance": "primary",
+      "reason": "This is your hour and the power of darkness — the night settings of the arrest"
+    },
+    {
+      "ref": "2CO.5.19",
+      "relevance": "typological",
+      "reason": "God was in Christ reconciling the world — the redemptive purpose behind the Passion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "dark",
+    "dramatic",
+    "anguished"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008667",
+    "title": "Passion of Christ",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

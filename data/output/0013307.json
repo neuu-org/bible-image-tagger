@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Madonna and Child Enthroned with Saints",
+  "tags": [
+    "madonna-enthroned",
+    "christ-child",
+    "saints",
+    "angels",
+    "god-the-father",
+    "throne",
+    "architectural-frame",
+    "bishop-saint",
+    "devotional"
+  ],
+  "symbols": [
+    "enthroned Madonna with Child — the Mother of God presenting the Savior to the faithful",
+    "God the Father in the lunette above — the divine origin of the Incarnation",
+    "flanking saints — the communion of saints in perpetual adoration",
+    "architectural throne — the Church as the dwelling place of God’s presence"
+  ],
+  "description": "An elaborate arched altarpiece within an architectural frame with columns and pilasters. In the upper lunette, God the Father in a red robe is seated among angels in clouds. Below, the Virgin Mary sits on an elevated throne holding the Christ Child on her lap, with a smaller child standing at her feet. Saints stand on either side—two female figures on the left and two male figures on the right, one wearing a bishop’s mitre. The composition is symmetrical and formal, with warm colors and a golden atmosphere.",
+  "theological_description": "This sacra conversazione altarpiece presents the full hierarchy of sacred order: God the Father presides above, the Virgin and Child occupy the central throne, and the saints stand in attendance below. The composition embodies the theology of Ephesians 1:9-10—God’s plan to unite all things in Christ, things in heaven and things on earth. The enthroned Madonna as Seat of Wisdom (Sedes Sapientiae) presents Christ to the world, while the saints represent the Church Triumphant gathered around the Lamb. The architectural frame, with its classical columns and pediment, presents the Church itself as the new temple where God dwells among his people (Revelation 21:3). The standing saints, each with distinctive attributes, represent the diversity of vocations within the one body of Christ (1 Corinthians 12:4-6).",
+  "scripture_refs": [
+    {
+      "ref": "EPH.1.9-10",
+      "relevance": "typological",
+      "reason": "God’s plan to unite all things in Christ, embodied in the hierarchical composition"
+    },
+    {
+      "ref": "REV.21.3",
+      "relevance": "allusion",
+      "reason": "God dwelling among his people, represented by the altarpiece as sacred architecture"
+    },
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "Mary’s child will be great and reign on the throne of David forever"
+    },
+    {
+      "ref": "HEB.12.22-24",
+      "relevance": "allusion",
+      "reason": "The heavenly Jerusalem with angels, the assembly of the firstborn, and God the judge"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "majestic",
+    "serene",
+    "devotional",
+    "ordered"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013307",
+    "title": "Madonna and Child Enthroned with Saints",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

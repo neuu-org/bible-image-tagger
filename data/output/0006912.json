@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "PERSON"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jewish Priests",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Jesus Before Pilate",
+  "tags": [
+    "trial-of-jesus",
+    "pontius-pilate",
+    "roman-judgment",
+    "passion-narrative",
+    "flagellation",
+    "crown-of-thorns",
+    "roman-soldiers",
+    "bound-prisoner"
+  ],
+  "symbols": [
+    "white robe on Christ — innocence and mockery, the garment Herod placed on Him",
+    "elevated throne — worldly authority sitting in judgment over divine innocence",
+    "red shields and banners — Roman imperial power and military force",
+    "bound hands — Christ's voluntary submission to human judgment",
+    "lower register laborers — the mundane world continuing while salvation history unfolds above"
+  ],
+  "description": "A two-register illuminated manuscript page. The upper register shows a robed figure in white standing before a seated ruler on a raised throne, surrounded by soldiers carrying red shields and spears, and richly dressed attendants in purple and blue. The lower register depicts workers with tools engaged in labor near architectural structures. The palette features vivid blues, reds, purples, and gold leaf throughout.",
+  "theological_description": "The trial of Jesus before Pontius Pilate is the decisive moment where human justice confronts divine innocence (Matthew 27:11-26; John 18:28-19:16). Pilate, representative of the greatest earthly power, finds no fault in Christ yet yields to the crowd's demand. The white garment placed on Jesus by Herod (Luke 23:11) becomes an ironic symbol: intended as mockery, it proclaims His purity. The Fathers saw in this trial the fulfillment of Isaiah's Suffering Servant who 'opened not his mouth' (Isaiah 53:7). Augustine noted that the true judge stood before the false one, and the one who would judge the living and the dead submitted to temporal judgment. Christ's silence before Pilate reveals that divine wisdom needs no defense before human tribunals. The two registers may suggest the contrast between the cosmic drama of redemption above and the oblivious earthly labor below.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.11-26",
+      "relevance": "primary",
+      "reason": "Matthew's account of Jesus standing trial before Pilate, the scene directly depicted"
+    },
+    {
+      "ref": "JHN.18.28-38",
+      "relevance": "primary",
+      "reason": "John's detailed dialogue between Jesus and Pilate including 'What is truth?'"
+    },
+    {
+      "ref": "LUK.23.6-12",
+      "relevance": "primary",
+      "reason": "Luke's account of Jesus sent to Herod who dressed Him in a white robe"
+    },
+    {
+      "ref": "ISA.53.7",
+      "relevance": "typological",
+      "reason": "The Suffering Servant led like a lamb to slaughter who opened not His mouth"
+    },
+    {
+      "ref": "ACT.4.27-28",
+      "relevance": "allusion",
+      "reason": "The early Church's recognition that Herod and Pilate conspired against God's holy servant Jesus"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "tense",
+    "ominous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006912",
+    "title": "Jesus Before Pilate",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

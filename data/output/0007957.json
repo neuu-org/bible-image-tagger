@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Lamentation over the Dead Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "pieta",
+    "mourning",
+    "deposition",
+    "stone-slab",
+    "grief",
+    "passion"
+  ],
+  "symbols": [
+    "Christ's body laid on stone — the anointing stone, preparation for burial",
+    "Mary cradling Christ's head — the Mother of Sorrows holding her dead Son",
+    "stone sarcophagus behind — the tomb awaiting the body, the temporary prison of death",
+    "standing saints flanking — the faithful witnesses who endure beyond the Passion"
+  ],
+  "description": "A horizontal lunette fresco showing the dead body of Christ laid out on a stone slab in the center. His pale body is nearly nude with a loincloth. A veiled woman in dark robes supports His head from behind while another figure bends over His torso in grief. Two standing figures in robes flank the scene — one at each side — with halos. A stone sarcophagus or altar stands behind the body. The palette is muted with earth tones, and the composition is balanced and solemn.",
+  "theological_description": "The Lamentation over the dead Christ is the moment of deepest sorrow in the Passion narrative — between the crucifixion and the resurrection, when hope appears extinguished. Mary holding her dead Son reverses the joy of the Nativity: the same arms that once cradled the infant now hold the lifeless body. The stone slab on which Christ lies prefigures the altar on which the Eucharistic sacrifice will be perpetually offered. The Church Fathers saw in this moment the fulfillment of Simeon's prophecy to Mary: 'A sword will pierce your own soul' (Luke 2:35). Yet the lamentation is not the end of the story — the sarcophagus behind the body will be found empty. The standing saints who flank the scene represent the Church that must hold vigil between Good Friday and Easter, maintaining faith in the darkness between death and resurrection.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.57-60",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea taking the body and preparing it for burial — the scene depicted"
+    },
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph and Nicodemus preparing the body with spices and linen — the burial preparation"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "A sword will pierce your own soul — Mary's grief at the lamentation fulfilling Simeon's prophecy"
+    },
+    {
+      "ref": "ISA.53.9",
+      "relevance": "typological",
+      "reason": "He was assigned a grave with the rich — the burial of the Suffering Servant"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grievous",
+    "solemn",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007957",
+    "title": "Lamentation over the Dead Christ",
+    "artist": "Luca Signorelli",
+    "model": "claude-opus-4-6"
+  }
+}

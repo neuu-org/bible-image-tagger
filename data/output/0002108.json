@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna of Humility",
+  "tags": [
+    "madonna-of-humility",
+    "virgin-and-child",
+    "seated-on-ground",
+    "gold-background",
+    "angels",
+    "halo",
+    "gothic-panel",
+    "dark-blue-mantle",
+    "cushion"
+  ],
+  "symbols": [
+    "Mary seated on a low cushion near the ground — humility, the virtue for which this type is named",
+    "Infant Christ on her knee — the Incarnation, God dwelling in humble human form",
+    "Two small angels in the upper corners — heavenly attendants worshipping the incarnate Lord",
+    "Gold background — the eternal realm, divine glory surrounding the humble scene",
+    "Elaborate punched halo — Mary's sanctity and her unique role in salvation"
+  ],
+  "description": "The Virgin Mary sits on a low hexagonal cushion or platform against a gold background in a Gothic pointed-arch panel. She wears a dark blue-black mantle over a light gown with decorative edges. Her head is surrounded by an ornate punched-gold halo. The infant Jesus, in a pink garment, sits on her knee, raising his hand in blessing. Two small angels with wings kneel in the upper corners against the gold background. The panel shows signs of age.",
+  "theological_description": "The Madonna of Humility (Madonna dell'Umilta) is a distinctive iconographic type showing Mary seated on the ground or on a low cushion rather than enthroned — emphasizing the virtue of humility that made her worthy to be the vessel of the Incarnation. Mary's own words in the Magnificat declare: 'He has looked on the humble estate of his servant' (LUK.1.48). This low-seated posture visually embodies the spiritual principle that 'whoever humbles himself will be exalted' (MAT.23.12). The Incarnation itself is the supreme act of divine humility: 'Though he was in the form of God, he did not count equality with God a thing to be grasped, but emptied himself, taking the form of a servant' (PHP.2.6-7). Mary's humility mirrors and receives Christ's self-emptying love.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.48",
+      "relevance": "primary",
+      "reason": "He has regarded the humble estate of his servant — the theological basis for the Madonna of Humility"
+    },
+    {
+      "ref": "MAT.23.12",
+      "relevance": "typological",
+      "reason": "Whoever humbles himself will be exalted — the spiritual principle embodied in Mary's low posture"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ emptied himself, taking the form of a servant — the divine humility Mary mirrors"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Behold the handmaid of the Lord — Mary's humble acceptance of the Incarnation"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation held in Mary's humble lap"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "humble",
+    "serene",
+    "devotional",
+    "gentle"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002108",
+    "title": "Madonna of Humility",
+    "artist": "Lorenzo Monaco",
+    "model": "claude-opus-4-6"
+  }
+}

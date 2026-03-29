@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {
+      "name": "Seven Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Seven Saints",
+  "tags": [
+    "saints",
+    "standing-figures",
+    "halos",
+    "devotional"
+  ],
+  "symbols": [
+    "seven saints gathered — the communion of saints across the ages"
+  ],
+  "description": "A panel showing seven standing saints in richly colored robes with golden halos. Each figure holds distinctive attributes. The style is characteristic of 15th-century Florentine panel painting by Filippo Lippi.",
+  "theological_description": "The gathering of saints represents the communion of saints (HEB.12.1). Each saint embodies a different charism, demonstrating that the Body of Christ is diverse yet unified (1CO.12.12-27). Their halos signify participation in the divine light: 'the righteous will shine like the sun in the kingdom of their Father' (MAT.13.43).",
+  "scripture_refs": [
+    {
+      "ref": "HEB.12.1",
+      "relevance": "primary",
+      "reason": "The great cloud of witnesses"
+    },
+    {
+      "ref": "MAT.13.43",
+      "relevance": "allusion",
+      "reason": "The righteous shining like the sun"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "reverent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0011411",
+    "title": "Seven Saints",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

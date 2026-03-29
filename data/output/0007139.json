@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Saint Francis of Assisi", "type": "PERSON"},
+    {"name": "Animals", "type": "GROUP"}
+  ],
+  "event": "Saint Francis of Assisi with Animals",
+  "tags": [
+    "saint-francis",
+    "animals",
+    "creation-care",
+    "birds",
+    "deer",
+    "rabbit",
+    "harmony-with-nature",
+    "folk-art",
+    "halo",
+    "franciscan"
+  ],
+  "symbols": [
+    "animals gathered peacefully around Francis — the restoration of Edenic harmony through holiness",
+    "halo — the sanctity of Francis recognized by the Church",
+    "bird held to his chest — Francis's legendary preaching to the birds and love for all creatures",
+    "flowers and leaves — the garden of creation flourishing around the saint",
+    "cross on his robe — the Franciscan devotion to Christ crucified"
+  ],
+  "description": "A colorful folk-art style painting of a central figure with a large decorative halo, wearing brown and dark robes with a cross, holding a blue bird to his chest. He is surrounded by various animals: a white rabbit, a spotted deer or cow, a reddish horse or deer with antlers, and birds in flight. Bright flowers, leaves, and decorative motifs fill the white background. The style is flat, naive, and vibrantly colored with pinks, greens, blues, and browns.",
+  "theological_description": "Saint Francis of Assisi's legendary communion with animals expresses a profound theological vision: that holiness restores the original harmony of Eden. In Genesis 1-2, humans and animals coexisted in peace under God's dominion. The Fall shattered this relationship, but Francis's radical poverty and gentleness recovered something of that primordial peace. His famous Canticle of the Creatures praises God through Brother Sun, Sister Moon, and all living beings, reflecting Paul's vision that all creation groans for liberation (Romans 8:19-22). The Native American folk-art style of this depiction enriches the Franciscan vision with indigenous respect for the natural world, suggesting that the Gospel's call to stewardship resonates across cultures. Francis saw every creature as a word spoken by God, a visible sign of invisible grace.",
+  "scripture_refs": [
+    {"ref": "GEN.1.28-31", "relevance": "primary", "reason": "God's charge to humanity to have dominion over creatures — Francis models this as loving stewardship, not exploitation"},
+    {"ref": "ROM.8.19-22", "relevance": "typological", "reason": "All creation groans awaiting liberation — Francis's harmony with animals as a foretaste of that renewal"},
+    {"ref": "ISA.11.6-9", "relevance": "typological", "reason": "The peaceable kingdom where the wolf dwells with the lamb — Francis as a living sign of this eschatological promise"},
+    {"ref": "PSA.148.7-10", "relevance": "allusion", "reason": "All creatures praising the Lord — Francis leading creation in worship"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["joyful", "gentle", "harmonious"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007139",
+    "title": "St. Francis",
+    "artist": "David Chethlahe Paladin",
+    "model": "claude-opus-4-6"
+  }
+}

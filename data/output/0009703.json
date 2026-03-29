@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Virgin Mary (Mater Dolorosa)", "type": "PERSON"}
+  ],
+  "event": "The Sorrowful Virgin (Dolorosa)",
+  "tags": [
+    "mater-dolorosa",
+    "sorrowful-virgin",
+    "grief",
+    "tears",
+    "dark-background",
+    "hands-open",
+    "blue-mantle",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "Mary's upward gaze with tears — the Mother of Sorrows looking to heaven in grief and trust",
+    "open hands — helpless anguish and acceptance of God's will",
+    "blue mantle over dark robes — heavenly grace (blue) over the darkness of mourning",
+    "solitary figure against black background — the isolation and depth of Mary's grief at the Passion"
+  ],
+  "description": "A single female figure shown against a completely black background. The Virgin Mary is depicted from the waist up, her face turned upward with an expression of deep sorrow, her eyes glistening with tears. Her hands are extended outward in a gesture of anguished supplication. She wears a dark blue mantle over a rose-colored dress, with a dark veil partially covering her hair. The painting is set in an ornate gilded frame. The dramatic chiaroscuro isolates the grieving figure in a pool of light against the darkness.",
+  "theological_description": "The Mater Dolorosa (Mother of Sorrows) is one of the most intimate devotional images in Christian art, depicting Mary's grief at the suffering and death of her son. This anguish was prophesied by Simeon at the Presentation: 'A sword will pierce through your own soul also' (LUK.2.35). Mary, who said 'yes' to the Incarnation (LUK.1.38), must now endure the full cost of that 'yes' — watching her son tortured and killed. The Gospels record that Mary stood at the foot of the cross (JHN.19.25), her presence a silent witness to both the horror and the meaning of the Passion. The Church Fathers saw in Mary's grief the grief of the Church itself, and of all creation, at the death of its Creator. Her open hands express both the helplessness of human sorrow and the active offering of her suffering in union with Christ's sacrifice. The prophet Jeremiah's lament applies to her: 'Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow' (LAM.1.12).",
+  "scripture_refs": [
+    {"ref": "LUK.2.35", "relevance": "primary", "reason": "Simeon's prophecy that a sword would pierce Mary's soul, fulfilled in her grief"},
+    {"ref": "JHN.19.25", "relevance": "primary", "reason": "Mary standing at the foot of the cross, the source of her Dolorosa grief"},
+    {"ref": "LAM.1.12", "relevance": "typological", "reason": "Is there any sorrow like my sorrow — the lament tradition applied to Mary"},
+    {"ref": "LUK.1.38", "relevance": "allusion", "reason": "Mary's fiat whose full cost is revealed in her grief at the Passion"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["sorrowful", "tender", "desolate", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009703",
+    "title": "Dolorosa",
+    "artist": "Bartolome Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

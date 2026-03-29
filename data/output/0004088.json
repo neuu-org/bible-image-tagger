@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with Saints Elizabeth and John",
+  "tags": [
+    "holy-family",
+    "elizabeth",
+    "infant-baptist",
+    "infant-jesus",
+    "joseph",
+    "two-families",
+    "visitation-echo",
+    "domestic-scene",
+    "kinship",
+    "incarnation"
+  ],
+  "symbols": [
+    "two infants together — the meeting of the forerunner and the Messiah, echoing the Visitation",
+    "Elizabeth bowing toward infant John — the elder kinswoman caring for the one who will prepare the way",
+    "Joseph leaning on staff — the guardian watching over both families",
+    "architectural setting — the domestic life of the two holy families in Nazareth or Judea",
+    "Mary holding Jesus toward John — prefiguring the baptism at the Jordan"
+  ],
+  "description": "An interior scene with classical columns. At the left, the Virgin Mary in a white head covering and orange-red robe holds the Christ Child, who leans down. At the right, an elderly woman in a blue robe (Elizabeth) bends over a nude infant (John the Baptist) who stands and reaches toward Jesus. Behind them, Joseph leans on a staff, looking down at the children. The composition is balanced and classical, rendered in warm clear colors with careful attention to anatomy and drapery.",
+  "theological_description": "This composition brings together the two families whose destinies intersect at the heart of the Gospel narrative. The meeting of the two infants echoes the Visitation (LUK.1.39-45), when the unborn John leaped in Elizabeth's womb at the sound of Mary's greeting. Here the children are old enough to interact, creating a devotional scene that compresses the hidden years into a single intimate moment. Elizabeth, whom Luke describes as advanced in years (LUK.1.7), bends over her miraculous son with the same wonder she expressed at the Visitation: 'How is it that the mother of my Lord should come to me?' (LUK.1.43). The infant John reaching toward Jesus prefigures his entire prophetic ministry: 'He must increase, but I must decrease' (JHN.3.30). Joseph's quiet, watchful presence fulfills his guardian role. Poussin's classical clarity serves the theology: these are not mythological figures but real families in real domestic spaces, the ordinary setting in which the extraordinary mystery of salvation unfolds.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation that established the relationship between the two families"
+    },
+    {
+      "ref": "LUK.1.57-66",
+      "relevance": "primary",
+      "reason": "The birth of John the Baptist and his parents' joy"
+    },
+    {
+      "ref": "LUK.1.80",
+      "relevance": "allusion",
+      "reason": "The child John growing strong in spirit during the hidden years depicted here"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "typological",
+      "reason": "He must increase, I must decrease — the infant John already oriented toward Jesus"
+    },
+    {
+      "ref": "LUK.2.51-52",
+      "relevance": "allusion",
+      "reason": "The hidden life of the Holy Family at Nazareth"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "warmth",
+    "domestic",
+    "tenderness",
+    "peace"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004088",
+    "title": "The Holy Family with Saints Elizabeth and John",
+    "artist": "Nicolas Poussin",
+    "model": "claude-opus-4-6"
+  }
+}

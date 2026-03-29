@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "The Penitent Magdalene in the wilderness",
+  "tags": [
+    "mary-magdalene",
+    "penitent",
+    "reclining",
+    "skull",
+    "cave",
+    "book",
+    "wilderness",
+    "repentance",
+    "contemplation",
+    "vanitas"
+  ],
+  "symbols": [
+    "Skull — memento mori, meditation on death and the vanity of worldly pleasures",
+    "Open book — Scripture or devotional reading, the turn from worldly life to spiritual contemplation",
+    "Cave — withdrawal from the world, the desert tradition of repentance and asceticism",
+    "Loose flowing hair — traditional attribute of the Magdalene, recalling her wiping Christ's feet with her hair"
+  ],
+  "description": "A young woman with long flowing blonde hair reclines on the ground at the mouth of a rocky cave. Her upper body is partially bare, draped in a blue cloth from the waist down. She rests one hand on an open book that leans against a human skull. Wildflowers grow near her on the left. Through the cave opening behind her, a distant landscape with rocky cliffs and blue sky is visible. Her expression is thoughtful and serene.",
+  "theological_description": "The Penitent Magdalene became one of the most popular subjects in Western art, depicting the tradition that Mary Magdalene spent her later years as a hermit in contemplative solitude. While the canonical Gospels record her as a woman from whom Jesus cast out seven demons (LUK.8.2), who stood at the cross (JHN.19.25), and who was the first witness of the Resurrection (JHN.20.1-18), Western tradition conflated her with the sinful woman who anointed Jesus' feet (LUK.7.37-38). The skull and book represent the classic vanitas theme — the rejection of worldly beauty in favor of eternal truths. Her withdrawal to a cave echoes the pattern of desert spirituality, following Elijah at Horeb (1KI.19.8-9) and Christ's own forty days in the wilderness (MAT.4.1-2). The Magdalene's transformation from sinner to contemplative saint embodies the Gospel promise that 'her sins, which are many, are forgiven, for she loved much' (LUK.7.47).",
+  "scripture_refs": [
+    {"ref": "LUK.7.37-38", "relevance": "primary", "reason": "The sinful woman who anointed Jesus' feet with tears and wiped them with her hair, traditionally identified as Magdalene"},
+    {"ref": "LUK.7.47", "relevance": "primary", "reason": "Her sins are forgiven for she loved much — the theological foundation of the penitent Magdalene tradition"},
+    {"ref": "LUK.8.2", "relevance": "primary", "reason": "Mary Magdalene, from whom seven demons had gone out — her liberation by Christ"},
+    {"ref": "JHN.20.1-18", "relevance": "allusion", "reason": "Magdalene as first witness of the Resurrection, the culmination of her devotion to Christ"},
+    {"ref": "MAT.4.1-2", "relevance": "typological", "reason": "Christ's wilderness withdrawal prefigures the ascetic tradition of desert contemplation depicted here"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "serene", "penitential"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0001252",
+    "title": "Reclining Magdalene",
+    "artist": "Alexander Clarot",
+    "model": "claude-opus-4-6"
+  }
+}

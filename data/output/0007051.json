@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Senators",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Virgin and Child with Four Senators",
+  "tags": [
+    "virgin-and-child",
+    "donor-portrait",
+    "senators",
+    "infant-jesus",
+    "devotional-scene",
+    "intercession",
+    "kneeling-worship"
+  ],
+  "symbols": [
+    "Christ Child reaching out — divine grace extended to the faithful",
+    "kneeling senator — earthly authority submitting to divine authority",
+    "Virgin holding the Child — Mary as Theotokos presenting Christ to the world",
+    "dark robes of the senators — civic dignity brought before sacred presence"
+  ],
+  "description": "A group of six figures in a dark interior. At left, a young woman holds a plump infant who reaches toward the other figures. Four men in dark robes stand or kneel before them, the foremost kneeling with hands clasped or extended toward the child. One man is bearded and elderly. The scene is rendered in muted tones with a dark background, captured in a black-and-white photograph of the original painting.",
+  "theological_description": "This votive painting unites the theology of the Incarnation with civic devotion. The Virgin presents the Christ Child to the senators, embodying the Church's role as mediator between heaven and earth. The kneeling posture of the civic leaders before the infant God reverses worldly hierarchies: the powerful bow before the powerless child in whom 'the fullness of deity dwells bodily' (Colossians 2:9). Such paintings served as public declarations that earthly governance derives its legitimacy from divine authority. The Christ Child's gesture of reaching toward the senators suggests the reciprocity of grace: God does not merely receive worship but actively extends Himself toward those who seek Him. Mary's role as Seat of Wisdom (Sedes Sapientiae) is implicit — she is the throne from which divine wisdom addresses the rulers of the world.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.28-32",
+      "relevance": "primary",
+      "reason": "Simeon receiving the Christ Child and declaring Him a light for revelation to the Gentiles — dignitaries encountering the infant Savior"
+    },
+    {
+      "ref": "COL.2.9",
+      "relevance": "allusion",
+      "reason": "In Christ the fullness of deity dwells bodily — the theological reality behind worship of the Christ Child"
+    },
+    {
+      "ref": "PSA.2.10-12",
+      "relevance": "typological",
+      "reason": "Kings and rulers instructed to serve the Lord and kiss the Son — civic leaders bowing before Christ"
+    },
+    {
+      "ref": "PRO.8.15-16",
+      "relevance": "allusion",
+      "reason": "By wisdom kings reign and rulers decree what is just — the Virgin as Seat of Wisdom presenting wisdom incarnate"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "solemn",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007051",
+    "title": "The Virgin and Child with four senators",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

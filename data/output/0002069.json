@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Biblical figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Klosterneuburg Altar — enamel panels depicting biblical typology",
+  "tags": [
+    "klosterneuburg-altar",
+    "enamel",
+    "champleve",
+    "typology",
+    "baptism",
+    "latin-inscriptions",
+    "medieval-metalwork",
+    "biblical-scenes",
+    "gilded"
+  ],
+  "symbols": [
+    "Paired panels — Old and New Testament typological correspondences",
+    "Latin inscriptions — theological commentary identifying the scenes and their connections",
+    "Gold and enamel technique — the precious materials befitting sacred subjects"
+  ],
+  "description": "A detail of the Klosterneuburg Altar shows several champlevé enamel panels set in gilded copper. The panels depict biblical scenes with figures in arched compartments, labeled with Latin inscriptions including 'BAPTISMUS' and other text. The figures are rendered in blue, green, and gold enamel against gilded backgrounds. Decorative borders with Latin text separate the scenes. The metalwork is intricate and richly colored.",
+  "theological_description": "The Klosterneuburg Altar by Nicholas of Verdun is one of the supreme achievements of medieval biblical typology in art. Its program pairs Old Testament events with their New Testament fulfillments, visually demonstrating the patristic principle that 'the New Testament lies hidden in the Old, and the Old Testament is unveiled in the New' (Augustine). The panel labeled BAPTISMUS connects Christ's baptism to its Old Testament types — likely the crossing of the Red Sea or the cleansing of Naaman. This typological method of reading Scripture was central to early Christian theology: Paul himself established it when he wrote that the Israelites 'were all baptized into Moses in the cloud and in the sea' (1CO.10.2), seeing the Exodus as a type of Christian baptism.",
+  "scripture_refs": [
+    {
+      "ref": "1CO.10.1-2",
+      "relevance": "typological",
+      "reason": "Paul's typological reading: Israel baptized into Moses in the cloud and sea — the method this altar employs"
+    },
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "The Baptism of Christ, labeled BAPTISMUS on the altar"
+    },
+    {
+      "ref": "COL.2.17",
+      "relevance": "typological",
+      "reason": "These are shadows of things to come, but the substance belongs to Christ — the typological principle"
+    },
+    {
+      "ref": "HEB.10.1",
+      "relevance": "typological",
+      "reason": "The law has but a shadow of the good things to come — Old Testament as type of New"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "sacred",
+    "scholarly",
+    "majestic"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0002069",
+    "title": "Klosterneuburg Altar",
+    "artist": "Nicholas of Verdun",
+    "model": "claude-opus-4-6"
+  }
+}

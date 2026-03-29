@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome in Penitent Prayer",
+  "tags": [
+    "saint-jerome",
+    "penitence",
+    "prayer",
+    "skull",
+    "red-cloak",
+    "church-father",
+    "asceticism",
+    "emaciated",
+    "clasped-hands",
+    "divine-light"
+  ],
+  "symbols": [
+    "skull — memento mori, the contemplation of death and the vanity of earthly life",
+    "red cloak — traditionally associated with Jerome's status as a cardinal-translator",
+    "emaciated body — the ascetic mortification of the flesh in the desert",
+    "clasped hands in prayer — the penitential devotion of the scholar-hermit",
+    "divine light from upper left — the illumination of the Holy Spirit guiding Jerome in his work and prayer",
+    "manuscript pages beneath the skull — Jerome's great work of translating the Scriptures into Latin"
+  ],
+  "description": "A half-length portrait of an elderly emaciated man with a grey beard and deeply weathered skin, shown in profile facing left. He clasps his hands together in fervent prayer, gazing upward toward a beam of divine light entering from the upper left. A red cloak or cardinal's robe drapes over his otherwise bare, gaunt shoulders and chest. In the lower left, a human skull rests atop what appears to be manuscript pages or a book. The background is very dark, with the figure emerging dramatically from shadow through intense chiaroscuro.",
+  "theological_description": "Saint Jerome (c. 347-420), the great Doctor of the Church and translator of the Vulgate Bible, is depicted in his traditional iconography as a penitent in the desert. Jerome famously withdrew to the Syrian desert for years of ascetic prayer and study, where he mastered Hebrew to translate the Old Testament directly from the original. The skull symbolizes his contemplation of mortality — 'Remember that you will die' — which drives the urgency of his spiritual life and scholarly labor. The red garment recalls his later association with the cardinalate, though anachronistic. Jerome's prayer posture and upward gaze reflect his conviction that Scripture study must be accompanied by prayer: 'Ignorance of the Scriptures is ignorance of Christ,' he famously wrote. The divine light illuminating his face represents the Holy Spirit's guidance in his monumental work of making God's Word accessible to the Latin-speaking world.",
+  "scripture_refs": [
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed — the conviction that drove Jerome's life work of translation"
+    },
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "Your word is a lamp to my feet and a light to my path — the divine light illuminating Jerome"
+    },
+    {
+      "ref": "ECC.12.12",
+      "relevance": "allusion",
+      "reason": "Of making many books there is no end — the scholar's ascetic devotion to the word"
+    },
+    {
+      "ref": "PHP.3.8",
+      "relevance": "allusion",
+      "reason": "I count everything as loss because of the surpassing worth of knowing Christ — Jerome's renunciation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitential",
+    "fervent",
+    "austere",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0005808",
+    "title": "St. Jerome",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

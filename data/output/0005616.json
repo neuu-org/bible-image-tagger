@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Allegorical Youth", "type": "PERSON"},
+    {"name": "Elderly Priest or Elder", "type": "PERSON"}
+  ],
+  "event": "Religious Allegory — Faith and Sacrifice",
+  "tags": [
+    "allegory",
+    "chalice",
+    "incense",
+    "priestly-vestments",
+    "offering",
+    "flame",
+    "religious-allegory",
+    "old-and-young",
+    "sacred-vessel"
+  ],
+  "symbols": [
+    "golden chalice with flame — the sacred offering of faith, the fire of divine worship",
+    "incense lamp being poured — prayer rising to God like incense, the offering of devotion",
+    "elderly figure in ornate priestly vestments — the old covenant priesthood or religious authority",
+    "young figure in red — the new generation carrying forward the flame of faith",
+    "ornamental pedestal with griffins — the altar or sacred furnishing upon which offerings are placed"
+  ],
+  "description": "Two half-length figures stand against a dark background. At right, an elderly man with a long white beard wears elaborate priestly vestments: a richly embroidered cope or chasuble in white and gold with a jeweled pectoral cross. He extends his right hand in a gesture of direction or blessing. At left, a younger figure in a red robe pours from a small lamp or incense vessel into a golden chalice that sits atop an ornate stone pedestal decorated with griffin or sphinx figures. A flame rises from the chalice. The lighting dramatically illuminates the faces and the sacred vessels.",
+  "theological_description": "This allegorical painting represents the act of sacred offering and the perpetuation of divine worship across generations. The elderly priestly figure in full liturgical vestments embodies the established tradition of sacrifice and prayer, while the youth carrying the flame suggests the transmission of faith to the next generation. The chalice with fire recalls the perpetual flame of the Temple menorah and the altar of incense (EXO.30.1-8), where the priests were commanded to burn incense before the Lord perpetually. The imagery also evokes Psalm 141:2, 'Let my prayer be counted as incense before you, and the lifting up of my hands as the evening sacrifice.' The ornate vestments recall the priestly garments commanded for Aaron (EXO.28), connecting this allegorical scene to the Levitical priesthood and its ongoing function of mediation between God and His people.",
+  "scripture_refs": [
+    {"ref": "EXO.30.7-8", "relevance": "allusion", "reason": "Aaron shall burn fragrant incense on the altar every morning and evening — the incense offering depicted"},
+    {"ref": "PSA.141.2", "relevance": "allusion", "reason": "Let my prayer be counted as incense before you — prayer symbolized by the rising flame"},
+    {"ref": "EXO.28.2-4", "relevance": "allusion", "reason": "The priestly vestments of Aaron recalled by the elder's elaborate liturgical dress"},
+    {"ref": "MAL.1.11", "relevance": "typological", "reason": "In every place incense shall be offered to my name — the universal offering of worship"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["solemn", "sacred", "ceremonial"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0005616",
+    "title": "Religious allegory",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

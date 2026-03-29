@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Crowd", "type": "GROUP"}
+  ],
+  "event": "Christ Carrying the Cross through a Village",
+  "tags": [
+    "carrying-the-cross",
+    "via-dolorosa",
+    "village-scene",
+    "crowd",
+    "ladder",
+    "passion",
+    "modernist"
+  ],
+  "symbols": [
+    "cross beam carried through the crowd — the Passion set within everyday life",
+    "ladder — the instruments of crucifixion being brought to Calvary",
+    "densely packed crowd — all of humanity implicated in Christ's Passion"
+  ],
+  "description": "A modernist painting showing a dense crowd of figures in a village street between brick houses. A figure at center carries a large white cross beam horizontally, while others carry a ladder. The crowd is packed tightly, with many faces turned in different directions. Some figures lean from windows above. The style is flat and angular with simplified figures in muted pinks, blues, browns, and grays. A large dark tree fills the upper right. The atmosphere is busy and processional.",
+  "theological_description": "This modernist depiction of Christ carrying the cross transposes the Via Dolorosa into a contemporary English village, insisting that the Passion is not a distant historical event but a present reality in every community. The dense crowd surrounding the cross-bearer represents all of humanity — some watching, some participating, most simply going about their business, unaware of the cosmic significance passing through their midst. The domestic setting — brick houses, garden fences, ordinary people — challenges the viewer to recognize that Christ's suffering occurs wherever injustice, indifference, and violence exist. The flat, democratic composition, where Christ is barely distinguishable from the crowd, echoes Isaiah's prophecy: 'He had no form or majesty that we should look at Him' (Isaiah 53:2).",
+  "scripture_refs": [
+    {"ref": "LUK.23.26-31", "relevance": "primary", "reason": "Christ carrying the cross through the streets, followed by crowds — the scene transposed to a modern setting"},
+    {"ref": "ISA.53.2-3", "relevance": "typological", "reason": "He had no form or majesty — Christ indistinguishable in the crowd"},
+    {"ref": "MAT.25.40", "relevance": "allusion", "reason": "As you did it to the least of these — Christ present in the ordinary community"},
+    {"ref": "HEB.13.12-13", "relevance": "allusion", "reason": "Jesus suffered outside the gate — the Passion occurring in the midst of daily life"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["somber", "crowded", "processional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008324",
+    "title": "Christ Carrying the Cross",
+    "artist": "Stanley Spencer",
+    "model": "claude-opus-4-6"
+  }
+}

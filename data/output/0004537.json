@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Children", "type": "GROUP"},
+    {"name": "Mothers", "type": "GROUP"},
+    {"name": "Disciples", "type": "GROUP"}
+  ],
+  "event": "Christ blessing the little children",
+  "tags": [
+    "suffer-the-children",
+    "blessing-children",
+    "mothers-and-infants",
+    "jesus-teaching",
+    "disciples",
+    "temple-setting",
+    "tenderness",
+    "kingdom-of-god",
+    "humility",
+    "reception"
+  ],
+  "symbols": [
+    "children brought to Christ — the kingdom of God belonging to such as these",
+    "mothers presenting their infants — the Church bringing the faithful to Christ for blessing",
+    "disciples looking on — the tension between human gatekeeping and divine welcome",
+    "dog in foreground — domestic life and the humility of the household brought to Jesus",
+    "architectural setting — the public teaching space where Christ overturns social hierarchies"
+  ],
+  "description": "A crowded scene set in an architectural space with columns and arches. Christ stands at center-right in brown and golden robes, gesturing toward a group of women and children gathered before him. Mothers kneel holding infants and small children, some reaching toward Christ. Several older men stand behind and around, some observing, others appearing to discuss. In the lower left, a small dog sits among the crowd. The composition is dense with figures across all planes, with warm lighting highlighting the central interaction between Christ and the children.",
+  "theological_description": "The episode of Christ blessing the children is a radical reversal of social values. When the disciples attempted to prevent mothers from bringing their children, Jesus rebuked them: 'Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these. Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it' (MRK.10.14-15). This is not sentimental affection but a theological declaration: the kingdom belongs to those who have no status, no power, no claim — those who can only receive. The scene overturns the honor-shame dynamics of the ancient world and anticipates Christ's teaching that the first shall be last (MAT.20.16). The mothers bringing their children prefigure the Church's practice of infant baptism, bringing the youngest members of the community to receive Christ's blessing. The disciples' resistance reflects the perennial temptation to restrict access to God based on human categories of worthiness.",
+  "scripture_refs": [
+    {"ref": "MRK.10.13-16", "relevance": "primary", "reason": "Christ rebuking the disciples and blessing the children brought to Him"},
+    {"ref": "MAT.19.13-15", "relevance": "primary", "reason": "The parallel account of Jesus welcoming children and declaring the kingdom belongs to such as these"},
+    {"ref": "MAT.18.3-4", "relevance": "primary", "reason": "Unless you become like little children you will never enter the kingdom of heaven"},
+    {"ref": "MAT.20.16", "relevance": "allusion", "reason": "The last shall be first — children, the least regarded, are given priority in the kingdom"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tender", "welcoming", "bustling", "warm"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004537",
+    "title": "Suffer the Little Children",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

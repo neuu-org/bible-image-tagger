@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saul",
+      "type": "PERSON"
+    },
+    {
+      "name": "David's men",
+      "type": "GROUP"
+    }
+  ],
+  "event": "David Shows Saul How He Spared His Life",
+  "tags": [
+    "david-and-saul",
+    "sparing-life",
+    "cave",
+    "mercy",
+    "wilderness",
+    "cloak-cutting",
+    "restraint"
+  ],
+  "symbols": [
+    "David holding the cut piece of robe — proof of mercy shown to an enemy",
+    "distance between the figures — the chasm between David's righteousness and Saul's pursuit",
+    "rocky wilderness — the harsh terrain of David's years as a fugitive",
+    "Saul's army in the distance — the overwhelming force that David chose not to counter with violence"
+  ],
+  "description": "A detailed black-and-white engraving showing a dramatic rocky landscape with deep ravines and cliffs. At the foreground left, a small group of figures stands on a rocky outcrop — one figure gestures across the chasm toward distant figures on the opposite cliff. In the background, a larger group of armed men is visible on the far ridge under a dark, stormy sky. The composition emphasizes the vast, harsh wilderness terrain separating the two groups.",
+  "theological_description": "David's decision to spare Saul's life (1 Samuel 24 and 26) is one of the Old Testament's most powerful demonstrations of mercy triumphing over justice. David, hunted by Saul and given the perfect opportunity to kill his persecutor, instead cut only a corner of Saul's robe — then showed it to Saul from a distance as proof that he could have killed him but chose restraint. David's reasoning was theological: 'The Lord forbid that I should stretch out my hand against the Lord's anointed' (1 Samuel 24:6). This principle — that vengeance belongs to God alone (Romans 12:19) — became foundational for Christian ethics. David's mercy toward Saul prefigures Christ's teaching to love one's enemies (Matthew 5:44) and His prayer for His crucifiers: 'Father, forgive them' (Luke 23:34).",
+  "scripture_refs": [
+    {
+      "ref": "1SA.24.1-22",
+      "relevance": "primary",
+      "reason": "David sparing Saul in the cave and showing the cut robe as proof — the scene depicted"
+    },
+    {
+      "ref": "1SA.26.7-12",
+      "relevance": "primary",
+      "reason": "The second occasion when David spared Saul's life"
+    },
+    {
+      "ref": "ROM.12.19",
+      "relevance": "typological",
+      "reason": "Vengeance is mine, I will repay, says the Lord — the principle David honored"
+    },
+    {
+      "ref": "MAT.5.44",
+      "relevance": "typological",
+      "reason": "Love your enemies — David's mercy toward Saul prefiguring Christ's teaching"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "tense",
+    "merciful"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0008368",
+    "title": "David Shows Saul How He Spared His Life",
+    "artist": "Gustave Dore",
+    "model": "claude-opus-4-6"
+  }
+}

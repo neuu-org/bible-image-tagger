@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Salome", "type": "PERSON"},
+    {"name": "Herodias", "type": "PERSON"},
+    {"name": "Head of John the Baptist", "type": "OTHER"}
+  ],
+  "event": "Salome Brings the Head of John the Baptist to Herodias",
+  "tags": [
+    "salome",
+    "herodias",
+    "beheading",
+    "john-the-baptist",
+    "severed-head",
+    "platter",
+    "revenge",
+    "court-intrigue",
+    "dark-interior",
+    "royal-chamber"
+  ],
+  "symbols": [
+    "severed head on a platter — the martyrdom of John the Baptist, the cost of prophetic truth-telling",
+    "Salome presenting the head — the instrument of Herodias's vengeance, youth corrupted by evil",
+    "Herodias receiving the head — the hatred of the wicked toward the righteous who expose their sin",
+    "dark opulent interior — the moral darkness of Herod's court despite its outward splendor",
+    "rich garments and jewelry — worldly power and luxury that cannot silence the voice of conscience"
+  ],
+  "description": "A dark, richly painted interior scene showing two women. The standing woman (Salome) in ornate Eastern garments and jewelry presents a platter bearing a severed bearded head to a seated woman (Herodias) who wears dark robes and leans forward with intense interest. The setting is an opulent chamber with a canopy or curtain above. The palette is predominantly dark with warm reds, golds, and deep browns. A small mirror or ornament is visible on the wall. The mood is sinister and conspiratorial.",
+  "theological_description": "This scene depicts the aftermath of one of the most dramatic episodes in the Gospels: the beheading of John the Baptist at the request of Herodias through her daughter Salome (MRK.6.17-29; MAT.14.3-12). John had been imprisoned by Herod Antipas because he denounced Herod's marriage to Herodias, his brother Philip's wife, declaring 'It is not lawful for you to have her' (MAT.14.4). Herodias harbored a grudge against John and used her daughter's dance at Herod's birthday feast to extract the promise of John's death. The Baptist's martyrdom establishes him as the last and greatest of the prophets (MAT.11.11), the forerunner who prepared the way of the Lord and sealed his testimony with his blood. His death prefigures Christ's own execution at the hands of political expediency and religious hostility. The scene embodies the perennial conflict between prophetic truth and political power: 'They hated him who reproves in the gate, and they abhor him who speaks the truth' (AMO.5.10).",
+  "scripture_refs": [
+    {"ref": "MRK.6.17-29", "relevance": "primary", "reason": "The full account of John's beheading, Herodias's grudge, and Salome's request"},
+    {"ref": "MAT.14.3-12", "relevance": "primary", "reason": "Matthew's parallel account of John's imprisonment and execution"},
+    {"ref": "MAT.14.4", "relevance": "primary", "reason": "John's prophetic denunciation: it is not lawful for you to have your brother's wife"},
+    {"ref": "MAT.11.11", "relevance": "typological", "reason": "Jesus's testimony that no one born of women is greater than John the Baptist"},
+    {"ref": "AMO.5.10", "relevance": "allusion", "reason": "They hate him who reproves in the gate, the prophetic pattern John fulfills"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sinister", "macabre", "tense"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009276",
+    "title": "Salome brings head of Saint John the Baptist to her mother Herodias",
+    "artist": "Vasily Surikov",
+    "model": "claude-opus-4-6"
+  }
+}

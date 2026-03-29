@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Peter", "type": "PERSON"},
+    {"name": "James", "type": "PERSON"},
+    {"name": "John", "type": "PERSON"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Judas and soldiers", "type": "GROUP"}
+  ],
+  "event": "The Agony in the Garden of Gethsemane",
+  "tags": [
+    "gethsemane",
+    "agony-in-the-garden",
+    "sleeping-disciples",
+    "prayer",
+    "angels",
+    "judas-approaching",
+    "olive-garden",
+    "jerusalem",
+    "passion"
+  ],
+  "symbols": [
+    "Christ kneeling in prayer — the agony of submitting to the Father's will",
+    "three sleeping disciples — the failure of human companionship in Christ's hour of need",
+    "angels bearing the instruments of the Passion — the cup Christ must drink",
+    "approaching soldiers — the betrayal and arrest drawing near",
+    "rocky, barren landscape — the spiritual desolation of Gethsemane",
+    "city of Jerusalem beyond — the holy city where Christ will be condemned"
+  ],
+  "description": "A panoramic landscape showing multiple scenes simultaneously. At center-left, a kneeling figure in dark robes prays on a rocky outcrop, facing away toward a walled city in the middle distance. Below in the foreground, three men in colorful robes (pink, blue, green) sleep heavily on the terraced rocky ground. At upper left, a group of winged putti or angels appear in clouds holding objects. At the far right, a procession of armed men approaches along a path. A bare tree with a bird stands at the right edge. The landscape is detailed with sharp rocks, a winding fence, and dramatic sky.",
+  "theological_description": "The Agony in the Garden (Matthew 26:36-46) is the pivotal moment where Christ's human will confronts the horror of the Passion and submits to the Father's purpose: 'Not my will, but yours be done' (Luke 22:42). The sleeping disciples represent humanity's inability to share in Christ's suffering — He must bear the cup alone. The angels bearing the instruments of the Passion (the chalice, the cross) make visible what is spiritually present: the full weight of human sin that Christ is about to take upon Himself. The approaching band of soldiers with Judas shows that time is running out — the prayer in the garden is the last moment of freedom before the irreversible chain of arrest, trial, and crucifixion. The walled city of Jerusalem in the background is both the holy city of promise and the killing ground of prophets. This scene reveals the full humanity of Christ: He who could have summoned legions of angels (Matthew 26:53) chose instead to sweat blood and submit.",
+  "scripture_refs": [
+    {"ref": "MAT.26.36-46", "relevance": "primary", "reason": "Jesus praying in Gethsemane while the disciples sleep — the exact scene depicted"},
+    {"ref": "LUK.22.42-44", "relevance": "primary", "reason": "Father, if you are willing, remove this cup — Christ's agony and the angel strengthening Him"},
+    {"ref": "MRK.14.32-42", "relevance": "primary", "reason": "Mark's account of Gethsemane with the command to watch and pray"},
+    {"ref": "HEB.5.7", "relevance": "typological", "reason": "In the days of His flesh He offered up prayers with loud cries and tears — the agony described"},
+    {"ref": "MAT.26.47-50", "relevance": "allusion", "reason": "Judas coming with a great crowd armed with swords — the approaching band at the right"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguished", "desolate", "tense"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008253",
+    "title": "The Agony in the Garden",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

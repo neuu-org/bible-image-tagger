@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Roman soldiers", "type": "GROUP"}
+  ],
+  "event": "Christ on the Cross — The Crucifixion",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "golgotha",
+    "passion",
+    "mourners",
+    "roman-soldiers",
+    "horsemen",
+    "dark-sky",
+    "blood",
+    "redemptive-suffering"
+  ],
+  "symbols": [
+    "Christ on the cross — the supreme sacrifice, the Lamb of God taking away the sins of the world",
+    "Darkened sky — the cosmic darkness that covered the earth during the crucifixion",
+    "Blood from Christ's side — the water and blood of atonement, the sacraments flowing from Christ",
+    "Women at the foot of the cross — the faithful remnant who did not abandon Christ",
+    "Roman soldiers on horseback — imperial power unwittingly executing the divine plan"
+  ],
+  "description": "Christ hangs on a tall wooden cross against a dark, turbulent sky. His body is illuminated against the stormy clouds, blood visible from the wound in his side. His head droops and arms are stretched high. At the base of the cross, a woman with flowing hair clings to the wood — Mary Magdalene. To the right, the Virgin Mary swoons, supported by another figure, draped in blue. On the far left, Roman soldiers on horseback observe the scene. The palette is dominated by stormy grays, blues, and the warm flesh tones of Christ's body.",
+  "theological_description": "The Crucifixion is the pivotal event of salvation history — 'the hour' that Christ anticipated throughout His ministry (JHN.12.27). The darkness that covers the sky fulfills the prophecy of Amos: 'I will make the sun go down at noon and darken the earth in broad daylight' (AMO.8.9), and the Gospels record: 'From the sixth hour there was darkness over all the land until the ninth hour' (MAT.27.45). The Magdalene clinging to the cross recalls her devotion — she who was forgiven much loved much (LUK.7.47). Mary's swoon embodies the sword of Simeon's prophecy (LUK.2.35). The blood and water from Christ's side (JHN.19.34) were read by the Fathers as the birth of the Church and the sacraments — baptism and Eucharist flowing from the wounded body of Christ. Paul's theology finds its visual anchor here: 'He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed' (1PE.2.24).",
+  "scripture_refs": [
+    {"ref": "JHN.19.25-30", "relevance": "primary", "reason": "The women at the cross and Christ's final words — the specific scene depicted"},
+    {"ref": "MAT.27.45", "relevance": "primary", "reason": "Darkness over the land from the sixth to the ninth hour — the darkened sky in the painting"},
+    {"ref": "JHN.19.34", "relevance": "primary", "reason": "The soldier pierced His side and blood and water flowed — the wound visible on Christ"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "By his wounds we are healed — the visible suffering of Christ on the cross"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "The sword piercing Mary's soul — her grief at the foot of the cross"},
+    {"ref": "AMO.8.9", "relevance": "typological", "reason": "I will darken the earth at noon — prophetic foreshadowing of the crucifixion darkness"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguish", "dark", "solemn", "tragic"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001667",
+    "title": "Christ on the Cross",
+    "artist": "Eugene Delacroix",
+    "model": "claude-opus-4-6"
+  }
+}

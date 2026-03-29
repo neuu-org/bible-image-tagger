@@ -1,0 +1,35 @@
+{
+  "characters": [
+    {"name": "Apostle (study)", "type": "PERSON"}
+  ],
+  "event": "Study of an apostle's head and architectural sketch",
+  "tags": [
+    "sketch",
+    "study",
+    "apostle-head",
+    "architectural-drawing",
+    "domed-church",
+    "red-chalk",
+    "leonardo",
+    "preparation-drawing"
+  ],
+  "symbols": [
+    "Apostle's head gazing downward — the contemplative posture of a disciple at the Last Supper or similar scene",
+    "Church architecture — the building of the Church that the apostles established"
+  ],
+  "description": "A red chalk drawing on paper combines two studies. The upper portion shows the head and shoulders of a young man with curly hair, gazing downward with a pensive expression, drawn in delicate, precise strokes. The lower left features an architectural sketch of a domed church or centralized building with multiple cupolas and a cross-topped lantern. The number '44' appears written to the right. A small stamp mark is visible at the bottom.",
+  "theological_description": "This preparatory study likely relates to a Last Supper or similar apostolic scene. The apostles were the foundation stones of the Church — 'built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone' (EPH.2.20). The juxtaposition of the apostle's head with church architecture on the same sheet is a suggestive visual theology: the apostles and the churches they built are intimately connected. The downward gaze suggests the moment of sorrow or self-examination at the Last Supper when Jesus announced 'one of you will betray me' and each disciple asked 'Is it I, Lord?' (MAT.26.21-22).",
+  "scripture_refs": [
+    {"ref": "MAT.26.21-22", "relevance": "allusion", "reason": "The apostle's pensive downward gaze may relate to the moment of self-examination at the Last Supper"},
+    {"ref": "EPH.2.20", "relevance": "typological", "reason": "Built on the foundation of the apostles — the connection between apostle and church architecture"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "studious"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001842",
+    "title": "Study of an apostle's head and architectural study",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

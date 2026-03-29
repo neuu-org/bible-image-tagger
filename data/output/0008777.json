@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Pieta — Lamentation over the dead Christ",
+  "tags": [
+    "pieta",
+    "lamentation",
+    "dead-christ",
+    "deposition",
+    "cross",
+    "mourning",
+    "passion",
+    "burial-preparation",
+    "holy-women",
+    "grief"
+  ],
+  "symbols": [
+    "cross behind the group — the instrument of death from which Christ has been taken down",
+    "dead Christ held by mourners — the sacrificial body given for the world's redemption",
+    "Mary Magdalene kissing Christ's hand — devoted love and penitent gratitude",
+    "elderly Joseph of Arimathea — the faithful disciple who provided his own tomb"
+  ],
+  "description": "The dead Christ is held in a semi-seated position at center, supported by several figures. A young man in a yellow-gold robe (John) supports Christ from the left. Behind, an elderly bearded man (Joseph of Arimathea) stands. The Virgin Mary in a dark veil stands to the right of center. Below, a woman kisses or examines Christ's wounded hand. Another woman in red kneels at the lower right. A dark-veiled woman stands at the far right. The dark vertical beam of the cross rises behind the group. A landscape with mountains is visible in the background.",
+  "theological_description": "The Pieta presents the moment of lamentation after Christ's body has been taken down from the cross, gathering the faithful few around the sacrificed Redeemer. The scene makes visible the paradox at the heart of Christianity: the body they hold is that of the eternal Son of God, the one 'through whom all things were made' (John 1:3), now lifeless and dependent on human hands. Mary Magdalene's tender devotion to Christ's wounded hand recalls her earlier anointing of his feet (Luke 7:38), while Joseph of Arimathea's presence fulfills Isaiah's prophecy that the Servant would be 'with a rich man in his death' (Isa 53:9). The cross behind them stands empty — its work is done, and the next act will be the burial, then the resurrection. Paul captured the theological weight of this moment: 'He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things?' (Rom 8:32). The gathering of mourners around the dead Christ is also an image of the Church — the community formed by the cross.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea receiving the body and preparing it for burial"
+    },
+    {
+      "ref": "ROM.8.32",
+      "relevance": "typological",
+      "reason": "God did not spare his own Son — the theological depth of the sacrificed body on display"
+    },
+    {
+      "ref": "ISA.53.9",
+      "relevance": "typological",
+      "reason": "With a rich man in his death — Joseph of Arimathea providing the tomb"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "The faithful witnesses at the cross — Mary, John, and the women now gathered in mourning"
+    },
+    {
+      "ref": "LUK.7.38",
+      "relevance": "allusion",
+      "reason": "The Magdalene's earlier devotion to Christ's feet, now extended to his wounded hands"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "tender",
+    "solemn",
+    "grief-stricken"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008777",
+    "title": "Pietà",
+    "artist": "Il Sodoma",
+    "model": "claude-opus-4-6"
+  }
+}

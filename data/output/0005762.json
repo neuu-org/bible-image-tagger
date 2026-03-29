@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman Soldiers", "type": "GROUP"},
+    {"name": "Mourners", "type": "GROUP"}
+  ],
+  "event": "The Erection of the Cross",
+  "tags": [
+    "crucifixion",
+    "erection-of-cross",
+    "calvary",
+    "golgotha",
+    "soldiers",
+    "raising-the-cross",
+    "passion",
+    "nails",
+    "ropes",
+    "crowd"
+  ],
+  "symbols": [
+    "cross being raised — the instrument of salvation being lifted up, fulfilling Christ's words that He would be lifted up",
+    "soldiers straining with ropes — the human agents of the divine plan, unknowingly accomplishing redemption",
+    "crowd of onlookers — the witnesses at Calvary, humanity present at the pivotal moment of salvation history",
+    "darkening sky — the cosmic response to the Crucifixion, darkness covering the land"
+  ],
+  "description": "A monochrome engraving depicting the moment when Christ's cross is being raised into position at Golgotha. Soldiers and workers pull on ropes and push with poles to erect the heavy wooden cross bearing the figure of Christ, whose arms are already nailed and extended. The cross tilts diagonally as it rises. Below, a large crowd of mourners, soldiers, and onlookers surround the scene. Some figures weep while others watch in fascination or indifference. The composition is dramatic with deep shadows and strong contrasts. Text at top identifies the work and artist.",
+  "theological_description": "The Erection of the Cross captures the moment of supreme paradox: the Son of God is lifted up on the instrument of Roman execution, yet this very lifting fulfills His own prophecy: 'And I, when I am lifted up from the earth, will draw all people to myself' (JHN.12.32). The soldiers laboring to raise the cross are unwitting agents of the divine plan foretold in the prophets. The physical effort required to erect the cross emphasizes the sheer materiality of the Incarnation's cost — real wood, real nails, real weight. In Matthew's account, the soldiers crucified Him and then divided His garments by casting lots, fulfilling Psalm 22:18. The crowd below represents all of humanity, divided between those who mourn and those who mock. The scene is the hinge of cosmic history: here the curse of the Law (GAL.3.13) is borne by the sinless one, the bronze serpent of Moses is typologically fulfilled (JHN.3.14), and the way into the Holy of Holies is opened.",
+  "scripture_refs": [
+    {"ref": "MAT.27.35-37", "relevance": "primary", "reason": "They crucified him and divided his garments; they put the charge above his head"},
+    {"ref": "JHN.19.17-18", "relevance": "primary", "reason": "He went out bearing his own cross to Golgotha where they crucified him"},
+    {"ref": "JHN.12.32", "relevance": "typological", "reason": "When I am lifted up from the earth, I will draw all people to myself"},
+    {"ref": "JHN.3.14", "relevance": "typological", "reason": "As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up"},
+    {"ref": "GAL.3.13", "relevance": "typological", "reason": "Christ redeemed us from the curse of the law by becoming a curse for us — cursed is everyone hung on a tree"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "anguish", "solemnity", "gravity"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005762",
+    "title": "The Erection Of The Cross",
+    "artist": "Gustave Dor\u00e9",
+    "model": "claude-opus-4-6"
+  }
+}

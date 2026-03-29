@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ Pantocrator",
+  "tags": [
+    "pantocrator",
+    "christ-blessing",
+    "open-gospel",
+    "gold-halo",
+    "icon",
+    "divine-authority",
+    "word-of-god",
+    "sovereign-lord",
+    "blessing-gesture"
+  ],
+  "symbols": [
+    "raised right hand in blessing gesture — the priestly benediction and divine authority of Christ",
+    "open Gospel book — Christ as the incarnate Word, the Logos made flesh",
+    "cruciform halo with gold leaf — the cross within the nimbus uniting glory and sacrifice",
+    "dark blue and brown garments — divine nature (blue) and human nature (brown) of the incarnate Son",
+    "ornate gold background — the uncreated light of the heavenly realm",
+    "arched panel shape — the door or gate, Christ as the entrance to salvation"
+  ],
+  "description": "An icon on an arched panel depicts Christ from the waist up, facing the viewer directly. He has long brown hair parted in the center and a full beard. His right hand is raised in a two-fingered blessing gesture, while his left hand holds an open book inscribed with text. He wears a dark blue outer garment over a brown inner robe. Behind his head is a large cruciform halo set against an elaborately tooled gold leaf background with floral scroll patterns. Greek letters are visible near the halo.",
+  "theological_description": "The Pantocrator icon is the supreme visual confession of Christ's dual nature and cosmic sovereignty. The frontal gaze embodies John's declaration that 'the Word became flesh and dwelt among us' (JHN.1.14), while the blessing hand conveys the priestly office described in Hebrews. The open Gospel book recalls Christ's self-identification as 'the way, the truth, and the life' (JHN.14.6) and his reading of Isaiah in the Nazareth synagogue (LUK.4.16-21). The cruciform nimbus unites glory and suffering — the cross inscribed within divine radiance affirms that the Crucified One is the Risen Lord. The two natures are expressed through the two-toned garments: the heavenly blue and the earthly brown, reflecting the Chalcedonian definition. Patristically, Athanasius wrote that God became man so that man might become God (theosis), and the Pantocrator icon is the visual anchor of this theology — the glorified humanity of Christ showing believers their own eschatological destiny.",
+  "scripture_refs": [
+    {"ref": "JHN.1.1-14", "relevance": "primary", "reason": "Christ as the eternal Logos made flesh, the open Gospel book in his hand"},
+    {"ref": "COL.1.15-17", "relevance": "primary", "reason": "Christ as the image of the invisible God, in whom all things hold together — the Pantocrator concept"},
+    {"ref": "REV.1.8", "relevance": "primary", "reason": "The Alpha and Omega, the Almighty — the theological foundation of the Pantocrator title"},
+    {"ref": "JHN.14.6", "relevance": "allusion", "reason": "Christ as the way, truth, and life — the open book proclaiming his teaching"},
+    {"ref": "HEB.7.25", "relevance": "typological", "reason": "Christ's perpetual intercession as High Priest, represented by the blessing hand"},
+    {"ref": "LUK.4.16-21", "relevance": "allusion", "reason": "Christ opening the scroll in the synagogue, prefigured by the open Gospel book"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "majestic", "transcendent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003100",
+    "title": "Icon of the Savior from the Maniava Hermitage iconostasis1698",
+    "artist": "Yov Kondzelevych",
+    "model": "claude-opus-4-6"
+  }
+}

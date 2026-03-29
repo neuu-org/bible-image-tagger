@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Penitent Magdalene",
+  "tags": [
+    "mary-magdalene",
+    "penitent",
+    "cross",
+    "repentance",
+    "loose-hair",
+    "devotion",
+    "oval-portrait",
+    "tears"
+  ],
+  "symbols": [
+    "wooden cross embraced — the instrument of salvation to which the penitent clings",
+    "loose flowing hair — Mary Magdalene's traditional attribute, recalling her anointing of Christ's feet",
+    "downcast eyes with tears — repentance and the sorrow that leads to salvation",
+    "bare shoulder — vulnerability and the stripping away of worldly vanity"
+  ],
+  "description": "An oval portrait within a gilded frame shows a young woman with long flowing reddish-brown hair, her eyes cast downward with a tearful expression. She clutches a wooden cross against her chest with her right hand, while her left hand rests on her bare shoulder. A thin veil partially covers her hair. The background is dark with a warm glow around her head. A small cartouche at the bottom of the frame identifies the subject. The expression is one of deep emotional devotion and sorrow.",
+  "theological_description": "The Penitent Magdalene is one of the most enduring devotional subjects in Christian art. Mary Magdalene, from whom Jesus cast out seven demons (LUK.8.2), became the paradigm of the repentant sinner transformed by grace. The loose hair recalls the woman who washed Christ's feet with her tears and dried them with her hair (LUK.7.37-38), traditionally identified with the Magdalene. The cross she embraces signifies her devotion to the Crucified Lord — she stood at the foot of the cross (JHN.19.25) and was the first witness of the Resurrection (JHN.20.11-18). Her tears embody the beatitude: 'Blessed are those who mourn, for they shall be comforted' (MAT.5.4). Christ's declaration, 'Her sins, which are many, are forgiven — for she loved much' (LUK.7.47), provides the theological key: the depth of repentance corresponds to the depth of love.",
+  "scripture_refs": [
+    {"ref": "LUK.7.37-38", "relevance": "primary", "reason": "The sinful woman washing Christ's feet with tears and drying them with her hair"},
+    {"ref": "LUK.7.47", "relevance": "primary", "reason": "Her sins are forgiven, for she loved much — the theology of the penitent Magdalene"},
+    {"ref": "JHN.20.11-18", "relevance": "primary", "reason": "Mary Magdalene at the empty tomb, the first witness of the Resurrection"},
+    {"ref": "LUK.8.2", "relevance": "primary", "reason": "Mary Magdalene from whom seven demons had gone out"},
+    {"ref": "MAT.5.4", "relevance": "allusion", "reason": "Blessed are those who mourn — the tears of penitence leading to consolation"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["penitential", "tender", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004045",
+    "title": "Penitent Magdalene",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

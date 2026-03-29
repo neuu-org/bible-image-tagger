@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Angel of Sadness",
+  "tags": [
+    "angel",
+    "dark-wings",
+    "melancholy",
+    "white-gown",
+    "cross-monument",
+    "cemetery",
+    "nocturnal",
+    "mourning"
+  ],
+  "symbols": [
+    "Dark wings — an angel of grief or mourning, in contrast to the bright wings of joyful angels",
+    "White gown — purity amid sorrow",
+    "Cross or grave monument — death, burial, and the Christian hope beyond the grave",
+    "Night sky with star — the light of hope even in darkness and grief"
+  ],
+  "description": "A female angel with large dark wings stands in a nocturnal landscape, wearing a flowing white gown and an ornate headdress. She gazes downward with a melancholic expression. Beside her stands a dark cross or grave monument. The background shows trees and a distant horizon under a dark sky with a single star. The image has a vintage photographic quality in sepia tones. Russian text at the bottom identifies the work.",
+  "theological_description": "The Angel of Sadness speaks to the biblical reality that grief and divine presence are not mutually exclusive. The psalms repeatedly express this paradox: 'Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me' (PSA.23.4). Angels as ministers of comfort appear throughout Scripture — an angel strengthened Christ in Gethsemane (LUK.22.43), and angels will 'wipe away every tear' in the age to come (REV.21.4). The dark wings suggest an angel who participates in human sorrow rather than transcending it — echoing Romans 12:15: 'Weep with those who weep.' The cross monument affirms that Christian grief is always grief with hope: 'We do not grieve as others do, who have no hope' (1TH.4.13).",
+  "scripture_refs": [
+    {"ref": "PSA.23.4", "relevance": "typological", "reason": "Walking through the valley of death with God's presence — comfort amid sorrow"},
+    {"ref": "LUK.22.43", "relevance": "typological", "reason": "An angel strengthening Christ in His grief — angelic ministry in times of sorrow"},
+    {"ref": "1TH.4.13", "relevance": "typological", "reason": "We do not grieve as those without hope — Christian grief tempered by resurrection hope"},
+    {"ref": "REV.21.4", "relevance": "typological", "reason": "God will wipe every tear — the ultimate promise of comfort that this grieving angel anticipates"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["melancholic", "ethereal", "sorrowful", "hopeful"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0002140",
+    "title": "Angel of Sadness",
+    "artist": "Wilhelm Kotarbinski",
+    "model": "claude-opus-4-6"
+  }
+}

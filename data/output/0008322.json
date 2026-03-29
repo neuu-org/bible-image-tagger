@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Angel", "type": "ANGEL"},
+    {"name": "Women at the tomb", "type": "GROUP"},
+    {"name": "Roman soldiers", "type": "GROUP"}
+  ],
+  "event": "He is Risen — The First Easter",
+  "tags": [
+    "resurrection",
+    "empty-tomb",
+    "angel-at-the-tomb",
+    "women-at-tomb",
+    "sleeping-soldiers",
+    "easter",
+    "blossoming-tree",
+    "radiant-light"
+  ],
+  "symbols": [
+    "radiant angel at the tomb — the divine messenger announcing the Resurrection",
+    "sleeping or fallen soldiers — worldly power rendered helpless before God's victory over death",
+    "blossoming tree — new life springing from the Resurrection, the reversal of death's barrenness",
+    "women approaching — the faithful women who were first witnesses of the empty tomb",
+    "golden light — the glory of the Resurrection transforming darkness into dawn"
+  ],
+  "description": "A richly atmospheric scene set in a garden at dawn. At the right, a luminous white-robed angel figure glows with brilliant light beside a stone tomb or doorway. At the left, two women in dark robes stand or crouch beneath a blossoming tree, looking toward the angel. In the foreground, Roman soldiers in armor lie sprawled on the ground, unconscious or terrified. The scene is bathed in a golden-warm light that radiates from the angel, contrasting with the deeper shadows of the garden. Blossoms and flowers are scattered throughout.",
+  "theological_description": "The Resurrection of Christ is the cornerstone of Christian faith — without it, as Paul declares, 'our preaching is in vain and your faith is in vain' (1 Corinthians 15:14). This painting captures the moment the women arrive at the tomb to find it empty and an angel declaring, 'He is not here; He has risen' (Matthew 28:6). The radiant angel embodies the divine glory that breaks into the world at Easter. The fallen soldiers represent every form of earthly power — military, political, institutional — rendered helpless before God's decisive act. The blossoming tree is a profound symbol: where the tree of the cross brought death, the tree of Easter brings life. The women, marginalized in their society, are chosen as the first witnesses — God's preference for the humble and overlooked. The entire scene vibrates with the conviction that death has been swallowed up in victory (1 Corinthians 15:54).",
+  "scripture_refs": [
+    {"ref": "MAT.28.1-7", "relevance": "primary", "reason": "The women arriving at the empty tomb and the angel's announcement — the exact scene depicted"},
+    {"ref": "MRK.16.1-6", "relevance": "primary", "reason": "Mark's account of the women at the tomb finding the stone rolled away"},
+    {"ref": "1CO.15.54-55", "relevance": "typological", "reason": "Death is swallowed up in victory — the theological meaning of the empty tomb"},
+    {"ref": "MAT.28.4", "relevance": "allusion", "reason": "The guards trembled and became like dead men — the fallen soldiers in the foreground"},
+    {"ref": "1CO.15.14", "relevance": "allusion", "reason": "If Christ has not been raised, our faith is in vain — the centrality of this event"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["glorious", "awe-filled", "luminous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008322",
+    "title": "He is Risen - The First Easter",
+    "artist": "Arthur Hughes",
+    "model": "claude-opus-4-6"
+  }
+}

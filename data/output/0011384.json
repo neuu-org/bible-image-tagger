@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Study for the Colonna Pieta",
+  "tags": [
+    "pieta",
+    "dead-christ",
+    "virgin-mary",
+    "angels",
+    "drawing",
+    "lamentation",
+    "study"
+  ],
+  "symbols": [
+    "Mary with arms outstretched — grief and intercession for the world",
+    "dead Christ slumped — the completed sacrifice",
+    "angels supporting — the heavenly realm bearing witness"
+  ],
+  "description": "A detailed chalk or charcoal drawing showing the Virgin Mary seated with arms raised outward in grief, while the dead body of Christ slumps before her, supported by two small angelic or childlike figures. The drawing is executed with Michelangelo's characteristic anatomical mastery and emotional intensity. The composition is pyramidal with Mary at the apex. The paper is aged and yellowed.",
+  "theological_description": "Michelangelo's study for the Colonna Pieta captures the theological heart of the Passion: Mary's grief at the death of her son is simultaneously personal and cosmic. Her outstretched arms echo the posture of prayer and intercession — she who said 'let it be done' (LUK.1.38) now bears the full cost of that consent. The dead Christ displays the wounds that are 'the price of our peace' (ISA.53.5). The angels supporting Christ's body suggest that even heaven mourns: the Creator has been slain by his creation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "A sword will pierce your soul — Mary's grief at the Pieta"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "Wounded for our transgressions, the wounds on Christ's body"
+    },
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "The interval between crucifixion and burial depicted in the Pieta"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief-stricken",
+    "monumental",
+    "raw"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011384",
+    "title": "Study for the Colonna Pieta",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

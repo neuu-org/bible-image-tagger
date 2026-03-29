@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Adoring Women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Virgin",
+  "tags": [
+    "adoration",
+    "virgin-mary",
+    "infant-jesus",
+    "cubist",
+    "mexican-art",
+    "red-mantle",
+    "blue",
+    "modernist",
+    "devotion",
+    "women"
+  ],
+  "symbols": [
+    "red and blue mandorla around the child — the divine glory surrounding Christ",
+    "women reaching upward — humanity's aspiration toward the divine",
+    "infant at center — Christ as the focus of all adoration",
+    "broad hat — the Mexican or indigenous identity of the worshippers",
+    "fragmented landscape in background — the world transformed by the Incarnation"
+  ],
+  "description": "A cubist-influenced composition showing two large female figures flanking a central apparition. At center, a small nude infant stands within a triangular area of bright red and deep blue. To the left, a woman in a green dress raises a large golden hat above her head. To the right, a woman in a white blouse reaches toward the child. The background contains fragmented geometric shapes suggesting a landscape with buildings and fields. The palette is rich with greens, reds, blues, and golds. The style blends Mexican muralism with European cubism.",
+  "theological_description": "Diego Rivera reinterprets the traditional Adoration of the Virgin through a Mexican modernist lens. The central infant Christ is surrounded by the blue and red that traditionally symbolize His divine and human natures. The women approaching represent the faithful who come to adore the newborn Messiah, much as the shepherds and Magi did in the Gospel narratives. Luke records that 'the shepherds returned, glorifying and praising God for all they had heard and seen' (Luke 2:20). Rivera's composition, with its Latin American context, suggests the universality of the Incarnation — Christ came not for one culture but for all peoples. The prophecy of Isaiah finds expression here: 'Nations shall come to your light, and kings to the brightness of your rising' (Isa 60:3). The painting reflects the synthesis of indigenous and Catholic devotion that defines Mexican religious culture.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.15-20",
+      "relevance": "primary",
+      "reason": "The shepherds come to adore the newborn Christ"
+    },
+    {
+      "ref": "ISA.60.3",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light — the universal adoration of Christ"
+    },
+    {
+      "ref": "MAT.2.11",
+      "relevance": "allusion",
+      "reason": "The Magi fell down and worshipped the child — adoration from afar"
+    },
+    {
+      "ref": "PHP.2.10-11",
+      "relevance": "allusion",
+      "reason": "At the name of Jesus every knee should bow — universal adoration"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "vibrant",
+    "mystical"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012001",
+    "title": "The Adoration of the Virgin",
+    "artist": "Diego Rivera",
+    "model": "claude-opus-4-6"
+  }
+}

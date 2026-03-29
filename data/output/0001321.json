@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "Salome", "type": "PERSON"},
+    {"name": "Herodias", "type": "PERSON"},
+    {"name": "Executioner", "type": "PERSON"}
+  ],
+  "event": "The Beheading of John the Baptist",
+  "tags": [
+    "beheading",
+    "john-the-baptist",
+    "salome",
+    "herodias",
+    "executioner",
+    "martyrdom",
+    "sword",
+    "platter",
+    "severed-head",
+    "prison"
+  ],
+  "symbols": [
+    "Severed head — the cost of prophetic truth-telling against royal sin",
+    "Sword in executioner's hand — the instrument of state violence against the righteous",
+    "Platter held by Salome — the gruesome reward of Herod's rash oath",
+    "Animal skin garment on the Baptist — his identity as the wilderness prophet"
+  ],
+  "description": "Four figures are arranged in a dark interior. On the left, a muscular half-naked man holding a sword stands with one foot forward, having just completed the execution. In the center, the severed head of a bearded man rests while a veiled older woman steadies it. On the right, a young woman in a white robe reaches toward the head, preparing to receive it on a platter. The decapitated body of the Baptist lies crumpled on the floor, clad in animal skin. A red cloth lies beneath the body.",
+  "theological_description": "The beheading of John the Baptist is recorded in Mark 6:17-29 and Matthew 14:3-12. John had publicly condemned Herod Antipas for taking Herodias, his brother Philip's wife (MRK.6.18). Herodias nursed a grudge and engineered John's death through her daughter Salome's dance before Herod, who rashly swore to give the girl whatever she asked. Prompted by her mother, Salome demanded the Baptist's head on a platter. John's martyrdom marks the culmination of his role as the forerunner: just as he preceded Christ in birth and ministry, so he preceded Him in suffering and violent death. The Church Fathers saw in John's execution a type of all prophetic martyrdom — the pattern established from Abel onward, where the righteous suffer at the hands of the wicked for speaking God's truth (MAT.23.35). Jesus Himself identified John as the Elijah who was to come (MAT.11.14), and John's death at Herod's hand parallels Elijah's conflict with Ahab and Jezebel (1KI.19.2).",
+  "scripture_refs": [
+    {"ref": "MRK.6.17-29", "relevance": "primary", "reason": "The full narrative of John's imprisonment and beheading at Herod's feast"},
+    {"ref": "MAT.14.3-12", "relevance": "primary", "reason": "Matthew's parallel account of the Baptist's execution"},
+    {"ref": "MRK.6.18", "relevance": "primary", "reason": "John's condemnation of Herod's unlawful marriage — the cause of his imprisonment"},
+    {"ref": "MAT.11.14", "relevance": "typological", "reason": "Jesus identifies John as the Elijah who was to come, whose death parallels prophetic persecution"},
+    {"ref": "1KI.19.2", "relevance": "typological", "reason": "Jezebel's threat against Elijah parallels Herodias engineering John's death"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grim", "violent", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001321",
+    "title": "A degolacao de Sao Joao Batista",
+    "artist": "Victor Meirelles",
+    "model": "claude-opus-4-6"
+  }
+}

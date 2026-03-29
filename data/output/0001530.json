@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman guards", "type": "GROUP"}
+  ],
+  "event": "The Resurrection of Jesus Christ",
+  "tags": [
+    "resurrection",
+    "empty-tomb",
+    "risen-christ",
+    "banner",
+    "cross-staff",
+    "guards",
+    "soldiers",
+    "halo",
+    "victory-over-death",
+    "easter"
+  ],
+  "symbols": [
+    "Christ stepping from the tomb — the triumphant defeat of death, the central event of Christian faith",
+    "Red banner with cross — the victory standard of the Resurrection, Christ conquering death",
+    "Halo around Christ's head — His divine glory revealed in the risen body",
+    "Fallen soldiers — the powerlessness of earthly authority before the power of God",
+    "Open stone sarcophagus — the broken seal of death, the grave that could not hold Him",
+    "Gold background — the eternal realm breaking into the temporal"
+  ],
+  "description": "Christ, wearing a flowing red robe with a golden halo, strides dynamically out of a stone sarcophagus, holding aloft a red banner topped with a cross. His body is in vigorous motion, leaping from the tomb. Below and around the sarcophagus, several armored soldiers in medieval plate armor fall, collapse, and recoil in astonishment and fear. The background is gold with dark rocky hills and trees on either side. The composition conveys explosive energy and triumph.",
+  "theological_description": "The Resurrection of Jesus Christ is the foundational event of Christian faith: 'If Christ has not been raised, your faith is futile and you are still in your sins' (1CO.15.17). The Gospels record that on the third day after crucifixion, women came to the tomb and found it empty (MAT.28.1-6). The guards set by Pilate to secure the tomb became 'like dead men' before the angel's appearance (MAT.28.4). Christ's triumph over death fulfills His own prophecy: 'Destroy this temple, and in three days I will raise it up' (JHN.2.19). The Resurrection also fulfills the psalmist's prophecy: 'You will not abandon my soul to Sheol, or let your holy one see corruption' (PSA.16.10, cited by Peter in ACT.2.27). The banner of the cross in Christ's hand proclaims that the instrument of death has become the trophy of victory. Paul's triumphant declaration resonates: 'Death is swallowed up in victory. O death, where is your sting?' (1CO.15.54-55). The soldiers' collapse represents the utter defeat of all earthly powers that conspired against the Lord's Anointed (PSA.2.1-4).",
+  "scripture_refs": [
+    {"ref": "MAT.28.1-6", "relevance": "primary", "reason": "The women find the empty tomb and the angel declares: He is risen — the event depicted"},
+    {"ref": "MAT.28.4", "relevance": "primary", "reason": "The guards trembled and became like dead men — the fallen soldiers in the painting"},
+    {"ref": "1CO.15.54-55", "relevance": "typological", "reason": "Death is swallowed up in victory — the triumphant energy of the risen Christ"},
+    {"ref": "PSA.16.10", "relevance": "typological", "reason": "You will not let your holy one see corruption — fulfilled in the Resurrection"},
+    {"ref": "JHN.2.19", "relevance": "primary", "reason": "Destroy this temple and in three days I will raise it up — Christ's own prophecy of resurrection"},
+    {"ref": "ROM.6.9", "relevance": "typological", "reason": "Christ being raised from the dead will never die again; death no longer has dominion over Him"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["triumphant", "dramatic", "glorious", "powerful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001530",
+    "title": "Resurrection of Jesus",
+    "artist": "Master Francke",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Woman caught in adultery", "type": "PERSON"},
+    {"name": "Pharisees", "type": "GROUP"}
+  ],
+  "event": "Christ and the Woman Taken in Adultery",
+  "tags": [
+    "woman-caught-in-adultery",
+    "mercy",
+    "forgiveness",
+    "pharisees",
+    "accusers",
+    "writing-on-ground",
+    "temple",
+    "sin",
+    "grace",
+    "judgment"
+  ],
+  "symbols": [
+    "Christ bending down writing on ground — the mysterious act that dispersed the accusers",
+    "woman standing with bowed head — the sinner awaiting judgment, receiving mercy instead",
+    "temple columns — the setting where religious law confronts divine mercy",
+    "pharisees turning away — the accusers convicted by their own consciences",
+    "steps — the elevated platform of public judgment"
+  ],
+  "description": "A scene in a temple portico with large stone columns. At center, a figure (Christ) bends down, writing or drawing on the stone floor with his finger. A woman stands near him with a downcast expression. At the left, a man stands on steps gesturing toward the woman. Several other figures in robes and turbans stand around, some turning away. The image is rendered in detailed black and white, suggesting a charcoal drawing or engraving, with dramatic lighting and careful attention to architectural space.",
+  "theological_description": "The encounter between Jesus and the woman caught in adultery (JHN.8.1-11) is one of the most powerful demonstrations of divine mercy in the Gospels. The scribes and Pharisees bring a woman caught in the act of adultery, citing Moses' command to stone such women, and ask Jesus for his judgment — a trap designed to make him either contradict the Law or appear merciless. Jesus bends down and writes on the ground (what he wrote remains one of Scripture's great mysteries), then rises to say: 'Let him who is without sin among you be the first to throw a stone at her' (JHN.8.7). One by one, convicted by conscience, the accusers depart. Left alone with the woman, Jesus pronounces both acquittal and moral challenge: 'Neither do I condemn you; go, and from now on sin no more' (JHN.8.11). The scene perfectly balances justice and mercy — Jesus neither condones the sin nor condemns the sinner. Augustine summarized: 'Two were left alone: misery and mercy' (misera et misericordia).",
+  "scripture_refs": [
+    {"ref": "JHN.8.1-11", "relevance": "primary", "reason": "The complete pericope of the woman caught in adultery"},
+    {"ref": "JHN.8.7", "relevance": "primary", "reason": "Let him who is without sin cast the first stone"},
+    {"ref": "JHN.8.11", "relevance": "primary", "reason": "Neither do I condemn you; go and sin no more"},
+    {"ref": "ROM.8.1", "relevance": "typological", "reason": "There is now no condemnation for those who are in Christ Jesus"},
+    {"ref": "DEU.22.22", "relevance": "allusion", "reason": "The Mosaic law on adultery that the Pharisees cited to trap Jesus"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tension", "mercy", "gravity", "quiet"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002882",
+    "title": "Christ and the Sinner",
+    "artist": "Carl Bloch",
+    "model": "claude-opus-4-6"
+  }
+}

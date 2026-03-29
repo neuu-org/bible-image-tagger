@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd of Listeners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Sermon of John the Baptist",
+  "tags": [
+    "john-the-baptist",
+    "preaching",
+    "wilderness-sermon",
+    "forest-setting",
+    "crowd",
+    "repentance",
+    "gathered-listeners",
+    "dense-trees",
+    "dramatic-light",
+    "horse",
+    "seated-figures"
+  ],
+  "symbols": [
+    "dense forest \u2014 the wilderness where John preached, away from civilization",
+    "gathered crowd \u2014 the multitudes drawn to John\u2019s message of repentance",
+    "dramatic light breaking through trees \u2014 divine illumination amid the darkness of sin",
+    "central preaching figure \u2014 the prophetic voice crying in the wilderness"
+  ],
+  "description": "A richly wooded forest scene with massive trees creating a canopy overhead. Dramatic light breaks through the foliage from the upper left. A large crowd of figures in colorful robes gathers in a clearing at the base of the trees. In the center, a figure appears to be preaching or addressing the assembly. Some figures are seated, others standing, and a horse is visible at the right edge. The forest dominates the composition, dwarfing the human figures. The atmosphere is atmospheric and deeply shaded.",
+  "theological_description": "The Sermon of John the Baptist in the wilderness depicts the prophetic ministry described in all four Gospels. John appeared in the wilderness proclaiming a baptism of repentance for the forgiveness of sins (Mark 1:4). Crowds from Jerusalem, all Judea, and the Jordan region came to hear him (Matthew 3:5). His message was urgent and uncompromising: \u2018Bear fruit in keeping with repentance\u2019 (Matthew 3:8) and \u2018Even now the axe is laid to the root of the trees\u2019 (Matthew 3:10). John\u2019s role fulfills Isaiah 40:3: \u2018A voice cries in the wilderness: Prepare the way of the Lord.\u2019 The forest setting emphasizes the wilderness character of John\u2019s ministry\u2014he deliberately chose a location outside the religious establishment of Jerusalem, signaling that God\u2019s renewal comes from the margins, not the centers of power. John\u2019s preaching prepared the hearts of the people for the coming of Christ, making him the greatest of the prophets (Matthew 11:11).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.1.4-5",
+      "relevance": "primary",
+      "reason": "John appearing in the wilderness, preaching a baptism of repentance, with crowds coming to hear"
+    },
+    {
+      "ref": "MAT.3.1-12",
+      "relevance": "primary",
+      "reason": "John\u2019s preaching in the wilderness of Judea, calling the people to repentance"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness to prepare the way of the Lord"
+    },
+    {
+      "ref": "LUK.3.7-14",
+      "relevance": "allusion",
+      "reason": "John\u2019s specific ethical instructions to the crowds, tax collectors, and soldiers"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "atmospheric",
+    "solemn",
+    "prophetic",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013563",
+    "title": "The Sermon of John the Baptist",
+    "artist": "Adam Elsheimer",
+    "model": "claude-opus-4-6"
+  }
+}

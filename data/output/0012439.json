@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Sebastian",
+  "tags": [
+    "saint-sebastian",
+    "martyr",
+    "arrows",
+    "semi-nude",
+    "anguish",
+    "upward-gaze",
+    "devotional"
+  ],
+  "symbols": [
+    "arrows piercing the body — the instruments of martyrdom",
+    "upward gaze — the martyr looking to heaven for strength and deliverance",
+    "nearly nude body — vulnerability and the stripping of earthly dignity",
+    "white loincloth — the minimal covering echoing Christ on the cross",
+    "dark background — the isolation and darkness of suffering"
+  ],
+  "description": "A nearly full-length figure of a semi-nude man bound and pierced by arrows, set against a very dark background. The figure kneels or crouches on rocky ground, his muscular but gaunt body emerging from deep shadow. His head is tilted back, gazing upward with an expression of anguish and devotion. An arrow shaft protrudes from his torso. He wears only a white cloth around his hips. One arm extends outward in a gesture of supplication. The tenebristic lighting dramatically illuminates the pale flesh against the surrounding darkness.",
+  "theological_description": "Ribera's characteristically intense and physical depiction of Saint Sebastian emphasizes the bodily reality of martyrdom. The Spanish-Neapolitan master was known for his unflinching portrayals of suffering saints. Sebastian's upward gaze amid his torment echoes the prayer of the psalmist: 'I lift up my eyes to you, O you who are enthroned in the heavens' (Ps 123:1). The arrow wounds recall Psalm 38:2 — 'Your arrows have sunk into me, and your hand has come down on me.' Yet this suffering is embraced willingly, following Christ's own example: 'For the joy that was set before him he endured the cross' (Heb 12:2). The nearly nude body, vulnerable and exposed, parallels Christ stripped for crucifixion, making Sebastian a visual type of the Suffering Servant. Paul's paradox applies: 'when I am weak, then I am strong' (2 Cor 12:10). The dark background isolates the saint, suggesting the loneliness of martyrdom but also the mystical intimacy with God that suffering can bring.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.123.1",
+      "relevance": "primary",
+      "reason": "I lift my eyes to you, enthroned in the heavens — Sebastian's upward gaze"
+    },
+    {
+      "ref": "HEB.12.2",
+      "relevance": "typological",
+      "reason": "For the joy set before him he endured the cross — willing suffering"
+    },
+    {
+      "ref": "PSA.38.2",
+      "relevance": "allusion",
+      "reason": "Your arrows have sunk into me — the arrow wounds of the martyr"
+    },
+    {
+      "ref": "2CO.12.10",
+      "relevance": "allusion",
+      "reason": "When I am weak, then I am strong — strength in suffering"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "anguished",
+    "devotional",
+    "dark"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012439",
+    "title": "St. Sebastian",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

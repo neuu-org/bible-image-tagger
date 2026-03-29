@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "James the Less", "type": "PERSON"}
+  ],
+  "event": "Head Study of Saint James the Less",
+  "tags": [
+    "saint-james-the-less",
+    "apostle",
+    "head-study",
+    "profile",
+    "last-supper-study",
+    "red-garment",
+    "hand-on-chest"
+  ],
+  "symbols": [
+    "hand placed on chest — a gesture of devotion, sincerity, or emotional response",
+    "profile view — the contemplative, inward focus of the apostle",
+    "youthful face — James the Less, distinguished from the elder James by his relative youth"
+  ],
+  "description": "A close-up head and shoulder study of a young man shown in profile, facing right. He has long brown hair and a youthful, clean-shaven face with a slightly melancholic expression. His right hand is placed on his chest in a gesture of sincerity or emotional response. He wears a red garment visible at the shoulder. The painting is executed in warm brown and sepia tones with subtle sfumato modeling, characteristic of Leonardo's preparatory studies. The background is dark and simple.",
+  "theological_description": "This study is a preparatory work for the figure of James the Less in Leonardo's Last Supper. James the Less (also called James the son of Alphaeus) was one of the Twelve Apostles (MAT.10.3; MRK.3.18; ACT.1.13). He is often identified with 'James the brother of the Lord' (GAL.1.19) who became the leader of the Jerusalem church (ACT.15.13; ACT.21.18). His hand-on-chest gesture in the Last Supper composition likely captures his reaction to Jesus's announcement 'One of you will betray me' (JHN.13.21), each disciple responding with 'Surely not I, Lord?' (MAT.26.22). James's prominence in the early Church is evident in his authoritative role at the Jerusalem Council (ACT.15), where he pronounced the decision that Gentile converts need not be circumcised. The Epistle of James, traditionally attributed to him, emphasizes that 'faith without works is dead' (JAS.2.26).",
+  "scripture_refs": [
+    {"ref": "MAT.26.21-22", "relevance": "primary", "reason": "The disciples' reaction to Jesus's betrayal announcement, the moment this study captures"},
+    {"ref": "JHN.13.21-25", "relevance": "primary", "reason": "One of you will betray me — the Last Supper moment"},
+    {"ref": "ACT.15.13-21", "relevance": "primary", "reason": "James's authoritative role at the Jerusalem Council"},
+    {"ref": "GAL.1.19", "relevance": "primary", "reason": "James the brother of the Lord, the identification of this apostle"},
+    {"ref": "JAS.2.26", "relevance": "allusion", "reason": "Faith without works is dead — James's distinctive theological emphasis"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "melancholic", "tender"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009864",
+    "title": "Head of St. James the Less",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

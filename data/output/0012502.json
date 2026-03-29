@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Catherine of Alexandria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Young Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Mystic Marriage of Saint Catherine",
+  "tags": [
+    "mystic-marriage",
+    "saint-catherine",
+    "virgin-mary",
+    "infant-jesus",
+    "saint-jerome",
+    "ring",
+    "devotional",
+    "landscape"
+  ],
+  "symbols": [
+    "ring or gesture of betrothal — the mystic marriage, Catherine's spiritual union with Christ",
+    "infant Christ reaching toward Catherine — divine acceptance of the saint's devotion",
+    "Saint Jerome with lion — the Church Doctor and desert father",
+    "book held by young figure — Scripture and learning",
+    "landscape background — the earthly world witnessed by the sacred assembly"
+  ],
+  "description": "A group of figures arranged around the Virgin Mary who sits at center holding the infant Jesus. The child reaches toward a young woman in a golden-yellow cloak (Saint Catherine) who kneels at lower right, bowing her head. At left, an elderly semi-nude bearded man (Saint Jerome) stands with what appears to be a lion partially visible at his feet. A young figure between them holds an open book. The background shows a distant landscape with hills and buildings. The composition is intimate and flowing, characteristic of Correggio's soft sfumato style.",
+  "theological_description": "Correggio depicts the Mystic Marriage of Saint Catherine of Alexandria, a popular devotional subject in which the infant Christ places a ring on Catherine's finger, symbolizing her spiritual betrothal to Him. Catherine, a learned princess who converted to Christianity, reportedly had a vision in which Christ claimed her as His bride. This imagery draws on the biblical tradition of the bridal metaphor for God's relationship with His people. The Song of Solomon celebrates the love between bride and bridegroom, which the Church Fathers interpreted as Christ and the soul. Paul uses the same imagery: 'I betrothed you to one husband, to present you as a pure virgin to Christ' (2 Cor 11:2). Saint Jerome's presence at left connects to his role as translator and interpreter of Scripture. The intimate gathering of saints around the Madonna and Child represents the communion of saints united in devotion to Christ.",
+  "scripture_refs": [
+    {
+      "ref": "2CO.11.2",
+      "relevance": "primary",
+      "reason": "I betrothed you to one husband, to present you as a pure virgin to Christ — the mystic marriage"
+    },
+    {
+      "ref": "SNG.2.16",
+      "relevance": "typological",
+      "reason": "My beloved is mine and I am his — the bridal mysticism"
+    },
+    {
+      "ref": "REV.19.7",
+      "relevance": "typological",
+      "reason": "The marriage of the Lamb has come and his Bride has made herself ready"
+    },
+    {
+      "ref": "EPH.5.31-32",
+      "relevance": "allusion",
+      "reason": "This mystery is profound — referring to Christ and the church as bride and groom"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "mystical",
+    "intimate"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012502",
+    "title": "The Mystic Marriage of St. Catherine",
+    "artist": "Correggio",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Jacob", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Jacob Wrestling with the Angel",
+  "tags": [
+    "jacob-wrestling-angel",
+    "struggle",
+    "peniel",
+    "woodland",
+    "autumn-trees",
+    "spiritual-combat",
+    "blessing",
+    "transformation"
+  ],
+  "symbols": [
+    "Two figures locked in combat — the struggle between the human and the divine, Jacob's persistence in seeking blessing",
+    "Autumn woodland setting — the liminal space of Peniel, between the old life and the new",
+    "Stream or path alongside the figures — the Jabbok river where the wrestling took place"
+  ],
+  "description": "Two figures in dark blue garments grapple with each other in a woodland clearing. Tall slender tree trunks rise around them, their autumn foliage rendered in bold oranges and golds. A winding stream or path runs alongside the figures through a green landscape. The palette is rich with deep blues, vivid oranges, and emerald greens, rendered in flat decorative shapes characteristic of post-impressionist design.",
+  "theological_description": "Jacob's wrestling at the Jabbok (GEN.32.24-32) is one of the Old Testament's most mysterious and profound episodes. On the night before his dreaded reunion with Esau, Jacob is left alone and wrestles with a 'man' until daybreak. When the being cannot prevail, he touches Jacob's hip and dislocates it, then bestows the new name Israel — 'one who strives with God.' Jacob names the place Peniel, 'for I have seen God face to face, and yet my life has been delivered' (GEN.32.30). The Church Fathers read this encounter christologically: Origen and others saw the mysterious wrestler as the pre-incarnate Logos. The episode also serves as the paradigm of prayer — persistent, costly, and transformative. Jacob will not release his adversary without a blessing, embodying the tenacity Jesus commended in the parable of the persistent widow (LUK.18.1-8). The wound Jacob receives — a permanent limp — signifies that encounter with God always leaves us changed.",
+  "scripture_refs": [
+    {"ref": "GEN.32.24-32", "relevance": "primary", "reason": "Jacob wrestling with the angel at the Jabbok, the specific event depicted"},
+    {"ref": "GEN.32.28", "relevance": "primary", "reason": "Jacob receives the name Israel: 'You have striven with God and with men, and have prevailed'"},
+    {"ref": "HOS.12.3-4", "relevance": "typological", "reason": "Hosea recalls Jacob wrestling with the angel and weeping for blessing, interpreting the encounter"},
+    {"ref": "LUK.18.1-8", "relevance": "typological", "reason": "Persistent prayer rewarded — Jacob's refusal to let go without blessing parallels the persistent widow"},
+    {"ref": "GEN.32.30", "relevance": "primary", "reason": "Jacob names the place Peniel: 'I have seen God face to face and my life is preserved'"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["intense", "mysterious", "transformative"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0001460",
+    "title": "Jacob's Battle with the Angel",
+    "artist": "Maurice Denis",
+    "model": "claude-opus-4-6"
+  }
+}

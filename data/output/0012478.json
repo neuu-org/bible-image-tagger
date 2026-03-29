@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelite Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "Children",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Triumph of David",
+  "tags": [
+    "david",
+    "goliath",
+    "triumph",
+    "severed-head",
+    "celebration",
+    "women-singing",
+    "tambourine",
+    "harp",
+    "procession",
+    "victory"
+  ],
+  "symbols": [
+    "Goliath's head on a spear — the total victory of faith over the giant enemy",
+    "women singing and dancing — Israel's celebration of divine deliverance",
+    "tambourine and harp — the musical praise that accompanies God's victories",
+    "young David at center — the shepherd boy chosen by God to defeat the mighty",
+    "children joining the celebration — all of Israel participating in the triumph"
+  ],
+  "description": "A dynamic Baroque composition showing a young man at center holding a long staff topped with a severed bearded head. Around him, women dance and play instruments — one with a tambourine at left, another with a harp at right. Several children cluster around the young hero, reaching up toward him. The figures are dressed in flowing classical-style garments. Mountains are visible in the background. The scene is one of exuberant celebration and triumph.",
+  "theological_description": "Giordano depicts the triumphal return of the young David after slaying the Philistine giant Goliath. First Samuel records that 'as they were coming home, when David returned from striking down the Philistine, the women came out of all the cities of Israel, singing and dancing, to meet King Saul, with tambourines, with songs of joy, and with musical instruments' (1 Sam 18:6). They sang 'Saul has struck down his thousands, and David his ten thousands' (1 Sam 18:7). David's victory over Goliath is one of the Bible's most powerful stories of faith triumphing over seemingly impossible odds. The young shepherd defeated the armored giant with only a sling and five stones, declaring 'the battle is the Lord's' (1 Sam 17:47). David carrying Goliath's head fulfills his earlier prophecy to the giant: 'This day the Lord will deliver you into my hand' (1 Sam 17:46). The triumph prefigures Christ's victory over Satan and death — the ultimate giant slain by the Son of David.",
+  "scripture_refs": [
+    {
+      "ref": "1SA.18.6-7",
+      "relevance": "primary",
+      "reason": "Women came out singing and dancing with tambourines to meet David"
+    },
+    {
+      "ref": "1SA.17.46-47",
+      "relevance": "primary",
+      "reason": "The Lord will deliver you into my hand — David's declaration of faith"
+    },
+    {
+      "ref": "1SA.17.51",
+      "relevance": "primary",
+      "reason": "David took Goliath's sword and cut off his head — the head on the spear"
+    },
+    {
+      "ref": "PSA.144.1",
+      "relevance": "allusion",
+      "reason": "Blessed be the Lord my rock who trains my hands for war — David's triumph"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "triumphant",
+    "joyful",
+    "celebratory"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0012478",
+    "title": "The Triumph of David",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

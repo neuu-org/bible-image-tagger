@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Pontius Pilate", "type": "PERSON"},
+    {"name": "Soldiers and Guards", "type": "GROUP"}
+  ],
+  "event": "Christ Before Pilate",
+  "tags": [
+    "passion",
+    "trial-of-christ",
+    "pilate",
+    "soldiers",
+    "judgment-hall",
+    "gothic-interior",
+    "bound-christ",
+    "roman-authority"
+  ],
+  "symbols": [
+    "Pilate washing hands or deliberating — the failure of earthly justice before divine innocence",
+    "armed soldiers with halberds — the force of empire arrayed against the unarmed Christ",
+    "Gothic architectural setting — the judgment hall as theater of injustice",
+    "basin and water — Pilate's attempted absolution of responsibility"
+  ],
+  "description": "A crowded interior scene in a Gothic vaulted hall. At the left, a richly dressed figure (Pilate) sits enthroned under a red canopy, attended by courtiers in turbans and ornate clothing. A basin is placed before him. In the center and right, soldiers in armor with halberds and pikes crowd the space, pressing around a bound figure. The architecture features pointed arches, columns, and high windows letting in light. The composition is dense with figures in colorful period dress, creating a sense of chaotic authority.",
+  "theological_description": "Christ's trial before Pilate is the moment where divine justice and human injustice confront each other. Pilate, representing the might of Rome, faces the one who declares, 'My kingdom is not of this world' (JHN.18.36). The irony is profound: the judge of all the earth (GEN.18.25) stands judged by a provincial governor who acknowledges, 'I find no guilt in this man' (LUK.23.4), yet yields to the crowd. The basin for hand-washing (MAT.27.24) represents the futile attempt to evade moral responsibility — a gesture that echoes through history as the symbol of political cowardice before truth. Christ's silence before his accusers fulfills Isaiah 53:7: 'Like a sheep before its shearers is silent, so he opened not his mouth.' The soldiers' overwhelming force contrasts with Christ's willing submission, embodying 2 Corinthians 12:9: divine power perfected in weakness.",
+  "scripture_refs": [
+    {"ref": "JHN.18.28-40", "relevance": "primary", "reason": "Christ's trial before Pilate, the dialogue about truth and kingship"},
+    {"ref": "MAT.27.24", "relevance": "primary", "reason": "Pilate washing his hands, symbolized by the basin in the scene"},
+    {"ref": "LUK.23.4", "relevance": "primary", "reason": "Pilate finding no fault in Jesus yet proceeding with the trial"},
+    {"ref": "ISA.53.7", "relevance": "typological", "reason": "The Suffering Servant silent before accusers, fulfilled in Christ's trial"},
+    {"ref": "JHN.18.36", "relevance": "primary", "reason": "My kingdom is not of this world — Christ's declaration to Pilate"},
+    {"ref": "JHN.19.11", "relevance": "allusion", "reason": "You would have no authority over me unless it had been given from above"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tense", "unjust", "chaotic", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003672",
+    "title": "Passion of Christ",
+    "artist": "Albrecht Altdorfer",
+    "model": "claude-opus-4-6"
+  }
+}

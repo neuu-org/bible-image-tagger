@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Holy Family with the Young Saint John the Baptist",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "saint-joseph",
+    "young-baptist",
+    "lamb",
+    "rest-on-flight",
+    "ruins",
+    "donkey"
+  ],
+  "symbols": [
+    "lamb with young Baptist — the Lamb of God that John will proclaim",
+    "ruins and broken columns — the Old Covenant giving way to the New",
+    "donkey at right — the humble beast of the Flight into Egypt",
+    "Mary nursing the child — the Incarnation at its most tender and human",
+    "Joseph leaning on staff — the guardian watching over the Holy Family"
+  ],
+  "description": "The Holy Family rests in a landscape with classical ruins. The Virgin Mary, in red and blue, sits at the left nursing the infant Jesus. Joseph stands behind her in a blue and brown garment, leaning on a staff. At the right, a young child in animal skins (the young John the Baptist) kneels beside a white lamb. A donkey is visible at the far right near broken columns. Trees and a mountainous landscape stretch into the background under a cloudy sky.",
+  "theological_description": "This scene combines the Holy Family at rest — possibly during the Flight into Egypt (MAT.2.13-15) — with the presence of the young Baptist and the Lamb. The Baptist child kneeling before the lamb foreshadows his adult proclamation: 'Behold, the Lamb of God, who takes away the sin of the world!' (JHN.1.29). The classical ruins symbolize the passing of the pagan world order as the New Covenant enters through this humble family. Joseph's protective presence fulfills the angelic command to guard the child from Herod's violence (MAT.2.13). Mary nursing Jesus affirms the full humanity of the incarnate Word — the God who sustains the universe is himself sustained by his mother's milk. The scene embodies the Pauline declaration that 'when the fullness of time had come, God sent forth his Son, born of woman' (GAL.4.4).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The Flight into Egypt and the Holy Family's rest, the likely setting of the scene"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God — the young Baptist with the lamb foreshadowing his declaration"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent his Son, born of woman — the Incarnation depicted in Mary nursing Jesus"
+    },
+    {
+      "ref": "LUK.1.80",
+      "relevance": "allusion",
+      "reason": "The child John grew strong in spirit — his presence as a young companion"
+    },
+    {
+      "ref": "ISA.40.11",
+      "relevance": "allusion",
+      "reason": "He will tend his flock like a shepherd, gathering the lambs — prefigured in the lamb"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "peaceful",
+    "tender",
+    "pastoral"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003908",
+    "title": "Holy Family with the Young Saint John the Baptist",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

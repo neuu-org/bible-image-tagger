@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Prodigal Son",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Prodigal Son in destitution",
+  "tags": [
+    "prodigal-son",
+    "parable",
+    "circular-composition",
+    "wandering",
+    "destitution",
+    "bosch-style",
+    "surreal-landscape",
+    "staff",
+    "fantastical-elements"
+  ],
+  "symbols": [
+    "lone figure with staff — the prodigal son wandering in a far country after squandering his inheritance",
+    "surreal and fantastical landscape — the distorted world of sin and dissipation",
+    "circular format — the completeness of the narrative cycle and the journey that leads back to the beginning",
+    "various objects and creatures — the temptations and follies of the far country"
+  ],
+  "description": "A circular engraving in fine detail depicting a solitary male figure standing at center, wearing a hat and holding a staff, surrounded by a complex and fantastical landscape filled with strange objects, structures, and creatures in the style of Hieronymus Bosch. The figure appears as a traveler or wanderer in an alien environment. Various surreal elements fill the circular space — architectural fragments, organic forms, and enigmatic objects. The technique is intricate cross-hatching typical of fine art printmaking. An artist's signature and date appear at the lower right.",
+  "theological_description": "The Prodigal Son parable is Christ's most powerful illustration of divine mercy and human folly. The image captures the nadir of the younger son's journey — having demanded his inheritance (effectively wishing his father dead) and squandered it in a far country, he finds himself in utter destitution. The Boschian surreal environment visually expresses the spiritual reality of sin's distortion: the far country is not merely a geographical location but a state of being where everything familiar is warped beyond recognition. Jesus describes this condition starkly: 'he squandered his property in dissolute living... and he began to be in need' (LUK.15.13-14). Yet the parable's theological genius is that this lowest point becomes the turning point — 'when he came to himself' (LUK.15.17). The circular composition may suggest the journey that leads from home through sin and back to the father's embrace, illustrating Augustine's insight that our hearts are restless until they rest in God.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.15.11-32",
+      "relevance": "primary",
+      "reason": "The parable of the Prodigal Son, the wandering and destitution in the far country"
+    },
+    {
+      "ref": "LUK.15.13-14",
+      "relevance": "primary",
+      "reason": "The squandering of the inheritance and the onset of desperate need"
+    },
+    {
+      "ref": "LUK.15.17",
+      "relevance": "primary",
+      "reason": "When he came to himself — the moment of realization that precedes repentance"
+    },
+    {
+      "ref": "ISA.53.6",
+      "relevance": "typological",
+      "reason": "All we like sheep have gone astray, each turning to his own way — the universal condition of wandering"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "surreal",
+    "desolate",
+    "fantastical"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004858",
+    "title": "Prodigal Son. Boschiana",
+    "artist": "Oleksandr Aksinin",
+    "model": "claude-opus-4-6"
+  }
+}

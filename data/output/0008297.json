@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Study for a Holy Family with the Infant Saint John",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "infant-john-baptist",
+    "preparatory-drawing",
+    "chalk-study",
+    "seated-madonna"
+  ],
+  "symbols": [
+    "mother holding children — the Incarnation expressed through tender human maternity",
+    "two infants — Christ and His forerunner united from infancy"
+  ],
+  "description": "A black chalk drawing on gray paper showing a seated female figure holding a plump infant on her lap, with another small child at her side. The drawing is rendered with soft hatching and subtle modeling, capturing the weight and volume of the figures. The woman's face is gently tilted downward. The composition is intimate and pyramidal. The drawing has the quality of a careful preparatory study, with some areas more finished than others.",
+  "theological_description": "This preparatory study for a Holy Family composition captures the domestic intimacy of the Incarnation. The seated Virgin holding the Christ Child while the infant John the Baptist presses close creates a theological tableau: the Savior and His forerunner are united from birth, their destinies intertwined. The drawing's unfinished quality reveals the artist's process of discovering sacred truth through the human form — the same body that will hang on the cross is here a plump, dependent infant. The pyramidal composition places Mary at the apex, reflecting her role as the one through whom all these relationships flow. This study tradition — working through the theology of the Incarnation via anatomical observation — represents a profound union of faith and art.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation — the meeting of Jesus and John before birth, here depicted in infancy"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "allusion",
+      "reason": "Mary gave birth to her firstborn Son — the Christ Child in His mother's arms"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh — the Incarnation studied through the human body"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008297",
+    "title": "Study for a Holy Family with the Infant St.John",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with the Infant Saint John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "infant-baptist",
+    "devotional"
+  ],
+  "symbols": [
+    "two infants — Christ and his forerunner",
+    "Mary holding both — the Church embracing the Old and New"
+  ],
+  "description": "A painting of the Virgin Mary with the Christ Child and the young John the Baptist, in the characteristic style of late 15th-century Venetian painting.",
+  "theological_description": "The Christ Child and the infant Baptist together recall the Visitation (LUK.1.41-44) when the unborn John leaped at the presence of the unborn Christ. John's role as forerunner is established from before birth: 'He will go before him in the spirit and power of Elijah' (LUK.1.17).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "John leaping in the womb at Christ's presence"
+    },
+    {
+      "ref": "LUK.1.17",
+      "relevance": "primary",
+      "reason": "John going before Christ in the spirit of Elijah"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "peaceful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011635",
+    "title": "Madonna and Child with the Infant Saint John the Baptist",
+    "artist": "Michele da Verona",
+    "model": "claude-opus-4-6"
+  }
+}

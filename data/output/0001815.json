@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Andrew the Apostle", "type": "PERSON"}
+  ],
+  "event": "Portrait of Saint Andrew the Apostle",
+  "tags": [
+    "saint-andrew",
+    "apostle",
+    "cross",
+    "book",
+    "gold-background",
+    "gothic-frame",
+    "green-robe",
+    "beard",
+    "first-called"
+  ],
+  "symbols": [
+    "X-shaped or Latin cross — Andrew's attribute, tradition holds he was martyred on a cross",
+    "Book held under his arm — the Gospel he preached, apostolic teaching and authority",
+    "Gold background — the eternal realm of heaven, standard in medieval panel painting",
+    "Green robes — life, hope, and the vitality of the apostolic mission"
+  ],
+  "description": "A bearded elderly man with long gray hair stands in profile facing left within a Gothic pointed-arch frame with gold background. He wears a voluminous green robe and holds a large golden cross in one hand and a dark book tucked under his other arm. His expression is contemplative and upward-gazing. The gold background features delicate punched decorative patterns. The panel has an ornate gilded Gothic frame.",
+  "theological_description": "Andrew was the first disciple called by Jesus, originally a follower of John the Baptist. When John pointed to Jesus and said 'Behold, the Lamb of God' (JHN.1.36), Andrew followed Jesus and then brought his brother Simon Peter: 'We have found the Messiah' (JHN.1.41). This act of bringing others to Christ defines Andrew's apostolic identity. He appears again bringing the boy with five loaves and two fish to Jesus before the feeding of the five thousand (JHN.6.8-9), and bringing Greek seekers to Jesus (JHN.12.20-22). In each case, Andrew is the bridge — the one who connects people to Christ. Tradition holds that Andrew preached in the regions around the Black Sea and was martyred on an X-shaped cross (the saltire), choosing a different cross than his Lord's out of humility. His cross held high here, combined with the book of the Gospel, represents the twofold apostolic vocation: witnessing to Christ both by word and by the willingness to suffer.",
+  "scripture_refs": [
+    {"ref": "JHN.1.40-42", "relevance": "primary", "reason": "Andrew as the first called disciple who brought Peter to Jesus"},
+    {"ref": "JHN.1.36", "relevance": "primary", "reason": "Andrew following Jesus after John the Baptist's declaration: 'Behold the Lamb of God'"},
+    {"ref": "JHN.6.8-9", "relevance": "primary", "reason": "Andrew brings the boy with loaves and fishes to Jesus before the feeding miracle"},
+    {"ref": "JHN.12.20-22", "relevance": "primary", "reason": "Andrew bringing Greek seekers to Jesus — his role as bridge to Christ"},
+    {"ref": "MAT.4.18-20", "relevance": "primary", "reason": "Jesus calls Andrew and Peter from their nets: 'Follow me and I will make you fishers of men'"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "contemplative", "sacred"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0001815",
+    "title": "St. Andrew",
+    "artist": "Masaccio",
+    "model": "claude-opus-4-6"
+  }
+}

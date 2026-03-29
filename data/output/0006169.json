@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Mark",
+      "type": "PERSON"
+    },
+    {
+      "name": "Winged Lion",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Saint Mark the Evangelist with his symbol the winged lion",
+  "tags": [
+    "saint-mark",
+    "evangelist",
+    "winged-lion",
+    "open-book",
+    "writing",
+    "orange-robe",
+    "red-cloak",
+    "ceiling-painting",
+    "gospel-writer"
+  ],
+  "symbols": [
+    "winged lion — the traditional symbol of Saint Mark's Gospel, representing the royal and powerful nature of Christ",
+    "open book — the Gospel of Mark, the written record of Christ's life and ministry",
+    "dynamic pose of writing — the act of inspired composition under the Holy Spirit's guidance"
+  ],
+  "description": "A ceiling or lunette painting showing Saint Mark in a dynamic reclining pose, wearing an orange-gold robe with a red cloak billowing behind him. He holds an open book or manuscript and appears to be writing or reading. Beside him, a dark-furred winged lion — his traditional symbol — crouches with an open book. The composition is dramatically foreshortened for viewing from below, with both figures arranged horizontally. A cloudy sky fills the background. The style is rich and Venetian with warm golden and red tones.",
+  "theological_description": "Saint Mark's Gospel begins with the 'voice of one crying in the wilderness' (MRK.1.3), a beginning that the Church Fathers associated with the lion's roar — hence the winged lion as Mark's symbol. The lion represents the royal, powerful Christ who commands demons, stills storms, and enters Jerusalem as king. Mark's Gospel is the shortest and most action-oriented, frequently using the word 'immediately' to convey the urgent, powerful ministry of Jesus. The tradition holds that Mark composed his Gospel in Rome based on Peter's preaching, making him the mediator of apostolic testimony to the wider Church. The dynamic pose of writing captures the inspired urgency of the Gospel's composition — not mere human recollection but 'men spoke from God as they were carried along by the Holy Spirit' (2PE.1.21).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.1.1-3",
+      "relevance": "primary",
+      "reason": "The beginning of Mark's Gospel — the voice crying in the wilderness, associated with the lion's roar"
+    },
+    {
+      "ref": "2PE.1.21",
+      "relevance": "typological",
+      "reason": "Men spoke from God, carried by the Holy Spirit — the inspiration behind the Gospel writing"
+    },
+    {
+      "ref": "1PE.5.13",
+      "relevance": "allusion",
+      "reason": "Mark my son greets you — Peter's connection to Mark, the source of the Gospel tradition"
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "typological",
+      "reason": "The four living creatures, one like a lion — associated with Mark in the fourfold Gospel tradition"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dynamic",
+    "inspired",
+    "majestic"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0006169",
+    "title": "St Mark",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

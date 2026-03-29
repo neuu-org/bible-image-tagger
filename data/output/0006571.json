@@ -1,0 +1,98 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simon of Cyrene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Veronica",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Road to Calvary — Christ carrying the cross",
+  "tags": [
+    "road-to-calvary",
+    "carrying-the-cross",
+    "via-dolorosa",
+    "passion",
+    "simon-of-cyrene",
+    "roman-soldiers",
+    "horseback",
+    "crowd",
+    "suffering",
+    "veronica",
+    "procession"
+  ],
+  "symbols": [
+    "the cross — the instrument of salvation, the tree of life that reverses the tree of Eden",
+    "Christ fallen under the weight — the full burden of human sin borne by the Incarnate God",
+    "Simon of Cyrene — the call to share in Christ's sufferings, the unexpected disciple",
+    "mounted soldiers — the power of empire that crucifies the King of Kings",
+    "women mourning — the daughters of Jerusalem and the faithful who accompany Christ to death",
+    "angel in the sky — divine witness to the cosmic significance of the Passion"
+  ],
+  "description": "A monumental, dynamic composition showing a chaotic procession moving from left to right. Christ, wearing a blue robe, has fallen or is bent low under the weight of the cross at the lower center. Surrounding him are armored Roman soldiers on horseback, foot soldiers with spears, and a muscular figure helping to carry the cross. In the lower left, a woman in dark blue reaches toward Christ. Other women and children appear at the margins. Above, an ethereal angelic figure appears in the cloudy sky.",
+  "theological_description": "The Road to Calvary — the Via Dolorosa — is the journey from Pilate's judgment hall to Golgotha, the place of the skull. Christ, already scourged and crowned with thorns, bears the cross that will become the instrument of the world's redemption. The Synoptic Gospels record that Simon of Cyrene was compelled to carry the cross (Mark 15:21), a detail rich with theological meaning: the Christian is called to take up the cross and follow Christ (Luke 9:23). Rubens captures the overwhelming chaos and violence of the procession — the institutional power of Rome pressing the condemned Messiah toward death. Yet this apparent defeat is, in the divine plan, the moment of cosmic victory. The cross that crushes Christ is the very means by which he will crush the power of sin and death. Paul's paradox rings through: 'the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God' (1 Cor 1:18). The women at the margins recall Christ's own words to the daughters of Jerusalem: 'Do not weep for me, but weep for yourselves and for your children' (Luke 23:28).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.20-22",
+      "relevance": "primary",
+      "reason": "The account of Christ being led to Golgotha carrying the cross"
+    },
+    {
+      "ref": "MRK.15.21",
+      "relevance": "primary",
+      "reason": "Simon of Cyrene compelled to carry the cross for Jesus"
+    },
+    {
+      "ref": "LUK.23.27-31",
+      "relevance": "primary",
+      "reason": "The daughters of Jerusalem weeping for Christ on the road to Calvary"
+    },
+    {
+      "ref": "LUK.9.23",
+      "relevance": "typological",
+      "reason": "Take up your cross daily and follow me — the theological meaning of Simon's role"
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "typological",
+      "reason": "The word of the cross is foolishness to the perishing but the power of God to the saved"
+    },
+    {
+      "ref": "ISA.53.4-7",
+      "relevance": "typological",
+      "reason": "He was oppressed and afflicted, led like a lamb to the slaughter — the Suffering Servant on the road to death"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "chaotic",
+    "sorrowful",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006571",
+    "title": "The Road to Calvary",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

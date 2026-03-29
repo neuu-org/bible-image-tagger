@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Holy Family with angels and saints (Sacra Conversazione)",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "infant-christ",
+    "young-john-baptist",
+    "angels",
+    "saints",
+    "outdoor-setting",
+    "divine-gathering",
+    "incarnation"
+  ],
+  "symbols": [
+    "Infant Christ on white cloth — the Incarnate Word made flesh, laid upon pure linen prefiguring burial cloths",
+    "Virgin Mary in blue mantle — her traditional attribute of heavenly purity and queenship",
+    "Angels with wings — heavenly beings worshipping the Incarnate God",
+    "Saints gathered around — the communion of saints in adoration of Christ",
+    "Outdoor landscape with trees — Paradise restored through the Incarnation"
+  ],
+  "description": "A group of figures gathers in an outdoor wooded setting around the infant Christ, who lies on a white cloth on the ground. The Virgin Mary, wearing a deep blue mantle, sits at the center-left, reaching toward the child. An angel in white with large wings hovers above the child. The young John the Baptist, partially clothed, kneels near the infant. Two elderly bearded men in colorful robes — one in yellow and orange on the left, another in blue and pink on the right — frame the composition. A second small angel or cherub is visible near the center. Trees and sky form the background.",
+  "theological_description": "The Sacra Conversazione — a devotional grouping of the Madonna and Child with saints — is not a single biblical event but a theological meditation on the communion of saints gathered around the Incarnation. The infant Christ lying on the ground recalls the humility of the Nativity and anticipates the Eucharistic offering — the Lamb laid upon the altar. The young Baptist's proximity to Christ fulfills the pattern of recognition begun in Elizabeth's womb (LUK.1.41). The saints — likely including figures such as Jerome, Joseph, or apostolic figures — represent the Church across time, united in worship of the Word made flesh (JHN.1.14). The angelic presence affirms the heavenly liturgy joining the earthly one: 'And suddenly there was with the angel a multitude of the heavenly host praising God' (LUK.2.13). The lush outdoor setting suggests Eden restored, the new paradise opened by the coming of Christ.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the central mystery celebrated in this devotional gathering"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "primary",
+      "reason": "The multitude of heavenly host praising God at the Nativity, reflected in the angelic presence"
+    },
+    {
+      "ref": "LUK.1.41",
+      "relevance": "allusion",
+      "reason": "The Baptist's recognition of Christ, here depicted as the young John approaching the infant Jesus"
+    },
+    {
+      "ref": "MAT.18.20",
+      "relevance": "allusion",
+      "reason": "Where two or three are gathered in Christ's name — the communion of saints around the Incarnate Lord"
+    },
+    {
+      "ref": "REV.5.11-12",
+      "relevance": "typological",
+      "reason": "Angels and saints gathered in worship of the Lamb — the heavenly liturgy prefigured in this earthly scene"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "serene",
+    "devotional",
+    "peaceful",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001269",
+    "title": "Holy Family with angels and saints",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

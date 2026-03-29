@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Villagers", "type": "GROUP"}
+  ],
+  "event": "Christmas night in a rural village",
+  "tags": [
+    "christmas",
+    "nativity-season",
+    "winter-night",
+    "cattle",
+    "church-steeple",
+    "snow",
+    "rural-village",
+    "ox"
+  ],
+  "symbols": [
+    "church steeple — the presence of Christian worship in the village",
+    "cattle — evocation of the ox and ass at the manger of Bethlehem",
+    "snow-covered landscape — the stillness and purity of the holy night",
+    "stone cross or monument — Christian devotion rooted in the land"
+  ],
+  "description": "A snowy nighttime village scene with dark, earthy tones. Two dark cattle stand in the foreground near a stone wall or monument with carved figures. Behind them, two cloaked figures walk through the snow. A pointed church steeple rises against an orange-tinged twilight sky. The ground is covered in white snow with patches of color. The overall atmosphere is quiet and wintry.",
+  "theological_description": "The title 'Christmas Night' situates this rural scene within the celebration of the Incarnation. The presence of cattle in the foreground evokes the traditional nativity imagery of the ox and ass at the manger (drawing from Isaiah 1:3, 'The ox knows its owner'). The church steeple anchors the scene in Christian worship, while the quiet village under snow recalls the humble, obscure circumstances of Christ's birth in Bethlehem. The simplicity of rural life mirrors the theology of the Incarnation itself: God entering the world not in grandeur but in poverty and hiddenness. The scene suggests that Christmas is not merely a historical event but a living reality in every village where the faithful gather to celebrate the Word made flesh.",
+  "scripture_refs": [
+    {"ref": "LUK.2.6-7", "relevance": "primary", "reason": "The birth of Jesus in humble circumstances with a manger, evoked by the cattle and rural setting"},
+    {"ref": "ISA.1.3", "relevance": "typological", "reason": "The ox knows its owner — traditionally applied to the animals at the manger recognizing their Creator"},
+    {"ref": "JHN.1.14", "relevance": "allusion", "reason": "The Word became flesh and dwelt among us — the Incarnation celebrated at Christmas"}
+  ],
+  "scene_type": "landscape",
+  "mood": ["quiet", "contemplative", "wintry"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0006956",
+    "title": "Christmas night",
+    "artist": "Paul Gauguin",
+    "model": "claude-opus-4-6"
+  }
+}

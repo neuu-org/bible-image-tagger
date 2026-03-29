@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Seraphim and Cherubim",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna and Child with Seraphim and Cherubim",
+  "tags": [
+    "madonna-and-child",
+    "seraphim",
+    "cherubim",
+    "crown",
+    "gold-background",
+    "gothic-panel",
+    "queen-of-heaven",
+    "incarnation"
+  ],
+  "symbols": [
+    "Crown on Mary — Regina Caeli, Queen of Heaven",
+    "Infant Christ — the Word made flesh, God incarnate",
+    "Seraphim and cherubim surrounding them — the highest order of angels adoring the Incarnate God",
+    "Gold background — the eternal heavenly realm"
+  ],
+  "description": "A Gothic-arched panel painting shows the Virgin Mary in a dark blue mantle over a red gown, wearing a crown, holding the infant Christ who clings to her. The background is gold with a series of alternating red seraphim and blue cherubim arranged in an arc around the figures. The painting shows signs of age with visible crackling and wear. The panel is displayed in a wooden pointed-arch frame.",
+  "theological_description": "The Madonna surrounded by seraphim and cherubim presents Mary as the Throne of God — Sedes Sapientiae — upon which divine Wisdom rests incarnate. The seraphim, the six-winged beings who cry 'Holy, holy, holy' before God's throne (ISA.6.2-3), and the cherubim, who guard God's presence (GEN.3.24, EZK.10.1-22), surround the Mother and Child just as they surround the throne in Isaiah's and Ezekiel's visions. Their presence declares that Mary bearing Christ is the earthly counterpart of the heavenly throne room. The Incarnation — 'The Word became flesh' (JHN.1.14) — is so momentous that it commands the worship of the highest angelic orders. Hebrews declares: 'When he brings the firstborn into the world, he says, Let all God's angels worship him' (HEB.1.6).",
+  "scripture_refs": [
+    {
+      "ref": "ISA.6.2-3",
+      "relevance": "typological",
+      "reason": "Seraphim crying Holy Holy Holy around the throne — here they surround the incarnate God"
+    },
+    {
+      "ref": "HEB.1.6",
+      "relevance": "primary",
+      "reason": "Let all God's angels worship Him — the angelic host adoring the incarnate Christ"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the central mystery these angels attend"
+    },
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "The Annunciation promise fulfilled in the infant Christ held by Mary"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The crowned woman — Mary as Queen of Heaven"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "sacred",
+    "majestic",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002011",
+    "title": "Madonna and Child with Seraphim and Cherubim",
+    "artist": "Cennino Cennini",
+    "model": "claude-opus-4-6"
+  }
+}

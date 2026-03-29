@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Mark",
+      "type": "PERSON"
+    },
+    {
+      "name": "Winged Lion",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Saint Mark the Evangelist",
+  "tags": [
+    "saint-mark",
+    "evangelist",
+    "winged-lion",
+    "gospel-book",
+    "pen",
+    "halo",
+    "red-robe",
+    "green-mantle"
+  ],
+  "symbols": [
+    "winged lion at his feet — Mark's traditional evangelist symbol from Ezekiel's vision and Revelation",
+    "book and pen — the Gospel of Mark, the written Word he authored",
+    "golden halo — apostolic sanctity and authority",
+    "red robe with green mantle — the blood of his martyrdom and the vitality of his proclamation"
+  ],
+  "description": "A full-length standing figure of a bearded man with a golden halo, wearing a red robe under a green mantle edged in gold. He holds a small blue book in his left hand and a writing implement (pen or quill) in his right. At his feet, a small winged lion with a brown mane gazes outward. The figure stands against a gold and white background on a narrow panel, painted in the Gothic style with elegant flowing drapery. The rendering is in warm tones with gold accents.",
+  "theological_description": "Saint Mark, author of the second Gospel, is depicted with his traditional attribute: the winged lion. This symbol derives from the four living creatures of Ezekiel 1:10 and Revelation 4:7, which the Church Fathers assigned to the four evangelists. Mark received the lion because his Gospel opens with the voice of John the Baptist crying in the wilderness (MRK.1.3) — a roaring voice in the desert. Mark's Gospel is the shortest and most action-oriented, emphasizing the mighty deeds of Christ and the suffering that leads to glory. Tradition holds that Mark was the companion of Peter in Rome and recorded Peter's preaching, making his Gospel an apostolic witness at one remove. The book and pen affirm his role as the inspired author through whom the Holy Spirit communicated the Good News to the Church.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.1.1-3",
+      "relevance": "primary",
+      "reason": "The beginning of the Gospel of Jesus Christ — the opening of Mark's Gospel with the voice in the wilderness"
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "typological",
+      "reason": "The four living creatures, the second like a lion — Mark's evangelist symbol"
+    },
+    {
+      "ref": "ACT.12.12",
+      "relevance": "allusion",
+      "reason": "John Mark, whose mother's house was a meeting place for the early Church"
+    },
+    {
+      "ref": "1PE.5.13",
+      "relevance": "allusion",
+      "reason": "Mark my son — Peter's reference to Mark as his close associate in Rome"
+    },
+    {
+      "ref": "2TI.4.11",
+      "relevance": "allusion",
+      "reason": "Get Mark and bring him with you, for he is very useful to me for ministry"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dignified",
+    "authoritative",
+    "devotional"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0005969",
+    "title": "St. Mark",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

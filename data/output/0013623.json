@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Martyrdom of Saint Sebastian",
+  "tags": [
+    "saint-sebastian",
+    "martyrdom",
+    "arrows",
+    "tied-to-tree",
+    "halo",
+    "cruciform-pose",
+    "tropical-landscape",
+    "onlookers",
+    "sunset",
+    "suffering",
+    "roman-persecution",
+    "expressive-style"
+  ],
+  "symbols": [
+    "arrows piercing the body — the instruments of martyrdom and testimony through suffering",
+    "tree as binding post — recalling the cross and the tree of sacrifice",
+    "cruciform pose — configuration to Christ’s own suffering on the cross",
+    "halo — the sanctity and divine favor upon the martyr",
+    "sunset or fiery sky — the dramatic transition from earthly suffering to heavenly glory"
+  ],
+  "description": "A boldly painted figure is bound to a tree in a cruciform pose, arms extended upward and to the sides. Arrows pierce his torso. A faint halo encircles his head. The figure’s body is rendered in warm yellows and earth tones against a dramatic sky of orange, red, and green. Small figures stand below and to the sides, some with raised arms. The landscape includes tropical vegetation and a vivid sunset. The style is expressionistic with loose, bold brushwork.",
+  "theological_description": "Saint Sebastian, a Roman soldier martyred under Emperor Diocletian (c. 288 AD), was tied to a post and shot with arrows for his Christian faith. His survival of this initial execution and subsequent second martyrdom made him one of the most venerated saints of the early Church. Though not a biblical figure, Sebastian’s cruciform pose deliberately recalls Christ’s own crucifixion, fulfilling the call to take up one’s cross and follow Christ (Matthew 16:24). His testimony embodies Paul’s declaration: ‘I have been crucified with Christ. It is no longer I who live, but Christ who lives in me’ (Galatians 2:20). The arrows, while instruments of torture, became symbols of the Christian’s participation in Christ’s sufferings (Philippians 3:10). Sebastian’s faithfulness unto death fulfills the promise of Revelation 2:10: ‘Be faithful unto death, and I will give you the crown of life.’",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.24",
+      "relevance": "typological",
+      "reason": "Take up your cross and follow me—Sebastian’s cruciform suffering configures him to Christ"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "allusion",
+      "reason": "I have been crucified with Christ, embodied in Sebastian’s cross-like pose"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "typological",
+      "reason": "Be faithful unto death and receive the crown of life"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "allusion",
+      "reason": "Sharing in Christ’s sufferings, becoming like him in his death"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "dramatic",
+    "transcendent",
+    "fiery"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0013623",
+    "title": "São Sebastião",
+    "artist": "Alberto da Veiga Guignard",
+    "model": "claude-opus-4-6"
+  }
+}

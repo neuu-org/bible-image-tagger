@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Eve", "type": "PERSON"},
+    {"name": "Serpent", "type": "OTHER"}
+  ],
+  "event": "The Temptation of Eve",
+  "tags": [
+    "temptation",
+    "eve",
+    "serpent",
+    "tree-of-knowledge",
+    "forbidden-fruit",
+    "fall-of-man",
+    "garden-of-eden",
+    "original-sin",
+    "seduction"
+  ],
+  "symbols": [
+    "serpent coiled in the tree — Satan as deceiver, the tempter in Eden",
+    "fruit-laden tree — the Tree of Knowledge of Good and Evil, the forbidden source",
+    "Eve reaching for the fruit — the moment of disobedience that brought sin into the world",
+    "leaf covering — the nascent shame that follows the knowledge of nakedness",
+    "pink ribbon on the tree — seduction and the allure of forbidden knowledge"
+  ],
+  "description": "A nude female figure (Eve) stands beneath a large fruit tree heavily laden with golden apples. She reaches upward with one arm toward the branches. A serpent with a humanoid female face coils around the tree trunk above her, leaning close as if whispering. Eve's body is partially covered by green leaves. A pink ribbon wraps around the tree. The setting is a lush garden with green vegetation at the base. The serpent's face is ethereal and seductive, with flowing hair blending into its coiled body.",
+  "theological_description": "The Temptation of Eve is the primordial catastrophe of human history. The serpent's approach — 'Did God actually say?' (GEN.3.1) — introduces doubt into the created order. Eve sees that the tree is 'good for food, a delight to the eyes, and desirable for making one wise' (GEN.3.6), echoing the triple concupiscence that John will later categorize as 'the desires of the flesh, the desires of the eyes, and pride of life' (1JN.2.16). The humanoid serpent reflects the tradition that Satan disguised himself in appealing form. The Fall brings death into the world (ROM.5.12) and initiates the great drama of redemption that will culminate at Calvary. Yet even in judgment, God embeds the promise of salvation: the protoevangelium of GEN.3.15, where the woman's seed will crush the serpent's head. The Fathers read this scene through the lens of the new Eve — Mary, whose obedience at the Annunciation reverses Eve's disobedience.",
+  "scripture_refs": [
+    {"ref": "GEN.3.1-6", "relevance": "primary", "reason": "The serpent's temptation and Eve's eating of the forbidden fruit — the exact scene depicted"},
+    {"ref": "GEN.3.15", "relevance": "primary", "reason": "The protoevangelium: the woman's seed will crush the serpent's head"},
+    {"ref": "ROM.5.12", "relevance": "typological", "reason": "Through one man sin entered the world — the theological consequence of the Fall"},
+    {"ref": "1JN.2.16", "relevance": "allusion", "reason": "Desires of flesh, eyes, and pride — the triple temptation Eve experiences"},
+    {"ref": "2CO.11.3", "relevance": "allusion", "reason": "The serpent deceived Eve by his cunning — Paul's warning against deception"},
+    {"ref": "REV.12.9", "relevance": "typological", "reason": "The ancient serpent identified as the devil and Satan, connecting Eden to eschatology"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["seductive", "ominous", "fateful"],
+  "period": "Creation",
+  "_meta": {
+    "key": "0003734",
+    "title": "The Temptation of Eve",
+    "artist": "John Roddam Spencer Stanhope",
+    "model": "claude-opus-4-6"
+  }
+}

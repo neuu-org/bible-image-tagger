@@ -1,0 +1,91 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Shepherds",
+  "tags": [
+    "adoration-of-shepherds",
+    "nativity",
+    "christ-child",
+    "manger",
+    "virgin-mary",
+    "saint-joseph",
+    "angels",
+    "stable",
+    "shepherds",
+    "radiant-infant",
+    "kneeling",
+    "worship",
+    "nocturnal-scene",
+    "divine-light"
+  ],
+  "symbols": [
+    "radiant Christ Child in the manger — the Light of the World born in darkness",
+    "kneeling shepherds — the humble and lowly as the first to receive the gospel",
+    "angels above — the heavenly host announcing glory to God in the highest",
+    "stable setting — the humility of the Incarnation, God dwelling among the least",
+    "Mary’s calm, central presence — the Mother pondering the mystery in her heart"
+  ],
+  "description": "A nocturnal scene inside a stable or ruined structure. At the center, a luminous infant lies in a manger, radiating light that illuminates the surrounding figures. A woman in blue sits serenely beside the manger. An elderly man leans forward nearby. Several shepherds approach from the left in animated poses of wonder and reverence, some kneeling, some gesturing upward. Above, small angels hover in the darkness, some playing instruments. The composition is elongated and vertical, with figures stretching upward in ecstatic motion. Strong contrasts of light and shadow dominate.",
+  "theological_description": "The Adoration of the Shepherds captures the moment when the lowliest members of Judean society become the first witnesses of the Incarnation. Luke 2:8-20 records that angels appeared to shepherds keeping watch over their flocks by night, announcing the birth of a Savior in the city of David. The shepherds’ immediate response—‘Let us go over to Bethlehem and see this thing that has happened’—models the obedience of faith. Their arrival at the manger fulfills the angelic promise and establishes the pattern of the gospel: the good news comes first to the poor and marginalized (Luke 4:18). The radiant Christ Child embodies the prophecy of Isaiah 9:2: ‘The people who walked in darkness have seen a great light.’ Mary’s serene composure reflects her continued pondering of these things in her heart (Luke 2:19). The angels above complete the heavenly liturgy begun in the fields: ‘Glory to God in the highest, and on earth peace among those with whom he is pleased’ (Luke 2:14).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The shepherds receiving the angelic announcement and coming to worship the newborn Christ"
+    },
+    {
+      "ref": "LUK.2.14",
+      "relevance": "primary",
+      "reason": "The angels’ song of glory to God in the highest, depicted by the hovering angels above"
+    },
+    {
+      "ref": "ISA.9.2",
+      "relevance": "typological",
+      "reason": "The people walking in darkness have seen a great light, fulfilled in the radiant Christ Child"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things and pondered them in her heart"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "typological",
+      "reason": "The birth in Bethlehem fulfills the prophecy of the ruler coming from this small town"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "wonder",
+    "reverence",
+    "joyful",
+    "mystical"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013193",
+    "title": "Adoration of the Shepherds",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

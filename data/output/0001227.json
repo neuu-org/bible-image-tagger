@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Esther", "type": "PERSON"},
+    {"name": "Mordecai", "type": "PERSON"}
+  ],
+  "event": "Esther and Mordecai",
+  "tags": [
+    "esther",
+    "mordecai",
+    "queen",
+    "crown",
+    "jewish-exile",
+    "persian-court",
+    "royal-garments",
+    "intercession",
+    "letter",
+    "divine-providence"
+  ],
+  "symbols": [
+    "Esther's crown and royal garments — her elevation to queenship as instrument of divine providence",
+    "Mordecai at the table — the faithful Jewish elder who refuses to bow to Haman",
+    "The document or scroll on the table — the royal decree, either Haman's edict or its reversal",
+    "Rich interior — the Persian royal court at Susa where the drama of Jewish deliverance unfolds"
+  ],
+  "description": "A richly dressed young woman wearing a small golden crown and an ornate pale gown with a red sash stands at the right of the composition, her hand raised to her chest. She is illuminated by soft light. To the left, an elderly bearded man wearing a turban leans forward from behind a table draped in a dark purple cloth, gesturing toward the woman. The setting is a dark interior with deep shadows, suggesting a private chamber.",
+  "theological_description": "The Book of Esther recounts how a Jewish orphan, raised by her cousin Mordecai, became queen of Persia and was positioned by providence to save her people from annihilation. This scene likely depicts the moment when Mordecai informs Esther of Haman's plot to destroy all Jews in the empire (EST.4.7-8) and urges her to intercede before the king, with the famous charge: 'Who knows whether you have not come to the kingdom for such a time as this?' (EST.4.14). Esther's willingness to risk her life by appearing unbidden before the king ('If I perish, I perish,' EST.4.16) has been read by the Church as a type of courageous intercession. Though God is never named in Esther, His providential hand is everywhere evident — orchestrating events, timing, and positions of power for the deliverance of His covenant people. The rabbis and Fathers alike saw in Esther's story a paradigm of hidden divine governance in history.",
+  "scripture_refs": [
+    {"ref": "EST.4.7-14", "relevance": "primary", "reason": "Mordecai reveals Haman's plot to Esther and urges her to intercede before the king"},
+    {"ref": "EST.4.16", "relevance": "primary", "reason": "Esther's courageous resolve: 'If I perish, I perish' — the moment of decision"},
+    {"ref": "EST.2.17", "relevance": "primary", "reason": "Esther is made queen, the providential elevation that enables her later intercession"},
+    {"ref": "EST.8.1-8", "relevance": "allusion", "reason": "The reversal of Haman's decree, the ultimate triumph of divine providence through Esther and Mordecai"},
+    {"ref": "PRO.21.1", "relevance": "typological", "reason": "The king's heart is in the hand of the Lord — the hidden sovereignty governing the Persian court"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tension", "urgency", "dignity"],
+  "period": "Exile",
+  "_meta": {
+    "key": "0001227",
+    "title": "Esther and Mordecai",
+    "artist": "Ferdinand Bol",
+    "model": "claude-opus-4-6"
+  }
+}

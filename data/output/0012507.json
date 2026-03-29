@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Erythraean Sibyl",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Sistine Chapel Ceiling — Sibyl Erithraea",
+  "tags": [
+    "sibyl",
+    "erythraean",
+    "prophetess",
+    "book",
+    "classical",
+    "putti",
+    "reading"
+  ],
+  "symbols": [
+    "open book — the prophetic knowledge of the coming Messiah",
+    "putto lighting a lamp — divine illumination of pagan prophecy",
+    "seated posture on throne — authority and wisdom",
+    "inscription 'ERITHRAEA' — identification of the specific Sibyl",
+    "classical dress — the pagan world that nevertheless anticipated Christ"
+  ],
+  "description": "A monumental seated female figure from the Sistine Chapel ceiling. The Erythraean Sibyl sits on a stone throne, wearing a blue-white tunic with a pink and gold drapery across her lap. She turns the pages of a large open book with one hand. Behind her, a putto or small child figure appears to light a lamp or torch. The inscription 'ERITHRAEA' appears on a plaque below the throne. The figure is powerfully built in Michelangelo's characteristic muscular style, with a contemplative expression.",
+  "theological_description": "Michelangelo included five Sibyls alongside seven Hebrew prophets on the Sistine Chapel ceiling, expressing the Renaissance Christian theology that God's revelation reached even the pagan world. The Erythraean Sibyl, from Erythrae in Ionia, was believed to have prophesied the coming of a redeemer. The early Church Fathers, including Augustine and Lactantius, cited the Sibylline prophecies as evidence that even pagans had been given foreknowledge of Christ. This theology finds biblical support in the concept of general revelation: 'For what can be known about God is plain to them, because God has shown it to them' (Rom 1:19). The Magi from the East who followed a star to Christ (Matt 2:1-2) represent a similar theme — non-Israelites guided to the Messiah. By placing Sibyls alongside Isaiah, Jeremiah, and other Hebrew prophets, Michelangelo affirms that 'the heavens declare the glory of God' (Ps 19:1) to all peoples.",
+  "scripture_refs": [
+    {
+      "ref": "ROM.1.19-20",
+      "relevance": "primary",
+      "reason": "What can be known about God is plain to them — general revelation to pagans"
+    },
+    {
+      "ref": "MAT.2.1-2",
+      "relevance": "typological",
+      "reason": "Wise men from the East seeking the King — non-Israelites finding Christ"
+    },
+    {
+      "ref": "PSA.19.1-4",
+      "relevance": "allusion",
+      "reason": "The heavens declare God's glory, their voice goes out to all the earth"
+    },
+    {
+      "ref": "ACT.17.27-28",
+      "relevance": "allusion",
+      "reason": "God is not far from each one of us — Paul citing pagan poets about divine truth"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "monumental",
+    "prophetic"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0012507",
+    "title": "Sistine Chapel Ceiling: Sibyl Erithraea",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

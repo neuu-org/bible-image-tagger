@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Israelites", "type": "GROUP"},
+    {"name": "Moses", "type": "PERSON"}
+  ],
+  "event": "The Israelites gathering manna in the desert",
+  "tags": [
+    "manna",
+    "gathering",
+    "desert",
+    "wilderness",
+    "israelites",
+    "moses",
+    "baskets",
+    "exodus",
+    "divine-provision",
+    "miraculous-food",
+    "women-and-children"
+  ],
+  "symbols": [
+    "people gathering manna in baskets — God's daily provision for His people in the wilderness",
+    "Moses standing with staff — the mediator through whom God provides",
+    "desert setting with columns — the framed theatrical presentation of the wilderness wanderings",
+    "women carrying vessels on heads — the communal labor of gathering God's provision",
+    "children helping — the next generation included in God's care"
+  ],
+  "description": "A dynamic composition framed by columns and a draped curtain. Several figures actively gather food from the ground, filling baskets and vessels. Women carry containers on their heads, children pick up items from the ground, and a bearded man in red robes at the right gestures upward, likely Moses. The figures are muscular and energetically posed. The overall composition is rich and theatrical, with warm golden tones and dynamic movement across the scene. The style is characteristic of Rubens with its fleshy, animated figures.",
+  "theological_description": "The gathering of manna is one of the foundational narratives of divine provision in Scripture. After the Exodus, the Israelites 'grumbled against Moses and Aaron in the wilderness' (EXO.16.2), and God responded not with judgment but with bread from heaven. The manna arrived with specific instructions: gather only what is needed for each day, except before the Sabbath (EXO.16.4-5). This daily dependence on God's provision became the template for the petition in the Lord's Prayer: 'Give us this day our daily bread' (MAT.6.11). Jesus explicitly claims to fulfill and surpass the manna: 'I am the bread of life. Your fathers ate the manna in the wilderness, and they died. This is the bread that comes down from heaven, so that one may eat of it and not die' (JHN.6.48-50). The communal gathering — men, women, and children together — expresses the corporate nature of God's salvation: the entire people are sustained, not merely individuals.",
+  "scripture_refs": [
+    {"ref": "EXO.16.14-18", "relevance": "primary", "reason": "The Israelites gathering the manna that appeared on the ground each morning"},
+    {"ref": "EXO.16.4-5", "relevance": "primary", "reason": "God's instructions about gathering daily bread from heaven"},
+    {"ref": "JHN.6.48-51", "relevance": "typological", "reason": "Jesus as the true bread from heaven that the manna prefigured"},
+    {"ref": "MAT.6.11", "relevance": "typological", "reason": "Give us this day our daily bread — the Lord's Prayer echoing the daily manna provision"},
+    {"ref": "PSA.78.24-25", "relevance": "allusion", "reason": "He rained down manna for them to eat and gave them the grain of heaven"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["bustling", "grateful", "energetic"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0004951",
+    "title": "The Israelites Gathering Manna in the Desert",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

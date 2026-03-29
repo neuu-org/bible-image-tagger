@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Cain",
+      "type": "PERSON"
+    },
+    {
+      "name": "Abel",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Cain Slaying Abel",
+  "tags": [
+    "cain-and-abel",
+    "fratricide",
+    "murder",
+    "altar",
+    "sacrifice",
+    "violence",
+    "first-death",
+    "jealousy"
+  ],
+  "symbols": [
+    "Cain striking Abel — the first murder, sin's destructive power after the Fall",
+    "burning altar behind — the sacrifice that provoked Cain's jealousy",
+    "Abel's fallen body — innocent blood crying from the ground",
+    "Cain's rage — jealousy and hatred consuming the heart that rejects God"
+  ],
+  "description": "A powerful Baroque painting showing two muscular nude male figures in violent combat. The upper figure (Cain) raises a jawbone or club to strike, his face contorted with rage. The lower figure (Abel) falls backward, his face twisted in terror and pain, trying to ward off the blow. Behind them, a small altar with burning sacrifice smokes. The muscular bodies are rendered with dramatic anatomical precision. The palette is dark with warm flesh tones lit by dramatic chiaroscuro.",
+  "theological_description": "The murder of Abel by Cain (GEN.4.1-16) is the first death in Scripture and the immediate consequence of the Fall. Cain's offering was not regarded by God while Abel's was (GEN.4.4-5), provoking deadly jealousy. God warned Cain: 'Sin is crouching at the door. Its desire is contrary to you, but you must rule over it' (GEN.4.7). Cain's failure to master sin resulted in fratricide. Abel's blood 'crying from the ground' (GEN.4.10) establishes the biblical principle that innocent blood demands justice. Hebrews contrasts Abel's blood with Christ's: 'the sprinkled blood that speaks a better word than the blood of Abel' (HEB.12.24) — Abel's blood cries for vengeance, Christ's blood speaks forgiveness. Jesus called Abel 'righteous' (MAT.23.35), and 1 John uses the story as a warning: 'We should not be like Cain, who was of the evil one and murdered his brother' (1JN.3.12).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.4.1-16",
+      "relevance": "primary",
+      "reason": "The complete narrative of Cain murdering Abel"
+    },
+    {
+      "ref": "GEN.4.7",
+      "relevance": "primary",
+      "reason": "Sin crouching at the door — God's warning to Cain before the murder"
+    },
+    {
+      "ref": "GEN.4.10",
+      "relevance": "primary",
+      "reason": "Abel's blood crying from the ground"
+    },
+    {
+      "ref": "HEB.12.24",
+      "relevance": "typological",
+      "reason": "Christ's blood speaks better than Abel's"
+    },
+    {
+      "ref": "1JN.3.12",
+      "relevance": "allusion",
+      "reason": "Do not be like Cain who was of the evil one"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "terrifying",
+    "tragic"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0011275",
+    "title": "Cain slaying Abel",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

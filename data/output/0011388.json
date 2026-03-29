@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {
+      "name": "Surgeon/Charlatan",
+      "type": "PERSON"
+    },
+    {
+      "name": "Patient",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Stone Operation (The Cure of Folly)",
+  "tags": [
+    "allegory",
+    "folly",
+    "surgery",
+    "charlatan",
+    "deception",
+    "satire",
+    "moral-warning",
+    "medieval"
+  ],
+  "symbols": [
+    "stone extraction from head — the medieval quack operation allegedly curing stupidity",
+    "funnel-hat on surgeon — the charlatan is himself a fool",
+    "nun and monk observing — religious figures complicit in the deception"
+  ],
+  "description": "A small circular-framed painting showing a seated man having his head operated on by a surgeon wearing a funnel as a hat. A nun watches holding a book on her head, and a monk or friar observes. A wide landscape stretches behind them. Gothic text inscriptions frame the image above and below. The style is characteristic of Bosch's moral allegories with fine detail and muted colors.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "allegory",
+  "mood": [
+    "satirical",
+    "dark-humored"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0011388",
+    "title": "The Stone Operation / The Extraction of the Stone Madness / The Cure of Folly",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Angels (trio above)",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Virgin and Child with an Angel",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-christ",
+    "angels",
+    "adoration",
+    "landscape-background",
+    "heavenly-attendants"
+  ],
+  "symbols": [
+    "three angels bearing a ribbon above — the heavenly crown or sign of Mary's queenship",
+    "Mary's clasped hands in prayer — adoration of the divine child she has borne",
+    "angel holding the infant — the cooperation of heaven and earth in the Incarnation",
+    "blue and red garments — divinity (blue) and humanity/passion (red)",
+    "open landscape — the created world welcoming its Creator"
+  ],
+  "description": "A vertical composition in two zones. In the upper portion, three angels in flowing robes of white, pink, and blue hold a long ribbon or streamer as they float in a clear blue sky. Below, the Virgin Mary stands in the center wearing a blue mantle over a red dress, her hands clasped in prayer, gazing downward. Behind her at the left, a female angel holds the nude infant Jesus, who reaches toward his mother. A serene landscape with rolling hills stretches into the distance. Slender trees with golden blossoms flank the scene.",
+  "theological_description": "This composition unites the earthly and heavenly dimensions of the Incarnation. The three angels above, bearing what may be a crown or ceremonial ribbon, signify Mary's heavenly glory — she is both humble handmaid and Queen of Heaven. Her prayerful posture embodies the contemplative faith described in Luke 2:19: Mary 'treasured up all these things, pondering them in her heart.' The angel holding the infant Christ represents the participation of the heavenly host in the mystery of the Incarnation — angels announced the birth (LUK.2.10-14), protected the child (MAT.2.13), and minister to Christ throughout his life. The infant reaching toward Mary affirms the genuine human need of the incarnate God for his mother, the paradox Paul captures in Galatians 4:4: God sent his Son, born of a woman. The open landscape behind them declares that this event, though cosmic in significance, takes place within the created order.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.10-14",
+      "relevance": "primary",
+      "reason": "The angelic announcement at the Nativity — the angels attending the Virgin and Child"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary pondering all things in her heart — her prayerful, contemplative posture"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent his Son, born of a woman — the Incarnation through Mary"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "Hail, full of grace — the angelic recognition of Mary's unique status"
+    },
+    {
+      "ref": "HEB.1.6",
+      "relevance": "allusion",
+      "reason": "Let all God's angels worship him — the angelic attendance on the incarnate Son"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "devotional",
+    "heavenly"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003954",
+    "title": "The Virgin and Child with an Angel",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

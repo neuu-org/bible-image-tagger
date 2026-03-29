@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ Enthroned — Icon in a church setting",
+  "tags": [
+    "christ-enthroned",
+    "icon",
+    "pantocrator",
+    "open-book",
+    "throne",
+    "gold-background",
+    "halo",
+    "marble-columns",
+    "church-interior",
+    "orthodox"
+  ],
+  "symbols": [
+    "Christ seated on a throne — the sovereign ruler of all creation, Pantocrator",
+    "Open book in Christ's hand — the Word of God, the Gospel, the Book of Life",
+    "Golden halo with cross — the divine nature and sacrificial identity of Christ",
+    "Marble columns framing the icon — the Church as the dwelling place of Christ's presence",
+    "IC XC monogram — the Greek abbreviation for Jesus Christ"
+  ],
+  "description": "A large icon of Christ enthroned is displayed within an ornate church setting flanked by marble columns — one twisted and one straight. Christ sits on an elaborate throne, wearing dark robes with golden highlights, holding an open book in his left hand and raising his right hand in blessing. A golden halo with a cross encircles his head. The letters IC XC (Jesus Christ) appear on either side. The icon is set against a gold background within an arched niche. The surrounding church architecture features carved white marble and ornate decorative elements.",
+  "theological_description": "The Christ Pantocrator ('Ruler of All') is the most central icon of Eastern Christianity, depicting Christ as both the teacher who holds the book of the Gospel and the sovereign who blesses and judges. The open book recalls Christ's own words: 'Heaven and earth will pass away, but my words will not pass away' (MAT.24.35). The blessing gesture of the right hand affirms His role as the mediator who bestows grace. The enthroned posture fulfills Daniel's vision of the Son of Man: 'To him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him' (DAN.7.14). The Pantocrator tradition draws from the christological hymn of Colossians: 'He is the image of the invisible God, the firstborn of all creation... in him all things hold together' (COL.1.15-17). Placed in the central apse of the church, the Pantocrator icon declares that the risen Christ presides over the liturgical assembly.",
+  "scripture_refs": [
+    {"ref": "COL.1.15-17", "relevance": "primary", "reason": "The image of the invisible God, in whom all things hold together — the Pantocrator theology"},
+    {"ref": "DAN.7.14", "relevance": "typological", "reason": "The Son of Man given dominion and glory — the enthroned Christ ruling over all"},
+    {"ref": "JHN.1.1", "relevance": "primary", "reason": "In the beginning was the Word — the open book representing Christ as the Logos"},
+    {"ref": "MAT.24.35", "relevance": "allusion", "reason": "My words will not pass away — the eternal Word held open in Christ's hand"},
+    {"ref": "REV.1.8", "relevance": "typological", "reason": "I am the Alpha and the Omega, the Almighty — the Pantocrator's cosmic sovereignty"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["majestic", "sacred", "authoritative", "solemn"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001956",
+    "title": "Christ",
+    "artist": "Mikhail Vrubel",
+    "model": "claude-opus-4-6"
+  }
+}

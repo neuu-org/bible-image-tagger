@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "Executioner", "type": "PERSON"},
+    {"name": "Salome", "type": "PERSON"}
+  ],
+  "event": "The Beheading of Saint John the Baptist",
+  "tags": [
+    "beheading",
+    "john-the-baptist",
+    "martyrdom",
+    "executioner",
+    "sword",
+    "salome",
+    "halo",
+    "sacrifice",
+    "forerunner-death",
+    "herod-antipas"
+  ],
+  "symbols": [
+    "kneeling saint with halo — the sanctified forerunner accepting martyrdom with serene composure",
+    "executioner with raised sword — the instrument of Herod's unjust decree",
+    "woman standing at right — Salome or a female witness, connected to the request for John's head",
+    "bare twisted trees — the desolation of injustice and the barrenness of Herod's court",
+    "outstretched hands of John — acceptance and surrender, imitating Christ's future sacrifice"
+  ],
+  "description": "A haloed, kneeling figure with bare torso and animal-skin garment kneels at center, arms spread wide in acceptance, facing the viewer with a serene expression. To the left, a muscular executioner raises a curved sword overhead, preparing to strike. At the right, a woman in classical robes stands watching, holding what appears to be a platter. The setting is spare — a stone pavement, bare gnarled trees against a muted sky. The composition is solemn and still, rendered in muted earth tones with golden light around the saint's head.",
+  "theological_description": "The beheading of John the Baptist is recorded in Matthew 14 and Mark 6. Herod Antipas had imprisoned John for denouncing his unlawful marriage to Herodias, his brother's wife (MRK.6.17-18). At Herod's birthday feast, Herodias's daughter (traditionally named Salome) danced and pleased Herod, who rashly promised her anything. Prompted by her mother, she asked for John's head on a platter (MRK.6.24-25). The Baptist's death is the paradigmatic martyrdom — the prophet slain for speaking truth to power. John thus became the forerunner not only in preaching but in suffering: as he prepared the way for Christ's ministry, so his death prefigured Christ's own unjust execution by political authorities cowed by popular pressure. The Church Fathers saw in John's beheading a type of the Passion: both were condemned by weak rulers (Herod, Pilate), both were innocent, and both deaths served the divine plan of redemption. The serene posture of the saint in this painting emphasizes the martyr's willing acceptance.",
+  "scripture_refs": [
+    {"ref": "MRK.6.17-29", "relevance": "primary", "reason": "The detailed account of John's imprisonment and beheading at Herod's feast"},
+    {"ref": "MAT.14.3-12", "relevance": "primary", "reason": "Matthew's parallel account of the Baptist's execution"},
+    {"ref": "MAT.11.11-14", "relevance": "allusion", "reason": "Jesus identifying John as the greatest born of women and as Elijah who was to come"},
+    {"ref": "REV.20.4", "relevance": "typological", "reason": "Those beheaded for the testimony of Jesus and the word of God — John as prototype of martyrs"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemnity", "serenity", "sacrifice", "gravity"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002564",
+    "title": "The Beheading of St. John the Baptist",
+    "artist": "Pierre Puvis de Chavannes",
+    "model": "claude-opus-4-6"
+  }
+}

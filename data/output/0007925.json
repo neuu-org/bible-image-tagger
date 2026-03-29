@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Dormition of the Virgin",
+  "tags": [
+    "dormition",
+    "death-of-mary",
+    "assumption",
+    "apostles",
+    "deathbed",
+    "ascending-soul",
+    "mourning"
+  ],
+  "symbols": [
+    "Mary on the bier — the holy death (dormition) of the Mother of God",
+    "Christ above receiving Mary's soul — the Son welcoming His mother into heavenly glory",
+    "gathered apostles — the tradition that the apostles were miraculously assembled for Mary's passing",
+    "architectural canopy — the Church as the setting for Mary's final earthly moment"
+  ],
+  "description": "A fresco showing a two-register composition within an architectural frame. In the lower register, a woman lies on a draped bier or bed surrounded by a group of robed, haloed figures who mourn and pray. In the upper register, within an arched architectural space, a seated figure in glory receives an ascending form. The palette includes blues, reds, and golds with architectural elements painted in warm ochre tones. The composition is formal and hieratic.",
+  "theological_description": "The Dormition (falling asleep) of the Virgin Mary is a fundamental feast in both Eastern and Western Christianity. The tradition holds that Mary did not die in the ordinary sense but 'fell asleep,' and that her body was assumed into heaven — hence the feast of the Assumption (August 15). The gathered apostles, miraculously transported from their mission fields, represent the whole Church witnessing the Mother of God's departure. Christ's presence above, receiving His mother's soul, reverses the Incarnation pattern: at the Annunciation, heaven came down to Mary; at the Dormition, Mary ascends to heaven. The scene affirms that death for the faithful is not annihilation but passage — a 'falling asleep' from which one awakens in glory. Mary's dormition is the firstfruits of the resurrection promise for all believers (1 Corinthians 15:20-23).",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman clothed with the sun — Mary's heavenly glorification, the culmination of her earthly dormition"
+    },
+    {
+      "ref": "1CO.15.20-23",
+      "relevance": "typological",
+      "reason": "Christ the firstfruits, then those who belong to Him — Mary as the first to share fully in Christ's resurrection"
+    },
+    {
+      "ref": "PSA.132.8",
+      "relevance": "typological",
+      "reason": "Arise, O Lord, to your resting place, you and the ark of your might — Mary as the Ark assumed into the heavenly temple"
+    },
+    {
+      "ref": "LUK.1.48-49",
+      "relevance": "allusion",
+      "reason": "The Mighty One has done great things for me — Mary's exaltation fulfilled in her heavenly assumption"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "glorious",
+    "reverent"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007925",
+    "title": "Dormition of the Virgin",
+    "artist": "Andrea del Castagno",
+    "model": "claude-opus-4-6"
+  }
+}

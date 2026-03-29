@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Angel with censer", "type": "ANGEL"},
+    {"name": "Cherubim", "type": "ANGEL"}
+  ],
+  "event": "Angel Carrying a Censer — Chapel Morosini",
+  "tags": [
+    "angel",
+    "censer",
+    "incense",
+    "cherubim",
+    "heavenly-worship",
+    "clouds",
+    "liturgical-art",
+    "chapel-decoration"
+  ],
+  "symbols": [
+    "censer held aloft — the prayers of the saints ascending as incense before God's throne",
+    "chain in the other hand — the link between earthly prayer and heavenly intercession",
+    "cherubim surrounding — the heavenly host in perpetual worship",
+    "clouds — the boundary between heaven and earth"
+  ],
+  "description": "A vertical panel painting showing a single large angel standing on clouds, holding a golden censer or chalice aloft in one hand and a chain or rosary in the other. The angel wears flowing pink, gold, and blue robes with large dark wings. Above, numerous winged cherub heads cluster among the clouds, gazing downward. Light enters from the upper left. The palette is warm with golds, pinks, and soft blues against a cloudy gray background.",
+  "theological_description": "The angel carrying the censer directly illustrates Revelation 8:3-4, where an angel stands at the altar with a golden censer, and the smoke of the incense mingles with the prayers of the saints before God. Incense in both Old and New Testaments symbolizes prayer ascending to God (Psalm 141:2). The cherubim surrounding the angel represent the heavenly court in perpetual worship. This chapel decoration places the worshipper within the heavenly liturgy — the earthly church is a mirror of the heavenly temple, and the prayers offered below join those offered above. The angel serves as a mediator, bearing human prayers into the divine presence.",
+  "scripture_refs": [
+    {"ref": "REV.8.3-4", "relevance": "primary", "reason": "The angel with a golden censer, the smoke of incense with the prayers of the saints — the scene depicted"},
+    {"ref": "PSA.141.2", "relevance": "primary", "reason": "Let my prayer be counted as incense before you — prayer symbolized by the ascending smoke"},
+    {"ref": "ISA.6.6-7", "relevance": "typological", "reason": "The seraph with the burning coal from the altar — angelic liturgical ministry"},
+    {"ref": "HEB.1.14", "relevance": "allusion", "reason": "Ministering spirits sent to serve those who will inherit salvation — the angel's mediating role"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["celestial", "reverent", "luminous"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0008501",
+    "title": "Madonna dell'Orto (Venice) - Chapel Morosini - Angels carrying the censer (right)",
+    "artist": "Domenico Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

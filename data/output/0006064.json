@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Prodigal Son",
+      "type": "PERSON"
+    },
+    {
+      "name": "Father",
+      "type": "PERSON"
+    },
+    {
+      "name": "Servants",
+      "type": "GROUP"
+    },
+    {
+      "name": "Elder Brother",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Return of the Prodigal Son",
+  "tags": [
+    "prodigal-son",
+    "parable",
+    "embrace",
+    "forgiveness",
+    "reconciliation",
+    "best-robe",
+    "sandals",
+    "fatted-calf",
+    "father-and-son",
+    "repentance",
+    "dog"
+  ],
+  "symbols": [
+    "father embracing the ragged son — God's unconditional mercy and joy at the sinner's return",
+    "fine robes being brought by servant — the best robe restored to the repentant, signifying restored dignity",
+    "shoes or sandals — the reinstatement as a son, not a servant",
+    "fatted calf being brought at left — the celebration feast, prefiguring the Eucharistic banquet",
+    "dog jumping joyfully — the household's delight at the son's return"
+  ],
+  "description": "A dramatic scene depicting the moment of reunion between the prodigal son and his father. At center, an elderly bearded man in a rich dark red robe and cap embraces a young man in ragged, torn clothing who falls against his chest. The son is barefoot and emaciated. At right, a servant holds out fine robes and a pair of sandals. At far left, a muscular figure carries a calf over his shoulders while a child follows. A small white dog leaps excitedly between the figures. Other household members observe from the background near classical columns.",
+  "theological_description": "The Return of the Prodigal Son illustrates Christ's greatest parable of divine mercy (LUK.15.11-32). The father who runs to meet his son before the son can finish his rehearsed confession reveals the nature of God's grace: it is not earned by repentance but precedes and enables it. The father's command — 'Bring quickly the best robe, and put it on him, and put a ring on his hand, and shoes on his feet' (LUK.15.22) — restores the son's full status, not as a hired servant but as a beloved child. The fatted calf prepared for the feast prefigures the Eucharistic celebration of the Church, where the Father's mercy is perpetually offered. Jesus told this parable in response to the Pharisees' complaint that He received sinners and ate with them (LUK.15.1-2), making the elder brother a figure for religious self-righteousness that resents God's generous mercy. The parable is ultimately about the Father's heart — 'this my son was dead, and is alive again; he was lost, and is found' (LUK.15.24).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.15.20-24",
+      "relevance": "primary",
+      "reason": "The father saw him and ran and embraced him; bring the best robe and the fatted calf"
+    },
+    {
+      "ref": "LUK.15.11-32",
+      "relevance": "primary",
+      "reason": "The complete parable of the Prodigal Son"
+    },
+    {
+      "ref": "LUK.15.1-2",
+      "relevance": "primary",
+      "reason": "The Pharisees' complaint that Jesus receives sinners — the context for the parable"
+    },
+    {
+      "ref": "EPH.2.4-5",
+      "relevance": "typological",
+      "reason": "God who is rich in mercy made us alive even when we were dead in our trespasses"
+    },
+    {
+      "ref": "ROM.5.8",
+      "relevance": "typological",
+      "reason": "While we were still sinners, Christ died for us — grace preceding repentance"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "tender",
+    "emotional",
+    "celebratory"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006064",
+    "title": "Return of the Prodigal Son",
+    "artist": "Bartolomé Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

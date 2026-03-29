@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Stephen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Stoning Mob",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Stoning of Saint Stephen",
+  "tags": [
+    "martyrdom",
+    "stoning",
+    "saint-stephen",
+    "first-martyr",
+    "protomartyr",
+    "heavenly-vision",
+    "angels",
+    "mob-violence",
+    "kneeling",
+    "stones",
+    "city-walls",
+    "tower",
+    "palm-branch",
+    "green-banner"
+  ],
+  "symbols": [
+    "stones raised overhead — instruments of martyrdom and mob violence",
+    "kneeling figure of Stephen — prayer and forgiveness even while being killed",
+    "angels descending with green banner — heavenly triumph and the martyr’s crown",
+    "city walls and tower — Jerusalem, outside whose gates Stephen was stoned",
+    "opened heavens — Stephen’s vision of the Son of Man at the right hand of God"
+  ],
+  "description": "A dynamic outdoor scene before city walls with a tower. In the center, a young man in a deacon’s vestment kneels with arms raised in prayer while several men around him hoist large stones overhead, preparing to strike. Some figures rush in from the sides. In the upper right, two angels descend from golden clouds, one carrying a green banner or palm branch. An older bearded figure watches from the left foreground. A distant landscape stretches behind the city walls.",
+  "theological_description": "The stoning of Stephen, recorded in Acts 7:54-60, marks the first martyrdom in Christian history. Stephen, full of the Holy Spirit, gazed into heaven and saw the glory of God and Jesus standing at the right hand of God (Acts 7:55-56). His executioners, enraged by his testimony, dragged him outside the city and stoned him. Stephen’s dying prayer—‘Lord, do not hold this sin against them’ (Acts 7:60)—directly echoes Christ’s words from the cross (Luke 23:34), making Stephen the first to fulfill Jesus’ command to love one’s enemies and pray for persecutors (Matthew 5:44). The angels descending with the palm branch signify his heavenly reward and the martyr’s crown of life promised in Revelation 2:10. Stephen’s martyrdom became the seed of the Church’s expansion, as the persecution that followed scattered believers throughout Judea and Samaria (Acts 8:1-4), and the witness of his death profoundly impacted Saul of Tarsus, who was present consenting to his execution (Acts 8:1).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.7.54-60",
+      "relevance": "primary",
+      "reason": "The direct account of Stephen’s stoning, his heavenly vision, and his dying prayer of forgiveness"
+    },
+    {
+      "ref": "ACT.7.55-56",
+      "relevance": "primary",
+      "reason": "Stephen’s vision of the Son of Man standing at the right hand of God, depicted by the opened heavens"
+    },
+    {
+      "ref": "LUK.23.34",
+      "relevance": "typological",
+      "reason": "Stephen’s prayer for his killers echoes Christ’s prayer from the cross"
+    },
+    {
+      "ref": "ACT.8.1",
+      "relevance": "allusion",
+      "reason": "Saul’s presence at Stephen’s death and the subsequent persecution that spread the gospel"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "typological",
+      "reason": "Be faithful unto death and I will give you the crown of life, embodied in the angel’s palm branch"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "heroic",
+    "transcendent",
+    "anguished"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0012941",
+    "title": "The Stoning of St Stephen",
+    "artist": "Annibale Carracci",
+    "model": "claude-opus-4-6"
+  }
+}

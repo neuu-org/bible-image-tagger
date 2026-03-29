@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Damned souls",
+      "type": "GROUP"
+    },
+    {
+      "name": "Antichrist",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The End of the World and the Last Judgment",
+  "tags": [
+    "apocalypse",
+    "last-judgment",
+    "end-times",
+    "fresco-cycle",
+    "angels",
+    "damned",
+    "chapel-arch",
+    "eschatological",
+    "resurrection-of-dead"
+  ],
+  "symbols": [
+    "arch framing the scenes — the threshold between this world and the next",
+    "falling figures — the damned cast into perdition",
+    "angelic figures above — heavenly agents of divine judgment",
+    "compositional division between left and right — the separation of the saved and the damned"
+  ],
+  "description": "A photograph of a chapel interior showing a large arched opening flanked by two monumental frescoes. The arch and surrounding walls are covered with painted scenes of the Last Judgment and the end of the world. On the left wall, chaotic scenes of destruction and falling figures depict the apocalypse. On the right, similar scenes of judgment continue. Above the arch, additional painted figures and scenes fill the lunette. The architectural framing is decorated with ornate Renaissance moldings and pilasters.",
+  "theological_description": "Signorelli's apocalyptic frescoes at Orvieto present the full sweep of Christian eschatology — from the preaching of the Antichrist to the resurrection of the dead and the final separation of saved and damned. The architectural program transforms the chapel into a visual catechism on the Last Things. Christ's own words frame the theology: 'Then the sign of the Son of Man will appear in heaven, and all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory' (MAT.24.30). The falling and rising bodies express the bodily resurrection — not a disembodied spiritual survival but the raising of flesh, as Paul teaches: 'the dead will be raised imperishable, and we shall be changed' (1CO.15.52). The separation into saved and damned fulfills the parable of the sheep and goats (MAT.25.31-46), where the criterion of judgment is not ritual observance but concrete love for the least of Christ's brothers.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.24.29-31",
+      "relevance": "primary",
+      "reason": "The cosmic signs and the coming of the Son of Man in glory at the end of the age"
+    },
+    {
+      "ref": "REV.20.11-15",
+      "relevance": "primary",
+      "reason": "The great white throne judgment and the final separation of all humanity"
+    },
+    {
+      "ref": "1CO.15.52",
+      "relevance": "typological",
+      "reason": "The dead raised imperishable at the last trumpet — the bodily resurrection depicted in the frescoes"
+    },
+    {
+      "ref": "MAT.25.31-46",
+      "relevance": "typological",
+      "reason": "The separation of sheep and goats at the Last Judgment"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "terrifying",
+    "dramatic",
+    "monumental",
+    "awe"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0004585",
+    "title": "The End of the World, Apocalypse",
+    "artist": "Luca Signorelli",
+    "model": "claude-opus-4-6"
+  }
+}

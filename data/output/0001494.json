@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Pieta - Lamentation over the Dead Christ",
+  "tags": [
+    "pieta",
+    "dead-christ",
+    "lamentation",
+    "passion",
+    "angel",
+    "mourning",
+    "wounds",
+    "burial",
+    "maternal-grief"
+  ],
+  "symbols": [
+    "Lifeless body of Christ — the sacrificial Lamb slain for the redemption of the world",
+    "Mary supporting Christ — Mater Dolorosa, the mother's grief fulfilling Simeon's prophecy",
+    "Angel assisting in holding the body — heaven mourning the death of the Son of God",
+    "Visible wounds on Christ's body — the marks of atoning suffering"
+  ],
+  "description": "The dead body of Christ, muscular and pale, is held in a semi-upright position. An elderly figure in a white head covering supports him from behind, face pressed close in grief. A younger figure in a red garment, with wings barely visible, supports Christ's left arm from the side. Christ's head falls back, eyes closed, his torso bare showing marks of suffering. The composition is tightly framed against a dark background, emphasizing the three figures in intimate proximity.",
+  "theological_description": "The Pieta — the representation of the mourning over Christ's dead body — is the moment of stillness between the violence of Calvary and the hope of Easter. The Virgin Mary, holding her dead son, embodies the fulfillment of Simeon's prophecy: 'A sword will pierce through your own soul also' (LUK.2.35). The angelic presence affirms that this death is not merely human tragedy but cosmic event — the Creator dying for His creation. Christ's visible wounds are the marks of atonement: 'He was pierced for our transgressions' (ISA.53.5). The Fathers of the Church meditated deeply on this moment: Gregory of Nyssa saw in Mary's grief the grief of all humanity recognizing what sin has cost. The dead Christ displayed before the viewer invites the contemplation that Paul describes: 'I have been crucified with Christ' (GAL.2.20). The body will soon be laid in the tomb, but this death is the seed of resurrection: 'Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit' (JHN.12.24).",
+  "scripture_refs": [
+    {"ref": "JHN.19.38-40", "relevance": "primary", "reason": "The removal and preparation of Christ's body after crucifixion"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "Simeon's prophecy that a sword would pierce Mary's soul — fulfilled in her grief at the Pieta"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "He was pierced for our transgressions — the wounds visible on Christ's dead body"},
+    {"ref": "GAL.2.20", "relevance": "allusion", "reason": "I have been crucified with Christ — the devotional identification with Christ's death invited by the Pieta"},
+    {"ref": "JHN.12.24", "relevance": "typological", "reason": "The grain of wheat that falls and dies to bear fruit — this death is the seed of resurrection"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "tenderness", "solemn", "sacred"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001494",
+    "title": "Pieta",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

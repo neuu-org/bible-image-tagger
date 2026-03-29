@@ -1,0 +1,89 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Temple Elders",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Circumcision of Christ",
+  "tags": [
+    "circumcision",
+    "infant-christ",
+    "temple-ritual",
+    "mosaic-law",
+    "covenant-sign",
+    "first-blood-of-christ",
+    "obedience-to-law",
+    "presentation"
+  ],
+  "symbols": [
+    "knife or instrument of circumcision — the first shedding of Christ's blood, foreshadowing the Passion",
+    "infant on the altar — Christ as both priest and sacrifice from birth",
+    "temple elders surrounding — the Old Covenant witnesses to the New Covenant entering the world",
+    "open book on the floor — the Law of Moses being fulfilled in Christ's submission to it",
+    "ornate architectural setting — the Temple as meeting place of heaven and earth"
+  ],
+  "description": "Inside an ornate architectural space with a domed apse and marble floor, a group of figures gathers around the infant Christ who sits on a cloth-covered altar or table. An elderly priest in dark robes leans forward to perform the circumcision, while the Virgin Mary in a blue mantle supports the child. Several bearded elders in richly colored robes — red, green, brown — surround the scene, some gesturing or holding objects. Joseph stands nearby. Above, roundels with relief sculptures decorate the arch. A book lies open on the tiled floor.",
+  "theological_description": "The Circumcision of Christ on the eighth day (LUK.2.21) demonstrates his full submission to the Mosaic Law — the one who came to fulfill the Law (MAT.5.17) first submits to it in his own flesh. This is the first shedding of Christ's blood, and the Fathers understood it as the beginning of the redemptive sacrifice that would culminate on Calvary. Paul writes that Christ was 'born under the law, to redeem those who were under the law' (GAL.4.4-5). The naming of Jesus at the circumcision fulfills the angel's command to both Mary (LUK.1.31) and Joseph (MAT.1.21): 'You shall call his name Jesus, for he will save his people from their sins.' The circumcision also incorporates Christ into the Abrahamic covenant (GEN.17.10-12), the very covenant he came to transform from the sign in flesh to the circumcision of the heart (ROM.2.29). The gathered elders represent the Old Testament community receiving its Messiah.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.21",
+      "relevance": "primary",
+      "reason": "The circumcision and naming of Jesus on the eighth day, the event directly depicted"
+    },
+    {
+      "ref": "GAL.4.4-5",
+      "relevance": "primary",
+      "reason": "Born under the law to redeem those under the law — the theological meaning of Christ's circumcision"
+    },
+    {
+      "ref": "GEN.17.10-12",
+      "relevance": "typological",
+      "reason": "The Abrahamic covenant of circumcision, into which Christ is incorporated"
+    },
+    {
+      "ref": "MAT.5.17",
+      "relevance": "allusion",
+      "reason": "Christ came not to abolish the Law but to fulfill it, beginning with his own circumcision"
+    },
+    {
+      "ref": "ROM.2.29",
+      "relevance": "typological",
+      "reason": "True circumcision is of the heart — Christ's physical circumcision points to the spiritual reality"
+    },
+    {
+      "ref": "MAT.1.21",
+      "relevance": "primary",
+      "reason": "The naming of Jesus: he will save his people from their sins"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "reverent",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003398",
+    "title": "The Circumcision",
+    "artist": "Luca Signorelli",
+    "model": "claude-opus-4-6"
+  }
+}

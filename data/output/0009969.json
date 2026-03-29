@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome in the Wilderness",
+  "tags": [
+    "saint-jerome",
+    "wilderness",
+    "cross",
+    "lion",
+    "penitence",
+    "ceiling-panel",
+    "church-father"
+  ],
+  "symbols": [
+    "cross held by Jerome — devotion to Christ crucified",
+    "lion — Jerome's legendary companion, the tamed beast",
+    "rocky wilderness setting — Jerome's ascetic retreat in the desert",
+    "semi-nude figure — penitential stripping of worldly comforts"
+  ],
+  "description": "A ceiling fresco panel within an ornate gilded architectural frame showing Saint Jerome as an elderly, muscular, semi-nude bearded man seated in a rocky wilderness. He holds a cross in one hand. A lion rests at his feet. The panel is pentagon-shaped, set within elaborate stucco and gilded decorative borders. The palette features warm reds, flesh tones, and earthy browns against a dark rocky background.",
+  "theological_description": "Saint Jerome (c. 347-420) was the greatest biblical scholar of the early Church, translating the Hebrew and Greek Scriptures into Latin (the Vulgate). His years of ascetic retreat in the Syrian desert reflect the biblical pattern of wilderness preparation — as Moses at Horeb, Elijah at Sinai, and Jesus in the Judean wilderness. The cross he holds represents his devotion to Christ crucified, which Paul declared as the center of his preaching: 'I decided to know nothing among you except Jesus Christ and him crucified' (1CO.2.2). The lion, from the legend of Jerome removing a thorn from its paw, symbolizes the domestication of wild nature through Christian charity — echoing Isaiah's vision of the peaceable kingdom (ISA.11.6-9). Jerome's life embodied his own famous declaration: 'Ignorance of Scripture is ignorance of Christ.'",
+  "scripture_refs": [
+    {
+      "ref": "1CO.2.2",
+      "relevance": "allusion",
+      "reason": "Knowing nothing except Christ crucified — the cross Jerome holds"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed — the principle that drove Jerome's translation work"
+    },
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "allusion",
+      "reason": "The peaceable kingdom, echoed in the tamed lion"
+    },
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "typological",
+      "reason": "Jesus led into the wilderness, the pattern Jerome follows in his desert retreat"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "austere",
+    "contemplative",
+    "penitential"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009969",
+    "title": "Stories of St. Jerome",
+    "artist": "Alessandro Allori",
+    "model": "claude-opus-4-6"
+  }
+}

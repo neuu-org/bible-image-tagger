@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Louis of Toulouse",
+      "type": "PERSON"
+    },
+    {
+      "name": "Archangel Michael",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Virgin and Child with Saints Louis of Toulouse and Michael",
+  "tags": [
+    "madonna-and-child",
+    "saint-louis-of-toulouse",
+    "archangel-michael",
+    "gold-ground"
+  ],
+  "symbols": [
+    "Virgin and Child at center — the Incarnation as the axis of all devotion",
+    "Saint Louis in bishop's vestments — the renunciation of royal power for spiritual authority",
+    "Archangel Michael in armor — the divine warrior who protects the Church"
+  ],
+  "description": "A Gothic panel painting with gold ground showing the Virgin Mary holding the Christ Child at center, flanked by Saint Louis of Toulouse in episcopal vestments at left and the Archangel Michael in armor at right. The figures have halos and are rendered in the characteristic style of Sienese Gothic painting.",
+  "theological_description": "This altarpiece unites the Madonna and Child with two powerful intercessors. Saint Louis of Toulouse (1274-1297), a Franciscan prince who renounced his claim to the throne of Naples to become a bishop, embodies Christ's teaching: 'If anyone would be first, he must be last of all and servant of all' (MRK.9.35). The Archangel Michael, 'the great prince who has charge of your people' (DAN.12.1), represents divine protection. Together they frame the central mystery of the Incarnation: God becoming man in the womb of Mary to redeem the world.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation at the center"
+    },
+    {
+      "ref": "DAN.12.1",
+      "relevance": "primary",
+      "reason": "Michael the great prince protecting God's people"
+    },
+    {
+      "ref": "MRK.9.35",
+      "relevance": "allusion",
+      "reason": "Whoever would be first must be servant of all — Louis's renunciation"
+    },
+    {
+      "ref": "REV.12.7",
+      "relevance": "allusion",
+      "reason": "Michael and his angels fighting the dragon"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "sacred",
+    "regal"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0191149",
+    "title": "Virgin and Child with Sts. Louis of Toulouse and Michael",
+    "artist": "Luca di Tomme",
+    "model": "claude-opus-4-6"
+  }
+}

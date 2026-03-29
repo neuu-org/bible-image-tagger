@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin and Child with Saints Elizabeth and John the Baptist",
+  "tags": [
+    "virgin-mary",
+    "infant-jesus",
+    "saint-elizabeth",
+    "infant-john-the-baptist",
+    "lamb",
+    "nursing",
+    "holy-kinship",
+    "red-drapery"
+  ],
+  "symbols": [
+    "lamb with the infant John — 'Behold the Lamb of God,' John's future proclamation",
+    "nursing infant Christ — the full humanity of the incarnate God",
+    "Elizabeth as elderly woman — the miraculous motherhood of the barren woman",
+    "the two infants together — the forerunner and the Messiah united from childhood",
+    "architectural column — the stability of the Church founded on these relationships"
+  ],
+  "description": "A warm, intimate Baroque composition showing four figures. At center, a young woman in a red dress holds a plump nude infant who reaches toward another child below. The infant Christ appears to be nursing or recently nursed. At left, an elderly woman in a dark veil (Elizabeth) smiles warmly and supports the young John the Baptist, a curly-haired toddler who reaches up toward Jesus. A small lamb stands beside John. The setting is before a stone column with a landscape visible at left. Rubens' characteristic warm palette and fleshy, dynamic figures fill the composition.",
+  "theological_description": "Rubens depicts the meeting of the Holy Family with Elizabeth and the young John the Baptist, building on Luke's account of the Visitation (Luke 1:39-56) and extending it into the childhood of the two boys. The infant John reaching toward Christ prefigures his adult ministry: 'Behold, the Lamb of God, who takes away the sin of the world!' (John 1:29) — and the lamb beside him makes this symbolism explicit. Elizabeth's joy mirrors her exclamation at the Visitation: 'And why is this granted to me that the mother of my Lord should come to me?' (Luke 1:43). The intimacy between the two families underscores the divine plan connecting the forerunner to the Messiah. Mary nursing Christ emphasizes the Incarnation's radical reality — the Creator of the universe sustained by a woman's milk. The warm, physical affection between the figures expresses Rubens' theology of grace as embodied and relational rather than abstract.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "Elizabeth's baby leaped when Mary arrived — the two families connected"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold the Lamb of God — the lamb beside the infant Baptist"
+    },
+    {
+      "ref": "LUK.1.43",
+      "relevance": "allusion",
+      "reason": "Why is this granted to me that the mother of my Lord should come to me"
+    },
+    {
+      "ref": "LUK.1.36",
+      "relevance": "allusion",
+      "reason": "Elizabeth your relative has also conceived — the kinship of the two families"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "warm",
+    "joyful",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012709",
+    "title": "The Virgin and Child with Sts Elizabeth and John the BaptisT",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

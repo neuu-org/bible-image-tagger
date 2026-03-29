@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourners",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Crucifixion with angels and mourners",
+  "tags": [
+    "crucifixion",
+    "angels",
+    "mourning",
+    "blood-of-christ",
+    "red-background",
+    "passion",
+    "grief",
+    "chalices"
+  ],
+  "symbols": [
+    "angels catching blood in chalices — the Eucharistic blood flowing from the cross, the sacrament instituted by the Passion",
+    "red background — the blood of redemption suffusing all of reality",
+    "cross — the Tree of Life, the altar of the cosmic sacrifice",
+    "mourners below — the faithful Church gathered at the foot of the cross"
+  ],
+  "description": "A medieval fresco depicting the Crucifixion against a vivid red background. Christ hangs on a cross at center, with angels flying around him, some appearing to collect blood from his wounds in vessels or chalices. Below the cross, two groups of haloed figures stand on either side — mourners including the Virgin Mary and other saints. The figures have the stylized, expressive faces typical of Italian Trecento painting. The overall color is dominated by the deep red background with the pale body of Christ and white-robed angels creating contrast.",
+  "theological_description": "This Trecento Crucifixion fresco presents a deeply Eucharistic vision of Christ's death. The angels collecting the blood of Christ in chalices make explicit what the liturgy proclaims: the blood shed on Calvary is the same blood offered in the Eucharist. Christ said at the Last Supper, 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins' (Matt 26:28). The vivid red background transforms the entire visual field into a meditation on blood and sacrifice — not merely as violence but as the cost of redemption. The letter to the Hebrews teaches that 'without the shedding of blood there is no forgiveness of sins' (Heb 9:22), and that Christ entered 'once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption' (Heb 9:12). The mourners below, separated into two groups flanking the cross, represent the Church divided in grief yet united by the cross that stands between them and above them.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.28",
+      "relevance": "primary",
+      "reason": "This is my blood of the covenant poured out for many — the angels collecting Eucharistic blood"
+    },
+    {
+      "ref": "HEB.9.12",
+      "relevance": "typological",
+      "reason": "Christ entering the holy places by his own blood, securing eternal redemption"
+    },
+    {
+      "ref": "HEB.9.22",
+      "relevance": "typological",
+      "reason": "Without the shedding of blood there is no forgiveness — the theological necessity of the Crucifixion"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "The mourners at the cross including Mary and the beloved disciple"
+    },
+    {
+      "ref": "1PE.1.18-19",
+      "relevance": "typological",
+      "reason": "Ransomed not with perishable things but with the precious blood of Christ"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "sacred",
+    "sorrowful",
+    "mystical",
+    "intense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008835",
+    "title": "Crucifixion",
+    "artist": "Pietro Lorenzetti",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Cherubim", "type": "ANGEL"}
+  ],
+  "event": "Ora Pro Nobis - The Virgin in Prayer",
+  "tags": [
+    "virgin-mary",
+    "prayer",
+    "intercession",
+    "ora-pro-nobis",
+    "lilies",
+    "halo",
+    "cherubim",
+    "immaculate",
+    "marian-devotion",
+    "purity"
+  ],
+  "symbols": [
+    "white lilies — the purity and virginity of Mary, the Immaculate Conception",
+    "golden radiant halo — Mary's heavenly glory and sanctity",
+    "hands raised in prayer — the intercessory posture of the Mediatrix",
+    "cherubim surrounding Mary — the heavenly court attending the Queen of Heaven",
+    "white veil — the veil of modesty and consecration",
+    "upward gaze — Mary's communion with God and intercessory petition"
+  ],
+  "description": "The Virgin Mary stands at center, facing the viewer with a gentle, solemn expression and slightly upturned gaze. She wears a white veil over her head and a richly embroidered garment. Her hands are raised at shoulder height in a posture of prayer. A large golden radiant halo encircles her head. Five or six cherubim cluster around her shoulders and behind her. At the bottom of the composition, large white lilies bloom. The palette is soft with warm golden tones and a pale blue sky background.",
+  "theological_description": "This image, titled 'Ora Pro Nobis' (Pray for Us), presents the Virgin Mary as intercessor — the one to whom the faithful address their petitions, asking her to bring them before her Son. The title references the Litany of Loreto and the Hail Mary, both of which conclude with the request that Mary pray for sinners. The lilies at the base are the traditional symbol of Mary's purity, associated with the Annunciation when Gabriel appeared to her (LUK.1.28). The cherubim surrounding her place her in the heavenly court as the Queen of Heaven, a title derived from Revelation 12's vision of the woman clothed with the sun and crowned with twelve stars (REV.12.1). Mary's raised hands echo the ancient orant posture of prayer seen in the earliest Christian art. The theological foundation for Marian intercession rests on her unique cooperation with God's salvific plan: 'Let it be to me according to your word' (LUK.1.38), the fiat that made the Incarnation possible.",
+  "scripture_refs": [
+    {"ref": "LUK.1.28", "relevance": "primary", "reason": "Hail, full of grace — the angelic greeting establishing Mary's unique sanctity"},
+    {"ref": "LUK.1.38", "relevance": "primary", "reason": "Mary's fiat — her willing cooperation that made the Incarnation possible"},
+    {"ref": "REV.12.1", "relevance": "typological", "reason": "The woman clothed with the sun — the glorified Mary surrounded by heavenly splendor"},
+    {"ref": "JHN.2.3-5", "relevance": "allusion", "reason": "Mary's intercession at Cana, bringing human need before her Son"},
+    {"ref": "LUK.1.48", "relevance": "allusion", "reason": "All generations will call me blessed — the universal devotion to Mary depicted here"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["devotion", "serenity", "heavenly", "purity"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002694",
+    "title": "Ora Pro Nobis",
+    "artist": "William-Adolphe Bouguereau",
+    "model": "claude-opus-4-6"
+  }
+}

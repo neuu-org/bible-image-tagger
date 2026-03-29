@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Salome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Herod Antipas",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Salome dancing before Herod",
+  "tags": [
+    "salome",
+    "herod",
+    "dance",
+    "palace",
+    "opulence",
+    "femme-fatale",
+    "outstretched-arm",
+    "throne-room",
+    "passion-narrative",
+    "john-the-baptist"
+  ],
+  "symbols": [
+    "Salome's outstretched arm pointing — the fateful gesture demanding the Baptist's head",
+    "ornate palace interior — the decadent luxury of Herod's court, worldly power corrupted",
+    "Herod on the throne — the weak ruler trapped by his own rash oath",
+    "luminous white garment of Salome — beauty weaponized, innocence concealing deadly intent"
+  ],
+  "description": "A richly atmospheric painting set in an opulent, jewel-toned palace interior with ornate arches, columns, and decorative patterns in deep reds and golds. A young woman in a luminous white garment stands at center, one arm extended dramatically, pointing toward a shadowy figure seated on steps to the right (Herod). The architecture surrounds her in layers of dark, glowing detail. The overall effect is dreamlike and jewel-like, with the pale figure of Salome glowing against the dark, richly textured background.",
+  "theological_description": "Gustave Moreau's Salome dancing before Herod transforms the Gospel narrative (Mark 6:17-29) into a vision of seductive evil overwhelming weak authority. Herod, who had imprisoned John the Baptist for condemning his unlawful marriage, is now ensnared by his own oath after Salome's dance pleases him. The scene embodies the biblical warning about the entanglements of sin: one transgression (the unlawful marriage) leads to another (the rash oath) and culminates in murder (the beheading of the prophet). Salome's pointing gesture is the instrument of Herodias's revenge against the prophet who spoke God's truth: 'It is not lawful for you to have your brother's wife' (Mark 6:18). The opulent palace setting contrasts starkly with the austere desert where John preached repentance, visually enacting the opposition between the kingdom of this world and the Kingdom of God. John's death, ordered from within this glittering prison of luxury, prefigures Christ's own execution by the same political establishment.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.21-28",
+      "relevance": "primary",
+      "reason": "Salome's dance at Herod's banquet and the beheading of John the Baptist"
+    },
+    {
+      "ref": "MRK.6.17-18",
+      "relevance": "primary",
+      "reason": "John imprisoned for condemning Herod's unlawful marriage — the cause behind the scene"
+    },
+    {
+      "ref": "MAT.14.6-11",
+      "relevance": "primary",
+      "reason": "Matthew's parallel account of the dance and the execution"
+    },
+    {
+      "ref": "PRO.6.25-26",
+      "relevance": "allusion",
+      "reason": "Do not desire her beauty in your heart — the danger of seductive beauty that ensnares rulers"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "opulent",
+    "sinister",
+    "dreamlike",
+    "ominous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008658",
+    "title": "Salome dancing before Herod",
+    "artist": "Gustave Moreau",
+    "model": "claude-opus-4-6"
+  }
+}

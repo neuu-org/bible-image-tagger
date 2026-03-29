@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Sleeping Guards",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Liberation of Saint Peter",
+  "tags": [
+    "liberation-of-peter",
+    "angel",
+    "prison",
+    "miraculous-escape",
+    "guards",
+    "chains",
+    "divine-light",
+    "stanza"
+  ],
+  "symbols": [
+    "barred prison window — captivity and the power of earthly authority over the faithful",
+    "radiant angel — divine intervention breaking through the darkness of imprisonment",
+    "sleeping guards — the futility of human power against God's purposes",
+    "chains — bondage that God breaks to free His servants",
+    "three-part composition — the threefold narrative: angel appears, Peter freed, guards discover"
+  ],
+  "description": "A large lunette-shaped fresco filling the wall above a barred window in the Vatican Stanze. The composition is divided into three scenes arranged around the actual window. At center, behind the iron grate, a luminous angel appears in brilliant light within the prison cell, awakening Peter. At left, the angel leads Peter down stone steps past sleeping armored guards. At right, guards awaken in alarm on stone steps, gesturing in confusion. The dramatic contrast between the angel's supernatural radiance and the dark nighttime setting creates a powerful chiaroscuro effect.",
+  "theological_description": "Raphael's masterpiece illustrates Acts 12:1-11, the miraculous liberation of the Apostle Peter from Herod's prison. King Herod Agrippa had arrested Peter, intending to execute him after Passover. 'But earnest prayer for him was made to God by the church' (Acts 12:5). That night, 'an angel of the Lord stood next to him, and a light shone in the cell. He struck Peter on the side and woke him... And the chains fell off his hands' (Acts 12:7). Raphael ingeniously uses the actual window as the prison grate, so that real light enters through the bars, merging with the painted supernatural radiance. The three-part narrative — the angel appearing, Peter being led out, the guards' confusion — shows the unfolding miracle. The story demonstrates that 'the prayer of a righteous person has great power' (Jas 5:16) and that God can deliver His servants from any imprisonment, as the Psalmist declares: 'The Lord sets the prisoners free' (Ps 146:7).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.12.6-11",
+      "relevance": "primary",
+      "reason": "An angel frees Peter from prison — chains fall off, guards sleep, Peter walks free"
+    },
+    {
+      "ref": "ACT.12.5",
+      "relevance": "primary",
+      "reason": "The church was earnestly praying for Peter — prayer as the cause of deliverance"
+    },
+    {
+      "ref": "PSA.146.7",
+      "relevance": "typological",
+      "reason": "The Lord sets the prisoners free — divine liberation from bondage"
+    },
+    {
+      "ref": "JAS.5.16",
+      "relevance": "allusion",
+      "reason": "The prayer of a righteous person has great power — the Church's prayer for Peter"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "miraculous",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012115",
+    "title": "The Liberation of St. Peter, in the Stanza D'Eliodoro",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "John the Baptist", "type": "PERSON"}
+  ],
+  "event": "Saint John the Baptist Preaching",
+  "tags": [
+    "john-the-baptist",
+    "preaching",
+    "wilderness",
+    "lamb",
+    "cross-staff",
+    "ecce-agnus-dei",
+    "forerunner",
+    "prophetic-witness",
+    "camel-skin",
+    "repentance"
+  ],
+  "symbols": [
+    "reed cross with banner — John's proclamation of the coming Christ",
+    "lamb at his feet — the Lamb of God whom John identified and proclaimed",
+    "bare muscular torso — the ascetic life in the wilderness",
+    "draped cloth — the rough garment of camel's hair described in the Gospels",
+    "upward-pointing gesture — directing attention away from himself toward the one who comes after",
+    "banner reading text — the Agnus Dei proclamation"
+  ],
+  "description": "A muscular, bearded man with wild dark hair sits in a dramatic pose against a dark background with hints of wilderness. His upper body is bare, with rough cloth draped around his waist and legs. He holds a tall staff topped with a small cross and a banner. One hand gestures upward or toward his chest. A small lamb lies at his feet in the lower portion. The painting is dark and dramatic with strong chiaroscuro, the figure emerging powerfully from the shadows.",
+  "theological_description": "John the Baptist is the last and greatest of the Old Testament prophets and the immediate forerunner of Christ. All four Gospels identify him as the voice crying in the wilderness foretold by Isaiah: 'Prepare the way of the Lord' (ISA.40.3; MAT.3.3). His preaching called Israel to repentance and baptism in preparation for the coming Kingdom. John's supreme prophetic moment came when he identified Jesus: 'Behold, the Lamb of God, who takes away the sin of the world!' (JHN.1.29). The cross-staff he holds is an iconographic convention pointing to both his proclamation and his martyrdom. Jesus himself testified: 'Among those born of women there has arisen no one greater than John the Baptist' (MAT.11.11). John's entire ministry was one of self-emptying: 'He must increase, but I must decrease' (JHN.3.30). The lamb at his feet makes his Christological proclamation visible — he is the prophet whose sole purpose was to point beyond himself to the Paschal Lamb.",
+  "scripture_refs": [
+    {"ref": "JHN.1.29", "relevance": "primary", "reason": "Behold the Lamb of God — John's defining proclamation, symbolized by the lamb at his feet"},
+    {"ref": "MAT.3.1-6", "relevance": "primary", "reason": "John preaching in the wilderness of Judea, calling for repentance"},
+    {"ref": "ISA.40.3", "relevance": "typological", "reason": "The voice crying in the wilderness, the prophetic identity John fulfilled"},
+    {"ref": "MAT.11.11", "relevance": "allusion", "reason": "Jesus' testimony that no one born of women is greater than John the Baptist"},
+    {"ref": "JHN.3.30", "relevance": "allusion", "reason": "He must increase, I must decrease — John's self-effacing mission"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["prophetic", "intensity", "wilderness", "power"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002557",
+    "title": "Saint John the Baptist Preaching",
+    "artist": "Mattia Preti",
+    "model": "claude-opus-4-6"
+  }
+}

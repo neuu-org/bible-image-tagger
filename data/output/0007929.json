@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Cain", "type": "PERSON"}
+  ],
+  "event": "Cain Working in the Field After Killing Abel",
+  "tags": [
+    "cain",
+    "labor",
+    "cursed-ground",
+    "fratricide-aftermath",
+    "exile",
+    "toil",
+    "digging",
+    "anguish",
+    "mark-of-cain"
+  ],
+  "symbols": [
+    "digging tool — the cursed labor Cain must perform as the ground no longer yields for him",
+    "wiping brow — the sweat and toil that intensified after the murder",
+    "barren landscape with distant mountains — Cain's exile in the land of Nod, east of Eden",
+    "animal skin garment — the primitive conditions of Cain's existence after banishment",
+    "solitary figure — the loneliness of the murderer cut off from God and community"
+  ],
+  "description": "A muscular, nearly nude man in animal skins stands in a field, one hand holding a digging tool planted in freshly turned earth, the other raised to his brow in a gesture of exhaustion or anguish. His hair is wild and unkempt. Behind him stretches a wide green field, and in the far distance, dark mountains rise under a stormy sky. A dark cypress-like tree stands at the right edge. A small animal or shadow is visible at his feet. The palette is muted with greens, browns, and gray sky.",
+  "theological_description": "This image captures Cain after the murder of his brother Abel (Genesis 4:1-16), condemned by God to be a fugitive and wanderer on the earth. The ground that received Abel's blood will no longer yield its strength for Cain — his labor will be perpetual and fruitless. The scene is the first portrayal of the consequences of sin extending beyond the individual: Cain's violence disrupts his relationship with the soil itself, echoing and deepening Adam's curse (Genesis 3:17-19). Yet even in judgment, God shows mercy: He places a mark on Cain to protect him from retribution (Genesis 4:15), affirming that vengeance belongs to God alone. Cain's anguished labor in the field is the human condition after the Fall writ large — toil, alienation, and the haunting memory of destroyed innocence. His story warns that sin's consequences are not merely spiritual but material, ecological, and social.",
+  "scripture_refs": [
+    {"ref": "GEN.4.8-16", "relevance": "primary", "reason": "Cain's murder of Abel and God's curse — the ground will no longer yield for him, he becomes a wanderer"},
+    {"ref": "GEN.4.12", "relevance": "primary", "reason": "When you work the ground it shall no longer yield its strength to you — the cursed labor depicted"},
+    {"ref": "GEN.3.17-19", "relevance": "typological", "reason": "Cursed is the ground because of you, in toil you shall eat — Cain's curse deepening Adam's"},
+    {"ref": "HEB.11.4", "relevance": "allusion", "reason": "By faith Abel offered a better sacrifice — the murdered brother whose blood cries from the ground Cain tills"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguished", "desolate", "heavy"],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0007929",
+    "title": "Cain Working in the Field After Killing Abel",
+    "artist": "Hans Andersen Brendekilde",
+    "model": "claude-opus-4-6"
+  }
+}

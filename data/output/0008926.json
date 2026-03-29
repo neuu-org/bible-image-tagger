@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "adoration-of-magi",
+    "epiphany",
+    "nativity",
+    "gifts",
+    "gold-frankincense-myrrh",
+    "stable",
+    "manger",
+    "horses",
+    "kings",
+    "kneeling"
+  ],
+  "symbols": [
+    "Magi kneeling — the Gentile world recognizing and worshipping the Jewish Messiah",
+    "gifts of gold, frankincense, and myrrh — kingship, divinity, and death/burial, the threefold identity of Christ",
+    "stable or manger — the humility of the Incarnation, the King born among animals",
+    "horses and entourage — the worldly wealth and power laid at the feet of the poor Christ"
+  ],
+  "description": "A wide predella panel depicting the Adoration of the Magi. On the right, the Virgin Mary sits under a wooden stable structure holding the Christ Child on her lap, with Joseph standing behind. On the left, three richly dressed Magi approach with their retinue — one kneels before the child while the others stand waiting. Attendants, horses, and servants fill the left side of the composition. The background opens to a landscape with trees, hills, and buildings. The painting is rendered in bright, clear colors with careful attention to costume detail.",
+  "theological_description": "The Adoration of the Magi, celebrated on the Feast of the Epiphany, marks the revelation of Christ to the Gentile world. The Magi, guided by a star (Matt 2:1-2), represent the first fruits of the nations coming to worship Israel's Messiah — fulfilling Isaiah's prophecy: 'Nations shall come to your light, and kings to the brightness of your rising' (Isa 60:3). Their three gifts carry profound symbolic meaning in patristic exegesis: gold for Christ's kingship, frankincense for his divinity, and myrrh for his death and burial — the whole mystery of Christ's identity compressed into three offerings. The contrast between the Magi's worldly splendor and the humble stable where they find the King of Kings embodies the paradox of the Incarnation: 'Though he was rich, yet for your sake he became poor, so that you by his poverty might become rich' (2 Cor 8:9). The kneeling posture of the eldest Magus enacts the universal homage that Paul prophesied: 'At the name of Jesus every knee should bow, in heaven and on earth' (Phil 2:10).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The full narrative of the Magi following the star and presenting gifts to the infant Christ"
+    },
+    {
+      "ref": "ISA.60.3",
+      "relevance": "typological",
+      "reason": "Nations shall come to your light and kings to the brightness of your rising"
+    },
+    {
+      "ref": "PHP.2.10-11",
+      "relevance": "typological",
+      "reason": "Every knee shall bow — the Magi kneeling before Christ as first fulfillment"
+    },
+    {
+      "ref": "2CO.8.9",
+      "relevance": "typological",
+      "reason": "Though rich he became poor — the contrast between royal gifts and humble manger"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish and the isles shall bring tribute — the messianic psalm fulfilled at the Epiphany"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "reverent",
+    "festive",
+    "wondrous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008926",
+    "title": "Altarpolyptychon, Predellatafel scene: Adoration of the Magi",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

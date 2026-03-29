@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Joseph", "type": "PERSON"}
+  ],
+  "event": "Saint Joseph in Prayer",
+  "tags": [
+    "saint-joseph",
+    "prayer",
+    "halo",
+    "open-book",
+    "contemplation",
+    "foster-father",
+    "davidic-line",
+    "devotion",
+    "guardian"
+  ],
+  "symbols": [
+    "open book — Joseph meditating on Scripture, the faithful Jew who knew the prophecies",
+    "halo — Joseph's sanctity as guardian of the Holy Family",
+    "raised hand — prayer, teaching, or wonder at the divine mysteries entrusted to him",
+    "red mantle over blue robe — his authority and fidelity",
+    "elderly bearded face — the traditional depiction of Joseph as mature and wise"
+  ],
+  "description": "A half-length portrait of an elderly bearded man with white curly hair, wearing a blue robe and a red mantle draped over one shoulder. He has a golden halo and looks down at an open book before him with a contemplative, reverent expression. One hand is raised palm outward in a gesture of prayer or wonder. The background is dark and plain. The rendering is warm and luminous, with careful attention to the lined, expressive face.",
+  "theological_description": "Saint Joseph, the husband of Mary and foster-father of Jesus, is one of the most beloved figures in Christian devotion yet one of the most silent in Scripture — not a single word of his is recorded. Matthew presents Joseph as 'a just man' (MAT.1.19) who, warned by angels in dreams, protected the Holy Family by taking Mary as his wife, fleeing to Egypt, and returning to Nazareth. His Davidic lineage provided the legal basis for Jesus' messianic claim (MAT.1.1-16; ROM.1.3). In this portrait, Joseph is shown as a man of prayer and contemplation, meditating on the Scriptures whose fulfillment he was privileged to witness and guard. The open book suggests his knowledge of the prophetic promises — Isaiah's virgin birth (ISA.7.14), Micah's Bethlehem (MIC.5.2) — all of which were realized in the child entrusted to his care. Joseph's obedient silence speaks louder than words: four times he received divine commands in dreams, and four times he obeyed without question (MAT.1.24; 2.14; 2.21-22).",
+  "scripture_refs": [
+    {"ref": "MAT.1.18-25", "relevance": "primary", "reason": "Joseph's righteous character, his dream, and his obedient acceptance of Mary and Jesus"},
+    {"ref": "MAT.2.13-15", "relevance": "primary", "reason": "Joseph obeying the angel's command to flee to Egypt"},
+    {"ref": "LUK.2.51-52", "relevance": "allusion", "reason": "Jesus subject to Joseph and Mary at Nazareth during the hidden years"},
+    {"ref": "ROM.1.3", "relevance": "typological", "reason": "Christ descended from David according to the flesh — through Joseph's legal fatherhood"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplation", "reverence", "gentleness", "peace"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002983",
+    "title": "St. Joseph",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

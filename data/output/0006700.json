@@ -1,0 +1,92 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Figures receiving sacraments",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Priests and bishops",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Seven Sacraments of the Church",
+  "tags": [
+    "seven-sacraments",
+    "crucifixion",
+    "baptism",
+    "confirmation",
+    "eucharist",
+    "confession",
+    "ordination",
+    "marriage",
+    "last-rites",
+    "gothic-interior",
+    "liturgical"
+  ],
+  "symbols": [
+    "crucified Christ at center — the source of all sacramental grace, the sacrifice from which the sacraments flow",
+    "Gothic church interior — the sacraments administered within the body of the Church",
+    "seven distinct scenes — each sacrament as a channel of grace instituted by Christ",
+    "angels in colored robes — heavenly witnesses to each sacramental action"
+  ],
+  "description": "A triptych altarpiece set within a soaring Gothic church interior. The central panel is dominated by a large crucifix with Christ on the cross, with the Virgin Mary and other figures at its base. Around the nave and aisles, multiple scenes depict the administration of various sacraments — baptism, marriage, ordination, last rites, and others — each attended by an angel. The left and right wing panels continue additional sacramental scenes within the same architectural space. The Gothic architecture features pointed arches, ribbed vaults, and tall windows.",
+  "theological_description": "This monumental altarpiece presents all seven sacraments of the Church as flowing from the single source of Christ's sacrifice on the cross, which stands at the center of the composition. The sacramental theology expressed here is that each sacrament — Baptism, Confirmation, Eucharist, Penance, Anointing of the Sick, Holy Orders, and Matrimony — is a channel of grace that derives its efficacy from Christ's atoning death. The crucifixion at the center makes visible Paul's declaration: 'As often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes' (1 Cor 11:26). Baptism, depicted nearby, enacts Christ's command: 'Go and make disciples of all nations, baptizing them' (Matt 28:19). The Eucharist connects to the Last Supper: 'This is my body, given for you; do this in remembrance of me' (Luke 22:19). Marriage reflects Paul's analogy of Christ and the Church (Eph 5:31-32). The unified architectural space asserts that all sacramental life occurs within the one Body of Christ, the Church, and that the cross is the inexhaustible wellspring from which every grace flows.",
+  "scripture_refs": [
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist and the proclamation of the Lord's death — the central sacrament depicted"
+    },
+    {
+      "ref": "MAT.28.19",
+      "relevance": "primary",
+      "reason": "The command to baptize all nations — Baptism depicted as one of the seven sacraments"
+    },
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "This is my body given for you — the Eucharistic words at the heart of sacramental theology"
+    },
+    {
+      "ref": "EPH.5.31-32",
+      "relevance": "typological",
+      "reason": "Marriage as a mystery reflecting Christ and the Church — the sacrament of Matrimony depicted"
+    },
+    {
+      "ref": "JAS.5.14-15",
+      "relevance": "allusion",
+      "reason": "The anointing of the sick by the elders — the sacrament of Last Rites depicted"
+    },
+    {
+      "ref": "JHN.20.22-23",
+      "relevance": "allusion",
+      "reason": "Receive the Holy Spirit; whose sins you forgive are forgiven — the sacrament of Penance"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "sacred",
+    "solemn",
+    "comprehensive",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006700",
+    "title": "Seven Sacraments Altarpiece",
+    "artist": "Rogier van der Weyden",
+    "model": "claude-opus-4-6"
+  }
+}

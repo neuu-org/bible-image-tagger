@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Presepio (Nativity)",
+  "tags": [
+    "nativity",
+    "presepio",
+    "manger",
+    "holy-family",
+    "birth-of-christ"
+  ],
+  "symbols": [
+    "manger scene — the humble birth of the King of kings"
+  ],
+  "description": "A detail from a Nativity scene (Presepio) by Perugino showing figures gathered around the infant Christ in a manger setting, rendered in the artist's characteristic soft, luminous style.",
+  "theological_description": "The Presepio (Nativity, LUK.2.1-7) depicts the birth of Christ in Bethlehem. The eternal Son 'emptied himself, by taking the form of a servant, being born in the likeness of men' (PHP.2.7).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.1-7",
+      "relevance": "primary",
+      "reason": "The birth of Christ"
+    },
+    {
+      "ref": "PHP.2.7",
+      "relevance": "typological",
+      "reason": "Christ emptying himself, taking the form of a servant"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "peaceful",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011609",
+    "title": "The Presepio (detail 1)",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

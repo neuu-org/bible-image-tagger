@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Saint Francis of Assisi",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Francis of Assisi",
+  "tags": [
+    "saint-francis",
+    "franciscan",
+    "brown-habit",
+    "tonsure",
+    "golden-halo",
+    "stigmata",
+    "clasped-hands",
+    "gaunt-face",
+    "asceticism",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "golden halo — sanctity and divine grace",
+    "brown Franciscan habit — voluntary poverty and identification with the poor",
+    "tonsured head — religious consecration and renunciation of vanity",
+    "clasped hands showing wounds — the stigmata, the wounds of Christ imprinted on Francis’s body",
+    "gaunt, emaciated face — the ascetic life of fasting and self-denial"
+  ],
+  "description": "A half-length portrait of a slender man in a coarse brown hooded robe. He has a tonsured head with short dark hair and a gaunt, elongated face with large, intense eyes. A large golden halo surrounds his head against a dark blue background. His hands are clasped before his chest, and the right hand appears to show a wound or mark. His expression is one of deep spiritual intensity and gentle sorrow.",
+  "theological_description": "Saint Francis of Assisi (c. 1181–1226), founder of the Franciscan Order, is depicted in this early portrait with the austerity and spiritual intensity for which he was renowned. Francis’s radical embrace of evangelical poverty—inspired by Christ’s command to the rich young ruler, ‘Go, sell what you have and give to the poor’ (Matthew 19:21)—made him one of the most Christ-like figures in Christian history. The wounds visible on his hands represent the stigmata he reportedly received on Mount La Verna in 1224, bearing in his body the marks of Christ’s crucifixion (Galatians 6:17). Francis’s life embodied the Beatitudes, particularly ‘Blessed are the poor in spirit, for theirs is the kingdom of heaven’ (Matthew 5:3). His intense gaze reflects a soul consumed by the love of Christ and all creation—his Canticle of the Sun praised God through all creatures. Francis stands as the supreme example of imitatio Christi in the medieval Church.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.19.21",
+      "relevance": "typological",
+      "reason": "Go, sell what you have and give to the poor—the command Francis took literally"
+    },
+    {
+      "ref": "GAL.6.17",
+      "relevance": "typological",
+      "reason": "I bear in my body the marks of Jesus—fulfilled in Francis’s stigmata"
+    },
+    {
+      "ref": "MAT.5.3",
+      "relevance": "allusion",
+      "reason": "Blessed are the poor in spirit—the Beatitude Francis embodied through voluntary poverty"
+    },
+    {
+      "ref": "MAT.10.7-10",
+      "relevance": "allusion",
+      "reason": "Jesus’s instructions to the disciples to travel without provisions, Francis’s rule of life"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "austere",
+    "holy",
+    "intense",
+    "compassionate"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0013633",
+    "title": "Saint Francis of Assisi (detail)",
+    "artist": "Cimabue",
+    "model": "claude-opus-4-6"
+  }
+}

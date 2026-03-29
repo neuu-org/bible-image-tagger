@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Soldier", "type": "PERSON"}
+  ],
+  "event": "Ecce Homo",
+  "tags": [
+    "ecce-homo",
+    "passion",
+    "crown-of-thorns",
+    "scourging",
+    "red-robe",
+    "mocking",
+    "suffering",
+    "pilate",
+    "man-of-sorrows",
+    "presentation"
+  ],
+  "symbols": [
+    "crown of thorns — the mockery of Christ's kingship",
+    "red/purple robe draped over shoulders — the mock royal garment placed by the soldiers",
+    "bare torso with marks — the evidence of the scourging",
+    "upward gaze of Christ — patient suffering and communion with the Father",
+    "soldier behind in helmet — the Roman authority executing the mockery",
+    "reed or rod — the mock scepter placed in Christ's hand"
+  ],
+  "description": "A powerful half-length portrait of Christ shown from the waist up, nearly nude except for a white cloth at his waist. He wears a crown of thorns and a red cloak is being draped over his shoulders from behind. His muscular torso is bare and shows signs of scourging. He gazes upward with an expression of patient suffering. At the left, an older bearded man holds the edge of the robe or a reed. Behind at the right, the helmet of a Roman soldier is partially visible. The painting is rendered with the full Baroque power of rich color and dramatic flesh tones.",
+  "theological_description": "Ecce Homo ('Behold the Man') records Pilate's presentation of the scourged Jesus to the crowd, hoping the sight of his suffering would satisfy their bloodlust (JHN.19.5). Instead, the crowd cried 'Crucify him!' Pilate's words carry a profound irony he did not intend: this bruised, mocked, thorn-crowned figure is indeed the Man — the true Human Being, the new Adam, the fullest revelation of what humanity is meant to be. In his willing suffering, Christ reveals that true kingship is not power but self-giving love. The red robe placed in mockery is unwittingly correct: he is the King, robed in the crimson of his own blood. Isaiah's Suffering Servant is fulfilled: 'His appearance was so marred, beyond human semblance... yet he was pierced for our transgressions' (ISA.52.14; 53.5). Rubens' powerful brushwork captures the physical beauty and spiritual dignity of Christ even at the nadir of his humiliation, making visible the paradox at the heart of Christianity: glory revealed through suffering.",
+  "scripture_refs": [
+    {"ref": "JHN.19.1-5", "relevance": "primary", "reason": "Pilate having Jesus scourged, crowned with thorns, and presented: Ecce Homo"},
+    {"ref": "ISA.53.3-5", "relevance": "typological", "reason": "Despised and rejected, wounded for our transgressions — the Suffering Servant fulfilled"},
+    {"ref": "ISA.52.14", "relevance": "typological", "reason": "His appearance marred beyond human semblance — the disfigured Christ presented to the crowd"},
+    {"ref": "MAT.27.28-30", "relevance": "primary", "reason": "The soldiers stripping Jesus, putting a scarlet robe on him, and mocking him"},
+    {"ref": "PHP.2.7-8", "relevance": "typological", "reason": "Taking the form of a servant, humbling himself to the point of death"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["suffering", "dignity", "intensity", "pathos"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004153",
+    "title": "Ecce Homo",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

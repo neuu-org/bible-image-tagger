@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ on the Cross",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "serpent",
+    "mountains",
+    "atonement",
+    "victory-over-evil",
+    "darkness",
+    "passion",
+    "protoevangelium",
+    "cosmic-struggle"
+  ],
+  "symbols": [
+    "serpent at base of cross — Satan crushed by the atoning death of Christ, fulfilling Genesis 3:15",
+    "dark mountainous landscape — Golgotha and the cosmic darkness attending the Crucifixion",
+    "outstretched arms on cross — the embrace of all humanity in sacrificial love",
+    "blood from wounds — the price of redemption, the blood of the new covenant",
+    "storm-dark sky — the convulsion of creation at the death of its Creator"
+  ],
+  "description": "A crucified figure of Christ hangs on a large wooden cross set against a dark, mountainous landscape. The body is pale and limp, with visible blood from the wounds in the hands, side, and feet. A white cloth wraps around the waist. The sky is dark and stormy with muted colors. At the base of the cross, a dark serpent coils on the green ground. Craggy mountains rise in the background. The overall palette is somber with blues, greens, and grays, rendered in a loose, expressive manner.",
+  "theological_description": "This Crucifixion is remarkable for the prominent serpent at the foot of the cross, making explicit the typological connection between Calvary and the Protoevangelium of Genesis 3:15: 'He shall bruise your head, and you shall bruise his heel.' The Cross is the instrument by which the ancient curse is reversed — the seed of the woman crushing the serpent even as the serpent strikes at his heel through death. Christ himself invoked the serpent typology: 'As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up' (JHN.3.14), referring to the bronze serpent of Numbers 21. Paul declares that on the Cross, Christ 'disarmed the rulers and authorities and put them to open shame, triumphing over them in it' (COL.2.15). The dark, convulsive landscape reflects the cosmic scope of this event: the earth shook, rocks split, and darkness covered the land (MAT.27.45,51). Hebrews teaches that through death Christ destroyed the one who has the power of death, that is, the devil (HEB.2.14). The serpent, though present, is defeated — coiled impotently beneath the very instrument of its undoing.",
+  "scripture_refs": [
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The Protoevangelium — the seed of the woman crushing the serpent's head, fulfilled at the Cross"},
+    {"ref": "JHN.3.14-15", "relevance": "typological", "reason": "As Moses lifted up the serpent, so must the Son of Man be lifted up"},
+    {"ref": "COL.2.15", "relevance": "typological", "reason": "Christ disarming principalities and powers, triumphing over them through the Cross"},
+    {"ref": "HEB.2.14", "relevance": "typological", "reason": "Through death Christ destroyed the one who holds the power of death"},
+    {"ref": "MAT.27.45-54", "relevance": "primary", "reason": "The darkness, earthquake, and cosmic signs accompanying Christ's death on the cross"},
+    {"ref": "NUM.21.8-9", "relevance": "typological", "reason": "Moses' bronze serpent lifted in the wilderness, the type Christ fulfilled on the Cross"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["darkness", "power", "triumph", "solemnity"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002433",
+    "title": "Christ on the Cross",
+    "artist": "Eugene Delacroix",
+    "model": "claude-opus-4-6"
+  }
+}

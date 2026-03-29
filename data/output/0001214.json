@@ -1,0 +1,49 @@
+{
+  "characters": [
+    {"name": "Noah", "type": "PERSON"},
+    {"name": "Noah's family", "type": "GROUP"},
+    {"name": "Animals", "type": "OTHER"}
+  ],
+  "event": "The Entry of the Animals into Noah's Ark",
+  "tags": [
+    "noahs-ark",
+    "animals",
+    "flood",
+    "boarding",
+    "divine-command",
+    "pairs-of-animals",
+    "cattle",
+    "horses",
+    "birds",
+    "dogs",
+    "rabbits",
+    "salvation",
+    "preservation"
+  ],
+  "symbols": [
+    "The Ark — God's provision of salvation through obedience, a type of the Church and of baptism",
+    "Animals entering in pairs — divine order preserved through judgment, the continuity of creation",
+    "The ramp leading up to the Ark — the narrow way of salvation",
+    "Birds in flight overhead — the creatures of the air also answering God's call to preservation",
+    "Tree on the right — the natural world that will be submerged, contrasting with the Ark's safety"
+  ],
+  "description": "A large wooden ark with a ramp occupies the upper left of the composition. A vast assembly of animals crowds the foreground: cattle, horses, sheep, goats, dogs, rabbits, roosters, turkeys, and other fowl press forward in a dense mass. Several human figures in robes guide the animals toward the ramp. Birds fly overhead against a partly cloudy sky. A large tree frames the right side. Mountains are visible in the distant background. The scene is teeming with life and movement.",
+  "theological_description": "The gathering of animals into the Ark is the climactic moment of preparation before the Flood, when God's judgment upon a wicked world is about to fall (GEN.6.5-7). Noah, the righteous man who found grace in the eyes of the Lord (GEN.6.8), obeys the divine command to bring pairs of every living creature aboard (GEN.6.19-20, 7.2-3). The Ark itself becomes one of the most enduring types in Christian theology: Peter explicitly connects it to baptism (1PE.3.20-21), and the Fathers universally saw the Ark as a figure of the Church — the vessel of salvation amid the flood of sin and death. The orderly procession of beasts, from the grandest to the humblest, reflects God's care for all creation, fulfilling the stewardship mandate given to Adam (GEN.1.28) and now entrusted to Noah as a second Adam. The Flood narrative also foreshadows the eschatological judgment: 'As it was in the days of Noah, so it will be at the coming of the Son of Man' (MAT.24.37-39).",
+  "scripture_refs": [
+    {"ref": "GEN.7.1-9", "relevance": "primary", "reason": "God commands Noah to enter the Ark with all animals, the specific event depicted"},
+    {"ref": "GEN.6.19-22", "relevance": "primary", "reason": "The divine instruction to bring two of every kind into the Ark for preservation"},
+    {"ref": "GEN.6.5-8", "relevance": "primary", "reason": "The wickedness of humanity and Noah finding grace — the reason for the Ark"},
+    {"ref": "1PE.3.20-21", "relevance": "typological", "reason": "Peter's typology of the Ark as a figure of baptism and salvation through water"},
+    {"ref": "MAT.24.37-39", "relevance": "typological", "reason": "Jesus compares the days of Noah to the eschatological coming of the Son of Man"},
+    {"ref": "HEB.11.7", "relevance": "allusion", "reason": "By faith Noah prepared an ark for the saving of his household, becoming an heir of righteousness"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["urgent", "abundant", "awe-inspiring"],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0001214",
+    "title": "The Entry of the Animals into Noah's Ark",
+    "artist": "Jacopo Bassano",
+    "model": "claude-opus-4-6"
+  }
+}

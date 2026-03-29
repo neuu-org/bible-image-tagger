@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint John the Baptist (child)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Zechariah",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin and Child with the infant Saint John and his parents",
+  "tags": [
+    "holy-family",
+    "infant-john-baptist",
+    "saint-elizabeth",
+    "zechariah",
+    "birdcage",
+    "lamb",
+    "domestic-scene",
+    "two-families",
+    "kinship",
+    "maternal-joy"
+  ],
+  "symbols": [
+    "two infants together — the kinship between Christ and His forerunner John the Baptist",
+    "birdcage — a traditional gift or domestic detail, also symbolizing the soul enclosed in the body",
+    "small lamb — the Lamb of God that John will one day identify",
+    "elderly couple with infant — Elizabeth and Zechariah's miraculous parenthood",
+    "young mother with infant — Mary and the Christ Child"
+  ],
+  "description": "A warm domestic scene showing two families gathered around their infants. On the left, an elderly bearded man and a woman in a white headscarf lean over a small child, all looking toward a birdcage at center. On the right, a younger woman in a red dress holds an infant who also reaches toward the cage. A small white lamb sits at the lower left. The setting is intimate and domestic, with a red curtain in the background and a wicker chair visible behind the figures on the right. The lighting is warm and golden, emphasizing the familial tenderness.",
+  "theological_description": "This scene of the two families united around their children visualizes the kinship described by Luke between Mary and Elizabeth. When Mary visited Elizabeth, the unborn John 'leaped in her womb' at the presence of the unborn Christ (LUK.1.41-44) — a prenatal recognition of the Messiah by His forerunner. The domestic setting humanizes the theological drama: these are real families with real children, yet through them the entire plan of salvation unfolds. The small lamb beside the children foreshadows John's future proclamation: 'Behold, the Lamb of God, who takes away the sin of the world' (JHN.1.29). The elderly couple of Elizabeth and Zechariah recalls the pattern of miraculous births in Scripture — Sarah and Abraham, Hannah and Elkanah — where God opens barren wombs to accomplish His purposes. The birdcage, a humble domestic object, may also suggest the psalm: 'We have escaped like a bird from the snare of the fowlers' (PSA.124.7).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation — the meeting of the two mothers and the unborn children's recognition"
+    },
+    {
+      "ref": "LUK.1.57-66",
+      "relevance": "primary",
+      "reason": "The birth of John the Baptist to the elderly Elizabeth and Zechariah"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The lamb prefiguring John's future identification of Jesus as the Lamb of God"
+    },
+    {
+      "ref": "LUK.1.36",
+      "relevance": "primary",
+      "reason": "Elizabeth your relative has also conceived a son in her old age — the kinship of the families"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "warm",
+    "joyful",
+    "domestic",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006132",
+    "title": "The Virgin and Child in the company of little St. John and his parents",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

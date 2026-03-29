@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Mary, mother of James", "type": "PERSON"},
+    {"name": "Salome", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "The three Marys at the empty tomb of Christ",
+  "tags": [
+    "empty-tomb",
+    "resurrection",
+    "three-marys",
+    "angel-at-tomb",
+    "easter-morning",
+    "burial-cloths",
+    "cave-tomb",
+    "myrrh-bearers",
+    "risen-christ",
+    "stone-rolled-away"
+  ],
+  "symbols": [
+    "open stone sarcophagus with burial cloths — the empty tomb, proof of the Resurrection",
+    "angel with golden wings — the heavenly messenger announcing Christ is risen",
+    "women bending to look — the first witnesses of the Resurrection, before the male apostles",
+    "cave setting — the rock-hewn tomb of Joseph of Arimathea",
+    "light entering from the left — the dawn of Easter morning, the light of the new creation"
+  ],
+  "description": "Inside a dark rocky cave or grotto, three women gather around an open stone sarcophagus. One woman in white bends forward examining the burial cloths, while a second woman in a blue veil stands with raised hand, and a third looks on behind. To the right, an angel with golden wings kneels beside the tomb, gesturing toward the interior and the folded linens. Light enters from the left, where distant figures are visible outside. The overall atmosphere is dim yet illuminated by a warm glow emanating from the angel.",
+  "theological_description": "The visit of the Myrrh-bearing Women to Christ's tomb on Easter morning is the hinge upon which all of Christian history turns. Mark records that 'very early on the first day of the week, when the sun had risen, they went to the tomb' (MRK.16.2), expecting to anoint a dead body but finding instead the first evidence of the Resurrection. The angel's announcement — 'He is not here. He has risen' (MRK.16.6) — is the kerygmatic core of the Christian faith. That women were the first witnesses carries immense theological weight: in a culture where women's testimony was not accepted in court, God chose them as the first heralds of the most important event in salvation history. The empty burial cloths recall John's detail that Peter saw 'the linen cloths lying there, and the face cloth, which had been on Jesus' head, not lying with the linen cloths but folded up in a place by itself' (JHN.20.6-7) — evidence of a deliberate departure, not a theft. The empty tomb is not the Resurrection itself but its sign, pointing beyond death to the new creation inaugurated by the risen Christ.",
+  "scripture_refs": [
+    {"ref": "MRK.16.1-8", "relevance": "primary", "reason": "The three women coming to the tomb at dawn and finding the angel's announcement of the Resurrection"},
+    {"ref": "MAT.28.1-6", "relevance": "primary", "reason": "The angel at the empty tomb declaring He is risen"},
+    {"ref": "JHN.20.6-7", "relevance": "primary", "reason": "The burial cloths and face cloth left in the empty tomb as evidence of the Resurrection"},
+    {"ref": "LUK.24.1-8", "relevance": "primary", "reason": "The women finding the stone rolled away and being told to remember Christ's words about rising"},
+    {"ref": "1CO.15.3-4", "relevance": "typological", "reason": "The core kerygma: Christ died, was buried, and was raised on the third day"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe", "mystery", "reverence", "wonder"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004388",
+    "title": "The three Marys at the tomb of Christ",
+    "artist": "Adam Elsheimer",
+    "model": "claude-opus-4-6"
+  }
+}

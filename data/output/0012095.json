@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Church Window with Angel Figure",
+  "tags": [
+    "angel",
+    "church-window",
+    "halo",
+    "trees",
+    "nature",
+    "gothic-arch",
+    "floral",
+    "covenant-church"
+  ],
+  "symbols": [
+    "angel with halo — heavenly messenger and divine presence in the church",
+    "lush foliage and trees — the Garden of Eden or paradise restored",
+    "gothic arch frame — the sacred architecture directing vision heavenward",
+    "white robes — purity and the angelic nature"
+  ],
+  "description": "A large stained-glass church window in a gothic pointed arch. The central figure is an angel or saintly figure in white robes with a golden halo, standing amid lush green trees and foliage. The figure holds or gestures with hands in a devotional pose. The surrounding glass depicts flowering trees, grape vines, and natural scenery in rich greens, blues, and warm tones. Above, decorative glass in the arch apex features floral motifs. The window is set within a dark stone gothic frame.",
+  "theological_description": "This Tiffany window in the Church of the Covenant (Boston) depicts an angelic or saintly figure in a garden paradise setting, characteristic of the American Aesthetic movement's approach to sacred art. The lush natural setting evokes the Garden of Eden (Gen 2:8-9) and the eschatological paradise where 'the tree of life with its twelve kinds of fruit' grows beside the river of the water of life (Rev 22:1-2). The angel amid the trees recalls the cherubim placed to guard the way to the tree of life (Gen 3:24), now welcoming rather than barring entry. The stained-glass medium transforms natural light into sacred illumination, expressing the theological truth that 'God is light, and in him is no darkness at all' (1 John 1:5). The integration of nature imagery with the sacred figure reflects the Psalmist's vision: 'The trees of the Lord are watered abundantly' (Ps 104:16).",
+  "scripture_refs": [
+    {
+      "ref": "REV.22.1-2",
+      "relevance": "primary",
+      "reason": "The tree of life in paradise — the lush garden setting of the window"
+    },
+    {
+      "ref": "GEN.2.8-9",
+      "relevance": "typological",
+      "reason": "God planted a garden with every tree pleasant to the sight — the Edenic setting"
+    },
+    {
+      "ref": "1JN.1.5",
+      "relevance": "allusion",
+      "reason": "God is light — the stained glass transforming light into sacred imagery"
+    },
+    {
+      "ref": "PSA.104.16",
+      "relevance": "allusion",
+      "reason": "The trees of the Lord are watered abundantly — the lush foliage"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "serene",
+    "luminous",
+    "paradisiacal"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0012095",
+    "title": "Windows - Church of the Covenant (Boston)",
+    "artist": "Louis Comfort Tiffany",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "The Lamentation over the dead Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "mourning-women",
+    "pieta",
+    "passion",
+    "deathbed",
+    "torch",
+    "grief",
+    "anguish",
+    "hair-pulling",
+    "dark-scene"
+  ],
+  "symbols": [
+    "dead body of Christ laid out — the sacrificial Lamb after the Crucifixion",
+    "woman tearing at her hair in anguish — the extremity of grief, likely Mary Magdalene",
+    "darker figure behind — another mourner, possibly the Virgin Mary or a disciple",
+    "single torch burning in darkness — the faint light of faith persisting in the darkest hour",
+    "white burial cloth — the shroud for entombment, prefiguring the empty grave clothes of Easter"
+  ],
+  "description": "A dark, emotionally intense scene. The dead body of Christ lies on a stone surface, covered partially by a white cloth, His head fallen back and body pale. A woman with disheveled blonde hair raises her hands to her face in an expression of extreme anguish, her mouth open in a cry. Behind her, a darker figure with hands raised in grief emerges from the shadows. A single flaming torch burns in the upper right, providing the only light in the otherwise pitch-black scene. The painting is loose and expressive, with thick impasto brushwork conveying raw emotion.",
+  "theological_description": "This Lamentation strips away all decorative convention to confront the viewer with the raw horror of God's death. The near-total darkness echoes the Synoptic account of darkness over the land (MAT.27.45) and the theological reality that in Christ's death, the Light of the World was temporarily extinguished. The woman's unrestrained anguish — hair wild, mouth open in a scream — gives visual form to the depth of human grief at the cost of redemption. The solitary torch affirms that even in the deepest darkness of Holy Saturday, a light persists — the promise that this death is not the end. The lifeless body of Christ displayed in its full human vulnerability confronts the mystery of the Incarnation at its most extreme: the Creator of life has truly died. Yet this death is not defeat but the means of victory — 'Since therefore the children share in flesh and blood, he himself likewise partook of the same things, that through death he might destroy the one who has the power of death' (HEB.2.14).",
+  "scripture_refs": [
+    {"ref": "JHN.19.38-42", "relevance": "primary", "reason": "The removal of Christ's body from the cross and preparation for burial"},
+    {"ref": "MAT.27.45", "relevance": "primary", "reason": "The darkness over the land during the Crucifixion, reflected in the painting's darkness"},
+    {"ref": "HEB.2.14", "relevance": "typological", "reason": "Through death He destroyed the one who has the power of death"},
+    {"ref": "LUK.23.27", "relevance": "allusion", "reason": "The women who mourned and wailed for Him on the way to Calvary and beyond"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguished", "dark", "raw", "devastating"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004976",
+    "title": "The Lamentation",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

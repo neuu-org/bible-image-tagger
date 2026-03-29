@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Holy Spirit", "type": "DEITY"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "The Virgin of the Immaculate Conception",
+  "tags": [
+    "immaculate-conception",
+    "virgin-mary",
+    "holy-spirit-dove",
+    "angels",
+    "heavenly-glory",
+    "roses",
+    "temple-model",
+    "marian-devotion"
+  ],
+  "symbols": [
+    "dove descending — the Holy Spirit overshadowing Mary, preserving her from sin",
+    "angels bearing her aloft — the heavenly court honoring the Mother of God",
+    "roses below — Mary as the Mystical Rose, beauty without the thorn of sin",
+    "small temple or tabernacle — Mary as the Ark of the Covenant, the dwelling place of God",
+    "dark swirling clouds — the darkness of sin from which Mary was preserved",
+    "hands on chest — Mary's receptivity and submission to God's grace"
+  ],
+  "description": "A dramatic, swirling composition showing the Virgin Mary standing on dark billowing clouds, her hands pressed to her chest, wearing a red and gold bodice beneath a vast dark blue-green mantle. A white dove descends from above in a burst of light. Four angels in various poses surround and support her amid turbulent clouds. Below at the lower left, a small classical temple or tabernacle sits on the ground, and roses and lilies are visible at the lower right. The composition is intensely dynamic with spiraling movement.",
+  "theological_description": "The Immaculate Conception — the doctrine that Mary was preserved from original sin from the moment of her conception — is here depicted with explosive visual energy. Mary stands between heaven and earth, the unique creature in whom God prepared a fitting dwelling for His Son. The dove of the Holy Spirit descending recalls the Annunciation (Luke 1:35) but also the primordial Spirit hovering over the waters of creation (Genesis 1:2), suggesting that in Mary a new creation begins. The small temple below symbolizes Mary as the new Ark of the Covenant (Revelation 11:19), the sacred vessel containing the divine presence. The roses and lilies — traditional symbols of Mary's love and purity — grow from the earth that Mary sanctifies by her sinlessness. The swirling, ecstatic composition conveys the cosmic significance of this doctrine: Mary's preservation from sin is not a private privilege but the first act of redemption, the beginning of God's victory over the serpent promised in Genesis 3:15.",
+  "scripture_refs": [
+    {"ref": "LUK.1.28", "relevance": "primary", "reason": "Hail, full of grace — the angelic greeting that the Church reads as affirming Mary's sinlessness"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The woman whose seed will crush the serpent — Mary as the New Eve preserved from the serpent's power"},
+    {"ref": "REV.12.1", "relevance": "typological", "reason": "The woman clothed with the sun — the heavenly vision of Mary in glory"},
+    {"ref": "SNG.4.7", "relevance": "allusion", "reason": "You are altogether beautiful, my love; there is no flaw in you — applied to Mary's sinlessness"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["ecstatic", "glorious", "transcendent"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007490",
+    "title": "The Virgin of the Immaculate Conception",
+    "artist": "El Greco",
+    "model": "claude-opus-4-6"
+  }
+}

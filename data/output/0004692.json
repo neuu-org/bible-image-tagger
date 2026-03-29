@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Cherub",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Lamentation over the dead Christ with Saint Francis and Mary Magdalene",
+  "tags": [
+    "pieta",
+    "lamentation",
+    "dead-christ",
+    "saint-francis",
+    "mary-magdalene",
+    "mourning",
+    "passion",
+    "stigmata",
+    "grief",
+    "cherub",
+    "cross-removed"
+  ],
+  "symbols": [
+    "dead body of Christ — the sacrificial Lamb slain for the sins of the world",
+    "Virgin Mary in blue weeping above — Mater Dolorosa, the sword piercing her soul",
+    "Mary Magdalene in red — the devoted follower who remained faithful through the Passion",
+    "Saint Francis in brown habit — mystical participation in Christ's suffering through the stigmata",
+    "cherub at Christ's feet — the heavenly witness to the mystery of redemptive death"
+  ],
+  "description": "The dead Christ lies at the center of the composition, His pale body supported across the laps of the mourners. The Virgin Mary in a blue mantle looks down with grief from above. To the right, a woman in a red and gold robe — Mary Magdalene — presses her hand to her face in anguish. To the left, a tonsured monk in a brown Franciscan habit kneels in prayer. A small cherub sits at Christ's feet in the lower center. The background shows a dark landscape with hints of sky. The scene is intimate and deeply emotional.",
+  "theological_description": "This Pieta extends the biblical lamentation scene to include Saint Francis, whose mystical reception of the stigmata in 1224 represented the most literal identification with Christ's Passion in Christian history. Francis's presence beside the dead Christ bridges the historical event and its ongoing spiritual reality in the life of the Church. The Virgin Mary's grief fulfills Simeon's prophecy (LUK.2.35), while Mary Magdalene's anguished presence echoes her role as the faithful disciple who followed Christ to the Cross and beyond (JHN.19.25). The theological message is that Christ's Passion is not merely a past event but an ongoing mystery in which every believer is invited to participate — Paul's declaration 'I have been crucified with Christ' (GAL.2.20) finds its visual expression in Francis kneeling at the Savior's side. The cherub represents the angelic realm beholding the mystery that even angels long to look into (1PE.1.12).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "The removal of Christ's body from the cross and preparation for burial"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "The sword piercing Mary's soul, fulfilled in her grief over her dead Son"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "typological",
+      "reason": "Crucified with Christ — Francis's mystical union with the Passion"
+    },
+    {
+      "ref": "JHN.19.25",
+      "relevance": "primary",
+      "reason": "The women standing near the cross of Jesus, now mourning at the Lamentation"
+    },
+    {
+      "ref": "1PE.1.12",
+      "relevance": "allusion",
+      "reason": "Things into which angels long to look — the cherub witnessing the mystery of redemptive suffering"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "grief",
+    "tender",
+    "solemn",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004692",
+    "title": "Pietà with St Francis and Mary Magdalene",
+    "artist": "Annibale Carracci",
+    "model": "claude-opus-4-6"
+  }
+}

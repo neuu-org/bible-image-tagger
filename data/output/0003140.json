@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Star of Bethlehem", "type": "OTHER"},
+    {"name": "Nativity Figures", "type": "GROUP"}
+  ],
+  "event": "Star of Bethlehem / Nativity Abstraction",
+  "tags": [
+    "star-of-bethlehem",
+    "nativity",
+    "abstract",
+    "epiphany",
+    "guiding-star",
+    "holy-family",
+    "manger",
+    "divine-light"
+  ],
+  "symbols": [
+    "golden star at upper left — the Star of Bethlehem guiding the Magi to the newborn King",
+    "abstracted figures behind lattice — the mystery of the Incarnation veiled and revealed",
+    "blue and purple tones — the divine and royal nature of the Christ child",
+    "grid-like black lines — the world's structures containing yet unable to confine the divine"
+  ],
+  "description": "An abstract composition on a white background features bold black lines forming an irregular grid or lattice pattern. Behind and within the grid, soft washes of blue, purple, green, and pale pink create indistinct forms suggestive of figures. At the upper left, a golden circular form with radiating petals resembles a star or sun. The shapes within the lattice vaguely suggest a seated or draped figure. The brushwork is loose and gestural, with transparent watercolor-like passages.",
+  "theological_description": "The title 'Star of Bethlehem' anchors this abstraction to the Nativity narrative. The golden star at upper left recalls Matthew 2:2, where the Magi declare they have seen the star of the newborn King. The abstracted, lattice-bound forms evoke the mystery of the Incarnation — God taking flesh within the constraints of the material world. Paul writes that in Christ 'the whole fullness of deity dwells bodily' (COL.2.9), and the semi-visible figures behind the grid suggest this hiddenness of divinity within the humble circumstances of Bethlehem. The star itself is the sign of revelation: a cosmic announcement that the King of Israel has been born. The loose, translucent quality of the painting mirrors the theological reality that the Nativity, while historically concrete, opens onto infinite mystery — 'the mystery hidden for ages and generations but now revealed' (COL.1.26).",
+  "scripture_refs": [
+    {"ref": "MAT.2.1-2", "relevance": "primary", "reason": "The Magi following the star to find the newborn King of the Jews"},
+    {"ref": "MAT.2.9-11", "relevance": "primary", "reason": "The star leading the Magi to the place where the child was"},
+    {"ref": "NUM.24.17", "relevance": "typological", "reason": "Balaam's prophecy: a star shall come out of Jacob, fulfilled in the Star of Bethlehem"},
+    {"ref": "COL.2.9", "relevance": "allusion", "reason": "The fullness of deity dwelling bodily, the Incarnation mystery suggested by the abstracted forms"},
+    {"ref": "COL.1.26", "relevance": "allusion", "reason": "The mystery hidden for ages now revealed, paralleling the semi-veiled figures behind the lattice"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["mysterious", "contemplative", "luminous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003140",
+    "title": "Star of Betlehem",
+    "artist": "George Stefanescu",
+    "model": "claude-opus-4-6"
+  }
+}

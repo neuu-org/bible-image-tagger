@@ -1,0 +1,17 @@
+{
+  "characters": [{"name": "Jesus Christ", "type": "DEITY"}, {"name": "Simon the Pharisee", "type": "PERSON"}, {"name": "Sinful Woman", "type": "PERSON"}, {"name": "Dinner Guests", "type": "GROUP"}],
+  "event": "Christ in the House of the Pharisee",
+  "tags": ["sinful-woman", "pharisee", "anointing-feet", "forgiveness", "dinner", "tears", "hair", "banquet"],
+  "symbols": ["woman washing Jesus's feet with tears — repentance and love overflowing", "Simon seated judging — religious self-righteousness contrasted with humble devotion", "banquet setting — the hospitality that the Pharisee withheld but the woman exceeded"],
+  "description": "A Renaissance interior scene showing a banquet in an columned hall. Jesus sits at a table with the Pharisee Simon and other guests. In the foreground, a woman kneels at Jesus's feet, her long hair falling forward as she anoints them. Simon and the other guests react with surprise or disapproval. A dog sits at the lower left. The architecture features classical columns opening onto a distant landscape.",
+  "theological_description": "This scene (LUK.7.36-50) dramatizes the confrontation between self-righteousness and genuine repentance. A sinful woman enters the Pharisee's house uninvited, washes Jesus's feet with her tears, dries them with her hair, and anoints them with perfume. Simon thinks: 'If this man were a prophet, he would have known who and what sort of woman this is' (LUK.7.39). Jesus responds with the parable of two debtors, concluding: 'Her sins, which are many, are forgiven — for she loved much. But he who is forgiven little, loves little' (LUK.7.47). The scene reveals that proximity to Jesus does not guarantee understanding — the Pharisee at the table misses what the sinner at his feet grasps.",
+  "scripture_refs": [
+    {"ref": "LUK.7.36-50", "relevance": "primary", "reason": "The sinful woman anointing Jesus's feet at the Pharisee's house"},
+    {"ref": "LUK.7.47", "relevance": "primary", "reason": "Her sins are forgiven for she loved much"},
+    {"ref": "LUK.7.44-46", "relevance": "primary", "reason": "Jesus contrasting Simon's neglect with the woman's devotion"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tense", "tender", "revelatory"],
+  "period": "Gospel",
+  "_meta": {"key": "0011361", "title": "Christ in the house of the Pharisee", "artist": "Tintoretto", "model": "claude-opus-4-6"}
+}

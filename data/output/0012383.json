@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Choir of Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Virgin and Child Enthroned",
+  "tags": [
+    "virgin-and-child",
+    "enthroned",
+    "nursing-madonna",
+    "angels",
+    "choir",
+    "gothic-architecture",
+    "crown",
+    "blue-mantle",
+    "medieval"
+  ],
+  "symbols": [
+    "crown on Mary — her status as Queen of Heaven",
+    "nursing infant — the full humanity of Christ, dependent on His mother",
+    "vast blue mantle — the heavens draped around the Mother of God",
+    "choir of angels and children — the perpetual heavenly worship",
+    "ornate Gothic throne — the architecture of heaven, the celestial court",
+    "red carpet — royal majesty and the blood of the covenant"
+  ],
+  "description": "An illuminated manuscript page showing the Virgin Mary enthroned in an elaborate Gothic architectural setting. She wears a golden crown and an enormous dark blue mantle that cascades down the steps of the throne. The infant Jesus sits on her lap, nursing. At left, a group of angels and children in white and colored robes sing together as a choir. The architecture features intricate Gothic tracery, carved arches, and a shell-shaped niche above. A richly patterned red carpet covers the foreground floor. The colors are vivid — deep blue, red, gold, and white — with extraordinary detail.",
+  "theological_description": "Fouquet's magnificent illumination presents the Virgin and Child as the center of heavenly worship. The crowned, nursing Madonna embodies the dual theology of Mary's exaltation and Christ's humility — the Queen of Heaven nourishes the King of Kings at her breast. The nursing gesture affirms the full reality of the Incarnation: 'the Word became flesh' (John 1:14) in so radical a way that God depended on a woman's milk. The angelic choir fulfills Isaiah's vision of perpetual heavenly worship: 'Holy, holy, holy is the Lord of hosts' (Isa 6:3). The elaborate Gothic architecture represents the heavenly Jerusalem, 'prepared as a bride adorned for her husband' (Rev 21:2). Mary's enormous blue mantle, filling the composition, suggests her role as mediatrix — she covers the faithful with her protection. The Psalms anticipate this enthroned worship: 'Glorious things are spoken of you, O city of God' (Ps 87:3).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the nursing infant affirming the full Incarnation"
+    },
+    {
+      "ref": "ISA.6.3",
+      "relevance": "allusion",
+      "reason": "Holy, holy, holy — the angelic choir in perpetual worship"
+    },
+    {
+      "ref": "REV.21.2",
+      "relevance": "typological",
+      "reason": "The holy city prepared as a bride — the Gothic architecture as heavenly Jerusalem"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — Mary crowned and enthroned"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "majestic",
+    "radiant",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012383",
+    "title": "Virgin and Child",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna the Prophetess",
+      "type": "PERSON"
+    },
+    {
+      "name": "Temple Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Presentation of Jesus at the Temple",
+  "tags": [
+    "presentation-at-temple",
+    "purification",
+    "nunc-dimittis",
+    "infant-christ",
+    "simeon",
+    "anna-prophetess",
+    "temple",
+    "candlemas",
+    "firstborn-consecration",
+    "prophecy-fulfilled"
+  ],
+  "symbols": [
+    "infant Christ on the altar — the firstborn consecrated to God, prefiguring the ultimate sacrifice",
+    "golden halo on the Virgin — her sanctity and role as Theotokos",
+    "elderly Simeon receiving the child — the Old Covenant embracing the New",
+    "temple architecture — the house of God where the Lord himself comes as prophesied by Malachi",
+    "candle held by attendant — the Light to lighten the Gentiles, the Candlemas tradition",
+    "tall pointed headdress on woman — a prophetess or attendant of the temple"
+  ],
+  "description": "Inside an ornate Gothic temple interior, the Virgin Mary kneels at center wearing a white mantle and golden halo, her hands clasped in prayer. On the altar before her, the nude infant Christ stands with arms extended toward an elderly bearded man in priestly vestments and a tall mitre, who reaches to receive him. Behind Mary stand several figures including a man in red, women in green and red gowns, and other attendants. A figure in elaborate robes and tall hat stands at the right. The architectural backdrop features pointed arches and golden ornamentation.",
+  "theological_description": "The Presentation fulfills the Mosaic law requiring the consecration of every firstborn male (EXO.13.2) and the purification of the mother (LEV.12.1-8). But the event transcends mere legal observance: Simeon, a righteous man who had been promised he would see the Messiah before death, takes the child in his arms and pronounces the Nunc Dimittis (LUK.2.29-32), declaring this infant to be 'a light for revelation to the Gentiles and for glory to your people Israel.' This is the first public recognition of Jesus's messianic identity after the Nativity. Simeon's prophecy to Mary — 'a sword will pierce your own soul also' (LUK.2.35) — foreshadows the Passion. The prophetess Anna likewise gives thanks and speaks of the child to all who await Jerusalem's redemption. Malachi 3:1 finds fulfillment: 'The Lord whom you seek will suddenly come to his temple.' The infant on the altar prefigures the Eucharistic sacrifice — the same body offered in the Temple will be offered on the cross.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.22-38",
+      "relevance": "primary",
+      "reason": "The complete narrative of the Presentation, Simeon's canticle, and Anna's prophecy"
+    },
+    {
+      "ref": "EXO.13.2",
+      "relevance": "primary",
+      "reason": "The law of consecration of the firstborn that occasions the Presentation"
+    },
+    {
+      "ref": "LEV.12.1-8",
+      "relevance": "primary",
+      "reason": "The purification rite for the mother after childbirth"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord suddenly coming to his temple, fulfilled when the infant Jesus enters"
+    },
+    {
+      "ref": "LUK.2.29-32",
+      "relevance": "primary",
+      "reason": "The Nunc Dimittis: a light for the Gentiles and glory for Israel"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword will pierce Mary's soul, foreshadowing the Passion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "joyful",
+    "prophetic",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003136",
+    "title": "Presentation of Jesus Christ at the Temple",
+    "artist": "Hans Holbein the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

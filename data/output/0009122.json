@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Prodigal Son", "type": "PERSON"},
+    {"name": "Companions of the Prodigal", "type": "GROUP"}
+  ],
+  "event": "The Prodigal Son Squandering His Inheritance",
+  "tags": [
+    "prodigal-son",
+    "parable",
+    "dissipation",
+    "feasting",
+    "riotous-living",
+    "squandering",
+    "tent",
+    "revelry",
+    "far-country"
+  ],
+  "symbols": [
+    "feasting and revelry — the reckless squandering of the father's inheritance in dissolute living",
+    "tent or canopy — the temporary and unstable dwelling of one who has left his father's house",
+    "multiple figures in indulgence — the companions who consume the prodigal's wealth but offer no lasting companionship",
+    "warm chaotic light — the illusory pleasure that masks spiritual ruin"
+  ],
+  "description": "A loosely painted scene beneath a tent or canopy showing a group of figures engaged in revelry and feasting. The composition is dark and atmospheric, with warm golden light illuminating figures who recline, drink, and celebrate. Several women and men mingle in various states of indulgence. Objects of luxury and food are scattered about. The brushwork is impressionistic and energetic, conveying a sense of chaos and dissolution.",
+  "theological_description": "This scene depicts the phase of the Prodigal Son parable (LUK.15.11-32) in which the younger son, having demanded his share of the inheritance, departs to a far country and squanders it in reckless living. Jesus tells this parable to reveal the heart of the Father who waits and the folly of those who seek fulfillment apart from God. The prodigal's dissipation represents humanity's attempt to find joy in created goods divorced from the Creator — a theme Paul addresses when he writes of those who 'exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator' (ROM.1.25). The transient pleasures depicted here stand in stark contrast to the eternal feast of the Father's house, to which the son will eventually return in repentance. The parable is Christ's most powerful illustration of divine mercy: the father's response to the returning son reveals the nature of God himself, who runs to embrace the penitent sinner (LUK.15.20).",
+  "scripture_refs": [
+    {"ref": "LUK.15.13", "relevance": "primary", "reason": "The prodigal son squanders his inheritance in reckless living in a far country"},
+    {"ref": "LUK.15.11-32", "relevance": "primary", "reason": "The full parable of the Prodigal Son, of which this scene is one phase"},
+    {"ref": "ROM.1.25", "relevance": "typological", "reason": "Exchanging the truth of God for a lie, worshiping the creature rather than Creator"},
+    {"ref": "PRO.23.20-21", "relevance": "allusion", "reason": "Warning against joining drunkards and gluttons, for they come to poverty"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["chaotic", "indulgent", "ominous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009122",
+    "title": "Prodigal Son",
+    "artist": "Vasily Polenov",
+    "model": "claude-opus-4-6"
+  }
+}

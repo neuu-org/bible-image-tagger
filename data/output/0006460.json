@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Serpent",
+      "type": "OTHER"
+    }
+  ],
+  "event": "The Fall of Man — Adam and Eve eat the forbidden fruit",
+  "tags": [
+    "fall-of-man",
+    "garden-of-eden",
+    "forbidden-fruit",
+    "original-sin",
+    "temptation",
+    "serpent",
+    "tree-of-knowledge",
+    "nakedness",
+    "fig-leaves",
+    "shame"
+  ],
+  "symbols": [
+    "serpent coiled in the tree — Satan as deceiver, the tempter who beguiles Eve with false promises",
+    "fruit being exchanged — the act of disobedience, the moment sin enters the world",
+    "fig leaves covering loins — the first sign of shame, awareness of nakedness after the Fall",
+    "dense forest — the enclosed garden of Eden, the original paradise now corrupted",
+    "small animals at feet — the created order that will be subjected to futility because of the Fall"
+  ],
+  "description": "An engraving depicting two nude figures — a woman on the left and a man on the right — seated on either side of a large tree. The woman holds a piece of fruit and appears to be offering or receiving it. A serpent with a partially human face coils around the trunk of the tree above them. Both figures wear small fig leaves. Around the base of the tree, small objects or animals are visible. The background consists of dense vertical tree trunks creating a forest setting. The engraving uses fine crosshatching to create tonal depth.",
+  "theological_description": "This engraving depicts the moment of the Fall described in Genesis 3:6, when Eve, having been deceived by the serpent, takes the forbidden fruit and gives it to Adam, who eats with her. The serpent's human-like face reflects the medieval and early modern tradition of depicting the tempter as partially anthropomorphic, suggesting the cunning intelligence behind the deception. The fig leaves already covering the figures conflate the moment of eating with the subsequent awareness of nakedness (Gen 3:7), compressing the narrative into a single image of transgression and its immediate consequence. Paul's theology in Romans 5:12-21 establishes this event as the hinge of salvation history: through one man's disobedience the many were made sinners, but through one man's obedience (Christ) the many will be made righteous. The enclosed forest setting recalls the garden as a bounded space of testing — a motif that recurs in the Garden of Gethsemane, where the new Adam will choose obedience where the first Adam chose rebellion.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The serpent's temptation and the eating of the forbidden fruit by Eve and Adam"
+    },
+    {
+      "ref": "GEN.3.7",
+      "relevance": "primary",
+      "reason": "The covering with fig leaves after their eyes were opened to their nakedness"
+    },
+    {
+      "ref": "ROM.5.12-19",
+      "relevance": "typological",
+      "reason": "Through one man sin entered the world — Paul's theology of the Fall and its reversal in Christ"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The Protoevangelium, the promise of the seed of the woman who will crush the serpent's head"
+    },
+    {
+      "ref": "REV.12.9",
+      "relevance": "allusion",
+      "reason": "Identification of the ancient serpent with the devil and Satan, linking Genesis to eschatological victory"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ominous",
+    "intimate",
+    "fateful"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0006460",
+    "title": "The Fall",
+    "artist": "Lucas van Leyden",
+    "model": "claude-opus-4-6"
+  }
+}

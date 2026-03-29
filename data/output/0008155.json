@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Saint James the Greater", "type": "PERSON"}
+  ],
+  "event": "Saint James the Apostle",
+  "tags": [
+    "saint-james",
+    "apostle",
+    "pilgrims-staff",
+    "red-cloak",
+    "portrait",
+    "book",
+    "bold-gaze"
+  ],
+  "symbols": [
+    "pilgrim's staff — James's association with pilgrimage, especially the Camino de Santiago",
+    "book — the apostolic teaching and Scripture",
+    "red cloak — martyrdom, James being the first apostle martyred (Acts 12:2)",
+    "direct gaze — apostolic authority and bold witness"
+  ],
+  "description": "A powerful half-length portrait of a vigorous bearded man with dark curly hair, wearing a voluminous red cloak over darker garments. He holds a tall wooden staff in his right hand and clutches a book under his left arm. He turns to look directly at the viewer with a bold, confident expression. The background is entirely black, focusing all attention on the figure. The lighting is dramatic, highlighting the rich red of the cloak and the strong features of the face.",
+  "theological_description": "Saint James the Greater, son of Zebedee and brother of John, was one of the three disciples closest to Jesus — present at the Transfiguration, in Gethsemane, and at key moments of Christ's ministry. He was the first apostle martyred, beheaded by Herod Agrippa I around 44 AD (Acts 12:1-2). Jesus had prophesied this when James and John asked for seats of honor: 'You will drink the cup that I drink' (Mark 10:39). The red cloak symbolizes the blood of his martyrdom, while the pilgrim's staff connects him to the tradition of Santiago de Compostela, where his relics are venerated. James's bold, direct gaze embodies the fearless witness Jesus demanded: 'Do not be afraid of those who kill the body but cannot kill the soul' (Matthew 10:28). His portrait captures a man who asked for glory and received it — through the cup of suffering.",
+  "scripture_refs": [
+    {"ref": "ACT.12.1-2", "relevance": "primary", "reason": "Herod killed James the brother of John with the sword — the first apostolic martyrdom"},
+    {"ref": "MRK.10.35-40", "relevance": "primary", "reason": "James asking for glory and Jesus prophesying he would drink the cup of suffering"},
+    {"ref": "MRK.9.2-8", "relevance": "allusion", "reason": "James as one of the three witnesses of the Transfiguration"},
+    {"ref": "MAT.10.28", "relevance": "allusion", "reason": "Do not fear those who kill the body — the fearlessness James embodied unto death"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["bold", "intense", "commanding"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0008155",
+    "title": "St. James the Apostle",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

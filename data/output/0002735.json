@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Rest on the Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "rest",
+    "nursing-madonna",
+    "landscape",
+    "refuge",
+    "holy-family",
+    "journey",
+    "exile",
+    "maternal-care"
+  ],
+  "symbols": [
+    "seated Madonna nursing child — the divine sustenance of the Incarnate God through human motherhood",
+    "rocky landscape — the wilderness of the journey to Egypt",
+    "distant city — the civilization left behind or Jerusalem abandoned",
+    "large tree providing shade — divine protection sheltering the Holy Family",
+    "small figures in background — Joseph or attendants on the journey"
+  ],
+  "description": "The Virgin Mary sits on rocky ground beneath a large leafy tree, holding the Christ Child on her lap in a nursing posture. She wears a dark blue mantle over a white garment and a dark headdress. The infant reaches toward her. Behind them stretches a detailed Flemish landscape with a distant city, green hills, and smaller figures walking on a path. The earth tones of the rocky foreground contrast with the green and blue distance. A small plant grows from the rocks at the lower right.",
+  "theological_description": "The Rest on the Flight into Egypt is a devotional elaboration of Matthew's account of the Holy Family's flight from Herod (MAT.2.13-15). The image captures a moment of tender repose during the arduous journey, when the Mother of God stops to nurse the child who sustains all creation. The nursing Madonna (Maria Lactans) is one of the oldest Marian image types, emphasizing the full reality of the Incarnation — God truly took on human nature, dependent on human milk. The detailed Flemish landscape serves a theological purpose: the entire created order, rendered with loving precision, surrounds and shelters the holy travelers, as if creation itself cooperates with God's salvific plan. The distant city may represent Jerusalem from which they flee, or Egypt toward which they journey — in either case, it places the mystery of the Incarnation within the concrete geography of salvation history. Hosea's prophecy undergirds the scene: 'Out of Egypt I called my son' (HOS.11.1).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The flight of the Holy Family into Egypt to escape Herod"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son — the prophetic framework for the journey"
+    },
+    {
+      "ref": "ISA.49.15",
+      "relevance": "allusion",
+      "reason": "Can a mother forget the child at her breast — the nursing Madonna as image of divine tenderness"
+    },
+    {
+      "ref": "PSA.91.1-2",
+      "relevance": "allusion",
+      "reason": "He who dwells in the shelter of the Most High — divine protection during the flight"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tenderness",
+    "peace",
+    "refuge",
+    "serenity"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002735",
+    "title": "The Rest on the Flight into Egypt",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

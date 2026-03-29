@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Apostles", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"}
+  ],
+  "event": "The Assumption of the Virgin Mary",
+  "tags": [
+    "assumption",
+    "virgin-mary",
+    "apostles",
+    "angels",
+    "empty-tomb",
+    "ascending",
+    "heavenly-glory",
+    "clouds",
+    "upward-gaze",
+    "dramatic-composition"
+  ],
+  "symbols": [
+    "Mary ascending amid clouds and angels — the bodily assumption into heavenly glory",
+    "apostles gathered around the empty tomb — the witnesses of Mary's departure from earth",
+    "angels carrying Mary upward — the heavenly escort of the Queen of Heaven",
+    "empty sarcophagus below — the absence of Mary's body, paralleling Christ's empty tomb",
+    "dramatic upward movement — the eschatological hope of bodily resurrection for all the faithful"
+  ],
+  "description": "A monumental vertical composition within an arched frame. In the upper register, the Virgin Mary ascends into the heavens, her arms outstretched, surrounded by a swirling host of angels and clouds in dramatic movement. She wears flowing robes that billow in the heavenly wind. Below, a group of apostles gathers around an open stone sarcophagus, looking upward in amazement, their gestures expressing wonder and awe. The composition is dynamically divided between the earthly zone below and the heavenly zone above, with sweeping diagonal movement drawing the eye upward.",
+  "theological_description": "The Assumption of Mary represents the fulfillment of the redemption of the body in one particular person before the general resurrection. As the vessel of the Incarnation who bore the Word made flesh, Mary's body was preserved from corruption — the Ark of the New Covenant not left to decay. The scene echoes the Ascension of Christ but with a crucial distinction: Christ ascends by His own power, while Mary is assumed — carried by divine grace. The apostles' astonishment at the empty tomb mirrors the women's experience on Easter morning, creating a deliberate typological parallel. The theology is grounded in Paul's teaching on the resurrection: 'Christ has been raised from the dead, the firstfruits of those who have fallen asleep' (1CO.15.20). Mary, as the first and fullest recipient of redemption, is the firstfruits of the firstfruits. The Psalmic echo rings: 'Arise, O LORD, and go to your resting place, you and the ark of your might' (PSA.132.8), understood as the divine Son calling His mother to her heavenly rest.",
+  "scripture_refs": [
+    {"ref": "REV.12.1", "relevance": "typological", "reason": "The Woman clothed with the sun, taken into heavenly glory — applied to Mary's Assumption"},
+    {"ref": "PSA.132.8", "relevance": "typological", "reason": "The Ark of God arising to its resting place — Mary as the Ark of the New Covenant assumed into heaven"},
+    {"ref": "1CO.15.20-23", "relevance": "typological", "reason": "Christ the firstfruits, then those who belong to Him — Mary as the first to share fully in the resurrection"},
+    {"ref": "LUK.1.48-49", "relevance": "allusion", "reason": "All generations will call me blessed, for the Mighty One has done great things for me"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["glorious", "dramatic", "awe", "triumphant"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0004616",
+    "title": "The Assumption",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Saint James the Greater", "type": "PERSON"}
+  ],
+  "event": "Portrait of Saint James the Greater",
+  "tags": [
+    "saint-james",
+    "apostle",
+    "pilgrim-staff",
+    "open-book",
+    "red-robe",
+    "oval-portrait",
+    "half-length",
+    "evangelization",
+    "devotional"
+  ],
+  "symbols": [
+    "pilgrim's staff — James's legendary journey to Spain and the pilgrim tradition of Santiago de Compostela",
+    "open book — the Gospel message and apostolic teaching",
+    "red garments — martyrdom, as James was the first apostle to be martyred",
+    "oval frame — devotional portrait format emphasizing the saint's personal presence"
+  ],
+  "description": "An oval half-length portrait of a bearded man with curly brown hair, wearing a bright red tunic over a dark under-garment. He holds an open book in his left hand and grips a tall staff or pilgrim's rod with his right. His expression is calm and direct, gazing slightly to the viewer's left. The background is dark and neutral, focusing attention on the figure and his attributes.",
+  "theological_description": "Saint James the Greater, son of Zebedee and brother of John, was among the innermost circle of Christ's disciples, present at the Transfiguration (MAT.17.1) and the agony in Gethsemane (MAT.26.37). His portrait with pilgrim staff and book reflects his dual identity: the traveling evangelist who carried the Gospel to distant lands, and the first apostle to drink the cup of martyrdom that Christ foretold (MAT.20.22-23). When Jesus asked James and John whether they could drink His cup, their affirmative answer was fulfilled when Herod Agrippa had James put to death by the sword (ACT.12.2). The open book signifies the apostolic kerygma — the proclamation of the risen Christ that James carried forth before his death. His red garments mark the blood witness that sealed his testimony.",
+  "scripture_refs": [
+    {"ref": "ACT.12.1-2", "relevance": "primary", "reason": "The martyrdom of James by Herod Agrippa, the first apostle killed for the faith"},
+    {"ref": "MAT.20.22-23", "relevance": "primary", "reason": "Christ's prophecy that James would drink the cup of suffering"},
+    {"ref": "MAT.17.1", "relevance": "allusion", "reason": "James as one of the three witnesses of the Transfiguration"},
+    {"ref": "MRK.1.19-20", "relevance": "primary", "reason": "The calling of James and John from their fishing nets to follow Christ"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "devotional", "resolute"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0004279",
+    "title": "Saint James the Greater",
+    "artist": "Jacopo Vignali",
+    "model": "claude-opus-4-6"
+  }
+}

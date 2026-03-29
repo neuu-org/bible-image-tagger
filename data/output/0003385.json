@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant Women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Holy Family by Candlelight",
+  "tags": [
+    "holy-family",
+    "candlelight",
+    "madonna-and-child",
+    "infant-christ",
+    "saint-joseph",
+    "young-baptist",
+    "domestic-scene",
+    "nocturnal"
+  ],
+  "symbols": [
+    "candle illuminating the scene — Christ as the light of the world shining in domestic intimacy",
+    "Virgin Mary in white — purity and grace of the Theotokos",
+    "elderly Joseph behind — the guardian and foster father, protector of the Holy Family",
+    "young child eating — the humanity of Christ's childhood and the ordinariness of the Incarnation"
+  ],
+  "description": "A candlelit interior scene showing a family gathered together. At center, a young woman in a white blouse and red skirt sits holding a child on her lap. A second small child stands at the right, eating something. Behind them, an elderly bearded man in dark robes looks down warmly. A woman in red at the left offers a bowl, illuminated by a small candle on a stand. Another woman is partially visible at the right in blue. The candlelight creates strong chiaroscuro, brightly illuminating the central mother and children while leaving the background in deep shadow.",
+  "theological_description": "Jordaens presents the Holy Family not as a celestial vision but as a warm, intimate domestic scene — the Incarnation at its most ordinary and most profound. The candle that illuminates the group evokes John 1:9, 'The true light that gives light to everyone was coming into the world,' yet here that light is a humble domestic flame. Joseph's watchful presence fulfills the role assigned to him in Matthew 1:20-24, the righteous guardian chosen to protect the divine child. The young John the Baptist, traditionally included in Holy Family scenes, points to the forerunner who would declare, 'Behold, the Lamb of God' (JHN.1.29). The ordinariness of the domestic setting — a woman offering food, children at play — embodies the kenosis of Philippians 2:7: God taking the form of a servant, dwelling in the midst of everyday human life.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.39-40",
+      "relevance": "primary",
+      "reason": "The Holy Family at Nazareth, the child growing and becoming strong, the domestic life depicted"
+    },
+    {
+      "ref": "MAT.1.20-24",
+      "relevance": "primary",
+      "reason": "Joseph's role as guardian of Jesus and Mary, his protective presence in the scene"
+    },
+    {
+      "ref": "JHN.1.9",
+      "relevance": "allusion",
+      "reason": "The true light coming into the world, symbolized by the candle illuminating the Holy Family"
+    },
+    {
+      "ref": "PHP.2.7",
+      "relevance": "typological",
+      "reason": "Christ taking the form of a servant, the divine humility of ordinary family life"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "allusion",
+      "reason": "The young Baptist who will declare Christ the Lamb of God, present as a child companion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "warm",
+    "intimate",
+    "tender",
+    "peaceful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003385",
+    "title": "The Holy Family",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

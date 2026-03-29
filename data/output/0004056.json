@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Moses (as child)", "type": "PERSON"},
+    {"name": "Pharaoh's Daughter", "type": "PERSON"},
+    {"name": "Jochebed (Moses's mother)", "type": "PERSON"},
+    {"name": "Attendants", "type": "GROUP"}
+  ],
+  "event": "Moses Brought Before Pharaoh's Daughter",
+  "tags": [
+    "moses",
+    "pharaohs-daughter",
+    "infant-moses",
+    "adoption",
+    "egypt",
+    "divine-providence",
+    "rescue",
+    "royal-court"
+  ],
+  "symbols": [
+    "Pharaoh's daughter reclining in luxury — the Egyptian court that unwittingly raises Israel's deliverer",
+    "child Moses walking toward the princess — providence guiding the future liberator into his destiny",
+    "Moses's mother presenting the child — the hidden hand of God working through human agency",
+    "Egyptian architecture and pyramid — the land of bondage from which Moses will lead Israel out"
+  ],
+  "description": "A richly appointed scene showing a reclining woman in an elegant pink and white dress (Pharaoh's daughter) extending her hand toward a small child who walks toward her. Behind the child, an older woman in a blue garment and white headcovering gently guides him forward. An elderly bearded man watches from the left. Egyptian architectural elements including a pyramid-like structure are visible in the background. Attendants observe from the right behind a column and curtain. The lighting focuses on the princess and the child.",
+  "theological_description": "The presentation of the infant Moses to Pharaoh's daughter is a pivotal moment in salvation history, demonstrating God's providence working through seemingly ordinary events. Moses's mother Jochebed had hidden him for three months (EXO.2.2), then placed him in a basket on the Nile (EXO.2.3). Pharaoh's daughter found the child and, through the clever intervention of Moses's sister Miriam, hired Moses's own mother as wet nurse (EXO.2.7-9). The supreme irony is that the very household that decreed the death of Hebrew boys (EXO.1.22) now nurtures the one who will overthrow Egyptian power. Acts 7:21-22 recounts that Moses 'was brought up as the son of Pharaoh's daughter' and 'was instructed in all the wisdom of the Egyptians.' Every element of this providential arrangement prepared Moses for his future role as liberator, lawgiver, and mediator of the Old Covenant.",
+  "scripture_refs": [
+    {"ref": "EXO.2.5-10", "relevance": "primary", "reason": "Pharaoh's daughter finding Moses and adopting him — the event depicted"},
+    {"ref": "EXO.2.1-4", "relevance": "primary", "reason": "Jochebed hiding Moses and placing him in the basket on the Nile"},
+    {"ref": "ACT.7.21-22", "relevance": "primary", "reason": "Moses raised in Pharaoh's household and educated in Egyptian wisdom"},
+    {"ref": "HEB.11.23", "relevance": "allusion", "reason": "By faith Moses's parents hid him, seeing he was a beautiful child"},
+    {"ref": "EXO.1.22", "relevance": "allusion", "reason": "Pharaoh's decree to kill Hebrew boys — the danger from which Moses was saved"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tender", "providential", "hopeful"],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0004056",
+    "title": "Moses Brought Before Pharaoh's Daughter",
+    "artist": "William Hogarth",
+    "model": "claude-opus-4-6"
+  }
+}

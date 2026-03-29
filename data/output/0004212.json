@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Apostles", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Cherubim", "type": "ANGEL"}
+  ],
+  "event": "The apparition of the Virgin of the Pillar to Saint James at Zaragoza",
+  "tags": [
+    "virgin-of-the-pillar",
+    "marian-apparition",
+    "apostles",
+    "angels",
+    "clouds",
+    "heavenly-vision",
+    "pillar",
+    "devotion",
+    "golden-radiance",
+    "kneeling-figures",
+    "cherubim"
+  ],
+  "symbols": [
+    "Virgin seated on clouds — heavenly queenship and celestial glory",
+    "radiant light around Mary — divine grace and the Woman clothed with the sun",
+    "apostles kneeling below — the Church on earth venerating the Mother of God",
+    "cherubim surrounding Mary — the heavenly court attending the Queen of Heaven",
+    "pillar (implied by title) — the foundation of faith brought to Spain"
+  ],
+  "description": "The Virgin Mary is seated on billowing clouds in the upper portion of the composition, bathed in golden radiance, wearing a blue mantle over a red robe. She is surrounded by numerous cherubim and angels, some holding instruments. Below her, a group of men in varied colored robes kneel and gaze upward in awe, their arms raised in prayer and wonder. One figure holds a staff. The scene is suffused with warm golden light emanating from above, creating a dramatic contrast between the heavenly and earthly zones.",
+  "theological_description": "This scene depicts the legendary apparition of the Virgin Mary to the Apostle James the Greater at Zaragoza, Spain, considered the earliest Marian apparition in Christian tradition. The theology of Marian intercession is central: Mary appears as the heavenly advocate who strengthens the apostolic mission. The vertical composition — heaven above, earth below — mirrors the structure of biblical theophanies where God's glory is revealed to faithful servants (EXO.24.9-11). The kneeling apostles recall the disciples' response to the Transfiguration (MAT.17.6), overwhelmed by the manifestation of divine glory. Mary's role as intercessor echoes her intervention at Cana (JHN.2.1-5), where she mediates between human need and divine power. The cherubim surrounding her invoke the throne imagery of Revelation, where the Woman clothed with the sun (REV.12.1) is attended by heavenly beings.",
+  "scripture_refs": [
+    {"ref": "REV.12.1", "relevance": "typological", "reason": "The Woman clothed with the sun, surrounded by heavenly glory, applied to Mary in this apparition scene"},
+    {"ref": "JHN.2.1-5", "relevance": "allusion", "reason": "Mary's intercessory role, mediating between heaven and the apostolic mission on earth"},
+    {"ref": "MAT.17.6", "relevance": "allusion", "reason": "The apostles' awestruck posture mirrors the disciples falling on their faces at the Transfiguration"},
+    {"ref": "ACT.1.8", "relevance": "allusion", "reason": "The apostolic mission to the ends of the earth, strengthened by heavenly encouragement"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe", "devotional", "luminous", "reverent"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0004212",
+    "title": "La Venida De La Virgen Del Pilar a Zaragoza",
+    "artist": "José Luzán",
+    "model": "claude-opus-4-6"
+  }
+}

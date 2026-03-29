@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with the young Saint John the Baptist",
+  "tags": [
+    "madonna-and-child",
+    "infant-christ",
+    "young-john-baptist",
+    "holy-family",
+    "maternal-tenderness",
+    "childhood",
+    "incarnation",
+    "forerunner"
+  ],
+  "symbols": [
+    "Infant Christ held by Mary — the Incarnation, God made flesh dwelling among humanity",
+    "Young John the Baptist gazing up at Christ — the forerunner recognizing the Lamb of God even in infancy",
+    "Mary's protective embrace — the Church nurturing and presenting Christ to the world"
+  ],
+  "description": "A young woman with reddish-blonde hair and a gentle gaze holds a plump, curly-haired infant on her lap. The child is partially wrapped in a blue cloth and looks upward with wide eyes. Beside them, a smaller child with darker hair gazes up toward the infant. The figures are tightly grouped against a dark background, with warm red and green drapery visible. The woman wears a red garment beneath a dark green mantle.",
+  "theological_description": "The Madonna and Child with the young Baptist is a devotional subject rooted in the Infancy Narratives. Luke records Elizabeth and Mary as kinswomen (LUK.1.36), and tradition holds that the two children were brought together in early life. The young John's upward gaze toward the Christ Child anticipates his later proclamation: 'Behold, the Lamb of God' (JHN.1.29). Mary's sheltering posture embodies the Theotokos — she who bore God in the flesh — and her role as the vessel through which the Incarnation entered the world (LUK.1.31-35). The intimate grouping of the three figures speaks to the mystery of the divine plan unfolding in hiddenness, in domestic settings, long before the public ministry begins. The Church Fathers saw in the Baptist's childhood proximity to Christ a confirmation that sanctification can occur even in the womb, as when John leaped at the sound of Mary's greeting (LUK.1.41-44).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.36",
+      "relevance": "primary",
+      "reason": "Elizabeth and Mary are kinswomen, establishing the relationship between the infant Jesus and young John"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "John leaped in Elizabeth's womb at Mary's greeting, recognizing Christ even before birth"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John's future proclamation of Jesus as the Lamb of God is prefigured in his childhood gaze toward Christ"
+    },
+    {
+      "ref": "LUK.1.31-35",
+      "relevance": "primary",
+      "reason": "The Annunciation promise that Mary would bear the Son of the Most High, fulfilled in the Incarnation shown here"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness — John's future role as forerunner is foreshadowed in this childhood encounter"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001163",
+    "title": "Madonna and Child with the Young Saint John",
+    "artist": "Jacopo Pontormo",
+    "model": "claude-opus-4-6"
+  }
+}

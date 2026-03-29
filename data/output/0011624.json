@@ -1,0 +1,50 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome in the Desert",
+  "tags": [
+    "saint-jerome",
+    "desert",
+    "wilderness",
+    "penitence",
+    "cross",
+    "skull",
+    "church-father"
+  ],
+  "symbols": [
+    "desert setting — ascetic withdrawal and encounter with God",
+    "cross — devotion to Christ crucified",
+    "skull — memento mori and contemplation of mortality"
+  ],
+  "description": "A dark, atmospheric painting by Salvator Rosa showing Saint Jerome as a solitary penitent figure in a rugged desert landscape, rendered in brown and earth tones with dramatic lighting.",
+  "theological_description": "Jerome's desert retreat follows the biblical pattern of wilderness preparation — Moses, Elijah, and Jesus himself all encountered God in the desert. Jerome devoted his life to Scripture translation, embodying his principle: 'Ignorance of Scripture is ignorance of Christ.' The desert setting recalls Jesus's temptation: 'Man shall not live by bread alone, but by every word that comes from the mouth of God' (MAT.4.4).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.4.1-4",
+      "relevance": "typological",
+      "reason": "Jesus in the wilderness, the pattern Jerome follows"
+    },
+    {
+      "ref": "PSA.63.1",
+      "relevance": "allusion",
+      "reason": "O God, you are my God, earnestly I seek you in a dry and weary land"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "austere",
+    "contemplative",
+    "dark"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0011624",
+    "title": "St. Jerome in the Desert",
+    "artist": "Salvator Rosa",
+    "model": "claude-opus-4-6"
+  }
+}

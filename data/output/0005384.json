@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Paul",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Paul Standing with Sword and Book",
+  "tags": [
+    "saint-paul",
+    "apostle",
+    "sword",
+    "book",
+    "halo",
+    "red-cloak",
+    "green-robe",
+    "barefoot",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "sword — the instrument of Paul's martyrdom by beheading, and the sword of the Spirit which is the Word of God",
+    "open book — the Epistles of Paul, the Word he proclaimed to the Gentile world",
+    "golden halo — sanctity and apostolic authority",
+    "red cloak — the blood of martyrdom",
+    "bare feet — apostolic poverty and the missionary journeys"
+  ],
+  "description": "A full-length standing figure of a bearded, balding man with a golden halo, set within a gold-framed arched panel against a blue sky. He wears a green robe under a voluminous red cloak draped over one shoulder. In his right hand he holds a long sword pointed downward; in his left hand he holds an open book. His feet are bare on the ground. His expression is dignified and resolute, with a full beard and receding hairline.",
+  "theological_description": "Saint Paul, the Apostle to the Gentiles, is depicted with his two traditional attributes: the sword and the book. The sword represents both his martyrdom by beheading under Nero in Rome and the 'sword of the Spirit, which is the word of God' (EPH.6.17). The open book symbolizes his Epistles — the theological foundation of Christian doctrine that constitutes roughly half of the New Testament. Paul's transformation from Saul the persecutor to Paul the apostle remains the paradigmatic conversion narrative (ACT.9.1-19). His missionary journeys established churches across the Roman Empire, and his letters to those communities articulate the doctrines of justification by faith (ROM.3.28), the body of Christ as the Church (1CO.12.12-27), and the cosmic scope of redemption (COL.1.15-20). The barefoot posture recalls his tireless journeys and the apostolic vocation described in Isaiah: 'How beautiful are the feet of those who bring good news' (ISA.52.7, quoted in ROM.10.15).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.9.1-19",
+      "relevance": "primary",
+      "reason": "The conversion of Saul on the road to Damascus, foundational to Paul's identity"
+    },
+    {
+      "ref": "EPH.6.17",
+      "relevance": "allusion",
+      "reason": "The sword of the Spirit, which is the word of God — symbolized by the sword he holds"
+    },
+    {
+      "ref": "2TI.4.6-8",
+      "relevance": "primary",
+      "reason": "I have fought the good fight, finished the race — Paul's final testimony before martyrdom"
+    },
+    {
+      "ref": "ROM.1.1",
+      "relevance": "allusion",
+      "reason": "Paul, a servant of Christ Jesus, called to be an apostle — the vocation depicted here"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "allusion",
+      "reason": "I have been crucified with Christ; it is no longer I who live — Paul's total identification with Christ"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dignified",
+    "authoritative",
+    "resolute"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0005384",
+    "title": "Saint Paul",
+    "artist": "Ambrogio Bergognone",
+    "model": "claude-opus-4-6"
+  }
+}

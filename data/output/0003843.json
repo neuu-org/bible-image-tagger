@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint John the Evangelist on Patmos",
+  "tags": [
+    "saint-john",
+    "evangelist",
+    "patmos",
+    "revelation",
+    "exile",
+    "eagle",
+    "writing",
+    "wilderness"
+  ],
+  "symbols": [
+    "eagle — the traditional symbol of John the Evangelist, signifying his soaring theological vision",
+    "seated figure writing — the composition of the Gospel or Revelation",
+    "rocky wilderness — the island of Patmos, place of exile and vision",
+    "city in the distance — the earthly world from which John is separated, or the heavenly Jerusalem he envisions"
+  ],
+  "description": "A lone figure sits in a rocky, golden-brown wilderness landscape, apparently writing or reading. Behind him on a rocky outcrop, a large dark eagle perches. In the background, a city with pink and gray buildings and towers is visible through the hazy trees. The landscape is rugged with dramatic rock formations and sparse vegetation. The overall palette is warm golden browns and ochres with touches of green, under a misty sky.",
+  "theological_description": "Saint John, traditionally identified as the author of the Fourth Gospel and the Book of Revelation, was exiled to the island of Patmos 'on account of the word of God and the testimony of Jesus' (REV.1.9). The eagle, his traditional symbol derived from Ezekiel's vision of the four living creatures (EZK.1.10) and Revelation 4:7, signifies the lofty, soaring quality of his theological vision — his Gospel begins not with earthly genealogy but with the cosmic prologue: 'In the beginning was the Word' (JHN.1.1). On Patmos, John received the apocalyptic visions recorded in Revelation, beginning with Christ's command to 'write what you see in a book' (REV.1.11). The wilderness setting represents both physical exile and spiritual receptivity — away from the world's noise, John received the most extraordinary revelation of the Church's future and Christ's final triumph.",
+  "scripture_refs": [
+    {
+      "ref": "REV.1.9-11",
+      "relevance": "primary",
+      "reason": "John on Patmos receiving the command to write what he sees"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "primary",
+      "reason": "The beginning of John's Gospel, the soaring theology symbolized by the eagle"
+    },
+    {
+      "ref": "REV.4.7",
+      "relevance": "allusion",
+      "reason": "The four living creatures including the eagle, John's symbol"
+    },
+    {
+      "ref": "EZK.1.10",
+      "relevance": "typological",
+      "reason": "Ezekiel's vision of the four faces including the eagle, applied to John"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "isolated",
+    "visionary"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0003843",
+    "title": "Sao Joao Evangelista",
+    "artist": "Nicolas Antoine Taunay",
+    "model": "claude-opus-4-6"
+  }
+}

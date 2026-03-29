@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Nun", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"},
+    {"name": "Putti", "type": "ANGEL"}
+  ],
+  "event": "Vision of a Nun",
+  "tags": [
+    "mystical-vision",
+    "nun",
+    "angel",
+    "kneeling-prayer",
+    "altar",
+    "putti",
+    "crown",
+    "religious-ecstasy"
+  ],
+  "symbols": [
+    "putto bearing a crown — the crown of life promised to those faithful unto death",
+    "kneeling nun before an altar — consecrated life devoted to prayer and worship",
+    "angel attending — divine messenger confirming the nun's vision",
+    "heavenly opening with putti — the veil between heaven and earth parting during prayer"
+  ],
+  "description": "A faded brown-toned drawing or wash showing a nun kneeling at an altar or prayer desk at the left, looking upward. An angel stands beside or behind her. Above, several putti emerge from clouds, one carrying what appears to a crown or wreath. The drawing is softly rendered with atmospheric washes, the details partially obscured by age. An architectural setting with columns or walls frames the scene. A potted plant sits at the lower left.",
+  "theological_description": "Visions granted to nuns and religious women form a rich tradition in Christian mysticism, from Hildegard of Bingen to Teresa of Avila. The scene depicts the moment when the boundary between visible and invisible worlds dissolves during prayer. The crown borne by the putto alludes to Revelation 2:10, 'Be faithful unto death, and I will give you the crown of life.' The nun's consecrated life — given entirely to prayer, poverty, and obedience — positions her at the threshold between heaven and earth. The attending angel serves as both guardian and witness, confirming that the vision is authentic. Such mystical experiences were understood not as private rewards but as gifts for the whole Church, since the nun's prayer and contemplation intercede for all the faithful.",
+  "scripture_refs": [
+    {"ref": "REV.2.10", "relevance": "primary", "reason": "Be faithful unto death and I will give you the crown of life — the crown the putto bears"},
+    {"ref": "2CO.12.1-4", "relevance": "typological", "reason": "Paul caught up to the third heaven — the biblical precedent for mystical visions"},
+    {"ref": "ACT.10.9-16", "relevance": "allusion", "reason": "Peter's vision during prayer — the pattern of divine revelation coming during devoted prayer"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["mystical", "devotional", "ethereal"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007655",
+    "title": "Vision of a nun",
+    "artist": "Bartolome Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

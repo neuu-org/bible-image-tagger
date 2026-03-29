@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Abraham", "type": "PERSON"},
+    {"name": "Abraham's Household", "type": "GROUP"}
+  ],
+  "event": "Abraham Journeying into the Land of Canaan",
+  "tags": [
+    "abraham",
+    "journey",
+    "canaan",
+    "flocks",
+    "sheep",
+    "migration",
+    "patriarchal",
+    "caravan",
+    "camels",
+    "promised-land",
+    "twilight"
+  ],
+  "symbols": [
+    "vast flocks of sheep — the wealth and blessing of Abraham as the father of nations",
+    "journey toward the horizon — the faith journey into the unknown promised land",
+    "dramatic sky — divine guidance and the transcendent call of God over the migration",
+    "wide open landscape — the land of Canaan that God promised to Abraham and his descendants"
+  ],
+  "description": "A monochrome engraving depicting a vast caravan moving across a rolling landscape. In the foreground, an elderly robed figure identified as Abraham walks alongside immense flocks of sheep that stretch across the composition. Other figures walk, ride camels, and herd animals. The procession moves from right to left across gentle hills under a dramatic sky with layered clouds illuminated by twilight. The landscape is expansive and open, suggesting the vastness of the journey. The style is detailed cross-hatching creating rich tonal gradations.",
+  "theological_description": "Abraham's journey into Canaan is the founding act of faith in the biblical narrative. 'By faith Abraham obeyed when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going' (HEB.11.8). God's command in Genesis 12:1 — 'Go from your country and your kindred and your father's house to the land that I will show you' — initiates the covenant that will shape all of salvation history. The vast flocks represent God's blessing upon the patriarch, fulfilling the promise that God would make Abraham a great nation (GEN.12.2). The journey itself becomes the archetype of the life of faith: a pilgrimage toward a promise not yet fully realized, sustained only by the word of God. The writer of Hebrews understood that Abraham 'was looking forward to the city that has foundations, whose designer and builder is God' (HEB.11.10) — a destination beyond any earthly Canaan.",
+  "scripture_refs": [
+    {"ref": "GEN.12.1-5", "relevance": "primary", "reason": "God calls Abram to leave his homeland and journey to Canaan with all his possessions"},
+    {"ref": "GEN.12.7", "relevance": "primary", "reason": "The Lord appeared to Abram and said, To your offspring I will give this land"},
+    {"ref": "HEB.11.8-10", "relevance": "typological", "reason": "By faith Abraham obeyed when called, going out not knowing where he was going"},
+    {"ref": "GEN.13.2", "relevance": "allusion", "reason": "Abram was very rich in livestock, in silver, and in gold — the vast flocks depicted"},
+    {"ref": "ACT.7.2-4", "relevance": "allusion", "reason": "Stephen recounts God calling Abraham to leave Mesopotamia for the promised land"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["epic", "solemn", "vast", "hopeful"],
+  "period": "Patriarchal",
+  "_meta": {
+    "key": "0005928",
+    "title": "Abraham Journeying Into the Land of Canaan",
+    "artist": "Gustave Dor\u00e9",
+    "model": "claude-opus-4-6"
+  }
+}

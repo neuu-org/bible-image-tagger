@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Aaron",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Plague of Locusts",
+  "tags": [
+    "plague-of-locusts",
+    "egypt",
+    "ten-plagues",
+    "moses",
+    "aaron",
+    "pyramids",
+    "divine-judgment",
+    "exodus"
+  ],
+  "symbols": [
+    "raised staff — Moses's rod as the instrument of divine power and judgment",
+    "hands raised toward sky — invoking God's judgment upon Egypt",
+    "pyramids in background — Egypt, the land of bondage",
+    "dark sky — the approaching plague blotting out the light",
+    "flat-roofed city — the Egyptian settlement about to be devastated"
+  ],
+  "description": "Two robed figures stand on an elevated vantage point overlooking a flat-roofed Egyptian city. The figure at the left raises a staff toward the dark, ominous sky, while the figure at the right raises both hands. Behind the city, the silhouettes of pyramids are visible against the horizon. The sky is dark and threatening, suggesting an approaching swarm. The city stretches below in geometric patterns of low buildings. The rendering is detailed with a watercolor-like quality in muted browns and grays.",
+  "theological_description": "The Plague of Locusts is the eighth of the ten plagues God sent upon Egypt to liberate Israel from bondage. Moses stretches out his staff over Egypt at God's command, and an east wind brings locusts that 'covered the face of the whole land, so that the land was darkened, and they ate every plant of the land' (EXO.10.15). Each plague demonstrates God's sovereignty over the Egyptian deities — the locust plague struck at the agricultural gods upon whom Egypt depended for sustenance. Pharaoh's repeated hardening of heart (EXO.10.20) reveals the pattern of human resistance to divine authority. The plagues serve a dual purpose: liberation of Israel and revelation of God's power — 'that you may know that I am the LORD in the midst of the earth' (EXO.8.22). Joel will later use the locust plague as a prophetic image of divine judgment (JOL.1.4), and Revelation draws on this imagery for the fifth trumpet (REV.9.3-7).",
+  "scripture_refs": [
+    {
+      "ref": "EXO.10.12-15",
+      "relevance": "primary",
+      "reason": "Moses stretching out his staff and the locusts covering all Egypt — the event depicted"
+    },
+    {
+      "ref": "EXO.10.1-6",
+      "relevance": "primary",
+      "reason": "God's command to Moses to go to Pharaoh and the warning of the locust plague"
+    },
+    {
+      "ref": "EXO.10.20",
+      "relevance": "primary",
+      "reason": "Pharaoh's heart hardened, refusing to let Israel go despite the devastation"
+    },
+    {
+      "ref": "JOE.1.4",
+      "relevance": "typological",
+      "reason": "Joel's prophetic use of locust plague imagery for divine judgment"
+    },
+    {
+      "ref": "REV.9.3-7",
+      "relevance": "typological",
+      "reason": "The apocalyptic locusts of the fifth trumpet, drawing on Exodus imagery"
+    },
+    {
+      "ref": "EXO.8.22",
+      "relevance": "allusion",
+      "reason": "The plagues reveal that God is LORD in the midst of the earth"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ominous",
+    "awesome",
+    "dramatic"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0003791",
+    "title": "The Plague of Locusts",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

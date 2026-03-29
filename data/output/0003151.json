@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Virgin and Child with Angels",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-christ",
+    "angels",
+    "swaddling",
+    "maternal-tenderness",
+    "incarnation",
+    "divine-infancy"
+  ],
+  "symbols": [
+    "swaddling cloth — the humble wrapping of the Word made flesh, prefiguring burial linens",
+    "angels attending — heavenly hosts worshipping the incarnate God",
+    "Virgin gazing at the child — contemplative love of the Theotokos",
+    "sleeping or resting infant — the peace of God dwelling among humanity"
+  ],
+  "description": "The Virgin Mary, dressed in a mauve and blue gown, looks down tenderly at the infant Christ who lies across her lap, partially wrapped in white and blue cloth. She gently adjusts the swaddling with her right hand. Two angels flank the scene: one at upper left with wings visible, and a smaller cherubic angel at the right holding or playing a stringed instrument. The background is dark, focusing all attention on the intimate maternal scene. The infant appears to be sleeping or resting peacefully.",
+  "theological_description": "The Madonna and Child is the supreme visual statement of the Incarnation: the eternal Word of God (JHN.1.14) has taken flesh and lies as a helpless infant in his mother's arms. The swaddling clothes recall Luke 2:7 and the humble birth in Bethlehem, while patristically they foreshadow the burial linens of JHN.19.40. The attending angels echo the heavenly chorus of Luke 2:13-14, who sang 'Glory to God in the highest' at the Nativity. The musical angel evokes the Psalms' injunction to praise God with instruments (PSA.150.3-5). Mary's contemplative gaze fulfills LUK.2.19: she 'treasured up all these things, pondering them in her heart.' The intimacy of the scene expresses the great paradox of Christianity: the God who sustains the universe (COL.1.17) is sustained by a human mother's embrace.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "The infant wrapped in swaddling clothes, the central visual motif"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the theological foundation of the Madonna and Child image"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "The angelic host at the Nativity, represented by the attending angels"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasuring these things in her heart, expressed in her contemplative gaze"
+    },
+    {
+      "ref": "PSA.150.3-5",
+      "relevance": "allusion",
+      "reason": "Praising God with stringed instruments, embodied by the angel musician"
+    },
+    {
+      "ref": "COL.1.17",
+      "relevance": "typological",
+      "reason": "In him all things hold together, yet here he is held by his mother"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "serene",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003151",
+    "title": "Virgin of the Faja",
+    "artist": "Joaquin Manuel Fernandez Cruzado",
+    "model": "claude-opus-4-6"
+  }
+}

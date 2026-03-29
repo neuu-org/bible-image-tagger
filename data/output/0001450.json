@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony",
+      "type": "PERSON"
+    },
+    {
+      "name": "Demons",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Temptation of Saint Anthony",
+  "tags": [
+    "temptation",
+    "saint-anthony",
+    "demons",
+    "spiritual-warfare",
+    "torment",
+    "grotesque-creatures",
+    "desert-fathers",
+    "asceticism",
+    "resistance-to-evil"
+  ],
+  "symbols": [
+    "Demons attacking Anthony — the spiritual warfare faced by those who resist evil through ascetic discipline",
+    "Anthony's endurance amid the assault — the faithfulness of the saint who will not yield to temptation",
+    "Monstrous hybrid creatures — the manifold forms of temptation and evil in the world",
+    "Wings and claws on the demons — their supernatural and predatory nature"
+  ],
+  "description": "An elderly bearded man in monastic robes is surrounded and attacked by a swarm of grotesque demonic creatures. The demons have varied forms — some with bat wings, horns, beaks, claws, and scaled bodies. They pull, grab, and strike at the saint from every direction. The central figure appears composed despite the assault, clutching his staff. The composition is dense and chaotic, rendered in fine engraved linework against a hatched background. The artist's monogram appears at the bottom.",
+  "theological_description": "The Temptation of Saint Anthony is among the most depicted subjects in Christian art. Anthony of Egypt (c. 251-356), the father of Christian monasticism, withdrew into the desert where he endured legendary demonic attacks. His life, recorded by Athanasius, became the foundational text of desert spirituality. Though Anthony is not a biblical figure, his experience embodies Ephesians 6:12: 'We wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world.' Christ's own temptation in the wilderness (MAT.4.1-11) is the archetype that Anthony imitated. The First Epistle of Peter warns: 'Your adversary the devil prowls around like a roaring lion, seeking someone to devour. Resist him, firm in your faith' (1PE.5.8-9). Anthony's triumph over demonic assault through faith and prayer became the model for all subsequent Christian spiritual warfare.",
+  "scripture_refs": [
+    {
+      "ref": "EPH.6.12",
+      "relevance": "typological",
+      "reason": "Wrestling against principalities and powers — the spiritual combat Anthony endures against demons"
+    },
+    {
+      "ref": "MAT.4.1-11",
+      "relevance": "typological",
+      "reason": "Christ's temptation in the wilderness, the archetype for Anthony's desert spiritual warfare"
+    },
+    {
+      "ref": "1PE.5.8-9",
+      "relevance": "typological",
+      "reason": "The devil prowling like a roaring lion — Anthony resists firm in faith"
+    },
+    {
+      "ref": "JAS.4.7",
+      "relevance": "allusion",
+      "reason": "Resist the devil and he will flee from you — the promise fulfilled in Anthony's steadfastness"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "chaotic",
+    "terrifying",
+    "defiant"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001450",
+    "title": "Holy Antonius",
+    "artist": "Martin Schongauer",
+    "model": "claude-opus-4-6"
+  }
+}

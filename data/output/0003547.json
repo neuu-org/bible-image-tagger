@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ Pantocrator",
+  "tags": [
+    "pantocrator",
+    "christ-blessing",
+    "gospel-book",
+    "cruciform-halo",
+    "icon",
+    "divine-authority",
+    "frontal-gaze",
+    "sovereign-lord"
+  ],
+  "symbols": [
+    "blessing hand — the priestly and kingly authority of Christ",
+    "closed Gospel book — the Word of God contained and guarded by Christ",
+    "cruciform halo — the cross inscribed within divine glory",
+    "gold background — the uncreated light of heaven",
+    "frontal gaze — the direct encounter between Christ and the believer",
+    "red and dark garments — the human (red) and divine (dark/heavenly) natures of Christ"
+  ],
+  "description": "A half-length icon of Christ Pantocrator on a gold background. Christ faces the viewer directly with large, intense eyes and a solemn expression. He has long dark hair and a beard. His right hand is raised in a blessing gesture with two fingers extended, while his left hand holds a closed golden Gospel book against his body. He wears a dark red inner garment and a dark outer garment with gold trim at the shoulder. A cruciform halo with a dark brown cross encircles his head. The gold background is aged and worn. The panel has a raised border.",
+  "theological_description": "The Pantocrator ('Ruler of All') icon from Gavshinka is a classic expression of the Orthodox theological understanding of Christ. The frontal gaze invites direct encounter — the icon is understood not as a picture but as a window into the divine presence. The two fingers of the blessing hand signify the two natures of Christ (divine and human), while the closed Gospel represents the sealed Word that Christ alone is worthy to open (REV.5.5). The cruciform halo declares that the Crucified One is the Cosmic Lord, that glory and suffering are inseparable in Christian theology. Colossians 1:15 — 'He is the image of the invisible God' — provides the theological justification for depicting Christ in iconography: since God has made himself visible in the Incarnation, the icon participates in that revelation. The Pantocrator proclaims Revelation 1:8: 'I am the Alpha and the Omega, says the Lord God, who is and who was and who is to come, the Almighty.'",
+  "scripture_refs": [
+    {"ref": "REV.1.8", "relevance": "primary", "reason": "The Almighty, Alpha and Omega — the Pantocrator title expressed in the icon"},
+    {"ref": "COL.1.15", "relevance": "primary", "reason": "Christ as the image of the invisible God — the theological basis for icon theology"},
+    {"ref": "JHN.1.1-3", "relevance": "primary", "reason": "The Word who was in the beginning with God, represented by the Gospel book"},
+    {"ref": "REV.5.5", "relevance": "allusion", "reason": "The Lion of Judah who alone is worthy to open the sealed book"},
+    {"ref": "JHN.14.9", "relevance": "allusion", "reason": "Whoever has seen me has seen the Father — the icon as encounter with the divine"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "majestic", "transcendent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003547",
+    "title": "Christ Pantocrator from Gavshinka",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

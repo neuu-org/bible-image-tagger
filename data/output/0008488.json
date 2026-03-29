@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin of Guadalupe",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Fray Juan de Zumarraga",
+      "type": "PERSON"
+    },
+    {
+      "name": "Juan Diego",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Altarpiece of the Virgin of Guadalupe",
+  "tags": [
+    "virgin-of-guadalupe",
+    "marian-apparition",
+    "juan-diego",
+    "mexican-devotion",
+    "mandorla",
+    "angels",
+    "saint-john-baptist"
+  ],
+  "symbols": [
+    "radiant mandorla — the woman clothed with the sun (Revelation 12:1)",
+    "stars on Mary's mantle — the heavens declaring God's glory on the Virgin's garment",
+    "crescent moon beneath her feet — Revelation's woman standing on the moon",
+    "angels drawing back curtains — revealing the sacred image to the faithful",
+    "Juan Diego below — the indigenous visionary to whom Mary appeared",
+    "tilma image — the miraculous image imprinted on Juan Diego's cloak"
+  ],
+  "description": "A large altarpiece composition centered on the iconic image of the Virgin of Guadalupe within a golden radiant mandorla. She stands in prayer on a crescent moon, wearing a star-covered blue mantle over a rose-colored dress. Two large angels at the sides draw back green curtains to reveal the image. Below, two kneeling figures flank a small central image of a saint — an elderly monk at the left and a younger man in white at the right. The whole composition is framed by ornate gilded baroque ornamentation.",
+  "theological_description": "The Virgin of Guadalupe is the most significant Marian apparition in the Americas, appearing to the indigenous convert Juan Diego in 1531 on Tepeyac Hill near Mexico City. The image miraculously imprinted on his tilma became the catalyst for the conversion of millions. The iconography draws directly from Revelation 12:1 — the woman clothed with the sun, with the moon under her feet and crowned with stars. In the Mexican context, the Virgin's dark skin and Nahuatl language affirmed the dignity of indigenous peoples and declared that the Gospel was not the exclusive property of the European colonizers. The presence of Fray Juan de Zumarraga, the bishop who received the tilma, and Juan Diego below represents the union of institutional Church and popular faith. This altarpiece functions as a visual catechesis: the drawn curtains invite the viewer into the mystery, as if the sacred image is being revealed anew with each prayer.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "The woman clothed with the sun, the moon under her feet, crowned with stars — the iconographic source"
+    },
+    {
+      "ref": "LUK.1.48-49",
+      "relevance": "primary",
+      "reason": "All generations will call me blessed — fulfilled in the devotion of the Americas to Guadalupe"
+    },
+    {
+      "ref": "PSA.87.4-6",
+      "relevance": "typological",
+      "reason": "This one was born there — God registering the peoples, the universal scope of salvation"
+    },
+    {
+      "ref": "GAL.3.28",
+      "relevance": "allusion",
+      "reason": "Neither Jew nor Greek — the Virgin appearing as indigenous, affirming the universality of grace"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "devotional",
+    "glorious",
+    "reverent"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0008488",
+    "title": "Altarpiece of the Virgin of Guadalupe with Saint John the Baptist, Fray Juan de Zumarraga and Juan Diego",
+    "artist": "Miguel Cabrera",
+    "model": "claude-opus-4-6"
+  }
+}

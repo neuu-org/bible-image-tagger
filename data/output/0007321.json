@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Saint Francis of Assisi", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Saint Francis in Prayer with Angels",
+  "tags": [
+    "saint-francis",
+    "prayer",
+    "angel",
+    "putto",
+    "skull",
+    "cross",
+    "cave",
+    "contemplation",
+    "franciscan",
+    "hermitage"
+  ],
+  "symbols": [
+    "skull — memento mori, meditation on death and the vanity of worldly things",
+    "wooden cross — the center of Franciscan spirituality, devotion to Christ crucified",
+    "cave or grotto — the hermitage, withdrawal from the world for prayer",
+    "putto descending from heaven — divine consolation and angelic visitation during prayer",
+    "brown habit — Franciscan poverty and humility"
+  ],
+  "description": "A kneeling friar in a brown Franciscan habit prays with hands clasped, gazing upward toward a winged putto who descends from a bright cloud opening at the upper left. The friar is tonsured with a thin beard. Before him on a stone ledge rest a skull, a wooden cross, and a closed red book. The setting is a dark rocky grotto or cave with a landscape glimpsed through an opening at center. The overall composition contrasts the dark earthly cave with the bright heavenly visitation above.",
+  "theological_description": "Saint Francis of Assisi in prayer represents the ideal of contemplative intimacy with God achieved through radical poverty and devotion to Christ crucified. The cave setting recalls both Elijah's cave at Horeb (1 Kings 19:9) and the desert hermitage tradition of the Church Fathers. The skull and cross are the two poles of Franciscan meditation: death as the gateway to life, and the cross as the means of transformation. Francis, who received the stigmata on Mount La Verna, was uniquely conformed to Christ's Passion through prayer. The descending angel signifies divine consolation — the experience described by mystics when God's presence becomes palpable during intense prayer. The book represents Scripture, the source of Francis's radical obedience to the Gospel.",
+  "scripture_refs": [
+    {"ref": "GAL.6.14", "relevance": "primary", "reason": "May I never boast except in the cross of our Lord Jesus Christ — the heart of Franciscan spirituality"},
+    {"ref": "PHP.3.10", "relevance": "allusion", "reason": "To know Christ and the fellowship of His sufferings — Francis's desire to share in Christ's Passion"},
+    {"ref": "1KI.19.9-13", "relevance": "typological", "reason": "Elijah in the cave encountering God — the archetype of the hermit saint in the grotto"},
+    {"ref": "MAT.6.6", "relevance": "allusion", "reason": "Go into your room and pray to your Father in secret — the hiddenness of authentic prayer"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["devotional", "contemplative", "luminous"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007321",
+    "title": "St Francis in prayer with Two Angels",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

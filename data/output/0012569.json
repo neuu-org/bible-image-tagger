@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome in Penitence",
+  "tags": [
+    "saint-jerome",
+    "penitence",
+    "crucifix",
+    "skull",
+    "rosary",
+    "books",
+    "desert-father",
+    "scholar",
+    "devotional"
+  ],
+  "symbols": [
+    "crucifix — the focus of Jerome's devotion and the source of salvation",
+    "skull — memento mori, the inevitability of death and the need for repentance",
+    "books and papers — Jerome's scholarly work translating the Bible (Vulgate)",
+    "rosary beads — prayer and devotion",
+    "bare chest — ascetic self-denial and penitence",
+    "upward gaze — communion with Christ on the cross"
+  ],
+  "description": "A half-length figure of an emaciated elderly man with a long grey beard, bare-chested, seated at a table in deep shadow. He gazes upward to the left where a small crucifix stands. On the table before him lie papers, books, and a string of rosary beads. A human skull rests beside the crucifix. His right hand is pressed to his chest in a gesture of devotion or penitence. A reddish cloth partially drapes his left shoulder. The dramatic tenebristic lighting illuminates only the figure and the objects on the table, with the rest lost in darkness.",
+  "theological_description": "Matthias Stom depicts Saint Jerome (c. 342-420) in his characteristic dual role as penitent and scholar. Jerome is best known for translating the Bible into Latin (the Vulgate), making Scripture accessible to the Western world for over a millennium. The books and papers reference this monumental scholarly achievement — Jerome took seriously Paul's admonition: 'Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth' (2 Tim 2:15). The crucifix toward which he gazes is the center of his faith, as Paul declared: 'I decided to know nothing among you except Jesus Christ and him crucified' (1 Cor 2:2). The skull is the classic memento mori, reminding of Genesis 3:19 — 'you are dust, and to dust you shall return.' Jerome's ascetic, bare-chested appearance reflects his years as a hermit in the desert near Bethlehem, where he combined rigorous self-denial with intellectual labor. His posture of devotion echoes the Psalmist: 'As a deer pants for flowing streams, so pants my soul for you, O God' (Ps 42:1).",
+  "scripture_refs": [
+    {
+      "ref": "2TI.2.15",
+      "relevance": "primary",
+      "reason": "Rightly handling the word of truth — Jerome's life work of Bible translation"
+    },
+    {
+      "ref": "1CO.2.2",
+      "relevance": "primary",
+      "reason": "I decided to know nothing except Christ crucified — Jerome gazing at the crucifix"
+    },
+    {
+      "ref": "GEN.3.19",
+      "relevance": "allusion",
+      "reason": "You are dust and to dust you shall return — the skull as memento mori"
+    },
+    {
+      "ref": "PSA.42.1",
+      "relevance": "allusion",
+      "reason": "My soul pants for God — Jerome's intense devotional gaze"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "penitent",
+    "contemplative",
+    "austere"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012569",
+    "title": "St. Jerome",
+    "artist": "Matthias Stom",
+    "model": "claude-opus-4-6"
+  }
+}

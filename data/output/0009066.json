@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Donor figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Virgin and Child enthroned with donor and angels",
+  "tags": [
+    "madonna-enthroned",
+    "christ-child",
+    "gold-background",
+    "donor-portrait",
+    "angels",
+    "throne",
+    "trecento",
+    "devotional",
+    "patterned-robe"
+  ],
+  "symbols": [
+    "enthroned Madonna — the Seat of Wisdom, the Church presenting Christ to the world",
+    "gold background — the heavenly realm, divine light beyond time and space",
+    "Christ Child in red — his future Passion, the blood of redemption",
+    "donor kneeling in black — the faithful patron in prayer, the Church on earth approaching the heavenly court",
+    "angels flanking — the heavenly attendants of the divine Mother and Child"
+  ],
+  "description": "A tall, narrow Trecento altarpiece panel with a pointed Gothic arch and gold background. The Virgin Mary sits enthroned, wearing an elaborately patterned white and gold robe with a veil. She holds the Christ Child on her lap, who wears a red garment. Two small angels appear in the upper corners. At the bottom left, a tiny kneeling figure in black (the donor) prays at the base of the throne. The throne has decorative elements at the top. The style is characteristic of Italian Gothic painting with flat gold ground, decorative surface patterns, and hieratic proportions.",
+  "theological_description": "This Trecento Madonna Enthroned presents the classic medieval image of the Theotokos (God-Bearer) as the Seat of Wisdom — the living throne upon which the divine Word sits. The gold background represents the uncreated light of the heavenly realm, signifying that this is not an earthly scene but a vision of eternal reality. The Christ Child's red garment foreshadows the Passion — even in infancy, the destiny of the cross is present. The tiny donor figure at the base of the throne represents the faithful Christian approaching the heavenly court through prayer — the entire purpose of the altarpiece was to facilitate this encounter between the earthly worshipper and the heavenly realities. Mary's role as mediatrix is expressed in her position: she presents the Child to the world and receives the world's prayers to present to her Son. The angels attending the throne echo Isaiah's vision of the seraphim crying 'Holy, holy, holy' before the throne of God (Isa 6:3).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.32-33",
+      "relevance": "primary",
+      "reason": "He will be great and will be called Son of the Most High — the enthroned Christ Child"
+    },
+    {
+      "ref": "ISA.6.1-3",
+      "relevance": "typological",
+      "reason": "The Lord seated on a throne with attending seraphim — the pattern for this heavenly enthronement"
+    },
+    {
+      "ref": "HEB.4.16",
+      "relevance": "allusion",
+      "reason": "Let us approach the throne of grace with confidence — the donor kneeling before the heavenly court"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — the donor's devotion fulfilling Mary's prophecy"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "sacred",
+    "hieratic",
+    "devotional",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009066",
+    "title": "Virgin and Child Enthroned and Donor, Angels",
+    "artist": "Pietro Lorenzetti",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "holy-spirit-dove",
+    "ave-maria",
+    "gratia-plena",
+    "church-window",
+    "lily",
+    "latin-inscription"
+  ],
+  "symbols": [
+    "dove descending — the Holy Spirit overshadowing Mary at the moment of the Incarnation",
+    "angel with wings — Gabriel, the messenger of God announcing the divine conception",
+    "Latin inscription AVE MARIA GRATIA PLENA DOMINUS TECUM — the angelic salutation: Hail Mary, full of grace, the Lord is with thee",
+    "red and gold vestments — the regal dignity of the moment of the Incarnation",
+    "banner with MARIA — identifying the recipient of the divine message"
+  ],
+  "description": "A stained glass window in a Gothic-pointed arch shape. At the top, a white dove representing the Holy Spirit descends with outstretched wings, radiating white light. Below, an angel with blue and white wings extends a hand. The Virgin Mary is depicted in rich red and gold vestments, her hands raised. A banner reading MARIA crosses the composition. At the bottom, a Latin inscription reads GRATIA PLENA DOMINUS TECUM. The glass uses vibrant reds, golds, blues, and whites with lead came creating the structure. Small decorative elements including flowers fill the borders.",
+  "theological_description": "The Annunciation is the pivotal moment in salvation history when heaven awaited the response of a young woman. Gabriel's greeting — Ave Maria, gratia plena, Dominus tecum (Hail Mary, full of grace, the Lord is with thee) — announces the beginning of the New Covenant. The descent of the Holy Spirit as a dove echoes the creation narrative where the Spirit hovered over the waters (GEN.1.2); now the Spirit hovers over Mary to bring about the new creation. The stained glass medium is itself theologically apt: as light passes through glass without breaking it, so the divine entered Mary without violating her virginity — an analogy used by medieval theologians. The Latin text inscribed at the base ensures that every worshipper who enters the church is greeted with the same words that changed history: 'The Lord is with you' (LUK.1.28). Mary's posture of receptivity embodies the faith that made the Incarnation possible: 'Let it be to me according to your word' (LUK.1.38).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation — Gabriel's message to Mary and her acceptance of God's plan"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "The angelic greeting inscribed on the window: Hail, full of grace, the Lord is with you"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you — the dove descending in the window"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the prophetic fulfillment announced by Gabriel"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "luminous",
+    "reverent",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004844",
+    "title": "Loughrea St. Brendan's Cathedral",
+    "artist": "Sarah Purser",
+    "model": "claude-opus-4-6"
+  }
+}

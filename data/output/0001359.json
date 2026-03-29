@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jerome", "type": "PERSON"}
+  ],
+  "event": "Saint Jerome in the wilderness",
+  "tags": [
+    "saint-jerome",
+    "wilderness",
+    "cave",
+    "hermit",
+    "penitence",
+    "reading",
+    "rocky-landscape",
+    "asceticism",
+    "church-father",
+    "scholar"
+  ],
+  "symbols": [
+    "Rocky cave — the desert of Chalcis where Jerome retreated for ascetic life and study",
+    "Books and manuscripts — Jerome's monumental work of translating the Bible into Latin (the Vulgate)",
+    "Barren rocky landscape — the renunciation of worldly comforts for spiritual discipline",
+    "Red cardinal's hat or cloth — traditional attribute associating Jerome with Church authority"
+  ],
+  "description": "An elderly bearded man in pale blue robes sits within a cavernous rocky grotto, reading or writing at a makeshift stone desk. Books and manuscripts are visible before him. A small red object, likely a cardinal's hat, sits on the ground nearby. The cave walls are rendered in warm amber tones with dramatic crevices and textures. Through openings in the rock, a distant landscape with trees and sky is visible on the right. The atmosphere is one of solitary scholarly devotion.",
+  "theological_description": "Jerome (c. 347-420) is one of the four great Latin Doctors of the Church, famed above all for his translation of the Bible into Latin — the Vulgate — which served as the standard Scripture of Western Christendom for over a millennium. He spent years in the desert of Chalcis practicing severe asceticism, and later settled near Bethlehem. Though Jerome himself is not a biblical figure, his life was utterly devoted to Scripture. His retreat to the wilderness echoes the biblical pattern of prophetic withdrawal: Moses at Sinai (EXO.3.1), Elijah at Horeb (1KI.19.8), and Christ in the desert (MAT.4.1-2). Jerome's famous letter describes how, even in the desert, he was tormented by memories of Roman pleasures, and only the study of Hebrew and Greek Scripture gave him peace — embodying the psalmist's declaration: 'Your word is a lamp to my feet and a light to my path' (PSA.119.105).",
+  "scripture_refs": [
+    {"ref": "PSA.119.105", "relevance": "typological", "reason": "God's word as lamp and light — Jerome's entire life was devoted to making Scripture accessible"},
+    {"ref": "MAT.4.1-2", "relevance": "typological", "reason": "Christ's wilderness retreat, the pattern for Jerome's desert asceticism"},
+    {"ref": "2TI.3.16", "relevance": "allusion", "reason": "All Scripture is God-breathed — the conviction that drove Jerome's translation labors"},
+    {"ref": "1KI.19.8", "relevance": "typological", "reason": "Elijah's retreat to the cave at Horeb, a prophetic precedent for wilderness withdrawal"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplative", "austere", "solitary"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001359",
+    "title": "St. Jerome in the Wilderness",
+    "artist": "Andrea Mantegna",
+    "model": "claude-opus-4-6"
+  }
+}

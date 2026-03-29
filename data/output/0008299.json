@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Saint Anthony", "type": "PERSON"},
+    {"name": "Temptresses and demons", "type": "GROUP"}
+  ],
+  "event": "The Temptation of Saint Anthony",
+  "tags": [
+    "temptation-of-anthony",
+    "desert-father",
+    "nude-figures",
+    "demons",
+    "asceticism",
+    "spiritual-warfare",
+    "wilderness"
+  ],
+  "symbols": [
+    "central nude female figure — the temptation of the flesh in its most direct form",
+    "dark monstrous figure at left — the demonic power behind temptation",
+    "smaller figures and children — the proliferation and persistence of temptation",
+    "trees and wilderness — the desert setting of Anthony's spiritual combat"
+  ],
+  "description": "A vigorously painted outdoor scene dominated by a standing nude female figure at center with arms raised, draping a white cloth above her head. Around her, smaller nude figures and children cluster on the ground. At the left, a large dark, monstrous figure in red looms behind a rock. Dense blue-green trees and foliage fill the background under a turbulent sky. The brushwork is thick and expressive with bold blues, greens, and flesh tones.",
+  "theological_description": "The Temptation of Saint Anthony, the third-century desert father, is a perennial subject expressing the reality of spiritual warfare. Anthony withdrew to the Egyptian desert to pursue God through prayer and asceticism, only to find that solitude intensified rather than eliminated temptation. The demons that assailed him took the form of seductive visions and terrifying monsters — the full spectrum of carnal desire and existential fear. This scene confronts the viewer with the raw physicality of temptation: the flesh is not merely an idea but a bodily reality that must be resisted through grace and discipline. Anthony's struggle prefigures every Christian's spiritual combat (Ephesians 6:12) and draws on Christ's own temptation in the wilderness (Matthew 4:1-11). The dark figure represents what Paul calls 'the powers of this dark world' — forces that oppose God's purposes through the exploitation of human desire.",
+  "scripture_refs": [
+    {"ref": "MAT.4.1-11", "relevance": "typological", "reason": "Christ's temptation in the wilderness — the archetype for Anthony's desert combat"},
+    {"ref": "EPH.6.12", "relevance": "primary", "reason": "Our struggle is not against flesh and blood but against spiritual forces of evil — the reality behind Anthony's visions"},
+    {"ref": "1CO.10.13", "relevance": "allusion", "reason": "God is faithful and will not let you be tempted beyond your ability — the promise sustaining the saint"},
+    {"ref": "JAS.4.7", "relevance": "allusion", "reason": "Resist the devil and he will flee from you — the spiritual discipline Anthony practiced"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["turbulent", "sensual", "threatening"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0008299",
+    "title": "The Temptation of St. Anthony",
+    "artist": "Paul Cezanne",
+    "model": "claude-opus-4-6"
+  }
+}

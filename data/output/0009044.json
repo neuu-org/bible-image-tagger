@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Money changers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Merchants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Jesus drives the buyers and sellers out of the Temple",
+  "tags": [
+    "cleansing-of-temple",
+    "money-changers",
+    "whip",
+    "righteous-anger",
+    "temple",
+    "merchants",
+    "overturned-tables",
+    "doves",
+    "sheep",
+    "zeal"
+  ],
+  "symbols": [
+    "whip of cords — divine judgment against the profanation of sacred space",
+    "overturned tables and scattered coins — the disruption of corrupt commerce in God's house",
+    "temple columns — the house of God desecrated by greed and restored by Christ's authority",
+    "fleeing merchants — those who exploit religion for profit driven out by righteous zeal"
+  ],
+  "description": "A dramatic black-and-white engraving showing Christ at center, arm raised wielding a whip of cords, driving merchants and money changers from the temple. Figures flee in all directions — some fall to the ground, others scramble to gather scattered coins and goods. Animals (sheep and doves) are loose amid the chaos. Overturned tables and benches fill the foreground. The setting is a grand columned temple interior. Christ stands elevated, his figure radiating authority amid the pandemonium. Text at the top and bottom identifies the scene and includes a biblical reference.",
+  "theological_description": "The Cleansing of the Temple is recorded in all four Gospels, underscoring its significance. Jesus entered the Temple courts and found them turned into a marketplace, overturning the tables of the money changers and the seats of those selling doves, declaring: 'My house shall be called a house of prayer, but you make it a den of robbers' (Matt 21:13). This dramatic act combines prophetic symbolism with messianic authority — only the Lord of the Temple has the right to purify it. John's account specifies that Jesus made a whip of cords (John 2:15) and that his disciples remembered the psalm: 'Zeal for your house will consume me' (Ps 69:9). The Cleansing simultaneously fulfills Malachi's prophecy: 'The Lord whom you seek will suddenly come to his temple... But who can endure the day of his coming?' (Mal 3:1-2). The event reveals that Jesus claims authority not merely as a teacher but as the Son who has come to his Father's house. It also serves as an enacted parable of judgment — if God does not spare his own Temple from purification, how much more will he judge all corruption.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.21.12-13",
+      "relevance": "primary",
+      "reason": "Jesus overturning tables and declaring the Temple a house of prayer made into a den of robbers"
+    },
+    {
+      "ref": "JHN.2.13-17",
+      "relevance": "primary",
+      "reason": "Jesus making a whip of cords and driving out the sellers, his zeal consuming him"
+    },
+    {
+      "ref": "PSA.69.9",
+      "relevance": "typological",
+      "reason": "Zeal for your house will consume me — the psalm the disciples recalled during the Cleansing"
+    },
+    {
+      "ref": "MAL.3.1-2",
+      "relevance": "typological",
+      "reason": "The Lord suddenly coming to his Temple — the prophetic fulfillment of the Cleansing"
+    },
+    {
+      "ref": "MRK.11.15-17",
+      "relevance": "primary",
+      "reason": "Mark's account emphasizing that Jesus would not allow anyone to carry goods through the Temple"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "furious",
+    "chaotic",
+    "righteous",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009044",
+    "title": "The Buyers And Sellers Driven Out Of Temple",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "Lamb", "type": "OTHER"},
+    {"name": "Putti", "type": "ANGEL"}
+  ],
+  "event": "Saint John the Baptist Bearing the Lamb",
+  "tags": [
+    "john-the-baptist",
+    "lamb-of-god",
+    "putti",
+    "scallop-shell",
+    "clouds",
+    "heavenly-glory",
+    "forerunner"
+  ],
+  "symbols": [
+    "lamb in Baptist's arms — the Lamb of God whom John proclaimed",
+    "scallop shell niche — baptism and the waters of purification",
+    "putti on clouds — heavenly witnesses to the forerunner's mission",
+    "pink cloth — the blood of the Lamb and of John's own martyrdom",
+    "upward gaze — John pointing beyond himself to the one who comes after"
+  ],
+  "description": "A bearded man in a short garment holds a white lamb tenderly in his arms while gazing upward. He is framed by a large golden scallop shell behind him. Around him, several chubby putti sit on billowing clouds, some playfully reaching toward him. A pink cloth drapes across his body. The composition is warm and golden, with the shell creating an aureole effect. The Baptist's muscular arms cradle the lamb gently.",
+  "theological_description": "John the Baptist, the forerunner of Christ, is depicted in his supreme role as the one who declares, 'Behold, the Lamb of God, who takes away the sin of the world!' (JHN.1.29). The lamb in his arms is not merely a pastoral accessory but the central symbol of his prophetic mission — to identify Jesus as the sacrificial Lamb of God. The scallop shell behind him evokes baptism, John's primary ministry at the Jordan River (MAT.3.1-6). His upward gaze expresses the essence of his calling: 'He must increase, but I must decrease' (JHN.3.30). This cupola painting, based on Correggio's work for Parma Cathedral, places the Baptist in heavenly glory, affirming Christ's own assessment: 'Among those born of women there has arisen no one greater than John the Baptist' (MAT.11.11). The putti surrounding him suggest the Baptist's place among the heavenly court.",
+  "scripture_refs": [
+    {"ref": "JHN.1.29", "relevance": "primary", "reason": "Behold the Lamb of God — John holding the lamb he was born to proclaim"},
+    {"ref": "MAT.3.1-6", "relevance": "primary", "reason": "John's baptismal ministry, symbolized by the scallop shell"},
+    {"ref": "JHN.3.30", "relevance": "primary", "reason": "He must increase, I must decrease — the upward gaze directing attention beyond himself"},
+    {"ref": "MAT.11.11", "relevance": "allusion", "reason": "No one born of women greater than John — his exalted heavenly position"},
+    {"ref": "ISA.40.3", "relevance": "typological", "reason": "The voice crying in the wilderness, prepare the way — the forerunner's prophetic role"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["glorious", "tender", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003928",
+    "title": "Saint John Bearing the Lamb (copy of the fresco in the cupola of Parma Cathedral)",
+    "artist": "Correggio",
+    "model": "claude-opus-4-6"
+  }
+}

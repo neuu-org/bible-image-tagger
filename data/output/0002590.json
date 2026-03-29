@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Jerome Reading",
+  "tags": [
+    "saint-jerome",
+    "reading",
+    "candlelight",
+    "scholar",
+    "cardinal-robes",
+    "manuscript",
+    "church-father",
+    "scripture-study",
+    "nocturnal-study"
+  ],
+  "symbols": [
+    "illuminated manuscript — the Word of God that Jerome devoted his life to translating",
+    "candlelight — the light of Scripture illuminating the darkness of the world",
+    "red cardinal's robe — Jerome's eminence in the Church tradition",
+    "books and instruments on table — the tools of the scholar and translator",
+    "darkness surrounding the figure — the world's ignorance dispelled by study of the Word"
+  ],
+  "description": "An elderly bearded man in a red cardinal's robe stands reading an unfolded manuscript or letter, illuminated from below by a hidden candle or light source. The warm glow catches his concentrated face and the yellowed paper in his hands. On the table before him lie an open book, spectacles, and small objects. The entire scene is enveloped in deep darkness, with only the figure and the paper dramatically lit in the characteristic candlelight manner.",
+  "theological_description": "Saint Jerome (c. 347-420), depicted here in his study by candlelight, was the preeminent biblical scholar of the early Church. His translation of the Bible from Hebrew and Greek into Latin — the Vulgate — became the standard text of Western Christianity for over a millennium. Jerome's rigorous philological method and his insistence on returning to the original Hebrew (the Hebraica veritas) set the standard for all subsequent biblical scholarship. The candlelight illumination is both literal and symbolic: Jerome saw himself as one who labored through the night to bring the light of Scripture to the Church. His famous letter to Eustochium describes his nocturnal study habits and his passionate devotion to sacred learning. Jerome embodied the Psalmist's declaration: 'Your word is a lamp to my feet and a light to my path' (PSA.119.105).",
+  "scripture_refs": [
+    {
+      "ref": "PSA.119.105",
+      "relevance": "allusion",
+      "reason": "Your word is a lamp to my feet — Jerome's lifelong devotion to Scripture as illumination"
+    },
+    {
+      "ref": "2TI.2.15",
+      "relevance": "allusion",
+      "reason": "Rightly handling the word of truth — Jerome's scholarly vocation of accurate translation"
+    },
+    {
+      "ref": "JOS.1.8",
+      "relevance": "allusion",
+      "reason": "Meditating on the Book of the Law day and night — Jerome's tireless study"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplation",
+    "concentration",
+    "warmth",
+    "solitude"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0002590",
+    "title": "St. Jerome Reading",
+    "artist": "Georges de la Tour",
+    "model": "claude-opus-4-6"
+  }
+}

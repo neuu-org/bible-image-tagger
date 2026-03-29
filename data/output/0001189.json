@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Pontius Pilate", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ before Pilate — What is Truth?",
+  "tags": [
+    "trial-of-jesus",
+    "pontius-pilate",
+    "what-is-truth",
+    "passion",
+    "roman-governor",
+    "interrogation",
+    "light-and-shadow",
+    "innocence-vs-power",
+    "judgment"
+  ],
+  "symbols": [
+    "Pilate in bright garments standing in sunlight — worldly power and self-assurance, yet moral blindness",
+    "Christ in dark, bloodied robes standing in shadow — suffering innocence, the hidden truth that the world cannot perceive",
+    "Stone pavement (Lithostrotos) — the place of judgment, where earthly authority confronts divine truth",
+    "Pilate's outstretched hand — the rhetorical question 'What is truth?' posed dismissively to Truth incarnate"
+  ],
+  "description": "Two figures stand in a dimly lit stone interior. On the left, a clean-shaven man in an elaborate golden toga with a red-bordered hem stands in a patch of bright light on a stone-paved floor, his left hand extended in a questioning gesture. On the right, a gaunt, disheveled figure in a dark reddish-brown robe stands in deeper shadow, his hair matted and face marked with suffering, gazing steadily at his questioner. The contrast between the well-groomed Roman official and the battered prisoner is stark.",
+  "theological_description": "This scene captures the dramatic confrontation recorded in John 18:38, when Pilate asks Jesus 'What is truth?' — a question that echoes through the ages as the supreme irony of the Passion narrative. Truth incarnate (JHN.14.6) stands before a man who holds the power of life and death, yet cannot recognize what stands before him. The Church Fathers, particularly Augustine, saw in Pilate's question the tragedy of fallen reason: the capacity to ask the right question while being unable to receive the answer. Christ's silence and composure fulfill Isaiah's prophecy of the Suffering Servant: 'He was oppressed and afflicted, yet he did not open his mouth' (ISA.53.7). The light falling on Pilate while Christ stands in shadow inverts the spiritual reality — it is Pilate who dwells in darkness, while Christ is the Light of the World (JHN.8.12). The stone pavement recalls the Gabbatha where judgment was rendered (JHN.19.13), and the entire trial exposes the bankruptcy of earthly justice when confronted with divine innocence.",
+  "scripture_refs": [
+    {"ref": "JHN.18.37-38", "relevance": "primary", "reason": "Pilate's direct question 'What is truth?' to Jesus during the trial, the central moment depicted"},
+    {"ref": "JHN.14.6", "relevance": "typological", "reason": "Jesus declared 'I am the way, the truth, and the life' — the irony of Pilate asking 'What is truth?' to Truth himself"},
+    {"ref": "ISA.53.7", "relevance": "typological", "reason": "The Suffering Servant led like a lamb before his shearers is silent — Christ's composure before Pilate"},
+    {"ref": "JHN.19.13", "relevance": "primary", "reason": "The Stone Pavement (Gabbatha) where Pilate sat in judgment, visible in the scene"},
+    {"ref": "JHN.8.12", "relevance": "allusion", "reason": "Christ as Light of the World — the ironic contrast of Christ standing in shadow while Pilate stands in light"},
+    {"ref": "MAT.27.24", "relevance": "allusion", "reason": "Pilate's eventual washing of hands, foreshadowed by his dismissive gesture here"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tension", "solemnity", "irony", "gravity"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001189",
+    "title": "What is Truth. Christ and Pilate",
+    "artist": "Nikolai Ge",
+    "model": "claude-opus-4-6"
+  }
+}

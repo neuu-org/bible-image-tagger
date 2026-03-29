@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Satan", "type": "OTHER"}
+  ],
+  "event": "The Temptation of Christ in the wilderness",
+  "tags": [
+    "temptation-of-christ",
+    "wilderness",
+    "satan",
+    "mountain",
+    "panoramic-landscape",
+    "cliff",
+    "kingdoms-of-world",
+    "spiritual-combat",
+    "desert",
+    "offer-of-power"
+  ],
+  "symbols": [
+    "high cliff or mountain — the place where Satan showed Christ all the kingdoms of the world",
+    "Satan gesturing toward the landscape — the offer of worldly power in exchange for worship",
+    "Christ seated calmly — His refusal to accept authority through compromise with evil",
+    "vast panoramic landscape with cities — all the kingdoms of the world and their glory",
+    "trees on the rocky outcrop — life persisting even in the wilderness of temptation"
+  ],
+  "description": "Two figures sit on a high rocky cliff overlooking a vast panoramic landscape. On the left, a figure in yellow-golden robes gestures outward toward the distant vista of cities, castles, and rolling countryside. On the right, Christ sits in a red garment, his posture composed and resistant. The landscape stretches far below and into the distance under a blue sky with clouds. The vantage point is dramatically high, emphasizing the scope of the kingdoms being offered. Mountains and settlements dot the far background.",
+  "theological_description": "The third temptation — Satan taking Jesus to a very high mountain and showing Him all the kingdoms of the world — strikes at the heart of messianic expectation. Israel awaited a political Messiah who would overthrow Rome and restore David's kingdom. Satan offers precisely this: 'All these I will give you, if you will fall down and worship me' (MAT.4.9). Christ's refusal — 'Be gone, Satan! For it is written, You shall worship the Lord your God and him only shall you serve' (MAT.4.10) — establishes that His kingdom is 'not of this world' (JHN.18.36). Where Adam in the garden succumbed to the temptation to 'be like God' on the serpent's terms, the second Adam in the wilderness refuses to seize power on any terms other than the Father's will. The panoramic landscape representing all worldly dominion reminds the viewer that every earthly power is temporary — 'the world and its desires pass away, but whoever does the will of God lives forever' (1JN.2.17). Christ's victory over this temptation guarantees that His future kingship, won through the Cross, will be eternal and uncorrupted.",
+  "scripture_refs": [
+    {"ref": "MAT.4.8-10", "relevance": "primary", "reason": "Satan showing Christ all the kingdoms of the world from a high mountain and Christ's refusal"},
+    {"ref": "LUK.4.5-8", "relevance": "primary", "reason": "The parallel account of the temptation to receive worldly authority through worshipping Satan"},
+    {"ref": "JHN.18.36", "relevance": "typological", "reason": "My kingdom is not of this world — the fruit of Christ's refusal to accept worldly power from Satan"},
+    {"ref": "DEU.6.13", "relevance": "primary", "reason": "You shall worship the Lord your God and serve Him only — the Scripture Christ quotes to defeat Satan"},
+    {"ref": "1JN.2.17", "relevance": "allusion", "reason": "The world and its desires pass away — the transience of the kingdoms Satan offers"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tense", "contemplative", "expansive"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004674",
+    "title": "Panorama landscape with the temptation of Christ",
+    "artist": "Tobias Verhaecht",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Ecce Homo — Behold the Man",
+  "tags": [
+    "ecce-homo",
+    "crown-of-thorns",
+    "passion",
+    "suffering-christ",
+    "blood",
+    "oval-portrait",
+    "red-robe"
+  ],
+  "symbols": [
+    "crown of thorns — the curse of Genesis 3:18 borne by the Redeemer",
+    "blood trickling down the face — the physical cost of atonement",
+    "upward gaze — Christ looking to the Father in the midst of suffering",
+    "red robe fragment — the mockery robe that ironically proclaims His true kingship",
+    "oval frame — a devotional format inviting close personal contemplation"
+  ],
+  "description": "An oval-framed bust portrait of Christ wearing a crown of thorns. His head is slightly tilted and His eyes gaze upward with an expression of patient suffering. Blood trickles from the thorns down His forehead. His bare shoulders and chest are visible, with a red cloth draped over one shoulder. The text 'ECCE HOMO' is inscribed below the oval frame. The rendering is precise and idealized, with smooth modeling and dramatic contrast between the luminous flesh and the dark background.",
+  "theological_description": "Ecce Homo — 'Behold the Man' — are Pilate's words as he presented the scourged, crowned Jesus to the crowd (John 19:5). What Pilate intended as an appeal for pity became the Church's eternal meditation: behold the God who became man to suffer for humanity. The upward gaze reveals Christ's unbroken communion with the Father even in the depths of degradation. The crown of thorns gathers the curse of the Fall (Genesis 3:18) onto the brow of the One who reverses it. Each drop of blood is, in the language of Hebrews, the blood of the new covenant, shed for the forgiveness of sins. The devotional oval format draws the viewer into intimate confrontation with the suffering face of God. This is the face that Isaiah saw in prophetic vision: 'His appearance was so marred, beyond human semblance' (Isaiah 52:14), yet it is also the face in which the glory of God shines (2 Corinthians 4:6).",
+  "scripture_refs": [
+    {"ref": "JHN.19.5", "relevance": "primary", "reason": "Pilate presenting Jesus: Ecce Homo, Behold the Man — the title and moment depicted"},
+    {"ref": "ISA.52.14", "relevance": "typological", "reason": "His appearance was so marred beyond human semblance — the Suffering Servant's disfigured face"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "By His wounds we are healed — the redemptive meaning of the blood"},
+    {"ref": "2CO.4.6", "relevance": "allusion", "reason": "The glory of God in the face of Jesus Christ — divine glory visible even in suffering"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["sorrowful", "patient", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008385",
+    "title": "Ecce Homo",
+    "artist": "Vieira Portuense",
+    "model": "claude-opus-4-6"
+  }
+}

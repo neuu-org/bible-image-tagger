@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Christ the Ancient of Days",
+      "type": "DEITY"
+    },
+    {
+      "name": "Seraphim",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Christ the Ancient of Days Enthroned",
+  "tags": [
+    "christ-ancient-of-days",
+    "orthodox-icon",
+    "enthroned",
+    "seraphim",
+    "mandorla",
+    "divine-majesty",
+    "annunciation-of-ustyug",
+    "gold-ground"
+  ],
+  "symbols": [
+    "Christ enthroned in a mandorla — the divine glory and sovereignty of Christ as eternal ruler",
+    "red seraphim flanking — the six-winged angels of Isaiah's vision crying 'Holy, holy, holy'",
+    "gold background — the uncreated light of divine eternity",
+    "Ancient of Days title — the identification of Christ with Daniel's vision of the eternal God"
+  ],
+  "description": "A small detail from a Russian Orthodox icon showing Christ enthroned within a dark blue mandorla or oval glory, set against a gold background. Christ is depicted as a young man with a halo, seated and holding a book or scroll. On either side, red six-winged seraphim flank the enthroned figure. The icon is painted in the traditional Byzantine style with gold leaf ground. The surface shows age and wear. The image appears as a semicircular or lunette detail from a larger icon, likely the Annunciation of Ustyug.",
+  "theological_description": "The image of Christ as the Ancient of Days combines two scriptural visions. Daniel's vision describes 'one like a son of man' coming to the 'Ancient of Days' whose 'clothing was white as snow, and the hair of his head like pure wool' (DAN.7.9-14). In Orthodox iconographic tradition, Christ himself is identified as the Ancient of Days, affirming his eternal divine nature — he who said 'Before Abraham was, I am' (JHN.8.58). The flanking seraphim recall Isaiah's temple vision: 'I saw the Lord sitting upon a throne, high and lifted up... Above him stood the seraphim. Each had six wings... And one called to another and said: Holy, holy, holy is the LORD of hosts' (ISA.6.1-3). John's Gospel identifies the Lord whom Isaiah saw as Christ himself (JHN.12.41). The mandorla of glory represents the uncreated divine light, the same glory that shone at the Transfiguration (MAT.17.2). As a detail from the Annunciation icon, this image declares that the child to be born of Mary is none other than the eternal God himself.",
+  "scripture_refs": [
+    {
+      "ref": "DAN.7.9-14",
+      "relevance": "primary",
+      "reason": "The Ancient of Days vision, the direct iconographic source for this depiction of Christ"
+    },
+    {
+      "ref": "ISA.6.1-3",
+      "relevance": "primary",
+      "reason": "Isaiah's vision of the Lord enthroned with seraphim, depicted here flanking Christ"
+    },
+    {
+      "ref": "JHN.8.58",
+      "relevance": "primary",
+      "reason": "Before Abraham was, I AM — Christ's claim to eternal preexistence as the Ancient of Days"
+    },
+    {
+      "ref": "JHN.12.41",
+      "relevance": "typological",
+      "reason": "Isaiah saw Christ's glory and spoke of him, identifying the Lord of Isaiah 6 with Jesus"
+    },
+    {
+      "ref": "REV.4.8",
+      "relevance": "allusion",
+      "reason": "The living creatures crying Holy, holy, holy, echoing the seraphim in Isaiah"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "majestic",
+    "transcendent",
+    "sacred"
+  ],
+  "period": "Prophetic",
+  "_meta": {
+    "key": "0009639",
+    "title": "Christ the Ancient of Days (detail Annunciation of Ustyug)",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

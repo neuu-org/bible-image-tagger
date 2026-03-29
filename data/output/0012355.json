@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioners",
+      "type": "GROUP"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Crucifixion of Saint Peter",
+  "tags": [
+    "crucifixion-of-peter",
+    "inverted-cross",
+    "martyrdom",
+    "soldiers",
+    "putti",
+    "anguish",
+    "dramatic"
+  ],
+  "symbols": [
+    "inverted cross — Peter's request to be crucified upside down, unworthy of dying like Christ",
+    "muscular executioners straining — the violence of human cruelty against the saints",
+    "putti descending with wreath — the heavenly crown of martyrdom",
+    "Peter's agonized face — the reality of suffering in witness to Christ",
+    "ropes and nails — the instruments of torture and execution"
+  ],
+  "description": "A dramatic Baroque composition showing a muscular elderly man (Peter) being crucified upside down on a large wooden cross. Several powerful executioners strain to raise the cross, pulling ropes and pushing. Peter's body is inverted, his head at the bottom, his face contorted in agony. Above in the clouds, small putti descend bearing what appears to be a wreath or crown. The painting is dark and turbulent, with powerful diagonal composition and intense chiaroscuro in Luca Giordano's vigorous style.",
+  "theological_description": "Giordano depicts the martyrdom of the Apostle Peter, who according to early Christian tradition requested to be crucified upside down, considering himself unworthy to die in the same manner as his Lord. Jesus had foretold Peter's death: 'when you are old, you will stretch out your hands, and another will dress you and carry you where you do not want to go. This he said to show by what kind of death he was to glorify God' (John 21:18-19). The inverted crucifixion represents Peter's supreme act of humility — the same Peter who had once denied Christ three times (John 18:25-27) now embraces the most shameful death in imitation of his Master. The putti bearing the crown of glory represent the fulfillment of Peter's own words: 'when the chief Shepherd appears, you will receive the unfading crown of glory' (1 Pet 5:4). Paul's declaration resonates: 'I have fought the good fight, I have finished the race... there is laid up for me the crown of righteousness' (2 Tim 4:7-8).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.21.18-19",
+      "relevance": "primary",
+      "reason": "Jesus foretells Peter's death — stretching out his hands, carried where he does not want to go"
+    },
+    {
+      "ref": "1PE.5.4",
+      "relevance": "primary",
+      "reason": "When the chief Shepherd appears you will receive the unfading crown of glory — the putti with the wreath"
+    },
+    {
+      "ref": "JHN.18.25-27",
+      "relevance": "typological",
+      "reason": "Peter's threefold denial now redeemed by his martyrdom"
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "allusion",
+      "reason": "I have fought the good fight — the crown of righteousness laid up"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "dramatic",
+    "triumphant"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012355",
+    "title": "Crucifixion of Saint Peter",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

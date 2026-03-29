@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "The Twelve Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Judas Iscariot",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "apostles",
+    "long-table",
+    "bread-and-wine",
+    "passover",
+    "upper-room",
+    "betrayal",
+    "communion"
+  ],
+  "symbols": [
+    "Long table with bread — the Passover meal transformed into the Eucharist",
+    "Christ at center — the host of the meal, the one who offers His body and blood",
+    "Twelve apostles — the new Israel gathered around Christ for the covenant meal",
+    "Balcony with observers above — witnesses to the sacred event from another realm or time",
+    "Lunette arch — the liturgical framing of the scene within church architecture"
+  ],
+  "description": "A wide lunette-shaped fresco depicts Christ and the twelve apostles seated along one side of a long white-draped table. Christ sits at the center, while the apostles are arranged on both sides in various postures of conversation and reaction. The figures wear colorful robes — reds, oranges, blues, whites, and greens. Above, in a balcony or mezzanine behind an opening in the wall, two additional figures look down upon the scene. The room has simple green-gray walls. Water jars sit on the floor at the far right.",
+  "theological_description": "The Last Supper is the foundational meal of Christian worship, recorded in all three Synoptic Gospels and referenced by Paul. On the night before His crucifixion, during the Passover meal, Jesus 'took bread, and when he had given thanks, he broke it and gave it to them, saying, This is my body, which is given for you. Do this in remembrance of me' (LUK.22.19). Likewise the cup: 'This cup is the new covenant in my blood' (LUK.22.20). The institution of the Eucharist transforms the Passover from a memorial of liberation from Egypt into the new covenant meal of liberation from sin and death. At this same meal, Jesus predicted His betrayal: 'One of you will betray me' (MAT.26.21), and washed the disciples' feet as a model of servant leadership (JHN.13.4-5). The Last Supper is simultaneously the most intimate and the most cosmic moment in the Gospels — God eating with His friends on the eve of saving the world through His death.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist: 'This is my body... This cup is the new covenant in my blood'"
+    },
+    {
+      "ref": "MAT.26.26-29",
+      "relevance": "primary",
+      "reason": "Matthew's account of the Last Supper with the bread and cup"
+    },
+    {
+      "ref": "MAT.26.21",
+      "relevance": "primary",
+      "reason": "Jesus announces: one of you will betray me — the tension among the apostles"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "primary",
+      "reason": "Paul's account of the institution narrative: 'Do this in remembrance of me'"
+    },
+    {
+      "ref": "JHN.13.1-5",
+      "relevance": "allusion",
+      "reason": "Before the supper, Jesus washed the disciples' feet — the full context of the Last Supper"
+    },
+    {
+      "ref": "EXO.12.1-14",
+      "relevance": "typological",
+      "reason": "The Passover meal that Jesus transforms into the Eucharist, lamb's blood prefiguring Christ's"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "intimate",
+    "sacred",
+    "tension"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001736",
+    "title": "The Last Supper (detail)",
+    "artist": "Andrea del Sarto",
+    "model": "claude-opus-4-6"
+  }
+}

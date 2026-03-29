@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Noli Me Tangere - Christ Appearing to Mary Magdalene",
+  "tags": [
+    "noli-me-tangere",
+    "resurrection-appearance",
+    "mary-magdalene",
+    "risen-christ",
+    "garden",
+    "kneeling",
+    "ointment-jar",
+    "halo",
+    "easter-morning",
+    "recognition"
+  ],
+  "symbols": [
+    "kneeling Magdalene with halo — the first witness of the Resurrection in devotion",
+    "ointment jar offered — the burial spices she came to anoint the body with, now unnecessary",
+    "risen Christ standing with staff — the Good Shepherd risen, holding the pilgrim's staff or cross",
+    "Christ's downward gaze — tender recognition mixed with the command not to cling"
+  ],
+  "description": "A silverpoint or chalk drawing showing two figures. At the left, a haloed woman kneels and offers a small vessel or jar. At the right, a taller figure (Christ) stands holding a long staff, looking down at the kneeling woman. Both have halos. The drawing is delicate and refined, with fine cross-hatching for shading. The composition is simple and devotional, focusing on the intimate encounter between the two figures.",
+  "theological_description": "The Noli Me Tangere ('Do not cling to me') is the moment recorded in John's Gospel when the risen Christ appears to Mary Magdalene in the garden near the tomb on Easter morning. Mary, weeping, initially mistakes Jesus for the gardener until he speaks her name: 'Mary.' She turns and says 'Rabboni' (Teacher) and reaches for him. Jesus responds: 'Do not cling to me, for I have not yet ascended to the Father' (JHN.20.16-17). This encounter is theologically rich: the Magdalene, from whom seven demons were cast out (LUK.8.2), becomes the Apostle to the Apostles — the first to see the risen Lord and the one sent to announce the Resurrection to the disciples. The ointment jar she carries connects her to the anointing traditions (LUK.7.37-38; JHN.12.3) — she came expecting a dead body to anoint, and found instead the living Lord. Christ's prohibition of clinging signals that the old mode of relating to his physical presence must give way to the new mode of the Spirit.",
+  "scripture_refs": [
+    {"ref": "JHN.20.11-18", "relevance": "primary", "reason": "The complete narrative of Christ appearing to Mary Magdalene at the tomb"},
+    {"ref": "JHN.20.17", "relevance": "primary", "reason": "Do not cling to me, for I have not yet ascended to the Father"},
+    {"ref": "MRK.16.9", "relevance": "primary", "reason": "Jesus appearing first to Mary Magdalene, from whom he had cast out seven demons"},
+    {"ref": "LUK.8.2", "relevance": "allusion", "reason": "Mary Magdalene, from whom seven demons had gone out — her transformation into first witness"},
+    {"ref": "SOS.3.1-4", "relevance": "typological", "reason": "I sought him whom my soul loves — the Bride seeking the Bridegroom, a type of Magdalene seeking Christ"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tenderness", "awe", "recognition", "reverence"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004108",
+    "title": "Kneeling Saint Mary Magdalene and Standing Christ",
+    "artist": "Filippino Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

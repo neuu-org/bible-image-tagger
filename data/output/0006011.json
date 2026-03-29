@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Birth of Christ (Nativity)",
+  "tags": [
+    "nativity",
+    "birth-of-christ",
+    "infant-jesus",
+    "holy-family",
+    "adoration",
+    "kneeling-mary",
+    "joseph",
+    "stable",
+    "landscape-background"
+  ],
+  "symbols": [
+    "infant on the ground — the humble birth of the King of Kings, laid low for our sake",
+    "kneeling Virgin in prayer — Mary's adoration of the incarnate Word she has borne",
+    "Joseph in contemplation — the guardian of the mystery, pondering the divine event",
+    "open landscape beyond — the world into which the Savior has been born"
+  ],
+  "description": "A horizontal predella-format painting depicting the Nativity. The infant Jesus lies nude on the ground at center, between Joseph at left and Mary at right. Joseph, an elderly bearded man in a blue robe and golden-yellow mantle, sits with hands clasped in prayer or wonder. Mary kneels in a blue mantle over a pink dress, her hands joined in adoration, gazing down at the child. Behind them, a gentle pastoral landscape with trees and distant hills stretches under a pale sky. The setting is a simple open area rather than a traditional stable.",
+  "theological_description": "The Nativity depicts the central mystery of the Christian faith: the Incarnation of the Word of God. 'The Word became flesh and dwelt among us' (JHN.1.14). The infant laid on the bare ground, without cradle or throne, embodies the kenosis described in Philippians 2:6-7: Christ 'emptied himself, by taking the form of a servant, being born in the likeness of men.' Mary's kneeling posture of adoration recognizes in her own child the fulfillment of the angelic promise (LUK.1.31-33). Joseph's prayerful wonder reflects his role as the silent guardian of the mystery — the just man who obeyed the angelic command without fully comprehending (MAT.1.24). The open landscape suggests the cosmic scope of this birth: not confined to a building but breaking into the whole created order, for 'the earth will be full of the knowledge of the LORD as the waters cover the sea' (ISA.11.9).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "While they were there, the time came for her to give birth to her firstborn son"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation depicted"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "typological",
+      "reason": "Christ emptied himself, taking the form of a servant — the humble birth on bare ground"
+    },
+    {
+      "ref": "MAT.1.24-25",
+      "relevance": "primary",
+      "reason": "Joseph did as the angel commanded; Mary gave birth to a son"
+    },
+    {
+      "ref": "ISA.9.6",
+      "relevance": "typological",
+      "reason": "For to us a child is born, to us a son is given — the prophetic fulfillment"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "peaceful",
+    "tender",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006011",
+    "title": "Birth of Christ",
+    "artist": "Mariotto Albertinelli",
+    "model": "claude-opus-4-6"
+  }
+}

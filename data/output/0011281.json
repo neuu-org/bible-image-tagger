@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Our Lady with the Saints",
+  "tags": [
+    "madonna-and-child",
+    "saints",
+    "angels",
+    "cherubs",
+    "armor",
+    "devotional"
+  ],
+  "symbols": [
+    "Madonna and Child enthroned — the divine center around which all sanctity gathers",
+    "armored saint — a military saint or defender of the faith",
+    "cherubs — heavenly court attending the divine Mother and Child"
+  ],
+  "description": "A richly colored Baroque composition showing the Virgin Mary with the Christ Child at upper center, surrounded by angels and cherubs. Below, several saints gather including a figure in armor at left and elderly figures at right. A putto or child figure appears at the bottom. The composition is dynamic with sweeping diagonal movement, warm golden light, and rich reds, blues, and golds typical of Rubens.",
+  "theological_description": "This sacra conversazione brings together the Church Militant and Church Triumphant around the Madonna and Child. The armored figure may represent a military saint or the archangel Michael, embodying Paul's call to spiritual warfare (EPH.6.10-18). Mary as Theotokos holds the incarnate Word who unites heaven and earth (JHN.1.14). The gathering of saints from different eras demonstrates the communion of saints (HEB.12.1), all united in their devotion to Christ.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh, the Christ Child at the center of the gathering"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "typological",
+      "reason": "The great cloud of witnesses, the saints gathered in devotion"
+    },
+    {
+      "ref": "EPH.6.10-18",
+      "relevance": "allusion",
+      "reason": "The armor of God, worn by the military saint figure"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "majestic",
+    "devotional",
+    "warm"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011281",
+    "title": "Our Lady with the Saints",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

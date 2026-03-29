@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Music-making Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna and Child Enthroned with Angel Musicians",
+  "tags": [
+    "virgin-and-child",
+    "enthroned-madonna",
+    "angel-musicians",
+    "heavenly-music",
+    "columns",
+    "devotional-panel",
+    "lute",
+    "harp"
+  ],
+  "symbols": [
+    "throne and architectural niche — Mary as Seat of Wisdom and Throne of God",
+    "angel musicians — the heavenly choir celebrating the Incarnation",
+    "red and dark robes — Mary's humanity (red) and sorrow/humility (dark mantle)",
+    "columns flanking the throne — the pillars of the Church and of wisdom",
+    "Christ Child standing on Mary's arm — divine authority even in infancy"
+  ],
+  "description": "A standing Virgin Mary in a red dress and dark flowing mantle holds the Christ Child on her left arm, positioned under an ornate architectural canopy with a shell-shaped dome supported by red and white columns. The Child, lightly draped, stands upright and appears to hold something small. On either side, four small angels in pale robes play musical instruments including a harp, a lute, and other stringed instruments. The background is gold and the circular platform below suggests a pedestal or throne base.",
+  "theological_description": "The Madonna enthroned with musician angels is a devotional image type expressing the glory of the Incarnation. Mary stands as the living throne of God — the Sedes Sapientiae — presenting to the world the Word made flesh. The architectural canopy recalls both the Temple and the heavenly Jerusalem. The angel musicians evoke Psalm 150's call for all creation to praise the Lord with every instrument, and they signify that the birth of Christ is the occasion of cosmic rejoicing. The standing Christ Child conveys not infant helplessness but divine authority: even as a baby, He is Lord. The harmonious arrangement of figures within the sacred architecture expresses the theological conviction that in Mary's womb, heaven and earth were united, and the entire created order — represented by music — finds its center in the incarnate God.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "primary",
+      "reason": "The Magnificat — Mary's song of praise, the theological foundation for depicting her enthroned in glory"
+    },
+    {
+      "ref": "PSA.150.3-5",
+      "relevance": "allusion",
+      "reason": "Praise Him with stringed instruments — the angel musicians fulfilling the Psalmic call to worship"
+    },
+    {
+      "ref": "ISA.6.1-3",
+      "relevance": "typological",
+      "reason": "The Lord seated on a throne, high and lifted up, with angelic beings — the heavenly court reflected in this composition"
+    },
+    {
+      "ref": "LUK.2.13-14",
+      "relevance": "allusion",
+      "reason": "The heavenly host praising God at Christ's birth — angels making music for the incarnate Lord"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "celebratory",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007072",
+    "title": "Madonna Col Bambino E Quattro Angeli Musicanti",
+    "artist": "Lo Scheggia",
+    "model": "claude-opus-4-6"
+  }
+}

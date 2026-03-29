@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Living Jesus - Photo Mosaic Portrait",
+  "tags": [
+    "portrait-of-christ",
+    "composite-image",
+    "photo-mosaic",
+    "face-of-christ",
+    "contemporary-art",
+    "digital-art"
+  ],
+  "symbols": [
+    "composite image of Christ's face — Christ as the unity in diversity, all things holding together in him",
+    "hundreds of tiny images forming one face — the body of Christ composed of many members"
+  ],
+  "description": "A photo mosaic composed of hundreds of small images that, when viewed from a distance, form the face of Christ. The overall image suggests a traditional portrait of Jesus with long hair and beard, rendered in warm skin tones. The individual tiles contain a wide variety of small photographs — landscapes, animals, objects, and artworks. The technique creates a shimmering, pixelated effect that resolves into a recognizable face at a distance. The background is dark.",
+  "theological_description": "This contemporary photo mosaic of Christ's face creates a visual theology of unity in diversity. Hundreds of disparate images compose a single recognizable face, echoing Paul's teaching that the Church is one body with many members: 'For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ' (1CO.12.12). The technique also resonates with Colossians: 'He is before all things, and in him all things hold together' (COL.1.17) — the face of Christ emerges from the totality of creation. The image suggests that all of reality, properly understood, reveals the face of the Creator.",
+  "scripture_refs": [
+    {
+      "ref": "COL.1.17",
+      "relevance": "typological",
+      "reason": "In him all things hold together — the face of Christ emerging from the totality of images"
+    },
+    {
+      "ref": "1CO.12.12",
+      "relevance": "typological",
+      "reason": "Many members forming one body — the mosaic structure as image of the body of Christ"
+    },
+    {
+      "ref": "COL.1.15",
+      "relevance": "allusion",
+      "reason": "He is the image of the invisible God — Christ's face made visible through creation"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "wonder",
+    "contemporary",
+    "unity"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004141",
+    "title": "Living Jesus",
+    "artist": "Robert Silvers",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Holy Family with a Garland of Flowers",
+  "tags": [
+    "holy-family",
+    "flower-garland",
+    "madonna-and-child",
+    "floral",
+    "frame",
+    "roses",
+    "devotional"
+  ],
+  "symbols": [
+    "flower garland framing — creation's beauty surrounding the Creator made flesh",
+    "roses — love and the Incarnation"
+  ],
+  "description": "A painting of the Holy Family surrounded by an elaborate garland of flowers. The central scene shows the Madonna and Child with Joseph, framed by a richly detailed floral wreath painted by Jan Brueghel the Elder in his characteristic botanical precision. The flowers include roses, tulips, and other blooms.",
+  "theological_description": "The floral garland surrounding the Holy Family represents creation paying homage to its Creator. As the Psalmist declares: 'The heavens declare the glory of God, and the sky above proclaims his handiwork' (PSA.19.1). The flowers recall the Song of Solomon's garden imagery (SNG.2.1-2), and Jesus's own words: 'Consider the lilies of the field, how they grow... even Solomon in all his glory was not arrayed like one of these' (MAT.6.28-29).",
+  "scripture_refs": [
+    {
+      "ref": "PSA.19.1",
+      "relevance": "allusion",
+      "reason": "Creation declaring God's glory, the flowers as creation's homage"
+    },
+    {
+      "ref": "MAT.6.28-29",
+      "relevance": "allusion",
+      "reason": "The lilies surpassing Solomon's glory"
+    },
+    {
+      "ref": "SNG.2.1-2",
+      "relevance": "allusion",
+      "reason": "Garden and flower imagery of the Song of Solomon"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "beautiful",
+    "devotional",
+    "rich"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011618",
+    "title": "Holy Family with a Garland of Flowers",
+    "artist": "Jan Brueghel the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Susanna",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elders",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Susanna and the Elders",
+  "tags": [
+    "susanna",
+    "elders",
+    "bathing",
+    "harassment",
+    "garden",
+    "fountain",
+    "accusation",
+    "innocence",
+    "old-testament",
+    "apocrypha",
+    "virtue-threatened"
+  ],
+  "symbols": [
+    "bathing Susanna — purity and innocence under assault",
+    "two elders leaning over — corrupt authority and lust masquerading as righteousness",
+    "garden with fountain — the private garden where the ambush took place",
+    "Susanna's upward gaze — appeal to God for vindication against false accusers",
+    "exposed body and clutched garments — vulnerability and the violation of modesty"
+  ],
+  "description": "A young woman with fair skin and auburn hair sits partially unclothed on a stone ledge beside a fountain, a blue drape across her lap and a white garment pulled across her chest. She looks upward with an expression of alarm and distress. Two elderly bearded men lean over the balustrade behind her — one in a dark blue garment pointing upward, the other in a red cloak reaching toward her. In the background, a garden landscape with a fountain and distant buildings is visible under a cloudy sky.",
+  "theological_description": "The story of Susanna and the Elders, found in the additions to Daniel, presents one of Scripture's most powerful accounts of innocence vindicated by God. The two corrupt elders, appointed as judges in Israel, abuse their authority to prey upon the righteous Susanna, who declares: 'I am hemmed in on every side. For if I do this, it is death for me; and if I do not, I cannot escape your hands. I choose not to do it; I will fall into your hands, rather than sin in the sight of the Lord' (DAN.13.22-23 LXX). Her choice of faithfulness over self-preservation mirrors the theology of martyrdom throughout Scripture. God raises up the young Daniel to expose the elders' perjury, demonstrating that the Lord defends the innocent and brings hidden wickedness to light (PSA.37.6). Typologically, Susanna prefigures the Church persecuted by corrupt authorities yet vindicated by divine justice, and the elders anticipate the false witnesses at Christ's trial (MAT.26.59-60).",
+  "scripture_refs": [
+    {
+      "ref": "DAN.13.1-64",
+      "relevance": "primary",
+      "reason": "The complete narrative of Susanna's accusation by the elders and vindication through Daniel"
+    },
+    {
+      "ref": "DAN.13.22-23",
+      "relevance": "primary",
+      "reason": "Susanna's declaration of choosing faithfulness to God over yielding to the elders' threats"
+    },
+    {
+      "ref": "PSA.37.6",
+      "relevance": "typological",
+      "reason": "God bringing forth righteousness as the light and justice as the noonday"
+    },
+    {
+      "ref": "MAT.26.59-60",
+      "relevance": "typological",
+      "reason": "False witnesses testifying against an innocent person, as the elders testified against Susanna"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "distress",
+    "tension",
+    "vulnerability"
+  ],
+  "period": "Exile",
+  "_meta": {
+    "key": "0004270",
+    "title": "Susanna and the Elders",
+    "artist": "Pompeo Batoni",
+    "model": "claude-opus-4-6"
+  }
+}

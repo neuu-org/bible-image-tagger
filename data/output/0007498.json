@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Saint Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel or Seraph",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Companion friar",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Francis Receiving the Stigmata",
+  "tags": [
+    "stigmata",
+    "saint-francis",
+    "mountain",
+    "seraph",
+    "wounds-of-christ",
+    "la-verna",
+    "franciscan",
+    "kneeling"
+  ],
+  "symbols": [
+    "seraph or angel descending — the heavenly vision from which Francis received the wounds of Christ",
+    "kneeling Francis with arms raised — total receptivity to divine grace and suffering",
+    "rocky mountain — Mount La Verna, the site of the stigmata, echoing Sinai and Calvary",
+    "companion friar standing apart — the witness who observed but could not share the mystical experience",
+    "ornate border with additional scenes — the illuminated manuscript tradition of surrounding the central event with related narratives"
+  ],
+  "description": "An illuminated manuscript page with an ornate blue and gold floral border. The main miniature shows a kneeling brown-robed friar on a rocky hillside with arms raised, gazing upward at a descending winged figure in the sky. A second figure in a white robe stands nearby. A city or town is visible in the background. Below the miniature is a text panel with red and blue lettering. Additional small scenes appear in the border decoration at the lower left.",
+  "theological_description": "The stigmatization of Saint Francis on Mount La Verna in 1224 is one of the most extraordinary events in Christian hagiography. During a period of intense prayer and fasting, Francis beheld a vision of a seraph — a six-winged angel bearing the image of Christ crucified — and received in his own flesh the five wounds of Christ's Passion. This event represents the ultimate fulfillment of Paul's declaration, 'I bear in my body the marks of Jesus' (Galatians 6:17). Francis's reception of the stigmata signifies that the most perfect imitation of Christ culminates not in moral perfection alone but in participation in His suffering. The illuminated manuscript context places this event within the liturgical and devotional tradition of the Church, surrounding it with prayer texts and related scenes that invite the reader to contemplate the mystery.",
+  "scripture_refs": [
+    {
+      "ref": "GAL.6.17",
+      "relevance": "primary",
+      "reason": "I bear in my body the marks of Jesus — Paul's words fulfilled literally in Francis's stigmata"
+    },
+    {
+      "ref": "GAL.2.20",
+      "relevance": "primary",
+      "reason": "I have been crucified with Christ — the mystical identification with Christ's death made visible in the wounds"
+    },
+    {
+      "ref": "ISA.6.1-7",
+      "relevance": "typological",
+      "reason": "The vision of seraphim — the heavenly beings whose appearance Francis beheld on La Verna"
+    },
+    {
+      "ref": "2CO.4.10",
+      "relevance": "allusion",
+      "reason": "Always carrying in the body the death of Jesus — the theology of bearing Christ's suffering in the flesh"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "mystical",
+    "awe-filled",
+    "sacred"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007498",
+    "title": "St. Francis Receiving the Stigmata",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

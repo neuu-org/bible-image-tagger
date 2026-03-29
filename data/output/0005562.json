@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Lamb of God",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Saint John the Baptist in the Wilderness",
+  "tags": [
+    "john-the-baptist",
+    "lamb",
+    "agnus-dei",
+    "halo",
+    "wilderness",
+    "animal-skin-garment",
+    "prophet",
+    "forerunner",
+    "cross-staff"
+  ],
+  "symbols": [
+    "lamb at his feet — the Agnus Dei, the Lamb of God to whom John points",
+    "halo — sanctity of the greatest among those born of women",
+    "rough garment of animal skin — the ascetic garb of the wilderness prophet",
+    "cross-shaped staff — the sign of the cross foreshadowing Christ's sacrifice",
+    "architectural setting — suggesting a transitional space between wilderness and civilization"
+  ],
+  "description": "A monochrome engraving depicting Saint John the Baptist seated in a half-draped animal-skin garment, his muscular frame exposed. He has a large circular halo and a full beard. At his feet, a small lamb lies quietly. He rests one hand near his chin in a contemplative gesture. The background shows architectural columns and arches at left, with a distant landscape and buildings visible at right. A cross-shaped staff and other objects lie near him on the ground. The rendering shows fine cross-hatching and detailed anatomical modeling.",
+  "theological_description": "John the Baptist, the last and greatest of the Old Testament prophets, is shown in his characteristic ascetic garb with his defining attribute: the Lamb. John's proclamation 'Behold, the Lamb of God, who takes away the sin of the world' (JHN.1.29) is the theological center of his mission — he identifies Jesus as the sacrificial offering foreshadowed by every lamb slain since Abel's offering and the Passover. His animal-skin garment recalls Elijah (2KGS.1.8), the great prophet whom John came 'in the spirit and power of' (LUK.1.17). The wilderness setting reflects Matthew's account that John preached in the wilderness of Judea (MAT.3.1), fulfilling Isaiah's prophecy of 'a voice crying in the wilderness, prepare the way of the Lord' (ISA.40.3). The cross-staff anticipates the cross to which John's entire ministry points: the Lamb will be slain, and this forerunner will decrease so that the One who follows may increase (JHN.3.30).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "Behold, the Lamb of God who takes away the sin of the world — the lamb at John's feet"
+    },
+    {
+      "ref": "MAT.3.1-4",
+      "relevance": "primary",
+      "reason": "John preaching in the wilderness of Judea, wearing camel hair clothing"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "A voice crying in the wilderness, prepare the way of the Lord — John's prophetic vocation"
+    },
+    {
+      "ref": "LUK.1.17",
+      "relevance": "allusion",
+      "reason": "John came in the spirit and power of Elijah, whose garb he echoes"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "allusion",
+      "reason": "He must increase, but I must decrease — the forerunner's self-effacing mission"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "austere",
+    "prophetic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005562",
+    "title": "St. John the Baptist",
+    "artist": "Hans Holbein the Younger",
+    "model": "claude-opus-4-6"
+  }
+}

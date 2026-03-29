@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "virgin-and-child",
+    "madonna",
+    "tender-touch",
+    "gold-background",
+    "infant-jesus",
+    "maternal-sorrow",
+    "devotional-icon"
+  ],
+  "symbols": [
+    "Child touching Mary's cheek — tender intimacy between mother and son, and the Eleousa (tenderness) icon type",
+    "gold background — the divine, timeless realm of heaven",
+    "Mary's sorrowful expression — foreknowledge of Christ's Passion even in infancy",
+    "dark veil over bright garments — the hiddenness of glory beneath humility"
+  ],
+  "description": "An arched panel with a gold background showing a half-length Virgin Mary in a dark veil over a reddish garment, holding the Christ Child wrapped in pink cloth on her left arm. The infant reaches up with one hand to touch Mary's cheek while she inclines her head slightly toward Him with a melancholy, downcast expression. Her face is long and solemn with large dark eyes. The figures are rendered with gold striations on the drapery.",
+  "theological_description": "This Madonna and Child belongs to the Eleousa (tenderness) icon type, where the Child presses His cheek against His mother's — a gesture of intimate affection that simultaneously foreshadows the Passion. Mary's sorrowful gaze looks not at the viewer but inward, contemplating the sword that will pierce her own soul (Luke 2:35). The gold background removes the scene from historical time, placing it in the eternal present of salvation. The Christ Child's gesture of touching His mother's face is read by the Church Fathers as the divine Son comforting the human mother who already intuits His suffering. This icon type expresses the paradox at the heart of the Incarnation: God became an infant who could be held, touched, and wept over. The same hand that created the universe now reaches tenderly for a mother's cheek.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.34-35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword will pierce Mary's soul — the sorrow visible in her expression"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things, pondering them in her heart — her contemplative sorrow"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh — the Incarnation made tangible in the infant's touch"
+    },
+    {
+      "ref": "ISA.49.15",
+      "relevance": "allusion",
+      "reason": "Can a mother forget her nursing child? — the depth of maternal love as image of divine love"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "sorrowful",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007286",
+    "title": "Madonna with Child",
+    "artist": "Cimabue",
+    "model": "claude-opus-4-6"
+  }
+}

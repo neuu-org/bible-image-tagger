@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Onlookers and Pilgrims", "type": "GROUP"}
+  ],
+  "event": "Apparition before the Temple",
+  "tags": [
+    "apparition",
+    "virgin-mary",
+    "temple",
+    "jerusalem",
+    "glowing-figure",
+    "pilgrims",
+    "blue-veil",
+    "white-headcover",
+    "columns",
+    "dramatic-sky"
+  ],
+  "symbols": [
+    "glowing figure of Mary — a Marian apparition or the Virgin's presence at the Temple",
+    "luminous circles at her feet — divine radiance and supernatural manifestation",
+    "massive Temple architecture — the Temple of Jerusalem, seat of God's earthly presence",
+    "onlookers in varied dress — people from different walks of life witnessing the apparition",
+    "dramatic clouded sky — the divine presence manifesting through atmospheric phenomena"
+  ],
+  "description": "A woman in a blue robe and white head covering stands at center, her hands clasped in prayer, surrounded by a subtle glow or luminous aura with bright circular shapes at her feet. Behind her rises a massive architectural complex with tall towers, colonnades, and crenellated walls suggesting the Temple of Jerusalem. Several figures in Middle Eastern and ancient dress stand around her, some looking on with curiosity or reverence. The sky is dramatic with large billowing clouds. The palette features warm golds, blues, and earth tones.",
+  "theological_description": "This painting depicts an apparition of the Virgin Mary before the Temple, possibly referencing her Presentation at the Temple as a young girl (a tradition from the Protoevangelium of James) or a visionary appearance. The Temple of Jerusalem looms behind her as the architectural embodiment of God's dwelling among His people. Mary's presence before the Temple carries deep typological significance: she who will become the living Temple of the Holy Spirit (LUK.1.35) stands before the stone Temple that will eventually be superseded by the body of Christ (JHN.2.19-21). The luminous quality of her figure suggests the grace with which she was filled (LUK.1.28), setting her apart from the ordinary onlookers. The Temple's grandeur serves as a foil: all the magnificence of Herod's Temple is surpassed by this humble maiden who will bear the one greater than the Temple (MAT.12.6).",
+  "scripture_refs": [
+    {"ref": "LUK.1.28", "relevance": "allusion", "reason": "Hail, full of grace — the luminous quality of the Marian figure"},
+    {"ref": "LUK.2.22-24", "relevance": "allusion", "reason": "The presentation at the Temple, Mary's connection to the sacred space"},
+    {"ref": "MAT.12.6", "relevance": "typological", "reason": "Something greater than the Temple is here — Mary bearing the one who surpasses the Temple"},
+    {"ref": "JHN.2.19-21", "relevance": "typological", "reason": "Destroy this temple and in three days I will raise it up — the body as the true Temple"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["mystical", "awe", "reverent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005936",
+    "title": "Apparition devant le temple",
+    "artist": "Raphael Delorme",
+    "model": "claude-opus-4-6"
+  }
+}

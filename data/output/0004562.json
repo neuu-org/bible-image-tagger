@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "The Crucifixion of Christ",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "mary-magdalene",
+    "angel",
+    "golgotha",
+    "passion",
+    "mourning",
+    "distant-city",
+    "kneeling-figure",
+    "dark-sky"
+  ],
+  "symbols": [
+    "Christ on the cross — the atoning sacrifice for the sins of the world",
+    "kneeling woman in red — Mary Magdalene in mourning at the foot of the cross",
+    "angel in white — heavenly witness to the mystery of redemption",
+    "distant city — Jerusalem, from which Christ was led out to die",
+    "dark sky — the cosmic darkness that covered the land during the Crucifixion"
+  ],
+  "description": "Christ hangs on a tall wooden cross against a dark, turbulent sky. At the foot of the cross, a woman in a red robe kneels in grief, embracing the base. To the right, a pale figure in white, possibly an angel, stands with arms extended. A distant cityscape is visible in the background beneath the stormy sky. The painting is small in scale and somewhat worn, with dark, muted tones throughout.",
+  "theological_description": "This intimate Crucifixion distills the Passion to its essential elements: the Crucified Christ, the mourning follower, and the angelic witness. The solitary cross against a darkening sky recalls the cosmic scope of Christ's death — 'from the sixth hour there was darkness over all the land until the ninth hour' (MAT.27.45). Mary Magdalene at the cross represents faithful discipleship that persists when all others have fled; she who had been freed from seven demons (LUK.8.2) now watches as her liberator dies. The angel's presence affirms that this apparent defeat is watched by heaven with reverence, not horror — for the cross is the throne from which Christ draws all people to Himself (JHN.12.32). The distant city of Jerusalem represents the religious establishment that rejected its Messiah, fulfilling the parable of the tenants who killed the owner's son (MAT.21.33-39).",
+  "scripture_refs": [
+    {"ref": "MAT.27.45-50", "relevance": "primary", "reason": "The darkness over the land and the death of Christ on the cross"},
+    {"ref": "JHN.19.25", "relevance": "primary", "reason": "The women standing near the cross of Jesus, including Mary Magdalene"},
+    {"ref": "JHN.12.32", "relevance": "typological", "reason": "When I am lifted up from the earth, I will draw all people to myself"},
+    {"ref": "LUK.8.2", "relevance": "allusion", "reason": "Mary Magdalene, from whom seven demons had been cast out, now faithful at the cross"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "somber", "desolate"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004562",
+    "title": "Crucifixion",
+    "artist": "Sandro Botticelli",
+    "model": "claude-opus-4-6"
+  }
+}

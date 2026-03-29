@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Crucifixion with Mary Magdalene kneeling and weeping",
+  "tags": [
+    "crucifixion",
+    "mary-magdalene",
+    "cross",
+    "crown-of-thorns",
+    "skull",
+    "golgotha",
+    "kneeling",
+    "weeping",
+    "titulus",
+    "atonement"
+  ],
+  "symbols": [
+    "cross with Christ — the instrument of salvation, the altar of the cosmic sacrifice",
+    "INRI inscription — Jesus of Nazareth, King of the Jews, the ironic truth proclaimed by Pilate",
+    "Mary Magdalene kneeling — devoted love and penitence at the foot of the cross",
+    "skull at the base — Golgotha (Place of the Skull), and also Adam's skull, linking the first death to its reversal",
+    "dark sky — the cosmic darkness during the crucifixion, creation mourning its Creator"
+  ],
+  "description": "A tall, narrow composition with an arched top showing Christ crucified against a dark, stormy sky. His arms are stretched wide on the cross, and the INRI inscription is visible at the top. His body is illuminated, pale against the darkness. Below, Mary Magdalene kneels at the base of the cross, embracing it with clasped hands, her long hair flowing down. She wears a white blouse, blue sash, and red and orange skirts. A skull sits on the ground at the lower left. A faint glow of light appears on the horizon behind the cross. The composition is stark and devotional.",
+  "theological_description": "This intimate Crucifixion focuses the viewer's attention on the encounter between the dying Christ and the devoted Magdalene. The composition strips away the crowds, soldiers, and narrative detail to create a pure devotional image of the cross and the penitent sinner. Mary Magdalene, whom tradition identifies as the forgiven sinner of Luke 7, now kneels where once she washed Christ's feet with tears — but now the tears are for his death, not her sins. Her embrace of the cross enacts the invitation of Christ himself: 'If anyone would come after me, let him deny himself and take up his cross and follow me' (Matt 16:24). The skull of Golgotha carries a double meaning: it is both the place name (Matt 27:33) and, in patristic tradition, the skull of Adam buried beneath the cross, so that the blood of Christ flows down upon the first man, redeeming the entire human race from the curse of the Fall. The darkness covering the land (Mark 15:33) is not merely atmospheric but cosmic — creation itself recoils at the death of its Maker.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The crucifixion at Golgotha, the Place of the Skull"
+    },
+    {
+      "ref": "JHN.19.25",
+      "relevance": "primary",
+      "reason": "The women standing near the cross, including Mary Magdalene"
+    },
+    {
+      "ref": "MAT.16.24",
+      "relevance": "typological",
+      "reason": "Take up your cross and follow me — the Magdalene's embrace of the cross as discipleship"
+    },
+    {
+      "ref": "MRK.15.33",
+      "relevance": "primary",
+      "reason": "Darkness over the whole land from the sixth to the ninth hour"
+    },
+    {
+      "ref": "LUK.7.37-38",
+      "relevance": "allusion",
+      "reason": "The sinful woman who wept at Jesus' feet — the Magdalene's devotion now transferred to the cross"
+    },
+    {
+      "ref": "1CO.1.18",
+      "relevance": "typological",
+      "reason": "The word of the cross is the power of God — the stark cross as the center of salvation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "devotional",
+    "stark",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008831",
+    "title": "Crucifixion with Mary Magdalene Kneeling and Weeping",
+    "artist": "Francesco Hayez",
+    "model": "claude-opus-4-6"
+  }
+}

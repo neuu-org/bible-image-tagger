@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "John the Apostle", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Saint Francis of Paola", "type": "PERSON"}
+  ],
+  "event": "Christ on the Cross with the Virgin, Mary Magdalene, St. John and St. Francis of Paola",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "inri",
+    "crown-of-thorns",
+    "mourners",
+    "passion",
+    "dark-background",
+    "devotional",
+    "golgotha"
+  ],
+  "symbols": [
+    "INRI inscription — 'Jesus of Nazareth, King of the Jews,' the Roman titulus proclaiming Christ's true identity",
+    "Crown of thorns — the mockery of Christ's kingship, the curse of Eden borne on His brow",
+    "Mary in blue — Mater Dolorosa, the faithful mother at the foot of the cross",
+    "John in red — the beloved disciple entrusted with Mary's care",
+    "Magdalene kneeling and clasping the cross — penitent devotion clinging to the instrument of salvation",
+    "Francis of Paola — the later saint whose devotion bridges the viewer to the historical event"
+  ],
+  "description": "Christ hangs on a tall cross against a completely black background, the inscription INRI on a plaque above his head. His body is pale and illuminated, wearing only a white loincloth, a crown of thorns on his head. At the foot of the cross, four figures stand. To the left, the Virgin Mary in a dark blue veil and a younger figure in a red robe (John). At center, a woman in brown kneels and clasps the base of the cross, looking up. To the right, an elderly figure in a dark hooded robe holds a staff. The stark black background concentrates all attention on the figures.",
+  "theological_description": "The Crucifixion with mourners is the most central image of Christian faith, depicting the moment when 'God shows his love for us in that while we were still sinners, Christ died for us' (ROM.5.8). The INRI inscription, intended as mockery, proclaims the truth: Jesus is King, though His kingdom is established through sacrifice, not force. John's Gospel specifically records this gathering: 'Standing by the cross of Jesus were his mother, and his mother's sister, Mary the wife of Clopas, and Mary Magdalene' (JHN.19.25). It is here that Jesus entrusts Mary to John: 'Woman, behold your son... Behold your mother' (JHN.19.26-27), which the Fathers read as the establishment of Mary's spiritual motherhood over all believers. The Magdalene clinging to the cross embodies the soul that finds salvation only by holding fast to the crucified Christ. The presence of the later saint bridges the historical event to all subsequent Christian devotion.",
+  "scripture_refs": [
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "The women and John at the foot of the cross, Christ entrusting Mary to John"},
+    {"ref": "JHN.19.19", "relevance": "primary", "reason": "The INRI inscription: Jesus of Nazareth, King of the Jews — visible on the cross"},
+    {"ref": "ROM.5.8", "relevance": "typological", "reason": "God demonstrates His love: while we were sinners, Christ died for us"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "He was wounded for our transgressions — the suffering body of Christ on the cross"},
+    {"ref": "GAL.6.14", "relevance": "allusion", "reason": "May I never boast except in the cross of our Lord Jesus Christ — the devotion expressed by the kneeling figure"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemn", "devotional", "grief", "sacred"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001681",
+    "title": "Christ on the Cross with the Virgin, Mary Magdalene, St. John and St. Francis of Paola",
+    "artist": "Nicolas Tournier",
+    "model": "claude-opus-4-6"
+  }
+}

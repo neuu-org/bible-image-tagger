@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Holy Family with Saints",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "saints",
+    "angels",
+    "putti",
+    "franciscan",
+    "bishop-saint",
+    "kneeling-monk",
+    "child-saint"
+  ],
+  "symbols": [
+    "Holy Family at center — the Incarnation as the source of all holiness",
+    "kneeling monk — devotion and contemplative prayer before the divine mystery",
+    "child saint — innocence and youthful holiness",
+    "angels above — heavenly court attending the earthly manifestation of God",
+    "diverse saints — the many paths of holiness within the one Church"
+  ],
+  "description": "A large altarpiece composition with the Virgin Mary and Christ Child at the center, flanked by various saints. A young woman in pink (possibly Mary) holds a child, while an elderly bearded figure (Joseph) stands nearby. Several saints surround them, including a figure in a Franciscan habit, a bishop with a mitre, a kneeling white-robed monk, and a child figure. Above, putti and angels hover in clouds. The scene is dark and atmospheric with warm, earthy tones.",
+  "theological_description": "This sacra conversazione presents the Holy Family surrounded by saints from various religious orders and periods, embodying the theology of the communion of saints. The diverse holy figures gathered around the Christ Child represent the truth that all sanctity flows from the Incarnation—every path of holiness, whether Franciscan poverty, Carthusian contemplation, or episcopal ministry, finds its source and model in Christ. The composition echoes Ephesians 3:14-15: ‘From him every family in heaven and on earth is named.’ The kneeling monk embodies the contemplative response to the divine mystery, while the various standing saints represent the active dimensions of Christian service. The angels above complete the picture of heavenly worship united with earthly devotion, fulfilling the vision of Hebrews 12:22-24, where believers have come to the heavenly Jerusalem and the assembly of the firstborn.",
+  "scripture_refs": [
+    {
+      "ref": "EPH.3.14-15",
+      "relevance": "typological",
+      "reason": "Every family in heaven and earth derives its name from the Father, represented in this gathering"
+    },
+    {
+      "ref": "HEB.12.22-24",
+      "relevance": "allusion",
+      "reason": "The heavenly Jerusalem with angels and the assembly of the firstborn"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "The birth of Christ to Mary, the central event around which all the saints gather"
+    },
+    {
+      "ref": "REV.7.9-10",
+      "relevance": "typological",
+      "reason": "The great multitude of every nation standing before the Lamb"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "warm",
+    "reverent",
+    "communal"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013662",
+    "title": "Holy Family with St. Bruno, the Carthusian monks, saints",
+    "artist": "Jusepe de Ribera",
+    "model": "claude-opus-4-6"
+  }
+}

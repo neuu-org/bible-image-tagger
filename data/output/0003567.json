@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Apostles", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Putti", "type": "ANGEL"}
+  ],
+  "event": "The Assumption of the Virgin",
+  "tags": [
+    "assumption",
+    "virgin-mary",
+    "apostles",
+    "angels",
+    "heavenly-glory",
+    "empty-tomb",
+    "bodily-ascent",
+    "marian-dogma"
+  ],
+  "symbols": [
+    "Mary ascending in clouds — her bodily assumption into heavenly glory",
+    "angels bearing her upward — the heavenly court escorting the Queen of Heaven",
+    "apostles gazing upward from empty tomb — witnesses to the departure of the Theotokos",
+    "radiant golden light above — the glory of God receiving Mary",
+    "open sarcophagus below — the empty tomb paralleling Christ's own Resurrection"
+  ],
+  "description": "A large vertical composition divided into two zones. In the upper portion, the Virgin Mary in a red dress and blue mantle is borne upward by angels amid swirling clouds and golden light. Putti and cherub heads surround her. She raises her arms in prayer or wonder. In the lower portion, a group of apostles in richly colored robes gathers around what appears to be an open stone sarcophagus, their arms raised in astonishment as they look upward. One bearded figure at the far left is bare-chested and holds a book. The scene is lit dramatically with heavenly light above and deep shadow below.",
+  "theological_description": "The Assumption of Mary, while not directly narrated in canonical Scripture, is understood by the Church as the logical fulfillment of her unique role in salvation history. As the one who bore the sinless Son of God in her body, Mary's flesh was preserved from corruption — she shares in her Son's victory over death in a unique and anticipatory way. The scene parallels the Ascension of Christ (ACT.1.9-11), with the apostles again gazing upward as a beloved figure is taken into heaven. The empty tomb at the base mirrors the empty tomb of Easter, affirming that death has no final hold on those united to Christ. Revelation 12:1 — the woman 'clothed with the sun' — has been read as a figure of Mary glorified. Paul's declaration that 'the last enemy to be destroyed is death' (1CO.15.26) finds a foretaste in Mary's Assumption. She is the firstfruit of the redeemed humanity, the icon of the Church's own eschatological destiny.",
+  "scripture_refs": [
+    {"ref": "REV.12.1", "relevance": "typological", "reason": "The woman clothed with the sun, crowned with stars — Mary glorified in heaven"},
+    {"ref": "ACT.1.9-11", "relevance": "typological", "reason": "Christ's Ascension as the pattern for Mary's Assumption, apostles gazing upward"},
+    {"ref": "1CO.15.20-26", "relevance": "typological", "reason": "Christ the firstfruits, then those who belong to him — Mary as the first of the redeemed"},
+    {"ref": "LUK.1.28", "relevance": "allusion", "reason": "Full of grace — the foundation for Mary's unique destiny among the redeemed"},
+    {"ref": "PSA.132.8", "relevance": "allusion", "reason": "Arise, O Lord, to your resting place, you and the ark of your might — Mary as the Ark"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["glorious", "awe-filled", "triumphant", "heavenly"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0003567",
+    "title": "Assumption",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

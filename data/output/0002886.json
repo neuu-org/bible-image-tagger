@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Chapel Interior with Nativity and Saints",
+  "tags": [
+    "chapel",
+    "mural",
+    "nativity",
+    "altar",
+    "crown-of-thorns",
+    "lance",
+    "angels",
+    "modern-sacred-art",
+    "liturgical-space",
+    "triangle-symbol"
+  ],
+  "symbols": [
+    "triangular altar piece with crown of thorns and drops of blood — the Passion and suffering of Christ",
+    "mural figures with spear — the soldier who pierced Christ's side or a guardian angel",
+    "central Madonna and child in mural — the Incarnation as the focal mystery of the chapel",
+    "blue zone around altar — heavenly space surrounding the sacred",
+    "candelabra — liturgical illumination"
+  ],
+  "description": "The interior of a small chapel with pale plaster walls decorated with modernist line-drawn murals. The upper wall shows large outlined figures: angels, a seated Madonna and child, and a figure with a lance. Below, the altar area features a triangular painting showing a figure with a crown of thorns and red drops. The altar is flanked by standing candelabra and circular wreath-like objects on poles. The color palette is spare — pale yellow walls with blue accents around the altar niche. The style is bold and linear.",
+  "theological_description": "This chapel interior by Jean Cocteau demonstrates how the mysteries of the faith can be expressed through modern artistic idioms. The triangular altar painting with the crown of thorns and blood drops encapsulates the Passion of Christ in a geometric form — the triangle itself may represent the Trinity. The mural figures recall the Nativity scene with protective angelic figures, uniting the mysteries of the Incarnation and the Passion in a single liturgical space. The lance-bearing figure evokes both the soldier at the Crucifixion who pierced Christ's side (JHN.19.34) and the archangel Michael as guardian. The sparse, linear style strips the sacred narratives to their essential forms, allowing the architectural space itself to become a vessel for contemplation.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.34",
+      "relevance": "allusion",
+      "reason": "The soldier piercing Christ's side, referenced by the lance-bearing figure"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "allusion",
+      "reason": "The Nativity scene depicted in the upper mural"
+    },
+    {
+      "ref": "MAT.27.29",
+      "relevance": "allusion",
+      "reason": "The crown of thorns visible in the altar painting"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "contemplative",
+    "spare",
+    "sacred",
+    "modern"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0002886",
+    "title": "Interieur chapelle Saint Blaise",
+    "artist": "Jean Cocteau",
+    "model": "claude-opus-4-6"
+  }
+}

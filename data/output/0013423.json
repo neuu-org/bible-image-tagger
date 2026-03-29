@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Peter",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Peter",
+  "tags": [
+    "saint-peter",
+    "apostle",
+    "upward-gaze",
+    "tears",
+    "repentance",
+    "white-beard",
+    "balding-head",
+    "blue-garment",
+    "emotional-intensity",
+    "close-up-portrait"
+  ],
+  "symbols": [
+    "upward gaze with tears — repentance and the anguished appeal to God for forgiveness",
+    "aged, weathered face — the hardship of apostolic life and the weight of leadership",
+    "blue garment — faithfulness and the heavenly calling",
+    "balding head with curly hair — the traditional iconographic identification of Peter"
+  ],
+  "description": "An extreme close-up portrait of an elderly man’s face, shown slightly from below looking upward to the right. He has a balding head with curly gray-brown hair at the sides, a prominent forehead, deep-set eyes glistening with moisture, and a full white beard. His expression is one of intense emotion—a mixture of sorrow, yearning, and spiritual anguish. He wears a blue garment visible at the shoulder. The background is plain and dark.",
+  "theological_description": "This portrait likely depicts Saint Peter in the moment of his repentance after denying Christ three times. Luke 22:61-62 records that after the third denial, ‘the Lord turned and looked at Peter. And Peter remembered the saying of the Lord… And he went out and wept bitterly.’ Peter’s tears became the archetype of genuine repentance in Christian theology—the godly sorrow that leads to salvation (2 Corinthians 7:10). His upward gaze reflects the turning of the heart back toward God after catastrophic failure. Yet Peter’s story does not end in despair: the risen Christ restored him with the threefold question ‘Do you love me?’ (John 21:15-17), commissioning him to feed the sheep. Peter’s portrait thus embodies the full arc of the gospel: sin, repentance, forgiveness, and restoration. His example teaches that no failure is beyond the reach of divine mercy.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.61-62",
+      "relevance": "primary",
+      "reason": "Peter’s bitter weeping after denying Christ three times, the emotional state depicted"
+    },
+    {
+      "ref": "JHN.21.15-17",
+      "relevance": "typological",
+      "reason": "Christ’s restoration of Peter through the threefold commission to feed his sheep"
+    },
+    {
+      "ref": "2CO.7.10",
+      "relevance": "allusion",
+      "reason": "Godly sorrow produces repentance leading to salvation, embodied in Peter’s tears"
+    },
+    {
+      "ref": "MAT.26.75",
+      "relevance": "primary",
+      "reason": "Peter remembered Jesus’ words, went out, and wept bitterly"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "anguished",
+    "penitent",
+    "sorrowful",
+    "yearning"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013423",
+    "title": "Saint Peter",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

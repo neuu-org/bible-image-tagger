@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Holy Men",
+      "type": "GROUP"
+    },
+    {
+      "name": "Demons (Shedim)",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Shedim Confronting Holy Men",
+  "tags": [
+    "demons",
+    "shedim",
+    "holy-men",
+    "spiritual-warfare",
+    "temptation",
+    "gothic-arch",
+    "red-demons",
+    "open-book",
+    "clerical-robes",
+    "starry-background",
+    "confrontation",
+    "good-versus-evil"
+  ],
+  "symbols": [
+    "red-skinned demons (shedim) — evil spirits and tempters who oppose the faithful",
+    "open book — Scripture or sacred text as a weapon against demonic forces",
+    "gothic archway — the threshold between the sacred and the profane",
+    "starry/floral background — the cosmic stage of spiritual warfare",
+    "clerical robes — the authority of ordained ministry against evil"
+  ],
+  "description": "Two robed men stand in the center of the composition, one in light blue and one in dark gray or black, reading together from an open red book. Flanking them on either side are two large red-skinned demonic figures with horns, pointed ears, and menacing expressions. The demons appear to press close to the holy men, who remain focused on their reading. Behind all four figures rises a pointed Gothic arch, and the background is filled with a green field of stars or small flowers.",
+  "theological_description": "This scene dramatizes the perennial spiritual warfare between the servants of God and the forces of darkness. The shedim, a Hebrew term for destructive demons (Deuteronomy 32:17; Psalm 106:37), here take visible form as horned red figures pressing upon the holy men. The clergymen’s focused attention on the sacred book embodies the Pauline injunction to put on the full armor of God and take up the sword of the Spirit, which is the word of God (Ephesians 6:11-17). Their calm composure amid demonic assault reflects the promise of James 4:7: ‘Resist the devil, and he will flee from you.’ The scene illustrates the conviction that the battle is not against flesh and blood but against the spiritual forces of evil in the heavenly places (Ephesians 6:12). Saint Stephen’s Golden Legend tradition of confronting demonic opposition through faith and the word of God is vividly rendered here.",
+  "scripture_refs": [
+    {
+      "ref": "EPH.6.11-17",
+      "relevance": "typological",
+      "reason": "Put on the full armor of God, including the sword of the Spirit which is the word of God, depicted in the open book"
+    },
+    {
+      "ref": "JAS.4.7",
+      "relevance": "typological",
+      "reason": "Resist the devil and he will flee, embodied in the holy men’s calm composure"
+    },
+    {
+      "ref": "DEU.32.17",
+      "relevance": "allusion",
+      "reason": "They sacrificed to shedim (demons), the Hebrew term referenced in the title"
+    },
+    {
+      "ref": "1PE.5.8-9",
+      "relevance": "allusion",
+      "reason": "The devil prowls around like a roaring lion, and believers must resist him firm in faith"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "tense",
+    "confrontational",
+    "resolute",
+    "eerie"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0013092",
+    "title": "The Shedim and the Holy Men - Golden Legend of St Stephen",
+    "artist": "Joe Machine",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Cherubs",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Holy Family with Saints Elizabeth and John",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "saint-elizabeth",
+    "young-baptist",
+    "joseph",
+    "cherubs",
+    "landscape"
+  ],
+  "symbols": [
+    "two infants together — Christ and his forerunner John, the New Covenant's central pair",
+    "Elizabeth elderly with Mary young — the continuity between Old and New Covenant generations",
+    "Joseph standing behind — the protector and guardian of the Holy Family",
+    "cherubs in the clouds — heavenly witnesses to the Incarnation",
+    "landscape with buildings — the created world blessed by Christ's presence"
+  ],
+  "description": "A warm, harmonious composition showing five figures grouped in a landscape. The young Virgin Mary in red and blue holds the nude infant Jesus, who interacts with a slightly older child (the young Baptist). An elderly woman (Elizabeth) in a white head covering sits at left. Joseph, an older bearded man in green robes, stands behind the group looking down. Above, several cherubs float in the clouds. A luminous Italian landscape with buildings, hills, and trees extends behind them. The painting is rendered with Raphael's characteristic grace and balanced composition.",
+  "theological_description": "Raphael's Holy Family brings together the two miraculous births that inaugurate the New Covenant. Elizabeth, who conceived John in her old age, and Mary, who conceived Jesus as a virgin, are linked by the Visitation (LUK.1.39-56) when the unborn John leaped in recognition of the unborn Christ. The two children playing together prefigure their adult relationship: John as the forerunner who prepares the way (MAL.3.1), and Jesus as the Messiah whom John proclaims: 'Behold, the Lamb of God, who takes away the sin of the world' (JHN.1.29). Joseph's protective presence fulfills the angel's command (MAT.1.20-24). The cherubs above witness the scene, connecting earth to heaven. The peaceful domestic gathering anticipates the Kingdom of God that Jesus will announce: a community of love, faith, and mutual care. Elizabeth's faith — 'blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord' (LUK.1.45) — complements Mary's fiat as examples of faithful response to God's promises.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-56",
+      "relevance": "primary",
+      "reason": "The Visitation of Mary to Elizabeth, the context for this family gathering"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "John leaping in the womb at the presence of Christ, echoed in the children's interaction"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God — John's future proclamation, anticipated in childhood"
+    },
+    {
+      "ref": "MAT.1.20-24",
+      "relevance": "primary",
+      "reason": "Joseph's role as protector of the Holy Family"
+    },
+    {
+      "ref": "LUK.1.45",
+      "relevance": "primary",
+      "reason": "Elizabeth's declaration of Mary's blessedness for believing God's promise"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "harmonious",
+    "peaceful",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009930",
+    "title": "The Holy Family with Saints Elizabeth and John",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

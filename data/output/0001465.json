@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Samaritan Woman", "type": "PERSON"}
+  ],
+  "event": "Christ and the Samaritan Woman at the Well",
+  "tags": [
+    "samaritan-woman",
+    "well",
+    "water-jar",
+    "living-water",
+    "encounter",
+    "outdoor-setting",
+    "green-foliage",
+    "dialogue"
+  ],
+  "symbols": [
+    "Water jar held by the woman — the physical water she sought, which Christ will transcend with living water",
+    "Christ resting — His humanity, weary from the journey, yet divine in the encounter",
+    "Lush green setting — life and vitality, contrasting with the spiritual thirst Christ addresses"
+  ],
+  "description": "A young woman with reddish-brown hair in a white blouse and dark blue bodice sits outdoors, holding a large earthenware water jug. Beside her, a bearded man with long reddish-brown hair in light clothing rests, his head near her shoulder. Dense green foliage fills the background. The scene is brightly lit with warm, naturalistic tones. The woman gazes outward with a calm expression while the man appears contemplative.",
+  "theological_description": "The encounter between Jesus and the Samaritan woman at Jacob's well (JHN.4.1-42) is one of the longest personal dialogues in the Gospels. Jesus, weary from travel, sits by the well and asks a Samaritan woman for water — breaking social conventions on multiple levels: Jews did not associate with Samaritans, and a rabbi would not speak publicly with a woman. Christ's revelation of 'living water' that becomes 'a spring of water welling up to eternal life' (JHN.4.14) transcends the physical to the spiritual. When Christ reveals knowledge of her five husbands, the woman recognizes Him as a prophet and then as the Messiah. She becomes the first evangelist in John's Gospel, running to tell her village: 'Come, see a man who told me all that I ever did. Can this be the Christ?' (JHN.4.29). The Church Fathers saw in this encounter the marriage of Christ and His Bride the Church from among the Gentiles.",
+  "scripture_refs": [
+    {"ref": "JHN.4.7-15", "relevance": "primary", "reason": "Jesus asks the Samaritan woman for water and offers her living water — the core of the encounter"},
+    {"ref": "JHN.4.25-26", "relevance": "primary", "reason": "The woman mentions the Messiah and Jesus declares 'I who speak to you am he'"},
+    {"ref": "JHN.4.29", "relevance": "primary", "reason": "The woman becomes an evangelist: 'Come, see a man who told me all I ever did'"},
+    {"ref": "JHN.7.37-38", "relevance": "typological", "reason": "Jesus cries out about rivers of living water flowing from believers — the theme introduced at the well"},
+    {"ref": "ISA.55.1", "relevance": "typological", "reason": "Come, everyone who thirsts, come to the waters — the prophetic invitation fulfilled in Christ's offer"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["intimate", "contemplative", "warm"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001465",
+    "title": "Christ and the Samaritian Woman",
+    "artist": "Jacek Malczewski",
+    "model": "claude-opus-4-6"
+  }
+}

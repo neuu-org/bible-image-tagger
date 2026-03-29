@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "High Priest", "type": "PERSON"},
+    {"name": "Holy Spirit", "type": "DEITY"},
+    {"name": "Witnesses", "type": "GROUP"}
+  ],
+  "event": "The Marriage of the Virgin",
+  "tags": [
+    "marriage-of-the-virgin",
+    "betrothal",
+    "joseph-and-mary",
+    "high-priest",
+    "holy-spirit-dove",
+    "temple",
+    "wedding-ceremony",
+    "sacred-union",
+    "hand-joining"
+  ],
+  "symbols": [
+    "dove of the Holy Spirit above — divine sanction and the Holy Spirit overshadowing the union",
+    "joined hands — the sacramental bond of marriage blessed by God",
+    "high priest presiding — the legitimacy of the marriage under the Law of Moses",
+    "red curtain — the Temple and the sacred space of the covenant",
+    "witnesses gathered — the community of Israel testifying to the union"
+  ],
+  "description": "A darkened interior scene depicting a marriage ceremony. At center, a bearded priest joins the hands of a young woman in a blue mantle at left and a bearded man in brown robes at right. A white dove descends from above, emanating light. Behind the couple, several figures observe the ceremony, including women at left and men at right. A large red curtain drapes across the upper portion of the scene, and a column is visible at the far right. The lighting focuses on the central group, with the dove providing the main light source.",
+  "theological_description": "The Marriage of the Virgin depicts the betrothal of Mary and Joseph, an event drawn from apocryphal tradition (the Protoevangelium of James) but deeply embedded in Christian theology. The dove of the Holy Spirit descending upon the ceremony signifies God's direct providence over this union, which will shelter the Incarnation. Joseph, the just man (MAT.1.19), becomes the legal father and guardian of the Christ child, establishing Jesus' Davidic lineage through the royal line. The high priest's role affirms that this marriage takes place within the covenant community of Israel, under the Mosaic Law. The joining of hands prefigures the mystery of the Incarnation itself — the union of divine and human natures. Paul later reads marriage as a profound mystery referring to Christ and the Church (EPH.5.31-32), and in this primordial marriage of the Holy Family, that mystery finds its supreme historical expression.",
+  "scripture_refs": [
+    {"ref": "MAT.1.18-19", "relevance": "primary", "reason": "Joseph and Mary's betrothal, before the angel's revelation of the divine conception"},
+    {"ref": "LUK.1.27", "relevance": "primary", "reason": "A virgin betrothed to a man whose name was Joseph, of the house of David"},
+    {"ref": "EPH.5.31-32", "relevance": "typological", "reason": "Marriage as a great mystery referring to Christ and the Church"},
+    {"ref": "MAT.1.20-21", "relevance": "allusion", "reason": "The angel's explanation to Joseph about the Holy Spirit's role in the conception"},
+    {"ref": "LUK.1.35", "relevance": "allusion", "reason": "The Holy Spirit will come upon you — the dove symbolizing this overshadowing"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sacred", "solemn", "reverent", "tender"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005225",
+    "title": "The Marriage of the Virgin",
+    "artist": "Bartolom\u00e9 Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

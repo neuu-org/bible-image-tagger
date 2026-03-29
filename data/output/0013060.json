@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Death of Saint Joseph",
+  "tags": [
+    "death-of-joseph",
+    "deathbed",
+    "holy-family",
+    "good-death",
+    "patron-of-dying",
+    "angels",
+    "mourning",
+    "crucifix",
+    "golden-shroud",
+    "staff",
+    "candlelight",
+    "heavenly-comfort"
+  ],
+  "symbols": [
+    "deathbed of Joseph — the archetype of a holy death attended by Christ and Mary",
+    "crucifix held by Mary — the source of hope and salvation at the hour of death",
+    "staff or rod beside the bed — Joseph’s traditional attribute as the chosen spouse of Mary",
+    "Christ holding Joseph’s hand — divine comfort and the promise of eternal life",
+    "angels in attendance — heavenly escort of the departing soul"
+  ],
+  "description": "A dark interior scene centered on an elderly bearded man lying on a bed, draped in golden-yellow fabric, his body emaciated and face drawn. At the right, a younger man with long hair in a blue and red robe kneels beside the bed, clasping the dying man’s hand. At the left, a woman in a dark veil holds a small crucifix. Angels hover in the shadows behind, and one leans over the dying figure. A walking staff leans against the bed. The lighting is dramatic, with the central figures illuminated against deep surrounding darkness.",
+  "theological_description": "The death of Saint Joseph, though not recorded in canonical Scripture, is among the most significant traditions of Christian devotion. Joseph is depicted dying in the presence of Jesus and Mary, making his the most blessed of all human deaths. Christ’s clasping of Joseph’s hand embodies the promise of Psalm 23:4—‘Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me.’ Mary’s crucifix points forward to the redemptive death that gives meaning to all Christian dying. Joseph’s righteous life (Matthew 1:19) and his faithful obedience to divine revelation through dreams established him as the model of the just man whose death is precious in the sight of the Lord (Psalm 116:15). The angels attending the scene reflect the parable of Lazarus, carried by angels to Abraham’s bosom (Luke 16:22). Joseph’s quiet passage from this life, cradled between his divine foster son and his virgin spouse, became the paradigm for the ars moriendi—the art of dying well.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.19-24",
+      "relevance": "typological",
+      "reason": "Joseph’s righteousness and obedience to the angel’s command establish his sanctity"
+    },
+    {
+      "ref": "PSA.23.4",
+      "relevance": "typological",
+      "reason": "Walking through the valley of the shadow of death with divine comfort, embodied in Christ holding Joseph’s hand"
+    },
+    {
+      "ref": "PSA.116.15",
+      "relevance": "typological",
+      "reason": "Precious in the sight of the Lord is the death of his saints"
+    },
+    {
+      "ref": "LUK.16.22",
+      "relevance": "allusion",
+      "reason": "Angels carrying the righteous soul to paradise, reflected in the attending angels"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "tender",
+    "mournful",
+    "peaceful"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0013060",
+    "title": "Death of Saint Joseph",
+    "artist": "Giuseppe Maria Crespi",
+    "model": "claude-opus-4-6"
+  }
+}

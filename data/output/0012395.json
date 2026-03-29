@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Saul/Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Companions",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Conversion of Saint Paul",
+  "tags": [
+    "conversion-of-paul",
+    "road-to-damascus",
+    "divine-light",
+    "fallen-horseman",
+    "blinding-light",
+    "rocks",
+    "dramatic"
+  ],
+  "symbols": [
+    "blinding rays of light from heaven — the divine voice and presence of Christ",
+    "fallen Saul shielding his eyes — the overwhelming power of God's revelation",
+    "companions thrown to ground — the cosmic impact of the encounter",
+    "horse fallen — earthly power and pride overthrown by divine authority",
+    "rocky landscape — the road to Damascus, the harsh terrain of conversion"
+  ],
+  "description": "A dramatic engraving showing intense beams of light streaming diagonally from the upper right. Several figures are thrown to the ground in disarray. At center, a man shields his eyes or face from the blinding light while falling backward. Companions and a horse are also thrown down. At left background, mounted soldiers watch in alarm. Large rocks frame the scene. The contrast between the brilliant light rays and the dark figures creates a powerful chiaroscuro effect characteristic of Dore's illustration style.",
+  "theological_description": "Dore illustrates the dramatic conversion of Saul of Tarsus on the road to Damascus, as narrated in Acts 9:1-19. Saul, 'still breathing threats and murder against the disciples of the Lord' (Acts 9:1), was struck down by a blinding light and heard the voice of the risen Christ: 'Saul, Saul, why are you persecuting me?' (Acts 9:4). This moment transformed the chief persecutor of the Church into its greatest apostle. The overwhelming light represents the glory of the risen Christ, who later told King Agrippa that the light was 'brighter than the sun' (Acts 26:13). Saul's blindness — lasting three days until Ananias healed him — symbolizes the death of his old identity and the birth of the new. Paul himself described the experience as God revealing 'his Son to me' (Gal 1:16). The fallen companions illustrate the power of the theophany, echoing Old Testament encounters where God's presence is terrifying (Exod 3:6, Dan 10:7-9). This conversion demonstrates that no one is beyond God's transforming grace.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.9.3-6",
+      "relevance": "primary",
+      "reason": "A light from heaven flashed around him and he fell to the ground — the conversion scene"
+    },
+    {
+      "ref": "ACT.26.13-15",
+      "relevance": "primary",
+      "reason": "A light brighter than the sun shone around me — Paul's own account"
+    },
+    {
+      "ref": "GAL.1.15-16",
+      "relevance": "allusion",
+      "reason": "God was pleased to reveal his Son to me — the inner meaning of the conversion"
+    },
+    {
+      "ref": "ACT.9.8-9",
+      "relevance": "allusion",
+      "reason": "Saul rose but could see nothing — the three days of blindness"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "overwhelming",
+    "transformative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012395",
+    "title": "The Conversion of St. Paul",
+    "artist": "Gustave Doré",
+    "model": "claude-opus-4-6"
+  }
+}

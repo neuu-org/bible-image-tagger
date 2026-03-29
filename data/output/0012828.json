@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Saint Justina",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Rufina",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saints Justina and Rufina",
+  "tags": [
+    "saint-justina",
+    "saint-rufina",
+    "female-saints",
+    "martyrs",
+    "giralda-tower",
+    "palm-branch",
+    "pottery",
+    "seville",
+    "patrons",
+    "devotional"
+  ],
+  "symbols": [
+    "palm branch — the victory of martyrdom over death",
+    "Giralda tower model — the saints as patronesses and protectors of Seville",
+    "pottery vessels at feet — their profession as potters, their humble origins",
+    "two saints together — their shared martyrdom and mutual support in faith"
+  ],
+  "description": "Two young women stand side by side against a dark landscape background. At left, a woman in a golden-yellow cloak over a pink dress holds a palm branch. At right, a woman in a red cloak over a blue dress holds or supports a model of a tall brick tower (the Giralda of Seville). Between them, they share the weight of the tower model. At their feet, broken pottery vessels — jars and jugs — lie on the ground. Both women have serene, dignified expressions and look in slightly different directions. The painting is in Murillo's characteristic warm, soft Baroque style.",
+  "theological_description": "Murillo depicts Saints Justina and Rufina, the patron saints of Seville, who were Christian potters martyred during the Diocletian persecution (c. 287 AD). The sisters refused to sell their pottery for use in pagan festivals and smashed idols, for which they were tortured and killed. The broken pottery at their feet represents both their trade and their destruction of pagan idols — echoing the prophetic tradition of smashing false gods: 'You shall break them with a rod of iron and dash them in pieces like a potter's vessel' (Ps 2:9). Their holding of the Giralda tower represents the legend that they miraculously protected Seville's great tower during an earthquake. The palm branch signifies martyrdom and victory, as the Revelation vision declares of the martyrs: 'standing before the throne... clothed in white robes, with palm branches in their hands' (Rev 7:9). Their humble origins as potters recall Paul's image: 'we have this treasure in jars of clay' (2 Cor 4:7).",
+  "scripture_refs": [
+    {
+      "ref": "REV.7.9",
+      "relevance": "primary",
+      "reason": "A great multitude with palm branches — the palm of martyrdom held by the saints"
+    },
+    {
+      "ref": "2CO.4.7",
+      "relevance": "typological",
+      "reason": "We have this treasure in jars of clay — the potter saints carrying divine truth"
+    },
+    {
+      "ref": "PSA.2.9",
+      "relevance": "allusion",
+      "reason": "Dash them in pieces like a potter's vessel — the broken pagan pottery"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death — the sisters' shared martyrdom"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dignified",
+    "serene",
+    "devotional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012828",
+    "title": "St. Justina and St. Rufina",
+    "artist": "Bartolomé Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

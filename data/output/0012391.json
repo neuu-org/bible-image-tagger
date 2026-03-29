@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "holy-family",
+    "desert",
+    "donkey",
+    "angel",
+    "journey",
+    "wilderness",
+    "divine-guidance",
+    "orientalist"
+  ],
+  "symbols": [
+    "vast desert — the harsh journey of exile and the testing of faith",
+    "white angel guiding — divine protection on the perilous journey",
+    "donkey carrying Mary and child — the humble mode of the Holy Family's flight",
+    "Joseph walking with staff — the faithful guardian leading his family",
+    "barren landscape — the emptiness of exile far from home"
+  ],
+  "description": "A sweeping desert landscape under a blue-grey sky. In the lower center, three small figures travel across the sandy terrain: a woman in blue holding a child rides a white donkey, while a man with a walking staff walks alongside. Ahead of them, a luminous white winged figure (angel) flies low over the desert, seemingly guiding their path. The landscape is vast and empty, with orange-brown sand dunes and distant rocky hills. The composition emphasizes the immensity of the desert and the smallness of the travelers.",
+  "theological_description": "Gerome's orientalist rendering of the Flight into Egypt captures the vulnerability and divine protection of the Holy Family. After the Magi departed, 'an angel of the Lord appeared to Joseph in a dream and said, Rise, take the child and his mother, and flee to Egypt, and remain there until I tell you, for Herod is about to search for the child, to destroy him' (Matt 2:13). The luminous angel leading the way across the desert visualizes this divine guidance. The vast, empty landscape emphasizes the enormity of the journey and the family's total dependence on God. The flight fulfills the prophecy of Hosea: 'Out of Egypt I called my son' (Hos 11:1, cited in Matt 2:15). The journey also recapitulates Israel's own exodus — the infant Messiah relives the national story, going down to Egypt and being called out again. The Psalmist's promise sustains the travelers: 'The Lord will keep you from all evil; he will keep your life' (Ps 121:7).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-14",
+      "relevance": "primary",
+      "reason": "An angel tells Joseph to flee to Egypt — the angel guiding the family"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "primary",
+      "reason": "Out of Egypt I called my son — the prophetic fulfillment"
+    },
+    {
+      "ref": "MAT.2.15",
+      "relevance": "primary",
+      "reason": "He remained in Egypt until the death of Herod, fulfilling Hosea"
+    },
+    {
+      "ref": "PSA.121.7-8",
+      "relevance": "allusion",
+      "reason": "The Lord will keep you from all evil — divine protection on the journey"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "vast",
+    "protective",
+    "solitary"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012391",
+    "title": "The Flight into Egypt",
+    "artist": "Jean-Leon Gerome",
+    "model": "claude-opus-4-6"
+  }
+}

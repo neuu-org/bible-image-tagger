@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Ecce Homo",
+  "tags": [
+    "ecce-homo",
+    "crown-of-thorns",
+    "pilate",
+    "scourged-christ",
+    "crowd",
+    "soldiers",
+    "passion",
+    "judgment"
+  ],
+  "symbols": [
+    "crown of thorns — the mocking of Christ's kingship",
+    "scourged and nearly naked Christ — the Suffering Servant stripped and beaten",
+    "Pilate presenting Christ — the Roman authority yielding to the crowd's demand",
+    "crowd below — the mob crying 'Crucify him!'",
+    "spears of soldiers — the military force behind the execution"
+  ],
+  "description": "An engraving showing Christ standing on an elevated platform at left, wearing only a loincloth and a crown of thorns, His body showing marks of scourging. Behind Him, a figure (Pilate) gestures toward Him. Below and to the right, a crowd of soldiers and citizens press forward, some pointing, some gesturing aggressively. Soldiers carry spears. A dog sits in the foreground. The scene is set before an arched gateway or palace entrance. The style is detailed late Gothic engraving with fine crosshatching.",
+  "theological_description": "Schongauer depicts the Ecce Homo — the moment when Pilate presents the scourged Jesus to the crowd, declaring 'Behold the man!' (John 19:5). This is one of the most dramatic moments of the Passion narrative. Pilate had Jesus flogged and then brought Him out 'wearing the crown of thorns and the purple robe' (John 19:5), hoping the sight would satisfy the crowd's bloodlust. Instead, 'when the chief priests and the officers saw him, they cried out, Crucify him, crucify him!' (John 19:6). The scene fulfills Isaiah's prophecy with devastating precision: 'his appearance was so marred, beyond human semblance' (Isa 52:14). Christ's humiliation is complete — stripped, beaten, mocked with a crown of thorns. Yet in this moment of extreme degradation, the deepest truth is paradoxically spoken: 'Behold the man' — this is what God became for humanity's sake. Pilate unknowingly proclaims a theological truth: in this broken figure stands the fullness of God in human form (Col 2:9).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.4-6",
+      "relevance": "primary",
+      "reason": "Pilate says 'Behold the man!' and the crowd cries 'Crucify him!'"
+    },
+    {
+      "ref": "ISA.52.14",
+      "relevance": "primary",
+      "reason": "His appearance was so marred beyond human semblance — the scourged Christ"
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "typological",
+      "reason": "Despised and rejected by men — the crowd demanding crucifixion"
+    },
+    {
+      "ref": "COL.2.9",
+      "relevance": "allusion",
+      "reason": "In him the whole fullness of deity dwells bodily — hidden in the broken man"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "tense",
+    "tragic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012408",
+    "title": "Ecce Homo",
+    "artist": "Martin Schongauer",
+    "model": "claude-opus-4-6"
+  }
+}

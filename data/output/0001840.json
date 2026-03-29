@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Nativity of Christ",
+  "tags": [
+    "nativity",
+    "manger",
+    "infant-christ",
+    "virgin-mary",
+    "joseph",
+    "shepherds",
+    "angels",
+    "ox",
+    "stable",
+    "star",
+    "icon",
+    "orthodox"
+  ],
+  "symbols": [
+    "Radiant infant in the manger — the Light of the World entering creation in humility",
+    "Ox and donkey — traditional witnesses to the Nativity, drawn from Isaiah 1:3",
+    "Golden halos on Mary and Joseph — their sanctity and special role in the Incarnation",
+    "Angels in the clouds above — the heavenly host proclaiming glory to God",
+    "Shepherds approaching — the first witnesses called to see the newborn Messiah"
+  ],
+  "description": "An Orthodox icon in an octagonal format depicts the Nativity scene. At center, the Virgin Mary in a red maphorion with a golden halo reclines beside a white manger containing the radiant infant Christ emanating golden rays. Joseph sits nearby with a golden halo. Shepherds approach from the left carrying staffs. An ox and donkey are visible near the manger. Above in the clouds, angels appear with the star. Architectural elements suggest a stable or cave. The icon follows traditional Orthodox compositional conventions with rich colors of red, gold, green, and dark tones.",
+  "theological_description": "The Nativity is the central mystery of the Incarnation — 'The Word became flesh and dwelt among us' (JHN.1.14). Luke records that Mary 'gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn' (LUK.2.7). The shepherds were the first to receive the angelic announcement: 'For unto you is born this day in the city of David a Savior, who is Christ the Lord' (LUK.2.11). The Orthodox iconographic tradition includes the ox and donkey based on Isaiah's rebuke: 'The ox knows its owner, and the donkey its master's crib, but Israel does not know, my people do not understand' (ISA.1.3). The radiance from the infant fulfills Isaiah's prophecy: 'The people who walked in darkness have seen a great light' (ISA.9.2). The Nativity is simultaneously the humblest and most cosmic event in history — the Creator of the universe entering His creation as a helpless infant, wrapped in the poverty that will mark His entire earthly ministry.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "Mary gave birth to her firstborn son and laid him in a manger — the central event depicted"
+    },
+    {
+      "ref": "LUK.2.8-14",
+      "relevance": "primary",
+      "reason": "The shepherds and the angelic host: Glory to God in the highest — the angels and shepherds shown"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh and dwelt among us — the theological heart of the Nativity"
+    },
+    {
+      "ref": "ISA.9.2",
+      "relevance": "typological",
+      "reason": "The people in darkness have seen a great light — the radiance emanating from the infant Christ"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "typological",
+      "reason": "The ox knows its owner and the donkey its master's crib — the animals at the manger"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "typological",
+      "reason": "Out of Bethlehem shall come a ruler — the prophetic fulfillment of the birthplace"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "joyful",
+    "wonder",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001840",
+    "title": "The Nativity. From the Festive Row of the Main Iconostasis of the Assumption Cathedral of the Kiev-Pechersk Lavra",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

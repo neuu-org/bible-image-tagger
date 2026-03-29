@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Samson",
+      "type": "PERSON"
+    },
+    {
+      "name": "Delilah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Philistine Soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Samson and Delilah",
+  "tags": [
+    "samson-and-delilah",
+    "betrayal",
+    "hair-cutting",
+    "scissors",
+    "sleeping",
+    "philistines",
+    "soldiers",
+    "red-drapery",
+    "old-testament"
+  ],
+  "symbols": [
+    "scissors cutting Samson's hair — the betrayal that robs the hero of divine strength",
+    "sleeping Samson — vulnerability and trust betrayed",
+    "Delilah's beauty — the seductive temptation that leads to downfall",
+    "Philistine soldiers waiting — the enemy exploiting Samson's weakness",
+    "red drapery — passion, danger, and blood"
+  ],
+  "description": "A horizontal Baroque composition showing a muscular man (Samson) sleeping with his head resting on a surface, his powerful bare torso illuminated. Behind him, a beautiful young woman in white and red (Delilah) holds a pair of scissors and cuts locks of his dark hair. An elderly figure peers from the shadows at left. At right, armored Philistine soldiers with helmets and weapons watch from the darkness, waiting to seize the weakened hero. The red drapery creates a dramatic backdrop.",
+  "theological_description": "Giordano depicts the betrayal of Samson by Delilah, as recorded in Judges 16:4-21. The Philistines bribed Delilah to discover the secret of Samson's supernatural strength: 'If my head is shaved, then my strength will leave me, and I shall become weak and be like any other man' (Judg 16:17). While he slept, she had his hair cut, and 'the Lord had left him' (Judg 16:20). The story is a cautionary tale about the vulnerability of even the mightiest when they compromise their consecration to God. Samson was a Nazirite from birth, set apart for God's service (Judg 13:5), and his hair was the visible sign of that covenant. His downfall through Delilah's seduction echoes the Proverbs warnings: 'the lips of a forbidden woman drip honey... but in the end she is bitter as wormwood' (Prov 5:3-4). Yet Samson's story ends in redemption — his final prayer to God in Judges 16:28-30 restores his strength for one last act of deliverance.",
+  "scripture_refs": [
+    {
+      "ref": "JDG.16.17-20",
+      "relevance": "primary",
+      "reason": "Samson reveals his secret; Delilah has his hair cut and his strength departs"
+    },
+    {
+      "ref": "JDG.13.5",
+      "relevance": "primary",
+      "reason": "The child shall be a Nazirite to God from the womb — the consecration betrayed"
+    },
+    {
+      "ref": "PRO.5.3-4",
+      "relevance": "typological",
+      "reason": "The forbidden woman's lips drip honey but she is bitter — Delilah's seduction"
+    },
+    {
+      "ref": "JDG.16.28-30",
+      "relevance": "allusion",
+      "reason": "Samson's final prayer and redemptive death — hope beyond the betrayal"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "treacherous",
+    "dramatic"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0012559",
+    "title": "Samson and Delilah",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

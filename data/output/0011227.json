@@ -1,0 +1,22 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Samaritan Woman", "type": "PERSON"}
+  ],
+  "event": "Jesus and the Woman at the Well",
+  "tags": ["woman-at-well", "samaritan-woman", "living-water", "well", "conversation", "samaria", "evangelism", "trees"],
+  "symbols": ["well — the source of physical water that points to spiritual living water", "Jesus seated and teaching — the divine Teacher offering eternal life", "Samaritan woman standing — the seeker who discovers the Messiah", "green landscape — the spiritual fruitfulness that comes from encountering Christ"],
+  "description": "A pastoral scene showing Jesus seated at a stone well, wearing red and white garments, gesturing in conversation with a woman who stands before him in a white robe and head covering. They are beneath the canopy of green trees. A luminous landscape stretches behind them with distant figures and architecture. The light is warm and golden, creating an intimate atmosphere for this pivotal encounter.",
+  "theological_description": "The encounter between Jesus and the Samaritan woman (JHN.4.1-42) is one of the longest personal conversations recorded in the Gospels. Jesus breaks multiple social conventions — speaking to a woman, a Samaritan, and one with a questionable past — to reveal himself as the source of 'living water' that becomes 'a spring of water welling up to eternal life' (JHN.4.14). The conversation moves from physical water to spiritual thirst, from the woman's marital history to true worship, and culminates in Jesus's direct messianic declaration: 'I who speak to you am he' (JHN.4.26). This is one of the clearest self-revelations of Jesus in John's Gospel. The well setting connects to the Old Testament betrothal-type scenes (GEN.24; GEN.29; EXO.2), but here the 'bride' is the Church drawn from outside Israel — the Samaritan community that represents all who will worship 'in spirit and truth' (JHN.4.23-24). The woman becomes the first evangelist in Samaria: 'Come, see a man who told me all that I ever did. Can this be the Christ?' (JHN.4.29).",
+  "scripture_refs": [
+    {"ref": "JHN.4.1-42", "relevance": "primary", "reason": "The full encounter of Jesus with the Samaritan woman at the well"},
+    {"ref": "JHN.4.13-14", "relevance": "primary", "reason": "The living water that wells up to eternal life"},
+    {"ref": "JHN.4.23-24", "relevance": "primary", "reason": "True worshipers will worship in spirit and truth"},
+    {"ref": "JHN.4.26", "relevance": "primary", "reason": "Jesus's messianic self-revelation: I who speak to you am he"},
+    {"ref": "ISA.55.1", "relevance": "typological", "reason": "Come, everyone who thirsts, come to the waters — fulfilled in Jesus's offer"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["intimate", "revelatory", "peaceful"],
+  "period": "Gospel",
+  "_meta": {"key": "0011227", "title": "Woman at the Well", "artist": "Carl Bloch", "model": "claude-opus-4-6"}
+}

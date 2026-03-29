@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with Saint Elizabeth and the Infant John the Baptist",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "infant-john-baptist",
+    "saint-elizabeth",
+    "saint-joseph",
+    "lamb",
+    "outdoor-scene",
+    "tree",
+    "column",
+    "two-infants",
+    "maternal-tenderness",
+    "playful-children"
+  ],
+  "symbols": [
+    "lamb held by the children — the Lamb of God whom John will one day identify and proclaim",
+    "infant John touching the lamb — foreshadowing his future cry: Behold the Lamb of God",
+    "column and tree — the intersection of civilization and nature, old covenant and new",
+    "Joseph leaning on a ledge in the background — the quiet guardian watching over the sacred family",
+    "Elizabeth’s aged face — the miraculous gift of motherhood in old age"
+  ],
+  "description": "An outdoor scene with five figures grouped beneath a tree beside a stone column. A young woman in blue and red holds a nude infant on her lap, while an older woman in white head covering sits beside them. Two nude infants interact playfully with a white lamb between them. An older bearded man leans on a stone ledge in the background, observing the scene. A blue sky and distant landscape are visible.",
+  "theological_description": "This scene depicts the meeting of the two holy families—Mary with Jesus and Elizabeth with the infant John the Baptist. The lamb between the two children is laden with Christological significance: John will grow to be the one who declares ‘Behold, the Lamb of God, who takes away the sin of the world’ (John 1:29). The infant Christ’s proximity to the lamb foreshadows his sacrificial destiny. Elizabeth’s presence recalls her Spirit-filled greeting of Mary at the Visitation: ‘Blessed are you among women, and blessed is the fruit of your womb’ (Luke 1:42). The joyful interaction between the two children echoes John’s leaping in Elizabeth’s womb at the sound of Mary’s greeting (Luke 1:41). Joseph’s watchful presence in the background embodies his role as faithful protector. The entire composition presents the two covenant families whose children will together inaugurate the age of salvation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation of Mary to Elizabeth, with John leaping in the womb at the presence of Christ"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "The lamb between the two infants foreshadows John’s declaration: Behold the Lamb of God"
+    },
+    {
+      "ref": "LUK.1.41-42",
+      "relevance": "primary",
+      "reason": "Elizabeth’s Spirit-filled greeting and blessing of Mary and the fruit of her womb"
+    },
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "allusion",
+      "reason": "Joseph’s protective role as the righteous guardian of the Holy Family"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "tender",
+    "familial",
+    "peaceful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013143",
+    "title": "The Holy Family with St. Elizabeth and little John the Baptist",
+    "artist": "Jacques Stella",
+    "model": "claude-opus-4-6"
+  }
+}

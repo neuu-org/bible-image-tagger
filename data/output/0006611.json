@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Bust portrait of Saint Sebastian",
+  "tags": [
+    "saint-sebastian",
+    "martyr",
+    "bust-portrait",
+    "upward-gaze",
+    "bare-chest",
+    "arrow-wound",
+    "devotional",
+    "suffering",
+    "renaissance-portrait"
+  ],
+  "symbols": [
+    "upward gaze — the martyr's eyes turned toward heaven, trusting in God amid suffering",
+    "bare chest with wound — the vulnerability of the martyr's body pierced by arrows",
+    "dark background — the isolation of martyrdom, the darkness of persecution"
+  ],
+  "description": "A close-up bust portrait of a young man with long dark hair, bare-chested, gazing upward and to the left with an expression of serene suffering. His skin is luminous and idealized, with a faint mark or wound visible on his chest. The background is completely dark, isolating the figure in warm light. Latin text is faintly inscribed in the dark background to the right. The rendering is smooth and polished with soft tonal transitions.",
+  "theological_description": "Saint Sebastian was a Roman soldier and secret Christian who was ordered to be executed by archers under Emperor Diocletian (c. 288 AD). The upward gaze, a hallmark of martyr iconography, expresses the saint's trust in the heavenly reward that awaits those who endure persecution for Christ's sake. Jesus promised, 'Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven' (Matt 5:10). Sebastian's survival of the first execution by arrows — he was nursed back to health by Saint Irene — and his subsequent martyrdom by clubbing embody the persistent witness that characterizes the faithful: 'Be faithful unto death, and I will give you the crown of life' (Rev 2:10). The idealized beauty of his body in art tradition speaks to the incorruptibility of the glorified body promised in the resurrection, where the wounds of martyrdom become marks of glory rather than shame.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.5.10-12",
+      "relevance": "typological",
+      "reason": "Blessed are those persecuted for righteousness — the beatitude that defines Sebastian's martyrdom"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "typological",
+      "reason": "Be faithful unto death and I will give you the crown of life — the promise to the persecuted church"
+    },
+    {
+      "ref": "ROM.8.35-39",
+      "relevance": "allusion",
+      "reason": "Nothing can separate us from the love of Christ — not persecution, sword, or danger"
+    },
+    {
+      "ref": "2CO.4.16-18",
+      "relevance": "allusion",
+      "reason": "The outer self wasting away while the inner self is renewed — the martyr's body pierced but his spirit triumphant"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "suffering",
+    "transcendent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0006611",
+    "title": "Bust of St. Sebastian",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

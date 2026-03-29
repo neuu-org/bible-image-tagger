@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Paul",
+      "type": "PERSON"
+    },
+    {
+      "name": "Barnabas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Crowd at Lystra",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Paul and Barnabas at Lystra mistaken for gods",
+  "tags": [
+    "lystra",
+    "apostolic-mission",
+    "pagan-sacrifice",
+    "mistaken-identity",
+    "ox-sacrifice",
+    "zeus-and-hermes",
+    "missionary-journey",
+    "idolatry-rejected",
+    "healing-miracle",
+    "apostolic-preaching"
+  ],
+  "symbols": [
+    "ox being prepared for sacrifice — the pagan offering the crowd attempts to give Paul and Barnabas as gods",
+    "muscular semi-nude figures — the classical pagan ideal, representing the crowd's confusion of apostles with Greek deities",
+    "garlands and incense — instruments of idolatrous worship that Paul and Barnabas reject",
+    "tearing of garments — apostolic horror at being worshipped, a Jewish sign of distress at blasphemy"
+  ],
+  "description": "A dramatic scene filled with muscular figures in dynamic poses. At center, a large bare-backed man stands with arms raised while others press around him. To the left, robed and bearded figures gesture emphatically. A small fire or brazier sits at center bottom. Several figures wear classical drapery, and the crowd includes men, women, and children in various states of agitation and excitement. The palette is dominated by warm golds, reds, and earth tones against a dark background.",
+  "theological_description": "This scene depicts the incident at Lystra where Paul healed a man lame from birth, prompting the pagan populace to identify Paul and Barnabas as Hermes and Zeus incarnate (Acts 14:8-18). The priest of Zeus brought oxen and garlands to the city gates, intending to offer sacrifice to the apostles. Paul and Barnabas tore their garments in horror, crying out that they were merely men and urging the crowd to turn from these vain idols to the living God who made heaven, earth, sea, and all that is in them. The episode illustrates the tension of the apostolic mission in a Gentile context: the very power of God working through the apostles is misinterpreted through a pagan lens. It also foreshadows the volatility of the crowd, for shortly after this adulation the same Lystrans were persuaded by Jews from Antioch and Iconium to stone Paul, leaving him for dead (Acts 14:19). The scene thus embodies the paradox of apostolic ministry — glory and suffering intertwined.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.14.8-18",
+      "relevance": "primary",
+      "reason": "The direct narrative of Paul and Barnabas at Lystra, the healing of the lame man, and the crowd's attempt to sacrifice to them as gods"
+    },
+    {
+      "ref": "ACT.14.19-20",
+      "relevance": "primary",
+      "reason": "The subsequent stoning of Paul at Lystra by the same crowd turned hostile"
+    },
+    {
+      "ref": "ACT.17.22-31",
+      "relevance": "allusion",
+      "reason": "Paul's later address at Athens similarly confronts pagan idolatry with the proclamation of the true God"
+    },
+    {
+      "ref": "ISA.44.9-20",
+      "relevance": "typological",
+      "reason": "The prophetic denunciation of idol-making, which Paul's rejection of sacrifice at Lystra echoes"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "chaotic",
+    "urgent",
+    "fervent"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0006365",
+    "title": "The Apostles, St. Paul and St. Barnabas at Lystra",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

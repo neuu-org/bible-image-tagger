@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Virgin and Child with Saint Anne",
+  "tags": [
+    "virgin-and-child",
+    "saint-anne",
+    "lamb",
+    "three-generations",
+    "mountain-landscape",
+    "maternal-lineage",
+    "seated-on-lap",
+    "playful-child"
+  ],
+  "symbols": [
+    "three generations of figures — the maternal lineage through which the Incarnation was prepared",
+    "Christ Child embracing the lamb — His future identity as the Lamb of God who takes away the sin of the world",
+    "Mary seated on Anne's lap — the generations of grace leading to the Incarnation",
+    "mountainous landscape — the vast scope of God's plan unfolding through human generations",
+    "lamb — the sacrificial lamb prefiguring Christ's Passion"
+  ],
+  "description": "Three figures are arranged in a pyramidal composition against a mountainous landscape. An older woman, Saint Anne, sits with a gentle smile, while the Virgin Mary sits across her lap reaching toward the Christ Child. The nude infant grasps a small lamb, looking back at His mother playfully. The landscape behind shows craggy blue mountains and a rocky terrain. The painting employs Leonardo's characteristic sfumato technique, with soft transitions between light and shadow creating an atmospheric, dreamlike quality. The colors are predominantly blues and warm earth tones.",
+  "theological_description": "Leonardo's masterpiece presents three generations in a single composition, expressing the theology of divine preparation through human lineage. Saint Anne represents the grandmother of Christ, the root from which the branch of Jesse sprouted (ISA.11.1). Mary, seated on her mother's lap, is simultaneously daughter and mother — the one through whom the long chain of divine promise reached its fulfillment. The Christ Child's playful embrace of the lamb is profoundly theological: the infant who plays with the sacrificial animal does not yet consciously know, in His human nature, that He Himself is the Lamb of God (JHN.1.29). Mary's reaching gesture — stretching to pull the child away from the lamb — has been interpreted as the mother's instinctive desire to shield her Son from the Passion that the lamb foreshadows. Anne's serene smile may represent the wisdom of faith that sees beyond present suffering to future glory. The vast mountain landscape suggests the eternal scope of God's salvific plan, stretching from the first promise in Eden to its fulfillment in the Incarnation.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.11.1",
+      "relevance": "typological",
+      "reason": "A shoot from the stump of Jesse — the generational lineage depicted in the three figures"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God — the Christ Child embracing the lamb He will become"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "primary",
+      "reason": "Blessed are you among women and blessed is the fruit of your womb — the maternal lineage honored"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "typological",
+      "reason": "Born of a woman, born under the Law — the Incarnation through human generation"
+    },
+    {
+      "ref": "MAT.1.1-16",
+      "relevance": "allusion",
+      "reason": "The genealogy of Christ tracing the lineage through which God prepared the Incarnation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "serene",
+    "contemplative",
+    "bittersweet"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006250",
+    "title": "The Virgin and Child with St. Anne",
+    "artist": "Leonardo da Vinci",
+    "model": "claude-opus-4-6"
+  }
+}

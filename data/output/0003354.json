@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman Soldiers", "type": "GROUP"}
+  ],
+  "event": "Resurrection of Christ (Soldiers at the Tomb)",
+  "tags": [
+    "resurrection",
+    "empty-tomb",
+    "soldiers-guarding-tomb",
+    "fallen-guards",
+    "risen-christ",
+    "divine-power",
+    "stone-sarcophagus",
+    "easter"
+  ],
+  "symbols": [
+    "fallen soldiers in armor — worldly power overcome by divine might",
+    "open stone sarcophagus — the empty tomb, death defeated",
+    "radiant white garment of the risen Christ — the glory of the resurrected body",
+    "scattered weapons and halberds — the futility of force against God's purposes",
+    "rocky landscape — Golgotha and the garden tomb"
+  ],
+  "description": "A detail from the Isenheim Altarpiece showing the moment of Christ's Resurrection. Roman soldiers in full armor tumble and collapse around a stone sarcophagus whose lid has been thrown aside. One soldier in chainmail sprawls face-down in the foreground, clutching his halberd. Another soldier at the right is flung backward by an unseen force. A brilliant white and blue cloth billows upward from the open tomb, indicating the risen Christ ascending. The scene is set among dark, craggy rocks with dramatic contrasts of light and shadow.",
+  "theological_description": "This detail from the Isenheim Altarpiece captures the explosive moment of the Resurrection, when the power of God shatters the seal of death. Matthew 28:2-4 describes how 'the guards trembled and became like dead men' — and here they are flung about like ragdolls by divine force. The heavy stone lid displaced from the sarcophagus fulfills the promise of Psalm 16:10: 'You will not abandon my soul to Sheol, or let your Holy One see corruption.' The irony is devastating: the soldiers posted to prevent the Resurrection (MAT.27.62-66) become its first involuntary witnesses. The brilliant white garment streaming upward recalls the transfigured Christ of Matthew 17:2, whose face shone like the sun. This is the hinge of all history: 'If Christ has not been raised, your faith is futile' (1CO.15.17). The violence of the soldiers' fall reflects Romans 6:9 — death no longer has dominion over him.",
+  "scripture_refs": [
+    {"ref": "MAT.28.2-4", "relevance": "primary", "reason": "The earthquake, angel rolling the stone, and guards falling like dead men — the scene directly depicted"},
+    {"ref": "MAT.27.62-66", "relevance": "primary", "reason": "The chief priests and Pharisees requesting guards at the tomb, whose failure is shown here"},
+    {"ref": "1CO.15.17", "relevance": "primary", "reason": "If Christ has not been raised, faith is futile — the theological centrality of this moment"},
+    {"ref": "PSA.16.10", "relevance": "typological", "reason": "God will not let his Holy One see corruption — the empty tomb fulfills David's prophecy"},
+    {"ref": "ROM.6.9", "relevance": "allusion", "reason": "Death no longer has dominion over the risen Christ, shown by the explosive power of the Resurrection"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["explosive", "terrifying", "triumphant"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003354",
+    "title": "Soldiers Guarding Christ's Tomb at the Resurrection (detail from the Isenheim Altarpiece)",
+    "artist": "Matthias Grunewald",
+    "model": "claude-opus-4-6"
+  }
+}

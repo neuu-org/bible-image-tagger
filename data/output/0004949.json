@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saul (Paul)",
+      "type": "PERSON"
+    },
+    {
+      "name": "Companions of Saul",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Conversion of Saul on the road to Damascus",
+  "tags": [
+    "conversion-of-paul",
+    "road-to-damascus",
+    "risen-christ",
+    "blinding-light",
+    "fallen-horseman",
+    "divine-encounter",
+    "heavenly-radiance",
+    "calling",
+    "apostle-paul"
+  ],
+  "symbols": [
+    "risen Christ in blazing light above — the divine glory that struck Saul blind and transformed him",
+    "Saul fallen to the ground — the dramatic overthrow of the persecutor by grace",
+    "beam of light from Christ to Saul — the direct personal encounter: Saul, Saul, why do you persecute me?",
+    "companions shielding their eyes — witnesses who heard the voice but did not understand",
+    "arched frame — the altarpiece context, presenting conversion as a sacramental mystery"
+  ],
+  "description": "A tall, narrow altarpiece painting within a pointed arch frame. The risen Christ appears in the upper portion, standing in radiant glory amid clouds, His body illuminated and arms outstretched. A powerful beam of white light descends from Him to the lower register. Below, three figures are on the ground — one man in red armor falls backward, shielding his eyes from the blinding light, while others crouch in confusion. A landscape with distant buildings is visible in the background. The dramatic vertical composition emphasizes the heavenly intervention from above.",
+  "theological_description": "The conversion of Saul on the Damascus road is the New Testament's most dramatic account of sovereign grace overcoming human resistance. Saul, 'breathing threats and murder against the disciples of the Lord' (ACT.9.1), is not seeking God but fleeing from Him — and yet God seeks him. The risen Christ's question, 'Saul, Saul, why are you persecuting me?' (ACT.9.4), reveals a revolutionary theological truth: to persecute the Church is to persecute Christ Himself, for the Church is His body. The blinding light that strikes Saul recalls the divine glory that overwhelmed Moses on Sinai (EXO.34.29-30), but here it serves a dual purpose — destruction of the old self and birth of the new. Paul later interprets his own conversion as paradigmatic for all believers: 'For God, who said, Let light shine out of darkness, has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ' (2CO.4.6). The altarpiece format places this conversion before the congregation as both a historical event and an ongoing invitation.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.9.1-9",
+      "relevance": "primary",
+      "reason": "The conversion of Saul on the road to Damascus, struck by light from heaven"
+    },
+    {
+      "ref": "ACT.9.4-5",
+      "relevance": "primary",
+      "reason": "The risen Christ's direct address: Saul, Saul, why do you persecute me?"
+    },
+    {
+      "ref": "ACT.22.6-11",
+      "relevance": "primary",
+      "reason": "Paul's own account of the blinding light and the voice from heaven"
+    },
+    {
+      "ref": "2CO.4.6",
+      "relevance": "typological",
+      "reason": "God shining light out of darkness into our hearts — Paul's theological interpretation of his conversion"
+    },
+    {
+      "ref": "GAL.1.15-16",
+      "relevance": "allusion",
+      "reason": "God who set me apart before I was born and called me by His grace — the sovereign nature of the calling"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "blinding",
+    "transformative",
+    "awe"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0004949",
+    "title": "Saulin Kääntyminen",
+    "artist": "Eero Järnefelt",
+    "model": "claude-opus-4-6"
+  }
+}

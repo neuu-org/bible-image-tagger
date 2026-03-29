@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "An Angel Comforting Jesus in the Garden of Gethsemane",
+  "tags": [
+    "gethsemane",
+    "angel",
+    "comfort",
+    "prayer",
+    "agony-in-the-garden",
+    "kneeling-christ",
+    "olive-trees",
+    "passion"
+  ],
+  "symbols": [
+    "angel's gentle touch — divine consolation in the hour of deepest human anguish",
+    "kneeling Christ with clasped hands — the Son submitting to the Father's will",
+    "gnarled olive trees — the Garden of Gethsemane (oil press), where Christ is crushed by sorrow",
+    "pool of light in darkness — grace illuminating the darkest moment",
+    "red garment — Christ's blood that will soon be shed"
+  ],
+  "description": "A tender, intimate scene in a dark garden. Christ kneels on the ground in a red robe with a blue cloak beside Him, His hands clasped in prayer, head bowed. A luminous angel in flowing white robes stands beside Him, leaning close with one hand on Christ's shoulder, offering comfort. Gnarled, twisted olive tree trunks frame the scene against a deep black background. A pool of warm golden light illuminates the two figures. The painting is deeply atmospheric with rich contrast between light and shadow.",
+  "theological_description": "Luke alone records that 'an angel from heaven appeared to Him, strengthening Him' (Luke 22:43) during Christ's agony in Gethsemane. This painting captures the profound mystery of the Incarnation at its most vulnerable: the eternal Son of God, who sustains all creation by His word, needs an angel's comfort. Christ's fully human nature experiences the terror of impending suffering so intensely that He sweats drops of blood. The angel's gentle touch affirms that the Father has not abandoned the Son, even as He asks Him to drink the cup of wrath. The olive trees of Gethsemane — whose name means 'oil press' — symbolize the crushing pressure under which Christ accepts His mission. This scene reveals that authentic prayer does not eliminate suffering but receives grace to endure it. The Son who could have summoned twelve legions of angels (Matthew 26:53) instead accepts the ministry of one.",
+  "scripture_refs": [
+    {"ref": "LUK.22.42-44", "relevance": "primary", "reason": "Christ's prayer in Gethsemane and the angel appearing to strengthen Him — the exact scene"},
+    {"ref": "MAT.26.36-39", "relevance": "primary", "reason": "Christ falling on His face in prayer: let this cup pass from me, yet not my will but yours"},
+    {"ref": "HEB.5.7", "relevance": "typological", "reason": "In the days of His flesh He offered prayers with loud cries and tears"},
+    {"ref": "ISA.53.3", "relevance": "allusion", "reason": "A man of sorrows, acquainted with grief — Christ in His deepest human anguish"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tender", "anguished", "intimate"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008353",
+    "title": "An angel comforting Jesus before his arrest in the Garden of Gethsemane",
+    "artist": "Carl Bloch",
+    "model": "claude-opus-4-6"
+  }
+}

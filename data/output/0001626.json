@@ -1,0 +1,48 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Crowd", "type": "GROUP"},
+    {"name": "Roman soldiers", "type": "GROUP"}
+  ],
+  "event": "Crucifixion seen from the Cross — the view Christ would have seen",
+  "tags": [
+    "crucifixion",
+    "golgotha",
+    "first-person-perspective",
+    "crowd",
+    "mourners",
+    "roman-soldiers",
+    "horsemen",
+    "donkey",
+    "women-at-the-cross",
+    "spectators"
+  ],
+  "symbols": [
+    "View from above on the cross — the perspective of Christ looking down upon those He came to save",
+    "Mourning women below — the faithful who stayed at the cross while others fled",
+    "Crowd of spectators — humanity for whom Christ dies, some mocking, some mourning",
+    "Roman soldiers on horseback — the instruments of earthly power carrying out the crucifixion",
+    "Prone figure in foreground — the weight of grief, crushed by the event"
+  ],
+  "description": "The scene is viewed from an elevated vantage point — as if from the cross itself — looking down upon the crowd gathered at Golgotha. In the foreground, veiled women in brown and white robes huddle together in grief, one with hands clasped in prayer. A figure lies prostrate on the ground. Behind them spreads a vast crowd: Roman soldiers on horseback, onlookers seated on the hillside, people on donkeys, figures in colorful robes. The crowd extends far into the background up a green hillside. The perspective creates the powerful effect of seeing what Christ would have seen from the cross.",
+  "theological_description": "This remarkable composition adopts the unprecedented viewpoint of Christ Himself looking down from the cross, transforming the viewer into a participant in the Passion. The crowd below represents all humanity — 'God so loved the world that he gave his only Son' (JHN.3.16). The grieving women in the foreground are those whom John records standing near the cross: 'his mother, and his mother's sister, Mary the wife of Clopas, and Mary Magdalene' (JHN.19.25). The Roman soldiers represent the imperial power that executed Christ, yet unknowingly fulfilled the divine plan: 'This man was handed over by God's deliberate plan and foreknowledge' (ACT.2.23). From this vantage point, Christ sees those He prays for: 'Father, forgive them, for they do not know what they are doing' (LUK.23.34). The prophet Isaiah declared: 'He shall see of the travail of his soul, and shall be satisfied' (ISA.53.11) — from the cross, Christ sees the fruit of His suffering: a multitude drawn to Himself, as He prophesied: 'And I, when I am lifted up from the earth, will draw all people to myself' (JHN.12.32).",
+  "scripture_refs": [
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "The women standing near the cross — the grieving figures visible in the foreground"},
+    {"ref": "LUK.23.34", "relevance": "primary", "reason": "Father, forgive them — Christ's prayer over the crowd He sees from the cross"},
+    {"ref": "JHN.12.32", "relevance": "typological", "reason": "When I am lifted up I will draw all people to myself — the crowd drawn to the cross"},
+    {"ref": "ISA.53.11", "relevance": "typological", "reason": "He shall see the travail of his soul and be satisfied — Christ's view from the cross"},
+    {"ref": "MAT.27.54-56", "relevance": "primary", "reason": "The centurion and women watching from afar — the witnesses at Golgotha"},
+    {"ref": "JHN.3.16", "relevance": "typological", "reason": "God so loved the world — the world Christ sees below Him from the cross"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "solemn", "overwhelming", "sacred"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001626",
+    "title": "Crucifixion, seen from the Cross",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

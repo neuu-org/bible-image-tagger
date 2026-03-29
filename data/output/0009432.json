@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Etienne Chevalier",
+      "type": "PERSON"
+    },
+    {
+      "name": "Stephen",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Donor and Patron Saint Paying Homage to Virgin and Child",
+  "tags": [
+    "donor-portrait",
+    "patron-saint",
+    "saint-stephen",
+    "madonna-and-child",
+    "devotion",
+    "medieval",
+    "kneeling",
+    "angels",
+    "classical-architecture"
+  ],
+  "symbols": [
+    "kneeling donor — the act of prayerful devotion and patronage before the divine",
+    "Saint Stephen presenting the donor — the patron saint as intercessor and guide",
+    "classical architecture — the Church as the earthly house of the heavenly court",
+    "angels in the upper register — the heavenly attendants who serve the Virgin and Child"
+  ],
+  "description": "A medieval illuminated miniature showing a group of kneeling figures before a classical architectural backdrop. In the center, a man in red robes kneels in prayer, presented by a tonsured saint (Stephen) in liturgical vestments. Other kneeling figures in white head coverings surround them. The setting features ornate classical columns and pilasters with gilded details. Small angels are visible in the upper portion. The painting uses rich blues, reds, and gold typical of French manuscript illumination.",
+  "theological_description": "This devotional image from the Hours of Etienne Chevalier depicts the medieval practice of patron saint intercession. Saint Stephen, the first Christian martyr (ACT.6-7), presents the donor Etienne Chevalier to the Virgin and Child. Stephen's martyrdom — stoned to death while praying 'Lord, do not hold this sin against them' (ACT.7.60) — made him one of the most venerated saints in the Church. His vision of 'the heavens opened, and the Son of Man standing at the right hand of God' (ACT.7.56) at the moment of his death established the theological pattern of the martyrs as those who see Christ in glory. The donor portrait tradition reflects the belief in the communion of saints (HEB.12.1) and the efficacy of intercessory prayer. Mary as the Mother of God receives the devotion of the faithful, fulfilling her own prophecy: 'all generations will call me blessed' (LUK.1.48).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.7.55-60",
+      "relevance": "primary",
+      "reason": "Saint Stephen's martyrdom and heavenly vision, the patron saint presenting the donor"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "primary",
+      "reason": "All generations will call Mary blessed, fulfilled in the donor's devotion to the Virgin"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses, the theological basis for patron saint intercession"
+    },
+    {
+      "ref": "ACT.6.5-8",
+      "relevance": "primary",
+      "reason": "Stephen full of grace and power, the character of the patron saint depicted"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "devotional",
+    "reverent",
+    "solemn"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0009432",
+    "title": "Etienne Chevalier (1410-74) and his Patron Paying Homage to the Virgin and Child",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

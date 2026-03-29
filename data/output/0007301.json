@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "John the Apostle", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Crucifixion of Jesus Christ",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "passion",
+    "mary-at-the-cross",
+    "john-the-beloved",
+    "mary-magdalene",
+    "inri",
+    "redemption"
+  ],
+  "symbols": [
+    "cross — the instrument of salvation, where divine love meets human sin",
+    "INRI inscription — Jesus of Nazareth, King of the Jews, the ironic proclamation of Christ's true kingship",
+    "Mary standing at the cross — the Mother of Sorrows whose suffering unites her to her Son's sacrifice",
+    "Mary Magdalene kneeling — the penitent disciple clinging to the cross in devotion",
+    "John the Beloved standing — the faithful disciple to whom Christ entrusts His mother"
+  ],
+  "description": "A dark crucifixion scene within a gilded frame. Christ hangs on a wooden cross at center, wearing a crown of thorns and a white loincloth, with the INRI plaque above. At the left, a veiled woman in dark robes stands with hands clasped in grief. At the right, a younger figure in a green garment stands with one hand raised. At the foot of the cross, a figure in a red-brown garment kneels, embracing the base. The background is very dark, focusing all attention on the illuminated figures.",
+  "theological_description": "The Crucifixion is the central event of Christian faith — the moment where God's justice and mercy meet in the atoning sacrifice of His Son (Romans 3:25). The three figures at the cross represent the faithful remnant: Mary the Mother, John the Beloved Disciple, and Mary Magdalene the penitent. John's Gospel records that from the cross, Jesus entrusted Mary to John and John to Mary (John 19:26-27), creating a new family born not of blood but of grace. Mary's presence at the cross fulfills Simeon's prophecy that a sword would pierce her soul (Luke 2:35). Mary Magdalene, from whom seven demons were cast out, clings to the cross as the place where her redemption was purchased. Together they embody the Church at the foot of the cross: sorrowful yet faithful, witnessing the death that conquers death. The darkness that surrounds the scene reflects the cosmic darkness that covered the land (Matthew 27:45).",
+  "scripture_refs": [
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "Mary, John, and the women at the foot of the cross — the exact scene depicted"},
+    {"ref": "MAT.27.45-50", "relevance": "primary", "reason": "The crucifixion of Jesus with darkness covering the land"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "The sword piercing Mary's soul, fulfilled as she witnesses her Son's death"},
+    {"ref": "ROM.3.25", "relevance": "allusion", "reason": "God presented Christ as a propitiation through His blood — the theological meaning of the cross"},
+    {"ref": "GAL.2.20", "relevance": "allusion", "reason": "The Son of God who loved me and gave Himself for me — the personal dimension of the cross"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grievous", "solemn", "dark"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007301",
+    "title": "Crucifixion",
+    "artist": "Francesco Ribalta",
+    "model": "claude-opus-4-6"
+  }
+}

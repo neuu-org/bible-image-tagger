@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {
+      "name": "Bearded Elder",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Scene from the Life of Christ (Stained Glass Detail)",
+  "tags": [
+    "bearded-elder",
+    "prayer-shawl",
+    "tallit",
+    "jewish-elder",
+    "blue-stripes",
+    "white-head-covering",
+    "solemn-expression",
+    "church-window",
+    "biblical-figure"
+  ],
+  "symbols": [
+    "prayer shawl (tallit) with blue stripes — Jewish religious devotion and covenant identity",
+    "white head covering — reverence and piety",
+    "aged, dignified face — wisdom and the weight of prophetic expectation"
+  ],
+  "description": "A detail from a stained-glass window showing the face and upper body of an elderly bearded man wearing a white head covering and a prayer shawl with prominent blue stripes. His expression is solemn and contemplative, with deep-set eyes gazing slightly to the side. A second older figure is partially visible at the lower left. The glass work is detailed and realistic, with the lead lines visible between glass sections.",
+  "theological_description": "This stained-glass detail depicts a Jewish elder or religious leader, likely from a scene in the life of Christ. The prayer shawl (tallit) with its blue fringes (tzitzit) reflects the commandment of Numbers 15:38-40, where God instructs the Israelites to make tassels on the corners of their garments with a blue cord, to remember and obey all the Lord’s commandments. The elder’s dignified bearing may represent one of the faithful who awaited the consolation of Israel (Luke 2:25), or a Pharisee or member of the Sanhedrin who encountered Jesus during his ministry. The stained-glass medium itself embodies the theology of divine light passing through material creation to illuminate the faithful within the church.",
+  "scripture_refs": [
+    {
+      "ref": "NUM.15.38-40",
+      "relevance": "primary",
+      "reason": "The commandment to wear fringes with blue cords, visible in the prayer shawl depicted"
+    },
+    {
+      "ref": "LUK.2.25",
+      "relevance": "allusion",
+      "reason": "The righteous and devout who waited for the consolation of Israel"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solemn",
+    "contemplative",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013452",
+    "title": "Life of Christ. Eglise Saint-Sulpice de Fougères (detail)",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

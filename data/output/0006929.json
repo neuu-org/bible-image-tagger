@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "Crowd", "type": "GROUP"}
+  ],
+  "event": "Preaching of John the Baptist",
+  "tags": [
+    "john-the-baptist",
+    "preaching",
+    "repentance",
+    "wilderness-preaching",
+    "crowds-listening",
+    "prophetic-proclamation",
+    "pointing-heavenward",
+    "baptism-preparation"
+  ],
+  "symbols": [
+    "raised finger pointing upward — directing attention to God and the coming Messiah",
+    "animal skin garment — John's ascetic life in the wilderness as prophetic sign",
+    "bare feet — prophetic humility and holy ground",
+    "gathered crowd — the multitudes who came from Jerusalem and Judea to hear John",
+    "trees and wilderness landscape — the desert setting of John's ministry as prophesied by Isaiah"
+  ],
+  "description": "A large outdoor scene set in a wooded landscape with distant buildings. At the right stands a tall, bearded figure dressed in rough dark garments with bare feet, his right arm raised and index finger pointing to the sky. Before him sits and stands a dense crowd of men, women, and children in colorful robes—greens, yellows, whites, and reds—listening attentively. Some kneel, others sit on the ground. Trees frame both sides. A cloudy sky and distant hillside town complete the background.",
+  "theological_description": "The preaching of John the Baptist in the wilderness is the hinge moment between the Old and New Testaments (Matthew 3:1-12; Mark 1:1-8; Luke 3:1-18). John is the last and greatest of the Old Testament prophets, the voice crying in the wilderness prophesied by Isaiah (Isaiah 40:3). His message of repentance prepared the way for the Messiah. The upward-pointing gesture is theologically significant: John's entire ministry was not about himself but about directing Israel's gaze toward the One coming after him. As John himself declared, 'He must increase, but I must decrease' (John 3:30). The diverse crowd represents all social classes who came to be baptized—tax collectors, soldiers, common people—all called to bear fruit worthy of repentance. The wilderness setting fulfills prophecy and symbolizes Israel's spiritual condition before the coming of Christ.",
+  "scripture_refs": [
+    {"ref": "MAT.3.1-12", "relevance": "primary", "reason": "John the Baptist preaching repentance in the wilderness of Judea to gathered crowds"},
+    {"ref": "LUK.3.1-18", "relevance": "primary", "reason": "Luke's detailed account of John's preaching to various groups including practical moral instruction"},
+    {"ref": "ISA.40.3", "relevance": "typological", "reason": "The voice crying in the wilderness to prepare the way of the Lord, fulfilled in John"},
+    {"ref": "JHN.1.19-28", "relevance": "allusion", "reason": "John's testimony about himself as the forerunner, not the Christ"},
+    {"ref": "MAL.3.1", "relevance": "typological", "reason": "The messenger sent to prepare the way before the Lord, identified by Jesus as John"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["fervent", "solemn", "expectant"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006929",
+    "title": "Pregacao de Sao Joao Baptista",
+    "artist": "Gregorio Lopes",
+    "model": "claude-opus-4-6"
+  }
+}

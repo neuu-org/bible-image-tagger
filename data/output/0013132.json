@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Pilgrims",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Grotto of the Nativity in Bethlehem",
+  "tags": [
+    "bethlehem",
+    "grotto-of-nativity",
+    "holy-site",
+    "pilgrimage",
+    "hanging-lamps",
+    "columns",
+    "candelabra",
+    "kneeling-pilgrim",
+    "sacred-space",
+    "underground-chapel",
+    "curtains",
+    "prayer"
+  ],
+  "symbols": [
+    "hanging lamps \u2014 perpetual devotion and the light of faith kept burning at the holy site",
+    "kneeling pilgrim \u2014 reverence at the birthplace of Christ",
+    "grotto beneath the church \u2014 the humble cave where the King of Kings was born",
+    "columns and candelabra \u2014 the sanctification of the birth site through centuries of veneration"
+  ],
+  "description": "An interior view of an underground grotto with stone columns supporting a low ceiling. Multiple ornate hanging lamps illuminate the space with warm light. Two robed figures stand near a set of steps, one appearing to embrace or support the other. A third figure kneels on the floor in prayer. Richly decorated curtains hang between the columns. Large ornamental candelabra stand on either side. The atmosphere is warm, golden, and deeply reverent.",
+  "theological_description": "The Grotto of the Nativity in Bethlehem marks the traditional site where Jesus Christ was born. This sacred cave beneath the Church of the Nativity has been venerated since at least the second century. The humble cave setting fulfills the theological paradox of the Incarnation: the eternal God enters creation in the most lowly of circumstances, as prophesied by Micah 5:2\u2014\u2018But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel.\u2019 The pilgrims kneeling at this site continue the pattern established by the shepherds (Luke 2:15-16) and the Magi (Matthew 2:11) who came to worship the newborn King. The perpetual lamps burning in the grotto symbolize the unbroken witness of faith that the Light of the World (John 8:12) entered human history in this very place.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus in Bethlehem, the event commemorated at this grotto"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "typological",
+      "reason": "The prophecy that the ruler of Israel would come from Bethlehem"
+    },
+    {
+      "ref": "MAT.2.1-11",
+      "relevance": "allusion",
+      "reason": "The Magi coming to worship in Bethlehem, as pilgrims continue to do at this site"
+    },
+    {
+      "ref": "JHN.8.12",
+      "relevance": "allusion",
+      "reason": "Jesus as the Light of the World, symbolized by the perpetual lamps in the grotto"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "reverent",
+    "sacred",
+    "warm",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013132",
+    "title": "Bethlehem. The Grotto of the Nativity",
+    "artist": "David Roberts",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Catherine of Alexandria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Dominic",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donor",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with Saints Catherine and Dominic and a Donor",
+  "tags": [
+    "madonna-and-child",
+    "saint-catherine",
+    "saint-dominic",
+    "donor-portrait",
+    "virgin-and-child",
+    "devotional",
+    "landscape-background"
+  ],
+  "symbols": [
+    "Virgin holding the Christ child — the Theotokos presenting the Incarnate Word to the faithful",
+    "Saint Catherine at left — the learned virgin martyr in the company of the Holy Family",
+    "tonsured figure kneeling at right — Saint Dominic or a Dominican friar in prayerful devotion",
+    "donor figure — the patron who commissioned the work, presented by a saint to the Madonna",
+    "landscape with distant buildings — the earthly world sanctified by the divine presence"
+  ],
+  "description": "A horizontal composition showing the Virgin Mary at center in a rich red and blue garment, holding the infant Jesus who stands on her lap. At left, a young woman identified as Saint Catherine gazes upward at the child, wearing a pink and white dress. At right, a tonsured male figure in dark robes kneels in prayer, presented by another figure behind him. A pastoral landscape with trees, buildings, and a distant sky fills the background. The Christ child reaches toward or interacts with the figures. The palette is warm with rich reds, blues, and golden light.",
+  "theological_description": "This Sacra Conversazione presents the Virgin and Child enthroned among saints and a donor, a composition that embodies the communion of saints across time. The Christ child's central position affirms His role as the object of all devotion and the source of all grace. Saint Catherine of Alexandria represents the intellectual tradition of the Church — the learned virgin who confounded pagan philosophers with the wisdom of Christ. Saint Dominic (or a Dominican friar) represents the preaching order devoted to the proclamation of truth. The donor's inclusion in this sacred company reflects the theology of intercession: the faithful on earth, the saints in glory, and the Blessed Mother all participate in the one Body of Christ. The pastoral landscape behind situates this heavenly court within the created world, suggesting that the sacred reality depicted is accessible here and now through faith and devotion.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.42",
+      "relevance": "allusion",
+      "reason": "Blessed are you among women, and blessed is the fruit of your womb — the Madonna and Child"
+    },
+    {
+      "ref": "EPH.2.19",
+      "relevance": "typological",
+      "reason": "You are fellow citizens with the saints and members of the household of God — the communion depicted"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "Surrounded by so great a cloud of witnesses — the saints gathered around Christ"
+    },
+    {
+      "ref": "COL.1.18",
+      "relevance": "allusion",
+      "reason": "He is the head of the body, the Church — Christ as the center to whom all figures relate"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "serene",
+    "intimate",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005817",
+    "title": "Madonna and Child with Sts Catherine and Dominic and a Donor",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Cyrus the Great",
+      "type": "PERSON"
+    },
+    {
+      "name": "Hebrew Captives",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Cyrus the Great and the Hebrews",
+  "tags": [
+    "cyrus",
+    "persian-king",
+    "exile-return",
+    "hebrews",
+    "throne-room",
+    "decree",
+    "liberation",
+    "columns"
+  ],
+  "symbols": [
+    "Cyrus enthroned — the Persian king whom God called 'my shepherd' and 'his anointed'",
+    "Hebrews gathered before the throne — the exiled people of God receiving permission to return",
+    "royal columns and palace — the seat of Gentile power used by God for his redemptive purposes",
+    "kneeling figures — the gratitude and submission of the liberated captives"
+  ],
+  "description": "A richly colored medieval illuminated manuscript page showing a royal throne room. A crowned king (Cyrus) sits enthroned under a canopy at right, holding a scepter, attended by courtiers in rich garments. Before him, a large crowd of men in varied robes and head coverings kneels and stands in supplication. The setting features pink marble columns supporting a classical portico. In the background, a castle and green landscape are visible. The painting uses vivid blues, purples, reds, and gold, characteristic of the Fouquet workshop.",
+  "theological_description": "Cyrus the Great's decree allowing the Jewish exiles to return to Jerusalem and rebuild the Temple (2CH.36.22-23; EZR.1.1-4) is one of the most remarkable instances of God using a pagan ruler to accomplish his purposes. Isaiah prophesied Cyrus by name over a century before his birth: 'Thus says the LORD to his anointed, to Cyrus, whose right hand I have grasped, to subdue nations before him' (ISA.45.1). Cyrus is the only Gentile called 'messiah' (anointed one) in the Hebrew Bible. The return from Babylon fulfilled Jeremiah's prophecy that the exile would last seventy years (JER.29.10), and it represented a second exodus — God once again liberating his people from foreign bondage. Ezra records that Cyrus declared: 'The LORD, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem' (EZR.1.2). This event demonstrates the biblical principle that God's sovereignty extends over all nations and rulers, directing history toward the fulfillment of his promises.",
+  "scripture_refs": [
+    {
+      "ref": "EZR.1.1-4",
+      "relevance": "primary",
+      "reason": "Cyrus's decree allowing the Jews to return and rebuild the Temple"
+    },
+    {
+      "ref": "2CH.36.22-23",
+      "relevance": "primary",
+      "reason": "The fulfillment of Jeremiah's prophecy through Cyrus's decree"
+    },
+    {
+      "ref": "ISA.45.1-4",
+      "relevance": "primary",
+      "reason": "God calling Cyrus by name as his anointed instrument"
+    },
+    {
+      "ref": "JER.29.10",
+      "relevance": "typological",
+      "reason": "The seventy-year exile prophecy fulfilled by Cyrus's decree"
+    },
+    {
+      "ref": "ISA.44.28",
+      "relevance": "primary",
+      "reason": "God calling Cyrus 'my shepherd' who shall fulfill all my purpose"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "regal",
+    "hopeful",
+    "solemn"
+  ],
+  "period": "Exile",
+  "_meta": {
+    "key": "0009745",
+    "title": "Cyrus the Great and the Hebrews",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

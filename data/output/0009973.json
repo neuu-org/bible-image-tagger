@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Daniel", "type": "PERSON"},
+    {"name": "Lions", "type": "GROUP"}
+  ],
+  "event": "Daniel in the Lions' Den",
+  "tags": [
+    "daniel",
+    "lions-den",
+    "faith",
+    "divine-protection",
+    "prayer",
+    "miracle",
+    "persian-exile",
+    "courage",
+    "old-testament"
+  ],
+  "symbols": [
+    "Daniel standing unharmed — faith that silences the mouths of lions",
+    "lions restrained — God's sovereign power over nature to protect his faithful servant",
+    "dark stone den — the tomb-like chamber from which Daniel emerges alive, prefiguring resurrection",
+    "Daniel's royal garment — his position in the Persian court, maintaining faith despite political pressure",
+    "bones on the floor — the remains of previous victims, highlighting the miracle of Daniel's survival"
+  ],
+  "description": "A dramatic painting showing the prophet Daniel standing in a dark stone chamber, wearing a rich purple-red robe, facing a group of large, powerful lions. Daniel stands at left with a calm, dignified posture, his face turned upward in prayer. Six or seven lions cluster together at right, their muscular bodies tense but restrained, watching Daniel without attacking. Bones are scattered on the stone floor. The lighting is dramatic, with Daniel illuminated against the dark walls of the den. The lions are rendered with anatomical precision and golden-tawny coloring.",
+  "theological_description": "Daniel in the lions' den (DAN.6) is one of the Old Testament's most vivid demonstrations of God's power to deliver the faithful. Daniel, a senior official under King Darius, refused to cease praying to God despite a decree that prayer to anyone but the king was punishable by death. His faithfulness cost him his freedom but not his life: 'My God sent his angel and shut the lions' mouths, and they have not harmed me, because I was found blameless before him' (DAN.6.22). The story operates on multiple theological levels. It demonstrates that faithfulness to God may bring persecution but God is able to deliver. The lions' den functions as a type of death and the grave — Daniel descends into the pit and emerges alive, prefiguring Christ's descent into death and resurrection. Hebrews 11:33 celebrates those who 'through faith... stopped the mouths of lions.' The narrative also teaches the sovereignty of God over all earthly power: even the Persian empire cannot overrule the decree of the living God. King Darius's subsequent proclamation echoes through the centuries: 'He is the living God, enduring forever; his kingdom shall never be destroyed' (DAN.6.26).",
+  "scripture_refs": [
+    {"ref": "DAN.6.1-28", "relevance": "primary", "reason": "The complete narrative of Daniel in the lions' den"},
+    {"ref": "DAN.6.22", "relevance": "primary", "reason": "God sent his angel and shut the lions' mouths"},
+    {"ref": "DAN.6.26", "relevance": "primary", "reason": "Darius's proclamation of the living God whose kingdom endures forever"},
+    {"ref": "HEB.11.33", "relevance": "typological", "reason": "Through faith they stopped the mouths of lions — Daniel as exemplar of faith"},
+    {"ref": "PSA.91.13", "relevance": "allusion", "reason": "You will tread on the lion and the cobra — divine protection over the faithful"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tense", "awe-inspiring", "serene", "miraculous"],
+  "period": "Exile",
+  "_meta": {
+    "key": "0009973",
+    "title": "Daniel's Answer to the King",
+    "artist": "Briton Riviere",
+    "model": "claude-opus-4-6"
+  }
+}

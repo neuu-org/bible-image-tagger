@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Black Methodist Congregation",
+      "type": "GROUP"
+    },
+    {
+      "name": "Preacher",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Black Methodists Holding a Prayer Meeting",
+  "tags": [
+    "prayer-meeting",
+    "african-american",
+    "methodist",
+    "preaching",
+    "worship",
+    "ecstatic",
+    "church",
+    "congregation",
+    "early-american"
+  ],
+  "symbols": [
+    "raised arms — ecstatic worship and surrender to the Holy Spirit",
+    "preacher in doorway — the minister as intermediary proclaiming the Word",
+    "crowd gathered outside — the overflowing of worship beyond church walls",
+    "open door — the Gospel open to all people"
+  ],
+  "description": "A watercolor scene showing a large crowd of Black worshippers gathered outside a building. Many figures have their arms raised in ecstatic prayer and worship. At the center, a man stands in an elevated doorway, arms outstretched as if preaching. The crowd below is animated — some kneeling, some falling, some raising hands, some embracing. The building is a simple white clapboard structure with tall windows. The overall mood is one of intense spiritual fervor and communal devotion.",
+  "theological_description": "This early 19th-century watercolor documents the vibrant worship of Black Methodist communities in America. The ecstatic prayer and raised hands recall the Psalmist's exhortation: 'Lift up your hands to the holy place and bless the Lord' (Ps 134:2). The scene also evokes Pentecost, when the Spirit fell upon the gathered believers and they were filled with ecstatic utterance (Acts 2:1-4). The preacher in the doorway embodies Paul's declaration that 'faith comes from hearing, and hearing through the word of Christ' (Rom 10:17). The Methodist movement, rooted in the revivals of John Wesley, emphasized the direct experience of God's grace available to all, regardless of social station — fulfilling Peter's Pentecost sermon quoting Joel: 'I will pour out my Spirit on all flesh' (Acts 2:17). For enslaved and free Black Americans, the prayer meeting was a space of spiritual liberation where the prophetic tradition of deliverance found living expression.",
+  "scripture_refs": [
+    {
+      "ref": "ACT.2.1-4",
+      "relevance": "primary",
+      "reason": "The Spirit falls at Pentecost — the ecstatic communal worship depicted"
+    },
+    {
+      "ref": "PSA.134.2",
+      "relevance": "allusion",
+      "reason": "Lift up your hands to the holy place — the raised arms in worship"
+    },
+    {
+      "ref": "ROM.10.17",
+      "relevance": "allusion",
+      "reason": "Faith comes from hearing the word of Christ — the preacher proclaiming"
+    },
+    {
+      "ref": "ACT.2.17",
+      "relevance": "typological",
+      "reason": "I will pour out my Spirit on all flesh — the universal gift of the Spirit"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ecstatic",
+    "fervent",
+    "communal"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012034",
+    "title": "Black Methodists Holding a Prayer Meeting",
+    "artist": "Pavel Svinyin",
+    "model": "claude-opus-4-6"
+  }
+}

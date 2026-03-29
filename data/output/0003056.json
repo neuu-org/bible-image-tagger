@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Matthew", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"}
+  ],
+  "event": "Evangelist Saint Matthew and the Angel",
+  "tags": [
+    "saint-matthew",
+    "evangelist",
+    "angel",
+    "writing",
+    "gospel-author",
+    "divine-inspiration",
+    "quill-pen",
+    "book",
+    "cherub",
+    "dictation"
+  ],
+  "symbols": [
+    "angel whispering to Matthew — divine inspiration guiding the writing of the Gospel",
+    "quill pen — the instrument of Gospel authorship",
+    "open book or manuscript — the Gospel of Matthew being composed",
+    "elderly bearded face — the apostle-tax collector transformed into evangelist",
+    "child-like angel — the winged man or angel, Matthew's traditional symbol from Ezekiel's vision"
+  ],
+  "description": "An elderly bearded man with white hair bends over a book or manuscript, holding a quill pen. A small winged child-angel leans close to his ear, whispering or guiding his hand. The rendering is warm and intimate, with strong chiaroscuro lighting the two faces in close proximity. The angel has curly golden hair and soft wings. The background is dark, focusing entirely on the intimate exchange between the divine messenger and the human author.",
+  "theological_description": "Matthew, the tax collector called by Jesus (MAT.9.9), became the author of the first Gospel in the traditional New Testament ordering. His Gospel, addressed primarily to a Jewish audience, demonstrates systematically how Jesus fulfills Old Testament prophecy, opening with the genealogy from Abraham through David to Christ (MAT.1.1-17). The angel or winged man became Matthew's symbol in Christian iconography, derived from the four living creatures of Ezekiel 1:10 and Revelation 4:7, because Matthew's Gospel begins with the human genealogy of Christ. The scene of the angel inspiring the evangelist expresses the Church's doctrine of divine inspiration: the human author writes with his own faculties and style, but under the guidance of the Holy Spirit, ensuring that Scripture is both fully human and fully divine in its origin. Paul affirms: 'All Scripture is breathed out by God' (2TI.3.16).",
+  "scripture_refs": [
+    {"ref": "MAT.9.9", "relevance": "primary", "reason": "The calling of Matthew the tax collector to follow Jesus"},
+    {"ref": "MAT.1.1", "relevance": "primary", "reason": "The opening of Matthew's Gospel: the book of the genealogy of Jesus Christ"},
+    {"ref": "2TI.3.16", "relevance": "typological", "reason": "All Scripture is God-breathed — the divine inspiration depicted by the angel's guidance"},
+    {"ref": "2PE.1.21", "relevance": "allusion", "reason": "Men spoke from God as they were carried along by the Holy Spirit"},
+    {"ref": "REV.4.7", "relevance": "allusion", "reason": "The four living creatures, one with a human face — Matthew's traditional symbol"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["intimacy", "inspiration", "concentration", "reverence"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0003056",
+    "title": "Evangelist St. Matthew and the Angel",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

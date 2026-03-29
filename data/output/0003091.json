@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Samuel", "type": "PERSON"}
+  ],
+  "event": "The Infant Samuel at Prayer",
+  "tags": [
+    "samuel",
+    "child-prayer",
+    "temple",
+    "nighttime",
+    "calling",
+    "devotion",
+    "innocence",
+    "divine-calling",
+    "prophet",
+    "here-i-am"
+  ],
+  "symbols": [
+    "kneeling child in white — the innocence and purity of the young prophet",
+    "hands clasped in prayer — Samuel's responsiveness to God's call",
+    "dim interior with light from above — divine illumination calling the child in the night",
+    "nighttime setting — the narrative context of God calling Samuel at night in the temple"
+  ],
+  "description": "A young child with curly brown hair kneels in prayer in a dim interior, wearing a white nightgown. His small hands are clasped together and he gazes upward toward a source of light coming from the upper left. The setting is dark, suggesting nighttime, with warm amber tones on the child's face and garment. A small piece of furniture is visible behind him. The expression is one of innocent attentiveness and devotion.",
+  "theological_description": "The Infant Samuel at Prayer depicts the boy prophet in the temple at Shiloh, where he served under the priest Eli. In one of the most beloved narratives of the Old Testament, God calls to Samuel three times in the night. Twice, Samuel runs to Eli thinking the old priest has called him. On the third occasion, Eli perceives that the Lord is calling the boy and instructs him to respond: 'Speak, Lord, for your servant is listening' (1SA.3.9-10). This story establishes the paradigm of prophetic calling — God initiates, the human responds in obedience. Samuel would become the last of the judges and the prophet who anointed both Saul and David as kings of Israel. His mother Hannah had dedicated him to the Lord's service before his birth (1SA.1.11), making him a child of promise. The white garment suggests the linen ephod Samuel wore in the temple (1SA.2.18), the dress of priestly service. The child's upward gaze captures the moment of hearing the divine voice in the night.",
+  "scripture_refs": [
+    {"ref": "1SA.3.1-10", "relevance": "primary", "reason": "God calling Samuel in the night at the temple of Shiloh"},
+    {"ref": "1SA.3.9", "relevance": "primary", "reason": "Speak, Lord, for your servant is listening — the model of prophetic responsiveness"},
+    {"ref": "1SA.1.11", "relevance": "allusion", "reason": "Hannah's vow to dedicate her son to the Lord's service"},
+    {"ref": "1SA.2.18", "relevance": "allusion", "reason": "Samuel ministering before the Lord as a boy wearing a linen ephod"},
+    {"ref": "PSA.127.3", "relevance": "allusion", "reason": "Children are a heritage from the Lord — Samuel as a child of divine promise"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["innocence", "devotion", "stillness", "wonder"],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0003091",
+    "title": "The Infant Samuel at Prayer",
+    "artist": "Joshua Reynolds",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Samson", "type": "PERSON"}
+  ],
+  "event": "The Blinded Samson in Captivity",
+  "tags": [
+    "samson",
+    "blinded",
+    "captivity",
+    "chains",
+    "blindfold",
+    "prison",
+    "philistines",
+    "muscular-figure",
+    "suffering",
+    "humiliation"
+  ],
+  "symbols": [
+    "blindfold covering gouged eyes — the Philistines' cruelty and Samson's punishment for broken vows",
+    "chains on wrists — bondage and captivity in the Philistine prison",
+    "muscular but defeated body — the once-mighty judge of Israel now reduced to slavery",
+    "green prison walls — the confines of Philistine captivity at Gaza"
+  ],
+  "description": "A powerful expressionist painting of a muscular, half-naked man sitting or stumbling against a green wall. His eyes are covered by a blood-stained bandage or blindfold, and chains are visible on his wrists. His body is massive and heavily muscled but shows signs of defeat — slumped posture, open mouth suggesting a cry or groan. Blood stains mark his face and the bandage. The brushwork is bold and agitated, with thick impasto strokes in yellows, greens, and flesh tones. The artist's signature and date appear at upper left.",
+  "theological_description": "Samson blinded and chained depicts the nadir of Israel's greatest judge. After Delilah betrayed the secret of his strength and the Philistines shaved his head (JDG.16.19-21), they gouged out his eyes and bound him with bronze shackles, setting him to grind grain in the prison at Gaza. Samson's tragedy is the tragedy of squandered gifts: the Nazirite consecrated to God from the womb (JDG.13.5) who repeatedly violated his vows. Yet even in this abasement, the text notes ominously that 'the hair of his head began to grow again' (JDG.16.22), foreshadowing his final, redemptive act. Samson's blindness and bondage mirror Israel's own recurring pattern: empowered by God, unfaithful to the covenant, and delivered into the hands of oppressors. Yet God's purposes are not thwarted: Samson's death will accomplish more than his life (JDG.16.30), making him a paradoxical type of Christ who conquers through suffering and death.",
+  "scripture_refs": [
+    {"ref": "JDG.16.19-21", "relevance": "primary", "reason": "Delilah's betrayal, the shaving of Samson's head, the Philistines gouging out his eyes and binding him"},
+    {"ref": "JDG.16.22", "relevance": "primary", "reason": "But the hair of his head began to grow again — foreshadowing his final act of power"},
+    {"ref": "JDG.16.28-30", "relevance": "allusion", "reason": "Samson's prayer for one final act of strength and his death that killed more than his life"},
+    {"ref": "JDG.13.5", "relevance": "allusion", "reason": "The child shall be a Nazirite to God from the womb — the consecration that was violated"},
+    {"ref": "HEB.11.32-34", "relevance": "typological", "reason": "Samson listed among the heroes of faith who through weakness were made strong"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguish", "brutal", "tragic", "powerful"],
+  "period": "Conquest",
+  "_meta": {
+    "key": "0006117",
+    "title": "The Blinded Samson",
+    "artist": "Lovis Corinth",
+    "model": "claude-opus-4-6"
+  }
+}

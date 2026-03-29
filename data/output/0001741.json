@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Soldiers/Guards", "type": "GROUP"}
+  ],
+  "event": "The Resurrection of Christ",
+  "tags": [
+    "resurrection",
+    "risen-christ",
+    "banner",
+    "victory",
+    "ascending",
+    "soldiers",
+    "empty-tomb",
+    "triumph-over-death",
+    "easter"
+  ],
+  "symbols": [
+    "Christ rising triumphantly — victory over death and the grave",
+    "Red banner/flag — the standard of the Resurrection, the victory of the Lamb",
+    "White loincloth — the burial garments now transformed into garments of glory",
+    "Fallen soldiers below — earthly power rendered helpless before divine resurrection",
+    "Landscape with town — the world into which the risen Christ returns"
+  ],
+  "description": "Christ rises dynamically into the air, nearly nude except for a white cloth around his waist, holding a tall staff with a red banner billowing behind him. His muscular body is brightly illuminated. His arms are spread wide in a gesture of triumph. Below him, two armored soldiers recoil and fall back in astonishment. A landscape with a distant church tower stretches behind. The composition is tall and vertical, emphasizing Christ's upward movement against a dramatic clouded sky.",
+  "theological_description": "The Resurrection of Christ is the cornerstone of the Christian faith. Paul declares: 'If Christ has not been raised, then our preaching is in vain and your faith is in vain' (1CO.15.14). Christ's dynamic rising here conveys the explosive power of the event — not a gentle awakening but a cosmic triumph. The banner of the cross-standard proclaims victory: 'Death is swallowed up in victory' (1CO.15.54). The fallen soldiers recall Matthew's account: the guards 'shook and became like dead men' (MAT.28.4). Christ's glorified body — the same body that was crucified, now transformed — anticipates the promise to all believers: 'He will transform our lowly body to be like his glorious body' (PHP.3.21). The Resurrection fulfills Christ's own prophecy: 'Destroy this temple, and in three days I will raise it up' (JHN.2.19), and vindicates the Father's acceptance of the Son's sacrifice.",
+  "scripture_refs": [
+    {"ref": "MAT.28.1-7", "relevance": "primary", "reason": "The Resurrection account: the angel announces He is risen, the guards are overcome"},
+    {"ref": "MAT.28.4", "relevance": "primary", "reason": "The guards trembled and became like dead men — the fallen soldiers depicted"},
+    {"ref": "1CO.15.54-57", "relevance": "typological", "reason": "Death is swallowed up in victory — the triumphant energy of the risen Christ"},
+    {"ref": "PHP.3.21", "relevance": "typological", "reason": "Christ will transform our lowly body to be like His glorious body — the glorified risen form"},
+    {"ref": "JHN.2.19", "relevance": "primary", "reason": "Destroy this temple and in three days I will raise it up — Christ's prophecy of His resurrection"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["triumphant", "powerful", "glorious"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001741",
+    "title": "Christ",
+    "artist": "Titian",
+    "model": "claude-opus-4-6"
+  }
+}

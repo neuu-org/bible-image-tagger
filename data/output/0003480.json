@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Nicodemus", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Nicodemus Visiting Jesus by Night",
+  "tags": [
+    "nicodemus",
+    "night-visit",
+    "rooftop-conversation",
+    "born-again",
+    "pharisee",
+    "nocturnal",
+    "teaching",
+    "new-birth"
+  ],
+  "symbols": [
+    "nighttime setting — Nicodemus coming under cover of darkness, secrecy and spiritual blindness",
+    "rooftop meeting — the private, elevated space for intimate spiritual dialogue",
+    "warm lamplight from below — the light of Christ's teaching emerging from within the house",
+    "Jerusalem buildings in background — the Holy City where religious authority resides"
+  ],
+  "description": "Two figures sit on a rooftop terrace at night. At the left, an elderly bearded man in dark robes leans forward intently — this is Nicodemus. At the right, Jesus sits wrapped in a dark red or maroon garment, his face partially shadowed. Between them, warm golden light streams up from a stairway below, illuminating the terrace. The city of Jerusalem stretches in the background with low buildings and hills under a dusky purple-blue sky. The atmosphere is one of quiet, intimate conversation.",
+  "theological_description": "The encounter between Nicodemus and Jesus is one of the most theologically dense passages in Scripture. Nicodemus, a Pharisee and member of the Sanhedrin, comes to Jesus by night — the nighttime signifying both his fear of public association and his spiritual state of incomplete understanding. Jesus's declaration, 'Unless one is born again, he cannot see the kingdom of God' (JHN.3.3), introduces the concept of spiritual regeneration that Nicodemus struggles to comprehend. This conversation produces the most famous verse in Scripture: 'For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life' (JHN.3.16). The dialogue moves from the need for new birth through water and Spirit (JHN.3.5) to the lifting up of the Son of Man as Moses lifted the serpent in the wilderness (JHN.3.14-15) — a typological connection to Numbers 21:8-9. Nicodemus's journey from night to light continues through the Gospel, as he later defends Jesus (JHN.7.50-51) and finally helps bury him (JHN.19.39).",
+  "scripture_refs": [
+    {"ref": "JHN.3.1-21", "relevance": "primary", "reason": "The complete narrative of Nicodemus's night visit and Jesus's teaching on new birth"},
+    {"ref": "JHN.3.3", "relevance": "primary", "reason": "Unless one is born again, he cannot see the kingdom of God — the core teaching"},
+    {"ref": "JHN.3.16", "relevance": "primary", "reason": "God so loved the world — the supreme declaration of the Gospel spoken in this encounter"},
+    {"ref": "NUM.21.8-9", "relevance": "typological", "reason": "Moses lifting the serpent in the wilderness, the type Jesus uses for his own crucifixion"},
+    {"ref": "JHN.19.39", "relevance": "allusion", "reason": "Nicodemus later bringing spices for Jesus's burial — the completion of his journey from night to faith"},
+    {"ref": "JHN.3.5", "relevance": "primary", "reason": "Born of water and the Spirit — baptismal regeneration taught in this conversation"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["intimate", "contemplative", "mysterious", "earnest"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003480",
+    "title": "Nicodemus Visiting Jesus",
+    "artist": "Henry Ossawa Tanner",
+    "model": "claude-opus-4-6"
+  }
+}

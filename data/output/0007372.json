@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Peter", "type": "PERSON"},
+    {"name": "Disciples in boat", "type": "GROUP"}
+  ],
+  "event": "Christ Walks on Water and Rescues Peter",
+  "tags": [
+    "walking-on-water",
+    "peter-sinking",
+    "miracle",
+    "sea-of-galilee",
+    "storm",
+    "faith-and-doubt",
+    "boat",
+    "rescue",
+    "halo"
+  ],
+  "symbols": [
+    "stormy sea — the trials and tribulations that threaten to overwhelm faith",
+    "Christ standing on water — divine sovereignty over the forces of chaos and nature",
+    "Peter sinking — the failure of faith when eyes turn from Christ to circumstances",
+    "outstretched hands — Christ reaching to rescue the faltering disciple",
+    "boat with disciples — the Church tossed by storms yet preserved by Christ's presence"
+  ],
+  "description": "A dramatic scene on a dark, stormy sea. At right, a figure in white robes with a golden halo stands calmly on the churning water. Before him, an older bearded man with a faint halo sinks into the waves, reaching upward desperately. In the background at left, a boat with a dark green sail carries several figures, partially obscured by the turbulent conditions. The sky is dark and threatening with purple-gray storm clouds. The sea is rendered in deep greens and blues.",
+  "theological_description": "Christ walking on the water (Matthew 14:22-33) is a theophany — a revelation of divine identity. In the Old Testament, treading on the waves is an attribute of God alone (Job 9:8; Psalm 77:19). When Jesus walks on the sea, He manifests His divine nature. Peter's attempt to walk to Jesus represents the boldness of faith, while his sinking reveals its fragility: 'When he saw the wind, he was afraid' (Matthew 14:30). The moment depicted — Christ reaching down to the sinking Peter — captures the Gospel in miniature: human faith falters, but divine grace reaches down to save. Jesus's gentle rebuke, 'O you of little faith, why did you doubt?', is not a condemnation but an invitation to deeper trust. The boat represents the Church, always storm-tossed yet never sinking because Christ is present. This scene has consoled believers through every age of persecution and trial.",
+  "scripture_refs": [
+    {"ref": "MAT.14.22-33", "relevance": "primary", "reason": "Jesus walking on the water and rescuing the sinking Peter — the exact scene depicted"},
+    {"ref": "MRK.6.45-52", "relevance": "primary", "reason": "Mark's parallel account of Christ walking on the sea"},
+    {"ref": "JOB.9.8", "relevance": "typological", "reason": "God alone treads on the waves of the sea — Jesus's act reveals His divine identity"},
+    {"ref": "PSA.69.1-2", "relevance": "allusion", "reason": "Save me, O God, for the waters have come up to my neck — Peter's cry from the deep"},
+    {"ref": "ISA.43.2", "relevance": "allusion", "reason": "When you pass through the waters I will be with you — God's promise of presence in the storm"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "desperate", "faithful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007372",
+    "title": "Christ Walks on Water",
+    "artist": "Eero Jarnefelt",
+    "model": "claude-opus-4-6"
+  }
+}

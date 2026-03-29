@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Lion",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Saint Jerome in the Wilderness",
+  "tags": [
+    "saint-jerome",
+    "penitent",
+    "wilderness",
+    "crucifix",
+    "lion",
+    "hermit",
+    "cardinal-robe",
+    "rocky-landscape",
+    "prayer",
+    "church-father"
+  ],
+  "symbols": [
+    "crucifix in the rocky landscape — the cross as focus of Jerome's penitential devotion",
+    "stone for beating breast — self-mortification and repentance",
+    "cardinal's red robe discarded — renunciation of worldly honor for ascetic life",
+    "lion — traditional companion of Jerome, tamed by his holiness",
+    "barren rocky wilderness — the desert of ascetic purification"
+  ],
+  "description": "An elderly, gaunt man with a bald head kneels in a rocky wilderness landscape, his torso bare and emaciated. He gazes upward toward a small crucifix mounted among the rocks at the upper left. His discarded cardinal's red robe lies beneath him. A lion sits calmly behind him at the right. The landscape is composed of dramatic craggy rocks and sparse vegetation, with distant mountains visible. The figure's posture expresses intense penitential devotion.",
+  "theological_description": "Saint Jerome's retreat to the Syrian desert (c. 374-379) is one of the defining acts of Christian asceticism. He wrote of beating his breast with a stone while crying out for God's mercy, embodying the publican's prayer in Luke 18:13. The crucifix before which he kneels represents his conviction that all Scripture points to Christ crucified, the hermeneutical key to the entire Bible. Jerome's Vulgate translation made Scripture accessible to the Latin-speaking world for over a thousand years. Though a post-biblical figure, his life was shaped entirely by biblical texts. His desert sojourn echoes the biblical pattern of wilderness encounters with God — Moses at Sinai (EXO.3.1-6), Elijah at Horeb (1KI.19.8-12), and Christ's own temptation in the desert (MAT.4.1-2). The lion, tamed by the saint's holiness, evokes Isaiah's peaceable kingdom (ISA.11.6-7).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.18.13",
+      "relevance": "allusion",
+      "reason": "The publican beating his breast and crying for mercy, mirrored in Jerome's penitential posture"
+    },
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "typological",
+      "reason": "Christ's wilderness temptation as the archetype for Jerome's desert asceticism"
+    },
+    {
+      "ref": "1KI.19.8-12",
+      "relevance": "typological",
+      "reason": "Elijah's journey to the desert mountain of God, the pattern for the hermit's retreat"
+    },
+    {
+      "ref": "ISA.11.6-7",
+      "relevance": "allusion",
+      "reason": "The peaceable kingdom where wild beasts are tamed, evoked by Jerome's companion lion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "penitential",
+    "austere",
+    "contemplative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003229",
+    "title": "St. Jerome",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

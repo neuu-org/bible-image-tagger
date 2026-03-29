@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Peter", "type": "PERSON"},
+    {"name": "Disciples", "type": "GROUP"}
+  ],
+  "event": "The Miraculous Draught of Fishes",
+  "tags": [
+    "miraculous-catch",
+    "fishing",
+    "boat",
+    "net",
+    "sea-of-galilee",
+    "peter",
+    "abundance",
+    "discipleship",
+    "calling",
+    "storm-clouds"
+  ],
+  "symbols": [
+    "overflowing net of fish — the superabundant provision of God that surpasses human effort",
+    "boat — the Church, traditionally interpreted as the bark of Peter navigating the world",
+    "Christ standing in the boat — divine authority commanding nature and directing the disciples",
+    "Peter straining to pull the net — the labor of apostolic mission empowered by Christ's word",
+    "dark storm clouds — the hostile world through which the Church must fish for souls",
+    "mass of fish spilling out — the eschatological harvest of souls gathered into the Kingdom"
+  ],
+  "description": "A dramatic Baroque scene showing a fishing boat crowded with muscular men straining to haul in an enormous catch of fish. A standing figure in red garments (Christ) is positioned in the boat at left, while multiple disciples lean over the sides pulling at overflowing nets. Fish cascade out of the net onto the boat and into the water. An elderly figure (Peter) is being helped from the water. The sky is dark and stormy with dramatic lighting breaking through the clouds. The scene is painted with rich, warm tones and powerful physical energy.",
+  "theological_description": "The Miraculous Draught of Fishes is recorded in Luke 5:1-11 and echoed in the post-Resurrection appearance in John 21:1-14. In Luke's account, after a fruitless night of fishing, Jesus commands Simon to 'put out into the deep and let down your nets for a catch.' Peter's obedience despite professional skepticism yields a catch so enormous that the nets begin to break. Overwhelmed, Peter falls at Jesus's knees saying, 'Depart from me, for I am a sinful man, O Lord' (LUK.5.8). Jesus responds with the great commission: 'Do not be afraid; from now on you will be catching men' (LUK.5.10). The miracle operates on two levels: it demonstrates Christ's lordship over nature as Creator, and it serves as a prophetic sign of the apostolic mission. The abundance of fish prefigures the ingathering of the nations into the Church, as Christ's parable of the dragnet teaches (MAT.13.47-50). The Fathers read this scene alongside Ezekiel's vision of the river from the Temple teeming with fish (EZK.47.9-10), seeing both as images of the life-giving power of God's word flowing through the ministry of the Church.",
+  "scripture_refs": [
+    {"ref": "LUK.5.1-11", "relevance": "primary", "reason": "The miraculous catch of fish and the calling of Peter, the direct subject of this painting"},
+    {"ref": "LUK.5.8-10", "relevance": "primary", "reason": "Peter's confession of sinfulness and Jesus's commission to catch men"},
+    {"ref": "JHN.21.1-14", "relevance": "primary", "reason": "The post-Resurrection miraculous catch, a parallel and fulfillment of the earlier miracle"},
+    {"ref": "MAT.13.47-50", "relevance": "typological", "reason": "The parable of the dragnet gathering every kind of fish, prefigured by this miracle"},
+    {"ref": "EZK.47.9-10", "relevance": "typological", "reason": "Ezekiel's vision of abundant fish in the river from the Temple, fulfilled in the apostolic mission"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "awe-inspiring", "laborious", "abundant"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009257",
+    "title": "The Miraculous Draught of Fishes",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

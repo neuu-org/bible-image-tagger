@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Saint", "type": "PERSON"}
+  ],
+  "event": "The Last Judgment - Panel Detail",
+  "tags": [
+    "saint",
+    "hermit",
+    "reading",
+    "red-robes",
+    "mountain-landscape",
+    "sea",
+    "keys",
+    "altarpiece-wing",
+    "devotion"
+  ],
+  "symbols": [
+    "open book — devotion to Scripture and sacred learning",
+    "keys at feet — possibly Saint Peter's keys to the Kingdom",
+    "red robes — martyrdom or cardinal dignity",
+    "mountainous seascape — the wilderness of contemplative retreat",
+    "barefoot — ascetic humility"
+  ],
+  "description": "A panel from an altarpiece showing an elderly bearded man in red robes seated on a rocky outcrop in a mountainous landscape. He holds a small golden object in one hand and a closed book in the other. At his feet lie keys and other books. The background shows dramatic rocky peaks, a body of water, and distant cliffs under a pale sky. The panel has an arched top and dark frame. The figure is rendered with detailed realism against the expansive landscape.",
+  "theological_description": "This wing panel from Lucas van Leyden's Last Judgment triptych likely depicts a saint-patron or Church Father associated with the eschatological theme of the main panel. The keys at his feet may identify him as Saint Peter, the keeper of the keys of the kingdom (MAT.16.19), whose role as gatekeeper is central to Last Judgment iconography. The red robes could indicate his martyrdom in Rome. The mountainous seascape background may allude to Peter's experience on the sea or the apocalyptic landscapes associated with the end times. In the context of a Last Judgment altarpiece, the saint serves as both intercessor and witness to the final reckoning described in Matthew 25 and Revelation 20.",
+  "scripture_refs": [
+    {"ref": "MAT.16.19", "relevance": "allusion", "reason": "The keys of the kingdom given to Peter — the keys visible at the figure's feet"},
+    {"ref": "MAT.25.31-46", "relevance": "allusion", "reason": "The Last Judgment that forms the main panel's subject, of which this is a wing"},
+    {"ref": "REV.20.11-15", "relevance": "allusion", "reason": "The great white throne judgment — the eschatological context of the altarpiece"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplation", "solitude", "grandeur"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0004064",
+    "title": "The Last Judgment",
+    "artist": "Lucas van Leyden",
+    "model": "claude-opus-4-6"
+  }
+}

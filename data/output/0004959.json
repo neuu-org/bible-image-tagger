@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Pontius Pilate",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Pontius Pilate washing his hands before Christ",
+  "tags": [
+    "pilate-washing-hands",
+    "ecce-homo",
+    "trial-of-jesus",
+    "basin-and-pitcher",
+    "soldiers",
+    "crown-of-thorns",
+    "radiance",
+    "roman-governor",
+    "passion-cycle"
+  ],
+  "symbols": [
+    "Pilate washing hands over basin — the futile attempt to absolve himself of guilt for condemning the innocent",
+    "Christ in white with radiance — His divine innocence persisting despite the judgment against Him",
+    "crown of thorns visible on Christ — the mockery of His kingship",
+    "soldiers surrounding Christ — the instruments of worldly power arrayed against the powerless Messiah",
+    "pitcher pouring water — the water that cannot cleanse the guilt of condemning the Just One"
+  ],
+  "description": "A square panel in muted grisaille tones showing Christ standing at center in white robes with a golden radiance around His head and crown of thorns. He is surrounded by soldiers in armor, turbans, and various hats. To the right, Pontius Pilate sits, washing his hands over a basin as a servant pours water from a pitcher. A decorated tapestry or canopy hangs behind Pilate. The soldiers press close around Christ, some holding staffs and weapons. The overall palette is restricted to grays, whites, and muted earth tones with touches of gold in Christ's halo.",
+  "theological_description": "Pilate's hand-washing is one of the most psychologically complex moments in the Passion narrative. Matthew records that 'when Pilate saw that he was gaining nothing, but rather that a riot was beginning, he took water and washed his hands before the crowd, saying, I am innocent of this man's blood; see to it yourselves' (MAT.27.24). The act is both a Roman legal gesture and a tragic irony — for the judge who declares himself innocent condemns the only truly innocent man who ever lived. The golden radiance around Christ's head in this painting affirms what Pilate himself recognized: 'I find no guilt in him' (JHN.18.38). Yet Pilate chose political expediency over justice, fulfilling the Psalmist's prophecy: 'The kings of the earth set themselves, and the rulers take counsel together, against the LORD and against his Anointed' (PSA.2.2). The water that Pilate uses cannot cleanse the guilt that only the blood of the Lamb can address. In a profound inversion, Pilate washes his hands while handing over the One whose blood would wash away the sins of the world.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.24-26",
+      "relevance": "primary",
+      "reason": "Pilate washing his hands and declaring himself innocent of Jesus's blood"
+    },
+    {
+      "ref": "JHN.18.38",
+      "relevance": "primary",
+      "reason": "Pilate's declaration: I find no guilt in him — the innocence contrasted with the condemnation"
+    },
+    {
+      "ref": "PSA.2.2",
+      "relevance": "typological",
+      "reason": "The rulers taking counsel against the Lord's Anointed — fulfilled in Pilate's judgment"
+    },
+    {
+      "ref": "JHN.19.1-5",
+      "relevance": "primary",
+      "reason": "The scourging and crowning with thorns that preceded Pilate's presentation of Christ"
+    },
+    {
+      "ref": "ISA.53.8",
+      "relevance": "typological",
+      "reason": "By oppression and judgment he was taken away — the unjust legal process against the Servant"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "unjust",
+    "solemn",
+    "tragic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004959",
+    "title": "Pontius Pilate washing his hands (Grey Passion-7)",
+    "artist": "Hans Holbein the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

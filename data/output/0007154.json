@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Matthew", "type": "PERSON"},
+    {"name": "Tax Collectors", "type": "GROUP"},
+    {"name": "Peter", "type": "PERSON"}
+  ],
+  "event": "Calling of Saint Matthew",
+  "tags": [
+    "calling-of-matthew",
+    "tax-collector",
+    "divine-calling",
+    "dramatic-light",
+    "pointing-gesture",
+    "conversion",
+    "table-scene",
+    "vocation"
+  ],
+  "symbols": [
+    "beam of light from upper right — divine grace breaking into the darkness of sin, God's initiative in calling",
+    "Christ's pointing hand — the irresistible call of grace, echoing God's creative gesture",
+    "coins on the table — the worldly attachments Matthew must leave behind",
+    "Matthew's self-pointing gesture — the astonishment of being chosen despite unworthiness",
+    "darkness of the room — the spiritual blindness from which Matthew is called into light"
+  ],
+  "description": "A dark interior scene dramatically lit by a shaft of light entering from the upper right. At the right edge, a standing figure in dark robes extends his right hand in a pointing gesture toward a group of five men seated around a table at left. The seated men are counting coins; one looks up and points to himself in surprise. The figures wear a mix of contemporary and ancient dress. The contrast between deep shadow and brilliant illumination is extreme, with most of the composition shrouded in darkness.",
+  "theological_description": "The Calling of Saint Matthew (Matthew 9:9-13) is one of the most theologically charged moments in the Gospels. Jesus enters a tax office — a place of corruption and collaboration with Rome — and with a single word ('Follow me') transforms a despised publican into an apostle and evangelist. The dramatic light in this composition is not merely natural but sacramental: it represents the intrusion of divine grace into human darkness. Christ's pointing hand deliberately echoes the hand of God in the Creation of Adam, suggesting that the calling of a sinner is a new creation. Matthew's gesture of self-doubt ('Who, me?') captures the scandal of grace: God does not call the righteous but sinners (Mark 2:17). The coins on the table represent everything Matthew will abandon. Augustine saw in Matthew's calling the paradigm of every conversion: unexpected, unmerited, and totally transformative. The darkness that fills the room is the darkness of a world that does not yet know its Redeemer.",
+  "scripture_refs": [
+    {"ref": "MAT.9.9-13", "relevance": "primary", "reason": "Jesus calling Matthew from the tax booth — the exact scene depicted"},
+    {"ref": "MRK.2.14-17", "relevance": "primary", "reason": "Mark's parallel account emphasizing that Jesus came to call sinners, not the righteous"},
+    {"ref": "JHN.1.5", "relevance": "typological", "reason": "The light shines in the darkness — the theological meaning of the dramatic illumination"},
+    {"ref": "2CO.4.6", "relevance": "allusion", "reason": "God who said 'Let light shine out of darkness' has shone in our hearts — conversion as new creation through light"},
+    {"ref": "EPH.5.8", "relevance": "allusion", "reason": "You were once darkness but now you are light in the Lord — Matthew's transformation from darkness to apostleship"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "revelatory", "tense"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007154",
+    "title": "Calling of Saint Matthew",
+    "artist": "Caravaggio",
+    "model": "claude-opus-4-6"
+  }
+}

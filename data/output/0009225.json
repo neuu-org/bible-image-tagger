@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna and Child with Saint Jerome and Mary Magdalene",
+  "tags": [
+    "madonna-and-child",
+    "saint-jerome",
+    "mary-magdalene",
+    "angel",
+    "landscape",
+    "devotional",
+    "nursing-madonna"
+  ],
+  "symbols": [
+    "Virgin nursing the Christ Child — the intimacy of the Incarnation, God made flesh and nourished by human care",
+    "Saint Jerome with book — the great Doctor of the Church and translator of Scripture into Latin",
+    "Mary Magdalene kneeling — the penitent sinner transformed by Christ's forgiveness",
+    "angel attending the scene — heavenly witness to the sacred gathering",
+    "landscape vista — the created world over which Christ is sovereign"
+  ],
+  "description": "A richly colored composition showing the Virgin Mary at center, nursing or holding the infant Christ. To the left, an elderly semi-nude bearded man (Jerome) holds a book or manuscript. A kneeling young woman in golden robes reaches toward the child from the right. An angelic figure with wings accompanies the group. Behind them, a draped canopy or curtain partially covers a distant landscape. The painting is warm in tone with deep reds, greens, and golden hues.",
+  "theological_description": "This devotional gathering brings together figures from different periods of sacred history around the Madonna and Child, a common convention in sacra conversazione paintings. Jerome (c. 347-420), whose Latin Vulgate translation made Scripture accessible to the Western Church, represents the scholarly contemplation of the Word made flesh. His presence with a book echoes John's prologue: 'In the beginning was the Word' (JHN.1.1), for Jerome devoted his life to transmitting that Word faithfully. Mary Magdalene, the forgiven sinner who became the first witness of the Resurrection (JHN.20.11-18), represents the transformative power of Christ's mercy. The nursing Madonna emphasizes the full humanity of the Incarnation: the eternal God 'emptied himself, taking the form of a servant, being born in the likeness of men' (PHP.2.7). Together, these figures represent the Church in its fullness — the contemplative, the penitent, and the faithful mother — all gathered around the incarnate Word.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.1-14",
+      "relevance": "primary",
+      "reason": "The Word made flesh, the theological center of the Incarnation celebrated in this gathering"
+    },
+    {
+      "ref": "JHN.20.11-18",
+      "relevance": "primary",
+      "reason": "Mary Magdalene as witness of the Resurrection, present here in devotion to the infant Christ"
+    },
+    {
+      "ref": "PHP.2.7",
+      "relevance": "typological",
+      "reason": "Christ emptying himself and taking human form, shown in the nursing Madonna"
+    },
+    {
+      "ref": "LUK.7.47",
+      "relevance": "allusion",
+      "reason": "The Magdalene's many sins forgiven because she loved much"
+    },
+    {
+      "ref": "2TI.3.16",
+      "relevance": "allusion",
+      "reason": "All Scripture is God-breathed, the principle that guided Jerome's life work of translation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "tender",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009225",
+    "title": "The Madonna of Saint Jerome (after Correggio)",
+    "artist": "John Graham-Gilbert",
+    "model": "claude-opus-4-6"
+  }
+}

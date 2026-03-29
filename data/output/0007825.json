@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Martyred figure", "type": "PERSON"},
+    {"name": "Torturers", "type": "GROUP"}
+  ],
+  "event": "The Large Martyrdom",
+  "tags": [
+    "martyrdom",
+    "torture",
+    "bound-figure",
+    "suffering",
+    "executioners",
+    "cruciform-posture",
+    "violence",
+    "persecution"
+  ],
+  "symbols": [
+    "bound figure with arms raised — the martyr stretched in a cruciform posture, echoing Christ's Passion",
+    "torturers surrounding — the agents of persecution and worldly power",
+    "rope and pulley — instruments of torture, the mechanics of cruelty",
+    "exposed flesh — the vulnerability of the human body given over to suffering for faith"
+  ],
+  "description": "A visceral scene of torture and martyrdom. A nearly nude man with arms bound above his head is stretched against a wooden post or beam, his body exposed and strained. Several muscular men surround him — one pulling ropes from above, others grasping and tormenting the victim from below and to the sides. A man in a red cap crouches at the lower left. The composition is crowded, physical, and violent, with warm flesh tones against a dark background. The brushwork is bold and expressionistic.",
+  "theological_description": "This brutal depiction of martyrdom strips away hagiographic idealization to confront the viewer with the raw physical reality of suffering for faith. The stretched, cruciform posture of the victim inevitably recalls Christ's own Passion — every Christian martyr's suffering participates in and extends the suffering of Christ (Colossians 1:24). The torturers are not depicted as demonic figures but as ordinary men performing terrible work, reminding us that persecution is perpetrated by human beings, not abstractions. The scene evokes the catalogue of sufferings in Hebrews 11:35-38: 'They were tortured, refusing to accept release, so that they might rise again to a better life.' The visceral physicality insists that faith is not merely spiritual but involves the body — the same body that will be raised in glory.",
+  "scripture_refs": [
+    {"ref": "HEB.11.35-38", "relevance": "primary", "reason": "The catalogue of martyrs who were tortured, stoned, sawn in two — the reality depicted"},
+    {"ref": "COL.1.24", "relevance": "typological", "reason": "Completing what is lacking in Christ's afflictions — the martyr's suffering as participation in Christ's Passion"},
+    {"ref": "ROM.8.17", "relevance": "allusion", "reason": "If we suffer with Him we will also be glorified with Him — the promise sustaining the martyr"},
+    {"ref": "REV.7.14", "relevance": "allusion", "reason": "These are the ones who have come out of the great tribulation and washed their robes in the blood of the Lamb"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["brutal", "visceral", "anguished"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007825",
+    "title": "The Large Martyrdom",
+    "artist": "Lovis Corinth",
+    "model": "claude-opus-4-6"
+  }
+}

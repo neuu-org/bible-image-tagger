@@ -1,0 +1,54 @@
+{
+  "characters": [
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Angel",
+  "tags": [
+    "angel",
+    "wings",
+    "white-dress",
+    "young-woman",
+    "ethereal",
+    "heavenly",
+    "devotional"
+  ],
+  "symbols": [
+    "white-winged figure — an angelic being, messenger of God",
+    "white garments — purity and heavenly origin"
+  ],
+  "description": "A painting of a young woman or girl with large white wings, wearing a white dress, standing frontally against a muted background. The figure has a serene, otherworldly quality. The wings are rendered with naturalistic detail while the overall effect is ethereal and devotional.",
+  "theological_description": "Angels are 'ministering spirits sent out to serve for the sake of those who are to inherit salvation' (HEB.1.14). The white-winged figure reflects the biblical description of angelic beings as messengers of God, appearing throughout Scripture from Genesis to Revelation. Angels announced Christ's birth (LUK.2.9-14), ministered to him in the wilderness (MAT.4.11), and proclaimed his resurrection (MAT.28.5-6).",
+  "scripture_refs": [
+    {
+      "ref": "HEB.1.14",
+      "relevance": "primary",
+      "reason": "Angels as ministering spirits serving the heirs of salvation"
+    },
+    {
+      "ref": "LUK.2.9-14",
+      "relevance": "allusion",
+      "reason": "Angels announcing Christ's birth"
+    },
+    {
+      "ref": "PSA.91.11",
+      "relevance": "allusion",
+      "reason": "He will command his angels concerning you"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "ethereal",
+    "serene",
+    "luminous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0011468",
+    "title": "Angel",
+    "artist": "Abbott Handerson Thayer",
+    "model": "claude-opus-4-6"
+  }
+}

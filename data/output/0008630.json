@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Cherubim",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna Bargellini — Madonna enthroned with saints and angels",
+  "tags": [
+    "madonna-enthroned",
+    "angels",
+    "cherubim",
+    "lute",
+    "music-making-angels",
+    "saints",
+    "devotional",
+    "baroque-altarpiece",
+    "heavenly-court"
+  ],
+  "symbols": [
+    "enthroned Madonna with Child — the Seat of Wisdom, the Church presenting Christ to the world",
+    "music-making angels — the heavenly worship that accompanies the divine presence",
+    "cherubim in the sky — the heavenly host attending the Queen of Heaven",
+    "saints kneeling — the communion of saints venerating the Mother and Child",
+    "column — the pillar of the Church, the stability of the faith"
+  ],
+  "description": "A large Baroque altarpiece composition. The Virgin Mary stands at center-right holding the Christ Child, wearing a blue mantle over a pink robe. She is surrounded by angels, including one playing a lute at center and cherubim floating in the clouds above. Below and to the left, a Franciscan friar in brown robes kneels in adoration, while another robed figure stands nearby. To the right at the bottom, a richly dressed female figure kneels. Putti in the sky hold a crown and flowers. A classical column rises on the left. The background shows a cityscape with towers.",
+  "theological_description": "The Madonna Bargellini belongs to the great tradition of the Sacra Conversazione, presenting the Virgin and Child as the focal point of heavenly worship and saintly devotion. The music-making angels recall the psalmist's exhortation: 'Praise the LORD with the lyre; make melody to him with the harp of ten strings' (Ps 33:2). The composition creates a single unified space where heaven and earth meet — angels descend from the clouds while saints kneel on the ground, all oriented toward the mystery of the Incarnation that Mary holds in her arms. The Franciscan saint's presence recalls the order's deep Marian devotion, rooted in the Incarnational theology that sees in Mary's motherhood the definitive act of God entering creation. The cherubim descending with a crown anticipate Mary's coronation as Queen of Heaven, while the Christ Child she holds is the true King: 'Of his kingdom there will be no end' (Luke 1:33).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.31-33",
+      "relevance": "primary",
+      "reason": "The angel's announcement of Christ's birth and eternal kingdom — the child Mary holds"
+    },
+    {
+      "ref": "PSA.33.2-3",
+      "relevance": "allusion",
+      "reason": "Praise the Lord with the lyre — the music-making angels worshipping in song"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — the saints venerating Mary fulfill this prophecy"
+    },
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman crowned in heaven — the cherubim with the crown anticipating Mary's glorification"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "glorious",
+    "joyful",
+    "devotional",
+    "celestial"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008630",
+    "title": "Madonna Bargellini",
+    "artist": "Ludovico Carracci",
+    "model": "claude-opus-4-6"
+  }
+}

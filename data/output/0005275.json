@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Apostles", "type": "GROUP"},
+    {"name": "Judas Iscariot", "type": "PERSON"},
+    {"name": "Servants", "type": "GROUP"}
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "passover",
+    "apostles",
+    "upper-room",
+    "betrayal",
+    "communion",
+    "bread-and-wine",
+    "dramatic-lighting",
+    "institution-of-sacrament"
+  ],
+  "symbols": [
+    "long table with bread and wine — the Passover meal transformed into the Eucharist",
+    "haloed figures — the divine light marking Christ and the apostles",
+    "figure departing or crouching in foreground — Judas or servants, the tension of betrayal within the sacred meal",
+    "steps descending from the table — separation between the sacred space of the supper and the world below",
+    "dark architectural interior — the Upper Room, the enclosed sacred space of the covenant meal"
+  ],
+  "description": "A dramatic, darkly lit interior depicting the Last Supper. A long table extends diagonally from left to right, around which sit the apostles with golden halos, gesturing and conversing. Christ is positioned among them at the table. In the foreground, figures crouch or recline on steps below the table level, including a partially nude figure and a woman at far left. Servants move about. The lighting is dramatic with deep shadows and selective illumination on faces and garments. Architectural columns and arches frame the space at left.",
+  "theological_description": "Tintoretto's Last Supper captures the institution of the Eucharist with characteristic dramatic intensity. The moment is drawn from the Synoptic accounts (MAT.26.26-28; MRK.14.22-24; LUK.22.19-20) and John's account of the Passover meal. Christ's presence among the apostles at the table establishes the new covenant in His blood, transforming the Passover of Israel's liberation from Egypt into the sacramental memorial of liberation from sin and death. The dramatic chiaroscuro suggests the spiritual battle between light and darkness that pervades this night — 'And it was night' (JHN.13.30) when Judas departed. The servants and figures in the foreground represent the world that surrounds but does not fully comprehend the mystery being enacted above. Paul's institution narrative (1COR.11.23-26) affirms that this meal is to be repeated 'in remembrance of me' until He comes, making every Eucharist an anamnesis of this original supper.",
+  "scripture_refs": [
+    {"ref": "MAT.26.26-28", "relevance": "primary", "reason": "Jesus took bread, blessed and broke it: this is my body; this cup is my blood of the covenant"},
+    {"ref": "LUK.22.19-20", "relevance": "primary", "reason": "Do this in remembrance of me — the institution of the Eucharistic memorial"},
+    {"ref": "JHN.13.21-30", "relevance": "primary", "reason": "Jesus announces the betrayal at supper; Judas departs into the night"},
+    {"ref": "1CO.11.23-26", "relevance": "typological", "reason": "Paul's apostolic tradition of the institution narrative, proclaiming the Lord's death until He comes"},
+    {"ref": "EXO.12.11-14", "relevance": "typological", "reason": "The original Passover meal that the Last Supper fulfills and transforms"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "solemn", "tension", "sacred"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005275",
+    "title": "The Last Supper",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

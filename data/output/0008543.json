@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Pieta",
+  "tags": [
+    "pieta",
+    "dead-christ",
+    "virgin-mary",
+    "mourning",
+    "passion",
+    "oval-frame",
+    "flowers",
+    "lamentation"
+  ],
+  "symbols": [
+    "Mary holding the dead Christ — the Mother of Sorrows cradling the body of her Son",
+    "oval framing with flowers — the devotional meditation encircled by nature's beauty and sorrow",
+    "cross beam visible behind — the instrument of death from which Christ has been taken down",
+    "Mary's veiled head bowed — grief so deep it requires no words"
+  ],
+  "description": "An oval-framed composition showing the Virgin Mary in a gray-white veil and red garment holding the dead body of Christ across her lap. Christ's pale body lies limp, His head fallen back, eyes closed. Mary bends over Him with an expression of profound grief. The cross is faintly visible behind them. Flowers and foliage frame the oval border. The palette is dark with warm flesh tones and deep reds against a brown-gold background.",
+  "theological_description": "The Pieta — Mary holding the dead Christ — is one of Christianity's most emotionally powerful images. It inverts the joy of the Nativity: the same mother who once held the infant now holds the corpse. Mary's grief is not only personal but cosmic — she mourns not just her son but the apparent failure of every divine promise. Yet the Pieta is not ultimately a scene of despair but of faith: Mary, who said 'Be it done to me according to your word' (Luke 1:38), continues to hold and cherish the body of the one she believes is God's Son, even in death. The Church sees in this moment the fulfillment of Simeon's prophecy (Luke 2:35) and the deepest expression of the Stabat Mater — the Mother standing by as the sword pierces her soul. The Pieta teaches that love does not abandon the beloved even when hope seems extinguished.",
+  "scripture_refs": [
+    {"ref": "JHN.19.38-40", "relevance": "primary", "reason": "The body of Christ taken down from the cross — the moment before burial"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "A sword will pierce your own soul — fulfilled in Mary holding her dead Son"},
+    {"ref": "LUK.1.38", "relevance": "allusion", "reason": "Be it done to me according to your word — Mary's fiat extending through the Passion"},
+    {"ref": "LAM.1.12", "relevance": "allusion", "reason": "Is there any sorrow like my sorrow? — the voice of the grieving mother"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grievous", "tender", "intimate"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008543",
+    "title": "Pieta",
+    "artist": "Nicolas Poussin",
+    "model": "claude-opus-4-6"
+  }
+}

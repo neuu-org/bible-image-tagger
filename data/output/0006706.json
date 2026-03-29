@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Biblical figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Scenes from the Klosterneuburg Altar — typological panels",
+  "tags": [
+    "enamel",
+    "klosterneuburg",
+    "typology",
+    "medieval-art",
+    "gold-enamel",
+    "biblical-narrative",
+    "latin-inscriptions",
+    "champleve",
+    "ark-of-noah",
+    "old-testament-scenes"
+  ],
+  "symbols": [
+    "gold enamel panels — the preciousness of divine revelation, the Word of God as treasure",
+    "Latin inscriptions — the scriptural text that interprets and connects the scenes",
+    "typological pairing — Old Testament events prefiguring New Testament fulfillment"
+  ],
+  "description": "A close-up photograph of ornate medieval enamel panels from the Klosterneuburg Altar. Three arched panels are visible, each containing a biblical scene rendered in vibrant champlevé enamel with rich blues, greens, and golds. Latin inscriptions run above and below the panels in gold lettering on blue backgrounds. The figures within the panels are stylized in the Romanesque manner. One panel appears to reference the Ark of Noah (ARCA NOE is partially legible). The metalwork is extremely fine and detailed, with gilded borders framing each scene.",
+  "theological_description": "The Klosterneuburg Altar by Nicholas of Verdun is one of the masterpieces of medieval typological art, pairing Old Testament scenes with their New Testament fulfillments. This method of reading Scripture — where events like the Flood, the sacrifice of Isaac, or the Exodus are understood as prefigurations of Christ's life, death, and resurrection — is rooted in the New Testament itself. Paul declared that Adam was 'a type of the one who was to come' (Rom 5:14), and the author of Hebrews systematically showed how Old Testament rituals were 'shadows of the good things to come' (Heb 10:1). The visible reference to Noah's Ark (ARCA NOE) connects to 1 Peter 3:20-21, where the Flood waters prefigure baptism, and the Ark prefigures the Church — the vessel of salvation carrying the faithful through the waters of judgment. The altar's elaborate program demonstrates the medieval conviction that all of Scripture forms a unified narrative pointing to Christ.",
+  "scripture_refs": [
+    {
+      "ref": "ROM.5.14",
+      "relevance": "typological",
+      "reason": "Adam as a type of the one to come — the foundational principle of typological reading that structures this altar"
+    },
+    {
+      "ref": "HEB.10.1",
+      "relevance": "typological",
+      "reason": "The law as a shadow of the good things to come — the hermeneutical key to the altar's paired scenes"
+    },
+    {
+      "ref": "1PE.3.20-21",
+      "relevance": "typological",
+      "reason": "Noah's Ark and the Flood as prefiguration of baptism — directly referenced in the visible ARCA NOE panel"
+    },
+    {
+      "ref": "GEN.6.14-22",
+      "relevance": "primary",
+      "reason": "God's command to Noah to build the Ark, the Old Testament scene depicted in the enamel panel"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "didactic",
+    "luminous"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0006706",
+    "title": "Klosterneuburg Altar",
+    "artist": "Nicholas of Verdun",
+    "model": "claude-opus-4-6"
+  }
+}

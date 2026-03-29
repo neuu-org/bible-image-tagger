@@ -1,0 +1,90 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    },
+    {
+      "name": "Witnesses",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Baptism of Christ",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "holy-spirit-dove",
+    "john-the-baptist",
+    "immersion",
+    "palm-trees",
+    "river",
+    "cross-staff",
+    "cherubim",
+    "trinity",
+    "divine-revelation",
+    "wilderness"
+  ],
+  "symbols": [
+    "dove descending \u2014 the Holy Spirit anointing Jesus at his baptism",
+    "river water \u2014 purification, new life, and the Jordan as threshold to the Promised Land",
+    "cross-shaped staff \u2014 John\u2019s prophetic role pointing to the Lamb who takes away sin",
+    "palm trees \u2014 the wilderness setting of the Jordan Valley",
+    "golden light from above \u2014 the Father\u2019s voice and divine approval",
+    "cherubim in the clouds \u2014 heaven opened at the baptism"
+  ],
+  "description": "Two muscular male figures stand in a shallow river. The taller figure with dark skin and a cross-shaped staff pours water over the bowed head of the other figure, who kneels in the water. A white dove descends from above amid golden clouds populated by winged cherub heads. Palm trees and a distant landscape with small figures are visible in the background. Red and blue drapery lies on the riverbank.",
+  "theological_description": "The Baptism of Christ in the Jordan River marks the inauguration of Jesus\u2019 public ministry and the first explicit revelation of the Trinity in the New Testament. As Jesus emerges from the water, the heavens open, the Spirit descends like a dove, and the Father\u2019s voice declares: \u2018This is my beloved Son, in whom I am well pleased\u2019 (Matthew 3:16-17). John the Baptist\u2019s role fulfills the prophecy of Isaiah 40:3 as the voice crying in the wilderness, preparing the way of the Lord. Jesus\u2019 submission to baptism, though sinless, demonstrates his solidarity with sinful humanity and prefigures his death and resurrection (Romans 6:3-4). The opened heavens reverse the closure of heaven at the Fall and signal the restoration of communion between God and humanity. The dove evokes the Spirit hovering over the waters at creation (Genesis 1:2), marking this as a new creation event.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "The baptism of Jesus by John in the Jordan with the Spirit descending as a dove and the Father\u2019s voice from heaven"
+    },
+    {
+      "ref": "MRK.1.9-11",
+      "relevance": "primary",
+      "reason": "Mark\u2019s account of the baptism with the heavens torn open"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "The voice crying in the wilderness to prepare the way of the Lord, fulfilled by John the Baptist"
+    },
+    {
+      "ref": "GEN.1.2",
+      "relevance": "typological",
+      "reason": "The Spirit hovering over the waters at creation, echoed in the Spirit\u2019s descent over the baptismal waters"
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "allusion",
+      "reason": "Baptism as participation in Christ\u2019s death and resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "majestic",
+    "reverent",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012933",
+    "title": "Baptism of Christ",
+    "artist": "Domenico Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

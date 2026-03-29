@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Saint Gregory the Great",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Gregory the Great and Saint Jerome",
+  "tags": [
+    "church-fathers",
+    "doctors-of-the-church",
+    "pope-gregory",
+    "saint-jerome",
+    "lion",
+    "papal-tiara",
+    "book",
+    "crucifix-staff",
+    "cardinal-hat",
+    "scholarly-saints"
+  ],
+  "symbols": [
+    "lion beside Jerome — his traditional attribute from the legend of taming a lion",
+    "open book — the scholarly work of both Doctors of the Church",
+    "papal tiara and crucifix staff on Gregory — his authority as Pope and reformer",
+    "wide-brimmed hat on Jerome — anachronistic cardinal's attribute",
+    "interior setting with hanging objects — a scholar's study"
+  ],
+  "description": "A silverpoint or pencil drawing showing two seated figures in an interior. At left, a man in a wide-brimmed hat reads from an open book, with a lion resting beside him. At right, a figure wearing a papal tiara holds a crucifix-topped staff. Various objects hang from the ceiling above them. The drawing style is detailed and delicate, characteristic of a preparatory study or model drawing. Both figures are seated on a bench or ledge.",
+  "theological_description": "Saint Gregory the Great (c. 540-604) and Saint Jerome (c. 347-420) are two of the four great Latin Doctors of the Church, traditionally depicted together as pillars of Western Christian learning. Gregory, as Pope, reformed the liturgy, sent missionaries to England, wrote extensively on pastoral care and biblical commentary, and is credited with developing Gregorian chant. Jerome translated the Bible into Latin (the Vulgate), wrote extensive commentaries, and championed asceticism. Together they represent the complementary charisms of pastoral leadership and scholarly erudition that sustained the Church through the patristic and early medieval periods. Their joint presence in art underscores the unity of teaching authority (magisterium) and scriptural scholarship in the Church's theological tradition.",
+  "scripture_refs": [
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "allusion",
+      "reason": "All Scripture is inspired and profitable for teaching — the conviction animating both Doctors' life work"
+    },
+    {
+      "ref": "EPH.4.11",
+      "relevance": "allusion",
+      "reason": "Christ gave pastors and teachers to the Church — Gregory as pastor, Jerome as teacher"
+    },
+    {
+      "ref": "MAT.13.52",
+      "relevance": "allusion",
+      "reason": "The scribe trained for the kingdom brings out treasures old and new — the Doctors' scholarly legacy"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "scholarly",
+    "dignified",
+    "contemplative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0002515",
+    "title": "Saint Gregory the Great and St. Jerome",
+    "artist": "Rogier van der Weyden",
+    "model": "claude-opus-4-6"
+  }
+}

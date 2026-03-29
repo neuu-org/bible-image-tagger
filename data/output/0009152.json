@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "David",
+      "type": "PERSON"
+    },
+    {
+      "name": "Goliath",
+      "type": "PERSON"
+    }
+  ],
+  "event": "David Slaying Goliath",
+  "tags": [
+    "david-and-goliath",
+    "combat",
+    "victory",
+    "giant",
+    "sword",
+    "fallen-warrior",
+    "triumph",
+    "old-testament-hero",
+    "divine-power"
+  ],
+  "symbols": [
+    "David standing over Goliath — the triumph of faith over brute strength",
+    "sword raised to strike — the weapon of the enemy turned against him, as David used Goliath's own sword",
+    "Goliath's massive fallen body — the defeated power of worldly might when confronted by God's chosen",
+    "David's youthful form — God's choice of the unlikely and humble to accomplish his purposes"
+  ],
+  "description": "A dramatic painting showing a young muscular figure in a blue garment straddling the massive fallen body of a giant warrior. The youth raises a curved sword above his head, about to deliver a decisive blow. The giant lies face down, his enormous body sprawling across rocky ground. Another small figure is visible behind David. The composition is dynamic and violent, with strong diagonal lines. The scene is set against a dark, dramatic background with reddish-brown tones. The painting is displayed within an ornate gilded frame.",
+  "theological_description": "The combat between David and Goliath (1SA.17) is one of the Old Testament's most vivid demonstrations of the principle that 'the battle is the LORD's' (1SA.17.47). The young shepherd, rejected by Saul's armor and armed only with faith and a sling, defeats the champion of the Philistines who had defied the armies of the living God for forty days. David's declaration, 'I come to you in the name of the LORD of hosts' (1SA.17.45), establishes the theological key: victory belongs not to human strength but to divine power working through faithful obedience. Typologically, David prefigures Christ, who through apparent weakness on the cross defeated the powers of sin and death (COL.2.15). Goliath represents the cosmic enemy whom no merely human champion could overcome, just as death and Satan required a divine champion. The scene of David taking Goliath's own sword to behead him parallels the patristic reading of Christ using death itself to destroy death (HEB.2.14).",
+  "scripture_refs": [
+    {
+      "ref": "1SA.17.48-51",
+      "relevance": "primary",
+      "reason": "David strikes Goliath and beheads him with the giant's own sword, the direct scene depicted"
+    },
+    {
+      "ref": "1SA.17.45-47",
+      "relevance": "primary",
+      "reason": "David's declaration of faith that the battle belongs to the LORD"
+    },
+    {
+      "ref": "COL.2.15",
+      "relevance": "typological",
+      "reason": "Christ disarming principalities and powers on the cross, prefigured by David's victory"
+    },
+    {
+      "ref": "HEB.2.14",
+      "relevance": "typological",
+      "reason": "Through death Christ destroyed him who holds the power of death, paralleling David using Goliath's weapon"
+    },
+    {
+      "ref": "PSA.144.1",
+      "relevance": "allusion",
+      "reason": "David's psalm praising God who trains his hands for war and his fingers for battle"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "triumphant",
+    "dramatic"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0009152",
+    "title": "David and Goliath (Verso)",
+    "artist": "Daniele da Volterra",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "characters": [
+    {
+      "name": "Two Biblical Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Scene from the Life of Christ in stained glass",
+  "tags": [
+    "two-figures",
+    "robed",
+    "palm-trees",
+    "journey",
+    "church-window",
+    "pilgrimage",
+    "head-coverings"
+  ],
+  "symbols": [
+    "two robed figures walking — a journey scene, possibly the road to Emmaus or the Visitation",
+    "palm trees — the Near Eastern setting of the biblical narrative",
+    "stained glass medium — the liturgical context of sacred narrative within the Church"
+  ],
+  "description": "A stained-glass window detail showing two robed figures walking together. One figure wears a mauve or reddish-brown garment with a white head covering, while the other wears blue robes with a white turban. They appear to be traveling through a landscape with stylized palm trees and purple-toned hills in the background. The figures are rendered in the bold outlines and flat color typical of stained glass, with lead lines separating the colored glass segments.",
+  "theological_description": "This stained-glass panel from a Life of Christ cycle likely depicts a journey scene from the Gospels. The two figures could represent the journey to Emmaus (LUK.24.13-35), where two disciples walked with the risen Christ without recognizing him, or possibly the Visitation of Mary to Elizabeth (LUK.1.39-45). The palm-tree setting places the scene in the Holy Land. Stained-glass windows served as 'the Bible of the illiterate' in medieval church tradition, making sacred narrative accessible through visual storytelling. Whether this depicts the Emmaus road or another journey, the theme of pilgrimage and companionship on the way is central to biblical faith: 'Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me' (PSA.23.4).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.24.13-35",
+      "relevance": "primary",
+      "reason": "The road to Emmaus, a likely identification of two figures journeying together"
+    },
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation, Mary journeying to Elizabeth, another possible identification"
+    },
+    {
+      "ref": "PSA.23.4",
+      "relevance": "allusion",
+      "reason": "Walking through difficulty with God's companionship, the theme of the journey"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009371",
+    "title": "Life of Christ. Eglise Saint-Sulpice de Fougeres (detail)",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

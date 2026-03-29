@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Animals",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Creation and Fall of Man",
+  "tags": [
+    "creation",
+    "fall-of-man",
+    "adam-and-eve",
+    "garden-of-eden",
+    "god",
+    "angels",
+    "serpent",
+    "temptation",
+    "expulsion",
+    "panoramic"
+  ],
+  "symbols": [
+    "God in blue robes — the Creator giving life and commandments",
+    "nude Adam and Eve — innocence before and shame after the Fall",
+    "serpent or forbidden tree — the source of temptation",
+    "angels — divine witnesses and eventual agents of expulsion",
+    "landscape with animals — the goodness of creation before the curse",
+    "multiple scenes in one panel — the unfolding narrative of paradise, Fall, and consequences"
+  ],
+  "description": "A wide horizontal panel depicting multiple scenes of the Creation and Fall narrative in a continuous landscape. At center, a robed figure (God) stands with arms raised, surrounded by angels in white. Nude figures (Adam and Eve) appear at various points: at left, Adam appears to be newly created on the ground; at center, the couple stands before God; at right, they are near a tree in what may be the temptation scene. Animals populate the landscape at left. The setting is a lush green landscape with hills, water, and trees under a blue sky. The panel is shown in its gilded frame.",
+  "theological_description": "Albertinelli presents the entire Genesis narrative of creation and Fall in a single panoramic composition, a common format in Renaissance predella panels. The sequence moves from left to right: the creation of Adam from the dust (Gen 2:7), God presenting Eve to Adam (Gen 2:22), God giving the commandment about the forbidden tree (Gen 2:16-17), the temptation and Fall (Gen 3:6), and the consequences. God's central presence with raised arms embodies the creative Word: 'Let us make man in our image' (Gen 1:26). The angels attending reflect the plural 'us' that early theologians interpreted as the Trinity. The lush landscape represents the 'very good' creation (Gen 1:31) before sin corrupted it. The narrative arc from creation through Fall captures the fundamental biblical drama: humanity made for communion with God, choosing autonomy, and facing the consequences — yet within a creation that remains beautiful, pointing toward redemption.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.2.7",
+      "relevance": "primary",
+      "reason": "God formed man from the dust — the creation of Adam shown at left"
+    },
+    {
+      "ref": "GEN.2.22",
+      "relevance": "primary",
+      "reason": "God made a woman and brought her to the man — Eve presented to Adam"
+    },
+    {
+      "ref": "GEN.3.6",
+      "relevance": "primary",
+      "reason": "She took of the fruit and ate — the temptation scene at right"
+    },
+    {
+      "ref": "GEN.1.26",
+      "relevance": "primary",
+      "reason": "Let us make man in our image — God with angels at center"
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "typological",
+      "reason": "Sin came into the world through one man — the Fall's universal consequences"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "paradisiacal",
+    "dramatic",
+    "comprehensive"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0012576",
+    "title": "Creation and Fall of Man",
+    "artist": "Mariotto Albertinelli",
+    "model": "claude-opus-4-6"
+  }
+}

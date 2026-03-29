@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Last Supper",
+  "tags": [
+    "last-supper",
+    "eucharist",
+    "apostles",
+    "passover",
+    "bread",
+    "wine",
+    "institution-narrative",
+    "betrayal",
+    "dramatic-lighting",
+    "upper-room"
+  ],
+  "symbols": [
+    "table with bread and wine — the Eucharistic elements, Christ's body and blood given for the world",
+    "Christ at center with halo — the divine host who offers himself as both priest and sacrifice",
+    "apostles in dramatic postures — the range of responses from devotion to agitation at the announcement of betrayal",
+    "architectural setting — the Upper Room where the New Covenant was inaugurated"
+  ],
+  "description": "A wide, dramatic composition depicting the Last Supper. Christ sits at center behind a long table, illuminated by a golden halo, with arms extended. The apostles surround him in various dynamic postures — some leaning forward, others recoiling, some on the floor. The scene is full of dramatic movement and chiaroscuro lighting. Bread and dishes are visible on the table. The setting includes classical architectural elements with columns and a view of buildings in the background.",
+  "theological_description": "Tintoretto's Last Supper captures the dual drama of this pivotal evening: the institution of the Eucharist and the announcement of the betrayal. Christ, seated at center with arms extended, is simultaneously the host offering bread and wine — 'This is my body, given for you; do this in remembrance of me' (Luke 22:19) — and the prophet revealing the traitor: 'One of you will betray me' (Matt 26:21). The apostles' agitated responses embody the shock of that revelation. The dramatic chiaroscuro emphasizes the battle between light and darkness at the heart of this night: it is the moment when Satan entered Judas (John 13:27), and yet also the moment when Christ established the perpetual sacrament of his presence. The Last Supper transforms the Jewish Passover into the Christian Eucharist, connecting the liberation from Egypt to the liberation from sin and death. Paul received this tradition and transmitted it: 'For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes' (1 Cor 11:26).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist — this is my body, this is my blood of the new covenant"
+    },
+    {
+      "ref": "MAT.26.20-25",
+      "relevance": "primary",
+      "reason": "The announcement of betrayal — one of you will betray me"
+    },
+    {
+      "ref": "JHN.13.21-30",
+      "relevance": "primary",
+      "reason": "Jesus troubled in spirit revealing the betrayer, Satan entering Judas"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "typological",
+      "reason": "Paul's account of the institution narrative and the ongoing proclamation of the Lord's death"
+    },
+    {
+      "ref": "EXO.12.1-14",
+      "relevance": "typological",
+      "reason": "The Passover meal that the Last Supper transforms into the Christian Eucharist"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "tense",
+    "sacred",
+    "turbulent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008627",
+    "title": "Last Supper",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

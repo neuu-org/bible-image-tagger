@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {"name": "Othello", "type": "PERSON"},
+    {"name": "Desdemona", "type": "PERSON"}
+  ],
+  "event": "Othello and Desdemona",
+  "tags": [
+    "othello",
+    "desdemona",
+    "shakespeare",
+    "bedroom",
+    "red-curtains",
+    "tragedy",
+    "literary",
+    "candle",
+    "jealousy"
+  ],
+  "symbols": [],
+  "description": "A dark interior scene dominated by deep red curtains. At right, a woman lies sleeping on a bed, her pale form visible against white sheets. At left, a dark-skinned man in ornate clothing approaches through the parted curtains, holding a candle or light. The floor is strewn with objects. The atmosphere is deeply ominous, with the warm red of the curtains contrasting with the darkness beyond. The painting captures a moment of impending violence.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "narrative",
+  "mood": ["ominous", "tragic", "tense"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012425",
+    "title": "Othello and Desdemona",
+    "artist": "Eugene Delacroix",
+    "model": "claude-opus-4-6"
+  }
+}

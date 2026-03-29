@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Nicholas",
+      "type": "PERSON"
+    },
+    {
+      "name": "Three Innocents",
+      "type": "GROUP"
+    },
+    {
+      "name": "Executioner",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Liberation of Three Innocents by Saint Nicholas",
+  "tags": [
+    "saint-nicholas",
+    "miracle",
+    "liberation",
+    "innocents-saved",
+    "bishop",
+    "kneeling-prisoners",
+    "executioner",
+    "medieval-city",
+    "crowd",
+    "divine-intervention",
+    "clemency"
+  ],
+  "symbols": [
+    "Saint Nicholas in bishop’s robes — episcopal authority exercised in defense of the innocent",
+    "kneeling prisoners — unjustly condemned souls saved by divine intervention",
+    "executioner stayed — mercy triumphing over injustice",
+    "city walls and towers — the civic setting where justice and injustice contend"
+  ],
+  "description": "A scene set before the walls of a medieval city with towers and red rooftops. In the center, an elderly man in bishop’s vestments reaches forward to embrace or restrain a figure who kneels before him. Other kneeling figures are nearby. To the right, a group of richly dressed onlookers watches. A figure who may be an executioner stands near the kneeling men. The setting is an open area before the city gates. The composition is formal and narrative.",
+  "theological_description": "The Liberation of Three Innocents is one of the most celebrated miracles attributed to Saint Nicholas, Bishop of Myra (c. 270–343). According to tradition, three men were unjustly condemned to death, and Nicholas intervened at the last moment to stop the execution. Though not a biblical event, this story embodies the biblical mandate to ‘rescue those being led away to death’ (Proverbs 24:11) and the prophetic call to ‘seek justice, correct oppression’ (Isaiah 1:17). Nicholas’s action reflects the character of God himself, who is a ‘father of the fatherless and protector of widows’ (Psalm 68:5) and who commands his servants to act as agents of his justice and mercy in the world. The bishop’s bold intervention exemplifies the pastoral duty to stand between the powerful and the vulnerable.",
+  "scripture_refs": [
+    {
+      "ref": "PRO.24.11",
+      "relevance": "typological",
+      "reason": "Rescue those being led away to death, embodied in Nicholas’s intervention"
+    },
+    {
+      "ref": "ISA.1.17",
+      "relevance": "allusion",
+      "reason": "Seek justice, correct oppression—the prophetic mandate Nicholas fulfills"
+    },
+    {
+      "ref": "PSA.68.5",
+      "relevance": "allusion",
+      "reason": "God as father of the fatherless and protector of the vulnerable, acted through Nicholas"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "compassionate",
+    "tense",
+    "resolute"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0013444",
+    "title": "The Story of St. Nicholas: The Liberation of Three Innocents",
+    "artist": "Fra Angelico",
+    "model": "claude-opus-4-6"
+  }
+}

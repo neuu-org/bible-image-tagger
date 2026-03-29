@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Church Fathers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Cherubim",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Dispute about the Holy Sacrament",
+  "tags": [
+    "eucharistic-dispute",
+    "holy-sacrament",
+    "church-fathers",
+    "theological-debate",
+    "angels",
+    "altar",
+    "ecclesiastical-vestments",
+    "monstrance",
+    "bishops",
+    "cardinals",
+    "cherubim"
+  ],
+  "symbols": [
+    "Christ's body displayed at center — the Eucharistic presence, the true body and blood under the species of bread",
+    "Church Fathers in vestments surrounding Christ — the theological tradition defending the Real Presence",
+    "bishop in gold vestments at left — the teaching authority of the Church on sacramental matters",
+    "cardinal in red at right — the Magisterium's authoritative interpretation of the Eucharist",
+    "angels and cherubim above — the heavenly realm affirming the truth of the sacramental mystery",
+    "open book at bottom — the Scriptures and theological texts grounding the doctrine"
+  ],
+  "description": "A monumental vertical composition depicting a theological disputation about the Holy Sacrament. At the center, the figure of Christ is displayed before a crowd of ecclesiastical figures. A bishop in ornate gold vestments stands at left, while a cardinal in red stands at right. Other theologians, monks, and clerics crowd around in animated discussion. Above, angels and cherubim float in clouds, one holding an open book, while heavenly light descends from above. The composition moves vertically from the earthly debate below to the heavenly confirmation above.",
+  "theological_description": "This painting addresses the central mystery of Christian worship — the Real Presence of Christ in the Eucharist. The gathering of Church Fathers and theologians around the sacramental Christ echoes the historical councils and theological debates that formulated the doctrine. Christ's own words establish the foundation: 'This is my body, which is given for you. Do this in remembrance of me' (LUK.22.19). The presence of angels above confirms that the Eucharistic mystery is not merely a human theological construction but a divinely revealed truth. Paul's warning to the Corinthians reinforces the gravity of the matter: 'Whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord' (1CO.11.27). The bishops and cardinals represent the teaching Magisterium that guards and transmits this doctrine, while the open book in the angel's hands signifies that the truth of the Eucharist is grounded in Scripture and Tradition together.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.22.19-20",
+      "relevance": "primary",
+      "reason": "This is my body given for you — the institution of the Eucharist that grounds the dispute"
+    },
+    {
+      "ref": "JHN.6.53-56",
+      "relevance": "primary",
+      "reason": "Unless you eat the flesh of the Son of Man and drink his blood — the discourse on the Bread of Life"
+    },
+    {
+      "ref": "1CO.11.27-29",
+      "relevance": "primary",
+      "reason": "Discerning the body of the Lord — the gravity of the Eucharistic presence under debate"
+    },
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "primary",
+      "reason": "The Last Supper institution narrative — the scriptural foundation for Eucharistic theology"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "solemn",
+    "intense",
+    "sacred",
+    "intellectual"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0006319",
+    "title": "The Dispute About the Holy Sacrament",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

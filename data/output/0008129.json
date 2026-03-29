@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Mary Magdalene in Penitence",
+  "tags": [
+    "mary-magdalene",
+    "penitence",
+    "ointment-jar",
+    "upward-gaze",
+    "flowing-hair",
+    "repentance",
+    "devotion",
+    "tears"
+  ],
+  "symbols": [
+    "ointment jar — the perfume with which Magdalene anointed Christ's feet, symbol of devoted love",
+    "flowing unbound hair — the hair with which she dried Christ's feet, and the abandonment of vanity",
+    "upward gaze with tears — the soul turning from sin toward God in repentance",
+    "bare shoulders — vulnerability and the stripping away of worldly pretense"
+  ],
+  "description": "A half-length portrait of a young woman with long, flowing auburn hair against a black background. She gazes upward with tear-filled, luminous eyes. One hand rests on her chest while the other holds a small brown ointment jar. Her shoulders are bare, and her expression combines sorrow with hope. The lighting is dramatic, illuminating her face and hair from above against the deep darkness. The rendering is smooth and idealized.",
+  "theological_description": "Mary Magdalene, the penitent saint, represents the transformative power of Christ's forgiveness. Traditionally identified with the sinful woman who anointed Jesus's feet with perfume, washed them with tears, and dried them with her hair (Luke 7:36-50), Magdalene became the Church's preeminent image of repentance and converted love. Her ointment jar — originally a luxury of her former life — becomes an instrument of devotion, poured out at the feet of Jesus. The upward gaze embodies the theological movement of conversion: turning from the world toward God. Jesus defended her against Simon the Pharisee's contempt: 'Her sins, which are many, are forgiven, for she loved much' (Luke 7:47). Magdalene's journey from sin to sanctity to being the first witness of the Resurrection (John 20:1-18) makes her the apostle to the apostles and the proof that no past is beyond redemption.",
+  "scripture_refs": [
+    {"ref": "LUK.7.37-50", "relevance": "primary", "reason": "The sinful woman anointing Jesus's feet with perfume and tears — Magdalene's traditional identification"},
+    {"ref": "JHN.20.1-18", "relevance": "primary", "reason": "Mary Magdalene as the first witness of the Resurrection — her journey from penitent to apostle"},
+    {"ref": "LUK.7.47", "relevance": "allusion", "reason": "Her sins, which are many, are forgiven, for she loved much — the theology of forgiveness and love"},
+    {"ref": "MRK.16.9", "relevance": "allusion", "reason": "Jesus appeared first to Mary Magdalene, from whom He had cast out seven demons"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["penitential", "tender", "luminous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008129",
+    "title": "Mary Magdalene",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

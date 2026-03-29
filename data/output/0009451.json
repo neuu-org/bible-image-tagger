@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "John the Apostle", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Holy Women", "type": "GROUP"}
+  ],
+  "event": "The Holy Women and Saint John at the Foot of the Cross",
+  "tags": [
+    "crucifixion",
+    "foot-of-cross",
+    "holy-women",
+    "john-apostle",
+    "mourning",
+    "passion",
+    "golgotha",
+    "grief",
+    "mater-dolorosa"
+  ],
+  "symbols": [
+    "Christ on the cross above — the atoning sacrifice elevated between heaven and earth",
+    "Mary clasping the cross — the Mater Dolorosa, the sword piercing her soul as Simeon prophesied",
+    "John supporting Mary — the beloved disciple fulfilling Jesus's command to care for his mother",
+    "Mary Magdalene weeping below — the penitent's devotion that follows Christ to the end",
+    "dark sky — the cosmic darkness accompanying the death of the Creator"
+  ],
+  "description": "A Baroque painting showing the crucified Christ on a rough wooden cross, with mourning figures gathered below. The Virgin Mary in a blue mantle clings to or reaches toward the cross in anguish. A young man in red (John) stands near her. A woman (Mary Magdalene) kneels at the base of the cross, looking up in grief. Another female figure stands nearby. The sky is dark and stormy. The palette is rich with deep blues, reds, and warm flesh tones against the dark background. Christ's body shows the wounds of the Passion.",
+  "theological_description": "This scene isolates the intimate group at the foot of the cross described in John 19:25-27: 'Standing by the cross of Jesus were his mother, and his mother's sister, Mary the wife of Clopas, and Mary Magdalene.' Jesus, seeing his mother and the disciple whom he loved, established a new family: 'Woman, behold your son... Behold, your mother' (JHN.19.26-27). This moment is understood by the Church Fathers as Christ establishing the Church's maternal relationship with Mary and the mutual care that characterizes the Christian community. Mary's grief fulfills Simeon's prophecy: 'a sword will pierce through your own soul also' (LUK.2.35). The Magdalene at the foot of the cross demonstrates that the love which was forgiven much (LUK.7.47) perseveres to the end. The dark sky reflects Matthew's account of the supernatural darkness (MAT.27.45), signifying that the death of the Light of the World plunges creation into mourning.",
+  "scripture_refs": [
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "The holy women and John standing at the cross, Jesus entrusting Mary to John"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "Simeon's prophecy of the sword piercing Mary's soul, fulfilled at the cross"},
+    {"ref": "MAT.27.45", "relevance": "primary", "reason": "Darkness over the land during the crucifixion, depicted in the dark sky"},
+    {"ref": "LUK.7.47", "relevance": "allusion", "reason": "The Magdalene's great love, shown in her presence at the cross to the end"},
+    {"ref": "ISA.53.3-5", "relevance": "typological", "reason": "The Suffering Servant wounded for our transgressions"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "tender", "dark", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009451",
+    "title": "Les Saintes Femmes et saint Jean au pied de la croix",
+    "artist": "Charles de La Fosse",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Doge Pietro Loredan",
+      "type": "OTHER"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels and Putti",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Doge Pietro Loredan Beseeching the Virgin",
+  "tags": [
+    "doge",
+    "votive-painting",
+    "intercession",
+    "madonna-and-child",
+    "venetian-devotion",
+    "heavenly-court",
+    "kneeling-donor",
+    "patron-saint"
+  ],
+  "symbols": [
+    "kneeling Doge — the highest civic authority humbling himself before the Queen of Heaven",
+    "Virgin and Child enthroned in clouds — the heavenly court ruling above earthly powers",
+    "angels and putti — the celestial hierarchy mediating between heaven and earth",
+    "city of Venice in background — the earthly realm commended to divine protection",
+    "ducal robes and corno — temporal authority presented in devotion to eternal authority"
+  ],
+  "description": "A Venetian Doge kneels in the foreground wearing elaborate white and gold ducal robes and the distinctive horned cap (corno). He looks upward toward the upper portion of the painting where the Virgin Mary holds the infant Christ amid swirling clouds, surrounded by angels, putti, and saints. Several haloed figures flank the heavenly group. Behind the Doge, the skyline of Venice with its towers and buildings stretches across the background. The composition is divided between the earthly realm below and the celestial vision above.",
+  "theological_description": "Votive paintings of Venetian doges before the Virgin represent the ancient Christian practice of commending temporal authority to divine protection. The Doge's kneeling posture embodies the biblical principle that all authority is established by God (ROM.13.1) and must answer to a higher sovereignty. Mary as intercessor reflects the tradition rooted in the Wedding at Cana (JHN.2.1-5), where she presented human need to her Son. The heavenly court with angels and saints recalls Hebrews 12:22-23 — the heavenly Jerusalem with innumerable angels and the spirits of the righteous made perfect. Though a specifically Venetian civic-religious tradition, the theological content draws on biblical patterns of rulers seeking divine favor, as Solomon did at the dedication of the Temple (1KI.8.22-30).",
+  "scripture_refs": [
+    {
+      "ref": "ROM.13.1",
+      "relevance": "allusion",
+      "reason": "All authority is instituted by God — the Doge acknowledging divine sovereignty over his rule"
+    },
+    {
+      "ref": "JHN.2.1-5",
+      "relevance": "typological",
+      "reason": "Mary's intercessory role at Cana, the theological basis for beseeching the Virgin"
+    },
+    {
+      "ref": "HEB.12.22-23",
+      "relevance": "allusion",
+      "reason": "The heavenly Jerusalem with angels and saints surrounding the throne"
+    },
+    {
+      "ref": "1KI.8.22-30",
+      "relevance": "typological",
+      "reason": "Solomon kneeling before God to commend his kingdom to divine care"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "solemn",
+    "majestic"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003228",
+    "title": "Doge Pietro Loredan Beseeching the Virgin",
+    "artist": "Palma il Giovane",
+    "model": "claude-opus-4-6"
+  }
+}

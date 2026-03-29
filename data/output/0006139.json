@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Roman Centurion", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman soldiers", "type": "GROUP"},
+    {"name": "Followers of Jesus", "type": "GROUP"}
+  ],
+  "event": "The Centurion approaching Christ",
+  "tags": [
+    "centurion",
+    "roman-soldiers",
+    "faith",
+    "healing",
+    "encounter",
+    "lances",
+    "red-cloaks",
+    "armor",
+    "humility",
+    "gentile-faith"
+  ],
+  "symbols": [
+    "centurion extending his hand to Christ — a gentile's act of faith that amazed Jesus",
+    "Roman soldiers with standards and lances — worldly military power humbled before divine authority",
+    "Christ in white — His spiritual authority contrasting with the centurion's earthly authority",
+    "kneeling figure at right — the sick servant or supplicant, the reason for the centurion's approach"
+  ],
+  "description": "A landscape scene showing two groups meeting. On the left, Roman soldiers in red cloaks and armor carry lances with red pennants. The centurion in ornate military garb extends his hand toward Christ. On the right, Jesus stands in a white robe, flanked by followers including women and children. A figure kneels at Christ's feet. The setting is an outdoor landscape with trees and foliage in the background. The confrontation between the two groups creates a dramatic visual tension, with the centurion bridging the gap between military power and spiritual authority.",
+  "theological_description": "The centurion's encounter with Christ is one of the most theologically significant episodes in the Gospels because it demonstrates that faith transcends ethnic and religious boundaries. The centurion understood authority — 'I say to one Come and he comes, and to another Go and he goes' (MAT.8.9) — and recognized in Jesus a spiritual authority that operated by the same principle. His declaration 'Lord, I am not worthy to have you come under my roof, but only say the word, and my servant will be healed' (MAT.8.8) has been woven into the Eucharistic liturgy of the Church for centuries. Jesus's astonished response establishes a new theological paradigm: 'I tell you, with no one in Israel have I found such faith' (MAT.8.10). A pagan Roman soldier surpasses the faith of the covenant people — anticipating the inclusion of Gentiles in the new Israel. The centurion prefigures another centurion at the Cross who declared 'Truly this was the Son of God' (MAT.27.54).",
+  "scripture_refs": [
+    {"ref": "MAT.8.5-13", "relevance": "primary", "reason": "The centurion's appeal to Jesus and Jesus's amazement at his faith"},
+    {"ref": "MAT.8.8-9", "relevance": "primary", "reason": "Lord I am not worthy — the centurion's declaration of faith in Christ's authority"},
+    {"ref": "LUK.7.1-10", "relevance": "primary", "reason": "Luke's parallel account of the centurion's servant healed at a distance"},
+    {"ref": "MAT.8.10-12", "relevance": "primary", "reason": "Jesus declaring He has not found such faith in all Israel — the Gentile mission foreshadowed"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["reverent", "dramatic", "hopeful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006139",
+    "title": "The Centurion",
+    "artist": "Frank Mason",
+    "model": "claude-opus-4-6"
+  }
+}

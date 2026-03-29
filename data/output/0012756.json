@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Madonna of the Baldacchino",
+  "tags": [
+    "madonna-and-child",
+    "enthroned",
+    "baldachin",
+    "saints",
+    "angels",
+    "putti",
+    "columns"
+  ],
+  "symbols": [
+    "baldachin canopy — the royal canopy signifying Mary's queenship",
+    "enthroned Madonna — the Seat of Wisdom, the throne of God's incarnation",
+    "putti at base — the playful heavenly beings",
+    "saints flanking — the communion of saints in worship",
+    "classical architecture — the new Temple built through Christ",
+    "angels lifting the canopy — the heavenly court attending the Queen"
+  ],
+  "description": "An altarpiece showing the Virgin Mary enthroned at center under a large green and red baldachin (canopy) held up by two angels. She holds the infant Jesus on her lap. Below the throne, two nude putti sit on the steps. On either side, standing saints in various garments attend: elderly bearded figures and others. The architectural setting features classical columns and an apse-like niche. The composition is monumental and symmetrical, in Raphael's characteristic harmonious High Renaissance style.",
+  "theological_description": "Raphael's Madonna of the Baldacchino presents the enthroned Virgin and Child in the format of a Sacra Conversazione, where the Madonna is surrounded by saints in a unified sacred space. The baldachin (canopy) is a symbol of royal and divine authority — in the Temple, the Ark of the Covenant was sheltered under the wings of cherubim, and Mary is understood in Catholic theology as the new Ark who carried the divine presence in her womb. The flanking saints represent the communion of the heavenly Church worshipping Christ. The classical architecture suggests the new Temple — Christ's body (John 2:21) — and the Church as 'the pillar and buttress of the truth' (1 Tim 3:15). The symmetry and harmony of the composition express the theological conviction that in Christ, all things hold together (Col 1:17). The putti at the base playfully affirm the joy of the heavenly court: 'In your presence there is fullness of joy' (Ps 16:11).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.42-43",
+      "relevance": "primary",
+      "reason": "Blessed are you among women — Mary enthroned in glory"
+    },
+    {
+      "ref": "1TI.3.15",
+      "relevance": "typological",
+      "reason": "The Church as pillar and buttress of truth — the architectural setting"
+    },
+    {
+      "ref": "COL.1.17",
+      "relevance": "allusion",
+      "reason": "In him all things hold together — the harmonious composition"
+    },
+    {
+      "ref": "PSA.16.11",
+      "relevance": "allusion",
+      "reason": "In your presence there is fullness of joy — the joyful putti"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "majestic",
+    "harmonious",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012756",
+    "title": "Madonna of the Baldacchino",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

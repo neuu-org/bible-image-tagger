@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Patriarchs", "type": "GROUP"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Adam", "type": "PERSON"},
+    {"name": "Eve", "type": "PERSON"}
+  ],
+  "event": "Christ Leading the Patriarchs to Paradise",
+  "tags": [
+    "harrowing-of-hell",
+    "descent-into-hell",
+    "patriarchs",
+    "limbo",
+    "liberation",
+    "risen-christ",
+    "angels-with-scroll",
+    "adam-and-eve",
+    "salvation-of-righteous",
+    "anastasis"
+  ],
+  "symbols": [
+    "Christ standing tall among the patriarchs — the risen Lord who descended to the dead to free the righteous",
+    "nude figures of the patriarchs — the souls stripped of earthly garments, awaiting redemption",
+    "angels with scroll — the proclamation of liberation and the opening of paradise",
+    "praying figures — the righteous dead who awaited the Messiah's coming",
+    "crowned figure — a king among the patriarchs, likely David or Solomon"
+  ],
+  "description": "A detail from a medieval painting showing Christ standing at the right with a bare torso and halo, leading a group of nude or partially clothed figures. Among them are men and women with praying hands, some with crowns, looking upward with hope. Above, two or three angels in white robes hold an open scroll. The background features ornate patterned surfaces typical of medieval art. The overall tone is golden and warm.",
+  "theological_description": "The Descent of Christ into Hell (the Harrowing of Hell or Anastasis) is attested in the Apostles' Creed ('He descended into hell') and elaborated in 1 Peter: 'He went and proclaimed to the spirits in prison' (1PE.3.19). According to this tradition, between his death on Good Friday and his Resurrection on Easter, Christ descended to the abode of the righteous dead (Sheol/Limbo of the Fathers) to liberate the patriarchs, prophets, and righteous who had died before the coming of redemption. Adam and Eve, Abraham, Moses, David — all who had lived in faith anticipating the promises — were freed and led into paradise. The scroll held by the angels may contain the decree of liberation. This theology is grounded in Ephesians: 'When he ascended on high, he led a host of captives' (EPH.4.8). The event completes the cosmic scope of redemption: Christ saves not only the living but reaches back through all of history to rescue those who died in hope.",
+  "scripture_refs": [
+    {"ref": "1PE.3.18-20", "relevance": "primary", "reason": "Christ going to proclaim to the spirits in prison — the Descent into Hell"},
+    {"ref": "EPH.4.8-10", "relevance": "typological", "reason": "He descended into the lower regions and led a host of captives"},
+    {"ref": "MAT.27.52-53", "relevance": "allusion", "reason": "The tombs opened and many saints who had fallen asleep were raised"},
+    {"ref": "HEB.11.39-40", "relevance": "typological", "reason": "The Old Testament righteous did not receive what was promised, since God had provided something better"},
+    {"ref": "PSA.24.7-10", "relevance": "typological", "reason": "Lift up your heads, O gates — the triumphant entry of the King of Glory into the realm of the dead"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["liberation", "triumph", "hope", "glory"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0003031",
+    "title": "Christ Leading the Patriarchs to the Paradise (detail)",
+    "artist": "Bartolome Bermejo",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Saint Gregory the Great",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Gregory the Great",
+  "tags": [
+    "saint-gregory",
+    "pope",
+    "papal-tiara",
+    "vestments",
+    "book",
+    "church-doctor",
+    "red-cope",
+    "devotional",
+    "inscription"
+  ],
+  "symbols": [
+    "papal tiara — the supreme authority of the Bishop of Rome",
+    "open book — the Scriptures and Gregory's extensive theological writings",
+    "red cope with gold embroidery — the liturgical vestments of papal authority",
+    "white alb — purity and priestly holiness",
+    "inscription 'S. GREGO.' — identification of the saint"
+  ],
+  "description": "A full-length standing portrait of an elderly bearded man wearing elaborate papal vestments: a tall white pointed tiara (papal crown), a richly embroidered red cope with gold trim and a large medallion depicting a saint, a white alb beneath, and red gloves. He holds an open red-bound book in both hands, reading from it. The inscription 'S. GREGO.' appears at upper left. The background is completely dark, focusing all attention on the richly dressed figure. The painting style is characteristically Zurbaran — precise, sculptural, and deeply shadowed.",
+  "theological_description": "Zurbaran depicts Pope Saint Gregory I (c. 540-604), known as Gregory the Great, one of the four great Doctors of the Latin Church. As pope, Gregory reformed the liturgy (Gregorian chant bears his name), sent missionaries to England, wrote extensively on pastoral theology, and provided moral leadership during a period of plague and political instability. While not a biblical figure, Gregory's writings deeply shaped the Church's interpretation of Scripture. He wrote the Moralia in Job, an exhaustive commentary on the Book of Job, and his Homilies on the Gospels brought biblical preaching to the people. His emphasis on pastoral care echoed the biblical model of the Good Shepherd (John 10:11). Paul's instructions to Timothy about episcopal leadership — 'pay close attention to yourself and to your teaching' (1 Tim 4:16) — found their fullest expression in Gregory's Pastoral Rule. The open book in his hands represents both his devotion to Scripture and his own theological legacy.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.10.11",
+      "relevance": "typological",
+      "reason": "I am the good shepherd — Gregory as pastoral leader modeled on Christ"
+    },
+    {
+      "ref": "1TI.4.16",
+      "relevance": "allusion",
+      "reason": "Pay close attention to yourself and your teaching — Gregory's pastoral theology"
+    },
+    {
+      "ref": "MAT.16.18-19",
+      "relevance": "allusion",
+      "reason": "On this rock I will build my church — the papal authority Gregory exercised"
+    },
+    {
+      "ref": "2TI.4.2",
+      "relevance": "allusion",
+      "reason": "Preach the word, be ready in season — Gregory's preaching ministry"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "dignified",
+    "solemn",
+    "authoritative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012239",
+    "title": "St. Gregory",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

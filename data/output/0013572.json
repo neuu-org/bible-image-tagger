@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Simon the Pharisee",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Mary Magdalene at the Door of Simon the Pharisee",
+  "tags": [
+    "mary-magdalene",
+    "simon-pharisee",
+    "doorway",
+    "anointing",
+    "penitent-woman",
+    "ornate-dress",
+    "deer",
+    "garden-setting",
+    "approaching-figure",
+    "elaborate-costume",
+    "floral-garden"
+  ],
+  "symbols": [
+    "Magdalene approaching the door \u2014 the moment of decision to humble herself before Christ",
+    "elaborate dress \u2014 the worldly life she is about to leave behind",
+    "deer in the garden \u2014 the soul thirsting for God as the deer pants for water",
+    "doorway threshold \u2014 the passage from sin to repentance, from the world to grace"
+  ],
+  "description": "A detailed black and white drawing showing an elaborately dressed woman at the doorway of a grand building. She wears a richly ornamented gown and appears to be stepping toward or pausing at the entrance. Several other figures are visible near the doorway and on steps. A deer stands in a garden to the right. The architecture is ornate with arches and decorative elements. A lush garden with flowers fills the foreground. The overall tone is intricate and narrative.",
+  "theological_description": "This scene depicts the moment described in Luke 7:36-50, just before Mary Magdalene enters the house of Simon the Pharisee to anoint Jesus\u2019 feet with her tears and costly ointment. The Magdalene stands at the threshold between her former life of sin and the transformative encounter with Christ that will make her the great penitent of Christian tradition. Her elaborate dress represents the worldly life she will renounce. Jesus\u2019 words to Simon\u2014\u2018Her sins, which are many, are forgiven, for she loved much\u2019 (Luke 7:47)\u2014establish the revolutionary principle that the depth of love is proportional to the awareness of forgiveness. The deer in the garden evokes Psalm 42:1: \u2018As the deer pants for flowing streams, so pants my soul for you, O God\u2019\u2014the Magdalene\u2019s soul thirsts for the living God she is about to encounter. This moment of approach to Christ\u2019s presence becomes the archetype of conversion.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.36-50",
+      "relevance": "primary",
+      "reason": "The sinful woman entering Simon\u2019s house to anoint Jesus\u2019 feet with tears and ointment"
+    },
+    {
+      "ref": "LUK.7.47",
+      "relevance": "primary",
+      "reason": "Her sins, which are many, are forgiven, for she loved much"
+    },
+    {
+      "ref": "PSA.42.1",
+      "relevance": "allusion",
+      "reason": "The deer in the garden evokes the soul thirsting for God as the deer pants for water"
+    },
+    {
+      "ref": "MRK.14.3-9",
+      "relevance": "typological",
+      "reason": "The anointing at Bethany, connected to the tradition of Mary\u2019s anointing"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anticipatory",
+    "dramatic",
+    "contemplative",
+    "ornate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013572",
+    "title": "Mary Magdalene at the door of Simon the Pharisee",
+    "artist": "Dante Gabriel Rossetti",
+    "model": "claude-opus-4-6"
+  }
+}

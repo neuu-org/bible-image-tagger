@@ -1,0 +1,51 @@
+{
+  "characters": [
+    {
+      "name": "Pope Gregory",
+      "type": "PERSON"
+    },
+    {
+      "name": "Clergy in Procession",
+      "type": "GROUP"
+    },
+    {
+      "name": "Afflicted Person",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Procession of Saint Gregory the Great",
+  "tags": [
+    "procession",
+    "saint-gregory",
+    "litany",
+    "clergy",
+    "plague",
+    "medieval-city",
+    "liturgical-procession",
+    "white-robed-monks",
+    "prayer-text"
+  ],
+  "symbols": [
+    "litany text with saints' names — the Church calling upon the communion of saints for intercession",
+    "white-robed procession — penitential prayer and supplication",
+    "fallen figure in blue — victim of the plague for which Gregory ordered the procession",
+    "medieval towers and city — Rome during the plague, the context of this penitential rite",
+    "illuminated initial letter — the liturgical and literary context of the prayer"
+  ],
+  "description": "An illuminated manuscript page from the Tres Riches Heures. The lower portion depicts a procession of white-robed monks or clergy walking in two columns past medieval buildings with towers and spires. A figure in ornate episcopal vestments leads from the right. On the ground at center, a figure in blue robes lies collapsed or dead. Above the miniature, two columns of Latin litany text fill most of the page, listing saints' names with 'ORA' (pray) responses. A decorated initial letter with vine scrollwork adorns the upper left corner.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "liturgical",
+  "mood": [
+    "penitential",
+    "solemn",
+    "processional"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0005565",
+    "title": "The Procession of Saint Gregory",
+    "artist": "Limbourg brothers",
+    "model": "claude-opus-4-6"
+  }
+}

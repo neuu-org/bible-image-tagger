@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Shepherds",
+  "tags": [
+    "nativity",
+    "adoration-of-the-shepherds",
+    "infant-jesus",
+    "manger",
+    "virgin-mary",
+    "divine-light",
+    "kneeling",
+    "stable",
+    "christmas"
+  ],
+  "symbols": [
+    "radiant infant — the Light of the World illuminating the darkness",
+    "manger — the humble birthplace of the King of Kings",
+    "Mary with hands in prayer — the contemplative adoration of the Mother of God",
+    "shepherds kneeling and gazing — the humble poor who first receive the Gospel",
+    "child among the shepherds — the young joining the old in worship",
+    "darkness surrounding the light — the world in sin before the coming of Christ"
+  ],
+  "description": "A nocturnal scene lit solely by the radiance emanating from a newborn infant lying in a wooden manger at center. To the right, a woman in a blue mantle over a white veil kneels with hands pressed together in prayer, gazing down at the child. Around the manger, several figures crowd in: an elderly bearded man leans forward tenderly, a young boy with clasped hands kneels at left, a muscular half-dressed man stands at upper left with one arm raised, and two other figures look on from behind. The dramatic chiaroscuro creates deep shadows beyond the central pool of light.",
+  "theological_description": "Guido Reni depicts the moment described in Luke 2:15-20, when the shepherds come to Bethlehem to see the newborn Messiah. The angel had told them 'you will find a baby wrapped in swaddling cloths and lying in a manger' (Luke 2:12). The painting's dramatic lighting — with the infant Christ as the sole source of illumination — is a visual theology of John 1:9: 'The true light, which gives light to everyone, was coming into the world.' Mary's prayerful posture reflects Luke's note that she 'treasured up all these things, pondering them in her heart' (Luke 2:19). The shepherds represent the lowly and marginalized whom God chose as the first recipients of the good news, fulfilling the Magnificat's promise that God 'has exalted those of humble estate' (Luke 1:52). The Incarnation — God becoming a vulnerable infant in a feeding trough — is the central mystery of the Christian faith, as Paul writes: 'though he was rich, yet for your sake he became poor' (2 Cor 8:9).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.15-20",
+      "relevance": "primary",
+      "reason": "The shepherds go to Bethlehem and find Mary, Joseph, and the baby in the manger"
+    },
+    {
+      "ref": "LUK.2.12",
+      "relevance": "primary",
+      "reason": "You will find a baby wrapped in swaddling cloths lying in a manger"
+    },
+    {
+      "ref": "JHN.1.9",
+      "relevance": "typological",
+      "reason": "The true light that gives light to everyone — the infant as sole light source"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things, pondering them in her heart — her prayerful pose"
+    },
+    {
+      "ref": "2CO.8.9",
+      "relevance": "allusion",
+      "reason": "Though he was rich, for your sake he became poor — the humble manger birth"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "tender",
+    "luminous",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011785",
+    "title": "Adoration of the Shepherds",
+    "artist": "Guido Reni",
+    "model": "claude-opus-4-6"
+  }
+}

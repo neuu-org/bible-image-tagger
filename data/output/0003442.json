@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Thomas", "type": "PERSON"},
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "The Incredulity of Saint Thomas",
+  "tags": [
+    "doubting-thomas",
+    "risen-christ",
+    "resurrection-appearance",
+    "wound-in-side",
+    "faith-and-doubt",
+    "apostles",
+    "post-resurrection",
+    "tactile-proof"
+  ],
+  "symbols": [
+    "wound in Christ's side — the proof of the Resurrection and the source of sacramental grace",
+    "Thomas's probing hand — the movement from doubt to faith through encounter with the risen body",
+    "staff or cross held by Christ — the victory banner of the Resurrection",
+    "draped white cloth — the glorified body and burial garments"
+  ],
+  "description": "The risen Christ stands at center, his torso partially bare, draped in a blue and white cloth, holding a tall staff. He looks upward serenely. A bearded man in red robes at the right reaches toward Christ's side, about to touch or probe the wound. Behind Christ at left, an older bearded man in golden robes raises his hands in wonder. Two additional figures peer from behind at the right. The composition is tightly grouped, with dramatic lighting on the central figures.",
+  "theological_description": "The Incredulity of Thomas is one of the most theologically rich post-Resurrection appearances. Thomas, absent when Christ first appeared to the disciples, declares he will not believe unless he places his finger in the nail marks and his hand in Christ's side (JHN.20.25). When Christ appears again and invites Thomas to touch, Thomas's response is the highest Christological confession in the Gospels: 'My Lord and my God!' (JHN.20.28). Christ's words that follow — 'Blessed are those who have not seen and yet have believed' (JHN.20.29) — extend across the centuries to all who believe by faith rather than sight. The wound in Christ's side, from which blood and water flowed (JHN.19.34), is read by the Fathers as the source of the sacraments — baptism (water) and Eucharist (blood). Thomas's journey from doubt to faith becomes the paradigm for every believer's encounter with the risen Lord.",
+  "scripture_refs": [
+    {"ref": "JHN.20.24-29", "relevance": "primary", "reason": "The complete narrative of Thomas's doubt and confession, the exact scene depicted"},
+    {"ref": "JHN.20.28", "relevance": "primary", "reason": "Thomas's confession 'My Lord and my God!' — the climactic Christological declaration"},
+    {"ref": "JHN.19.34", "relevance": "typological", "reason": "The piercing of Christ's side from which blood and water flowed, the wound Thomas touches"},
+    {"ref": "JHN.20.29", "relevance": "primary", "reason": "Blessed are those who have not seen and yet believe — Christ's word to all future believers"},
+    {"ref": "1PE.1.8", "relevance": "allusion", "reason": "Loving and believing in Christ without having seen him — the faith Thomas must learn"},
+    {"ref": "HEB.11.1", "relevance": "allusion", "reason": "Faith as the substance of things hoped for, the evidence of things not seen"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe-struck", "revelatory", "intimate", "tense"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003442",
+    "title": "The Incredulity of Saint Thomas",
+    "artist": "Guercino",
+    "model": "claude-opus-4-6"
+  }
+}

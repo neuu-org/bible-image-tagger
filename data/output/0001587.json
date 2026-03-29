@@ -1,0 +1,61 @@
+{
+  "characters": [
+    {
+      "name": "Saint Vincent",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Vincent Martyr laid to rest",
+  "tags": [
+    "saint-vincent",
+    "martyr",
+    "body",
+    "coastline",
+    "town",
+    "death",
+    "hagiography",
+    "black-and-white"
+  ],
+  "symbols": [
+    "Body on the shore — the martyr's body cast out but received by the faithful",
+    "Town in the background — the Christian community that venerates the saint",
+    "Dark cliff and plants — the hostile world that killed the saint, yet from which life still springs"
+  ],
+  "description": "A black and white woodcut or engraving depicts a recumbent figure wrapped in cloth, lying on a shore or embankment. Behind the figure, a small Mediterranean town with white buildings and a tower nestles against a dark hillside. On the right, dramatic dark cliff faces and large spiky plants rise. The sea stretches across the middle ground. The composition uses bold contrasts of black and white with intricate linework.",
+  "theological_description": "Saint Vincent of Saragossa (d. 304) was a deacon martyred under the Roman persecution of Diocletian. According to tradition, after being tortured and killed, his body was cast into the sea but miraculously washed ashore, where it was recovered by the faithful. While Vincent is not a biblical figure, his martyrdom exemplifies the pattern established by Christ and the first martyrs. His role as deacon connects him to Stephen (ACT.6.5), the first deacon-martyr. The image of a body cast out but recovered by the faithful echoes the burial of Christ by Joseph of Arimathea — what the powerful intended for dishonor, God turned to glory. Jesus promised: 'If they persecuted me, they will also persecute you' (JHN.15.20), and the blood of the martyrs became the seed of the Church.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.15.20",
+      "relevance": "typological",
+      "reason": "If they persecuted me they will persecute you — the pattern of persecution Vincent embodies"
+    },
+    {
+      "ref": "ACT.6.5-7",
+      "relevance": "typological",
+      "reason": "The appointment of deacons including Stephen — Vincent as deacon-martyr follows this pattern"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "typological",
+      "reason": "Be faithful unto death, and I will give you the crown of life — the promise to martyrs like Vincent"
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "allusion",
+      "reason": "I have fought the good fight, I have finished the race — the martyr's completion of faith"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "stark",
+    "reverent"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001587",
+    "title": "Saint Vincent Martyr",
+    "artist": "M.C. Escher",
+    "model": "claude-opus-4-6"
+  }
+}

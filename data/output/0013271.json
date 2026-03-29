@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Witnesses",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Baptism of Christ in the Jordan",
+  "tags": [
+    "baptism-of-christ",
+    "john-the-baptist",
+    "jordan-river",
+    "rocky-landscape",
+    "wilderness",
+    "river-scene",
+    "crowd",
+    "immersion",
+    "dramatic-sky",
+    "cliffs",
+    "trees",
+    "figures-by-water"
+  ],
+  "symbols": [
+    "river amid wilderness \u2014 the Jordan as the threshold between the old and new covenants",
+    "rocky cliffs \u2014 the wilderness setting of John\u2019s prophetic ministry",
+    "gathered crowd \u2014 the multitudes drawn to John\u2019s message of repentance",
+    "dramatic sky \u2014 the heavens about to open at Christ\u2019s baptism"
+  ],
+  "description": "A dramatic landscape with towering rocky cliffs and dense trees framing a wide river valley. In the lower center, a group of figures gathers at the water\u2019s edge, with one figure appearing to baptize another in the river. Additional figures watch from the banks. The landscape dominates the composition, with the human figures relatively small against the massive natural setting. A dramatic sky with clouds and sunlight breaking through fills the upper portion. The scene is wild and untamed.",
+  "theological_description": "The Baptism of Christ set within a vast, wild landscape emphasizes the theological significance of the wilderness setting. John the Baptist\u2019s ministry in the Jordan wilderness fulfills Isaiah 40:3: \u2018A voice cries in the wilderness, prepare the way of the Lord.\u2019 The grandeur of the landscape underscores the cosmic significance of the event\u2014the moment when the Son of God enters the waters of human sin to consecrate them for the salvation of the world. The gathered multitudes represent the crowds who came from all Judea and the Jordan region to be baptized by John, confessing their sins (Matthew 3:5-6). The dramatic sky suggests the imminent theophany when the heavens will open, the Spirit will descend, and the Father\u2019s voice will declare Jesus as his beloved Son (Matthew 3:16-17). The wild, rocky setting also evokes the cosmic scope of redemption\u2014all creation participates in this decisive moment of salvation history.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.3.13-17",
+      "relevance": "primary",
+      "reason": "The baptism of Jesus by John in the Jordan River"
+    },
+    {
+      "ref": "ISA.40.3",
+      "relevance": "typological",
+      "reason": "A voice crying in the wilderness to prepare the way of the Lord"
+    },
+    {
+      "ref": "MAT.3.5-6",
+      "relevance": "allusion",
+      "reason": "The multitudes from Judea coming to be baptized by John in the Jordan"
+    },
+    {
+      "ref": "MRK.1.4-5",
+      "relevance": "allusion",
+      "reason": "John baptizing in the wilderness, proclaiming a baptism of repentance"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "majestic",
+    "wild",
+    "awe-inspiring"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013271",
+    "title": "Saint John the Baptist Baptizing Christ in the Jordan",
+    "artist": "Salvator Rosa",
+    "model": "claude-opus-4-6"
+  }
+}

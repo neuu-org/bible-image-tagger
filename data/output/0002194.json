@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Judas Iscariot", "type": "PERSON"}
+  ],
+  "event": "Judas and the Thirty Pieces of Silver",
+  "tags": [
+    "judas",
+    "betrayal",
+    "silver-coins",
+    "remorse",
+    "blood-money",
+    "anguish",
+    "despair",
+    "thirty-pieces",
+    "treachery",
+    "fallen-apostle"
+  ],
+  "symbols": [
+    "silver coins falling — the thirty pieces of silver, the price of betrayal",
+    "hunched figure clutching wooden surface — overwhelming guilt and self-condemnation",
+    "red hair — traditional iconographic marker identifying Judas",
+    "bare feet — exposure and destitution of the betrayer stripped of apostolic dignity",
+    "dark lower register — the abyss of despair into which Judas descends",
+    "wooden board or table — possibly evoking the Last Supper table or the field purchased with blood money"
+  ],
+  "description": "A figure with reddish hair is hunched over a large, rough wooden surface, gripping its edges with both hands visible at the sides. The face is barely visible, pressed down against the wood in a posture of utter anguish. Several round silver-white coins are scattered across and falling from the wooden surface. The figure's bare feet are visible at the bottom. The palette is dominated by browns, earth tones, and muted whites, with a heavy, oppressive atmosphere.",
+  "theological_description": "This image captures the torment of Judas Iscariot after his betrayal of Jesus for thirty pieces of silver (MAT.26.14-16). Matthew records that when Judas saw Jesus condemned, he was seized with remorse, returned the silver to the chief priests declaring 'I have sinned by betraying innocent blood,' then threw the coins into the temple and went and hanged himself (MAT.27.3-5). The thirty pieces fulfill Zechariah's prophecy of the shepherd valued at the price of a slave (ZEC.11.12-13), and Matthew explicitly cites this as fulfilled prophecy (MAT.27.9-10). The falling coins in the image evoke the moment Judas hurled them back, unable to bear the weight of what they purchased. Patristically, Judas represents the tragedy of proximity without transformation — he walked with Christ, witnessed miracles, yet his heart remained attached to mammon (JHN.12.6). His despair contrasts with Peter's repentance: both denied Christ, but Peter wept and returned (LUK.22.62), while Judas despaired unto death, choosing self-destruction over the mercy that was still available.",
+  "scripture_refs": [
+    {"ref": "MAT.27.3-5", "relevance": "primary", "reason": "Judas returning the thirty pieces of silver in remorse and hanging himself"},
+    {"ref": "MAT.26.14-16", "relevance": "primary", "reason": "Judas bargaining with the chief priests for thirty pieces of silver to betray Jesus"},
+    {"ref": "ZEC.11.12-13", "relevance": "typological", "reason": "The prophet valued at thirty pieces of silver, the price thrown to the potter in the Lord's house"},
+    {"ref": "JHN.12.6", "relevance": "allusion", "reason": "Judas as keeper of the money bag who was a thief, revealing his attachment to money"},
+    {"ref": "ACT.1.18-19", "relevance": "allusion", "reason": "The field of blood purchased with the betrayal money"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["anguish", "despair", "guilt", "desolation"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002194",
+    "title": "Judas",
+    "artist": "Albert Tucker",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Gabriel", "type": "ANGEL"},
+    {"name": "Holy Spirit (as Dove)", "type": "DEITY"}
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "holy-spirit-dove",
+    "lily",
+    "fiat",
+    "incarnation",
+    "spinning-wheel",
+    "divine-message"
+  ],
+  "symbols": [
+    "lily in Gabriel's hand — purity of the Virgin and the announcement of divine favor",
+    "dove descending in golden light — the Holy Spirit overshadowing Mary",
+    "Gabriel's raised hand pointing upward — directing attention to God the Father's will",
+    "spinning wheel behind Mary — her domestic industry interrupted by the divine messenger",
+    "roses at right — the Rose of Sharon, the beauty of grace bestowed on Mary",
+    "golden light — the glory of God breaking into the ordinary world"
+  ],
+  "description": "The angel Gabriel stands at the right, a tall winged figure in a purple and gold robe, holding white lilies in his left hand while his right hand points upward toward a brilliant golden light where a dove descends. The Virgin Mary stands at the left in a dark blue veil over a rose-colored dress, her hands clasped in prayer, her gaze downcast in humility. Behind her, a spinning wheel is visible. At the lower right, a pot of white roses blooms. The background is suffused with warm golden and white light, emanating from the dove of the Holy Spirit above.",
+  "theological_description": "The Annunciation is the pivotal moment of salvation history — the instant when God's eternal plan of redemption enters human time through Mary's consent. Gabriel's greeting, 'Hail, full of grace, the Lord is with you' (LUK.1.28), inaugurates the New Covenant. The dove of the Holy Spirit descending fulfills Gabriel's explanation: 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you' (LUK.1.35). Mary's clasped hands and humble posture express her fiat: 'Behold, I am the handmaid of the Lord; let it be to me according to your word' (LUK.1.38). This 'yes' reverses Eve's 'no' in the Garden — as Irenaeus wrote, 'the knot of Eve's disobedience was loosed by the obedience of Mary.' The Incarnation proclaimed here is the fulfillment of Isaiah 7:14: 'Behold, the virgin shall conceive and bear a son.' The lily traditionally signifies Mary's perpetual virginity and the pure channel through which the Word became flesh (JHN.1.14).",
+  "scripture_refs": [
+    {"ref": "LUK.1.26-38", "relevance": "primary", "reason": "The complete Annunciation narrative — Gabriel's visit, the message, and Mary's fiat"},
+    {"ref": "LUK.1.35", "relevance": "primary", "reason": "The Holy Spirit overshadowing Mary, depicted as the dove in golden light"},
+    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son — the prophecy fulfilled at the Annunciation"},
+    {"ref": "JHN.1.14", "relevance": "primary", "reason": "The Word became flesh — the theological reality accomplished at the moment depicted"},
+    {"ref": "GEN.3.15", "relevance": "typological", "reason": "The protoevangelium: the woman whose seed will crush the serpent, initiated through Mary's consent"},
+    {"ref": "GAL.4.4", "relevance": "allusion", "reason": "In the fullness of time God sent his Son, born of a woman — the kairos moment of the Annunciation"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["awe-filled", "reverent", "luminous", "sacred"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003446",
+    "title": "The Annunciation",
+    "artist": "William-Adolphe Bouguereau",
+    "model": "claude-opus-4-6"
+  }
+}

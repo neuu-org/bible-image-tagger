@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Christopher",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion with Saints Jerome and Christopher",
+  "tags": [
+    "crucifixion",
+    "saint-jerome",
+    "saint-christopher",
+    "cross",
+    "kneeling-saint",
+    "palm-branch",
+    "penitence",
+    "golgotha",
+    "landscape",
+    "devotional"
+  ],
+  "symbols": [
+    "Christ on the cross — the atoning sacrifice for the sins of the world",
+    "kneeling figure of Jerome — penitence and scholarly devotion to Scripture",
+    "Saint Christopher with staff and palm — the Christ-bearer and his martyrdom",
+    "rocky hill — Golgotha, the Place of the Skull",
+    "open landscape behind — the universal scope of Christ's redemption"
+  ],
+  "description": "Christ hangs on a tall wooden cross at the center of the composition, his body pale against a landscape background. At the foot of the cross to the left, an elderly figure kneels in penitence — bare-chested with a stone, identifiable as Saint Jerome. To the right, a large muscular figure in red and green garments carries a staff and a palm branch, representing Saint Christopher. The background shows a peaceful green landscape with rolling hills and a distant city under a clear sky. The painting has an arched top, suggesting an altarpiece format.",
+  "theological_description": "This devotional Crucifixion flanked by saints bridges the historical event of Calvary with the ongoing life of the Church. Christ's death on the cross is the central act of salvation history — 'God shows his love for us in that while we were still sinners, Christ died for us' (ROM.5.8). Saint Jerome kneeling in penitence represents the scholarly contemplation of Scripture through which the meaning of the Cross is understood; his Vulgate translation made the Passion narrative accessible to the Latin-speaking world. Saint Christopher, the Christ-bearer, embodies the vocation of every believer to carry Christ into the world. The pairing of these two saints with the Crucifixion creates a meditation on how the Cross is both studied (Jerome) and lived (Christopher). The tranquil landscape behind the scene of suffering suggests the peace that flows from Christ's atoning work — the reconciliation of all things through the blood of the Cross (COL.1.20).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The Crucifixion of Christ at Golgotha, the central event depicted"
+    },
+    {
+      "ref": "ROM.5.8",
+      "relevance": "typological",
+      "reason": "God's love demonstrated through Christ's death while we were sinners"
+    },
+    {
+      "ref": "COL.1.20",
+      "relevance": "typological",
+      "reason": "Through the blood of the Cross, God reconciled all things — reflected in the peaceful landscape"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Boasting only in the cross of our Lord Jesus Christ, the saints' devotion to the Crucified"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "solemn",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004390",
+    "title": "The Crucifixion with Sts. Jerome and Christopher",
+    "artist": "Pinturicchio",
+    "model": "claude-opus-4-6"
+  }
+}

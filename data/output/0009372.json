@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman Soldiers", "type": "GROUP"},
+    {"name": "Crowd", "type": "GROUP"}
+  ],
+  "event": "The Mocking of Christ (Hail, King of the Jews)",
+  "tags": [
+    "mocking-of-christ",
+    "ecce-homo",
+    "crown-of-thorns",
+    "roman-soldiers",
+    "passion",
+    "humiliation",
+    "trial",
+    "praetorium",
+    "crowd"
+  ],
+  "symbols": [
+    "Christ standing alone before the crowd — the Lamb of God presented for judgment",
+    "soldiers and mockers surrounding him — the hostility of the world against the righteous one",
+    "elevated platform with red canopy — the judgment seat where Christ is displayed and mocked",
+    "crowd pressing forward — the mob that chose Barabbas and cried 'Crucify him'",
+    "armor and weapons — the power of the state arrayed against the defenseless Son of God"
+  ],
+  "description": "A large panoramic painting depicting Christ standing on an elevated platform or steps before a vast crowd in a Roman courtyard. Red and yellow canopies or banners hang above. Soldiers in armor and numerous figures fill the paved courtyard, pressing toward the central figure. The scene is rendered in warm, hazy tones of gold, beige, and muted colors, with monumental architecture visible in the background. The composition conveys the immense scale of the public spectacle, with Christ small but central among the masses.",
+  "theological_description": "This scene depicts the mocking and public display of Jesus before his crucifixion, combining elements from the mockery by soldiers in the praetorium (MAT.27.27-31) and Pilate's presentation of Jesus to the crowd (JHN.19.4-5). The soldiers dressed Jesus in a scarlet robe, placed a crown of thorns on his head, and knelt before him in mockery, saying 'Hail, King of the Jews!' (MAT.27.29). The bitter irony is that their mockery unwittingly proclaimed the truth: Jesus is indeed the King, though his kingdom is 'not of this world' (JHN.18.36). Isaiah prophesied this very scene: 'He was despised and rejected by men... as one from whom men hide their faces he was despised, and we esteemed him not' (ISA.53.3). The vast crowd represents all humanity confronted with the choice that Pilate posed: what will you do with Jesus? The scene fulfills Psalm 22: 'All who see me mock me; they make mouths at me; they wag their heads' (PSA.22.7). Christ's silent endurance of mockery demonstrates the pattern of the Suffering Servant who 'opened not his mouth' (ISA.53.7).",
+  "scripture_refs": [
+    {"ref": "MAT.27.27-31", "relevance": "primary", "reason": "The soldiers mocking Jesus, dressing him in scarlet and crowning him with thorns"},
+    {"ref": "JHN.19.4-5", "relevance": "primary", "reason": "Pilate presenting Jesus to the crowd: Ecce Homo, Behold the Man"},
+    {"ref": "ISA.53.3", "relevance": "typological", "reason": "He was despised and rejected by men, fulfilled in the mocking crowd"},
+    {"ref": "PSA.22.7", "relevance": "typological", "reason": "All who see me mock me, the messianic psalm describing this scene"},
+    {"ref": "ISA.53.7", "relevance": "typological", "reason": "Like a lamb led to slaughter, he opened not his mouth"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["humiliating", "tense", "sorrowful", "ominous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009372",
+    "title": "Laughter (Hail, king of Judah)",
+    "artist": "Ivan Kramskoy",
+    "model": "claude-opus-4-6"
+  }
+}

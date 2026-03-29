@@ -1,0 +1,98 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Multitudes of Humanity",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Garden of Earthly Delights",
+  "tags": [
+    "garden-of-eden",
+    "paradise",
+    "temptation",
+    "fall-of-man",
+    "hell",
+    "judgment",
+    "nude-figures",
+    "fantastical-creatures",
+    "surreal-landscape",
+    "earthly-pleasures",
+    "damnation",
+    "sin",
+    "creation",
+    "animals",
+    "fountains",
+    "fruit",
+    "musical-instruments",
+    "torment"
+  ],
+  "symbols": [
+    "left panel garden with Adam and Eve — the original paradise and innocence before the Fall",
+    "central panel with nude multitudes — humanity given over to sensual pleasures and worldly indulgence",
+    "right panel of darkness and torment — hell and the consequences of sin",
+    "fantastical hybrid creatures — the corruption and distortion of God’s good creation",
+    "giant fruits — the allure and excess of earthly pleasure",
+    "musical instruments as torture devices — pleasures turned to punishment",
+    "fountain structures — parodies of the fountain of life"
+  ],
+  "description": "A large triptych with three distinct panels. The left panel shows a verdant garden with a robed figure presenting a woman to a man, surrounded by exotic animals and a fantastical pink fountain structure. The central panel teems with hundreds of nude human figures amid giant fruits, birds, pools, and surreal organic structures on a lush green landscape. The right panel is dark and nightmarish, filled with grotesque scenes of torment: mechanical devices, burning buildings, monstrous hybrid creatures, and suffering human figures in a hellish landscape.",
+  "theological_description": "This triptych presents a sweeping theological narrative from Creation to Damnation. The left panel depicts the Garden of Eden with God presenting Eve to Adam (Genesis 2:22), establishing the original covenant of innocence. The central panel has been variously interpreted as humanity before the Flood given over to unrestrained sensuality, or as a moral allegory of the world’s seductive pleasures that lead souls astray. The abundance of flesh and fruit evokes the warning of 1 John 2:16: ‘the lust of the flesh, the lust of the eyes, and the pride of life.’ The right panel depicts a hellscape embodying the eschatological judgment described in Revelation 20:15 and Matthew 25:41, where those who pursued earthly delights face eternal torment. The triptych’s progression from paradise through indulgence to damnation mirrors the biblical arc of creation, fall, and judgment. It serves as a powerful visual sermon on the wages of sin (Romans 6:23) and the narrow gate that few find (Matthew 7:13-14).",
+  "scripture_refs": [
+    {
+      "ref": "GEN.2.8-25",
+      "relevance": "primary",
+      "reason": "The left panel depicts the Garden of Eden with the creation of Eve and the presentation to Adam"
+    },
+    {
+      "ref": "GEN.3.1-24",
+      "relevance": "typological",
+      "reason": "The Fall and its consequences are implied in the progression from innocence to indulgence to damnation"
+    },
+    {
+      "ref": "1JO.2.16",
+      "relevance": "allusion",
+      "reason": "The central panel embodies the lust of the flesh, lust of the eyes, and pride of life"
+    },
+    {
+      "ref": "REV.20.15",
+      "relevance": "typological",
+      "reason": "The right panel depicts the lake of fire and final judgment for those not found in the book of life"
+    },
+    {
+      "ref": "MAT.7.13-14",
+      "relevance": "allusion",
+      "reason": "The broad way that leads to destruction, illustrated by the many figures pursuing earthly pleasures"
+    },
+    {
+      "ref": "ROM.6.23",
+      "relevance": "allusion",
+      "reason": "The wages of sin is death, dramatized by the torments of the hellscape panel"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "fantastical",
+    "ominous",
+    "overwhelming",
+    "nightmarish"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0012919",
+    "title": "The Garden of Earthly Delights",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

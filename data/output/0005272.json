@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Crucified Thieves", "type": "GROUP"}
+  ],
+  "event": "Calvary and the Last Seven Words",
+  "tags": [
+    "calvary",
+    "crucifixion",
+    "last-words",
+    "abstract",
+    "golgotha",
+    "dark-forms",
+    "crosses",
+    "passion",
+    "suffering",
+    "modern-art"
+  ],
+  "symbols": [
+    "dark head-like forms against orange-red ground — the crucified figures on Golgotha rendered abstractly",
+    "green radiating lines on white — the light or energy emanating from Calvary, the cosmic significance of the Cross",
+    "dark band at bottom — the earth darkened during the Crucifixion",
+    "orange-red field — the blood-soaked hill of Golgotha"
+  ],
+  "description": "An abstract expressionist composition divided diagonally. The upper right quadrant is a deep orange-red field bearing seven or eight dark, rounded blot-like forms suggesting heads or figures. The lower left and surrounding area is a pale white-grey field with radiating green diagonal lines emanating outward. A dark horizontal band runs along the bottom edge. The forms are raw and gestural, painted with thick impasto.",
+  "theological_description": "This abstract interpretation of Calvary reduces the Crucifixion to its essence of suffering and radiance. The dark forms on the blood-red ground evoke the crucified Christ and the two thieves, along with the witnesses at Golgotha. The title's reference to the Last Seven Words connects to the seven utterances of Christ from the Cross as recorded across the four Gospels — from 'Father, forgive them' (LUK.23.34) to 'It is finished' (JHN.19.30). The radiating lines suggest the cosmic shockwave of the Crucifixion: the veil of the Temple torn, the earth shaking, the darkness covering the land (MAT.27.45-51). The abstraction strips away all narrative detail to confront the viewer with the raw theological reality: that at this hill, the Son of God bore the sins of the world, and from this darkness, the light of redemption burst forth.",
+  "scripture_refs": [
+    {"ref": "LUK.23.33-46", "relevance": "primary", "reason": "The Crucifixion at Calvary including several of the Seven Last Words"},
+    {"ref": "JHN.19.30", "relevance": "primary", "reason": "It is finished — the final word from the Cross completing the work of atonement"},
+    {"ref": "MAT.27.45-51", "relevance": "primary", "reason": "Darkness over the land, the cry of dereliction, the torn veil, and the earthquake"},
+    {"ref": "LUK.23.34", "relevance": "primary", "reason": "Father, forgive them, for they know not what they do — the first word from the Cross"},
+    {"ref": "ISA.53.4-6", "relevance": "typological", "reason": "He bore our griefs and carried our sorrows; upon him was the chastisement that brought us peace"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["anguish", "darkness", "transcendence"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005272",
+    "title": "Calvary, The Last Seven Words",
+    "artist": "Jan Cox",
+    "model": "claude-opus-4-6"
+  }
+}

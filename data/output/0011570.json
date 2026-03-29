@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Moses with the Tablets of the Law",
+  "tags": [
+    "moses",
+    "tablets-of-law",
+    "ten-commandments",
+    "sinai",
+    "divine-law"
+  ],
+  "symbols": [
+    "stone tablets — the Ten Commandments given by God at Sinai",
+    "Moses holding the tablets — the mediator of the Old Covenant"
+  ],
+  "description": "An engraving or print by Piranesi showing the prophet Moses holding the stone tablets of the Law. The figure of Moses is rendered in classical style with the tablets prominently displayed.",
+  "theological_description": "Moses received the Ten Commandments at Mount Sinai (EXO.20.1-17; EXO.31.18), the foundational covenant between God and Israel. 'He gave to Moses, when he had finished speaking with him on Mount Sinai, the two tablets of the testimony, tablets of stone, written with the finger of God' (EXO.31.18). The Law reveals God's moral character and defines the covenant relationship. Paul teaches that the Law served as a tutor leading to Christ (GAL.3.24), and Jesus declared he came not to abolish but to fulfill the Law (MAT.5.17).",
+  "scripture_refs": [
+    {
+      "ref": "EXO.20.1-17",
+      "relevance": "primary",
+      "reason": "The Ten Commandments"
+    },
+    {
+      "ref": "EXO.31.18",
+      "relevance": "primary",
+      "reason": "The tablets written with the finger of God"
+    },
+    {
+      "ref": "MAT.5.17",
+      "relevance": "typological",
+      "reason": "Christ came to fulfill the Law"
+    },
+    {
+      "ref": "GAL.3.24",
+      "relevance": "typological",
+      "reason": "The Law as tutor leading to Christ"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "authoritative",
+    "solemn"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0011570",
+    "title": "Moses, the Tablets of the Law",
+    "artist": "Giovanni Battista Piranesi",
+    "model": "claude-opus-4-6"
+  }
+}

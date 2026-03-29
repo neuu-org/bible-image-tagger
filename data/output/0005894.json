@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ on the Mount of Olives at Night",
+  "tags": [
+    "mount-of-olives",
+    "gethsemane",
+    "night",
+    "darkness",
+    "solitary-christ",
+    "forest",
+    "agony",
+    "passion",
+    "vigil",
+    "moonlight"
+  ],
+  "symbols": [
+    "solitary figure in darkness — Christ alone in His hour of trial, abandoned by sleeping disciples",
+    "dark forest and gnarled trees — Gethsemane as a place of anguish and spiritual warfare",
+    "faint moonlight — the persistence of divine light even in the darkest hour",
+    "dark cloak enveloping Christ — the weight of the world's sin pressing upon Him"
+  ],
+  "description": "An almost entirely dark painting showing a solitary figure of Christ standing in a night-time forest on the Mount of Olives. He is barely visible, wrapped in a dark cloak, his bearded face emerging from the profound darkness with an expression of deep sorrow and exhaustion. Bare, twisted tree trunks and branches surround him in the background. Faint starlight or moonlight filters through the canopy above, providing the only illumination. The overall palette is extremely dark — nearly monochrome blacks and deep browns — creating an atmosphere of profound isolation and anguish.",
+  "theological_description": "Nikolai Ge's profoundly dark rendering of Christ on the Mount of Olives strips the Gethsemane narrative to its psychological essence. This is the moment Luke describes when Jesus 'withdrew from them about a stone's throw, and knelt down and prayed' (LUK.22.41), alone in an agony so intense that 'his sweat became like great drops of blood' (LUK.22.44). The near-total darkness is not merely atmospheric but theological: it represents the spiritual reality of the sin-bearing that is about to begin. Christ enters the darkness that is the consequence of human sin, taking upon Himself 'the iniquity of us all' (ISA.53.6). The isolation of the figure — no disciples visible, no angels yet sent to comfort — captures the moment of supreme dereliction that foreshadows the cry from the cross: 'My God, my God, why have you forsaken me?' (MAT.27.46). The Fathers understood Gethsemane as the reverse of Eden: in the first garden, humanity chose its own will over God's; in this garden, Christ chooses God's will over His own human shrinking from the cup of wrath.",
+  "scripture_refs": [
+    {"ref": "LUK.22.39-44", "relevance": "primary", "reason": "Jesus on the Mount of Olives in agony, praying with sweat like drops of blood"},
+    {"ref": "MAT.26.36-39", "relevance": "primary", "reason": "My soul is very sorrowful even to death; let this cup pass from me"},
+    {"ref": "ISA.53.6", "relevance": "typological", "reason": "The Lord has laid on him the iniquity of us all — the weight of darkness upon Christ"},
+    {"ref": "MRK.14.33-34", "relevance": "primary", "reason": "He began to be greatly distressed and troubled, saying My soul is very sorrowful"},
+    {"ref": "JHN.18.1", "relevance": "primary", "reason": "Jesus went out with his disciples across the brook Kidron to a garden"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["desolation", "anguish", "solitude", "darkness"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005894",
+    "title": "On the Mount of Olives",
+    "artist": "Nikolai Ge",
+    "model": "claude-opus-4-6"
+  }
+}

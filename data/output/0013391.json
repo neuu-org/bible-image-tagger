@@ -1,0 +1,81 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    },
+    {
+      "name": "Egyptian Army",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crossing of the Red Sea",
+  "tags": [
+    "crossing-red-sea",
+    "exodus",
+    "moses",
+    "israelites",
+    "parted-waters",
+    "egyptian-army",
+    "deliverance",
+    "drowning-soldiers",
+    "miracle",
+    "liberation",
+    "seabed",
+    "dramatic-crowd"
+  ],
+  "symbols": [
+    "parted sea — God’s sovereign power over creation to deliver his people",
+    "drowning Egyptians — divine judgment upon the oppressors",
+    "Israelites on dry ground — salvation through faith and obedience",
+    "Moses with raised arm — the mediator through whom God acts",
+    "vast crowd — the entire people of God passing through the waters of redemption"
+  ],
+  "description": "A large lunette fresco depicting a vast panoramic scene. On one side, a massive crowd of people moves across dry ground between walls of water. In the center, a robed figure with outstretched arm commands the scene. On the other side, soldiers and horses are being engulfed by crashing waves of the returning sea. The composition is dense with hundreds of figures in dynamic poses of flight, struggle, and triumph. Mountains and sky form the distant background. The scale is epic and the movement sweeping.",
+  "theological_description": "The Crossing of the Red Sea (Exodus 14) is the defining act of divine salvation in the Old Testament. God commands Moses to stretch out his hand over the sea, and the waters part, allowing the Israelites to cross on dry ground while the pursuing Egyptian army is destroyed by the returning waters. This event establishes the paradigm for all subsequent acts of divine deliverance in Scripture. Paul identifies the crossing as a type of baptism: ‘Our fathers were all under the cloud, and all passed through the sea, and all were baptized into Moses in the cloud and in the sea’ (1 Corinthians 10:1-2). The destruction of Pharaoh’s army prefigures the defeat of sin and death through Christ’s death and resurrection. The Song of Moses (Exodus 15:1-21) celebrates this victory and is echoed in the Song of the Lamb in Revelation 15:3. The event reveals God’s character as the liberator of the oppressed, the warrior who fights for his people, and the sovereign Lord over all creation.",
+  "scripture_refs": [
+    {
+      "ref": "EXO.14.21-31",
+      "relevance": "primary",
+      "reason": "The parting of the Red Sea, Israel’s crossing on dry ground, and the drowning of the Egyptian army"
+    },
+    {
+      "ref": "EXO.15.1-21",
+      "relevance": "primary",
+      "reason": "The Song of Moses celebrating God’s victory over Pharaoh’s army at the sea"
+    },
+    {
+      "ref": "1CO.10.1-2",
+      "relevance": "typological",
+      "reason": "Paul identifies the crossing as a type of baptism into Moses"
+    },
+    {
+      "ref": "REV.15.3",
+      "relevance": "typological",
+      "reason": "The Song of Moses and the Lamb, connecting Exodus deliverance to eschatological triumph"
+    },
+    {
+      "ref": "HEB.11.29",
+      "relevance": "allusion",
+      "reason": "By faith the people crossed the Red Sea as on dry land"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "epic",
+    "triumphant",
+    "chaotic",
+    "awe-inspiring"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0013391",
+    "title": "The Crossing of the Red Sea",
+    "artist": "Agnolo Bronzino",
+    "model": "claude-opus-4-6"
+  }
+}

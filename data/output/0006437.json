@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "John Wycliffe",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ecclesiastical Court",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd of onlookers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Trial of John Wycliffe",
+  "tags": [
+    "trial",
+    "wycliffe",
+    "church-history",
+    "ecclesiastical-court",
+    "heresy-trial",
+    "medieval-england",
+    "reformation-precursor",
+    "bishops",
+    "crowd-scene",
+    "religious-controversy"
+  ],
+  "symbols": [
+    "Wycliffe standing before the court — the solitary reformer confronting institutional authority",
+    "bishops in ceremonial vestments — the established Church wielding judicial power",
+    "crowded hall — the public nature of the controversy over Scripture and Church authority"
+  ],
+  "description": "A large, crowded composition depicting a formal trial scene in a medieval hall. The title 'THE TRIAL OF WYCLIF' is inscribed at the top. At the left, a figure stands at a raised pulpit or lectern. At the right, ecclesiastical figures in rich red and gold vestments sit in positions of authority. Between them, a vast crowd fills the hall — nobles, clergy, and common people in medieval dress. The scene is densely packed with figures and architectural details. The color palette includes rich reds, golds, browns, and greens.",
+  "theological_description": "John Wycliffe (c. 1320-1384), the 'Morning Star of the Reformation,' was tried for his teachings that challenged papal authority, transubstantiation, and the wealth of the clergy. Though not directly a biblical scene, Wycliffe's trial is deeply connected to the history of Scripture: he championed the translation of the Bible into English so that common people could read God's Word, anticipating the Reformation principle of sola scriptura. His insistence that Scripture, not papal decree, was the supreme authority in the Church echoes the principle articulated in 2 Timothy 3:16-17, that all Scripture is God-breathed and sufficient for teaching, reproof, correction, and training in righteousness. The scene also recalls the trials of the apostles before the Sanhedrin (Acts 4:5-22), where Peter and John declared they must obey God rather than men — a sentiment Wycliffe embodied in his defiance of ecclesiastical censure.",
+  "scripture_refs": [
+    {
+      "ref": "2TI.3.16-17",
+      "relevance": "typological",
+      "reason": "The sufficiency of Scripture that Wycliffe championed, insisting the Bible be accessible to all believers"
+    },
+    {
+      "ref": "ACT.4.18-20",
+      "relevance": "allusion",
+      "reason": "The apostles' declaration to obey God rather than men, paralleling Wycliffe's stance before the ecclesiastical court"
+    },
+    {
+      "ref": "ACT.5.29",
+      "relevance": "allusion",
+      "reason": "We must obey God rather than men — the principle of conscience before institutional authority"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tense",
+    "confrontational",
+    "dramatic",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0006437",
+    "title": "The Trial of Wycliffe A.D.",
+    "artist": "Ford Madox Brown",
+    "model": "claude-opus-4-6"
+  }
+}

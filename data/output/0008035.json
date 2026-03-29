@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Theotokos", "type": "PERSON"},
+    {"name": "Armies of Novgorod", "type": "GROUP"},
+    {"name": "Armies of Suzdal", "type": "GROUP"},
+    {"name": "Saints", "type": "GROUP"}
+  ],
+  "event": "Battle Between Novgorod and Suzdal — Miracle of the Icon of the Sign",
+  "tags": [
+    "battle-icon",
+    "novgorod",
+    "suzdal",
+    "miracle",
+    "theotokos-of-the-sign",
+    "cavalry",
+    "orthodox-icon",
+    "three-registers",
+    "divine-intervention"
+  ],
+  "symbols": [
+    "icon of the Theotokos displayed on the walls — divine protection invoked through the sacred image",
+    "arrows turning back on the attackers — God defending those who trust in the Theotokos",
+    "three registers — the narrative unfolding from diplomatic negotiation through battle to divine victory",
+    "saints and clergy in the upper register — the Church's intercessory role in the city's defense"
+  ],
+  "description": "A three-register Orthodox icon on a wooden panel. The upper register shows saints, clergy, and city walls with an icon being carried in procession. The middle register depicts two armies of horsemen — some on dark horses, some on white — riding toward each other with lances and weapons. The lower register shows the battle joined, with cavalry clashing amid a dense field of spears. The palette is muted earth tones with red, gold, and dark green. The icon is aged with visible wear and paint loss.",
+  "theological_description": "This narrative icon depicts the legendary Battle of Novgorod (1170) in which the city was miraculously saved from a Suzdalian siege through the intercession of the Theotokos of the Sign. When the icon was brought to the city walls and struck by an enemy arrow, the Theotokos reportedly wept and turned her face toward the city, and the attackers were struck with confusion and blindness. The three-register format narrates the events sequentially: negotiation, the procession of the icon, and the battle's miraculous outcome. This icon type expresses the Orthodox theology of divine protection mediated through sacred images — the icon is not an idol but a window to heaven through which grace flows. The narrative echoes biblical patterns of divine deliverance: God fighting for His people as at the Red Sea (Exodus 14) and before the walls of Jerusalem (2 Kings 19:35).",
+  "scripture_refs": [
+    {"ref": "2KI.19.35", "relevance": "typological", "reason": "The angel of the Lord striking the Assyrian army besieging Jerusalem — divine deliverance of a holy city"},
+    {"ref": "EXO.14.13-14", "relevance": "typological", "reason": "The Lord will fight for you, you need only be still — God defending His people against overwhelming odds"},
+    {"ref": "PSA.46.1-5", "relevance": "allusion", "reason": "God is our refuge and strength, the city of God shall not be moved — divine protection of the faithful city"},
+    {"ref": "2CH.20.15-17", "relevance": "allusion", "reason": "The battle is not yours but God's — the theology of divine intervention depicted in the icon"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["heroic", "sacred", "dramatic"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0008035",
+    "title": "Battle Between Novgorod and Suzdal in 1170 (Miracle of the icon Theotokos the Sign)",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

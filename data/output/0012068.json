@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Crucifixion",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "virgin-mary",
+    "saint-john",
+    "golgotha",
+    "skull",
+    "landscape",
+    "inri",
+    "loincloth",
+    "mourning"
+  ],
+  "symbols": [
+    "cross — the instrument of salvation, where Christ bore the sins of the world",
+    "skull at the base — Golgotha, the place of the skull, and Adam's burial site in tradition",
+    "Virgin Mary in grief — the Mother's sorrow, the sword piercing her soul (Luke 2:35)",
+    "Saint John seated — the beloved disciple to whom Christ entrusted His mother",
+    "INRI tablet — 'Jesus of Nazareth, King of the Jews,' the charge against Christ",
+    "expansive landscape — the cosmic significance of the crucifixion for all creation"
+  ],
+  "description": "A tall vertical panel showing Christ crucified on a wooden cross against a pale blue sky. His body is emaciated and pale, draped only in a white loincloth. A small placard at the top of the cross reads INRI. At the foot of the cross, a human skull rests on rocky ground. To the left, a woman in a blue mantle and white veil sits grieving with bowed head. To the right, a younger figure in a red robe sits with hands clasped. Behind them, a sweeping landscape with towns, a river, trees, and distant hills extends to the horizon under a serene sky.",
+  "theological_description": "Antonello da Messina's Crucifixion presents the central event of Christian salvation with stark clarity. Christ hangs on the cross at Golgotha — 'the place of a skull' (John 19:17) — fulfilling His own prophecy that 'the Son of Man must be lifted up' (John 3:14). The skull at the base represents both the name of the place and the ancient tradition that Adam was buried at Calvary, so that Christ's redemptive blood flows upon the first man's remains. Mary and John are the two witnesses specified by the Gospel: 'Standing by the cross of Jesus were his mother and the disciple whom he loved' (John 19:25-26). Jesus entrusted them to each other: 'Woman, behold your son... Behold your mother' (John 19:26-27). The serene, expansive landscape behind the terrible scene suggests that this death has cosmic significance — as Paul writes, 'through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross' (Col 1:20).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "He went out bearing his own cross to the place called Golgotha, where they crucified him"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and the beloved disciple standing at the cross, entrusted to each other"
+    },
+    {
+      "ref": "JHN.3.14",
+      "relevance": "typological",
+      "reason": "As Moses lifted up the serpent, so must the Son of Man be lifted up"
+    },
+    {
+      "ref": "COL.1.20",
+      "relevance": "allusion",
+      "reason": "Making peace by the blood of his cross, reconciling all things"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "allusion",
+      "reason": "A sword will pierce your own soul — Mary's grief at the cross"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "meditative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012068",
+    "title": "Crucificação",
+    "artist": "Antonello da Messina",
+    "model": "claude-opus-4-6"
+  }
+}

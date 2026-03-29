@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Bartholomew",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Anthony",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Virgin enthroned between Saint Bartholomew and Saint Anthony",
+  "tags": [
+    "madonna-enthroned",
+    "gold-background",
+    "saints",
+    "pointed-arch",
+    "banderole",
+    "angels",
+    "medieval"
+  ],
+  "symbols": [
+    "enthroned Virgin with Child — the Theotokos as Queen of Heaven holding the divine King",
+    "gold background — the divine glory and heavenly realm",
+    "saints flanking the throne — the communion of saints venerating Christ through His Mother",
+    "banderole with text — scriptural or liturgical text proclaiming identity or teaching",
+    "angels in the upper corners — the heavenly court attending the divine throne"
+  ],
+  "description": "A medieval altarpiece in a pointed arch format with a gold background. The Virgin Mary sits enthroned at center on an ornate seat, wearing a dark blue mantle over a red dress, holding the Christ Child who grasps a scroll or banderole. To the left stands a male saint in red with a book, likely Saint Bartholomew. To the right stands a bearded figure in a dark monastic habit, likely Saint Anthony. Two small angels appear in the upper corners. The gold ground is decorated with tooled patterns. The style is late medieval Italian with flat, hieratic figures and decorative gold detailing.",
+  "theological_description": "The sacra conversazione — the holy conversation between the enthroned Virgin, the Christ Child, and attendant saints — is a visual expression of the communion of saints. The Virgin is not worshipped but serves as the throne of Christ, the Sedes Sapientiae (Seat of Wisdom), through whom the Incarnation entered the world. Saint Bartholomew, traditionally martyred by flaying, represents the apostolic witness, while Saint Anthony represents the monastic tradition of withdrawal and spiritual combat. Together they stand for the active and contemplative dimensions of Christian life, both directed toward the center where Christ resides. The gold background is not decorative but theological — it represents the uncreated light of God's glory, the eternal 'now' in which the saints dwell beyond time. The Christ Child's scroll may contain a prophetic text, emphasizing His role as the Word made flesh.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.42-43",
+      "relevance": "primary",
+      "reason": "Blessed are you among women and blessed is the fruit of your womb — the Virgin enthroned with her Son"
+    },
+    {
+      "ref": "REV.7.9-10",
+      "relevance": "typological",
+      "reason": "The great multitude before the throne — the communion of saints attending the divine presence"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh — the Christ Child holding the scroll of the Word"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "allusion",
+      "reason": "The great cloud of witnesses surrounding us — the saints flanking the throne"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "hieratic",
+    "devotional",
+    "solemn",
+    "sacred"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0006210",
+    "title": "Virgin between St. Bartholomew and St. Anthony",
+    "artist": "Álvaro Pires de Évora",
+    "model": "claude-opus-4-6"
+  }
+}

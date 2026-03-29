@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Paul the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Athenian Philosophers",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Paul Preaching in Athens",
+  "tags": [
+    "preaching",
+    "paul-in-athens",
+    "areopagus",
+    "apostolic-mission",
+    "philosophy",
+    "gesturing-figures",
+    "red-chalk-drawing",
+    "classical-robes",
+    "evangelism"
+  ],
+  "symbols": [
+    "Paul's raised arms — the boldness of apostolic proclamation and appeal to divine truth",
+    "seated and standing listeners — the varied responses of the Athenians, some attentive, some skeptical",
+    "classical draped garments — the Greco-Roman philosophical world that Paul addresses with the Gospel",
+    "open gestures of the listeners — the dialogue between faith and reason at the heart of the Areopagus sermon"
+  ],
+  "description": "A red chalk preparatory drawing showing a group of robed figures. On the left, a central figure with his back partially turned raises both arms in an impassioned oratorical gesture, addressing several men who stand and sit around him. The listeners wear classical draped garments; some gesture back in response, while one sits at the lower left looking up attentively. The figures are rendered in loose, flowing lines with anatomical confidence, typical of a Renaissance study sketch.",
+  "theological_description": "This study depicts Paul's sermon on the Areopagus in Athens (ACT.17.22-34), one of the most significant moments of apostolic encounter with pagan philosophy. Paul, seeing the city full of idols, was provoked in spirit and began reasoning in the synagogue and the marketplace. Brought before the Areopagus, he declared the 'unknown god' whom the Athenians worshiped in ignorance to be the Creator of all things, 'in whom we live and move and have our being' (ACT.17.28). Paul's sermon represents the Church's first systematic engagement with Greek philosophical thought, appropriating the language of the Stoics and Epicureans to proclaim the resurrection of Jesus. The varied responses of the listeners — some mocking, some curious, some believing — prefigure the perennial reception of the Gospel in every age. Paul stands as the prototype of the Christian apologist, demonstrating that faith does not bypass reason but transcends and fulfills it (1CO.1.22-25).",
+  "scripture_refs": [
+    {
+      "ref": "ACT.17.22-34",
+      "relevance": "primary",
+      "reason": "Paul's Areopagus sermon in Athens, the direct subject of this study"
+    },
+    {
+      "ref": "ACT.17.16-21",
+      "relevance": "primary",
+      "reason": "Paul provoked by Athenian idolatry, reasoning with philosophers in the marketplace"
+    },
+    {
+      "ref": "1CO.1.22-25",
+      "relevance": "typological",
+      "reason": "Greeks seek wisdom, but Paul preaches Christ crucified — the foolishness of God wiser than men"
+    },
+    {
+      "ref": "ROM.1.19-20",
+      "relevance": "allusion",
+      "reason": "God's invisible attributes known through creation, the natural theology Paul appeals to in Athens"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "persuasive",
+    "intellectual",
+    "dynamic"
+  ],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0009080",
+    "title": "Study for St. Paul Preaching in Athens",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

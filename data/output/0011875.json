@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Coronation of the Virgin",
+  "tags": [
+    "coronation-of-the-virgin",
+    "virgin-mary",
+    "god-the-father",
+    "crown",
+    "angels",
+    "heavenly-throne",
+    "red-drapery",
+    "devotional"
+  ],
+  "symbols": [
+    "crown being placed on Mary's head — her exaltation as Queen of Heaven",
+    "God the Father enthroned — divine authority bestowing the honor",
+    "Mary kneeling — humility before divine majesty even in exaltation",
+    "attending angels — the heavenly court witnessing the coronation",
+    "red canopy — royal and heavenly majesty"
+  ],
+  "description": "A lunette-shaped composition showing a seated, bearded figure in a blue and gold robe placing a crown upon the head of a kneeling woman in a white veil and blue mantle. Two large angels with spread wings flank the scene on either side, holding back red drapery that forms a canopy above. The background is dark blue-green. The composition is symmetrical and formal, set within a semicircular frame.",
+  "theological_description": "The Coronation of the Virgin is a devotional subject rooted in the tradition that Mary, after her bodily Assumption into heaven, was crowned as Queen of Heaven by God. While not described in Scripture directly, the theology draws on several biblical passages. Revelation 12:1 describes 'a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars,' which the Church has long interpreted as Mary. The Psalms anticipate a queen at the right hand of the king: 'at your right hand stands the queen in gold of Ophir' (Ps 45:9). Mary's own Magnificat prophecy — 'all generations will call me blessed' (Luke 1:48) — is fulfilled in her heavenly glorification. The coronation reflects the theological principle that God exalts the humble: 'He has brought down the mighty from their thrones and exalted those of humble estate' (Luke 1:52). The angels serve as witnesses to this supreme honor bestowed upon the one who said 'let it be to me according to your word' (Luke 1:38).",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "primary",
+      "reason": "A woman with a crown of twelve stars — the biblical basis for Mary as Queen of Heaven"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "At your right hand stands the queen in gold — the royal bride at God's side"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — Mary's prophesied exaltation"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "allusion",
+      "reason": "He has exalted those of humble estate — Mary's elevation from handmaid to queen"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "majestic",
+    "solemn",
+    "glorious"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0011875",
+    "title": "The Coronation of the Virgin",
+    "artist": "Filippino Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

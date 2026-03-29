@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Assumption of the Virgin with saints below",
+  "tags": [
+    "assumption",
+    "virgin-mary",
+    "christ-child",
+    "angels",
+    "cherubim",
+    "heavenly-glory",
+    "clouds",
+    "saints",
+    "bodily-assumption"
+  ],
+  "symbols": [
+    "Mary enthroned on clouds — her bodily assumption into heavenly glory, Queen of Heaven",
+    "Christ Child on her lap — the Incarnation, the divine Son born of the Virgin",
+    "cherubim surrounding Mary — the heavenly court attending the Mother of God",
+    "saints below looking upward — the Church on earth gazing toward heavenly realities",
+    "landscape behind the saints — the earthly realm left behind as Mary ascends"
+  ],
+  "description": "The upper half shows the Virgin Mary seated on a bank of clouds, wearing a pink robe and blue mantle, with the infant Christ on her lap. Several cherubim and small angels surround her in the clouds. Below, on the earthly plane, four saints stand before a landscape with hills and buildings. On the left, an elderly bearded man holds a book (likely St. Peter or another apostle). In the center, a young armored figure with a staff and a young woman stand together. On the right, a brown-robed Franciscan friar clasps his hands.",
+  "theological_description": "The Assumption of the Virgin Mary is the belief that at the end of her earthly life, Mary was taken up body and soul into heavenly glory. While not explicitly narrated in Scripture, the doctrine is grounded in the logic of the Incarnation: the body that bore the Son of God was preserved from corruption. The scene connects to Revelation 12:1, where a woman clothed with the sun appears in heaven, which the Church has traditionally read as a figure of Mary glorified. The saints below represent the Church Militant gazing upward toward the Church Triumphant — the pilgrim faithful contemplating their own destiny, for Mary's assumption is understood as the firstfruits of the general resurrection promised to all believers (1 Cor 15:20-23). The presence of the Christ Child in Mary's arms even in her glorified state emphasizes the inseparable bond between Mother and Son, and that Mary's glory derives entirely from her role as Theotokos — the God-bearer. The composition echoes the structure of sacra conversazione, linking the communion of saints across the boundary between heaven and earth.",
+  "scripture_refs": [
+    {
+      "ref": "REV.12.1",
+      "relevance": "typological",
+      "reason": "The woman clothed with the sun, traditionally read as Mary assumed into heavenly glory"
+    },
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat — all generations will call me blessed — fulfilled in her heavenly glorification"
+    },
+    {
+      "ref": "1CO.15.20-23",
+      "relevance": "typological",
+      "reason": "Christ the firstfruits of resurrection, with Mary's assumption as anticipation of the general resurrection"
+    },
+    {
+      "ref": "PSA.45.9-14",
+      "relevance": "typological",
+      "reason": "The queen standing at the right hand in gold — the royal imagery applied to Mary as Queen of Heaven"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "Hail, full of grace — the angelic greeting that set in motion the mystery culminating in the Assumption"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "glorious",
+    "reverent",
+    "serene",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006461",
+    "title": "Assumption of the Virgin",
+    "artist": "Andrea del Sarto",
+    "model": "claude-opus-4-6"
+  }
+}

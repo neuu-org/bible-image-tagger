@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Anthony",
+      "type": "PERSON"
+    },
+    {
+      "name": "Francis of Assisi",
+      "type": "PERSON"
+    },
+    {
+      "name": "Franciscan friars",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The meeting of Saint Anthony and Saint Francis",
+  "tags": [
+    "saint-anthony",
+    "saint-francis",
+    "franciscan",
+    "meeting-of-saints",
+    "monastic-life",
+    "dark-interior",
+    "halo",
+    "religious-order",
+    "fraternal-greeting",
+    "church-history"
+  ],
+  "symbols": [
+    "halo around Anthony — sanctity and divine favor upon the desert father or Paduan saint",
+    "Franciscan brown habits — voluntary poverty and simplicity in imitation of Christ",
+    "dark interior with arched recesses — the enclosed monastic world of prayer and renunciation",
+    "outstretched hand of Francis — fraternal charity and the bond between saints"
+  ],
+  "description": "An arched composition set in a dark, cavernous interior. On the left, a figure with a glowing halo wears a robe and leans on a staff or sword, illuminated by soft light. In the center, several smaller figures in brown robes kneel. On the right, another robed figure extends a hand in greeting or blessing. The background shows rounded arched recesses in the dark stone walls. The floor has a checkered red and white pattern. The overall palette is very dark with warm highlights on the figures.",
+  "theological_description": "The meeting of Saint Anthony and Saint Francis represents the communion of saints and the bonds of fraternal love that unite those devoted to Christ. Though historical details of such a meeting are debated, the iconographic tradition celebrates the convergence of two great spiritual movements — Franciscan poverty and Antonian asceticism. Both saints embody the call to radical discipleship articulated by Christ: 'If anyone would come after me, let him deny himself and take up his cross and follow me' (Matt 16:24). The Franciscan habit of brown wool represents voluntary poverty, echoing Christ's words that foxes have holes and birds have nests, but the Son of Man has nowhere to lay his head (Matt 8:20). The encounter of two holy men in a sacred space recalls the visitation of Mary to Elizabeth (Luke 1:39-45), where two bearers of divine grace recognize each other and the Spirit leaps between them.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.24",
+      "relevance": "typological",
+      "reason": "The call to self-denial and cross-bearing that both saints embodied in their radical discipleship"
+    },
+    {
+      "ref": "MAT.8.20",
+      "relevance": "allusion",
+      "reason": "The homelessness of Christ that Franciscan poverty imitates"
+    },
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "allusion",
+      "reason": "The Visitation as paradigm for the meeting of two holy persons who recognize God's work in each other"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "intimate",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0006464",
+    "title": "The Meeting of Saint Anthony and Saint Francis (St.Anthony)",
+    "artist": "Frank Mason",
+    "model": "claude-opus-4-6"
+  }
+}

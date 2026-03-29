@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Crucifix with Angels",
+  "tags": [
+    "crucifix",
+    "angels",
+    "crucifixion",
+    "mourning-angels",
+    "cross"
+  ],
+  "symbols": [
+    "Christ on the cross — the atoning sacrifice",
+    "angels mourning — heaven weeping at the death of the Creator"
+  ],
+  "description": "A Baroque painting by Charles Le Brun showing Christ crucified with mourning angels attending the cross. The angels display grief and reverence. The composition is dramatic with strong contrasts of light and dark.",
+  "theological_description": "The angels mourning at the cross represent the cosmic impact of Christ's death — even the heavenly beings grieve at the death of their Creator. Christ 'humbled himself by becoming obedient to the point of death, even death on a cross' (PHP.2.8). The angels who sang at his birth (LUK.2.13-14) now mourn at his death, but their grief anticipates the joy of the Resurrection.",
+  "scripture_refs": [
+    {
+      "ref": "PHP.2.8",
+      "relevance": "primary",
+      "reason": "Christ humbled to death on a cross"
+    },
+    {
+      "ref": "MAT.27.45-50",
+      "relevance": "primary",
+      "reason": "The death of Christ on the cross"
+    },
+    {
+      "ref": "1PE.1.12",
+      "relevance": "allusion",
+      "reason": "Angels longing to look into the mystery of salvation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "sacred",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0191081",
+    "title": "Le Crucifix Aux Anges",
+    "artist": "Charles Le Brun",
+    "model": "claude-opus-4-6"
+  }
+}

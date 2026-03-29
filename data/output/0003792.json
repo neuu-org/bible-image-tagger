@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Madonna and Child",
+  "tags": [
+    "madonna-and-child",
+    "virgin-mary",
+    "infant-christ",
+    "halo",
+    "incarnation",
+    "theotokos",
+    "landscape-background"
+  ],
+  "symbols": [
+    "halo on the child — the divine nature of the incarnate Word",
+    "Mary's red and blue garments — humanity (red) embraced by divinity (blue)",
+    "child standing on Mary's lap — the active, living presence of God in human flesh",
+    "green curtain — the veil between the sacred and the profane",
+    "lake and mountains — the created world into which God has entered"
+  ],
+  "description": "The Virgin Mary sits holding the infant Jesus, who stands on her lap. She wears a red dress under a dark blue mantle and a white headcovering. The child is nude with a golden halo, his left hand reaching toward something outside the frame. A green curtain hangs behind them at the right, while the left side opens to a landscape view of a lake, distant mountains, and a building. Mary's expression is gentle and contemplative as she steadies the child with both hands.",
+  "theological_description": "The Madonna and Child by Cima da Conegliano presents the Incarnation with characteristic Venetian serenity. The standing child on Mary's lap suggests the active, sovereign nature of Christ even in infancy — not a passive babe but the Lord of creation who chose to enter it. The halo marks his divinity while his nudity affirms his full humanity. Mary's double role as mother and throne recalls the Sedes Sapientiae tradition: she is the Seat of Wisdom upon whom Wisdom itself rests. The landscape vista behind them — lake, mountains, buildings — affirms that the Incarnation is not an abstraction but an event within the created order: 'The Word became flesh and dwelt among us' (JHN.1.14). The green curtain, partially drawn, suggests the revelation of mystery — what was hidden is now disclosed in the birth of Christ.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh — the Incarnation depicted in the Madonna and Child"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "Mary giving birth to her firstborn son, the foundational event behind the image"
+    },
+    {
+      "ref": "GAL.4.4",
+      "relevance": "primary",
+      "reason": "God sent his Son, born of a woman — the Incarnation through Mary"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son called Emmanuel"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "tender",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003792",
+    "title": "Madonna and Child",
+    "artist": "Cima da Conegliano",
+    "model": "claude-opus-4-6"
+  }
+}

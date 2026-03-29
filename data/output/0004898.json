@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Man of Sorrows (Imago Pietatis)",
+  "tags": [
+    "imago-pietatis",
+    "man-of-sorrows",
+    "dead-christ",
+    "half-length",
+    "cross-behind",
+    "wounds",
+    "halo",
+    "gold-background",
+    "devotional",
+    "altarpiece-pinnacle"
+  ],
+  "symbols": [
+    "Christ rising from the tomb — the Man of Sorrows, dead yet standing, between death and resurrection",
+    "visible wound in side — the mark of the lance that pierced the Crucified",
+    "cross visible behind — the instrument of death now a sign of victory",
+    "gold roundel — divine glory surrounding the suffering Christ",
+    "half-length emerging from sarcophagus — the threshold between death and life"
+  ],
+  "description": "A small devotional painting in a triangular gold-leaf spandrel, likely from the pinnacle of an altarpiece. Within a dark blue circular roundel, Christ is depicted half-length, rising from a pink sarcophagus. His eyes are closed, his head slightly bowed, wearing a halo with a cross. His bare torso shows the wound in his side. The cross rises behind him. His hands rest on the edge of the sarcophagus, displaying the nail wounds. The gold-leaf triangular field surrounding the roundel is decorated with a delicate punched border pattern.",
+  "theological_description": "The Imago Pietatis (Image of Pity) is one of the most theologically condensed images in Christian art. It depicts Christ neither as simply dead on the cross nor fully risen — but in an impossible liminal state that transcends historical time. He stands upright yet bears the wounds; His eyes are closed in death yet He is displayed for veneration. This is the Eucharistic Christ — the one who is perpetually offered in the sacrifice of the Mass, always dying yet always alive. The image draws from Isaiah's Suffering Servant: 'He was despised and rejected by men, a man of sorrows and acquainted with grief' (ISA.53.3). The visible wound in the side recalls John's account of the soldier's lance: 'one of the soldiers pierced his side, and at once there came out blood and water' (JHN.19.34) — the blood and water understood sacramentally as Eucharist and Baptism. The gold-leaf setting affirms that this suffering figure is simultaneously the Lord of Glory.",
+  "scripture_refs": [
+    {"ref": "ISA.53.3-5", "relevance": "primary", "reason": "The Man of Sorrows, acquainted with grief, wounded for our transgressions"},
+    {"ref": "JHN.19.34", "relevance": "primary", "reason": "The pierced side from which blood and water flowed — the visible wound in the image"},
+    {"ref": "REV.5.6", "relevance": "typological", "reason": "The Lamb standing as though slain — alive yet bearing the marks of death"},
+    {"ref": "1CO.11.26", "relevance": "typological", "reason": "Proclaiming the Lord's death until He comes — the Eucharistic mystery the Imago Pietatis represents"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["sorrowful", "devotional", "sacred", "contemplative"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004898",
+    "title": "Imago pietatis",
+    "artist": "Francesco Botticini",
+    "model": "claude-opus-4-6"
+  }
+}

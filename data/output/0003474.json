@@ -1,0 +1,35 @@
+{
+  "characters": [
+    {"name": "Demon", "type": "OTHER"}
+  ],
+  "event": "Head of Demon",
+  "tags": [
+    "demon",
+    "dark-face",
+    "mountains",
+    "supernatural",
+    "evil-presence",
+    "fallen-spirit"
+  ],
+  "symbols": [
+    "shadowed demonic face — the darkness of fallen spiritual powers",
+    "mountainous background — the high places associated with temptation and spiritual warfare"
+  ],
+  "description": "A close-up of a dark, brooding face emerges from a heavily textured surface. The face has gaunt features, deep-set eyes, and an expression of malevolence or anguish. The skin appears grayish-blue with dark shadows. Behind the figure, vague mountainous forms and a murky landscape are barely visible in tones of brown, purple, and green. The overall texture is rough and granular, giving the image a disturbing, otherworldly quality.",
+  "theological_description": "The demonic face emerging from darkness and mountains evokes the biblical tradition of spiritual warfare. Satan is described as a being of fallen beauty (EZK.28.12-17) who now prowls as a roaring lion (1PE.5.8). The mountainous setting recalls Christ's temptation in the wilderness, where the devil took him to a high mountain and offered the kingdoms of the world (MAT.4.8-9). The anguished expression may reflect the torment of the fallen angels who 'did not keep their own position but left their proper dwelling' (JDE.1.6). The darkness of the figure embodies Paul's warning that 'our struggle is not against flesh and blood, but against the rulers, against the authorities, against the cosmic powers of this present darkness' (EPH.6.12).",
+  "scripture_refs": [
+    {"ref": "MAT.4.8-9", "relevance": "allusion", "reason": "The devil on the mountain tempting Christ — the mountainous setting and demonic presence"},
+    {"ref": "EPH.6.12", "relevance": "allusion", "reason": "Spiritual warfare against cosmic powers of darkness, embodied in the demonic figure"},
+    {"ref": "1PE.5.8", "relevance": "allusion", "reason": "The devil prowling like a roaring lion — the menacing presence depicted"},
+    {"ref": "EZK.28.12-17", "relevance": "typological", "reason": "The fall of the covering cherub, the origin of the demonic being shown"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["menacing", "anguished", "dark"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003474",
+    "title": "Head of Demon with mountains",
+    "artist": "Mikhail Vrubel",
+    "model": "claude-opus-4-6"
+  }
+}

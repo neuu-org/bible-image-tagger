@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "name": "Samaritan Woman",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Jesus and the Samaritan Woman — stained glass detail of the woman",
+  "tags": [
+    "samaritan-woman",
+    "prayer",
+    "turban",
+    "church-window",
+    "raised-hand",
+    "stone-wall"
+  ],
+  "symbols": [
+    "Raised hand in gesture — recognition, wonder, or prayer upon encountering Christ",
+    "Turban and Eastern garments — the Samaritan identity of the woman",
+    "Stone wall setting — the well of Jacob where the encounter took place"
+  ],
+  "description": "A stained glass window detail shows an elderly bearded figure wearing a blue and red turban, raising one hand in a gesture of surprise or reverence. The figure wears a brown garment. The background shows a stone wall rendered in leaded glass with gray and white tones. The lead lines of the stained glass construction are clearly visible, creating the characteristic segmented look of medieval church windows.",
+  "theological_description": "This detail from a stained glass depiction of Jesus and the Samaritan woman likely shows a figure in the scene at Jacob's well (JHN.4.1-42). The gesture of the raised hand may capture the moment of recognition — when the woman perceives that Jesus is more than an ordinary traveler. The encounter at the well is one of the most profound dialogues in the Gospels, where Jesus reveals that He offers 'living water' that becomes 'a spring of water welling up to eternal life' (JHN.4.14). The placement of this scene in a church window reflects the liturgical function of stained glass: to teach the faithful through visual narrative, allowing the light of the sun to illuminate the Word of God.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.4.7-15",
+      "relevance": "primary",
+      "reason": "The encounter between Jesus and the Samaritan woman at the well"
+    },
+    {
+      "ref": "JHN.4.25-26",
+      "relevance": "primary",
+      "reason": "The woman recognizes Jesus as the Messiah — the moment of wonder the gesture may capture"
+    },
+    {
+      "ref": "JHN.4.29",
+      "relevance": "allusion",
+      "reason": "Come see a man who told me everything I ever did — the woman as evangelist"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "wondrous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002139",
+    "title": "Jesus and the Samaritan woman. Eglise Saint-Sulpice de Fougeres (detail)",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

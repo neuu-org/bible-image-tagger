@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "Angel", "type": "ANGEL"},
+    {"name": "Virgin Mary", "type": "PERSON"}
+  ],
+  "event": "The Dream of Saint Joseph",
+  "tags": [
+    "dream-of-joseph",
+    "angel-visitation",
+    "sleeping-joseph",
+    "annunciation-to-joseph",
+    "virgin-mary",
+    "divine-message",
+    "carpenter-tools",
+    "halo"
+  ],
+  "symbols": [
+    "sleeping Joseph — the receptivity of the just man to God's revelation through dreams",
+    "descending angel pointing — the divine messenger directing Joseph's action",
+    "carpenter's tools — Joseph's humble trade, the setting where God's word reaches him",
+    "Mary in blue standing apart — the mystery of the virginal conception that Joseph must accept on faith",
+    "contrast of light and dark — divine illumination breaking into human uncertainty"
+  ],
+  "description": "A dramatic nocturnal interior scene. A young bearded man in a white shirt and golden-yellow mantle sleeps slumped in a chair at left, his head resting on his arm. Above him, a luminous angel in white and blue robes swoops down from the upper left, one arm extended and finger pointing toward the sleeper. At the right, a woman in a deep blue mantle and veil stands with her hand on her chest, gazing downward. Carpenter's tools and books are visible on the floor. The lighting creates a strong contrast between the bright celestial figure and the dark room.",
+  "theological_description": "The Dream of Saint Joseph (Matthew 1:20-24) is a pivotal moment in salvation history. Joseph, discovering Mary's pregnancy, planned to divorce her quietly — an act of both justice and mercy. But God intervened through an angel in a dream, revealing the divine origin of the child and commanding Joseph to take Mary as his wife. Joseph's obedience without a word of protest mirrors Abraham's silent obedience and prefigures Christ's own submission to the Father's will. The dream as a vehicle of divine revelation connects Joseph to the patriarchal tradition — Jacob, Joseph the patriarch, and Daniel all received God's word through dreams. Joseph's acceptance of the angel's message required extraordinary faith: he had to believe the impossible and stake his reputation on it. The Church Fathers saw in Joseph the model of the contemplative who receives God's word in silence and acts upon it without delay (Matthew 1:24).",
+  "scripture_refs": [
+    {"ref": "MAT.1.20-24", "relevance": "primary", "reason": "The angel appearing to Joseph in a dream, commanding him to take Mary as his wife — the exact scene depicted"},
+    {"ref": "MAT.2.13", "relevance": "allusion", "reason": "A second dream of Joseph, where the angel warns him to flee to Egypt — establishing the pattern of divine guidance through dreams"},
+    {"ref": "ISA.7.14", "relevance": "typological", "reason": "The virgin shall conceive and bear a son — the prophecy Joseph is called to believe and protect"},
+    {"ref": "GEN.37.5-9", "relevance": "typological", "reason": "Joseph the patriarch as dreamer — the Old Testament type for this New Testament Joseph"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["mysterious", "reverent", "dramatic"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007416",
+    "title": "The Dream of Saint Joseph",
+    "artist": "Philippe de Champaigne",
+    "model": "claude-opus-4-6"
+  }
+}

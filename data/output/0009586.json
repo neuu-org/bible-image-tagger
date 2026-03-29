@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Zipporah",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Moses's Journey into Egypt",
+  "tags": [
+    "moses",
+    "journey-to-egypt",
+    "exodus",
+    "israelites",
+    "landscape",
+    "travelers",
+    "large-crowd",
+    "divine-mission"
+  ],
+  "symbols": [
+    "Moses leading the people — the prophet chosen by God to deliver Israel from bondage",
+    "large crowd following — the people of God on pilgrimage toward their destiny",
+    "varied landscape with trees — the journey through wilderness toward the Promised Land",
+    "children and families — the entire household of Israel participating in God's redemptive plan"
+  ],
+  "description": "A wide Renaissance fresco or panel showing a vast landscape populated with numerous figures traveling in groups. The composition shows a large procession of men, women, and children moving through a varied terrain with trees, hills, and distant mountains. The figures wear classical or biblical-era garments in varied colors. Some carry bundles and possessions. The scene is populated with dozens of individual figures across the entire width of the composition. The palette is soft with greens, blues, earth tones, and the atmospheric perspective characteristic of Perugino's work.",
+  "theological_description": "This scene from the Sistine Chapel cycle depicts Moses's journey to Egypt as commanded by God at the burning bush: 'Go back to Egypt, for all the men who were seeking your life are dead' (EXO.4.19). Moses, having encountered God at Horeb and received his commission to deliver Israel, travels with his wife Zipporah and sons toward Egypt. The journey marks the transition from Moses the fugitive shepherd to Moses the deliverer — the instrument through whom God would fulfill the promise made to Abraham: 'I will bring you up out of the affliction of Egypt to the land flowing with milk and honey' (EXO.3.17). The large crowd in Perugino's depiction anticipates the Exodus itself, when 'about six hundred thousand men on foot, besides women and children' departed Egypt (EXO.12.37). Typologically, Moses's journey prefigures the Holy Family's flight into Egypt (MAT.2.13-15) and Christ's own exodus accomplished at Jerusalem (LUK.9.31). The people's movement across the landscape embodies the biblical theme of pilgrimage: the people of God are always en route, 'strangers and exiles on the earth' seeking 'a better country, that is, a heavenly one' (HEB.11.13-16).",
+  "scripture_refs": [
+    {
+      "ref": "EXO.4.19-20",
+      "relevance": "primary",
+      "reason": "God's command to Moses to return to Egypt, the direct subject of this scene"
+    },
+    {
+      "ref": "EXO.3.7-10",
+      "relevance": "primary",
+      "reason": "God's call to Moses at the burning bush to deliver Israel from Egypt"
+    },
+    {
+      "ref": "EXO.3.17",
+      "relevance": "primary",
+      "reason": "God's promise to bring Israel out of affliction to the Promised Land"
+    },
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "typological",
+      "reason": "The Holy Family's journey to Egypt, echoing Moses's journey in reverse"
+    },
+    {
+      "ref": "HEB.11.13-16",
+      "relevance": "allusion",
+      "reason": "The people of God as strangers and pilgrims seeking a heavenly homeland"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "purposeful",
+    "vast",
+    "solemn"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0009586",
+    "title": "Moses's Journey into Egypt",
+    "artist": "Pietro Perugino",
+    "model": "claude-opus-4-6"
+  }
+}

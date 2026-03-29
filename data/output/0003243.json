@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joachim",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anne",
+      "type": "PERSON"
+    },
+    {
+      "name": "Priests and Temple Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Scenes from the Life of the Virgin",
+  "tags": [
+    "life-of-the-virgin",
+    "nativity-of-mary",
+    "presentation-of-mary",
+    "marriage-of-the-virgin",
+    "temple-steps",
+    "annunciation-to-joachim",
+    "marian-cycle"
+  ],
+  "symbols": [
+    "temple staircase — Mary's ascent in holiness, the Presentation of the Virgin",
+    "multiple narrative panels — the unfolding of salvation history through Mary's life",
+    "architectural interiors — the sacred spaces where God's plan is revealed",
+    "gathering of figures at marriage scene — the communal witness to God's providential ordering"
+  ],
+  "description": "A multi-panel fresco divided into four scenes arranged in two registers. Upper left: a birth scene with a woman reclining in bed while attendants care for a newborn. Upper right: a scene with figures before a richly dressed elder, possibly a presentation or blessing. Lower left: a young girl ascends a grand staircase inside a Gothic temple while figures watch from below. Lower right: a gathering of men and women in an architectural setting, possibly a betrothal or marriage ceremony. The frescoes are framed with decorative borders and set within a chapel wall.",
+  "theological_description": "This cycle depicts episodes from the apocryphal Protoevangelium of James and Church tradition concerning the early life of the Virgin Mary. The Birth of Mary to Joachim and Anne, though not in canonical Scripture, was understood by the Fathers as the beginning of the fulfillment of the promise to crush the serpent's head (GEN.3.15). The Presentation of Mary in the Temple — the young girl ascending the steps — symbolizes her total consecration to God, prefiguring her later fiat at the Annunciation (LUK.1.38). The Marriage of the Virgin to Joseph fulfills the Davidic lineage requirement for the Messiah (MAT.1.1-16). Though these scenes draw on tradition rather than canonical text, they serve the theological purpose of showing how God prepared the vessel through whom the Incarnation would occur. Mary's life is read as the culmination of Israel's hope — the faithful daughter of Zion (ZEP.3.14-17) in whom God would dwell.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.38",
+      "relevance": "typological",
+      "reason": "Mary's fiat, toward which her entire early life — shown in these scenes — is directed"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The protoevangelium: the woman whose offspring will crush the serpent, fulfilled in Mary's role"
+    },
+    {
+      "ref": "MAT.1.1-16",
+      "relevance": "primary",
+      "reason": "The genealogy establishing David's line through Joseph to Christ, the marriage scene's significance"
+    },
+    {
+      "ref": "ZEP.3.14-17",
+      "relevance": "allusion",
+      "reason": "Daughter of Zion, rejoice — Mary as the faithful remnant in whom God dwells"
+    },
+    {
+      "ref": "PSA.45.13-15",
+      "relevance": "allusion",
+      "reason": "The royal bride brought to the king in splendor, applied to Mary's life and consecration"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "celebratory",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003243",
+    "title": "Cappella Rinuccini",
+    "artist": "Giovanni da Milano",
+    "model": "claude-opus-4-6"
+  }
+}

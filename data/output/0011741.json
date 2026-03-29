@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Young Woman",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Life of Christ — A Scene from the Passion",
+  "tags": [
+    "passion-of-christ",
+    "crowd",
+    "rope",
+    "soldiers",
+    "elder",
+    "spear",
+    "turban",
+    "church-window"
+  ],
+  "symbols": [
+    "rope around figure — Christ bound as prisoner, the Suffering Servant led to slaughter",
+    "spear or lance — the instruments of the Passion and Roman military authority",
+    "crowd pressing close — the hostile mob that condemned Jesus",
+    "young woman with sorrowful expression — possibly the Virgin Mary or a follower witnessing the Passion",
+    "elder in white head-covering — the religious authorities involved in Christ's trial"
+  ],
+  "description": "A detail from a stained-glass window showing several figures in close composition. At center, a bearded man with a rope coiled around his shoulder faces upward, wearing a blue and red tunic. To his left, an elderly figure in a white head-covering and blue robe looks on. Behind them, another bearded elder in a dark blue cap with a feathered ornament holds what appears to be a spear. To the far right, a young figure with a green veil and solemn expression gazes toward the viewer. The colors are vivid — deep reds, blues, greens, and yellows — in the characteristic style of medieval stained glass.",
+  "theological_description": "This stained-glass detail from the Church of Saint-Sulpice de Fougeres depicts a scene from the Passion of Christ. The bound figure with the rope evokes Isaiah's prophecy of the Suffering Servant: 'He was oppressed and afflicted, yet he did not open his mouth; he was led like a lamb to the slaughter' (Isa 53:7). The presence of elders and officials recalls the Sanhedrin trial where the chief priests and scribes condemned Jesus (Mark 14:53-65). The spear-bearing figure represents the Roman soldiers who participated in the arrest and crucifixion. The young woman's sorrowful gaze may represent the faithful who followed Christ to Calvary, including the women mentioned in Luke 23:27 who wept for Him. The stained-glass medium in a church context transforms the viewer into a participant in the Passion narrative, calling them to contemplate Christ's suffering for humanity's redemption.",
+  "scripture_refs": [
+    {
+      "ref": "ISA.53.7",
+      "relevance": "primary",
+      "reason": "He was led like a lamb to the slaughter — the bound Christ being led away"
+    },
+    {
+      "ref": "MRK.14.53-65",
+      "relevance": "primary",
+      "reason": "Christ brought before the chief priests and elders at His trial"
+    },
+    {
+      "ref": "LUK.23.27",
+      "relevance": "allusion",
+      "reason": "Women followed Christ weeping — the sorrowful young woman at right"
+    },
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "allusion",
+      "reason": "Roman soldiers mocking and leading Christ to crucifixion"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "somber",
+    "mournful",
+    "tense"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011741",
+    "title": "Life of Christ. Eglise Saint-Sulpice de Fougères (detail)",
+    "artist": "Ludovic Alleaume",
+    "model": "claude-opus-4-6"
+  }
+}

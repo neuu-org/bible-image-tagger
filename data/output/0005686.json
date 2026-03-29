@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Matthew (Levi)", "type": "PERSON"},
+    {"name": "Tax Collectors and Associates", "type": "GROUP"},
+    {"name": "Onlookers", "type": "GROUP"}
+  ],
+  "event": "Jesus Summons Matthew from the Tax Office",
+  "tags": [
+    "calling-of-matthew",
+    "tax-collector",
+    "conversion",
+    "coins",
+    "counting-money",
+    "summons",
+    "discipleship",
+    "gesture-of-calling",
+    "surprised-onlookers"
+  ],
+  "symbols": [
+    "coins and money on the table — the wealth and occupation Matthew abandons to follow Christ",
+    "Christ's beckoning gesture at right — the irresistible call of divine grace",
+    "woman or figure at the counting table — the worldly life Matthew is called to leave behind",
+    "figures looking in different directions — the divided response to Christ's call"
+  ],
+  "description": "A group of six or seven figures gathered around a table or counting area. At center, a young woman or androgynous figure sits with coins and accounting materials. A man in a red turban and richly colored robes leans close at left. At right, a bearded figure in darker robes points or gestures outward, directing attention away from the group. Behind them, elderly figures observe with varied expressions of surprise and concern. In the far background at upper right, a distant landscape with small figures is visible. The scene is richly colored with reds, greens, and golds.",
+  "theological_description": "The Calling of Matthew depicts the moment recorded in Matthew 9:9 when Jesus saw a man called Matthew sitting at the tax booth and said, 'Follow me.' And he rose and followed him. The tax office represents everything Matthew must abandon: wealth, social position, and the collaboration with Roman occupation that made tax collectors despised in Israel. Jesus' call cuts through all this with sovereign grace — He does not wait for Matthew to reform but calls him in the midst of his sin. This scene embodies the scandal of grace that pervades Jesus' ministry: He eats with sinners and tax collectors (MAT.9.10-11), provoking the Pharisees' complaint. Jesus' response defines His mission: 'I came not to call the righteous, but sinners' (MAT.9.13). Matthew's immediate response — rising and following — becomes paradigmatic of true discipleship: the total abandonment of the former life for the sake of Christ.",
+  "scripture_refs": [
+    {"ref": "MAT.9.9", "relevance": "primary", "reason": "Jesus saw Matthew at the tax booth and said Follow me, and he rose and followed"},
+    {"ref": "MRK.2.14", "relevance": "primary", "reason": "He saw Levi son of Alphaeus sitting at the tax booth and said Follow me"},
+    {"ref": "MAT.9.10-13", "relevance": "primary", "reason": "Jesus dining with tax collectors and sinners; I came not to call the righteous but sinners"},
+    {"ref": "LUK.5.27-28", "relevance": "primary", "reason": "Levi left everything and rose and followed him"},
+    {"ref": "HOS.6.6", "relevance": "typological", "reason": "I desire mercy and not sacrifice — quoted by Jesus in defense of eating with sinners"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dramatic", "confrontational", "transformative"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005686",
+    "title": "Jesus Summons Matthew to Leave the Tax Office",
+    "artist": "Jan van Hemessen",
+    "model": "claude-opus-4-6"
+  }
+}

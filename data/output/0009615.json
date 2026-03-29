@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Women",
+      "type": "GROUP"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Diptych with the Deposition from the Cross",
+  "tags": [
+    "deposition",
+    "descent-from-cross",
+    "mourning",
+    "passion",
+    "holy-women",
+    "burial-preparation",
+    "grief",
+    "lamentation"
+  ],
+  "symbols": [
+    "Christ's body being lowered — the completion of the sacrifice, the Lamb taken from the altar of the cross",
+    "cross visible behind — the instrument of death now emptied of its victim",
+    "mourning women on the right panel — the faithful who accompanied Christ to the end",
+    "Virgin Mary with raised hands in grief — the Mater Dolorosa, the sword piercing her soul",
+    "men handling the body — Joseph of Arimathea and Nicodemus fulfilling their devotion"
+  ],
+  "description": "A two-panel diptych. The left panel shows men carefully lowering the dead body of Christ from the cross. Christ's pale, limp body is supported by several figures, including a man on a ladder behind the cross. A bald or tonsured figure supports the torso. In the right panel, a group of grieving women and men react with intense emotion — one woman raises both hands in anguish, others weep and gesture. The figures wear richly colored garments in blues, reds, whites, and greens. The background shows distant landscapes. The style is characteristic of Flemish panel painting with meticulous detail.",
+  "theological_description": "The Deposition diptych separates the physical act of removing Christ's body (left) from the emotional response of the mourners (right), creating a meditation on both the historical event and its human impact. The Deposition fulfills the prophecy of Isaiah: 'He was cut off out of the land of the living, stricken for the transgression of my people' (ISA.53.8). Joseph of Arimathea, 'a respected member of the council, who was also himself looking for the kingdom of God' (MRK.15.43), took courage to ask Pilate for the body. Nicodemus, who had first come to Jesus by night (JHN.3.1-2), now comes into the open, bringing myrrh and aloes for burial (JHN.19.39). The mourning women on the right embody the grief foretold by Jesus on the Via Dolorosa: 'Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children' (LUK.23.28). The diptych format invites the viewer to move between contemplation of Christ's sacrifice and identification with the mourners' grief.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.42-47",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea requesting the body and laying it in the tomb"
+    },
+    {
+      "ref": "JHN.19.38-42",
+      "relevance": "primary",
+      "reason": "Joseph and Nicodemus preparing Christ's body for burial"
+    },
+    {
+      "ref": "ISA.53.8-9",
+      "relevance": "typological",
+      "reason": "Cut off from the land of the living, his grave with the rich"
+    },
+    {
+      "ref": "LUK.23.28",
+      "relevance": "allusion",
+      "reason": "Daughters of Jerusalem weeping, reflected in the mourning women"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "The sword piercing Mary's soul, fulfilled in her grief at the Deposition"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "tender",
+    "grief-stricken"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009615",
+    "title": "Diptych with the Deposition",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

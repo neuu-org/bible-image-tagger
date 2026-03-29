@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Rest on the Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "rest",
+    "holy-family",
+    "infant-christ",
+    "nursing-madonna",
+    "forest-setting",
+    "mountain-landscape",
+    "refuge",
+    "exile"
+  ],
+  "symbols": [
+    "nursing mother with child — the tender vulnerability of the Incarnation, God as a helpless infant dependent on human care",
+    "Joseph resting beneath a tree — the guardian of the Holy Family weary from the flight",
+    "wild forest landscape — the wilderness exile fleeing Herod's persecution",
+    "fruit or bread on the ground — divine providence sustaining the Holy Family in the wilderness",
+    "mountain landscape beyond — the journey from Judea toward Egypt"
+  ],
+  "description": "The Virgin Mary, in a bright red dress, sits beneath a large gnarled tree in a verdant forest setting, nursing or holding the infant Jesus at her breast. The child reaches toward her face. To the left, an elderly bearded man identified as Joseph reclines in a red cloak, resting against the tree trunk. A piece of fruit or bread sits on the ground before Mary. Behind the figures, a mountainous landscape with blue peaks and green valleys extends into the distance. Dense foliage and twisted branches frame the scene from above.",
+  "theological_description": "The Rest on the Flight into Egypt depicts the Holy Family's pause during their flight from Herod's massacre of the innocents (MAT.2.13-15). The angel had warned Joseph in a dream to take the child and his mother and flee to Egypt. This exile fulfills Hosea's prophecy, 'Out of Egypt I called my son' (HOS.11.1), creating a typological parallel with Israel's own sojourn in and exodus from Egypt. The nursing Madonna reveals the full reality of the Incarnation: the eternal Word made flesh, dependent on a mother's milk, fleeing from a murderous king. The wilderness setting recalls Israel's own wilderness wanderings, while the provision of food on the ground echoes the manna that sustained Israel in the desert (EXO.16.4). Joseph's watchful rest embodies the role of the just guardian entrusted with protecting the mystery of God-with-us.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The angel warns Joseph to flee to Egypt with the child and his mother to escape Herod"
+    },
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "primary",
+      "reason": "Herod's massacre of the innocents, the reason for the flight"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son — the prophecy fulfilled by Christ's sojourn in Egypt"
+    },
+    {
+      "ref": "EXO.16.4",
+      "relevance": "allusion",
+      "reason": "God's provision of bread in the wilderness, echoed by the food before the Holy Family"
+    },
+    {
+      "ref": "ISA.49.15",
+      "relevance": "allusion",
+      "reason": "Can a mother forget her nursing child — the intimate image of divine and maternal care"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "peaceful",
+    "refuge"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005313",
+    "title": "Rest on the Flight to Egypt",
+    "artist": "Hans Baldung",
+    "model": "claude-opus-4-6"
+  }
+}

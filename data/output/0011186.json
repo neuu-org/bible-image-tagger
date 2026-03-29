@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit (Dove)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Annunciation of the Holy Virgin Mary",
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "holy-spirit",
+    "museum-display",
+    "statues",
+    "incarnation"
+  ],
+  "symbols": [
+    "angel approaching Mary — the divine message of the Incarnation",
+    "dove descending — the Holy Spirit overshadowing Mary",
+    "Mary's receptive posture — the fiat accepting God's will",
+    "flanking angel statues — the heavenly court witnessing the Annunciation"
+  ],
+  "description": "A museum display showing a large arched altarpiece painting of the Annunciation flanked by two white marble angel statues. The central painting depicts the Angel Gabriel approaching the Virgin Mary in a dark interior, with the Holy Spirit as a dove descending from above in golden light. The angel reaches toward Mary who stands in a receptive posture. The painting is rendered in dark Baroque tones with dramatic lighting. The marble angels on pedestals to either side gesture upward. Another painting is partially visible at left. The whole is displayed against a red wall.",
+  "theological_description": "The Annunciation (LUK.1.26-38) is the moment when heaven invades earth and the Word begins to take flesh. Gabriel's mission to Mary in Nazareth fulfills the long chain of divine promises reaching back to Eden: 'I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head' (GEN.3.15). The angel's greeting — 'Hail, full of grace, the Lord is with you' (LUK.1.28) — signals that Mary is the chosen vessel through whom God's redemptive plan enters its decisive phase. Mary's question 'How will this be?' (LUK.1.34) and the angel's explanation that 'the Holy Spirit will come upon you' (LUK.1.35) reveal the Trinitarian nature of the Incarnation. Her fiat — 'let it be to me according to your word' (LUK.1.38) — is the human consent that allows the divine plan to proceed, a free act of faith that the Church Fathers contrasted with Eve's consent to the serpent.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation narrative"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you, the dove descending"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive, fulfilled at the Annunciation"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The protoevangelium, the first promise of salvation through the woman's offspring"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "dramatic",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011186",
+    "title": "Annuciation of Holy Virgin Mary",
+    "artist": "Karel Skreta",
+    "model": "claude-opus-4-6"
+  }
+}

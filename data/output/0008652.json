@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Aaron",
+      "type": "PERSON"
+    },
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Fire of Atonement — divine fire consuming the offering",
+  "tags": [
+    "atonement",
+    "fire-from-heaven",
+    "sacrifice",
+    "levitical-priesthood",
+    "israelites",
+    "divine-judgment",
+    "prostrate-figures",
+    "altar-fire",
+    "wilderness",
+    "tabernacle"
+  ],
+  "symbols": [
+    "fire consuming the offering — divine acceptance of the atoning sacrifice",
+    "prostrate Israelites — awe and terror before the manifest holiness of God",
+    "priestly figure with censer — the mediatorial role of the priest between God and the people",
+    "wilderness setting — the period of testing and formation between Egypt and the Promised Land"
+  ],
+  "description": "A black-and-white illustration showing a dramatic scene in the wilderness. At center, a bearded figure in priestly garments holds up a censer or sacred object from which smoke or fire rises. Around him, dozens of Israelites lie prostrate on the ground, some in postures of agony or terror. Standing figures in robes and turbans observe from the edges. The scene conveys overwhelming divine power and human frailty. The style is detailed and narrative, typical of biblical illustration.",
+  "theological_description": "This scene depicts the moment when divine fire descended upon the sacrificial offering, demonstrating God's acceptance of the atoning sacrifice while simultaneously revealing His terrifying holiness. The incident likely corresponds to Leviticus 9:24, when 'fire came out from before the LORD and consumed the burnt offering,' causing the people to shout and fall on their faces. Alternatively, it may depict the judgment of Nadab and Abihu (Lev 10:1-2) or the plague stopped by Aaron's atonement with the censer (Num 16:46-48). In any case, the scene dramatizes the central biblical tension: God's holiness demands sacrifice for sin, yet the same holiness can consume those who approach unworthily. The author of Hebrews declares, 'Our God is a consuming fire' (Heb 12:29). The prostrate figures embody the proper human response to divine majesty — the recognition that 'it is a fearful thing to fall into the hands of the living God' (Heb 10:31). Yet the atonement itself is God's provision, making it possible for sinful humanity to approach the Holy One.",
+  "scripture_refs": [
+    {
+      "ref": "LEV.9.23-24",
+      "relevance": "primary",
+      "reason": "Fire came out from the LORD and consumed the offering — the people fell on their faces"
+    },
+    {
+      "ref": "NUM.16.46-48",
+      "relevance": "primary",
+      "reason": "Aaron making atonement with the censer to stop the plague among the people"
+    },
+    {
+      "ref": "HEB.12.29",
+      "relevance": "typological",
+      "reason": "Our God is a consuming fire — the terrifying holiness displayed in this scene"
+    },
+    {
+      "ref": "HEB.10.31",
+      "relevance": "allusion",
+      "reason": "A fearful thing to fall into the hands of the living God — the prostrate Israelites embodying this truth"
+    },
+    {
+      "ref": "LEV.10.1-2",
+      "relevance": "allusion",
+      "reason": "Nadab and Abihu consumed by fire for offering unauthorized fire — the danger of approaching God unworthily"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "terrifying",
+    "awe-struck",
+    "solemn",
+    "overwhelming"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0008652",
+    "title": "The Fire of Atonement",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

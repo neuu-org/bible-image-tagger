@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Joshua", "type": "PERSON"},
+    {"name": "Israelite army", "type": "GROUP"}
+  ],
+  "event": "Joshua Commanding the Sun to Stand Still",
+  "tags": [
+    "joshua",
+    "sun-standing-still",
+    "battle-of-gibeon",
+    "miracle",
+    "divine-intervention",
+    "storm",
+    "dramatic-sky",
+    "army",
+    "conquest",
+    "hailstones"
+  ],
+  "symbols": [
+    "Light breaking through the clouds — the sun obeying Joshua's command",
+    "Dramatic storm and darkness — the hailstones God hurled upon the Amorites",
+    "Figures on the mountain with raised arms — Joshua commanding the sun and moon in God's name",
+    "Vast armies below — the battle of Gibeon against the five Amorite kings"
+  ],
+  "description": "A vast dramatic landscape shows a mountainous terrain under an apocalyptic sky. On the right, brilliant light breaks through heavy clouds, illuminating a hilltop city. On the left, fiery red and orange tones suggest destructive forces raining down. On a rocky outcrop in the center-foreground, small figures stand with arms raised toward the sky. Below in the valley, dense masses of an army stretch into the distance. The painting is dominated by the sublime scale of sky and landscape dwarfing the human figures.",
+  "theological_description": "Joshua's command at Gibeon is one of the most extraordinary miracles in the Old Testament: 'Sun, stand still at Gibeon, and moon, in the Valley of Aijalon. And the sun stood still, and the moon stopped, until the nation took vengeance on their enemies' (JOS.10.12-13). The text adds: 'There has been no day like it before or since, when the Lord heeded the voice of a man, for the Lord fought for Israel' (JOS.10.14). The cosmic scale of this miracle — the very heavens responding to a human prayer — declares that the God of Israel is sovereign over creation itself. Prior to the sun's standing still, 'the Lord threw down large stones from heaven on them... and they died. There were more who died because of the hailstones than the sons of Israel killed with the sword' (JOS.10.11). The entire episode demonstrates that Israel's conquest of the Promised Land was not primarily a military achievement but a divine act, fulfilling the promise to Abraham (GEN.15.18-21).",
+  "scripture_refs": [
+    {"ref": "JOS.10.12-14", "relevance": "primary", "reason": "Joshua commands the sun and moon to stand still at Gibeon — the specific event depicted"},
+    {"ref": "JOS.10.11", "relevance": "primary", "reason": "The Lord threw great hailstones from heaven — the destructive storm visible in the painting"},
+    {"ref": "JOS.10.8", "relevance": "primary", "reason": "The Lord said to Joshua: Do not fear them, for I have given them into your hands"},
+    {"ref": "GEN.15.18-21", "relevance": "typological", "reason": "God's promise of the land to Abraham, being fulfilled through Joshua's conquest"},
+    {"ref": "HAB.3.11", "relevance": "allusion", "reason": "The sun and moon stood still in their place — Habakkuk recalling this cosmic miracle"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sublime", "awe-inspiring", "apocalyptic", "dramatic"],
+  "period": "Conquest",
+  "_meta": {
+    "key": "0002094",
+    "title": "Joshua Commanding the Sun to Stand Still",
+    "artist": "John Martin",
+    "model": "claude-opus-4-6"
+  }
+}

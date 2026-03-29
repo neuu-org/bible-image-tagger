@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Mark the Evangelist", "type": "PERSON"},
+    {"name": "Anianus", "type": "PERSON"},
+    {"name": "Onlookers", "type": "GROUP"}
+  ],
+  "event": "The Healing of Anianus by Saint Mark",
+  "tags": [
+    "saint-mark",
+    "healing",
+    "anianus",
+    "alexandria",
+    "miracle",
+    "cobbler",
+    "crowd",
+    "domed-building",
+    "evangelism"
+  ],
+  "symbols": [
+    "Mark bending to heal — the apostolic power to heal in Christ's name, continuing His ministry",
+    "Anianus the cobbler — the first convert of Alexandria, showing God chooses the humble",
+    "Domed architecture — Alexandria, the great city where Mark established the Church",
+    "Crowd of onlookers — the witnesses to the miracle who will form the Alexandrian church"
+  ],
+  "description": "In a city square before an ornate domed building with arched colonnades, a robed figure bends down to tend to a seated man's injured hand. Several figures in turbans and robes stand around watching the event. The architecture features a large central dome and classical elements. The scene is rendered with rich colors and detailed architectural perspective, set in an Eastern Mediterranean cityscape.",
+  "theological_description": "According to tradition, when Mark arrived in Alexandria to preach the Gospel, the strap of his sandal broke. He brought it to a cobbler named Anianus, who injured his hand with the awl while making the repair. Mark healed the wound miraculously, and Anianus became his first convert, eventually succeeding Mark as bishop of Alexandria. While this specific episode is from tradition rather than canonical Scripture, it embodies the pattern established in Acts: the apostles healed the sick as a sign confirming the Gospel message (ACT.3.1-10, ACT.14.8-10). Jesus had commissioned the Twelve: 'Heal the sick... and say to them, The kingdom of God has come near to you' (LUK.10.9). Mark's Gospel itself emphasizes Jesus as healer and miracle-worker, and this tradition shows the evangelist continuing the ministry he recorded.",
+  "scripture_refs": [
+    {"ref": "ACT.3.1-10", "relevance": "typological", "reason": "Peter healing the lame man at the temple gate — the apostolic pattern of miraculous healing Mark follows"},
+    {"ref": "LUK.10.9", "relevance": "typological", "reason": "Jesus commands: heal the sick and proclaim the kingdom — the mission Mark carries to Alexandria"},
+    {"ref": "MRK.16.17-18", "relevance": "allusion", "reason": "Signs accompanying believers: they will lay hands on the sick and they will recover"},
+    {"ref": "ACT.14.8-10", "relevance": "typological", "reason": "Paul healing the cripple at Lystra — another apostolic healing paralleling Mark's miracle"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["compassionate", "wondrous", "reverent"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0001498",
+    "title": "The Healing of Anianus",
+    "artist": "Cima da Conegliano",
+    "model": "claude-opus-4-6"
+  }
+}

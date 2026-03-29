@@ -1,0 +1,88 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Serpent",
+      "type": "OTHER"
+    },
+    {
+      "name": "Animals",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Garden of Eden with the Fall of Man",
+  "tags": [
+    "garden-of-eden",
+    "fall-of-man",
+    "adam-and-eve",
+    "serpent",
+    "forbidden-fruit",
+    "paradise",
+    "animals",
+    "tree-of-knowledge",
+    "original-sin",
+    "temptation"
+  ],
+  "symbols": [
+    "serpent coiled in the tree — Satan the deceiver, the tempter who leads humanity into disobedience",
+    "fruit being passed between Adam and Eve — the act of transgression, sin entering through shared disobedience",
+    "abundant animals in harmony — the unfallen creation where predator and prey coexist in peace",
+    "lush paradise garden — the original state of grace and harmony with God, about to be lost",
+    "horse, leopard, birds, ostrich — the diversity of creation over which Adam was given dominion"
+  ],
+  "description": "A lush panoramic landscape depicting the Garden of Eden filled with an astonishing variety of animals. At center-left beneath a large tree, two nude figures (Adam and Eve) interact — Eve reaches up for fruit from the tree while a serpent coils around its trunk. Surrounding them in the garden are horses, leopards, ostriches, birds, deer, monkeys, parrots, and many other species, all peacefully coexisting. The garden is richly verdant with dense foliage, fruit-bearing trees, and a distant landscape with open skies.",
+  "theological_description": "Rubens and Brueghel's collaborative masterpiece presents Eden as a paradise of extraordinary abundance and natural harmony — the world as God intended before sin corrupted it. The central drama is the Fall: Eve, deceived by the serpent, takes the forbidden fruit from the Tree of Knowledge and shares it with Adam (Gen 3:1-7). This single act of disobedience shattered the covenant of creation, bringing death, suffering, and alienation from God into the world (Rom 5:12). The peaceable kingdom of animals surrounding the first couple represents the dominion God gave Adam over all living creatures (Gen 1:28), a dominion now about to be distorted by the Fall. The abundant, detailed rendering of animal species celebrates Genesis 1:31 — 'God saw everything that he had made, and behold, it was very good.' Yet this very goodness makes the Fall more tragic: what is about to be lost is not a barren wasteland but a paradise of unfathomable beauty. The scene also looks forward to the restoration prophesied in Isaiah 11:6-9, when the peaceable kingdom will be restored under the reign of the Messiah.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The serpent's temptation, Eve eating the forbidden fruit and giving it to Adam"
+    },
+    {
+      "ref": "GEN.1.28-31",
+      "relevance": "primary",
+      "reason": "God's gift of dominion over creation and declaration that all was very good"
+    },
+    {
+      "ref": "GEN.2.8-9",
+      "relevance": "primary",
+      "reason": "God planting the garden in Eden with every beautiful and good tree"
+    },
+    {
+      "ref": "ROM.5.12",
+      "relevance": "typological",
+      "reason": "Through one man sin entered the world, and death through sin"
+    },
+    {
+      "ref": "ISA.11.6-9",
+      "relevance": "typological",
+      "reason": "The peaceable kingdom restored — the harmony of animals prefiguring messianic restoration"
+    },
+    {
+      "ref": "ROM.8.20-22",
+      "relevance": "typological",
+      "reason": "Creation subjected to futility but waiting for liberation — the fall's cosmic consequences"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "paradisiacal",
+    "abundant",
+    "ominous",
+    "idyllic"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0008950",
+    "title": "The Garden of Eden with the Fall of Man",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

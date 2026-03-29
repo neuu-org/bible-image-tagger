@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Evangelists/Saints",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Christ Pantocrator ceiling fresco with evangelists in the Rinuccini Chapel",
+  "tags": [
+    "christ-pantocrator",
+    "evangelists",
+    "golden-rays",
+    "open-book",
+    "blue-starry-vault",
+    "chapel-decoration",
+    "mandorla"
+  ],
+  "symbols": [
+    "Christ at center with radiating golden rays — the Sun of Righteousness, the Light that illuminates all",
+    "Open book — the Gospel, the Word of God proclaimed to the four corners of the world",
+    "Four roundels with saints/evangelists — the fourfold witness of the Gospel spreading in all directions",
+    "Starry blue vault — the heavens declaring God's glory, the celestial dome of creation"
+  ],
+  "description": "A chapel ceiling viewed from below shows a central roundel containing Christ Pantocrator, haloed and holding an open book, surrounded by radiating golden rays against a gold background. Four pointed sections of the vault extend outward, each decorated with a blue field sprinkled with golden stars. In the four corners, roundels with gold backgrounds contain half-length figures of saints or evangelists in red and green robes. Ornamental borders with geometric and floral patterns divide the sections.",
+  "theological_description": "The ceiling program of a chapel, with Christ Pantocrator at the center surrounded by the four evangelists, is a visual statement of cosmic Christology. Christ at the center of the vault represents His position as ruler of all creation: 'All authority in heaven and on earth has been given to me' (MAT.28.18). The four evangelists in the corners represent the Gospel going out 'to the ends of the earth' (ACT.1.8). The starry vault recalls Genesis 1:16 — God made the stars — and Psalm 19:1: 'The heavens declare the glory of God.' The golden rays emanating from Christ fulfill Malachi's prophecy: 'The sun of righteousness shall rise with healing in its wings' (MAL.4.2). The entire architectural program proclaims that the cosmos is Christ's domain, and the Church building participates in the heavenly reality it represents.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.28.18",
+      "relevance": "primary",
+      "reason": "All authority in heaven and earth is given to Christ — His central sovereign position"
+    },
+    {
+      "ref": "JHN.1.1-3",
+      "relevance": "primary",
+      "reason": "In the beginning was the Word — Christ as Logos holding the open book at the center of creation"
+    },
+    {
+      "ref": "PSA.19.1",
+      "relevance": "typological",
+      "reason": "The heavens declare the glory of God — the starry vault as cosmic praise"
+    },
+    {
+      "ref": "MAL.4.2",
+      "relevance": "typological",
+      "reason": "The sun of righteousness — Christ radiating golden light from the center"
+    },
+    {
+      "ref": "REV.4.6-8",
+      "relevance": "typological",
+      "reason": "Four living creatures around the throne — the evangelist symbols surrounding Christ"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "majestic",
+    "cosmic",
+    "sacred",
+    "luminous"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001965",
+    "title": "Rinuccini Chapel (basilica of Santa Croce)",
+    "artist": "Giovanni da Milano",
+    "model": "claude-opus-4-6"
+  }
+}

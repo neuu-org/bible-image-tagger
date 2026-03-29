@@ -1,0 +1,93 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Saint Bernard",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Adoration of the Infant Jesus",
+  "tags": [
+    "nativity",
+    "adoration",
+    "infant-jesus",
+    "madonna-kneeling",
+    "incarnation",
+    "crucifix-vision",
+    "divine-rays",
+    "wilderness",
+    "devotion",
+    "contemplation"
+  ],
+  "symbols": [
+    "kneeling Virgin with clasped hands — adoration of the incarnate Word she bore",
+    "nude infant on ground — the humility of the Incarnation, God laid bare on earth",
+    "crucifix appearing in background — the Passion foreshadowed at the moment of birth",
+    "golden rays descending from God the Father — the divine mission of the Son sent from the Father",
+    "angels hovering above — heavenly hosts attending the mystery of the Incarnation",
+    "rocky wilderness setting — the world's barrenness before the coming of grace",
+    "elderly monk figure — a contemplative saint adoring the mystery"
+  ],
+  "description": "The Virgin Mary kneels in prayer at the left, wearing a blue mantle over a pink dress, her hands clasped and her head bowed with a golden halo. Before her on the ground lies the nude Christ Child, radiating soft light. Behind in the upper background, two angels flank a vision of God the Father, from whom golden rays descend toward the child. A small crucifix is visible in the middle distance. At the right, a young figure with a cross-staff (the young Baptist) stands, while an elderly bearded monk kneels at the lower right in adoration.",
+  "theological_description": "This Adoration scene synthesizes Nativity and Passion in a single devotional image, following the mystical vision tradition. The kneeling Virgin reflects the account popularized by the Revelations of St. Bridget, where Mary knelt in worship immediately after giving birth, the child radiating divine light. The crucifix visible in the background makes explicit what the Incarnation always implied: the child born in humility is destined for the Cross. The golden rays from God the Father above echo the Johannine prologue: 'The Word became flesh and dwelt among us' (JHN.1.14). The presence of the young Baptist alludes to John's future witness, while the monk figure represents the contemplative Church across the centuries, entering into the mystery through prayer. Luke records the shepherds finding 'the babe wrapped in swaddling cloths, lying in a manger' (LUK.2.12), and the simplicity of the child on bare ground here emphasizes the kenosis — the self-emptying of the Son of God (PHP.2.6-8).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus and his placement in humble circumstances"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word made flesh, the divine rays indicating the Father sending the Son"
+    },
+    {
+      "ref": "PHP.2.6-8",
+      "relevance": "typological",
+      "reason": "Christ's self-emptying, taking the form of a servant, born in human likeness"
+    },
+    {
+      "ref": "LUK.2.15-20",
+      "relevance": "allusion",
+      "reason": "The adoration of those who come to see the newborn Christ"
+    },
+    {
+      "ref": "ISA.9.6",
+      "relevance": "typological",
+      "reason": "For unto us a child is born — the prophetic expectation fulfilled in this scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverence",
+    "wonder",
+    "serenity",
+    "solemnity"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002264",
+    "title": "The Adoration of the Infant Jesus",
+    "artist": "Filippo Lippi",
+    "model": "claude-opus-4-6"
+  }
+}

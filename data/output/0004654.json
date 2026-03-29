@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "High Priest",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    },
+    {
+      "name": "Rejected suitors",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Marriage of the Virgin",
+  "tags": [
+    "marriage-of-the-virgin",
+    "betrothal",
+    "wedding-ring",
+    "temple",
+    "high-priest",
+    "rejected-suitors",
+    "flowering-rod",
+    "breaking-staff",
+    "domed-temple",
+    "perspective",
+    "ceremony"
+  ],
+  "symbols": [
+    "ring placed on Mary's finger — the sacred covenant of marriage between Joseph and Mary",
+    "domed temple in background — the Temple of Jerusalem and divine order presiding over the union",
+    "flowering rod in Joseph's hand — the miraculous sign that marked Joseph as Mary's chosen spouse",
+    "suitor breaking his rod — the rejected contenders, confirming Joseph's divine selection",
+    "central high priest — the authority of the Law that sanctified the union"
+  ],
+  "description": "Before a grand domed Renaissance temple with a circular plan and sweeping staircase, the marriage ceremony of Mary and Joseph takes place. At center, a high priest in elaborate vestments joins the hands of the young couple — Mary in a blue mantle on the left surrounded by female attendants, and Joseph in a golden-orange robe on the right. Joseph holds a flowering rod in his left hand. Behind Joseph, a young man bends a rod over his knee in frustration. The composition is perfectly symmetrical, with the temple providing a monumental backdrop.",
+  "theological_description": "The Marriage of the Virgin establishes the human family context into which the Son of God would be born. Though the marriage of Joseph and Mary was virginal, it was a true marriage — providing the legal framework for Jesus's identity as son of David through Joseph's lineage (MAT.1.16). The flowering rod in Joseph's hand reflects the apocryphal tradition that God chose Mary's husband through a miraculous sign, echoing the budding of Aaron's rod (NUM.17.8) which confirmed divine election. The high priest's role affirms that this union operates within the covenant of Israel — it is not an escape from the Law but its fulfillment. The grand temple behind them anticipates the theological truth that Mary herself would become the true temple, the dwelling place of God with humanity. The rejected suitors underscore that Joseph's role was not earned by merit but bestowed by grace — a theme that pervades the entire Incarnation narrative.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.18-25",
+      "relevance": "primary",
+      "reason": "The account of Joseph taking Mary as his wife, the legal context of the Incarnation"
+    },
+    {
+      "ref": "LUK.1.27",
+      "relevance": "primary",
+      "reason": "Mary betrothed to Joseph, of the house of David"
+    },
+    {
+      "ref": "NUM.17.8",
+      "relevance": "typological",
+      "reason": "Aaron's rod that budded, prefiguring the flowering rod that identified Joseph as Mary's spouse"
+    },
+    {
+      "ref": "MAT.1.16",
+      "relevance": "primary",
+      "reason": "Joseph the husband of Mary, of whom Jesus was born — the legal lineage established through marriage"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ceremonial",
+    "solemn",
+    "harmonious",
+    "dignified"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004654",
+    "title": "The Marriage of the Virgin",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}

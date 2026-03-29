@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Uzziah/Ozias",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jotham",
+      "type": "PERSON"
+    },
+    {
+      "name": "Ahaz",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mother and child",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Ancestors of Christ: Jotham, Ahaz (Sistine Chapel lunette)",
+  "tags": [
+    "ancestors-of-christ",
+    "genealogy",
+    "jotham",
+    "ahaz",
+    "uzziah",
+    "davidic-lineage",
+    "mother-and-child"
+  ],
+  "symbols": [
+    "Inscription plaque naming Ozias, Jotham, Achaz — the royal genealogy linking David to Christ",
+    "Seated contemplative figure on the left — the weight of the lineage and the passage of generations",
+    "Mother with child on the right — the continuity of the Davidic line through which the Messiah will come",
+    "Lunette architectural setting — the threshold between Old and New Covenant"
+  ],
+  "description": "A semicircular lunette fresco shows three named ancestors inscribed on a central plaque reading 'OZIAS / IOATHAM / ACHAZ.' On the left, a hooded figure in green and blue drapery sits in deep contemplation, turned partially away. On the right, a woman holds a small child on her lap, both rendered in warm earth tones. Below the central plaque, a decorative circular window element is visible. The palette is subdued with muted greens, browns, and ochres.",
+  "theological_description": "This lunette from the Sistine Chapel ceiling depicts three kings in the genealogy of Christ as recorded in Matthew 1:8-9: Uzziah (Ozias), Jotham, and Ahaz. These Judahite monarchs span a critical period of the divided monarchy. Uzziah began well but was struck with leprosy for presuming to burn incense in the temple (2CH.26.16-21). Jotham was relatively faithful, doing 'what was right in the eyes of the Lord' (2KI.15.34). Ahaz, however, practiced idolatry and even sacrificed his sons in fire (2KI.16.3), yet it was during his reign that Isaiah delivered the great Messianic prophecy: 'The virgin shall conceive and bear a son, and shall call his name Immanuel' (ISA.7.14). The inclusion of righteous and wicked kings alike in Christ's genealogy demonstrates that the Messiah comes not through human merit but through divine grace, working redemption even through broken vessels. Matthew's genealogy (MAT.1.1-17) is itself a theological statement: God's promise to David is irrevocable despite the failures of his descendants.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.1.8-9",
+      "relevance": "primary",
+      "reason": "The genealogy of Christ listing Uzziah, Jotham, and Ahaz as ancestors in the Davidic line"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "During Ahaz's reign, Isaiah prophesied the virgin birth of Immanuel — connecting this generation to Christ"
+    },
+    {
+      "ref": "2CH.26.16-21",
+      "relevance": "primary",
+      "reason": "Uzziah's leprosy for sacrilege in the temple, showing the consequences of presumption"
+    },
+    {
+      "ref": "2KI.15.34",
+      "relevance": "primary",
+      "reason": "Jotham did what was right in the Lord's sight, a faithful link in the chain"
+    },
+    {
+      "ref": "2KI.16.3",
+      "relevance": "primary",
+      "reason": "Ahaz's idolatry and child sacrifice — the darkest moment in this segment of the lineage"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "contemplative",
+    "solemn",
+    "weighty"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0001387",
+    "title": "The Ancestors of Christ: Jotham, Ahaz",
+    "artist": "Michelangelo",
+    "model": "claude-opus-4-6"
+  }
+}

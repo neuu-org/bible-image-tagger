@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "wise-men",
+    "gifts",
+    "gold",
+    "kneeling-king",
+    "nativity-stable",
+    "incarnation",
+    "gentile-worship",
+    "revelation-to-nations"
+  ],
+  "symbols": [
+    "kneeling elder Magus in gold robes — the wisdom of the Gentile nations bowing before Christ",
+    "African Magus — the universality of Christ's kingship over all peoples and races",
+    "stable setting — the humility of the Incarnation receiving the homage of kings",
+    "soldiers and attendants in background — the worldly retinue laid aside before the humble manger",
+    "gifts presented — gold for kingship, frankincense for divinity, myrrh for burial"
+  ],
+  "description": "Inside a rustic stable, the Virgin Mary sits at center-right holding the Christ Child in white swaddling cloths. An elderly man in sumptuous gold and white robes kneels before them, presenting a gift. Behind him stands a dark-skinned man in a red robe, also gazing at the child. Joseph stands behind Mary. In the background, armed soldiers with helmets and spears gather, along with other attendants. The scene is warmly lit, with golden light concentrated on the central figures while the periphery falls into shadow.",
+  "theological_description": "The Adoration of the Magi represents the Epiphany — the manifestation of Christ to the Gentile nations. Matthew records that wise men from the East followed a star to Bethlehem, where they 'fell down and worshiped him' and 'offered him gifts, gold and frankincense and myrrh' (MAT.2.11). The Church Fathers interpreted the three gifts christologically: gold acknowledging his kingship, frankincense his divinity, and myrrh his future suffering and burial. The Magi's journey fulfills Isaiah's prophecy: 'Nations shall come to your light, and kings to the brightness of your rising... They shall bring gold and frankincense' (ISA.60.3-6). The inclusion of a Magus of African descent in this painting reflects the medieval tradition identifying the three kings with the three known continents, emphasizing the universal scope of redemption. The paradox of the scene is central to Christian theology: the King of Kings receives homage not in a palace but in a stable, overturning worldly expectations of power.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The visit of the Magi, following the star and presenting gifts to the infant Jesus"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations coming to the light, bringing gold and frankincense — fulfilled in the Magi's visit"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "Kings of Tarshish and distant shores bringing tribute, all kings bowing before him"
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "A star shall come out of Jacob — Balaam's prophecy associated with the Star of Bethlehem"
+    },
+    {
+      "ref": "MIC.5.2",
+      "relevance": "allusion",
+      "reason": "Bethlehem as the birthplace of the ruler of Israel, where the Magi found Jesus"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverence",
+    "wonder",
+    "warmth",
+    "majesty"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002373",
+    "title": "The Adoration of the Magi",
+    "artist": "Jan de Bray",
+    "model": "claude-opus-4-6"
+  }
+}

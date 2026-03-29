@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Simon of Cyrene",
+      "type": "PERSON"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Carrying the Cross",
+  "tags": [
+    "carrying-the-cross",
+    "via-dolorosa",
+    "simon-of-cyrene",
+    "soldiers",
+    "passion",
+    "crowd",
+    "calvary",
+    "fallen-christ",
+    "red-banner"
+  ],
+  "symbols": [
+    "heavy cross — the weight of human sin borne by Christ",
+    "fallen Christ — the physical exhaustion of the Suffering Servant",
+    "Simon helping carry the cross — humanity compelled to share in Christ's burden",
+    "red banner — the Roman military authority executing the sentence",
+    "procession toward Golgotha — the Way of Sorrows leading to redemption"
+  ],
+  "description": "A dramatic, tumultuous scene of a large procession moving from left to right. At center, a figure has fallen under the weight of a massive wooden cross, while another figure helps bear it. Soldiers on horseback and on foot surround them, one carrying a red banner. A crowd of onlookers and participants fills the scene amid dust and confusion. In the background, architectural structures and crosses on a hilltop are faintly visible. The palette is dark and earthy with dramatic contrasts, in Tiepolo's characteristically loose and energetic style.",
+  "theological_description": "Tiepolo depicts the Via Dolorosa — Christ carrying His cross to Golgotha. All four Gospels record this journey, and the Synoptics specify that 'they compelled a passerby, Simon of Cyrene... to carry his cross' (Mark 15:21). The figure helping with the cross represents Simon, whose conscripted service became a model for discipleship — Jesus had said 'whoever does not take his cross and follow me is not worthy of me' (Matt 10:38). Christ's collapse under the cross reveals the full physical reality of His suffering, fulfilling Isaiah's prophecy: 'he was despised and rejected by men, a man of sorrows and acquainted with grief' (Isa 53:3). The chaotic crowd reflects the Gospel accounts of the great multitude that followed, including women who wept for Him (Luke 23:27). The journey to Calvary is the penultimate act of the Passion drama, the final steps toward the sacrifice that would 'reconcile all things to himself, making peace by the blood of his cross' (Col 1:20).",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.21",
+      "relevance": "primary",
+      "reason": "They compelled Simon of Cyrene to carry the cross"
+    },
+    {
+      "ref": "LUK.23.26-27",
+      "relevance": "primary",
+      "reason": "Simon carries the cross behind Jesus; women follow weeping"
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "typological",
+      "reason": "A man of sorrows, acquainted with grief — Christ fallen under the cross"
+    },
+    {
+      "ref": "MAT.10.38",
+      "relevance": "allusion",
+      "reason": "Whoever does not take his cross and follow me — Simon's conscripted cross-bearing"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "chaotic",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012154",
+    "title": "Carrying the Cross",
+    "artist": "Giovanni Battista Tiepolo",
+    "model": "claude-opus-4-6"
+  }
+}

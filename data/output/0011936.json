@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Christ Pantocrator",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Evangelists' Symbols",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Christ in Glory with Apostles",
+  "tags": [
+    "christ-pantocrator",
+    "icon",
+    "apostles",
+    "enthroned",
+    "gold-background",
+    "gospel-book",
+    "mandorla",
+    "orthodox",
+    "byzantine",
+    "tetramorph"
+  ],
+  "symbols": [
+    "enthroned Christ at center — the Pantocrator, ruler of all creation",
+    "open Gospel book — Christ as the Word and Teacher of truth",
+    "right hand raised in blessing — the divine blessing and authority",
+    "gold background — the uncreated light of divine glory",
+    "four living creatures — the symbols of the four Evangelists (lion, ox, eagle, man)",
+    "apostles in side panels — the twelve who received and transmitted the Gospel"
+  ],
+  "description": "A large Byzantine-style icon on a gold background. At center, a large figure of Christ sits enthroned, wearing a blue robe over a golden tunic. He holds an open red book in his left hand and raises his right hand in a gesture of blessing. A cruciform halo surrounds his head. Around him, winged creatures (the symbols of the four Evangelists) support the throne. Along the left and right borders, small bust-length figures of individual apostles are arranged in vertical rows, each with a halo and holding books or scrolls. Additional small figures appear at the bottom center.",
+  "theological_description": "This icon depicts Christ in Majesty — the Pantocrator ('Ruler of All') — enthroned in glory surrounded by the apostles. The composition draws on Revelation 4-5, where the One seated on the throne is surrounded by four living creatures and the twenty-four elders. The four winged beings — traditionally identified as the symbols of the Evangelists (Matthew as man, Mark as lion, Luke as ox, John as eagle) — derive from Ezekiel 1:10 and Revelation 4:7. Christ holds the Gospel open, fulfilling His identity as the Logos, the Word of God (John 1:1). His right hand raised in blessing echoes the priestly benediction of Numbers 6:24-26. The apostles arrayed along the borders represent the foundation of the Church: 'built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone' (Eph 2:20). The gold background represents the uncreated divine light — 'God is light, and in him is no darkness at all' (1 John 1:5). This is an eschatological image of Christ's final glory, when He will come 'seated at the right hand of Power' (Mark 14:62).",
+  "scripture_refs": [
+    {
+      "ref": "REV.4.2-8",
+      "relevance": "primary",
+      "reason": "The One seated on the throne surrounded by four living creatures"
+    },
+    {
+      "ref": "JHN.1.1",
+      "relevance": "primary",
+      "reason": "In the beginning was the Word — Christ holding the Gospel book"
+    },
+    {
+      "ref": "EZK.1.10",
+      "relevance": "typological",
+      "reason": "The four faces of the living creatures — lion, ox, man, eagle"
+    },
+    {
+      "ref": "EPH.2.20",
+      "relevance": "allusion",
+      "reason": "Built on the foundation of the apostles — the apostles flanking Christ"
+    },
+    {
+      "ref": "MRK.14.62",
+      "relevance": "allusion",
+      "reason": "You will see the Son of Man seated at the right hand of Power"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "majestic",
+    "hieratic",
+    "transcendent"
+  ],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0011936",
+    "title": "Christ in glory with apostles",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

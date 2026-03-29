@@ -1,0 +1,79 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Exodus — Across the Desert",
+  "tags": [
+    "exodus",
+    "desert-wandering",
+    "moses",
+    "israelites",
+    "wilderness",
+    "fruit-tree",
+    "promised-land",
+    "tablets-on-ground",
+    "pilgrimage"
+  ],
+  "symbols": [
+    "Moses with outstretched hand toward tree — pointing the people toward God's provision",
+    "fruit-bearing tree — the abundance of the Promised Land and divine provision in the wilderness",
+    "broken tablets on the ground — the shattered covenant after Israel's disobedience",
+    "dry thorny bush — the harsh wilderness of testing and purification",
+    "rocky barren mountains — the Sinai wilderness through which Israel wandered",
+    "staff in the woman's hand — the pilgrim's staff and the journey of faith"
+  ],
+  "description": "A stylized, relief-like composition shows a group of figures in colorful robes walking through a barren, rocky landscape. At the right, an elderly bearded man in blue and white robes (Moses) extends his hand toward a fruit tree laden with red fruit. Beside him, a woman in red with a green headscarf holds a staff and a small sapling. Behind them, a diverse group of men and women in purple, green, yellow, and blue robes press forward. On the ground at lower left, broken stone tablets with text are visible alongside dry thorny branches.",
+  "theological_description": "This scene from the Book of Exodus captures the Israelites' wilderness journey toward the Promised Land. Moses, leading the people through the desert, points toward a fruit-bearing tree — a sign of God's provision even in the barren wilderness. The broken tablets on the ground recall the shattering of the first covenant tablets after the golden calf incident (EXO.32.19), while the dry thorns and barren landscape embody the forty years of testing (DEU.8.2-3). The fruit tree evokes the spies' report of the land flowing with milk and honey (NUM.13.23-27). The entire Exodus journey is the foundational narrative of Israel's identity: liberation from bondage, covenant at Sinai, testing in the wilderness, and the promise of inheritance. Paul reads the Exodus typologically: 'These things happened to them as examples, and they were written for our instruction' (1CO.10.11).",
+  "scripture_refs": [
+    {
+      "ref": "EXO.13.17-22",
+      "relevance": "primary",
+      "reason": "God leading the Israelites through the wilderness after the Exodus from Egypt"
+    },
+    {
+      "ref": "EXO.32.19",
+      "relevance": "primary",
+      "reason": "Moses shattering the tablets of the Law, visible broken on the ground"
+    },
+    {
+      "ref": "DEU.8.2-3",
+      "relevance": "primary",
+      "reason": "The forty years of wilderness testing to humble and prove Israel"
+    },
+    {
+      "ref": "NUM.13.23-27",
+      "relevance": "allusion",
+      "reason": "The fruit of the Promised Land — the abundant tree Moses points toward"
+    },
+    {
+      "ref": "1CO.10.11",
+      "relevance": "typological",
+      "reason": "The Exodus as typological instruction for the Church"
+    },
+    {
+      "ref": "PSA.78.14-25",
+      "relevance": "allusion",
+      "reason": "God's provision of food and guidance in the wilderness"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "hopeful",
+    "arduous",
+    "determined"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0003546",
+    "title": "Book of Exodus \"Across the Desert\"",
+    "artist": "Joe Machine",
+    "model": "claude-opus-4-6"
+  }
+}

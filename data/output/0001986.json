@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ Pantocrator icon",
+  "tags": [
+    "christ-pantocrator",
+    "icon",
+    "blessing-hand",
+    "gospel-book",
+    "gold-background",
+    "orthodox",
+    "halo",
+    "frontal-portrait"
+  ],
+  "symbols": [
+    "Right hand raised in blessing — Christ bestowing grace, the two fingers representing the two natures (divine and human)",
+    "Red Gospel book in left hand — the Word of God, the Book of Life",
+    "Gold halo — the divine glory of the Son of God",
+    "IC XC monogram — Greek abbreviation for Jesus Christ",
+    "Gold background — the eternal, transcendent realm"
+  ],
+  "description": "A traditional Orthodox icon depicts Christ in half-length frontal view against a gold background. He has shoulder-length brown hair, a short beard, and a large golden halo. He wears a dark blue-black outer garment over a red-orange inner robe. His right hand is raised with fingers arranged in a blessing gesture. His left hand holds a red Gospel book with an ornate jeweled cover. The letters IC and XC appear in red circles at the upper corners. The icon shows signs of age with surface wear.",
+  "theological_description": "The Christ Pantocrator ('Almighty' or 'Ruler of All') is the quintessential Orthodox icon, combining Christ's roles as Teacher, Judge, and Savior in a single image. The blessing hand declares: 'Peace I leave with you; my peace I give to you' (JHN.14.27). The Gospel book affirms Christ as the Word made flesh: 'In the beginning was the Word, and the Word was with God, and the Word was God' (JHN.1.1). The dual nature of Christ — fully God and fully human — is conveyed through the two different halves of His face in traditional iconography: one side showing gentleness and mercy, the other showing severity and judgment. Colossians declares: 'He is the image (eikon) of the invisible God' (COL.1.15) — making the icon itself a theological statement about the possibility of depicting God through the Incarnation.",
+  "scripture_refs": [
+    {"ref": "COL.1.15", "relevance": "primary", "reason": "He is the image of the invisible God — the theological basis for depicting Christ in icons"},
+    {"ref": "JHN.1.1", "relevance": "primary", "reason": "In the beginning was the Word — Christ holds the Gospel as the incarnate Logos"},
+    {"ref": "JHN.14.27", "relevance": "allusion", "reason": "Peace I give to you — the blessing gesture of Christ's right hand"},
+    {"ref": "REV.1.8", "relevance": "typological", "reason": "I am the Alpha and Omega, says the Lord God, the Almighty — the Pantocrator"},
+    {"ref": "MAT.25.31-34", "relevance": "typological", "reason": "When the Son of Man comes in glory — the dual role of Judge and Savior in the Pantocrator face"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["solemn", "authoritative", "sacred"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001986",
+    "title": "Christ Pantokrator",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

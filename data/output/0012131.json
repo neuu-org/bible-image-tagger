@@ -1,0 +1,68 @@
+{
+  "characters": [
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    },
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Eve and Adam — Contemporary Reinterpretation",
+  "tags": [
+    "adam-and-eve",
+    "contemporary",
+    "political",
+    "nude",
+    "weapons",
+    "balaclavas",
+    "destruction",
+    "fallen-humanity",
+    "social-commentary"
+  ],
+  "symbols": [
+    "nude figures — Adam and Eve after the Fall, stripped of innocence",
+    "balaclavas/masks — the concealment of identity, shame after sin",
+    "weapons (gun and slingshot) — violence as the fruit of the Fall, Cain's legacy",
+    "burning city behind — the destruction that follows humanity's rebellion against God",
+    "green vegetation at feet — the remnant of the Garden, now trampled"
+  ],
+  "description": "Two nude figures stand frontally against a background of a bombed or burning cityscape under a dark smoky sky. The male figure at left wears a black balaclava and holds what appears to be a slingshot. The female figure at right also wears a black balaclava and holds a rifle. Both bodies are painted in vivid flesh tones with expressionistic distortion. Below their feet, green vegetation and a patterned green surface suggest a garden or landscape. The city behind them shows grey and blue buildings in ruin. The style is deliberately crude and provocative.",
+  "theological_description": "This provocative contemporary work reimagines Adam and Eve as masked, armed figures standing before a destroyed city, offering a searing commentary on the consequences of the Fall. In Genesis 3, after eating the forbidden fruit, Adam and Eve became aware of their nakedness and attempted to hide from God — the masks here serve as a modern equivalent of the fig leaves (Gen 3:7). The weapons represent the violence that immediately followed the Fall: Cain murdered Abel (Gen 4:8), and by Genesis 6 'the earth was filled with violence' (Gen 6:11). The burning city behind them evokes the destruction of Sodom (Gen 19:24-25) and the apocalyptic visions of human civilization brought low by sin. The green garden underfoot — Eden being trampled — visualizes humanity's destruction of the paradise God gave them. The image challenges the viewer to see how the ancient story of the Fall continues in every generation of human violence and self-destruction.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.7",
+      "relevance": "primary",
+      "reason": "They knew they were naked and sewed fig leaves — the masked figures hiding their identity"
+    },
+    {
+      "ref": "GEN.4.8",
+      "relevance": "primary",
+      "reason": "Cain rose up against Abel and killed him — violence as fruit of the Fall"
+    },
+    {
+      "ref": "GEN.6.11",
+      "relevance": "allusion",
+      "reason": "The earth was filled with violence — the destroyed city behind them"
+    },
+    {
+      "ref": "GEN.3.23-24",
+      "relevance": "typological",
+      "reason": "Driven out of the garden — humanity trampling the paradise underfoot"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "provocative",
+    "violent",
+    "despairing"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0012131",
+    "title": "Eve and Adam",
+    "artist": "Vasan Sitthiket",
+    "model": "claude-opus-4-6"
+  }
+}

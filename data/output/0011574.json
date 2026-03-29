@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Adoration of the Shepherds",
+  "tags": [
+    "adoration-of-shepherds",
+    "nativity",
+    "night-scene",
+    "shepherds",
+    "manger",
+    "animals"
+  ],
+  "symbols": [
+    "radiant infant — Light of the World",
+    "kneeling shepherds — the humble receiving the Gospel first"
+  ],
+  "description": "A Venetian Baroque painting showing the Adoration of the Shepherds with Bassano's characteristic inclusion of animals and pastoral elements. The scene is dramatically lit with warm tones and dark shadows.",
+  "theological_description": "The shepherds' adoration (LUK.2.8-20) fulfills the angelic announcement of a Savior born in Bethlehem. The humble shepherds, despised by the religious establishment, are God's chosen first witnesses. 'The shepherds returned, glorifying and praising God for all the things they had heard and seen' (LUK.2.20).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The shepherds visiting the newborn Christ"
+    },
+    {
+      "ref": "LUK.2.10-11",
+      "relevance": "primary",
+      "reason": "Good news of great joy — a Savior born"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "warm",
+    "reverent",
+    "pastoral"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011574",
+    "title": "Adoration of the Shepherds",
+    "artist": "Jacopo Bassano",
+    "model": "claude-opus-4-6"
+  }
+}

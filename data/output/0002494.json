@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Penitent Mary Magdalene",
+  "tags": [
+    "mary-magdalene",
+    "penitence",
+    "skull",
+    "vanitas",
+    "repentance",
+    "contemplation",
+    "memento-mori",
+    "converted-sinner",
+    "flowing-hair"
+  ],
+  "symbols": [
+    "skull beneath her hands — memento mori, the vanity of worldly beauty confronted by death",
+    "flowing loose hair — traditional attribute of the Magdalene, signifying her former life and penitence",
+    "draped blue-gray mantle — the covering of penitence over her former worldly garments",
+    "direct gaze — the confidence of the forgiven sinner"
+  ],
+  "description": "A young woman with voluminous light blonde hair cascading over her shoulders looks directly at the viewer with a calm, contemplative expression. She wears a gray-blue mantle draped loosely over a white undergarment. Her hands rest on a human skull placed on a ledge before her. Her complexion is fair and rosy. The background is dark and plain, concentrating attention on the figure and the skull.",
+  "theological_description": "Mary Magdalene in penitence is one of the most enduring subjects in Christian art. The composite tradition identifies her with the sinful woman of Luke 7 who washed Jesus' feet with her tears and dried them with her hair (LUK.7.37-38), with Mary of Bethany the sister of Martha and Lazarus (JHN.11.1-2), and with Mary Magdalene from whom seven demons were cast out (LUK.8.2). The skull is the attribute of her penitential meditations, reflecting the tradition that she spent her later years as a hermit in the wilderness of Provence, contemplating mortality and the transience of worldly beauty. Jesus declared of her: 'Her sins, which are many, are forgiven — for she loved much' (LUK.7.47). The Magdalene thus became the exemplar of radical conversion, the sinner transformed by encountering Christ's mercy. She was also the first witness of the Resurrection (JHN.20.11-18), earning her the title 'Apostle to the Apostles.' The vanitas motif of the skull speaks to the broader scriptural theme: 'What does it profit a man to gain the whole world and forfeit his soul?' (MRK.8.36).",
+  "scripture_refs": [
+    {"ref": "LUK.7.37-50", "relevance": "primary", "reason": "The sinful woman anointing Jesus' feet, traditionally identified with the Magdalene"},
+    {"ref": "LUK.8.2", "relevance": "primary", "reason": "Mary Magdalene from whom seven demons had gone out"},
+    {"ref": "JHN.20.11-18", "relevance": "allusion", "reason": "The Magdalene as first witness of the Resurrection, the ultimate triumph over death she now contemplates"},
+    {"ref": "MRK.8.36", "relevance": "allusion", "reason": "What does it profit a man to gain the whole world — the vanitas theme of the skull"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["contemplation", "serenity", "penitence"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002494",
+    "title": "Sainte Madeleine",
+    "artist": "Hyacinthe Rigaud",
+    "model": "claude-opus-4-6"
+  }
+}

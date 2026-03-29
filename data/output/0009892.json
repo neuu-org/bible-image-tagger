@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit (Dove)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "dove",
+    "holy-spirit",
+    "triptych-panel",
+    "interior-scene",
+    "lily",
+    "fiat"
+  ],
+  "symbols": [
+    "angel kneeling before Mary — the heavenly messenger delivering God's invitation",
+    "dove descending from above — the Holy Spirit overshadowing Mary",
+    "veil or curtain between them — the threshold between heaven and earth about to be crossed",
+    "Mary's gesture of acceptance — the fiat, 'let it be done according to your word'",
+    "interior domestic setting — the Incarnation entering ordinary human life"
+  ],
+  "description": "An arched panel painting showing the Annunciation scene in a domestic interior. The Angel Gabriel kneels at left with white wings, one hand raised in greeting, wearing light-colored robes. The Virgin Mary stands at right in a flowing gown, her body slightly turned toward the angel with a gesture of humble acceptance. Between them, a sheer curtain or veil hangs from the ceiling. A dove descends from the upper portion. A small vase with a lily or flower is visible. The palette is muted with soft grays, whites, and warm earth tones.",
+  "theological_description": "The Annunciation (LUK.1.26-38) marks the decisive moment when eternity enters time and God becomes man. Gabriel's message to Mary — 'you will conceive in your womb and bear a son, and you shall call his name Jesus' (LUK.1.31) — announces the fulfillment of Isaiah's prophecy: 'Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel' (ISA.7.14). The dove descending represents the Holy Spirit's overshadowing (LUK.1.35), the creative power of God bringing about a new creation within Mary's womb. The domestic setting emphasizes that the most cosmic event in history occurs in the most ordinary of places — a truth that permeates the Gospel. Mary's response — 'Behold, I am the servant of the Lord; let it be to me according to your word' (LUK.1.38) — is the perfect human response to divine initiative, reversing Eve's disobedience with faithful obedience.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation, the direct subject of this panel"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you — the dove descending"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive, the prophecy fulfilled at this moment"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh, the mystery inaugurated at the Annunciation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "sacred",
+    "hushed"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009892",
+    "title": "Triptych",
+    "artist": "Mariotto Albertinelli",
+    "model": "claude-opus-4-6"
+  }
+}

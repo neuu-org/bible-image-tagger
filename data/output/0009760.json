@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Saint Dorothea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Executioner",
+      "type": "PERSON"
+    },
+    {
+      "name": "Onlookers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angel Child",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Beheading of Saint Dorothea",
+  "tags": [
+    "saint-dorothea",
+    "martyrdom",
+    "beheading",
+    "executioner",
+    "roses",
+    "angel-child",
+    "winter-landscape",
+    "kneeling",
+    "sword"
+  ],
+  "symbols": [
+    "Dorothea kneeling in prayer — serene acceptance of martyrdom",
+    "executioner with raised sword — the violence of persecution",
+    "roses and fruit at Dorothea's knees — the miraculous flowers sent from Paradise",
+    "angel child with basket — the heavenly messenger who delivered roses from the Garden of Paradise",
+    "winter landscape — the miracle occurred in winter, when roses do not bloom naturally",
+    "onlookers watching — the witnesses who were converted by the miracle"
+  ],
+  "description": "A detailed Northern Renaissance panel showing a kneeling young woman (Dorothea) in an ornate red and gold dress, her hands clasped in prayer, as a large executioner in green and yellow garments raises a sword to behead her. A small child (angel) at the lower right offers a basket of flowers and fruit. A crowd of richly dressed onlookers watches from the right. The setting includes a stone tower or castle at left, with a snowy winter landscape stretching into the background. Women look down from a balcony above. The painting is rich in detail with vivid colors.",
+  "theological_description": "Saint Dorothea of Caesarea, martyred around 311 AD, refused to worship idols and was condemned to death. According to legend, a lawyer named Theophilus mocked her, asking her to send him roses from the Garden of Paradise. As she was led to execution, a child appeared with a basket of roses and apples — in the dead of winter. Theophilus was converted and himself martyred. Though not biblical, Dorothea's story reflects the pattern of Christian martyrdom rooted in Christ's own death: 'Whoever would save his life will lose it, but whoever loses his life for my sake will find it' (MAT.16.25). The miraculous roses anticipate the New Creation where death is swallowed up in victory (1CO.15.54). Her calm at execution echoes Paul's confidence: 'For to me to live is Christ, and to die is gain' (PHP.1.21). The conversion of Theophilus demonstrates that 'the blood of the martyrs is the seed of the Church.'",
+  "scripture_refs": [
+    {
+      "ref": "MAT.16.25",
+      "relevance": "allusion",
+      "reason": "Whoever loses their life for Christ's sake will find it — Dorothea's willing martyrdom"
+    },
+    {
+      "ref": "PHP.1.21",
+      "relevance": "allusion",
+      "reason": "To live is Christ and to die is gain — Dorothea's serene acceptance of death"
+    },
+    {
+      "ref": "1CO.15.54-55",
+      "relevance": "typological",
+      "reason": "Death swallowed in victory — the miraculous roses as sign of Paradise"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and receive the crown of life"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "solemn",
+    "miraculous",
+    "dramatic"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009760",
+    "title": "Beheading of St. Dorothea",
+    "artist": "Hans Baldung",
+    "model": "claude-opus-4-6"
+  }
+}

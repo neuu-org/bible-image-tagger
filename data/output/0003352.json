@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Judith", "type": "PERSON"},
+    {"name": "Holofernes", "type": "PERSON"},
+    {"name": "Maidservant", "type": "PERSON"}
+  ],
+  "event": "Judith Beheading Holofernes",
+  "tags": [
+    "judith-and-holofernes",
+    "beheading",
+    "sword",
+    "heroine",
+    "divine-deliverance",
+    "courage",
+    "dramatic-lighting",
+    "old-testament-apocrypha"
+  ],
+  "symbols": [
+    "sword in Judith's hand — the instrument of divine justice wielded through a woman's courage",
+    "fallen Holofernes — the pride of worldly power brought low by God's chosen instrument",
+    "Judith's rich garments — the beauty and cunning she used as weapons of deliverance",
+    "maidservant in shadow — the faithful companion and witness to God's saving act"
+  ],
+  "description": "A powerfully built woman in elaborate red and white garments stands over the muscular, bare-torsoed body of a man sprawled at her feet. She holds a curved sword in her right hand and raises her left arm dramatically. Her face is turned in profile, showing determination. An older woman peers from the shadows at upper left. The lighting falls sharply on Judith's figure and the fallen body of Holofernes, creating intense dramatic contrast against the dark background. Armor and fabric are scattered around the fallen general.",
+  "theological_description": "The Book of Judith, part of the deuterocanonical/apocryphal literature, tells how the beautiful Israelite widow Judith saved her people by infiltrating the Assyrian camp and beheading the general Holofernes. The story is a powerful narrative of divine deliverance through unexpected means — God using the weak to confound the strong (1CO.1.27). Judith's prayer before the act (JDT.13.4-5) places the deed entirely within the context of God's saving action on behalf of Israel. The scene echoes Jael's slaying of Sisera (JDG.4.21) and anticipates Mary's Magnificat, where God 'has brought down the mighty from their thrones and exalted those of humble estate' (LUK.1.52). The Fathers read Judith typologically as a figure of the Church militant, wielding the sword of the Spirit against the enemies of God's people. Her courage embodies the paradox of divine power perfected in human weakness (2CO.12.9).",
+  "scripture_refs": [
+    {"ref": "JDT.13.4-10", "relevance": "primary", "reason": "Judith's prayer and the beheading of Holofernes, the exact scene depicted"},
+    {"ref": "JDG.4.21", "relevance": "typological", "reason": "Jael slaying Sisera — the Old Testament type of a woman delivering Israel through violent courage"},
+    {"ref": "LUK.1.52", "relevance": "typological", "reason": "God bringing down the mighty from their thrones, the theological pattern Judith embodies"},
+    {"ref": "1CO.1.27", "relevance": "allusion", "reason": "God choosing the weak to shame the strong — Judith as a woman defeating the mighty general"},
+    {"ref": "2CO.12.9", "relevance": "allusion", "reason": "Divine power perfected in weakness, the paradox at the heart of the Judith narrative"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["violent", "dramatic", "triumphant", "tense"],
+  "period": "Intertestamental",
+  "_meta": {
+    "key": "0003352",
+    "title": "Giuditta e Oloferne",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "Holy Spirit (Dove)", "type": "DEITY"}
+  ],
+  "event": "The Baptism of Christ",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "john-the-baptist",
+    "holy-spirit",
+    "dove",
+    "trinitarian-revelation",
+    "water",
+    "nude-figures",
+    "divine-commissioning"
+  ],
+  "symbols": [
+    "dove descending from above — the Holy Spirit coming upon Jesus at his baptism",
+    "water — baptismal purification and the beginning of Christ's public ministry",
+    "John's hand raised over Christ — the act of baptizing, the forerunner's final ministry to the Messiah",
+    "Christ's semi-nude body — his humility in submitting to baptism, identifying with sinful humanity",
+    "heavenly light — the Father's voice declaring 'This is my beloved Son'"
+  ],
+  "description": "Two muscular male figures stand prominently in the foreground. On the left, Christ stands with his body slightly turned, wearing only a white loincloth, looking outward. On the right, John the Baptist, also minimally clothed with a rough garment at his feet, raises his right hand above Christ's head in the act of baptizing. Above them, a white dove descends from golden heavenly light. The figures are powerfully rendered with strong anatomical detail. A dark landscape stretches behind them.",
+  "theological_description": "The Baptism of Christ in the Jordan (MAT.3.13-17; MRK.1.9-11; LUK.3.21-22) is the inaugural moment of Jesus's public ministry and the first explicit revelation of the Holy Trinity. The heavens open, the Spirit descends like a dove, and the Father's voice declares: 'This is my beloved Son, with whom I am well pleased' (MAT.3.17). John initially protests, recognizing that he should be baptized by Jesus rather than the reverse (MAT.3.14), but Jesus insists: 'it is fitting for us to fulfill all righteousness' (MAT.3.15). By submitting to a baptism of repentance though he was sinless, Christ identifies himself fully with the human condition he came to redeem. The Fathers understood the Baptism as Christ sanctifying the waters for all future baptisms — entering the Jordan to cleanse it rather than to be cleansed by it. Paul connects this to the believer's baptism: 'Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death?' (ROM.6.3). The dove recalls Noah's dove (GEN.8.11), signaling the new creation inaugurated through Christ.",
+  "scripture_refs": [
+    {"ref": "MAT.3.13-17", "relevance": "primary", "reason": "Matthew's account of the Baptism, the dove, and the Father's voice"},
+    {"ref": "MRK.1.9-11", "relevance": "primary", "reason": "Mark's account of the heavens torn open and the Spirit descending"},
+    {"ref": "JHN.1.29-34", "relevance": "primary", "reason": "John's testimony: Behold the Lamb of God, and the Spirit remaining on Jesus"},
+    {"ref": "ROM.6.3-4", "relevance": "typological", "reason": "Baptism into Christ's death and resurrection, grounded in Jesus's own baptism"},
+    {"ref": "GEN.8.11", "relevance": "typological", "reason": "Noah's dove signaling new creation, echoed in the Spirit's dove at the Baptism"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemn", "revelatory", "sacred"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009501",
+    "title": "The Baptism of Christ",
+    "artist": "Hendrick Goltzius",
+    "model": "claude-opus-4-6"
+  }
+}

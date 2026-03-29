@@ -1,0 +1,52 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Martyrdom of Saint Sebastian",
+  "tags": [
+    "saint-sebastian",
+    "martyrdom",
+    "arrows",
+    "bound",
+    "suffering",
+    "christian-martyr"
+  ],
+  "symbols": [
+    "arrows piercing the body — persecution and suffering for the faith",
+    "bound figure — captivity under hostile powers"
+  ],
+  "description": "A Tintoretto painting of Saint Sebastian bound and pierced with arrows, depicted with Venetian dramatic lighting and rich color. The saint's muscular body is rendered with anatomical precision against a dark background.",
+  "theological_description": "Saint Sebastian's martyrdom embodies Christ's promise: 'You will be hated by all for my name's sake. But the one who endures to the end will be saved' (MAT.10.22). His endurance reflects Paul's confidence: 'I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed' (ROM.8.18).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.22",
+      "relevance": "allusion",
+      "reason": "Enduring hatred for Christ's name"
+    },
+    {
+      "ref": "ROM.8.18",
+      "relevance": "allusion",
+      "reason": "Present sufferings not comparing with future glory"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and receive the crown of life"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0011511",
+    "title": "St Sebastian",
+    "artist": "Tintoretto",
+    "model": "claude-opus-4-6"
+  }
+}

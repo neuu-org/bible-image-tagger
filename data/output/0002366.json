@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {"name": "Saint Apollonia", "type": "PERSON"}
+  ],
+  "event": "Portrait of Saint Apollonia",
+  "tags": [
+    "saint-apollonia",
+    "martyr",
+    "pincers",
+    "tooth",
+    "halo",
+    "patron-of-dentistry",
+    "blue-veil",
+    "martyrdom-attribute"
+  ],
+  "symbols": [
+    "pincers holding a tooth — the instrument of Apollonia's martyrdom, her teeth being pulled out",
+    "golden halo — sanctity and heavenly glory",
+    "blue head covering — purity and heavenly association",
+    "youthful face — the eternal youth of the saints in glory"
+  ],
+  "description": "A close-up portrait of a young woman with a serene expression, looking slightly to the right. She wears a blue head covering or turban over light brown braided hair, and a red garment at the neckline. A thin golden halo encircles her head. In her right hand she holds a small pair of iron pincers gripping a tooth. The background is solid dark, focusing attention entirely on her face and attribute. The rendering is smooth and idealized.",
+  "theological_description": "Saint Apollonia was an early Christian deaconess martyred in Alexandria during anti-Christian riots around 249 AD. According to Eusebius and other early sources, the mob seized her and knocked out or pulled out all her teeth before threatening to burn her alive. She is traditionally depicted holding pincers with a tooth, and is venerated as the patron saint of dentistry and those suffering from toothache. While not a biblical figure, her martyrdom exemplifies the witness of the early Church under persecution, reflecting Christ's words: 'Blessed are you when others revile you and persecute you' (MAT.5.11). Her voluntary choice of death by fire rather than deny Christ echoes the faithfulness of the three young men in the fiery furnace (DAN.3.17-18).",
+  "scripture_refs": [
+    {"ref": "MAT.5.11-12", "relevance": "allusion", "reason": "Blessed are those persecuted for righteousness' sake — Apollonia's faithfulness unto death"},
+    {"ref": "REV.2.10", "relevance": "allusion", "reason": "Be faithful unto death and I will give you the crown of life — the martyr's promise"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["serenity", "devotion", "composure"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0002366",
+    "title": "Saint Apollonia",
+    "artist": "Sassoferrato",
+    "model": "claude-opus-4-6"
+  }
+}

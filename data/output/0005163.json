@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Shepherds",
+  "tags": [
+    "nativity",
+    "adoration-of-shepherds",
+    "infant-christ",
+    "manger",
+    "stable",
+    "ox",
+    "donkey",
+    "kneeling-shepherds",
+    "holy-family",
+    "incarnation",
+    "humble-birth"
+  ],
+  "symbols": [
+    "infant wrapped in white cloth — the Word made flesh, pure and vulnerable",
+    "ox and donkey — traditional nativity animals fulfilling Isaiah's prophecy that the ox knows its owner",
+    "ruined stable with columns — the old order giving way to the new covenant",
+    "kneeling shepherd — the humble and lowly as the first to receive the Good News",
+    "tree growing amid ruins — new life springing from the remnant"
+  ],
+  "description": "A nativity scene set within a ruined stable supported by stone columns. At center, the Virgin Mary in a blue and red garment presents the swaddled infant Jesus, who lies on white cloth on the ground. A kneeling shepherd reaches toward the child while another stands behind. Joseph sits at left in an elevated position, his hand raised in a gesture of wonder. At right, an ox and donkey are tethered near the stable's edge, and a standing figure in a hat looks on. A tree grows above the ruins, and a warm golden light suffuses the scene.",
+  "theological_description": "The Adoration of the Shepherds narrates Luke 2:8-20, in which the angelic announcement draws the lowliest of Israel's workers to witness the Incarnation. The shepherds' approach to the manger fulfills the divine logic of election: God reveals His glory not to the mighty but to the humble (1COR.1.27-28). The ruined columns suggest the old dispensation crumbling as the new covenant begins in this Child. The ox and donkey, though not mentioned in Luke's account, became traditional through Isaiah 1:3 — 'The ox knows its owner, and the donkey its master's crib, but Israel does not know.' The Christ child laid upon the ground rather than elevated signifies the kenosis of Philippians 2:7, God emptying Himself and taking the form of a servant. Joseph's watchful presence fulfills his role as guardian of the Holy Family, the just man entrusted with the mystery of the Incarnation (MAT.1.20-21).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The shepherds receive the angelic announcement and come to find Mary, Joseph, and the infant"
+    },
+    {
+      "ref": "LUK.2.7",
+      "relevance": "primary",
+      "reason": "She wrapped him in swaddling cloths and laid him in a manger"
+    },
+    {
+      "ref": "ISA.1.3",
+      "relevance": "typological",
+      "reason": "The ox knows its owner — the animals at the manger recognize their Creator"
+    },
+    {
+      "ref": "PHP.2.6-7",
+      "relevance": "typological",
+      "reason": "Christ emptied himself, taking the form of a servant, born in the likeness of men"
+    },
+    {
+      "ref": "MAT.1.20-21",
+      "relevance": "allusion",
+      "reason": "Joseph's role as guardian, told in a dream to take Mary as his wife"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "wonder",
+    "humility",
+    "warmth",
+    "reverence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005163",
+    "title": "Adoration of the Shepherds",
+    "artist": "Jacopo Bassano",
+    "model": "claude-opus-4-6"
+  }
+}

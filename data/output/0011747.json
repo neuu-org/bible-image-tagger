@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel with Chalice",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Putti",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Angel Collecting the Blood of Christ",
+  "tags": [
+    "angel",
+    "blood-of-christ",
+    "chalice",
+    "putti",
+    "crucifixion",
+    "heavenly-glory",
+    "clouds",
+    "eucharist",
+    "cross",
+    "redemption"
+  ],
+  "symbols": [
+    "chalice held by angel — the Eucharistic cup, the blood of the New Covenant",
+    "Christ's semi-nude body with wounds — the sacrifice of the Lamb of God",
+    "cross held by central figure — the instrument of salvation",
+    "surrounding putti and angels — the heavenly host attending the redemptive sacrifice",
+    "clouds — the heavenly realm where the sacrifice has cosmic significance",
+    "figure kneeling below — humanity receiving the fruits of Christ's sacrifice"
+  ],
+  "description": "A large vertical composition showing a central semi-nude figure (Christ) draped in pale pink cloth, standing or floating amid swirling clouds, holding a tall cross. Surrounding the figure are numerous putti and cherubs. Below to the left, an angel in a rose-colored garment holds a golden chalice upward. At the bottom of the composition, a figure kneels on rocky ground, gazing upward. The entire scene is suffused with warm golden and rosy tones, creating an atmosphere of celestial glory.",
+  "theological_description": "This composition depicts the mystical theology of Christ's blood as the means of redemption. An angel collects the precious blood in a chalice, directly connecting the crucifixion to the Eucharist. In the institution of the Lord's Supper, Jesus said 'This is my blood of the covenant, which is poured out for many for the forgiveness of sins' (Matt 26:28). The Letter to the Hebrews extensively develops this theme: Christ 'entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption' (Heb 9:12). The angel with the chalice is a common motif in medieval and Renaissance theology, expressing the belief that not a single drop of Christ's blood was wasted — each was collected and offered to the Father. The putti represent the heavenly court witnessing this cosmic event. The kneeling figure below represents humanity, the beneficiary of the sacrifice. First Peter declares believers were 'ransomed... with the precious blood of Christ, like that of a lamb without blemish' (1 Pet 1:18-19).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.28",
+      "relevance": "primary",
+      "reason": "This is my blood of the covenant poured out for many — the chalice collecting Christ's blood"
+    },
+    {
+      "ref": "HEB.9.12",
+      "relevance": "primary",
+      "reason": "Christ entered the holy places by His own blood, securing eternal redemption"
+    },
+    {
+      "ref": "1PE.1.18-19",
+      "relevance": "allusion",
+      "reason": "Ransomed with the precious blood of Christ, a lamb without blemish"
+    },
+    {
+      "ref": "REV.5.9",
+      "relevance": "typological",
+      "reason": "By your blood you ransomed people for God from every tribe and tongue"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "glorious",
+    "mystical",
+    "redemptive"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011747",
+    "title": "Angel collecting blood from the wounds of Christ",
+    "artist": "Lorenzo Lotto",
+    "model": "claude-opus-4-6"
+  }
+}

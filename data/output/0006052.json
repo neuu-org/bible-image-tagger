@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Spirit",
+      "type": "DEITY"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "annunciation",
+    "archangel-gabriel",
+    "virgin-mary",
+    "holy-spirit-dove",
+    "lily",
+    "divine-light",
+    "prayer-desk",
+    "putti",
+    "incarnation"
+  ],
+  "symbols": [
+    "lily in Gabriel's hand — purity of the Virgin and the fragrance of the Incarnation",
+    "dove of the Holy Spirit above — the Spirit overshadowing Mary",
+    "ray of divine light — the power of the Most High coming upon Mary",
+    "open book on prayer desk — Mary's meditation on Scripture interrupted by the divine message",
+    "putti in clouds above — the heavenly court witnessing the pivotal moment of salvation history"
+  ],
+  "description": "A classical Annunciation scene. At right, the Archangel Gabriel descends on a cloud in a flowing blue-violet robe, extending a lily branch toward the Virgin. At left, Mary recoils slightly from a wooden prayer desk where a book lies open, her right hand on her chest and her left raised in surprise. She wears a red dress under a blue mantle. Above, a white dove descends on a beam of golden light from the upper left, surrounded by putti heads among clouds. The composition is balanced and luminous with warm golden light suffusing the scene.",
+  "theological_description": "The Annunciation is the moment when 'the angel Gabriel was sent from God to a city of Galilee named Nazareth, to a virgin betrothed to a man whose name was Joseph' (LUK.1.26-27). Philippe de Champaigne captures the triple theophany: the angelic messenger, the descending dove of the Spirit, and the ray of divine light representing the Father's will. The lily of purity affirms that this conception will be virginal — 'The Holy Spirit will come upon you, and the power of the Most High will overshadow you' (LUK.1.35). Mary's hand on her chest and her startled posture reflect Luke's account that she was 'greatly troubled at the saying' (LUK.1.29). Yet her gesture also suggests the beginnings of assent — the 'fiat' that will come: 'Let it be to me according to your word' (LUK.1.38). This moment is the hinge of all history, the instant when eternity entered time and the Creator became creature.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The complete Annunciation narrative: Gabriel's message, Mary's question, and her consent"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you — the dove descending in the painting"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the prophecy fulfilled at this moment"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation that begins here"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The seed of the woman who will crush the serpent — the protoevangelium initiated at the Annunciation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "luminous",
+    "awe",
+    "reverent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006052",
+    "title": "The Annunciation",
+    "artist": "Philippe de Champaigne",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Holy Family with the Infant Saint John",
+  "tags": [
+    "holy-family",
+    "nativity",
+    "adoration",
+    "infant-jesus",
+    "infant-john-baptist",
+    "tondo",
+    "praying-madonna",
+    "angel"
+  ],
+  "symbols": [
+    "Mary with hands in prayer — adoration of her own Son, recognizing His divinity",
+    "infant John the Baptist leaning toward Jesus — the forerunner already drawn to the Lamb",
+    "cross-shaped staff (implied) — John's future role as herald of the crucified Christ",
+    "circular format (tondo) — eternity, completeness, the perfection of the holy family unit"
+  ],
+  "description": "A circular tondo composition showing the Holy Family outdoors. At center, the Virgin Mary in a blue and red mantle kneels with hands pressed together in prayer, gazing down at the nude Christ Child lying on the ground before her. An elderly bearded man (Joseph) appears at the upper left. At the right, a young angel in blue and gold cradles a slightly older child (the infant John the Baptist) who leans toward Jesus. Architectural ruins and a landscape are visible in the background. The palette is rich with deep blues, reds, and warm flesh tones.",
+  "theological_description": "This tondo of the Holy Family combines the Nativity with the meeting of the two infants — Jesus and John — a scene drawn from apocryphal tradition but rich in theological meaning. Mary's prayerful adoration of the newborn Christ affirms that she recognized from the beginning what Simeon would later proclaim: this child is the salvation prepared for all peoples (Luke 2:30-31). The infant Baptist's inclination toward Jesus prefigures his adult testimony: 'Behold, the Lamb of God' (John 1:29). The circular format of the tondo suggests the completeness of the divine plan: within this family circle, the entire drama of salvation is already present — the Incarnation, the forerunner, the prayer of the Church (Mary), and the just man's faithful obedience (Joseph).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.6-7",
+      "relevance": "primary",
+      "reason": "The birth of Jesus — Mary and the newborn Child at the center of the composition"
+    },
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The infant John leaping in Elizabeth's womb at Jesus's presence — the meeting of the two children"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God — the infant Baptist already drawn to Jesus"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things in her heart — her prayerful contemplation of the Christ Child"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "devotional",
+    "peaceful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008075",
+    "title": "Holy Family",
+    "artist": "Fra Bartolomeo",
+    "model": "claude-opus-4-6"
+  }
+}

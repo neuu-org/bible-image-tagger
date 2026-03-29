@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman Soldiers", "type": "GROUP"}
+  ],
+  "event": "Jesus Mocked by the Soldiers",
+  "tags": [
+    "mocking-of-christ",
+    "crown-of-thorns",
+    "roman-soldiers",
+    "passion-narrative",
+    "humiliation",
+    "reed-scepter",
+    "purple-robe",
+    "ecce-homo"
+  ],
+  "symbols": [
+    "crown of thorns — the perversion of kingship, mocking Christ's true sovereignty",
+    "reed placed as scepter — false royal authority mocking the King of Kings",
+    "purple robe — imperial mockery, yet ironically proclaiming Christ's true kingship",
+    "seated posture of Christ — passive endurance, the Suffering Servant who does not resist",
+    "soldiers surrounding — the world's hostility concentrated against the innocent"
+  ],
+  "description": "A seated, nearly nude figure of Christ wearing a crown of thorns and a loose pinkish-purple robe draped over his shoulders sits at center on a low platform. Three soldiers surround him: one kneels at lower left extending a reed toward Christ, another stands behind in a helmet holding a staff, and a third at right in animal skins holds the robe. Christ sits with bound hands, looking downward with a dejected expression. The background is dark and spare. Ropes or shackles lie on the ground at the lower right.",
+  "theological_description": "The mocking of Christ by the soldiers (Matthew 27:27-31; Mark 15:16-20) is one of the most theologically layered scenes in the Passion narrative. The soldiers' mockery is profoundly ironic: every element of their ridicule — the crown, the robe, the scepter, the genuflection — proclaims a truth they do not comprehend. Jesus truly is the King they mock. The crown of thorns recalls the curse of Genesis 3:18 ('thorns and thistles the ground shall bring forth'), now borne by the One who came to reverse the curse. The purple robe, stripped from Him before crucifixion, anticipates the seamless garment for which they will cast lots — a garment the Church Fathers associated with the High Priest's vestment. Christ's silent endurance fulfills Isaiah 53:7: 'He was oppressed and afflicted, yet He opened not His mouth.' This scene reveals the paradox of divine power: omnipotence manifested through voluntary submission to human cruelty.",
+  "scripture_refs": [
+    {"ref": "MAT.27.27-31", "relevance": "primary", "reason": "The soldiers mocking Jesus with the crown of thorns, purple robe, and reed scepter — the scene depicted"},
+    {"ref": "MRK.15.16-20", "relevance": "primary", "reason": "Mark's parallel account of the soldiers' mockery in the Praetorium"},
+    {"ref": "ISA.53.3-7", "relevance": "typological", "reason": "Despised and rejected, a man of sorrows — the Suffering Servant enduring mockery in silence"},
+    {"ref": "GEN.3.18", "relevance": "typological", "reason": "Thorns and thistles — the curse of the Fall now borne as a crown by the Redeemer"},
+    {"ref": "PHP.2.6-8", "relevance": "allusion", "reason": "Though in the form of God, He emptied Himself — divine humiliation manifested in the mocking"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["anguished", "brutal", "solemn"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007467",
+    "title": "Jesus mocked by the Soldiers",
+    "artist": "Edouard Manet",
+    "model": "claude-opus-4-6"
+  }
+}

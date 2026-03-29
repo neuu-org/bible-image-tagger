@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Herod Antipas", "type": "PERSON"},
+    {"name": "Guards", "type": "GROUP"},
+    {"name": "Courtiers", "type": "GROUP"}
+  ],
+  "event": "Christ Before Herod Antipas",
+  "tags": [
+    "trial-of-jesus",
+    "herod-antipas",
+    "passion",
+    "interrogation",
+    "silence-of-christ",
+    "mockery",
+    "royal-court",
+    "bound-prisoner",
+    "kingship-rejected",
+    "false-judgment"
+  ],
+  "symbols": [
+    "Christ in white robe — innocence and the gorgeous robe Herod later placed on him in mockery",
+    "Herod on throne — worldly authority confronted by divine kingship",
+    "dramatic light from upper left — divine illumination piercing the darkness of injustice",
+    "dark curtain — concealment of truth within the court of worldly power",
+    "guards with weapons — the coercive force of temporal kingdoms",
+    "outstretched gesture of Christ — patient dignity and prophetic authority even as prisoner"
+  ],
+  "description": "A bound figure in a white robe stands at the left of a darkened palatial interior, one arm extended in a speaking or gesturing posture. He faces a richly dressed ruler seated on an elevated throne at center-right, wearing ornate robes and a turban-like headdress. Several courtiers and guards stand around them, one holding a spear. A heavy dark curtain hangs behind the throne. Strong diagonal light enters from the upper left, dramatically illuminating the standing prisoner and the seated king.",
+  "theological_description": "Luke alone records that Pilate, learning Jesus was a Galilean, sent him to Herod Antipas, who happened to be in Jerusalem for Passover (LUK.23.6-12). Herod had long desired to see Jesus, hoping to witness a miracle, but Jesus answered him nothing — a silence that fulfills Isaiah's prophecy of the Servant led as a lamb before shearers (ISA.53.7). Herod and his soldiers mocked Jesus, dressed him in a splendid robe, and sent him back to Pilate. This encounter is theologically significant as the moment when the fox (LUK.13.32) meets the Lamb: Herod, the same ruler who beheaded John the Baptist, now confronts the one John proclaimed. Christ's silence before Herod contrasts with his partial responses to Pilate and Caiaphas, indicating that Herod, having rejected the testimony of the Baptist, has no further claim on divine revelation. The Fathers note that Herod and Pilate became friends that day (LUK.23.12), a dark parody of reconciliation accomplished through the rejection of the Prince of Peace.",
+  "scripture_refs": [
+    {"ref": "LUK.23.6-12", "relevance": "primary", "reason": "The specific episode of Jesus being sent to Herod Antipas during the Passion"},
+    {"ref": "ISA.53.7", "relevance": "typological", "reason": "The Suffering Servant silent before his accusers, as Jesus was silent before Herod"},
+    {"ref": "LUK.13.32", "relevance": "allusion", "reason": "Jesus calling Herod 'that fox,' now confronting him face to face"},
+    {"ref": "MRK.6.14-29", "relevance": "allusion", "reason": "Herod's earlier execution of John the Baptist, the forerunner whose testimony Herod rejected"},
+    {"ref": "ACT.4.27", "relevance": "typological", "reason": "Early Church prayer recalling that Herod and Pilate conspired against the Lord's anointed"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tension", "solemnity", "confrontation", "darkness"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002158",
+    "title": "Christ Before Herod Antipas",
+    "artist": "Nikolaus Kn\u00fcpfer",
+    "model": "claude-opus-4-6"
+  }
+}

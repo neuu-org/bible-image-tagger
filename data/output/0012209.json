@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph of Arimathea",
+      "type": "PERSON"
+    },
+    {
+      "name": "Nicodemus",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mourning Women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Entombment",
+  "tags": [
+    "entombment",
+    "burial-of-christ",
+    "deposition",
+    "joseph-of-arimathea",
+    "nicodemus",
+    "virgin-mary",
+    "mourning",
+    "shroud",
+    "tomb"
+  ],
+  "symbols": [
+    "limp body of Christ — the reality of His death, the completed sacrifice",
+    "white shroud — the burial cloth, and the linen left behind at resurrection",
+    "men carrying the body — Joseph and Nicodemus fulfilling the burial rites",
+    "women mourning above — the faithful witnesses who remained to the end",
+    "darkness — the darkness that covered the land, the nadir before the resurrection"
+  ],
+  "description": "A vertical composition showing the dead body of Christ being lowered or carried by several figures. The pale, muscular body is draped in white linen, held by a bearded man from above and supported by another man below at the feet. Above, women in dark and blue garments lean over in grief, one reaching toward the body. The lighting is dramatic and tenebristic, with the pallid body emerging starkly from deep darkness. The scene takes place at the entrance to a dark tomb or cave.",
+  "theological_description": "Rubens depicts the burial of Christ as described in all four Gospels. Joseph of Arimathea, 'a respected member of the council, who was also himself looking for the kingdom of God,' requested the body from Pilate and 'wrapped it in a linen shroud and laid him in a tomb' (Mark 15:43-46). Nicodemus, who had first come to Jesus by night, 'brought a mixture of myrrh and aloes' for the burial (John 19:39-40). The women who watched included Mary the mother of Jesus, Mary Magdalene, and others who 'saw where he was laid' (Mark 15:47). The entombment is the moment of deepest darkness — the incarnate God lies dead. Yet the burial is not without hope, for it fulfills the prophecy: 'they made his grave with the wicked and with a rich man in his death' (Isa 53:9). The white shroud that wraps the body will be found empty on the third day (John 20:5-7), transforming this scene of grief into the prelude to resurrection.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.15.43-46",
+      "relevance": "primary",
+      "reason": "Joseph of Arimathea wraps Jesus in linen and lays him in a tomb"
+    },
+    {
+      "ref": "JHN.19.39-40",
+      "relevance": "primary",
+      "reason": "Nicodemus brings spices and they bind the body in linen cloths"
+    },
+    {
+      "ref": "ISA.53.9",
+      "relevance": "typological",
+      "reason": "They made his grave with the rich — burial in a rich man's tomb"
+    },
+    {
+      "ref": "MRK.15.47",
+      "relevance": "allusion",
+      "reason": "Mary Magdalene and Mary saw where he was laid — the women watching"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "dark"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012209",
+    "title": "The Entombment",
+    "artist": "Peter Paul Rubens",
+    "model": "claude-opus-4-6"
+  }
+}

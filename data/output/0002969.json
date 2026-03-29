@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Salome", "type": "PERSON"},
+    {"name": "John the Baptist", "type": "PERSON"}
+  ],
+  "event": "Salome Carrying the Head of John the Baptist",
+  "tags": [
+    "salome",
+    "head-of-john-the-baptist",
+    "platter",
+    "beheading",
+    "martyrdom",
+    "halo",
+    "blood",
+    "dancing-girl",
+    "herods-feast",
+    "triumph-of-evil"
+  ],
+  "symbols": [
+    "severed head with radiant halo — the sanctity of the Baptist persisting even in death",
+    "blood dripping from platter — the cost of prophetic truth-telling",
+    "Salome's ornate dress and crown — worldly beauty and power as instruments of destruction",
+    "dark architectural setting — the darkness of Herod's court",
+    "flower or lotus held by Salome — the perverse offering of death disguised as beauty"
+  ],
+  "description": "A standing female figure in elaborate golden robes and a jeweled headdress holds a platter bearing the severed head of a bearded man. The head radiates a bright halo of light despite being severed, and blood drips from the platter. The woman's expression is calm and detached. She holds a small flower in her other hand. The setting is dark and atmospheric, with stone architecture barely visible in the background. The palette is dominated by gold, brown, and deep shadow, with the glowing head providing the main light source.",
+  "theological_description": "Salome carrying the head of John the Baptist on a platter is the culmination of the narrative in Mark 6:17-29. Herodias, incensed by John's condemnation of her unlawful marriage to Herod Antipas, used her daughter's dancing to extract from the king his rash oath, then demanded the Baptist's head. The severed head radiating a halo makes a powerful theological statement: the light of sanctity cannot be extinguished by death. John's martyrdom prefigures Christ's own — both are condemned by weak rulers, both die for truth. In Moreau's Symbolist interpretation, the beautiful, bejeweled Salome embodies the seduction of worldly power and beauty that leads to destruction of the prophetic voice. Yet the radiance from the severed head declares that 'the light shines in the darkness, and the darkness has not overcome it' (JHN.1.5). Jesus' own tribute to John resonates: 'He was a burning and shining lamp, and you were willing to rejoice for a while in his light' (JHN.5.35).",
+  "scripture_refs": [
+    {"ref": "MRK.6.21-28", "relevance": "primary", "reason": "The feast of Herod where Salome danced and requested John's head on a platter"},
+    {"ref": "MAT.14.6-11", "relevance": "primary", "reason": "Matthew's parallel account of the beheading and the head brought on a platter"},
+    {"ref": "JHN.5.35", "relevance": "allusion", "reason": "John was a burning and shining lamp — the radiant halo on the severed head"},
+    {"ref": "JHN.1.5", "relevance": "typological", "reason": "The light shines in darkness and the darkness has not overcome it"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["dark", "eerie", "somber", "haunting"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002969",
+    "title": "Salome Carrying the Head of John the Baptist on a Platter",
+    "artist": "Gustave Moreau",
+    "model": "claude-opus-4-6"
+  }
+}

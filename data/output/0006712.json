@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Female saint",
+      "type": "PERSON"
+    },
+    {
+      "name": "Male saint in armor",
+      "type": "PERSON"
+    },
+    {
+      "name": "Male saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Sacred Conversation — Madonna enthroned with saints",
+  "tags": [
+    "madonna-enthroned",
+    "christ-child",
+    "saints",
+    "john-the-baptist",
+    "throne",
+    "architectural-setting",
+    "devotional",
+    "renaissance-altarpiece"
+  ],
+  "symbols": [
+    "enthroned Madonna — the Queen of Heaven and Seat of Wisdom, the Church as throne of Christ",
+    "Christ Child on Mary's lap — the Incarnate Word presented to the faithful through the Church",
+    "gathered saints — the communion of saints, the heavenly court surrounding the divine mother and child",
+    "architectural niche — the apse or sanctuary of the Church, the sacred space of encounter with God"
+  ],
+  "description": "A Renaissance altarpiece set within a painted architectural frame of arches and vaults. At center, the Virgin Mary sits enthroned on a raised platform, holding the Christ Child on her lap. She wears a white veil and dark robes. Four saints stand before the throne: to the far left, a nearly nude figure with an animal skin (John the Baptist); beside him, a woman in a red robe; to the right, an armored figure; and at the far right, another male saint. The background opens to a sky with clouds behind a green curtain.",
+  "theological_description": "The Sacra Conversazione (Sacred Conversation) is an iconic Renaissance composition presenting the Madonna and Child enthroned among saints in a unified, timeless space. This arrangement transcends historical time: saints from different centuries gather in the presence of the Virgin and Child as if in a single eternal moment, expressing the theological reality of the communion of saints. The enthroned Mary reflects her title as Sedes Sapientiae (Seat of Wisdom), for she bears on her lap the one who is 'the power of God and the wisdom of God' (1 Cor 1:24). John the Baptist's presence recalls his role as the forerunner who proclaimed, 'Behold, the Lamb of God, who takes away the sin of the world' (John 1:29). The architectural setting suggests the heavenly temple described in Revelation, where the redeemed gather before the throne. The composition as a whole enacts the vision of Hebrews 12:22-23: 'You have come to Mount Zion, to the city of the living God, the heavenly Jerusalem, and to innumerable angels in festal gathering, and to the assembly of the firstborn who are enrolled in heaven.'",
+  "scripture_refs": [
+    {
+      "ref": "JHN.1.29",
+      "relevance": "primary",
+      "reason": "John the Baptist's proclamation of the Lamb of God — his presence identifying Christ to the viewer"
+    },
+    {
+      "ref": "1CO.1.24",
+      "relevance": "typological",
+      "reason": "Christ the power and wisdom of God — Mary as the Seat of Wisdom bearing the divine Word"
+    },
+    {
+      "ref": "HEB.12.22-23",
+      "relevance": "typological",
+      "reason": "The heavenly assembly of the firstborn — the communion of saints enacted in the Sacred Conversation"
+    },
+    {
+      "ref": "REV.7.9-10",
+      "relevance": "allusion",
+      "reason": "The great multitude before the throne — the saints gathered in eternal worship around Christ"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "serene",
+    "majestic",
+    "devotional",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006712",
+    "title": "Sacred Conversation",
+    "artist": "Cima da Conegliano",
+    "model": "claude-opus-4-6"
+  }
+}

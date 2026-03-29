@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Fools on the Ship",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Ship of Fools",
+  "tags": [
+    "ship-of-fools",
+    "allegory",
+    "folly",
+    "sin",
+    "drunkenness",
+    "gluttony",
+    "boat",
+    "tree",
+    "revelry",
+    "moral-warning"
+  ],
+  "symbols": [
+    "ship adrift — humanity lost in sin, the Church or society without moral direction",
+    "tree growing from the boat — the mast replaced by nature, chaos overtaking order",
+    "figures feasting and drinking — gluttony and drunkenness as cardinal sins",
+    "figure climbing the mast — futile striving and foolish ambition",
+    "banner or pennant — the false flag of worldly pleasure"
+  ],
+  "description": "A small boat filled with numerous figures floats on greenish water. A tree grows from the center of the boat, serving as a kind of mast with foliage at the top, where a figure appears to climb. In the boat, several figures are eating, drinking, and carousing. Some wear clerical or monastic garments. One figure plays a lute. Others reach for food or drink. The scene is chaotic and crowded, with figures in various states of excess. The background shows a pale yellow sky. The overall composition has a sardonic, moralizing quality.",
+  "theological_description": "Bosch's Ship of Fools is a moral allegory drawn from the late medieval literary tradition, particularly Sebastian Brant's 1494 satire of the same name. The painting depicts a world given over to sin and folly — a boat full of revelers going nowhere, a powerful image of humanity adrift without God. Proverbs warns extensively against folly: 'The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction' (Prov 1:7). The drunkenness and gluttony depicted recall Isaiah's condemnation: 'Woe to those who rise early in the morning, that they may run after strong drink' (Isa 5:11). The presence of figures in religious garments suggests the corruption of the clergy, echoing the prophetic tradition of condemning wayward spiritual leaders — 'the priest and the prophet reel with strong drink' (Isa 28:7). Jesus himself warned that the last days would be 'as in the days of Noah... they were eating and drinking' until judgment came (Matt 24:38). The ship going nowhere is an image of a world that has lost its moral compass.",
+  "scripture_refs": [
+    {
+      "ref": "PRO.1.7",
+      "relevance": "typological",
+      "reason": "Fools despise wisdom and instruction — the central theme of human folly"
+    },
+    {
+      "ref": "ISA.5.11",
+      "relevance": "allusion",
+      "reason": "Woe to those who pursue strong drink — the drunken revelers in the boat"
+    },
+    {
+      "ref": "ISA.28.7",
+      "relevance": "allusion",
+      "reason": "The priest and prophet reel with strong drink — clergy among the fools"
+    },
+    {
+      "ref": "MAT.24.38-39",
+      "relevance": "typological",
+      "reason": "As in the days of Noah, eating and drinking heedless of coming judgment"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "satirical",
+    "chaotic",
+    "moralizing"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0011807",
+    "title": "The Ship of Fools",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

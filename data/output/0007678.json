@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Roman Soldiers", "type": "GROUP"}
+  ],
+  "event": "Christ Carrying the Cross",
+  "tags": [
+    "carrying-the-cross",
+    "via-dolorosa",
+    "passion",
+    "roman-soldiers",
+    "way-of-the-cross",
+    "calvary",
+    "suffering-servant",
+    "wooden-cross"
+  ],
+  "symbols": [
+    "heavy wooden cross — the weight of humanity's sin borne by the innocent",
+    "Christ's downcast eyes — the willing submission of the Lamb to slaughter",
+    "soldiers pressing behind — the relentless force of human sin driving Christ to Calvary",
+    "distant Golgotha with crosses — the destination and fulfillment of the journey",
+    "blue garment — Christ's divinity veiled beneath human suffering"
+  ],
+  "description": "A close-up, half-length composition showing Christ in a blue robe carrying a large wooden cross on his right shoulder. His head is bowed, eyes lowered, with an expression of weary resignation. Behind him, two men press close — one in a helmet, the other bare-headed — pushing or guiding him forward. In the distant background at right, a dark landscape shows two crosses on a hill and a reddish glow, suggesting Golgotha. The painting is tightly cropped, creating an intimate confrontation between the viewer and Christ's suffering.",
+  "theological_description": "Christ carrying the cross to Calvary (John 19:17) is one of the most meditated-upon moments in Christian spirituality. The Via Dolorosa — the Way of Sorrows — traces Christ's path from condemnation to crucifixion, and each step carries theological weight. The cross He bears is not merely a Roman execution instrument but the altar upon which the sacrifice of the new covenant will be offered. Isaiah prophesied that the Servant of the Lord would bear our griefs and carry our sorrows (Isaiah 53:4). The soldiers pressing behind Christ represent not merely Roman authority but the collective sin of humanity that drives the innocent to death. Yet Christ goes willingly: 'No one takes my life from me; I lay it down of my own accord' (John 10:18). The intimate cropping forces the viewer into the role of witness, demanding a personal response to the suffering Redeemer. Every Christian is called to take up their own cross and follow (Luke 9:23).",
+  "scripture_refs": [
+    {"ref": "JHN.19.17", "relevance": "primary", "reason": "Jesus went out carrying His own cross to Golgotha — the scene directly depicted"},
+    {"ref": "ISA.53.4-5", "relevance": "typological", "reason": "He bore our griefs and carried our sorrows — the Suffering Servant carrying the weight of human sin"},
+    {"ref": "LUK.9.23", "relevance": "allusion", "reason": "If anyone would come after me, let him take up his cross — the call to follow Christ in suffering"},
+    {"ref": "JHN.10.18", "relevance": "allusion", "reason": "No one takes my life from me, I lay it down of my own accord — Christ's willing self-sacrifice"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "weighty", "intimate"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007678",
+    "title": "Christ Carrying the Cross",
+    "artist": "Sebastiano del Piombo",
+    "model": "claude-opus-4-6"
+  }
+}

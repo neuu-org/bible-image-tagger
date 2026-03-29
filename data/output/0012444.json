@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Resurrected People", "type": "GROUP"}
+  ],
+  "event": "The Resurrection — Waking Up",
+  "tags": [
+    "resurrection",
+    "waking",
+    "bodies",
+    "garden",
+    "flowers",
+    "flesh",
+    "village",
+    "stanley-spencer",
+    "cookham",
+    "general-resurrection"
+  ],
+  "symbols": [
+    "bodies rising from grass — the general resurrection of the dead",
+    "garden flowers — paradise restored, the new creation",
+    "stretching and yawning figures — resurrection as a gentle awakening from sleep",
+    "village setting — the ordinary world transformed by the resurrection"
+  ],
+  "description": "A scene of multiple fleshy, rounded human figures lying and rising from a lush green garden filled with flowers. The figures appear to be waking up — stretching, yawning, sitting up — in various states of undress. Some women in patterned dresses look on. Children and adults are intermingled. The setting is a garden with abundant wildflowers and greenery. The style is distinctively Spencer — rounded, tactile bodies in an everyday English landscape, with bright, saturated colors and a flattened, folk-art quality.",
+  "theological_description": "Stanley Spencer's visionary painting reimagines the general resurrection as a gentle awakening in the familiar setting of his beloved village of Cookham. Rather than a terrifying apocalyptic event, Spencer depicts resurrection as waking from sleep — echoing Jesus' words about the dead girl: 'She is not dead but sleeping' (Mark 5:39). Paul described death as sleep: 'We shall not all sleep, but we shall all be changed' (1 Cor 15:51). The garden setting recalls both Eden and the eschatological paradise, where 'he will wipe away every tear from their eyes, and death shall be no more' (Rev 21:4). The ordinariness of the scene — everyday people in a village garden — expresses Spencer's theology that the resurrection transforms the mundane into the sacred. Paul's great resurrection chapter provides the theological foundation: 'What is sown in dishonor is raised in glory... It is sown a natural body; it is raised a spiritual body' (1 Cor 15:43-44). Spencer believed heaven would be Cookham on a summer day, but with everyone fully alive.",
+  "scripture_refs": [
+    {"ref": "1CO.15.51-52", "relevance": "primary", "reason": "We shall not all sleep but we shall all be changed — the awakening from death"},
+    {"ref": "1CO.15.43-44", "relevance": "primary", "reason": "Sown in dishonor, raised in glory — the resurrected bodies waking"},
+    {"ref": "REV.21.4", "relevance": "typological", "reason": "Death shall be no more — the gentle, peaceful resurrection scene"},
+    {"ref": "MRK.5.39", "relevance": "allusion", "reason": "She is not dead but sleeping — death as sleep from which one wakes"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["gentle", "wondrous", "intimate"],
+  "period": "Eschatological",
+  "_meta": {
+    "key": "0012444",
+    "title": "The Resurrection - Waking Up",
+    "artist": "Stanley Spencer",
+    "model": "claude-opus-4-6"
+  }
+}

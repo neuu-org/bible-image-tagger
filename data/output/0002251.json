@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Rest on the Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "rest",
+    "donkey",
+    "holy-family",
+    "journey",
+    "exile",
+    "refuge",
+    "escape-from-herod",
+    "divine-protection"
+  ],
+  "symbols": [
+    "donkey — the humble beast of burden carrying the King of Kings",
+    "mountainous landscape — the arduous journey through wilderness into Egypt",
+    "fruit trees — divine provision sustaining the Holy Family in exile",
+    "distant city — the civilization left behind or the destination ahead",
+    "Mary seated on donkey with child — the new Ark carrying the divine presence into foreign land"
+  ],
+  "description": "A horizontal predella panel shows a small procession moving from left to right through a hilly landscape. The Virgin Mary, in a blue mantle, sits on a gray donkey holding the Christ Child. An older bearded man in a brown robe walks ahead leading the way, while another figure in robes follows behind. The landscape features rounded hills with fruit-bearing trees, rocky outcroppings, and a walled city visible in the distance at the right. The sky is pale with golden light near the horizon.",
+  "theological_description": "The Flight into Egypt is recorded solely by Matthew (MAT.2.13-15), who frames it as fulfillment of Hosea's prophecy: 'Out of Egypt I called my son' (HOS.11.1). An angel warns Joseph in a dream to take the child and his mother and flee to Egypt, for Herod seeks to destroy the child. The Rest during the Flight is a devotional elaboration imagining a pause in the arduous journey, reflecting on the paradox that the Creator of the universe must flee as a refugee from a petty tyrant. Typologically, the Flight recapitulates Israel's own sojourn in Egypt: as the people of God once went down into Egypt and were called out, so the Son of God descends into Egypt and returns, making the Exodus his own and thereby redeeming it. The Church Fathers saw in this journey a sanctification of exile itself — Christ enters the land of idols to prepare its future conversion. The scene also evokes the prophecy of Isaiah that the Lord would come to Egypt and the idols of Egypt would tremble (ISA.19.1).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The angel warning Joseph to flee to Egypt with Mary and Jesus to escape Herod"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son — fulfilled in the Holy Family's return from Egypt"
+    },
+    {
+      "ref": "ISA.19.1",
+      "relevance": "allusion",
+      "reason": "The Lord riding into Egypt, before whom the idols tremble"
+    },
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "primary",
+      "reason": "Herod's massacre of the innocents that necessitated the flight"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "journey",
+    "peaceful",
+    "refuge",
+    "vulnerability"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002251",
+    "title": "Adoration of the Magi Altarpiece, left hand predella panel depicting Rest during The Flight into Egypt",
+    "artist": "Gentile da Fabriano",
+    "model": "claude-opus-4-6"
+  }
+}

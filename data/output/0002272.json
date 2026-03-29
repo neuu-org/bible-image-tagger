@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Luke",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Luke as Painter before Christ on the Cross",
+  "tags": [
+    "crucifixion",
+    "saint-luke",
+    "painter",
+    "inri",
+    "devotion",
+    "contemplation",
+    "cross",
+    "artist-and-subject",
+    "evangelist",
+    "passion"
+  ],
+  "symbols": [
+    "crucifix with INRI inscription — the atoning death of Christ, King of the Jews",
+    "white loincloth — the purity of the sacrificial Lamb",
+    "Saint Luke holding palette and brushes — tradition of Luke as the first painter of sacred images",
+    "upward gaze of Luke — contemplation of the mystery of redemption as source of art",
+    "dark background — the darkness that covered the land during the Crucifixion",
+    "bare wooden cross — the tree of death transformed into the tree of life"
+  ],
+  "description": "A crucified figure of Christ hangs on a wooden cross against a dark background. The titulus above reads INRI. Christ's body is emaciated and muscular, his head bowed to the right, a white cloth draped around his waist. At the lower right, a bearded man in a pale robe kneels looking up at the crucified Christ, holding a painter's palette and brushes in his hands. The lighting is dramatic, with strong illumination on Christ's body and the kneeling figure against the near-total darkness surrounding them.",
+  "theological_description": "This image unites two traditions: the Crucifixion of Christ and the ancient tradition identifying Saint Luke the Evangelist as the first Christian painter. According to early Church tradition, Luke painted the first icons of the Virgin Mary and of Christ, making him the patron saint of artists. Here he is depicted contemplating the Crucifixion itself, palette in hand, as though seeking to capture the central mystery of the faith. The Crucifixion fulfills the entire prophetic witness: Isaiah's Suffering Servant (ISA.53.5), the pierced one of Zechariah (ZEC.12.10), and the cry of Psalm 22. Luke's own Gospel provides unique details of the Passion — the weeping women of Jerusalem (LUK.23.27-28), the penitent thief (LUK.23.39-43), and Christ's final words: 'Father, into your hands I commit my spirit' (LUK.23.46). The artist gazing at the Cross represents every believer's call to contemplate the Crucified and to 'survey the wondrous cross,' allowing the mystery of redemptive suffering to transform perception and creativity alike.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.33-46",
+      "relevance": "primary",
+      "reason": "Luke's account of the Crucifixion, the Gospel this evangelist authored"
+    },
+    {
+      "ref": "JHN.19.19",
+      "relevance": "primary",
+      "reason": "Pilate's inscription INRI on the cross, visible in the painting"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "He was wounded for our transgressions — the Suffering Servant on the Cross"
+    },
+    {
+      "ref": "COL.1.15",
+      "relevance": "allusion",
+      "reason": "Christ as the image of the invisible God, the theological basis for Luke's iconographic tradition"
+    },
+    {
+      "ref": "GAL.6.14",
+      "relevance": "allusion",
+      "reason": "Paul's boast in the cross of Christ alone — the painter's sole subject"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "devotion",
+    "solemnity",
+    "contemplation",
+    "reverence"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002272",
+    "title": "Saint Luke as a Painter before Christ on the Cross",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Crucifixion",
+  "tags": [
+    "crucifixion",
+    "cross",
+    "angels-collecting-blood",
+    "mourners",
+    "golgotha",
+    "skull",
+    "candles",
+    "inri",
+    "passion"
+  ],
+  "symbols": [
+    "Christ crucified — the atoning sacrifice at the center of salvation history",
+    "angels collecting blood in chalices — the Eucharistic theology of Christ's blood as sacramental offering",
+    "Mary Magdalene embracing the cross — the penitent's devotion clinging to the instrument of salvation",
+    "Virgin Mary in sorrow — the Mater Dolorosa at the foot of the cross",
+    "skull at base — Golgotha, the place of the skull, and tradition of Adam's skull buried beneath the cross",
+    "candles below — the liturgical context, this being an altarpiece for devotional use"
+  ],
+  "description": "A large altarpiece in an ornate carved stone frame depicting the Crucifixion. Christ hangs on a dark wooden cross at center with the INRI inscription. Two angels hover on either side collecting his blood in golden chalices. Below, the Virgin Mary stands at left in purple robes, Mary Magdalene kneels at the base of the cross with long flowing hair, and John the Apostle stands at right in blue and red robes. A skull sits at the foot of the cross. The landscape shows trees and distant hills. Candles are placed on a ledge below the painting.",
+  "theological_description": "This Certosa altarpiece presents the Crucifixion with explicit Eucharistic theology: the angels collecting Christ's blood in chalices make visible the connection between Calvary and the Mass. Every celebration of the Eucharist makes present the once-for-all sacrifice of the cross, as the Letter to the Hebrews teaches: 'He entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption' (HEB.9.12). The skull at the base of the cross represents the traditional site of Adam's burial — Christ's blood flows down to the first Adam, undoing the curse of Eden. Paul articulates this: 'As in Adam all die, so also in Christ shall all be made alive' (1CO.15.22). The Magdalene's embrace of the cross echoes her earlier anointing of Jesus's feet (LUK.7.38), now transformed from devotion to grief. Mary and John, entrusted to each other (JHN.19.26-27), represent the Church born from the side of Christ on the cross.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-30",
+      "relevance": "primary",
+      "reason": "The Crucifixion narrative, the central event of this altarpiece"
+    },
+    {
+      "ref": "HEB.9.12",
+      "relevance": "primary",
+      "reason": "Christ entering the holy place by his own blood, visualized in the angel-collected chalices"
+    },
+    {
+      "ref": "1CO.15.22",
+      "relevance": "typological",
+      "reason": "As in Adam all die, in Christ all made alive — the skull of Adam beneath the cross"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and John at the cross, entrusted to each other"
+    },
+    {
+      "ref": "MAT.26.28",
+      "relevance": "typological",
+      "reason": "This is my blood of the covenant, poured out for many — the Eucharistic blood collected by angels"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "sacred",
+    "sorrowful",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009845",
+    "title": "Certosa (florence)",
+    "artist": "Mariotto Albertinelli",
+    "model": "claude-opus-4-6"
+  }
+}

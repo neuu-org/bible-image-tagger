@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Shepherds",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Adoration of the Shepherds",
+  "tags": [
+    "adoration-of-shepherds",
+    "nativity",
+    "infant-christ",
+    "manger",
+    "shepherds",
+    "worship"
+  ],
+  "symbols": [
+    "shepherds kneeling — the humble first to hear the good news",
+    "infant Christ — the Light of the World born in a stable"
+  ],
+  "description": "A Portuguese Renaissance painting showing the Adoration of the Shepherds. Shepherds in pilgrim or peasant attire kneel before the newborn Christ, who lies before the Virgin Mary. Joseph and other figures attend. The setting is a stable or ruin with medieval architectural elements.",
+  "theological_description": "The Adoration of the Shepherds (LUK.2.8-20) shows the first human visitors to the newborn Messiah. The shepherds, lowest in social rank, are chosen as the first witnesses — reflecting God's pattern of exalting the humble (LUK.1.52). The angel's announcement — 'unto you is born this day in the city of David a Savior, who is Christ the Lord' (LUK.2.11) — is the heart of the Christmas message.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.8-20",
+      "relevance": "primary",
+      "reason": "The shepherds visiting the newborn Christ"
+    },
+    {
+      "ref": "LUK.2.11",
+      "relevance": "primary",
+      "reason": "A Savior born in the city of David"
+    },
+    {
+      "ref": "LUK.1.52",
+      "relevance": "allusion",
+      "reason": "God exalting the humble"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "joyful",
+    "humble"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011491",
+    "title": "Adoracao dos Pastores",
+    "artist": "Gregorio Lopes",
+    "model": "claude-opus-4-6"
+  }
+}

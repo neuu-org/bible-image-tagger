@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "Holy Family",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Donkey",
+      "type": "OTHER"
+    }
+  ],
+  "event": "Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "holy-family",
+    "donkey",
+    "palm-trees",
+    "expressionist",
+    "landscape",
+    "crescent-moon"
+  ],
+  "symbols": [
+    "donkey carrying the family — the humble means of the divine journey",
+    "lush vegetation — the abundance of God's provision along the way",
+    "crescent moon — the nocturnal flight, guided by heavenly light",
+    "Mary embracing the Child — maternal protection of the infant Savior"
+  ],
+  "description": "A bold black-and-white woodcut or ink drawing showing a woman holding a child while riding a donkey through dense tropical vegetation. Palm trees, flowering plants, and leafy bushes fill the composition in an almost overwhelming profusion. A crescent moon and distant pyramids or tents are visible in the upper portion. The style is expressionistic with heavy black lines and intricate patterning. The initials 'OK' appear at the lower right.",
+  "theological_description": "The Flight into Egypt rendered in expressionist woodcut form strips the narrative to its essential drama: a family fleeing through the night with their infant, trusting God's guidance into the unknown. The overwhelming vegetation suggests both the wildness of the journey and God's providential care — the one who clothes the lilies of the field (Matthew 6:28-30) surrounds His fleeing Son with life and growth even in exile. The nocturnal setting with the crescent moon recalls the urgency of Joseph's obedience: he rose immediately in the night and departed (Matthew 2:14). The dense, almost claustrophobic foliage creates a sense of the family being swallowed by the landscape, recalling how God hides His own in times of danger — as He hid Moses in the bulrushes (Exodus 2:3) and Elijah by the brook Cherith (1 Kings 17:3).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The angel's warning and the flight to Egypt — the scene depicted"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son — Christ recapitulating Israel's journey"
+    },
+    {
+      "ref": "MAT.6.28-30",
+      "relevance": "allusion",
+      "reason": "Consider the lilies — God's provision surrounding the fleeing family in abundant vegetation"
+    },
+    {
+      "ref": "EXO.2.2-3",
+      "relevance": "typological",
+      "reason": "Moses hidden to escape Pharaoh's slaughter — the pattern of hiding the deliverer from murderous kings"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "urgent",
+    "lush",
+    "protective"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008165",
+    "title": "Flight into Egypt",
+    "artist": "Oskar Kokoschka",
+    "model": "claude-opus-4-6"
+  }
+}

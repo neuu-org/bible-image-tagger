@@ -1,0 +1,66 @@
+{
+  "characters": [
+    {
+      "name": "Gabriel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Annunciation — illuminated manuscript",
+  "tags": [
+    "annunciation",
+    "angel-gabriel",
+    "virgin-mary",
+    "scroll",
+    "halos",
+    "medieval",
+    "romanesque",
+    "blue-background"
+  ],
+  "symbols": [
+    "scroll held by the angel — the divine message being delivered to Mary",
+    "golden halos — divine sanctity surrounding both the angel and the Virgin",
+    "blue background with gold stars — the heavenly realm from which Gabriel descends",
+    "raised hand of Mary — acceptance and response, the fiat that changes history"
+  ],
+  "description": "An illuminated manuscript page showing the Annunciation scene within a rectangular frame decorated with green marbled borders and gold leaf. Against a deep blue background, two standing haloed figures face each other. On the left, an angel with green wings wears a blue and red robe and holds a scroll with text. On the right, a figure in a red robe with a gold halo raises one hand in response. Both figures are rendered in the flat, stylized manner of Romanesque manuscript illumination. The colors are vivid — deep blue, red, green, and gold.",
+  "theological_description": "This Romanesque manuscript illumination presents the Annunciation with the spare, hieratic clarity characteristic of medieval art. The Angel Gabriel holds a scroll bearing his message — 'Hail, full of grace, the Lord is with you' (Luke 1:28) — while Mary raises her hand in the gesture of acceptance that will change the course of history: 'Let it be to me according to your word' (Luke 1:38). The flat, formal style is not primitive but intentional: it presents the event not as a historical incident but as a timeless theological truth. The gold leaf and rich colors signal the preciousness of this moment — the hinge on which all of salvation history turns. The Annunciation is the moment when heaven and earth meet: God proposes, and a human being freely consents, making the Incarnation possible. As the early Church Fathers taught, the angel's Ave (Hail) reverses the name Eva (Eve), signaling that Mary is the new Eve whose obedience undoes the disobedience of the first woman.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-38",
+      "relevance": "primary",
+      "reason": "The Annunciation — Gabriel's message to Mary and her consent"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "Hail, full of grace, the Lord is with you — the words on the angel's scroll"
+    },
+    {
+      "ref": "LUK.1.38",
+      "relevance": "primary",
+      "reason": "Let it be to me according to your word — Mary's raised hand signifying consent"
+    },
+    {
+      "ref": "ISA.7.14",
+      "relevance": "typological",
+      "reason": "The virgin shall conceive and bear a son — the prophecy fulfilled at this moment"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sacred",
+    "formal",
+    "luminous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008960",
+    "title": "Annunciation",
+    "artist": "Claricia",
+    "model": "claude-opus-4-6"
+  }
+}

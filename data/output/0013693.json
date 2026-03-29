@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Moses",
+      "type": "PERSON"
+    },
+    {
+      "name": "Israelites",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Moses Strikes the Rock at Horeb",
+  "tags": [
+    "moses",
+    "striking-the-rock",
+    "water-from-rock",
+    "desert",
+    "israelites",
+    "miracle",
+    "staff",
+    "thirst",
+    "wilderness-wandering",
+    "water-jars",
+    "mountains",
+    "gathering-water"
+  ],
+  "symbols": [
+    "staff striking the rock \u2014 divine power channeled through the mediator to sustain the people",
+    "water flowing from rock \u2014 God\u2019s miraculous provision in the barren wilderness",
+    "people gathering water in jars \u2014 the community\u2019s desperate need met by divine grace",
+    "desert mountains \u2014 the harsh testing ground where faith is refined"
+  ],
+  "description": "A scene set in a rocky desert landscape with mountains in the background. At the upper right, a robed figure with a raised staff stands on elevated rocks, from which water gushes forth. Below, men and women in Middle Eastern robes and head coverings gather eagerly around the water stream, filling jars and pots. Some kneel to drink while others carry vessels. The figures express urgency and relief. The setting is arid and sun-baked, emphasizing the miracle of water in the wilderness.",
+  "theological_description": "Moses striking the rock at Horeb (Exodus 17:1-7) is one of the defining miracles of the wilderness period. When the Israelites complained bitterly about having no water, God commanded Moses to strike the rock with his staff, and water gushed forth abundantly. Paul identifies this rock typologically with Christ: \u2018They drank from the spiritual Rock that followed them, and the Rock was Christ\u2019 (1 Corinthians 10:4). Jesus himself drew on this imagery at the Feast of Tabernacles: \u2018If anyone thirsts, let him come to me and drink\u2019 (John 7:37). The place was named Massah and Meribah (\u2018testing\u2019 and \u2018quarreling\u2019), marking a crucial episode in Israel\u2019s struggle between faith and doubt. The miracle demonstrates that God provides for his people even in their rebellion, sustaining them not because they deserve it but because of his covenant faithfulness. Moses\u2019 later striking of the rock in anger (Numbers 20:11) cost him entry to the Promised Land, showing that even mediators must honor God\u2019s holiness.",
+  "scripture_refs": [
+    {
+      "ref": "EXO.17.1-7",
+      "relevance": "primary",
+      "reason": "Moses striking the rock at Horeb and water flowing forth to quench the people\u2019s thirst"
+    },
+    {
+      "ref": "1CO.10.4",
+      "relevance": "typological",
+      "reason": "The spiritual Rock that followed them was Christ"
+    },
+    {
+      "ref": "JHN.7.37-38",
+      "relevance": "typological",
+      "reason": "Jesus declaring himself the source of living water at the Feast of Tabernacles"
+    },
+    {
+      "ref": "NUM.20.8-12",
+      "relevance": "allusion",
+      "reason": "The second striking of the rock and Moses\u2019 failure to honor God\u2019s holiness"
+    },
+    {
+      "ref": "PSA.78.15-16",
+      "relevance": "allusion",
+      "reason": "He split rocks in the wilderness and gave them drink abundantly"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "miraculous",
+    "desperate",
+    "relieved",
+    "dramatic"
+  ],
+  "period": "Exodus",
+  "_meta": {
+    "key": "0013693",
+    "title": "Moses Strikes the Rock",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

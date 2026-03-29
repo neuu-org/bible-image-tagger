@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {"name": "Sergius of Radonezh", "type": "PERSON"}
+  ],
+  "event": "Saint Sergius of Radonezh",
+  "tags": [
+    "saint-sergius",
+    "russian-saint",
+    "orthodox-icon",
+    "monk",
+    "scroll",
+    "halo",
+    "monastic-founder",
+    "cyrillic-inscription"
+  ],
+  "symbols": [
+    "scroll with text — the monastic rule or spiritual testament of Sergius",
+    "golden halo — sanctity recognized by the Orthodox Church",
+    "dark monastic habit — the ascetic life of poverty and prayer",
+    "blessing hand — the saint's intercessory power for the faithful"
+  ],
+  "description": "An Orthodox icon on a wooden panel showing a half-length portrait of an elderly monk with a long gray beard and a bald, domed head. He wears a dark blue-green monastic habit and cowl. He holds an unrolled scroll with Cyrillic text in his left hand while his right hand is raised in blessing. A large golden halo surrounds his head. Cyrillic inscription identifies him at the top. The background is pale with the panel showing signs of age.",
+  "theological_description": "Saint Sergius of Radonezh (1314-1392) is the most venerated saint in Russian Orthodoxy, the founder of the Trinity Lavra and the spiritual father of Russian monasticism. His monastic reform emphasized community life, manual labor, and the imitation of Christ. The scroll he holds likely contains his spiritual testament to his monks — the rule of life that shaped Russian Christianity for centuries. Sergius's life embodied the paradox of Christian influence: by withdrawing from the world into prayer and poverty, he became the most influential figure in Russian culture. His blessing of Prince Dmitry Donskoy before the Battle of Kulikovo (1380) linked monastic prayer to national destiny. The icon presents Sergius as an ongoing intercessor whose prayers continue to protect and guide the faithful.",
+  "scripture_refs": [
+    {"ref": "MAT.19.21", "relevance": "primary", "reason": "If you would be perfect, go sell what you have and follow me — the Gospel command Sergius obeyed in founding his monastery"},
+    {"ref": "MAT.18.20", "relevance": "allusion", "reason": "Where two or three are gathered in my name — the Trinity dedication of Sergius's monastery"},
+    {"ref": "HEB.11.38", "relevance": "allusion", "reason": "Of whom the world was not worthy, wandering in deserts — the monastic withdrawal from the world"},
+    {"ref": "JAS.5.16", "relevance": "allusion", "reason": "The prayer of a righteous person has great power — Sergius's intercessory authority"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["serene", "authoritative", "sacred"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0008062",
+    "title": "Sergius of Radonezh",
+    "artist": "Simon Ushakov",
+    "model": "claude-opus-4-6"
+  }
+}

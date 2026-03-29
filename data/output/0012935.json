@@ -1,0 +1,59 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Head of the Virgin Mary",
+  "tags": [
+    "virgin-mary",
+    "blue-veil",
+    "downcast-eyes",
+    "contemplation",
+    "modesty",
+    "sorrow",
+    "maternal-tenderness",
+    "marian-devotion",
+    "portrait-bust"
+  ],
+  "symbols": [
+    "blue veil \u2014 heavenly purity, faithfulness, and Marian devotion",
+    "downcast gaze \u2014 humility, sorrow, and interior contemplation",
+    "golden-yellow inner garment \u2014 divine grace beneath the veil of humility",
+    "dark background \u2014 solitude and the depth of Mary\u2019s inner life"
+  ],
+  "description": "A close-up portrait of a young woman shown from the neck up. She wears a deep blue veil draped over her head and a golden-yellow garment visible at the neckline. Her reddish-brown hair peeks from beneath the veil. Her eyes are cast downward with a gentle, sorrowful expression. The background is dark and plain, focusing all attention on her luminous face.",
+  "theological_description": "This devotional portrait of the Virgin Mary captures her characteristic posture of humble contemplation. The downcast eyes reflect Mary\u2019s disposition described in Luke 2:19, where she \u2018treasured all these things, pondering them in her heart.\u2019 The blue mantle, traditionally associated with heavenly queenship and purity, envelops her as a sign of her unique role as Theotokos\u2014the God-bearer. The sorrowful expression may anticipate Simeon\u2019s prophecy that a sword would pierce her own soul (Luke 2:35), connecting this portrait to the larger narrative of redemptive suffering. Mary\u2019s humility, captured in her lowered gaze, echoes the Magnificat where she declares that God \u2018has looked on the humble estate of his servant\u2019 (Luke 1:48). She stands as the exemplar of receptive faith and quiet obedience to the divine will.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary treasured all these things, pondering them in her heart, reflected in her contemplative downcast gaze"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "God has looked on the humble estate of his servant, embodied in Mary\u2019s modest demeanor"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon\u2019s prophecy that a sword shall pierce her soul, suggested by her sorrowful expression"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "sorrowful",
+    "tender",
+    "serene"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012935",
+    "title": "Head of the Virgin",
+    "artist": "Giambattista Pittoni",
+    "model": "claude-opus-4-6"
+  }
+}

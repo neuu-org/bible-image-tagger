@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Pietà — Mary holding the dead Christ",
+  "tags": [
+    "pieta",
+    "dead-christ",
+    "mater-dolorosa",
+    "mourning",
+    "expressionist",
+    "maternal-grief",
+    "passion",
+    "lamentation",
+    "headscarf",
+    "wound"
+  ],
+  "symbols": [
+    "mother holding lifeless body — the Pietà, Mary cradling her dead Son after the Crucifixion",
+    "wound visible on the body — the marks of the Passion, the price of redemption",
+    "woman's bowed head — the weight of grief and the silent suffering of the Mater Dolorosa",
+    "muted colors and heavy brushstrokes — the emotional heaviness of the moment"
+  ],
+  "description": "An expressionist rendering of the Pietà. A woman in a headscarf and heavy garments cradles a pale, lifeless body across her lap. The dead figure's head falls back, revealing a wound on the torso. The woman bows her head in silent grief. The palette is muted — dark greens, yellows, browns, and purples — with thick, rough brushstrokes creating a sense of raw emotional weight. The background is dark and indistinct, focusing all attention on the intimate scene of mourning.",
+  "theological_description": "This expressionist Pietà strips the scene to its emotional and theological core: a mother holding her dead child. The simplicity intensifies rather than diminishes the theological weight. Simeon's prophecy finds its most devastating fulfillment: 'a sword will pierce through your own soul also' (LUK.2.35). The rough, heavy brushwork communicates that this is not a decorative devotional image but a confrontation with the raw cost of redemption. The wound visible on Christ's body is the mark of the sacrifice — 'by his wounds we are healed' (ISA.53.5). Mary's silence in this scene echoes Christ's own silence before His accusers; she who said 'Let it be to me according to your word' (LUK.1.38) now endures the full consequence of that fiat. The modern expressionist style brings the ancient scene into the present, insisting that the Passion is not a distant historical event but an ongoing reality felt in every mother's grief and every innocent death.",
+  "scripture_refs": [
+    {"ref": "LUK.2.35", "relevance": "primary", "reason": "The sword piercing Mary's soul — fulfilled in her holding the dead body of her Son"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "By his wounds we are healed — the visible wound on Christ's body"},
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "Mary at the foot of the cross, now holding the body after the descent"},
+    {"ref": "LUK.1.38", "relevance": "allusion", "reason": "Mary's fiat — Let it be to me — now bearing its full cost in the Pietà"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "heavy", "raw", "intimate"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006155",
+    "title": "Pietà",
+    "artist": "Magnus Enckell",
+    "model": "claude-opus-4-6"
+  }
+}

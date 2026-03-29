@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "name": "Saint Catherine of Alexandria",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Portrait of Saint Catherine of Alexandria",
+  "tags": [
+    "saint-catherine",
+    "standing-figure",
+    "golden-garments",
+    "halo",
+    "virgin-martyr",
+    "devotional-portrait"
+  ],
+  "symbols": [
+    "golden garments — the royal lineage of Catherine, a princess of Alexandria",
+    "halo — sanctity and martyrdom",
+    "standing pose with serene expression — the calm confidence of the martyr who knows her eternal reward"
+  ],
+  "description": "A damaged fresco showing a standing female figure in golden-yellow garments with a faint halo or nimbus around her head. She has a serene face with large eyes and wears a long flowing dress. Her right hand appears to hold something, possibly a palm branch or attribute. The fresco surface is heavily weathered with areas of paint loss, but the figure remains largely intact. The background shows remnants of a dark or neutral tone. The style is characteristic of Northern Italian Renaissance fresco painting.",
+  "theological_description": "Saint Catherine of Alexandria, according to tradition, was a learned Christian princess who debated and converted pagan philosophers, eventually suffering martyrdom under Emperor Maxentius around 305 AD. Though her story is not biblical, Catherine's courage in proclaiming Christ before hostile rulers echoes Jesus's promise: 'When they bring you before synagogues and rulers and authorities, do not be anxious about how you should defend yourself or what you should say, for the Holy Spirit will teach you in that very hour what you ought to say' (LUK.12.11-12). Her intellectual defense of the faith places her in the tradition of Paul reasoning with the Athenians (ACT.17.22-34). Her martyrdom reflects the pattern established by Stephen, the first martyr, who also bore witness before a hostile council (ACT.7). Catherine became one of the most popular saints of the medieval Church, patron of scholars and philosophers.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.12.11-12",
+      "relevance": "allusion",
+      "reason": "The Holy Spirit teaching what to say before rulers, fulfilled in Catherine's debates"
+    },
+    {
+      "ref": "ACT.17.22-34",
+      "relevance": "typological",
+      "reason": "Paul reasoning with philosophers, the pattern Catherine follows"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and I will give you the crown of life"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "dignified"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009504",
+    "title": "St Catherine of Alexandria",
+    "artist": "Ambrogio Bergognone",
+    "model": "claude-opus-4-6"
+  }
+}

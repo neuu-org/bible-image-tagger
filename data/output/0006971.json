@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "name": "Holy Family",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Flight into Egypt",
+  "tags": [
+    "flight-into-egypt",
+    "holy-family",
+    "angel-guide",
+    "boat-crossing",
+    "infant-jesus",
+    "river-journey",
+    "divine-protection",
+    "putti"
+  ],
+  "symbols": [
+    "angel steering the boat — divine guidance and protection during the flight from Herod",
+    "water crossing — passage through danger, echoing Israel's crossing of the Red Sea",
+    "putti in the water — heavenly assistance surrounding the Holy Family",
+    "dark clouds parting — danger giving way to divine providence",
+    "boat — the vessel of salvation carrying the infant Redeemer to safety"
+  ],
+  "description": "A dramatic scene showing a small boat on dark water. A seated woman holds an infant while an elderly man sits beside them. A large winged angel stands at the stern, steering the vessel with an oar. Above, two more angels or putti emerge from bright clouds. A small putto swims or plays in the water near the boat's prow. The sky transitions from dark storm clouds at right to golden light at upper left. Rocky cliffs frame the background.",
+  "theological_description": "The Flight into Egypt (Matthew 2:13-15) is a pivotal moment in the infancy narrative where the Holy Family becomes a refugee family, fleeing Herod's murderous intent. This unusual depiction sets the journey on water rather than overland, intensifying the theme of divine protection through peril. The angel who warned Joseph in a dream now visibly guides the vessel, affirming that God's providence accompanies His Son even in exile. Theologically, the Flight recapitulates Israel's own sojourn in Egypt, fulfilling Hosea 11:1, 'Out of Egypt I called my son.' Just as Moses was preserved from Pharaoh's slaughter of infants, so Christ is preserved from Herod's massacre. The water crossing evokes the Exodus typology — the infant Redeemer passes through the waters as Israel passed through the Red Sea, foreshadowing baptism (1 Corinthians 10:1-2). The return from Egypt will mark the beginning of the new Exodus that Christ's entire life, death, and resurrection accomplish.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.13-15",
+      "relevance": "primary",
+      "reason": "The angel's command to Joseph to flee to Egypt with the child and His mother"
+    },
+    {
+      "ref": "HOS.11.1",
+      "relevance": "typological",
+      "reason": "Out of Egypt I called my son — fulfilled in Christ's return from Egypt"
+    },
+    {
+      "ref": "EXO.14.21-22",
+      "relevance": "typological",
+      "reason": "Israel's crossing through the waters of the Red Sea, typologically echoed in the water-borne flight"
+    },
+    {
+      "ref": "MAT.2.16-18",
+      "relevance": "allusion",
+      "reason": "Herod's massacre of the innocents, the danger the Holy Family flees"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "dramatic",
+    "protective",
+    "perilous"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006971",
+    "title": "The Flight to Egypt",
+    "artist": "Giovanni Battista Tiepolo",
+    "model": "claude-opus-4-6"
+  }
+}

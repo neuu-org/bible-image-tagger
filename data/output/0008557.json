@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Archangels", "type": "ANGEL"}
+  ],
+  "event": "The Apparition of the Virgin to the Residents Before the Chernobyl Accident",
+  "tags": [
+    "virgin-mary",
+    "apparition",
+    "archangels",
+    "orthodox-icon",
+    "protection",
+    "chernobyl",
+    "church-building",
+    "marian-intercession"
+  ],
+  "symbols": [
+    "Mary with arms outstretched above — the Orant posture of intercession and protection",
+    "two archangels flanking — heavenly guardians defending the faithful",
+    "church below — the community of faith under Mary's protection",
+    "clouds separating heaven and earth — the boundary between the divine warning and human reality"
+  ],
+  "description": "A vertical Orthodox icon in an ornate golden frame. In the upper register, the Virgin Mary stands in a red maphorion with arms raised in the Orant prayer posture, flanked by two large archangels with wings. Golden halos surround all three figures against a sky with clouds. In the lower register, a white church building with a dome sits in a green landscape. The icon has an elaborate decorative border with floral and geometric patterns.",
+  "theological_description": "This icon represents the Orthodox tradition of the Theotokos as Protectress — Mary interceding to warn and shield the faithful from catastrophe. The apparition tradition before the Chernobyl disaster (1986) expresses the deep conviction that heaven is not indifferent to human suffering and that the Mother of God actively intercedes for her children. The Orant posture — arms raised in prayer — is among the oldest Marian image types, presenting Mary as the Church's perpetual intercessor. The flanking archangels represent Michael and Gabriel, the protectors and messengers of God. The church below represents not merely a building but the entire community of faith sheltered beneath Mary's prayer. This icon type reflects the theology of 2 Chronicles 7:14: 'If my people humble themselves and pray, I will hear from heaven and heal their land.'",
+  "scripture_refs": [
+    {"ref": "JHN.2.1-5", "relevance": "primary", "reason": "Mary's intercession at Cana — the model of her bringing human needs to divine attention"},
+    {"ref": "REV.12.1-6", "relevance": "typological", "reason": "The woman in heaven protected by God — Mary as heavenly protectress"},
+    {"ref": "2CH.7.14", "relevance": "allusion", "reason": "If my people pray I will heal their land — the theology of intercessory protection"},
+    {"ref": "PSA.91.11-12", "relevance": "allusion", "reason": "He will command His angels concerning you — angelic protection flanking the Virgin"}
+  ],
+  "scene_type": "allegory",
+  "mood": ["protective", "solemn", "sacred"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0008557",
+    "title": "The apparition of the Virgin to the residents of the city of Chernobyl before the Chernobyl accident",
+    "artist": "Orthodox Icons",
+    "model": "claude-opus-4-6"
+  }
+}

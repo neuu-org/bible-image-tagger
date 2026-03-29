@@ -1,0 +1,34 @@
+{
+  "characters": [
+    {"name": "Priest", "type": "PERSON"},
+    {"name": "Parents and Godparents", "type": "GROUP"},
+    {"name": "Infant", "type": "PERSON"},
+    {"name": "Assembled Guests", "type": "GROUP"}
+  ],
+  "event": "A Baptism Ceremony in a Bourgeois Setting",
+  "tags": [
+    "baptism",
+    "sacrament",
+    "priest",
+    "infant",
+    "white-gown",
+    "parlor",
+    "bourgeois-interior",
+    "family-gathering",
+    "celebration",
+    "secular-scene"
+  ],
+  "symbols": [],
+  "description": "A large parlor scene depicting a baptism ceremony in a well-appointed Victorian interior. At left, a priest in black with a white surplice holds an infant in a white christening gown, performing the rite while the mother in a white dress stands nearby. Numerous family members and guests fill the room, seated and standing in formal Victorian attire. The room features a large window at right with plants, tapestries on the walls, and elegant furnishings. Children sit on the floor in the foreground. The palette is rich with warm interior tones.",
+  "theological_description": "",
+  "scripture_refs": [],
+  "scene_type": "narrative",
+  "mood": ["festive", "intimate", "ceremonial"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0005697",
+    "title": "The Baptism",
+    "artist": "Julius LeBlanc Stewart",
+    "model": "claude-opus-4-6"
+  }
+}

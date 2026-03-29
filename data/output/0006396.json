@@ -1,0 +1,70 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Christ crowned with thorns",
+  "tags": [
+    "ecce-homo",
+    "crown-of-thorns",
+    "passion",
+    "man-of-sorrows",
+    "suffering-christ",
+    "blood",
+    "half-length-portrait",
+    "wounded-hands",
+    "redemptive-suffering",
+    "mocking-of-christ"
+  ],
+  "symbols": [
+    "crown of thorns — the mock coronation by Roman soldiers, Christ's kingship expressed through suffering",
+    "blood dripping from forehead — the price of redemption, the wounded Messiah",
+    "raised hand with wound — display of the stigmata, invitation to contemplate the cost of salvation",
+    "dark background — isolation and abandonment, the loneliness of the Passion"
+  ],
+  "description": "A half-length portrait of Christ against a completely black background. He wears a dark robe and a crown of thorns from which thin streams of blood run down his forehead and face. His long reddish-brown hair falls past his shoulders. His right hand is raised with palm partly open showing a wound, while his left hand is extended forward also displaying a wound. His expression is one of patient suffering, with downcast eyes and a solemn countenance. The flesh tones are pale and luminous against the surrounding darkness.",
+  "theological_description": "This image belongs to the devotional tradition of the Man of Sorrows (Vir Dolorum), presenting Christ not in narrative action but in contemplative stillness, displaying the wounds of his Passion for the viewer's meditation. The crown of thorns was placed on Christ's head by the Roman soldiers who mocked his claim to kingship (Matt 27:29), yet the Church Fathers recognized in this humiliation the true coronation of the King of Kings — his sovereignty established not through force but through suffering love. The visible wounds on the hands recall the nailing to the cross and anticipate the Risen Christ's invitation to Thomas: 'Put your finger here, and see my hands' (John 20:27). Isaiah's prophecy finds its fulfillment here: 'He was wounded for our transgressions, he was bruised for our iniquities' (Isa 53:5). The dark background strips away all narrative context, creating an intimate encounter between the suffering Christ and the beholder, a visual equivalent of the Ignatian spiritual exercise of placing oneself at the foot of the cross.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.27.27-31",
+      "relevance": "primary",
+      "reason": "The soldiers crowning Christ with thorns and mocking him as King of the Jews"
+    },
+    {
+      "ref": "JHN.19.1-5",
+      "relevance": "primary",
+      "reason": "Pilate presenting the scourged and crowned Christ — Ecce Homo"
+    },
+    {
+      "ref": "ISA.53.3-5",
+      "relevance": "typological",
+      "reason": "The Suffering Servant wounded for our transgressions, the prophetic foundation of the Man of Sorrows"
+    },
+    {
+      "ref": "JHN.20.27",
+      "relevance": "allusion",
+      "reason": "The display of wounds echoes the Risen Christ showing his hands to Thomas"
+    },
+    {
+      "ref": "PSA.22.6-8",
+      "relevance": "typological",
+      "reason": "The messianic psalm of one scorned and despised, mocked by all who see him"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "sorrowful",
+    "solemn",
+    "intimate",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006396",
+    "title": "Christ crowned with thorns",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

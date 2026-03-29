@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Spirit drawing depicting the portrait of Christ",
+  "tags": [
+    "spirit-drawing",
+    "portrait-of-christ",
+    "automatic-drawing",
+    "handwritten-text",
+    "abstract-forms",
+    "swirling-lines",
+    "spiritualism",
+    "mediumistic-art",
+    "manuscript-page"
+  ],
+  "symbols": [
+    "swirling abstract forms — spiritual energy or divine presence channeled through the medium",
+    "handwritten text surrounding the drawing — the medium's commentary and spiritual interpretation",
+    "title invoking Christ's portrait — the attempt to capture the divine likeness through spiritual means"
+  ],
+  "description": "A manuscript page with handwritten text in brown ink at the top and bottom. In the center and lower portions, abstract swirling pencil or ink drawings form flowing, organic shapes — one resembling a bird or flame, others appearing as wave-like or feather-like forms. The title at the top reads 'The Portrait of The Lord Jesus Christ' in calligraphic script. The drawings are delicate and spontaneous, with fine curving lines creating ethereal, non-representational forms. The page appears aged and slightly yellowed.",
+  "theological_description": "This spiritualist artwork raises profound theological questions about the representation of the divine. The abstract, non-figurative forms used to depict Christ's 'portrait' inadvertently echo the ancient tradition of apophatic theology — the understanding that God ultimately transcends all images and representations. The second commandment's prohibition against graven images (EXO.20.4) reflects the theological truth that God cannot be confined to any human-made form. Yet Christianity affirms that in Christ, 'the image of the invisible God' (COL.1.15), the divine has made itself visible. The tension between the title's claim to portray Christ and the abstract, formless imagery mirrors the theological paradox of the Incarnation itself — the infinite God contained in finite flesh.",
+  "scripture_refs": [
+    {"ref": "COL.1.15", "relevance": "typological", "reason": "Christ as the image of the invisible God — the paradox of portraying the unportrayable"},
+    {"ref": "EXO.20.4", "relevance": "allusion", "reason": "The prohibition against graven images, relevant to the challenge of depicting the divine"},
+    {"ref": "JHN.1.18", "relevance": "allusion", "reason": "No one has ever seen God — the invisible divine made known through the Son"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["ethereal", "mystical", "enigmatic"],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0004680",
+    "title": "The Portrait of the Lord Jesus Christ (reverse)",
+    "artist": "Georgiana Houghton",
+    "model": "claude-opus-4-6"
+  }
+}

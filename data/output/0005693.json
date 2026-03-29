@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Wedding Guests", "type": "GROUP"},
+    {"name": "Servants", "type": "GROUP"}
+  ],
+  "event": "The Wedding at Cana",
+  "tags": [
+    "wedding-at-cana",
+    "water-into-wine",
+    "first-miracle",
+    "stone-water-jars",
+    "banquet",
+    "oil-lamps",
+    "servants",
+    "feast",
+    "wedding-celebration"
+  ],
+  "symbols": [
+    "stone water jars — the six jars of purification water transformed into wine, the old covenant transformed by Christ",
+    "hanging oil lamps — the festive illumination of the wedding, light of joy and celebration",
+    "seated figure of Christ in white — the divine guest whose presence transforms the ordinary into the miraculous",
+    "servants with vessels — the agents who obey Mary's instruction to do whatever He tells you"
+  ],
+  "description": "A richly detailed scene of an Eastern wedding banquet. Guests recline and sit around a low table laden with food in an open-air covered area with hanging oil lamps and candelabras. At center-left, a figure in white robes identified as Jesus reclines at the table, engaged in conversation. Other guests in varied Middle Eastern garments surround the table. In the foreground, servants tend to large stone water jars and vessels. The setting features architectural elements with lattice screens and palm fronds visible. The palette is warm with earth tones, whites, and the golden glow of lamplight.",
+  "theological_description": "The Wedding at Cana is recorded in John 2:1-11 as the first of Jesus' signs, through which He 'manifested his glory, and his disciples believed in him.' When the wine ran out, Mary told the servants, 'Do whatever he tells you' (JHN.2.5) — a directive that echoes through all Christian obedience. Jesus commanded the servants to fill six stone water jars used for Jewish purification rites, then draw out what had become excellent wine. The transformation of water into wine signifies the new covenant surpassing the old: the water of Jewish ritual purification becomes the wine of messianic celebration. The six jars suggest incompleteness (one short of seven), which Christ's miracle brings to fullness. Patristically, the wine at Cana prefigures the Eucharistic wine — the blood of the new covenant. The wedding setting itself foreshadows the eschatological marriage supper of the Lamb (REV.19.9), when Christ the bridegroom will feast with His Church.",
+  "scripture_refs": [
+    {"ref": "JHN.2.1-11", "relevance": "primary", "reason": "The Wedding at Cana, Jesus' first sign, transforming water into wine"},
+    {"ref": "JHN.2.5", "relevance": "primary", "reason": "Mary's instruction to the servants: Do whatever he tells you"},
+    {"ref": "JHN.2.6", "relevance": "primary", "reason": "Six stone water jars for Jewish purification rites, each holding twenty to thirty gallons"},
+    {"ref": "REV.19.9", "relevance": "typological", "reason": "Blessed are those invited to the marriage supper of the Lamb — the eschatological wedding feast"},
+    {"ref": "ISA.25.6", "relevance": "typological", "reason": "The LORD will make a feast of rich food and well-aged wine for all peoples — messianic banquet"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["festive", "warm", "miraculous", "celebratory"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005693",
+    "title": "Wedding at Cana",
+    "artist": "James Tissot",
+    "model": "claude-opus-4-6"
+  }
+}

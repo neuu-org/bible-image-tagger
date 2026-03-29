@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mourners", "type": "GROUP"},
+    {"name": "Christ Child or Figure on Cross", "type": "DEITY"}
+  ],
+  "event": "Calvary Triptych — detail of mourners at the cross",
+  "tags": [
+    "calvary",
+    "crucifixion",
+    "mourning",
+    "triptych-detail",
+    "kneeling-figure",
+    "chalice",
+    "grief",
+    "passion"
+  ],
+  "symbols": [
+    "chalice held by the kneeling woman — the cup of Christ's blood, the Eucharistic connection to the Passion",
+    "upward gaze of the figures — looking to the crucified Christ for salvation",
+    "richly dressed mourners — the faithful of every station gathered at the foot of the cross"
+  ],
+  "description": "A detail from a larger panel showing a group of figures at the foot of a cross (partially visible at upper left). A woman in a white gown and blue headdress kneels in the foreground, holding a golden chalice. Behind her, a man in a richly patterned dark and gold garment looks upward with arms raised. Two women in red cloaks stand to the right, one holding a small child. The figures are elegantly dressed in late medieval costume. The scene is rendered with fine detail and rich colors.",
+  "theological_description": "This detail from a Calvary triptych focuses on the faithful at the foot of the cross. The kneeling woman with a chalice establishes the Eucharistic connection: the blood shed on Calvary is the same blood received in the cup of communion. The Church has always understood the Mass as a re-presentation (not repetition) of Christ's one sacrifice on the cross. The mourners looking upward embody the posture John 3:14-15 describes: 'As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in Him may have eternal life.' Their rich garments indicate that the cross calls people of every social station to faith. The woman with the chalice may represent Mary Magdalene or the Church herself, receiving the fruits of the Passion.",
+  "scripture_refs": [
+    {"ref": "JHN.19.25-27", "relevance": "primary", "reason": "The faithful standing at the foot of the cross — Mary, John, and the women"},
+    {"ref": "JHN.3.14-15", "relevance": "typological", "reason": "The Son of Man lifted up — those who look upon the crucified Christ receive life"},
+    {"ref": "MAT.26.27-28", "relevance": "allusion", "reason": "This cup is my blood of the covenant — the chalice connecting Calvary to the Eucharist"},
+    {"ref": "HEB.9.14", "relevance": "allusion", "reason": "The blood of Christ purifying our conscience — the saving power of the blood received in the cup"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grievous", "devotional", "reverent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0007989",
+    "title": "Calvary Triptych (detail)",
+    "artist": "Justus van Gent",
+    "model": "claude-opus-4-6"
+  }
+}

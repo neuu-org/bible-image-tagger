@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Disciples",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd of onlookers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Calvary scene — right wing of triptych showing the road to Golgotha",
+  "tags": [
+    "calvary",
+    "triptych-wing",
+    "golgotha",
+    "cross",
+    "crowd",
+    "procession",
+    "passion",
+    "mourning",
+    "hillside",
+    "medieval"
+  ],
+  "symbols": [
+    "tall cross or pole on the hilltop — Golgotha, the place of crucifixion toward which the procession moves",
+    "crowd of diverse figures — all of humanity witness to the Passion",
+    "the Virgin in blue kneeling — maternal grief and the Church mourning at the foot of the cross",
+    "hilly landscape — the Via Dolorosa climbing toward Calvary"
+  ],
+  "description": "A tall, narrow panel with a trefoil-shaped top, depicting a hillside scene with multiple groups of figures. At the top of the hill, two robed figures stand near a tall wooden pole or cross. Below, a crowd of men and women in varied medieval dress — including soldiers, mourners, and onlookers — ascend the green hillside. A woman in blue and white kneels or bows in the center. Figures in red robes and turbans are scattered through the composition. The background features rocky blue mountains and a dramatic sky. The scene has a processional quality, moving upward.",
+  "theological_description": "This wing panel from a Calvary Triptych depicts the crowd ascending toward Golgotha, capturing the diversity of responses to the crucifixion of Christ. The mourning Virgin, the curious onlookers, the hostile soldiers — all converge on the hill where salvation history reaches its climax. The upward movement of the composition enacts the ascent to the cross, the journey that Christ undertook willingly: 'No one takes my life from me, but I lay it down of my own accord' (John 10:18). The kneeling Virgin embodies the Mater Dolorosa, the sword of Simeon's prophecy piercing her heart (Luke 2:35). The diverse crowd reflects the universality of the atonement — Christ died for all, Jew and Gentile, believer and scoffer. The cross at the summit awaits its victim, who is also the world's savior: 'And I, when I am lifted up from the earth, will draw all people to myself' (John 12:32).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "Christ going out to Golgotha bearing his cross, the destination of this procession"
+    },
+    {
+      "ref": "JHN.12.32",
+      "relevance": "typological",
+      "reason": "When I am lifted up I will draw all people to myself — the cross as universal magnet of salvation"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon's prophecy of the sword piercing Mary's soul, fulfilled in her grief at Calvary"
+    },
+    {
+      "ref": "JHN.10.18",
+      "relevance": "allusion",
+      "reason": "No one takes my life — Christ's voluntary journey to the cross"
+    },
+    {
+      "ref": "LUK.23.27-28",
+      "relevance": "primary",
+      "reason": "The women of Jerusalem weeping as Christ goes to the cross"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "sorrowful",
+    "processional",
+    "solemn",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006764",
+    "title": "Calvary Triptych (right wing)",
+    "artist": "Justus van Gent",
+    "model": "claude-opus-4-6"
+  }
+}

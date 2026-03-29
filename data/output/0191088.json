@@ -1,0 +1,57 @@
+{
+  "characters": [
+    {
+      "name": "Saint Dominic",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Dominic Receives the Rosary",
+  "tags": [
+    "saint-dominic",
+    "rosary",
+    "virgin-mary",
+    "dominican",
+    "devotion",
+    "vision"
+  ],
+  "symbols": [
+    "rosary given by Mary — the tradition of the Rosary as Marian gift to Dominic",
+    "kneeling Dominic — humble reception of divine grace"
+  ],
+  "description": "A painting by the nun-artist Plautilla Nelli showing Saint Dominic receiving the rosary from the Virgin Mary in a visionary encounter. The scene shows Dominic kneeling in devotion as Mary presents the prayer beads.",
+  "theological_description": "The tradition of the Rosary's origin through Saint Dominic connects Marian devotion with Gospel meditation. The Rosary's mysteries contemplate the life of Christ from the Annunciation through the Resurrection. Mary's role as intercessor fulfills Jesus's words at Cana: 'Do whatever he tells you' (JHN.2.5) — she directs all devotion toward her Son. The Magnificat (LUK.1.46-55) provides the theological foundation for Marian devotion within Christianity.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.46-55",
+      "relevance": "allusion",
+      "reason": "The Magnificat, foundation of Marian devotion"
+    },
+    {
+      "ref": "JHN.2.5",
+      "relevance": "allusion",
+      "reason": "Do whatever he tells you — Mary directing to Christ"
+    },
+    {
+      "ref": "LUK.1.28",
+      "relevance": "allusion",
+      "reason": "Hail, full of grace — the Angelic Salutation that begins the Rosary"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "tender",
+    "sacred"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0191088",
+    "title": "Saint Dominic Receives the Rosary",
+    "artist": "Plautilla Nelli",
+    "model": "claude-opus-4-6"
+  }
+}

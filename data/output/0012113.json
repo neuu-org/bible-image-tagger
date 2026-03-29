@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Luke",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Luke as a Painter before Christ on the Cross",
+  "tags": [
+    "saint-luke",
+    "crucifixion",
+    "painter",
+    "palette",
+    "cross",
+    "inri",
+    "artist-evangelist",
+    "devotional"
+  ],
+  "symbols": [
+    "painter's palette in Luke's hands — the tradition that Luke was the first Christian painter",
+    "crucified Christ — the central subject of Christian faith and art",
+    "Luke gazing upward at Christ — the evangelist's direct contemplation of the Savior he recorded",
+    "dark background — the darkness that covered the land during the crucifixion",
+    "INRI inscription — Jesus of Nazareth, King of the Jews"
+  ],
+  "description": "A dark, dramatically lit composition showing two figures. At center-left, Christ hangs crucified on a wooden cross, His emaciated body pale against the dark brown background. An INRI placard is nailed above. At lower right, a balding, bearded man in a simple robe kneels looking up at the crucified figure, holding what appears to be a painter's palette and brushes. The lighting is severe and tenebristic, with the figures emerging from deep shadow.",
+  "theological_description": "Zurbaran depicts Saint Luke the Evangelist in his legendary role as a painter, gazing at the crucified Christ as both his subject and his Lord. The tradition that Luke was a painter — and specifically the first to paint the Virgin Mary — dates to the early centuries of Christianity. Here Luke holds his palette before the Crucifixion, suggesting that the evangelist's Gospel account is itself a 'portrait' of Christ's suffering. Luke's Gospel records unique details of the Passion, including Christ's words 'Father, forgive them, for they know not what they do' (Luke 23:34) and His promise to the thief 'today you will be with me in paradise' (Luke 23:43). Paul calls Luke 'the beloved physician' (Col 4:14), and his careful, eyewitness-based account (Luke 1:1-4) is here visualized as the work of an artist painting from life. The painting meditates on the relationship between divine truth and human art — the evangelist as witness who must faithfully render what he sees.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.23.33",
+      "relevance": "primary",
+      "reason": "When they came to the place called The Skull, they crucified him — the scene Luke depicts"
+    },
+    {
+      "ref": "LUK.1.1-4",
+      "relevance": "primary",
+      "reason": "Luke's prologue declaring his careful investigation and orderly account"
+    },
+    {
+      "ref": "COL.4.14",
+      "relevance": "allusion",
+      "reason": "Luke the beloved physician — the evangelist identified by Paul"
+    },
+    {
+      "ref": "LUK.23.34",
+      "relevance": "allusion",
+      "reason": "Father, forgive them — a Passion detail unique to Luke's Gospel"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "somber",
+    "devotional",
+    "contemplative"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012113",
+    "title": "St. Luke as a Painter before Christ on the Cross",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

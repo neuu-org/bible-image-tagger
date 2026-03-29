@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {"name": "Prophet", "type": "PERSON"},
+    {"name": "Bystanders", "type": "GROUP"}
+  ],
+  "event": "A Prophet Walking Through a City Street",
+  "tags": [
+    "prophet",
+    "street-scene",
+    "robes",
+    "walking-staff",
+    "ink-wash",
+    "middle-eastern-setting",
+    "preparatory-sketch"
+  ],
+  "symbols": [
+    "tall robed figures with staffs — prophetic authority and the pilgrim's journey",
+    "city street setting — the prophet bringing God's word into the public square",
+    "bystanders watching — the mixed reception prophets receive from the people"
+  ],
+  "description": "A sepia ink and wash sketch showing two tall, robed bearded figures walking through a Middle Eastern city street. They carry walking staffs and wear heavy cloaks. Behind them, smaller figures including women with children watch from doorways and the street. Buildings and a distant minaret or tower are visible in the background. The style is loose and expressive with flowing brushwork. An artist's signature appears at the lower right.",
+  "theological_description": "The image of a prophet walking through the streets captures the essential nature of biblical prophecy: it is public, embodied, and confrontational. The prophets of Israel did not retreat to private contemplation but walked among the people, bringing God's word into the marketplace and the city gate. From Amos at Bethel (Amos 7:10-17) to Jeremiah in the streets of Jerusalem (Jeremiah 7:1-7) to Jesus weeping over the city (Luke 19:41-44), the prophetic vocation demands physical presence among those who need to hear God's message. The tall, imposing figures convey the authority of those who speak not their own words but God's: 'Thus says the Lord.'",
+  "scripture_refs": [
+    {"ref": "JER.7.1-7", "relevance": "primary", "reason": "Jeremiah standing in the gate and proclaiming God's word to the people — the prophet in the public square"},
+    {"ref": "AMO.7.10-17", "relevance": "allusion", "reason": "Amos prophesying at Bethel — the prophet bringing God's word to the city"},
+    {"ref": "ISA.58.1", "relevance": "allusion", "reason": "Cry aloud, do not hold back, lift up your voice like a trumpet — the prophetic commission"},
+    {"ref": "EZK.3.4-7", "relevance": "allusion", "reason": "Go to the house of Israel and speak my words — the prophet sent to the people"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["authoritative", "solemn"],
+  "period": "Prophetic",
+  "_meta": {
+    "key": "0008453",
+    "title": "Prophet",
+    "artist": "Ilya Repin",
+    "model": "claude-opus-4-6"
+  }
+}

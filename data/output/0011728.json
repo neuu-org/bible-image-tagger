@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Angel of the Annunciation",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Annunciation",
+  "tags": [
+    "angel",
+    "annunciation",
+    "wings",
+    "walking",
+    "lily",
+    "messenger",
+    "triptych-panel",
+    "modernist-icon"
+  ],
+  "symbols": [
+    "large blue wings — angelic nature and heavenly origin",
+    "walking posture — the angel arriving as a divine messenger",
+    "floral wreath or garland on head — purity and heavenly adornment",
+    "flowing multicolored robes — the splendor and glory of the angelic realm",
+    "stained-glass medium — the light of divine revelation shining through"
+  ],
+  "description": "A tall stained-glass window depicting a winged angel in a walking pose. The figure has large blue and violet wings spread wide, wears flowing robes in green, yellow, purple, and blue, and has a garland or wreath upon the head. The angel's hands are clasped or held before the chest. The style is modernist with bold outlines and geometric lead lines dividing the composition. The background shows clear and pale blue glass with hints of landscape below.",
+  "theological_description": "This stained-glass angel, identified as from a triptych of the Annunciation, represents the archangel Gabriel sent by God to the Virgin Mary in Nazareth. According to Luke 1:26-38, Gabriel was sent to announce that Mary would conceive by the Holy Spirit and bear a son named Jesus. The walking posture captures the moment of the angel's arrival — 'the angel came to her and said, Hail, full of grace, the Lord is with you' (Luke 1:28). The Annunciation is the pivotal moment when the Incarnation begins, the Word becoming flesh (John 1:14). Gabriel's role as heavenly messenger echoes his earlier appearance to Daniel (Dan 9:21) and to Zechariah (Luke 1:19). The stained-glass medium is itself theologically resonant: as light passes through colored glass without breaking it, so medieval theologians understood the divine light entering Mary without violating her virginity.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.26-28",
+      "relevance": "primary",
+      "reason": "The angel Gabriel was sent by God to Nazareth to a virgin named Mary"
+    },
+    {
+      "ref": "LUK.1.35",
+      "relevance": "primary",
+      "reason": "The Holy Spirit will come upon you and the power of the Most High will overshadow you"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh — the Incarnation that the Annunciation initiates"
+    },
+    {
+      "ref": "DAN.9.21",
+      "relevance": "allusion",
+      "reason": "Gabriel appears to Daniel in swift flight, the same angel who comes to Mary"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "luminous",
+    "solemn",
+    "ethereal"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011728",
+    "title": "Walking Angel from the triptych 'The Annunciation'",
+    "artist": "Petro Kholodny (Elder)",
+    "model": "claude-opus-4-6"
+  }
+}

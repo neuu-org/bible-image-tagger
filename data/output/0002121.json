@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {"name": "Saint Anthony", "type": "PERSON"},
+    {"name": "Demon", "type": "OTHER"}
+  ],
+  "event": "The Temptation of Saint Anthony — detail of demon",
+  "tags": [
+    "temptation",
+    "saint-anthony",
+    "demon",
+    "grotesque",
+    "spiritual-warfare",
+    "monster",
+    "horns",
+    "scales",
+    "close-up"
+  ],
+  "symbols": [
+    "Grotesque horned beast — the demonic forces assailing the faithful in spiritual combat",
+    "Hand grasping the creature — Anthony's (or faith's) engagement with and resistance to evil",
+    "Scaled reptilian body — the serpentine nature of evil, recalling the primordial serpent"
+  ],
+  "description": "A close-up detail shows a grotesque demonic creature with horns, scales, spines, and a reptilian body being grasped by a human hand emerging from a red sleeve on the left. The creature has a beaked or snouted face with bulging eyes, a ridged back, and clawed limbs. Its body is rendered in meticulous detail with brown, green, and orange tones against a dark background. The realism of the monstrous anatomy is startling.",
+  "theological_description": "This detail from the Temptation of Saint Anthony depicts the physical manifestation of demonic evil in viscerally repulsive form. The Church's understanding of spiritual warfare draws on Paul's warning: 'We do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness' (EPH.6.12). The reptilian form recalls the primordial serpent of Genesis (GEN.3.1) and the dragon of Revelation (REV.12.9) — 'that ancient serpent, who is called the devil and Satan.' Anthony's willingness to grasp the demon rather than flee embodies James 4:7: 'Resist the devil, and he will flee from you.' The grotesque physicality of the demon serves a didactic purpose: evil is repulsive, not attractive, when seen in its true nature.",
+  "scripture_refs": [
+    {"ref": "EPH.6.12", "relevance": "typological", "reason": "Wrestling against cosmic powers of darkness — the spiritual combat depicted"},
+    {"ref": "GEN.3.1", "relevance": "typological", "reason": "The serpent — the reptilian demon echoing the primordial deceiver"},
+    {"ref": "REV.12.9", "relevance": "typological", "reason": "The ancient serpent called the devil — the serpentine demonic form"},
+    {"ref": "JAS.4.7", "relevance": "typological", "reason": "Resist the devil and he will flee — the hand grasping and confronting the demon"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["horrific", "intense", "confrontational"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0002121",
+    "title": "The Temptation of St. Anthony (detail)",
+    "artist": "Matthias Grunewald",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saints",
+      "type": "GROUP"
+    },
+    {
+      "name": "Donors",
+      "type": "GROUP"
+    },
+    {
+      "name": "John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin and Child with Saints and Donors",
+  "tags": [
+    "virgin-mary",
+    "infant-jesus",
+    "saints",
+    "donors",
+    "enthroned-madonna",
+    "john-the-baptist",
+    "john-the-evangelist",
+    "angels",
+    "flemish"
+  ],
+  "symbols": [
+    "enthroned Virgin at center — Mary as Queen of Heaven and seat of wisdom",
+    "infant on her lap — Christ as the divine child, source of salvation",
+    "kneeling donors — the patrons in prayer, seeking intercession",
+    "flanking saints — the communion of saints surrounding the faithful",
+    "triptych format — the altar piece as a window into heaven"
+  ],
+  "description": "A three-paneled triptych altarpiece. The central panel shows a woman in a red dress and blue mantle enthroned under an ornate canopy, holding an infant on her lap. She is surrounded by several figures including angels and female saints. Kneeling donors in dark clothing appear at left. The left wing panel shows a standing figure in a purple robe (possibly John the Baptist). The right wing panel shows a standing figure in a red robe (possibly John the Evangelist). The floors are patterned tile, and landscapes are visible through openings in the background.",
+  "theological_description": "Memling's Donne Triptych presents the classic Sacra Conversazione — the 'holy conversation' where the Virgin and Child are surrounded by saints and the donor family in a unified heavenly-earthly space. This format expresses the Catholic theology of the communion of saints, where the Church Triumphant (saints in heaven), the Church Militant (believers on earth), and the Church Suffering (souls in purgatory) form one Body of Christ. The enthroned Virgin fulfills the vision of Psalm 45:9, the queen at God's right hand. The flanking saints — likely including John the Baptist ('Behold the Lamb of God,' John 1:29) and John the Evangelist — serve as intercessors. The donors' kneeling posture reflects the teaching that the faithful may approach God through the intercession of the saints. The triptych format itself, opening and closing for liturgical seasons, enacts the revelation and concealment of sacred mysteries.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.48",
+      "relevance": "primary",
+      "reason": "All generations will call me blessed — Mary enthroned in glory"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "allusion",
+      "reason": "Behold the Lamb of God — John the Baptist in the left panel"
+    },
+    {
+      "ref": "HEB.12.1",
+      "relevance": "typological",
+      "reason": "We are surrounded by a great cloud of witnesses — the communion of saints"
+    },
+    {
+      "ref": "PSA.45.9",
+      "relevance": "typological",
+      "reason": "The queen stands at your right hand — Mary enthroned as Queen"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "serene",
+    "devotional",
+    "majestic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011889",
+    "title": "The Virgin and Child with Saints and Donors (The Donne Triptych)",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

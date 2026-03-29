@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "John the Baptist", "type": "PERSON"},
+    {"name": "God the Father", "type": "DEITY"},
+    {"name": "Holy Spirit (as dove)", "type": "DEITY"},
+    {"name": "Donor figure", "type": "PERSON"}
+  ],
+  "event": "The Baptism of Christ",
+  "tags": [
+    "baptism-of-christ",
+    "jordan-river",
+    "john-the-baptist",
+    "holy-spirit",
+    "dove",
+    "trinity",
+    "god-the-father",
+    "donor-portrait",
+    "landscape"
+  ],
+  "symbols": [
+    "Dove descending — the Holy Spirit manifesting at Christ's baptism",
+    "God the Father in the clouds — the voice declaring 'This is my beloved Son'",
+    "Water of the Jordan — baptismal waters sanctified by Christ's immersion",
+    "John pouring water — the act of baptism by the forerunner",
+    "Donor kneeling in prayer — the faithful believer present through devotion at the sacred event"
+  ],
+  "description": "Christ stands nearly nude in the center of the Jordan river, hands clasped in prayer. John the Baptist in a red robe pours water over Christ's head from the right. On the left, a richly dressed donor figure kneels in elaborate brocade vestments. Above, a golden dove descends toward Christ, and at the top of the painting, God the Father appears in a radiant glory surrounded by angels. A lush landscape with trees, hills, and distant figures extends behind the scene.",
+  "theological_description": "The Baptism of Christ is the preeminent Trinitarian theophany in the Gospels. All three Persons of the Trinity are simultaneously manifest: the Son in the water, the Spirit descending as a dove, and the Father's voice from heaven: 'This is my beloved Son, with whom I am well pleased' (MAT.3.17). John the Baptist fulfills his appointed role as forerunner, testifying: 'I saw the Spirit descend from heaven like a dove, and it remained on him' (JHN.1.32). Christ's descent into the waters sanctifies creation itself — the Fathers taught that Christ's baptism purified all water for sacramental use. The inclusion of a donor figure reflects the medieval understanding that through baptism, every Christian participates in this event. Paul develops the theology: 'Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death?' (ROM.6.3).",
+  "scripture_refs": [
+    {"ref": "MAT.3.13-17", "relevance": "primary", "reason": "The full account of Christ's baptism with the Trinitarian revelation"},
+    {"ref": "JHN.1.32-34", "relevance": "primary", "reason": "John's testimony: I saw the Spirit descend like a dove and remain on Him"},
+    {"ref": "MRK.1.10-11", "relevance": "primary", "reason": "The heavens torn open, the Spirit descending, the Father's voice"},
+    {"ref": "ROM.6.3-4", "relevance": "typological", "reason": "Baptized into Christ's death, raised to walk in newness of life"},
+    {"ref": "ISA.42.1", "relevance": "typological", "reason": "Behold my servant in whom my soul delights — fulfilled at the baptism"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sacred", "revelatory", "luminous"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002067",
+    "title": "The Baptism of Christ (central section of Triptych of Jan des Trompes)",
+    "artist": "Gerard David",
+    "model": "claude-opus-4-6"
+  }
+}

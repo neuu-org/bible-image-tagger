@@ -1,0 +1,85 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Holy Family with the Infant Saint John the Baptist",
+  "tags": [
+    "holy-family",
+    "madonna-and-child",
+    "infant-jesus",
+    "infant-baptist",
+    "joseph",
+    "reed-cross",
+    "lamb",
+    "fruit-offering",
+    "maternal-tenderness",
+    "incarnation"
+  ],
+  "symbols": [
+    "reed cross held by infant John — prophetic sign of Christ's future crucifixion and John's role as forerunner",
+    "lamb at lower right — the Lamb of God whom John will proclaim",
+    "basket of fruit offered by young John — the first fruits of devotion brought to Christ",
+    "blue mantle of Mary — her heavenly queenship and fidelity",
+    "red and pink robes of Joseph — his paternal love and the blood-line of David",
+    "halos on Mary and Christ child — divine glory manifest in the Incarnation",
+    "bird on ground — the soul redeemed, or the sacrificial offering of the poor"
+  ],
+  "description": "The Virgin Mary, wearing a blue mantle over a white garment, sits at center holding the nude Christ Child on her lap. The child reaches toward a young boy at right who carries a small reed cross and offers a basket of fruit. The young boy is partially draped and has curly hair. Behind and above Mary, an older bearded man in red and pink robes leans on a staff, looking down at the scene. A small white lamb rests at the lower right, and a bird is visible on the ground at lower left. The background is dark with hints of landscape.",
+  "theological_description": "The Holy Family with the infant Baptist is a beloved devotional subject uniting the two families whose destinies are intertwined in the Gospel narratives. Mary and Joseph shelter the Incarnate Word, while the young John — son of Elizabeth, Mary's kinswoman (LUK.1.36) — already prefigures his future role as the voice crying in the wilderness (JHN.1.23). The reed cross John carries is an iconographic convention pointing forward to his proclamation: 'Behold, the Lamb of God, who takes away the sin of the world' (JHN.1.29), and the lamb beside him reinforces this identification. The fruit basket suggests the first fruits offered to the Messiah, evoking the gifts of the Magi and the broader theme of creation rendering homage to its Creator. Joseph's presence as the Davidic foster-father fulfills the prophetic requirement that the Messiah descend from David's line (ROM.1.3). The intimate domestic setting reflects the theology of the hidden years at Nazareth, where the mystery of the Incarnation was lived out in ordinary family life before its public manifestation.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation linking the families of Mary and Elizabeth, and the infant John leaping in the womb"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "John's future proclamation of Jesus as the Lamb of God, symbolized by the lamb in the painting"
+    },
+    {
+      "ref": "LUK.2.51-52",
+      "relevance": "allusion",
+      "reason": "The hidden life of the Holy Family at Nazareth"
+    },
+    {
+      "ref": "MAT.1.20-21",
+      "relevance": "allusion",
+      "reason": "Joseph's role as guardian of the Holy Family, fulfilling the Davidic lineage"
+    },
+    {
+      "ref": "ROM.1.3",
+      "relevance": "typological",
+      "reason": "Christ descended from David according to the flesh, through Joseph's legal fatherhood"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tenderness",
+    "devotion",
+    "warmth",
+    "serenity"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002238",
+    "title": "The Holy Family with the Infant Saint John the Baptist",
+    "artist": "Luca Giordano",
+    "model": "claude-opus-4-6"
+  }
+}

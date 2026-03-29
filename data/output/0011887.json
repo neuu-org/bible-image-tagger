@@ -1,0 +1,69 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "The Virgin and Child",
+  "tags": [
+    "virgin-mary",
+    "infant-jesus",
+    "madonna-and-child",
+    "halo",
+    "rosary",
+    "book",
+    "inscription",
+    "devotional",
+    "blue-mantle",
+    "townscape"
+  ],
+  "symbols": [
+    "gold halo with inscription 'Ave Maria Gratia Plena' — the angelic greeting, Mary full of grace",
+    "rosary beads held by both — the prayer devotion linking Mother and Son",
+    "open book — the Word of God, Scripture, and Mary's literacy in divine things",
+    "blue mantle — Mary's traditional color symbolizing heaven and fidelity",
+    "town visible through window — the earthly world over which Mary and Christ preside"
+  ],
+  "description": "A half-length depiction of a woman in a blue mantle over a red-orange dress, with a large golden halo bearing an inscribed Latin text ('AVE MARIA GRATIA PLENA D...'). She holds a standing infant in a golden garment on a ledge before her. Both figures hold a strand of red coral or rosary beads. An open book rests on the ledge beside the child. Through windows on either side, a town with buildings and a church tower is visible. The painting has a formal, devotional quality with rich colors and fine detail.",
+  "theological_description": "Bergognone depicts the classic devotional subject of the Madonna and Child with several theologically rich details. The inscription on the halo reproduces the Angelic Salutation from Luke 1:28: 'Ave Maria, gratia plena, Dominus tecum' — 'Hail Mary, full of grace, the Lord is with you.' This greeting, spoken by the angel Gabriel, became the foundation of the most widespread Marian prayer. The rosary beads held by both Mother and Child connect the devotional practice of the rosary to its christological center — every mystery of the rosary meditates on an event in Christ's life. The open book suggests the Word of God, recalling Mary as the one who 'treasured all these things, pondering them in her heart' (Luke 2:19). The infant Christ standing upright on the ledge conveys His sovereignty even in childhood, while the townscape visible through the windows roots the Incarnation in the everyday human world — the Word became flesh and dwelt among us (John 1:14).",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "Hail, full of grace, the Lord is with you — the inscription on the halo"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "allusion",
+      "reason": "Mary treasured all these things in her heart — the open book of contemplation"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "typological",
+      "reason": "The Word became flesh and dwelt among us — the Incarnation amid the townscape"
+    },
+    {
+      "ref": "LUK.1.42",
+      "relevance": "allusion",
+      "reason": "Blessed are you among women and blessed is the fruit of your womb"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "serene",
+    "devotional",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0011887",
+    "title": "The Virgin and Child",
+    "artist": "Ambrogio Bergognone",
+    "model": "claude-opus-4-6"
+  }
+}

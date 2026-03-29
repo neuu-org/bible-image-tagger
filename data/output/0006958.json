@@ -1,0 +1,74 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Catherine of Alexandria",
+      "type": "PERSON"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Mystic Marriage of Saint Catherine",
+  "tags": [
+    "mystic-marriage",
+    "saint-catherine",
+    "virgin-and-child",
+    "broken-wheel",
+    "bridal-mysticism",
+    "holy-family",
+    "ring",
+    "devotional-scene"
+  ],
+  "symbols": [
+    "broken wheel — Saint Catherine's attribute, the instrument of her intended martyrdom shattered by divine intervention",
+    "ring exchange with the Christ Child — the mystical betrothal of the saint's soul to Christ",
+    "green curtain — sacred enclosure, the intimacy of divine encounter",
+    "Christ Child reaching toward Catherine — divine initiative in the mystical union"
+  ],
+  "description": "An intimate interior scene showing a graceful seated woman in white and blue holding a nude infant on her lap. The child reaches toward a second elegantly dressed young woman in gold and white who kneels at the right beside a large broken wheel. An elderly bearded man peers from below at the lower left. A green draped curtain hangs in the background. The composition is elongated with sinuous, elegant forms.",
+  "theological_description": "The Mystic Marriage of Saint Catherine represents the spiritual betrothal of the soul to Christ, a theme rooted in bridal mysticism drawn from the Song of Songs and Ephesians 5. Catherine of Alexandria, a learned virgin martyr, became the preeminent symbol of consecrated virginity in medieval and Renaissance theology. The Christ Child placing a ring on her finger signifies the soul's total consecration to God — a union deeper than earthly marriage. The presence of the Virgin Mary as intermediary reflects Catholic theology of Mary as Mediatrix of grace. The broken wheel, Catherine's martyrdom attribute, testifies that the world's instruments of torture are powerless against those espoused to Christ. This scene became the paradigmatic image for women religious taking vows, expressing the mystical tradition that every consecrated soul is a bride of Christ.",
+  "scripture_refs": [
+    {
+      "ref": "SNG.2.16",
+      "relevance": "primary",
+      "reason": "My beloved is mine and I am his — the scriptural basis for bridal mysticism depicted in the mystic marriage"
+    },
+    {
+      "ref": "EPH.5.25-32",
+      "relevance": "typological",
+      "reason": "Christ's love for the Church as bridegroom, the theological foundation of mystical espousal"
+    },
+    {
+      "ref": "2CO.11.2",
+      "relevance": "allusion",
+      "reason": "Paul presenting the Church as a pure virgin betrothed to Christ"
+    },
+    {
+      "ref": "REV.19.7-9",
+      "relevance": "typological",
+      "reason": "The marriage supper of the Lamb, the eschatological fulfillment of mystical betrothal"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "intimate",
+    "devotional"
+  ],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0006958",
+    "title": "Mystic Marriage of Saint Catherine",
+    "artist": "Parmigianino",
+    "model": "claude-opus-4-6"
+  }
+}

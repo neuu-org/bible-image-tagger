@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Temple Priests",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Purification of the Virgin (Presentation at the Temple)",
+  "tags": [
+    "purification",
+    "presentation-at-temple",
+    "simeon",
+    "virgin-mary",
+    "temple-interior",
+    "priests",
+    "menorah",
+    "gilded-frame",
+    "offering",
+    "ceremony"
+  ],
+  "symbols": [
+    "temple interior with menorah — the Jewish sacrificial system into which Christ is presented",
+    "Simeon receiving or meeting the family — the recognition of the Messiah by the righteous",
+    "Mary’s presentation — obedience to the Law of Moses regarding purification",
+    "priestly figures — the Levitical order that Christ will fulfill and surpass"
+  ],
+  "description": "A fresco within an ornate gilded frame depicting a scene inside a grand temple. Several robed figures interact in the foreground—a woman in a veil (Mary) approaches from the left, while elderly bearded men in priestly robes receive or converse with her. A menorah is visible in the background architecture. The temple interior features columns, a domed structure, and classical ornamentation. The composition is dynamic with figures in animated poses.",
+  "theological_description": "The Purification of the Virgin, also called the Presentation of Christ at the Temple, is recorded in Luke 2:22-40. According to the Law of Moses (Leviticus 12), Mary came to the Temple forty days after giving birth to offer the prescribed sacrifice for purification. Simultaneously, the infant Jesus was presented to the Lord as the firstborn son (Exodus 13:2). The aged Simeon, who had been promised by the Holy Spirit that he would not see death before seeing the Lord’s Christ, took the child in his arms and proclaimed the Nunc Dimittis: ‘Lord, now you are letting your servant depart in peace… for my eyes have seen your salvation’ (Luke 2:29-30). This moment reveals the profound irony of the Incarnation: the Lord of the Temple enters his own house as a helpless infant, subject to his own Law. Simeon’s prophecy of the sword piercing Mary’s soul (Luke 2:35) introduces the shadow of the Passion into the infancy narrative.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.22-35",
+      "relevance": "primary",
+      "reason": "The presentation of Jesus at the Temple and Simeon’s prophetic recognition"
+    },
+    {
+      "ref": "LEV.12.1-8",
+      "relevance": "primary",
+      "reason": "The Law of purification after childbirth that Mary obeys"
+    },
+    {
+      "ref": "EXO.13.2",
+      "relevance": "allusion",
+      "reason": "The consecration of the firstborn to the Lord"
+    },
+    {
+      "ref": "LUK.2.29-32",
+      "relevance": "primary",
+      "reason": "Simeon’s Nunc Dimittis declaring he has seen God’s salvation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "ceremonial",
+    "reverent",
+    "prophetic",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013639",
+    "title": "Purification of the Virgin",
+    "artist": "Francesco de' Rossi (Francesco Salviati), \"Cecchino\"",
+    "model": "claude-opus-4-6"
+  }
+}

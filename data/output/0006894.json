@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Salome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Head of John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Salome with the head of John the Baptist",
+  "tags": [
+    "salome",
+    "john-the-baptist",
+    "beheading",
+    "severed-head",
+    "femme-fatale",
+    "cruelty",
+    "herod",
+    "platter",
+    "opulence"
+  ],
+  "symbols": [
+    "severed head on or near a platter — the martyrdom of the Baptist, truth silenced by worldly power",
+    "richly dressed woman — Salome as the instrument of Herodias's revenge, beauty weaponized",
+    "ornate setting — the luxury of Herod's court, the corruption of power"
+  ],
+  "description": "An Art Nouveau-style painting showing an elegantly dressed woman in a flowing white gown seated at a white table. She has dark hair piled high and wears dark jewelry. On the table appears to be a small object or possibly a representation of a severed head. Below or near the table, a child-like figure is partially visible. The background suggests an opulent interior with decorative elements. The style is highly decorative with elongated proportions and refined linework. The palette features warm golds, whites, and pinks.",
+  "theological_description": "The story of Salome and the beheading of John the Baptist (Mark 6:17-29) is one of the darkest episodes in the Gospels. Herod Antipas had imprisoned John for condemning his unlawful marriage to Herodias, his brother's wife. At Herod's birthday feast, Herodias's daughter danced and so pleased Herod that he promised her anything. Prompted by her mother, she asked for the head of John the Baptist on a platter. The episode illustrates the deadly intersection of political power, lust, and wounded pride — the same forces that would conspire against Jesus himself. John the Baptist, the last and greatest of the prophets (Matt 11:11), died as a martyr for speaking God's truth to earthly power. His fate prefigures Christ's own death at the hands of the same political establishment. The beauty and luxury of Herod's court stands in stark contrast to the austere desert prophet whose voice could not be silenced even by death, for his witness continues in the Gospel itself.",
+  "scripture_refs": [
+    {
+      "ref": "MRK.6.17-29",
+      "relevance": "primary",
+      "reason": "The full narrative of Herodias's plot, Salome's dance, and the beheading of John the Baptist"
+    },
+    {
+      "ref": "MAT.14.3-12",
+      "relevance": "primary",
+      "reason": "Matthew's parallel account of the Baptist's martyrdom at Herod's feast"
+    },
+    {
+      "ref": "MAT.11.11",
+      "relevance": "allusion",
+      "reason": "Among those born of women there has arisen no one greater than John the Baptist"
+    },
+    {
+      "ref": "LUK.1.76",
+      "relevance": "typological",
+      "reason": "You will go before the Lord to prepare his ways — the prophet whose mission ended in martyrdom"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "decadent",
+    "sinister",
+    "opulent",
+    "cruel"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006894",
+    "title": "Salome",
+    "artist": "Gustav Adolf Mossa",
+    "model": "claude-opus-4-6"
+  }
+}

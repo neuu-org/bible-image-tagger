@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Evangelist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Holy Women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Holy Women and Saint John at the Foot of the Cross",
+  "tags": [
+    "holy-women",
+    "crucifixion-mourners",
+    "virgin-mary",
+    "saint-john-evangelist",
+    "grief",
+    "weeping",
+    "head-coverings",
+    "raised-hands",
+    "blue-veil",
+    "cross-fragment",
+    "lamentation",
+    "diptych-wing"
+  ],
+  "symbols": [
+    "Mary’s raised hands — anguished supplication and the sword piercing her soul",
+    "blue-black veil of Mary — deep mourning and sorrowful maternity",
+    "weeping women — the faithful remnant who stayed at the Cross",
+    "John’s red robe — the beloved disciple’s witness of Christ’s blood",
+    "fragment of the cross visible above — the crucifixion that causes their grief"
+  ],
+  "description": "A close-up grouping of five figures shown from the waist up. At the center, a woman in a dark blue-black veil and white wimple raises both hands with an expression of deep sorrow. Around her, three other women in white head coverings display varying gestures of grief—one covers her face weeping, another looks on with anguished concern, a third raises her hand in prayer. To the left, a young man in a red robe looks downward with a pained expression. The top of a dark vertical beam (the cross) is barely visible at the upper left. A landscape with buildings is visible in the distant background.",
+  "theological_description": "This panel depicts the holy women and Saint John at the foot of the Cross during the crucifixion. John 19:25-27 records that ‘standing by the cross of Jesus were his mother, and his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.’ The beloved disciple John was the only male follower present. Mary’s anguish fulfills Simeon’s prophecy that a sword would pierce her own soul (Luke 2:35)—she who said ‘yes’ at the Annunciation now bears the cost of that consent. The faithful women embody the courage that the male disciples (except John) lacked, standing as witnesses when all seemed lost. Their presence at Calvary also made them the first witnesses of the empty tomb (Mark 16:1-6), establishing a pattern in the Gospels where faithfulness in suffering leads to the privilege of witnessing the resurrection. Jesus’ words from the cross entrusting Mary to John’s care (John 19:26-27) constitute the formation of the new spiritual family born from the Cross.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "The holy women and John standing at the foot of the cross, the scene directly depicted"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "typological",
+      "reason": "Simeon’s prophecy that a sword would pierce Mary’s soul, fulfilled in her anguish at the Cross"
+    },
+    {
+      "ref": "MRK.15.40-41",
+      "relevance": "primary",
+      "reason": "The women who followed Jesus from Galilee watching from a distance at the crucifixion"
+    },
+    {
+      "ref": "MRK.16.1-6",
+      "relevance": "typological",
+      "reason": "These faithful women will become the first witnesses of the empty tomb"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "anguished",
+    "mournful",
+    "tender",
+    "sorrowful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013303",
+    "title": "Granada diptych, right wing, the holy women and St. John",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

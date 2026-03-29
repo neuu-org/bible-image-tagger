@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "name": "Hermit Saint",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Hermit Saints Triptych — Right Panel",
+  "tags": [
+    "hermit",
+    "desert-father",
+    "prayer",
+    "cave",
+    "wilderness",
+    "solitude",
+    "book",
+    "dark-robe",
+    "asceticism"
+  ],
+  "symbols": [
+    "cave or rocky shelter — the desert dwelling of the ascetic, withdrawal from the world",
+    "book or prayer book — devotion to Scripture and contemplation",
+    "dark robe — monastic or eremitic garb, renunciation of worldly vanity",
+    "barren rocky landscape — the wilderness as place of spiritual testing",
+    "solitary figure — the eremitic life of total dedication to God"
+  ],
+  "description": "A tall, narrow panel showing an elderly bearded figure in dark brown or black robes seated before a rocky cave or grotto entrance. He appears to be reading or praying with a book in his hands. The landscape is barren and rocky, with a brownish hillside rising behind. At the top of the hill, a small reddish structure or fire is faintly visible. The palette is dark and earthy — browns, ochres, and muted greens. The composition is vertical and claustrophobic, emphasizing the confinement and isolation of the hermit's life.",
+  "theological_description": "This right panel from Bosch's Hermit Saints Triptych depicts one of the early Christian desert hermits in solitary prayer. The desert fathers — Anthony, Paul of Thebes, Jerome, and others — withdrew from civilization to seek God in the wilderness, following biblical precedents. Elijah dwelt by the brook Cherith (1 Kgs 17:3-6), and John the Baptist lived in the wilderness (Luke 1:80). Jesus himself 'was led up by the Spirit into the wilderness' for forty days of fasting and temptation (Matt 4:1-2). The hermit's devotion to his book of Scripture fulfills the Psalmist's aspiration: 'On his law he meditates day and night' (Ps 1:2). The barren, threatening landscape represents the spiritual warfare that intensifies in solitude — 'your adversary the devil prowls around like a roaring lion' (1 Pet 5:8). Yet it is precisely in this wilderness that God speaks most clearly: 'I will allure her and bring her into the wilderness, and speak tenderly to her' (Hos 2:14).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.4.1-2",
+      "relevance": "primary",
+      "reason": "Jesus led into the wilderness for fasting — the model for eremitic life"
+    },
+    {
+      "ref": "PSA.1.2",
+      "relevance": "allusion",
+      "reason": "On his law he meditates day and night — the hermit reading Scripture"
+    },
+    {
+      "ref": "1KI.17.3-6",
+      "relevance": "typological",
+      "reason": "Elijah by the brook Cherith — the prophetic precedent for the hermit life"
+    },
+    {
+      "ref": "HOS.2.14",
+      "relevance": "allusion",
+      "reason": "I will bring her into the wilderness and speak tenderly — God meeting the solitary"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "solitary",
+    "austere",
+    "contemplative"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012526",
+    "title": "Hermit Saints Triptych (right panel)",
+    "artist": "Hieronymus Bosch",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "characters": [
+    {
+      "name": "Sebastian",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Martyrdom of Saint Sebastian",
+  "tags": [
+    "saint-sebastian",
+    "martyrdom",
+    "arrows",
+    "angel",
+    "bound-figure",
+    "suffering",
+    "christian-martyr"
+  ],
+  "symbols": [
+    "Sebastian bound and pierced by arrows — the suffering of the faithful under persecution",
+    "angel descending from above — divine comfort and the promise of heavenly reward for the martyr",
+    "semi-nude body — vulnerability and the stripping away of worldly protection",
+    "upward gaze — trust in God even amid torment"
+  ],
+  "description": "A fresco panel between architectural columns showing two figures. Below, Saint Sebastian stands semi-nude, bound, his body pierced with arrows, gazing upward. Above him, an angel in flowing robes descends from dark clouds, reaching toward the saint. The fresco is somewhat damaged and weathered. The palette includes warm flesh tones, dark background, and the angel's reddish-orange garments. The composition is vertical and narrow, fitting within an architectural niche.",
+  "theological_description": "Saint Sebastian, a Roman soldier martyred under Diocletian (c. 288 AD), became one of Christianity's most depicted saints. Though not a biblical figure, his martyrdom embodies the promise Christ made to his followers: 'You will be hated by all for my name's sake. But the one who endures to the end will be saved' (MAT.10.22). The angel descending to comfort Sebastian echoes the angel who strengthened Jesus in Gethsemane (LUK.22.43). Sebastian's endurance under arrows reflects the broader pattern of Christian martyrdom that began with Stephen (ACT.7.54-60) and continued through the Roman persecutions. Paul's words resonate: 'I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us' (ROM.8.18). The Revelation to John promises: 'Be faithful unto death, and I will give you the crown of life' (REV.2.10).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.22",
+      "relevance": "allusion",
+      "reason": "You will be hated for my name's sake, but the one who endures will be saved"
+    },
+    {
+      "ref": "LUK.22.43",
+      "relevance": "typological",
+      "reason": "An angel strengthening Jesus in Gethsemane, paralleled by the angel comforting Sebastian"
+    },
+    {
+      "ref": "ROM.8.18",
+      "relevance": "allusion",
+      "reason": "Present sufferings not worth comparing with future glory"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "allusion",
+      "reason": "Be faithful unto death and receive the crown of life"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "transcendent",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009595",
+    "title": "St Sebastian",
+    "artist": "Paolo Veronese",
+    "model": "claude-opus-4-6"
+  }
+}

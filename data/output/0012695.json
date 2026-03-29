@@ -1,0 +1,76 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Saint Dominic",
+      "type": "PERSON"
+    },
+    {
+      "name": "Putti",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Virgin Giving the Rosary to Saint Dominic",
+  "tags": [
+    "virgin-mary",
+    "saint-dominic",
+    "rosary",
+    "infant-jesus",
+    "dominican",
+    "vision",
+    "clouds",
+    "devotional",
+    "putti"
+  ],
+  "symbols": [
+    "rosary being given — the divine origin of the rosary devotion in Dominican tradition",
+    "Virgin enthroned on clouds — Mary's heavenly authority and intercessory role",
+    "Dominican black and white habit — the Order of Preachers founded by Dominic",
+    "kneeling posture — Dominic's humility and receptivity to grace",
+    "putti in clouds — the heavenly setting of the vision"
+  ],
+  "description": "A vertical Baroque composition. In the upper portion, the Virgin Mary sits on clouds holding the infant Jesus, illuminated by golden light from above. Putti appear in the clouds around her. Below, a tonsured friar in a black and white Dominican habit kneels on the ground, reaching upward toward the Virgin. She appears to be handing him a rosary. The composition creates a strong diagonal from the kneeling saint to the enthroned Madonna. The palette is warm with golden light, dark shadows, and the characteristic Baroque contrast between heavenly radiance and earthly darkness.",
+  "theological_description": "Conca depicts the legendary vision in which the Virgin Mary appeared to Saint Dominic de Guzman (1170-1221), founder of the Dominican Order, and gave him the rosary as a weapon against heresy. While historically uncertain, this tradition expressed the deep Marian devotion of the Dominican order. The rosary's mysteries — Joyful, Sorrowful, Glorious, and Luminous — meditate on key events of Christ's life through Mary's eyes. The tradition draws on biblical foundations: Mary 'treasured all these things, pondering them in her heart' (Luke 2:19), and the rosary is essentially a repetition of the Angel Gabriel's greeting: 'Hail, full of grace, the Lord is with you' (Luke 1:28). Mary's intercessory role is grounded in the Wedding at Cana, where she told the servants 'Do whatever he tells you' (John 2:5). The kneeling Dominic represents the Church receiving the gift of contemplative prayer from the Mother of God.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.28",
+      "relevance": "primary",
+      "reason": "Hail, full of grace — the angelic greeting that forms the basis of the rosary"
+    },
+    {
+      "ref": "LUK.2.19",
+      "relevance": "primary",
+      "reason": "Mary pondered all these things in her heart — the contemplative rosary meditation"
+    },
+    {
+      "ref": "JHN.2.5",
+      "relevance": "allusion",
+      "reason": "Do whatever he tells you — Mary's intercessory role directing to Christ"
+    },
+    {
+      "ref": "LUK.1.48",
+      "relevance": "allusion",
+      "reason": "All generations will call me blessed — Mary enthroned giving the rosary"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "devotional",
+    "mystical",
+    "luminous"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012695",
+    "title": "La Vierge Remettant Le Rosaire À Saint Dominique",
+    "artist": "Sebastiano Conca",
+    "model": "claude-opus-4-6"
+  }
+}

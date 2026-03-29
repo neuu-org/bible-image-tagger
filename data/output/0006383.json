@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Adam",
+      "type": "PERSON"
+    },
+    {
+      "name": "Eve",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Fall of Man",
+  "tags": [
+    "fall-of-man",
+    "garden-of-eden",
+    "forbidden-fruit",
+    "original-sin",
+    "temptation",
+    "tree-of-knowledge",
+    "nakedness",
+    "paradise",
+    "apple",
+    "innocence-lost"
+  ],
+  "symbols": [
+    "tree laden with fruit — the Tree of Knowledge of Good and Evil, the instrument of the first temptation",
+    "fruit being taken — the act of disobedience that brings sin and death into the world",
+    "nudity of Adam and Eve — their original innocence before the awareness of shame",
+    "lush garden setting — the paradise of Eden, the state of harmony with God before the Fall",
+    "deer visible in background — the peaceable animal kingdom under Adam's dominion before corruption"
+  ],
+  "description": "Two nude figures, a man and a woman, stand beneath a large fruit tree heavy with round red and orange fruits. The woman on the right reaches up toward the fruit while the man stands to the left. They are surrounded by dense green foliage and additional fruit-bearing trees. A small deer or similar animal is visible in the background. The garden is richly detailed with abundant vegetation, creating an enclosed, paradisiacal setting.",
+  "theological_description": "The Fall of Man depicts the pivotal moment in Genesis 3 when Eve, deceived by the serpent, takes the forbidden fruit from the Tree of Knowledge of Good and Evil and shares it with Adam. This single act of disobedience shattered the covenant of creation and introduced sin, death, and alienation from God into human experience (Gen 3:6-7). The Church Fathers understood this event as the entry point of original sin, transmitted to all humanity (Rom 5:12). Augustine taught that the Fall corrupted the will itself, making humanity incapable of not sinning without divine grace. The lush, enclosed garden represents the state of original justice — perfect harmony between God, humanity, and creation — now about to be irreversibly disrupted. Yet within the narrative of the Fall lies the Protoevangelium, the first promise of redemption: God's declaration that the seed of the woman would crush the serpent's head (Gen 3:15), understood typologically as the promise of Christ born of the Virgin Mary, the new Eve, who would undo what the first Eve set in motion.",
+  "scripture_refs": [
+    {
+      "ref": "GEN.3.1-7",
+      "relevance": "primary",
+      "reason": "The direct account of the temptation and eating of the forbidden fruit by Adam and Eve"
+    },
+    {
+      "ref": "GEN.2.16-17",
+      "relevance": "primary",
+      "reason": "God's original command not to eat from the Tree of Knowledge, establishing the prohibition being violated"
+    },
+    {
+      "ref": "ROM.5.12-19",
+      "relevance": "typological",
+      "reason": "Paul's theology of the Fall: through one man sin entered the world, and through one man (Christ) grace abounds"
+    },
+    {
+      "ref": "GEN.3.15",
+      "relevance": "typological",
+      "reason": "The Protoevangelium — the promise that the seed of the woman will crush the serpent's head"
+    },
+    {
+      "ref": "1CO.15.21-22",
+      "relevance": "typological",
+      "reason": "As in Adam all die, so in Christ shall all be made alive — the Fall as counterpoint to Resurrection"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "idyllic",
+    "ominous",
+    "innocent",
+    "fateful"
+  ],
+  "period": "Creation",
+  "_meta": {
+    "key": "0006383",
+    "title": "Fall of Man",
+    "artist": "Lucas Cranach the Elder",
+    "model": "claude-opus-4-6"
+  }
+}

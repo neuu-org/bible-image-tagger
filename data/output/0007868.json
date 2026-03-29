@@ -1,0 +1,35 @@
+{
+  "characters": [
+    {"name": "Saint Sigismund", "type": "PERSON"},
+    {"name": "Executioners", "type": "GROUP"}
+  ],
+  "event": "Martyrdom of Saint Sigismund — altarpiece design",
+  "tags": [
+    "martyrdom",
+    "saint-sigismund",
+    "altarpiece-design",
+    "preparatory-drawing",
+    "arched-niche",
+    "architectural-frame"
+  ],
+  "symbols": [
+    "arched niche framing — the altarpiece as sacred window onto the event",
+    "central martyrdom scene — the saint's death as the climax of faithful witness"
+  ],
+  "description": "A black-and-white preparatory drawing for an altarpiece, showing an architectural frame with an arched central panel containing a crowded scene of figures. The composition appears to depict a martyrdom or violent event, with multiple figures in agitated poses. Flanking the central panel are smaller vertical panels with individual figures. Decorative scrollwork and a cartouche crown the top. The drawing is detailed in the architecture but loosely sketched in the figural areas.",
+  "theological_description": "Saint Sigismund, king of Burgundy (died 524), converted from Arianism to orthodox Christianity and is venerated as a patron saint. His martyrdom — he was thrown into a well along with his family by political enemies — became a powerful witness to the cost of Christian conviction in an age of political violence. The altarpiece format itself is theologically significant: by placing the martyrdom within an architectural frame for church display, the event is elevated from mere historical fact to liturgical commemoration. The altar is where the Church celebrates the Eucharist, and the presence of a martyrdom scene above or behind it affirms the ancient tradition that the blood of the martyrs is united with the sacrifice of Christ.",
+  "scripture_refs": [
+    {"ref": "REV.6.9-11", "relevance": "primary", "reason": "The souls of the martyrs under the altar — linking the saint's death to eucharistic worship"},
+    {"ref": "2TI.4.6-8", "relevance": "allusion", "reason": "I have fought the good fight — the faithful king's final witness"},
+    {"ref": "HEB.11.33-34", "relevance": "allusion", "reason": "By faith they conquered kingdoms and administered justice — faithful rulers who suffered for their faith"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemn", "formal"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007868",
+    "title": "Martyrdom of St. Sigismund",
+    "artist": "Giorgio Vasari",
+    "model": "claude-opus-4-6"
+  }
+}

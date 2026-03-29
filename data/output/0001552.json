@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Mary Magdalene", "type": "PERSON"},
+    {"name": "Angels", "type": "ANGEL"},
+    {"name": "Mourners", "type": "GROUP"}
+  ],
+  "event": "The Lamentation over the Dead Christ",
+  "tags": [
+    "lamentation",
+    "dead-christ",
+    "pieta",
+    "mourning",
+    "passion",
+    "descent-from-cross",
+    "angels",
+    "burial-preparation",
+    "maternal-grief"
+  ],
+  "symbols": [
+    "Dead body of Christ — the sacrificial Lamb whose death atones for sin",
+    "Mary cradling Christ's head — Mater Dolorosa, the sword of Simeon's prophecy piercing her soul",
+    "Magdalene at Christ's side — faithful devotion to the end, the forgiven sinner clinging to her Redeemer",
+    "Angels above — heavenly mourning over the death of the Incarnate God",
+    "Anointing jar — preparation for burial, echoing the Magdalene's earlier anointing"
+  ],
+  "description": "The dead Christ lies in the foreground, his pale body stretched across the laps of mourners. The Virgin Mary in a white head covering supports his head, her face drawn with grief. A woman with golden hair kneels at his side. Behind them, bearded men look on in sorrow. Above the scene, an angel with outstretched arms descends dramatically from the sky. A vessel sits on the ground nearby. The composition is tall and vertical, framed by an arched top, with the angel's dynamic pose contrasting the stillness of the dead Christ below.",
+  "theological_description": "The Lamentation is the moment between the Crucifixion and the Entombment when the full cost of redemption is laid bare in grief. Mary holds the body of her Son, fulfilling Simeon's prophecy: 'A sword will pierce through your own soul also' (LUK.2.35). The Magdalene's presence recalls her devotion throughout Christ's ministry — she who was forgiven much loved much (LUK.7.47). The angel descending from above underscores that this death, though fully human in its grief, is cosmically significant — the Creator has died for His creation. Isaiah's prophecy is visually fulfilled: 'He was despised and rejected by men, a man of sorrows and acquainted with grief' (ISA.53.3). The Fathers read the Lamentation through the lens of Paschal theology: this apparent defeat is the prelude to victory, this death the seed of resurrection. The body will be laid in the tomb, but on the third day it will rise.",
+  "scripture_refs": [
+    {"ref": "JHN.19.38-42", "relevance": "primary", "reason": "The removal and burial preparation of Christ's body — the narrative context of the Lamentation"},
+    {"ref": "LUK.2.35", "relevance": "typological", "reason": "Simeon's prophecy of the sword piercing Mary's soul, fulfilled in her grief over the dead Christ"},
+    {"ref": "ISA.53.3-5", "relevance": "typological", "reason": "The Suffering Servant, man of sorrows, wounded for our transgressions"},
+    {"ref": "LUK.7.47", "relevance": "allusion", "reason": "She who was forgiven much loved much — the Magdalene's presence at the Lamentation"},
+    {"ref": "MAT.27.55-56", "relevance": "primary", "reason": "The faithful women who witnessed the crucifixion and now mourn the dead Christ"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["grief", "solemn", "dramatic", "tender"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001552",
+    "title": "The Lamentation over the Dead Christ",
+    "artist": "Francesco de' Rossi (Francesco Salviati)",
+    "model": "claude-opus-4-6"
+  }
+}

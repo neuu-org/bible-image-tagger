@@ -1,0 +1,86 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Infant John the Baptist",
+      "type": "PERSON"
+    },
+    {
+      "name": "Elizabeth",
+      "type": "PERSON"
+    },
+    {
+      "name": "Zechariah",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Virgin and Child with the infant Saint John and his parents",
+  "tags": [
+    "holy-family",
+    "infant-john-baptist",
+    "elizabeth",
+    "zechariah",
+    "birdcage",
+    "lamb",
+    "domestic-scene",
+    "children",
+    "warmth",
+    "familial-devotion"
+  ],
+  "symbols": [
+    "lamb at the children's feet — Christ as the Lamb of God, prefiguring his sacrificial death",
+    "birdcage with bird — the soul's imprisonment in the flesh, or the sacrifice to be offered at the Temple purification",
+    "infant John reaching toward Jesus — the Baptist's future role of pointing to Christ",
+    "elderly couple — Zechariah and Elizabeth, the miraculous parents of John"
+  ],
+  "description": "A warm, intimate domestic scene showing five figures gathered around a wicker chair. An elderly bearded man (Zechariah) and elderly woman in a white headcovering (Elizabeth) stand at the left, looking down at two infants. One infant reaches toward a birdcage held between the groups. A young woman in a red garment (Mary) holds the other infant on the right, seated in a large wicker chair. A small white lamb sits at the children's feet. A dark red curtain drapes behind the left figures. The palette is warm with rich reds, browns, and golden flesh tones.",
+  "theological_description": "This painting brings together the two holy families whose destinies are intertwined by divine plan: Mary with the infant Jesus and Elizabeth and Zechariah with the infant John. The scene extends the narrative of the Visitation (Luke 1:39-45), when Elizabeth's child leaped in the womb at Mary's greeting, into a tender domestic encounter between the two children. The lamb at their feet is the defining symbol: John will grow up to proclaim Jesus as 'the Lamb of God who takes away the sin of the world' (John 1:29). The infant John reaching toward the birdcage or toward Jesus enacts in miniature the Baptist's entire prophetic mission — pointing others to Christ. Elizabeth and Zechariah represent the faithful remnant of Israel, the righteous who 'walked blamelessly in all the commandments' (Luke 1:6), and from whose aged bodies God brought forth the forerunner, demonstrating that 'nothing is impossible with God' (Luke 1:37). The domestic warmth of the scene grounds the Incarnation in ordinary human life — God enters the world through families, through the bonds of kinship and love.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.39-45",
+      "relevance": "primary",
+      "reason": "The Visitation — the meeting of the two mothers and their unborn children that this scene extends"
+    },
+    {
+      "ref": "JHN.1.29",
+      "relevance": "typological",
+      "reason": "Behold the Lamb of God — the lamb at the children's feet prefiguring John's proclamation"
+    },
+    {
+      "ref": "LUK.1.5-7",
+      "relevance": "primary",
+      "reason": "The introduction of Zechariah and Elizabeth, the elderly righteous couple seen here"
+    },
+    {
+      "ref": "LUK.1.36-37",
+      "relevance": "primary",
+      "reason": "Elizabeth's miraculous conception in old age, demonstrating that nothing is impossible with God"
+    },
+    {
+      "ref": "LUK.1.76-79",
+      "relevance": "typological",
+      "reason": "Zechariah's prophecy about John — you will go before the Lord to prepare his ways"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "warm",
+    "intimate",
+    "tender",
+    "joyful"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006728",
+    "title": "The Virgin and Child with St John and His Parents",
+    "artist": "Jacob Jordaens",
+    "model": "claude-opus-4-6"
+  }
+}

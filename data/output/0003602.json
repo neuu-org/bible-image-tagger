@@ -1,0 +1,58 @@
+{
+  "characters": [
+    {
+      "name": "Jerome",
+      "type": "PERSON"
+    },
+    {
+      "name": "Allegorical Figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Stories of Saint Jerome (Ceiling Medallion)",
+  "tags": [
+    "saint-jerome",
+    "allegorical-figures",
+    "trumpeter",
+    "wreath",
+    "church-father",
+    "fame",
+    "medallion"
+  ],
+  "symbols": [
+    "trumpet — fame and the proclamation of Jerome's renown as Doctor of the Church",
+    "laurel wreath — victory, honor, and achievement in sacred scholarship",
+    "chains or rosary — devotion and the bond of faith"
+  ],
+  "description": "An ornate ceiling medallion framed by gilded scrollwork and a carved face at the top. Within the cartouche, three figures are arranged: a central figure in green holds a long trumpet to his lips, while a figure at the left in golden robes holds a laurel wreath and a staff, and a figure at the right in yellow and white offers or exchanges something. The fresco is painted in warm tones within the elaborate stucco frame. The composition is dynamic with the figures arranged in a triangular grouping.",
+  "theological_description": "This ceiling medallion from a cycle dedicated to Saint Jerome depicts allegorical figures celebrating the fame and accomplishments of the great Church Father. Jerome's monumental contribution — the Vulgate translation of the Bible — earned him recognition as one of the four original Doctors of the Western Church. Though a post-biblical saint, his entire life was devoted to Scripture. The trumpet of fame recalls the broader theme of proclaiming God's truth: 'How beautiful are the feet of those who preach the good news' (ROM.10.15). The laurel wreath evokes Paul's metaphor of the imperishable crown awaiting those who run the race faithfully (1CO.9.25).",
+  "scripture_refs": [
+    {
+      "ref": "ROM.10.15",
+      "relevance": "allusion",
+      "reason": "The proclamation of good news — Jerome's life work of making Scripture accessible"
+    },
+    {
+      "ref": "1CO.9.25",
+      "relevance": "allusion",
+      "reason": "The imperishable crown — the laurel wreath honoring Jerome's faithful service"
+    },
+    {
+      "ref": "2TI.4.7-8",
+      "relevance": "allusion",
+      "reason": "Fighting the good fight, finishing the race — Jerome's lifelong devotion to Scripture"
+    }
+  ],
+  "scene_type": "allegory",
+  "mood": [
+    "celebratory",
+    "triumphant"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003602",
+    "title": "Stories of St. Jerome",
+    "artist": "Alessandro Allori",
+    "model": "claude-opus-4-6"
+  }
+}

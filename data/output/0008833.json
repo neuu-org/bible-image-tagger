@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Two thieves",
+      "type": "GROUP"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Crowd",
+      "type": "GROUP"
+    },
+    {
+      "name": "Holy women",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion — three crosses on Golgotha",
+  "tags": [
+    "crucifixion",
+    "three-crosses",
+    "golgotha",
+    "two-thieves",
+    "soldiers",
+    "horses",
+    "crowd",
+    "mourners",
+    "lance",
+    "dice",
+    "skull",
+    "passion",
+    "triptych-detail"
+  ],
+  "symbols": [
+    "three crosses — Christ between the two thieves, salvation offered to all",
+    "lance piercing Christ's side — the wound from which blood and water flowed (John 19:34)",
+    "skull and bones at the base — Golgotha, Place of the Skull, and Adam's death undone",
+    "soldiers casting dice — the fulfillment of Psalm 22:18, dividing Christ's garments",
+    "mourning women at lower left — the faithful remnant who stayed to the end"
+  ],
+  "description": "A large, detailed altarpiece panel showing the Crucifixion scene with three crosses. Christ hangs at center on the tallest cross, flanked by the two thieves on slightly lower crosses. A large crowd fills the space around the crosses — soldiers on horseback, one wielding a lance toward Christ, others with spears and armor. In the lower left, a group of grieving women supports the fainting Virgin Mary. In the lower right, soldiers sit on the ground casting dice. A skull and crossbones lie at the very base of the central cross. A city with towers is visible in the background.",
+  "theological_description": "This comprehensive Crucifixion scene from the Lubeck Cathedral altar gathers the full cast of the Passion narrative into a single, densely populated image. Christ hangs between two thieves, fulfilling Isaiah's prophecy: 'He was numbered with the transgressors' (Isa 53:12). The good thief received the promise, 'Today you will be with me in paradise' (Luke 23:43), while the other mocked — the cross divides humanity into those who receive grace and those who refuse it. The soldier's lance piercing Christ's side fulfills Zechariah 12:10: 'They shall look on him whom they have pierced,' and from the wound flowed blood and water (John 19:34), which the Fathers interpreted as the sacraments of Eucharist and Baptism flowing from Christ's body. The soldiers gambling for Christ's garments fulfill Psalm 22:18. The mourning women embody the faithful Church that remains at the cross when all others have fled. Every detail of this crowded scene proclaims the theological conviction that the cross is the center of history, the fulcrum on which all of creation turns.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The crucifixion at Golgotha with two others on either side"
+    },
+    {
+      "ref": "JHN.19.34",
+      "relevance": "primary",
+      "reason": "The soldier piercing Christ's side with a lance, blood and water flowing"
+    },
+    {
+      "ref": "LUK.23.43",
+      "relevance": "primary",
+      "reason": "Today you will be with me in paradise — the promise to the good thief"
+    },
+    {
+      "ref": "PSA.22.18",
+      "relevance": "typological",
+      "reason": "They divide my garments and cast lots for my clothing — the soldiers gambling"
+    },
+    {
+      "ref": "ISA.53.12",
+      "relevance": "typological",
+      "reason": "Numbered with the transgressors — Christ crucified between two criminals"
+    },
+    {
+      "ref": "ZEC.12.10",
+      "relevance": "typological",
+      "reason": "They shall look on him whom they have pierced — the lance wound"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "agonizing",
+    "chaotic",
+    "solemn",
+    "dramatic"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0008833",
+    "title": "Altar triptych from the Lübeck Cathedral (detail)",
+    "artist": "Hans Memling",
+    "model": "claude-opus-4-6"
+  }
+}

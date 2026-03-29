@@ -1,0 +1,77 @@
+{
+  "characters": [
+    {
+      "name": "King David",
+      "type": "PERSON"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Fallen Enemies",
+      "type": "GROUP"
+    }
+  ],
+  "event": "David's Penitential Prayer",
+  "tags": [
+    "david",
+    "prayer",
+    "penitence",
+    "god-enthroned",
+    "mandorla",
+    "seraphim",
+    "battlefield",
+    "harp",
+    "psalm"
+  ],
+  "symbols": [
+    "God enthroned in a fiery mandorla — the divine majesty before whom David prostrates in prayer",
+    "David in royal armor kneeling — the warrior-king humbled in penitential prayer",
+    "fiery seraphim surrounding God — the heavenly court in perpetual worship",
+    "fallen warriors — the enemies subdued by divine intervention, or the consequences of David's wars",
+    "Latin inscription — the penitential psalm text being illustrated"
+  ],
+  "description": "An illuminated manuscript page showing two registers. In the upper portion, God the Father sits enthroned within a fiery mandorla of red, orange, and gold, surrounded by winged seraphim. He holds a book and raises one hand in blessing. Below, King David stands in ornate royal armor and a red cloak, with a harp or instrument on his back, his arms raised in prayer toward the heavenly vision. Around him on the ground, fallen warriors lie defeated. A body of water with boats is visible in the middle distance, and a walled city or fortification rises at right.",
+  "theological_description": "This illumination depicts King David in penitential prayer, likely illustrating Psalm 6 based on the inscription 'Domine ne in furore tuo arguas me' — 'O LORD, rebuke me not in your anger.' David's dual identity as warrior and psalmist is captured in his armor and his prayerful posture. The vision of God enthroned above affirms that David's prayer reaches the divine throne. The Psalms of David became the prayer book of both Israel and the Church, and David's penitential psalms (Psalms 6, 32, 38, 51, 102, 130, 143) express the deepest human longing for divine mercy. David's humility before God, despite his royal status, embodies the biblical principle that God opposes the proud but gives grace to the humble (JAM.4.6). The fallen enemies may represent the battles that troubled David's conscience, driving him to seek God's mercy.",
+  "scripture_refs": [
+    {
+      "ref": "PSA.6.1-2",
+      "relevance": "primary",
+      "reason": "O LORD, rebuke me not in your anger — the psalm being illustrated by the Latin inscription"
+    },
+    {
+      "ref": "PSA.51.1-4",
+      "relevance": "allusion",
+      "reason": "Have mercy on me, O God — David's most famous penitential psalm"
+    },
+    {
+      "ref": "2SA.24.10",
+      "relevance": "allusion",
+      "reason": "David's heart struck him after his sin, and he prayed for mercy"
+    },
+    {
+      "ref": "ISA.6.1-3",
+      "relevance": "typological",
+      "reason": "The Lord seated on a throne with seraphim — the divine vision above David"
+    },
+    {
+      "ref": "ACT.13.22",
+      "relevance": "allusion",
+      "reason": "A man after my own heart — David's special relationship with God expressed in prayer"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "penitential",
+    "majestic",
+    "fervent"
+  ],
+  "period": "Monarchy",
+  "_meta": {
+    "key": "0006118",
+    "title": "David Prayers",
+    "artist": "Jean Fouquet",
+    "model": "claude-opus-4-6"
+  }
+}

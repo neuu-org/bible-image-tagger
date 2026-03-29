@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Crowd of Followers", "type": "GROUP"}
+  ],
+  "event": "Christ Praying with Arms Raised",
+  "tags": [
+    "praying-christ",
+    "raised-arms",
+    "prayer",
+    "intercession",
+    "jerusalem",
+    "disciples",
+    "crowd",
+    "domed-building",
+    "twilight",
+    "pine-tree"
+  ],
+  "symbols": [
+    "Christ with raised arms — intercessory prayer and supplication to the Father",
+    "domed building in background — Jerusalem and the Temple",
+    "crowd of faces below — the multitude who followed Jesus or humanity for whom He prays",
+    "twilight sky — the liminal hour of prayer, approaching the Passion",
+    "pine tree — the garden setting suggesting Gethsemane or the Mount of Olives"
+  ],
+  "description": "A bearded figure in a white robe and dark red cloak stands with both arms raised high in prayer against a dramatic twilight sky of blue, orange, and grey. Behind him, a cityscape with a prominent domed building and towers rises in the middle distance. A tall pine tree stands at center. In the foreground below, a densely packed crowd of faces with wide eyes gazes upward at the praying figure. The painting has an expressive, somewhat distorted style with visible brushstrokes and intense color contrasts.",
+  "theological_description": "This image presents Christ in the posture of intercessory prayer — arms raised in the ancient orans position — with Jerusalem visible behind him. The scene evokes multiple moments in the Gospels: Christ's prayer on the Mount of Olives before the Passion (LUK.22.41-44), His lamentation over Jerusalem (LUK.13.34), or His high-priestly prayer of John 17. The crowd below suggests the multitude for whom Christ intercedes, fulfilling Isaiah's prophecy that the Servant would bear the sin of many and make intercession for transgressors (ISA.53.12). The domed structure of Jerusalem in the background anchors the scene in the Holy City where Christ's sacrifice would be accomplished. The twilight atmosphere suggests the approaching hour of darkness. Christ's role as mediator between God and humanity is physically manifest in His posture: arms reaching toward heaven while His body remains among the people below.",
+  "scripture_refs": [
+    {"ref": "LUK.22.41-44", "relevance": "primary", "reason": "Jesus withdrew and knelt down and prayed in agony on the Mount of Olives"},
+    {"ref": "JHN.17.1-5", "relevance": "primary", "reason": "The high-priestly prayer of Jesus, lifting His eyes to heaven and interceding"},
+    {"ref": "LUK.13.34", "relevance": "allusion", "reason": "O Jerusalem, Jerusalem — Christ's lament over the city visible behind Him"},
+    {"ref": "ISA.53.12", "relevance": "typological", "reason": "He bore the sin of many and made intercession for the transgressors"},
+    {"ref": "HEB.7.25", "relevance": "typological", "reason": "He always lives to make intercession for those who draw near to God through Him"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["fervent", "solemn", "anguished", "transcendent"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005242",
+    "title": "Praying Saviour",
+    "artist": "Tivadar Kosztka Csontvary",
+    "model": "claude-opus-4-6"
+  }
+}

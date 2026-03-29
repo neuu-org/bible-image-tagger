@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Dead Christ with Angels",
+  "tags": [
+    "dead-christ",
+    "angels-mourning",
+    "passion",
+    "wounds-of-christ",
+    "entombment",
+    "lamentation",
+    "bare-torso",
+    "blue-wings",
+    "crown-of-thorns",
+    "side-wound",
+    "seated-corpse",
+    "grief"
+  ],
+  "symbols": [
+    "wound in Christ\u2019s side \u2014 the lance wound from the crucifixion, source of blood and water",
+    "angels supporting the body \u2014 heavenly mourning over the sacrificial death of the Son of God",
+    "loincloth and bare torso \u2014 the stripped and humiliated state of the crucified Savior",
+    "upward gaze of Christ\u2019s face \u2014 the completed sacrifice offered to the Father"
+  ],
+  "description": "A half-length depiction of a dead or dying male figure seated upright, his bare torso exposed showing a visible wound in his right side. Two winged figures with blue and dark wings support him from behind, their faces expressing grief. The central figure\u2019s head is tilted back slightly with eyes partially open. He wears only a white cloth around his waist. The background is dark and somber. The composition is tight and emotionally intense.",
+  "theological_description": "This study of the Dead Christ with Angels presents the moment between the crucifixion and burial, when the body of Jesus is mourned by heavenly attendants. The visible wound in Christ\u2019s side recalls John 19:34, where a soldier pierced his side and blood and water flowed out\u2014understood by the Church Fathers as signifying the sacraments of Eucharist and Baptism flowing from Christ\u2019s sacrificial death. The angels\u2019 grief reflects a profound theological truth: the Creator of the heavenly host has submitted to death for the sake of his creatures. Isaiah 53:5 prophesied this scene: \u2018He was pierced for our transgressions, he was crushed for our iniquities.\u2019 The paradox of divine death\u2014the immortal God dying in human flesh\u2014stands at the heart of Christian soteriology. Yet this is not a scene of despair, for the body displayed thus anticipates the resurrection: \u2018You will not abandon my soul to Sheol, or let your holy one see corruption\u2019 (Psalm 16:10).",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.33-34",
+      "relevance": "primary",
+      "reason": "The piercing of Christ\u2019s side from which blood and water flowed, the visible wound depicted"
+    },
+    {
+      "ref": "ISA.53.5",
+      "relevance": "typological",
+      "reason": "He was pierced for our transgressions, prophesying the wounds visible on the dead Christ"
+    },
+    {
+      "ref": "PSA.16.10",
+      "relevance": "typological",
+      "reason": "God will not let his holy one see corruption, anticipating the resurrection"
+    },
+    {
+      "ref": "MAT.27.57-60",
+      "relevance": "primary",
+      "reason": "The burial of Jesus, the narrative moment depicted in this scene"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "mournful",
+    "solemn",
+    "anguished",
+    "sacred"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0013225",
+    "title": "Study to \"Dead Christ with Angels\"",
+    "artist": "Edouard Manet",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Young John the Baptist",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Madonna and Child with the Infant Saint John",
+  "tags": [
+    "madonna-and-child",
+    "infant-baptist",
+    "fruit-tree",
+    "landscape",
+    "tenderness",
+    "green-mantle",
+    "red-dress"
+  ],
+  "symbols": [
+    "Virgin Mary in red and green-blue mantle — her humanity (red) clothed in heavenly grace (blue-green)",
+    "Christ Child reaching toward Mary — the intimate bond between the incarnate God and his human mother",
+    "young John the Baptist looking up — the forerunner recognizing the Lamb of God even in infancy",
+    "fruit tree behind Mary — the Tree of Life restored through the new Eve bearing the new Adam",
+    "distant landscape with mountains and water — the created world renewed through the Incarnation"
+  ],
+  "description": "A close-up composition showing the Virgin Mary seated in a landscape, wearing a red dress with a deep green-blue mantle. She gently holds the nude Christ Child on her lap with her right arm. The infant Jesus raises one hand toward his mother. At the lower left, a small child (the young Baptist) in a blue garment looks up at the pair. Behind Mary, a fruit tree with ripe fruits grows against a lattice or trellis. A luminous landscape with mountains, trees, and a body of water extends to the right. The painting is rendered with soft sfumato and warm, harmonious colors.",
+  "theological_description": "Correggio's tender Madonna and Child places the Incarnation in a garden setting that recalls both Eden and the Song of Solomon. The fruit tree behind Mary evokes the Tree of Life (GEN.2.9; REV.22.2) — what was lost through the first Eve is restored through the new Eve who bears the fruit of salvation. The young Baptist's presence recalls the prenatal recognition at the Visitation, when the unborn John leaped at the approach of Mary bearing Christ (LUK.1.41-44). Even in infancy, the Baptist fulfills his role as witness and forerunner: 'He must increase, but I must decrease' (JHN.3.30). The intimate tenderness between Mary and the Christ Child expresses the theological truth that the eternal Word truly became flesh (JHN.1.14), fully participating in human affection and vulnerability. The garden landscape behind them suggests the restoration of creation's original harmony through the coming of the Messiah.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.1.41-44",
+      "relevance": "primary",
+      "reason": "The young Baptist's recognition of Christ, echoing the Visitation encounter"
+    },
+    {
+      "ref": "JHN.1.14",
+      "relevance": "primary",
+      "reason": "The Word became flesh, the theological reality of the incarnate infant depicted"
+    },
+    {
+      "ref": "GEN.2.9",
+      "relevance": "typological",
+      "reason": "The Tree of Life in Eden, evoked by the fruit tree behind Mary"
+    },
+    {
+      "ref": "JHN.3.30",
+      "relevance": "allusion",
+      "reason": "John's declaration that Christ must increase, shown in the Baptist looking up to Jesus"
+    },
+    {
+      "ref": "SNG.4.12-16",
+      "relevance": "allusion",
+      "reason": "The enclosed garden of the Song of Solomon, a Marian symbol of purity and fruitfulness"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "tender",
+    "peaceful",
+    "intimate"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009453",
+    "title": "Madonna and Child",
+    "artist": "Correggio",
+    "model": "claude-opus-4-6"
+  }
+}

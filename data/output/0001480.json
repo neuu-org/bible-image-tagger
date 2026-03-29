@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"}
+  ],
+  "event": "Christ Carrying the Cross",
+  "tags": [
+    "carrying-the-cross",
+    "crown-of-thorns",
+    "passion",
+    "via-dolorosa",
+    "suffering",
+    "red-robe",
+    "rope",
+    "close-up",
+    "face-of-christ"
+  ],
+  "symbols": [
+    "Crown of thorns — the mockery of Christ's kingship, thorns recalling the curse on creation after the Fall",
+    "Wooden cross — the instrument of execution that becomes the instrument of salvation",
+    "Rope around Christ's neck — His captivity and humiliation at the hands of sinners",
+    "Red robe — the scarlet robe placed on Christ in mockery, stained with His blood"
+  ],
+  "description": "A close-up portrait of Christ carrying the cross on his shoulder. He wears a crown of woven thorns pressed down on his head, from which blood trickles down his face. A thick rope is tied around his neck. He is dressed in a red robe. His right hand steadies the heavy wooden cross beam behind him. His expression is one of deep sorrow and endurance, his eyes downcast. The background is dark, focusing all attention on Christ's suffering face.",
+  "theological_description": "Christ carrying His cross to Golgotha (JHN.19.17) is the central image of the Via Dolorosa — the Way of Sorrows. The crown of thorns, placed in mockery by the soldiers (MAT.27.29), ironically proclaims the truth it intends to deny: this is indeed the King, but His kingdom is 'not of this world' (JHN.18.36). The thorns recall the curse upon the ground after Adam's sin (GEN.3.18), suggesting that Christ bears the consequences of the Fall upon His own head. Isaiah's prophecy finds vivid fulfillment here: 'He was wounded for our transgressions; he was crushed for our iniquities' (ISA.53.5). The cross itself, once an instrument of shameful execution, becomes through Christ's willing acceptance the throne of grace. As Jesus told His disciples: 'If anyone would come after me, let him deny himself and take up his cross and follow me' (MAT.16.24).",
+  "scripture_refs": [
+    {"ref": "JHN.19.17", "relevance": "primary", "reason": "Jesus went out, bearing His own cross, to Golgotha — the event depicted"},
+    {"ref": "MAT.27.29", "relevance": "primary", "reason": "The soldiers twisted a crown of thorns and put it on His head — visible in the image"},
+    {"ref": "ISA.53.5", "relevance": "typological", "reason": "Wounded for our transgressions, crushed for our iniquities — the suffering visible on Christ's face"},
+    {"ref": "GEN.3.18", "relevance": "typological", "reason": "Thorns and thistles as part of the curse — Christ wears the curse of the Fall on His brow"},
+    {"ref": "MAT.16.24", "relevance": "allusion", "reason": "Take up your cross and follow me — Christ models the path He calls His disciples to walk"}
+  ],
+  "scene_type": "portrait",
+  "mood": ["anguish", "solemn", "sorrowful", "devotional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0001480",
+    "title": "Cruciferous Christus",
+    "artist": "Bernardino Luini",
+    "model": "claude-opus-4-6"
+  }
+}

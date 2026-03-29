@@ -1,0 +1,62 @@
+{
+  "characters": [
+    {
+      "name": "Saint Anthony of Padua",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    }
+  ],
+  "event": "Saint Anthony of Padua with the Christ Child",
+  "tags": [
+    "saint-anthony-of-padua",
+    "infant-christ",
+    "franciscan",
+    "lily",
+    "mystical-vision",
+    "devotion",
+    "friar",
+    "tonsure"
+  ],
+  "symbols": [
+    "lily flowers — purity and chastity of the Franciscan saint",
+    "infant Christ in Anthony's arms — the mystical vision traditionally attributed to Anthony",
+    "Franciscan habit — poverty, obedience, and the mendicant life",
+    "tonsure — religious consecration and renunciation of worldly vanity",
+    "distant church in landscape — the Church to which Anthony devoted his preaching"
+  ],
+  "description": "A young friar in a gray-brown Franciscan habit with a tonsured head kneels and tenderly cradles the nude infant Christ in his arms. He gazes down at the child with gentle devotion. White lily flowers bloom at the upper left behind him. In the background at the right, a distant landscape shows a church tower and buildings under an overcast sky. The composition is simple and intimate, with the friar's dark habit contrasting against the pale skin of the infant.",
+  "theological_description": "Saint Anthony of Padua (1195-1231), a Franciscan friar and Doctor of the Church, is traditionally depicted holding the infant Jesus due to a mystical vision in which the Christ Child appeared to him. Though a post-biblical figure, Anthony's devotion to Christ incarnate reflects the Franciscan emphasis on the Nativity and the humility of God-made-man. The lily signifies his purity and echoes the Song of Solomon 2:1-2. Anthony was renowned as a preacher of extraordinary power — tradition holds that even fish came to listen to his sermons, recalling Christ's promise to make his disciples 'fishers of men' (MAT.4.19). His mystical encounter with the infant Christ embodies the promise of Matthew 18:3: 'Unless you turn and become like children, you will never enter the kingdom of heaven.'",
+  "scripture_refs": [
+    {
+      "ref": "MAT.18.3",
+      "relevance": "allusion",
+      "reason": "Becoming like children to enter the kingdom — Anthony's childlike devotion to the Christ Child"
+    },
+    {
+      "ref": "MAT.4.19",
+      "relevance": "allusion",
+      "reason": "Fishers of men — Anthony's legendary preaching power reflecting Christ's commission"
+    },
+    {
+      "ref": "SNG.2.1-2",
+      "relevance": "allusion",
+      "reason": "The lily among thorns, symbolized by the lilies of purity associated with Anthony"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "tender",
+    "devotional",
+    "intimate"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0003406",
+    "title": "St. Anthony of Padua",
+    "artist": "Francisco de Zurbaran",
+    "model": "claude-opus-4-6"
+  }
+}

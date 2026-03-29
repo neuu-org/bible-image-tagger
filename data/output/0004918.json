@@ -1,0 +1,67 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Mourning figures",
+      "type": "GROUP"
+    }
+  ],
+  "event": "The Crucifixion of Jesus Christ (altarpiece in a church)",
+  "tags": [
+    "crucifixion",
+    "church-interior",
+    "altar",
+    "gilded-frame",
+    "mourning-figures",
+    "chandelier",
+    "liturgical-setting",
+    "worship-space"
+  ],
+  "symbols": [
+    "Christ on the cross in the altarpiece — the central mystery of the faith present in the worship space",
+    "altar below the painting — the Eucharistic table where Christ's sacrifice is re-presented",
+    "church interior framing the image — the liturgical context that gives the Crucifixion its sacramental meaning",
+    "lit candles and chandelier — the light of faith illuminating the mystery of the Cross"
+  ],
+  "description": "A photograph of a church interior showing the altar area. Behind the green-draped altar, a large gilded-framed painting of the Crucifixion dominates the apse. In the painting, Christ hangs on the cross against a bright sky, with two dark-robed mourning figures at the base. Flanking the altarpiece are tall stained glass windows. A brass chandelier hangs from above. The altar is set with liturgical cloths bearing embroidered text. A red carpeted floor and wooden railings complete the sanctuary space. Flowers in a vase stand on the altar.",
+  "theological_description": "The placement of the Crucifixion above the altar makes visible the fundamental Christian belief that the Eucharist is the sacramental re-presentation of Christ's sacrifice. The altar is not merely a table but the meeting point between Calvary and the present moment — 'For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes' (1CO.11.26). The mourning figures at the foot of the cross represent the Church's perpetual stance before the mystery of redemptive suffering. The entire architectural arrangement — the elevated painting, the central altar, the flanking windows admitting light — creates a visual theology in which all elements point toward the Crucified Christ as the source and summit of Christian worship. The green liturgical paraments suggest ordinary time, when the daily reality of Christ's sacrifice sustains the life of the faithful.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.17-18",
+      "relevance": "primary",
+      "reason": "The Crucifixion of Christ at Golgotha, the subject of the altarpiece"
+    },
+    {
+      "ref": "1CO.11.26",
+      "relevance": "typological",
+      "reason": "Proclaiming the Lord's death until He comes — the altar beneath the Crucifixion image"
+    },
+    {
+      "ref": "HEB.13.10",
+      "relevance": "allusion",
+      "reason": "We have an altar — the connection between the Crucifixion and the liturgical altar below it"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "The mourning figures at the foot of the cross, visible in the altarpiece painting"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "sacred",
+    "solemn",
+    "devotional",
+    "quiet"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0004918",
+    "title": "Crucifixion of Jesus Christ",
+    "artist": "Carl Wenig",
+    "model": "claude-opus-4-6"
+  }
+}

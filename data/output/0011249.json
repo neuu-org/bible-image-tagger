@@ -1,0 +1,21 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Mary Magdalene", "type": "PERSON"}
+  ],
+  "event": "Christ Appearing to Mary Magdalene (Noli Me Tangere)",
+  "tags": ["noli-me-tangere", "resurrection", "mary-magdalene", "risen-christ", "garden", "first-appearance", "easter-morning"],
+  "symbols": ["risen Christ with wounds visible — the glorified body still bearing the marks of crucifixion", "Christ's raised hand — 'Do not cling to me,' the command that points to the Ascension", "Mary Magdalene kneeling — the first witness of the Resurrection in loving devotion", "garden setting — the new Eden where death is reversed"],
+  "description": "A dark painting showing the risen Christ standing at right, his bare torso visible with a white cloth draped around his waist, one hand raised in a gesture of gentle refusal. Mary Magdalene kneels before him at left in a red and blue dress, reaching toward him. The setting is a dark garden or outdoor space. Christ's body glows faintly against the dark background. The mood is intimate and emotionally charged.",
+  "theological_description": "The Noli Me Tangere ('Do not cling to me') scene (JHN.20.11-18) is the first post-Resurrection appearance of Christ. Mary Magdalene, weeping at the empty tomb, encounters Jesus but mistakes him for the gardener — an irony rich with theological meaning, as Christ is indeed the gardener of the new creation, restoring what the first Adam lost in Eden. When Jesus speaks her name, 'Mary!' (JHN.20.16), she recognizes him instantly — fulfilling his own teaching that 'the sheep hear his voice, and he calls his own sheep by name' (JHN.10.3). His command 'Do not cling to me, for I have not yet ascended to my Father' (JHN.20.17) redirects her devotion from the physical to the spiritual mode of Christ's presence. Mary becomes the 'apostle to the apostles,' sent with the first Easter proclamation: 'Go to my brothers and say to them, I am ascending to my Father and your Father, to my God and your God' (JHN.20.17).",
+  "scripture_refs": [
+    {"ref": "JHN.20.11-18", "relevance": "primary", "reason": "The Noli Me Tangere scene, Christ's first appearance to Mary Magdalene"},
+    {"ref": "JHN.20.16", "relevance": "primary", "reason": "Jesus calls her by name — the shepherd knowing his sheep"},
+    {"ref": "JHN.20.17", "relevance": "primary", "reason": "Do not cling to me, go tell my brothers — the Easter commission"},
+    {"ref": "MRK.16.9", "relevance": "primary", "reason": "He appeared first to Mary Magdalene, from whom he had cast seven demons"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["intimate", "tender", "awe-struck", "bittersweet"],
+  "period": "Gospel",
+  "_meta": {"key": "0011249", "title": "Christ Appearing to Mary Magdalene", "artist": "John Graham-Gilbert", "model": "claude-opus-4-6"}
+}

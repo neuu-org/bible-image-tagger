@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {"name": "Jesus Christ", "type": "DEITY"},
+    {"name": "Simon of Cyrene", "type": "PERSON"},
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Soldiers", "type": "GROUP"},
+    {"name": "Mourning Women", "type": "GROUP"},
+    {"name": "Horsemen", "type": "GROUP"}
+  ],
+  "event": "The Road to Calvary",
+  "tags": [
+    "road-to-calvary",
+    "carrying-the-cross",
+    "via-dolorosa",
+    "passion",
+    "soldiers-on-horseback",
+    "mourning-women",
+    "simon-of-cyrene",
+    "procession",
+    "crucifixion-journey"
+  ],
+  "symbols": [
+    "cross being carried — the instrument of redemption borne to Golgotha",
+    "kneeling and weeping women — the daughters of Jerusalem who mourned along the way",
+    "soldiers on horseback — the Roman authority executing the sentence",
+    "rocky hillside path — the Via Dolorosa leading to Calvary",
+    "landscape receding to green fields — the world continuing in indifference while salvation is accomplished"
+  ],
+  "description": "A triptych detail showing a procession to Calvary divided into two main groups. At left, a group of women in rich robes kneel and weep, some with hands clasped in prayer, while Christ carrying or near the cross moves through the crowd. At right, mounted soldiers and horsemen in armor lead the procession, with banner poles and lances raised. The landscape shows green rolling hills with a town in the far background. Figures in medieval dress populate both groups. The scene is rendered in vivid colors with detailed faces and garments in a Northern European style.",
+  "theological_description": "This Calvary triptych detail depicts the Via Dolorosa, Christ's journey bearing the cross to Golgotha. Luke records that a great multitude of the people and of women followed, mourning and lamenting (LUK.23.27). Jesus turned to them and said, 'Daughters of Jerusalem, do not weep for me, but weep for yourselves and your children' (LUK.23.28), prophesying the coming destruction of Jerusalem. The mounted soldiers represent the Roman authority that carries out the sentence of crucifixion, while the mourning women embody the faithful remnant of Israel who recognized in this condemned man the Messiah. Simon of Cyrene, compelled to carry the cross (MRK.15.21), becomes a type of every disciple called to take up the cross and follow Christ (LUK.9.23). The journey to Calvary is the final stage of Christ's Passion, the procession of the Lamb to the place of sacrifice.",
+  "scripture_refs": [
+    {"ref": "LUK.23.26-31", "relevance": "primary", "reason": "The journey to Calvary with Simon of Cyrene and the weeping women of Jerusalem"},
+    {"ref": "MRK.15.20-22", "relevance": "primary", "reason": "They led Jesus out to crucify Him and compelled Simon of Cyrene to carry His cross"},
+    {"ref": "JHN.19.17", "relevance": "primary", "reason": "He went out, bearing his own cross, to the place called The Place of a Skull"},
+    {"ref": "LUK.9.23", "relevance": "typological", "reason": "If anyone would come after me, let him take up his cross daily and follow me"},
+    {"ref": "ISA.53.7", "relevance": "typological", "reason": "Like a lamb that is led to the slaughter — the procession to sacrifice"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["sorrowful", "solemn", "anguished", "processional"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0005532",
+    "title": "Calvary Triptych (detail)",
+    "artist": "Justus van Gent",
+    "model": "claude-opus-4-6"
+  }
+}

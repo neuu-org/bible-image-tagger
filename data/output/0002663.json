@@ -1,0 +1,82 @@
+{
+  "characters": [
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Magi",
+      "type": "GROUP"
+    },
+    {
+      "name": "Joseph",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendants",
+      "type": "GROUP"
+    }
+  ],
+  "event": "Adoration of the Magi",
+  "tags": [
+    "adoration-of-the-magi",
+    "epiphany",
+    "gifts",
+    "kneeling-king",
+    "nativity",
+    "gentile-worship",
+    "gold-frankincense-myrrh",
+    "incarnation",
+    "revelation-to-nations",
+    "crowns"
+  ],
+  "symbols": [
+    "kneeling elderly Magus — the wisdom of the world bowing before divine wisdom",
+    "gifts presented — gold for kingship, frankincense for divinity, myrrh for burial",
+    "crown worn by standing Magus — earthly sovereignty acknowledging heavenly sovereignty",
+    "Christ child reaching toward Magus — divine grace meeting human devotion",
+    "crowd of attendants — the retinue of worldly power laid aside in worship"
+  ],
+  "description": "A richly colored composition showing the Adoration of the Magi in a crowded architectural setting. At center-right, the Virgin Mary holds the Christ Child who reaches toward an elderly bearded Magus kneeling before them. The Magus wears elaborate brocade robes. Behind, a crowd of figures including other Magi with crowns and attendants presses forward. At the lower right, a young figure holds gifts. Joseph is visible behind Mary. The painting is dark and atmospheric with warm golden light on the central figures.",
+  "theological_description": "The Adoration of the Magi represents the Epiphany — the revelation of Christ to the Gentile nations. Matthew records that wise men from the East, guided by a star, came to Bethlehem and 'fell down and worshiped him' and 'offered him gifts, gold and frankincense and myrrh' (MAT.2.11). The Church Fathers interpreted these gifts christologically: gold acknowledging his kingship, frankincense his divinity, and myrrh prefiguring his death and burial. The Magi's journey fulfills the messianic prophecies of Isaiah: 'Nations shall come to your light, and kings to the brightness of your rising' (ISA.60.3). The Christ child's reaching gesture toward the kneeling king beautifully captures the mutual movement of the Incarnation: God descends to humanity, and humanity ascends in worship. The elaborate costumes reflect the medieval tradition of identifying the Magi as kings, drawing on Psalm 72: 'May all kings fall down before him, all nations serve him' (PSA.72.11).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.2.1-12",
+      "relevance": "primary",
+      "reason": "The Magi following the star and presenting gifts to the infant Jesus"
+    },
+    {
+      "ref": "ISA.60.1-6",
+      "relevance": "typological",
+      "reason": "Nations coming to the light, bringing gold and frankincense"
+    },
+    {
+      "ref": "PSA.72.10-11",
+      "relevance": "typological",
+      "reason": "All kings falling before him, all nations serving him"
+    },
+    {
+      "ref": "NUM.24.17",
+      "relevance": "typological",
+      "reason": "A star out of Jacob — Balaam's prophecy linked to the Star of Bethlehem"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverence",
+    "splendor",
+    "warmth",
+    "devotion"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0002663",
+    "title": "Adorazione dei Magi",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

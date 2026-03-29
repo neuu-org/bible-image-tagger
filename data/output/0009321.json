@@ -1,0 +1,73 @@
+{
+  "characters": [
+    {
+      "name": "Civilian Refugees",
+      "type": "GROUP"
+    },
+    {
+      "name": "Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Jesus Christ (Crucifix)",
+      "type": "DEITY"
+    }
+  ],
+  "event": "War-devastated town with refugees gathered near a crucifix",
+  "tags": [
+    "war",
+    "destruction",
+    "refugees",
+    "crucifix",
+    "ruins",
+    "soldiers",
+    "suffering",
+    "world-war",
+    "civilian-grief",
+    "bombed-church"
+  ],
+  "symbols": [
+    "crucifix standing amid ruins — the enduring presence of Christ's suffering alongside human suffering",
+    "ruined church wall — the destruction of sacred spaces by the violence of war",
+    "huddled refugees — the displaced and mourning, echoing Christ's concern for the poor and afflicted",
+    "soldiers among civilians — the mingling of combatants and innocents in the chaos of war",
+    "desolate landscape — the wasteland created by human violence"
+  ],
+  "description": "A large painting depicting a group of civilians and soldiers gathered at the base of a ruined church wall. A crucifix remains intact on the damaged wall above them. The surrounding landscape is devastated, with destroyed buildings and rubble visible in the background. A woman sits at a small table in the center, surrounded by standing figures in worn clothing and military uniforms. Some figures lie on the ground, possibly wounded or dead. The palette is muted grays, blues, and earth tones, conveying desolation.",
+  "theological_description": "This wartime scene places the crucifix as the silent witness to human suffering, drawing a direct line between Christ's Passion and the afflictions of the innocent in war. The enduring crucifix on the shattered church wall embodies the paradox of the cross: that God enters into the deepest human suffering rather than remaining above it. Jesus wept over Jerusalem foreseeing its destruction (LUK.19.41-44), and his lament echoes through every devastated city. The refugees gathered beneath the cross fulfill the Beatitude: 'Blessed are those who mourn, for they shall be comforted' (MAT.5.4). The prophet Isaiah's vision of a suffering servant 'acquainted with grief' (ISA.53.3) finds ongoing expression in every community shattered by violence. The crucifix standing amid ruins declares that the God who was crucified knows the depths of human pain, and that no catastrophe is beyond the reach of redemptive love.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.19.41-44",
+      "relevance": "typological",
+      "reason": "Jesus weeping over the coming destruction of Jerusalem, paralleling the devastation depicted"
+    },
+    {
+      "ref": "MAT.5.4",
+      "relevance": "allusion",
+      "reason": "Blessed are those who mourn, for they shall be comforted"
+    },
+    {
+      "ref": "ISA.53.3",
+      "relevance": "typological",
+      "reason": "A man of sorrows, acquainted with grief — Christ's identification with human suffering"
+    },
+    {
+      "ref": "PSA.46.1-2",
+      "relevance": "allusion",
+      "reason": "God is our refuge and strength, a present help in trouble"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "desolate",
+    "sorrowful",
+    "solemn"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009321",
+    "title": "The Mad Woman of Douai",
+    "artist": "William Orpen",
+    "model": "claude-opus-4-6"
+  }
+}

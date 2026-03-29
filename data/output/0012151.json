@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Angel Holding a Lance",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "Angel Holding a Lance",
+  "tags": [
+    "angel",
+    "lance",
+    "cathedral",
+    "irish-art",
+    "wings",
+    "ornate-robe",
+    "church-architecture",
+    "guardian"
+  ],
+  "symbols": [
+    "lance or spear — the holy lance that pierced Christ's side, an instrument of the Passion",
+    "angel bearing the lance — the heavenly guardianship of sacred relics and Passion instruments",
+    "ornate embroidered robe — the glory and dignity of the angelic order",
+    "church buildings in background — the earthly Church protected by angelic guardians",
+    "wings — the celestial nature and swift service of angels"
+  ],
+  "description": "A stained-glass window panel depicting an angel with golden wings wearing an elaborate robe decorated with red and gold embroidered patterns. The angel holds a tall lance or spear upright. Long flowing hair falls over the shoulders. Behind the figure, architectural elements suggest a church or cathedral with a tower and tiled roof. The glass is richly colored in deep blues, purples, reds, and golds. Text appears along the bottom border of the panel.",
+  "theological_description": "This stained-glass angel from Saint Brendan's Cathedral in Loughrea holds a lance, likely representing the Holy Lance (Lancea Sacra) that pierced Christ's side during the crucifixion. John records that 'one of the soldiers pierced his side with a spear, and at once there came out blood and water' (John 19:34). The blood and water were understood as symbols of the Eucharist and Baptism — the sacramental life of the Church flowing from Christ's wounded side. Angels bearing instruments of the Passion are a common motif in Christian art, reminding the faithful that these earthly objects of suffering have been taken up into heavenly glory. The lance fulfilled the prophecy of Zechariah: 'They shall look on him whom they have pierced' (Zech 12:10, cited in John 19:37). The church buildings behind the angel suggest the institution that was born from the wound the lance made.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.34",
+      "relevance": "primary",
+      "reason": "A soldier pierced his side with a spear and blood and water came out"
+    },
+    {
+      "ref": "ZEC.12.10",
+      "relevance": "typological",
+      "reason": "They shall look on him whom they have pierced — the prophecy of the lance"
+    },
+    {
+      "ref": "JHN.19.37",
+      "relevance": "primary",
+      "reason": "They will look on him whom they have pierced — John citing Zechariah"
+    },
+    {
+      "ref": "PSA.91.11",
+      "relevance": "allusion",
+      "reason": "He will command his angels concerning you — angelic guardianship"
+    }
+  ],
+  "scene_type": "symbolic",
+  "mood": [
+    "reverent",
+    "ornate",
+    "devotional"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0012151",
+    "title": "Loughrea St. Brendan's Cathedral. An Angel Holding a Lance",
+    "artist": "Sarah Purser",
+    "model": "claude-opus-4-6"
+  }
+}

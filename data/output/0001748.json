@@ -1,0 +1,43 @@
+{
+  "characters": [
+    {"name": "Young Virgin Mary", "type": "PERSON"},
+    {"name": "Saint Anne", "type": "PERSON"},
+    {"name": "Angels/Cherubs", "type": "ANGEL"}
+  ],
+  "event": "The Childhood of the Virgin — Saint Anne teaching Mary",
+  "tags": [
+    "childhood-of-mary",
+    "saint-anne",
+    "education",
+    "mother-and-daughter",
+    "cherubs",
+    "reading",
+    "devotion",
+    "flowers",
+    "domestic-scene"
+  ],
+  "symbols": [
+    "Anne teaching the young Mary to read — the formation of the one who will bear the Word made flesh",
+    "Open book — Scripture, the divine wisdom with which Mary is formed",
+    "Cherubs bearing flowers from above — heavenly affirmation of Mary's special destiny",
+    "Sewing basket on the floor — Mary's domestic virtue and humble upbringing"
+  ],
+  "description": "An older woman in a golden-brown veil and warm-toned robes sits in a chair, holding an open book. A young girl with flowing brown hair kneels beside her, looking up attentively with hands joined near her chest. The girl wears a pink dress with a blue shawl. Above them, two plump cherubs descend from golden clouds, carrying flowers. A sewing basket sits on the floor to the left. The scene is warmly lit against a dark interior background with architectural elements.",
+  "theological_description": "The Education of the Virgin by Saint Anne is a beloved devotional subject drawn from Church tradition rather than canonical Scripture. It depicts Mary being taught to read the Scriptures by her mother — an education that prepared her for her unique role as Theotokos. When Gabriel comes to her at the Annunciation, Mary responds with the Magnificat (LUK.1.46-55), a hymn saturated with Old Testament references, revealing a young woman deeply formed by the Scriptures. The cherubs with flowers affirm heaven's special interest in this child's formation. The tradition of Anne teaching Mary echoes the biblical pattern of faithful mothers forming the next generation: Hannah dedicating Samuel to the Lord (1SA.1.27-28), and Timothy being taught by his grandmother Lois and mother Eunice (2TI.1.5). Proverbs declares: 'Train up a child in the way he should go; even when he is old he will not depart from it' (PRO.22.6) — and Anne's faithful instruction bore the greatest fruit in all salvation history.",
+  "scripture_refs": [
+    {"ref": "LUK.1.46-55", "relevance": "typological", "reason": "Mary's Magnificat reveals her deep formation in Scripture, the fruit of Anne's teaching shown here"},
+    {"ref": "PRO.22.6", "relevance": "typological", "reason": "Train up a child in the way he should go — Anne's instruction of Mary embodied"},
+    {"ref": "2TI.1.5", "relevance": "typological", "reason": "Faith passed from grandmother to mother to child — the pattern of Anne forming Mary"},
+    {"ref": "1SA.1.27-28", "relevance": "typological", "reason": "Hannah dedicating Samuel to the Lord — Anne's parallel dedication of Mary to God's service"},
+    {"ref": "LUK.1.38", "relevance": "allusion", "reason": "Mary's 'Behold the handmaid of the Lord' — the fruit of a life formed in humble obedience"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["tender", "devotional", "warm", "intimate"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0001748",
+    "title": "Childhood of Virgin",
+    "artist": "Bartolome Esteban Murillo",
+    "model": "claude-opus-4-6"
+  }
+}

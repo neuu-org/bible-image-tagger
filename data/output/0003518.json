@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Joseph", "type": "PERSON"},
+    {"name": "High Priest", "type": "PERSON"},
+    {"name": "Witnesses and Attendants", "type": "GROUP"}
+  ],
+  "event": "The Marriage of the Virgin",
+  "tags": [
+    "marriage-of-the-virgin",
+    "betrothal",
+    "joseph-and-mary",
+    "high-priest",
+    "temple",
+    "wedding-ceremony",
+    "davidic-lineage",
+    "marian-cycle"
+  ],
+  "symbols": [
+    "joined hands — the sacred bond of marriage and God's providential union",
+    "high priest officiating — divine sanction of the marriage within the covenant community",
+    "temple portico — the sacred setting affirming that this union is part of God's plan",
+    "richly colored garments — the dignity and sacredness of the matrimonial covenant",
+    "gathered witnesses — the community of faith bearing witness to God's providence"
+  ],
+  "description": "Inside a classical temple portico, a marriage ceremony takes place. At center, an elderly bearded priest in gold and yellow robes joins the hands of a young woman in a blue dress (Mary) and a bearded man in a golden mantle (Joseph). A large gathering of men flanks them on the left, many in richly colored robes of blue, red, and green. Women and children gather on the right. The architectural setting features tall columns and a dark doorway behind the priest. The composition is symmetrical and ceremonial.",
+  "theological_description": "The Marriage of the Virgin to Joseph is a pivotal moment in salvation history, though derived largely from apocryphal tradition (Protoevangelium of James). Through this marriage, the legal Davidic lineage is established for the Messiah — Matthew's genealogy traces the royal line through Joseph (MAT.1.1-16), while Luke traces the biological line through Mary (LUK.3.23-38). Joseph's role as husband and guardian was essential: it provided the legal framework within which the virgin-born Christ would be recognized as 'son of David' (MAT.1.20). The high priest officiating reflects the sacred character of Israelite marriage as a covenant before God. The Marriage of the Virgin also establishes the Holy Family as the model of the domestic church. Paul will later use marriage itself as a figure for Christ and the Church (EPH.5.25-32), and the union of Mary and Joseph — virginal yet real — becomes the first expression of that ecclesial mystery.",
+  "scripture_refs": [
+    {"ref": "MAT.1.18-25", "relevance": "primary", "reason": "Joseph taking Mary as his wife, the canonical account of their marriage"},
+    {"ref": "MAT.1.1-16", "relevance": "primary", "reason": "The genealogy establishing Jesus's Davidic lineage through Joseph's marriage to Mary"},
+    {"ref": "LUK.1.27", "relevance": "primary", "reason": "Mary betrothed to Joseph, of the house of David — the context for the Annunciation"},
+    {"ref": "EPH.5.25-32", "relevance": "typological", "reason": "Marriage as a figure of Christ and the Church, of which Mary and Joseph's union is the prototype"},
+    {"ref": "LUK.2.4-5", "relevance": "allusion", "reason": "Joseph going to Bethlehem with Mary because of his Davidic lineage, a consequence of their marriage"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["solemn", "ceremonial", "reverent", "joyful"],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0003518",
+    "title": "The Marriage Of The Virgin",
+    "artist": "Philippe de Champaigne",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "John the Apostle",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Crucifixion of Christ — painted crucifix",
+  "tags": [
+    "crucifixion",
+    "painted-crucifix",
+    "christus-patiens",
+    "gold-halo",
+    "loincloth",
+    "church-hanging",
+    "medieval-crucifix",
+    "passion",
+    "atonement",
+    "redemption"
+  ],
+  "symbols": [
+    "the cross — the instrument of salvation, the Tree of Life that reverses Eden's tree of death",
+    "Christ's bowed head — death accepted, the moment of 'It is finished'",
+    "gold halo — divine glory persisting even in the moment of death",
+    "figures at the cross-arms — Mary and John, the faithful witnesses at the foot of the cross",
+    "dark blue background — the cosmic darkness that covered the earth during the crucifixion"
+  ],
+  "description": "A large painted wooden crucifix hanging in a church interior with striped marble arches visible behind it. Christ hangs on the cross with his head bowed to the right, wearing a reddish-patterned loincloth. His body is rendered in a curved, suffering posture. A golden halo encircles his head. At the ends of the cross-arms, small painted panels show the Virgin Mary (left) and John the Apostle (right). The cross is painted with decorative patterns in gold, red, and blue, with a dark blue background behind Christ's body. The overall effect is monumental and devotional.",
+  "theological_description": "The monumental painted crucifix was the central devotional image of medieval Italian churches, suspended above the altar or rood screen to confront the faithful with the reality of Christ's sacrifice. This crucifix by Cimabue represents the Christus Patiens (Suffering Christ) type, showing Christ dead or dying on the cross with bowed head and curved body, in contrast to the earlier Christus Triumphans type where Christ stood upright and alive. This shift reflects a deepening theological emphasis on the humanity and suffering of Christ — the one who 'humbled himself by becoming obedient to the point of death, even death on a cross' (Phil 2:8). The presence of Mary and John at the cross-arms fulfills the narrative of John 19:26-27, where Christ entrusts his mother to the beloved disciple, creating the new family of the Church at the moment of his death. The gold halo and decorative elements affirm that even in death, this is the Son of God — the centurion's confession, 'Truly this man was the Son of God' (Mark 15:39), made visible in art.",
+  "scripture_refs": [
+    {
+      "ref": "JHN.19.30",
+      "relevance": "primary",
+      "reason": "It is finished — Christ's bowed head indicating the moment of death and completion of redemption"
+    },
+    {
+      "ref": "PHP.2.8",
+      "relevance": "typological",
+      "reason": "He humbled himself, becoming obedient to death on a cross — the theology of kenosis made visible"
+    },
+    {
+      "ref": "JHN.19.25-27",
+      "relevance": "primary",
+      "reason": "Mary and John at the cross, depicted in the panels at the cross-arm ends"
+    },
+    {
+      "ref": "MRK.15.39",
+      "relevance": "allusion",
+      "reason": "Truly this was the Son of God — the divine glory (gold halo) visible even in death"
+    },
+    {
+      "ref": "GAL.3.13",
+      "relevance": "typological",
+      "reason": "Christ became a curse for us, hanging on a tree — the theology of substitutionary atonement"
+    },
+    {
+      "ref": "MAT.27.45",
+      "relevance": "allusion",
+      "reason": "Darkness over the whole land — the dark blue background evoking the cosmic darkness at the crucifixion"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "solemn",
+    "sacred",
+    "sorrowful",
+    "monumental"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006798",
+    "title": "Crucifix",
+    "artist": "Cimabue",
+    "model": "claude-opus-4-6"
+  }
+}

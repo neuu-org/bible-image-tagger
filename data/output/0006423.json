@@ -1,0 +1,71 @@
+{
+  "characters": [
+    {
+      "name": "Mary Magdalene",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Repentance of Mary Magdalene",
+  "tags": [
+    "mary-magdalene",
+    "repentance",
+    "candlelight",
+    "skull",
+    "vanitas",
+    "meditation",
+    "penitent",
+    "solitude",
+    "contemplation",
+    "conversion"
+  ],
+  "symbols": [
+    "skull on her lap — memento mori, meditation on death and the transience of earthly pleasures",
+    "single candle flame — the light of faith and divine grace penetrating the darkness of sin",
+    "books on the table — scripture and spiritual reading, the nourishment of the penitent soul",
+    "darkness surrounding the figure — the former life of sin from which she has turned",
+    "bare shoulder and loosened hair — her former sensuality now redirected toward spiritual devotion"
+  ],
+  "description": "A young woman sits in near-total darkness, illuminated solely by the flame of a single candle placed on a table beside her. She rests her chin on one hand in a pose of deep contemplation, gazing toward the flame. On her lap sits a human skull. Her dark hair falls over her shoulders, and her white blouse is loosened at the neckline. On the table beside the candle are several old books and what appears to be a small object. The candlelight creates a warm glow on her face and upper body while the rest of the scene dissolves into rich darkness.",
+  "theological_description": "The Penitent Magdalene is one of the great devotional subjects of Christian art, presenting the woman whom tradition identified as the sinful woman of Luke 7:36-50, now transformed by grace into a contemplative saint. Georges de la Tour's use of candlelight is not merely atmospheric but profoundly theological: the single flame represents the light of Christ that penetrates the darkness of sin, echoing John's declaration that 'the light shines in the darkness, and the darkness has not overcome it' (John 1:5). The skull is the classic memento mori, reminding the viewer that all earthly beauty and pleasure pass away, and that true life is found only in God. The Magdalene's meditation on death is not morbid but redemptive — she has exchanged the fleeting pleasures of her former life for the eternal treasure of divine love. The Church Fathers, particularly Gregory the Great, saw in the Magdalene the archetype of the penitent: one whose great love was proportional to the greatness of her forgiveness, as Christ himself declared, 'Her sins, which are many, are forgiven — for she loved much' (Luke 7:47). Her solitary contemplation also prefigures the monastic and eremitic tradition of withdrawal from the world for prayer.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.7.36-50",
+      "relevance": "primary",
+      "reason": "The sinful woman who anointed Jesus' feet, traditionally identified as Mary Magdalene, whose many sins were forgiven because she loved much"
+    },
+    {
+      "ref": "JHN.1.5",
+      "relevance": "typological",
+      "reason": "The light shining in darkness — the candle symbolizing the light of Christ that the Magdalene has embraced"
+    },
+    {
+      "ref": "JHN.20.1-18",
+      "relevance": "allusion",
+      "reason": "Mary Magdalene as the first witness of the Resurrection, the completion of her journey from sin to glory"
+    },
+    {
+      "ref": "ECC.1.2",
+      "relevance": "allusion",
+      "reason": "Vanity of vanities — the skull embodies the Preacher's message about the futility of worldly pursuits"
+    },
+    {
+      "ref": "2CO.5.17",
+      "relevance": "typological",
+      "reason": "If anyone is in Christ, he is a new creation — the Magdalene as embodiment of radical transformation through grace"
+    }
+  ],
+  "scene_type": "portrait",
+  "mood": [
+    "contemplative",
+    "intimate",
+    "melancholic",
+    "penitent"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0006423",
+    "title": "Repenting Magdalene, also called Magdalene in a Flickering Light",
+    "artist": "Georges de la Tour",
+    "model": "claude-opus-4-6"
+  }
+}

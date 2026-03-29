@@ -1,0 +1,42 @@
+{
+  "characters": [
+    {"name": "Emperor Nicholas II", "type": "PERSON"},
+    {"name": "Empress Alexandra", "type": "PERSON"},
+    {"name": "Russian Clergy", "type": "GROUP"},
+    {"name": "Court Officials", "type": "GROUP"}
+  ],
+  "event": "Coronation of Emperor Nicholas II in the Uspensky Cathedral",
+  "tags": [
+    "coronation",
+    "russian-imperial",
+    "cathedral-interior",
+    "orthodox-ceremony",
+    "uspensky-cathedral",
+    "chandelier",
+    "imperial-regalia",
+    "gold-vestments"
+  ],
+  "symbols": [
+    "cathedral setting — divine sanction of temporal authority through sacred space",
+    "imperial crown and regalia — the anointed ruler as God's servant on earth",
+    "clergy presiding — the Church's role in legitimating and blessing earthly power",
+    "golden vestments and chandeliers — the splendor of Orthodox liturgical worship"
+  ],
+  "description": "A crowded interior scene inside an ornate Orthodox cathedral. At center, figures in elaborate gold ceremonial robes cluster around what appears to be a coronation ceremony. Military officers in dress uniforms with medals and sashes stand nearby. Enormous golden chandeliers and icon screens fill the upper portions. A bishop or patriarch in rich vestments is visible at the right on an elevated platform. The space is packed with dignitaries, and the atmosphere glitters with gold, candlelight, and rich color.",
+  "theological_description": "The coronation of a Christian monarch in a cathedral represents the ancient theological concept of the ruler as God's anointed servant. Drawing from the biblical model of the anointing of kings (1 Samuel 16:13; 1 Kings 1:39), the Orthodox coronation rite affirms that all legitimate authority comes from God (Romans 13:1). The Uspensky Cathedral in Moscow, the traditional coronation church, places the ceremony within the sacred space where heaven and earth meet in the liturgy. The presiding clergy act as mediators of divine blessing, crowning the tsar as defender of the faith. This theology of sacred kingship, while later proved tragic in Nicholas II's case, reflects the deep biblical pattern of God working through anointed human rulers to govern His people.",
+  "scripture_refs": [
+    {"ref": "ROM.13.1", "relevance": "primary", "reason": "There is no authority except from God — the theological basis for the coronation of rulers"},
+    {"ref": "1SA.16.13", "relevance": "typological", "reason": "Samuel anointing David as king — the Old Testament archetype of sacred coronation"},
+    {"ref": "1KI.1.39", "relevance": "typological", "reason": "Zadok the priest anointing Solomon — the priestly role in crowning kings"},
+    {"ref": "PRO.21.1", "relevance": "allusion", "reason": "The king's heart is in the hand of the Lord — divine sovereignty over earthly rulers"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["magnificent", "solemn", "ceremonial"],
+  "period": "Liturgical",
+  "_meta": {
+    "key": "0007099",
+    "title": "Coronation of the Emperor Nicholas II in The Uspensky Cathedral",
+    "artist": "Valentin Serov",
+    "model": "claude-opus-4-6"
+  }
+}

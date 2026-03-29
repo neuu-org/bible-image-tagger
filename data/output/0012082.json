@@ -1,0 +1,63 @@
+{
+  "characters": [
+    {
+      "name": "Saint Catherine of Siena",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Saint Catherine of Siena Receiving the Stigmata (detail)",
+  "tags": [
+    "saint-catherine-of-siena",
+    "stigmata",
+    "mystic",
+    "dark-robes",
+    "kneeling",
+    "contemplation",
+    "landscape",
+    "flower",
+    "devotional"
+  ],
+  "symbols": [
+    "dark robes — the Dominican habit of Saint Catherine",
+    "kneeling posture with head bowed — deep contemplation and mystical reception",
+    "flower on the ground — the spiritual blossoming that accompanies divine favor",
+    "landscape with bridge and town — the earthly world from which the mystic withdraws into prayer"
+  ],
+  "description": "A detail from a larger altarpiece showing a woman in dark black robes and a dark veil kneeling in contemplation. Her head is bowed and her hands are gathered at her chest. A small white flower lies on the decorated floor beside her. Behind her, through an opening, a misty landscape with a bridge, trees, and distant buildings is visible. Part of a larger white-robed figure is visible at the far left edge, suggesting this is a cropped detail from a multi-figure composition.",
+  "theological_description": "This detail shows Saint Catherine of Siena in the moment of receiving the stigmata — the wounds of Christ mystically imprinted on her body. Catherine (1347-1380), a Dominican tertiary and Doctor of the Church, experienced this mystical grace in 1375 while praying before a crucifix. The stigmata represent the deepest possible participation in Christ's Passion, fulfilling Paul's aspiration: 'that I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death' (Phil 3:10). Paul also wrote 'I have been crucified with Christ. It is no longer I who live, but Christ who lives in me' (Gal 2:20). Catherine's contemplative posture reflects the depth of mystical prayer that enables such union with Christ. The flower at her feet may symbolize the spiritual fruits that flow from suffering embraced in love.",
+  "scripture_refs": [
+    {
+      "ref": "GAL.2.20",
+      "relevance": "primary",
+      "reason": "I have been crucified with Christ — mystical union through the stigmata"
+    },
+    {
+      "ref": "PHP.3.10",
+      "relevance": "primary",
+      "reason": "That I may share his sufferings, becoming like him in his death"
+    },
+    {
+      "ref": "GAL.6.17",
+      "relevance": "allusion",
+      "reason": "I bear on my body the marks of Jesus — the stigmata wounds"
+    },
+    {
+      "ref": "COL.1.24",
+      "relevance": "allusion",
+      "reason": "Filling up what is lacking in Christ's afflictions — suffering with Christ"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "contemplative",
+    "mystical",
+    "solemn"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0012082",
+    "title": "Saint Catherine of Siena receiving the stigmata between Saints Benedict and Jerome (detail)",
+    "artist": "Domenico Beccafumi",
+    "model": "claude-opus-4-6"
+  }
+}

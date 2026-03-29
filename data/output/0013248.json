@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "name": "Saint Lawrence",
+      "type": "PERSON"
+    },
+    {
+      "name": "Roman Soldiers",
+      "type": "GROUP"
+    },
+    {
+      "name": "Roman Emperor or Prefect",
+      "type": "PERSON"
+    },
+    {
+      "name": "Angel",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Martyrdom of Saint Lawrence",
+  "tags": [
+    "martyrdom",
+    "saint-lawrence",
+    "gridiron",
+    "roman-persecution",
+    "soldiers",
+    "angel-with-palm",
+    "deacon",
+    "torment",
+    "fire",
+    "emperor-watching",
+    "column",
+    "crowd"
+  ],
+  "symbols": [
+    "gridiron or iron rack \u2014 the instrument of Lawrence\u2019s martyrdom by burning",
+    "angel descending with palm branch \u2014 the heavenly reward and martyr\u2019s crown",
+    "Roman soldiers restraining the saint \u2014 worldly power persecuting the faithful",
+    "enthroned ruler watching \u2014 imperial authority condemning the innocent",
+    "Lawrence\u2019s upward gaze \u2014 trust in God amid extreme suffering"
+  ],
+  "description": "A large dramatic composition showing a young man with a bare torso being forcibly held down on a metal grate or rack by armored Roman soldiers. He gazes upward with an expression of endurance. Above, an angel descends from the clouds carrying a palm branch. To the upper right, a bearded man in a red cloak sits on an elevated platform, observing the scene. A crowd of onlookers fills the background. A tall column dominates the center. The scene is filled with dynamic movement and dramatic chiaroscuro.",
+  "theological_description": "The Martyrdom of Saint Lawrence, a deacon of the early Church in Rome, occurred in 258 AD under Emperor Valerian. According to tradition, when ordered to hand over the Church\u2019s treasures, Lawrence presented the poor, the crippled, and the suffering, declaring \u2018These are the treasures of the Church.\u2019 He was then condemned to death by being roasted on a gridiron. Lawrence\u2019s courage exemplifies the theology of martyrdom rooted in Christ\u2019s words: \u2018Whoever loses his life for my sake will find it\u2019 (Matthew 10:39). His defiant identification of the poor as the Church\u2019s true treasure echoes James 2:5: \u2018Has not God chosen those who are poor in the world to be rich in faith and heirs of the kingdom?\u2019 The angel with the palm branch confirms the promise of Revelation 2:10: \u2018Be faithful unto death, and I will give you the crown of life.\u2019 Lawrence\u2019s legendary quip on the gridiron\u2014\u2018Turn me over, I am done on this side\u2019\u2014became a symbol of Christian joy in suffering (Romans 5:3-4).",
+  "scripture_refs": [
+    {
+      "ref": "MAT.10.39",
+      "relevance": "typological",
+      "reason": "Whoever loses his life for Christ\u2019s sake will find it, embodied in Lawrence\u2019s willing martyrdom"
+    },
+    {
+      "ref": "REV.2.10",
+      "relevance": "typological",
+      "reason": "Be faithful unto death and receive the crown of life, symbolized by the angel\u2019s palm"
+    },
+    {
+      "ref": "JAS.2.5",
+      "relevance": "allusion",
+      "reason": "God choosing the poor to be rich in faith, echoed in Lawrence\u2019s declaration that the poor are the Church\u2019s treasure"
+    },
+    {
+      "ref": "ROM.5.3-4",
+      "relevance": "allusion",
+      "reason": "Rejoicing in suffering because suffering produces endurance, character, and hope"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "violent",
+    "heroic",
+    "dramatic",
+    "transcendent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0013248",
+    "title": "Martyrdom of Saint Lawrence",
+    "artist": "Pietro da Cortona",
+    "model": "claude-opus-4-6"
+  }
+}

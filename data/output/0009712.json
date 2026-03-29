@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "Saint Augustine",
+      "type": "PERSON"
+    },
+    {
+      "name": "Bishop",
+      "type": "PERSON"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    },
+    {
+      "name": "Nun",
+      "type": "PERSON"
+    }
+  ],
+  "event": "The Baptism of Saint Augustine",
+  "tags": [
+    "baptism",
+    "saint-augustine",
+    "bishop",
+    "madonna-and-child",
+    "angels",
+    "cherubs",
+    "conversion",
+    "sacrament",
+    "church-father"
+  ],
+  "symbols": [
+    "Augustine semi-nude at baptism — the stripping of the old man and putting on the new in Christ",
+    "bishop performing baptism — the apostolic authority to administer sacraments",
+    "Virgin and Child above — the heavenly patronage over Augustine's conversion",
+    "angels and cherubs — the heavenly rejoicing over a sinner who repents",
+    "nun witnessing — Saint Monica, Augustine's mother, whose prayers were answered"
+  ],
+  "description": "A Baroque painting divided between heavenly and earthly registers. In the upper portion, the Virgin Mary holds the Christ Child, surrounded by angels and cherubs in golden light. Below, a semi-nude bearded man (Augustine) kneels or stands while a bishop in elaborate vestments performs the rite of baptism. A nun in dark habit kneels at the lower left in prayer. Another ecclesiastical figure with a crozier stands at right. The composition is rich and dark with warm highlights and typical Baroque theatricality.",
+  "theological_description": "The baptism of Augustine of Hippo in 387 AD by Bishop Ambrose of Milan is one of the most celebrated conversions in Church history. Augustine, whose intellectual journey from Manichaeism through Neoplatonism to Christianity is recorded in his Confessions, heard the words 'Take up and read' (tolle, lege), opened Paul's epistle, and read: 'Not in reveling and drunkenness, not in debauchery and licentiousness, not in quarreling and jealousy. But put on the Lord Jesus Christ' (ROM.13.13-14). This verse shattered his resistance. His mother Monica (the nun figure), who had prayed and wept for his conversion for decades, saw her prayers answered. The baptism embodies Paul's theology: 'Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead, we too might walk in newness of life' (ROM.6.3-4). Augustine would become the most influential theologian of the Western Church.",
+  "scripture_refs": [
+    {
+      "ref": "ROM.13.13-14",
+      "relevance": "primary",
+      "reason": "The text that converted Augustine: put on the Lord Jesus Christ"
+    },
+    {
+      "ref": "ROM.6.3-4",
+      "relevance": "primary",
+      "reason": "Baptism into Christ's death and resurrection, the sacrament being performed"
+    },
+    {
+      "ref": "LUK.15.7",
+      "relevance": "allusion",
+      "reason": "Joy in heaven over one sinner who repents, the angels rejoicing above"
+    },
+    {
+      "ref": "ACT.8.36-38",
+      "relevance": "allusion",
+      "reason": "The pattern of baptism upon conversion, as with the Ethiopian eunuch"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "joyful",
+    "solemn",
+    "transcendent"
+  ],
+  "period": "Non-biblical",
+  "_meta": {
+    "key": "0009712",
+    "title": "Battesimo Di Sant'Agostino",
+    "artist": "Giulio Cesare Procaccini",
+    "model": "claude-opus-4-6"
+  }
+}

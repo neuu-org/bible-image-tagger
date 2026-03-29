@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {"name": "Noah", "type": "PERSON"}
+  ],
+  "event": "Noah's Ark (Text-Based Art)",
+  "tags": [
+    "noahs-ark",
+    "flood",
+    "text-art",
+    "handwritten",
+    "conceptual",
+    "genesis-narrative",
+    "divine-judgment"
+  ],
+  "symbols": [
+    "handwritten text covering the page — the biblical narrative as the substance of the artwork itself",
+    "small drawing of the ark at bottom — the vessel of salvation embedded within the textual flood"
+  ],
+  "description": "A page densely covered with handwritten text in Spanish, filling nearly the entire surface. The writing discusses the story of Noah and the Flood. Near the bottom of the page, a small ink drawing depicts what appears to be the ark or a vessel on water. The text varies in size and intensity, with some words emphasized in larger or bolder script. The overall effect is of a manuscript or visual poem where the biblical narrative itself becomes the visual medium.",
+  "theological_description": "This conceptual text-art piece uses the written word as both medium and subject, reflecting the primacy of the Word in biblical theology. The Flood narrative (GEN.6-9) is one of Scripture's most comprehensive accounts of divine judgment and redemption. God sees that 'the wickedness of man was great in the earth' (GEN.6.5) and resolves to destroy the corrupt world, yet provides salvation through Noah and the ark. The ark itself becomes a type of the Church — the vessel of salvation amid the waters of judgment. Peter explicitly draws this connection: 'In the days of Noah... eight persons were brought safely through water. Baptism, which corresponds to this, now saves you' (1PE.3.20-21). The covenant rainbow after the Flood (GEN.9.13) is God's first explicit covenant promise to all creation.",
+  "scripture_refs": [
+    {"ref": "GEN.6.5-8", "relevance": "primary", "reason": "God's judgment on human wickedness and Noah finding grace — the narrative subject of the text"},
+    {"ref": "GEN.7.1-24", "relevance": "primary", "reason": "The Flood itself, the central event described in the handwritten text"},
+    {"ref": "GEN.9.13-15", "relevance": "primary", "reason": "God's covenant with Noah and the rainbow — the conclusion of the Flood narrative"},
+    {"ref": "1PE.3.20-21", "relevance": "typological", "reason": "Noah's ark as a type of baptism and salvation through water"},
+    {"ref": "HEB.11.7", "relevance": "allusion", "reason": "By faith Noah built the ark, becoming an heir of righteousness"}
+  ],
+  "scene_type": "symbolic",
+  "mood": ["contemplative", "literary"],
+  "period": "Antediluvian",
+  "_meta": {
+    "key": "0004051",
+    "title": "Noah's Ark",
+    "artist": "Leon Ferrari",
+    "model": "claude-opus-4-6"
+  }
+}

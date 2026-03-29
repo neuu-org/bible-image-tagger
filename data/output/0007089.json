@@ -1,0 +1,37 @@
+{
+  "characters": [
+    {"name": "Virgin Mary", "type": "PERSON"},
+    {"name": "Apostles", "type": "GROUP"}
+  ],
+  "event": "Gathering of the Apostles with the Virgin Mary",
+  "tags": [
+    "apostles",
+    "virgin-mary",
+    "prayer",
+    "gathered-community",
+    "preparatory-sketch",
+    "early-church",
+    "communion-of-saints"
+  ],
+  "symbols": [
+    "Mary at the center with hands in prayer — the Mother of the Church interceding among the apostles",
+    "gathered circle of figures — the unity of the early Christian community",
+    "upward gazes — collective expectation of divine action"
+  ],
+  "description": "A pencil sketch on pale paper showing a group of approximately fifteen robed figures gathered in a semicircle. At the center stands a veiled woman with hands pressed together in prayer, looking upward. The surrounding men, some bearded and elderly, some younger, stand close together in attitudes of prayer or conversation. The drawing is delicate with fine outlines and minimal shading, suggesting a preparatory study for a larger composition.",
+  "theological_description": "This sketch likely depicts the gathering described in Acts 1:14, where the apostles and Mary devoted themselves to prayer in the upper room after the Ascension and before Pentecost. Mary's central position reflects her role as Mother of the Church — present at the Incarnation, at the Cross, and now at the birth of the Church. The gathered community of apostles embodies the unity Christ prayed for (John 17:21) and prefigures the Church that will be empowered by the Holy Spirit at Pentecost. The prayerful postures indicate the essential preparation for mission: before the apostles can proclaim the Gospel to all nations, they must first be united in prayer and expectation of divine power.",
+  "scripture_refs": [
+    {"ref": "ACT.1.13-14", "relevance": "primary", "reason": "The apostles with Mary devoted to prayer in the upper room, awaiting the promised Holy Spirit"},
+    {"ref": "ACT.2.1-4", "relevance": "allusion", "reason": "Pentecost — the event this gathered prayer community awaits"},
+    {"ref": "JHN.17.20-21", "relevance": "typological", "reason": "Christ's prayer for unity among His followers, visually expressed in the gathered circle"}
+  ],
+  "scene_type": "narrative",
+  "mood": ["contemplative", "expectant", "unified"],
+  "period": "Apostolic",
+  "_meta": {
+    "key": "0007089",
+    "title": "Cathedral",
+    "artist": "Viktor Vasnetsov",
+    "model": "claude-opus-4-6"
+  }
+}

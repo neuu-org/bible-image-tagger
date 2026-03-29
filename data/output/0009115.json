@@ -1,0 +1,94 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "Simeon",
+      "type": "PERSON"
+    },
+    {
+      "name": "Anna the Prophetess",
+      "type": "PERSON"
+    },
+    {
+      "name": "Attendant Figure",
+      "type": "PERSON"
+    }
+  ],
+  "event": "Presentation of Christ in the Temple",
+  "tags": [
+    "presentation-in-temple",
+    "candlemas",
+    "infant-christ",
+    "simeon",
+    "anna-prophetess",
+    "nunc-dimittis",
+    "temple-altar",
+    "gold-halos",
+    "purification",
+    "gothic-arch"
+  ],
+  "symbols": [
+    "infant Christ held by Simeon — the long-awaited Messiah received by faithful Israel",
+    "altar or table between Mary and Simeon — the Temple as the meeting place of Old and New Covenants",
+    "golden halos on Mary and Christ — sanctity and divine nature",
+    "Simeon's priestly or elder garments — the righteous remnant of Israel awaiting consolation",
+    "Anna the prophetess praying behind Mary — the witness of prayerful women in salvation history",
+    "Gothic arch setting — the Church framing and preserving the sacred narrative",
+    "hanging lamp or lantern — Christ as the light for revelation to the Gentiles"
+  ],
+  "description": "Within a stone Gothic arch, an elderly bearded man in green and gold robes holds a small nude infant close to his chest, gazing at the child with reverence. Opposite him stands a woman in a deep blue mantle and white head covering, her hands raised in prayer or supplication. Between them is a pink stone altar. Behind the woman, another elderly figure in white looks on prayerfully. At the far left edge, a younger figure carries a basket. A hanging liturgical lamp or lantern is visible above.",
+  "theological_description": "The Presentation of Christ in the Temple (LUK.2.22-38) fulfills the Mosaic law requiring the firstborn to be consecrated to the Lord (EXO.13.2) and the mother's purification offering (LEV.12.6-8). Simeon, a righteous and devout man to whom the Holy Spirit had revealed he would not die before seeing the Lord's Messiah, takes the child and utters the Nunc Dimittis: 'Lord, now you are letting your servant depart in peace, for my eyes have seen your salvation, a light for revelation to the Gentiles and for glory to your people Israel' (LUK.2.29-32). His prophecy to Mary — 'a sword will pierce through your own soul also' (LUK.2.35) — foreshadows the Passion. Anna the prophetess, who had worshiped with fasting and prayer night and day, immediately gives thanks and speaks of the child to all who were looking for the redemption of Jerusalem. The scene is a hinge between Old and New Testaments: the last representatives of waiting Israel receive the fulfillment of all prophecy in the person of the infant Christ.",
+  "scripture_refs": [
+    {
+      "ref": "LUK.2.22-38",
+      "relevance": "primary",
+      "reason": "The Presentation in the Temple, Simeon's canticle, and Anna's prophecy are the direct subject"
+    },
+    {
+      "ref": "LUK.2.29-32",
+      "relevance": "primary",
+      "reason": "The Nunc Dimittis, Simeon's declaration of Christ as light to the nations"
+    },
+    {
+      "ref": "LUK.2.35",
+      "relevance": "primary",
+      "reason": "Simeon's prophecy that a sword would pierce Mary's soul"
+    },
+    {
+      "ref": "EXO.13.2",
+      "relevance": "typological",
+      "reason": "The consecration of every firstborn to the Lord, fulfilled in presenting Christ"
+    },
+    {
+      "ref": "LEV.12.6-8",
+      "relevance": "typological",
+      "reason": "The purification offering required of the mother after childbirth"
+    },
+    {
+      "ref": "MAL.3.1",
+      "relevance": "typological",
+      "reason": "The Lord whom you seek will suddenly come to his temple — fulfilled at the Presentation"
+    }
+  ],
+  "scene_type": "narrative",
+  "mood": [
+    "reverent",
+    "solemn",
+    "hopeful",
+    "tender"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009115",
+    "title": "Presentation of Christ in the Temple",
+    "artist": "Stefan Lochner",
+    "model": "claude-opus-4-6"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "characters": [
+    {
+      "name": "Jesus Christ",
+      "type": "DEITY"
+    },
+    {
+      "name": "Virgin Mary",
+      "type": "PERSON"
+    },
+    {
+      "name": "God the Father",
+      "type": "DEITY"
+    },
+    {
+      "name": "Holy Spirit (Dove)",
+      "type": "DEITY"
+    },
+    {
+      "name": "Apostles",
+      "type": "GROUP"
+    },
+    {
+      "name": "Church Fathers and Doctors",
+      "type": "GROUP"
+    },
+    {
+      "name": "Saints and Prophets",
+      "type": "GROUP"
+    },
+    {
+      "name": "Angels",
+      "type": "ANGEL"
+    }
+  ],
+  "event": "The Disputation of the Holy Sacrament (Disputa)",
+  "tags": [
+    "disputa",
+    "eucharist",
+    "holy-sacrament",
+    "trinity",
+    "church-triumphant",
+    "church-militant",
+    "heaven-and-earth",
+    "altar",
+    "monstrance",
+    "theologians",
+    "apostles",
+    "saints"
+  ],
+  "symbols": [
+    "monstrance with the Eucharist at center — the Real Presence of Christ in the sacrament, the focal point uniting heaven and earth",
+    "Christ enthroned in glory — the glorified Lord who is truly present in the Eucharist",
+    "God the Father above Christ — the source of all grace flowing through the sacrament",
+    "dove between Father and Son — the Holy Spirit proceeding from the Father and the Son",
+    "semicircle of saints above — the Church Triumphant in heaven worshiping around the Lamb",
+    "theologians debating below — the Church Militant on earth seeking to understand the mystery"
+  ],
+  "description": "A monumental semicircular fresco divided into two registers. The upper register shows a heavenly scene with Christ enthroned at center, flanked by the Virgin Mary and John the Baptist. Above Christ, God the Father presides, and between them a dove (Holy Spirit) descends. Apostles and Old Testament patriarchs sit on clouds in a sweeping arc. The lower register depicts an altar with a monstrance at the exact center of the composition, surrounded by Church Fathers, theologians, popes, and bishops engaged in animated discussion. Angels connect the two registers.",
+  "theological_description": "Raphael's Disputa is perhaps the most comprehensive visual theology of the Eucharist ever created. The composition makes visible the dogma that the consecrated Host is the point where heaven touches earth — the real, substantial presence of Christ that the Church has confessed since the apostolic age. Jesus himself established this at the Last Supper: 'This is my body... This is my blood of the covenant' (MAT.26.26-28). The heavenly register shows the Church Triumphant — Christ in glory flanked by Mary and the Baptist, with patriarchs, prophets, and apostles — the same assembly described in Hebrews 12:22-24: 'You have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable angels in festal gathering.' The earthly register shows the Church Militant — the Fathers and Doctors who articulated Eucharistic theology across the centuries. The vertical axis running from Father through Spirit through Son to the Eucharistic Host on the altar makes visible Paul's declaration: 'As often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes' (1CO.11.26). The Eucharist is simultaneously the memorial of Christ's sacrifice, the real presence of his body and blood, and the anticipation of the heavenly banquet.",
+  "scripture_refs": [
+    {
+      "ref": "MAT.26.26-28",
+      "relevance": "primary",
+      "reason": "The institution of the Eucharist at the Last Supper, the sacrament at the painting's center"
+    },
+    {
+      "ref": "1CO.11.23-26",
+      "relevance": "primary",
+      "reason": "Paul's Eucharistic tradition: proclaiming the Lord's death until he comes"
+    },
+    {
+      "ref": "JHN.6.53-56",
+      "relevance": "primary",
+      "reason": "Unless you eat the flesh of the Son of Man and drink his blood, you have no life"
+    },
+    {
+      "ref": "HEB.12.22-24",
+      "relevance": "typological",
+      "reason": "The heavenly Jerusalem, innumerable angels, and the assembly of the firstborn — the upper register"
+    },
+    {
+      "ref": "REV.5.6-14",
+      "relevance": "typological",
+      "reason": "The Lamb on the throne surrounded by elders and angels in heavenly worship"
+    }
+  ],
+  "scene_type": "liturgical",
+  "mood": [
+    "majestic",
+    "transcendent",
+    "reverent",
+    "intellectual"
+  ],
+  "period": "Gospel",
+  "_meta": {
+    "key": "0009701",
+    "title": "The Disputation of the Holy Sacrament",
+    "artist": "Raphael",
+    "model": "claude-opus-4-6"
+  }
+}
